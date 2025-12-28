@@ -1,8 +1,4 @@
 #!/bin/bash
-if [ $# -eq 0 ]; then
-    echo "pas de fichier indiqué"
-    exit 1
-fi
 
 mkdir -p dossiertextespropres
 
@@ -12,9 +8,10 @@ numerotation=1
 
 signes="[+*#__--]"
 
-while read -r url;
+for fichier in dumps-text/*;
 do
-    texte=$(lynx -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 "$url" | grep -viE "^\s*$signes|$signes.*$signes|BUTTON|IFRAME|Search|settings[[:space:]]+icon|share[[:space:]]+icon|Reklama|logo|Resources|Home|Menu|Strona[[:space:]]+główna|go!|^[-— =+]+$")
+    read -r url < "$fichier"
+    texte=$(cat "$fichier" | grep -viE "^\s*$signes|$signes.*$signes|BUTTON|IFRAME|Search|settings[[:space:]]+icon|share[[:space:]]+icon|Reklama|logo|Resources|Home|Menu|Strona[[:space:]]+główna|go!|^[-— =+]+$")
     texte=$(echo "$texte" | sed -E '
         s|https?://[^[:space:]]+||g
         s|(^\|[[:space:]])[a-zA-Z0-9-]+(\.[a-z0-9]+)+||g
@@ -24,4 +21,4 @@ do
     echo "$texte"> "$dossiertest/lien-$numerotation.txt"
     sleep 1
     ((numerotation++))
-done < "$fichier"
+done
