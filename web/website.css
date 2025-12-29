@@ -1,0 +1,167 @@
+﻿body {
+    font-family: Roboto, sans-serif;
+    background-color: #ffffff;
+    color: #1a1a1a;
+    margin: 0;
+    line-height: 1.6;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 5%;
+    border-bottom: 1px solid #eeeeee;
+}
+
+nav > div {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+#logo {
+    font-weight: 800;
+    letter-spacing: 1px;
+    color: #000;
+    font-size: 1.2rem;
+}
+
+.navbar-item, .navbar-link {
+    text-decoration: none;
+    color: #666;
+    font-size: 0.9rem;
+    transition: color 0.2s ease;
+    cursor: pointer;
+}
+
+.navbar-item:hover, .navbar-link:hover {
+    color: #000;
+}
+
+.has-dropdown {
+    position: relative;
+}
+
+.navbar-dropdown {
+    display: none;
+    position: absolute;
+    right: 0;
+    background: #fff;
+    border: 1px solid #eee;
+    padding: 0.5rem 0;
+    min-width: 120px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    z-index: 10;
+}
+
+.navbar-dropdown .navbar-item {
+    display: block;
+    padding: 0.5rem 1rem;
+}
+
+.is-hoverable:hover .navbar-dropdown {
+    display: block;
+}
+
+section {
+    max-width: 800px;
+    margin: 4rem auto;
+    padding: 0 2rem;
+}
+
+section#array {
+    max-width: 1000px;
+}
+
+.message-header h1 {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: #999;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+}
+
+.message-body {
+    font-size: 1.1rem;
+    color: #333;
+    text-align: justify;
+}
+
+.message-body strong {
+    color: #000;
+    border-bottom: 1px solid #000;
+}
+
+.jumbotron {
+    margin-bottom: 5rem;
+    overflow-x: auto;
+    padding-bottom: 10px;
+    -webkit-overflow-scrolling: touch;
+}
+
+.jumbotron::-webkit-scrollbar {
+    height: 4px;
+}
+
+.jumbotron::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+.jumbotron::-webkit-scrollbar-thumb {
+    background: #e0e0e0;
+    border-radius: 10px;
+}
+
+.jumbotron::-webkit-scrollbar-thumb:hover {
+    background: #cccccc;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2rem 0;
+    font-size: 0.85rem;
+    color: #333;
+    table-layout: fixed;
+}
+
+thead {
+    border-bottom: 2px solid #000;
+}
+
+th, td {
+    padding: 12px 8px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+    vertical-align: middle;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+th:nth-child(2), td:nth-child(2) {
+    width: 15%;
+}
+th {
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #000;
+}
+
+tbody tr:hover {
+    background-color: #fafafa;
+}
+
+td a {
+    color: #666;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+}
+
+td a:hover {
+    color: #000;
+    border-bottom: 1px solid #000;
+}
+
