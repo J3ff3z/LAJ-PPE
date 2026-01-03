@@ -1,8 +1,8 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 04:50:46 GMT server:
-mw-web.eqiad.main-8f8dcf6c-fswn6 x-content-type-options: nosniff
-content-language: fr accept-ch: last-modified: Sat, 03 Jan 2026 04:40:57 GMT
-content-type: text/html; charset=UTF-8 age: 41085 accept-ranges: bytes x-cache:
-cp6009 hit, cp6016 hit/11 x-cache-status: hit-front server-timing:
+HTTP/2 200 date: Sat, 03 Jan 2026 16:37:35 GMT server:
+mw-web.eqiad.main-8f8dcf6c-nl5gg x-content-type-options: nosniff
+content-language: ja accept-ch: last-modified: Sat, 20 Dec 2025 16:37:35 GMT
+content-type: text/html; charset=UTF-8 age: 50 accept-ranges: bytes x-cache:
+cp6014 miss, cp6016 hit/1 x-cache-status: hit-front server-timing:
 cache;desc="hit-front", host;desc="cp6016" strict-transport-security:
 max-age=106384710; includeSubDomains; preload report-to: { "group": "wm_nel",
 "max_age": 604800, "endpoints": [{ "url":
@@ -13,652 +13,351 @@ set-cookie: WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04
 Feb 2026 12:00:00 GMT set-cookie:
 WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;
 Expires=Wed, 04 Feb 2026 12:00:00 GMT set-cookie:
-WMF-DP=3f1;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+WMF-DP=42a;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
 x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7 cache-control: private,
 s-maxage=0, max-age=0, must-revalidate, no-transform vary:
 Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
 GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
 set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
 set-cookie:
-WMF-Uniq=NTh79aZC3N2psyvqGHNDSQLdAAAAAFvdec5dCOJkHytalGbJ7uuNLt_ZecyvCIrb;Domain
+WMF-Uniq=wkUTpJcbC56DBoPqIXG7cALdAAAAAFvdmTirUQYFUkdOwh6maaMD9VuNkD069Qkc;Domain
 =.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027
-00:00:00 GMT content-length: 158649 x-request-id:
-6598deee-2483-42af-98c9-7ff630cc5cc7 #Modifier Wikipédia (fr) Flux Atom de
-Wikipédia
+00:00:00 GMT content-length: 104236 x-request-id:
+4f5662d5-e72a-48ae-bfaf-6dcf50dcfcd5 #編集 Wikipedia (ja) Wikipediaの Atom フィード
 
-Aller au contenu
+コンテンツにスキップ
 
-[ ] Menu principal
-Menu principal
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-Navigation
-  * Page d’accueil
-  * Portails thématiques
-  * Article au hasard
-  * Contact
+[ ] メインメニュー
+メインメニュー
+(BUTTON) サイドバーに移動 (BUTTON) 非表示
+案内
+  * メインページ
+  * コミュニティ・ポータル
+  * 最近の出来事
+  * 新しいページ
+  * 最近の更新
+  * おまかせ表示
+  * 練習用ページ
+  * アップロード (ウィキメディア・コモンズ)
+  * 特別ページ
 
-Contribuer
-  * Débuter sur Wikipédia
-  * Aide
-  * Communauté
-  * Pages spéciales
-  * Modifications récentes
+ヘルプ
+  * ヘルプ
+  * 利用案内
+  * 井戸端
+  * お知らせ
+  * バグの報告
+  * ウィキペディアに関するお問い合わせ
 
-Wikipédia l'encyclopédie libre
-Rechercher
+Wikipedia
+検索
 ____________________
-(BUTTON) Rechercher
+(BUTTON) 検索
 
-[ ] Apparence
+[ ] 表示
 
-  * Faire un don
-  * Créer un compte
-  * Se connecter
+  * 寄付
+  * アカウント作成
+  * ログイン
 
-[ ] Outils personnels
-  * Faire un don
-  * Créer un compte
-  * Se connecter
+[ ] 個人用ツール
+  * 寄付
+  * アカウント作成
+  * ログイン
 
-Sommaire
+目次
 
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-  * Début
-  * 1 Étymologie
-  * 2 Christianisme
-(BUTTON) Afficher / masquer la sous-section Christianisme
-  + 2.1 Péché originel et péché effectif
-  + 2.2 Nouveau Testament
-  + 2.3 Pères de l'Église
-  + 2.4 Catholicisme
-  + 2.5 Protestantisme
-  * 3 Islam
-  * 4 Péché et droit
-  * 5 Notes et références
-  * 6 Voir aussi
-(BUTTON) Afficher / masquer la sous-section Voir aussi
-  + 6.1 Bibliographie
-  + 6.2 Articles connexes
-  + 6.3 Liens externes
+(BUTTON) サイドバーに移動 (BUTTON) 非表示
+  * ページ先頭
+  * 1 概説
+  * 2 具体例
+(BUTTON) 具体例サブセクションを切り替えます
+  + 2.1 カトリック教会のカテキズム
+  o 2.1.1 「大罪」と書かれている例
+  o 2.1.2 「重大な罪」と書かれている例
+  + 2.2 公教要理
+  + 2.3 カトリック小事典
+  * 3 脚注
+  * 4 関連項目
+  * 5 外部リンク
 
-[ ] Basculer la table des matières
+[ ] 目次の表示・非表示を切り替え
 
-Péché
+大罪
 
-[ ] 98 langues
-  * Acèh
-  * Afrikaans
-  * العربية
-  * Asturianu
-  * Aymar aru
+[ ] 25 個の言語版
   * Azərbaycanca
-  * Žemaitėška
-  * Bikol Central
-  * Беларуская
-  * Беларуская (тарашкевіца)
-  * Български
   * বাংলা
-  * Brezhoneg
-  * Буряад
-  * Català
-  * کوردی
   * Čeština
-  * Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ
-  * Cymraeg
-  * Dansk
   * Deutsch
-  * Ελληνικά
   * English
   * Esperanto
   * Español
-  * Eesti
   * Euskara
-  * فارسی
-  * Suomi
-  * Gàidhlig
-  * Galego
-  * 𐌲𐌿𐍄𐌹𐍃𐌺
-  * עברית
-  * हिन्दी
+  * Français
+  * Gaeilge
   * Hrvatski
-  * Magyar
-  * Հայերեն
-  * Interlingua
   * Bahasa Indonesia
-  * Ido
   * Italiano
-  * 日本語
-  * ಕನ್ನಡ
   * 한국어
-  * کٲشُر
-  * Kurdî
-  * Кыргызча
   * Latina
-  * Limburgs
-  * Lombard
-  * Lietuvių
-  * Latviešu
-  * Malagasy
-  * മലയാളം
-  * Bahasa Melayu
-  * مازِرونی
-  * नेपाल भाषा
   * Nederlands
-  * Norsk nynorsk
-  * Norsk bokmål
-  * Occitan
-  * ਪੰਜਾਬੀ
   * Polski
-  * پنجابی
   * Português
-  * Runa Simi
   * Română
   * Русский
-  * Русиньскый
-  * Саха тыла
-  * Sicilianu
-  * Scots
-  * Srpskohrvatski / српскохрватски
-  * Simple English
   * Slovenčina
-  * Slovenščina
-  * ChiShona
-  * Shqip
-  * Српски / srpski
   * Svenska
   * Kiswahili
-  * தமிழ்
-  * Тоҷикӣ
-  * ไทย
-  * Tagalog
-  * Türkçe
-  * Татарча / tatarça
-  * Українська
-  * اردو
-  * Oʻzbekcha / ўзбекча
-  * Vèneto
   * Tiếng Việt
-  * Winaray
-  * 吴语
-  * IsiXhosa
-  * ייִדיש
   * 中文
-  * 粵語
-
-Modifier les liens
-
-  * Article
-  * Discussion
-
-[ ] français
-
-  * Lire
-  * Modifier
-  * Modifier le code
-  * Voir l’historique
-
-[ ] Outils
-Outils
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-Actions
-  * Lire
-  * Modifier
-  * Modifier le code
-  * Voir l’historique
-
-Général
-  * Pages liées
-  * Suivi des pages liées
-  * Téléverser un fichier
-  * Lien permanent
-  * Informations sur la page
-  * Citer cette page
-  * Obtenir l'URL raccourcie
-  * Télécharger le code QR
-
-Imprimer / exporter
-  * Créer un livre
-  * Télécharger comme PDF
-  * Version imprimable
-
-Dans d’autres projets
-  * Wikimedia Commons
-  * Wikiquote
-  * Élément Wikidata
-
-Apparence
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-Un article de Wikipédia, l'encyclopédie libre.
-Page d’aide sur l’homonymie
-
-Pour l’article ayant un titre homophone, voir Pêcher.
-Page d’aide sur l’homonymie
-
-Pour les articles homonymes, voir Péché (homonymie).
-[330px-The_Fall_of_Man_by_Lukas_Cranach.jpg] La Chute de l'homme, 1510-1520,
-huile sur bois, Lucas Cranach l'Ancien.
-Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en savoir plus.
-Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en savoir plus.
-
-Le résumé introductif est trop court. En l'état, il ne respecte pas les
-recommandations (mai 2025).
-Vous pouvez le modifier en le développant.
-
-En religion, un péché est une offense faite à Dieu et une transgression
-délibérée ou non de la loi divine.
-
-Le péché matérialise le manque d'amour soit envers Dieu, soit envers l'autre (le
-prochain) ou soit envers soi-même. C’est une action, ou une abstention, ou une
-intention, effectuée en toute liberté pour commettre le mal, tel qu'il est
-défini par les principes religieux.
-
-Étymologie
-
-[modifier | modifier le code]
-
-Le mot « péché » vient du latin peccatum, « faute, erreur »^[1], lui-même
-dérivé du verbe peccare, qui signifie au sens premier « broncher, faire un faux
-pas »^[2]. Selon les linguistes Alfred Ernout et Antoine Meillet, « le sens
-donne lieu de penser que peccare serait dérivé d’un mot *pecco-, formé sur pes,
-« pied ». Mais pareil mot n’est pas attesté »^[2]. L'origine de peccare semble
-donc inconnue^[3].
-
-L'adjectif correspondant est peccamineux et a aussi donné impeccable^[4]. Cette
-étymologie se retrouve dans le mot peccadille, qui désigne une faute légère. Le
-mot italien qui désigne le péché est peccato.
-
-Le latin peccatum traduit généralement l'hébreu ḥattath (חַטָּאת) du Tanakh, qui
-signifie manque, manquement ; c'est l'image de manquer la cible, qui apparaît en
-Jg 20,16. Dans la Septante, les Juifs hellénisés d’Alexandrie l’ont traduit par
-hamartia (ἁμαρτία), terme repris dans le Nouveau Testament. Il signifie
-« égarement, erreur, faute », puis dans une interprétation théologique,
-« détournement, éloignement de Dieu »^[5]. L'étude du péché dans une perspective
-théologique se nomme l'hamartiologie^[6].
-
-Christianisme
-
-[modifier | modifier le code]
-Article détaillé : Péché dans le christianisme.
-[330px-Dirc_van_Delft_-_Sin_Personified_-_Walters_W17190R_-_Full_Page.jpg]
-Allégorie du Péché, enluminure d'un manuscrit de Dirc van Delf v. 1400.
-
-Péché originel et péché effectif
-
-[modifier | modifier le code]
-
-Le christianisme distingue deux notions : le péché originel et le péché
-effectif.
-
-Le péché originel est celui que tous les hommes héritent d’Adam. Il s’étend à
-tous les hommes sans qu'ils aient dû faire quoi que ce soit de mal. Dans cette
-vision, l'homme est originellement pécheur, à partir du moment de sa conception.
-Cette vision repose notamment sur le psaume 51:7 « Voici, je suis né dans
-l'iniquité, et ma mère m’a conçu dans le péché. »
-
-Le péché effectif est celui que commet matériellement un individu. L'apôtre Paul
-estime que les gens commettent des péchés effectifs parce que la nature
-originellement pécheresse, corrompue, est a priori en eux (Romains 7:14-23).
-
-Nouveau Testament
-
-[modifier | modifier le code]
-
-Selon Jésus, la racine des péchés se trouve dans le cœur des hommes d'où
-« procèdent mauvais desseins, meurtres, adultères, débauche, vols, faux
-témoignages, diffamations. » (Évangile selon Matthieu 15, 19-20).
-
-Paul de Tarse, dans sa première lettre, stigmatise ceux qui sont « remplis de
-toute injustice, de perversité, de cupidité, de malice, ne respirant qu'envie,
-meurtre, dispute, fourberie, malignité, diffamateurs, détracteurs, ennemis de
-Dieu, insulteurs, orgueilleux, fanfarons, ingénieux au mal, rebelles à leurs
-parents, insensés, déloyaux, sans cœur sans pitié », rappelant que « Dieu les
-déclare dignes de mort. » (Romains 1, 28-32). Dans une autre épître, Paul
-opposant les œuvres de la chair à celle de l'Esprit-Saint, écrit à propos des
-premières : « On sait bien tout ce que produit la chair, fornication, impureté,
-débauche, idolâtrie, magie, haine, discorde, jalousie, emportements, disputes,
-dissensions, scissions, sentiments d'envie, orgies, ripailles et choses
-semblables (…) ceux qui commettent ces fautes n'hériteront pas du Royaume de
-Dieu. » (Galates 5, 19-21).
-
-Pères de l'Église
-
-[modifier | modifier le code]
-
-La pensée chrétienne des premiers siècles sur les péchés s'est développée autour
-de la catéchèse baptismale pour les catéchumènes, la rémission pénitentielle des
-péchés commis après le baptême, la polémique contre les gnostiques puis les
-manichéens et la vie monastique. La Didachè et l’Épître de Barnabé opposent les
-deux voies, d'une part, celle de la vie et du salut, et de l'autre, celle du
-péché et de la perdition. Se posa rapidement l'attitude chrétienne à prendre
-concernant la remise des péchés de ceux qui retombaient après le pardon reçu
-lors du baptême. Cela conduisit à hiérarchiser l'importance des différentes
-formes de péchés, en distinguant ceux qui conduisent à la mort spirituelle à
-cause de leur gravité, de ceux quotidiens qui sont plus légers. Les Pères de
-l’Église, particulièrement ceux d'Orient comme Clément d'Alexandrie (150-215) et
-Origène (185-253), soulignèrent le rôle de la liberté comme cause volontaire des
-péchés. Ils combattirent à ce sujet les gnostiques qui distinguaient dans
-l'humanité, à côté de la classes psychique où la libre volonté intervenait, deux
-autres classes où elle n'intervenait pas, à savoir : celle hylique prédestinée
-à la perdition et celle pneumatique prédestinée au salut. Augustin s'appuyant
-sur la pensée néoplatonicienne développe la doctrine du péché, en
-approfondissant la nature du péché qui n'est pas une réalité mauvaise s'opposant
-au bien, mais une privation procédant du libre arbitre en l'absence du secours
-de la grâce divine^[7].
-
-Catholicisme
-
-[modifier | modifier le code]
-Articles détaillés : Péché dans le catholicisme et Péché capital.
-
-Le Catéchisme de l'Église catholique propose pour le péché la définition
-suivante : « une faute contre la raison, la vérité, la conscience droite ; il
-est un manquement à l’amour véritable, envers Dieu et envers le prochain, à
-cause d’un attachement pervers à certains biens. Il blesse la nature de l’homme
-et porte atteinte à la solidarité humaine. Il a été défini comme une parole, un
-acte ou un désir contraires à la loi éternelle »^[8].
-
-L'accueil par les hommes de la miséricorde divine réclame de leur part l'aveu de
-leurs péchés^[9]. Le sacrement de réconciliation permet à tous ceux qui ont
-péché de recevoir le pardon de Dieu par l'entremise d'un prêtre à qui ils
-confessent leur péché^[10].
-[330px-Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG]
-Jérôme Bosch (attr.), Les Sept Péchés capitaux et les Quatre Dernières Étapes
-humaines, v. 1500.
-
-L’Église catholique distingue à la suite de Jean Cassien et de Grégoire le Grand
-des péchés qu'elle qualifie de capitaux parce qu'ils sont générateurs d'autres
-péchés. Ce sont : la paresse, l’orgueil, la gourmandise, la luxure, l’avarice,
-la colère et l'envie^[11]. Cette classification à laquelle Cassien ajoutait la
-tristesse remonte au Testament des XII Patriarches (second siècle avant J.C.,
-premier siècle après J.-C.) et au Pasteur d'Hermas (début du second siècle après
-J.-C.) et à Origène^[12].
-
-Les péchés contre le commandement de ne pas tuer sont : l'homicide volontaire,
-l'avortement direct recherché comme fin et comme moyen, l'euthanasie et le
-suicide, ainsi que la participation à ces actions^[13]. Lors des guerres sont
-des péchés graves : les enlèvements, les prises d'otages, le terrorisme, la
-torture, les violences, les destructions massives, l'extermination d'un peuple
-et d'une minorité ethnique^[14]
-
-Les péchés graves contraires à la chasteté, qui est l'intégration réussie de la
-sexualité dans la relation de personne à personne sont : le viol, l'adultère, la
-fornication, la pornographie, la prostitution, la masturbation et les actes
-homosexuels^[15].
-
-Les offenses à la dignité du mariage sont : l'adultère, le divorce, la
-polygamie, l'union libre, l'acte sexuel avant le mariage et en dehors de
-lui^[16].
-
-En lien avec le commandement de ne pas voler, le catéchisme catholique cite :
-les salaires injustes, les fraudes fiscales et commerciales, l'usure, la
-corruption (même pratiquée par la [[Institut pour les œuvres de religion |Banque
-du Vatican]]), les contrefaçons de chèques et de factures, le travail mal fait
-et le gaspillage^[17].
-
-Le huitième commandement interdit : les faux témoignages, le parjure, le
-mensonge, la médisance, la diffamation, la flatterie, l'adulation et la
-complaisance^[18].
-
-La distinction entre péché véniel et péché mortel est une manière de
-hiérarchiser les péchés. Depuis le Moyen Âge, les catholiques distinguent le
-péché véniel, c'est-à-dire de faible importance ou commis sans se rendre compte
-du mal, et le péché mortel, d'importance grave et commis en connaissance de
-cause. Ce dernier péché est mortel pour la personne qui le commet dans le sens
-où il la coupe définitivement de la relation d'avec Dieu, ce qui la conduit en
-enfer si elle ne s'en repent pas. Si une personne peut juger qu’un acte est en
-soi une faute grave, elle doit confier le jugement des personnes à la justice et
-à la miséricorde de Dieu^[19].
-
-Protestantisme
-
-[modifier | modifier le code]
-
-Pour la théologie protestante, le péché n'est pas une faute morale, mais une
-orientation générale de la personne entière, qui touche tout le monde^[20].
-Comme dans le Nouveau Testament, les théologiens protestants parlermnt plutôt du
-péché plutôt que des péchés^[21]. Selon Kurt Buehlmann, Jésus s’adressait à un
-public juif et dans sa mentalité, « pécheur » signifiait personne simple, soit
-ceux qui n’étaient pas soumis à une haute obligation morale, vivant avant tout
-pour eux-mêmes^[22].
-
-Si le péché n'est pas moral, il est existentiel. Il est « l'attitude
-fondamentale de l'humain qui croit pouvoir se passer de Dieu et vivre par et
-pour lui-même^[23] ». Il est « mensonge essayant de persuader l'humain qu'il n'a
-nul besoin des autres et de Dieu. Il est recherche de la non-relation et conduit
-inéluctablement à la mort^[24] ».
-
-Kierkegaard a écrit : « C'est une des définitions capitales du christianisme que
-le contraire du péché n'est pas la vertu, mais la foi^[25] ». De la même
-manière, Emil Brunner a écrit :
-
-« Tout ce que l'homme fait par lui-même, même le meilleur, est affecté par le
-péché. Aux yeux des hommes, cela peut être bon; cela peut être, selon les normes
-humaines, noble et vertueux; devant le jugement de Dieu, cela ne peut pas
-subsister. C'est le péché.
-
-Il ne faut pas employer dans ce contexte la notion de dépravation totale qui
-prête à malentendu. La Bible ne nie pas qu'il y ait des hommes bons et des
-hommes mauvais. Elle ne nie pas qu'un incroyant et même un athée puissent faire
-du bien. Elle reconnaît les vertus des païens. Elle affirme que ces vertus sont
-péchés au regard de Dieu, aussi bien que le mal, parce qu'elles sont en dernière
-analyse produites par un cœur séparé de Dieu et possédé par l'amour de soi. Le
-péché n'est pas en premier lieu d'ordre moral, il est d'ordre religieux. »^[26]
-
-Islam
-
-[modifier | modifier le code]
-Cette section est vide, insuffisamment détaillée ou incomplète. Votre aide est
-la bienvenue ! Comment faire ?
-Article détaillé : Péchés capitaux en islam.
-  * Meurtre ;
-  * Sorcellerie ;
-  * Associationnisme.
-
-Péché et droit
-
-[modifier | modifier le code]
-
-Dans certains pays, la loi civile se confond avec la loi religieuse. Par
-exemple, la charia, en droit musulman, dès lors qu'un État la reconnaît comme sa
-loi nationale dans sa constitution.
-
-Notes et références
-
-[modifier | modifier le code]
- 1. ↑ Le Petit Robert (édition 2003).
- 2. ↑ ^a et b Alfred Ernout et Antoine Meillet, Dictionnaire étymologique de la
-langue latine : Histoire des mots, Klincksieck, 1967, 4^e éd., p. 491, s.v.
- 3. ↑ Michel Bénaben, Dictionnaire étymologique de l'espagnol, Ellipse, Paris,
-2000, (ISBN 2-7298-7986-2) p. 241.
- 4. ↑ Bénaben, 2000, p. 364.
- 5. ↑ Alliance biblique universelle, La Nouvelle Bible Segond, édition d'étude,
-Bibli’O, 2002, p. 1736-1737.
- 6. ↑ Voir par exemple Glaude Makensonn, « Entre honte et espoir: étude d'Adam
-d'un point de vue hamartiologique selon Romains 5:14 ».
- 7. ↑ Dictionnaire Encyclopédique du Christianisme Ancien, Paris, Cerf, 1990,
-p. 1961-1963
- 8. ↑ « Catéchisme de l'Église catholique - IntraText », sur vatican.va
-(consulté le 12 février 2023)
- 9. ↑ Catéchisme de l’Église Catholique, Paris, Mame Plon, 1992, n° 1849-1850 et
-n° 1847
-10. ↑ Catéchisme de l’Église catholique, vol. II, Paris, Mame Plon, 1992, n°
-1421 et n° 1446
-11. ↑ Catéchisme de l’Église Catholique, Paris, Mame Plon, 1992, n° 1866
-12. ↑ Dictionnaire Encyclopédique du christianisme Ancien, vol. II, Paris, Cerf,
-1990, p. 1964
-13. ↑ Compendium du Catéchisme de l’Église Catholique, Cotonou, Édition
-catholique du Bénin, 2005, n° 470
-14. ↑ Compendium du Catéchisme de l’Église Catholique, Cotonou, Édition
-catholique du Bénin, 2005, n° 477 et 485
-15. ↑ Compendium du Catéchisme de l’Église Catholique, Cotonou, Édition
-catholique du Bénin, 2005, n° 492
-16. ↑ Compendium du Catéchisme de l’Église Catholique, Cotonou, Édition
-catholique du Bénin, 2005, n°502
-17. ↑ Compendium du Catéchisme de l'Église catholique, Cotonou, Édition
-catholique du Bénin, 2005, n° 508
-18. ↑ Compendium du Catéchisme de l'Église catholique, Cotonou, Édition du
-Bénin, 2005, n°523
-19. ↑ Catéchisme de l’Église catholique, §1861
-20. ↑ Jean-Denis Kraege, « Péché », dans Pierre Gisel et Lucie Kaennel,
-Encyclopédie du protestantisme, Paris — Genève, Cerf — Labor et Fides, 1995
-(ISBN 2-8309-0791-4), p. 1143.
-21. ↑ André Gounelle, « Le péché », sur andregounelle.fr (consulté le 28 juin
-2024).
-22. ↑ Kurt Buehlmann, Économie de crise, alliance-ch, 2020.p.133.
-23. ↑ Birmelé 2008, p. 225.
-24. ↑ Birmelé 2008, p. 241.
-25. ↑ Søren Kierkegaard, Traité du désespoir, Paris, Folio, coll. « Essais »,
-2006, 251 p. (ISBN 2-07-032477-X), p. 169.
-26. ↑ Emil Brunner (trad. de l'allemand par Herrade Mehl), « Prédestination et
-liberté », Revue d'histoire et de philosophie religieuses, vol. 32, n^o 2,‎
-1952, p. 85 (lire en ligne, consulté le 28 juin 2024).
-
-Voir aussi
-
-[modifier | modifier le code]
-
-Sur les autres projets Wikimedia :
-  * péché, sur le Wiktionnaire
-  * peccamineux, sur le Wiktionnaire
-  * Dictionnaire de théologie catholique sur le péché, sur Wikisource
-  * Péché, sur Wikiquote
-
-Bibliographie
-
-[modifier | modifier le code]
-  * Gary A. Anderson, Sin. A History, New Haven, Yale University Press, 2009
-(ISBN 978-0-300-14989-0)
-  * André Birmelé, « le salut : Le péché et la grâce », dans André Birmelé,
-Pierre Bühler, Jean-Daniel Causse et Lucie Kaennel (dir.), Introduction à la
-théologie systématique, Genève, Labor et Fides, coll. « Lieux théologiques »
-(n^o 39), 2008 (ISBN 978-2-8309-1268-5).  Ouvrage utilisé pour la rédaction de
-l'article
-
-Articles connexes
-
-[modifier | modifier le code]
-
-Religions
-  * Péché dans le christianisme
-  * Péché dans le catholicisme
-  * Péché dans le judaïsme
-  * Péché dans l'islam
-  * Tsumi (shintoïsme)
-
-Types de péchés
-  * Adultère
-  * Avarice
-  * Colère
-  * Concupiscence
-  * Cruauté
-  * Envie
-  * Gourmandise
-  * Jalousie
-  * Luxure
-  * Orgueil
-  * Paresse
-
-Autres
-  * Arbre de la connaissance du bien et du mal
-  * Chute (Bible)
-  * Culpabilité
-  * Décalogue
-  * Diable
-  * Fruit défendu
-  * Mal
-  * Morale
-  * Pardon
-  * Péché capital
-  * Péché originel
-  * Péchés philosophique et théologique
-  * Rédemption
-  * Relaps
-  * Repentance
-  * Tentation
-  * Transgression
-  * Théologie morale
-  * Vertu
-  * Vice
-
-Liens externes
-
-[modifier | modifier le code]
-
-  *
-  *
-  * Notices dans des dictionnaires ou encyclopédies généralistes Voir et
-modifier les données sur Wikidata  :
-  + Britannica
-  + Den Store Danske Encyklopædi
-  + Enciclopedia De Agostini
-  + Gran Enciclopèdia Catalana
-  + Internetowa encyklopedia PWN
-  + Nationalencyklopedin
-  + Store norske leksikon
-  + Treccani
-  + Universalis
-  * Notices d'autorité Voir et modifier les données sur Wikidata  :
-  + BnF (données)
-  + LCCN
-  + GND
-  + Espagne
-  + Israël
-  + Tchéquie
-  * Les péchés et leurs espèces principales
-
-  * icône décorative Portail des religions et des croyances
-
-Ce document provient de
-« https://fr.wikipedia.org/w/index.php?title=Péché&oldid=232075793 ».
-Catégorie :
-  * Péché
-
-Catégories cachées :
-  * Article à mieux introduire
-  * Article avec une section vide ou incomplète
-  * Page utilisant un modèle Bases inactif
-  * Page utilisant P1417
-  * Page utilisant P8313
-  * Page utilisant P6706
-  * Page utilisant P1296
-  * Page utilisant P7305
-  * Page utilisant P3222
-  * Page utilisant P4342
-  * Page utilisant P3365
-  * Page utilisant P3219
-  * Page pointant vers des bases externes
-  * Page pointant vers des dictionnaires ou encyclopédies généralistes
-  * Article de Wikipédia avec notice d'autorité
-  * Portail:Religions et croyances/Articles liés
-
-  * La dernière modification de cette page a été faite le 3 janvier 2026 à
-05:40.
-  * Droit d'auteur : les textes sont disponibles sous licence Creative Commons
-attribution, partage dans les mêmes conditions ; d’autres conditions peuvent
-s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que
-les crédits graphiques. En cas de réutilisation des textes de cette page, voyez
-comment citer les auteurs et mentionner la licence.
-Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation
-de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
-
-  * Politique de confidentialité
-  * À propos de Wikipédia
-  * Avertissements
-  * Contact
-  * Contacts juridiques & sécurité
-  * Code de conduite
-  * Développeurs
-  * Statistiques
-  * Déclaration sur les témoins (cookies)
-  * Version mobile
+
+リンクを編集
+
+  * ページ
+  * ノート
+
+[ ] 日本語
+
+  * 閲覧
+  * 編集
+  * 履歴を表示
+
+[ ] ツール
+ツール
+(BUTTON) サイドバーに移動 (BUTTON) 非表示
+操作
+  * 閲覧
+  * 編集
+  * 履歴を表示
+
+全般
+  * リンク元
+  * 関連ページの更新状況
+  * ファイルをアップロード
+  * この版への固定リンク
+  * ページ情報
+  * このページを引用
+  * 短縮URLを取得する
+  * QRコードをダウンロード
+
+印刷/書き出し
+  * ブックの新規作成
+  * PDF 形式でダウンロード
+  * 印刷用バージョン
+
+他のプロジェクト
+  * ウィキデータ項目
+
+表示
+(BUTTON) サイドバーに移動 (BUTTON) 非表示
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+
+大罪（だいざい^[1]、ラテン語: peccatum mortale、英: mortal
+sin）とは、カトリック教会における罪の区分の一つで、大きなことがらについて、それが神の御心に反する悪いことであると知りつつ、それを望み、行うこと^[2]。
+ラテン語での元の意味は「死に至る罪」で、これはこの世の死を意味するものではなく、神の恵みの状態を失うことによって地獄という永遠の死を招くという意味である^[3]
+。
+
+概説
+
+[編集]
+
+カトリック教会では伝統的に小罪（しょうざい、羅: peccatum veniale、英: venial
+sin）と大罪という罪の区分をしてきた。これは新約聖書のヨハネの手紙一5章16-17節に書かれている「死に至らない罪」と「死に至る罪」を根拠としている^[4]
+。罪が大罪となるには、「重大なことがらについて」「しかも、はっきり意識して」「意図的に行われた」という三つの条件がそろわなければならない^[5]。
+
+『カトリック教会のカテキズム』によると、「重大なことがら」とは、「殺すな、姦淫するな、盗むな、偽証するな、奪い取るな、父母を敬え（マルコによる福音書10章19
+節）」など十戒に明示されているものである。大罪にも軽重があって、たとえば殺人は盗みよりも重く、肉親に対する暴力は他人に対する暴力よりも重くなるとしている^[6]
+。また、大罪になるためには、行おうとしていることが罪であり神のおきてに反するということをあらかじめ知っていて、かつ熟慮の末に本人自身が認識したうえで行われた
+ものであるということも前提となる。しかし、「無知を装い心をかたくなにして行われたものは、その人の罪はますます重いものになる」として、偽装された無知は大罪の成
+立阻害にはあたらないとしている^[7]。
+
+さらに小罪についても、『カトリック教会のカテキズム』では「意図的に小罪を犯し、悔い改めないままでいると、徐々に大罪を犯す傾向へと流されていきます^[8]。」
+と説明している。
+
+大罪は、人間の自由意思によって選び取ることが可能なものであり、それによって愛を喪失させ、恵みの状態を失わせてしまう。そのため、悔い改めと神のゆるしによって取
+り除かれない限り、地獄という永遠の死を招くことになる、と教えている^[3]。通常の方法では、大罪は洗礼の秘跡またはゆるしの秘跡によってゆるされる^[9]。大
+罪を犯したことを意識しているカトリック信者は、聖体拝領の前に罪を告白してゆるしの秘跡を受けなければならないとされている^[10]^[11]。
+
+具体例
+
+[編集]
+
+『カトリック教会のカテキズム』などの教理書では、様々な罪について説明しており、大罪の具体例が多数示されている。
+
+カトリック教会のカテキズム
+
+[編集]
+
+『カトリック教会のカテキズム』の日本語版（2002年出版）では、第3編第2部「神の十戒」の部で十戒に沿って様々な罪について説明しているが、その中で「大罪」や
+「重大な罪」という表現が複数使われている。
+
+「大罪」と書かれている例
+
+[編集]
+  * 聖体に対する涜聖^[12]（聖体を不当に扱う）
+  * 冒涜（神に対する憎しみや非難、挑発、神のみ名を濫用することなど）^[13]
+  * 主日の義務^[14]を故意に守らないこと^[15]
+  * 妊娠中絶に直接協力すること^[16]
+  * 他人を意図的に大罪に巻き込むようなつまづき^[17]
+  * 飲酒運転やスピードに酔いしれることによって、他人や自分の安全を危険にさらすこと^[18]
+  * （治癒的処方以外の）麻薬使用^[19]
+  * 怒りのあまり隣人を殺したり重傷を負わせたりすること^[20]
+  * 意図的な憎しみにより、熟考の上で隣人に大きな危害を加えたいと望むこと^[21]
+  * ポルノ^[22]
+  * 売（買）春^[23]
+  * 重大な悪徳もしくは罪に加担するような場合のへつらい^[24]
+  * ねたみによって他人の上に大きな不幸を望むこと^[25]
+
+「重大な罪」と書かれている例
+
+[編集]
+  * まじない、妖術^[26]
+  * 偽りの誓い、誓約違反^[27]
+  * 殺人^[28]（安楽死も殺人行為にあたるとしている^[29]）
+  * 私通^[30]（結婚していない男女の性交）
+  * 強姦^[31]
+  * 離婚^[32]
+  * 姦通、一夫多妻、同棲^[33]
+  * 不当な賭けごと、いかさま賭博^[34]（ただし、与えた損害が些少で、損害を受けた者もそれを重視しているとは考えられない場合を除く）
+  * 偽証^[35]
+
+しかし、これらのほとんどは、ラテン語規範版では、小罪と区別して「死に至る罪」を意味する"peccatum mortale" ではなく"peccatum est
+grave","culpam constituit gravem"（英語版では"grave sin","grave offense","grave
+matter"＝「重大な罪」「重大なつまずき」「重大なことがら」）などの言葉で表現されている。前述の通り、これらのことが罪であり神の掟に反するということを予
+め知っていて、かつ熟慮の末に本人自身が認識した上で行われたものであるときに「大罪（死に至る罪）」となる。
+
+ただし、これらの罪の中でも怒り^[20]とねたみ^[25]による罪についての2箇所は、『カトリック教会のカテキズム』のラテン語規範版でも"peccatum
+mortale"（死に至る罪）と書かれている。
+また、嘘はそれ自体は小罪だが、「正義や愛の徳を甚だしく損なう場合には大罪になります^[36]。」としており、この箇所も"mortale"
+の語が使われている。
+
+公教要理
+
+[編集]
+
+この他、『公教要理』（1952年初版）や『聖ピオ十世公教要理詳解（英語版）』（日本語版、1974年出版）には、以下の具体例も大罪であると書かれている。
+  * 主日に已む得ない事情なしに重い労働をすること（『公教要理詳解』^[37]）
+  * 告解で故意に大罪を隠すこと（『公教要理』^[38]）
+  * 大罪があると知りながら、聖体拝領をすること（『公教要理』^[39]）
+  * 子供への洗礼の秘跡を授けさせないこと、故意に遅らせること（『公教要理詳解』^[40]）
+  * 教会で結婚の秘跡に与らずに夫婦行為をすること（『公教要理』^[41]、『公教要理詳解』^[42]）
+
+カトリック小事典
+
+[編集]
+
+1986年初版発行の『カトリック小事典』（ジョン・ハードン（英語版）編）には、以下の具体例も大罪であると書かれている。
+  * 自慰^[43]
+  * 父母を殴ること^[44]
+  * 他人の名声を失わせるために嘘をつくこと^[44]
+
+なお、"mortal sin" と"grave sin"
+の違いについて、『カトリック小事典』では「"mortal","deadly"（死に至らせる）罪という場合、罪人の受ける結果に焦点をおく。すなわち、神との友好
+状態を失うことである。"grave","serious"（重）罪という場合、重大な事柄について神に背くという点が強調される。しかし、教会は、上に述べた用語が
+別種の罪を指すものとして、決して区別して用いない」と説明する^[44]。
+
+脚注
+
+[編集]
+ 1. ^ 大山 繁『カトリック要理Q&A』サンパウロ、2014年、54頁。ISBN 978-4-8056-1523-2。
+ 2. ^ 日本カトリック司教協議会 監修『カトリック教会の教え』218頁 カトリック中央協議会 ISBN 978-4877501068
+ 3. ^ ^a ^b 『カトリック教会のカテキズム』 #1861（日本語版555頁） カトリック中央協議会 ISBN 978-4877501013
+ 4. ^ 日本カトリック司教協議会 監修『カトリック教会の教え』291頁
+ 5. ^ 『カトリック教会のカテキズム』 #1857（日本語版554頁）
+ 6. ^ 『カトリック教会のカテキズム』 #1858（日本語版554-555頁）
+ 7. ^ 『カトリック教会のカテキズム』 #1859（日本語版555頁）
+ 8. ^ 『カトリック教会のカテキズム』 #1863（日本語版555-556頁）
+ 9. ^ 『カトリック教会のカテキズム 要約（コンペンディウム）』206頁 カトリック中央協議会 ISBN 978-4877501532
+10. ^ 『カトリック教会のカテキズム』 #1385（日本語版422頁）
+11. ^ 「カトリック教会のカテキズム 要約（コンペンディウム）」162頁、167頁
+12. ^ 『カトリック教会のカテキズム』 #2120（日本語版627頁）
+13. ^ 『カトリック教会のカテキズム』 #2148（日本語版633頁）
+14. ^ 主日（日曜日）にミサに行くこと。
+15. ^ 『カトリック教会のカテキズム』 #2181（日本語版641頁）
+16. ^ 『カトリック教会のカテキズム』 #2272（日本語版666頁）
+17. ^ 『カトリック教会のカテキズム』 #2284（日本語版669頁）
+18. ^ 『カトリック教会のカテキズム』 #2289（日本語版670頁）
+19. ^ 『カトリック教会のカテキズム』 #2291（日本語版670頁）
+20. ^ ^a ^b
+「もし、怒りのあまり隣人を殺したり重傷を負わせたりすることを熟考の上で望むまでになれば、それは甚だしく愛に背くものであり、大罪となります。」
+『カトリック教会のカテキズム』 #2302（日本語版673頁）
+21. ^ 『カトリック教会のカテキズム』 #2303（日本語版673頁）
+22. ^ 『カトリック教会のカテキズム』 #2354（日本語版683-684頁）
+23. ^ 『カトリック教会のカテキズム』 #2355（日本語版684頁）
+24. ^ 『カトリック教会のカテキズム』 #2480（日本語版714頁）
+25. ^ ^a ^b 「ねたみは罪源の一つに数えられています。･･･（中略）･･･他人の上に大きな不幸を望むようなときには、大罪となります。」
+『カトリック教会のカテキズム』 #2539（日本語版727頁）
+26. ^ 『カトリック教会のカテキズム』 #2117（日本語版627頁）
+27. ^ 『カトリック教会のカテキズム』 #2163（日本語版636頁）
+28. ^ 『カトリック教会のカテキズム』 #2268、#2320（日本語版664、677頁）
+29. ^ 『カトリック教会のカテキズム』 #2277、#2324（日本語版667、677頁）
+30. ^ 『カトリック教会のカテキズム』 #2353（日本語版683頁）
+31. ^ 『カトリック教会のカテキズム』 #2356（日本語版684頁）
+32. ^ 『カトリック教会のカテキズム』 #2384（日本語版691頁）
+33. ^ 『カトリック教会のカテキズム』 #2400（日本語版694頁）
+34. ^ 『カトリック教会のカテキズム』 #2413（日本語版698頁）
+35. ^ 『カトリック教会のカテキズム』 #2476（日本語版713頁）
+36. ^ 『カトリック教会のカテキズム』 #2484（日本語版714頁）
+37. ^ 『公教要理詳解』396-398
+38. ^ 中央出版『公教要理』476
+39. ^ 中央出版『公教要理』第五十九課、聖体拝領、443
+40. ^ 『公教要理詳解』562-564
+41. ^ 中央出版『公教要理』526
+42. ^ 『公教要理詳解』853-855
+43. ^ 『カトリック小事典』ジョン・ハードン編 エンデルレ書店、三版2000年（初版1986年）pp.112-113
+44. ^ ^a ^b ^c 『カトリック小事典』ジョン・ハードン編 エンデルレ書店、三版2000年（初版1986年）p.207
+
+関連項目
+
+[編集]
+  * 七つの大罪
+  * 七元徳
+  * 自罪
+
+外部リンク
+
+[編集]
+  * カトリック教会のカテキズム（ラテン語規範版）、（英語版） ローマ教皇庁公式サイト
+
+典拠管理データベース ウィキデータを編集
+国立図書館
+  * アメリカ
+  * チェコ
+  * イスラエル
+
+ その他
+  * Yale LUX
+
+「https://ja.wikipedia.org/w/index.php?title=大罪&oldid=105358558」から取得
+カテゴリ:
+  * カトリックの教義
+  * キリスト教の罪悪論
+  * 罪
+
+隠しカテゴリ:
+  * ISBNマジックリンクを使用しているページ
+
+  * 最終更新 2025年6月25日 (水) 17:57 （日時は個人設定で未設定ならばUTC）。
+  * テキストはクリエイティブ・コモンズ
+表示-継承ライセンスのもとで利用できます。追加の条件が適用される場合があります。詳細については利用規約を参照してください。
+
+  * プライバシー・ポリシー
+  * ウィキペディアについて
+  * 免責事項
+  * 行動規範
+  * 開発者
+  * 統計
+  * Cookieに関する声明
+  * モバイルビュー
 
   * Wikimedia Foundation
   * Powered by MediaWiki
 
-(BUTTON) Rechercher
+(BUTTON) 検索
 ____________________
-(BUTTON) Rechercher
+(BUTTON) 検索
 
-[ ] Basculer la table des matières
-Péché
-(BUTTON) 98 langues Ajouter un sujet
+[ ] 目次の表示・非表示を切り替え
+大罪
+(BUTTON) 25 個の言語版 話題を追加

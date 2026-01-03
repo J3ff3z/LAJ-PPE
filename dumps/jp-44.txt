@@ -1,0 +1,87 @@
+HTTP/2 200 content-type: text/html; charset=utf-8 cache-control: max-age=5 etag:
+W/"16378-MhjjtBac14ACeODWoCfmLHXHvCI" server-timing: data; dur=57, rendering;
+dur=7, total; dur=65.986312; desc="Total Response Time"
+x-envoy-upstream-service-time: 66 x-envoy-decorator-operation:
+public-web.blog.svc.cluster.local:8080/* x-is-default-ttl: false x-cdn-ttl:
+86400.000 accept-ranges: bytes age: 596 date: Sat, 03 Jan 2026 16:42:49 GMT
+x-timer: S1767458570.643015,VS0,VE1 vary:
+Origin,Accept-Encoding,X-User-Agent,X-Loading server-timing: HIT-CLUSTER,
+fastly;desc="Edge time";dur=1 timing-allow-origin: * x-content-type-options:
+nosniff content-security-policy: upgrade-insecure-requests x-user-agent: desktop
+x-loading: ?0 origin-trial:
+AgkzE0SdPqccfaG9xo/nbroJVd9BqLU0uZCCQbV46yVUMHh4r8RDCAWLKP8BgMPiXpQLpE/b2F9w+bJK
+wTj9Zg8AAAB1eyJvcmlnaW4iOiJodHRwczovL2FtZWJsby5qcDo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1
+bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4i
+OnRydWV9 accept-ch: Sec-CH-UA-Full permissions-policy: ch-ua-full=*
+content-length: 91000 #RSS alternate alternate alternate
+
+天つ罪 | なずなず日記
+
+Ameba ホームピグアメブロ
+芸能人ブログ人気ブログ
+新規登録
+ログイン
+
+なずなず日記
+
+昔から＆日頃から気になってる事を徒然なるままにだらだらと書き綴ったエッセイ風blogです。
+
+  * ブログトップ
+  * 記事一覧
+  * 画像一覧
+  * 動画一覧
+
+____________________
+(BUTTON)
+
+天つ罪
+
+神社で神主が唱える「大祓(おおはらえ）」の「祝詞(のりと）」の中に、「天つ罪(あまつつみ）」「国つ罪(くにつつみ）」という言葉が出てきます。
+「天つ罪」は、『古事記』や『日本書紀』に記される、スサノオノミコトが高天原で犯した行為に由来するとされています。
+犯したら太陽が出て来なくなるような重い罪です。
+「畔放(あはなち）」「溝埋(みぞうめ）」「樋放(ひはなち）」「頻播(しきまき）」「串刺(くしさし）」などの５つは、稲作の妨害を罪とするものです。
+田に引いた水を故意に外に流したり、他人の田畑に上から種を蒔いたりしてはいけない、という戒めです。
+稲作を大切にする日本人らしい罪の意識だと思います。
+もう一つ、「糞(くそへ）」という、いかにも不浄な罪があります(^_^;)。
+神聖な場所を汚物で汚してはいけないという戒めです。
+さて、いきなり私が「天つ罪」について書いたのは、残る２つの罪についてお伝えしたかったからです。
+残る２つは、「生剥(いきはぎ）」と「逆剥(さかはぎ）」です。
+「生剥」とは、生きたまま動物の皮を剥ぐ罪、あるいは動物の皮を剥いで殺す罪です。
+「逆剥」とは、既に死んでいる動物の皮を剥ぐ時、正しい方向(頭→尻）ではなく、逆(尻→頭）に剥ぐ罪です。
+犯すと太陽が輝かなくなってしまうほどの重い罪として、動物に苦痛を与えることを禁じている古代日本人の心に、私は感動してしまいます。
+冬になると、ファーをオシャレな小道具に使ったファッションが増えて、見ていて辛くなります(>_<)。
+ほとんどの毛皮が生きたままの動物から剥ぎ取っていると知り、ファーの付いた洋服が置いてある店に入れなくなってしまいました(-_-)。
+動物に恐怖と苦痛の極みを与えながら、血しぶきと悲鳴の中で剥ぎ取られた毛皮は、この世で１番可哀相な動物の屍にしか見えません。
+欧米では、既にリアルファーを止めるムーブメントが起きています。
+しかし、日本では、まだ冬のファッションアイテムとしてもてはやされています。
+動物の皮を生きたまま剥ぐことを「天の大罪」と考えた日本人の子孫として、この状況を看過して良いと思えません(-.-;)。
+「国つ罪」は、世の中に汚れを生じ、天変地異を 引き起こす原因になる罪です。
+ある種の病気や雷など、現代人には全く罪とは思えないものもありますが、傷害罪・傷害致死罪や近親相姦の罪なども含まれます。
+その中にも「畜たおし(けものたおし）」という罪があります。
+家畜を殺傷する罪です。
+古代日本人が動物をどれだけ大切にしていたかがわかります。
+キリスト教には「七つの大罪」という罪の考えがあります。
+「傲慢」「嫉妬」「憤怒」「怠惰」「強欲」「暴食」「色欲」です。
+犯罪というより、精神の持ち様を示しているようです。
+仏教にも「八戒斎」という戒めがあります。
+「不殺生戒」「不偸盗戒」「不婬戒」「不妄語戒」「不飲酒戒」「不香油塗身戒」「不歌舞観聴戒」「不高広大床戒」。
+お酒を飲まない、広くゆったりしたベッドで寝ない…など、修行をする出家者のタブーを決めています。
+キリスト教も仏教も、それぞれの宗教において信徒に求めることを決めていますが、同じ宗教でも日本の神道は人間と自然、人間と動物との正しい付き合い方に言及していま
+す。
+私は、神道のそういう考えが好きです。
+それが大和魂だと思います。
+いにしえの日本人の心に立ち返り、動物虐待も残酷な作り方をした毛皮の購入(輸入）も無い国にしたいです。
+
+  * ブログトップ
+  * 記事一覧
+  * 画像一覧
+
+Copyright © CyberAgent, Inc. All Rights Reserved. CyberAgent
+  * スパムを報告
+  * お問い合わせ
+  * 利用規約
+  * アクセスデータの利用
+  * 特定商取引法に基づく表記
+  * ヘルプ
+
+IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N49WWL

@@ -1,0 +1,641 @@
+HTTP/2 200 server: nginx date: Sat, 03 Jan 2026 16:47:27 GMT content-type:
+text/html; charset=utf-8 vary: Accept-Encoding cache-control: no-cache,
+no-store, must-revalidate content-security-policy: report-uri /v1/csplog;
+block-all-mixed-content; frame-ancestors https://*.grupawp.pl
+https://*.kube.dev.dcwp.pl; expires: 0 link:
+/www.money.pl/ZXkucGwudTkKFxV0WA54LElPQSQHHQUrHxFBa1UqeGJJKjwYKCoFBzQqPBgoKgUHNC
+o8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKC
+oFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNC
+o8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKC
+oFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNC
+o8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKC
+oFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNC
+o8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKC
+oFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNC
+o8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKC
+oFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPBgoKgUHNCo8GCgqBQc0KjwYKCoFBzQqPGVbVy96UV
+dMJhMDdTsEGwUuEFozNgccDSJYET8rAAEMN1oYNTYODE03G1swK0kI>; rel=preload; as=script;
+crossorigin=anonymous link:
+/www.money.pl/Z29mZXIudVNYDyxrZg54RhtXeDs5HQVBTQl4dGsqeAgbMgUHFioFbWYyBQcWKgVtZj
+IFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFi
+oFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZj
+IFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFi
+oFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZj
+IFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFi
+oFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZj
+IFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFi
+oFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZj
+IFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFi
+oFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZj
+IFBxYqBRAVTy96c1d1RUkHKTQgF2wdTh0wKyUcOB9eAjw9O1swQRsQ>; rel=modulepreload;
+as=script; crossorigin=anonymous link:
+/www.money.pl/a3RvcC5jTlIzFBVwGhFDR3BMQSBFAj5UPRAGMRdGQ2xwTEEcajU-bA0pPBxqNT5sDS
+k8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PmwNKTwcaj
+U-bA0pPBxqNT5sDSk8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PmwNKTwcajU-bA0pPBxqNT5sDS
+k8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PmwNKTwcaj
+U-bA0pPBxqNT5sDSk8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PmwNKTwcajU-bA0pPBxqNT5sDS
+k8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PmwNKTwcaj
+U-bA0pPBxqNT5sDSk8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PmwNKTwcajU-bA0pPBxqNT5sDS
+k8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PmwNKTwcaj
+U-bA0pPBxqNT5sDSk8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PmwNKTwcajU-bA0pPBxqNT5sDS
+k8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PmwNKTwcaj
+U-bA0pPBxqNT5sDSk8HGo1PmwNKTwcajU-bA0pPBxqNT5sDSk8HGo1PhF-VBZhD0hOQz5YDixbDxgdJQ
+EUbEcPDVYzBQZsQ1tPBmNBTXcaCxNHOxUPJhgOBEA5AgwzGwkSQHAL>; rel=preload; as=style;
+link:
+/www.money.pl/bW9uLmNzTTZYFzpeYQFAIxtPbg4-Ej0wVhMpH2xWQAgbT24yESU9CGYqEzIRJT0IZi
+oTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQhmKhMyES
+U9CGYqEzIRJT0IZioTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQhmKhMyESU9CGYqEzIRJT0IZi
+oTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQhmKhMyES
+U9CGYqEzIRJT0IZioTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQhmKhMyESU9CGYqEzIRJT0IZi
+oTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQhmKhMyES
+U9CGYqEzIRJT0IZioTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQhmKhMyESU9CGYqEzIRJT0IZi
+oTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQhmKhMyES
+U9CGYqEzIRJT0IZioTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQhmKhMyESU9CGYqEzIRJT0IZi
+oTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQhmKhMyES
+U9CGYqEzIRJT0IZioTMhElPQhmKhMyESU9CGYqEzIRJT0IZioTMhElPQgbWW4YbEBAeEkZYgAhFAcuFw
+I7GmEIBztcFD8IYQxTeQxEe0N6VQMlTRwvAStXAThUGCMDYBkRJBsI>; rel=preload; as=style;
+link:
+/www.money.pl/ZW1lLmNzdTZQDjpeYQF4IxNWbg4-EgUwXgopH2xWeAgTVm4yESUFCG4zEzIRJQUIbj
+MTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyES
+UFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG4zEzIRJQUIbj
+MTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyES
+UFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG4zEzIRJQUIbj
+MTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyES
+UFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG4zEzIRJQUIbj
+MTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyES
+UFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG4zEzIRJQUIbj
+MTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyES
+UFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG4zEzIRJQUIbjMTMhElBQhuMxMyESUFCG5OYE87WGB1Hh
+wgQyMVNDJIQjsaOVUoMl0JLR4rVSxmH1l9WmBOdSNZCSEIYBkpJBMR>; rel=preload; as=style;
+link: /securepubads.g.doubleclick.net/tag/js/gpt.js>; rel=preload; as=script;
+link: /imasdk.googleapis.com/js/sdkloader/ima3.js>; rel=preload; as=script;
+link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: ; rel=dns-prefetch;
+link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: ; rel=dns-prefetch;
+link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: ; rel=dns-prefetch;
+link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: ; rel=dns-prefetch;
+link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: ; rel=dns-prefetch;
+link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: ; rel=dns-prefetch;
+link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: /v.wpimg.pl>;
+rel=preconnect; link: /www.wp.pl>; rel=preconnect; link: /onelogin.wpcdn.pl>;
+rel=preconnect; link: /fonts.wpcdn.pl>; rel=preconnect; link:
+/securepubads.g.doubleclick.net>; rel=preconnect; link:
+/www.googletagservices.com>; rel=preconnect; pragma: no-cache referrer-policy:
+no-referrer-when-downgrade wp-session-id: afa4024f-c08c-4f2b-8b68-e600c7d70078
+x-content-type-options: nosniff x-frame-options: SAMEORIGIN x-xss-protection: 1;
+mode=block accept-ch: device-memory, dpr, width, viewport-width, rtt, downlink,
+ect, sec-ch-ua, sec-ch-ua-platform, sec-ch-ua-mobile,
+sec-ch-ua-full-version-list, sec-ch-ua-platform-version, sec-ch-ua-arch,
+sec-ch-ua-bitness, sec-ch-ua-model accept-ch-lifetime: 604800 x-op-id-all: 2f1s
+#Money.pl RSS
+
+[ ]
+  * ( ) Giełda Giełda
+Giełda
+  + Notowania GPW
+  + Spółki GPW
+  + Porównanie spółek
+  + Giełda na żywo
+  + Giełdy światowe
+  + Komunikaty ESPI
+  + Surowce
+  + Narzędzia giełdowe
+  * ( ) Waluty Waluty
+Waluty
+  + Kursy walut
+  + Kalkulator walutowy
+  + Bitcoin
+  + Forex
+  + Depozyty
+  * ( ) Biznes Biznes
+Biznes
+  + Jak założyć firmę
+  + Faktoring dla firm
+  + Poradniki
+  + PKD
+  + PKWiU
+  * Mobility
+  * ( ) Praca Praca
+Praca
+  + Oferty pracy
+  + Wynagrodzenia
+  + Kalkulator PPK
+  + Kalkulator wynagrodzeń
+  * ( ) Gospodarka Gospodarka
+Gospodarka
+  + BizTech
+  + Ekologia, OZE, ESG
+  + Nieruchomości i budownictwo
+  + Emerytury
+  + Prawo
+  + Kariera i rynek pracy
+  + Finanse osobiste
+  * ( ) Kalkulatory Kalkulatory
+Kalkulatory
+  + Kalkulator urlopu macierzyńskiego
+  + Kalkulator odsetkowy
+  + Kalkulator zakupów na firmę
+  + Kalkulator składek ZUS
+  + Kalkulator wynagrodzenia za pracę w nadgodzinach
+  + Kalkulator dat
+  + Kalkulator wynagrodzenia chorobowego
+  + Kalkulator ekwiwalentu za urlop wypoczynkowy
+  + Kalkulator stażu pracy
+  + Kalkulator kredytu hipotecznego
+  + Kalkulator składek ZUS dla działalności gospodarczej
+  * ( ) Strefa money Strefa money
+Strefa money
+  + Biznes Klasa
+  + Program Money
+  + Nagroda Money
+  + Pomysł Na Dom
+  + Stan gospodarki
+  + Wybory parlamentarne 2023
+  + Obietnice wyborcze 2023
+  + Money Insights
+  + Business Experts Content
+  * ( ) Wydarzenia Wydarzenia
+Wydarzenia
+  + Greenpact 2024
+  + Game Industry Conference
+  + Impact
+  + Forum Ekonomiczne
+  + Krynica Forum
+  + Szczyt Klimatyczny Togetair
+  + Zapytaj Notariusza
+  + Rynek nieruchomości - INPON 2023
+  + Wyższy poziom chmury
+  + Cybersec Forum
+  + Kongres ESG Polska Moc Biznesu
+  + II Europejski Kongres Sportu I Turystyki
+  + Local Trends Sopot 2025
+  * ( ) Podatki Podatki
+Podatki
+  + Wiadomości podatkowe
+  + Pit
+  + Formularze podatkowe
+  + Poradniki podatkowe
+  + Znajdź Adres
+  * ( ) Prawo Prawo
+Prawo
+  + Wiadomości
+  * ( ) Fundusze Fundusze
+Fundusze
+  + Wiadomości
+  + Profile funduszy
+  + Wyszukiwarka fundusz
+  + Stopa zwrotu z funduszy
+  + Kalkulator prowizji
+  + Kalkulator zysku
+  + Archiwum Funduszy
+  * ( ) Banki Banki
+Banki
+  + Poradniki
+  * Ubezpieczenia
+  * ( ) Emerytury Emerytury
+Emerytury
+  + Poradniki
+
+Obserwuj nas na:
+(*)
+Popularne w serwisie Money.pl:
+Co stanie się z pieniędzmi w bankach w czasie wojny? Eksperci tłumaczą
+Co stanie się z pieniędzmi w bankach w czasie wojny? Eksperci tłumaczą Adam
+Sieńko
+Blisko ideału. Tak będzie rozwijała się polska gospodarka [ANALIZA]
+Blisko ideału. Tak będzie rozwijała się polska gospodarka [ANALIZA] Grzegorz
+Siemionczyk
+Co z progiem podatkowym i składkami ZUS w 2026 roku? Oto najważniejsze zmiany
+dla podatników
+Co z progiem podatkowym i składkami ZUS w 2026 roku? Oto najważniejsze zmiany
+dla podatników Małgorzata Samborska
+W Niemczech napisali o Polakach. "Baśń zaczyna pękać"
+W Niemczech napisali o Polakach. "Baśń zaczyna pękać" Magda Żugier
+Uszkodzenia kabla między Finlandią a Estonią. Zatrzymano podejrzany statek
+Uszkodzenia kabla między Finlandią a Estonią. Zatrzymano podejrzany statek
+Przemysław Ciszak
+Upadła mleczarska potęga. Ziemia na sprzedaż
+Upadła mleczarska potęga. Ziemia na sprzedaż Magda Żugier
+  * Giełda
+  + Notowania GPW
+  + Spółki GPW
+  + Porównanie spółek
+  + Giełda na żywo
+  + Giełdy światowe
+  + Komunikaty ESPI
+  + Surowce
+  + Narzędzia giełdowe
+  * Waluty
+  + Kursy walut
+  + Kalkulator walutowy
+  + Bitcoin
+  + Forex
+  + Depozyty
+  * Biznes
+  + Jak założyć firmę
+  + Faktoring dla firm
+  + Poradniki
+  + PKD
+  + PKWiU
+  * Mobility
+  * Praca
+  + Oferty pracy
+  + Wynagrodzenia
+  + Kalkulator PPK
+  + Kalkulator wynagrodzeń
+  * Gospodarka
+  + BizTech
+  + Ekologia, OZE, ESG
+  + Nieruchomości i budownictwo
+  + Emerytury
+  + Prawo
+  + Kariera i rynek pracy
+  + Finanse osobiste
+
+[ ]
+(BUTTON) Zaloguj
+  ___________________________________________________________________________
+
+  * Forex
+  * Spółki
+  * Kalkulatory
+  * Kalkulator walut
+
+Osiem polskich grzechów głównych. "Rządzący stworzyli system, który chroni ich
+przed odpowiedzialnością"
+
+- Za pomocą siły można opanować organizację, kontrolować procedury, narzucać
+swoją wolę, odbierać możliwość wyrażania krytycznych opinii, ale nie można
+rozwiązywać kluczowych, trudnych problemów - przekonuje w rozmowie z money.pl
+prof. Jerzy Hausner, ekonomista, twórca raportu wytykającego "największe grzechy
+Polski".
+OEES Profesor Jerzy Hausner sugeruje rządzącym od lat elitom, by jak najszybciej
+zrewidowały swoje podejście do polityki.
+Źródło zdjęć: © OEES
+Krzysztof Janoś
+Krzysztof Janoś
+17 stycznia 2021, 20:05
+(BUTTON) ZAPISZ ZAPISANO (BUTTON) UDOSTĘPNIJ
+(BUTTON) Udostępnij na X (BUTTON) Udostępnij na Facebooku
+(BUTTON) 41
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+Prof. Jerzy Hausner nie pierwszy raz punktuje rządzących Polską. Pierwszy raport
+"Państwo i My" powstał w 2015 r. Po pięciu latach przygotował kolejny - wskazuje
+w nim na "osiem grzechów głównych".
+
+Są to: brak wyobraźni strategicznej i suwerennej myśli rozwojowej, niezdolność
+posługiwania się różnymi trybami rządzenia, rozmyty ład konstytucyjny,
+formalistyczny legalizm, destrukcja sfery publicznej, unikanie rządzenia
+i ucieczka od odpowiedzialności oraz obywatelska pasywność i roszczeniowość.
+
+Krzysztof Janoś: Który z ośmiu grzechów jest największym?
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+Profesor Jerzy Hausner: Nie sadzę, by dało się je rozdzielić. Każdy jest istotny
+i razem stanowią całość, są syndromem. Dlatego trudno mi uznać któryś z tych
+grzechów za nadrzędny.
+
+Z lektury raportu wynika, że na te grzechy zapracowała cała elita polityczna.
+
+Tak. Trwamy w grzechach już od dawna. Koalicja PO-PSL w latach swych rządów
+grzechy utrwalała. Ale nie należy tylko jej ich przypisywać. PiS i cała
+Zjednoczona Prawica nie tylko trwa w grzechach, ale grzeszy do potęgi.
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+"To jest prostackie". Bartosz Arłukowicz odpowiada Ryszardowi Terleckiemu
+
+Co nowego na liście grzechów Polski pojawiło się po 2015 r.?
+
+Między innymi grzech monocentrycznego przywództwa, wodzostwa. Czegoś takiego do
+tej pory nie było w Polsce po 1989 roku. Nawet kiedy mieliśmy rząd Jerzego Buzka
+i mówiło się o sterowaniu nim przez Mariana Krzaklewskiego z tylnego siedzenia.
+To było przejściowe i relatywnie słabe oddziaływanie. Analogie są
+niedopuszczalne, bo zarówno premier Beata Szydło, jak i Mateusz Morawiecki są
+kompletnie ubezwłasnowolnieni. Oni są od kierowania ruchem, a nie od ustalania
+jego zasad.
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+Ale na scenie politycznej pojawiają się nowi gracze.
+
+W Polsce rządzili już wszyscy. No może Krzysztof Bosak jeszcze nie, ale jego
+ugrupowanie jest w&nbspparlamencie. Ponadto z&nbsptego samego środowiska
+Młodzieży Wszechpolskiej wywodzi się Roman Giertych, były wicepremier.
+
+A Szymon Hołownia?
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+On jest jeszcze nieskalany. Ale nie jestem gotów powiedzieć, że jeśli sięgną po
+władzę nowi i&nbspmłodsi, to słabości naszego państwa zostaną odsunięte
+w&nbspniepamięć. Nie chcę pozbawiać ludzi wiary, że to możliwe, ale mam sporo
+wątpliwości.
+
+Jednak będę nalegał na gradację tych grzechów.
+
+Obecnie rządzący stworzyli mechanizm, system, który chroni ich przed
+odpowiedzialnością za podejmowane działania i decyzje. Doskonale widać to na
+przykładzie Ministerstwa Zdrowia w pierwszej fazie kryzysu epidemicznego.
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+Nikt nie przyjął i nie poniósł żadnej odpowiedzialności za sprzeczne, chaotyczne
+decyzje z tego okresu, włącznie z zakupami sprzętu z wątpliwych źródeł
+i wątpliwej jakości. Jak zaczęło się palić pod nogami, to minister i jego
+zastępca zniknęli z ministerstwa. Uciekli i zatarli ślady. Na szczytach
+obowiązuje zasada "hulaj dusza, piekła nie ma". Byle tylko nie podpaść
+naczelnikowi.
+"Koronawirus zmienił wszystko. Niestety polski rząd tego nie widzi. Świat bez
+nas buduje się na nowo"
+"Koronawirus zmienił wszystko. Niestety polski rząd tego nie widzi. Świat bez
+nas buduje się na nowo"
+
+Wymyśliliśmy przed laty sejmową komisję śledczą. W przypadku afery Rywina
+wszyscy mieli poczucie, że to jest sensowne rozwiązanie. Opozycja miała
+w komisji większość. I nawet jeżeli potem okazało się, że różnie jest
+z odpowiedzialnością karną, to główni winowajcy zostali napiętnowani
+i wykluczeni z życia publicznego. Teraz już się nie dopuści, aby czarne było
+czarne, a białe białe.
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+Narzeka pan na słabość komisji śledczych, co jeszcze jest naganne
+w&nbspfunkcjonowaniu naszych elit?
+
+Obecnie całkowicie zdeformowany jest proces legislacyjny. Co rusz wprowadza się
+przepisy całkowicie niezrozumiałe i nierespektowane przez rządzących. Ponadto
+rządzący, kiedy przegrywają jakieś głosowania, bez skrępowania zarządzają
+reasumpcję głosowania, tak by wszystko było po ich myśli i pod kontrolą.
+Kontrola jako najwyższa forma demokracji.
+
+Ktoś mógłby powiedzieć: mamy silne rządy. Wygrali wybory, mają wizję, niech
+rządzą.
+
+Za pomocą siły można opanować organizację, kontrolować procedury, narzucać
+swoją wolę, odbierać możliwość wyrażania krytycznych opinii, ale nie można
+rozwiązywać kluczowych, trudnych problemów, jak choćby transformacja
+energetyczna, bez czego coraz droższa energia zniszczy naszą przewagę
+konkurencyjną.
+
+Wracając do nadziei, a na progu nowego roku warto ją mieć, może przyjdzie nowe
+wraz ze zmianą pokoleniową?
+
+To mrzonki. PiS, wygrywając wybory parlamentarne, miał 40 proc. poparcia. Teraz
+jest wyraźnie mniej. Ale za rok będzie płynął do nas wielki strumień środków
+unijnych. Rząd będzie kontynuował rozdawnictwo i korumpował rożne grupy
+społeczne. A jeśli będzie to konieczne, zmieniona zostanie ordynacja wyborcza.
+Tak, aby mając poparcie powyżej 30 proc., zdobyć parlamentarną większość. To
+najprawdopodobniejszy scenariusz, choć bardzo negatywny. Pozytywny też
+dostrzegam.
+
+Nadstawiam uszu, gdzie?
+
+Nadzieję pokładam w tym, że jako społeczeństwo ockniemy się i przestaniemy
+wierzyć, że władza sama się zmieni. Chodzi o dostrzeżenie tego, że większa kasa
+nie rekompensuje pogarszającej się sytuacji w opiece zdrowotnej, w edukacji,
+w opiece społecznej, w zakresie wielu kluczowych usług publicznych. Ogólna
+liczba zgonów w tym roku powinna wstrząsnąć ludźmi.
+
+To przecież najbardziej istotna miara niepowodzenia rządów PiS. Niewątpliwie
+minister Adam Niedzielski opanował sytuację w szpitalach. Ale w taki sposób, że
+ograniczył do nich skutecznie dostęp potrzebujących szpitalnej opieki. Okazał
+się skutecznym zarządcą szpitalnictwa, ale nie ministrem zdrowia. O dramatycznym
+stanie zdrowia Polaków świadczy jesienny dramatyczny wzrost zgonów. W roku,
+w którym liczba zgonów z powodu różnego rodzaju wypadków spadła.
+
+Ludzie już wychodzą na ulice. Czego zatem brakuje?
+
+Same protesty, nawet masowe, niczego nie zmienią. Z czasem pogłębiają poczucie
+niemocy, zbiorową frustrację. Jesteśmy energetyczni, przedsiębiorczy, Polak
+potrafi. Jednak jesteśmy zaradni w obszarach, które decydują o powodzeniu
+indywidualnym. Widać to po naszych domach, samochodach. Jednak to nie jest
+warunek wystarczający dla wspólnego powodzenia. Jak pojawia się konieczność
+współpracy, wspólnych starań, to okazujemy się słabi.
+
+Niestety Polacy w czasie rozbiorów i za komuny nauczyli się, że państwo to nie
+my. Państwo jest od pana. Jednak wielu uważa, że teraz mamy dobrego pana, który
+wreszcie sypnął groszem. Dla wielu ludzi ważne jest tylko to, żeby ten pan dalej
+dawał. Wielu innych uznaje, że lepiej od państwa trzymać się z dala i radzić
+sobie po swojemu.
+
+Przegrywamy zatem drużynowo?
+
+Słabo jest z&nbspnaszą solidarnością w&nbspznaczeniu podstaw życia zbiorowego.
+Nie doceniamy siły solidarnego rozwoju.
+
+Od czego zacząć zmiany na lepsze?
+
+Nowego ładu nie będzie bez niezależnego Trybunału Konstytucyjnego. Nie ważne jak
+się będzie nazywał, ważne, aby istniał niezależny od rządzących sądowy strażnik
+Konstytucji. Negatywny ustawodawca, który sam prawa nie stanowiąc, orzeka, czy
+to stanowione przez rządzących respektuje normy konstytucyjne.
+Mlekpol będzie produkował "mleko" owsiane. "Kaprysy konsumentów są różne, a my
+jesteśmy po to, by te kaprysy zaspokajać"
+Mlekpol będzie produkował "mleko" owsiane. "Kaprysy konsumentów są różne, a my
+jesteśmy po to, by te kaprysy zaspokajać"
+
+Pytanie tylko czy znajdą się tacy w polityce, którzy zejdą z drogi wyznaczonej
+przez dotychczas rządzących w Polsce?
+
+Idzie o istnienie instytucji państwowych, które nie podlegają kontroli aktualnie
+rządzących. Dobrym przykładem jest nadzór bankowy. Ustanowiony w latach 90., na
+początku transformacji, dobrze wypełniał swą publiczną rolę. Nie mieliśmy dzięki
+temu poważnego kryzysu w systemie bankowym. Afera GetBack pokazuje skutki
+obsadzania kierowniczych funkcji w KNF przez "swoich", czyli zależnych.
+
+To, czego nie potrafił doprowadzić do końca Marek Chrzanowski, teraz się
+dopełnia. Obecnie w kluczowych instytucjach państwowych dominują partyjni
+nominaci. Dlatego państwo działa jak działa. Pyta Pan, co nowego wniósł do
+grzechów głównych naszego państwa PiS? Zobrazuję to tak: przedtem to Lech Rywin
+przyszedł do rządzących z korupcyjną propozycją. Ludzie biznesu w Polsce i wielu
+innych demokratycznych państwach starają się wywierać wpływ na decyzje
+rządzących. Na ogół lobbują, czasami korumpują.
+
+Pod tym względem Polska nie wyróżniała się negatywnie. Nie byliśmy tak
+przyzwoici jak kraje skandynawskie, ani tak nieprzyzwoici jak niektóre kraje
+południa Europy. Teraz to Adam Hofman przyszedł do Leszka Czarneckiego. Hofman
+udaje biznesmena, a faktycznie jest wysłannikiem rządzących. Czyli to rządzący
+składają teraz ludziom wielkiego biznesu propozycje nie do odrzucenia. To są
+praktyki z krajów, których za demokratyczne uznać nie sposób.
+
+Zarzuca pan obywatelom bierność, ale przecież ludzie wyszli ostatnio na ulice.
+Z tego nic nie będzie?
+
+Z sympatia patrzę na obecność młodych ludzi w&nbspprotestach społecznych,
+zwłaszcza, gdy upominają się o&nbspskuteczne działania powstrzymujące
+katastrofę klimatyczną. Mają rację, jednak w&nbspmojej ocenie to za mało, by
+doprowadzić do zmiany.
+
+Żadnej nadziei? Nigdzie jej pan nie widzi?
+
+Tak źle nie jest. Niszczymy klimat, ale też coraz więcej ludzi widzi, że to jest
+dla nich życiowa sprawa. Protestujący w&nbspsprawie klimatu widzą szerszą
+perspektywę odpowiedzialności za wspólne dobro w&nbspodległym horyzoncie
+czasowym. To pokrzepiające.
+
+Zatem więcej wspólnej, solidarnej inicjatywy w obszarze ekologii, klimatu
+i będzie dobrze?
+
+Protestowanie ma ograniczony sens bez wprzęgnięcia ludzi w to zaangażowanych
+w polityczną maszynerię. Tyle, że o tym, co polityczne, trzeba pomyśleć inaczej.
+Nie przez myślenie o partyjności i listach wyborczych. Ale przez organizowanie
+działań w danej dziedzinie, np. edukacji, które pożądane zmiany wprowadzają
+i skłaniają innych do takiego postępowania.
+
+Chodzi zatem o działanie zbiorowe w sferze publicznej, które nie polega tylko na
+sprzeciwie, ale głosowi protestu towarzyszy od razu działanie, które powoduje
+zmianę i służy rozwiązywaniu konkretnego problemu społecznego. Dobrym przykładem
+są miejskie ruchy antysmogowe.
+
+Ale na tym nie kończy się problem środowiskowy w mieście. W takich
+działaniowych, tematycznych ruchach wyłonią się nowi liderzy samorządowi
+i państwowi, którzy będą jednocześnie ekspertami w kluczowych dziedzinach
+polityki publicznej. To właściwa droga.
+
+*Dokument "Państwo i&nbspmy. Osiem grzechów głównych Rzeczypospolitej
+–&nbsp5&nbsplat później" został opracowany przez zespół ekspertów Open Eyes
+Economy HUB pod redakcją prof. Jerzego Hausnera. Raport dostępny jest na stornie
+internetowej OEES.
+Źródło artykułu: money.pl
+[ ]
+jerzy hausner rządy pis gospodarka polski
+(BUTTON) 41
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+Wybrane dla Ciebie
+Nowe zarzuty dla Maduro. USA przejmują kontrolę nad Wenezuelą
+Nowe zarzuty dla Maduro. USA przejmują kontrolę nad Wenezuelą
+UE reaguje na atak USA w Wenezueli. Kallas wzywa do powściągliwości
+UE reaguje na atak USA w Wenezueli. Kallas wzywa do powściągliwości
+Wenezuela szykuje się na zmianę władzy? Opozycja wskazuje nazwisko
+Wenezuela szykuje się na zmianę władzy? Opozycja wskazuje nazwisko
+Wenezuela kontra Kanada. Walka o dominację na rynku ciężkiej ropy
+Wenezuela kontra Kanada. Walka o dominację na rynku ciężkiej ropy
+Ekspert: Atak USA na Wenezuelę to złamanie prawa międzynarodowego. Dla Rosji to
+sygnał, że też tak może
+Ekspert: Atak USA na Wenezuelę to złamanie prawa międzynarodowego. Dla Rosji to
+sygnał, że też tak może
+Trump: Będziemy mocno zaangażowani w sektor naftowy w Wenezueli
+Trump: Będziemy mocno zaangażowani w sektor naftowy w Wenezueli
+Zmarł prof. Andrzej Paczkowski
+Zmarł prof. Andrzej Paczkowski
+Państwo zmienia kurs w mieszkaniówce. Czerniak: to presja młodych
+Państwo zmienia kurs w mieszkaniówce. Czerniak: to presja młodych
+"New York Times": Atak na Wenezuelę nielegalny i nierozsądny
+"New York Times": Atak na Wenezuelę nielegalny i nierozsądny
+Wenezuela bez Maduro. USA otwierają drogę do największych złóż ropy
+Wenezuela bez Maduro. USA otwierają drogę do największych złóż ropy
+Wybuchy w Caracas. MSZ monitoruje sytuację Polaków
+Wybuchy w Caracas. MSZ monitoruje sytuację Polaków
+USA mocno nadepnęły na odciski Chinom i Rosji. "Po cichu mogą się cieszyć"
+[OPINIA]
+USA mocno nadepnęły na odciski Chinom i Rosji. "Po cichu mogą się cieszyć"
+[OPINIA]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+  ___________________________________________________________________________
+
+[ ]
+WALUTY
+  * Waluty
+  * Kursy walut
+  * Kurs euro
+  * Kurs franka
+  * Kurs dolara
+  * Przelicznik walut
+  * Kurs funta brytyjskiego
+
+KALKULATORY
+  * Kalkulator wynagrodzenia chorobowego
+  * Kalkulator kosztów pracodawcy
+  * Kalkulator wynagrodzeń
+  * Kalkulator odsetkowy
+
+KREDYTY
+  * REKLAMA
+Kredyt konsolidacyjny
+  * REKLAMA
+Ranking kredytów gotówkowych
+  * REKLAMA
+Kredyty hipoteczne
+  * REKLAMA
+Pożyczki online
+  * REKLAMA
+Kredyty firmowe
+  * REKLAMA
+Konta firmowe
+
+GIEŁDA
+  * Cena złota
+  * Akcje PKO BP
+  * WIG20
+  * Sesje elixir
+  * Kursy Forex
+  * Ropa Brent
+  * Giełdy Światowe
+
+MONEY NA SKRÓTY
+  * Mapa serwisu
+  * Baza ZUS
+  * Archiwum wg dat
+  * Archiwum wg autorów
+  * REKLAMA
+TotalMoney.pl
+
+MNIEJ TEMATÓW WIĘCEJ TEMATÓW
+
+© Money.pl - portal finansowy
+  * · Regulamin
+  * · Reklama
+  * · O nas
+  * · Zgłoś temat
+  * · Polityka prywatności
+  * (BUTTON) · Ustawienia prywatności
+
+Pobieranie, zwielokrotnianie, przechowywanie lub jakiekolwiek inne
+wykorzystywanie treści dostępnych w niniejszym serwisie - bez względu na ich
+charakter i sposób wyrażenia (w szczególności lecz nie wyłącznie: słowne,
+słowno-muzyczne, muzyczne, audiowizualne, audialne, tekstowe, graficzne i
+zawarte w nich dane i informacje, bazy danych i zawarte w nich dane) oraz formę
+(np. literackie, publicystyczne, naukowe, kartograficzne, programy komputerowe,
+plastyczne, fotograficzne) wymaga uprzedniej i jednoznacznej zgody Wirtualna
+Polska Media Spółka Akcyjna z siedzibą w Warszawie, będącej właścicielem
+niniejszego serwisu, bez względu na sposób ich eksploracji i wykorzystaną
+metodę (manualną lub zautomatyzowaną technikę, w tym z użyciem programów uczenia
+maszynowego lub sztucznej inteligencji). Powyższe zastrzeżenie nie dotyczy
+wykorzystywania jedynie w celu ułatwienia ich wyszukiwania przez wyszukiwarki
+internetowe oraz korzystania w ramach stosunków umownych lub dozwolonego użytku
+określonego przez właściwe przepisy prawa.
+Szczegółowa treść dotycząca niniejszego zastrzeżenia znajduje się tutaj.

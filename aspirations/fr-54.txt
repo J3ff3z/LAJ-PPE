@@ -1,0 +1,664 @@
+HTTP/1.1 200 OK
+Date: Sat, 03 Jan 2026 16:47:06 GMT
+Server: Apache/2.2.27 (Unix) mod_apreq2-20090110/2.8.0 mod_perl/2.0.8 Perl/v5.14.2
+Expires: Fri, 02 Jan 2026 16:47:06 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=ISO-8859-1
+Set-Cookie: b=176.185.176.43_1767458826; path=/; expires=Fri, 29-Sep-2028 16:47:06 GMT
+Transfer-Encoding: chunked
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+
+<head>
+<title>Philosophie et politique - Le péché originel du XXe siècle</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="Il peccato originale del Novecento, Domenico Losurdo " />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://denis-collin.viabloga.com/index.xml" />
+<link rel="alternate" type="application/rdf+xml" title="FOAF" href="http://denis-collin.viabloga.com/foaf.rdf" />
+<link rel="openid.server" href="http://denis-collin.viabloga.com/cgi-bin/openid_server.pl?site_id=denis-collin" />
+
+<link rel="Contents" title="Archive : tous les articles" href="http://denis-collin.viabloga.com/archive.shtml" />
+
+
+<link rel="First" title="" href="http://denis-collin.viabloga.com/news/un-centenaire-engels" />
+
+
+<link rel="Prev" title="" href="http://denis-collin.viabloga.com/news/einstein-et-spinoza" />
+
+
+<link rel="Next" title="" href="http://denis-collin.viabloga.com/news/hannah-arendt-marx-et-le-probleme-du-travail-2" />
+
+
+<link rel="Last" title="" href="http://denis-collin.viabloga.com/news/lecture-d-anarcheologie-fragments-heretiques-sur-la-catastrophe-historique-par-jean-vioulac-i" />
+
+
+<link rel="icon" href="http://denis-collin.viabloga.com/images/favicon.gif" />
+<link rel="shortcut icon" href="http://denis-collin.viabloga.com/images/favicon.gif" />
+
+
+
+
+<style type="text/css">
+body {font-size: 80%; margin: 0; padding: 0; text-align: center; font-family: georgia, garamond, serif; background: #ffffff; color #000000}
+#vb {width: 66em; margin: 0 auto}
+#titre, #topMenu {width: 100%}
+#topMenu {margin: 0 0 3em -2em}
+
+.metabloc {width: 24%; text-align: center}
+#premiereColonne {float: left}
+#deuxiemeColonne {float: right}
+#large #deuxiemeColonne {display: none}
+
+.news h3 a {
+	color:#000000;
+}
+
+#main {width: 46%; margin: 0 26%; text-align: justify}
+#large #main {width: 72%; margin: 0 0 0 26%}
+
+.boite {border: 1px solid #3330cc; margin-bottom: 2em; padding: 0.5em}
+
+.news, .boite, .metabloc {overflow: hidden}
+
+
+#suite {text-align: center; margin: 1em auto; padding: .3em}
+#footer {width: 100%}
+
+h1 {font-size: 2.5em; paddgin: 0; margin: 0}
+h1 a {display: block; padding: .5em 1em 0}
+#titre p {font-style: italic}
+
+h2 {font-size: 1.1em; border-width: 1px 0 0 5px; border-color: #3330cc; border-style: solid; text-align: right; color: #3330cc}
+.news {margin: 1em 0.5em 2em}
+
+.news h3 {margin: 1em 0; padding: 0 0.2em; background-color: #9997e5; text-align: center}
+
+.boite h3 {background: #9997e5; padding: 0 12px; color #2826a3; margin: .2em .2em 1em}
+#premiereColonne .boite h3 {text-align: right; border-left: 10px solid #2826a3}
+#deuxiemeColonne .boite h3 {text-align: left; border-right: 10px solid #2826a3}
+		
+
+.newsAuthor, .newsCmd, .maj {margin: 0; padding: 0; clear: both}
+
+.boite table {width: 90%; margin: 1em auto 0; font-size: .8em}
+.calendar table caption {font-weight: bold}
+.calendar td, .calendar th {background-color: #eaeaf9}
+.boite ul {margin: .5em .2em; padding: 0; list-style: none; text-align: left}
+.boite li {margin-top: .5em}
+.boite input  {margin: .5em auto}
+
+
+.accessibilite {position: absolute; left : -2em; font-size: 0.01em; color: #ffffff}
+
+
+a {color: #990033}
+h1 a, .boite a, .newsAuthor a, .newsCmd a {text-decoration: none}
+table a {display: block; background-color: #9997e5}
+.boite li a {padding: 0 .5em; display: block; font-size: .9em; background: #c1c0ef}
+#premiereColonne .boite li a:link {border-left: 2px #990033 solid}
+#deuxiemeColonne .boite li a:link {border-right: 2px #990033 solid}
+#premiereColonne .oneliners li a:link, 
+#deuxiemeColonne .oneliners li a:link {border: 0; display: inline; background: transparent; padding: 0}
+
+
+a:visited {color: #cc7f99}
+h1 a:visited {color: #990033}
+.boite li a:visited {background: #eaeaf9}
+#premiereColonne .boite li a:visited {border-left: 2px #cc7f99 solid}
+#deuxiemeColonne .boite li a:visited {border-righ: 2px #cc7f99 solid}
+#premiereColonne .oneliners li a:visited, 
+#deuxiemeColonne .oneliners li a:visited {display: inline; padding: 0; border: 0; background: transparent}
+.accessibilite:visited {color: #ffffff}
+
+
+a:hover, a:focus,
+.boite li a:hover, .boite li a:focus
+table a:hover, table a:focus {color: #990033; background: #d699ad}
+#premiereColonne .boite li a:hover,
+#premiereColonne .boite li a:focus {border-left: 2px #990033 solid}
+#deuxiemeColonne .boite li a:hover,
+#deuxiemeColonne .boite li a:focus {border-right: 2px #990033 solid}
+#premiereColonne .oneliners li a:hover,
+#deuxiemeColonne .oneliners li a:hover,
+#premiereColonne .oneliners li a:focus,
+#deuxiemeColonne .oneliners li a:focus {border: 0; background: #d699ad}
+h1 a:hover, h1 a:focus {background: transparent}
+.accessibilite:hover, .accessibilite:focus {background-color: #ffffff; color: #ffffff}
+
+
+.comment1, .comment2 {margin: .5em 0; padding: .3em 1em; border: 0 #23218e solid}
+.comment1 {background-color: #eaeaf9;}
+.comment2 {background-color: #d6d5f4;}
+.newcomment {background-color: #5b59d6;}
+
+
+
+.boite textarea {border: 1px #000000 dotted; padding: 2px}
+textarea:focus {background: #eaccd6}
+
+q {quotes: "\AB\2009" "\2009\BB" "\201C" "\201D" "\2018" "\2019"}
+
+hr {visibility: hidden; clear: both; height: 1px; line-height: 1px}
+.separator {margin: 0 .3em}
+
+ .image {
+float:right;
+padding-left:10px;
+padding-bottom:10px;
+}
+
+#summaries_pages ul {
+	list-style:none;
+	margin:0px;
+}
+
+#summaries_pages li {
+	list-style:none;
+	border:1px solid black;
+	float:left;
+	margin-right:10px;
+	margin-bottom:5px;
+	text-align:center;
+}
+
+#summaries_pages #current_page {
+	height:20px;
+	width:20px;
+	padding-top:2px;
+	font-weight:bold;
+}
+
+#summaries_pages a, #summaries_pages a:hover {
+	padding-top:2px;
+	display:block;
+        text-decoration: none;
+        border:none;
+	height:20px;
+	width:20px;
+}
+
+#summaries_pages a:hover {
+}
+
+.administrator_comment {
+background:#ffffdd !important;
+}
+
+
+</style>
+
+<!-- smartblock definition -->
+
+
+
+
+
+
+
+
+
+
+			
+			
+	
+
+			
+
+			
+	
+		
+
+
+</head>
+	
+<body id="large">
+
+<div id="vb">
+
+<div id="titre"><h1><a href="http://denis-collin.viabloga.com">Philosophie et politique</a></h1>
+<p>Site personnel de Denis COLLIN</p></div>
+
+
+<div id="topMenu">
+
+<a class="accessibilite" href="#main" title="Acceder directement au contenu">Contenu</a>
+<span class="accessibilite"> - </span>
+
+<a class="accessibilite" href="#premiereColonne" title="Acceder directement au menu">Menu</a>
+<span class="accessibilite"> - </span>
+
+
+<a href="/session.shtml" title ="">S'identifier</a>
+
+
+
+<span class="separator"> - </span><a href="/cgi-bin/user.pl?site_id=denis-collin&amp;action=display&amp;type=add">S'inscrire</a>
+
+
+
+
+
+
+
+
+
+
+
+<span class="separator"> - </span><a href="/cgi-bin/contact.pl?site_id=denis-collin&amp;action=display">Contact</a>
+
+
+
+</div>
+
+
+
+<div id="premiereColonne" class="metabloc">
+
+
+	
+<div class="boite categories">
+
+	
+<h3>Index des rubriques</h3>
+
+	
+<ul>
+
+	
+	
+    		
+<li><a href="http://denis-collin.viabloga.com/actualites.shtml">Actualités </a></li>
+
+        
+	
+  	
+	
+    		
+<li><a href="http://denis-collin.viabloga.com/bibliotheque.shtml">Bibliothèque </a></li>
+
+        
+	
+  	
+	
+    		
+<li><a href="http://denis-collin.viabloga.com/enseigner_la_philosophie.shtml">Enseigner la philosophie </a></li>
+
+        
+	
+  	
+	
+    		
+<li><a href="http://denis-collin.viabloga.com/histoire_de_la_philosophie.shtml">Histoire de la philosophie </a></li>
+
+        
+	
+  	
+	
+    		
+<li><a href="http://denis-collin.viabloga.com/marx_marxisme.shtml">Marx, Marxisme </a></li>
+
+        
+	
+  	
+	
+    		
+<li><a href="http://denis-collin.viabloga.com/mes_invites.shtml">Mes invités </a></li>
+
+        
+	
+  	
+	
+    		
+<li><a href="http://denis-collin.viabloga.com/morale_et_politique.shtml">Morale et politique </a></li>
+
+        
+	
+  	
+	
+    		
+<li><a href="http://denis-collin.viabloga.com/philosophie_italienne.shtml">Philosophie italienne </a></li>
+
+        
+	
+  	
+	
+    		
+<li><a href="http://denis-collin.viabloga.com/publications.shtml">Publications </a></li>
+
+        
+	
+  	
+	
+    		
+<li><a href="http://denis-collin.viabloga.com/spinoza_spinozisme.shtml">Spinoza, spinozisme </a></li>
+
+        
+	
+  	
+	
+    		
+<li><a href="http://denis-collin.viabloga.com/textes_classiques_numerises.shtml">Textes classiques numérisés </a></li>
+
+        
+	
+  	
+	
+    		
+<li><a href="http://denis-collin.viabloga.com/theorie_de_la_connaissance.shtml">Théorie de la connaissance </a></li>
+
+        
+	
+  	
+  	
+</ul>
+
+	
+<hr /></div>
+
+
+
+	
+<div class="boite archive_months">
+
+	
+<h3>Archives par mois</h3>
+
+	
+<ul>
+
+	
+    		
+<li><a href="http://denis-collin.viabloga.com/cgi-bin/display_archive.pl?site_id=denis-collin&amp;news_month_id=202512">Décembre 2025</a> : 4 articles </li>
+
+  	
+    		
+<li><a href="http://denis-collin.viabloga.com/cgi-bin/display_archive.pl?site_id=denis-collin&amp;news_month_id=202510">Octobre 2025</a> : 1 article </li>
+
+  	
+    		
+<li><a href="http://denis-collin.viabloga.com/cgi-bin/display_archive.pl?site_id=denis-collin&amp;news_month_id=202504">Avril 2025</a> : 1 article </li>
+
+  	
+    		
+<li><a href="http://denis-collin.viabloga.com/cgi-bin/display_archive.pl?site_id=denis-collin&amp;news_month_id=202404">Avril 2024</a> : 4 articles </li>
+
+  	
+    		
+<li><a href="http://denis-collin.viabloga.com/cgi-bin/display_archive.pl?site_id=denis-collin&amp;news_month_id=202004">Avril 2020</a> : 1 article </li>
+
+  	
+    		
+<li><a href="http://denis-collin.viabloga.com/cgi-bin/display_archive.pl?site_id=denis-collin&amp;news_month_id=201907">Juillet 2019</a> : 2 articles </li>
+
+  	
+    		
+<li><a href="http://denis-collin.viabloga.com/cgi-bin/display_archive.pl?site_id=denis-collin&amp;news_month_id=201902">Février 2019</a> : 2 articles </li>
+
+  	
+    		
+<li><a href="http://denis-collin.viabloga.com/cgi-bin/display_archive.pl?site_id=denis-collin&amp;news_month_id=201806">Juin 2018</a> : 2 articles </li>
+
+  	
+    		
+<li><a href="http://denis-collin.viabloga.com/cgi-bin/display_archive.pl?site_id=denis-collin&amp;news_month_id=201804">Avril 2018</a> : 7 articles </li>
+
+  	
+    		
+<li><a href="http://denis-collin.viabloga.com/cgi-bin/display_archive.pl?site_id=denis-collin&amp;news_month_id=201803">Mars 2018</a> : 1 article </li>
+
+  	
+    		
+<li><a href="http://denis-collin.viabloga.com/cgi-bin/display_archive.pl?site_id=denis-collin&amp;news_month_id=201802">Février 2018</a> : 1 article </li>
+
+  	
+    		
+<li><a href="http://denis-collin.viabloga.com/cgi-bin/display_archive.pl?site_id=denis-collin&amp;news_month_id=201801">Janvier 2018</a> : 3 articles </li>
+
+  	
+  	
+</ul>
+
+	
+<hr /></div>
+
+
+
+
+
+</div>
+
+
+
+<div id="deuxiemeColonne" class="metabloc">
+
+
+
+</div>
+
+
+
+<div id="main">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+<div class="news">
+<h3>Le péché originel du XXe siècle</h3>
+
+
+
+<h4>Il peccato originale del Novecento, Domenico Losurdo </h4>
+
+
+
+
+
+
+
+
+
+
+<p><div style="float: right; margin-left: 1em"><script type="text/javascript">
+     var topsy_nick = "@Denis_Collin";
+     var topsy_style = "big";
+     var topsy_theme =  "brick-red";
+     var topsy_url = "http://denis-collin.viabloga.com/news/le-peche-originel-du-xxe-siecle";
+</script>
+<script type="text/javascript" src="http://cdn.topsy.com/button.js"></script></div>
+<div class="section1">
+
+<p><b><span style="font-size: 24pt;"></span></b>Sous le titre <i>Il peccato originale del Novecento</i>, <b>Domenico Losurdo
+(*) </b>a publié en 1998, aux éditions Laterza un court essai qui répondait aux
+déferlements de commentaires qui ont accueilli la publication du Livre noir du
+communisme sous la direction de Stéphane Courtois. </p>
+
+<p>Losurdo dénonce tout d'abord la manière dont les chiffres sont utilisés par
+les auteurs du Livre Noir. Relayés complaisamment par les médias, ils sont
+censés dispenser le lecteur de tout autre raisonnement. La montagne de cadavres
+- 100 millions de morts - est dissuasive. Pourtant cette comptabilité ne
+dispense personne d'un minimum de culture historique. Dans <i>L'Impérialisme</i>
+(Seuil, collection Points), Hannah Arendt estime que la population du Congo est
+passée de 20-40 millions d'habitants à 8 millions entre 1890 et 1911. Les
+victimes des guerres coloniales de la deuxième moitié du XXe siècle se comptent
+aussi par millions. Ce qu'omettent les auteurs du Livre Noir, c'est justement
+ce que souligne Arendt&nbsp;: la continuité de l'impérialisme et du nazisme qui fut
+seulement &quot; l'impérialisme le plus horrible que le monde ait connu. &quot;
+</p>
+
+<p>Au mépris de cette réalité historique, les révisionnistes du Livre Noir
+affirment que le nazisme ne fut rien d'autre que la réplique du totalitarisme
+communiste, une simple réaction à ce qui est pour ces auteurs le péché originel
+du XXe siècle. Losurdo démonte patiemment ce mensonge. Les théoriciens du
+génocide précèdent et de loin les années 20 et 30. Le XIXe siècle est hanté par
+la lutte des races que Gumplowicz oppose à Marx dès 1883. Théodore Roosevelt de
+son côté observe qu'il est difficile de civiliser &quot; les races inférieures
+&quot; et si celles-ci se révoltent et agressent &quot; la race supérieure
+&quot; alors il faut être prêt à mener une &quot; guerre d'extermination
+&quot;, comme les &quot; croisés &quot; [décidément, les présidents américains
+rêvent de croisades] les soldats blancs doivent &quot; mettre à mort les
+hommes, les femmes et les enfants &quot;. </p>
+
+<p>Il ne s'agit pas seulement de proclamations, mais de réalités. Celles du
+colonialisme qui fut l'école de la cruauté et du crime de masse d'où est sortie
+la barbarie du XXe siècle. Celles de la guerre d'extermination menée contre les
+Indiens d'Amérique du Nord, une guerre dont Losurdo montre qu'à tous égards
+elle fut le véritable &quot; laboratoire du Troisième Reich &quot;. Celles enfin
+des théories eugénistes mises en application aux États-Unis dès les années
+1900. </p>
+
+<p>C'est pourquoi la &quot; Belle époque &quot;, loin d'être l'apogée du
+libéralisme et du progrès démocratique ne fut rien d'autre que la démocratie du
+Herrenvolk, du &quot; peuple des seigneurs, pour reprendre une des expressions
+favorites d'Hitler. Même les théoriciens du libéralisme n'échappent pas à cette
+ambiance idéologique et politique. Le bon Stuart Mill lui-même, féministe et
+socialisant, justifie la nécessité de tenir en esclavage les peuples barbares.
+&quot; L'histoire de l'Occident nous met face à un paradoxe qui peut être bien
+compris à partir de l'histoire de son pays-phare d'aujourd'hui&nbsp;: la démocratie
+dans le milieu de la communauté blanche s'est développée simultanément aux
+rapports d'esclavage des noirs et de déportation des Indiens. Pendant
+trente-deux des trente-six premières années de la vie des USA, la présidence a
+été détenue par des propriétaires d'esclaves et ce sont aussi des propriétaires
+d'esclaves qui ont élaboré la déclaration d'Indépendance et la Constitution.
+&quot; (p. 16/17) </p>
+
+<p>Il ne s'agit pas, pour Losurdo de se lancer dans un de ces procès de
+l'histoire dont notre époque est si friande. Il s'agit plus simplement 1° de
+restituer un contexte historique qu'on oublie singulièrement dans les &quot;
+analyses &quot; des spécialistes du &quot; phénomène communiste &quot; et 2° de
+liquider la légende qui fait de la pensée anglo-saxonne la patrie des droits de
+l'individu, de la tolérance et de l'habeas corpus, par opposition au fanatisme
+des jacobins et au totalitarisme socialiste ou communiste. Il épingle au
+passage certains des maîtres à penser du néolibéralisme, par exemple Mises,
+économiste autrichien ami de Karl Popper et membre de la société du mont
+Pellerin fondée par Hayek qui réclamait que soient traités comme des &quot;
+bêtes dangereuses &quot; aussi bien les éléments &quot; antisociaux &quot;
+vivant en Occident même que les &quot; populations sauvages &quot; des
+colonies… </p>
+
+<p>Face à ce fond commun de la classe dominante, Losurdo rappelle que Lénine et
+les bolcheviks furent les premiers à appeler les peuples colonisés à la
+révolte. Ainsi la haine des puissantes dominantes contre la révolution
+d'Octobre ne fut pas seulement la haine ordinaire contre les &quot; partageux
+&quot; mais peut-être plus la haine contre ceux qui appelaient les &quot; peaux
+rouges &quot; et les &quot; peaux noires &quot; à intervenir sur la scène
+politique. On n'oubliera pas non quel rôle a joué le thème du &quot; complot
+judéo-bolchevik &quot; dans l'organisation de l'Entente contre-révolutionnaire
+des pays occidentaux au lendemain de la révolution de 1917, une petite musique
+antisémite dont usèrent et abusèrent, par exemple, les dirigeants britanniques,
+Churchill en tête. </p>
+
+<p>Losurdo, s'il s'oppose aux aberrations des auteurs du Livre Noir, essaie de
+comprendre le cours effroyable pris progressivement par la révolution russe. Il
+montre que le qualificatif &quot; totalitaire &quot;, appliqué à tort et à
+travers au communisme sous toutes ses formes est tout simplement absurde. Si
+Staline et Ortega sont également totalitaires, si la dictature impitoyable et
+l'anarchie de la &quot; révolution culturelle &quot; sont &quot; totalitaires
+&quot;, c'est que ce mot est vide de tout sens. Losurdo admet que la
+comparaison entre nazisme et stalinisme est légitime. Quand le communisme
+&quot; poursuit obsessionnellement l'utopie d'une société épurée de toute
+contradiction et de tout conflit, il finit par produire une sorte de révolution
+et de guerre civile permanente. &quot; (p.45) Néanmoins l'identification de
+l'Union Soviétique et de l'Allemagne hitlérienne est une &quot; sottise &quot;,
+affirme Losurdo. </p>
+
+<p>Le livre se termine par l'examen des conflits moraux et politiques auxquels
+conduit nécessairement l'action. Conflits entre l'individu et la communauté
+politique, conflits entre le bonheur et la liberté. Contre ceux qui font de
+Rousseau le père putatif de Staline et du jacobinisme l'ancêtre du &quot;
+communisme totalitaire &quot;, il rappelle que toute la pensée de Rousseau est
+tendue vers la défense des droits sacrés de l'individu. &quot; La sûreté
+particulière est tellement liée avec la confédération publique, que sans les
+égards que l'on doit à la faiblesse humaine, cette convention serait dissoute
+par le droit, s'il périssait dans l'État un seul citoyen qu'on eût pu secourir;
+si l'on en retenait à tort un seul en prison, et s'il se perdait un seul procès
+avec une injustice évidente&nbsp;: car les conventions fondamentales étant
+enfreintes, on ne voit plus quel droit ni quel intérêt pourrait maintenir le
+peuple dans l'union sociale, à moins qu'il n'y fût retenu par la seule force
+qui fait la dissolution de l'état civil. &quot; (Article &quot; Économie
+Politique &quot; de l'Encyclopédie) Mais cette défense des droits sacrés de
+l'individu, qui pouvait être interprétée dans un sens conservateur devint une
+arme révolutionnaire avec la proclamation du droit et même du devoir sacré
+d'insurrection contre un pouvoir tyrannique. La question qui se pose alors et
+sur lequel Losurdo nous invite une fois de plus à méditer est celle, difficile
+entre toutes, du rapport entre la fin et les moyens. Ainsi, &quot; l'abolition
+de l'esclavage, après une guerre conduite comme une croisade pour la cause de
+la liberté, renforça dans la république nord-américaine la bonne conscience
+démocratique et l'idée de mission&nbsp;; les poussées impériales et coloniales en
+reçurent une puissante impulsion… &quot; (p.72) C'est cette dialectique tragique
+qu'il voit encore à l'œuvre dans le destin de l'Union soviétique. Ces dilemmes
+moraux et politiques ne peuvent être éliminés. Ils sont ceux de notre temps. Et
+c'est à eux qu'on doit nécessairement se coltiner si on ne veut pas renoncer à
+l'action politique. En rappelant ces quelques vérités aussi modestes
+qu'essentielles, Losurdo nous rend un grand service et mériterait d'être lu par
+les lecteurs français. </p>
+
+<p>Le 18 déc. 01 Denis Collin </p>
+
+<p>(*) Domenico Losurdo, né en 1941, est professeur d'histoire de la philosophie
+à l'Université d'Urbino. Plusieurs ouvrages ont été traduits en français.
+Signalons particulièrement son &quot;<i>Hegel et les libéraux</i>&quot; (PUF)
+et &quot;<i>Heidegger et l'idéologie de la guerre</i>&quot; (PUF, collection <i>Actuel
+Marx</i>)</p>
+
+<p><br /></p>
+
+</div>
+</p>
+
+<p class="newsAuthor">
+Ecrit par <a href="/users/dcollin.shtml">dcollin</a>
+le Samedi 26 Mars 2005, 20:58
+dans "<a href="http://denis-collin.viabloga.com/bibliotheque.shtml">Bibliothèque</a>"
+ Lu 8549 fois.
+ <a href="http://denis-collin.viabloga.com/cgi-bin/display_news.pl?site_id=denis-collin&amp;news_id=57&amp;skin_file=public/print.html" title="Version imprimable" target="_blank"><img src="/public_images/icon_print.gif" border="0" alt="Version imprimable" class="print_icon"/></a>
+</p>
+<p class="newsCmd"><a href="http://denis-collin.viabloga.com/news/einstein-et-spinoza" title="Einstein et Spinoza - Samedi 26 Mars 2005, 20:56">Article pr&eacute;c&eacute;dent</a> - 
+
+<a href="http://denis-collin.viabloga.com/news/hannah-arendt-marx-et-le-probleme-du-travail-2" title="Hannah Arendt, Marx et le problème du travail - Samedi 26 Mars 2005, 23:21">Article suivant</a><br/>
+<div id="share_article"><h3>Partager cet article</h3><a href="javascript:AddToFavorites();" title="Ajouter aux favoris"><img src="/public_images/social/aquaticus/16x16/favorites.png" width="16" height="16" /></a> <a href="mailto:?subject=Le%20p%C3%A9ch%C3%A9%20originel%20du%20XXe%20si%C3%A8cle&amp;body=http%3A%2F%2Fdenis-collin.viabloga.com%2Fnews%2Fle-peche-originel-du-xxe-siecle" title="Envoyer un e-mail à un ami"><img src="/public_images/social/aquaticus/16x16/email.png" width="16" height="16" /></a> <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdenis-collin.viabloga.com%2Fnews%2Fle-peche-originel-du-xxe-siecle&amp;t=Le%20p%C3%A9ch%C3%A9%20originel%20du%20XXe%20si%C3%A8cle" title="Facebook"><img src="/public_images/social/aquaticus/16x16/facebook.png" width="16" height="16" /></a> <a href="http://twitter.com/home/?status=Le%20p%C3%A9ch%C3%A9%20originel%20du%20XXe%20si%C3%A8cle+http%3A%2F%2Fdenis-collin.viabloga.com%2Fnews%2Fle-peche-originel-du-xxe-siecle" title="Twitter"><img src="/public_images/social/aquaticus/16x16/twitter.png" width="16" height="16" /></a> <a href="http://www.technorati.com/faves?add=http%3A%2F%2Fdenis-collin.viabloga.com%2Fnews%2Fle-peche-originel-du-xxe-siecle" title="Technorati"><img src="/public_images/social/aquaticus/16x16/technorati.png" width="16" height="16" /></a> <a href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3A%2F%2Fdenis-collin.viabloga.com%2Fnews%2Fle-peche-originel-du-xxe-siecle&amp;title=Le%20p%C3%A9ch%C3%A9%20originel%20du%20XXe%20si%C3%A8cle" title="Google"><img src="/public_images/social/aquaticus/16x16/google.png" width="16" height="16" /></a> <a href="http://www.wikio.fr/vote?url=Le%20p%C3%A9ch%C3%A9%20originel%20du%20XXe%20si%C3%A8cle" title="Wikio FR"><img src="/public_images/social/aquaticus/16x16/wikiofr.png" width="16" height="16" /></a> <a href="http://www.netvibes.com/share?title=Le%20p%C3%A9ch%C3%A9%20originel%20du%20XXe%20si%C3%A8cle&amp;url=http%3A%2F%2Fdenis-collin.viabloga.com%2Fnews%2Fle-peche-originel-du-xxe-siecle" title="NetVibes"><img src="/public_images/social/aquaticus/16x16/netvibes.png" width="16" height="16" /></a> </div><br></p>
+</div>
+
+
+
+
+
+<p class="newsCmd"></p>
+
+
+</div>
+
+
+<div id="footer">
+<hr />
+
+<p>Version 
+<a href="http://denis-collin.viabloga.com/index.rdf" style="background:#FF6600; font-size: x-small; font-family: verdana; border: solid 1px; font-weight: bold; color: white; border-bottom-color: Black; border-top-color: #F5F5DC; border-right-color: Black; border-left-color: #F5F5DC; text-decoration: none; margin: 0 3px;">&nbsp;RSS 1.0&nbsp;</a>
+<a href="http://denis-collin.viabloga.com/index.xml" style="background:#FF6600; font-size: x-small; font-family: verdana; border: solid 1px; font-weight: bold; color: white; border-bottom-color: Black; border-top-color: #F5F5DC; border-right-color: Black; border-left-color: #F5F5DC; text-decoration: none; margin: 0 3px;">&nbsp;RSS 2.0&nbsp;</a>
+.</p>
+<p>Publié avec <a href="http://viabloga.com">Viabloga</a>. Modèle de mise en page <a href="http://minimum.viabloga.com">Minimum</a> par <a href="http://berewt.net" class="internal">be-rewt</a>.</p>
+</div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+   ;frame-ancestors
+'self'     
+   
+preload nel:
+oints":[{"url":" date: Sat, 03 Jan
+16:45:23 GMT; domain=.; path=/; secure; samesite=none; httponly
+set-cookie: MUID=384FD44FC7A3682C37C5C299C6D56989; expires=Thu, 28 Jan 2027
+16:45:23 GMT; domain=.; path=/; secure; samesite=none set-cookie:
+MUIDB=384FD44FC7A3682C37C5C299C6D56989; expires=Thu, 28 Jan 2027 16:45:23 GMT;
+Origin

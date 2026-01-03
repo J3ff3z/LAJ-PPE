@@ -1,13 +1,13 @@
 HTTP/2 200 content-type: text/html; charset=UTF-8 content-security-policy:
-frame-ancestors 'self' etag: W/"1pp8huo" permissions-policy: camera=(),
+frame-ancestors 'self' etag: W/"lcxi3k" permissions-policy: camera=(),
 geolocation=(), accelerometer=(), payment=(), usb=(), xr-spatial-tracking=()
 referrer-policy: no-referrer-when-downgrade x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN x-sveltekit-page: true x-xss-protection: 1;
-mode=block cache-control: public, max-age=-215 x-akamai-transformed: 9 39220 0
-pmb=mRUM,2 date: Sat, 03 Jan 2026 16:13:46 GMT server-timing: cdn-cache;
-desc=REVALIDATE server-timing: edge; dur=13 server-timing: origin; dur=5
+mode=block cache-control: public, max-age=-929 x-akamai-transformed: 9 39232 0
+pmb=mRUM,2 date: Sat, 03 Jan 2026 16:43:24 GMT server-timing: cdn-cache;
+desc=REVALIDATE server-timing: edge; dur=18 server-timing: origin; dur=8
 strict-transport-security: max-age=15768000 origin: "" server-timing: ak_p;
-desc="1767456826759_1611776005_1613705150_1865_5084_4_35_15";dur=1
+desc="1767458604913_1611776014_810636927_2627_7188_4_41_15";dur=1
 
 Les nouveaux péchés selon le pape François
   * (BUTTON) Contenu

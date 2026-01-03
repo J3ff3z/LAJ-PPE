@@ -1,0 +1,1534 @@
+HTTP/2 200 
+date: Sat, 03 Jan 2026 16:47:05 GMT
+content-type: text/html; charset=UTF-8
+server: cloudflare
+cache-control: max-age=0, must-revalidate, private
+link: </build/runtime.cbd1eb02.js>; rel="preload"; as="script",</build/app.2ca7733b.js>; rel="preload"; as="script",</build/app.767019b7.css>; rel="preload"; as="style"; rel="stylesheet"
+expires: Sat, 03 Jan 2026 16:47:05 GMT
+set-cookie: tipssid=dargpd3643fsl0f46kcujkeiag; path=/; secure; httponly; samesite=lax
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lbSmtbcoccl27QvT7PaFgJ5bvjoKhozmQb6WQicdhnnnAphTZHW9x6Gugw7GKE4xHbULjIQdH5d%2BW45EC0wafaGaQDknqyntr4RWUYQY6qlfyLGAye8F7C17XhEkPmsz"}]}
+cf-cache-status: DYNAMIC
+vary: accept-encoding
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: 9b83f9da488a2a62-CDG
+alt-svc: h3=":443"; ma=86400
+
+<!DOCTYPE html>
+<html lang="pl" class="wcag-default-contrast">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>Grzech - obrazy grzechu w sztuce europejskiej</title>
+        <meta name="description" content="Wystawa &amp;bdquo;Grzech. Obrazy grzechu w sztuce europejskiej od XV do pocz. XX wieku&amp;rdquo; zorganizowana w Muzeum Narodowym w Gdańsku jest poświęcona...">
+        <meta name="robots" content="index,follow,all">
+        <meta name="robots" content="max-image-preview:large">
+        <meta name="theme-color" content="#258daf">
+
+        <meta property="og:type" content="article"><meta property="og:article:published_time" content="2015-10-28T09:00:00Z"><meta property="og:article:expiration_time" content="2115-10-28T09:00:00Z"><meta name="cXenseParse:taxonomy" content="Wiadomości"><meta name="cXenseParse:taxonomy" content="Trójmiasto i okolice"><meta name="cXenseParse:articleid" content="45196"><meta property="og:url" content="https://www.portalpomorza.pl/artykul/45196,grzech-obrazy-grzechu-w-sztuce-europejskiej"><meta property="og:title" content="Grzech - obrazy grzechu w sztuce europejskiej"><meta property="og:description" content="Wystawa &amp;amp;bdquo;Grzech. Obrazy grzechu w sztuce europejskiej od XV do pocz. XX wieku&amp;amp;rdquo; zorganizowana w Muzeum Narodowym w Gdańsku jest poświęcona..."><meta property="og:image" content="https://static2.portalpomorza.pl/data/articles/xga-4x3-grzech-obrazy-grzechu-w-sztuce-europejskiej-1654074117.jpg"><meta property="og:image:width" content="1530"><meta property="og:image:height" content="1151"><meta property="og:site_name" content="PortalPomorza.pl"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:url" content="https://www.portalpomorza.pl/artykul/45196,grzech-obrazy-grzechu-w-sztuce-europejskiej"><meta name="twitter:title" content="Grzech - obrazy grzechu w sztuce europejskiej"><meta name="twitter:description" content="Wystawa &amp;amp;bdquo;Grzech. Obrazy grzechu w sztuce europejskiej od XV do pocz. XX wieku&amp;amp;rdquo; zorganizowana w Muzeum Narodowym w Gdańsku jest poświęcona..."><meta name="twitter:image" content="https://static2.portalpomorza.pl/data/articles/xga-4x3-grzech-obrazy-grzechu-w-sztuce-europejskiej-1654074117.jpg">
+                    <link rel="canonical" href="https://www.portalpomorza.pl/artykul/45196,grzech-obrazy-grzechu-w-sztuce-europejskiej">        <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet"><style>:root {
+    --first-color:#258daf;
+    --first-color-rgb:37,141,175;
+    --second-color:#1688aa;
+    --second-color-rgb:22,136,170;
+    --third-color:#ffa600;
+    --third-color-rgb:255,166,0;
+
+    --first-color-darker:#227f9e;
+    --first-color-darkest:#1e718c;
+    --first-color-lighter:#3b99b7;
+    --first-color-lightest:#51a4bf;
+    --first-color-ultralight:#f5fafb;
+
+    --second-color-darker:#147b99;
+    --second-color-darkest:#126d88;
+    --second-color-lighter:#2e94b3;
+    --second-color-lightest:#45a0bb;
+    --second-color-ultralight:#f4fafb;
+
+    --third-color-darker:#e69600;
+    --third-color-darkest:#cc8500;
+    --third-color-lighter:#ffaf1a;
+    --third-color-lightest:#ffb833;
+    --third-color-ultralight:#fffbf3;
+
+    --font-size-default:16px;--font-family-default: 'Open Sans',sans-serif!important;--font-family-headings: 'Open Sans',sans-serif!important;--ticker-background-color: #1688aa;--ticker-color: #FBFBFB;--ticker-font-size: 1.1875rem;--header-background-color: #fff;--header-angle: 147deg;--header-start-color: #FFFFFF;--header-stop-color: #9B9B9C;--header-image: url('https://static2.portalpomorza.pl/data/wysiwig/bg-gray.png');--header-background-repeat: no-repeat;--header-background-position: center top;--header-background-size: cover;--header-search-button-color: #FFFFFF;--header-search-button-background-color: #1688aa;--header-search-button-angle: 250deg;--header-search-button-start-color: #d01c00;--header-search-button-stop-color: #0A136D;--header-search-button-hover-background-color: #ffa600;--header-search-button-hover-angle: 45deg;--header-search-button-hover-start-color: #FF0000;--header-search-button-hover-stop-color: #960000;--navbar-background-color: #FFFFFF;--navbar-color: #000;--navbar-font-size: 1.125rem;
+    --navbar-font-weight: bold;--footer-color: #FFFFFF;--footer-background-color: #99C800;--footer-angle: 295deg;--footer-start-color: #1688aa;--footer-stop-color: #000;--footer-image: url('https://static.tipdev24.pl/data/wysiwig/697601.jpg');--footer-background-repeat: no-repeat;--footer-background-position: left top;--footer-background-size: cover;--footer-search-button-color: #FFFFFF;--footer-search-button-background-color: #FF0000;--footer-search-button-angle: 45deg;--footer-search-button-start-color: #4aa5bf;--footer-search-button-stop-color: #0360a7;--footer-search-button-hover-background-color: #0274CA;--footer-search-button-hover-angle: 45deg;--footer-search-button-hover-start-color: #909090;--footer-search-button-hover-stop-color: #333131;--classifiedaddon-toplist-background-color:#FFFADF;--classifiedaddon-toplist-frame-width:4px;--classifiedaddon-toplist-frame-color:#F7E99F;--classifiedaddon-toplist-text-color:#FFC302;--classifiedaddon-frame-width:4px;--classifiedaddon-frame-color:#82E1FF;--classifiedaddon-background-color:#E1FCFF;--businessaddon-toplist-color:#5FAC52;--businessaddon-toplist-background-color:#E4FFDF;--businessaddon-toplist-frame-width:4px;--businessaddon-toplist-frame-color:#A7F79F;--businessaddon-frame-width:4px;--businessaddon-frame-color:#82E1FF;--businessaddon-font-weight:bold;--businessaddon-background-color:#E1FCFF;        --header-topbar-background-color: #eeeeee;
+                --header-topbar-color: #000;
+                --backtotop-button-color: #fff;
+                --backtotop-button-background-color: #322b2b;
+    }
+</style>
+
+                    <link rel="stylesheet" href="/build/app.767019b7.css"><link rel="icon" href="https://static2.portalpomorza.pl/data/wysiwig/LOGOTYP/IKONA%20SERWISU_PL_LOGO_ikonamewa.png"><script>
+                window.dataLayer = window.dataLayer || [];
+                var articleDataLayer = JSON.parse('\u007B\u0022page_type\u0022\u003A\u0022article\u0022,\u0022article_title\u0022\u003A\u0022Grzech\u0020\u002D\u0020obrazy\u0020grzechu\u0020w\u0020sztuce\u0020europejskiej\u0022,\u0022article_published\u0022\u003A\u00222015\u002D10\u002D28\u002009\u003A00\u003A00\u0022,\u0022article_author\u0022\u003A\u0022\u0022,\u0022article_author_id\u0022\u003Anull,\u0022user_login_status\u0022\u003Afalse,\u0022article_category\u0022\u003A\u0022Wiadomo\\u015bci\u0022\u007D');
+                window.dataLayer.push(articleDataLayer);
+            </script><script async src="https://www.googletagmanager.com/gtag/js?id=G-3RC02L31TX"></script>
+            <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-3RC02L31TX');</script><style>@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");.widget {font-size:1rem;font-family:'Open Sans', sans-serif;color:rgba(0, 0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgba(0, 0, 0, 0);border-bottom-color:rgba(0, 0, 0, 0);border-left-color:rgba(0, 0, 0, 0);border-right-color:rgba(0, 0, 0, 0);border-top-style:solid;border-bottom-style:solid;border-left-style:solid;border-right-style:solid;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px}.widget .widget-heading {font-family:'Open Sans', sans-serif;color:#fff;background-color:rgba(0, 0, 0, 0);border-top-color:rgba(0, 0, 0, 0);border-bottom-color:#1688aa;border-left-color:rgba(0, 0, 0, 0);border-right-color:rgba(0, 0, 0, 0);border-top-width:0px;border-bottom-width:2px;border-right-width:0px;border-bottom-style:solid;padding-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px}.widget .widget-heading .widget-title-text {
+                color:#fff;
+            }.widget .widget-heading .widget-icon {
+                font-size:1.5rem;
+            }.widget .widget-heading .widget-icon .widget-icon-icon,.widget .widget-heading .widget-icon .widget-icon-shape {
+                color:#000000;
+            }.widget .widget-heading .widget-icon .widget-icon-shape {
+                color:#fff;
+            }.widget .widget-heading .widget-title-text {font-size:1.4rem;font-family:'Open Sans', sans-serif;font-weight:600;color:#000000;padding-top:2px;padding-bottom:3px;padding-left:2px;padding-right:10px}.widget .widget-heading .widget-toolbar {font-family:'Open Sans', sans-serif;font-weight:600;color:#000}.widget .widget-heading .widget-toolbar .toolbar-item {color:#000}.widget .widget-body {font-family:'Open Sans', sans-serif;color:#000;background-color:rgba(0, 0, 0, 0)}.widget .widget-body span {
+            color:#000;
+        }.widget .widget-body .result-title {font-size:1rem;font-family:'Open Sans', sans-serif;font-weight:700;color:#000}.widget.widget-radio .widget-body .widget-icon span {
+            color:#000}.widget .widget-body .grid-style-absolute .layer {color:#fff;background-color:rgba(0, 0, 0, 0.647);padding-top:10px;padding-bottom:10px;padding-left:10px;padding-right:10px}.widget .widget-body .grid-style-absolute .layer span,.widget .widget-body .grid-style-absolute .layer .result-title {
+                color:#fff;
+            }.widget.widget-calendar .fc .fc-button {
+        background-color:rgba(22, 136, 170, 0.43);
+        border-color:rgba(22, 136, 170, 0.43);
+    }.widget.widget-calendar .fc .fc-button,.widget.widget-calendar .fc .fc-button span {
+        color:#fff;
+    }.widget.widget-calendar .fc-theme-standard td,.widget.widget-calendar .fc-theme-standard th,.widget.widget-calendar .fc-theme-standard .fc-scrollgrid {
+        border-color:rgba(255, 255, 255, 0);
+    }.widget.widget-calendar .fc .fc-toolbar-title {
+        color:#fff;
+    }.widget.widget-calendar .fc .fc-toolbar.fc-header-toolbar {
+        background-color:#1688aa;
+    }.widget.widget-calendar .fc .fc-col-header .fc-col-header-cell,.widget.widget-calendar .fc .fc-col-header .fc-col-header-cell a{
+        color:#444;
+    }.widget.widget-calendar .fc .fc-daygrid-day.fc-day .fc-daygrid-day-frame,.widget.widget-calendar .fc .fc-daygrid-day.fc-day .fc-daygrid-day-frame *{
+        color:#444;
+    }.widget.widget-calendar .fc .fc-daygrid-day.fc-day{
+        background-color:#f8f8f8;
+    }.widget.widget-calendar .fc .fc-daygrid-day.fc-day .fc-daygrid-day-frame.got-event,.widget.widget-calendar .fc .fc-daygrid-day.fc-day .fc-daygrid-day-frame.got-event .fc-daygrid-day-number,.widget.widget-calendar .fc .fc-daygrid-day.fc-day .fc-daygrid-day-frame.got-event *{
+        color:#1688aa;
+    }.widget.widget-calendar .fc .fc-daygrid-day.fc-day .fc-daygrid-day-frame.got-event {
+        background-color:#f8f8f8;
+    }.widget .other-articles {font-family:'Open Sans', sans-serif}
+.widget .widget-heading a.widget-title:hover .widget-icon .widget-icon-icon,.widget .widget-heading a.widget-title:hover .widget-icon .widget-icon-shape,.widget .widget-heading a.widget-title:focus .widget-icon .widget-icon-icon,.widget .widget-heading a.widget-title:focus .widget-icon .widget-icon-shape {
+                    color:#000;
+                }.widget .widget-heading a.widget-title:hover .widget-title-text,.widget .widget-heading a.widget-title:focus .widget-title-text {
+                text-decoration: none;color:#000;background-color:rgba(0, 0, 0, 0);}.widget .widget-heading .widget-toolbar .btn-toolbar .toolbar-item:hover,.widget .widget-heading .widget-toolbar .btn-toolbar .toolbar-item:focus {color:#000;}.widget .widget-body a:hover .result-title,.widget .widget-body a:focus .result-title {
+                text-decoration: underline;color:#000;}.widget.widget-calendar .fc .fc-daygrid-day.fc-day .fc-daygrid-day-frame:hover {
+                    background-color:#fff;
+                }.widget.widget-calendar .fc .fc-daygrid-day.fc-day:hover .fc-daygrid-day-frame.got-event {
+                    background-color:#fff;
+                }.widget .widget-body .grid-style-absolute a:hover .layer .result-title,.widget .widget-body .grid-style-absolute a:focus .layer .result-title {
+                text-decoration: none;
+            }.widget .widget-body .grid-style-absolute a:hover .layer,.widget .widget-body .grid-style-absolute a:focus .layer {
+                    background-color:rgba(0, 0, 0, 0.781);
+                }#testowe_id{color:#fff}
+.testowa_klasa > .testowa_klasa2 {opacity: 1}
+.widget.widget-contact .form-check label {font-size:85%;}
+#footer-wrapper .footer-founders img {width:auto;}
+
+#news-ticker-title {background-color: #FFA600 !important}</style><!-- SmartAdServer --><script>var sas_idmnet = sas_idmnet || {}; sas_idmnet.cmd = sas_idmnet.cmd || []; var sas = sas || {}; sas.cmd = sas.cmd || [];window.NzpPyBmOTGuZ = true;sas_idmnet.cmd.push(function() {sas_idmnet.placementsList(['top_1','side_1','bottom_1','prg_inside_top','prg_inside_middle','prg_inside_bottom','m_bottom_1','m_inside_top','m_top_1','inside_1','inside_2','inside_3','m_inside_1','m_inside_2','m_inside_3','inside_1_wide','inside_2_wide','inside_3_wide','m_inside_4','inside_2_article','m_inside_2_article','m_inside_3_article','m_inside_4_article','m_inside_5_article','inside_3_article','inside_4_article','inside_5_article','side_2','m_inside_2_gallery','m_inside_3_gallery','m_inside_4_gallery','m_inside_5_gallery','inside_4','m_prestitial']);});</script>
+<script id='gptScript' async src='//securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script type='text/javascript' src='//smart.idmnet.pl/495850/smartConfig_1551011.js' async></script>
+<script type='text/javascript' src='//smart.idmnet.pl/prebidBoilerplate.js' async></script>
+
+<script type="text/javascript">var wbtg_value = 'domain=portalpomorza.pl ';</script>
+
+<!-- DMP -->
+<!-- Cxense script begin -->
+    <script type="text/javascript">
+var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+cX.callQueue.push(['setSiteId', '1136393767983980428']);
+cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+(function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+e.src=location.protocol+'//cdn.cxense.com/cx.js';
+t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+
+    <!-- Cxense script end -->
+
+
+<!--<script defer type="module" src="https://reonews.pl/reo/reo.min.js?token=9efce1f206aab953ef0333dbe41229aa563e6ee2a16cb325e99570f1ce923ffcf0995883f0ab3fc63618ada7d361cff81b8fa5e15d15909959f9119e83bced2a" data-reo>
+</script>-->
+
+<!-- mgid -->
+<script src="https://jsc.mgid.com/site/930065.js" async>
+</script><script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.portalpomorza.pl/artykul/45196,grzech-obrazy-grzechu-w-sztuce-europejskiej","headline":"Grzech - obrazy grzechu w sztuce europejskiej","description":"Wystawa &bdquo;Grzech. Obrazy grzechu w sztuce europejskiej od XV do pocz. XX wieku&rdquo; zorganizowana w Muzeum Narodowym w Gdańsku jest...","image":[{"@context":"https://schema.org","@type":"ImageObject","url":"https://static2.portalpomorza.pl/data/articles/xga-1x1-grzech-obrazy-grzechu-w-sztuce-europejskiej-1654074117.webp","height":1530,"width":1530},{"@context":"https://schema.org","@type":"ImageObject","url":"https://static2.portalpomorza.pl/data/articles/xga-4x3-grzech-obrazy-grzechu-w-sztuce-europejskiej-1654074117.webp","height":1151,"width":1530},{"@context":"https://schema.org","@type":"ImageObject","url":"https://static2.portalpomorza.pl/data/articles/xga-16x9-grzech-obrazy-grzechu-w-sztuce-europejskiej-1654074117.webp","height":860,"width":1530}],"publisher":{"@type":"Organization","name":"PortalPomorza.pl","url":"https://www.portalpomorza.pl/","logo":{"@type":"ImageObject","url":"https://static2.portalpomorza.pl/data/wysiwig/250.png"}},"datePublished":"2015-10-28T09:00 +0100","dateModified":"2023-07-07T14:39 +0200"}
+        </script>    </head>
+    <body class=" page-17319d6bbe49987c2c291d706da7d1e8" data-rc="6LeRaIkhAAAAAHemoC3hTrKBy1s18Sg4OVPJRV1b"><script>
+	sas_idmnet.cmd.push(function() {try {sas_idmnet.prestitialRelease()} catch (e) {}})
+</script><div class="main-wrapper">
+            <header class="header-type-image sticky">
+            <div class="top-bar">
+        <div class="container">
+            <div class="d-flex flex-row justify-content-between">
+                <div class="d-flex align-items-center"><div class="d-none d-lg-block">
+                            <ul class="social">
+                                                                    <li>
+                                        <a href="https://www.facebook.com/PortalPomorzapl/" title="Przejdź do Facebook.com" rel="nofollow" target="_blank">
+                                            <span class="fab fa-facebook-f" aria-hidden="true"></span>
+                                            <span class="sr-only">Facebook.com</span>
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://twitter.com/grupatipmedia" title="Przejdź do X.com" rel="nofollow" target="_blank">
+                                            <span class="fab fa-x-twitter" aria-hidden="true"></span>
+                                            <span class="sr-only">X.com</span>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div><div class="datetime-stamp d-none d-lg-block mx-3">
+                            sobota, 3 stycznia 2026 17:47
+                        </div></div>
+
+                <div class="d-flex align-items-center"><ul class="lbuttons">
+                            <li>
+                                <a href="/konto/logowanie" rel="nofollow">Zaloguj się</a>
+                            </li>
+                        </ul></div>
+            </div>
+        </div>
+    </div>
+    <div class="middle-bar">
+        <div class="middle-bar-container" style="padding-top:25px;padding-bottom:25px">
+            <div class="container">
+                <div class="row align-items-center justify-content-between justify-content-md-center justify-content-lg-between flex-lg-nowrap">
+                    <div class="col-logo col-lg-3 text-left">
+                        <div class="d-flex justify-content-between">
+                            <a href="/" class="brand" title="Przejdź do strony głównej">
+                                                                                                                                                                                <img
+                                        src="https://static2.portalpomorza.pl/data/wysiwig/250.png"
+                                        alt="PortalPomorza.pl - Blisko ważnych spraw!"
+                                        class="img-fluid"
+                                        style="max-width:100%"
+                                        width="250"                                        height="66"                                    >
+                                                            </a>
+                            <button class="navbar-toggler p-0 ml-3 text-black" data-toggle="offcanvas" type="button" aria-expanded="false" aria-label="Menu">
+                                <span class="fal fa-2x fa-bars" aria-hidden="true"></span>
+                            </button>
+                        </div>
+                    </div><div class="col-search col-lg-auto mr-auto mr-xl-0 d-none d-lg-block col-search-type-solid col-search-hover-type-solid">
+                                <form method="get" action="/szukaj" class="search mx-auto mx-lg-0 my-4 my-lg-0" rel="nofollow" novalidate>
+    <div class="input-group input-group-rounded">
+            <input type="text" id="middlebarSearch" name="word" required="required" placeholder="Szukaj w portalu" aria-label="Szukaj" class="form-control" >
+        
+        <div class="input-group-append">
+            <button
+                class="btn btn-secondary bg-first-color border-first-color btn-search"
+                type="submit"
+            >
+                                    <i class="fas fa-search"></i>
+                            </button>
+        </div>
+    </div>
+</form>
+
+                        </div>
+                    
+                                            <div class="col-menutop col-lg-auto text-center text-xl-left d-none d-lg-block">
+                            <style>.menu-top-9 > svg > path {fill:#000;}.menu-top-9:hover > svg > path {fill:#1688aa;}.menu-top-9 > span {color:#1688aa;}.menu-top-8 > svg > path {fill:#000;}.menu-top-8:hover > svg > path {fill:#1688aa;}.menu-top-8 > span {color:#1688aa;}.menu-top-4 > svg > path {fill:#000;}.menu-top-4:hover > svg > path {fill:#1688aa;}.menu-top-4 > span {color:#1688aa;}.menu-top-5 > svg > path {fill:#000;}.menu-top-5:hover > svg > path {fill:#1688aa;}.menu-top-5 > span {color:#1688aa;}.menu-top-3 > svg > path {fill:#000;}.menu-top-3:hover > svg > path {fill:#007ea6;}.menu-top-3 > span {color:#007ea6;}.menu-top-6 > svg > path {fill:#000;}.menu-top-6:hover > svg > path {fill:#1688aa;}.menu-top-6 > span {color:#1688aa;}</style><ul id="menu-top" class="d-flex"><li class="mx-2">
+                <a
+                    class="menu-top-9 "
+                    href="/artykuly"
+                    title="Artykuły"
+                    target="_self"
+                >
+                                            <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" xml:space="preserve"><path d="M245.33 42.67H39.11c-5.88 0-10.67 4.79-10.67 10.67v3.56H10.67C4.78 56.89 0 61.66 0 67.56V192c0 11.78 9.55 21.33 21.33 21.33h224c5.88 0 10.67-4.79 10.67-10.67V53.33c0-5.88-4.79-10.66-10.67-10.66zM14.22 192V71.11h14.22V192c0 3.92-3.19 7.11-7.11 7.11s-7.11-3.19-7.11-7.11zm227.56 7.11H41.45c.81-2.28 1.22-4.69 1.22-7.11V56.89h199.11v142.22zM62.22 156.44h74.67c2.95 0 5.33-2.39 5.33-5.33V76.44c0-2.95-2.39-5.33-5.33-5.33H62.22c-2.95 0-5.33 2.39-5.33 5.33v74.67c0 2.95 2.39 5.33 5.33 5.33zm8.89-71.11H128v56.89H71.11V85.33zm-14.22 94.23V176c0-2.95 2.39-5.33 5.33-5.33h74.67c2.95 0 5.33 2.39 5.33 5.33v3.56c0 2.95-2.39 5.33-5.33 5.33H62.22c-2.94 0-5.33-2.39-5.33-5.33zm99.55 0V176c0-2.95 2.39-5.33 5.33-5.33h60.44c2.95 0 5.33 2.39 5.33 5.33v3.56c0 2.95-2.39 5.33-5.33 5.33h-60.44c-2.94 0-5.33-2.39-5.33-5.33zm0-28.45v-3.56c0-2.95 2.39-5.33 5.33-5.33h60.44c2.95 0 5.33 2.39 5.33 5.33v3.56c0 2.95-2.39 5.33-5.33 5.33h-60.44c-2.94 0-5.33-2.38-5.33-5.33zm0-56.89v-3.56c0-2.95 2.39-5.33 5.33-5.33h60.44c2.95 0 5.33 2.39 5.33 5.33v3.56c0 2.95-2.39 5.33-5.33 5.33h-60.44c-2.94.01-5.33-2.38-5.33-5.33zm0 28.45v-3.56c0-2.95 2.39-5.33 5.33-5.33h60.44c2.95 0 5.33 2.39 5.33 5.33v3.56c0 2.95-2.39 5.33-5.33 5.33h-60.44c-2.94 0-5.33-2.39-5.33-5.33z"/></svg>
+                                                                <span class="d-lg-none d-xl-block text-truncate-lines-1">Artykuły</span>
+                                    </a>
+            </li><li class="mx-2">
+                <a
+                    class="menu-top-8 "
+                    href="/plebiscyty"
+                    title="Plebiscyty"
+                    target="_self"
+                >
+                                            <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" xml:space="preserve"><path d="M243.2 25.6H64c-7.07 0-12.8 5.25-12.8 11.73V76.8h51.2V38.4h102.4v115.2H192v12.8h51.2c7.07 0 12.8-5.25 12.8-11.73V37.33c0-6.48-5.73-11.73-12.8-11.73zM89.6 64H64V38.4h25.6V64zm153.6 89.6h-25.6V128h25.6v25.6zm0-38.4h-25.6V76.8h25.6v38.4zm0-51.2h-25.6V38.4h25.6V64zm-76.8 25.6H12.8C5.73 89.6 0 95.33 0 102.4v115.2c0 7.07 5.73 12.8 12.8 12.8h153.6c7.07 0 12.8-5.73 12.8-12.8V102.4c0-7.07-5.73-12.8-12.8-12.8zm0 128H12.8V208l32.68-24.5 32 16 50.74-38.06 38.19 25.45v30.71zm0-46.09-38.61-25.74-51.66 38.74-32-16L12.8 192v-89.6h153.6v69.11zM44.8 153.6c10.6 0 19.2-8.6 19.2-19.2s-8.6-19.2-19.2-19.2-19.2 8.6-19.2 19.2 8.6 19.2 19.2 19.2zm0-25.6c3.53 0 6.4 2.87 6.4 6.4 0 3.53-2.87 6.4-6.4 6.4s-6.4-2.87-6.4-6.4c0-3.53 2.87-6.4 6.4-6.4z"/></svg>
+                                                                <span class="d-lg-none d-xl-block text-truncate-lines-1">Plebiscyty</span>
+                                    </a>
+            </li><li class="mx-2">
+                <a
+                    class="menu-top-4 "
+                    href="/wydarzenia"
+                    title="Wydarzenia"
+                    target="_self"
+                >
+                                            <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><path d="M216 32h-24V6c0-3.3-2.7-6-6-6h-4c-3.3 0-6 2.7-6 6v26H80V6c0-3.3-2.7-6-6-6h-4c-3.3 0-6 2.7-6 6v26H40c-13.3 0-24 10.8-24 24v176c0 13.3 10.8 24 24 24h176c13.3 0 24-10.8 24-24V56c0-13.2-10.7-24-24-24zM40 48h176c4.4 0 8 3.6 8 8v24H32V56c0-4.4 3.6-8 8-8zm176 192H40c-4.4 0-8-3.6-8-8V96h192v136c0 4.4-3.6 8-8 8zM90 160H70c-3.3 0-6-2.7-6-6v-20c0-3.3 2.7-6 6-6h20c3.3 0 6 2.7 6 6v20c0 3.3-2.7 6-6 6zm48 0h-20c-3.3 0-6-2.7-6-6v-20c0-3.3 2.7-6 6-6h20c3.3 0 6 2.7 6 6v20c0 3.3-2.7 6-6 6zm48 0h-20c-3.3 0-6-2.7-6-6v-20c0-3.3 2.7-6 6-6h20c3.3 0 6 2.7 6 6v20c0 3.3-2.7 6-6 6zm-48 48h-20c-3.3 0-6-2.7-6-6v-20c0-3.3 2.7-6 6-6h20c3.3 0 6 2.7 6 6v20c0 3.3-2.7 6-6 6zm-48 0H70c-3.3 0-6-2.7-6-6v-20c0-3.3 2.7-6 6-6h20c3.3 0 6 2.7 6 6v20c0 3.3-2.7 6-6 6zm96 0h-20c-3.3 0-6-2.7-6-6v-20c0-3.3 2.7-6 6-6h20c3.3 0 6 2.7 6 6v20c0 3.3-2.7 6-6 6z"/></svg>
+                                                                <span class="d-lg-none d-xl-block text-truncate-lines-1">Wydarzenia</span>
+                                    </a>
+            </li><li class="mx-2">
+                <a
+                    class="menu-top-5 "
+                    href="/galerie-zdjec"
+                    title="Galerie zdjęć"
+                    target="_self"
+                >
+                                            <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" xml:space="preserve"><path d="M16 29V19c0-1.65 1.35-3 3-3h58c1.65 0 3 1.35 3 3v10c0 1.65-1.35 3-3 3H19c-1.65 0-3-1.35-3-3zm172 115c0-33.1-26.9-60-60-60s-60 26.9-60 60 26.9 60 60 60 60-26.9 60-60zm-16 0c0 24.25-19.75 44-44 44s-44-19.75-44-44 19.75-44 44-44 44 19.75 44 44zm-60 0c0-8.8 7.2-16 16-16 4.4 0 8-3.6 8-8s-3.6-8-8-8c-17.65 0-32 14.35-32 32 0 4.4 3.6 8 8 8s8-3.6 8-8zM256 40v176c0 13.25-10.75 24-24 24H24c-13.25 0-24-10.75-24-24V72c0-13.25 10.75-24 24-24h68l16.8-22.4c4.55-6.05 11.65-9.6 19.2-9.6h104c13.25 0 24 10.75 24 24zm-144 8h120c2.8 0 5.5.5 8 1.35V40c0-4.4-3.6-8-8-8H128c-2.5 0-4.9 1.2-6.4 3.2L112 48zm128 24c0-4.4-3.6-8-8-8H24c-4.4 0-8 3.6-8 8v144c0 4.4 3.6 8 8 8h208c4.4 0 8-3.6 8-8V72z"/></svg>
+                                                                <span class="d-lg-none d-xl-block text-truncate-lines-1">Galerie zdjęć</span>
+                                    </a>
+            </li><li class="mx-2">
+                <a
+                    class="menu-top-3 "
+                    href="/firmy"
+                    title="Firmy"
+                    target="_self"
+                >
+                                            <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><path d="M232 64h-56V28c0-6.6-5.4-12-12-12H92c-6.6 0-12 5.4-12 12v36H24C10.7 64 0 74.7 0 88v128c0 13.3 10.7 24 24 24h208c13.3 0 24-10.7 24-24V88c0-13.3-10.7-24-24-24zM96 32h64v32H96V32zm144 184c0 4.4-3.6 8-8 8H24c-4.4 0-8-3.6-8-8v-72h80v20c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-20h80v72zm-128-56v-16h32v16h-32zm128-32H16V88c0-4.4 3.6-8 8-8h208c4.4 0 8 3.6 8 8v40z"/></svg>
+                                                                <span class="d-lg-none d-xl-block text-truncate-lines-1">Firmy</span>
+                                    </a>
+            </li><li class="mx-2">
+                <a
+                    class="menu-top-6 "
+                    href="/s/103/kontakt"
+                    title="Kontakt"
+                    target="_self"
+                >
+                                            <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" xml:space="preserve"><path d="M246.63 28.12 227.88 9.37c-12.5-12.5-32.76-12.5-45.26 0L6.42 185.58.08 242.67c-.85 7.64 5.61 14.1 13.25 13.25l57.09-6.34L246.63 73.37c12.49-12.49 12.49-32.76 0-45.25zM82.34 173.66c3.12 3.12 8.19 3.12 11.31 0L184 83.31l15.03 15.03L87 210.37V193H63v-24H45.63L157.66 56.97 172.69 72l-90.34 90.34a8.006 8.006 0 0 0-.01 11.32zM63.07 234.3l-29.5 3.28-15.15-15.15 3.28-29.5 9.93-9.93H49v24h24v17.37l-9.93 9.93zM235.31 62.06l-24.97 24.97-41.37-41.37 24.97-24.97c6.25-6.25 16.37-6.25 22.63 0l18.75 18.75c6.25 6.24 6.25 16.36-.01 22.62z"/></svg>
+                                                                <span class="d-lg-none d-xl-block text-truncate-lines-1">Kontakt</span>
+                                    </a>
+            </li></ul>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+    <nav class="navbar navbar-expand-md navbar-light main-menu main-menu-sticky" id="main_nav" style="background-color:#FFFFFF">
+    <div class="container">
+        <div class="collapse navbar-collapse offcanvas-collapse" id="mainNavbar">
+            <a href="#" class="offcanvas-close" aria-label="Zamknij menu">
+                <span class="fal fa-2x fa-times" aria-hidden="true"></span>
+            </a>
+
+            <div class="w-100 mt-6 mt-lg-0">
+                                                                                                <div class="d-lg-none">
+                            <form method="get" action="/szukaj" class="search mx-auto mx-lg-0 my-4 my-lg-0" rel="nofollow" novalidate>
+    <div class="input-group input-group-rounded">
+            <input type="text" id="navbarSearch" name="word" required="required" placeholder="Szukaj w portalu" aria-label="Szukaj" class="form-control" >
+        
+        <div class="input-group-append">
+            <button
+                class="btn btn-secondary bg-first-color border-first-color btn-search"
+                type="submit"
+            >
+                                    <i class="fas fa-search"></i>
+                            </button>
+        </div>
+    </div>
+</form>
+
+                    </div>
+                
+                                    <div id="main-menu" class="d-lg-flex justify-content-between">
+
+
+<ul class="navbar-nav mr-auto" role="menubar" aria-label="Menu główne">
+    <li role="none" >
+            <a
+                href="/"
+                class="toolbar-item d-block selected menu-button"
+                id="mainmenu-item-388"
+                role="menuitem"
+                tabindex="0"
+                
+                
+                
+            >Start</a></li><li role="none" >
+            <a
+                href="/artykuly"
+                class="toolbar-item d-block menu-button"
+                id="mainmenu-item-390"
+                role="menuitem"
+                tabindex="-1"
+                
+                
+                
+            >Wiadomości</a></li><li role="none" class="dropdown">
+            <a
+                href="#"
+                class="toolbar-item d-block dropdown-toggle"
+                id="mainmenu-item-393"
+                role="menuitem"
+                tabindex="-1"
+                
+                
+                
+            >Serwisy</a><ul class="dropdown-menu dropdown-submenu border-0 shadow" role="menu" aria-expanded="false" aria-labelledby="mainmenu-item-393"><li role="none" >
+        <a
+            href="/artykuly/17/gospodarka"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-395"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Gospodarka</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/9/edukacja"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-394"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Edukacja</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/24/historia"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-396"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Historia</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/16/kultura"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-397"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Kultura</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/22/rolnictwo"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-398"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Rolnictwo</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/15/sport"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-399"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Sport</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/20/turystyka"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-400"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Turystyka</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/25/zdrowie"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-402"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Zdrowie</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/25/zdrowie"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-437"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >COVID-19</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/19/video"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-403"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Video</a></li>
+<li role="none" >
+        <a
+            href="/galerie-zdjec"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-404"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Galerie</a></li>
+    </ul>
+</li><li role="none" class="dropdown">
+            <a
+                href="/artykuly/11/atrakcje"
+                class="toolbar-item d-block dropdown-toggle"
+                id="mainmenu-item-405"
+                role="menuitem"
+                tabindex="-1"
+                
+                
+                
+            >Atrakcje</a><ul class="dropdown-menu dropdown-submenu border-0 shadow" role="menu" aria-expanded="false" aria-labelledby="mainmenu-item-405"><li role="none" >
+        <a
+            href="/artykuly/10/wypad-do-miasta"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-406"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Wypad do miasta</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/466/muzea"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-462"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Muzea</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/468/izby-pamieci"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-463"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Izby Pamięci</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/467/wystawy"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-464"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Wystawy</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/469/rozrywka"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-465"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Rozrywka</a></li>
+    </ul>
+</li><li role="none" class="dropdown">
+            <a
+                href="#"
+                class="toolbar-item d-block dropdown-toggle"
+                id="mainmenu-item-408"
+                role="menuitem"
+                tabindex="-1"
+                
+                
+                
+            >Region</a><ul class="dropdown-menu dropdown-submenu border-0 shadow" role="menu" aria-expanded="false" aria-labelledby="mainmenu-item-408"><li role="none" >
+        <a
+            href="/artykuly/30/trojmiasto-i-okolice"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-409"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Trójmiasto i okolice</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/33/kaszuby"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-410"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Kaszuby</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/34/kociewie"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-411"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Kociewie</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/32/norda"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-412"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Norda</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/35/zulawy-i-mierzeja"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-413"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Żuławy i mierzeja</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/36/powisle"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-414"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Powiśle</a></li>
+<li role="none" >
+        <a
+            href="/artykuly/37/elblag-i-okolice"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-415"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Elbląg i okolice</a></li>
+    </ul>
+</li><li role="none" class="dropdown">
+            <a
+                href="/ogloszenia"
+                class="toolbar-item d-block dropdown-toggle"
+                id="mainmenu-item-417"
+                role="menuitem"
+                tabindex="-1"
+                
+                
+                
+            >Ogłoszenia</a><ul class="dropdown-menu dropdown-submenu border-0 shadow" role="menu" aria-expanded="false" aria-labelledby="mainmenu-item-417"><li role="none" >
+        <a
+            href="/ogloszenia/dodaj"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-418"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Dodaj</a></li>
+<li role="none" >
+        <a
+            href="/ogloszenia/48/nieruchomosci"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-419"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Nieruchomości</a></li>
+<li role="none" >
+        <a
+            href="/ogloszenia/57/praca"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-420"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Praca</a></li>
+<li role="none" >
+        <a
+            href="/firmy/167/motoryzacja"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-421"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Motoryzacja</a></li>
+<li role="none" >
+        <a
+            href="#"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-422"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Usługi</a></li>
+<li role="none" >
+        <a
+            href="/ogloszenia/73/drobne"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-423"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Drobne</a></li>
+<li role="none" >
+        <a
+            href="/ogloszenia/113/matrymonialne"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-424"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Matrymonialne</a></li>
+    </ul>
+</li><li role="none" >
+            <a
+                href="https://www.pracuj.pl/praca/pruszcz%20gdanski;wp"
+                class="toolbar-item d-block menu-button"
+                id="mainmenu-item-474"
+                role="menuitem"
+                tabindex="-1"
+                target="_blank"
+                
+                
+            >Praca Pruszcz Gd.</a></li><li role="none" class="dropdown">
+            <a
+                href="/wydarzenia"
+                class="toolbar-item d-block dropdown-toggle"
+                id="mainmenu-item-425"
+                role="menuitem"
+                tabindex="-1"
+                
+                
+                
+            >Wydarzenia</a><ul class="dropdown-menu dropdown-submenu border-0 shadow" role="menu" aria-expanded="false" aria-labelledby="mainmenu-item-425"><li role="none" >
+        <a
+            href="/s/116/inwestycje"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-416"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Inwestycje</a></li>
+<li role="none" >
+        <a
+            href="/wydarzenia/375/koncerty"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-426"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Koncerty</a></li>
+<li role="none" >
+        <a
+            href="/wydarzenia/376/teatr-spektakle-widowiska"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-427"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Teatr</a></li>
+<li role="none" >
+        <a
+            href="/wydarzenia/377/wystawy-wernisaze-pokazy"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-428"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Wystawy</a></li>
+<li role="none" >
+        <a
+            href="/wydarzenia/378/imprezy-klubowe"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-429"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Imprezy klubowe</a></li>
+<li role="none" >
+        <a
+            href="/wydarzenia/380/warsztaty"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-430"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Warsztaty</a></li>
+<li role="none" >
+        <a
+            href="/wydarzenia/374/sportowe-i-rekreacyjne"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-431"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Sport</a></li>
+    </ul>
+</li><li role="none" class="dropdown">
+            <a
+                href="#"
+                class="toolbar-item d-block dropdown-toggle"
+                id="mainmenu-item-432"
+                role="menuitem"
+                tabindex="-1"
+                
+                
+                
+            >Nasze portale</a><ul class="dropdown-menu dropdown-submenu border-0 shadow" role="menu" aria-expanded="false" aria-labelledby="mainmenu-item-432"><li role="none" >
+        <a
+            href="https://www.kociewiak.pl/"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-433"
+            role="menuitem"
+            tabindex="-1"
+            target="_blank"
+            
+            
+        >Kociewiak.pl</a></li>
+<li role="none" >
+        <a
+            href="https://www.tczewska.pl/"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-434"
+            role="menuitem"
+            tabindex="-1"
+            target="_blank"
+            
+            
+        >Tczewska.pl</a></li>
+<li role="none" >
+        <a
+            href="https://www.kwidzyn1.pl/"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-435"
+            role="menuitem"
+            tabindex="-1"
+            target="_blank"
+            
+            
+        >Kwidzyn1.pl</a></li>
+<li role="none" >
+        <a
+            href="https://www.malbork1.pl/"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-436"
+            role="menuitem"
+            tabindex="-1"
+            target="_blank"
+            
+            
+        >Malbork1.pl</a></li>
+    </ul>
+</li><li role="none" >
+            <a
+                href="/artykuly/28/pomagamy"
+                class="toolbar-item d-block menu-button"
+                id="mainmenu-item-438"
+                role="menuitem"
+                tabindex="-1"
+                
+                
+                
+            >#PomagaMY</a></li><li role="none" >
+            <a
+                href="#"
+                class="toolbar-item d-block menu-button"
+                id="mainmenu-item-439"
+                role="menuitem"
+                tabindex="-1"
+                
+                
+                
+            >Historia Pomorza</a></li><li role="none" >
+            <a
+                href="https://www.portalpomorza.pl/artykuly/9/edukacja"
+                class="toolbar-item d-block menu-button"
+                id="mainmenu-item-440"
+                role="menuitem"
+                tabindex="-1"
+                
+                
+                
+            >Przewodnik Edukacyjny</a></li><li role="none" class="dropdown">
+            <a
+                href="#"
+                class="toolbar-item d-block dropdown-toggle"
+                id="mainmenu-item-446"
+                role="menuitem"
+                tabindex="-1"
+                
+                
+                
+            >Dodaj</a><ul class="dropdown-menu dropdown-submenu border-0 shadow" role="menu" aria-expanded="false" aria-labelledby="mainmenu-item-446"><li role="none" >
+        <a
+            href="/ogloszenia/dodaj"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-447"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Dodaj ogłoszenie</a></li>
+<li role="none" >
+        <a
+            href="#"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-448"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Dodaj wydarzenie</a></li>
+<li role="none" >
+        <a
+            href="#"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-449"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Dodaj wiadomość</a></li>
+<li role="none" >
+        <a
+            href="/firma/dodaj"
+            class="toolbar-item d-block dropdown-item"
+            id="mainmenu-item-450"
+            role="menuitem"
+            tabindex="-1"
+            
+            
+            
+        >Dodaj wpis firmowy</a></li>
+    </ul>
+</li><li role="none" >
+            <a
+                href="/artykuly/47/planuje-dlugie-zycie"
+                class="toolbar-item d-block menu-button"
+                id="mainmenu-item-451"
+                role="menuitem"
+                tabindex="-1"
+                
+                
+                
+            >PLANUJĘ DŁUGIE ŻYCIE</a></li><li role="none" >
+            <a
+                href="/artykuly/470/wazne-w-kalendarzu"
+                class="toolbar-item d-block menu-button"
+                id="mainmenu-item-471"
+                role="menuitem"
+                tabindex="-1"
+                
+                
+                
+            >Ważne w kalendarzu</a></li></ul>
+<ul id="more-nav" role="menubar" class="position-relative m-0">
+                            <li>
+                                <a href="#" role="button" class="btn-more-nav d-lg-block text-right text-uppercase" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="more-nav-btn" >
+                                    <span class="far fa-lg fa-bars" aria-hidden="true"></span>
+                                    <span class="sr-only">Pokaż pozostałe elementy menu</span>
+                                </a>
+                                <ul class="subfilter dropdown-menu dropdown-submenu border-0 shadow" role="menu" aria-labelledby="more-nav-btn"></ul>
+                            </li>
+                        </ul>
+                    </div>
+                            </div>
+
+            
+                    </div>
+    </div>
+</nav>
+<div class="container">
+                <div id="news-ticker" class="d-flex justify-content-beetween align-items-center mt-3">
+                    <div id="news-ticker-title" class="text-nowrap">
+                                                    <span class="d-none d-lg-block">WAŻNE!</span>
+                                                <span class="d-lg-none"><span class="d-lg-none fal fa-info-square" aria-hidden="true"></span></span>
+                    </div>
+                    <div id="news-ticker-content" class="mx-3">
+                        <ul class="p-0 my-0 d-block" aria-labelledby="news-ticker-title"><li class="text-nowrap" role="none">
+                                                                            <a href="/artykul/64778,policja-ostrzega-nie-badz-obojetny-reaguj-gdy-ktos-moze-zamarznac" target="" class="news-ticker-item-title">Policja ostrzega: nie bądź obojętny, reaguj gdy ktoś może zamarznąć</a>
+                                                                    </li><li class="text-nowrap" role="none">
+                                                                            <a href="/artykul/64777,poszukiwani-swiadkowie-potracenia-w-tczewie" target="" class="news-ticker-item-title">Poszukiwani świadkowie potrącenia w Tczewie</a>
+                                                                    </li><li class="text-nowrap" role="none">
+                                                                            <a href="/artykul/64773,historia-nie-rozliczyla-oprawcow-ale-pamietajmy-o-bohaterach" target="" class="news-ticker-item-title">Historia nie rozliczyła oprawców, ale pamiętajmy o bohaterach</a>
+                                                                    </li><li class="text-nowrap" role="none">
+                                                                            <a href="/artykul/64771,seat-krecil-po-miescie-podejrzanie-policjanci-zatrzymali-duet-z-amfetamina" target="" class="news-ticker-item-title">Seat kręcił po mieście podejrzanie. Policjanci zatrzymali duet z amfetaminą</a>
+                                                                    </li><li class="text-nowrap" role="none">
+                                                                            <a href="/artykul/64770,swiadkowie-go-wskazali-alkomat-potwierdzil-uderzenie-w-slup-na-procentach" target="" class="news-ticker-item-title">Świadkowie go wskazali alkomat potwierdził. Uderzenie w słup na procentach</a>
+                                                                    </li><li class="text-nowrap" role="none">
+                                                                            <a href="/artykul/64769,43-urodziny-gazety-tczewskiej-wideo" target="" class="news-ticker-item-title">43. urodziny Gazety Tczewskiej [WIDEO]</a>
+                                                                    </li><li class="text-nowrap" role="none">
+                                                                            <a href="/artykul/64686,program-ochrony-ludnosci-i-obrony-cywilnej-na-pomorzu" target="" class="news-ticker-item-title">PROGRAM OCHRONY LUDNOŚCI I OBRONY CYWILNEJ NA POMORZU</a>
+                                                                    </li><li class="text-nowrap" role="none">
+                                                                            <a href="/artykul/64543,wojt-krzysztof-augustyniak-sprzeciwiam-sie-przejmowaniu-naszych-najatrakcyjniejszych-terenow-oraz-politycecprzez-media-s" target="" class="news-ticker-item-title">Wójt Krzysztof Augustyniak: Sprzeciwiam się przejmowaniu naszych najatrakcyjniejszych terenów oraz politycecprzez media społecznościowe</a>
+                                                                    </li></ul>
+                    </div>
+                </div>
+            </div></header>
+            <main id="main-content"><div class="text-center item-subtype-a my-3 container">
+    <div
+        class="d-inline-block-not-important position-relative-not-important z-index-3 w-100-not-important"
+        data-ciid="eyJpZCI6NDk0LCJhZHZlcnRfaWQiOjQyMCwiY2FtcGFpZ25faWQiOjI3OSwiaXRlbV9zZXR0bGVtZW50X3R5cGUiOm51bGwsIml0ZW1fZGF0ZV9zdGFydCI6bnVsbCwiaXRlbV9kYXRlX2VuZCI6bnVsbCwiaXRlbV9jcGMiOm51bGwsIml0ZW1fY3BtIjpudWxsLCJjYW1wYWlnbl9zZXR0bGVtZW50X3R5cGUiOiJmbGF0IiwiY2FtcGFpZ25fZGF0ZV9zdGFydCI6IjIwMjItMDMtMTcgMTA6MDg6MDAiLCJjYW1wYWlnbl9kYXRlX2VuZCI6IjIwMzAtMTEtMDcgMTE6MDg6MDAiLCJjYW1wYWlnbl9jcGMiOm51bGwsImNhbXBhaWduX2NwbSI6bnVsbH0="
+        data-viewed
+        
+        
+        data-central
+        data-is-html
+    >
+        <small class="tipad_tag text-center">Reklama</small><!-- top_1 --><div id='top_1'><script type='text/javascript'>sas_idmnet.cmd.push(function(){ sas_idmnet.release('top_1'); });</script></div></div>
+</div>
+<div class="container" id="main-container">
+        <nav aria-label="breadcrumb"><ol id="app-breadcrumbs" class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList"><li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="https://www.portalpomorza.pl/" itemprop="item" title="Przejdź do strony głównej"><span itemprop="name"><span class="fas fa-home" aria-hidden="true"></span><span class="sr-only">Strona główna</span></span></a><meta itemprop="position" content="1" /></li><li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="https://www.portalpomorza.pl/artykuly" itemprop="item" title="Artykuły"><span itemprop="name">Artykuły</span></a><meta itemprop="position" content="2" /></li><li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="https://www.portalpomorza.pl/artykuly/13/wiadomosci" itemprop="item" title="Wiadomości"><span itemprop="name">Wiadomości</span></a><meta itemprop="position" content="3" /></li><li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name">Grzech - obrazy grzechu w sztuce europejskiej</span><meta itemprop="item" content="https://www.portalpomorza.pl/artykul/45196,grzech-obrazy-grzechu-w-sztuce-europejskiej" /><meta itemprop="position" content="4" /></li></ol></nav>
+
+                                                                                                                                                    
+        
+
+        <div class="row row-63kleex06ystla8wtwmwn" data-columns="8-4"><div class="col-12 col-lg-8 ">            <div class="article-single paywalled">
+            <div class="mb-3">
+    
+    
+    <h1 class="text-break text-title">Grzech - obrazy grzechu w sztuce europejskiej</h1>
+
+    <div class="categories-list">
+            <ul class="list-unstyled list-inline">
+                    <li class="list-inline-item my-2">
+                <a href="/artykuly/13/wiadomosci" class="btn btn-sm btn-second-color font-weight-bold">Wiadomości</a>
+            </li>
+                    <li class="list-inline-item my-2">
+                <a href="/artykuly/30/trojmiasto-i-okolice" class="btn btn-sm btn-second-color font-weight-bold">Trójmiasto i okolice</a>
+            </li>
+            </ul>
+
+    </div>
+
+    <div data-banner-d="under_title"></div>        <div class="my-3 text-break text-lead">
+            <strong>Wystawa &amp;bdquo;Grzech. Obrazy grzechu w sztuce europejskiej od XV do pocz. XX wieku&amp;rdquo; zorganizowana w Muzeum Narodowym w Gdańsku jest poświęcona problemowi ikonograficznemu, obejmującemu refleksję na temat doświadczania zła.</strong>
+        </div><div data-banner-d="under_lead"></div>
+    <ul class="list-inline">
+                            
+        <li class="list-inline-item mt-1 mt-lg-0 article-date" aria-label="Data dodania artykułu">
+            <small><span class="fal fa-calendar-alt" aria-hidden="true"></span> 28.10.2015 09:00</small>
+                            <small class="d-block d-lg-inline text-muted">(aktualizacja 07.07.2023 14:39)</small>
+                    </li>
+            </ul>
+</div>
+
+<div class="mb-3">
+            <div class="p-2 bg-light border article-image">
+            <figure class="text-center mb-0">
+                                    <picture class="disable-contextmenu" title="Grzech - obrazy grzechu w sztuce europejskiej">                        <source srcset="https://static2.portalpomorza.pl/data/articles/xl-grzech-obrazy-grzechu-w-sztuce-europejskiej-1654074117.webp" media="(min-width: 1200px)" type="image/webp">
+            <source srcset="https://static2.portalpomorza.pl/data/articles/xl-grzech-obrazy-grzechu-w-sztuce-europejskiej-1654074117.jpg" media="(min-width: 1200px)" type="image/jpeg">                        <source srcset="https://static2.portalpomorza.pl/data/articles/lg-grzech-obrazy-grzechu-w-sztuce-europejskiej-1654074117.webp" media="(min-width: 992px)" type="image/webp">
+            <source srcset="https://static2.portalpomorza.pl/data/articles/lg-grzech-obrazy-grzechu-w-sztuce-europejskiej-1654074117.jpg" media="(min-width: 992px)" type="image/jpeg">                        <source srcset="https://static2.portalpomorza.pl/data/articles/md-grzech-obrazy-grzechu-w-sztuce-europejskiej-1654074117.webp" media="(min-width: 768px)" type="image/webp">
+            <source srcset="https://static2.portalpomorza.pl/data/articles/md-grzech-obrazy-grzechu-w-sztuce-europejskiej-1654074117.jpg" media="(min-width: 768px)" type="image/jpeg">                        <source srcset="https://static2.portalpomorza.pl/data/articles/sm-grzech-obrazy-grzechu-w-sztuce-europejskiej-1654074117.webp" media="(min-width: 0px)" type="image/webp">
+            <source srcset="https://static2.portalpomorza.pl/data/articles/sm-grzech-obrazy-grzechu-w-sztuce-europejskiej-1654074117.jpg" media="(min-width: 0px)" type="image/jpeg">        <img src="https://static2.portalpomorza.pl/data/articles/xl-grzech-obrazy-grzechu-w-sztuce-europejskiej-1654074117.jpg" alt="Grzech - obrazy grzechu w sztuce europejskiej" title="Grzech - obrazy grzechu w sztuce europejskiej" class="img-fluid"></picture>
+
+                                            </figure>
+                    </div>
+    </div>
+
+
+<div class="mb-4 text-break">
+    <div id="article-content" class="clearfix wcag-underline-container">
+                    <p>Grzech należy do pojęć moralnych, negatywnie wartościujących postępowanie ludzkie w teologicznym aspekcie jego rozumienia. Jest nierozerwalnie związany z historią człowieka oraz jego obyczajowością. Organizatorzy wystawy mają nadzieję, że stanie się ona dla zwiedzających okazją do zapoznania się ze sposobami obrazowania grzeszności w sztuce europejskiej, wyzwoli przemyślenia nad postawami i dylematami moralnymi czas&oacute;w wsp&oacute;łczesnych. Do dziś aktualnych jest wiele motyw&oacute;w używanych w sztuce dawnej, a będących zapisem tego, co człowiek robi z własną moralnością, religijnością lub jej brakiem. W Polsce będzie to pierwsza tak duża prezentacja poświęcona problematyce grzechu, wyrażonego w dziełach sztuki europejskiej należących do r&oacute;żnych dziedzin wypowiedzi artystycznej &ndash; od malarstwa po rzemiosło artystyczne.<br />Pojęcie g r z e c h u jest przywoływane najczęściej w kontekstach antropologicznym, socjologicznym i religijnym. W zależności od założeń światopoglądowych grzech jest postawą, czynem, aktem niesprawiedliwym, odnoszącym się do zła, kt&oacute;ry przekracza i narusza prawa naturalne, boskie, kosmiczne lub społeczne. Jest owocem ludzkiej wolności niejednokrotnie prowadzącym do alienacji jednostki i niespełnienia jej. Dyskredytuje godność człowieka. Grzech, odnosząc się do sytuacji egzystencjalnej (bytowej), oznacza moralne wypalenie i zaw&oacute;d, także niezdarność. Dotyczy egocentryzmu człowieka i odzwierciedla się w trzech znaczeniach: splamienie czystości, grzech jako złamanie (zerwanie) swobody danej człowiekowi przez Boga i gotowość do bycia karanym.<br />Pojęcie grzechu wymyka się jednak absolutnej definicji. Łatwiej scharakteryzować jego konsekwencje: zło i śmierć. Odczuwanie grzechu w kulturze europejskiej wynikało z dziedzictwa antycznej kultury śr&oacute;dziemnomorskiej i religijnej tradycji judeochrześcijańskiej. Grzech w rozważaniach biblijnych oznacza zło etyczne. W Starym Testamencie znaczy tyle, co przekroczenie prawa. Opisywany jest jako świadome i dobrowolne wykroczenie przeciw prawu bożemu i obraza Boga, kt&oacute;ra prowadzi do zerwania mistycznej więzi ze Stw&oacute;rcą i uniemożliwia osiągnięcie Kr&oacute;lestwa Niebieskiego. W Nowym Testamencie grzech oznacza niewiarę, odrzucenie Chrystusa i jego orędzia miłości. Jest świadomym przewinieniem wobec woli Bożej i dotyczy czynu. W tradycji chrześcijańskiej człowiek dziedziczy grzech. Uwaga zatem zostaje zwr&oacute;cona na możliwość ochrony przed grzechem i sprawy związane z zadośćuczynieniem, pokutą i obmyciem z grzechu.<br />Problematyka grzechu była jednym z najczęściej podejmowanych zagadnień w sztuce europejskiej. Koncepcja wystawy obejmuje spojrzenie na grzech przez pryzmat teologii czterech wyznań: judaizmu, wyznania katolickiego, protestanckiego, grekokatolickiego, oraz r&oacute;żnych koncepcji filozoficznych widzianych w historycznej perspektywie. Były to czasy nasilonych dyskusji nad powinnościami moralnymi. Wbrew pozorom grzech nie należy tylko do sfery religijnej człowieka, mimo że w sferze tej przez wiele stuleci pr&oacute;bowano normować jego pojmowanie. Zagadnienie to jest dziś o tyle trudniejsze, że jesteśmy świadkami rozluźnienia norm, rozmycia pojęcia grzechu. Oczyszczamy się z wyobrażeń o nim. Wiele środowisk podważa jego istnienie, odrzuca, zastępując go szeroko pojętą wolnością. To sprawia, że pojęcie &bdquo;grzech&rdquo; znajduje się w kryzysie lub jest wykreślane ze słownika. Niejednokrotnie bywa używane do innych cel&oacute;w niż dawniej, na przykład w reklamie czekolady, bielizny i turystyce. Dziś, gdy pojęcie to wydaje się nie mieć nic wsp&oacute;lnego z nowocześnie pojmowanym społeczeństwem, warto zadać pytanie: Czy grzech w og&oacute;le istnieje, czy warto o nim m&oacute;wić? Tym bardziej, że poczucie przymusu do czegokolwiek razi. Jednak ciągle zadawane są pytania o istnienie granic w czerpaniu korzyści dla siebie samych i o to, jakie kryteria wartościowania czyn&oacute;w ludzkich są możliwe do przyjęcia. Poglądy na grzech się zmieniały i były wyrażane w r&oacute;żnych dziedzinach wypowiedzi artystycznej. Są zapisane w dziełach, kt&oacute;re zobaczymy na wystawie.</p>
+<p>Układ wystawy<br />Wystawa została zlokalizowana w salach wystawienniczych Oddziału Sztuki Dawnej MNG (dawny klasztor franciszkański) oraz w Oddziału Zielona Brama.<br />Zgromadzone na wystawie eksponaty otwierają szerokie pole do obserwacji pojęć negatywnie wartościujących, kt&oacute;re artyści pragnęli obrazować w sztuce, ukazując zachowania ludzi w r&oacute;żnych przestrzeniach życia. Owe sytuacje graniczne w życiu religijnym, obyczajowym, politycznym i społecznym wyobrażone w sztuce były dla widz&oacute;w w dawnych wiekach rodzajem pouczenia, jak się wystrzegać zła. Artyści w swoich pracach dawali przykłady tego, co negatywne, by ukazać kanon wartości pozytywnych i do niego się odnosić. Postawy i działania uznawane za moralnie poprawne były stawiane za przykłady, by widz m&oacute;gł zapamiętać, że stan grzechu to stan ducha gwarantujący jedynie samotność, oddalenie od źr&oacute;dła życia &ndash; Boga lub czyn, kt&oacute;ry do owego oddalenia prowadzi. Piętnowano grzechy gł&oacute;wne (pychę, chciwość, gniew, zadość, nieczystość, lenistwo, łakomstwo) oraz występki, wskazując przy tym ich rangę i dzieląc od śmiertelnych po lekkie, kt&oacute;re można zmyć pokutą, pokorą i skruchą.<br />W konfesyjnym podejściu do sztuki dużą rolę odegrało obrazowanie walki z grzechem i adoracja cn&oacute;t. Uważano, że każdy człowiek na co dzień walczy z trzema wrogami: diabłem, światem i pożądliwościami ciała, by nie pogrążyć swej duszy w grzechu. Wypracowano ikonografię zła, przedstawiając początkowo personifikacje grzech&oacute;w gł&oacute;wnych, w renesansie w sztukach plastycznych używano alegoryzowanych postaci grzech&oacute;w, najczęściej ukazywanych jako kobiety zaopatrzone w odpowiednie atrybuty. Wymyślono ciekawą postać ucieleśniającą zło świata i jego szaleństwo &ndash; Panią Świat. Stworzono także system obrazowania emblematycznego, w kt&oacute;rym przedstawiono grzech jako morze grzechu, klatkę, więzienie lub piec ognisty albo krępujące człowieka więzy, posługując się alegorycznymi wizjami dziś już wymagającymi wytłumaczenia i komentarza. W okresie baroku wprowadzono na szeroką skalę wizję codziennego życia. Inspirowano się literaturą alegoryczną, mitologiczną i ikonologiczną, ujmującą życie człowieka jako wędr&oacute;wkę do szczęścia niebiańskiego. Była to droga pośr&oacute;d pokus, kt&oacute;rych należy unikać. Człowiek, pokonując w tej drodze kolejne przeszkody, musi umieć wybrać dobrze, by osiągnąć cel. Jako wzorem posłużono się postawą antycznego bohatera Herkulesa. Motywem przewodnim stał się temat literacki, tzw. wyb&oacute;r drogi Herkulesa. Ten odmieniany na wiele sposob&oacute;w motyw został nałożony na kontekst chrześcijański odkupienia i etosu rycerskiego, poszukującego cnoty. Dużą rolę odegrały w nim postawy świętych Jerzego i Michała walczących ze złem. Herkules symbolicznie obrazował wyb&oacute;r między tym, co przyjemne, a obowiązkiem. Wprowadzano alegoryzowane sceny z tematyką zła i grzechu do bogatej akcji wydarzeń odtwarzanych w r&oacute;żnych gatunkach malarskich: od malarstwa religijnego i mitologicznego po portret, martwą naturę i malarstwo krajobrazowe. Interesujący zabieg wprowadzili artyści z kręgu protestanckiego, zwracając uwagę na etyczny wymiar świeckiego życia codziennego w malarstwie rodzajowym. W zawoalowany spos&oacute;b ukrywano w nim emblematykę grzechu, kt&oacute;rą widz miał odgadnąć. Te wyżej wspomniane koncepcje obrazowe trwały do XVIII wieku. Na gruncie oświeceniowych prąd&oacute;w filozoficznych i libertynizmu mamy do czynienia z przeniesieniem punktu ciężkości z obrazowania idei grzechu wyłącznie w kategorii jej łączności z doktryną chrześcijańską na problem smutku duszy i nierozstrzygalności świata. Doszło w&oacute;wczas w sztuce do zerwania z tradycją i autorytetami, postulowano sceptyczną i rozumną analizę rzeczywistości. Od XIX wieku kolejne zmiany w sposobie obrazowania idei grzechu były związane z rozluźnieniem obyczaj&oacute;w, nowymi możliwościami technicznymi i rozwojem nauki. To bardzo interesujący okres zmiany ikonografii w sztuce, kt&oacute;ry wpłynął także na zmianę zapisu pojętego religijnie i moralnie zła. Wartości dawniej ustanowione w sztuce przestały obowiązywać, a indywidualność tw&oacute;rc&oacute;w znalazła wyraz w dążeniu do tego, by wyrazić własny pogląd na wiele trudnych spraw. Do takich r&oacute;wnież należał temat grzeszności. Był wtedy pokazywany w spos&oacute;b odległy od schemat&oacute;w i kanon&oacute;w dawnych epok, mniej literacki, a indywidualny w wyrazie emocjonalnym i artystycznym, jako rozterka duszy i samotność istnienia. Pojęcie grzechu zaczęło tracić na znaczeniu i się marginalizować. Artyści przeżywali okres buntu, a nowe kierunki w sztuce odkryły nowe możliwości obrazowania grzechu &ndash; pojętego szeroko jako og&oacute;lna pokusa zła. Często sam artysta przedstawiał się w roli największego grzesznika, a swoją sztukę traktował jako grzeszną.</p>
+<p>Kompozycja wystawy jest pomyślana jako rodzaj osi od drzewa poznania (dobra i zła) do drzewa wyobrażającego życie i odnosi się do harmonii świata. Układ ekspozycji został skoncentrowany na mitycznej idei upadku &ndash; grzechu pierworodnego, w kt&oacute;rym nieustanne upadanie, niezadowolenie człowieka wiąże się z egzystencją w przemijającym ciele, przy jednoczesnej świadomości uduchowienia. W ten spos&oacute;b został uchwycony typowy charakter judeochrześcijańskiej koncepcji grzechu i chrześcijańskiej wymowy sztuki europejskiej<br />Wystawę pogrupowano na działy przybliżające obraz obyczajowości dawnej Europy, w kt&oacute;rym grzech i strach odgrywały w kulturze istotną rolę, ale zawsze mądrość traktowano jako antidotum na zło. W ten spos&oacute;b podkreślano ludzkie dostojeństwo wobec nieprawości. Tylko kierowanie się wiedzą i mądrością, a nie emocjami, wynosi człowieka na wyżyny ducha. Tak samo jest ze sztuką, kt&oacute;ra pragnie ukazywać moc duchową człowieka i jego możliwości. Grzech bowiem jest rozumiany w kulturze europejskiej w dw&oacute;ch wymiarach: indywidualnym i zobiektyzowanym jako zniewolenie &ndash; &bdquo;grzech świata&rdquo;, kt&oacute;ry naznacza dzieje indywiduum. W cierpieniu i przezwyciężaniu go widać dopiero w pełni kondycję nas samych, misję człowieka pojętą jako odpowiedzialność w kontekście miłości, w wymiarach religijnym, etycznym i estetycznym.<br />Gł&oacute;wny rys wystawy został ukierunkowany na przedstawienia w sztuce dawnej tematu tzw. trzech wrog&oacute;w ludzkości, eksponowanych w kulturze Europy: diabeł, świat i ciało, odpowiadających symbolicznie rodzajom grzechu, a przeciwstawionych drogom wiodącym do szczęścia: Mądrości, Pokorze, Miłości. Ważnym rysem wystawy jest także ujęcie w jej ramy malarstwa poświęconego tematyce mitologicznej, obrazującej skłonność człowieka do popełniania pomyłek i szkodzenia sobie (dział III), wypływającą z niewiedzy.<br />Wychodzimy od symbolicznego obrazu rajskiego ogrodu z drzewem (dział I), by uzmysłowić tradycyjne sposoby ikonograficznego przedstawiania tematu grzechu w sztuce od XV do XVIII wieku poprzez zwr&oacute;cenie uwagi na sposoby ukazywania zła, śmierci, szatana (dział II), cn&oacute;t i wad (tu motyw ikonograficzny: tabula cebeti i militia dei) (dział V), nagrody i kary wraz z kluczowym dla naszego zagadnienia motywem Sądu Ostatecznego (sprawiedliwość) (dział IV) i przebaczenia grzech&oacute;w. Ze wskazaniem, że do wiecznej szczęśliwości, utożsamianej z nagrodą w niebie, można dojść poprzez mądrość, pokorę (nadzieję) i miłość. Symbolicznie wyznaczają ją trzy mitologiczne postaci: Wenus &ndash; miłość, Saturn &ndash; mądrość oraz Merkury i Atena, uosabiający działanie w połączeniu z aktywnością intelektualną. Poprzez dob&oacute;r eksponat&oacute;w na wystawie wskazano, jak te motywy były modyfikowane i jak wraz z upływem czasu (XVII&ndash;XIX i w pocz. XX w.) przeniosły się w sferę indywidualnego przekazu artystycznego. Ten ostatni oscyluje między symbolem a odwołaniami do aktualnej rzeczywistości, w kt&oacute;rej artyści tworzyli (dział VI&ndash;IX). Następnie dochodzimy do momentu, w kt&oacute;rym wyraz artystyczny dzieła wywołuje emocje i przeżycia estetyczne odbiorcy. Zatem apelowanie do widza zamyka na wystawie drugie drzewo z lustrami, przy kt&oacute;rym oglądający może przystanąć i zobaczyć samego siebie.<br />Wystawa &bdquo;Grzech. Obrazy grzechu w sztuce europejskiej od XV do pocz. XX wieku&rdquo; nie rości pretensji do wyjaśnienia mitycznych i historycznych źr&oacute;deł grzechu, wyczerpania wszystkich zagadnień związanych z tematem. Koncentruje się raczej na proporcjonalności grzechu i wolności, pragnie wskazać r&oacute;żne punkty zainteresowania artyst&oacute;w, pozwalające zar&oacute;wno intelektualizować sztukę, jak też wykorzystywać jej emocjonalne przesłanie. W historycznym przeglądzie eksponat&oacute;w stanowi to atut ekspozycji, gdyż na przestrzeni pięciu wiek&oacute;w (XV &ndash; pocz. XX w.) spos&oacute;b obrazowania grzechu ulegał zamianie w związku ze zmianą mentalności, obyczajowości, a także rozumienia człowieka, jego potrzeb i brak&oacute;w.<br />Wystawie towarzyszy konferencja interdyscyplinarna oraz bogaty program edukacyjny, obejmujący oprowadzania, lekcje muzealne, wykłady, warsztaty, konkurs literacki, koncert organowy. Zaproponujemy też trasę zwiedzania zabytk&oacute;w Gdańska &bdquo;Drogą cn&oacute;t i występk&oacute;w, nagrody i kary&rdquo;, w kt&oacute;rych znajdują się inne, związane z tematem wystawy dzieła sztuki.</p>
+<p>Więcej na www.mng.gda.pl</p>
+<p>Dr Beata Purc Stepniak (autorka i kuratorka wystaw)</p>
+<hr />
+<p><strong>Miejsce: Muzeum Narodowe w Gdańsku.</strong></p>
+<p>Oddział Sztuki Dawnej, 80-822 Gdańsk, ul. Toruńska 1</p>
+<p>Oddział Zielona Brama, 80-240 Gdańsk, ul. Długi Targ 24</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Wernisaż </strong>7 listopada 2015 godz. 17.00, Oddział Zielona Brama, 80-240 Gdańsk, ul. Długi Targ 24</p>
+<p><strong><strong>Termin:&nbsp; </strong></strong>8 listopada 2015 &ndash; 31 stycznia 2016</p>
+            </div><div data-banner-d="after_content"></div></div>
+
+    
+    
+
+        
+        
+        
+        
+        
+        <hr class="border-width-4 mt-4">
+
+        <div class="mb-4 article-footer">
+            <div class="row align-items-center justify-content-center justify-content-md-start">
+                <div class="col-auto col-striped text-center article-date">
+                    <small>Data dodania:</small>
+                    <small class="d-block d-lg-inline">
+                        <strong>28.10.2015 09:00</strong>
+                    </small>
+                </div>
+                            </div>
+
+                    </div>
+
+        <div class="mb-4 article-central-codes"><!-- mgid -->
+<div data-type="_mgwidget" data-widget-id="1562742">
+</div>
+<script>(function(w,q){w[q]=w[q]||[];w[q].push(["_mgc.load"])})(window,"_mgq");
+</script></div>
+
+                    <div class="row mb-3 socialshare-vote-box">
+    <div class="col-12">
+        <div class="row justify-content-between">
+            <div class="col-auto col-socialshare">
+                <div class="h5 mb-2">Podziel się</div>
+<div class="social_share d-flex">
+    <div class="pr-1 d-inline-block d-sm-block item-facebbok">
+        <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.portalpomorza.pl%2Fartykul%2F45196%2Cgrzech-obrazy-grzechu-w-sztuce-europejskiej&amp;amp;src=sdkpreparse" class="btn btn-block btn-sm rounded-0 btn-facebook py-2 px-4" rel="nofollow">
+            <i class="fab fa-lg fa-facebook fa-fw"></i>
+        </a>
+    </div>
+    <div class="pl-1 d-inline-block d-sm-block item-twitter">
+        <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fwww.portalpomorza.pl%2Fartykul%2F45196%2Cgrzech-obrazy-grzechu-w-sztuce-europejskiej" class="btn btn-block btn-sm rounded-0 btn-twitter py-2 px-4" rel="nofollow">
+            <i class="fab fa-lg fa-x-twitter fa-fw"></i>
+        </a>
+    </div>
+</div>
+            </div>
+                            <div class="col-auto col-vote text-sm-right">
+                            
+<div class="h5 mb-2">Oceń</div>
+    <button type="button" class="btn btn-labeled btn-sm btn-success btn-content-vote py-2 px-3" data-id="45196" data-type="positive" data-path="/article-vote">
+        <i class="fas fa-lg fa-thumbs-up mr-2"></i>
+        0
+    </button>
+    <button type="button" class="btn btn-labeled btn-sm btn-danger btn-content-vote py-2 px-3" data-id="45196" data-type="negative" data-path="/article-vote">
+        <i class="fas fa-lg fa-thumbs-down mr-2"></i>
+        0
+    </button>
+                </div>
+                    </div>
+        <hr>
+    </div>
+</div>        
+        
+        <div class="article-central-codes-2"></div>
+
+                    
+            <div class="article-comments">
+                <div id="comments"></div>
+
+    <p class="h5 mt-3 mb-2">Napisz komentarz</p>
+
+    <div class="col-12 comments articles mb-3">
+                    <div class="row mb-3">
+                <div class="col-12 border py-2">
+                    
+    <form name="comments" method="post" action="/komentarz/dodaj" class="default_ajax" novalidate>
+    <div class="row">
+        <div class="col-lg-9 col-12">
+            
+            <div class="form-group"><label for="comment-content" class="required">
+            Treść komentarza</label><textarea id="comment-content" name="comments[content]" required="required" rows="3" class="form-control"></textarea></div>
+        </div>
+
+        <div class="col-lg-3 col-12 mb-3 mb-sm-0">
+            <div class="form-group"><label for="comment-author" class="required">
+            Podpis</label>    <input type="text" id="comment-author" name="comments[author]" required="required" class="form-control" >
+        </div>
+            <div class="m-0 form-group"><button type="submit" id="comment-submit" name="comments[submit]" class="btn-third-color btn-block btn">Dodaj komentarz</button></div>
+        </div>
+    </div>
+
+            <div class="mt-3">
+            <fieldset class="mb-0 form-group"><div id="comment-terms" class="terms-container"><div class="info-label mb-3">
+                    <input type="hidden" name="comments[terms][]" value="12">
+                    Wysyłając komentarz akceptujesz regulamin serwisu portalpomorza.pl z siedzibą w Tczewie jest administratorem twoich danych osobowych dla celów związanych z korzystaniem z serwisu. Zgodnie z art. 24 ust. 1 pkt 3 i 4 ustawy o ochronie danych osobowych, podanie danych jest dobrowolne, Użytkownikowi przysługuje prawo dostępu do treści swoich danych i ich poprawiania.
+                </div></div></fieldset>
+        </div>
+    
+        <input type="text" id="comment-connection" name="comments[signaturehp]" class="form-control" >
+        
+
+    <input type="hidden" id="comment-connection" name="comments[connection]" value="articles" >
+        
+    <input type="hidden" id="comment-connection_id" name="comments[connection_id]" value="45196" >
+        
+    <input type="hidden" id="comment-comment_id" name="comments[comment_id]" >
+        
+    <input type="hidden" id="comment-answer_quote" name="comments[answer_quote]" >
+        
+
+<input type="hidden" id="comments_recaptcha_response" name="comments[recaptcha_response]" >
+        <input type="hidden" id="comments__token" name="comments[_token]" value="c71e34d522823.jIRoU32gSEwo_Swp6rVPn9KlVn3TgWQNrpXiEgUtkN8.xKlYBCyTF3xEyRpHoOoa6LHjJj6Y1iNSy_q6JDB_2bX53h0rG_YxGkaRfQ" >
+        </form>
+                </div>
+            </div>
+            </div>
+
+<p class="h5 mt-5 mb-2">Komentarze</p>
+
+<div id="comments-container" class="mb-5">
+    <div class="comments comments-list articles">
+                    <div class="alert alert-secondary bg-super-light" role="alert">
+                Aktualnie nie ma żadnych komentarzy.                                    Bądź pierwszy, dodaj swój komentarz.                            </div>
+            </div>
+
+    <div class="mt-3 navigation">
+        
+
+    </div>
+</div>
+
+    <script>var rcElem = 'comments_recaptcha_response';</script>
+
+            </div>
+            </div>
+<div class="widget widget-advert_placement widget-mt-0 widget-mb-6" id="widget-placement268"><div class="widget-body text-break" id="widgetBody-placement268"  ><div class="text-center item-subtype-c"><div
+        class="d-inline-block-not-important position-relative-not-important z-index-3"
+        data-ciid="eyJpZCI6MTkwOTYsImFkdmVydF9pZCI6MTY3NjUsImNhbXBhaWduX2lkIjoxMDg4MSwiaXRlbV9zZXR0bGVtZW50X3R5cGUiOm51bGwsIml0ZW1fZGF0ZV9zdGFydCI6bnVsbCwiaXRlbV9kYXRlX2VuZCI6bnVsbCwiaXRlbV9jcGMiOm51bGwsIml0ZW1fY3BtIjpudWxsLCJjYW1wYWlnbl9zZXR0bGVtZW50X3R5cGUiOiJmbGF0IiwiY2FtcGFpZ25fZGF0ZV9zdGFydCI6IjIwMjUtMTItMjkgMjE6MDA6MDAiLCJjYW1wYWlnbl9kYXRlX2VuZCI6IjIwMjYtMDEtMjkgMjA6NTY6MDAiLCJjYW1wYWlnbl9jcGMiOm51bGwsImNhbXBhaWduX2NwbSI6bnVsbH0="
+        data-viewed
+        
+        data-subtype=c
+        
+        
+    ><small class="tipad_tag">Reklama</small><a
+                    href="https://www.instagram.com/energawlacza/"
+                                            target="_blank"
+                                                                            ><picture class="disable-contextmenu"><source srcset="https://sc.4media.com/data/aqwzxtvn/2025/12/29/DisplayStatic-Sport-Energa-750x300-6952ea7cb088a.webp" media="(min-width: 750px)" type="image/webp"><source srcset="https://sc.4media.com/data/aqwzxtvn/2025/12/29/DisplayStatic-Sport-Energa-750x300-6952ea7cb088a.jpg" media="(min-width: 750px)" type="image/jpeg"><source srcset="https://sc.4media.com/data/aqwzxtvn/2025/12/29/sm-DisplayStatic-Sport-Energa-750x300-6952ea7cb088a.webp" media="(min-width: 0px)" type="image/webp"><source srcset="https://sc.4media.com/data/aqwzxtvn/2025/12/29/sm-DisplayStatic-Sport-Energa-750x300-6952ea7cb088a.jpg" media="(min-width: 0px)" type="image/jpeg"><img src="https://sc.4media.com/data/aqwzxtvn/2025/12/29/DisplayStatic-Sport-Energa-750x300-6952ea7cb088a.jpg" alt="" class="img-fluid" loading="lazy" width=750 height=300></picture></a></div></div></div></div><div class="widget widget-category shadow-none widget-mt-0 widget-mb-6" id="widget-i04otautnhmd8s1c8szzp"><div class="widget-heading d-flex align-items-center flex-nowrap justify-content-between"><a class="widget-title d-flex align-self-stretch align-items-stretch flex-nowrap text-reset" href="/artykuly"><span class="widget-icon d-flex align-items-center"><span class="fa-stack"><span class="far fa-newspaper fa-stack-1x widget-icon-icon" aria-hidden="true"></span></span></span><div class="widget-title-text d-flex align-items-center"><span>PRZECZYTAJ!</span></div></a><div class="widget-toolbar align-self-stretch d-flex align-items-stretch"><div class="btn-toolbar flex-nowrap" role="toolbar" aria-label="Dodatkowe akcje"><div class="btn-group btn-group-sm widget-arrows" role="group" aria-label="Przyciski zmieniające zawartość"><button type="button" class="toolbar-item btn disabled selected d-flex align-items-center" title="Poprzednie" tabindex="0" aria-label="Kliknij aby załadować poprzednie" aria-controls="widgetBody-i04otautnhmd8s1c8szzp" data-widget-pagination="prev"><span class="fal fa-chevron-left fa-fw" aria-hidden="true"></span><span class="sr-only">Poprzednie</span></button><button type="button" class="toolbar-item btn  d-flex align-items-center" title="Następne" tabindex="-1" aria-label="Kliknij aby załadować następne" aria-controls="widgetBody-i04otautnhmd8s1c8szzp" data-widget-pagination="next"><span class="fal fa-chevron-right fa-fw" aria-hidden="true"></span><span class="sr-only">Następne</span></button></div><a href="#" class="toolbar-item btn btn-sm  d-flex align-items-center" title="Kanał RSS" aria-label="Kliknij aby przejść do kanału RSS" tabindex="-1"><span class="fal fa-rss fa-fw" aria-hidden="true"></span><span class="sr-only">Kliknij aby przejść do kanału RSS</span></a><div class="btn-group btn-group-sm" role="group" aria-label="Wybór kategorii"><button id="widgetDropdown-i04otautnhmd8s1c8szzp" type="button" class="toolbar-item btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="-1" title="Wybierz kategorię"><span class="sr-only">Rozwiń listę kategorii</span><span class="fas fa-caret-down fa-fw" aria-hidden="true"></span></button><div class="dropdown-menu dropdown-menu-right" role="menu" aria-labelledby="widgetDropdown-i04otautnhmd8s1c8szzp"><p class="dropdown-header font-weight-normal" id="widgetDropdownLabel-i04otautnhmd8s1c8szzp">Przejdź do kategorii</p><a href="/artykuly/9/edukacja" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Edukacja</a><a href="/artykuly/10/wypad-do-miasta" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Wypad do miasta</a><a href="/artykuly/11/atrakcje" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Atrakcje</a><a href="/artykuly/12/ekologia" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Ekologia</a><a href="/artykuly/13/wiadomosci" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Wiadomości</a><a href="/artykuly/14/spoleczenstwo" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Społeczeństwo</a><a href="/artykuly/15/sport" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Sport</a><a href="/artykuly/16/kultura" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Kultura</a><a href="/artykuly/17/gospodarka" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Gospodarka</a><a href="/artykuly/472/inwestycje" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Inwestycje</a><a href="/artykuly/18/ogloszenia" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Ogłoszenia</a><a href="/artykuly/19/video" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Video</a><a href="/artykuly/20/turystyka" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Turystyka</a><a href="/artykuly/21/felieton" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Felieton</a><a href="/artykuly/22/rolnictwo" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Rolnictwo</a><a href="/artykuly/23/na-sygnale" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Na sygnale</a><a href="/artykuly/24/historia" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Historia</a><a href="/artykuly/25/zdrowie" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Zdrowie</a><a href="/artykuly/26/covid-19" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">COVID-19</a><a href="/artykuly/27/gdzie-sie-zbadac-na-covid-19" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Gdzie się zbadać na COVID-19</a><a href="/artykuly/28/pomagamy" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">#PomagaMY</a><a href="/artykuly/29/historia-pomorza" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Historia Pomorza</a><a href="/artykuly/30/trojmiasto-i-okolice" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Trójmiasto i okolice</a><a href="/artykuly/31/pomorze" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Pomorze</a><a href="/artykuly/32/norda" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Norda</a><a href="/artykuly/33/kaszuby" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Kaszuby</a><a href="/artykuly/34/kociewie" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Kociewie</a><a href="/artykuly/35/zulawy-i-mierzeja" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Żuławy i mierzeja</a><a href="/artykuly/36/powisle" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Powiśle</a><a href="/artykuly/37/elblag-i-okolice" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Elbląg i okolice</a><a href="/artykuly/38/blogi" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Blogi</a><a href="/artykuly/39/polityka" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Polityka</a><a href="/artykuly/40/artykul-sponsorowany" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Artykuł Sponsorowany</a><a href="/artykuly/47/planuje-dlugie-zycie" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">PLANUJĘ DŁUGIE ŻYCIE</a><a href="/artykuly/461/zobacz" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">ZOBACZ!</a><a href="/artykuly/483/polecane" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">POLECANE</a><a href="/artykuly/466/muzea" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Muzea</a><a href="/artykuly/468/izby-pamieci" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Izby Pamięci</a><a href="/artykuly/467/wystawy" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Wystawy</a><a href="/artykuly/469/rozrywka" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Rozrywka</a><a href="/artykuly/470/wazne-w-kalendarzu" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Ważne w kalendarzu</a><a href="/artykuly/475/dobre-rady" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Dobre rady</a><a href="/artykuly/476/wybory-parlamentarne-2023" class="dropdown-item" role="menuitem" aria-labelledby="widgetDropdownLabel-i04otautnhmd8s1c8szzp" tabindex="-1">Wybory Parlamentarne '2023</a></div></div><a href="/artykuly" role="button" class="toolbar-item btn btn-sm  d-flex align-items-center" title="Zobacz więcej" tabindex="-1"><span class="fal fa-link fa-fw" aria-hidden="true"></span><span class="sr-only">Kliknij aby zobaczyć więcej</span></a></div></div></div><div class="widget-body text-break" id="widgetBody-i04otautnhmd8s1c8szzp" data-pagination="1" aria-live="polite" data-params="{&quot;name&quot;:{&quot;text&quot;:{&quot;pl&quot;:&quot;PRZECZYTAJ!&quot;},&quot;show&quot;:true,&quot;clickable&quot;:true,&quot;defaultRoute&quot;:{&quot;route&quot;:&quot;article.index&quot;,&quot;parameters&quot;:[],&quot;auto&quot;:true},&quot;customUrl&quot;:&quot;&quot;,&quot;disabled&quot;:false},&quot;icon&quot;:{&quot;class&quot;:&quot;far fa-newspaper&quot;,&quot;show&quot;:true,&quot;disabled&quot;:false},&quot;toolbar&quot;:{&quot;show&quot;:true,&quot;arrows&quot;:true,&quot;more&quot;:true,&quot;position&quot;:&quot;right&quot;,&quot;dropdown&quot;:true,&quot;categoriesListType&quot;:&quot;dropdown&quot;,&quot;rss&quot;:true,&quot;disabled&quot;:false,&quot;categoriesListAction&quot;:&quot;redirect&quot;},&quot;custom_class&quot;:&quot;&quot;,&quot;custom_css&quot;:&quot;&quot;,&quot;shadow&quot;:{&quot;disabled&quot;:false,&quot;class&quot;:&quot;shadow-none&quot;},&quot;specificSettings&quot;:{&quot;categoryId&quot;:&quot;&quot;,&quot;promoted&quot;:true,&quot;other&quot;:{&quot;show&quot;:false,&quot;count&quot;:5,&quot;columns&quot;:1,&quot;class&quot;:&quot;other-default&quot;,&quot;show_categories&quot;:false,&quot;show_date&quot;:false,&quot;show_hour&quot;:false,&quot;show_thumbs&quot;:false,&quot;show_comments&quot;:false,&quot;show_views&quot;:false},&quot;count&quot;:3,&quot;truncateTitleLength&quot;:1,&quot;leadLength&quot;:1,&quot;showDate&quot;:true,&quot;showHour&quot;:true,&quot;showComments&quot;:true,&quot;btnClass&quot;:&quot;btn-primary&quot;,&quot;btnTxt&quot;:{&quot;pl&quot;:&quot;&quot;},&quot;textPosition&quot;:&quot;left&quot;,&quot;cols&quot;:5,&quot;rows&quot;:[1,1,1,1]},&quot;inTemplate&quot;:{&quot;mobile&quot;:true,&quot;desktop&quot;:true},&quot;limit&quot;:{&quot;min&quot;:0,&quot;max&quot;:9999},&quot;margin&quot;:{&quot;disabled&quot;:false,&quot;top&quot;:&quot;widget-mt-0&quot;,&quot;bottom&quot;:&quot;widget-mb-6&quot;},&quot;scheme&quot;:{&quot;body&quot;:{&quot;widgets&quot;:{&quot;otherarticles&quot;:{&quot;style&quot;:[],&quot;item&quot;:{&quot;style&quot;:[],&quot;title&quot;:[]}}},&quot;style&quot;:[],&quot;title&quot;:[],&quot;extra&quot;:{&quot;layer&quot;:[]}},&quot;style&quot;:[],&quot;heading&quot;:{&quot;style&quot;:[],&quot;icon&quot;:[],&quot;text&quot;:[],&quot;toolbar&quot;:{&quot;style&quot;:[],&quot;button&quot;:[],&quot;dropdown&quot;:[]}},&quot;hover&quot;:{&quot;heading&quot;:{&quot;icon&quot;:[],&quot;text&quot;:[],&quot;menu&quot;:{&quot;button&quot;:[],&quot;dropdown&quot;:[]}},&quot;body&quot;:{&quot;title&quot;:[],&quot;extra&quot;:{&quot;layer&quot;:[]}}}},&quot;allowed_columns&quot;:{&quot;col-lg-12&quot;:true,&quot;col-lg-8&quot;:true,&quot;col-lg-6&quot;:true,&quot;col-lg-4&quot;:true,&quot;col-lg-3&quot;:true},&quot;is_disabled&quot;:false,&quot;image_grid&quot;:3,&quot;title&quot;:&quot;Aktualno\u015bci&quot;,&quot;description&quot;:&quot;Ostatnie aktualno\u015bci&quot;,&quot;planner&quot;:true,&quot;widgetId&quot;:&quot;i04otautnhmd8s1c8szzp&quot;,&quot;type&quot;:&quot;category&quot;}"><div class="row no-gutters grid-style-left"><div class="col-12 col-lg-4 pr-lg-3"><a href="/artykul/63981,polska-filharmonia-baltycka-im-fryderyka-chopina-w-gdansku-zaprasza-na-koncerty-symfoniczne-i-wydarzenia-we-wrzesniu-202" title="Polska Filharmonia Bałtycka im. Fryderyka Chopina w Gdańsku zaprasza na koncerty symfoniczne i wydarzenia we wrześniu 2025" class="row no-gutters mt-3" ><span class="col col-lg-9 mr-3 mr-lg-0 pr-0 pr-lg-3"><span class="d-block"><span class="result-title d-block h5 mb-1 ">
+            Polska Filharmonia Bałtycka im. Fryderyka Chopina w Gdańsku zaprasza na koncerty symfoniczne i wydarzenia we wrześniu 2025
+        </span><small class="d-block"><span class="text-nowrap mr-3"><span class="sr-only">Data dodania artykułu: </span><span class="fal fa-clock mr-1" aria-hidden="true"></span>04.08.2025 14:49</span></small></span></span><span class="col col-lg-3 mobile-width-120"><picture class="disable-contextmenu iar-4x3" title="Polska Filharmonia Bałtycka im. Fryderyka Chopina w Gdańsku zaprasza na koncerty symfoniczne i wydarzenia we wrześniu 2025"><source srcset="https://static2.portalpomorza.pl/data/articles/sm-4x3-polska-filharmonia-baltycka-im-fryderyka-chopina-w-gdansku-zaprasza-na-koncerty-symfoniczne-i-wydar-1757063390.webp" media="(min-width: 0px)" type="image/webp"><source srcset="https://static2.portalpomorza.pl/data/articles/sm-4x3-polska-filharmonia-baltycka-im-fryderyka-chopina-w-gdansku-zaprasza-na-koncerty-symfoniczne-i-wydar-1757063390.jpg" media="(min-width: 0px)" type="image/jpeg"><img src="https://static2.portalpomorza.pl/data/articles/sm-4x3-polska-filharmonia-baltycka-im-fryderyka-chopina-w-gdansku-zaprasza-na-koncerty-symfoniczne-i-wydar-1757063390.jpg" alt="Polska Filharmonia Bałtycka im. Fryderyka Chopina w Gdańsku zaprasza na koncerty symfoniczne i wydarzenia we wrześniu 2025" title="Polska Filharmonia Bałtycka im. Fryderyka Chopina w Gdańsku zaprasza na koncerty symfoniczne i wydarzenia we wrześniu 2025" class="img-fluid" width="540" height="407" loading="lazy"></picture></span></a></div><div class="col-12 col-lg-4 pl-lg-2 pr-lg-2"><a href="/artykul/63822,polska-filharmonia-baltycka-im-fryderyka-chopina-w-gdansku-zaprasza-na-koncerty-symfoniczne-i-wydarzenia-w-sierpniu-2025" title="Polska Filharmonia Bałtycka im. Fryderyka Chopina w Gdańsku zaprasza na koncerty symfoniczne i wydarzenia w sierpniu 2025" class="row no-gutters mt-3" ><span class="col col-lg-9 mr-3 mr-lg-0 pr-0 pr-lg-3"><span class="d-block"><span class="result-title d-block h5 mb-1 ">
+            Polska Filharmonia Bałtycka im. Fryderyka Chopina w Gdańsku zaprasza na koncerty symfoniczne i wydarzenia w sierpniu 2025
+        </span><small class="d-block"><span class="text-nowrap mr-3"><span class="sr-only">Data dodania artykułu: </span><span class="fal fa-clock mr-1" aria-hidden="true"></span>04.08.2025 14:49</span></small></span></span><span class="col col-lg-3 mobile-width-120"><picture class="disable-contextmenu iar-4x3" title="Polska Filharmonia Bałtycka im. Fryderyka Chopina w Gdańsku zaprasza na koncerty symfoniczne i wydarzenia w sierpniu 2025"><source srcset="https://static2.portalpomorza.pl/data/articles/sm-4x3-polska-filharmonia-baltycka-im-fryderyka-chopina-w-gdansku-zaprasza-na-koncerty-symfoniczne-i-wydar-1754935422.webp" media="(min-width: 0px)" type="image/webp"><source srcset="https://static2.portalpomorza.pl/data/articles/sm-4x3-polska-filharmonia-baltycka-im-fryderyka-chopina-w-gdansku-zaprasza-na-koncerty-symfoniczne-i-wydar-1754935422.jpg" media="(min-width: 0px)" type="image/jpeg"><img src="https://static2.portalpomorza.pl/data/articles/sm-4x3-polska-filharmonia-baltycka-im-fryderyka-chopina-w-gdansku-zaprasza-na-koncerty-symfoniczne-i-wydar-1754935422.jpg" alt="Polska Filharmonia Bałtycka im. Fryderyka Chopina w Gdańsku zaprasza na koncerty symfoniczne i wydarzenia w sierpniu 2025" title="Polska Filharmonia Bałtycka im. Fryderyka Chopina w Gdańsku zaprasza na koncerty symfoniczne i wydarzenia w sierpniu 2025" class="img-fluid" width="540" height="407" loading="lazy"></picture></span></a></div><div class="col-12 col-lg-4 pl-lg-3"><a href="/artykul/60716,jakie-zajecia-w-klubie-fitness-wybrac" title="Jakie zajęcia w klubie fitness wybrać?" class="row no-gutters mt-3" ><span class="col col-lg-9 mr-3 mr-lg-0 pr-0 pr-lg-3"><span class="d-block"><span class="result-title d-block h5 mb-1 ">
+            Jakie zajęcia w klubie fitness wybrać?
+        </span><small class="d-block"><span class="text-nowrap mr-3"><span class="sr-only">Data dodania artykułu: </span><span class="fal fa-clock mr-1" aria-hidden="true"></span>08.09.2024 11:03</span></small></span></span><span class="col col-lg-3 mobile-width-120"><picture class="disable-contextmenu iar-4x3" title="Jakie zajęcia w klubie fitness wybrać?"><source srcset="https://static2.portalpomorza.pl/data/articles/sm-4x3-jakie-zajecia-w-klubie-fitness-wybrac-1725786378.webp" media="(min-width: 0px)" type="image/webp"><source srcset="https://static2.portalpomorza.pl/data/articles/sm-4x3-jakie-zajecia-w-klubie-fitness-wybrac-1725786378.jpg" media="(min-width: 0px)" type="image/jpeg"><img src="https://static2.portalpomorza.pl/data/articles/sm-4x3-jakie-zajecia-w-klubie-fitness-wybrac-1725786378.jpg" alt="Jakie zajęcia w klubie fitness wybrać?" title="Jakie zajęcia w klubie fitness wybrać?" class="img-fluid" width="540" height="407" loading="lazy"></picture></span></a></div></div></div></div><div class="widget widget-advert_placement widget-mt-0 widget-mb-6" id="widget-placement269"><div class="widget-body text-break" id="widgetBody-placement269"  ><div class="text-center item-subtype-c"><div
+        class="d-inline-block-not-important position-relative-not-important z-index-3 w-100-not-important"
+        data-ciid="eyJpZCI6MTgwMDAsImFkdmVydF9pZCI6MTA1NTYsImNhbXBhaWduX2lkIjoxMDI0MywiaXRlbV9zZXR0bGVtZW50X3R5cGUiOm51bGwsIml0ZW1fZGF0ZV9zdGFydCI6bnVsbCwiaXRlbV9kYXRlX2VuZCI6bnVsbCwiaXRlbV9jcGMiOm51bGwsIml0ZW1fY3BtIjpudWxsLCJjYW1wYWlnbl9zZXR0bGVtZW50X3R5cGUiOiJmbGF0IiwiY2FtcGFpZ25fZGF0ZV9zdGFydCI6IjIwMjUtMTEtMTIgMDg6NTI6MDAiLCJjYW1wYWlnbl9kYXRlX2VuZCI6IjIwMjktMTEtMTUgMDg6NTI6MDAiLCJjYW1wYWlnbl9jcGMiOm51bGwsImNhbXBhaWduX2NwbSI6bnVsbH0="
+        data-viewed
+        
+        data-subtype=c
+        data-central
+        data-is-html
+    ><small class="tipad_tag text-center">Reklama</small><div id="prg_inside_middle"><script type="text/javascript">
+        sas_idmnet.cmd.push(function(){ sas_idmnet.release("prg_inside_middle"); });
+    </script></div></div></div></div></div></div><div class="col-12 col-lg-4 "><div class="widget widget-advert_placement widget-mt-0 widget-mb-6" id="widget-placement1068"><div class="widget-body text-break" id="widgetBody-placement1068"  ><div class="text-center item-subtype-b"><div
+        class="d-inline-block-not-important position-relative-not-important z-index-3 w-100-not-important"
+        data-ciid="eyJpZCI6MTc5OTksImFkdmVydF9pZCI6NDIzLCJjYW1wYWlnbl9pZCI6MTAyNDMsIml0ZW1fc2V0dGxlbWVudF90eXBlIjpudWxsLCJpdGVtX2RhdGVfc3RhcnQiOm51bGwsIml0ZW1fZGF0ZV9lbmQiOm51bGwsIml0ZW1fY3BjIjpudWxsLCJpdGVtX2NwbSI6bnVsbCwiY2FtcGFpZ25fc2V0dGxlbWVudF90eXBlIjoiZmxhdCIsImNhbXBhaWduX2RhdGVfc3RhcnQiOiIyMDI1LTExLTEyIDA4OjUyOjAwIiwiY2FtcGFpZ25fZGF0ZV9lbmQiOiIyMDI5LTExLTE1IDA4OjUyOjAwIiwiY2FtcGFpZ25fY3BjIjpudWxsLCJjYW1wYWlnbl9jcG0iOm51bGx9"
+        data-viewed
+        
+        data-subtype=b
+        data-central
+        data-is-html
+    ><small class="tipad_tag text-center">Reklama</small><!-- inside_1 --><div id='inside_1'><script type='text/javascript'>sas_idmnet.cmd.push(function(){ sas_idmnet.release('inside_1'); });</script></div></div></div></div></div><div class="widget widget-weather shadow-none widget-mt-0 widget-mb-6" id="widget-wrjj5h5tnw4fqdj7jkt01"><div class="widget-heading d-flex align-items-center flex-nowrap justify-content-between"><a class="widget-title d-flex align-self-stretch align-items-stretch flex-nowrap text-reset" href="/prognoza-pogody"><span class="widget-icon d-flex align-items-center"><span class="fa-stack"><span class="far fa-sun-cloud fa-stack-1x widget-icon-icon" aria-hidden="true"></span></span></span><div class="widget-title-text d-flex align-items-center"><span>Pogoda</span></div></a><div class="widget-toolbar align-self-stretch d-flex align-items-stretch"><div class="btn-toolbar flex-nowrap" role="toolbar" aria-label="Dodatkowe akcje"><div class="btn-group btn-group-sm widget-arrows" role="group" aria-label="Przyciski zmieniające zawartość"><button type="button" class="toolbar-item btn disabled selected d-flex align-items-center" title="Poprzednie" tabindex="0" aria-label="Kliknij aby załadować poprzednie" aria-controls="widgetBody-wrjj5h5tnw4fqdj7jkt01" data-widget-pagination="prev"><span class="fal fa-chevron-left fa-fw" aria-hidden="true"></span><span class="sr-only">Poprzednie</span></button><button type="button" class="toolbar-item btn  d-flex align-items-center" title="Następne" tabindex="-1" aria-label="Kliknij aby załadować następne" aria-controls="widgetBody-wrjj5h5tnw4fqdj7jkt01" data-widget-pagination="next"><span class="fal fa-chevron-right fa-fw" aria-hidden="true"></span><span class="sr-only">Następne</span></button></div><a href="/prognoza-pogody" role="button" class="toolbar-item btn btn-sm  d-flex align-items-center" title="Zobacz więcej" tabindex="-1"><span class="fal fa-link fa-fw" aria-hidden="true"></span><span class="sr-only">Kliknij aby zobaczyć więcej</span></a></div></div></div><div class="widget-body text-break" id="widgetBody-wrjj5h5tnw4fqdj7jkt01" data-pagination="1" aria-live="polite" data-params="{&quot;name&quot;:{&quot;text&quot;:{&quot;pl&quot;:&quot;Pogoda&quot;},&quot;show&quot;:true,&quot;clickable&quot;:true,&quot;defaultRoute&quot;:{&quot;route&quot;:&quot;forecast.index&quot;,&quot;parameters&quot;:[],&quot;auto&quot;:false},&quot;customUrl&quot;:&quot;&quot;,&quot;disabled&quot;:false},&quot;icon&quot;:{&quot;class&quot;:&quot;far fa-sun-cloud&quot;,&quot;show&quot;:true,&quot;disabled&quot;:false},&quot;toolbar&quot;:{&quot;show&quot;:true,&quot;arrows&quot;:true,&quot;more&quot;:true,&quot;position&quot;:&quot;right&quot;,&quot;dropdown&quot;:&quot;&quot;,&quot;categoriesListType&quot;:&quot;dropdown&quot;,&quot;rss&quot;:&quot;&quot;,&quot;disabled&quot;:false},&quot;custom_class&quot;:&quot;&quot;,&quot;custom_css&quot;:&quot;&quot;,&quot;shadow&quot;:{&quot;disabled&quot;:false,&quot;class&quot;:&quot;shadow-none&quot;},&quot;specificSettings&quot;:{&quot;country&quot;:{&quot;pl&quot;:&quot;PL&quot;},&quot;city&quot;:{&quot;pl&quot;:&quot;Gda\u0144sk&quot;}},&quot;inTemplate&quot;:{&quot;mobile&quot;:true,&quot;desktop&quot;:true},&quot;limit&quot;:{&quot;min&quot;:0,&quot;max&quot;:9999},&quot;margin&quot;:{&quot;disabled&quot;:false,&quot;top&quot;:&quot;widget-mt-0&quot;,&quot;bottom&quot;:&quot;widget-mb-6&quot;},&quot;scheme&quot;:{&quot;style&quot;:[],&quot;heading&quot;:{&quot;style&quot;:[],&quot;icon&quot;:[],&quot;text&quot;:[],&quot;toolbar&quot;:{&quot;style&quot;:[],&quot;button&quot;:[],&quot;dropdown&quot;:[]}},&quot;body&quot;:{&quot;style&quot;:[],&quot;title&quot;:[],&quot;extra&quot;:{&quot;layer&quot;:[]}},&quot;hover&quot;:{&quot;heading&quot;:{&quot;icon&quot;:[],&quot;text&quot;:[],&quot;menu&quot;:{&quot;button&quot;:[],&quot;dropdown&quot;:[]}},&quot;body&quot;:{&quot;title&quot;:[],&quot;extra&quot;:{&quot;layer&quot;:[]}}}},&quot;allowed_columns&quot;:{&quot;col-lg-12&quot;:true,&quot;col-lg-8&quot;:true,&quot;col-lg-6&quot;:true,&quot;col-lg-4&quot;:true,&quot;col-lg-3&quot;:true},&quot;is_disabled&quot;:false,&quot;image_grid&quot;:4,&quot;title&quot;:&quot;Pogoda&quot;,&quot;description&quot;:&quot;Prognoza pogody dla wskazanej lokalizacji&quot;,&quot;widgetId&quot;:&quot;wrjj5h5tnw4fqdj7jkt01&quot;,&quot;type&quot;:&quot;weather&quot;}"><div class="d-flex justify-content-center align-items-center text-center flex-row mt-3"><div class="col-5"><a href="/prognoza-pogody/PL,Gda%C5%84sk" title="Sprawdź pogodę na 7 dni"><picture class="disable-contextmenu"><source srcset="https://stv2.tipnet.pl/assets/images/weather/v2/icon-moon.webp" type="image/webp"><source srcset="https://stv2.tipnet.pl/assets/images/weather/v2/icon-moon.png" type="image/png"><img src="https://stv2.tipnet.pl/assets/images/weather/v2/icon-moon.png" alt="bezchmurnie" width=200 height=205 class="img-fluid" loading="lazy"></picture></a></div><div class="col-7 mt-3 mt-lg-0"><p class="h1 mb-2 text-nowrap"><a href="/prognoza-pogody/PL,Gda%C5%84sk" class="text-first-color" title="Sprawdź pogodę na 7 dni"><span style="font-size:larger;"><span class="sr-only">Temperatura: </span>-3<sup>&deg;</sup>C
+                    </span><small class="d-block"><span class="sr-only">Miasto: </span>Gdańsk</small></a></p><p class="mb-4">
+                Ciśnienie: 993 hPa<br>
+                Wiatr: 22 km/h
+            </p></div></div></div></div><div class="widget widget-advert_placement widget-mt-0 widget-mb-6" id="widget-placement264"><div class="widget-body text-break" id="widgetBody-placement264"  ><div class="text-center item-subtype-b"><div
+        class="d-inline-block-not-important position-relative-not-important z-index-3 w-100-not-important"
+        data-ciid="eyJpZCI6MTc5OTksImFkdmVydF9pZCI6NDIzLCJjYW1wYWlnbl9pZCI6MTAyNDMsIml0ZW1fc2V0dGxlbWVudF90eXBlIjpudWxsLCJpdGVtX2RhdGVfc3RhcnQiOm51bGwsIml0ZW1fZGF0ZV9lbmQiOm51bGwsIml0ZW1fY3BjIjpudWxsLCJpdGVtX2NwbSI6bnVsbCwiY2FtcGFpZ25fc2V0dGxlbWVudF90eXBlIjoiZmxhdCIsImNhbXBhaWduX2RhdGVfc3RhcnQiOiIyMDI1LTExLTEyIDA4OjUyOjAwIiwiY2FtcGFpZ25fZGF0ZV9lbmQiOiIyMDI5LTExLTE1IDA4OjUyOjAwIiwiY2FtcGFpZ25fY3BjIjpudWxsLCJjYW1wYWlnbl9jcG0iOm51bGx9"
+        data-viewed
+        
+        data-subtype=b
+        data-central
+        data-is-html
+    ><small class="tipad_tag text-center">Reklama</small><!-- inside_1 --><div id='inside_1'><script type='text/javascript'>sas_idmnet.cmd.push(function(){ sas_idmnet.release('inside_1'); });</script></div></div></div></div></div><div class="widget widget-advert_placement widget-mt-0 widget-mb-6" id="widget-placement265"><div class="widget-body text-break" id="widgetBody-placement265"  ><div class="text-center item-subtype-b"><div
+        class="d-inline-block-not-important position-relative-not-important z-index-3 w-100-not-important"
+        data-ciid="eyJpZCI6MTc5OTksImFkdmVydF9pZCI6NDIzLCJjYW1wYWlnbl9pZCI6MTAyNDMsIml0ZW1fc2V0dGxlbWVudF90eXBlIjpudWxsLCJpdGVtX2RhdGVfc3RhcnQiOm51bGwsIml0ZW1fZGF0ZV9lbmQiOm51bGwsIml0ZW1fY3BjIjpudWxsLCJpdGVtX2NwbSI6bnVsbCwiY2FtcGFpZ25fc2V0dGxlbWVudF90eXBlIjoiZmxhdCIsImNhbXBhaWduX2RhdGVfc3RhcnQiOiIyMDI1LTExLTEyIDA4OjUyOjAwIiwiY2FtcGFpZ25fZGF0ZV9lbmQiOiIyMDI5LTExLTE1IDA4OjUyOjAwIiwiY2FtcGFpZ25fY3BjIjpudWxsLCJjYW1wYWlnbl9jcG0iOm51bGx9"
+        data-viewed
+        
+        data-subtype=b
+        data-central
+        data-is-html
+    ><small class="tipad_tag text-center">Reklama</small><!-- inside_1 --><div id='inside_1'><script type='text/javascript'>sas_idmnet.cmd.push(function(){ sas_idmnet.release('inside_1'); });</script></div></div></div></div></div><style>#widget-vd8r70ah3d9il916t3gc9.widget .widget-body {color:#073763}#widget-vd8r70ah3d9il916t3gc9.widget .widget-body span {
+            color:#073763;
+        }</style><div class="widget widget-comment shadow-none widget-mt-0 widget-mb-6" id="widget-vd8r70ah3d9il916t3gc9"><div class="widget-heading d-flex align-items-center flex-nowrap justify-content-between"><div class="widget-title d-flex align-self-stretch align-items-stretch flex-nowrap"><span class="widget-icon d-flex align-items-center"><span class="fa-stack"><span class="fas fa-comments fa-stack-1x widget-icon-icon" aria-hidden="true"></span></span></span><div class="widget-title-text d-flex align-items-center"><span>Ostatnie komentarze</span></div></div><div class="widget-toolbar align-self-stretch d-flex align-items-stretch"><div class="btn-toolbar flex-nowrap" role="toolbar" aria-label="Dodatkowe akcje"><div class="btn-group btn-group-sm widget-arrows" role="group" aria-label="Przyciski zmieniające zawartość"><button type="button" class="toolbar-item btn disabled selected d-flex align-items-center" title="Poprzednie" tabindex="0" aria-label="Kliknij aby załadować poprzednie" aria-controls="widgetBody-vd8r70ah3d9il916t3gc9" data-widget-pagination="prev"><span class="fal fa-chevron-left fa-fw" aria-hidden="true"></span><span class="sr-only">Poprzednie</span></button><button type="button" class="toolbar-item btn  d-flex align-items-center" title="Następne" tabindex="-1" aria-label="Kliknij aby załadować następne" aria-controls="widgetBody-vd8r70ah3d9il916t3gc9" data-widget-pagination="next"><span class="fal fa-chevron-right fa-fw" aria-hidden="true"></span><span class="sr-only">Następne</span></button></div></div></div></div><div class="widget-body text-break" id="widgetBody-vd8r70ah3d9il916t3gc9" data-pagination="1" aria-live="polite" data-params="{&quot;name&quot;:{&quot;text&quot;:{&quot;pl&quot;:&quot;Ostatnie komentarze&quot;},&quot;show&quot;:true,&quot;clickable&quot;:false,&quot;defaultRoute&quot;:{&quot;route&quot;:&quot;&quot;,&quot;parameters&quot;:[],&quot;auto&quot;:false},&quot;customUrl&quot;:&quot;&quot;,&quot;disabled&quot;:false},&quot;icon&quot;:{&quot;class&quot;:&quot;fas fa-comments&quot;,&quot;show&quot;:true,&quot;disabled&quot;:false},&quot;toolbar&quot;:{&quot;show&quot;:true,&quot;arrows&quot;:true,&quot;more&quot;:&quot;&quot;,&quot;position&quot;:&quot;right&quot;,&quot;dropdown&quot;:&quot;&quot;,&quot;categoriesListType&quot;:&quot;dropdown&quot;,&quot;rss&quot;:&quot;&quot;,&quot;disabled&quot;:false},&quot;custom_class&quot;:&quot;&quot;,&quot;custom_css&quot;:&quot;&quot;,&quot;shadow&quot;:{&quot;disabled&quot;:false,&quot;class&quot;:&quot;shadow-none&quot;},&quot;specificSettings&quot;:{&quot;moduleId&quot;:1,&quot;count&quot;:5,&quot;leadLength&quot;:1,&quot;boxStyle&quot;:&quot;cloud&quot;,&quot;showRoute&quot;:true,&quot;showAvatar&quot;:true},&quot;inTemplate&quot;:{&quot;mobile&quot;:true,&quot;desktop&quot;:true},&quot;limit&quot;:{&quot;min&quot;:0,&quot;max&quot;:9999},&quot;margin&quot;:{&quot;disabled&quot;:false,&quot;top&quot;:&quot;widget-mt-0&quot;,&quot;bottom&quot;:&quot;widget-mb-6&quot;},&quot;scheme&quot;:{&quot;style&quot;:[],&quot;heading&quot;:{&quot;style&quot;:[],&quot;icon&quot;:[],&quot;text&quot;:[],&quot;toolbar&quot;:{&quot;style&quot;:[],&quot;button&quot;:[],&quot;dropdown&quot;:[]}},&quot;body&quot;:{&quot;style&quot;:{&quot;color&quot;:&quot;#073763&quot;},&quot;title&quot;:[],&quot;extra&quot;:{&quot;layer&quot;:[]}},&quot;hover&quot;:{&quot;heading&quot;:{&quot;icon&quot;:[],&quot;text&quot;:[],&quot;menu&quot;:{&quot;button&quot;:[],&quot;dropdown&quot;:[]}},&quot;body&quot;:{&quot;title&quot;:[],&quot;extra&quot;:{&quot;layer&quot;:[]}}}},&quot;allowed_columns&quot;:{&quot;col-lg-12&quot;:true,&quot;col-lg-8&quot;:true,&quot;col-lg-6&quot;:true,&quot;col-lg-4&quot;:true,&quot;col-lg-3&quot;:true},&quot;is_disabled&quot;:false,&quot;image_grid&quot;:4,&quot;title&quot;:&quot;Komentarze&quot;,&quot;description&quot;:&quot;Widget ostatnich komentarzy w wybranym module&quot;,&quot;widgetId&quot;:&quot;vd8r70ah3d9il916t3gc9&quot;,&quot;type&quot;:&quot;comment&quot;}"><a href="/artykul/64572,magiczna-parada-swiateczna-na-amager-serce-bozego-narodzenia-w-kopenhadze" class="d-block text-reset comment-box comment-box-cloud"><span class="d-flex w-100"><span class="d-block comment-avatar"><span
+    class="avatar"
+    style="width:40px;height:40px;line-height:40px;font-size:19px;vertical-align:middle;"
+    ><span class="fal fa-user" aria-hidden="true"></span></span></span><span class="d-block comment-body"><strong class="d-block comment-author"><span class="sr-only">Autor komentarza: </span>robi</strong><span class="d-block comment-contents text-truncate-lines-1"><span class="sr-only">Treść komentarza: </span>Super. Duńczycy to jest Wspólnota. Pracują iężko i wspaniałe bawią się. Paradą rozpoczynają Adwent, czas przygotowania się  do Świąt  Bożego Narodzenia. Bogaty kraj, który ani myśli zmienić swój koronę duńską (DKK) - symbol ich suwerenności i wolności finansowe.</span><small class="d-block mt-1 text-truncate"><span class="second-color comment-link"><span class="sr-only">Źródło komentarza: </span>Magiczna Parada Świąteczna na Amager – Serce Bożego Narodzenia w Kopenhadze</span></small></span></span></a><a href="/artykul/9825,znecano-sie-nad-psem-oddam-w-dobre-rece-okazalo-sie-przepustka-do-lepszego-swiata-dla-tobiego" class="d-block text-reset comment-box comment-box-cloud"><span class="d-flex w-100"><span class="d-block comment-avatar"><span
+    class="avatar"
+    style="width:40px;height:40px;line-height:40px;font-size:19px;vertical-align:middle;"
+    ><span class="fal fa-user" aria-hidden="true"></span></span></span><span class="d-block comment-body"><strong class="d-block comment-author"><span class="sr-only">Autor komentarza: </span>Anna</strong><span class="d-block comment-contents text-truncate-lines-1"><span class="sr-only">Treść komentarza: </span>Witam, szukam pieska w typie shih-tzu, potrzebującego spokojnego domu, miłości i bezpieczeństwa. Proszę o informację, 665 047 641</span><small class="d-block mt-1 text-truncate"><span class="second-color comment-link"><span class="sr-only">Źródło komentarza: </span>Znęcano się nad psem?! „Oddam w dobre ręce” – okazało się przepustką do lepszego świata dla Tobiego</span></small></span></span></a><a href="/artykul/64117,to-jest-po-ebane-ludzi-jest-ku-wa-pod-sam-sufit-wielkie-swieto-gminy-czy-wielka-wtopa-wladz" class="d-block text-reset comment-box comment-box-cloud"><span class="d-flex w-100"><span class="d-block comment-avatar"><span
+    class="avatar"
+    style="width:40px;height:40px;line-height:40px;font-size:19px;vertical-align:middle;"
+    ><span class="fal fa-user" aria-hidden="true"></span></span></span><span class="d-block comment-body"><strong class="d-block comment-author"><span class="sr-only">Autor komentarza: </span>Andre</strong><span class="d-block comment-contents text-truncate-lines-1"><span class="sr-only">Treść komentarza: </span>Ten koncert to nie tylko blamaż tego niby artysty, ale przede wszystkim władz Skarszew i tej "mądralińskiej" sekretarz gminy Magdaleny Forc-Cherek.</span><small class="d-block mt-1 text-truncate"><span class="second-color comment-link"><span class="sr-only">Źródło komentarza: </span>„To jest po*ebane. Ludzi jest ku*wa pod sam sufit” - Wielkie święto gminy, czy wielka wtopa władz?!</span></small></span></span></a><a href="/artykul/2520,zawrzalo-w-ogolniaku-stolki-do-wziecia" class="d-block text-reset comment-box comment-box-cloud"><span class="d-flex w-100"><span class="d-block comment-avatar"><span
+    class="avatar"
+    style="width:40px;height:40px;line-height:40px;font-size:19px;vertical-align:middle;"
+    ><span class="fal fa-user" aria-hidden="true"></span></span></span><span class="d-block comment-body"><strong class="d-block comment-author"><span class="sr-only">Autor komentarza: </span>Gabriel</strong><span class="d-block comment-contents text-truncate-lines-1"><span class="sr-only">Treść komentarza: </span>Brawo dla Pani Wiesławy. Dodatkowo dodam, że Pan Wiesław Rutkowski i jego rodzina to sigma.</span><small class="d-block mt-1 text-truncate"><span class="second-color comment-link"><span class="sr-only">Źródło komentarza: </span>Zawrzało w ogólniaku. Stołki do wzięcia </span></small></span></span></a><a href="/artykul/63987,wideo-znani-biegacze-podczas-zawodow-a-wsrod-nich-grzegorz-gajdus" class="d-block text-reset comment-box comment-box-cloud"><span class="d-flex w-100"><span class="d-block comment-avatar"><span
+    class="avatar"
+    style="width:40px;height:40px;line-height:40px;font-size:19px;vertical-align:middle;"
+    ><span class="fal fa-user" aria-hidden="true"></span></span></span><span class="d-block comment-body"><strong class="d-block comment-author"><span class="sr-only">Autor komentarza: </span>biegacz</strong><span class="d-block comment-contents text-truncate-lines-1"><span class="sr-only">Treść komentarza: </span>Dziękujemy organizatorom. Fajnie było pobiec szybciej od Gajdusa ;-DDD</span><small class="d-block mt-1 text-truncate"><span class="second-color comment-link"><span class="sr-only">Źródło komentarza: </span>[WIDEO]!  Znani biegacze podczas zawodów, a wśród nich Grzegorz Gajdus!</span></small></span></span></a></div></div></div></div>
+    </div><div class="text-center item-subtype-e my-3 container">
+    <div
+        class="d-inline-block-not-important position-relative-not-important z-index-3 w-100-not-important"
+        data-ciid="eyJpZCI6NDk1LCJhZHZlcnRfaWQiOjQyMSwiY2FtcGFpZ25faWQiOjI3OSwiaXRlbV9zZXR0bGVtZW50X3R5cGUiOm51bGwsIml0ZW1fZGF0ZV9zdGFydCI6bnVsbCwiaXRlbV9kYXRlX2VuZCI6bnVsbCwiaXRlbV9jcGMiOm51bGwsIml0ZW1fY3BtIjpudWxsLCJjYW1wYWlnbl9zZXR0bGVtZW50X3R5cGUiOiJmbGF0IiwiY2FtcGFpZ25fZGF0ZV9zdGFydCI6IjIwMjItMDMtMTcgMTA6MDg6MDAiLCJjYW1wYWlnbl9kYXRlX2VuZCI6IjIwMzAtMTEtMDcgMTE6MDg6MDAiLCJjYW1wYWlnbl9jcGMiOm51bGwsImNhbXBhaWduX2NwbSI6bnVsbH0="
+        data-viewed
+        
+        
+        data-central
+        data-is-html
+    >
+        <small class="tipad_tag text-center">Reklama</small><!-- bottom_1 --><div id='bottom_1'><script type='text/javascript'>sas_idmnet.cmd.push(function(){ sas_idmnet.release('bottom_1'); });</script></div></div>
+</div>
+</main>
+
+        </div>
+
+                                    <footer id="app-footer">
+    <div id="footer-wrapper" class="footer-type-gradient">
+        <div class="footer-inner py-4">
+            <div class="container">
+                <div class="row justify-content-between">
+                    <div class="col-12 col-lg-4 text-center text-lg-left my-3 my-lg-0">
+                        <div class="service-name" style="padding-top:11px; padding-bottom:11px;">
+                                                                                            <img
+                                    src="https://static2.portalpomorza.pl/data/wysiwig/250.png"
+                                    alt="PortalPomorza.pl - Blisko ważnych spraw!"
+                                    class="img-fluid"
+                                    style="max-width:70%"
+                                    loading="lazy"
+                                    width=250
+                                    height=66
+                                >
+                                                    </div>
+
+                                                   <div class="mt-3">
+                               <p><strong>Portalpomorza.pl</strong>&nbsp;<br>ul. Gazety Tczewskiej 1 83-110 Tczew<br>tel. (58) 530 10 81 wew. 21<br>Wydawca / Redaktor Naczelny<br>Czesław Czyżewski</p><p>&nbsp;</p>
+                           </div>
+                                            </div>
+
+                                            <div class="col-12 col-lg-4 my-3 my-lg-0">
+                            
+<ul class="menu">
+    <li>
+            <a
+                href="/s/100/o-nas"
+                class="toolbar-item"
+                
+                
+            >O nas</a>
+        </li>
+<li>
+            <a
+                href="/s/101/reklama"
+                class="toolbar-item"
+                
+                
+            >Reklama</a>
+        </li>
+<li>
+            <a
+                href="/s/102/regulamin"
+                class="toolbar-item"
+                
+                
+            >Regulamin</a>
+        </li>
+<li>
+            <a
+                href="/s/103/kontakt"
+                class="toolbar-item"
+                
+                
+            >Kontakt</a>
+        </li>
+<li>
+            <a
+                href="/artykuly"
+                class="toolbar-item"
+                
+                
+            >Wiadomości</a>
+        </li>
+<li>
+            <a
+                href="/wydarzenia"
+                class="toolbar-item"
+                
+                
+            >Imprezy</a>
+        </li>
+<li>
+            <a
+                href="/ogloszenia"
+                class="toolbar-item"
+                
+                
+            >Ogłoszenia</a>
+        </li>
+<li>
+            <a
+                href="/firmy"
+                class="toolbar-item"
+                
+                
+            >Katalog firm</a>
+        </li>
+</ul>
+
+                        </div>
+                    
+                                            <div class="col-12 col-lg-4 text-center text-lg-left my-3 my-lg-0">
+                            
+                            
+                            
+                                <form method="get" action="/szukaj" class="search mx-auto mx-lg-0" id="footer_search" rel="nofollow" novalidate>
+                                    <div class="input-group input-group-rounded footer-search-type-gradient footer-search-hover-type-gradient">
+                                            <input type="text" id="footer_search_word" name="word" required="required" placeholder="Szukaj w portalu" aria-label="Szukaj" class="form-control" >
+        
+                                        <div class="input-group-append">
+                                            <button class="btn btn-secondary bg-first-color border-first-color btn-search" type="submit">
+                                                                                                    Szukaj                                                                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                                                    </div>
+                                    </div>
+            </div>
+        </div><div class="container">
+                <div class="my-3 my-lg-0">
+                    <ul class="social text-center text-lg-left">
+                                                    <li>
+                                <a href="https://www.facebook.com/PortalPomorzapl/" title="Przejdź do Facebook.com" rel="nofollow" target="_blank">
+                                    <span class="fab fa-facebook-f" aria-hidden="true"></span>
+                                    <span class="sr-only">Facebook.com</span>
+                                </a>
+                            </li>
+                                            </ul>
+                </div>
+            </div><div class="footer-founders py-3">
+            <div class="container text-center">
+                <span class="d-inline-flex align-items-end justify-content-center">
+                    <a href="https://www.4media.com" target="_blank" class="d-inline-flex align-items-end justify-content-center" title="www.4media.com">
+                        <span class="text-nowrap cms4media">CMS portalu</span>
+                    </a>
+                    <span class="text-nowrap cms4media ml-1">przygotowany przez</span>
+                    <a href="https://www.4media.com" target="_blank" title="www.4media.com" class="ml-0">
+                        <img src="https://stv2.tipnet.pl/assets/images/4media.png" width="167" height="40" alt="4media.com" loading="lazy">
+                    </a>
+                </span>
+            </div>
+        </div>
+    </div>
+
+            <a href="#top" role="button" class="d-none backtotop-btn right" title="Przejdź do góry strony">
+            <span class="far fa-chevron-up" aria-hidden="true"></span>
+            <span class="sr-only">Przejdź do góry strony</span>
+        </a>
+    </footer>
+
+
+<div id="wcagModalOuter" aria-live="polite"></div>
+
+<div
+    class="modal fade center-center"
+    tabindex="-1"
+    id="toplayer"
+    data-toplayer-settings="{&quot;position&quot;:&quot;center center&quot;,&quot;flying&quot;:true,&quot;color&quot;:&quot;#c00&quot;,&quot;showOn&quot;:&quot;instant&quot;,&quot;showOnSeconds&quot;:null,&quot;showOnScrollOffset&quot;:null,&quot;hideAfterSeconds&quot;:12,&quot;resetAfter&quot;:&quot;P1DT4H0M&quot;,&quot;id&quot;:19136}"
+>
+    <div class="modal-dialog">
+        <div class="modal-content border-0 bg-transparent">
+            <div class="modal-body p-0 text-center">
+                <div class="d-inline-block position-relative">
+                    <small class="tipad_tag ">Reklama</small>
+                    <button type="button" class="close d-none bg-dark text-light shadow" data-dismiss="modal" aria-label="Kliknij aby zamknąć reklamę" title="Zamknij reklamę">
+                        <span class="fal fa-times" aria-hidden="true"></span>
+                    </button>
+                    <div
+                        class="d-inline-block"
+                        style="min-width:4rem"
+                        data-ciid="eyJpZCI6MTkxMzYsImFkdmVydF9pZCI6MTY4MDQsImNhbXBhaWduX2lkIjoxMDg5NiwiaXRlbV9zZXR0bGVtZW50X3R5cGUiOm51bGwsIml0ZW1fZGF0ZV9zdGFydCI6bnVsbCwiaXRlbV9kYXRlX2VuZCI6bnVsbCwiaXRlbV9jcGMiOm51bGwsIml0ZW1fY3BtIjpudWxsLCJjYW1wYWlnbl9zZXR0bGVtZW50X3R5cGUiOiJmbGF0IiwiY2FtcGFpZ25fZGF0ZV9zdGFydCI6IjIwMjUtMTItMzEgMTg6MjE6MDAiLCJjYW1wYWlnbl9kYXRlX2VuZCI6IjIwMjYtMDEtMzEgMTg6MjE6MDAiLCJjYW1wYWlnbl9jcGMiOm51bGwsImNhbXBhaWduX2NwbSI6bnVsbH0="
+                        data-viewed
+                        
+                    ><picture class="disable-contextmenu">                                                                                                        <source srcset="https://sc.4media.com/data/aqwzxtvn/2025/12/31/image-jpg-1-6955693ed3efa.webp" media="(min-width: 832px)" type="image/webp">
+                                                    <source srcset="https://sc.4media.com/data/aqwzxtvn/2025/12/31/image-jpg-1-6955693ed3efa.jpg" media="(min-width: 832px)" type="image/jpeg">                                                                                                <source srcset="https://sc.4media.com/data/aqwzxtvn/2025/12/31/md-image-jpg-1-6955693ed3efa.webp" media="(min-width: 768px)" type="image/webp">
+                                                <source srcset="https://sc.4media.com/data/aqwzxtvn/2025/12/31/md-image-jpg-1-6955693ed3efa.jpg" media="(min-width: 768px)" type="image/jpeg">                                                                                                <source srcset="https://sc.4media.com/data/aqwzxtvn/2025/12/31/sm-image-jpg-1-6955693ed3efa.webp" media="(min-width: 0px)" type="image/webp">
+                                                <source srcset="https://sc.4media.com/data/aqwzxtvn/2025/12/31/sm-image-jpg-1-6955693ed3efa.jpg" media="(min-width: 0px)" type="image/jpeg"><img src="https://sc.4media.com/data/aqwzxtvn/2025/12/31/image-jpg-1-6955693ed3efa.jpg" alt="" class="img-fluid shadow" loading="lazy" width=832 height=1248>
+                                </picture></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+var dBannersSettings = {"after_first_paragraph":"<div class=\"text-center item-subtype-d my-3\">\n    <div\n        class=\"d-inline-block-not-important position-relative-not-important z-index-3 w-100-not-important\"\n        data-ciid=\"eyJpZCI6NDk2LCJhZHZlcnRfaWQiOjQyMiwiY2FtcGFpZ25faWQiOjI3OSwiaXRlbV9zZXR0bGVtZW50X3R5cGUiOm51bGwsIml0ZW1fZGF0ZV9zdGFydCI6bnVsbCwiaXRlbV9kYXRlX2VuZCI6bnVsbCwiaXRlbV9jcGMiOm51bGwsIml0ZW1fY3BtIjpudWxsLCJjYW1wYWlnbl9zZXR0bGVtZW50X3R5cGUiOiJmbGF0IiwiY2FtcGFpZ25fZGF0ZV9zdGFydCI6IjIwMjItMDMtMTcgMTA6MDg6MDAiLCJjYW1wYWlnbl9kYXRlX2VuZCI6IjIwMzAtMTEtMDcgMTE6MDg6MDAiLCJjYW1wYWlnbl9jcGMiOm51bGwsImNhbXBhaWduX2NwbSI6bnVsbH0=\"\n        data-viewed\n        \n        \n        data-central\n        data-is-html\n    >\n        <small class=\"tipad_tag text-center\">Reklama<\/small><!-- prg_inside_top --><div id='prg_inside_top'><script type='text\/javascript'>sas_idmnet.cmd.push(function(){ sas_idmnet.release('prg_inside_top'); });<\/script><\/div><\/div>\n<\/div>\n"};
+</script>
+                    
+            <script>
+        var ajaxCommentsPaginationParams = {
+            "allowForm": 1,
+            "id": 45196,
+            "connection": 'articles'
+        }
+    </script>
+        
+<script>
+var _baseurl = 'https://www.portalpomorza.pl/',
+    _env = 'prod',
+    _static = 'https://static2.portalpomorza.pl/',
+    _static_tipnews = 'https://stv2.tipnet.pl/',
+    _token_name = 'tipnews',
+    _hash = '0188d526c8ce74b71a4bf63efbffa242',
+    sdow = 1,
+    _vars = {},
+    _lang = 'pl',
+    tiplang = {},
+    recaptcha_site_key = '6LeRaIkhAAAAAHemoC3hTrKBy1s18Sg4OVPJRV1b',
+    mapbox_app_key = 'pk.eyJ1IjoidGlwbWVkaWEyMDI0IiwiYSI6ImNseTVrcjhqajAwZmsyaXMzeWEwOHhvNnIifQ.NdEKPhSiH1lU7s4janAssA',
+    map_settings = {
+        lat: '54.3610063',
+        lng: '18.548448611',
+        zoom: '12'
+    },
+    isBot = true,
+    isMobile = false,
+    gld = '1';
+</script>
+<script src="/build/runtime.cbd1eb02.js"></script><script src="/build/app.2ca7733b.js"></script>
+
+        <script>
+	sas_idmnet.cmd.push(function() { sas_idmnet.layerRelease(); });
+</script></body>
+</html>

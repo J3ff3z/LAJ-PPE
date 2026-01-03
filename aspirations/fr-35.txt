@@ -1,0 +1,1652 @@
+HTTP/2 200 
+date: Sat, 03 Jan 2026 16:44:48 GMT
+content-type: text/html; charset=UTF-8
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+x-powered-by: PHP/8.2.29
+cache-control: no-cache, private
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=piXgX5C%2FVbXxir4wWzAHsjic1P1ke0iGi6IXx33wmdZiWH519aWiCxbWmwmiGt%2BsnIEVv2n1KQQGl0wCLxlx7q8hG21ZTcT9W859%2B1l83FuQBGyF4p%2FhqEVV"}]}
+vary: Accept-Encoding,User-Agent
+server: cloudflare
+strict-transport-security: max-age=63072000; includeSubDomains
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-turbo-charged-by: LiteSpeed
+cf-cache-status: DYNAMIC
+cf-ray: 9b83f67ad8f2d479-CDG
+alt-svc: h3=":443"; ma=86400
+
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <!-- Metas -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script src="https://www.googletagmanager.com/gtag/js?id=UA-97878241-1" async></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-97878241-1');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<!-- Google Adsense -->
+<script data-ad-client="ca-pub-3769720831012003" defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-3769720831012003",
+        enable_page_level_ads: true
+    });
+</script>
+    <!-- Google Adsense -->
+
+    <title>Reproche à Aïvo et Madougou : un péché de Patrice Talon mis au jour</title>
+
+    <!-- Web Application Manifest -->
+<link rel="manifest" href="https://www.banouto.bj/manifest.json">
+<!-- Chrome for Android theme color -->
+<meta name="theme-color" content="#000000">
+
+<!-- Add to homescreen for Chrome on Android -->
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="application-name" content="Banouto">
+<link rel="icon" sizes="512x512" href="/images/icons/icon-512x512.png">
+
+<!-- Add to homescreen for Safari on iOS -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Banouto">
+<link rel="apple-touch-icon" href="/images/icons/icon-512x512.png">
+
+
+<link href="/images/icons/splash-640x1136.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/images/icons/splash-750x1334.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/images/icons/splash-1242x2208.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+<link href="/images/icons/splash-1125x2436.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+<link href="/images/icons/splash-828x1792.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/images/icons/splash-1242x2688.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+<link href="/images/icons/splash-1536x2048.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/images/icons/splash-1668x2224.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/images/icons/splash-1668x2388.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/images/icons/splash-2048x2732.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+
+<!-- Tile for Win8 -->
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/images/icons/icon-512x512.png">
+
+<script type="text/javascript">
+    // Initialize the service worker
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/serviceworker.js', {
+            scope: '.'
+        }).then(function (registration) {
+            // Registration was successful
+            console.log('Laravel PWA: ServiceWorker registration successful with scope: ', registration.scope);
+        }, function (err) {
+            // registration failed :(
+            console.log('Laravel PWA: ServiceWorker registration failed: ', err);
+        });
+    }
+</script>
+    <!-- Meta -->
+    <meta name="description" content="Face aux journalistes de RFI et France 24 dans un entretien diffusé le 30 avril Patrice Talon affirme que Reckya Madougou et Joël Aïvo ne sont d’aucun parti politique. En réaction à ses propos, l’opposant Martin Rodriguez souligne que le Chef de l’Etat n’a jamais révélé à quel parti lui-même appartient.">
+    <meta property="og:url"
+          content="https://www.banouto.bj/politique/article/20210516-reproche-a-aivo-et-madougou-un-peche-de-patrice-talon-mis-au-jour">
+    <meta property="og:title" content="Reproche à Aïvo et Madougou : un péché de Patrice Talon mis au jour">
+    <meta property="og:site_name" content="banouto.bj">
+    <meta property="og:type" content="article">
+    <meta property="article:author" content="Banouto">
+    <meta property="article:published_time" content="2021-05-16T17:40:11+01:00">
+    <meta property="article:modified_time" content="2021-05-16T17:40:11+01:00">
+    <meta property="og:locale" content="fr_FR">
+    <meta property="og:image" content="https://www.banouto.bj/images/imagekit/mobile/w780/image-preview_Nt63npcUL.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:description" content="Face aux journalistes de RFI et France 24 dans un entretien diffusé le 30 avril Patrice Talon affirme que Reckya Madougou et Joël Aïvo ne sont d’aucun parti politique. En réaction à ses propos, l’opposant Martin Rodriguez souligne que le Chef de l’Etat n’a jamais révélé à quel parti lui-même appartient.">
+    <meta property="fb:app_id" content="2727622127481114">
+
+    <meta name="twitter:domain" content="https://www.banouto.bj/">
+    <meta name="twitter:site" content="@BanoutoBenin">
+    <meta name="twitter:url"
+          content="https://www.banouto.bj/politique/article/20210516-reproche-a-aivo-et-madougou-un-peche-de-patrice-talon-mis-au-jour">
+    <meta name="twitter:title" content="Reproche à Aïvo et Madougou : un péché de Patrice Talon mis au jour">
+    <meta name="twitter:description" content="Face aux journalistes de RFI et France 24 dans un entretien diffusé le 30 avril Patrice Talon affirme que Reckya Madougou et Joël Aïvo ne sont d’aucun parti politique. En réaction à ses propos, l’opposant Martin Rodriguez souligne que le Chef de l’Etat n’a jamais révélé à quel parti lui-même appartient.">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://www.banouto.bj/images/imagekit/mobile/w780/image-preview_Nt63npcUL.jpg">
+    <link rel="canonical"
+          href="https://www.banouto.bj/politique/article/20210516-reproche-a-aivo-et-madougou-un-peche-de-patrice-talon-mis-au-jour">
+    <!-- /Meta -->
+
+    <!-- bootstrap 5 -->
+    <link rel="stylesheet" href="https://www.banouto.bj/css/bootstrap.min.css">
+
+    <!-- font family -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
+          rel="preconnect">
+    <link href="https://www.banouto.bj/fonts/EinsteinRomanOpti.css" rel="stylesheet" type="text/css"/>
+
+    <!-- ionicons icons  -->
+    <link rel="stylesheet" href="https://www.banouto.bj/css/ionicons.css" as="style">
+    <!-- line-awesome icons  -->
+    <link rel="stylesheet" href="https://www.banouto.bj/css/line-awesome.css" as="style">
+    <!-- animate css  -->
+    <link rel="stylesheet" href="https://www.banouto.bj/css/animate.css" as="style">
+    <!-- fancybox popup  -->
+    <link rel="stylesheet" href="https://www.banouto.bj/css/jquery.fancybox.css" as="style">
+    <!-- lity popup  -->
+    <link rel="stylesheet" href="https://www.banouto.bj/css/lity.css" as="style">
+    <!-- swiper slider  -->
+    <link rel="stylesheet" href="https://www.banouto.bj/css/swiper.min.css" as="style">
+    <!-- ====== main style ====== -->
+
+    <link rel="stylesheet" href="https://www.banouto.bj/css/style.css" as="style">
+    <link rel="stylesheet" href="https://www.banouto.bj/css/media-query.css" as="style">
+
+    <link rel="preconnect" href="https://ik.imagekit.io">
+    <link rel="dns-prefetch" href="https://ik.imagekit.io">
+    <link rel="preconnect" href="https://platform.twitter.com">
+
+    <style>
+        #main-menu.sticky {
+            position: fixed;
+            top: 0 ;
+            width: 100% ;
+        }
+        .navbarOffsetMargin {
+            padding-top: 45px ;
+        }
+        @media screen and (max-width:960px){
+            .tc-side-widgets {display:none;}
+        }
+        .youtube-video {
+            aspect-ratio: 16 / 9;
+            width: 100%;
+        }
+        .youtube-video iframe {
+            aspect-ratio: 16 / 9;
+            width: 100%;
+        }
+        
+        /* Centrage du titre */
+        .modal-title {
+            text-align: center;
+        }
+        
+        /* Suppression de la ligne entre l'en-tête et le corps */
+        .modal-header {
+            border-bottom: none;
+        }
+        
+        /* Centrage des boutons dans le footer */
+        .modal-footer {
+            text-align: center;
+        }
+        /* Assombrir l'arrière-plan */
+        .modal {
+            background-color: rgba(0, 0, 0, 0.9);
+        }
+    
+        /* Centrer le modal */
+        #modalAds {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+        
+        #adsBtn:hover {
+            background-color: #0d6efd;
+            border-color: #0d6efd;
+        }
+        figcaption {
+          display:block;
+          width:100%;
+          height:auto;
+          padding:10px;
+          position:initial;
+          left:0; 
+          color:#fff;
+          font:13px/20px Arial,sans-serif;
+          background:#000;
+          background:rgba(0,0,0,.7)
+        }
+    </style>
+    <style>
+        /* Styles pour les ordinateurs portables */
+        @media (min-width: 768px) {
+            iframe {
+                width: 70%; /* Ajustez la largeur selon vos besoins */
+            }
+        }
+
+        /* Styles pour les tablettes */
+        @media (max-width: 767px) {
+            iframe {
+                width: 80%; /* Ajustez la largeur selon vos besoins */
+            }
+        }
+
+        /* Styles pour les mobiles */
+        @media (max-width: 480px) {
+            iframe {
+                width: 100%; /* Pleine largeur pour les petits écrans */
+            }
+        }
+    </style>
+</head>
+
+<body class="home-style1 tc-single-post-creative-page bg-gray4">
+
+
+<!-- ====== start navbar-container ====== -->
+<div id="header" class="navbar-container bg-white">
+        <div class="container">
+        <!-- ====== start top navbar ====== -->
+        <div class="top-navbar style-1 laptop">
+            <div class="container p-0">
+                <div class="row align-items-center">
+                    <div class="col-lg-4">
+                        <div class="date-weather mb-3 mb-lg-0">
+                            <div class="row align-items-center">
+                                <div class="col-6">
+                                    <div class="item">
+                                        <div class="icon me-3 pt-1">
+                                            <i class="la la-calendar"></i>
+                                        </div>
+                                        <div class="inf">
+                                            <strong>samedi</strong>
+                                            <p>3 janvier 2026</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="item">
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <a href="/" class="logo-brand d-none d-lg-block w-100 my-2" aria-label="logo-bnt">
+                            <img src="https://www.banouto.bj/logo-bnt.png" alt="" class="dark-none">
+                            <img src="https://www.banouto.bj/logo-bnt.png" alt="" class="light-none">
+                        </a>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="sub-darkLight">
+                            <div class="row text-end align-items-center">
+                                <div class="col-12">
+                                    <div class="darkLight-btn" style="background-color: #ffc700; margin-right: 10px">
+                                        <a data-bs-toggle="offcanvas" href="#offcanvasExample"
+                                           role="button" aria-controls="offcanvasExample" type="button"
+                                           class="btn-main hover-underline fs-6" style="padding: 2px !important;">
+                                            <i class="la la-comments-o fs-5 me-1"></i>
+                                            ça crépite
+                                        </a>
+                                    </div>
+
+                                    <div class="darkLight-btn">
+                                            <span class="icon active" id="light-icon">
+                                                <i class="la la-sun"></i>
+                                            </span>
+                                        <span class="icon" id="dark-icon">
+                                                <i class="la la-moon"></i>
+                                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ====== end top navbar ====== -->
+    </div>
+</div>
+<div id="main-menu" class="navbar-container bg-graydark">
+    <div class="container bg-mobile">
+        <!-- ====== start navbar ====== -->
+        <nav class="navbar navbar-expand-lg navbar-light style-1 border-0">
+            <div class="container p-0">
+                <div class="mob-nav-toggles d-flex align-items-center justify-content-between">
+                    <button class="navbarList-icon me-lg-5 tablet-mobile" data-bs-toggle="collapse"
+                            data-bs-target="#navbarMenuContent" aria-controls="navbarMenuContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                    <a href="/" class="logo-brand d-block d-lg-none w-50 my-2" aria-label="mobile-logo-bnt">
+                        <img src="https://www.banouto.bj/logo-bnt.png" alt="" class="dark-none">
+                        <img src="https://www.banouto.bj/logo-bnt.png" alt="" class="light-none">
+                    </a>
+                    <div class="nav-side tablet-mobile">
+                        <a data-bs-toggle="offcanvas" href="#offcanvasExample"
+                           role="button" aria-controls="offcanvasExample" type="button" class="icon-link noti-dot">
+                            <i class="la la-comments fs-4"></i>
+                        </a>
+                        <a href="https://www.banouto.bj/recherche" class="icon-link search-btn-style2">
+                            <i class="la la-search fs-4 sOpen-btn"></i>
+                            <i class="la la-search fs-4 sClose-btn"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <!-- ====== end navbar ====== -->
+    </div>
+    <div class="container">
+        <!-- ====== start navbar ====== -->
+        <nav class="navbar navbar-expand-lg navbar-light style-1 border-0 laptop">
+            <div class="container p-0">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                               href="/" aria-label="A la une">
+                                À la une
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                               href="https://www.banouto.bj/rubrique/politique" aria-label="Politique">
+                                Politique
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                               href="https://www.banouto.bj/rubrique/societe" aria-label="Société">
+                                Société
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                               href="https://www.banouto.bj/rubrique/economie" aria-label="Economie">
+                                Économie
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                               href="https://www.banouto.bj/rubrique/investigation-reportages" aria-label="Enquetes">
+                                Enquêtes
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                               href="https://www.banouto.bj/rubrique/bien-etre" aria-label="Sante">
+                                Santé
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                               href="https://www.banouto.bj/rubrique/sport" aria-label="Sport">
+                                Sports
+                            </a>
+                        </li>
+
+                                                
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                               href="https://www.banouto.bj/rubrique/culture" aria-label="Culture">
+                                Culture
+                            </a>
+                        </li>
+                        
+                        <li>
+                            <a class="dropdown-item m-link text-uppercase fsz-14px hover-main m-0 p-10"
+                               style="color: #1daeec" target="_blank" href="https://www.badona.info/"
+                               aria-label="Badona"> Badona
+                            </a>
+                        </li>
+                                                    <li class="nav-item">
+                                <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                                   href="https://www.banouto.bj/rubrique/interviews" aria-label="Interviews">
+                                    Interviews
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                                   href="https://www.banouto.bj/dossiers" aria-label="Dossiers">
+                                    Dossiers
+                                </a>
+                            </li>
+                        
+                        <li class="nav-item dropdown">
+                            <a class="nav-link m-link fsz-13px m-0 p-10" href="#" id="navbarDropdown1" role="button"
+                               data-bs-toggle="dropdown" aria-expanded="false">
+                                <i class="la la-plus fs-5"></i>
+                                <i class="la la-minus fs-5"></i>
+                            </a>
+                            <ul class="dropdownMenu dropleft" aria-labelledby="navbarDropdown1"
+                                style="top: 54px !important;">
+                                                                <li><a class="dropdown-item m-link text-uppercase hover-main" aria-label="Environnement"
+                                       href="https://www.banouto.bj/rubrique/environnement">Environnement</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <div class="nav-side">
+                        <a href="https://www.banouto.bj/recherche" class="icon-link search-btn-style1" style="color: #fff" aria-label="Rechercher">
+                            <i class="la la-search fs-4 sOpen-btn"></i>
+                            <i class="la la-close fs-4 sClose-btn"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <nav class="navbar navbar-light style-1 border-0">
+            <div class="collapse navbar-collapse tablet-mobile" id="navbarMenuContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item border-1 border-bottom brd-light">
+                        <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                           href="/" aria-label="A la une">
+                            À la une
+                        </a>
+                    </li>
+                    <li class="nav-item border-1 border-bottom brd-light">
+                        <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                           href="https://www.banouto.bj/rubrique/politique" aria-label="Politique">
+                            Politique
+                        </a>
+                    </li>
+                    <li class="nav-item border-1 border-bottom brd-light">
+                        <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                           href="https://www.banouto.bj/rubrique/societe" aria-label="Société">
+                            Société
+                        </a>
+                    </li>
+                    <li class="nav-item border-1 border-bottom brd-light">
+                        <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                           href="https://www.banouto.bj/rubrique/economie" aria-label="Economie">
+                            Économie
+                        </a>
+                    </li>
+                    <li class="nav-item border-1 border-bottom brd-light">
+                        <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                           href="https://www.banouto.bj/rubrique/investigation-reportages" aria-label="Enquetes">
+                            Enquêtes
+                        </a>
+                    </li>
+                    <li class="nav-item border-1 border-bottom brd-light">
+                        <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                           href="https://www.banouto.bj/rubrique/bien-etre" aria-label="Sante">
+                            Santé
+                        </a>
+                    </li>
+                    <li class="nav-item border-1 border-bottom brd-light">
+                        <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                           href="https://www.banouto.bj/rubrique/sport" aria-label="Sport">
+                            Sports
+                        </a>
+                    </li>
+
+                    
+                    <li class="nav-item border-1 border-bottom brd-light">
+                        <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                           href="https://www.banouto.bj/rubrique/culture" aria-label="Culture">
+                            Culture
+                        </a>
+                    </li>
+                    <li class="nav-item border-1 border-bottom brd-light">
+                        <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                           href="https://www.banouto.bj/rubrique/vie-stars" aria-label="vie & stars">
+                            Vie & Stars
+                        </a>
+                    </li>
+                    <li class="nav-item border-1 border-bottom brd-light">
+                        <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                           href="https://www.banouto.bj/rubrique/interviews" aria-label="Interviews">
+                            Interviews
+                        </a>
+                    </li>
+                    <li class="nav-item border-1 border-bottom brd-light">
+                        <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                           href="https://www.banouto.bj/dossiers" aria-label="Dossiers">
+                            Dossiers
+                        </a>
+                    </li>
+                    <li class="nav-item border-1 border-bottom brd-light">
+                        <a class="nav-link m-link text-uppercase fsz-13px m-0 p-10"
+                           href="https://www.banouto.bj/rubrique/environnement" aria-label="Environnement">
+                            Environnement
+                        </a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item m-link text-uppercase fsz-14px hover-main m-0 p-10"
+                           style="color: #1daeec" target="_blank" href="https://www.badona.info/"
+                           aria-label="Badona"> Badona
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <!-- ====== end navbar ====== -->
+    </div>
+</div>
+<!-- ====== start navbar-container ====== -->
+
+<!--Contents-->
+<main>
+
+    <!-- ====== start breaking news ====== -->
+    <section class="tc-breaking-news-style5 bg-white laptop">
+    <div class="container">
+        <div class="content bg-white">
+            <div class="breaking-title bg-main">
+                <strong> <i class="ion-flash me-2"></i> Flash Infos</strong>
+            </div>
+            <div class="breaking-body">
+                <div class="tc-breaking-news-slider5">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                                                            <div class="swiper-slide">
+                                    <div class="item ">
+                                        <a href="https://www.banouto.bj/societe/article/20260103-recrutement-au-benin-les-resultats-d-ame-au-primaire-disponibles"
+                                           class="hover-underline" style="font-family: Neco-Variable; font-weight: bold; font-size: 15px" aria-label="Recrutement au Bénin : les résultats d’AME au primaire disponibles">
+                                            Recrutement au Bénin : les résultats d’AME au primaire disponibles
+                                        </a>
+                                    </div>
+                                </div>
+                                                            <div class="swiper-slide">
+                                    <div class="item ">
+                                        <a href="https://www.banouto.bj/societe/article/20260103-affaire-harcelement-contre-patrice-talon-hosee-houngnibo-soutien-de-olivier-boko-condamne-a-2-ans-de-prison-en-appel"
+                                           class="hover-underline" style="font-family: Neco-Variable; font-weight: bold; font-size: 15px" aria-label="Affaire &quot;harcèlement&quot; contre Patrice Talon: Hosée Houngnibo, soutien de Olivier Boko, condamné à 2 ans de prison en appel">
+                                            Affaire &quot;harcèlement&quot; contre Patrice Talon: Hosée Houngnibo, soutien de Olivier Boko, condamné à 2 ans de prison en appel
+                                        </a>
+                                    </div>
+                                </div>
+                                                            <div class="swiper-slide">
+                                    <div class="item ">
+                                        <a href="https://www.banouto.bj/politique/article/20260103-explosions-au-venezuela-les-etats-unis-revendique-les-frappes-militaires"
+                                           class="hover-underline" style="font-family: Neco-Variable; font-weight: bold; font-size: 15px" aria-label="Explosions au Venezuela : les États Unis revendique les frappes militaires">
+                                            Explosions au Venezuela : les États Unis revendique les frappes militaires
+                                        </a>
+                                    </div>
+                                </div>
+                                                            <div class="swiper-slide">
+                                    <div class="item ">
+                                        <a href="https://www.banouto.bj/sport/article/20260103-dissolution-du-staff-technique-et-suspension-de-lequipe-du-gabon-reaction-de-pierre-emerick-aubameyang"
+                                           class="hover-underline" style="font-family: Neco-Variable; font-weight: bold; font-size: 15px" aria-label="Dissolution du staff technique et suspension de l&#039;équipe du Gabon : réaction de Pierre-Emerick Aubameyang">
+                                            Dissolution du staff technique et suspension de l&#039;équipe du Gabon : réaction de Pierre-Emerick Aubameyang
+                                        </a>
+                                    </div>
+                                </div>
+                                                            <div class="swiper-slide">
+                                    <div class="item ">
+                                        <a href="https://www.banouto.bj/sport/article/20260103-egypte-vs-benin-des-ex-footballeurs-beninois-aux-cotes-des-guepards-au-maroc"
+                                           class="hover-underline" style="font-family: Neco-Variable; font-weight: bold; font-size: 15px" aria-label="Égypte vs Bénin : des ex-footballeurs béninois au Maroc pour pousser les Guépards à la victoire">
+                                            Égypte vs Bénin : des ex-footballeurs béninois au Maroc pour pousser les Guépards à la victoire
+                                        </a>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                <!-- arrows -->
+                <div class="arrows bg-white">
+                    <div class="swiper-button-next" style="font-weight: bold"></div>
+                    <div class="swiper-button-prev" style="font-weight: bold"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    <!-- ====== end breaking news ====== -->
+
+    <!-- ====== start banner3 ====== -->
+    <section class="banner17">
+        <div class="container">
+            <!-- ====== start banner1 ====== -->
+            <div class="content pt-20 pb-20">
+                <div class="row justify-content-center">
+                                            <!-- Google advertising -->
+                        <div class="page__wrapper laptop-pub"
+                             style="position:relative; text-align:center; padding-top: 1px ">
+                            <!-- laptop / tablet device max size : 1150x250 -->
+                            <ins class="adsbygoogle"
+                                 style="display:block"
+                                 data-ad-client="ca-pub-3769720831012003"
+                                 data-ad-slot="5781187018"
+                                 data-ad-format="auto"
+                                 data-full-width-responsive="true">
+                            </ins><script>
+                                (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                        </div>
+                        <div class="mobile-pub" style="padding: 10px 0 15px">
+                            <!-- mobile device -->
+                            <ins class="adsbygoogle"
+                                 style="display:block"
+                                 data-ad-client="ca-pub-3769720831012003"
+                                 data-ad-slot="8750858972"
+                                 data-ad-format="auto"
+                                 data-full-width-responsive="true"></ins>
+                            <script>
+                                (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                        </div>
+                                        <!-- ./End Ads zone -->
+                </div>
+            </div>
+            <!-- ====== end banner1 ====== -->
+        </div>
+    </section>
+    <!-- ====== end banner3 ====== -->
+
+    <!-- ====== start tc-main-post-style1 ====== -->
+    <section class="tc-main-post-style1 pb-60">
+        <div class="container">
+            <div class="bg-white p-50 responsive-padding">
+                <div class="tc-main-post-title pt-10 pb-40">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <p class="text-uppercase color-main mb-15" style="font-size:1.4rem; font-weight: bold">
+                                                                    Archives
+                                                            </p>
+                            <h2 class="title laptop" style="font-size: 45px">Reproche à Aïvo et Madougou : un péché de Patrice Talon mis au jour</h2>
+                            <h2 class="title tablet-mobile" style="font-size: 24px">Reproche à Aïvo et Madougou : un péché de Patrice Talon mis au jour <br> </h2>
+
+                            <div class="row justify-content-center">
+                                                                    <!-- Google advertising -->
+                                    <div class="page__wrapper laptop-pub"
+                                         style="position:relative; text-align:center; padding-top: 1px ">
+                                        <!-- laptop / tablet device max size : 1150x250 -->
+                                        <ins class="adsbygoogle"
+                                             style="display:block"
+                                             data-ad-client="ca-pub-3769720831012003"
+                                             data-ad-slot="5781187018"
+                                             data-ad-format="auto"
+                                             data-full-width-responsive="true">
+                                        </ins><script>
+                                            (adsbygoogle = window.adsbygoogle || []).push({});
+                                        </script>
+                                    </div>
+                                    <div class="mobile-pub" style="padding: 10px 0 15px">
+                                        <!-- mobile device -->
+                                        <ins class="adsbygoogle"
+                                             style="display:block"
+                                             data-ad-client="ca-pub-3769720831012003"
+                                             data-ad-slot="8750858972"
+                                             data-ad-format="auto"
+                                             data-full-width-responsive="true"></ins>
+                                        <script>
+                                            (adsbygoogle = window.adsbygoogle || []).push({});
+                                        </script>
+                                    </div>
+                                                                <!-- ./End Ads zone -->
+                            </div>
+
+
+                        
+                            <p class="fsz-22px mt-20 laptop" style="font-family: Neco-Variable; font-weight: 500">Face aux journalistes de RFI et France 24 dans un entretien diffusé le 30 avril Patrice Talon affirme que Reckya Madougou et Joël Aïvo ne sont d’aucun parti politique. En réaction à ses propos, l’opposant Martin Rodriguez souligne que le Chef de l’Etat n’a jamais révélé à quel parti lui-même appartient.</p>
+                            <p class="fsz-16px mt-20 tablet-mobile" style="font-family: Neco-Variable; font-weight: 500">Face aux journalistes de RFI et France 24 dans un entretien diffusé le 30 avril Patrice Talon affirme que Reckya Madougou et Joël Aïvo ne sont d’aucun parti politique. En réaction à ses propos, l’opposant Martin Rodriguez souligne que le Chef de l’Etat n’a jamais révélé à quel parti lui-même appartient.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="meta-nav pt-10 pb-10 mb-5 border-bottom border-1 brd-gray">
+                    <div class="row">
+                        <div class="col-lg-8">
+                            <div class="author-side color-666 fsz-13px laptop">
+                                <span>Par </span>
+                                <a class="text-primary me-40 ms-1" style="font-weight: bold">
+                                    Olivier Ribouis
+                                </a>
+                                <span class="me-40">
+                                <a href="#"><i class="la la-calendar me-1"></i>
+                                    16 mai 2021 17:40
+                                </a>
+                            </span>
+                                                            </div>
+                            <div class="author-side color-666 fsz-13px tablet-mobile">
+                                <span>Par </span>
+                                <a href="" class="text-primary me-40 ms-1" style="font-weight: bold">
+                                    Olivier Ribouis
+                                </a>
+                                <span class="me-40">
+                                <a href=""><i class="la la-calendar me-1"></i>
+                                    16 mai 2021 17:40
+                                </a>
+                            </span>
+                                                            </div>
+                        </div>
+                        <div class="col-lg-4 text-lg-end">
+                            <div class="links-side color-000 fsz-13px">
+                                                                                                            <a href="#" class="me-40"><i class="la la-comment me-1"></i> 1
+                                            commentaire </a>
+                                                                                                </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tc-main-post-content color-000">
+                    <div class="row">
+                        <div class="col-lg-8 content">
+                            <div class="img-cover mb-50">
+                                                            </div>
+
+                            <p><img alt="reckya-madougou-joel-aivo" class="aligncenter img-responsive" src="/uploads/images/aivo-madougou.jpg" />&nbsp;<span style="font-size:9px">Jo&euml;l A&iuml;vo et Reckya Madougou</span></p>
+
+<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16px">Lorsque vous vous abaissez pour voir la nudit&eacute; d&rsquo;autrui, une autre personne voit la v&ocirc;tre. Ainsi dit le dicton b&eacute;ninois. Martin Rodriguez pense aussi bien voir le d&eacute;faut de Patrice Talon qui a soulign&eacute; celui de deux de ses adversaires politiques.</span></span></h3>
+
+<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16px">Aujourd&rsquo;hui emprisonn&eacute;s dans deux diff&eacute;rentes affaires, l&rsquo;ancienne ministre Reckya Madougou et le professeur d&rsquo;Universit&eacute; Fr&eacute;d&eacute;ric Jo&euml;l A&iuml;vo n&rsquo;ont pas pu participer &agrave; la pr&eacute;sidentielle 2021. Accus&eacute; d&rsquo;avoir fait &eacute;liminer ces deux potentiels challengers pour remporter la pr&eacute;sidentielle sans forcer &agrave; plus ce 86%, le Pr&eacute;sident Patrice Talon a argu&eacute; qu&rsquo;ils n&rsquo;appartenaient &agrave; aucun parti politique.</span></span></h3>
+
+<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16px"><span style="background-color:white"><span style="color:black">&laquo;&nbsp;Monsieur A&iuml;vo dont vous parlez, parlons-en, et m&ecirc;me plus que &ccedil;a, Reckya Madougou, &ccedil;a vous allez y venir&nbsp;! Ils sont dans quel parti politique ? Ils n&rsquo;ont pas de parti politique.&nbsp;&raquo;, a r&eacute;torqu&eacute; le Pr&eacute;sident fra&icirc;chement r&eacute;&eacute;lu aux journalistes de RFI sur la question des adversaires politiques envoy&eacute;s derri&egrave;re les barreaux. </span></span></span></span></h3>
+
+<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16px"><strong>&laquo;&nbsp;Patrice Talon est de quel parti politique&nbsp;?&nbsp;&raquo;</strong></span></span></h3>
+
+<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16px">Pour Martin Rodriguez, rival d&rsquo;affaire et adversaire politique de Patrice Talon, le Chef de l&rsquo;Etat ne devrait pas se permettre un commentaire sur l&rsquo;appartenance politique de Jo&euml;l A&iuml;vo et Reckya Madougou. Invit&eacute; dans l&rsquo;&eacute;mission 100% B&eacute;nin sur la t&eacute;l&eacute;vision priv&eacute;e Sikka, il rel&egrave;ve que le Pr&eacute;sident lui-m&ecirc;me n&rsquo;a jamais dit &agrave; quel parti politique il appartient. </span></span></h3>
+
+<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16px">&laquo;&nbsp;Patrice Talon dit que Madougou et A&iuml;vo n&rsquo;&eacute;taient membres d&rsquo;un parti politique, mais lui-m&ecirc;me ne nous a jamais dit de quel parti politique il vient&nbsp;&raquo;, a d&eacute;clar&eacute; Martin Rodriguez. &laquo; Patrice Talon est de quel parti politique&nbsp;?&nbsp;&raquo;, interroge encore l&rsquo;homme d&rsquo;affaires et opposant politique estimant qu&rsquo;&laquo;&nbsp;il ne faut pas lui permettre de juger les autres parce qu&rsquo;ils ne sont pas d&rsquo;un parti politique&nbsp;&raquo;. </span></span></h3>
+
+<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16px">R&eacute;&eacute;lu d&egrave;s le premier tour &agrave; la pr&eacute;sidentielle 2021, le pr&eacute;sident Patrice Talon &eacute;tait soutenu par une coalition de parti dont les deux blocs n&eacute;s &agrave; la faveur des r&eacute;formes politiques conduites par son r&eacute;gime. </span></span></h3>
+
+<div class="alert alert-info" role="alert"><strong><span style="font-size:18px"><span style="font-family:Arial,Helvetica,sans-serif">LIRE AUSSI :&nbsp;</span><a href="https://www.banouto.bj/article/politique/20210516-benin-rodriguez-rejette-la-reelection-de-talon-et-parle-d-un-braquage" target="_blank"><span style="color:#0000cc">B&eacute;nin : Rodriguez rejette la r&eacute;&eacute;lection de Talon et parle d&rsquo;un &laquo;braquage&raquo;</span></a></span></strong></div>
+                            
+                            <div class="mt-50"></div>
+                            
+                            <!-- ====== start banner4 ====== -->
+                            <div class="img-cover mb-50">
+                                                                    <!-- Google advertising -->
+                                    <div class="page__wrapper laptop-pub"
+                                         style="position:relative; text-align:center; padding-top: 1px ">
+                                        <!-- laptop / tablet device max size : 1150x250 -->
+                                        <ins class="adsbygoogle"
+                                             style="display:block"
+                                             data-ad-client="ca-pub-3769720831012003"
+                                             data-ad-slot="5781187018"
+                                             data-ad-format="auto"
+                                             data-full-width-responsive="true">
+                                        </ins><script>
+                                            (adsbygoogle = window.adsbygoogle || []).push({});
+                                        </script>
+                                    </div>
+                                    <div class="mobile-pub" style="padding: 10px 0 15px">
+                                        <!-- mobile device -->
+                                        <ins class="adsbygoogle"
+                                             style="display:block"
+                                             data-ad-client="ca-pub-3769720831012003"
+                                             data-ad-slot="8750858972"
+                                             data-ad-format="auto"
+                                             data-full-width-responsive="true"></ins>
+                                        <script>
+                                            (adsbygoogle = window.adsbygoogle || []).push({});
+                                        </script>
+                                    </div>
+                                                                <!-- ./End Ads zone -->
+                            </div>
+                            <!-- ====== end banner4 ====== -->
+                            
+                        </div>
+                        <div class="col-lg-4">
+    <div class="tc-side-widgets">
+                <!-- widget-dailymotion -->
+        <div class="tc-widget-podcast bg-white">
+            <p class="color-000 text-uppercase mb-30 ltspc-1 lh-2"> Videos <i class="la la-angle-right ms-1"></i> </p>
+            <div class="main-card">
+                <div class="img img-cover">
+                    
+                </div>
+            </div>
+        </div>
+        <!-- widget-social -->
+        <div class="tc-widget-social-style1 bg-white">
+            <p class="color-000 text-uppercase mb-30 ltspc-1 lh-2">Retrouvez Banouto sur  </p>
+            <div class="content">
+                <a href="https://www.facebook.com/banouto1" target="_blank" class="social-card">
+                    <div class="icon facebook-icon">
+                        <i class="lab la-facebook-f"></i>
+                    </div>
+                </a>
+                <a href="https://twitter.com/BanoutoBenin" target="_blank" class="social-card">
+                    <div class="icon twitter-icon">
+                        <i class="lab la-twitter"></i>
+                    </div>
+                </a>
+                <a href="https://www.youtube.com/@banoutomedia694" target="_blank" class="social-card mb-0">
+                    <div class="icon youtube-icon">
+                        <i class="lab la-youtube"></i>
+                    </div>
+                </a>
+                <a href="https://www.banouto.bj/rss-actualites" target="_blank" class="social-card mb-0">
+                    <div class="icon ion-social-rss">
+                        <i class="lab la-rss"></i>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <!-- widget-sponsored -->
+
+
+        <div class="tc-post-list-style1 p-20 mb-30 bg-white" style="border: 1px solid #9993;">
+            <p class="color-000 text-uppercase mb-30 ltspc-1 lh-2">Les plus lus de la semaine  </p>
+            <div class="items">
+                                                            <a href="https://www.banouto.bj/societe/article/20260101-palais-des-congres-de-cotonou-l-esplanade-va-changer-de-visage-le-gouvernement-valide-les-travaux-de-requalification"
+                           class="item hover-main">
+                            <h2 class="num">
+                                1
+                            </h2>
+                            <div class="content">
+                                <span class="fsz-12px color-999 text-uppercase mb-2">societe</span>
+                                <h6 class="title">Palais des Congrès de Cotonou : l’esplanade va changer de visage, le gouvernement valide les travaux de requalification</h6>
+                            </div>
+                        </a>
+                                                                    <a href="https://www.banouto.bj/sport/article/20251229-can-maroc-2025-le-benin-deja-qualifie-pour-les-huitiemes-de-finale"
+                           class="item hover-main">
+                            <h2 class="num">
+                                2
+                            </h2>
+                            <div class="content">
+                                <span class="fsz-12px color-999 text-uppercase mb-2">sport</span>
+                                <h6 class="title">CAN Maroc 2025 : le Bénin déjà qualifié pour les huitièmes de finale</h6>
+                            </div>
+                        </a>
+                                                                    <a href="https://www.banouto.bj/societe/article/20260102-abomey-calavi-un-pere-de-famille-decede-dans-un-accident-de-la-circulation-au-soir-du-nouvel-an"
+                           class="item hover-main">
+                            <h2 class="num">
+                                3
+                            </h2>
+                            <div class="content">
+                                <span class="fsz-12px color-999 text-uppercase mb-2">societe</span>
+                                <h6 class="title">Abomey-Calavi : un père de famille décédé dans un accident de la circulation au soir du nouvel an</h6>
+                            </div>
+                        </a>
+                                                                    <a href="https://www.banouto.bj/sport/article/20251229-can-2025-benin-vs-senegal-coup-dur-pour-les-guepards-sessi-d-almeida-forfait"
+                           class="item hover-main">
+                            <h2 class="num">
+                                4
+                            </h2>
+                            <div class="content">
+                                <span class="fsz-12px color-999 text-uppercase mb-2">sport</span>
+                                <h6 class="title">CAN 2025 / Bénin vs Sénégal : coup dur pour les Guépards, Sessi d’Almeida forfait</h6>
+                            </div>
+                        </a>
+                                                                    <a href="https://www.banouto.bj/politique/article/20251228-si-je-n-avais-pas-agi-ainsi-ce-pays-se-serait-divise-en-deux-michel-sodjinou-justifie-pourquoi-on-lappelle-eblibou"
+                           class="item hover-main">
+                            <h2 class="num">
+                                5
+                            </h2>
+                            <div class="content">
+                                <span class="fsz-12px color-999 text-uppercase mb-2">politique</span>
+                                <h6 class="title">« Si je n’avais pas agi ainsi, ce pays se serait divisé en deux » : Michel Sodjinou justifie pourquoi on l&#039;appelle   “Éblibou”</h6>
+                            </div>
+                        </a>
+                                                                                </div>
+        </div>
+
+    </div>
+</div>
+                    </div>
+                </div>
+                <div class="btm-share-post mt-50">
+                    <div class="row items">
+                        <div class="col-lg-6">
+                            <div class="btm-sharing d-lg-flex align-items-lg-center ">
+                                <div class="share-icons">
+                                                                            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.banouto.bj/politique/article/20210516-reproche-a-aivo-et-madougou-un-peche-de-patrice-talon-mis-au-jour"> <i class="la la-facebook"></i> </a>
+                                                                            <a href="https://twitter.com/intent/tweet?text=Reproche+%C3%A0+A%C3%AFvo+et+Madougou+%3A+un+p%C3%A9ch%C3%A9+de+Patrice+Talon+mis+au+jour&amp;url=https://www.banouto.bj/politique/article/20210516-reproche-a-aivo-et-madougou-un-peche-de-patrice-talon-mis-au-jour"> <i class="la la-twitter"></i> </a>
+                                                                            <a href="https://www.linkedin.com/sharing/share-offsite?mini=true&amp;url=https://www.banouto.bj/politique/article/20210516-reproche-a-aivo-et-madougou-un-peche-de-patrice-talon-mis-au-jour&amp;title=Reproche+%C3%A0+A%C3%AFvo+et+Madougou+%3A+un+p%C3%A9ch%C3%A9+de+Patrice+Talon+mis+au+jour&amp;summary="> <i class="la la-linkedin"></i> </a>
+                                                                            <a href="https://telegram.me/share/url?url=https://www.banouto.bj/politique/article/20210516-reproche-a-aivo-et-madougou-un-peche-de-patrice-talon-mis-au-jour&amp;text=Reproche+%C3%A0+A%C3%AFvo+et+Madougou+%3A+un+p%C3%A9ch%C3%A9+de+Patrice+Talon+mis+au+jour"> <i class="la la-telegram"></i> </a>
+                                                                            <a href="https://wa.me/?text=https://www.banouto.bj/politique/article/20210516-reproche-a-aivo-et-madougou-un-peche-de-patrice-talon-mis-au-jour"> <i class="la la-whatsapp"></i> </a>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="btm-tags mb-4 mb-lg-0 d-flex align-items-lg-center
+                                justify-content-lg-end laptop">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tc-subscribe-style9 mt-50">
+                    <div class="row justify-content-around align-items-center">
+                        <div class="col-lg-4">
+                            <div class="sub-info">
+                                <h5 class="mb-10">Faites le choix d'une information fiable</h5>
+                                <p class="fsz-13px color-666">
+                                    Le contenu de ce site est le fruit du travail de plusieurs journalistes qui vous
+                                    apportent chaque jour une information de qualité et fiable.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <form id="newsletter_form3" action="/newsletter-subscribe" method="POST" class="laptop">
+                                <div class="sub-form mt-4 mt-lg-0">
+                                    <div class="form-group">
+                                        <span class="icon">
+                                            <i class="la la-envelope"></i>
+                                        </span>
+                                        <input type="email" class="form-control" id="nl-email-input3" name="email"
+                                               placeholder="email@example.com" required>
+                                        <button id="newsletter_submit3" type="submit"
+                                                aria-label="newsletter_submit">
+                                            Abonnez-vous
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                            <form id="newsletter_form4" action="/newsletter-subscribe" method="POST" class="tablet-mobile">
+                                <div class="sub-form mt-4 mt-lg-0">
+                                    <div class="form-group">
+                                        <input type="email" class="form-control p-2" id="nl-email-input4" name="email"
+                                               placeholder="email@example.com" required>
+                                        <button id="newsletter_submit4" type="submit" class="fsz-11px"
+                                                aria-label="newsletter_submit">
+                                            Abonnez-vous
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ====== end tc-main-post-style ====== -->
+
+    <!-- ====== start banner18 ====== -->
+    <section class="banner18">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="content border-1 border-top border-bottom brd-gray pt-50 pb-50">
+                        <ins class="adsbygoogle"
+                             style="display:block"
+                             data-ad-client="ca-pub-3769720831012003"
+                             data-ad-slot="5781187018"
+                             data-ad-format="auto"
+                             data-full-width-responsive="true"></ins>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ====== end banner18 ====== -->
+
+    <!-- ====== start another posts ====== -->
+    <section class="another-news">
+        <div class="container">
+            <div class="content p-50 bg-white border-1 border-top border-dark responsive-padding">
+                <div class="row">
+                    <a href="#" class="color-main text-uppercase mb-20 ltspc-1 fw-700 fsz-16px laptop">
+                        Nos lecteurs ont aussi lu
+                        <i class="la la-angle-right ms-1"></i>
+                    </a>
+                    <a href="#" class="color-main text-uppercase mb-20 ltspc-1 fw-700 fsz-14px tablet-mobile">
+                        Nos lecteurs ont aussi lu
+                        <i class="la la-angle-right ms-1"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ====== start another posts ====== -->
+
+    <!-- ====== start comments ====== -->
+    <section class="tc-single-post-comments">
+        <div class="container">
+            <div class="comments-content p-50 mb-50 bg-white border-1 border-top border-dark responsive-padding">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8">
+                        <div class="content">
+                            <div class="comments-filter laptop">
+                                <div class="row align-items-center">
+                                    <div class="col-4">
+                                        <p class="text-uppercase fw-bold">
+                                                                                            1 commentaire
+                                                                                    </p>
+                                    </div>
+                                    <div class="col-8 text-end">
+                                        <a href="#commentModal" class="open-commentModal butn border border-1 mt-20 py-2 px-3"
+                                           data-bs-toggle="modal" role="button"
+                                           aria-controls="commentModal" data-post="9570" data-comment="0"
+                                           style="background-color: #ffc700">
+                                            <span class="fsz-12px fw-700"> Donnez votre avis </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="comments-filter tablet-mobile">
+                                <div class="row align-items-center">
+                                    <div class="col-6">
+                                        <p class="text-uppercase fw-bold fsz-14px">
+                                                                                            1 commentaire
+                                                                                    </p>
+                                    </div>
+                                    <div class="col-6 text-end">
+                                        <a href="#commentModal" class="open-commentModal butn border border-1 py-1 px-2"
+                                           data-bs-toggle="modal" role="button"
+                                           aria-controls="commentModal" data-post="9570" data-comment="0"
+                                           style="background-color: #ffc700">
+                                            <span class="fsz-11px fw-700"> Donnez votre avis </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="comments-cards" id="comments_list">
+                                                                    <div class="comment-replay-cont border-bottom border-1 brd-gray pb-20 pt-20">
+                                        <div class="d-flex comment-cont">
+                                            <div class="inf w-100">
+                                                <div class="title d-flex justify-content-between">
+                                                    <h6 class="fw-bold fsz-14px">Gilles GOHY</h6>
+                                                    <span class="time fsz-12px text-uppercase color-999">
+                                                    il y a 4 ans
+                                                </span>
+                                                </div>
+                                                <div class="text color-666 fsz-15px mt-10">
+                                                    Il n'y a aucun péché, voyons !
+Le Président Patrice TALON n'est pas obligé de dire le parti politique auquel il appartient ! Rien ne l'y oblige !
+Il revient plutôt à des détracteurs comme M. Martin Rodriguez de montrer qu'il n'appartient à aucun parti...
+Ce qui est faux et qui n'est pas d'ailleurs obligatoire !
+Lisez donc le Code électoral et la Charte des Partis politiques...
+C'est M. Rodriguez qui a le fardeau de la preuve et non le Président Patrice TALON !
+Désolé !
+                                                </div>
+                                                <a href="#commentModal" class="open-commentModal butn border border-1 mt-20 py-2 px-3 hover-yellow"
+                                                   data-bs-toggle="modal" role="button" aria-controls="commentModal"
+                                                   data-post="9570" data-comment="6219" style="background-color: #ffc700">
+                                                    <span class="fsz-11px"> Répondre </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                                                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ====== end comments ====== -->
+
+
+    <!-- ====== start modals ====== -->
+    <!-- Failed Modal HTML -->
+<div id="error_Modal" class="e_modal modal fade">
+    <div class="modal-dialog modal-confirm">
+        <div class="modal-content">
+            <div class="offcanvas-header justify-content-end">
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="modal"
+                        aria-label="Close">
+                </button>
+            </div>
+            <div class="modal-body text-center">
+                <h4 style="color: #e00000">Ooops!</h4>
+                <br>
+                <p id="e_modal_body" style="font-weight: bolder;"></p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Success Modal HTML -->
+<div id="success_Modal" class="modal fade">
+    <div class="modal-dialog modal-confirm">
+        <div class="modal-content">
+            <div class="offcanvas-header justify-content-end">
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="modal"
+                        aria-label="Close">
+                </button>
+            </div>
+            <div class="modal-body text-center">
+                <h4 style="color: green">Abonnement réussi !</h4>
+                <br>
+                <p style="font-weight: 700">Vous recevrez chaque jour la matinale de Banouto</p>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="modal fade" id="commentModal" tabindex="-1" role="dialog" aria-labelledby="commentModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="commentModalLabel">Ajouter votre commentaire</h2>
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="modal"
+                        aria-label="Close"></button>
+            </div>
+            <form class="comment-modal-validation" novalidate action="https://www.banouto.bj/comment-store" method="POST">
+                <input type="hidden" name="_token" value="">                <div class="modal-body">
+                    <input type="hidden" name="postId" id="postId" value=""/>
+                    <input type="hidden" name="commentId" id="commentId" value=""/>
+                    <div class="form-group">
+                        <label for="author" class="col-form-label">Nom:</label>
+                        <input type="text" maxlength="20" class="form-control" id="author"
+                               name="auteur" required>
+                        <div class="invalid-feedback">
+                            Ce champ est obligatoire. Veuillez le remplir svp
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="comment" class="col-form-label">Commentaire:</label>
+                        <textarea class="form-control" id="comment" name="comment" rows="10"
+                                  required></textarea>
+                        <div class="invalid-feedback">
+                            Ce champ est obligatoire. Veuillez le remplir svp
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal"
+                            style="background-color: darkgray;">Annuler</button>
+                    <button type="submit" class="btn btn--rounded btn--accent"
+                            style="background-color: #ffd600;">Commenter</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+    <!-- Cookie Consent Modal -->
+    <div class="modal-app modal" id="modal-cookie" tabindex="-1" aria-labelledby="AppDownload" aria-hidden="true">
+    <div class="modal-app__dialog modal-dialog">
+        <div class="modal-app__content modal-content">
+            <div class="modal-app__body modal-body">
+                <div class="modal-app__logo">
+                    <img
+                        class="img img-fluid lazyload"
+                        src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 65 65&#039;%3E%3C/svg%3Ehttps://www.banouto.bj/logo-bnt.png"
+                        data-src="https://www.banouto.bj/icon.png"
+                        alt="Banouto"
+                        width="65"
+                        height="65"
+                    >
+                </div>
+                <h2 class="modal-app__title">
+                    Ce site web utilise des cookies.
+                </h2>
+                <div style="display: flex; justify-content: center">
+                    <p class="modal-app__paragraph laptop" style="max-width: 700px">
+                        Les cookies nous permettent de personnaliser le contenu, d'offrir des
+                        fonctionnalités relatives aux médias sociaux et d'analyser notre trafic.
+                        Ce sont des cookies nécessaires au bon fonctionnement de notre site.
+                    </p>
+                    <p class="modal-app__paragraph tablet-mobile">
+                        Les cookies nous permettent de personnaliser le contenu, d'offrir des
+                        fonctionnalités relatives aux médias sociaux et d'analyser notre trafic.
+                        Ce sont des cookies nécessaires au bon fonctionnement de notre site.
+                    </p>
+                </div>
+                <button class="btn btn--rounded btn--accent js-cookie-consent-agree" id="closeCookie" onclick="closeCookieModal()">
+                    Accepter
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <script>
+        window.onload = function() {
+            $('#modal-cookie').modal({
+                show: true,
+                backdrop: 'static',
+                keyboard: false
+            });
+        };
+
+        function closeCookieModal(){
+            $('#modal-cookie').modal('hide');
+        }
+
+        window.laravelCookieConsent = (function () {
+
+            const COOKIE_VALUE = 1;
+            const COOKIE_DOMAIN = 'www.banouto.bj';
+
+            function consentWithCookies() {
+                setCookie('banouto_cookie_consent', COOKIE_VALUE, 7300);
+                hideCookieDialog();
+            }
+
+            function cookieExists(name) {
+                return (document.cookie.split('; ').indexOf(name + '=' + COOKIE_VALUE) !== -1);
+            }
+
+            function hideCookieDialog() {
+                const dialogs = document.getElementsByClassName('js-cookie-consent');
+
+                for (let i = 0; i < dialogs.length; ++i) {
+                    dialogs[i].style.display = 'none';
+                }
+            }
+
+            function setCookie(name, value, expirationInDays) {
+                const date = new Date();
+                date.setTime(date.getTime() + (expirationInDays * 24 * 60 * 60 * 1000));
+                document.cookie = name + '=' + value
+                    + ';expires=' + date.toUTCString()
+                    + ';domain=' + COOKIE_DOMAIN
+                    + ';path=/'
+                    + ';samesite=lax';
+            }
+
+            if (cookieExists('banouto_cookie_consent')) {
+                hideCookieDialog();
+            }
+
+            const buttons = document.getElementsByClassName('js-cookie-consent-agree');
+
+            for (let i = 0; i < buttons.length; ++i) {
+                buttons[i].addEventListener('click', consentWithCookies);
+            }
+
+            return {
+                consentWithCookies: consentWithCookies,
+                hideCookieDialog: hideCookieDialog
+            };
+        })();
+    </script>
+
+    <!-- /end Cookie -->
+    <div class="offcanvas offcanvas-start sidebar-popup-style1" tabindex="-1" id="offcanvasExample"
+     aria-labelledby="offcanvasExampleLabel">
+    <div class="offcanvas-header" style="justify-content: flex-end">
+        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
+                aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+        <div class="sidebar-categories">
+                            <a href="https://www.banouto.bj/societe/article/20260103-recrutement-au-benin-les-resultats-d-ame-au-primaire-disponibles"
+                   target="_blank" class="hover-main mb-10">
+                    <article class="information [ card ] hover-main">
+                        <h2 class="title">SOCHIME
+                            <span style="font-size: 12px; color: gray">
+                                        - 3 janvier 2026 16:28
+                                    </span>
+                        </h2>
+                        <p class="info"
+                           style="color: #0b0b0b">Roger Ulrich</p>
+                    </article>
+                </a>
+                            <a href="https://www.banouto.bj/societe/article/20260103-recrutement-au-benin-les-resultats-d-ame-au-primaire-disponibles"
+                   target="_blank" class="hover-main mb-10">
+                    <article class="information [ card ] hover-main">
+                        <h2 class="title">SOCHIME
+                            <span style="font-size: 12px; color: gray">
+                                        - 3 janvier 2026 16:28
+                                    </span>
+                        </h2>
+                        <p class="info"
+                           style="color: #0b0b0b">Roger Ulrich</p>
+                    </article>
+                </a>
+                            <a href="https://www.banouto.bj/societe/article/20260101-palais-des-congres-de-cotonou-l-esplanade-va-changer-de-visage-le-gouvernement-valide-les-travaux-de-requalification"
+                   target="_blank" class="hover-main mb-10">
+                    <article class="information [ card ] hover-main">
+                        <h2 class="title">DioGo
+                            <span style="font-size: 12px; color: gray">
+                                        - 3 janvier 2026 09:37
+                                    </span>
+                        </h2>
+                        <p class="info"
+                           style="color: #0b0b0b">C'est bon</p>
+                    </article>
+                </a>
+                            <a href="https://www.banouto.bj/societe/article/20260101-palais-des-congres-de-cotonou-l-esplanade-va-changer-de-visage-le-gouvernement-valide-les-travaux-de-requalification"
+                   target="_blank" class="hover-main mb-10">
+                    <article class="information [ card ] hover-main">
+                        <h2 class="title">DioGo
+                            <span style="font-size: 12px; color: gray">
+                                        - 3 janvier 2026 09:37
+                                    </span>
+                        </h2>
+                        <p class="info"
+                           style="color: #0b0b0b">C'est bon</p>
+                    </article>
+                </a>
+                            <a href="https://www.banouto.bj/societe/article/20260102-abomey-calavi-un-pere-de-famille-decede-dans-un-accident-de-la-circulation-au-soir-du-nouvel-an"
+                   target="_blank" class="hover-main mb-10">
+                    <article class="information [ card ] hover-main">
+                        <h2 class="title">Isidore
+                            <span style="font-size: 12px; color: gray">
+                                        - 3 janvier 2026 08:29
+                                    </span>
+                        </h2>
+                        <p class="info"
+                           style="color: #0b0b0b">Que son âme repose en paix.</p>
+                    </article>
+                </a>
+                            <a href="https://www.banouto.bj/societe/article/20250801-concours-dentree-dans-les-lycees-denseignement-technique-2025-au-benin-les-registres-dinscription-deja-ouverts"
+                   target="_blank" class="hover-main mb-10">
+                    <article class="information [ card ] hover-main">
+                        <h2 class="title">GUEVE Maruis
+                            <span style="font-size: 12px; color: gray">
+                                        - 1 janvier 2026 16:57
+                                    </span>
+                        </h2>
+                        <p class="info"
+                           style="color: #0b0b0b"><span style="color:#e00;font-weight: bolder;">@Karim Benzema</span>, Je suis GUEVE Maruis, titulaire du BEPC et je souhaite m'inscrire en F3 au lycée technique Coulibaly de Cotonou.Je voudrais savoir Les bourses disponibles pour les ...</p>
+                    </article>
+                </a>
+                            <a href="https://www.banouto.bj/societe/article/20250801-concours-dentree-dans-les-lycees-denseignement-technique-2025-au-benin-les-registres-dinscription-deja-ouverts"
+                   target="_blank" class="hover-main mb-10">
+                    <article class="information [ card ] hover-main">
+                        <h2 class="title">GUEVE Maruis
+                            <span style="font-size: 12px; color: gray">
+                                        - 1 janvier 2026 16:54
+                                    </span>
+                        </h2>
+                        <p class="info"
+                           style="color: #0b0b0b"><span style="color:#e00;font-weight: bolder;">@GUEVE Maruis</span>, Je suis GUEVE Maruis, titulaire du BEPC et je souhaite m'inscrire en F3 au lycée technique Coulibaly de Cotonou.Je voudrais savoir : Les bourses disponibles pour ...</p>
+                    </article>
+                </a>
+                            <a href="https://www.banouto.bj/societe/article/20250801-concours-dentree-dans-les-lycees-denseignement-technique-2025-au-benin-les-registres-dinscription-deja-ouverts"
+                   target="_blank" class="hover-main mb-10">
+                    <article class="information [ card ] hover-main">
+                        <h2 class="title">GUEVE Maruis
+                            <span style="font-size: 12px; color: gray">
+                                        - 1 janvier 2026 16:51
+                                    </span>
+                        </h2>
+                        <p class="info"
+                           style="color: #0b0b0b">Je suis GUEVE Maruis, titulaire du BEPC et je souhaite m'inscrire en F3 au lycée technique Coulibaly de Cotonou.Je voudrais savoir : Les bourses disponibles pour les élèves</p>
+                    </article>
+                </a>
+                            <a href="https://www.banouto.bj/bien-etre/article/20251222-medecine-traditionnelle-le-sommet-mondial-de-l-oms-debouche-sur-4-engagements-structurants"
+                   target="_blank" class="hover-main mb-10">
+                    <article class="information [ card ] hover-main">
+                        <h2 class="title">SAYE W Eugène
+                            <span style="font-size: 12px; color: gray">
+                                        - 25 décembre 2025 22:28
+                                    </span>
+                        </h2>
+                        <p class="info"
+                           style="color: #0b0b0b">Vraiment ça m'intéresse beaucoup et je voudrais rester ensemble avec vous</p>
+                    </article>
+                </a>
+                            <a href="https://www.banouto.bj/societe/article/20251217-benin-un-recrutement-de-1850-jeunes-dans-l-armee-annonce-conseil-des-ministres"
+                   target="_blank" class="hover-main mb-10">
+                    <article class="information [ card ] hover-main">
+                        <h2 class="title">Atti A. Charles
+                            <span style="font-size: 12px; color: gray">
+                                        - 22 décembre 2025 15:26
+                                    </span>
+                        </h2>
+                        <p class="info"
+                           style="color: #0b0b0b">Je suis content
+Je serai parmi les trois premiers</p>
+                    </article>
+                </a>
+                    </div>
+    </div>
+</div>
+    <!-- ====== end modals ====== -->
+</main>
+<!--End-Contents-->
+
+<!-- ====== start footer ====== -->
+<footer class="footer-style2 pt-70">
+    <div class="container">
+        <div class="content">
+            <div class="row justify-content-between laptop">
+                <div class="col-lg-4">
+                    <div class="info">
+                        <ul class="contact-info m-0">
+                            <li>
+                                <i class="la la-home me-2"></i>
+                                <span>Fidjrossè Carrefour Adjaha, Cotonou</span>
+                            </li>
+                            <li>
+                                <i class="la la-phone me-2"></i>
+                                <span>(+229) 66 35 8672 / 96 12 6237</span>
+                            </li>
+                            <li>
+                                <i class="la la-envelope me-2"></i>
+                                <span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="80e2e1eeeff5f4eff2e5e4e1e3f4e9efeec0e7ede1e9ecaee3efed">[email&#160;protected]</a></span>
+                            </li>
+                            <li>
+                                <i class="la la-envelope me-2"></i>
+                                <span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="750710111416011c1a1b3517141b1a00011a5b171f">[email&#160;protected]</a></span>
+                            </li>
+                        </ul>
+                        <div class="social-links mt-30">
+                            <a href="https://fr-fr.facebook.com/Banouto.info/" target="_blank"><i class="la la-facebook-f"></i></a>
+                            <a href="https://twitter.com/BanoutoBenin" target="_blank"><i class="la la-twitter"></i></a>
+                            <a href="https://www.youtube.com/@banoutomedia694" target="_blank"><i class="la la-youtube"></i></a>
+                            <a href="#" target="_blank"><i class="la la-linkedin"></i></a>
+                            <a href="https://www.banouto.bj/rss-actualites" target="_blank"><i class="la la-rss"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 mt-5 mt-lg-0">
+                    <div class="link-group">
+                        <ul>
+                            <li>
+                                <a href="https://www.banouto.bj/rubrique/politique" class="f-link">Politique</a>
+                            </li>
+                            <li>
+                                <a href="https://www.banouto.bj/rubrique/societe" class="f-link">Société</a>
+                            </li>
+                            <li>
+                                <a href="https://www.banouto.bj/rubrique/economie" class="f-link">Economie</a>
+                            </li>
+                            <li>
+                                <a href="https://www.banouto.bj/rubrique/investigation-reportages" class="f-link">Enquêtes & reportages</a>
+                            </li>
+                            <li>
+                                <a href="https://www.banouto.bj/rubrique/bien-etre" class="f-link">Santé</a>
+                            </li>
+                            <li>
+                                <a href="https://www.banouto.bj/rubrique/sports" class="f-link">Sports</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 mt-5 mt-lg-0">
+                    <div class="link-group">
+                        <ul>
+                            <li>
+                                <a href="https://www.banouto.bj/qui-sommes-nous" class="f-link">Qui sommes-nous ? </a>
+                            </li>
+                            <li>
+                                <a href="https://www.banouto.bj/contacts" class="f-link">Contacts</a>
+                            </li>
+                            <li>
+                                <a href="https://www.banouto.bj/mentions-legales" class="f-link">Mentions légales</a>
+                            </li>
+                            <li>
+                                <a href="#" class="f-link">Politique de confidentialité</a>
+                            </li>
+                            <li>
+                                <a href="#" class="f-link">Gérer mes cookies</a>
+                            </li>
+                            <li>
+                                <a href="#" class="f-link">Aide (FAQ)</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 mt-5 mt-lg-0">
+                    <div class="newsletter">
+                        <div class="cont">
+                            <div class="text">
+                                Le contenu de ce site est le fruit du travail de plusieurs journalistes qui vous
+                                apportent chaque jour une information de qualité et fiable.
+                            </div>
+                            <form id="newsletter_form" class="form mt-30" action="/newsletter-subscribe" method="POST">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" id="nl-email-input" name="email"
+                                           placeholder="email@example.com" required style="padding: 15px 50px 15px 15px">
+                                    <button id="newsletter_submit" type="submit" class="bg-main" aria-label="newsletter_submit">
+                                        <span> <i class="la la-send"></i> </span>
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-between tablet-mobile">
+                <div class="col-lg-4 ">
+                    <div class="link-group">
+                        <ul>
+                            <li>
+                                <a href="https://www.banouto.bj/qui-sommes-nous" class="f-link">Qui sommes-nous ? </a>
+                            </li>
+                            <li>
+                                <a href="https://www.banouto.bj/contacts" class="f-link">Contacts</a>
+                            </li>
+                            <li>
+                                <a href="https://www.banouto.bj/mentions-legales" class="f-link">Mentions légales</a>
+                            </li>
+                            <li>
+                                <a href="#" class="f-link">Politique de confidentialité</a>
+                            </li>
+                            <li>
+                                <a href="#" class="f-link">Gérer mes cookies</a>
+                            </li>
+                            <li>
+                                <a href="#" class="f-link">Aide (FAQ)</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 mt-5 mt-lg-0">
+                    <div class="info">
+                        <ul class="contact-info m-0">
+                            <li>
+                                <i class="la la-home me-2"></i>
+                                <span>Fidjrossè Carrefour Adjaha, Cotonou</span>
+                            </li>
+                            <li>
+                                <i class="la la-phone me-2"></i>
+                                <span>(+229) 66 35 8672 / 96 12 6237</span>
+                            </li>
+                            <li>
+                                <i class="la la-envelope me-2"></i>
+                                <span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6e0c0f00011b1a011c0b0a0f0d1a0701002e09030f0702400d0103">[email&#160;protected]</a></span>
+                            </li>
+                            <li>
+                                <i class="la la-envelope me-2"></i>
+                                <span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ea988f8e8b899e838584aa888b84859f9e85c48880">[email&#160;protected]</a></span>
+                            </li>
+                        </ul>
+                        <div class="social-links mt-30">
+                            <a href="https://fr-fr.facebook.com/Banouto.info/" target="_blank"><i class="la la-facebook-f"></i></a>
+                            <a href="https://twitter.com/BanoutoBenin" target="_blank"><i class="la la-twitter"></i></a>
+                            <a href="https://www.youtube.com/@banoutomedia694" target="_blank"><i class="la la-youtube"></i></a>
+                            <a href="#" target="_blank"><i class="la la-linkedin"></i></a>
+                            <a href="https://www.banouto.bj/rss-actualites" target="_blank"><i class="la la-rss"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mt-5 mt-lg-0">
+                    <div class="newsletter">
+                        <div class="cont">
+                            <div class="text">
+                                Le contenu de ce site est le fruit du travail de plusieurs journalistes qui vous
+                                apportent chaque jour une information de qualité et fiable.
+                            </div>
+                            <form id="newsletter_form2" class="form mt-30" action="/newsletter-subscribe" method="POST">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" id="nl-email-input2" name="email"
+                                           placeholder="email@example.com" required style="padding: 15px 50px 15px 15px">
+                                    <button id="newsletter_submit2" type="submit" class="bg-main" aria-label="newsletter_submit">
+                                        <span> <i class="la la-send"></i> </span>
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="foot mt-50 pb-15">
+            <div class="d-flex justify-content-center">
+                <div class="text ps-100 fsz-13px laptop">
+                    © 2026 Copyrights <a href="/" class="text-decoration-underline">Banouto</a>.
+                    Tous droits réservés. Developé par <a href="#" class="text-decoration-underline">Sheva</a>
+                </div>
+                <div class="text ps-100 fsz-13px tablet-mobile" style="text-align: center">
+                    © 2026 Copyrights <a href="/" class="text-decoration-underline">Banouto</a>.
+                    Tous droits réservés. <br> Developé par <a href="#" class="text-decoration-underline">Sheva</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ====== start to top button ====== -->
+    <a href="#" class="to_top bg-main">
+        <i class="la la-angle-up"></i>
+    </a>
+    <!-- ====== end to top button ====== -->
+</footer>
+<!-- ====== end footer ====== -->
+
+<!-- ====== request ====== -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://www.banouto.bj/js/jquery-3.0.0.min.js"></script>
+<script src="https://www.banouto.bj/js/jquery-migrate-3.0.0.min.js"></script>
+<script src="https://www.banouto.bj/js/bootstrap.bundle.min.js"></script>
+<script src="https://www.banouto.bj/js/wow.min.js"></script>
+<script src="https://www.banouto.bj/js/jquery.fancybox.js"></script>
+<script src="https://www.banouto.bj/js/lity.js"></script>
+<!-- <script defer src="https://www.banouto.bj/js/swiper.min.js"></script> -->
+<script src="https://www.banouto.bj/js/jquery.waypoints.min.js"></script>
+<script src="https://www.banouto.bj/js/jquery.counterup.js"></script>
+<script src="https://www.banouto.bj/js/pace.js"></script>
+<script defer src="https://www.banouto.bj/js/swiper.min.js"></script>
+<script src="https://www.banouto.bj/js/back-to-top.js"></script>
+
+<script defer src="https://www.banouto.bj/js/newsletter.js"></script>
+<script defer src="https://www.banouto.bj/js/lazysizes.min.js"></script>
+
+<script src="https://www.banouto.bj/js/load.more.js"></script>
+<script src="https://www.banouto.bj/js/main.js"></script>
+
+<script>
+    let navbar = document.getElementById("main-menu");
+    let header = document.getElementById("header");
+    let navPos = navbar.getBoundingClientRect().top;
+
+    document.addEventListener("scroll", (event) => {
+        let scrollPos = window.scrollY;
+        if (scrollPos === 0) {
+            navbar.classList.remove('sticky');
+            header.classList.remove('navbarOffsetMargin');
+        } else if (scrollPos > navPos) {
+            navbar.classList.add('sticky');
+            header.classList.add('navbarOffsetMargin');
+        } else {
+            navbar.classList.remove('sticky');
+            header.classList.remove('navbarOffsetMargin');
+        }
+    });
+</script>
+<script type="text/javascript">
+    $(document).on("click", ".open-commentModal", function () {
+        var myPostId = $(this).data('post');
+        var myCommentId = $(this).data('comment');
+        $(".modal-body #postId").val(myPostId);
+        $(".modal-body #commentId").val(myCommentId);
+    });
+    (function () {
+        'use strict';
+        window.addEventListener('load', function () {
+            // Fetch all the forms we want to apply custom Bootstrap validation styles to
+            var forms = document.getElementsByClassName('comment-modal-validation');
+            // Loop over them and prevent submission
+            var validation = Array.prototype.filter.call(forms, function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (form.checkValidity() === false) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+        }, false);
+    })();
+</script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</body>
+
+</html>

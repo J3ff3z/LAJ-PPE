@@ -1,0 +1,1463 @@
+HTTP/2 200 
+server: nginx/1.26.1
+date: Sat, 03 Jan 2026 16:43:04 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+x-powered-by: PHP/8.0.30
+x-vc-enabled: true
+x-vc-ttl: 
+link: <https://serai.jp/wp-json/>; rel="https://api.w.org/", <https://serai.jp/wp-json/wp/v2/posts/1034423>; rel="alternate"; type="application/json", <https://serai.jp/?p=1034423>; rel=shortlink
+x-varnish: 227694243 235021066
+via: 1.1 varnish (Varnish/6.0)
+x-varnish: 107085233
+age: 590
+via: 1.1 varnish (Varnish/6.0)
+x-cache-varnish: MISS
+vary: 
+x-cache: MISS
+accept-ranges: bytes
+strict-transport-security: max-age=300
+
+<!DOCTYPE html>
+<html lang="ja"
+	prefix="og: https://ogp.me/ns#" >
+
+<head>
+			<link rel="preload" as="image" href="https://serai.jp/wp-content/uploads/2021/07/bd2ef0930fe53a3b13a5d8b607c17757-500x408.jpg" type="image/jpeg" fetchpriority="high" />
+			  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="format-detection" content="telephone=no">
+  <link rel="icon" href="https://serai.jp/wp-content/themes/serai2020/favicon.ico">
+  <link rel="apple-touch-icon" href="https://serai.jp/wp-content/themes/serai2020/apple-touch-icon.png" sizes="180x180">
+  <link rel="icon" type="image/png" href="https://serai.jp/wp-content/themes/serai2020/android-touch-icon.png" sizes="192x192">
+  
+<script src="https://serai.jp/wp-content/themes/serai2020/assets/js/lib/viewport-extra.min.js" defer></script>
+<script>
+  new ViewportExtra(360);
+</script>
+
+<script class="shogakukan_utility_load_article_info_dataLayer">
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({'post_id_sgk': '1034423'});
+window.dataLayer.push({'post_date_sgk': '2021-07-31 19:00:00'});
+window.dataLayer.push({'post_title_sgk': '「日本人はなぜお米を主食としたのか？」から考える古代日本の成り立ち'});
+window.dataLayer.push({'post_modified_sgk': '2021-07-30 13:50:08'});
+window.dataLayer.push({'post_type_sgk': 'post'});
+window.dataLayer.push({'term_sgk': 'category::趣味･教養,post_tag::教会と千歳飴'});
+window.dataLayer.push({'postmeta_sgk': ''});
+window.dataLayer.push({'category_sgk': '趣味･教養'});
+window.dataLayer.push({'tag_sgk': '教会と千歳飴'});
+ </script> 
+		<!-- All in One SEO 4.1.1.1 -->
+		<title>「日本人はなぜお米を主食としたのか？」から考える古代日本の成り立ち | サライ.jp｜小学館の雑誌『サライ』公式サイト</title>
+		<meta name="description" content="日本人にとって、特別な存在であるお米だが、その歴史について考えたことがあるだろうか。いつから日本人がなぜお米を主食とし特別な存在として遇するようになったのか？ 万葉学者の上野誠さん（國學院大学文学部特任教授）が著した『教…"/>
+		<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+		<meta name="keywords" content="教会と千歳飴,趣味･教養" />
+		<link rel="canonical" href="https://serai.jp/hobby/1034423" />
+		<meta property="og:site_name" content="サライ.jp｜小学館の雑誌『サライ』公式サイト" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="「日本人はなぜお米を主食としたのか？」から考える古代日本の成り立ち | サライ.jp｜小学館の雑誌『サライ』公式サイト" />
+		<meta property="og:description" content="日本人にとって、特別な存在であるお米だが、その歴史について考えたことがあるだろうか。いつから日本人がなぜお米を主食とし特別な存在として遇するようになったのか？ 万葉学者の上野誠さん（國學院大学文学部特任教授）が著した『教…" />
+		<meta property="og:url" content="https://serai.jp/hobby/1034423" />
+		<meta property="og:image" content="https://serai.jp/wp-content/uploads/2021/07/bd2ef0930fe53a3b13a5d8b607c17757.jpg" />
+		<meta property="og:image:secure_url" content="https://serai.jp/wp-content/uploads/2021/07/bd2ef0930fe53a3b13a5d8b607c17757.jpg" />
+		<meta property="og:image:width" content="613" />
+		<meta property="og:image:height" content="500" />
+		<meta property="article:published_time" content="2021-07-31T10:00:00Z" />
+		<meta property="article:modified_time" content="2021-07-30T04:50:08Z" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:domain" content="serai.jp" />
+		<meta name="twitter:title" content="「日本人はなぜお米を主食としたのか？」から考える古代日本の成り立ち | サライ.jp｜小学館の雑誌『サライ』公式サイト" />
+		<meta name="twitter:description" content="日本人にとって、特別な存在であるお米だが、その歴史について考えたことがあるだろうか。いつから日本人がなぜお米を主食とし特別な存在として遇するようになったのか？ 万葉学者の上野誠さん（國學院大学文学部特任教授）が著した『教…" />
+		<meta name="twitter:image" content="https://serai.jp/wp-content/uploads/2021/07/bd2ef0930fe53a3b13a5d8b607c17757.jpg" />
+		<meta name="google" content="nositelinkssearchbox" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/serai.jp\/#website","url":"https:\/\/serai.jp\/","name":"\u30b5\u30e9\u30a4.jp\uff5c\u5c0f\u5b66\u9928\u306e\u96d1\u8a8c\u300e\u30b5\u30e9\u30a4\u300f\u516c\u5f0f\u30b5\u30a4\u30c8","description":"\u5c0f\u5b66\u9928\u306e\u96d1\u8a8c\u300e\u30b5\u30e9\u30a4\u300f\u306e\u516c\u5f0f\u30b5\u30a4\u30c8\u3067\u3059\u3002\u6b73\u3092\u91cd\u306d\u3001\u3088\u308a\u30a2\u30af\u30c6\u30a3\u30d6\u306b\u884c\u52d5\u3057\u305f\u3044\u3068\u601d\u3063\u3066\u3044\u308b\u5927\u4eba\u306e\u65b9\u3005\u3078\u306e\u30e9\u30a4\u30d5\u30b9\u30bf\u30a4\u30eb\u63d0\u6848\u3068\u3001\u65c5\u3001\u98df\u3001\u4eba\u7269\u3001\u6b74\u53f2\u3001\u6587\u5316\u3001\u8da3\u5473\u3001\u5065\u5eb7\u3001\u30e2\u30ce\u60c5\u5831\u306a\u3069\u4e0a\u8cea\u306a\u60c5\u5831\u3092\u767a\u4fe1\u3057\u307e\u3059\u3002","publisher":{"@id":"https:\/\/serai.jp\/#organization"}},{"@type":"Organization","@id":"https:\/\/serai.jp\/#organization","name":"\u30b5\u30e9\u30a4.jp\uff5c\u5c0f\u5b66\u9928\u306e\u96d1\u8a8c\u300e\u30b5\u30e9\u30a4\u300f\u516c\u5f0f\u30b5\u30a4\u30c8","url":"https:\/\/serai.jp\/"},{"@type":"BreadcrumbList","@id":"https:\/\/serai.jp\/hobby\/1034423#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/serai.jp\/#listItem","position":"1","item":{"@id":"https:\/\/serai.jp\/#item","name":"Home","description":"\u5c0f\u5b66\u9928\u306e\u96d1\u8a8c\u300e\u30b5\u30e9\u30a4\u300f\u306e\u516c\u5f0f\u30b5\u30a4\u30c8\u3067\u3059\u3002\u6b73\u3092\u91cd\u306d\u3001\u3088\u308a\u30a2\u30af\u30c6\u30a3\u30d6\u306b\u884c\u52d5\u3057\u305f\u3044\u3068\u601d\u3063\u3066\u3044\u308b\u5927\u4eba\u306e\u65b9\u3005\u3078\u306e\u30e9\u30a4\u30d5\u30b9\u30bf\u30a4\u30eb\u63d0\u6848\u3068\u3001\u65c5\u3001\u98df\u3001\u4eba\u7269\u3001\u6b74\u53f2\u3001\u6587\u5316\u3001\u8da3\u5473\u3001\u5065\u5eb7\u3001\u30e2\u30ce\u60c5\u5831\u306a\u3069\u4e0a\u8cea\u306a\u60c5\u5831\u3092\u767a\u4fe1\u3057\u307e\u3059\u3002","url":"https:\/\/serai.jp\/"},"nextItem":"https:\/\/serai.jp\/hobby\/#listItem"},{"@type":"ListItem","@id":"https:\/\/serai.jp\/hobby\/#listItem","position":"2","item":{"@id":"https:\/\/serai.jp\/hobby\/#item","name":"\u8da3\u5473\uff65\u6559\u990a","description":"\u65e5\u672c\u4eba\u306b\u3068\u3063\u3066\u3001\u7279\u5225\u306a\u5b58\u5728\u3067\u3042\u308b\u304a\u7c73\u3060\u304c\u3001\u305d\u306e\u6b74\u53f2\u306b\u3064\u3044\u3066\u8003\u3048\u305f\u3053\u3068\u304c\u3042\u308b\u3060\u308d\u3046\u304b\u3002\u3044\u3064\u304b\u3089\u65e5\u672c\u4eba\u304c\u306a\u305c\u304a\u7c73\u3092\u4e3b\u98df\u3068\u3057\u7279\u5225\u306a\u5b58\u5728\u3068\u3057\u3066\u9047\u3059\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u306e\u304b\uff1f \u4e07\u8449\u5b66\u8005\u306e\u4e0a\u91ce\u8aa0\u3055\u3093\uff08\u570b\u5b78\u9662\u5927\u5b66\u6587\u5b66\u90e8\u7279\u4efb\u6559\u6388\uff09\u304c\u8457\u3057\u305f\u300e\u6559\u2026","url":"https:\/\/serai.jp\/hobby\/"},"previousItem":"https:\/\/serai.jp\/#listItem"}]},{"@type":"Person","@id":"https:\/\/serai.jp\/author\/amano#author","url":"https:\/\/serai.jp\/author\/amano","name":"\u5929\u91ce \u5149\u6cd5","image":{"@type":"ImageObject","@id":"https:\/\/serai.jp\/hobby\/1034423#authorImage","url":"https:\/\/secure.gravatar.com\/avatar\/2d5e205d36d2dee6f01eb20a63da7965?s=96&d=mm&r=g","width":"96","height":"96","caption":"\u5929\u91ce \u5149\u6cd5"}},{"@type":"WebPage","@id":"https:\/\/serai.jp\/hobby\/1034423#webpage","url":"https:\/\/serai.jp\/hobby\/1034423","name":"\u300c\u65e5\u672c\u4eba\u306f\u306a\u305c\u304a\u7c73\u3092\u4e3b\u98df\u3068\u3057\u305f\u306e\u304b\uff1f\u300d\u304b\u3089\u8003\u3048\u308b\u53e4\u4ee3\u65e5\u672c\u306e\u6210\u308a\u7acb\u3061 | \u30b5\u30e9\u30a4.jp\uff5c\u5c0f\u5b66\u9928\u306e\u96d1\u8a8c\u300e\u30b5\u30e9\u30a4\u300f\u516c\u5f0f\u30b5\u30a4\u30c8","description":"\u65e5\u672c\u4eba\u306b\u3068\u3063\u3066\u3001\u7279\u5225\u306a\u5b58\u5728\u3067\u3042\u308b\u304a\u7c73\u3060\u304c\u3001\u305d\u306e\u6b74\u53f2\u306b\u3064\u3044\u3066\u8003\u3048\u305f\u3053\u3068\u304c\u3042\u308b\u3060\u308d\u3046\u304b\u3002\u3044\u3064\u304b\u3089\u65e5\u672c\u4eba\u304c\u306a\u305c\u304a\u7c73\u3092\u4e3b\u98df\u3068\u3057\u7279\u5225\u306a\u5b58\u5728\u3068\u3057\u3066\u9047\u3059\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u306e\u304b\uff1f \u4e07\u8449\u5b66\u8005\u306e\u4e0a\u91ce\u8aa0\u3055\u3093\uff08\u570b\u5b78\u9662\u5927\u5b66\u6587\u5b66\u90e8\u7279\u4efb\u6559\u6388\uff09\u304c\u8457\u3057\u305f\u300e\u6559\u2026","inLanguage":"ja","isPartOf":{"@id":"https:\/\/serai.jp\/#website"},"breadcrumb":{"@id":"https:\/\/serai.jp\/hobby\/1034423#breadcrumblist"},"author":"https:\/\/serai.jp\/hobby\/1034423#author","creator":"https:\/\/serai.jp\/hobby\/1034423#author","image":{"@type":"ImageObject","@id":"https:\/\/serai.jp\/#mainImage","url":"https:\/\/serai.jp\/wp-content\/uploads\/2021\/07\/bd2ef0930fe53a3b13a5d8b607c17757.jpg","width":"613","height":"500"},"primaryImageOfPage":{"@id":"https:\/\/serai.jp\/hobby\/1034423#mainImage"},"datePublished":"2021-07-31T10:00:00+09:00","dateModified":"2021-07-30T04:50:08+09:00"},{"@type":"Article","@id":"https:\/\/serai.jp\/hobby\/1034423#article","name":"\u300c\u65e5\u672c\u4eba\u306f\u306a\u305c\u304a\u7c73\u3092\u4e3b\u98df\u3068\u3057\u305f\u306e\u304b\uff1f\u300d\u304b\u3089\u8003\u3048\u308b\u53e4\u4ee3\u65e5\u672c\u306e\u6210\u308a\u7acb\u3061 | \u30b5\u30e9\u30a4.jp\uff5c\u5c0f\u5b66\u9928\u306e\u96d1\u8a8c\u300e\u30b5\u30e9\u30a4\u300f\u516c\u5f0f\u30b5\u30a4\u30c8","description":"\u65e5\u672c\u4eba\u306b\u3068\u3063\u3066\u3001\u7279\u5225\u306a\u5b58\u5728\u3067\u3042\u308b\u304a\u7c73\u3060\u304c\u3001\u305d\u306e\u6b74\u53f2\u306b\u3064\u3044\u3066\u8003\u3048\u305f\u3053\u3068\u304c\u3042\u308b\u3060\u308d\u3046\u304b\u3002\u3044\u3064\u304b\u3089\u65e5\u672c\u4eba\u304c\u306a\u305c\u304a\u7c73\u3092\u4e3b\u98df\u3068\u3057\u7279\u5225\u306a\u5b58\u5728\u3068\u3057\u3066\u9047\u3059\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u306e\u304b\uff1f \u4e07\u8449\u5b66\u8005\u306e\u4e0a\u91ce\u8aa0\u3055\u3093\uff08\u570b\u5b78\u9662\u5927\u5b66\u6587\u5b66\u90e8\u7279\u4efb\u6559\u6388\uff09\u304c\u8457\u3057\u305f\u300e\u6559\u2026","headline":"\u300c\u65e5\u672c\u4eba\u306f\u306a\u305c\u304a\u7c73\u3092\u4e3b\u98df\u3068\u3057\u305f\u306e\u304b\uff1f\u300d\u304b\u3089\u8003\u3048\u308b\u53e4\u4ee3\u65e5\u672c\u306e\u6210\u308a\u7acb\u3061","author":{"@id":"https:\/\/serai.jp\/author\/amano#author"},"publisher":{"@id":"https:\/\/serai.jp\/#organization"},"datePublished":"2021-07-31T10:00:00+09:00","dateModified":"2021-07-30T04:50:08+09:00","articleSection":"\u8da3\u5473\uff65\u6559\u990a, \u6559\u4f1a\u3068\u5343\u6b73\u98f4","mainEntityOfPage":{"@id":"https:\/\/serai.jp\/hobby\/1034423#webpage"},"isPartOf":{"@id":"https:\/\/serai.jp\/hobby\/1034423#webpage"},"image":{"@type":"ImageObject","@id":"https:\/\/serai.jp\/#articleImage","url":"https:\/\/serai.jp\/wp-content\/uploads\/2021\/07\/bd2ef0930fe53a3b13a5d8b607c17757.jpg","width":"613","height":"500"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/serai.jp\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='sbi_styles-css'  href='https://serai.jp/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://serai.jp/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://serai.jp/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+      <script class="admgr-variables">
+        window.admgr_ad_pattern =1;
+        window.admgr_is_ad_disabled =false;
+      </script>
+    <link rel="https://api.w.org/" href="https://serai.jp/wp-json/" /><link rel="alternate" type="application/json" href="https://serai.jp/wp-json/wp/v2/posts/1034423" /><link rel='shortlink' href='https://serai.jp/?p=1034423' />
+<link rel="alternate" type="application/json+oembed" href="https://serai.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fserai.jp%2Fhobby%2F1034423" />
+<link rel="alternate" type="text/xml+oembed" href="https://serai.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fserai.jp%2Fhobby%2F1034423&#038;format=xml" />
+<script type="text/javascript">
+<!--
+/******************************************************************************
+***   COPY PROTECTED BY http://chetangole.com/blog/wp-copyprotect/   version 3.1.0 ****
+******************************************************************************/
+function clickIE4(){
+if (event.button==2){
+return false;
+}
+}
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+return false;
+}
+}
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+
+document.oncontextmenu=new Function("return false")
+// --> 
+</script>
+
+		<style type="text/css" id="wp-custom-css">
+			@keyframes slidy {
+0% { left: 0%; }
+20% { left: 0%; }
+25% { left: -100%; }
+45% { left: -100%; }
+50% { left: -200%; }
+70% { left: -200%; }
+75% { left: -300%; }
+95% { left: -300%; }
+100% { left: -400%; }
+}
+body { margin: 0; } 
+div#slider { overflow: hidden; }
+div#slider figure img { width: 20%;height:auto; float: left; }
+div#slider figure { 
+  position: relative;
+  width: 500%;
+  margin: 0;
+  left: 0;
+  text-align: left;
+  font-size: 0;
+  animation: 30s slidy infinite; 
+}
+		</style>
+		  <link rel="stylesheet" href="https://serai.jp/wp-content/themes/serai2020/assets/css/common.css?ver=20251210005446">
+<!-- widget_ID pc_in_head_tag -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-10571426-5"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-10554241-66"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-10571426-5');
+  gtag('config', 'UA-10554241-66');
+</script>
+<!-- End Global site tag (gtag.js) - Google Analytics -->
+
+<!-- Google Tag Manager 【本番用】-->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TTG8S7T');</script>
+<!-- End Google Tag Manager【本番用】 --><script>window._2ndh2_exists=false;</script><script>window.dfpcategory = '趣味･教養';</script><!--PC/headタグ内DFP基本コード_全ページ_共通-->
+<!-- IAS PET.js_共通 start -->
+<script async='async' src='//cdn.adsafeprotected.com/iasPET.1.js'></script>
+<!-- IAS PET.js_共通 end -->
+<!-- サライDFP PCheadタグstart -->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function () {
+    googletag.defineSlot('/18319668/serai-new-pc/serai-new-pc//billboard-header_970x250_all', [[1, 1], [970, 250], [728, 90]], 'div-gpt-ad-1520174578900-0').addService(googletag.pubads());
+    googletag.defineSlot('/18319668/serai-new-pc/serai-new-pc//rectangle-premium_300x250_all', [[300, 250], [300, 600]], 'div-gpt-ad-1520174795432-0').addService(googletag.pubads());
+    googletag.defineSlot('/18319668/serai-new-pc/serai-new-pc//rectangle-rightcolumnmiddle_300x250_all', [[300, 250], [300, 600]], 'div-gpt-ad-1520175338609-0').addService(googletag.pubads());
+    googletag.defineSlot('/18319668/serai-new-pc/serai-new-pc//rectangle-bottomleft_300x250_article', [[300, 250], [336, 280]], 'div-gpt-ad-1520176909994-0').addService(googletag.pubads());
+    googletag.defineSlot('/18319668/serai-new-pc/serai-new-pc//rectangle-bottomright_300x250_article', [[300, 250], [336, 280]], 'div-gpt-ad-1520177131274-0').addService(googletag.pubads());
+
+    googletag.pubads().setTargeting("category_serai", dfpcategory);
+    googletag.pubads().setTargeting("url_serai", location.href);
+    if (typeof (_2ndh2_exists) !== "undefined") {
+      googletag.pubads().setTargeting('rect2ndh2_serai', _2ndh2_exists.toString());
+    }
+
+    if (typeof (ap_kwid) !== "undefined") {
+      googletag.pubads().setTargeting("ap_kwid", ap_kwid);
+    }
+
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+
+  });
+</script>
+<!--  サライDFP PCheadタグ end-->
+<!-- 1plusX request tag start -->
+<script>
+  try {
+    var TAGGER_TIMEOUT = 1000;
+    var do1plusXTargeting = true;
+    (function (url) {
+      if (!do1plusXTargeting) {
+        return;
+      }
+      var accessDg = function (res) {
+        if (res) {
+          googletag.cmd.push(function () {
+            if (res !== null) {
+              if (res["s"] !== null && res["s"].length > 0) {
+                googletag.pubads().setTargeting("opeaud", res["s"]);
+              }
+              if (res["t"] !== null && res["t"].length > 0) {
+                googletag.pubads().setTargeting("opectx", res["t"]);
+              }
+            }
+          });
+        }
+      };
+      try {
+        fetch(url + "?url=" + encodeURIComponent(window.location.href), {
+          referrerPolicy: "no-referrer-when-downgrade",
+          mode: "cors",
+          credentials: "include",
+        })
+          .then(function (response) {
+            if (response.status === 200) {
+              return response.json();
+            } else {
+              throw new Error("server error.");
+            }
+          })
+          .then(function (res) {
+            accessDg(res);
+          });
+      } catch (error) {
+        console.log(error);
+      }
+    })("https://mediaconsortium.profiles.tagger.opecloud.com/api/v1");
+  } catch (e) {
+  }
+</script>
+<!-- 1plusX request tag end -->
+<!-- IAS PET.js_サライ_PC start -->
+<script>
+  var adserverRequestSent = false;
+  requestAds = function () {
+    if (adserverRequestSent) return;
+    googletag.cmd.push(function () {
+      googletag.pubads().refresh();
+    });
+    adserverRequestSent = true;
+  }
+  var iasDataHandler, __iasPET = __iasPET || {};
+  __iasPET.queue = __iasPET.queue || [];
+  __iasPET.pubId = '930635';
+
+  document.addEventListener('DOMContentLoaded', function (event) {
+    var IASPET_TIMEOUT = 2000;
+    var __iasPETTimeoutRequestAds = setTimeout(requestAds, IASPET_TIMEOUT);
+    var iasDataHandler = function (adSlotData) {
+      clearTimeout(__iasPETTimeoutRequestAds);
+      __iasPET.setTargetingForGPT();
+      requestAds();
+    };
+
+    googletag.cmd.push(function () {
+      var gptSlots = googletag.pubads().getSlots();
+      var iasPETSlots = [];
+      for (var i = 0; i < gptSlots.length; i++) {
+        var sizes = gptSlots[i].getSizes().map(function (size) {
+          if (size.getWidth && size.getHeight) return [size.getWidth(), size.getHeight()];
+          else return [1, 1];
+        });
+        iasPETSlots.push({
+          adSlotId: gptSlots[i].getSlotElementId(),
+          size: sizes,
+          adUnitPath: gptSlots[i].getAdUnitPath()
+        });
+      }
+      __iasPET.queue.push({
+        adSlots: iasPETSlots,
+        dataHandler: iasDataHandler
+      });
+    });
+  }, false);
+</script>
+<!-- IAS PET.js_サライ_PC end -->
+<!-- widget_ID pc_article_in_head_tag  -->
+<!-- Google AdSense start -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1047782165869605"
+     crossorigin="anonymous"></script>
+<!-- Google AdSense end --> <!-- Geniee Wrapper Head Tag -->
+<script>
+  window.gnshbrequest = window.gnshbrequest || {cmd:[]};
+  window.gnshbrequest.cmd.push(function(){
+    window.gnshbrequest.forceInternalRequest();
+  });
+</script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script async src="https://cpt.geniee.jp/hb/v1/220683/1932/wrapper.min.js"></script>
+<!-- /Geniee Wrapper Head Tag -->  <script src="https://serai.jp/wp-content/themes/serai2020/assets/js/lib/ofi.min.js" defer></script>
+  <link rel="stylesheet" as="style" href="https://fonts.googleapis.com/css?family=Noto+Serif+JP:300,400,600,700&display=swap&subset=japanese" />
+  <script src="https://serai.jp/wp-content/themes/serai2020/assets/js/lib/jquery-3.4.1.min.js"></script>
+</head>
+
+<body>
+
+<!-- Google Tag Manager (noscript)【本番用】 -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTG8S7T"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript)【本番用】 -->
+
+
+<!-- widget_ID pc_article_after_body_tag  -->
+
+  <header class="header">
+    <div class="header--inner">
+      <div class="header--search_area--wrapper">
+        <div class="header--search_area">
+          <div class="header--search_area--inner">
+            <button class="header--search_button-close" type="button"><span class="header--search_button-element"></span><span class="header--search_button-element"></span></button>
+            <div class="header--search_area-item">
+              <p class="header--search_area--title">フリーワード検索</p>
+              <div class="header--search_area-item--form"><form role="search" method="get" id="searchform" class="searchform" action="https://serai.jp/">
+  <div>
+    <label class="screen-reader-text" for="s"></label>
+    <input type="text" value="" name="s" id="s" />
+    <span class="search_submit"><img src="/wp-content/themes/serai2020/assets/images/icon_search_white.png" alt="" class="search_submit-icon"><input type="submit" id="searchsubmit" value="検索" /></span>
+  </div>
+</form>
+</div>
+            </div>
+            <div class="header--search_area-item">
+              <p class="header--search_area--title">人気のキーワード</p>
+              <ul class="keyword">
+                                                    <li class="header--search_area--keyword keyword--item"><a class="keyword--item-text" href="https://serai.jp/tag/%e3%81%b9%e3%82%89%e3%81%bc%e3%81%86">べらぼう</a></li>
+                                                    <li class="header--search_area--keyword keyword--item"><a class="keyword--item-text" href="https://serai.jp/tag/%e3%82%af%e3%83%ab%e3%83%9e">クルマ</a></li>
+                                                    <li class="header--search_area--keyword keyword--item"><a class="keyword--item-text" href="https://serai.jp/tag/%e3%83%9a%e3%83%83%e3%83%88">ペット</a></li>
+                                                    <li class="header--search_area--keyword keyword--item"><a class="keyword--item-text" href="https://serai.jp/tag/%e6%b8%9b%e5%a1%a9%e3%83%ac%e3%82%b7%e3%83%94">減塩レシピ</a></li>
+                                                    <li class="header--search_area--keyword keyword--item"><a class="keyword--item-text" href="https://serai.jp/tag/%e3%83%9e%e3%83%8d%e3%83%bc">マネー</a></li>
+                                                    <li class="header--search_area--keyword keyword--item"><a class="keyword--item-text" href="https://serai.jp/tag/%e8%aa%8d%e7%9f%a5%e7%97%87">認知症</a></li>
+                                                    <li class="header--search_area--keyword keyword--item"><a class="keyword--item-text" href="https://serai.jp/tag/%e5%ae%9a%e5%b9%b4%e5%be%8c%e3%81%ae%e6%ad%a9%e3%81%8d%e6%96%b9">定年後の歩き方</a></li>
+                                                    <li class="header--search_area--keyword keyword--item"><a class="keyword--item-text" href="https://serai.jp/tag/%e8%80%81%e4%ba%ba%e3%83%9b%e3%83%bc%e3%83%a0">老人ホーム</a></li>
+                                                    <li class="header--search_area--keyword keyword--item"><a class="keyword--item-text" href="https://serai.jp/tag/%e4%ba%ac%e9%83%bd">京都</a></li>
+                                                    <li class="header--search_area--keyword keyword--item"><a class="keyword--item-text" href="https://serai.jp/tag/%e6%bc%a2%e6%96%b9">漢方</a></li>
+                              </ul>
+            </div>
+          </div><!-- /.header--search_area--inner -->
+        </div>
+      </div>
+      <div class="header--left">
+                        <div class="header--logo">
+            <a class="header--logo_link" href="https://serai.jp">
+              <img class="header--logo_img" src="https://serai.jp/wp-content/themes/serai2020/assets/images/logo_header.svg" alt="サライ.jp" width="183" height="41.38">
+                        </a>
+          </div>
+              </div>
+      <div class="header--right">
+        <div class="header--sp_buttons"><button class="header--sp_search_button"><svg class="header--sp_search_svg" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24">
+              <g transform="translate(1 1)" stroke-width="1.8">
+                <circle cx="9" cy="9" r="9" stroke="none"></circle>
+                <circle cx="9" cy="9" r="8.1"></circle>
+              </g>
+              <path d="M1258.762,57.2v9" transform="translate(-914.525 865.634) rotate(-45)" stroke-linecap="round" stroke-width="1.8"></path>
+            </svg><span class="header--sp_search_button_element"></span><span class="header--sp_search_button_element"></span></button><button class="header--sp_menu_button js-trigger-sp_menu-toggle" type="button"><span class="header--sp_menu_button_element"></span><span class="header--sp_menu_button_element"></span><span class="header--sp_menu_button_element"></span></button></div>
+        <div class="header--right_contents js-target-sp_menu-toggle">
+          <div class="header--right_contents_inner">
+            <div class="header--right_top">
+              <ul class="header--social">
+                <li class="header--social_item"><a class="header--social_link" href="https://ja-jp.facebook.com/serai.jp/" target="_blank"><svg class="header--social_svg" version="1.1" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewbox="0 0 1024 1024">
+                      <g>
+                        <path class="header--social_svg_fb_circle" d="M1024,512C1024,229.23,794.77,0,512,0S0,229.23,0,512c0,255.55,187.23,467.37,432,505.78V660H302V512h130V399.2                          C432,270.88,508.44,200,625.39,200C681.41,200,740,210,740,210v126h-64.56c-63.6,0-83.44,39.47-83.44,79.96V512h142l-22.7,148H592                          v357.78C836.77,979.37,1024,767.55,1024,512z"></path>
+                        <path class="header--social_svg_fb_text" d="M711.3,660L734,512H592v-96.04c0-40.49,19.84-79.96,83.44-79.96H740V210c0,0-58.59-10-114.61-10                          C508.44,200,432,270.88,432,399.2V512H302v148h130v357.78c26.07,4.09,52.78,6.22,80,6.22s53.93-2.13,80-6.22V660H711.3z"></path>
+                      </g>
+                    </svg></a></li>
+                <li class="header--social_item"><a class="header--social_link" href="https://twitter.com/seraijp" target="_blank"><svg class="header--social_svg" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1200 1227">
+                      <path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" />
+                    </svg></a></li>
+                <li class="header--social_item"><a class="header--social_link" href="https://www.instagram.com/seraijp/" target="_blank"><svg class="header--social_svg" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 36 36">
+                      <g transform="translate(-238 -238)">
+                        <path d="M256,243.9c3.941,0,4.408.015,5.965.086a8.163,8.163,0,0,1,2.741.508,4.887,4.887,0,0,1,2.8,2.8,8.162,8.162,0,0,1,.508,2.741c.071,1.557.086,2.024.086,5.965s-.015,4.408-.086,5.965a8.162,8.162,0,0,1-.508,2.741,4.887,4.887,0,0,1-2.8,2.8,8.162,8.162,0,0,1-2.741.508c-1.557.071-2.023.086-5.965.086s-4.408-.015-5.965-.086a8.162,8.162,0,0,1-2.741-.508,4.887,4.887,0,0,1-2.8-2.8,8.163,8.163,0,0,1-.508-2.741c-.071-1.557-.086-2.024-.086-5.965s.015-4.408.086-5.965a8.163,8.163,0,0,1,.508-2.741,4.887,4.887,0,0,1,2.8-2.8,8.163,8.163,0,0,1,2.741-.508c1.557-.071,2.024-.086,5.965-.086m0-2.66c-4.009,0-4.512.017-6.086.089a10.84,10.84,0,0,0-3.583.686,7.555,7.555,0,0,0-4.317,4.317,10.84,10.84,0,0,0-.686,3.583c-.072,1.574-.089,2.077-.089,6.086s.017,4.512.089,6.086a10.84,10.84,0,0,0,.686,3.583,7.555,7.555,0,0,0,4.317,4.317,10.84,10.84,0,0,0,3.583.686c1.574.072,2.077.089,6.086.089s4.512-.017,6.086-.089a10.84,10.84,0,0,0,3.583-.686,7.555,7.555,0,0,0,4.317-4.317,10.84,10.84,0,0,0,.686-3.583c.072-1.574.089-2.077.089-6.086s-.017-4.512-.089-6.086a10.84,10.84,0,0,0-.686-3.583,7.555,7.555,0,0,0-4.317-4.317,10.84,10.84,0,0,0-3.583-.686c-1.574-.072-2.077-.089-6.086-.089Z"></path>
+                        <path d="M256,248.42a7.58,7.58,0,1,0,7.58,7.58A7.58,7.58,0,0,0,256,248.42Zm0,12.5a4.92,4.92,0,1,1,4.92-4.92A4.92,4.92,0,0,1,256,260.92Z"></path>
+                        <circle cx="1.771" cy="1.771" r="1.771" transform="translate(262.108 246.349)"></circle>
+                      </g>
+                    </svg></a></li>
+                <li class="header--social_item"><a class="header--social_link" href="https://line.me/R/ti/p/%40oa-serai" target="_blank"><svg class="header--social_svg" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 36 36">
+                      <path d="M420.842,303.655h-5.051v-9.172a.516.516,0,0,0-.516-.516h-1.859a.515.515,0,0,0-.516.516v11.549a.518.518,0,0,0,.144.357l.007.007.007.007a.507.507,0,0,0,.356.144h7.429a.516.516,0,0,0,.516-.516v-1.86A.518.518,0,0,0,420.842,303.655Z" transform="translate(-412.9 -282.206)"></path>
+                      <rect width="2.892" height="12.579" rx="0.233" transform="translate(10.048 11.762)"></rect>
+                      <path d="M430.035,293.968h-1.859a.515.515,0,0,0-.516.516v6.861l-5.293-7.146a.544.544,0,0,0-.04-.053l0,0-.031-.031-.009-.009-.029-.022-.013-.011-.027-.018-.016-.011-.027-.015-.018-.007-.029-.013-.018,0-.029-.011-.02,0-.029-.007-.022,0-.027,0-.027,0h-1.877a.515.515,0,0,0-.516.516v11.549a.514.514,0,0,0,.516.514h1.859a.514.514,0,0,0,.516-.514v-6.86l5.3,7.157a.553.553,0,0,0,.131.128l0,0,.033.02.013.009.027.011.024.011.015.007.035.011h.007a.439.439,0,0,0,.133.018h1.859a.516.516,0,0,0,.516-.514V294.484A.516.516,0,0,0,430.035,293.968Z" transform="translate(-404.815 -282.206)"></path>
+                      <path d="M433.284,293.968h-7.427a.511.511,0,0,0-.359.146l0,0-.009.009a.517.517,0,0,0-.144.356h0v11.549a.517.517,0,0,0,.144.357l.009.007.007.007a.507.507,0,0,0,.356.144h7.427a.515.515,0,0,0,.516-.516v-1.86a.516.516,0,0,0-.516-.516h-5.049V301.7h5.049a.515.515,0,0,0,.516-.516v-1.86a.515.515,0,0,0-.516-.516h-5.049v-1.953h5.049a.515.515,0,0,0,.516-.516v-1.86A.515.515,0,0,0,433.284,293.968Z" transform="translate(-397.8 -282.206)"></path>
+                    </svg></a></li>
+                <li class="header--social_item visible-pc invisible-tab"><button class="header--search_button" type="button"><svg class="header--search_svg" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 23 23">
+                      <g transform="translate(1 1)" stroke-width="1.8">
+                        <circle cx="9" cy="9" r="9" stroke="none"></circle>
+                        <circle cx="9" cy="9" r="8.1"></circle>
+                        <path d="M1258.762,57.2v9" transform="translate(-914.525 865.634) rotate(-45)" stroke-linecap="round" stroke-width="1.8"></path>
+                      </g>
+                    </svg></button></li>
+              </ul>
+              <div class="header--mail"><a class="header--mail_button" href="/club"><span class="header--mail_button_text">サライプレミアム倶楽部</span></a></div>
+            </div>
+            <div class="header--bottom">
+              <nav class="header--global_nav">
+                <ul id="menu-global_nav" class="header--global_nav_list">
+<li class="header--global_nav_item"><div class="js-trigger-global_nav-toggle header--global_nav_button_wrap"><button  class="header--global_nav_button" data-href="https://serai.jp/gourmet" >美味</button></div>
+  <div class="header--global_nav_megamenu js-target-global_nav-toggle">
+   <div class="header--global_nav_megamenu_inner">
+     <div class="header--global_nav_megamenu_heading">
+       <div class="header--global_nav_megamenu_heading_subtitle">GOURMET</div>
+       <div class="header--global_nav_megamenu_heading_title">美味</div>
+     </div>
+     <div class="header--global_nav_megamenu_body"><ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/gourmet/cooking" >料理レシピ</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/gourmet/soba" >蕎麦（そば）</a>
+</li><!-- /.header--global_nav_sub_item -->
+      </ul><!-- /.header--global_nav_megamenu_body_col -->
+      <ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト(分割) -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/gourmet/nihonshu" >日本酒</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/gourmet/wine" >ワイン</a>
+</li><!-- /.header--global_nav_sub_item -->
+      </ul><!-- /.header--global_nav_megamenu_body_col -->
+      <ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト(分割) -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/gourmet/bar" >Bar駱駝</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/gourmet/restaurant" >レストラン</a>
+</li><!-- /.header--global_nav_sub_item --></ul><!-- /.header--global_nav_megamenu_body_col -->
+      <div class="header--global_nav_list_button"><a class="header--global_nav_list_button--text" href="https://serai.jp/gourmet">記事一覧へ</a></div>
+    </div><!-- /.header--global_nav_megamenu_body -->
+    </div><!-- /.header--global_nav_megamenu_inner -->
+  </div><!-- /.header--global_nav_megamenu -->
+</li><!-- /.header--global_nav_item -->
+<li class="header--global_nav_item"><div class="js-trigger-global_nav-toggle header--global_nav_button_wrap"><button  class="header--global_nav_button" data-href="https://serai.jp/tour" >旅行</button></div>
+  <div class="header--global_nav_megamenu js-target-global_nav-toggle">
+   <div class="header--global_nav_megamenu_inner">
+     <div class="header--global_nav_megamenu_heading">
+       <div class="header--global_nav_megamenu_heading_subtitle">TOUR</div>
+       <div class="header--global_nav_megamenu_heading_title">旅行</div>
+     </div>
+     <div class="header--global_nav_megamenu_body"><ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/tour/traveljapan" >国内旅行</a><ul class="header--global_nav_sub_list">
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/tour/kyoto-tour" >サライ京都チャンネル</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/tour/traveljapan/kyoto" >京都</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/tour/traveljapan/hantowoyuku" >半島をゆく</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/tour/meisui" >古都の名水散策</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/tour/nostalgic" >懐かしき風景</a>
+</li><!-- /.header--global_nav_sub_item --></ul>
+</li><!-- /.header--global_nav_sub_item -->
+      </ul><!-- /.header--global_nav_megamenu_body_col -->
+      <ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト(分割) -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/tour/travelabroad" >海外旅行</a>
+</li><!-- /.header--global_nav_sub_item -->
+      </ul><!-- /.header--global_nav_megamenu_body_col -->
+      <ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト(分割) -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/tour/hotel" >ホテル・宿</a>
+</li><!-- /.header--global_nav_sub_item --></ul><!-- /.header--global_nav_megamenu_body_col -->
+      <div class="header--global_nav_list_button"><a class="header--global_nav_list_button--text" href="https://serai.jp/tour">記事一覧へ</a></div>
+    </div><!-- /.header--global_nav_megamenu_body -->
+    </div><!-- /.header--global_nav_megamenu_inner -->
+  </div><!-- /.header--global_nav_megamenu -->
+</li><!-- /.header--global_nav_item -->
+<li class="header--global_nav_item"><div class="js-trigger-global_nav-toggle header--global_nav_button_wrap"><button  class="header--global_nav_button" data-href="https://serai.jp/hobby" >趣味･教養</button></div>
+  <div class="header--global_nav_megamenu js-target-global_nav-toggle">
+   <div class="header--global_nav_megamenu_inner">
+     <div class="header--global_nav_megamenu_heading">
+       <div class="header--global_nav_megamenu_heading_subtitle">HOBBY</div>
+       <div class="header--global_nav_megamenu_heading_title">趣味･教養</div>
+     </div>
+     <div class="header--global_nav_megamenu_body"><ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/hobby/interviews" >サライインタビュー</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><span  class="header--global_nav_sub_group" >歴史</span><ul class="header--global_nav_sub_list">
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/hobby/jokaku" >城郭</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/hobby/tenminutes" >大人の教養講座「テンミニッツTV」</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/hobby/hikaru" >光る君へ</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/hobby/berabou" >べらぼう</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/hobby/history" >日本史人物伝</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/hobby/sunahara-kotaro" >砂原浩太朗「にっぽん歴史夜話」</a>
+</li><!-- /.header--global_nav_sub_item --></ul>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/hobby/trainrailroad" >鉄道</a><ul class="header--global_nav_sub_list">
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/hobby/trainrailroad/map" >日本鉄道大地図館</a>
+</li><!-- /.header--global_nav_sub_item --></ul>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><span  class="header--global_nav_sub_group" >音楽</span><ul class="header--global_nav_sub_list">
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/hobby/classicmusic" >クラシック音楽</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/hobby/jazz" >ジャズ音楽</a>
+</li><!-- /.header--global_nav_sub_item --></ul>
+</li><!-- /.header--global_nav_sub_item -->
+      </ul><!-- /.header--global_nav_megamenu_body_col -->
+      <ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト(分割) -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/hobby/japanmovie" >面白すぎる日本映画</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/event" >催し物</a><ul class="header--global_nav_sub_list">
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/event/rakugokai" >落語会（らくだ亭）</a>
+</li><!-- /.header--global_nav_sub_item --></ul>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/item/car" >自動車</a>
+</li><!-- /.header--global_nav_sub_item -->
+      </ul><!-- /.header--global_nav_megamenu_body_col -->
+      <ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト(分割) -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/item/watch" >時計</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/hobby/kanji" >脳トレ漢字</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/golf" >ゴルフの基本</a>
+</li><!-- /.header--global_nav_sub_item --></ul><!-- /.header--global_nav_megamenu_body_col -->
+      <div class="header--global_nav_list_button"><a class="header--global_nav_list_button--text" href="https://serai.jp/hobby">記事一覧へ</a></div>
+    </div><!-- /.header--global_nav_megamenu_body -->
+    </div><!-- /.header--global_nav_megamenu_inner -->
+  </div><!-- /.header--global_nav_megamenu -->
+</li><!-- /.header--global_nav_item -->
+<li class="header--global_nav_item"><div class="js-trigger-global_nav-toggle header--global_nav_button_wrap"><button  class="header--global_nav_button" data-href="https://serai.jp/health" >健康</button></div>
+  <div class="header--global_nav_megamenu js-target-global_nav-toggle">
+   <div class="header--global_nav_megamenu_inner">
+     <div class="header--global_nav_megamenu_heading">
+       <div class="header--global_nav_megamenu_heading_subtitle">HEALTH</div>
+       <div class="header--global_nav_megamenu_heading_title">健康</div>
+     </div>
+     <div class="header--global_nav_megamenu_body"><ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト -->
+        <li class="header--global_nav_sub_item"><span  class="header--global_nav_sub_group" >腰痛</span><ul class="header--global_nav_sub_list">
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/health/measures" >腰痛対策</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/kawaguchi-harumi" >川口陽海の腰痛改善教室</a>
+</li><!-- /.header--global_nav_sub_item --></ul>
+</li><!-- /.header--global_nav_sub_item -->
+      </ul><!-- /.header--global_nav_megamenu_body_col -->
+      <ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト(分割) -->
+        <li class="header--global_nav_sub_item"><span  class="header--global_nav_sub_group" >医療</span><ul class="header--global_nav_sub_list">
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/health/prevention" >予防医療</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/health/excellent-doctor" >名医に聞く</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/health/kobayashi" >小林弘幸の不摂生でも病気にならない人の習慣</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/health/meal" >最強の食事術</a>
+</li><!-- /.header--global_nav_sub_item --></ul>
+</li><!-- /.header--global_nav_sub_item -->
+      </ul><!-- /.header--global_nav_megamenu_body_col -->
+      <ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト(分割) -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/health/breakfast" >定番・朝めし自慢</a>
+</li><!-- /.header--global_nav_sub_item --></ul><!-- /.header--global_nav_megamenu_body_col -->
+      <div class="header--global_nav_list_button"><a class="header--global_nav_list_button--text" href="https://serai.jp/health">記事一覧へ</a></div>
+    </div><!-- /.header--global_nav_megamenu_body -->
+    </div><!-- /.header--global_nav_megamenu_inner -->
+  </div><!-- /.header--global_nav_megamenu -->
+</li><!-- /.header--global_nav_item -->
+<li class="header--global_nav_item"><div class="js-trigger-global_nav-toggle header--global_nav_button_wrap"><button  class="header--global_nav_button" data-href="https://serai.jp/living" >生活</button></div>
+  <div class="header--global_nav_megamenu js-target-global_nav-toggle">
+   <div class="header--global_nav_megamenu_inner">
+     <div class="header--global_nav_megamenu_heading">
+       <div class="header--global_nav_megamenu_heading_subtitle">LIFE STYLE</div>
+       <div class="header--global_nav_megamenu_heading_title">生活</div>
+     </div>
+     <div class="header--global_nav_megamenu_body"><ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/business" >ビジネス</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/money" >マネー</a><ul class="header--global_nav_sub_list">
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/money/money-money" >プロから学ぶマネー講座</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/money/school" >お金の学校</a>
+</li><!-- /.header--global_nav_sub_item --></ul>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/house" >住まい</a><ul class="header--global_nav_sub_list">
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/house/%e3%83%8f%e3%82%a4%e3%82%af%e3%83%a9%e3%82%b9%e3%83%bb%e3%82%b7%e3%83%8b%e3%82%a2%e3%83%ac%e3%82%b8%e3%83%87%e3%83%b3%e3%82%b9" >ハイクラス・シニアレジデンス</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/house/seniorhome" >老人ホーム／サ高住</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/house/housereform" >人生を楽しむリフォーム</a>
+</li><!-- /.header--global_nav_sub_item --></ul>
+</li><!-- /.header--global_nav_sub_item -->
+      </ul><!-- /.header--global_nav_megamenu_body_col -->
+      <ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト(分割) -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/retirement-age" >定年リタイア</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><span  class="header--global_nav_sub_group" >ペット</span><ul class="header--global_nav_sub_list">
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/cat" >猫／ペット</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/dog" >犬／ペット</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/cat/tsushima" >俺、つしま</a>
+</li><!-- /.header--global_nav_sub_item --></ul>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/smartphone" >スマホ基本のき</a><ul class="header--global_nav_sub_list">
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/google" >Google活用基本のき</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/internet" >インターネット基本のき</a>
+</li><!-- /.header--global_nav_sub_item --></ul>
+</li><!-- /.header--global_nav_sub_item -->
+      </ul><!-- /.header--global_nav_megamenu_body_col -->
+      <ul class="header--global_nav_megamenu_body_col"><!-- メガメニュー内のリスト(分割) -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/funeral" >葬儀の作法</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/judge" >裁判長の説諭</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><span  class="header--global_nav_sub_group" >生き方</span><ul class="header--global_nav_sub_list">
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/daughter" >娘のきもち</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/family" >義家族との間</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/married-couple" >夫婦の距離</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/%e5%ae%9a%e5%b9%b4%e5%be%8c%e3%81%ae%e6%ad%a9%e3%81%8d%e6%96%b9-living" >定年後の歩き方</a>
+</li><!-- /.header--global_nav_sub_item -->
+        <li class="header--global_nav_sub_item"><a  class="header--global_nav_sub_link" href="https://serai.jp/living/poverty" >家族の貧困</a>
+</li><!-- /.header--global_nav_sub_item --></ul>
+</li><!-- /.header--global_nav_sub_item --></ul><!-- /.header--global_nav_megamenu_body_col -->
+      <div class="header--global_nav_list_button"><a class="header--global_nav_list_button--text" href="https://serai.jp/living">記事一覧へ</a></div>
+    </div><!-- /.header--global_nav_megamenu_body -->
+    </div><!-- /.header--global_nav_megamenu_inner -->
+  </div><!-- /.header--global_nav_megamenu -->
+</li><!-- /.header--global_nav_item -->
+        <li class="header--global_nav_item"><a class="js-trigger-global_nav-toggle header--global_nav_button_wrap" href="https://serai.jp/shop"><span  class="header--global_nav_link" >小学館百貨店<span class="header--global_nav_button_en_text">Online Store</span></span></a>
+</li><!-- /.header--global_nav_item -->
+        <li class="header--global_nav_item"><a class="js-trigger-global_nav-toggle header--global_nav_button_wrap" href="https://serai.jp/premium"><span  class="header--global_nav_link" >サライPremium</span></a>
+</li><!-- /.header--global_nav_item --></ul>              </nav><!-- /.header--global_nav -->
+            </div>
+          </div>
+          <div id="sp-menu-bottom" class="visible-sp">
+          </div>
+        </div>
+      </div>
+    </div>
+<script>
+  jQuery(function () {
+    objectFitImages( 'img' );
+  });
+</script>
+
+  </header>
+  <div class="header--placeholder"></div>
+<!-- 【サライ】new-PC／ヘッダービルボード 970x250 全ページ 配信タグ start -->
+<!-- /18319668/serai-new-pc/serai-new-pc//billboard-header_970x250_all -->
+<div id='div-gpt-ad-1520174578900-0' style="height: 90px;">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1520174578900-0'); });
+</script>
+</div>
+<!-- 【サライ】new-PC／ヘッダービルボード 970x250 全ページ 配信タグ end -->  <div class="breadcrumb_area--wrapper">
+    <div class="breadcrumb_area">
+      <!-- Breadcrumb NavXT 6.6.0 -->
+<a title="サライ.jp｜小学館の雑誌『サライ』公式サイト." href="https://serai.jp" class="breadcrumb_area-home"><span>TOP</span></a><span class="breadcrumb_area--arrow"></span><a title="趣味･教養一覧" href="https://serai.jp/hobby">趣味･教養</a><span class="breadcrumb_area--arrow"></span><span>「日本人はなぜお米を主食としたのか？」から考える古代日本の成り立ち</span>    </div>
+  </div>
+  <!-- widget_ID pc_article_below_breadcrumb -->
+
+<main>
+  <div class="excursion_area excursion_area--has-sidebar">
+    <div class="excursion_area--left">
+      <section class="post_content">
+                        <div class="post_content--meta">
+                  <p class="post_content--meta--this_cat">趣味･教養</p>
+          <h1>「日本人はなぜお米を主食としたのか？」から考える古代日本の成り立ち</h1>
+          <!-- widget_ID pc_article_below_title -->
+<!-- Geniee Body Tag 1571569 -->
+<div data-cptid="1571569" style="display: block;">
+<script>
+  window.gnshbrequest.cmd.push(function() {
+    window.gnshbrequest.applyThirdPartyTag("1571569", "[data-cptid='1571569']");
+  });
+</script>
+</div>
+<!-- /Geniee Body Tag 1571569 -->                    <ul class="post_content--list post_content--meta--cat_list">
+                        <li class="post_content--meta--cat_list-item">
+              <a class="post_content--link" href="https://serai.jp/hobby">
+                趣味･教養              </a>
+            </li>
+                      </ul>
+          <ul class="post_content--list post_content--meta--tag post_content--meta--tag_list">
+            <li class="post_content--meta--tag-item"><a href="https://serai.jp/tag/%e6%95%99%e4%bc%9a%e3%81%a8%e5%8d%83%e6%ad%b3%e9%a3%b4" rel="tag">教会と千歳飴</a></li>          </ul>
+          <div class="post_content--meta-bottom"><div class="post_content--meta--date" datetime="2021-07-30T13:50:08+09:00">2021/7/31</div>
+            <ul class="post_content--list post_content--meta--sns">
+              <li class="post_content--meta--sns-item"><a class="post_content--link" href="http://www.facebook.com/share.php?u=https://serai.jp/hobby/1034423" target="_blank"><img src="https://serai.jp/wp-content/themes/serai2020/assets/images/icon_fb.png" alt="Facebook" width="36px" height="36px"></a></li>
+              <li class="post_content--meta--sns-item"><a class="post_content--link" href="http://twitter.com/share?url=https://serai.jp/hobby/1034423&text=「日本人はなぜお米を主食としたのか？」から考える古代日本の成り立ち" target="_blank"><img src="https://serai.jp/wp-content/themes/serai2020/assets/images/icon_x.png" alt="Twitter" width="36px" height="36px"></a></li>
+              <li class="post_content--meta--sns-item"><a class="post_content--link" href="http://line.me/R/msg/text/?「日本人はなぜお米を主食としたのか？」から考える古代日本の成り立ち%0D%0Ahttps://serai.jp/hobby/1034423" target="_blank"><img src="https://serai.jp/wp-content/themes/serai2020/assets/images/icon_line.png" alt="LINE" width="36px" height="36px"></a></li>
+              <li class="post_content--meta--sns-item"><a class="post_content--link" href="http://b.hatena.ne.jp/add?mode=confirm&url=https://serai.jp/hobby/1034423?text_=「日本人はなぜお米を主食としたのか？」から考える古代日本の成り立ち" target="_blank"><img src="https://serai.jp/wp-content/themes/serai2020/assets/images/icon_hatena.png" alt="はてなブックマーク" width="36px" height="36px"></a></li>
+            </ul>
+          </div>
+                  </div>
+                <div class="post_content--body">
+                    
+<div class="wp-block-image"><figure class="aligncenter size-medium is-resized"><img style="aspect-ratio: 500 / 408;" src="https://serai.jp/wp-content/uploads/2021/07/bd2ef0930fe53a3b13a5d8b607c17757-500x408.jpg" alt="" class="wp-image-1034426" width="500" height="408" srcset="https://serai.jp/wp-content/uploads/2021/07/bd2ef0930fe53a3b13a5d8b607c17757-500x408.jpg 500w, https://serai.jp/wp-content/uploads/2021/07/bd2ef0930fe53a3b13a5d8b607c17757.jpg 613w" sizes="(max-width: 500px) 100vw, 500px" /><figcaption>菜畑から始まった弥生稲作は徐々に北上し、津軽の垂柳遺跡まで伝播した<br>（写真／唐津市生涯学習文化財課提供）</figcaption></figure></div>
+
+
+
+<p>日本人にとって、特別な存在であるお米だが、その歴史について考えたことがあるだろうか。いつから日本人がなぜお米を主食とし特別な存在として遇するようになったのか？</p>
+
+
+
+<p>万葉学者の上野誠さん（國學院大学文学部特任教授）が著した『教会と千歳飴　日本文化、知恵の創造力』は、悠久の古代日本の成り立ちに思いを馳せるヒントで溢れている。</p>
+
+
+
+<p>日本の最古の水田（菜畑遺跡＝佐賀県唐津市）や最古の農村（板付遺跡＝福岡市博多区）といわれる地は、いずれも大陸や朝鮮半島との往来に適した北部九州に位置する。</p>
+
+
+
+<p>〈縄文晩期に､渡来人によってもたらされた稲作は、日本列島に広がり、社会を変えた。人口が増加するばかりではなく、食糧の移動に便利な稲は、村と村との結びつきを強くしたし、富や権力の集中をもたらして、都市や王権が生まれたのである。そして、都市や王権は、今日の国家の枠組みにも繋がるから、大規模農耕から国家が生まれたと考えることもできる〉</p>
+
+
+
+<p>〈北部九州に、朝鮮半島や中国の華南地方からもたらされた稲作は、技術、技術者、耕作道具も含めた、いわばプラント輸出にあたるものである〉</p>
+
+
+
+<p>その稲作は、ゆっくり時間をかけて北上し、現在の青森県の垂柳遺跡（田舎館村）、砂沢遺跡（弘前市）まで伝播する。そうした稲作の北上には、技術だけでなく、技術者や耕作道具など現在のプラント輸出のような交流があったのだと知ると、途端に賑やかな古代社会が脳裏に浮かびあがってきて、楽しくなってくる。</p>
+
+
+
+
+<!-- widget_ID pc_article_above_1st_h2 -->
+<h2>神話の時代から「稲」は特別な穀物だった</h2>
+
+
+
+<p>こうして広まっていった稲作はやがて国家が管理するようになり、「稲」が特別な存在になっていく。前出の『教会と千歳飴』には、『日本書紀』に描かれたエピソードが紹介されている。</p>
+
+
+
+<p>〈天熊人（あまのくまひと）が保食神（うけもちのかみ）の死体から食物の種を持ち帰る話が記されている。食物の種を天熊人が持ち帰ったことに、天照大神が大いに喜んだのはいうまでもない。そこで、天照大神は、持ち帰った種のうち「粟、稗、麦、豆」は「陸田種子（はたけつものたね）」とし、「稲」を「水田種子（たなつものたね）」と定めたというのである。注意しなくてはならないのは、陸稲もあるのに水田稲作のみが、天照大神によって特別扱いされていることである。（中略）同じ食べ物でも、他の雑穀や豆と扱いが全く違うのは、国家が水田で育てられた稲と、その収穫物である米によって成り立っているとの観念があったからである〉</p>
+
+
+
+<p>同じ穀物でも「稲」以外の穀物は「雑穀」としてひとくくりにされているが、そのルーツは『日本書紀』に見いだせる。水田は特別という考えも『古事記』や『日本書紀』に明確に記されている――。</p>
+
+
+
+<p>〈古代社会では、日常生活で犯してはならない罪を二つに分類していた。ひとつは「天つ罪」。これは、国家や朝廷、さらには国家や朝廷の政を妨害する行為で（中略）農業に対する「天つ罪」はすべて、水田稲作への妨害行為なのである〉</p>
+
+
+
+<p>〈水田稲作は、大規模な土木工事を伴うものであり、土木工事を通して生産を上げてゆくシステムである。したがって、「水田」の施設を壊す行為は、国に対する反逆と見なされたのである〉</p>
+
+
+
+<p>『古事記』『日本書紀』には、池を作ったという記事が多い。例えば、崇神天皇の御代に出された詔（みことのり）。</p>
+
+
+
+<p>〈「農は国家の大きな基である。民が生きてゆく拠りどころである。今、河内の狭山の埴田には水が少ない。そのためその国の百姓は農事を怠っている。そこで灌漑用の池・溝をたくさん掘って、民の業を広めさせよ｣と仰せられた〉（『新編日本古典文学全集　日本書紀１』より引用）</p>
+
+
+
+<p>池を作り水田を増やすことは、国家プロジェクトだったのである。</p>
+
+
+
+<p>神話の時代から穀物の中で、「稲」が特別に扱われていた歴史が、『教会と千歳飴』の中で浮き彫りになる。</p>
+
+
+
+<p>現在でも11月23日には、天皇陛下が米など新穀の収穫を感謝する新嘗祭が執り行なわれている。昭和天皇が始められた宮城内での田植えと収穫は、平成、令和と受け継がれ、皇室の新たな伝統として根付いている。佐賀県唐津市の菜畑遺跡から始まったといわれる我が国の稲作の歴史は、日本の歴史そのものなのである。</p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="https://serai.jp/wp-content/uploads/2021/07/0469c0fb5dc3fe926470579ae889e12b.jpg" alt="" class="wp-image-1034425" width="134" height="200" srcset="https://serai.jp/wp-content/uploads/2021/07/0469c0fb5dc3fe926470579ae889e12b.jpg 467w, https://serai.jp/wp-content/uploads/2021/07/0469c0fb5dc3fe926470579ae889e12b-334x500.jpg 334w" sizes="(max-width: 134px) 100vw, 134px" /></figure></div>
+
+
+
+<p class="has-small-font-size"><br>上野誠（うえの・まこと）／1960年福岡県生まれ。國學院大學大学院文学研究科博士課程後期単位取得満期退学。博士（文学）。奈良大学教授を経て、2021年４月より國學院大學文学部教授（特別選任）。研究テーマは、万葉挽歌の史的研究と万葉文化論。日本民俗学会研究奨励賞、上代文学会賞、角川財団学芸賞などを受賞。『折口信夫　魂の古代学』『万葉文化論』『日本人にとって聖なるものとは何か――神と自然の古代学』『万葉集講義　最古の歌集の素顔』『万葉学者、墓をしまい母を送る』など著書多数。<br><br><br></p>
+
+
+
+<p class="has-text-align-center"><br>『教会と千歳飴　日本文化、知恵の創造力』</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="352" height="499" src="https://serai.jp/wp-content/uploads/2021/07/41xoBt6mZAL._SX350_BO1204203200_.jpg" alt="" class="wp-image-1034429"/><figcaption><br>万葉学者の上野誠さんが、日本の文化と歴史を身近な出来事を交えながらわかりやすく解説する。</figcaption></figure></div>
+
+
+
+<center><p><a href="https://www.amazon.co.jp/%E6%95%99%E4%BC%9A%E3%81%A8%E5%8D%83%E6%AD%B3%E9%A3%B4-%E6%97%A5%E6%9C%AC%E6%96%87%E5%8C%96%E3%80%81%E7%9F%A5%E6%81%B5%E3%81%AE%E5%89%B5%E9%80%A0%E5%8A%9B-%E4%B8%8A%E9%87%8E-%E8%AA%A0/dp/4093888159" target="_blank" rel="noopener nofollow"><img loading="lazy" src="https://serai.jp/wp-content/uploads/2020/10/button_amazon.png" alt="Amazonで商品詳細を見る" width="200" height="32" class="aligncenter wp-image-1007812"><img loading="lazy" src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3550985&amp;pid=886774584" height="1" width="0" border="0" style="margin-top:-30px"></a></p></center>
+
+
+
+<center><p><a href="https://books.rakuten.co.jp/rb/16667699/" target="_blank" rel="noopener nofollow"><img loading="lazy" src="https://serai.jp/wp-content/uploads/2020/10/button_rakuten.png" alt="楽天市場で商品詳細を見る" width="200" height="32" class="aligncenter wp-image-1007814"></a></p></center>
+<div id="finish_reading_sgk" style="height:1px;width:1px;"></div>                  </div><!-- /.post_content--body -->
+        
+<!-- widget_ID pc_article_above_sns_button -->
+        <div class="post_content--share">
+          <img width="613" height="500" src="https://serai.jp/wp-content/uploads/2021/07/bd2ef0930fe53a3b13a5d8b607c17757.jpg" class="post_content--share--thumbnail" alt="" loading="lazy" srcset="https://serai.jp/wp-content/uploads/2021/07/bd2ef0930fe53a3b13a5d8b607c17757.jpg 613w, https://serai.jp/wp-content/uploads/2021/07/bd2ef0930fe53a3b13a5d8b607c17757-500x408.jpg 500w" sizes="(max-width: 613px) 100vw, 613px" />          <div class="post_content--share--content">
+            <div class="post_content--share--content-copy">
+              <span class="post_content--share--phrase">この記事が気に入ったら<br class="visible-sp">いいね！しよう</span>
+              <iframe class="post_content--share--good" src="https://www.facebook.com/plugins/like.php?href=https://serai.jp/hobby/1034423&width=80&layout=button&action=like&size=small&share=false&height=65&appId" width="80" height="20" style="border:none;overflow:hidden" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+            </div>
+            <ul class="post_content--list post_content--share--sns">
+              <li class="post_content--share--sns-item">
+                <a class="post_content--link" href="http://www.facebook.com/share.php?u=https://serai.jp/hobby/1034423" target="_blank"><img class="post_content--share--sns-item_icon" src="https://serai.jp/wp-content/themes/serai2020/assets/images/icon_fb.png" alt="FaceBook" width="36px" height="36px">
+                  <span class="post_content--share--sns-item_text">シェア</span>
+                </a>
+              </li>
+              <li class="post_content--share--sns-item">
+                <a class="post_content--link" href="http://twitter.com/share?url=https://serai.jp/hobby/1034423&text=「日本人はなぜお米を主食としたのか？」から考える古代日本の成り立ち" target="_blank"><img class="post_content--share--sns-item_icon" src="https://serai.jp/wp-content/themes/serai2020/assets/images/icon_x.png" alt="Twitter" width="36px" height="36px">
+                  <span class="post_content--share--sns-item_text">ポスト</span>
+                </a>
+              </li>
+              <li class="post_content--share--sns-item">
+                <a class="post_content--link" href="http://line.me/R/msg/text/?「日本人はなぜお米を主食としたのか？」から考える古代日本の成り立ち%0D%0Ahttps://serai.jp/hobby/1034423" target="_blank"><img class="post_content--share--sns-item_icon" src="https://serai.jp/wp-content/themes/serai2020/assets/images/icon_line.png" alt="LINE" width="36px" height="36px">
+                  <span class="post_content--share--sns-item_text">シェア</span>
+                </a>
+              </li>
+              <li class="post_content--share--sns-item">
+                <a class="post_content--link" href="http://b.hatena.ne.jp/add?mode=confirm&url=https://serai.jp/hobby/1034423?text_=「日本人はなぜお米を主食としたのか？」から考える古代日本の成り立ち" target="_blank"><img class="post_content--share--sns-item_icon" src="https://serai.jp/wp-content/themes/serai2020/assets/images/icon_hatena.png" alt="はてなブックマーク" width="36px" height="36px">
+                  <span class="post_content--share--sns-item_text">ブックマーク</span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        
+<!-- widget_ID pc_article_below_sns_button -->
+        <div class="post_content--pagination">
+          <a href="https://serai.jp/living/1030639" rel="prev"><span>子どもに自己肯定感を持たせるために知っておくべきこと 【子どもを医者にした親たちが幼少期にしていたこと】4</span></a><a href="https://serai.jp/hobby/1034571" rel="next"><span>「目深」、正しく読めますか？「めぶか」ではありません【脳トレ漢字56】</span></a>        </div><!-- IEでの表示崩れを防ぐためspanを配置 -->
+              </section><!-- /.post_content -->
+
+      <p>&nbsp;</p>
+<!-- widget_ID pc_article_below_prevnext -->
+<div class="post_content--ad_area">
+
+
+<div class="widget_text post_content--ad_area-widget use--ad visible-pc">
+<div class="textwidget custom-html-widget">
+
+<!-- 【サライ】new-PC／ボトム左レクタングル 300x250 記事ページ 配信タグ start -->
+<!-- /18319668/serai-new-pc/serai-new-pc//rectangle-bottomleft_300x250_article -->
+
+<div id='div-gpt-ad-1520176909994-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1520176909994-0'); });
+</script>
+</div>
+<!-- 【サライ】new-PC／ボトム左レクタングル 300x250 記事ページ 配信タグ end -->
+
+</div>
+</div><div class="widget_text post_content--ad_area-widget use--ad visible-pc">
+<div class="textwidget custom-html-widget">
+
+<!-- 【サライ】new-PC／ボトム右レクタングル 300x250 記事ページ 配信タグ start -->
+<!-- /18319668/serai-new-pc/serai-new-pc//rectangle-bottomright_300x250_article -->
+<div id='div-gpt-ad-1520177131274-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1520177131274-0'); });
+</script>
+</div>
+<!-- 【サライ】new-PC／ボトム右レクタングル 300x250 記事ページ 配信タグ end -->
+
+</div>
+</div></div>
+            <div class="post_content--ad_area">
+        <!-- サライ PCSP/ LOGLY 記事下タイアップ枠 start -->
+<!-- LOGLY_サライ_あわせて読みたい枠（ADNW3~6枠）_レスポンシブ -->
+<div id="logly-lift-4331436"></div>
+<div id="logly-lift-4331437"></div>
+<script>
+if (window.innerWidth < 767) {
+var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= "https://l.logly.co.jp/lift_widget.js?adspot_id=4331437";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+} else {
+var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= "https://l.logly.co.jp/lift_widget.js?adspot_id=4331436";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+}
+</script>
+<!-- サライ PCSP/ LOGLY 記事下タイアップ枠 end -->      </div>
+                  <div class="post_content--related_articles">
+        <h2 class="post_content--related_articles-title">関連記事</h2>
+        <div class="category_articles--card--wrapper">
+                              <div class="category_articles--card">
+            <div class="category_articles--card--thumbnail">
+              <a class="category_articles--link" href="https://serai.jp/hobby/1034438">
+                <img width="700" height="601" src="https://serai.jp/wp-content/uploads/2021/07/10000000000000135787_20210723095827019669_P210713000606.jpg" class="attachment-size7 size-size7 wp-post-image" alt="" loading="lazy" srcset="https://serai.jp/wp-content/uploads/2021/07/10000000000000135787_20210723095827019669_P210713000606.jpg 700w, https://serai.jp/wp-content/uploads/2021/07/10000000000000135787_20210723095827019669_P210713000606-500x429.jpg 500w, https://serai.jp/wp-content/uploads/2021/07/10000000000000135787_20210723095827019669_P210713000606-640x549.jpg 640w" sizes="(max-width: 700px) 100vw, 700px" />                              </a>
+            </div>
+                        <div class="category_articles--card_content">
+              <a class="category_articles--card--category category_articles--link" href="https://serai.jp/hobby">趣味･教養</a>
+              <a class="category_articles--card--title category_articles--link" href="https://serai.jp/hobby/1034438">コロナ禍を｢国民へのお願い｣だけで乗り切…</a>
+              <ul class="category_articles--tag">
+                <li class="post_content--meta--tag-item"><a href="https://serai.jp/tag/%e6%95%99%e4%bc%9a%e3%81%a8%e5%8d%83%e6%ad%b3%e9%a3%b4" rel="tag">教会と千歳飴</a></li>              </ul>
+              <div class="category_articles--date" datetime="2021-07-30T13:55:32+09:00">2021/8/1</div>
+            </div>
+          </div>
+                                      </div><!-- /.category_articles--card--wrapper -->
+      </div><!-- /.post_content--related_articles -->
+                          
+    </div><!-- /.excursion_area--left -->
+    <div class="excursion_area--right">
+      <!-- 【サライ】new-PC／右カラムミドルレクタングルB 300x250 全ページ 配信タグ start -->
+<!-- /18319668/serai-new-pc/serai-new-pc//rectangle-premium_300x250_all -->
+<div id='div-gpt-ad-1520174795432-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1520174795432-0'); });
+</script>
+</div>
+<!-- 【サライ】new-PC／右カラムミドルレクタングルB 300x250 全ページ 配信タグ end -->
+<!-- widget_ID pc_article_rnavi_above_ranking -->
+<section class="side_articles side_articles-archives">
+    <h2 class="side_articles-archives--title testpre">ランキング</h2>
+    <div class="side_articles--rank">
+        <div class="side_articles--card">
+                      <div class="side_articles--card--thumbnail">
+                <a class="side_articles--link" href="https://serai.jp/hobby/1250338">
+                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/1000003024.jpg" alt="" loading="lazy">
+                                    </a>
+            </div>
+            <div class="side_articles--card--content">
+                <a class="side_articles--card--category side_articles--link visible-sp" href="https://serai.jp/hobby">趣味･教養</a>
+                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1250338">弟を主人公にしただけで新鮮な物語に昇華。大河ドラマ『豊臣…</a>
+                <div class="side_articles--card--date">2025/12/21</div>
+            </div>
+            <span class="side_articles--rank-no">No.</span>
+        </div>
+        <div class="side_articles--card">
+          <span class="use--new">NEW</span>            <div class="side_articles--card--thumbnail">
+                <a class="side_articles--link" href="https://serai.jp/hobby/1249076">
+                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/e0ebebfd6cc85854d9aa4620a9f7c6db.jpeg" alt="" loading="lazy">
+                                    </a>
+            </div>
+            <div class="side_articles--card--content">
+                <a class="side_articles--card--category side_articles--link visible-sp" href="https://serai.jp/hobby">趣味･教養</a>
+                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1249076">「頌春」の正しい読み方とは？ 年賀状で使う新春の賀詞です…</a>
+                <div class="side_articles--card--date">2025/12/27</div>
+            </div>
+            <span class="side_articles--rank-no">No.</span>
+        </div>
+<!-- サライ PCSP/ LOGLY ランキング枠_2位と3位の間 start -->
+<!-- LOGLY_サライ_ランキング枠_2・3位の間 -->
+<div id="logly-lift-4331432"></div>
+<div id="logly-lift-4331434"></div>
+<script>
+if (window.innerWidth < 767) {
+var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= "https://l.logly.co.jp/lift_widget.js?adspot_id=4331434";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+} else {
+var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= "https://l.logly.co.jp/lift_widget.js?adspot_id=4331432";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+}
+</script>
+<!-- サライ PCSP/ LOGLY ランキング枠_2位と3位の間 end -->        <div class="side_articles--card">
+                      <div class="side_articles--card--thumbnail">
+                <a class="side_articles--link" href="https://serai.jp/hobby/1250346">
+                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/40c3c413cdf621e1cef005ec67f7d434.jpg" alt="" loading="lazy">
+                                    </a>
+            </div>
+            <div class="side_articles--card--content">
+                <a class="side_articles--card--category side_articles--link visible-sp" href="https://serai.jp/hobby">趣味･教養</a>
+                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1250346">見どころ満載の『べらぼう』総集編、尺は足りるのか？ 後に…</a>
+                <div class="side_articles--card--date">2025/12/21</div>
+            </div>
+            <span class="side_articles--rank-no">No.</span>
+        </div>
+        <div class="side_articles--card">
+          <span class="use--new">NEW</span>            <div class="side_articles--card--thumbnail">
+                <a class="side_articles--link" href="https://serai.jp/hobby/1251131">
+                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/4848538_s.jpg" alt="" loading="lazy">
+                                    </a>
+            </div>
+            <div class="side_articles--card--content">
+                <a class="side_articles--card--category side_articles--link visible-sp" href="https://serai.jp/hobby">趣味･教養</a>
+                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1251131">ホトトギス、ウソ、トラツグミ……日本史に小さな足跡を残し…</a>
+                <div class="side_articles--card--date">2026/01/01</div>
+            </div>
+            <span class="side_articles--rank-no">No.</span>
+        </div>
+<!-- サライ PCSP/ LOGLY ランキング枠_4位と5位の間 start -->
+<!-- LOGLY_サライ_ランキング枠_4・5位の間 -->
+<div id="logly-lift-4331433"></div>
+<div id="logly-lift-4331435"></div>
+<script>
+if (window.innerWidth < 767) {
+var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= "https://l.logly.co.jp/lift_widget.js?adspot_id=4331435";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+} else {
+var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= "https://l.logly.co.jp/lift_widget.js?adspot_id=4331433";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+}
+</script>
+<!-- サライ PCSP/ LOGLY ランキング枠_4位と5位の間 end -->        <div class="side_articles--card">
+                      <div class="side_articles--card--thumbnail">
+                <a class="side_articles--link" href="https://serai.jp/hobby/1249777">
+                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/ac68c35cd805a4b8c092c3e69d3c59db.jpg" alt="" loading="lazy">
+                                    </a>
+            </div>
+            <div class="side_articles--card--content">
+                <a class="side_articles--card--category side_articles--link visible-sp" href="https://serai.jp/hobby">趣味･教養</a>
+                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1249777">蔦重の松坂旅行。最終回に登場した本居宣長は、大河ドラマ『…</a>
+                <div class="side_articles--card--date">2025/12/14</div>
+            </div>
+            <span class="side_articles--rank-no">No.</span>
+        </div>
+    </div>
+</section>
+
+<!-- widget_ID pc_article_rnavi_below_ranking -->
+<div class="excursion_area--right-widget">
+      <section>
+        <div class="latest_book js-copyToSpMenu">
+          <div class="latest_book--head">
+            <p class="latest_book--title">サライ最新号<br class="visible-sp">
+              <span class="latest_book--year">2026年</span><br class="visible-sp">
+              <span class="latest_book--number">1</span>月号
+            </p>
+            <p class="latest_book--thumbnail">
+              <img class="latest_book--thumbnail_img" src="https://serai.jp/wp-content/uploads/2025/11/e8d76ee8f8a1a300f8ae185aaa85b59b.jpg" alt="サライ最新号" loading="lazy"  width="188" height="255">
+            </p>
+          </div>
+          <nav class="latest_book--nav">
+            <ul class="latest_book--nav_list">
+              <li class="latest_book--nav_item"><a class="latest_book--nav_link" href="https://shogakukan.tameshiyo.me/4912142110164" target="_blank" >試し読み</a></li>
+              <li class="latest_book--nav_item"><a class="latest_book--nav_link" href="https://skygarden.shogakukan.co.jp/skygarden/owa/tk_books?bid=95&sha=1&zou=0" target="_blank" >定期購読</a></li>
+            </ul>
+          </nav>
+
+          
+        </div>
+      </section>
+
+    </div>
+<!-- widget_ID pc_article_rnavi_above_hotkeyword -->
+<section class="keyword--wrapper keyword--wrapper-side">
+    <h2 class="keyword--title keyword--title-side">人気のキーワード</h2>
+    <ul class="keyword">
+
+                <li class="keyword--item"><a class="keyword--item-text keyword--item-text-side" href="https://serai.jp/tag/%e3%81%b9%e3%82%89%e3%81%bc%e3%81%86">べらぼう</a></li>
+                <li class="keyword--item"><a class="keyword--item-text keyword--item-text-side" href="https://serai.jp/tag/%e3%82%af%e3%83%ab%e3%83%9e">クルマ</a></li>
+                <li class="keyword--item"><a class="keyword--item-text keyword--item-text-side" href="https://serai.jp/tag/%e3%83%9a%e3%83%83%e3%83%88">ペット</a></li>
+                <li class="keyword--item"><a class="keyword--item-text keyword--item-text-side" href="https://serai.jp/tag/%e6%b8%9b%e5%a1%a9%e3%83%ac%e3%82%b7%e3%83%94">減塩レシピ</a></li>
+                <li class="keyword--item"><a class="keyword--item-text keyword--item-text-side" href="https://serai.jp/tag/%e3%83%9e%e3%83%8d%e3%83%bc">マネー</a></li>
+                <li class="keyword--item"><a class="keyword--item-text keyword--item-text-side" href="https://serai.jp/tag/%e8%aa%8d%e7%9f%a5%e7%97%87">認知症</a></li>
+                <li class="keyword--item"><a class="keyword--item-text keyword--item-text-side" href="https://serai.jp/tag/%e5%ae%9a%e5%b9%b4%e5%be%8c%e3%81%ae%e6%ad%a9%e3%81%8d%e6%96%b9">定年後の歩き方</a></li>
+                <li class="keyword--item"><a class="keyword--item-text keyword--item-text-side" href="https://serai.jp/tag/%e8%80%81%e4%ba%ba%e3%83%9b%e3%83%bc%e3%83%a0">老人ホーム</a></li>
+                <li class="keyword--item"><a class="keyword--item-text keyword--item-text-side" href="https://serai.jp/tag/%e4%ba%ac%e9%83%bd">京都</a></li>
+                <li class="keyword--item"><a class="keyword--item-text keyword--item-text-side" href="https://serai.jp/tag/%e6%bc%a2%e6%96%b9">漢方</a></li>
+    
+    </ul>
+</section>
+
+<!-- widget_ID pc_article_rnavi_below_hotkeyword -->
+
+    <section class="side_articles side_articles-archives">
+      <h2 class="side_articles-archives--title">新着記事</h2>
+
+      
+      <div class="side_articles--card">
+
+        <span class="use--new">NEW</span>
+        <div class="side_articles--card--thumbnail">
+          <a class="side_articles--link" href="https://serai.jp/hobby/1251420">
+            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/20ce1c866c4acaa5fff47dbce208a3f0.jpeg" alt="" loading="lazy">
+                      </a>
+
+
+        </div>
+        <div class="side_articles--card--content">
+          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1251420">
+
+            豊臣秀吉と秀長の姉・ともとは？ 関白・秀…
+          </a>
+          <div class="side_articles--card--date">2026/01/03</div>
+        </div>
+      </div><!-- /.side_articles--card -->
+      
+      <div class="side_articles--card">
+
+        <span class="use--new">NEW</span>
+        <div class="side_articles--card--thumbnail">
+          <a class="side_articles--link" href="https://serai.jp/tour/1248719">
+            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/09952512000370000001-0001.jpg" alt="" loading="lazy">
+                      </a>
+
+
+        </div>
+        <div class="side_articles--card--content">
+          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/tour/1248719">
+
+            古墳を歩けば、古代史がわかる！６世紀～７…
+          </a>
+          <div class="side_articles--card--date">2026/01/03</div>
+        </div>
+      </div><!-- /.side_articles--card -->
+      
+      <div class="side_articles--card">
+
+        <span class="use--new">NEW</span>
+        <div class="side_articles--card--thumbnail">
+          <a class="side_articles--link" href="https://serai.jp/event/1250619">
+            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/1fbd587f0ef3846321145294971b5c75-1-e1766368491924.jpg" alt="" loading="lazy">
+                      </a>
+
+
+        </div>
+        <div class="side_articles--card--content">
+          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/event/1250619">
+
+            そうそう、昔いた、こんなおじいちゃん・お…
+          </a>
+          <div class="side_articles--card--date">2026/01/03</div>
+        </div>
+      </div><!-- /.side_articles--card -->
+      
+      <div class="side_articles--card">
+
+        <span class="use--new">NEW</span>
+        <div class="side_articles--card--thumbnail">
+          <a class="side_articles--link" href="https://serai.jp/hobby/1250571">
+            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/1176a2445a547930b28e2f425f392e36.jpeg" alt="" loading="lazy">
+                      </a>
+
+
+        </div>
+        <div class="side_articles--card--content">
+          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1250571">
+
+            「快哉」の正しい読み方とは？  胸のすく…
+          </a>
+          <div class="side_articles--card--date">2026/01/03</div>
+        </div>
+      </div><!-- /.side_articles--card -->
+      
+      <div class="side_articles--card">
+
+        <span class="use--new">NEW</span>
+        <div class="side_articles--card--thumbnail">
+          <a class="side_articles--link" href="https://serai.jp/hobby/1251032">
+            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/IMG_1270.jpg" alt="" loading="lazy">
+                      </a>
+
+
+        </div>
+        <div class="side_articles--card--content">
+          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1251032">
+
+            【小泉八雲と夏目漱石、そして妻たちとの不…
+          </a>
+          <div class="side_articles--card--date">2026/01/03</div>
+        </div>
+      </div><!-- /.side_articles--card -->
+            <div class="side_articles--button"><a class="side_articles--button-text side_articles--link" href="/archives">記事一覧へ</a></div>
+    </section>
+<!-- 【サライ】new-PC／右カラムミドルレクタングルA 300x250 全ページ 配信タグ start -->
+<!-- /18319668/serai-new-pc/serai-new-pc//rectangle-rightcolumnmiddle_300x250_all -->
+<div id='div-gpt-ad-1520175338609-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1520175338609-0'); });
+</script>
+</div>
+<!-- 【サライ】new-PC／右カラムミドルレクタングルA 300x250 全ページ 配信タグ end-->
+<!-- widget_ID pc_article_rnavi_above_pickup -->
+    <section class="side_articles side_articles-pickup">
+      <h2 class="side_articles-pickup--title">ピックアップ</h2>
+      <div class="side_articles--rank">
+
+    <!-- サライ PCSP/ LOGLY 記事内ピックアップ枠 start -->
+<!-- LOGLY_サライ_記事内ピックアップ枠_レスポンシブ -->
+<div id="logly-lift-4331430"></div>
+<div id="logly-lift-4331431"></div>
+<script>
+if (window.innerWidth < 767) {
+var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= "https://l.logly.co.jp/lift_widget.js?adspot_id=4331431";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+} else {
+var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= "https://l.logly.co.jp/lift_widget.js?adspot_id=4331430";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+}
+</script>
+<!-- サライ PCSP/ LOGLY 記事内ピックアップ枠 end -->
+      </div>
+      <div class="side_articles--button">
+              <a class="side_articles--button-text side_articles--link" href="/pr">記事一覧へ</a>
+            </div>
+    </section>
+    
+<!-- widget_ID pc_article_rnavi_below_pickup -->
+  <div class="excursion_area--right-widget">
+      <section class="premium_club-side visible-pc">
+        <h2 class="premium_club-side--title">サライプレミアム倶楽部</h2>
+        <p class="premium_club-side--read">最新記事のお知らせ、イベント、読者企画、豪華プレゼントなどへの応募情報をお届けします。</p>
+        <div class="premium_club--button">
+          <a class="premium_club--button-text" href="/club">詳しくはこちら</a>
+        </div>
+      </section>
+
+    </div>	<section class="side_articles visible-pc">
+		<h2 class="side_articles--title side_articles--sns-title">公式SNS</h2>
+		<p>サライ公式SNSで最新情報を配信中！</p>
+		<div class="side_articles--sns--content">
+			<ul class="side_articles--sns--list">
+				<li class="side_articles--sns-item"><a class="post_content--link" href="https://www.facebook.com/serai.jp" target="_blank"><img src="https://serai.jp/wp-content/themes/serai2020/assets/images/icon_fb.png" alt="Facebook" width="48" height="48"></a></li>
+				<li class="side_articles--sns-item"><a class="post_content--link" href="https://twitter.com/seraijp" target="_blank"><img src="https://serai.jp/wp-content/themes/serai2020/assets/images/icon_x.png" alt="Twitter" width="48" height="48"></a></li>
+				<li class="side_articles--sns-item"><a class="post_content--link" href="https://www.instagram.com/seraijp/" target="_blank"><img src="https://serai.jp/wp-content/themes/serai2020/assets/images/icon_insta.png" alt="Instagram" width="48" height="48"></a></li>
+				<li class="side_articles--sns-item"><a class="post_content--link" href="https://line.me/R/ti/p/%40oa-serai" target="_blank"><img src="https://serai.jp/wp-content/themes/serai2020/assets/images/icon_line.png" alt="LINE" width="48" height="48"></a></li>
+			</ul>
+		</div>
+	</section>
+<div class="widget_text excursion_area--right-widget"><div class="textwidget custom-html-widget"><p class="js-copyToSpMenu sp-menu--inner" style="font-size: 1.3rem;"><!-- お詫びメッセージ  --></p></div></div><div class="excursion_area--right-widget"><section class="side_articles">
+    <h2 class="side_articles--title">小学館百貨店<span class="side_articles--title-en">Online Store</span></h2>
+    <div class="side_articles--online_store"><img class="side_articles--online_store--catalog" src="https://serai.jp/wp-content/uploads/2023/11/blog_ippin_sarai-4.jpg" alt="通販別冊" loading="lazy" width="300" height="250">
+        <div class="side_articles--online_store--content"><span class="side_articles--online_store--heading">通販別冊</span>
+            <p class="side_articles--online_store--copy">心に響き長く愛せるモノだけを厳選した通販メディア</p>
+            <div class="side_articles--online_store--button">
+                <a class="side_articles--online_store--button-text side_articles--link" href="https://www.pal-shop.jp/ippin/" target="_blank">通販サイトへ</a>
+            </div>
+        </div>
+    </div>
+</section>
+</div><div class="excursion_area--right-widget"><section class="side_articles"><h2 class="widgettitle">サライの通販商品</h2>
+
+  <div class="side_articles--card">
+    <div class="side_articles--card--thumbnail">
+        <a class="side_articles--link" href="https://serai.jp/shop/1103635">
+          <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2022/12/A75313928_0b.jpg" alt="" loading="lazy">
+                  </a>
+    </div>
+        <div class="side_articles--card--content"><a class="side_articles--card--title side_articles--link" href="https://serai.jp/shop/1103635">木製花器「きゅうと」艶消し塗装敷板セット…</a>
+    <div class="side_articles--card--date">2025/09/30</div></div>
+</div>
+  <div class="side_articles--card">
+    <div class="side_articles--card--thumbnail">
+        <a class="side_articles--link" href="https://serai.jp/shop/1140971">
+          <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2023/07/A93763039_0b.jpg" alt="" loading="lazy">
+                  </a>
+    </div>
+        <div class="side_articles--card--content"><a class="side_articles--card--title side_articles--link" href="https://serai.jp/shop/1140971">収納量も高級革素材も秀逸な超薄型財布「カ…</a>
+    <div class="side_articles--card--date">2025/07/22</div></div>
+</div>
+  <div class="side_articles--card">
+    <div class="side_articles--card--thumbnail">
+        <a class="side_articles--link" href="https://serai.jp/shop/1199026">
+          <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2022/06/A75207906_0b.jpg" alt="" loading="lazy">
+                  </a>
+    </div>
+        <div class="side_articles--card--content"><a class="side_articles--card--title side_articles--link" href="https://serai.jp/shop/1199026">天然ゴムの良質なしなやかさと、堅牢な作り…</a>
+    <div class="side_articles--card--date">2025/06/16</div></div>
+</div>
+  <div class="side_articles--card">
+    <div class="side_articles--card--thumbnail">
+        <a class="side_articles--link" href="https://serai.jp/shop/357875">
+          <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2019/03/A75904001_0b-500x400.jpg" alt="" loading="lazy">
+                  </a>
+    </div>
+        <div class="side_articles--card--content"><a class="side_articles--card--title side_articles--link" href="https://serai.jp/shop/357875">イギリスに学び日本で生まれた「究極の鞄」…</a>
+    <div class="side_articles--card--date">2025/06/02</div></div>
+</div>
+  <div class="side_articles--card">
+    <div class="side_articles--card--thumbnail">
+        <a class="side_articles--link" href="https://serai.jp/shop/1077694">
+          <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2022/06/A75207003_0b.jpg" alt="" loading="lazy">
+                  </a>
+    </div>
+        <div class="side_articles--card--content"><a class="side_articles--card--title side_articles--link" href="https://serai.jp/shop/1077694">本を持つ腕を支え読書が楽にできる「オリジ…</a>
+    <div class="side_articles--card--date">2025/05/29</div></div>
+</div>
+
+<div class="side_articles--button"><a class="side_articles--button-text side_articles--link" href="https://serai.jp/shop">記事一覧へ</a></div>
+</section></div><div class="excursion_area--right-widget"><h2 class="widgettitle">市毛良枝『百歳の景色見たいと母は言い』</h2>
+<a href="https://serai.jp/living/1247291"><img width="500" height="372" src="https://serai.jp/wp-content/uploads/2025/11/fc5fef05646f0fde6e75906c3a84da50-500x372.jpg" class="image wp-image-1247481  attachment-medium size-medium" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://serai.jp/wp-content/uploads/2025/11/fc5fef05646f0fde6e75906c3a84da50-500x372.jpg 500w, https://serai.jp/wp-content/uploads/2025/11/fc5fef05646f0fde6e75906c3a84da50-640x476.jpg 640w, https://serai.jp/wp-content/uploads/2025/11/fc5fef05646f0fde6e75906c3a84da50.jpg 1534w" sizes="(max-width: 500px) 100vw, 500px" /></a></div><div class="excursion_area--right-widget"><a href="https://www.shogakukan.co.jp/books/09682453"><img width="1441" height="1000" src="https://serai.jp/wp-content/uploads/2024/04/71ySFYyklBL._SL1441_.jpg" class="image wp-image-1182405  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://serai.jp/wp-content/uploads/2024/04/71ySFYyklBL._SL1441_.jpg 1441w, https://serai.jp/wp-content/uploads/2024/04/71ySFYyklBL._SL1441_-500x347.jpg 500w, https://serai.jp/wp-content/uploads/2024/04/71ySFYyklBL._SL1441_-640x444.jpg 640w" sizes="(max-width: 1441px) 100vw, 1441px" /></a></div><div class="excursion_area--right-widget"><a href="https://www.shogakukan.co.jp/books/09386711"><img width="1080" height="1080" src="https://serai.jp/wp-content/uploads/2024/01/469dfc234814a48d670280ddfb7d1653.png" class="image wp-image-1172772  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://serai.jp/wp-content/uploads/2024/01/469dfc234814a48d670280ddfb7d1653.png 1080w, https://serai.jp/wp-content/uploads/2024/01/469dfc234814a48d670280ddfb7d1653-500x500.png 500w, https://serai.jp/wp-content/uploads/2024/01/469dfc234814a48d670280ddfb7d1653-640x640.png 640w, https://serai.jp/wp-content/uploads/2024/01/469dfc234814a48d670280ddfb7d1653-150x150.png 150w, https://serai.jp/wp-content/uploads/2024/01/469dfc234814a48d670280ddfb7d1653-120x120.png 120w" sizes="(max-width: 1080px) 100vw, 1080px" /></a></div><div class="excursion_area--right-widget"><h2 class="widgettitle">花人日和（かじんびより）</h2>
+<a href="https://serai.jp/kajin"><img width="2560" height="1708" src="https://serai.jp/wp-content/uploads/2022/11/U5A_44311m-scaled.jpg" class="image wp-image-1098222  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://serai.jp/wp-content/uploads/2022/11/U5A_44311m-scaled.jpg 2560w, https://serai.jp/wp-content/uploads/2022/11/U5A_44311m-500x333.jpg 500w, https://serai.jp/wp-content/uploads/2022/11/U5A_44311m-640x427.jpg 640w, https://serai.jp/wp-content/uploads/2022/11/U5A_44311m-1536x1025.jpg 1536w, https://serai.jp/wp-content/uploads/2022/11/U5A_44311m-2048x1366.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a></div><div class="excursion_area--right-widget"><h2 class="widgettitle">和田秀樹　最新刊</h2>
+<a href="https://www.shogakukan.co.jp/books/09389117"><img width="500" height="309" src="https://serai.jp/wp-content/uploads/2023/06/b8fd8da6-8e72-41af-bf8e-adf095ffdb76.__CR0029101800_PT0_SX970_V1___-500x309.jpg" class="image wp-image-1137600  attachment-medium size-medium" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://serai.jp/wp-content/uploads/2023/06/b8fd8da6-8e72-41af-bf8e-adf095ffdb76.__CR0029101800_PT0_SX970_V1___-500x309.jpg 500w, https://serai.jp/wp-content/uploads/2023/06/b8fd8da6-8e72-41af-bf8e-adf095ffdb76.__CR0029101800_PT0_SX970_V1___-640x396.jpg 640w, https://serai.jp/wp-content/uploads/2023/06/b8fd8da6-8e72-41af-bf8e-adf095ffdb76.__CR0029101800_PT0_SX970_V1___.jpg 970w" sizes="(max-width: 500px) 100vw, 500px" /></a></div><div class="excursion_area--right-widget"><h2 class="widgettitle">75歳からの生き方ノート</h2>
+<a href="https://www.shogakukan.co.jp/books/09389100"><img width="500" height="309" src="https://serai.jp/wp-content/uploads/2023/02/36c82d99acdaa1959333b6364212caa4-500x309.jpg" class="image wp-image-1116505  attachment-medium size-medium" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://serai.jp/wp-content/uploads/2023/02/36c82d99acdaa1959333b6364212caa4-500x309.jpg 500w, https://serai.jp/wp-content/uploads/2023/02/36c82d99acdaa1959333b6364212caa4-640x396.jpg 640w, https://serai.jp/wp-content/uploads/2023/02/36c82d99acdaa1959333b6364212caa4.jpg 1000w" sizes="(max-width: 500px) 100vw, 500px" /></a></div><div class="excursion_area--right-widget"><a href="https://www.ringbell.co.jp/serai/"><img width="500" height="171" src="https://serai.jp/wp-content/uploads/2023/02/73605962b14c734daa62fed9f13ae79c-500x171.jpg" class="image wp-image-1116521  attachment-medium size-medium" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://serai.jp/wp-content/uploads/2023/02/73605962b14c734daa62fed9f13ae79c-500x171.jpg 500w, https://serai.jp/wp-content/uploads/2023/02/73605962b14c734daa62fed9f13ae79c-640x218.jpg 640w, https://serai.jp/wp-content/uploads/2023/02/73605962b14c734daa62fed9f13ae79c.jpg 996w" sizes="(max-width: 500px) 100vw, 500px" /></a></div><div class="excursion_area--right-widget"><a href="https://www.amazon.co.jp/%E9%80%86%E8%BB%A2%E3%81%AE%E6%88%A6%E5%9B%BD%E5%8F%B2-%E3%80%8C%E5%A4%A9%E6%89%8D%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E4%BF%A1%E9%95%B7%E3%80%81%E3%80%8C%E5%8F%9B%E8%87%A3%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E5%85%89%E7%A7%80-%E7%A0%82%E5%8E%9F-%E6%B5%A9%E5%A4%AA%E6%9C%97/dp/409386604X/?tag=vc-1-869-22&#038;linkCode=ure"><img width="317" height="318" src="https://serai.jp/wp-content/uploads/2020/12/2a39a78613973b5ab9d0ad44d83cdc7f.jpg" class="image wp-image-1013632  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://serai.jp/wp-content/uploads/2020/12/2a39a78613973b5ab9d0ad44d83cdc7f.jpg 317w, https://serai.jp/wp-content/uploads/2020/12/2a39a78613973b5ab9d0ad44d83cdc7f-150x150.jpg 150w" sizes="(max-width: 317px) 100vw, 317px" /></a></div>      <div class="visible-pc excursion_area--right-widget-recommend">
+        
+<!-- widget_ID pc_article_rnavi_site_banner -->
+                <div class="excursion_area--right-widget-recommend-title">おすすめのサイト</div>
+        <div class="excursion_area--right-widget excursion_area--recommend"><a href="https://dime.jp/" target="_blank" class="widget_sp_image-image-link"><img width="600" height="180" alt="dime" class="attachment-full" style="max-width: 100%;" srcset="https://serai.jp/wp-content/uploads/2020/12/dime_600x180.png 600w, https://serai.jp/wp-content/uploads/2020/12/dime_600x180-500x150.png 500w" sizes="(max-width: 600px) 100vw, 600px" loading="lazy" src="https://serai.jp/wp-content/uploads/2020/12/dime_600x180.png" /></a></div><div class="excursion_area--right-widget excursion_area--recommend"><a href="https://www.bepal.net/" target="_blank" class="widget_sp_image-image-link"><img width="600" height="180" alt="be-pal" class="attachment-full" style="max-width: 100%;" srcset="https://serai.jp/wp-content/uploads/2020/12/bepal_600x180.png 600w, https://serai.jp/wp-content/uploads/2020/12/bepal_600x180-500x150.png 500w" sizes="(max-width: 600px) 100vw, 600px" loading="lazy" src="https://serai.jp/wp-content/uploads/2020/12/bepal_600x180.png" /></a></div><div class="excursion_area--right-widget excursion_area--recommend"><a href="https://realkitchen-interior.com/" target="_blank" class="widget_sp_image-image-link"><img width="600" height="180" alt="リアルキッチン＆インテリア" class="attachment-full" style="max-width: 100%;" srcset="https://serai.jp/wp-content/uploads/2020/12/realkitchen_600x180.png 600w, https://serai.jp/wp-content/uploads/2020/12/realkitchen_600x180-500x150.png 500w" sizes="(max-width: 600px) 100vw, 600px" loading="lazy" src="https://serai.jp/wp-content/uploads/2020/12/realkitchen_600x180.png" /></a></div><div class="excursion_area--right-widget excursion_area--recommend"><a href="https://www.pal-shop.jp/depart/" target="_blank" class="widget_sp_image-image-link"><img width="600" height="180" alt="小学館百貨店" class="attachment-full" style="max-width: 100%;" srcset="https://serai.jp/wp-content/uploads/2022/11/shogakukan-dp_600x180.png 600w, https://serai.jp/wp-content/uploads/2022/11/shogakukan-dp_600x180-500x150.png 500w" sizes="(max-width: 600px) 100vw, 600px" loading="lazy" src="https://serai.jp/wp-content/uploads/2022/11/shogakukan-dp_600x180.png" /></a></div>      </div>
+      
+<!-- widget_ID pc_article_rnavi_below_site_banner -->
+    </div>
+  </div>
+    <aside class="premium_club-center"><a class="premium_club-center--link" href="/club">
+      <h2 class="premium_club-center--title">
+        <span class="premium_club-center--title-sub">メールマガジン会員募集中!!</span>
+        <span class="premium_club-center--title-main">サライプレミアム倶楽部</span>
+      </h2>
+      <p class="premium_club-center--read">新製品体験会や専門家によるセミナーなどのイベント、プレゼント企画にご参加・ご応募いただけます。</p>
+    </a>
+    <div class="premium_club-center--button premium_club--button visible-sp">
+      <a class="premium_club--button-text" href="/club">詳しくはこちら</a>
+    </div>
+  </aside>
+  <div class="visible-sp excursion_area--right-widget-recommend">
+            <div class="excursion_area--right-widget-recommend-title">おすすめのサイト</div>
+      <div class="excursion_area--right-widget excursion_area--recommend"><a href="https://dime.jp/" target="_blank" class="widget_sp_image-image-link"><img width="600" height="180" alt="dime" class="attachment-full" style="max-width: 100%;" srcset="https://serai.jp/wp-content/uploads/2020/12/dime_600x180.png 600w, https://serai.jp/wp-content/uploads/2020/12/dime_600x180-500x150.png 500w" sizes="(max-width: 600px) 100vw, 600px" loading="lazy" src="https://serai.jp/wp-content/uploads/2020/12/dime_600x180.png" /></a></div><div class="excursion_area--right-widget excursion_area--recommend"><a href="https://www.bepal.net/" target="_blank" class="widget_sp_image-image-link"><img width="600" height="180" alt="be-pal" class="attachment-full" style="max-width: 100%;" srcset="https://serai.jp/wp-content/uploads/2020/12/bepal_600x180.png 600w, https://serai.jp/wp-content/uploads/2020/12/bepal_600x180-500x150.png 500w" sizes="(max-width: 600px) 100vw, 600px" loading="lazy" src="https://serai.jp/wp-content/uploads/2020/12/bepal_600x180.png" /></a></div><div class="excursion_area--right-widget excursion_area--recommend"><a href="https://realkitchen-interior.com/" target="_blank" class="widget_sp_image-image-link"><img width="600" height="180" alt="リアルキッチン＆インテリア" class="attachment-full" style="max-width: 100%;" srcset="https://serai.jp/wp-content/uploads/2020/12/realkitchen_600x180.png 600w, https://serai.jp/wp-content/uploads/2020/12/realkitchen_600x180-500x150.png 500w" sizes="(max-width: 600px) 100vw, 600px" loading="lazy" src="https://serai.jp/wp-content/uploads/2020/12/realkitchen_600x180.png" /></a></div><div class="excursion_area--right-widget excursion_area--recommend"><a href="https://www.pal-shop.jp/depart/" target="_blank" class="widget_sp_image-image-link"><img width="600" height="180" alt="小学館百貨店" class="attachment-full" style="max-width: 100%;" srcset="https://serai.jp/wp-content/uploads/2022/11/shogakukan-dp_600x180.png 600w, https://serai.jp/wp-content/uploads/2022/11/shogakukan-dp_600x180-500x150.png 500w" sizes="(max-width: 600px) 100vw, 600px" loading="lazy" src="https://serai.jp/wp-content/uploads/2022/11/shogakukan-dp_600x180.png" /></a></div>    </div>
+  <span class="page_top"></span>
+</main><footer class="footer">
+  <div class="footer--top">
+    <div class="footer--inner">
+      <div class="footer--site_info">
+              <div class="footer--logo"><a class="footer--logo_link" href="https://serai.jp"><img class="footer--logo_img" src="https://serai.jp/wp-content/themes/serai2020/assets/images/logo_footer.png" alt="サライ.jp" width="190" height="42" loading="lazy"></a></div>
+        <p class="footer--text">サライ.jp｜小学館の雑誌『サライ』の公式サイトです。<br>歳を重ねてもアクティブに行動したい知的な高齢者シニア世代＝サライ世代の方々に向けたライフスタイル提案と旅・食・人物・歴史・文化・趣味・健康・モノ情報など上質な情報を発信しています。</p>
+      </div>
+      <ul class="footer--social visible-sp">
+        <li class="footer--social_item"><a class="footer--social_link" href="https://www.facebook.com/serai.jp/" target="_blank"><svg class="footer--social_svg" version="1.1" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewbox="0 0 1024 1024">
+          <g>
+            <path class="footer--social_svg_fb_circle" d="M1024,512C1024,229.23,794.77,0,512,0S0,229.23,0,512c0,255.55,187.23,467.37,432,505.78V660H302V512h130V399.2                C432,270.88,508.44,200,625.39,200C681.41,200,740,210,740,210v126h-64.56c-63.6,0-83.44,39.47-83.44,79.96V512h142l-22.7,148H592                v357.78C836.77,979.37,1024,767.55,1024,512z"></path>
+            <path class="footer--social_svg_fb_text" d="M711.3,660L734,512H592v-96.04c0-40.49,19.84-79.96,83.44-79.96H740V210c0,0-58.59-10-114.61-10                C508.44,200,432,270.88,432,399.2V512H302v148h130v357.78c26.07,4.09,52.78,6.22,80,6.22s53.93-2.13,80-6.22V660H711.3z"></path>
+          </g>
+        </svg></a></li>
+        <li class="footer--social_item"><a class="footer--social_link" href="https://twitter.com/seraijp" target="_blank"><svg class="footer--social_svg" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewbox="0 0 1200 1227">
+          <path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" />
+        </svg></a></li>
+        <li class="footer--social_item"><a class="footer--social_link" href="https://www.instagram.com/seraijp/" target="_blank"><svg class="footer--social_svg" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewbox="0 0 36 36">
+          <g transform="translate(-238 -238)">
+            <path d="M256,243.9c3.941,0,4.408.015,5.965.086a8.163,8.163,0,0,1,2.741.508,4.887,4.887,0,0,1,2.8,2.8,8.162,8.162,0,0,1,.508,2.741c.071,1.557.086,2.024.086,5.965s-.015,4.408-.086,5.965a8.162,8.162,0,0,1-.508,2.741,4.887,4.887,0,0,1-2.8,2.8,8.162,8.162,0,0,1-2.741.508c-1.557.071-2.023.086-5.965.086s-4.408-.015-5.965-.086a8.162,8.162,0,0,1-2.741-.508,4.887,4.887,0,0,1-2.8-2.8,8.163,8.163,0,0,1-.508-2.741c-.071-1.557-.086-2.024-.086-5.965s.015-4.408.086-5.965a8.163,8.163,0,0,1,.508-2.741,4.887,4.887,0,0,1,2.8-2.8,8.163,8.163,0,0,1,2.741-.508c1.557-.071,2.024-.086,5.965-.086m0-2.66c-4.009,0-4.512.017-6.086.089a10.84,10.84,0,0,0-3.583.686,7.555,7.555,0,0,0-4.317,4.317,10.84,10.84,0,0,0-.686,3.583c-.072,1.574-.089,2.077-.089,6.086s.017,4.512.089,6.086a10.84,10.84,0,0,0,.686,3.583,7.555,7.555,0,0,0,4.317,4.317,10.84,10.84,0,0,0,3.583.686c1.574.072,2.077.089,6.086.089s4.512-.017,6.086-.089a10.84,10.84,0,0,0,3.583-.686,7.555,7.555,0,0,0,4.317-4.317,10.84,10.84,0,0,0,.686-3.583c.072-1.574.089-2.077.089-6.086s-.017-4.512-.089-6.086a10.84,10.84,0,0,0-.686-3.583,7.555,7.555,0,0,0-4.317-4.317,10.84,10.84,0,0,0-3.583-.686c-1.574-.072-2.077-.089-6.086-.089Z"></path>
+            <path d="M256,248.42a7.58,7.58,0,1,0,7.58,7.58A7.58,7.58,0,0,0,256,248.42Zm0,12.5a4.92,4.92,0,1,1,4.92-4.92A4.92,4.92,0,0,1,256,260.92Z"></path>
+            <circle cx="1.771" cy="1.771" r="1.771" transform="translate(262.108 246.349)"></circle>
+          </g>
+          </svg></a></li>
+        <li class="footer--social_item"><a class="footer--social_link" href="https://line.me/R/ti/p/%40oa-serai" target="_blank"><svg class="footer--social_svg" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewbox="0 0 36 36">
+          <path d="M420.842,303.655h-5.051v-9.172a.516.516,0,0,0-.516-.516h-1.859a.515.515,0,0,0-.516.516v11.549a.518.518,0,0,0,.144.357l.007.007.007.007a.507.507,0,0,0,.356.144h7.429a.516.516,0,0,0,.516-.516v-1.86A.518.518,0,0,0,420.842,303.655Z" transform="translate(-412.9 -282.206)"></path>
+          <rect width="2.892" height="12.579" rx="0.233" transform="translate(10.048 11.762)"></rect>
+          <path d="M430.035,293.968h-1.859a.515.515,0,0,0-.516.516v6.861l-5.293-7.146a.544.544,0,0,0-.04-.053l0,0-.031-.031-.009-.009-.029-.022-.013-.011-.027-.018-.016-.011-.027-.015-.018-.007-.029-.013-.018,0-.029-.011-.02,0-.029-.007-.022,0-.027,0-.027,0h-1.877a.515.515,0,0,0-.516.516v11.549a.514.514,0,0,0,.516.514h1.859a.514.514,0,0,0,.516-.514v-6.86l5.3,7.157a.553.553,0,0,0,.131.128l0,0,.033.02.013.009.027.011.024.011.015.007.035.011h.007a.439.439,0,0,0,.133.018h1.859a.516.516,0,0,0,.516-.514V294.484A.516.516,0,0,0,430.035,293.968Z" transform="translate(-404.815 -282.206)"></path>
+          <path d="M433.284,293.968h-7.427a.511.511,0,0,0-.359.146l0,0-.009.009a.517.517,0,0,0-.144.356h0v11.549a.517.517,0,0,0,.144.357l.009.007.007.007a.507.507,0,0,0,.356.144h7.427a.515.515,0,0,0,.516-.516v-1.86a.516.516,0,0,0-.516-.516h-5.049V301.7h5.049a.515.515,0,0,0,.516-.516v-1.86a.515.515,0,0,0-.516-.516h-5.049v-1.953h5.049a.515.515,0,0,0,.516-.516v-1.86A.515.515,0,0,0,433.284,293.968Z" transform="translate(-397.8 -282.206)"></path>
+        </svg></a></li>
+        <li class="footer--social_item"><a class="footer--social_link" href="/feed" target="_blank"><svg class="footer--social_svg" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewbox="0 0 36 36">
+          <g transform="translate(-235 -234.996)">
+            <circle cx="3" cy="3" r="3" transform="translate(242 257.896)"></circle>
+            <path d="M252.523,266.065h4.208A14.751,14.751,0,0,0,242,251.333v4.21a10.536,10.536,0,0,1,10.523,10.522Z" transform="translate(0 -2.065)"></path>
+            <path d="M264,264a22.024,22.024,0,0,0-22-22v4.19A17.829,17.829,0,0,1,259.811,264Z" transform="translate(0 0)"></path>
+          </g>
+        </svg></a></li>
+      </ul>
+      <nav class="footer--category_nav">
+        <span class="footer--category_nav_title visible-pc">CATEGORY</span>
+        <ul class="footer--category_nav_list">
+                                  <li class="footer--category_nav_item"><a class="footer--category_nav_link" href="https://serai.jp/gourmet">美味</a></li>
+                        <li class="footer--category_nav_item"><a class="footer--category_nav_link" href="https://serai.jp/tour">旅行</a></li>
+                        <li class="footer--category_nav_item"><a class="footer--category_nav_link" href="https://serai.jp/hobby">趣味･教養</a></li>
+                        <li class="footer--category_nav_item"><a class="footer--category_nav_link" href="https://serai.jp/health">健康</a></li>
+                        <li class="footer--category_nav_item"><a class="footer--category_nav_link" href="https://serai.jp/living">生活</a></li>
+                        <li class="footer--category_nav_item"><a class="footer--category_nav_link" href="https://serai.jp/shop">小学館百貨店<span class="header--global_nav_button_en_text">Online Store</span></a></li>
+                        <li class="footer--category_nav_item"><a class="footer--category_nav_link" href="https://serai.jp/premium">サライPremium</a></li>
+                  </ul>
+      </nav>
+      <nav class="footer--other_nav">
+        <span class="footer--other_nav_title">INFORMATION</span>
+        <ul class="footer--other_nav_list">
+          <li class="footer--other_nav_item"><a class="footer--other_nav_link" href="/salon">本誌読者サロンへの投稿</a></li>
+          <li class="footer--other_nav_item"><a class="footer--other_nav_link" href="http://skygarden.shogakukan.co.jp/skygarden/owa/tk_books?bid=95&sha=1&zou=0" target="_blank">定期購読のお申込み</a></li>
+          <li class="footer--other_nav_item"><a class="footer--other_nav_link" href="https://adpocket.shogakukan.co.jp/" target="_blank">広告掲載</a></li>
+          <li class="footer--other_nav_item"><a class="footer--other_nav_link" href="/agreement">利用規約</a></li>
+          <li class="footer--other_nav_item"><a class="footer--other_nav_link" href="https://form.id.shogakukan.co.jp/forms/2703" target="_blank">お問い合わせ</a></li>
+        </ul>
+      </nav>
+    </div>
+    <ul class="footer--social visible-pc">
+      <li class="footer--social_item"><a class="footer--social_link" href="https://www.facebook.com/serai.jp/" target="_blank"><svg class="footer--social_svg" version="1.1" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewbox="0 0 1024 1024">
+        <g>
+          <path class="footer--social_svg_fb_circle" d="M1024,512C1024,229.23,794.77,0,512,0S0,229.23,0,512c0,255.55,187.23,467.37,432,505.78V660H302V512h130V399.2                C432,270.88,508.44,200,625.39,200C681.41,200,740,210,740,210v126h-64.56c-63.6,0-83.44,39.47-83.44,79.96V512h142l-22.7,148H592                v357.78C836.77,979.37,1024,767.55,1024,512z"></path>
+          <path class="footer--social_svg_fb_text" d="M711.3,660L734,512H592v-96.04c0-40.49,19.84-79.96,83.44-79.96H740V210c0,0-58.59-10-114.61-10                C508.44,200,432,270.88,432,399.2V512H302v148h130v357.78c26.07,4.09,52.78,6.22,80,6.22s53.93-2.13,80-6.22V660H711.3z"></path>
+        </g>
+      </svg></a></li>
+      <li class="footer--social_item"><a class="footer--social_link" href="https://twitter.com/seraijp" target="_blank"><svg class="footer--social_svg" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewbox="0 0 1200 1227">
+        <path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" />
+      </svg></a></li>
+      <li class="footer--social_item"><a class="footer--social_link" href="https://www.instagram.com/seraijp/" target="_blank"><svg class="footer--social_svg" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewbox="0 0 36 36">
+        <g transform="translate(-238 -238)">
+          <path d="M256,243.9c3.941,0,4.408.015,5.965.086a8.163,8.163,0,0,1,2.741.508,4.887,4.887,0,0,1,2.8,2.8,8.162,8.162,0,0,1,.508,2.741c.071,1.557.086,2.024.086,5.965s-.015,4.408-.086,5.965a8.162,8.162,0,0,1-.508,2.741,4.887,4.887,0,0,1-2.8,2.8,8.162,8.162,0,0,1-2.741.508c-1.557.071-2.023.086-5.965.086s-4.408-.015-5.965-.086a8.162,8.162,0,0,1-2.741-.508,4.887,4.887,0,0,1-2.8-2.8,8.163,8.163,0,0,1-.508-2.741c-.071-1.557-.086-2.024-.086-5.965s.015-4.408.086-5.965a8.163,8.163,0,0,1,.508-2.741,4.887,4.887,0,0,1,2.8-2.8,8.163,8.163,0,0,1,2.741-.508c1.557-.071,2.024-.086,5.965-.086m0-2.66c-4.009,0-4.512.017-6.086.089a10.84,10.84,0,0,0-3.583.686,7.555,7.555,0,0,0-4.317,4.317,10.84,10.84,0,0,0-.686,3.583c-.072,1.574-.089,2.077-.089,6.086s.017,4.512.089,6.086a10.84,10.84,0,0,0,.686,3.583,7.555,7.555,0,0,0,4.317,4.317,10.84,10.84,0,0,0,3.583.686c1.574.072,2.077.089,6.086.089s4.512-.017,6.086-.089a10.84,10.84,0,0,0,3.583-.686,7.555,7.555,0,0,0,4.317-4.317,10.84,10.84,0,0,0,.686-3.583c.072-1.574.089-2.077.089-6.086s-.017-4.512-.089-6.086a10.84,10.84,0,0,0-.686-3.583,7.555,7.555,0,0,0-4.317-4.317,10.84,10.84,0,0,0-3.583-.686c-1.574-.072-2.077-.089-6.086-.089Z"></path>
+          <path d="M256,248.42a7.58,7.58,0,1,0,7.58,7.58A7.58,7.58,0,0,0,256,248.42Zm0,12.5a4.92,4.92,0,1,1,4.92-4.92A4.92,4.92,0,0,1,256,260.92Z"></path>
+          <circle cx="1.771" cy="1.771" r="1.771" transform="translate(262.108 246.349)"></circle>
+        </g>
+        </svg></a></li>
+      <li class="footer--social_item"><a class="footer--social_link" href="https://line.me/R/ti/p/%40oa-serai" target="_blank"><svg class="footer--social_svg" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewbox="0 0 36 36">
+        <path d="M420.842,303.655h-5.051v-9.172a.516.516,0,0,0-.516-.516h-1.859a.515.515,0,0,0-.516.516v11.549a.518.518,0,0,0,.144.357l.007.007.007.007a.507.507,0,0,0,.356.144h7.429a.516.516,0,0,0,.516-.516v-1.86A.518.518,0,0,0,420.842,303.655Z" transform="translate(-412.9 -282.206)"></path>
+        <rect width="2.892" height="12.579" rx="0.233" transform="translate(10.048 11.762)"></rect>
+        <path d="M430.035,293.968h-1.859a.515.515,0,0,0-.516.516v6.861l-5.293-7.146a.544.544,0,0,0-.04-.053l0,0-.031-.031-.009-.009-.029-.022-.013-.011-.027-.018-.016-.011-.027-.015-.018-.007-.029-.013-.018,0-.029-.011-.02,0-.029-.007-.022,0-.027,0-.027,0h-1.877a.515.515,0,0,0-.516.516v11.549a.514.514,0,0,0,.516.514h1.859a.514.514,0,0,0,.516-.514v-6.86l5.3,7.157a.553.553,0,0,0,.131.128l0,0,.033.02.013.009.027.011.024.011.015.007.035.011h.007a.439.439,0,0,0,.133.018h1.859a.516.516,0,0,0,.516-.514V294.484A.516.516,0,0,0,430.035,293.968Z" transform="translate(-404.815 -282.206)"></path>
+        <path d="M433.284,293.968h-7.427a.511.511,0,0,0-.359.146l0,0-.009.009a.517.517,0,0,0-.144.356h0v11.549a.517.517,0,0,0,.144.357l.009.007.007.007a.507.507,0,0,0,.356.144h7.427a.515.515,0,0,0,.516-.516v-1.86a.516.516,0,0,0-.516-.516h-5.049V301.7h5.049a.515.515,0,0,0,.516-.516v-1.86a.515.515,0,0,0-.516-.516h-5.049v-1.953h5.049a.515.515,0,0,0,.516-.516v-1.86A.515.515,0,0,0,433.284,293.968Z" transform="translate(-397.8 -282.206)"></path>
+      </svg></a></li>
+      <li class="footer--social_item"><a class="footer--social_link" href="/feed" target="_blank"><svg class="footer--social_svg" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewbox="0 0 36 36">
+        <g transform="translate(-235 -234.996)">
+          <circle cx="3" cy="3" r="3" transform="translate(242 257.896)"></circle>
+          <path d="M252.523,266.065h4.208A14.751,14.751,0,0,0,242,251.333v4.21a10.536,10.536,0,0,1,10.523,10.522Z" transform="translate(0 -2.065)"></path>
+          <path d="M264,264a22.024,22.024,0,0,0-22-22v4.19A17.829,17.829,0,0,1,259.811,264Z" transform="translate(0 0)"></path>
+        </g>
+      </svg></a></li>
+    </ul>
+  </div>
+</footer>
+<script src="https://serai.jp/wp-content/themes/serai2020/assets/js/lib/clamp.min.js"></script>
+<script src="https://serai.jp/wp-content/themes/serai2020/assets/js/common.js"></script>
+<script id="__get-common-footer-script" src="https://shogakukan-web-api.net/rest/get-common-footer/site?id=Serai"></script>
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://serai.jp/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript' src='https://serai.jp/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
+</body>
+
+</html>

@@ -1,11 +1,11 @@
-HTTP/2 403 date: Sat, 03 Jan 2026 16:13:39 GMT server: Apache x-datadome:
+HTTP/2 403 date: Sat, 03 Jan 2026 16:43:17 GMT server: Apache x-datadome:
 protected accept-ch:
 Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Vers
 ion-List,Sec-CH-UA-Model,Sec-CH-Device-Memory charset: utf-8 cache-control:
 max-age=0, private, no-cache, no-store, must-revalidate pragma: no-cache
-x-datadome-cid: AHrlqAAAAAMATcIYl_i6gosAsLmwKw== x-dd-b: 2 set-cookie:
-datadome=4~dMeH_P4Fgitw5Y0eKfEBsFQXYzqM4DmgpcZeOs_AyHtWRthicBBPofdVc1Y~jw0NCEcyP
-za1CRuz80KL8hSPWWJvGTdu5La5iASIkxSUdb1Wn2KiR6p_QvP09l1tY2; Max-Age=31536000;
+x-datadome-cid: AHrlqAAAAAMASsftQ3WM074AsLmwKw== x-dd-b: 2 set-cookie:
+datadome=eNAjwGkg93SShG7iW24K_MZGwQz87NteV2WMew6IrO5HNUc3RloeaL4vIAXJKkBbUD_Dv~3
+8K6Ic7ihUaV7U0~UiAkisUfZoOW6FWERAHkkQs0Z~L0yA3pIaLFgahsN6; Max-Age=31536000;
 Domain=.cairn.info; Path=/; Secure; SameSite=None content-length: 770
 access-control-allow-origin: * content-type: text/html;charset=utf-8 set-cookie:
 SERVER_USED=cairnweb4; path=/

@@ -1,17 +1,216 @@
-HTTP/2 403 
-date: Sat, 03 Jan 2026 16:15:56 GMT
-server: Apache
-x-datadome: protected
-accept-ch: Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory
-charset: utf-8
-cache-control: max-age=0, private, no-cache, no-store, must-revalidate
-pragma: no-cache
-x-datadome-cid: AHrlqAAAAAMAsr4_SHJEzDUAsLmwKw==
-x-dd-b: 2
-set-cookie: datadome=YUpmweVqjsgoEQVglRPx_VABrAIfmGix269EZ9Bd9PxkQzytCUXdku2SE_zd7kaOtDXT224RSSs7n1ksgJiEOK2yW3WS8hIigKXAQG_Fa9_4cyoxE_UJRRzohFW6iKPe; Max-Age=31536000; Domain=.cairn.info; Path=/; Secure; SameSite=None
-content-length: 770
-access-control-allow-origin: *
-content-type: text/html;charset=utf-8
-set-cookie: SERVER_USED=cairnweb4; path=/
+HTTP/1.1 200 OK
+Date: Sat, 03 Jan 2026 16:39:05 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
 
-<html lang="en"><head><title>cairn.info</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style="margin:0"><p id="cmsg">Please enable JS and disable any ad blocker</p><script data-cfasync="false">var dd={'rt':'c','cid':'AHrlqAAAAAMAsr4_SHJEzDUAsLmwKw==','hsh':'9E3A8A2A4B1B6523B8B3953E2C0374','t':'bv','qp':'','s':45004,'e':'544e8c7edc4d8ce0502d1393c9e6572c3a8f12c865a29c2eaffa2aa6e9d28dce2eabd497b10cc124ec012373999c1f9f','host':'geo.captcha-delivery.com','cookie':'YUpmweVqjsgoEQVglRPx_VABrAIfmGix269EZ9Bd9PxkQzytCUXdku2SE_zd7kaOtDXT224RSSs7n1ksgJiEOK2yW3WS8hIigKXAQG_Fa9_4cyoxE_UJRRzohFW6iKPe'}</script><script data-cfasync="false" src="https://ct.captcha-delivery.com/c.js"></script></body></html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="ja" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Laudate | カテキズムを読もう</title>
+<link rel="stylesheet" type="text/css" media="all" href="../base.css" />
+<link rel="stylesheet" type="text/css" media="all" href="../common.css" />
+<link rel="stylesheet" type="text/css" media="all" href="catechism.css" />
+</head>
+
+<body>
+<div id="whole"><body>
+<div id="whole">
+<div id="header">
+
+<h1 id="pagetop"><a href="../" title="Laudateトップページへ">Laudate | 女子パウロ会公式サイト</a></h1>
+
+<p id="official">聖パウロ女子修道会（女子パウロ会）公式サイト</p>
+
+<div id="headerlink" class="posrel">
+<img src="../images/arrow_gray.gif" style="margin-right: 3px;" /><a href="https://shop-pauline.jp" target="_blank" title="女子パウロ会　公式オンラインショップはこちらからどうぞ">オンラインショップ<br>──Shop Pauline</a>
+</div>
+
+<form method=get action="https://www.google.co.jp/search" target="_blank">
+<table id="searchunit">
+<tr>
+<td>
+<input id="nyuuryoku" type=text name=q size=30 maxlength=255 value=""/>
+<input type=hidden name=ie value=utf-8/>
+<input type=hidden name=oe value=utf-8/>
+<input type=hidden name=hl value="ja"/>
+<input id="srcbtn" type=submit name=btnG value="検索"/>
+<font size=-1>
+<input type=hidden name=domains value="pauline.or.jp"/><br>
+<input type=radio name=sitesearch value="pauline.or.jp" checked/> Laudate を検索
+<input type=radio name=sitesearch value=""/> WWW を検索
+</font>
+</td>
+</tr>
+</table>
+</form>
+
+<div id="whatisfsp">
+<p>聖パウロ女子修道会（女子パウロ会）は、社会的コミュニケーションのために創立された、キリスト教（カトリック）修道会です。</p>
+</div>
+
+</div>
+
+<div id="container">
+
+<div id="sidenavi">
+
+<ul id="collection">
+	<li id="chripedia"><a href="https://www.pauline.or.jp/chripedia/">キリスト教マメ知識</a></li>
+</ul>
+<ul id="contents">
+	<li>カレンダリオ
+	<ol>
+		<li><a href="https://www.pauline.or.jp/calendariocappella/">教会カレンダー</a></li>
+		<li><a href="https://www.pauline.or.jp/calendariosanti/">聖人カレンダー</a></li>
+	</ol>
+	<li>キリスト教入門
+	<ol>
+		<li><a href="https://www.pauline.or.jp/catechism/">カテキズムを読もう</a></li>
+		<li><a href="https://www.pauline.or.jp/shirohata/">なるほど 社会教説</a></li>
+		<li><a href="https://www.pauline.or.jp/imamichi/">Sr.今道の聖書講座</a></li>
+		<li><a href="https://www.pauline.or.jp/hajimete/">はじめての『旧約聖書』</a></li>
+		<li><a href="https://www.pauline.or.jp/yamamoto/">山本神父入門講座</a></li>
+		<li><a href="https://www.pauline.or.jp/spirit/">聖霊講座</a></li>
+	</ol>
+	</li>
+	<li>教会
+	<ol>
+		<li><a href="https://www.pauline.or.jp/visitingchurches/">教会をたずねて</a></li>
+		<li><a href="https://www.pauline.or.jp/kirishitanstory/">日本キリシタン物語</a></li>
+		<li><a href="https://www.pauline.or.jp/historyofchurches/">カトリック教会の歴史</a></li>
+		<li><a href="https://www.pauline.or.jp/kirishitanland/">キリシタンゆかりの地をたずねて</a></li>
+	</ol>
+	</li>
+	<li>祈り
+	<ol>
+		<li><a href="https://www.pauline.or.jp/marco/">マルコで祈る</a></li>
+		<li><a href="https://www.pauline.or.jp/talkwithgod/">神との語らい</a></li>
+		<li><a href="https://www.pauline.or.jp/invitation/">祈りへの招き</a></li>
+		<li><a href="https://www.pauline.or.jp/prayingtime/">祈りのひととき</a></li>
+		<li><a href="https://www.pauline.or.jp/areopagus/index.php">アレオパゴスの祈り</a></li>
+	</ol>
+	</li>
+	<li>シスターのお薦め
+	<ol>
+		<li><a href="https://www.pauline.or.jp/newlypublished/">新刊のご案内</a></li>
+		<li><a href="https://www.pauline.or.jp/books/backnumber.php">私の薦めるこの一冊</a></li>
+		<li><a href="https://www.pauline.or.jp/cinemas/">お薦めシネマ</a></li>
+		<li><a href="https://www.pauline.or.jp/wherewewent/">こんなとこ行った！</a></li>
+	</ol>
+	</li>
+	<li>女子パウロ会とは
+	<ol>
+		<li><a href="https://www.pauline.or.jp/roots/">新世紀ルーツへの巡礼</a></li>
+		<li><a href="https://www.pauline.or.jp/sousetuki/">信仰の挑戦</a></li>
+		<li><a href="https://www.pauline.or.jp/news/">女子パウロ会ニュース</a></li>
+	</ol>
+	</li>
+	<li>お知らせ
+	<ol>
+		<li><a href="https://www.pauline.or.jp/eventandstudy/">イベント・勉強会</a></li>
+	</ol>
+	</li>
+	<li>キッズ
+	<ol>
+		<li><a href="https://www.pauline.or.jp/kids/miki/miki.html">創作童話</a></li>
+		<li><a href="https://www.pauline.or.jp/kids/ehon/ehon.php">女子パウロ会の絵本</a></li>
+	</ol>
+	</li>
+
+	<li><a href="https://www.pauline.or.jp/vocation/">修道生活を考えている方へ</a>
+	<ol>
+		<li><a href="https://www.pauline.or.jp/teclamerlo/">シスターテクラ・メルロ</a></li>
+		<li><a href="https://www.pauline.or.jp/oneday/">修道院の一日</a></li>
+		<li><a href="https://www.pauline.or.jp/vocation/religiouslife.php">修道生活について</a></li>
+		<li><a href="https://www.pauline.or.jp/vocation/steptosister.php">シスターになるまで</a></li>
+		<li><a href="https://www.pauline.or.jp/branches/">支部修道院のご案内</a></li>
+		<li><a href="https://www.pauline.or.jp/whoarewe/">どうしてシスターに？</a></li>
+		<li><a href="https://www.pauline.or.jp/vocation/worldbranches.php">世界のFSP</a></li>
+		<li><a href="https://www.pauline.or.jp/vocation/question.php">修道生活豆知識Ｑ＆Ａ</a></li>
+	</ol>
+	</li>
+	
+	<li>過去記事：アーカイブ
+	<ol>
+		<li><a href="https://www.pauline.or.jp/ukon/">高山右近列福式（2017）</a></li>
+		<li><a href="https://www.pauline.or.jp/concilium_vaticanum_secundum/">第2バチカン公会議から50年（2012-2013）</a></li>
+		<li><a href="https://www.pauline.or.jp/specialarticles/mtmemyear.php">特別企画　マザー・テレサ（2009）</a></li>
+		<li><a href="https://www.pauline.or.jp/specialarticles/pauloyear.php">特別企画　パウロ年（2008-2009）</a></li>
+	</ol>
+	</li>
+
+</ul>
+
+<ul id="contactus">
+	<li id="form"><a href="https://www.pauline.or.jp/contact.php">お問い合わせ</a></li>
+</ul>
+
+<ul id="collection">
+	<li id="link"><a href="https://www.pauline.or.jp/links/">リンク集</a></li>
+</ul>
+
+<p style="margin-top: 10px; margin-left: 30px;">⇒<a href="http://english.pauline.or.jp/">ENGLISH</a></p>
+</div>
+
+<div id="mainarea">
+<p class="crumbs">
+
+<a href="../index.php">home</a>＞キリスト教入門＞<a href="index.php">カテキズムを読もう</a>＞第3編 キリストと一致して生きる＞第1部＞第146回　罪の重さ、大罪と小罪 –(2) </p>
+
+<div id="mainarticle">
+	<h2>カテキズムを読もう</h2>
+<p id="backnumber"><a href="backnumber3.php"><span>バックナンバー</span></a></p>
+<h3>第146回　罪の重さ、大罪と小罪 –(2)</h3>
+<br>
+
+<!-------<h4>第8項　罪</h4>----->
+
+<h5>4　罪の重さ、大罪と小罪 –(2)</h5>
+
+<p class="plain">先回に引き続いて、大罪と小罪についてのご説明をいたしましょう。</p>
+
+<p class="plain">犯した罪が重大なものであっても、以下のことを考慮する必要があります。</p>
+
+<p class="plain">それまでの育った環境などの影響から、本人の自由意志によって決断したものではなく、まったく、無知から罪を犯した、と言えるような状況がある場合、重大な過ちであったとしても、その責任が減少されることや、免除されることもあり得ます。しかし、自分も含めて全ての人間を考えたとき、その心に良心が刻まれており、これはしてはいけないことだ、ということは知っているということも、また事実です。</p>
+
+<p class="plain">また、感覚の衝動や情熱、外圧や病理学的な障がいも、人間の意志に影響を及ぼすことがあります。そのときには、その責任は軽くされることもあります。</p>
+
+<p class="plain">もっとも重い罪は、悪意による罪、悪を意図的に選んで犯す罪です。大罪は、愛と同じように、人間の自由意志によって選び取ることが可能なものだということを、しっかり覚えておきましょう。ですから、アダムとエバが罪を犯したときのように、大罪は愛を失わせ、神からいただいた恵みの状態を失わせるものです。</p>
+
+<p class="plain">この状態から立ち戻るためには、悔い改めと神のゆるしによって、その罪が取り除かれない限り、キリストのみ国、神の国から追放されたままなのです。ただし、私たちは、罪を犯した人を見るとき、たとえ、その罪が重大なものであると判断したとしても、罪を犯した人については、神の正義と憐れみに委ねなければなりません。</p>
+
+<p class="plain">では、次に、小罪について見てみましょう。</p>
+
+<p class="plain">小罪は、小さな事柄について、道徳律による規準を守らないとき、あるいは、客観的に考えても重大な事柄であったとしても、十分な認識がないとき、また完全な同意をせずに、罪を犯すときに犯した罪のことを指します。</p>
+
+<p class="plain">小罪を犯した結果はどうなるのかと言えば、愛を弱めてしまいます。その結果、現世的なものに愛着したり、神への歩みを続ける上での進歩を妨げたりするので、有限の苦しみを受けるのに値するものとなるのです。ですから、意図的に小罪を犯したり、悔い改めないままでいると、大罪を犯すほうへと流されたりする危険性があるのです。</p>
+
+<p class="plain">しかし、小罪によって、神の恵みを完全に失ってしまったりすることはありません。神の恵みによって、償うことができるものです。</p>
+
+<p class="plain">マタイ福音書の中に、「人が犯す罪や冒涜は、どんなものでも赦されるが、&ldquo;霊&rdquo;に対する冒涜は赦されない。」（12.31）と、イエス様がおっしゃっているのをお聞きになったことがおありだと思います。</p>
+
+<p id="nextpage"><span id="prevtitle"><a href="catechism145.php">前へ</a></span>　</p>
+<div style="margin-top: 30px; margin-bottom:550px;">
+</div>
+
+</div>
+
+<p class="jump"><a href="#pagetop">▲ページのトップへ</a></p>
+</div>	<!-- id="mainarea" --!>
+</div>  <!-- id="container" --!>
+
+<div id="footer">
+
+<div id="notification">
+<p>※“Laudate”に掲載の画像・文章の無断転載はご遠慮ください。<br>
+	〒107-0052　東京都港区赤坂8丁目12-42　聖パウロ女子修道会</p>
+</div>	<!-- id="notification" --!>
+<p id="copyright">Copyright　&copy;2007　女子パウロ会</p>
+</div>	<!-- id="footer" --!>
+</div>	<!-- id="whole" --!>
+</body>
+</html>

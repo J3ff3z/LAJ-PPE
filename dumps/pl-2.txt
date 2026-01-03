@@ -1,664 +1,136 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 04:50:46 GMT server:
-mw-web.eqiad.main-8f8dcf6c-fswn6 x-content-type-options: nosniff
-content-language: fr accept-ch: last-modified: Sat, 03 Jan 2026 04:40:57 GMT
-content-type: text/html; charset=UTF-8 age: 41120 accept-ranges: bytes x-cache:
-cp6009 hit, cp6016 hit/12 x-cache-status: hit-front server-timing:
-cache;desc="hit-front", host;desc="cp6016" strict-transport-security:
-max-age=106384710; includeSubDomains; preload report-to: { "group": "wm_nel",
-"max_age": 604800, "endpoints": [{ "url":
-"https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_
-error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] } nel: { "report_to":
-"wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
-set-cookie: WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04
-Feb 2026 12:00:00 GMT set-cookie:
-WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;
-Expires=Wed, 04 Feb 2026 12:00:00 GMT set-cookie:
-WMF-DP=3f1;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
-x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7 cache-control: private,
-s-maxage=0, max-age=0, must-revalidate, no-transform vary:
-Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
-GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
-set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
-set-cookie:
-WMF-Uniq=SymMTWiz7vIqQxaee378qALdAAAAAFvdfk7sCRUDai3X0ZrrHW7nB-58yA2yGFWb;Domain
-=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027
-00:00:00 GMT content-length: 158649 x-request-id:
-6383f640-16d4-481a-a851-5ed0c2e00b9e #Modifier Wikipédia (fr) Flux Atom de
-Wikipédia
-
-Aller au contenu
-
-[ ] Menu principal
-Menu principal
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-Navigation
-  * Page d’accueil
-  * Portails thématiques
-  * Article au hasard
-  * Contact
-
-Contribuer
-  * Débuter sur Wikipédia
-  * Aide
-  * Communauté
-  * Pages spéciales
-  * Modifications récentes
-
-Wikipédia l'encyclopédie libre
-Rechercher
-____________________
-(BUTTON) Rechercher
-
-[ ] Apparence
-
-  * Faire un don
-  * Créer un compte
-  * Se connecter
-
-[ ] Outils personnels
-  * Faire un don
-  * Créer un compte
-  * Se connecter
-
-Sommaire
-
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-  * Début
-  * 1 Étymologie
-  * 2 Christianisme
-(BUTTON) Afficher / masquer la sous-section Christianisme
-  + 2.1 Péché originel et péché effectif
-  + 2.2 Nouveau Testament
-  + 2.3 Pères de l'Église
-  + 2.4 Catholicisme
-  + 2.5 Protestantisme
-  * 3 Islam
-  * 4 Péché et droit
-  * 5 Notes et références
-  * 6 Voir aussi
-(BUTTON) Afficher / masquer la sous-section Voir aussi
-  + 6.1 Bibliographie
-  + 6.2 Articles connexes
-  + 6.3 Liens externes
-
-[ ] Basculer la table des matières
-
-Péché
-
-[ ] 98 langues
-  * Acèh
-  * Afrikaans
-  * العربية
-  * Asturianu
-  * Aymar aru
-  * Azərbaycanca
-  * Žemaitėška
-  * Bikol Central
-  * Беларуская
-  * Беларуская (тарашкевіца)
-  * Български
-  * বাংলা
-  * Brezhoneg
-  * Буряад
-  * Català
-  * کوردی
-  * Čeština
-  * Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ
-  * Cymraeg
-  * Dansk
-  * Deutsch
-  * Ελληνικά
-  * English
-  * Esperanto
-  * Español
-  * Eesti
-  * Euskara
-  * فارسی
-  * Suomi
-  * Gàidhlig
-  * Galego
-  * 𐌲𐌿𐍄𐌹𐍃𐌺
-  * עברית
-  * हिन्दी
-  * Hrvatski
-  * Magyar
-  * Հայերեն
-  * Interlingua
-  * Bahasa Indonesia
-  * Ido
-  * Italiano
-  * 日本語
-  * ಕನ್ನಡ
-  * 한국어
-  * کٲشُر
-  * Kurdî
-  * Кыргызча
-  * Latina
-  * Limburgs
-  * Lombard
-  * Lietuvių
-  * Latviešu
-  * Malagasy
-  * മലയാളം
-  * Bahasa Melayu
-  * مازِرونی
-  * नेपाल भाषा
-  * Nederlands
-  * Norsk nynorsk
-  * Norsk bokmål
-  * Occitan
-  * ਪੰਜਾਬੀ
-  * Polski
-  * پنجابی
-  * Português
-  * Runa Simi
-  * Română
-  * Русский
-  * Русиньскый
-  * Саха тыла
-  * Sicilianu
-  * Scots
-  * Srpskohrvatski / српскохрватски
-  * Simple English
-  * Slovenčina
-  * Slovenščina
-  * ChiShona
-  * Shqip
-  * Српски / srpski
-  * Svenska
-  * Kiswahili
-  * தமிழ்
-  * Тоҷикӣ
-  * ไทย
-  * Tagalog
-  * Türkçe
-  * Татарча / tatarça
-  * Українська
-  * اردو
-  * Oʻzbekcha / ўзбекча
-  * Vèneto
-  * Tiếng Việt
-  * Winaray
-  * 吴语
-  * IsiXhosa
-  * ייִדיש
-  * 中文
-  * 粵語
-
-Modifier les liens
-
-  * Article
-  * Discussion
-
-[ ] français
-
-  * Lire
-  * Modifier
-  * Modifier le code
-  * Voir l’historique
-
-[ ] Outils
-Outils
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-Actions
-  * Lire
-  * Modifier
-  * Modifier le code
-  * Voir l’historique
-
-Général
-  * Pages liées
-  * Suivi des pages liées
-  * Téléverser un fichier
-  * Lien permanent
-  * Informations sur la page
-  * Citer cette page
-  * Obtenir l'URL raccourcie
-  * Télécharger le code QR
-
-Imprimer / exporter
-  * Créer un livre
-  * Télécharger comme PDF
-  * Version imprimable
-
-Dans d’autres projets
-  * Wikimedia Commons
-  * Wikiquote
-  * Élément Wikidata
-
-Apparence
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-Un article de Wikipédia, l'encyclopédie libre.
-Page d’aide sur l’homonymie
-
-Pour l’article ayant un titre homophone, voir Pêcher.
-Page d’aide sur l’homonymie
-
-Pour les articles homonymes, voir Péché (homonymie).
-[330px-The_Fall_of_Man_by_Lukas_Cranach.jpg] La Chute de l'homme, 1510-1520,
-huile sur bois, Lucas Cranach l'Ancien.
-Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en savoir plus.
-Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en savoir plus.
-
-Le résumé introductif est trop court. En l'état, il ne respecte pas les
-recommandations (mai 2025).
-Vous pouvez le modifier en le développant.
-
-En religion, un péché est une offense faite à Dieu et une transgression
-délibérée ou non de la loi divine.
-
-Le péché matérialise le manque d'amour soit envers Dieu, soit envers l'autre (le
-prochain) ou soit envers soi-même. C’est une action, ou une abstention, ou une
-intention, effectuée en toute liberté pour commettre le mal, tel qu'il est
-défini par les principes religieux.
-
-Étymologie
-
-[modifier | modifier le code]
-
-Le mot « péché » vient du latin peccatum, « faute, erreur »^[1], lui-même
-dérivé du verbe peccare, qui signifie au sens premier « broncher, faire un faux
-pas »^[2]. Selon les linguistes Alfred Ernout et Antoine Meillet, « le sens
-donne lieu de penser que peccare serait dérivé d’un mot *pecco-, formé sur pes,
-« pied ». Mais pareil mot n’est pas attesté »^[2]. L'origine de peccare semble
-donc inconnue^[3].
-
-L'adjectif correspondant est peccamineux et a aussi donné impeccable^[4]. Cette
-étymologie se retrouve dans le mot peccadille, qui désigne une faute légère. Le
-mot italien qui désigne le péché est peccato.
-
-Le latin peccatum traduit généralement l'hébreu ḥattath (חַטָּאת) du Tanakh, qui
-signifie manque, manquement ; c'est l'image de manquer la cible, qui apparaît en
-Jg 20,16. Dans la Septante, les Juifs hellénisés d’Alexandrie l’ont traduit par
-hamartia (ἁμαρτία), terme repris dans le Nouveau Testament. Il signifie
-« égarement, erreur, faute », puis dans une interprétation théologique,
-« détournement, éloignement de Dieu »^[5]. L'étude du péché dans une perspective
-théologique se nomme l'hamartiologie^[6].
-
-Christianisme
-
-[modifier | modifier le code]
-Article détaillé : Péché dans le christianisme.
-[330px-Dirc_van_Delft_-_Sin_Personified_-_Walters_W17190R_-_Full_Page.jpg]
-Allégorie du Péché, enluminure d'un manuscrit de Dirc van Delf v. 1400.
-
-Péché originel et péché effectif
-
-[modifier | modifier le code]
-
-Le christianisme distingue deux notions : le péché originel et le péché
-effectif.
-
-Le péché originel est celui que tous les hommes héritent d’Adam. Il s’étend à
-tous les hommes sans qu'ils aient dû faire quoi que ce soit de mal. Dans cette
-vision, l'homme est originellement pécheur, à partir du moment de sa conception.
-Cette vision repose notamment sur le psaume 51:7 « Voici, je suis né dans
-l'iniquité, et ma mère m’a conçu dans le péché. »
-
-Le péché effectif est celui que commet matériellement un individu. L'apôtre Paul
-estime que les gens commettent des péchés effectifs parce que la nature
-originellement pécheresse, corrompue, est a priori en eux (Romains 7:14-23).
-
-Nouveau Testament
-
-[modifier | modifier le code]
-
-Selon Jésus, la racine des péchés se trouve dans le cœur des hommes d'où
-« procèdent mauvais desseins, meurtres, adultères, débauche, vols, faux
-témoignages, diffamations. » (Évangile selon Matthieu 15, 19-20).
-
-Paul de Tarse, dans sa première lettre, stigmatise ceux qui sont « remplis de
-toute injustice, de perversité, de cupidité, de malice, ne respirant qu'envie,
-meurtre, dispute, fourberie, malignité, diffamateurs, détracteurs, ennemis de
-Dieu, insulteurs, orgueilleux, fanfarons, ingénieux au mal, rebelles à leurs
-parents, insensés, déloyaux, sans cœur sans pitié », rappelant que « Dieu les
-déclare dignes de mort. » (Romains 1, 28-32). Dans une autre épître, Paul
-opposant les œuvres de la chair à celle de l'Esprit-Saint, écrit à propos des
-premières : « On sait bien tout ce que produit la chair, fornication, impureté,
-débauche, idolâtrie, magie, haine, discorde, jalousie, emportements, disputes,
-dissensions, scissions, sentiments d'envie, orgies, ripailles et choses
-semblables (…) ceux qui commettent ces fautes n'hériteront pas du Royaume de
-Dieu. » (Galates 5, 19-21).
-
-Pères de l'Église
-
-[modifier | modifier le code]
-
-La pensée chrétienne des premiers siècles sur les péchés s'est développée autour
-de la catéchèse baptismale pour les catéchumènes, la rémission pénitentielle des
-péchés commis après le baptême, la polémique contre les gnostiques puis les
-manichéens et la vie monastique. La Didachè et l’Épître de Barnabé opposent les
-deux voies, d'une part, celle de la vie et du salut, et de l'autre, celle du
-péché et de la perdition. Se posa rapidement l'attitude chrétienne à prendre
-concernant la remise des péchés de ceux qui retombaient après le pardon reçu
-lors du baptême. Cela conduisit à hiérarchiser l'importance des différentes
-formes de péchés, en distinguant ceux qui conduisent à la mort spirituelle à
-cause de leur gravité, de ceux quotidiens qui sont plus légers. Les Pères de
-l’Église, particulièrement ceux d'Orient comme Clément d'Alexandrie (150-215) et
-Origène (185-253), soulignèrent le rôle de la liberté comme cause volontaire des
-péchés. Ils combattirent à ce sujet les gnostiques qui distinguaient dans
-l'humanité, à côté de la classes psychique où la libre volonté intervenait, deux
-autres classes où elle n'intervenait pas, à savoir : celle hylique prédestinée
-à la perdition et celle pneumatique prédestinée au salut. Augustin s'appuyant
-sur la pensée néoplatonicienne développe la doctrine du péché, en
-approfondissant la nature du péché qui n'est pas une réalité mauvaise s'opposant
-au bien, mais une privation procédant du libre arbitre en l'absence du secours
-de la grâce divine^[7].
-
-Catholicisme
-
-[modifier | modifier le code]
-Articles détaillés : Péché dans le catholicisme et Péché capital.
-
-Le Catéchisme de l'Église catholique propose pour le péché la définition
-suivante : « une faute contre la raison, la vérité, la conscience droite ; il
-est un manquement à l’amour véritable, envers Dieu et envers le prochain, à
-cause d’un attachement pervers à certains biens. Il blesse la nature de l’homme
-et porte atteinte à la solidarité humaine. Il a été défini comme une parole, un
-acte ou un désir contraires à la loi éternelle »^[8].
-
-L'accueil par les hommes de la miséricorde divine réclame de leur part l'aveu de
-leurs péchés^[9]. Le sacrement de réconciliation permet à tous ceux qui ont
-péché de recevoir le pardon de Dieu par l'entremise d'un prêtre à qui ils
-confessent leur péché^[10].
-[330px-Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG]
-Jérôme Bosch (attr.), Les Sept Péchés capitaux et les Quatre Dernières Étapes
-humaines, v. 1500.
-
-L’Église catholique distingue à la suite de Jean Cassien et de Grégoire le Grand
-des péchés qu'elle qualifie de capitaux parce qu'ils sont générateurs d'autres
-péchés. Ce sont : la paresse, l’orgueil, la gourmandise, la luxure, l’avarice,
-la colère et l'envie^[11]. Cette classification à laquelle Cassien ajoutait la
-tristesse remonte au Testament des XII Patriarches (second siècle avant J.C.,
-premier siècle après J.-C.) et au Pasteur d'Hermas (début du second siècle après
-J.-C.) et à Origène^[12].
-
-Les péchés contre le commandement de ne pas tuer sont : l'homicide volontaire,
-l'avortement direct recherché comme fin et comme moyen, l'euthanasie et le
-suicide, ainsi que la participation à ces actions^[13]. Lors des guerres sont
-des péchés graves : les enlèvements, les prises d'otages, le terrorisme, la
-torture, les violences, les destructions massives, l'extermination d'un peuple
-et d'une minorité ethnique^[14]
-
-Les péchés graves contraires à la chasteté, qui est l'intégration réussie de la
-sexualité dans la relation de personne à personne sont : le viol, l'adultère, la
-fornication, la pornographie, la prostitution, la masturbation et les actes
-homosexuels^[15].
-
-Les offenses à la dignité du mariage sont : l'adultère, le divorce, la
-polygamie, l'union libre, l'acte sexuel avant le mariage et en dehors de
-lui^[16].
-
-En lien avec le commandement de ne pas voler, le catéchisme catholique cite :
-les salaires injustes, les fraudes fiscales et commerciales, l'usure, la
-corruption (même pratiquée par la [[Institut pour les œuvres de religion |Banque
-du Vatican]]), les contrefaçons de chèques et de factures, le travail mal fait
-et le gaspillage^[17].
-
-Le huitième commandement interdit : les faux témoignages, le parjure, le
-mensonge, la médisance, la diffamation, la flatterie, l'adulation et la
-complaisance^[18].
-
-La distinction entre péché véniel et péché mortel est une manière de
-hiérarchiser les péchés. Depuis le Moyen Âge, les catholiques distinguent le
-péché véniel, c'est-à-dire de faible importance ou commis sans se rendre compte
-du mal, et le péché mortel, d'importance grave et commis en connaissance de
-cause. Ce dernier péché est mortel pour la personne qui le commet dans le sens
-où il la coupe définitivement de la relation d'avec Dieu, ce qui la conduit en
-enfer si elle ne s'en repent pas. Si une personne peut juger qu’un acte est en
-soi une faute grave, elle doit confier le jugement des personnes à la justice et
-à la miséricorde de Dieu^[19].
-
-Protestantisme
-
-[modifier | modifier le code]
-
-Pour la théologie protestante, le péché n'est pas une faute morale, mais une
-orientation générale de la personne entière, qui touche tout le monde^[20].
-Comme dans le Nouveau Testament, les théologiens protestants parlermnt plutôt du
-péché plutôt que des péchés^[21]. Selon Kurt Buehlmann, Jésus s’adressait à un
-public juif et dans sa mentalité, « pécheur » signifiait personne simple, soit
-ceux qui n’étaient pas soumis à une haute obligation morale, vivant avant tout
-pour eux-mêmes^[22].
-
-Si le péché n'est pas moral, il est existentiel. Il est « l'attitude
-fondamentale de l'humain qui croit pouvoir se passer de Dieu et vivre par et
-pour lui-même^[23] ». Il est « mensonge essayant de persuader l'humain qu'il n'a
-nul besoin des autres et de Dieu. Il est recherche de la non-relation et conduit
-inéluctablement à la mort^[24] ».
-
-Kierkegaard a écrit : « C'est une des définitions capitales du christianisme que
-le contraire du péché n'est pas la vertu, mais la foi^[25] ». De la même
-manière, Emil Brunner a écrit :
-
-« Tout ce que l'homme fait par lui-même, même le meilleur, est affecté par le
-péché. Aux yeux des hommes, cela peut être bon; cela peut être, selon les normes
-humaines, noble et vertueux; devant le jugement de Dieu, cela ne peut pas
-subsister. C'est le péché.
-
-Il ne faut pas employer dans ce contexte la notion de dépravation totale qui
-prête à malentendu. La Bible ne nie pas qu'il y ait des hommes bons et des
-hommes mauvais. Elle ne nie pas qu'un incroyant et même un athée puissent faire
-du bien. Elle reconnaît les vertus des païens. Elle affirme que ces vertus sont
-péchés au regard de Dieu, aussi bien que le mal, parce qu'elles sont en dernière
-analyse produites par un cœur séparé de Dieu et possédé par l'amour de soi. Le
-péché n'est pas en premier lieu d'ordre moral, il est d'ordre religieux. »^[26]
-
-Islam
-
-[modifier | modifier le code]
-Cette section est vide, insuffisamment détaillée ou incomplète. Votre aide est
-la bienvenue ! Comment faire ?
-Article détaillé : Péchés capitaux en islam.
-  * Meurtre ;
-  * Sorcellerie ;
-  * Associationnisme.
-
-Péché et droit
-
-[modifier | modifier le code]
-
-Dans certains pays, la loi civile se confond avec la loi religieuse. Par
-exemple, la charia, en droit musulman, dès lors qu'un État la reconnaît comme sa
-loi nationale dans sa constitution.
-
-Notes et références
-
-[modifier | modifier le code]
- 1. ↑ Le Petit Robert (édition 2003).
- 2. ↑ ^a et b Alfred Ernout et Antoine Meillet, Dictionnaire étymologique de la
-langue latine : Histoire des mots, Klincksieck, 1967, 4^e éd., p. 491, s.v.
- 3. ↑ Michel Bénaben, Dictionnaire étymologique de l'espagnol, Ellipse, Paris,
-2000, (ISBN 2-7298-7986-2) p. 241.
- 4. ↑ Bénaben, 2000, p. 364.
- 5. ↑ Alliance biblique universelle, La Nouvelle Bible Segond, édition d'étude,
-Bibli’O, 2002, p. 1736-1737.
- 6. ↑ Voir par exemple Glaude Makensonn, « Entre honte et espoir: étude d'Adam
-d'un point de vue hamartiologique selon Romains 5:14 ».
- 7. ↑ Dictionnaire Encyclopédique du Christianisme Ancien, Paris, Cerf, 1990,
-p. 1961-1963
- 8. ↑ « Catéchisme de l'Église catholique - IntraText », sur vatican.va
-(consulté le 12 février 2023)
- 9. ↑ Catéchisme de l’Église Catholique, Paris, Mame Plon, 1992, n° 1849-1850 et
-n° 1847
-10. ↑ Catéchisme de l’Église catholique, vol. II, Paris, Mame Plon, 1992, n°
-1421 et n° 1446
-11. ↑ Catéchisme de l’Église Catholique, Paris, Mame Plon, 1992, n° 1866
-12. ↑ Dictionnaire Encyclopédique du christianisme Ancien, vol. II, Paris, Cerf,
-1990, p. 1964
-13. ↑ Compendium du Catéchisme de l’Église Catholique, Cotonou, Édition
-catholique du Bénin, 2005, n° 470
-14. ↑ Compendium du Catéchisme de l’Église Catholique, Cotonou, Édition
-catholique du Bénin, 2005, n° 477 et 485
-15. ↑ Compendium du Catéchisme de l’Église Catholique, Cotonou, Édition
-catholique du Bénin, 2005, n° 492
-16. ↑ Compendium du Catéchisme de l’Église Catholique, Cotonou, Édition
-catholique du Bénin, 2005, n°502
-17. ↑ Compendium du Catéchisme de l'Église catholique, Cotonou, Édition
-catholique du Bénin, 2005, n° 508
-18. ↑ Compendium du Catéchisme de l'Église catholique, Cotonou, Édition du
-Bénin, 2005, n°523
-19. ↑ Catéchisme de l’Église catholique, §1861
-20. ↑ Jean-Denis Kraege, « Péché », dans Pierre Gisel et Lucie Kaennel,
-Encyclopédie du protestantisme, Paris — Genève, Cerf — Labor et Fides, 1995
-(ISBN 2-8309-0791-4), p. 1143.
-21. ↑ André Gounelle, « Le péché », sur andregounelle.fr (consulté le 28 juin
-2024).
-22. ↑ Kurt Buehlmann, Économie de crise, alliance-ch, 2020.p.133.
-23. ↑ Birmelé 2008, p. 225.
-24. ↑ Birmelé 2008, p. 241.
-25. ↑ Søren Kierkegaard, Traité du désespoir, Paris, Folio, coll. « Essais »,
-2006, 251 p. (ISBN 2-07-032477-X), p. 169.
-26. ↑ Emil Brunner (trad. de l'allemand par Herrade Mehl), « Prédestination et
-liberté », Revue d'histoire et de philosophie religieuses, vol. 32, n^o 2,‎
-1952, p. 85 (lire en ligne, consulté le 28 juin 2024).
-
-Voir aussi
-
-[modifier | modifier le code]
-
-Sur les autres projets Wikimedia :
-  * péché, sur le Wiktionnaire
-  * peccamineux, sur le Wiktionnaire
-  * Dictionnaire de théologie catholique sur le péché, sur Wikisource
-  * Péché, sur Wikiquote
-
-Bibliographie
-
-[modifier | modifier le code]
-  * Gary A. Anderson, Sin. A History, New Haven, Yale University Press, 2009
-(ISBN 978-0-300-14989-0)
-  * André Birmelé, « le salut : Le péché et la grâce », dans André Birmelé,
-Pierre Bühler, Jean-Daniel Causse et Lucie Kaennel (dir.), Introduction à la
-théologie systématique, Genève, Labor et Fides, coll. « Lieux théologiques »
-(n^o 39), 2008 (ISBN 978-2-8309-1268-5).  Ouvrage utilisé pour la rédaction de
-l'article
-
-Articles connexes
-
-[modifier | modifier le code]
-
-Religions
-  * Péché dans le christianisme
-  * Péché dans le catholicisme
-  * Péché dans le judaïsme
-  * Péché dans l'islam
-  * Tsumi (shintoïsme)
-
-Types de péchés
-  * Adultère
-  * Avarice
-  * Colère
-  * Concupiscence
-  * Cruauté
-  * Envie
-  * Gourmandise
-  * Jalousie
-  * Luxure
-  * Orgueil
-  * Paresse
-
-Autres
-  * Arbre de la connaissance du bien et du mal
-  * Chute (Bible)
-  * Culpabilité
-  * Décalogue
-  * Diable
-  * Fruit défendu
-  * Mal
-  * Morale
-  * Pardon
-  * Péché capital
-  * Péché originel
-  * Péchés philosophique et théologique
-  * Rédemption
-  * Relaps
-  * Repentance
-  * Tentation
-  * Transgression
-  * Théologie morale
-  * Vertu
-  * Vice
-
-Liens externes
-
-[modifier | modifier le code]
-
-  *
-  *
-  * Notices dans des dictionnaires ou encyclopédies généralistes Voir et
-modifier les données sur Wikidata  :
-  + Britannica
-  + Den Store Danske Encyklopædi
-  + Enciclopedia De Agostini
-  + Gran Enciclopèdia Catalana
-  + Internetowa encyklopedia PWN
-  + Nationalencyklopedin
-  + Store norske leksikon
-  + Treccani
-  + Universalis
-  * Notices d'autorité Voir et modifier les données sur Wikidata  :
-  + BnF (données)
-  + LCCN
-  + GND
-  + Espagne
-  + Israël
-  + Tchéquie
-  * Les péchés et leurs espèces principales
-
-  * icône décorative Portail des religions et des croyances
-
-Ce document provient de
-« https://fr.wikipedia.org/w/index.php?title=Péché&oldid=232075793 ».
-Catégorie :
-  * Péché
-
-Catégories cachées :
-  * Article à mieux introduire
-  * Article avec une section vide ou incomplète
-  * Page utilisant un modèle Bases inactif
-  * Page utilisant P1417
-  * Page utilisant P8313
-  * Page utilisant P6706
-  * Page utilisant P1296
-  * Page utilisant P7305
-  * Page utilisant P3222
-  * Page utilisant P4342
-  * Page utilisant P3365
-  * Page utilisant P3219
-  * Page pointant vers des bases externes
-  * Page pointant vers des dictionnaires ou encyclopédies généralistes
-  * Article de Wikipédia avec notice d'autorité
-  * Portail:Religions et croyances/Articles liés
-
-  * La dernière modification de cette page a été faite le 3 janvier 2026 à
-05:40.
-  * Droit d'auteur : les textes sont disponibles sous licence Creative Commons
-attribution, partage dans les mêmes conditions ; d’autres conditions peuvent
-s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que
-les crédits graphiques. En cas de réutilisation des textes de cette page, voyez
-comment citer les auteurs et mentionner la licence.
-Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation
-de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
-
-  * Politique de confidentialité
-  * À propos de Wikipédia
-  * Avertissements
-  * Contact
-  * Contacts juridiques & sécurité
-  * Code de conduite
-  * Développeurs
-  * Statistiques
-  * Déclaration sur les témoins (cookies)
-  * Version mobile
-
-  * Wikimedia Foundation
-  * Powered by MediaWiki
-
-(BUTTON) Rechercher
-____________________
-(BUTTON) Rechercher
-
-[ ] Basculer la table des matières
-Péché
-(BUTTON) 98 langues Ajouter un sujet
+HTTP/2 200 date: Sat, 03 Jan 2026 16:46:16 GMT content-type: text/html;
+charset=UTF-8 set-cookie: PHPSESSID=fc74402e72515f2a370fed626ed98e4e; path=/;
+secure expires: Thu, 19 Nov 1981 08:52:00 GMT pragma: no-cache cache-control:
+public, max-age=10 report-to:
+{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare
+.com/report/v4?s=%2BkJYHbdPp39XzQiHM4oN%2BzdCZUISWbIJlapM6wMlHN%2BPjb%2F4pR3HHEq
+Nmg2r7bXfHoztmlJ8HAXWA9PkchkXyCnk2vs62LGDZtI8uw%2BKWuczbXjLoEg%3D"}]} vary:
+Accept-Encoding server: cloudflare alt-svc: h3=":443"; ma=86400
+x-turbo-charged-by: LiteSpeed cf-cache-status: BYPASS nel:
+{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} cf-ray:
+9b83f8ab780cdcfc-CDG
+
+Zamknij
+
+Zamknij
+
+(BUTTON)
+
+poezja logo
+
+  * Poezja
+  * Wiersze
+  * Opracowania lektur
+  * Matura ustna
+  * Forum literackie
+  * ____________________ (BUTTON)
+
+Grzech mój
+
+Autor: Kornel Makuszyński
+
+Zgubiłem grzech, bezcenny klejnot z mych klejnotów,
+Kiedym gonił rusałkę nagą między skały,
+Rękoma rwąc jej w biegu pasma złotych splotów,
+Usta własne zębami krwawiąc, oszalały.
+Zgubiłem grzech. Na oczach mętne mam dziś szkliwo,
+Nic nie słyszę i chodzę, jak człowiek w malignie;
+Jak ślepe ptaki myśli moje lecą krzywo,
+Snów nie mam, żadna moc mnie lotem nie podźwignie.
+Rozesłałem w przepaście i urwiska gońce:
+Oto mi jeden przyniósł tęczę z wód uśmiechu,
+Diament przyniósł drugi, trzeci przyniósł słońce,
+Wszyscy rozpacz, bo żaden nie odnalazł grzechu.
+Łez nie ronię w straszliwym dnia mojego mroku,
+Bowiem większa jest zguba, niźli moc żałoby.
+Czekanie tylko lśni w mym rozszerzonym oku,
+Cierpliwie czekam jakiejś śmiertelnej choroby.
+Zgubiłem grzech, więc jestem jak najlichszy żebrak,
+Życie mi nawet sakwę mą żebraczą skradło...
+Zawiodę modły, pochlebstw mi dla Boga nie brak,
+Świętym jeszcze być mogę, w święte wszedłszy stadło.
+A przeto będę w mnichów faryzejskim tłumie
+Hymny śpiewał, prześwięcie w modłach mych obłudny,
+Albo niech mi anioła Pan w piór pośle szumie
+I pomoże odnaleźć wśród skał grzech mój cudny.
+
+IFRAME:
+https://www.facebook.com/plugins/share_button.php?href=https://poezja.org/wz/Kor
+nel_Makuszynski/33597/Grzech_moj?utm_source=fb_share&layout=button&size=large&mo
+bile_iframe=true&width=73&height=28&appId
+
+Czytaj dalej: Pokój ludziom – Kornel Makuszyński
+
+Zobacz inne utwory Kornela Makuszyńskiego
+
+  * Pokój ludziom
+  * 120 przygód koziołka Matołka
+  * Anioł
+  * List
+  * Sny nad księgą
+  * Wołanie
+  * O duszy
+  * Spiekłemi usty
+  * Sen dobry
+  * Droga w Sezamy
+  * Skostniałość dusz
+  * Jesień
+
+Wiersze Kornela Makuszyńskiego
+
+Najpopularniejsze wiersze
+
+Najczęściej czytane utwory w naszym serwisie
+  * Pierwsza fotografia Hitlera
+  * Gawęda o miłości ziemi ojczystej
+  * Stefek burczymucha
+  * Spotkanie z matką
+  * Dwoje Ludzieńków
+  * Alarm
+  * Niepewność
+  * Bez
+  * Zima
+  * Kruk
+  * Elegia o chłopcu polskim
+  * Namuzowywanie
+
+Najpopularniejsi autorzy
+
+  * Małgorzata Hillar
+  * Joseph Addison
+  * Rainer Maria Rilke
+  * Władimir Władimirowicz Majakowski
+  * Arystoteles
+  * Homer
+  * Zuzanna Ginczanka
+  * Henryk Sienkiewicz
+  * Franciszek Dionizy Kniaźnin
+  * Józef Baran
+  * Tadeusz Miciński
+  * Molier
+
+  * Wierszyki dla dzieci
+  * Wiersze miłosne
+  * Motywy literackie
+  * Pytania jawne matura 2025
+  * Pytania jawne matura 2026
+
+  * Lalka - streszczenie
+  * Kordian - streszczenie
+  * Pan Tadeusz - streszczenie
+  * Wesele - streszczenie
+  * Potop - streszczenie
+  * Antygona - streszczenie
+
+  * Kajko i Kokosz. Szkoła latania - streszczenie
+  * Skąpiec - streszczenie
+  * Romeo i Julia - streszczenie
+  * Zemsta - streszczenie
+  * Odprawa posłów greckich - streszczenie
+
+  * W pustyni i w puszczy - streszczenie
+  * Ostatnio dodane
+  * Kontakt
+  * Polityka prywatności
+
+poezja.org - polski portal literacki - 2000 - 2026

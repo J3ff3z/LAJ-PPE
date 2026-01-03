@@ -1,1313 +1,3316 @@
-HTTP/1.1 200 OK
-Date: Sat, 03 Jan 2026 16:16:17 GMT
-Content-Type: text/html
-Content-Length: 78242
-Connection: keep-alive
-Keep-Alive: timeout=5
-Vary: Accept-Encoding
-Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
-X-Powered-By: PHP/5.6.40
-Set-Cookie: PHPSESSID=k68a7mhl7d10e0bs8eoff97nr1; path=/
-Set-Cookie: ISLAMWEB_VISITOR_FONT_SELECT=1; expires=Mon, 02-Feb-2026 16:16:17 GMT; Max-Age=2592000; path=/; domain=.islamweb.net
-Server: nginx
+HTTP/2 200 
+date: Sat, 03 Jan 2026 16:46:26 GMT
+content-type: text/html; charset=utf-8
+cache-control: no-cache, no-store, must-revalidate
+pragma: no-cache
+x-frame-options: deny
+strict-transport-security: max-age=17280000;
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
 
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <meta name="language" content="fr"/>
-    
-    	<meta charset="iso-8859-1">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-  <!-- cache ok --><!-- Loaded from Cached copy C:/islamweb_cache2/fr/mainsite/bae92b5a1b6fa4cab2424025ec4d6695 --><title>Classification des p�ch�s en p�ch�s mineurs et p�ch�s majeurs</title>
-<meta name="description" content="D�couvrez la classification des p�ch�s en p�ch�s mineurs (Sagh�ra) et majeurs (Kab�ra) selon les crit�res �tablis par les oul�mas. Les p�ch�s majeurs incluent ceux pour lesquels le Coran ou la Sunna pr�voient un ch�timent dans ce monde ou menacent lauteur de la col�re dAllah dans laudel�. En revanche, les p�ch�s mineurs ne sont pas accompagn�s de ch�timents prescrits, bien quils soient �galement � �viter. Il est essentiel de se m�fier des p�ch�s mineurs, car leur accumulation peut conduire � des p�ch�s majeurs et � la perdition. La classification des p�ch�s peut varier selon lauthenticit� des preuves cit�es par les oul�mas. Ce texte met en lumi�re la n�cessit� dune vigilance spirituelle face � toutes les formes de p�ch�, afin de pr�server sa foi et son int�grit� morale." />
-<meta name="keywords" content="classification des p�ch�s, p�ch�s mineurs, p�ch�s majeurs, ch�timent dans ce monde, ch�timent dans laudel�, divergence des oul�mas, authenticit� de la preuve, cat�gorie des p�ch�s capitaux, accumulation de p�ch�s, transformation de p�ch�s, gravit� des p�ch�s"/>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Language" content="pl" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>Opinia o niektórych społecznych skutkach grzechu</title>
+			<meta name="author" content="Fundacja Opoka">
+		<meta name="generator" content="opoka.org.pl">
+		<meta property="og:site_name" content="Fundacja Opoka">
+
+	<meta http-equiv="refresh" content="3600">
+			<meta moj="test">
+		<link rel="stylesheet" type="text/css" href="/static/themes/kep-2022/service.min.css?_=PjzY72OscaWhnCimhUpCTA"/>
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&amp;subset=latin-ext&amp;display=swap" rel="stylesheet" />		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&amp;display=swap" rel="stylesheet" />		<style type="text/css">@font-face {font-family: 'Roboto-regular';font-display: swap;src:  url('/static/themes/kep-2022/fonts/gn-fonts/Roboto-Regular.ttf') format('truetype');font-weight: normal;font-style: normal;}@font-face {font-family: 'Roboto-bold';font-display: swap;src:  url('/static/themes/kep-2022/fonts/gn-fonts/Roboto-Bold.ttf') format('truetype');font-weight: 700;font-style: normal;}@font-face {font-family: 'Roboto-black';font-display: swap;src:  url('/static/themes/kep-2022/fonts/gn-fonts/Roboto-Black.ttf') format('truetype');font-weight: 800;font-style: normal;}@font-face {font-family: 'Roboto-medium';font-display: swap;src:  url('/static/themes/kep-2022/fonts/gn-fonts/Roboto-Medium.ttf') format('truetype');font-weight: 600;font-style: normal;}@font-face {font-family: 'Roboto-light';font-display: swap;src:  url('/static/themes/kep-2022/fonts/gn-fonts/Roboto-Light.ttf') format('truetype');font-weight: 300;font-style: normal;}@font-face {font-family: 'Roboto-italic';font-display: swap;src:  url('/static/themes/kep-2022/fonts/gn-fonts/Roboto-Italic.ttf') format('truetype');font-weight: 200;font-style: normal;}@font-face {font-family: 'Mulish-regular';font-display: swap;src:  url('/static/themes/kep-2022/fonts/gn-fonts/Mulish-SemiBold.ttf') format('truetype');font-weight: normal;font-style: normal;}@font-face {font-family: 'Mulish-bold';font-display: swap;src:  url('/static/themes/kep-2022/fonts/gn-fonts/Mulish-ExtraBold.ttf') format('truetype');font-weight: 700;font-style: normal;}@font-face {font-family: 'Mulish-semibold';font-display: swap;src:  url('/static/themes/kep-2022/fonts/gn-fonts/Mulish-Bold.ttf') format('truetype');font-weight: 600;font-style: normal;}@font-face {font-family: 'Mulish-light';font-display: swap;src:  url('/static/themes/kep-2022/fonts/gn-fonts/Mulish-Light.ttf') format('truetype');font-weight: 300;font-style: normal;}@font-face {font-family: 'icomoon';src: url("/static/themes/kep-2022/fonts/gn-fonts/icomoon.eot?mdgbxd");src: url("/static/themes/kep-2022/fonts/gn-fonts/icomoon.eot?mdgbxd#iefix") format("embedded-opentype"), url("/static/themes/kep-2022/fonts/gn-fonts/icomoon.ttf?mdgbxd") format("truetype"), url("/static/themes/kep-2022/fonts/gn-fonts/icomoon.woff?mdgbxd") format("woff"), url("/static/themes/kep-2022/fonts/gn-fonts/icomoon.svg?mdgbxd#icomoon") format("svg");font-weight: normal;font-style: normal;}</style>		<script src="/static/themes/kep-2022/js/opoka.js"></script>
+
+		
+
+	<script type='text/javascript'>
+			window.CookieMsgVersion = 3;
+		window.PrivacyPolicyContentURL = "https://opoka.org.pl/_int/welcome-message";
+		var wre={"web":{},"api":{"DEBUG":false,"ReportProblem":null,"GetHelp":null,"LoginLayer":null,"ReportJSWarns":false,"migrateMute":true,"ServiceWorker":"/static/js/sw.min.js"}};
+		wre.Ready=function(cb){};
+		wre.EmitDone=function(cb){};
+		wre.IncReqScripts=function(){wre._req_scripts++};
+		wre._req_scripts=0;
+		wre.api.MOBILE=false;
+		(function() {
+			"use strict";
+			var readyList=[],readyFired=false,inst=false,d=document;
+			function ready(){if(!readyFired){readyFired=true;for(var i=0;i<readyList.length;i++){readyList[i].fn.call(window,readyList[i].ctx);}readyList=null;}};
+			wre.Ready=function(callback,context){if(readyFired||!wre._req_scripts){setTimeout(function(){callback(context);},1);return;}else{readyList.push({fn:callback,ctx:context});}};
+			wre.EmitDone=function(){wre._req_scripts--;if(wre._req_scripts <= 0){ready();}};
+		})();
+		
+	</script>
+			<script type="text/javascript" src="//static.opw.pl/static/js/desktop.min.js?_=_xKyf4PBjIkypB5cp94rXw"></script>
+			<script>wre.IncReqScripts(); wre.recaptcha_v3_key="6LdfTjcqAAAAAC7txNvRJDPENi6LLb_nAreflCzt";</script>
+			<script src="https://www.google.com/recaptcha/api.js?render=6LdfTjcqAAAAAC7txNvRJDPENi6LLb_nAreflCzt" async onload="wre.EmitDone()"></script>
+		<script type="text/javascript">
+			$(document).on("mobileinit", function () {
+				$.mobile.ajaxEnabled = false;
+			});
+		</script>
+
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		wre.api.SERVICE_ROOT = "/";
+		wre.api.ReportProblem = "x9b5327ec.xff17b375";
+		wre.api.GetHelp = "x014234ef.x09b49125";
+		wre.api.LoginLayer = "xedcfe968.x2b43a516";
+		wre.api.ReportAbuse = "x9b5327ec.x3d8cf562";
+		wre.api.UserInfoTooltip = "xedcfe968.x62ac0126";
+		wre.api.NewMessage = "xedcfe968.xeda7861c";
+		wre.api.AddFriend = "xedcfe968.xd4d39bc2";
+		wre.api.ManageFollowers = "x52c6d494.x6ed3e580";
+		wre.api.Sink = "/sink";
+		wre.api.Logout = "x2983bb04.x8d97e42a";
+		wre.api.CommentVote = "x52c6d494.x70f961d2";
+		wre.api.CommentAbuse = "x52c6d494.xba877c6c";
+		wre.api.Adverts = true;
+		wre.api.AdvertsDFPAsync = true;
+		wre.api.SessionKey = "wiara_sid";
+		wre.api.CookiePrefix = "";
+		wre.api.WidgetsFrame = 3;
+		wre.api.community = {};
 
 
-<link rel="amphtml" href="https://www.islamweb.net/amp/fr/fatwa/402412/"><!-- cache ok --><!-- Loaded from Cached copy C:/islamweb_cache2/fr/mainsite/ab53c5447f7bdaa50ae5fb77c1a48e62 -->
-
- <link rel="canonical" href="https://www.islamweb.net/fr/fatwa/402412/Classification-des-p�ch�s-en-p�ch�s-mineurs-et-p�ch�s-majeurs">                 
-   
-    
-	<link rel="shortcut icon" href="/contentver3/img/favicon.png"/>
-	<link rel="shortcut icon" href="/contentver3/img/favicon.ico"/>
-
-
-    <link rel="stylesheet" href="/contentver3/css/lang/style.css"/>
-    <link rel="stylesheet" href="/contentver3/css/lang/style-lang.css"/>
-   
-    <link rel="stylesheet" rel="preload" as="style" href="/contentver3/css/lang/bootstrap.css" />
-    <link rel="stylesheet" rel="preload" as="style" href="/contentver3/css/lang/responsive.css?v=1.1" />
-    <link rel="stylesheet" rel="preload" as="style" href="/contentver3/css/lang/responsive-lang.css" />
-    
-    <link rel="stylesheet" href="/contentver3/css/lang/style2.css?v=1.0">
-     
-    
-        <script type="text/javascript" src="/contentver3/js/jquery-1.11.0.min.js"></script>
-    <script type="text/javascript" src="/contentver3/js/jquery-easing-1.3.js" defer></script>
-    <script type="text/javascript" src="/contentver3/js/wow.js"></script>
-    <script type="text/javascript" src="/contentver3/js/popper.min.js"></script>
-
-    <script type="text/javascript" src="/contentver3/js/bootstrap.min.js"></script>
-
-    <script type="text/javascript" src="/contentver3/js/main.js"></script>
-
-    <!-- CHK 0 -->
-    <script type="text/javascript" src="/contentver3/lib/jquery-ui/jquery-ui.min.js" async></script>
-    <link rel="stylesheet" href="/contentver3/lib/jquery-ui/jquery-ui.min.css" />
-
-    <script type="text/javascript" src="/contentver3/lib/owl.carousel/owl.carousel.min.js" defer></script>
-    <link rel="stylesheet" rel="preload" as="style" href="/contentver3/lib/owl.carousel/owl.carousel.css" />
-
-
-    <script type="application/javascript" src="/contentver3/lib/fancybox-3/jquery.fancybox.min.js?v=1.20" async></script>
-    <link rel="stylesheet" rel="preload" as="style" href="/contentver3/lib/fancybox-3/jquery.fancybox.min.css" />
-
-    <script type="text/javascript" src="/fr/js/ajax.js" async></script>
-    
-    <link rel="stylesheet" href="/fr/css/style2.css?v=1.1" /> 
-</head>
-
-<script type="application/ld+json">
-{
-  "@context" : "http://schema.org",
-  "@type" : "CreativeWork",
-  "name" : "Islam Web Fran&ccedil;ais",
-  "image": "/content/img/logo_fr.png",
-  "url": "/fr",
-  "sameAs": [
-            "https://www.facebook.com/islamweb.fr/",
-           "https://www.youtube.com/user/islamwebfrancais"
-           ],
-    "potentialAction" : {
-      "@type" : "SearchAction",
-      "target" : "https://www.islamweb.net/fr/?page=result&q={search_term_string}",
-    "query-input" : "required name=search_term_string"
-  }
-}
+		wre.includes = {};
+			wre.includes.player = ["//static.opw.pl/static/js/player-audio.min.js?_=DbqkyN6fmGisRAfVDxmjVg"];
+			wre.includes.mejs = ["//static.opw.pl/static/js/jquery/mejs/build-4.2.9/mediaelement-and-player.min.js?_=rJ6hiWug6GJG9U_yXnqA"];
+			wre.includes.webevents = ["//static.opw.pl/static/js/websocket-client.min.js?_=GnJe552nb1ub1uNOYL2BrQ"];
+	/* ]]> */
+	</script>
+		
+<script type="text/javascript">
+/* <![CDATA[ */
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+/* ]]> */
 </script>
 
-     
-
-<body onload="gtag('event', 'Fatwa',{'event_label': ' Fatwa  > Criminologie et syst�me judiciaire islamique , 402412','event_category':'FAT_FR - Criminologie et syst�me judiciaire islamique'});" itemscope itemtype="http://schema.org/WebPage" >
-<!-- <div class="container"> -->
-
-	<header class="header" itemscope itemtype="http://www.schema.org/WPHeader">
-    
-		<div class="tophead">
-        
-        <section class="d-flex justify-content-between align-items-center">
-                    <div>
-                        <div class="d-none-mobile">
-                            <ul class="language" itemscope itemtype="http://www.schema.org/Language" >
-	                            <li itemprop="name"><a href="/en/" target="_blank" itemprop="url">English</a></li>
-                                <li itemprop="name"><a href="/ar/">&#1593;&#1585;&#1576;&#1610;</a></li>
-                                <li itemprop="name"><a href="/es/" target="_blank" itemprop="url">Espa&#241;ol</a></li>
-                                <li itemprop="name"><a href="/de/" target="_blank" itemprop="url">Deutsch</a></li>
-                                <li itemprop="name"><a href="/fr/" class="active" target="_blank" itemprop="url">Fran&ccedil;ais</a></li>
-                                <li itemprop="name"><a href="/id/"target="_blank" itemprop="url">Indonesia</a></li>
-                            </ul>  
-                        </div>
-                        <div class="dropdown dropdown-lang d-mobile">
-                            <a class="btn dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="11.409" height="11.409" viewBox="0 0 11.409 11.409">
-                                    <path id="Icon_material-language" data-name="Icon material-language" d="M8.7,3a5.7,5.7,0,1,0,5.71,5.7A5.7,5.7,0,0,0,8.7,3Zm3.953,3.423H10.969a8.927,8.927,0,0,0-.787-2.031A4.581,4.581,0,0,1,12.652,6.423ZM8.7,4.164a8.036,8.036,0,0,1,1.09,2.259H7.615A8.036,8.036,0,0,1,8.7,4.164ZM4.289,9.846a4.462,4.462,0,0,1,0-2.282H6.217A9.421,9.421,0,0,0,6.138,8.7a9.421,9.421,0,0,0,.08,1.141Zm.468,1.141H6.44a8.927,8.927,0,0,0,.787,2.031A4.556,4.556,0,0,1,4.757,10.986ZM6.44,6.423H4.757a4.556,4.556,0,0,1,2.47-2.031A8.927,8.927,0,0,0,6.44,6.423ZM8.7,13.245a8.036,8.036,0,0,1-1.09-2.259H9.794A8.036,8.036,0,0,1,8.7,13.245Zm1.335-3.4H7.37A8.393,8.393,0,0,1,7.278,8.7,8.32,8.32,0,0,1,7.37,7.564h2.67A8.32,8.32,0,0,1,10.131,8.7,8.393,8.393,0,0,1,10.039,9.846Zm.143,3.172a8.927,8.927,0,0,0,.787-2.031h1.683a4.581,4.581,0,0,1-2.47,2.031Zm1.01-3.172a9.421,9.421,0,0,0,.08-1.141,9.421,9.421,0,0,0-.08-1.141H13.12a4.462,4.462,0,0,1,0,2.282Z" transform="translate(-3 -3)" fill="#012d6b"></path>
-                                  </svg>
-                                   Fran&ccedil;ais
-                            </a>
-                            <ul class="dropdown-menu lang" itemscope="" itemtype="http://www.schema.org/Language">
-                                <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/ar/">&#1593;&#1585;&#1576;&#1610;</a></li>
-                                <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/es/">Espa&#241;ol</a></li>
-                                <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/de/">Deutsch</a></li>
-                                <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/fr/">Fran&ccedil;ais</a></li>														
-                                <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/en/">English</a></li>
-                                <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/id/">Indonesia</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </section>
-		</div>
-        
-        
-		<div class="willfix head">
-		<section class="head-wrapper">
-			<h1 class="logo"><a href="/fr/"><img src="/content/img/logo_fr.png" alt="Islam Web" /></a></h1>
-			
-			<a class="scrollup"><i class="fa fa-chevron-up"></i></a>
-			
-            <a class="nav-menu" data-bs-toggle="modal" data-bs-target="#modalsidemenu">
-                        <svg id="Icon_ionic-ios-menu" data-name="Icon ionic-ios-menu" xmlns="http://www.w3.org/2000/svg"
-                            width="20.853" height="13.902" viewBox="0 0 20.853 13.902">
-                            <g id="Group_3307" data-name="Group 3307" transform="translate(0 0)">
-                                <path id="Path_11486" data-name="Path 11486"
-                                    d="M24.484,13.1H5.369c-.478,0-.869-.67-.869-1.49h0c0-.819.391-1.49.869-1.49H24.484c.478,0,.869.67.869,1.49h0C25.353,12.434,24.962,13.1,24.484,13.1Z"
-                                    transform="translate(-4.5 -10.125)" fill="#012d6b" />
-                                <path id="Path_11487" data-name="Path 11487"
-                                    d="M24.484,19.854H5.369c-.478,0-.869-.67-.869-1.49h0c0-.819.391-1.49.869-1.49H24.484c.478,0,.869.67.869,1.49h0C25.353,19.184,24.962,19.854,24.484,19.854Z"
-                                    transform="translate(-4.5 -11.413)" fill="#012d6b" />
-                                <path id="Path_11488" data-name="Path 11488"
-                                    d="M24.484,26.6H5.369c-.478,0-.869-.67-.869-1.49h0c0-.819.391-1.49.869-1.49H24.484c.478,0,.869.67.869,1.49h0C25.353,25.934,24.962,26.6,24.484,26.6Z"
-                                    transform="translate(-4.5 -12.702)" fill="#012d6b" />
-                            </g>
-                        </svg>
-            </a>
-            
-			<ul class="menu" itemscope itemtype="http://schema.org/SiteNavigationElement">
-				<li itemprop="name"><a itemprop="url" href="/fr/">Accueil</a></li>
-				<li itemprop="name"><a itemprop="url" href="/fr/index.php?page=listing">Articles</a></li>
-				<li itemprop="name"><a itemprop="url" href="/fr/index.php?page=qareename">Coran</a></li>
-				<li itemprop="name"><a itemprop="url" href="/fr/fatawa/">Fatwas</a></li>
-				<li itemprop="name"><a itemprop="url" href="/fr/ebooks/">E-Books</a></li>
-                <li itemprop="name"><a itemprop="url" href="https://kids.islamweb.net/kids/fr/">Gar&ccedil;ons & Filles</a></li>
-<!--                
-                <li itemprop="name"><a itemprop="url" href="/fr/articles/76/R&eacute;cits-des-nouveaux-convertis">R&eacute;cits des nouveaux convertis</a></li>
--->                
-				<!-- <li><a href="/fr/article/52577/Qui-sommes-nous">Qui sommes-nous?</a></li> -->
-				<li itemprop="name"><a itemprop="url" href="/fr/index.php?page=contactus">Contacts</a></li>
 				
-				<li class="ai opensearch"><a><i class="fa fa-search"></i></a></li>
-			</ul>
-            
-            
-            
-            <span class="ai opensearch mobi-block" style="z-index: 999;"><a> <svg
-                                xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                <g id="Group_3990" data-name="Group 3990" transform="translate(212 -1122)">
-                                    <rect id="Rectangle_582" data-name="Rectangle 582" width="24" height="24"
-                                        transform="translate(-212 1122)" fill="none" />
-                                    <g id="Group_3891" data-name="Group 3891" transform="translate(-240 935.738)">
-                                        <path id="Icon_ionic-ios-search" data-name="Icon ionic-ios-search"
-                                            d="M25.748,24.442l-5.98-6.036a8.522,8.522,0,1,0-1.293,1.31l5.94,6a.92.92,0,0,0,1.3.034A.926.926,0,0,0,25.748,24.442ZM13.072,19.789a6.729,6.729,0,1,1,4.759-1.971A6.687,6.687,0,0,1,13.072,19.789Z"
-                                            transform="translate(24.5 182.769)" fill="#012d6b" stroke="#012d6b"
-                                            stroke-width="0.5" />
-                                    </g>
-                                </g>
-                            </svg></a></span>
-            
-            
-			<div class="searchbar animated bounceInUp">
-            <form name="srch" action="/fr/index.php" method="get" id="srch" accept-charset="UTF-8">
-            
-            <input type="hidden" name="page" value="result"/>
-				<input type="text" class="srbartext" placeholder="Search Keyword" name="q" />
-				<!--
-                <a class="websearch" href="#">Advanced Search</a>
-				<i class="fa fa-keyboard-o"></i>
-                -->
-				<input type="submit" class="srbarsubmit" value="&#xf002;" />
-            </form>
-			</div>
-		</section>
-		</div>
-	</header>
-    
-    
-    
-    
-    
-    
-       <!-- Modal -->
-        <div class="modal modalsidemenu fade" id="modalsidemenu" tabindex="-1" aria-labelledby="modalsidemenuLabel"
-            aria-hidden="true">
-            <div class="modal-dialog m-0">
-                <div class="modal-content">
-                    <div class="modal-header d-flex align-items-center justify-content-between border-0 pb-0">
-                        <h1 class="logo my-0"><a href="/ar/"><img src="/contentver3/img/logo.png"
-                                    alt="" /></a></h1>
-                        <button type="button" class="btn-close m-0" data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-                    <div class="modal-body">
-                        <ul class="menu" itemscope itemtype="http://schema.org/SiteNavigationElement">
-                            
-                                    
-            <li itemprop="name"><a itemprop="url" href="/fr/"><i><img src="/contentver3/img/ico-home.svg" alt="" /></i>Inicio</a></li>          
-                                    
-            <li itemprop="name"><a itemprop="url" href="/fr/index.php?page=listing"><i><img src="/contentver3/img/ico-article.svg" alt="" /></i>Art&iacute;culos</a></li>
-                        
-            <li itemprop="name"><a itemprop="url" href="/fr/index.php?page=qareename"><i><img src="/contentver3/img/ico-voice.svg" alt="" /></i>Cor&#225;n</a></li>
-                                                            
-            <li itemprop="name"><a itemprop="url" href="/fr/fatawa/"><i><img src="/contentver3/img/ico-ftwa.svg" alt="" /></i>Fatwas</a></li>      
-                         
-            <li itemprop="name"><a itemprop="url" href="/fr/ebooks/"><i><img src="/contentver3/img/ico-library.svg" alt="" /></i>Libros</a></li>                                    
-            <li itemprop="name"><a itemprop="url" href="/fr/articles/15"><i><img src="/contentver3/img/ico-article.svg" alt="" /></i>Musulmanes Nuevos</a></li>
-            
-            <li itemprop="name"><a itemprop="url" href="/fr/index.php?page=contactus"><i><img src="/contentver3/img/ico-mail.svg" alt="" /></i>Contactanos</a></li>
-                                
-                        </ul>
-                   
+<script type="text/javascript">
+/* <![CDATA[ */
 
-                    </div>
-                    <div class="modal-footer d-flex align-items-center justify-content-between">
+			(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer',"GTM-TLBNFHRN");
+		
+/* ]]> */
+</script>
+
+				<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BDKNLG06"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-P8BDKNLG06'); </script>
+
+			<script type="text/javascript" src="/static/js/browser-update.min.js?_=15260" async="async" defer="defer"></script>
+
+	<link href="https://episkopat.pl/rss/rtr/34d6b.Aktualnosci-Konfeferncji-Episkopatu-Polski" type="application/atom+xml" title="Aktualności Konfeferncji Episkopatu Polski" rel="alternate" />
+
+	<link rel="stylesheet" type="text/css" href="/static/themes/kep-2022/service.min.css?_=PjzY72OscaWhnCimhUpCTA" />
+<link href="/static/themes/kep-2022/touch-icons/episkopat-icon-192x192.png" rel="icon" sizes="192x192"/>
+<link href="/static/themes/kep-2022/touch-icons/episkopat-icon-180x180.png" rel="apple-touch-icon-precomposed" sizes="180x180"/>
+<link href="/static/themes/kep-2022/touch-icons/episkopat-icon-152x152.png" rel="apple-touch-icon-precomposed" sizes="152x152"/>
+<link href="/static/themes/kep-2022/touch-icons/episkopat-icon-144x14.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+<link href="/static/themes/kep-2022/touch-icons/episkopat-icon-120x120.png" rel="apple-touch-icon-precomposed" sizes="120x120"/>
+<link href="/static/themes/kep-2022/touch-icons/episkopat-icon-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+<link href="/static/themes/kep-2022/touch-icons/episkopat-icon-76x76.png" rel="apple-touch-icon-precomposed" sizes="76x76"/>
+<link href="/static/themes/kep-2022/touch-icons/episkopat-icon-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+<link href="/static/themes/kep-2022/touch-icons/episkopat-icon-57x57.png" rel="apple-touch-icon-precomposed"/>
+<link rel="manifest" href="https://episkopat.pl/manifest.webmanifest.json"/>
+<meta name="msapplication-TileColor" content="#da532c"/>
+<meta name="theme-color" content="#ffffff"/>
+<link rel="shortcut icon" href="/static/themes/kep-2022/favicon.ico?v=wQVfOBn5qEEcRqEPtiiIDw" type="image/x-icon" />
+
+	<meta property="fb:app_id" content="1195403274204658"/>
+
+		
+
+							<meta name="description" content="Opinia o niektórych społecznych skutkach grzechu"/>
+					<meta property="og:type" content="article"/>
+					<meta property="og:title" content="Opinia o niektórych społecznych skutkach grzechu"/>
+					<meta property="og:description" content="Opinia o niektórych społecznych skutkach grzechu"/>
+					<meta property="og:url" content="https://episkopat.pl/doc/185199.opinia-o-niektorych-spolecznych-skutkach-grzechu"/>
+					<meta property="article:section" content="Religion"/>
+					<meta property="article:published_time" content="2020-11-28T18:43:06Z"/>
+					<meta property="article:modified_time" content="2020-11-28T19:12:37Z"/>
+					<meta property="article:tag" content="Komisje, Rady, Zespoły"/>
+							<meta property="og:image" content="https://static.opw.pl/files/24.bkt/08/01/12/509871_mo6F_OpiniaTeologiczna2_C1200x1200-7dSjS3.png.webp?conv=JGQFAAAABLAEsAD4e9ej"/>
+					<meta property="og:image:src" content="https://static.opw.pl/files/24.bkt/08/01/12/509871_mo6F_OpiniaTeologiczna2_C1200x1200-7dSjS3.png.webp?conv=JGQFAAAABLAEsAD4e9ej"/>
+					<meta property="og:image:type" content="image/png"/>
+					<meta property="og:image:alt" content="OpiniaTeologiczna-2.jpg"/>
+					<meta property="og:image:width" content="1200"/>
+					<meta property="og:image:height" content="800"/>
+					<meta property="og:image" content="https://episkopat.pl/static/images/base/episkopat.jpg"/>
+					<meta property="og:site_name" content="episkopat.pl"/>
+<script type="application/ld+json">{"@context": "https://schema.org", "url": "https://episkopat.pl/doc/185199.opinia-o-niektorych-spolecznych-skutkach-grzechu", "name": "Opinia o niekt\u00f3rych spo\u0142ecznych skutkach grzechu", "@type": "Article", "mainEntityOfPage": {"@type": "WebPage", "@id": ""}, "keywords": "Komisje, Rady, Zespo\u0142y", "dateCreated": "2020-11-28T18:43:06", "dateModified": "2020-11-28T19:12:37", "description": "Opinia o niekt\u00f3rych spo\u0142ecznych skutkach grzechu", "datePublished": "2020-11-28T18:43:06", "image": ["https://static.opw.pl/files/24.bkt/08/01/12/509871_mo6F_OpiniaTeologiczna2_C1200x1200-7dSjS3.png.webp?conv=JGQFAAAABLAEsAD4e9ej"], "headline": "Opinia o niekt\u00f3rych spo\u0142ecznych skutkach grzechu"}</script>
+		<meta name="keywords" content="Komisje, Rady, Zespoły,"/>
+	<meta name="msapplication-config" content="none"/>
+</head>
+<body id="body"  class="app-Document">
+			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLBNFHRN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
-                        <ul class="social m-0 float-none w-auto">
-                            <li><a href="https://www.youtube.com/user/islamwebfrancais" target="_blank">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="26.07" height="19.557"
-                                        viewBox="0 0 26.07 19.557">
-                                        <path id="Icon_ionic-logo-youtube" data-name="Icon ionic-logo-youtube"
-                                            d="M25.9,8.819a3.959,3.959,0,0,0-3.769-4.135c-2.821-.132-5.7-.183-8.637-.183h-.917c-2.933,0-5.816.051-8.637.183A3.967,3.967,0,0,0,.178,8.829C.051,10.642-.005,12.455,0,14.268s.051,3.626.173,5.444a3.972,3.972,0,0,0,3.763,4.15c2.964.138,6,.2,9.1.194q4.644.015,9.1-.194a3.973,3.973,0,0,0,3.769-4.15c.122-1.818.178-3.631.173-5.449Q26.084,11.543,25.9,8.819ZM10.542,19.263V9.256l7.384,5Z"
-                                            transform="translate(0 -4.5)" fill="#012d6b" />
-                                    </svg>
 
-                                </a></li>
-                            
-                            
 
-                            <li><a href="https://www.facebook.com/islamweb.fr/" target="_blank">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="22.873" height="22.734"
-                                        viewBox="0 0 22.873 22.734">
-                                        <path id="Icon_simple-facebook" data-name="Icon simple-facebook"
-                                            d="M22.873,11.437A11.437,11.437,0,1,0,9.65,22.735V14.743h-2.9V11.437h2.9V8.917c0-2.866,1.707-4.45,4.32-4.45a17.589,17.589,0,0,1,2.56.223V7.505H15.088a1.653,1.653,0,0,0-1.864,1.786v2.145H16.4l-.507,3.306H13.224v7.992A11.439,11.439,0,0,0,22.873,11.437Z"
-                                            fill="#012d6b" />
-                                    </svg>
 
-                                </a>
-                            </li>
-                        </ul>
-                        <div class="dropdown dropdown-lang m-0">
-                            <a class="btn dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                                aria-expanded="false">
-                                Fran&ccedil;ais
-                            </a>
-                            <ul class="dropdown-menu lang" itemscope itemtype="http://www.schema.org/Language">
-                                <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/ar/">&#1593;&#1585;&#1576;&#1610;</a></li>
-                                <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/es/">Espa&#241;ol</a></li>
-                                <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/de/">Deutsch</a></li>
-                                <li itemprop="name"><a class="dropdown-item active" itemprop="url" href="/fr/">Fran&ccedil;ais</a></li>
-                                <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/en/">English</a></li>
-                                <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/id/">Indonesia</a>
-                                </li>
-                            </ul>
-                        </div>
 
-                    </div>
-                </div>
-            </div>
-        </div>    <!-- cache ok --><!-- Loaded from Cached copy C:/islamweb_cache2/fr/mainsite/d76b4c9bb852389e2397ff0163bc6b46 -->    <div class="portalpage">
-	
-	<div class="portalheader">
-		<section>
-        
-        <div class="title-page">	
-		<h1 class="logo"><a href="/fr/fatawa/"><img src="/contentver3/img/ico-ftwa.svg" alt="" /> Fatwa</a></h1>
+
+
+
+
+
+
+		
+	<div id="fb-root"></div>
+	<script>
+	window.fbAsyncInit=function() {FB.init({appId:"1195403274204658",xfbml:true,version:'v2.9'});};
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id; js.async=1;
+		js.src = "//connect.facebook.net/pl_PL/sdk.js";
+		fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+
+				
+<script type="text/javascript">
+/* <![CDATA[ */
+
+			var pp_gemius_identifier = new String("nSpKTzLraxClG4JFtrB6AOWiTINF7TfnHF7qHo_wQlT.E7");
+			var org_gemius_identifier = new String("nSpKTzLraxClG4JFtrB6AOWiTINF7TfnHF7qHo_wQlT.E7");
+			function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+			gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+			(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+			gt.setAttribute('defer','defer'); gt.src=l+'://gapl.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+		
+/* ]]> */
+</script>
+
 			
-			<ul class="menu">
-	<li><a href="/fr/index.php?page=ask"><img src="/content/img/ico-24.png" alt="" />   Envoyez votre question</a></li>
-<!--    
-	<li><a href="fatwa3.php"><img src="/content/img/ico-26.png" alt="" /> View By Subject</a></li>
-	<li><a href="fatwa2.php"><img src="/content/img/ico-27.png" alt="" /> Fatwa Of The Week</a></li>
-	<li><a href="fatwa2.php"><img src="/content/img/ico-28.png" alt="" /> Selected Fatwa</a></li>
-	<li><a href="fatwa5.php"><img src="/content/img/ico-29.png" alt="" /> Fatwa Center</a></li>
--->    
-</ul>        </div>            
-            <ol itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"  href="/fr/fatawa/"><i class="fa fa-home"></i><span itemprop="name"> Fatwa </span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/fr/fatawa/2976/Criminologie-et-syst�me-judiciaire-islamique"><span itemprop="name">Criminologie et syst�me judiciaire islamique</span></a><meta itemprop="position" content="2" /></li></ol>
-			<!--
-            <ol>
-				<li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
-				<li><a href="fatwa.php">Fatwa</a></li>
-				<li>The Prophet's death</li>
-			</ol>
-            -->
-		</section>
+
+<div id="w">
+
+
+
+
+				
+				
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout wp-el" >
+
+
+
+
+	<div class=" layout-1" style="width: 100%; clear:both">
+	<div class="c1 LayoutColumn Col0">
+		
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout_column wp-el" >
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-HeaderWithMenu wp-el" >
+
+
+
+
+
+
+
+
+
+<div id="topHead" class="layout-1200 d-flex justify-content-between">
+
+	<div class="navBox">
+
+			<form class="search" method="get" id="search_form" action="/wyszukaj/wyrazy">
+				<button class="search__button SearchButton icon-search-light" type="button" data-role="none">Wyszukiwarka</button>
+				<div class="search__content">
+					<input type="text" data-role="none" class="search__input" name="q" class="input" placeholder="Wyszukaj..." value="" />
+					<input type="submit" data-role="none" class="search__submit" id="search" value="szukaj" data-width="233" />
+				</div>
+			</form>
+
+		<div class="nav-dropdown nav-login-box">
+				<a href="" class="nav-login-box__toggler DropdownToggler icon-avatar">twój profil</a>
+
+			<div class="nav-dropdown__inner">
+			<div class="nav-dropdown-header">PROFIL UŻYTKOWNIKA</div>
+					<div class="nav-login-box__login">
+						<div class="nav-login-box__header">
+							Wygląda na to, że nie jesteś jeszcze zalogowany.
+						</div>
+	
+						<div id="l">
+							<div class="l1"><a href="https://moja.opoka.org.pl/" class="b show-layer-login" title="zaloguj się">zaloguj się</a></div>
+						</div>
+					</div>
+			</div>
+		</div>
+
+
+	
+		<div class="service-header">
+			<div class="layout-1200">
+				
+					<a href="/" class="custom-logo">
+						<img src="//static.opw.pl/files/23.bkt/04/06/777440_akgw_493522_Pfub_logo.png" alt="Wiara.pl - Serwis">
+					</a>
+			</div>
+		</div>
+
+
+		<div class="mobile-menu Menu">
+			<button class="mobile-menu__button MenuButton icon-menu" data-role="none" style="background: #878988;""></button>
+			<div class="mobile-menu__content">
+
+				
+				
+				
+						
+						<ul class="menu level-0" data-static-menu="true" data-menu-page-size="5">
+								
+								<li class="">
+										<a href="" class=" has-submenu"><span_>KEP</span_></a>
+
+										
+						
+						<ul class="level-1">
+								
+								<li class="">
+										<a href="/O-kep" class=""><span_>Kim jesteśmy</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Przewodniczacy" class=""><span_>Przewodniczący</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="https://episkopat.pl/O-kep#Prezydium-KEP" class=""><span_>Prezydium KEP</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Rada-stala" class=""><span_>Rada Stała</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Rada-biskupow-diecezjalnych" class=""><span_>Rada Biskupów Diecezjalnych</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Zebranie-plenarne" class=""><span_>Zebranie Plenarne</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Gremia" class=""><span_>Gremia</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Sekretariat-kep" class=""><span_>Sekretariat KEP</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Patronaty" class=""><span_>Patronaty</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/doc/181902.ogloszenia" class=""><span_>Ogłoszenia</span_></a>
+
+										
+				
+								</li>
+						</ul>
+				
+								</li>
+								
+								<li class="">
+										<a href="" class=" has-submenu"><span_>Kościół</span_></a>
+
+										
+						
+						<ul class="level-1">
+								
+								<li class="">
+										<a href="" class=""><span_>Kościół w Polsce</span_></a>
+
+										
+						
+						<ul class="level-2">
+								
+								<li class="">
+										<a href="https://nuncjatura.pl" class=""><span_>Nuncjatura Apostolska w Polsce</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Diecezje" class=""><span_>Diecezje</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Biskupi" class=""><span_>Biskupi</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Zycie-konsekrowane" class=""><span_>Życie konsekrowane</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Inne-instytucje" class=""><span_>Instytucje Kościelne w Polsce</span_></a>
+
+										
+				
+								</li>
+						</ul>
+				
+								</li>
+								
+								<li class="">
+										<a href="" class=""><span_>Kościół w świecie</span_></a>
+
+										
+						
+						<ul class="level-2">
+								
+								<li class="">
+										<a href="https://www.vatican.va/content/vatican/en.html" class=""><span_>Stolica Apostolska</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Koscielne-instytucje-miedzynarodowe" class=""><span_>Kościelne Instytucje Międzynarodowe</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="https://episkopat.pl/doc/216788.DUSZPASTERSTWA-POLONIJNE" class=""><span_>Duszpasterstwa Polonijne</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Polskie-instytucje-koscielne-za-granica" class=""><span_>Polskie instytucje kościelne za granicą</span_></a>
+
+										
+				
+								</li>
+						</ul>
+				
+								</li>
+						</ul>
+				
+								</li>
+								
+								<li class="">
+										<a href="/News" class=""><span_>Aktualności</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Dokumenty" class=""><span_>Dokumenty</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="" class=" has-submenu"><span_>Dla mediów</span_></a>
+
+										
+						
+						<ul class="level-1">
+								
+								<li class="">
+										<a href="/Rzecznik" class=""><span_>Rzecznik</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Biuro-prasowe" class=""><span_>Biuro Prasowe</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="/Konferencje-prasowe" class=""><span_>Konferencje prasowe</span_></a>
+
+										
+				
+								</li>
+								
+								<li class="">
+										<a href="https://episkopat.pl/Akredytacje" class=""><span_>Akredytacje</span_></a>
+
+										
+				
+								</li>
+						</ul>
+				
+								</li>
+								
+								<li class="">
+										<a href="/Sekretariat-kep" class=""><span_>Kontakt</span_></a>
+
+										
+				
+								</li>
+						</ul>
+				
+			</div>
+		</div>
+
 	</div>
-	
-	<section>
-	
-	
-	    <link rel="stylesheet" type="text/css" href="/javascripts/ratings-v2/css/style.css"/> 
-<script type="text/javascript" src="/javascripts/libs/js-cookie.js"></script>
-<!-- <script type="text/javascript" src="/javascripts/libs/jquery.cookie.js"></script> -->
-<script type="text/javascript" src="/javascripts/ratings-v2/javascripts/plugin.rating.js"></script>
 
+</div>
+
+
+<div class="menuWrapper">
+		
+			
+			<div class="layout-group-name menuBox" style="display:block">
+					
+					
+
+				<ul class="LayoutsGroupsHdr menu level-0" data-static-menu="true" data-menu-page-size="5">
+
+					
+
+						
+						<li class="">
+								<a href="" class=" has-submenu"><span>KEP</span></a>
+								
+
+				<ul class="level-1">
+
+					
+
+						
+						<li class="">
+								<a href="/O-kep" class=""><span>Kim jesteśmy</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Przewodniczacy" class=""><span>Przewodniczący</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="https://episkopat.pl/O-kep#Prezydium-KEP" class=""><span>Prezydium KEP</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Rada-stala" class=""><span>Rada Stała</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Rada-biskupow-diecezjalnych" class=""><span>Rada Biskupów Diecezjalnych</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Zebranie-plenarne" class=""><span>Zebranie Plenarne</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Gremia" class=""><span>Gremia</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Sekretariat-kep" class=""><span>Sekretariat KEP</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Patronaty" class=""><span>Patronaty</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/doc/181902.ogloszenia" class=""><span>Ogłoszenia</span></a>
+								
+
+
+								</li>
+				</ul>
+
+								</li>
+						
+						<li class="">
+								<a href="" class=" has-submenu"><span>Kościół</span></a>
+								
+
+				<ul class="level-1">
+
+					
+
+						
+						<li class="">
+								<a href="" class=""><span>Kościół w Polsce</span></a>
+								
+
+				<ul class="level-2">
+
+					
+
+						
+						<li class="">
+								<a href="https://nuncjatura.pl" class=""><span>Nuncjatura Apostolska w Polsce</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Diecezje" class=""><span>Diecezje</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Biskupi" class=""><span>Biskupi</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Zycie-konsekrowane" class=""><span>Życie konsekrowane</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Inne-instytucje" class=""><span>Instytucje Kościelne w Polsce</span></a>
+								
+
+
+								</li>
+				</ul>
+
+								</li>
+						
+						<li class="">
+								<a href="" class=""><span>Kościół w świecie</span></a>
+								
+
+				<ul class="level-2">
+
+					
+
+						
+						<li class="">
+								<a href="https://www.vatican.va/content/vatican/en.html" class=""><span>Stolica Apostolska</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Koscielne-instytucje-miedzynarodowe" class=""><span>Kościelne Instytucje Międzynarodowe</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="https://episkopat.pl/doc/216788.DUSZPASTERSTWA-POLONIJNE" class=""><span>Duszpasterstwa Polonijne</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Polskie-instytucje-koscielne-za-granica" class=""><span>Polskie instytucje kościelne za granicą</span></a>
+								
+
+
+								</li>
+				</ul>
+
+								</li>
+				</ul>
+
+								</li>
+						
+						<li class="">
+								<a href="/News" class=""><span>Aktualności</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Dokumenty" class=""><span>Dokumenty</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="" class=" has-submenu"><span>Dla mediów</span></a>
+								
+
+				<ul class="level-1">
+
+					
+
+						
+						<li class="">
+								<a href="/Rzecznik" class=""><span>Rzecznik</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Biuro-prasowe" class=""><span>Biuro Prasowe</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="/Konferencje-prasowe" class=""><span>Konferencje prasowe</span></a>
+								
+
+
+								</li>
+						
+						<li class="">
+								<a href="https://episkopat.pl/Akredytacje" class=""><span>Akredytacje</span></a>
+								
+
+
+								</li>
+				</ul>
+
+								</li>
+						
+						<li class="">
+								<a href="/Sekretariat-kep" class=""><span>Kontakt</span></a>
+								
+
+
+								</li>
+				</ul>
+
+					</div>
+		
+
+</div>
+
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+
+$(function(){
+
+	wre.web.InstallMobileHeader();
+	wre.web.InstallLayoutGroups();
+
+});
+
+/* ]]> */
+</script>
+
+
+	
+		</div>
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout webpart-bg-1FBBA6 wp-el" >
+
+
+
+
+	<div class=" fr1_1FBBA6 layout-1" style="width: 100%; clear:both">
+	<div class="c1 LayoutColumn Col0">
+		
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout_column wp-el" >
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-doc_content wp-el" >
+
+
+
+
+
+
+	<div class="txt None">
+		
+
+
+
+	
+
+<div class=" txt__rich-area">
+	<div class="headerChangeWrapper"><img class="headerChange" src="#"/>
+<div class="headerChangeTitleWrapper">
+<div class="headerChangeTitle"> </div>
+</div>
+</div>
 <script>
-$(document).ready(function(){//article rating
+    const noLinks = document.querySelectorAll('.active .level-1 > li > a');
+    for(let i = 0; i < noLinks.length; i++) {
+        noLinks[i].removeAttribute('href');
+    }
+window.addEventListener("load", function() {const boldLinks = document.querySelectorAll('li:has(ul > .z > .cur_def) > a[rel="nofollow"]');
+for (let i = 0; i < boldLinks.length; i++) {
+    boldLinks[i].removeAttribute("href");
+}});
+                    window.addEventListener("DOMContentLoaded", function () {
+                        var mainImage = "https://opoka.org.pl/files/23.bkt/04/06/778523_BpQr_2oa_26177040720_660e731777_k.jpg"
+                        var location = window.location
+                        var photos = [
+                            "https://opoka.org.pl/files/23.bkt/04/06/778523_BpQr_2oa_26177040720_660e731777_k.jpg",
+                            "https://opoka.org.pl/files/23.bkt/04/06/778472_mLx4_100328_6yJD_3_26389240305_o.jpg",
+                            "https://opoka.org.pl/files/23.bkt/04/06/778335_fYWY_eineawpoznaniu_26426608092_o.jpg",
+"https://opoka.org.pl/files/24.bkt/04/30/484176_lyXb_baner444.jpg",
+"https://opoka.org.pl/files/24.bkt/04/30/484176_TRDH_ner_relikwie_fot_MazurMarcin.jpg",
+"https://opoka.org.pl/files/24.bkt/04/30/484175_UYkL_baner02_JG2.jpg",
+                        ]
+                        var random = Math.floor(Math.random() * 6) + 1;
+                        var randomImage = random - 1
+                        console.log(photos[randomImage])
+                        console.log(location, location.pathname);
+                        //var url = new URL(item.url)  
+                        var image = document.querySelector('.headerChange')
+                        if (location.pathname !== '/') {
+                            image.src = photos[randomImage]
+                            image.classList.add("detail")
+                            image.parentNode.parentNode.classList.add("detail")
+                        } else {
+                            image.src = mainImage;
+                        }
+                        if (location.pathname === '/Biskupi') {
+                            console.log("Biskupi test from else if")
+                            image.src = photos[5]
+                        }
+                        console.log(location.pathname, "location.pathname")
+            if(window.location.href.includes('/Diecezje/')){
+var element = document.querySelector('.wp-bd.webpart-wrap-layout.webpart-bg-FBCEE3.wp-el');
+var style = element.getAttribute('style');
+var backgroundImageUrl = style.match(/url\(["']?(.*?)["']?\)/)[1];
+var topHeaderImage = document.querySelector('.headerChangeWrapper img');
+topHeaderImage.setAttribute('src',backgroundImageUrl);
+var siteTitle = document.getElementsByTagName('title');
+const headerTitle = siteTitle[0].innerText.replace(' - episkopat.pl','');
+document.querySelector('.headerChangeTitle').innerText= headerTitle;
+}
 
-  $('.ratingbox').stars({
-    
-    lang   : "en",
-    halfrate : "false",
-    callbackfn  : function(ratedid,ratedvalue) {
-       var parameter={lang:'F',id:ratedid,rate:ratedvalue,grpid:2}; 
-     
-       $.ajax({
+                        if (/doc/.test(location.pathname)) {
+                            console.log('doc');
+                            if (document.querySelector('.tB')) {
+                                var tabBishops = document.querySelector('.tB')
+                                tabBishops.classList.add("bishop")
+                                document.querySelector('body').classList.add("bishopWrap")
+                                return
+                            }
+                            var docType1 = document.querySelector('.app_document.doc_type_1')
+                            if(docType1){
+                                document.querySelector('.headerChangeWrapper').classList.add('active')
+                                var header = document.querySelector(".app_document > .txt > h1")
+                                if (header) {
+                                    var headerText = document.querySelector(".app_document > .txt > h1").innerHTML
+                                    document.querySelector(".headerChangeTitle").innerHTML = headerText
+                                    header.style.display = "none"
+                                }
+                                var imageHero = document.querySelector(".doc-gallery__img img")
+                                if (imageHero) {
+                                    image.src = imageHero.src
+                                    document.querySelector('.doc-gallery').style.display = "none"
+                                }
+                            }else if (document.querySelector('.app_document.doc_type_2')){
+                                document.querySelector('.txt__rich-area.detail').style.display = "none"
+                                document.querySelector('.c').classList.add("documentNoHeader")
+                                document.querySelector('.webpart-wrap-HeaderWithMenu').classList.add("noScroll");
+                            } else if (document.querySelector('.app_document.doc_type_3')) {
+document.querySelector('.txt__rich-area.detail').remove();
 
-                    url : "/ajax/rating.php",
-
-                    type : "POST",
-                     beforeSend: function(jqXHR, settings) {
-                        jqXHR.setRequestHeader('X-Requested-With', 'islamweb-rating');
-                    },
-
-                    data : parameter
-
-                    
-        }).done(function(response){
+}
             
-           if(response=="AlreadyRated")
-           alert('Sorry you already voted for this fatwa!');
-           else if(response==true)
-           alert('Thank you for voting!');         
-        });
-       
+                        }
+                        if (/Diecezje/.test(location.pathname)) {
+                            console.log("DIECEZJE PATH");
+                            var test2 = location.pathname.split('/')
+                            if (test2.length > 2) {
+                                console.log("DIECEZJE PATH MORE THAN 2")
+                                
+                                var image = document.querySelector('.headerChange')
+                                if(image){
+                                    image.src = document.querySelector(".imageContent .doc_image a").href
+                                    console.log(document.querySelector(".imageContent .doc_image a").href, "DIECEZJE IMG HEADER")
+                                }
+                                
+                                var LPname = document.querySelector('title');
+    
+                                if(LPname){
+                                    document.querySelector(".headerChangeTitle").innerHTML = `<h1>${LPname.text}</h1>`
+                                }
+                            }
+                        }
+                        if(document.querySelector(".listing-preview-110")){
+                            document.querySelector('body').classList.add('preview110')
+    
+                            var LPname = document.querySelector('title');
+                            var LPdescription = document.querySelector('meta[property="og:title"]');
+    
+                            // var LPdescription = document.querySelector('meta[property="og:description"]');
+                            console.log(LPname,"LPNAME",LPdescription,"LPdescription")
+                            if(LPname){
+                                document.querySelector(".headerChangeTitle").innerHTML = `<h1>${LPname.text}</h1>`
+                            }
+                            if(LPdescription){
+                                document.querySelector(".headerChangeTitle").innerHTML += `<p>${LPdescription.content}</p>`
+                            }
+    
+                        }
+            
+                        var docType2 = document.querySelector('.app_document.doc_type_2')
+                        if(docType2){
+                            console.log("Doc type 2 HEADER")
+                        }
+                        // if (/Aktualnosci/.test(location.pathname)) {
+                        //     document.querySelector('body').classList.add('aktualnosci')
+                        //     console.log("DIECEZJE PATH");
+                        //     document.querySelector(".headerChangeTitle").innerHTML = '<h1>Aktualności</h1><p>Z życia Kościoła</p>'
+                        // }
+            
+                        // if (/Patronaty/.test(location.pathname)) {
+                        //     document.querySelector('body').classList.add('patronaty')
+                        //     console.log("Patronaty");
+                        //     document.querySelector(".headerChangeTitle").innerHTML = '<h1>PATRONATY</h1><p>WSPIERAMY…..</p>'
+                        // }
+                    })
+                </script>
+</div>
+
+
+	</div>
+
+	
+		</div>
+
+	
+		</div>
+
+	</div>
+
+</div>
+
+	
+		</div>
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout wp-el" >
+
+
+
+
+	<div class=" layout-1" style="width: 100%; clear:both">
+	<div class="c1 LayoutColumn Col0">
+		
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout_column wp-el" >
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-raw_html wp-el" >
+<style>
+#lang a {
+  border-right: 1px solid #fff;
+  padding: 0 10px;
+  text-align: center;
+}
+#lang {
+  align-self: flex-end;
+  position: absolute;
+  right: 110px;
+}
+#lang li {
+margin-left: 0;
+width: fit-content;
+
+}
+.menuBox{
+    max-width: 100%;
+    min-width: unset;
+}
+</style>
+	
+		</div>
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-raw_html wp-el" >
+<script async="async">
+window.addEventListener('load', function() {
+  const langVers = document.querySelectorAll(".layout-1 .pos-sticky .webpart-wrap-doc_list ul li a");
+  if (langVers.length > 0) {
+    const menuMain = document.querySelector('.LayoutsGroupsHdr.menu.level-0');
+    menuMain.innerHTML += '<ul id="lang"><li><a href="/" id="pl">PL</a></li><li><a href="" id="en">EN</a></li><li><a href="" id="it">IT</a></li></ul>';
+
+    let en = langVers[0].href;
+    let it = langVers[1].href;
+    
+    document.getElementById('en').setAttribute('href', en);
+    document.getElementById('it').setAttribute('href', it);
+    
+    document.querySelector(".layout-1 .pos-sticky .webpart-wrap-doc_list").remove();
+  } else if (document.querySelector(".layout-1 .pos-sticky .webpart-wrap-doc_list")) {
+ document.querySelector(".layout-1 .pos-sticky .webpart-wrap-doc_list").remove();
+    console.error("No matching elements found.");
+  }
+});
+</script>
+	
+		</div>
+
+	
+		</div>
+
+	</div>
+
+</div>
+
+	
+		</div>
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-raw_html wp-el" >
+<!-- MailerLite Universal -->
+<script>
+    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+    ml('account', '1327205');
+</script>
+<!-- End MailerLite Universal -->
+	
+		</div>
+
+	
+		</div>
+
+	</div>
+
+</div>
+
+	
+		</div>
+				
+				
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout wp-el" >
+
+
+
+
+	<div class="c layout-0_66-0_33">
+	<div class="c0_66 c-right-margin LayoutColumn Col0">
+		
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout_column wp-el" >
+
+
+
+
+
+
+
+
+
+
+		<div class="app_document doc_type_2  ">
+
+		
+	<div class="cf txt ">
+
+		
+
+		<h1>Opinia o niektórych społecznych skutkach grzechu
+		</h1>
+
+		<div class="txt__lead">
+			<p></p>
+		</div>
+
+					<div class="doc-gallery">
+		<div class="doc-gallery__img">
+			<a href="//static.opw.pl/files/24.bkt/08/01/12/509871_mo6F_OpiniaTeologiczna2_83.jpg.webp" data-lightbox="image"><img src="//static.opw.pl/files/24.bkt/08/01/12/509871_mo6F_OpiniaTeologiczna2_98.jpg.webp" alt="OpiniaTeologiczna-2.jpg" style="min-width: 750px; min-height: 500px"/></a>
+			<a href="#" onclick="$(this).prev().trigger('click'); return false;" class="img_enlarge" title="Powiększ">&nbsp;</a>
+		</div>
+					<div class="doc-gallery__content">
+				<span class="cm-i-p">
+				<strong>OpiniaTeologiczna-2.jpg</strong><br />
+		</span>
+
+					
+			<span class="cm-i-a">
+					fot. bp kep			</span>			</div>
+	</div>
+
+
+
+		
+
+		<div class="txt__wrapper">
+
+			<div class="txt__content">
+
+				
+
+
+
+
+
+<div class=" txt__rich-area">
+	<p></p><p style="text-align: justify;">1. W dokumencie „Grzech pokoleniowy i uzdrowienie pokoleniowe. Problemy teologiczne i pastoralne” (2015) Komisja Nauki Wiary KEP odniosła się do kwestii rzekomego przekazywania grzechu w linii pokoleniowej. Oto najważniejsze stwierdzenia dokumentu, podsumowujące naukę Magisterium Kościoła katolickiego i tym samym określające nieprzekraczalne granice dyskusji w tym temacie:</p>
+<p style="text-align: justify;">– grzech jest aktem osobistym człowieka; człowiek nie ponosi winy za grzechy popełnione przez jego przodków (nr 8);</p>
+<p style="text-align: justify;">– grzech pierworodny jest nazywany „grzechem” w sensie analogicznym; ani grzech osobisty, ani kara za ten grzech nie jest przekazywana na następne pokolenia (nr 8);</p>
+<p style="text-align: justify;">– nie istnieje „reinkarnacja grzechu”, czyli automatyczne przechodzenie grzechu rodziców na dzieci lub następne pokolenia (nr 9);</p>
+<p style="text-align: justify;">– sakrament chrztu świętego gładzi każdy grzech, lecz nie usuwa jego doczesnych konsekwencji, przybierających postać słabości charakteru, chorób, śmierci i skłonności do powrotu do grzechu (nr 10).</p>
+<p style="text-align: justify;">Przytoczone stwierdzenia dokumentu z 2015 r. akcentowały przede wszystkim indywidualny wymiar grzechu i odpowiedzialności za popełniony grzech.</p>
+<p style="text-align: justify;">2. Niniejszy dokument jest dopełnieniem tamtego dokumentu. Racją dopełnienia jest potrzeba wyjaśnienia prawdy, że każdy grzech prócz negatywnego oddziaływania na samego grzesznika, posiada także społeczne skutki i uwarunkowania, ze względu na które mówi się niekiedy o „grzechu społecznym”.</p>
+<p style="text-align: justify;">3. Pojęcie „grzechu społecznego” jakkolwiek nie występuje literalnie w Piśmie Świętym, znajduje swoją podstawę w biblijnym ujęciu historii zbawienia: Bóg od samego początku stworzył ludzkość jako zmierzającą ku sobie wspólnotę: najpierw wspólnotę Adama i Ewy (Rdz 1,27-28; Rdz 2,18), następnie wspólnotę potomstwa Noego (Rdz 9,9), wreszcie wspólnotę ludu wybranego, pochodzącą od Abrahama (Rdz 12,2). Starotestamentalna wspólnota wypełniła się w sposób ostateczny w Kościele Chrystusowym. Jak pisze o tym Sobór Watykański II: „podobało się Bogu uświęcać i zbawiać ludzi nie pojedynczo, z wykluczeniem wszelkiej wzajemnej między nimi więzi, lecz uczynić z nich lud, który by Go poznał w prawdzie i zbożnie Mu służył” (Lumen Gentium 9).</p>
+<p style="text-align: justify;">W przypadku ludu tak Starego, jak i Nowego Przymierza mamy do czynienia z wyraźnym przeczuciem istnienia nie tylko wspólnoty obietnicy i uczestnictwa w zasługach, ale i tego, że żaden grzech nie jest sprawą ściśle indywidualną, ograniczającą się do samego grzesznika. Przeczucie takie odnajdujemy w Izraelu, któremu właściwe jest traktowanie każdego grzechu jako niewierności niszczącej cały naród. Widać to szczególnie w księgach historycznych w przypadku grzechu Akana (Joz 22,20), Dawida (2 Sam 12,9-10), czy też Salomona (1 Krl 11,9-12). Podobnie pewne specyficzne kategorie grzechów (zwłaszcza kult obcych bogów, grzechy seksualne oraz przelewanie niewinnej krwi) czynią nieczystym nie tylko grzeszącego człowieka, ale i ziemię, na której on zamieszkuje (Kpł 18,23-30; Ez 36,17), jego lud, a nawet samą świątynię (Kpł 20,3; Ez 5,11-12). Ta nieczystość moralna, inaczej niż nieczystość rytualna, nie wymaga bezpośredniego kontaktu z osobą grzeszącą. W chrześcijaństwie szczególnie wyraźną podstawą dla uznawania ponadindywidualnych skutków grzechu jest biblijna metafora Chrystusa jako Głowy (por. 1 Kor 12,12-26, Ef 4, 15-16, Kol 2, 18-19). Oparta na niej eklezjologia Kościoła – Mistycznego Ciała Chrystusa akcentuje łączność i współzależność wszystkich członków (por. Mystici Corporis, 14). W ten sposób historia zbawienia, przedstawiona na kartach Pisma Świętego, poucza nas o społecznym charakterze każdego grzechu. Ukazuje także Złego, jako tego, którego działania wymierzone są nie tylko w poszczególne osoby, ale i w społeczności, nade wszystko w społeczność ludu wybranego Starego i Nowego Testamentu.</p>
+<p style="text-align: justify;">4. Systematyczne ujęcie teologicznej prawdy o grzechu społecznym odnajdujemy przede wszystkim w adhortacji Reconciliatio et paenitentia (1984). Autor adhortacji, św. Jan Paweł II, wspomina o potrójnym znaczeniu tego pojęcia (por. Reconciliatio et paenitentia, 16):</p>
+<p style="text-align: justify;">– W swoim pierwszym znaczeniu pojęcie grzechu społecznego wyraża prawdę o tym, że zło każdego bez wyjątku grzechu, nawet najbardziej „wewnętrznego i tajemnego”, rani nie tylko samego grzesznika, ale także cały Kościół, a nawet ludzkość w ogóle.
+– W swoim drugim znaczeniu pojęcie grzechu społecznego odnosi się do tych wszystkich grzechów, które są wymierzone wprost przeciw bliźniemu lub społeczności. Chodzi tu więc o grzechy naruszające prawa innych osób, ich nietykalność, sprawiedliwość społeczną itd.
+– Wreszcie, w swoim trzecim znaczeniu, pojęcie grzechu społecznego odnosi się do tych grzesznych sytuacji lub struktur, w obrębie których większe lub mniejsze grupy społeczne, narody lub bloki narodów, występują przeciwko sobie (przy czym nie należy zapominać, że w tym wypadku można mówić o grzechu w znaczeniu jedynie analogicznym: „grzech w znaczeniu prawdziwym i właściwym jest zawsze aktem konkretnej osoby, ponieważ jest aktem wolności poszczególnego człowieka, a nie zaś aktem grupy czy wspólnoty” (Reconciliatio et paenitentia, 16).</p>
+<p style="text-align: justify;">Tym samym św. Jan Paweł II widzi możliwość używania terminu „grzech społeczny” w potrójnym znaczeniu: (1) o ile grzech, nawet najbardziej „wewnętrzny i tajemny”, posiada
+społeczne skutki, niszcząc na różnych poziomach wspólnotę ludzką; (2) o ile grzech jednostki jest wprost wymierzony przeciwko bliźniemu lub społeczności; (3) o ile grzech dotyczy rywalizacji i walki istniejącej pomiędzy społecznościami lub grupami społecznymi.</p>
+<p style="text-align: justify;">Każdy z powyższych aspektów grzechu społecznego odnosi nas, jako członków Kościoła, do sfery niezwykle ważnej, wymagającej nieustannej troski i rozpoznawania w coraz to nowych okolicznościach.</p>
+<p style="text-align: justify;">Wielkim wyzwaniem dla ludzkości i dla Kościoła obecnego czasu jest problem grzechu społecznego w trzecim znaczeniu, odnoszącym się do powstawania społecznych struktur zła i uczestnictwa w nich. Grzech ten przybiera różnorakie formy, wydarzając się na trzech płaszczyznach zinstytucjonalizowanych relacji społecznych: ekonomicznej (mieć), politycznej (rządzić) oraz kulturowej (znaczyć). Wykazuje przez to znaczne podobieństwo do przestrzeni, w których diabeł kusił Jezusa (por. Mt 4, 3-10). Problem ten wymaga bez wątpienia pogłębionej i poszerzonej refleksji, wykraczającej poza ramy niniejszego dokumentu, oraz przede wszystkim nawrócenia, także ze strony członków Kościoła.</p>
+<p style="text-align: justify;"><strong>W kontekście wątpliwości i nadużyć związanych z rzekomym przekazywaniem grzechu w linii pokoleniowej szczególnej uwagi warty jest jednak pierwszy z wymienionych w Adhortacji aspektów. Chodzi w nim bowiem o oddziaływania grzechu jednej osoby na duchową kondycję innych osób, niekoniecznie bezpośrednio z nią związanych, np. więzami krwi. Uznając ogromną doniosłość pozostałych aspektów, na tym właśnie wymiarze chcemy się w niniejszym dokumencie skoncentrować.</strong></p>
+<p style="text-align: justify;">5. Dla lepszego uchwycenia nauczania Kościoła w powyższej kwestii, warto przytoczyć zwłaszcza dwa teksty: najpierw fragment wspomnianej już adhortacji Reconciliatio et paenitentia, następnie fragment konstytucji apostolskiej św. Pawła VI Indulgentiarum doctrina.</p>
+<p style="text-align: justify;">Św. Jan Paweł II stwierdza: „(...) ze względu na ludzką solidarność, równie tajemniczą i niepojętą, co rzeczywistą i konkretną, grzech każdego człowieka w jakiś sposób dotyka innych. Jest to drugie oblicze owej solidarności, która na poziomie religijnym rozwija się w głębokiej i wspaniałej tajemnicy wspólnoty świętych (świętych obcowania), dzięki której możliwe było stwierdzenie, że »każda dusza, która się podnosi, dźwiga świat«. Temu prawu wstępowania odpowiada, niestety, prawo zstępowania; stąd można mówić o wspólnocie grzechu: dusza, która upada przez grzech, pociąga za sobą Kościół i w pewien sposób cały świat. Innymi słowy, nie ma grzechu, nawet najbardziej wewnętrznego i tajemnego, najściślej indywidualnego, który odnosiłby się wyłącznie do tego, kto go popełnia. Każdy grzech rzutuje z mniejszą lub większą gwałtownością, z mniejszą lub większą szkodą na całą strukturę kościelną i na całą ludzką rodzinę” (Reconciliatio et paenitentia, 16).</p>
+<p style="text-align: justify;">W konstytucji apostolskiej św. Pawła VI odnajdujemy z kolei następujący fragment: „Z niezbadanej i łaskawej tajemnicy Bożego zrządzenia ludzie połączeni są między sobą nadprzyrodzoną więzią, dzięki której grzech jednego szkodzi także innym, podobnie jak świętość jednego przynosi dobrodziejstwo innym” (Indulgentiarum doctrina, 4).</p>
+<p style="text-align: justify;">6. Przytoczone fragmenty jasno stwierdzają występowanie współzależności pomiędzy grzechem jednostki a duchową kondycją innych osób. Wydaje się, że współzależność ta może przebiegać bądź to na płaszczyźnie naturalnej – ściślej mówić psychofizycznej lub moralnej – bądź to na płaszczyźnie ponadnaturalnej.</p>
+<p style="text-align: justify;">7. Pierwszą z płaszczyzn oddziaływania grzechu jednostki na kondycję innych osób jest płaszczyzna psychofizyczna. Opiera się ona na biologicznej więzi istniejącej pomiędzy rodzicami a ich potomstwem. Chociaż nie może być w tym wypadku mowy o jakiejkolwiek formie „przenoszenia grzechu”, jako że grzech (z wyjątkiem „grzechu” pierworodnego) ma zawsze charakter indywidualny, to jednak w obrębie wspomnianej więzi da się stwierdzić pewnego rodzaju pośrednie oddziaływanie grzechu rodziców na kondycję duchową dzieci (por. Jr 31,29). Otóż w zgodzie z podstawowymi danymi objawienia uznajemy, że każdy grzech niszczy w osobie grzesznika nie tylko to, co nadprzyrodzone, ale także to, co naturalne: siłę charakteru, jasność rozpoznawania prawdy, zdolność powierzania siebie innym, itd. Te właśnie wynikłe z grzechu osłabienia natury mogą mieć do pewnego stopnia wpływ na konkretne osoby pozostające z grzesznikiem w związku pokrewieństwa. Ich „odziedziczenie” może z kolei prowadzić do powstania problemów natury duchowej, dotyczących powierzenia się Bogu i uznania w Nim źródła życia i nadziei. W ten sposób grzechy rodziców mogą pośrednio – poprzez osłabienie tego, co naturalne – doprowadzić do łatwiejszego zaistnienia grzesznych postaw u ich dzieci.</p>
+<p style="text-align: justify;">8. Druga z wymienionych płaszczyzn odnosi się do wymiaru moralnego. Wpływ grzechu jednej osoby na kondycję duchową innych osób polega w tym przypadku na tym, że znane nam grzeszne postępowanie innych osób oddziałuje w pewien sposób na naszą wyobraźnię, intelekt oraz emocje. Oddziaływanie to może przebiegać w trzech kierunkach. Po pierwsze, może nas skłaniać do wyboru podobnego zła – dzieje się tak, gdy zło jakiegoś uczynku oddziałuje na nas swą pozorną atrakcyjnością i w pewien sposób nas „uwodzi”. Po drugie, zło czynione przez inne osoby, szczególnie jeśli jest rozległe i prezentowane jako norma, może prowadzić do relatywizacji czy też banalizacji zła, a w konsekwencji do pomniejszania
+wrodzonej wrażliwości na grzech. Po trzecie, o ile grzeszącymi są osoby wierzące, ich złe postępowanie, może na nas oddziaływać jako zgorszenie i skłaniać do odwrócenia się od Boga i Kościoła. Może także prowadzić do utraty nadziei na święte i cnotliwe życie.</p>
+<p style="text-align: justify;">9. Należy podkreślić, że w obydwu powyższych przypadkach nie mamy do czynienia z nadnaturalnym oddziaływaniem grzechu jednej osoby na inne konkretne osoby, ale z oddziaływaniem, które wprawdzie zrodzone w grzechu (jednych) i do grzechu (innych) mogące prowadzić, dokonuje się jednak przez to, co naturalne: poprzez osłabienie naturalnych zdolności, poprzez zły przykład lub poprzez zgorszenie.</p>
+<p style="text-align: justify;">10. Powyższe wyakcentowanie jest ważne dla uchwycenia specyfiki trzeciego rodzaju oddziaływania grzechu jednostki na duchową kondycję innych osób. Chodzi w tym wypadku o oddziaływanie, które nie jest oparte na zależnościach typu naturalnego: bądź to zależności psychofizycznej, bądź to zależności moralnej. Przekonanie o istnieniu takiego wpływu znajdujemy w słowach św. Jana Pawła II, który stwierdza oddziaływanie każdego, nawet najbardziej wewnętrznego, tajemnego i indywidualnego grzechu na kondycję całej społeczności. Słowa te świadczą o tym, że musimy mieć w tym wypadku do czynienia ze współzależnością przebiegającą ponad poziomem psychofizycznym oraz moralnym, gdyż więzi istniejące na tych dwóch poziomach nie tłumaczą możliwości powyższego wpływu.</p>
+<p style="text-align: justify;">11. Na czym dokładniej miałoby polegać oddziaływanie grzechu jednostki na całą wspólnotę, przebiegające ponad poziomem psychofizycznym i moralnym? Także i to oddziaływanie nie może polegać na przenoszeniu na społeczność indywidualnego grzechu, odpowiedzialności za grzech lub kar z nim związanych. Takie ujęcie sprzeciwiałoby się jednoznacznie doktrynie Kościoła oraz moralnej zasadzie odpowiedzialności. W fenomenie grzechu, prócz samego grzesznego aktu oraz towarzyszącej mu odpowiedzialności i kary, odnajdujemy jeszcze inną rzeczywistość. Św. Jan Paweł II zauważa: „także po rozgrzeszeniu pozostaje w duszy chrześcijanina pewien obszar mroku, będący skutkiem ran grzechowych, niedoskonałości skruchy, osłabienia władz duchowych, w których tkwi jeszcze pozostałe zakaźne ognisko grzechu, wciąż wymagające walki z nim poprzez umartwienie i pokutę” (Reconciliatio et paenitentia, 31). Wydaje się, że w odróżnieniu od samego grzechu oraz kar za grzechy, ów „obszar mroku”, będący następstwem oddzielenia się człowieka od Boga, może oddziaływać destrukcyjnie na cały Kościół: podobnie jak w życiu każdego człowieka grzech osłabia go i czyni trudniejszym cnotliwe życie, tak grzechy członków wspólnoty stwarzają duchową przestrzeń, w której istnieje łatwość grzechu.</p>
+<p style="text-align: justify;">Dotykamy tutaj bez wątpienia tajemnicy: zarówno natura wspomnianego „obszaru mroku”, jak i sposoby jego oddziaływania pozostają niedostępne naszemu poznaniu (misterium iniquitatis). <strong>Z tego też powodu należy wystrzegać się próżnych spekulacji, niepopartych wystarczającą ilością przesłanek objawionych</strong>. Z drugiej strony wspominana rzeczywistość nie powinna być w żadnym razie lekceważona lub pomijana. Przypomina ona o realności „grzechu świata” (J 1, 29), „sił ciemności” oraz osobowego Zła (1 J, 5-19), z którymi stykają się zarówno jednostki, jak i całe społeczności (por. Reconciliatio et paenitentia, 14). W myśleniu o powyższej tajemnicy musimy przede wszystkim zachować perspektywę chrystologiczną: grzech każdego pojedynczego człowieka niszczy mistyczną, nadprzyrodzoną communio istniejącą między Chrystusem a ogółem wiernych. To właśnie naruszenie tej communio oraz jego konsekwencje stanowią istotę omawianego wymiaru grzechu społecznego: człowiek włączony w Mistyczne Ciało Chrystusa, przez swoje grzeszne postępowanie doprowadza do osłabienia więzi, które to Ciało scalają i przez to oddala siebie oraz inne członki Mistycznego Ciała od Życiodajnego Źródła. Grzech jednostki prowadzi w ten sposób także do dezintegracji wspólnoty ludzkiej oraz do alienacji i osamotnienia człowieka. Wszystko to uwidacznia prawdę o tym, że grzech nigdy nie jest w stanie być spoiwem łączącym ludzi – jest on raczej czymś, co niszcząc wszelakie więzi, odsuwa ludzi od Chrystusa i od siebie nawzajem.</p>
+<p style="text-align: justify;">12. Jakie kroki może podejmować chrześcijańska wspólnota wobec tego duchowego zła, które choć wynika z grzechów poszczególnych osób, to jednak niszczy całą społeczność Kościoła?</p>
+<p style="text-align: justify;">Po pierwsze, można tu wskazać te wszystkie praktyki pokuty i pojednania, które uzdrawiają i oczyszczają samego grzesznika: a więc z jednej strony sakrament pojednania, Eucharystii i namaszczenia chorych, z drugiej zaś strony pozasakramentalne praktyki pokutne, takie jak post, modlitwa i jałmużna (por. Synod Biskupów 1983, Instrumentum laboris, 42-54). Do powyższych praktyk należy wliczyć także odpusty święte, ukierunkowane na usunięcie kar doczesnych za grzechy. Warto pamiętać, że kary te nie są formą zemsty ze strony Boga, ale są wynikającymi z grzechu obciążeniami i deformacjami duchowymi – każdy grzech prócz naruszenia komunii z Bogiem niszczy bowiem w samym grzeszniku harmonijne odniesienie do Stwórcy i stworzenia, wprowadzając na to miejsce nieuporządkowanie i chaos (por. KKK 1472).</p>
+<p style="text-align: justify;">W powyższy sposób, poprzez uzdrowienie jednostki na drodze praktyk sakramentalnych i pozasakramentalnych, realizuje się uzdrowienie także Kościoła jako całości, zgodnie z „prawem wstępowania”, będącym odwrotnością omawianego wcześniej „prawa zstępowania”: pokuta i pojednanie każdego z członków uzdrawia i uświęca cały Kościół.</p>
+<p style="text-align: justify;">Po drugie, chodzi o praktyki, które mają na celu pokutę i zadośćuczynienie nie za własne grzechy, lecz za grzechy innych członków Kościoła, teraźniejsze i przeszłe. Przykładem takiej praktyki może być modlitwa św. Jana Pawła II podczas Roku Jubileuszowego, 12 marca 2000 r., w której papież zwrócił się do Boga z prośbą o oczyszczenie Kościoła oraz o „przebaczenie grzechów popełnionych przez jego członków” (z modlitwą tą korespondował dokument Międzynarodowej Komisji Teologicznej „Pamięć i pojednanie: Kościół i winy przeszłości”, Rzym 2001). Papieska modlitwa oraz praktyka nabożeństw pokutnych ukazuje, że jakkolwiek odpowiedzialność za konkretny czyn może w sensie ścisłym ponosić tylko jego sprawca, to nie jest wykluczone, by wspólnota po pierwsze, przyjęła na siebie zań odpowiedzialność w sensie szerszym, po drugie zaś, by przejęła szczególną odpowiedzialność za dobro, które zostało przez złe postępowanie naruszone. Modlitwa braci i sióstr wyraża w tym wypadku prawdę o tym, że grzesznik jest członkiem wspólnoty: jednego organizmu, za który inne członki mogą pokutować i zadośćuczynić. <strong>Nie należy przy tym zapominać, że wzięcie na siebie powyższej odpowiedzialności wynika z dobrowolnego i świadomego aktu członków wspólnoty, nie zaś z automatycznego przypisania im odpowiedzialności za czyny innych osób.</strong></p>
+<p style="text-align: justify;">Inną formą dobrowolnego zadośćuczynienia za grzechy drugich jest modlitwa za zmarłych członków rodzin lub wspólnot. O ile znane są ich notoryczne i zatwardziałe grzechy, dana rodzina lub wspólnota może w geście szczególnej, dobrowolnej odpowiedzialności podjąć praktyki pokutne ukierunkowane na uzdrowienie ran zadanych przez ich przodków Kościołowi oraz uczestniczyć we Mszach Świętych z intencją wynagrodzenia za grzechy popełnione w rodzinie. Praktyka pokutowania za grzechy niesprawiedliwych ma  podstawy w Piśmie Świętym: już Mojżesz pokutował za grzechy narodu, poszcząc przed Bogiem przez czterdzieści dni i czterdzieści nocy (Pwt 9,18).</p>
+<p style="text-align: justify;">13. Omówiony powyżej społeczny aspekt grzechu odnosi się do oddziaływania, jakie grzech pojedynczej osoby wywiera na wspólnotę całego Kościoła lub na całą ludzkość. Do takiego właśnie powszechnego oddziaływania nawiązywali cytowani powyżej święci papieże: Paweł VI i Jan Paweł II. Poważne niejasności dotyczą także i tego, czy jest możliwe, aby grzech jednej osoby mógł wywierać wyjątkowo silne lub specyficzne oddziaływanie na inne pojedyncze osoby, np. na poszczególnych krewnych grzesznika lub też na krąg osób blisko z nim związanych.</p>
+<p style="text-align: justify;">Przytoczone wcześniej fragmenty oficjalnego nauczania Kościoła nie rozważają tej możliwości. Należy jednak pamiętać, że także tutaj mamy do czynienia z tajemnicą, której pewne aspekty pozostają dla nas zakryte. Wobec występujących uwikłań w zło, zniewoleń (w skrajnych wypadkach opętania) poszczególnych osób, nie należy lekceważyć grzesznych sytuacji, które miały bądź nadal mają miejsce także w ich dalszej rodzinie lub w kręgu znajomych. We wszystkich powyższych przypadkach należy położyć nacisk na przyjęcie duchowych środków pomocy, które są owocem odkupienia w Chrystusie, zasadzających się na osobistym nawróceniu osoby proszącej o pomoc. Pomocna w tym kontekście możne być także modlitwa wspólnoty Kościoła za konkretną osobę dotkniętą pewnego rodzaju negatywnym oddziaływaniem natury duchowej.</p>
+<p style="text-align: justify;">14. Przy rozpatrywaniu wszystkich powyższych problemów oraz podczas mierzenia się ze złem, które może dotykać nas samych lub naszych bliskich, należy pamiętać o podstawowych prawdach:</p>
+<p style="text-align: justify;">a) Choć wpływ Złego nie może być pomniejszany ani lekceważony, naszą ufność pokładamy w mocy i potędze Boga. Boża moc i potęga przezwycięża to zło, które dotyka zarówno cały Kościół, jak i poszczególne osoby.</p>
+<p style="text-align: justify;">b) Kościół ofiarowuje osobom wierzącym szereg praktyk stanowiących realną i wielką pomoc w zmaganiu z dotykających ich złem: chodzi zarówno o pomoc sakramentalną (sakrament pojednania, Eucharystii oraz namaszczenia chorych), jak i pozasakramentalną (odpusty, praktyka postu, modlitwy i jałmużny).</p>
+<p style="text-align: justify;">c) Nikt na świecie – niezależnie od swojej osobistej historii i historii jego przodków – nie jest pozbawiony wolności woli, rozumianej jako zdolności zwrócenia się ku dobru i ostatecznie ku samego Bogu. Przyjęcie determinującego charakteru grzechu byłoby nie tylko zniekształceniem prawdy o istnieniu wolnej woli człowieka, ale mogłoby prowadzić do głęboko traumatycznych postaw u osób „dziedziczących” pewnego rodzaju osłabienia natury.</p>
+<p style="text-align: justify;">d) Wpływ, jaki zło wywiera na człowieka, zarówno co do jego przyczyn, skutków, jak i sposobów oddziaływania, stanowi obszar tajemnicy (misterium iniquitatis). Świadomość tego powinna powstrzymywać wiernych przez wikłaniem się w próżne i w pewnym sensie niebezpieczne spekulacje. Pewny fundament dla naszego myślenia o złu świata odnajdujemy  Objawieniu zawartym na kartach Pisma Świętego oraz w doktrynalnej tradycji Kościoła.</p>
+<p style="text-align: justify;">Dokument zatwierdzony na posiedzeniu (online) Komisji Nauki Wiary KEP dnia 14 listopada 2020 roku.</p>
+</div>
+
+		
+
+
+<div class="pgr">
+		<span class="pgr_arrow">«</span>
+		<span class="pgr_arrow">‹</span>
+
+<span class="pgr_nrs">
+		<span>1</span>
+</span>
+		<span class="pgr_arrow">›</span>
+		<span class="pgr_arrow">»</span>
+</div>
+
+
+				
+	<div class="fb-like" data-href="https://episkopat.pl/doc/185199.opinia-o-niektorych-spolecznych-skutkach-grzechu" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true" data-width="210"></div>
+
+
+				
+
+				
+
+
+
+
+
+
+
+
+
+			</div>
+
+			<div class="txt__sidebar" id="sidebar">
+				<div class="txt__author">
+												
+				<p class="l l-2 doc-source">
+							<span class="s">Biuro Prasowe KEP</span>
+					</b>
+
+				</p>
+
+					<p class="doc-date"><span>publikacja</span> <b>28.11.2020 18:43</b></p>
+				</div>
+				
+	<div class="social-wrapper">
+		<div class="txt__social">
+			
+	<span class="wykop">
+				<a href="http://www.facebook.com/share.php?u=https%3A%2F%2Fepiskopat.pl%2Fdoc%2F185199.opinia-o-niektorych-spolecznych-skutkach-grzechu" class="SocialPlugin fbIcon" data-plugin="FBShare" data-url="https://episkopat.pl/doc/185199.opinia-o-niektorych-spolecznych-skutkach-grzechu" target="_blank">FB</a>
+				<a href="http://twitter.com/share?url=https%3A%2F%2Fepiskopat.pl%2Fdoc%2F185199.opinia-o-niektorych-spolecznych-skutkach-grzechu&amp;text=Opinia+o+niekt%C3%B3rych+spo%C5%82ecznych+skutkach+grzechu" class="SocialPlugin twitterIcon" data-plugin="TwShare" data-url="https://episkopat.pl/doc/185199.opinia-o-niektorych-spolecznych-skutkach-grzechu" data-empty-value="tweetnij" target="_blank">Twitter</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	</span>
+
+		</div>
+		<div class="txt__social-icons">
+				<a href="print" rel="nofollow" onclick="javascript:window.open(&#34;/doc_pr/185199.opinia-o-niektorych-spolecznych-skutkach-grzechu&#34;,'drukowanie','width=760,height=500,toolbar=no,location=no,scrollbars=yes,resize=no'); return false;" title="drukuj" class="print">drukuj</a>
+			<a href="#" rel="nofollow" title="wyślij" class="send ShowWidget" data-widget="SendLink" data-object="185199" data-key="MmYxM2U0ZWEyYTZj">wyślij</a>
+			<a class="SaveForLater"
+				style="display:none"
+				href="#"
+				data-id="WO:1:185199"
+				data-url="https://episkopat.pl/doc/185199.opinia-o-niektorych-spolecznych-skutkach-grzechu"
+				data-key="MmYxM2U0ZWEyYTZj"
+				data-title="Opinia o niektórych społecznych skutkach grzechu"
+				data-lead=""
+				data-imgsrc="//static.opw.pl/files/24.bkt/08/01/12/509871_mo6F_OpiniaTeologiczna2_22.jpg.webp" 
+				data-pubdate="28.11.2020 18:43"
+				data-saved-title="Zachowane">zachowaj</a>
+		</div>
+	</div>
+
+			</div>
+
+			
+		</div>
+
+		<div class="txt__tags">
+			
+	<div class="tags">
+					<span>TAGI:</span>
+			<ul class="tags">
+					<li><a href="/wyszukaj/tag/14675.Komisje-Rady-Zespoly" rel="nofollow">Komisje, Rady, Zespoły</a></li>
+			</ul>
+	</div>
+
+		</div>
+
+	</div>
+
+
+		</div>
+
+
+
+
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-raw_html wp-el" >
+ <script>
+            const boldElement = document.querySelector('.doc-date b');
+            const text = boldElement.textContent;
+            const newText = text.slice(0, -6);
+            boldElement.textContent = newText;
+    </script>
+	
+		</div>
+
+	
+		</div>
+
+	</div>
+
+	<div class="c0_33 LayoutColumn Col1">
+		
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout_column wp-el" >
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-raw_html wp-el" >
+<a class="twitter-timeline" data-height="450" min-width="310" href="https://twitter.com/EpiskopatNews?ref_src=twsrc%5Etfw">Tweets by EpiskopatNews</a>
+	
+		</div>
+
+	
+		</div>
+
+	</div>
+
+</div>
+
+	
+		</div>
+				
+				
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout wp-el" >
+
+
+
+
+	<div class=" layout-1" style="width: 100%; clear:both">
+	<div class="c1 LayoutColumn Col0">
+		
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout_column wp-el" >
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout webpart-bg-F9F9F9 wp-el" >
+
+
+
+
+	<div class=" fr1_F9F9F9 layout-0_5-0_5" style="width: 100%; clear:both">
+	<div class="c0_5 c-right-margin LayoutColumn Col0">
+		
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout_column wp-el" >
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout wp-el" >
+
+
+
+
+	<div class=" layout-0_33-0_33-0_33" style="width: 100%; clear:both">
+	<div class="c0_33 c-right-margin LayoutColumn Col0">
+		
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout_column wp-el" >
+
+
+
+
+		
+
+		<div class="wp-bd webpart-wrap-menu wp-el wp-has-title" >
+				<a class="LayoutAnchor Anchor" name="O-kep"></a>
+
+			<div class="cf">
+					<h4 class="cN cN-no-link"><span class="cN_">O kep</span></h4>
+			</div>
+
+
+
+
+
+
+<div class="menu_vert_open_w"><div class="menu_vert_open"><div class="menu_vert_open_">
+	
+
+	<ul class="menu_vert-ul" id="rm125891_7">
+
+		
+
+							<li class="m1">
+			
+				<a href="#" rel="nofollow" class="cur_def">[]</a>
+				
+
+
+			</li>
+
+							<li class="m2">
+			
+				<a href="/O-kep" class="">Kim jesteśmy</a>
+				
+
+
+			</li>
+
+							<li class="m3">
+			
+				<a href="/News" class="">Aktualności</a>
+				
+
+
+			</li>
+
+							<li class="m4">
+			
+				<a href="/Dokumenty" class="">Dokumenty</a>
+				
+
+
+			</li>
+
+							<li class="m5">
+			
+				<a href="/Przewodniczacy" class="">Przewodniczący KEP</a>
+				
+
+
+			</li>
+
+							<li class="m6">
+			
+				<a href="https://episkopat.pl/O-kep#Prezydium-KEP" class="">Prezydium KEP</a>
+				
+
+
+			</li>
+
+							<li class="m7">
+			
+				<a href="/Rada-stala" class="">Rada Stała KEP</a>
+				
+
+
+			</li>
+
+							<li class="m8">
+			
+				<a href="/Rada-biskupow-diecezjalnych" class="">Rada Biskupów Diecezjalnych </a>
+				
+
+
+			</li>
+
+							<li class="m9">
+			
+				<a href="/Zebranie-plenarne" class="">Zebranie Plenarne KEP</a>
+				
+
+
+			</li>
+
+							<li class="m10">
+			
+				<a href="/Gremia" class="">Gremia</a>
+				
+
+
+			</li>
+
+							<li class="m11">
+			
+				<a href="/Sekretariat-kep" class="">Sekretariat KEP</a>
+				
+
+
+			</li>
+
+							<li class="m12">
+			
+				<a href="/Patronaty" class="">Patronaty</a>
+				
+
+
+			</li>
+
+							<li class="m13">
+			
+				<a href="/Ogloszenia" class="">Ogłoszenia</a>
+				
+
+
+			</li>
+
+	</ul>
+
+</div></div></div>
+
+	
+		</div>
+
+	
+		</div>
+
+	</div>
+
+	<div class="c0_33 c-right-margin LayoutColumn Col1">
+		
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout_column wp-el" >
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-menu wp-el" style="padding-top:142px;margin-top:0;">
+
+
+
+
+
+
+<div class="menu_vert_open_w"><div class="menu_vert_open"><div class="menu_vert_open_">
+	
+
+	<ul class="menu_vert-ul" id="rm125891_9">
+
+		
+
+							<li class="m1">
+			
+				<a href="/Gremia" class="">Gremia statutowe</a>
+				
+
+	<ul>
+
+		
+
+							<li class="z">
+			
+				<a href="#" rel="nofollow" class="cur_def">Gremia statutowe</a>
+				
+
+
+			</li>
+
+	</ul>
+
+			</li>
+
+							<li class="m2">
+			
+				<a href="https://episkopat.pl/Gremia#komisje" class="">Komisje</a>
+				
+
+
+			</li>
+
+							<li class="m3">
+			
+				<a href="https://episkopat.pl/Gremia#rady" class="">Rady</a>
+				
+
+
+			</li>
+
+							<li class="m4">
+			
+				<a href="https://episkopat.pl/Gremia#zespoly" class="">Zespoły</a>
+				
+
+
+			</li>
+
+							<li class="m5">
+			
+				<a href="https://episkopat.pl/Gremia#inne" class="">Inne Gremia</a>
+				
+
+
+			</li>
+
+							<li class="m6">
+			
+				<a href="#" rel="nofollow" class="cur_def">[]</a>
+				
+
+	<ul>
+
+		
+
+							<li class="z">
+			
+				<a href="#" rel="nofollow" class="cur_def">Delegaci, Asystenci, Duszpasterze</a>
+				
+
+
+			</li>
+
+	</ul>
+
+			</li>
+
+							<li class="m7">
+			
+				<a href="https://episkopat.pl/Gremia#delegaci" class="">Delegaci</a>
+				
+
+
+			</li>
+
+							<li class="m8">
+			
+				<a href="https://episkopat.pl/Gremia#asystenci" class="">Asystenci</a>
+				
+
+
+			</li>
+
+							<li class="m9">
+			
+				<a href="https://episkopat.pl/Gremia#duszpasterze" class="">Duszpasterze</a>
+				
+
+
+			</li>
+
+							<li class="m10">
+			
+				<a href="https://episkopat.pl/Gremia#inni" class="">Inni</a>
+				
+
+
+			</li>
+
+	</ul>
+
+</div></div></div>
+
+	
+		</div>
+
+	
+		</div>
+
+	</div>
+
+	<div class="c0_33 LayoutColumn Col2">
+		
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout_column wp-el" >
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-menu wp-el" style="padding-top:142px;margin-top:0;">
+
+
+
+
+
+
+<div class="menu_vert_open_w"><div class="menu_vert_open"><div class="menu_vert_open_">
+	
+
+	<ul class="menu_vert-ul" id="rm125891_11">
+
+		
+
+							<li class="m1">
+			
+				<a href="#" rel="nofollow" class="cur_def">[]</a>
+				
+
+	<ul>
+
+		
+
+							<li class="z">
+			
+				<a href="/Sekretariat-kep" class="">Sekretariat KEP</a>
+				
+
+
+			</li>
+
+	</ul>
+
+			</li>
+
+							<li class="m2">
+			
+				<a href="https://episkopat.pl/Sekretariat-kep#Biuro-Przewodniczacego-KEP" class="">Biuro Przewodniczącego KEP</a>
+				
+
+
+			</li>
+
+							<li class="m3">
+			
+				<a href="https://episkopat.pl/Sekretariat-kep#Biuro-Sekretarza-Generalnego-KEP" class="">Biuro Sekretarza Generalnego KEP</a>
+				
+
+
+			</li>
+
+							<li class="m4">
+			
+				<a href="https://episkopat.pl/Sekretariat-kep#Biuro-Zastepcy-Sekretarza-Generalnego-KEP" class="">Biuro Zastępcy Sekretarza Generalnego KEP</a>
+				
+
+
+			</li>
+
+							<li class="m5">
+			
+				<a href="https://episkopat.pl/Sekretariat-kep#Biuro-Sekretariatu-KEP" class="">Biuro Sekretariatu KEP</a>
+				
+
+
+			</li>
+
+							<li class="m6">
+			
+				<a href="https://episkopat.pl/Sekretariat-kep#Biuro-Ekonoma-KEP" class="">Biuro Ekonoma KEP</a>
+				
+
+
+			</li>
+
+							<li class="m7">
+			
+				<a href="https://episkopat.pl/Sekretariat-kep#Biuro-Prasowe-KEP" class="">Biuro Prasowe KEP</a>
+				
+
+
+			</li>
+
+							<li class="m8">
+			
+				<a href="https://episkopat.pl/Sekretariat-kep#Biuro-Prawne-Sekretariatu-KEP" class="">Biuro Prawne KEP</a>
+				
+
+
+			</li>
+
+							<li class="m9">
+			
+				<a href="https://episkopat.pl/Sekretariat-kep#Biuro-Delegata-KEP-ds-Duszpasterstwa-Emigracji-Polskiej" class="">Biuro Delegata KEP ds. Duszpasterstwa Emigracji Polskiej</a>
+				
+
+
+			</li>
+
+							<li class="m10">
+			
+				<a href="https://episkopat.pl/Sekretariat-kep#Biuro-Delegata-KEP-ds-Ochrony-Dzieci-i-Mlodziezy" class="">Biuro Delegata KEP ds. Ochrony Dzieci i Młodzieży</a>
+				
+
+
+			</li>
+
+							<li class="m11">
+			
+				<a href="https://episkopat.pl/Sekretariat-kep#Biuro-KEP-ds-Unii-Europejskiej" class="">Biuro KEP ds. Unii Europejskiej </a>
+				
+
+
+			</li>
+
+							<li class="m12">
+			
+				<a href="https://episkopat.pl/Sekretariat-kep#Archiwum-KEP" class="">Archiwum KEP</a>
+				
+
+
+			</li>
+
+	</ul>
+
+</div></div></div>
+
+	
+		</div>
+
+	
+		</div>
+
+	</div>
+
+</div>
+
+	
+		</div>
+
+	
+		</div>
+
+	</div>
+
+	<div class="c0_5 LayoutColumn Col1">
+		
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout_column wp-el" >
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout wp-el" >
+
+
+
+
+	<div class=" layout-0_33-0_33-0_33" style="width: 100%; clear:both">
+	<div class="c0_33 c-right-margin LayoutColumn Col0">
+		
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout_column wp-el" >
+
+
+
+
+		
+
+		<div class="wp-bd webpart-wrap-menu wp-el wp-has-title" >
+				<a class="LayoutAnchor Anchor" name="Kosciol"></a>
+
+			<div class="cf">
+					<h4 class="cN cN-no-link"><span class="cN_">Kościół</span></h4>
+			</div>
+
+
+
+
+
+
+<div class="menu_vert_open_w"><div class="menu_vert_open"><div class="menu_vert_open_">
+	
+
+	<ul class="menu_vert-ul" id="rm125891_15">
+
+		
+
+							<li class="m1">
+			
+				<a href="#" rel="nofollow" class="cur_def">Kościół w Polsce</a>
+				
+
+	<ul>
+
+		
+
+							<li class="z">
+			
+				<a href="#" rel="nofollow" class="cur_def">Kościół w Polsce</a>
+				
+
+
+			</li>
+
+	</ul>
+
+			</li>
+
+							<li class="m2">
+			
+				<a href="https://nuncjatura.pl" class="">Nuncjatura Apostolska w Polsce</a>
+				
+
+
+			</li>
+
+							<li class="m3">
+			
+				<a href="/Diecezje" class="">Diecezje</a>
+				
+
+
+			</li>
+
+							<li class="m4">
+			
+				<a href="/Biskupi" class="">Biskupi</a>
+				
+
+
+			</li>
+
+							<li class="m5">
+			
+				<a href="/Zycie-konsekrowane" class="">Życie konsekrowane</a>
+				
+
+
+			</li>
+
+							<li class="m6">
+			
+				<a href="/Inne-instytucje" class="">Instytucje kościelne w Polsce</a>
+				
+
+
+			</li>
+
+							<li class="m7">
+			
+				<a href="#" rel="nofollow" class="cur_def">Kościół w świecie</a>
+				
+
+	<ul>
+
+		
+
+							<li class="z">
+			
+				<a href="#" rel="nofollow" class="cur_def">Kościół w świecie</a>
+				
+
+
+			</li>
+
+	</ul>
+
+			</li>
+
+							<li class="m8">
+			
+				<a href="https://www.vatican.va/content/vatican/en.html" class="">Stolica Apostolska</a>
+				
+
+
+			</li>
+
+							<li class="m9">
+			
+				<a href="/Koscielne-instytucje-miedzynarodowe" class="">Kościelne instytucje międzynarodowe</a>
+				
+
+
+			</li>
+
+							<li class="m10">
+			
+				<a href="https://episkopat.pl/doc/216788.DUSZPASTERSTWA-POLONIJNE" class="">Duszpasterstwo polonijne</a>
+				
+
+
+			</li>
+
+							<li class="m11">
+			
+				<a href="/Polskie-instytucje-koscielne-za-granica" class="">Polskie instytucje kościelne za granicą </a>
+				
+
+
+			</li>
+
+	</ul>
+
+</div></div></div>
+
+	
+		</div>
+
+	
+		</div>
+
+	</div>
+
+	<div class="c0_33 c-right-margin LayoutColumn Col1">
+		
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout_column wp-el" >
+
+
+
+
+		
+
+		<div class="wp-bd webpart-wrap-menu wp-el wp-has-title" >
+				<a class="LayoutAnchor Anchor" name="Dla-mediow"></a>
+
+			<div class="cf">
+					<h4 class="cN cN-no-link"><span class="cN_">Dla mediów</span></h4>
+			</div>
+
+
+
+
+
+
+<div class="menu_vert_open_w"><div class="menu_vert_open"><div class="menu_vert_open_">
+	
+
+	<ul class="menu_vert-ul" id="rm125891_17">
+
+		
+
+							<li class="m1">
+			
+				<a href="/Rzecznik" class="">Rzecznik</a>
+				
+
+
+			</li>
+
+							<li class="m2">
+			
+				<a href="/Biuro-prasowe" class="">Biuro Prasowe</a>
+				
+
+
+			</li>
+
+							<li class="m3">
+			
+				<a href="/Konferencje-prasowe" class="">Konferencje prasowe</a>
+				
+
+
+			</li>
+
+							<li class="m4">
+			
+				<a href="https://episkopat.pl/Akredytacje" class="">Akredytacje</a>
+				
+
+
+			</li>
+
+	</ul>
+
+</div></div></div>
+
+	
+		</div>
+
+	
+		</div>
+
+	</div>
+
+	<div class="c0_33 LayoutColumn Col2">
+		
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-layout_column wp-el" >
+
+
+
+
+		
+
+		<div class="wp-bd webpart-wrap-menu wp-el wp-has-title" >
+				<a class="LayoutAnchor Anchor" name="Kontakt"></a>
+
+			<div class="cf">
+					<h4 class="cN cN-no-link"><span class="cN_">Kontakt</span></h4>
+			</div>
+
+
+
+
+
+
+<div class="menu_vert_open_w"><div class="menu_vert_open"><div class="menu_vert_open_">
+	
+
+	<ul class="menu_vert-ul" id="rm125891_19">
+
+		
+
+							<li class="m1">
+			
+				<a href="https://episkopat.pl/Sekretariat-kep#Biuro-Przewodniczacego-KEP" class="">Przewodniczący KEP </a>
+				
+
+
+			</li>
+
+							<li class="m2">
+			
+				<a href="https://episkopat.pl/Sekretariat-kep#Biuro-Prasowe-KEP" class="">Biuro Prasowe KEP</a>
+				
+
+
+			</li>
+
+							<li class="m3">
+			
+				<a href="https://episkopat.pl/Sekretariat-kep#Biuro-Sekretariatu-KEP" class="">Sekretariat KEP</a>
+				
+
+
+			</li>
+
+	</ul>
+
+</div></div></div>
+
+	
+		</div>
+
+	
+		</div>
+
+	</div>
+
+</div>
+
+	
+		</div>
+
+	
+		</div>
+
+	</div>
+
+</div>
+
+	
+		</div>
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-FooterMobile wp-el" >
+
+
+
+
+
+
+
+<div class="footer">
+
+	
+
+	
+		
+		
+			<ul class="links-list">
+				<li>
+					
+						<a href="https://episkopat.pl"><img src="//static.opw.pl/files/23.bkt/04/06/781019_ZF8m_091130_sx6R_logokep.png" alt="Logo stopka" /></a>
+				</li>
+			</ul>
+		
+		<div class="footerContent">
+				<ul class="social-list">
+					<li>
+						
+							<a href="https://www.facebook.com/episkopatpolski?ref=hl" class="Facebook icon-Facebook">
+								<span>Facebook</span>
+							</a>
+					</li>
+					<li>
+						
+							<a href="https://x.com/EpiskopatNews" class="Twitter icon-Twitter">
+								<span>Twitter</span>
+							</a>
+					</li>
+					<li>
+						
+							<a href="https://www.flickr.com/photos/episkopatnews/albums" class="Flickr icon-Flickr">
+								<span>Flickr</span>
+							</a>
+					</li>
+					<li>
+						
+							<a href="https://www.youtube.com/user/bpkep" class="YT icon-YT">
+								<span>YT</span>
+							</a>
+					</li>
+				</ul>
+		</div>
+	
+
+			<a href="/switch-to-mobile-layouts?url=%2Fdoc%2F185199.opinia-o-niektorych-spolecznych-skutkach-grzechu" rel="nofollow" class="SwitchLayouts icon-mobile" data-layouts="mobile" data-ajax="false"><span>WERSJA MOBILNA</span></a>
+</div>
+<div class="footer__content">
+	<p>
+		<a href="https://${settings.INSTITUTE_HOST}/Copyright">Copyright © Fundacja Opoka.</a><br>
+		Wszelkie prawa zastrzeżone.
+	
+		<a href="javascript:void(0)" class="ShowWidget report-error-btn" data-widget="ReportProblem">Zgłoś błąd</a><br/>
+	</p>
+</div>
+	
+		</div>
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-doc_content wp-el" >
+
+
+
+
+
+
+	<div class="txt None">
+		
+
+
+
+	
+
+<div class=" txt__rich-area">
+	<p class="jsAdd"><script async="async">
+document.addEventListener("DOMContentLoaded", function() {
+if(document.getElementById('fm')) {document.getElementById('fm').remove();}
+if(document.getElementById('cr')) {document.getElementById('cr').remove();}
+const allLinks = Array.from(document.getElementsByTagName('a'));
+allLinks.forEach(link => {
+  if (link.href.includes('https://episkopat.opoka.org.pl')) {
+    link.href = link.href.replace('https://episkopat.opoka.org.pl', '');
+  }
+});
+
+const pubDate = document.querySelector('.doc-date > b');
+if(pubDate && pubDate.innerText.length > 15 ) {
+let dateText = pubDate.innerText;
+dateText = dateText.slice(0, -6);
+pubDate.innerText = dateText;
+}
+
+
+if (window.location.href.includes('English/news')) {
+    let numLinks = document.querySelectorAll('.webpart-bg-ECEDEE .lks_count4 li p');
+    numLinks.forEach(numLink => {
+        if (numLink.innerText === "BISKUPÓW") {
+            numLink.innerText = "bishops";
+        } else if (numLink.innerText === "METROPOLII") {
+            numLink.innerText = "Metropolitan Sees";
+        } else if (numLink.innerText === "DIECEZJI") {
+            numLink.innerText = "dioceses";
+        } else if (numLink.innerText === "PARAFII") {
+            numLink.innerText = "parishes";
+        }
+    });
+} else if (window.location.href.includes('/Italiano/attualita')) {
+    let numLinks = document.querySelectorAll('.webpart-bg-ECEDEE .lks_count4 li p');
+    numLinks.forEach(numLink => {
+        if (numLink.innerText === "BISKUPÓW") {
+            numLink.innerText = "vescovi";
+        } else if (numLink.innerText === "METROPOLII") {
+            numLink.innerText = "Metropolie";
+        } else if (numLink.innerText === "DIECEZJI") {
+            numLink.innerText = "Diocesi";
+        } else if (numLink.innerText === "PARAFII") {
+            numLink.innerText = "Parrocchie";
+        }
+    });
+}
+const plVer = document.querySelector('.txt #pl');
+    const engVer = document.querySelector('.txt #eng');
+    const itVer = document.querySelector('.txt #it');
+    const gerVer = document.querySelector('.txt #ger');
+    const frVer = document.querySelector('.txt #fr');
+    const ukrVer = document.querySelector('.txt #ukr');
+    const espVer = document.querySelector('.txt #esp');
+    const textContent = document.querySelector('.txt__content');
+
+    if (textContent) {
+        const translationsDiv = document.createElement('div');
+        translationsDiv.setAttribute('id', 'translations');
+
+        if (engVer) {
+            const engLink = document.createElement('a');
+            engLink.setAttribute('class', 'engVer');
+            engLink.setAttribute('href', engVer.getAttribute('href'));
+            engLink.setAttribute('target', '_blank');
+            translationsDiv.appendChild(engLink);
+        }
+
+        if (itVer) {
+            const itLink = document.createElement('a');
+            itLink.setAttribute('class', 'itVer');
+            itLink.setAttribute('href', itVer.getAttribute('href'));
+            itLink.setAttribute('target', '_blank');
+            translationsDiv.appendChild(itLink);
+        }
+
+        if (plVer) {
+            const plLink = document.createElement('a');
+            plLink.setAttribute('class', 'plVer');
+            plLink.setAttribute('href', plVer.getAttribute('href'));
+            plLink.setAttribute('target', '_blank');
+            translationsDiv.appendChild(plLink);
+        }
+
+        if (gerVer) {
+            const gerLink = document.createElement('a');
+            gerLink.setAttribute('class', 'gerVer');
+            gerLink.setAttribute('href', gerVer.getAttribute('href'));
+            gerLink.setAttribute('target', '_blank');
+            translationsDiv.appendChild(gerLink);
+        }
+
+        if (frVer) {
+            const frLink = document.createElement('a');
+            frLink.setAttribute('class', 'frVer');
+            frLink.setAttribute('href', frVer.getAttribute('href'));
+            frLink.setAttribute('target', '_blank');
+            translationsDiv.appendChild(frLink);
+        }
+
+        if (ukrVer) {
+            const ukrLink = document.createElement('a');
+            ukrLink.setAttribute('class', 'ukrVer');
+            ukrLink.setAttribute('href', ukrVer.getAttribute('href'));
+            ukrLink.setAttribute('target', '_blank');
+            translationsDiv.appendChild(ukrLink);
+        }
+
+        if (espVer) {
+            const espLink = document.createElement('a');
+            espLink.setAttribute('class', 'espVer');
+            espLink.setAttribute('href', espVer.getAttribute('href'));
+            espLink.setAttribute('target', '_blank');
+            translationsDiv.appendChild(espLink);
+        }
+
+        if (translationsDiv.children.length > 0) {
+            textContent.insertBefore(translationsDiv, textContent.firstChild);
+        }
     }
 });
 
 
 
+const emptyLinks = document.querySelectorAll('a[href="https://#"]');
+emptyLinks.forEach(emptyLink => emptyLink.removeAttribute('href'));
+const emptyLinks2 = document.querySelectorAll('a[href="#"]');
+emptyLinks2.forEach(emptyLink2 => emptyLink2.removeAttribute('href'));
 
-});
+if (window.location.href.includes('/Ogloszenia') || window.location.href.includes('/Dokumenty') || window.location.href.includes('/Italiano') || window.location.href.includes('/English') ) {
+    const siteTitle = document.querySelector('meta[name="title"]');
+    const titleContent = siteTitle.getAttribute('content');
+    const titleWrapper = document.querySelector('.headerChangeTitle');
+    if (titleWrapper) {
+        const headTitle = document.createElement('h1');
+        headTitle.innerText = titleContent;
+titleWrapper.innerHTML = "";
+        titleWrapper.appendChild(headTitle);
+    }
+}
 
-</script>
-
-<div class="right-nav fatwalist" itemscope itemtype="https://schema.org/QAPage">
-
-<script>
-	$(document).ready(function(){
-		
-		$("#btsearchmobile").click(function(){
-			if($("#q2").val().length>0)
-			{
-                window.location="/fr/fatawa/?search_type="+$("#search_type2").val()+"&q="+$("#q2").val()+"&tab=4";
-			}
-			else
-			alert("Enter the search text or number");
-			
-			
-		});
-		
-	});
-	</script>
-<div class="bg-actions d-mobile">
-                        <div class="btns">
-                            <button id="collapseSearchbtn" class="btn btn-outline-primary" type="button"
-                                data-bs-toggle="collapse" data-bs-target="#collapseSearch" aria-expanded="false"
-                                aria-controls="collapseSearch" style="width: 200px !important;">
-                                <svg id="Component_38_1" data-name="Component 38 ? 1" xmlns="http://www.w3.org/2000/svg"
-                                    width="14.502" height="15.192" viewBox="0 0 14.502 15.192">
-                                    <path id="Subtraction_4" data-name="Subtraction 4"
-                                        d="M5.686,13.6H0V10.684H3.8A4.7,4.7,0,0,0,5.686,13.36V13.6ZM3.809,8.255H0V5.343H6.123A4.718,4.718,0,0,0,3.809,8.254ZM13.6,2.914H0V0H13.6V2.913Z"
-                                        transform="translate(0 0)" fill="#ab1e56" />
-                                    <path id="Icon_ionic-ios-search" data-name="Icon ionic-ios-search"
-                                        d="M13.156,12.62,10.72,10.161a3.471,3.471,0,1,0-.527.534l2.42,2.443a.375.375,0,0,0,.529.014A.377.377,0,0,0,13.156,12.62Zm-5.164-1.9a2.741,2.741,0,1,1,1.939-.8A2.724,2.724,0,0,1,7.992,10.724Z"
-                                        transform="translate(0.957 1.688)" fill="#ab1e56" stroke="#ab1e56"
-                                        stroke-width="0.5" />
-                                </svg>
-                                Recherche Fatwas
-                            </button>
-
-                            <button onclick="window.location='/fr/index.php?page=ask'" class="btn btn-blue close-search" style="width: 201px !important; margin-top: 5px !important;">
-                                <svg id="Component_37_1" data-name="Component 37 ? 1" xmlns="http://www.w3.org/2000/svg"
-                                    width="14.98" height="13.031" viewBox="0 0 14.98 13.031">
-                                    <path id="Subtraction_7" data-name="Subtraction 7"
-                                        d="M10.149,11.985H1.5a1.5,1.5,0,0,1-1.5-1.5L.008,1.5A1.5,1.5,0,0,1,1.5,0H13.483a1.5,1.5,0,0,1,1.5,1.5v3.9a4.543,4.543,0,0,0-1.5-.052V3L7.49,6.741,1.5,3v7.49H9.634a4.452,4.452,0,0,0,.514,1.5ZM1.5,1.5,7.49,5.243,13.483,1.5Z"
-                                        fill="#fff" />
-                                    <g id="Group_4234" data-name="Group 4234" transform="translate(10.143 5.992)">
-                                        <g id="Group_4186" data-name="Group 4186">
-                                            <path id="Icon_awesome-question" data-name="Icon awesome-question"
-                                                d="M4.225,0A2.664,2.664,0,0,0,1.859,1.251.33.33,0,0,0,1.93,1.7l.593.45A.33.33,0,0,0,2.981,2.1a1.334,1.334,0,0,1,1.138-.68c.423,0,.946.272.946.682,0,.31-.256.469-.674.7-.487.273-1.131.613-1.131,1.463V4.4a.33.33,0,0,0,.33.33h1a.33.33,0,0,0,.33-.33V4.32c0-.589,1.722-.614,1.722-2.208A2.362,2.362,0,0,0,4.225,0ZM4.087,5.134a.952.952,0,1,0,.952.952A.953.953,0,0,0,4.087,5.134Z"
-                                                transform="translate(-1.8)" fill="#fff" />
-                                        </g>
-                                    </g>
-                                </svg>
-
-                                Envoyez votre question
-                            </button>
-
-                        </div>
-                        <div class="collapse collapseSearch" id="collapseSearch">
-                            <div class="px-2 py-1 mb-2 d-flex justify-content-between align-items-center border-bottom">
-                                <span class="txt-secondary">
-                                    <svg id="Component_38_1" data-name="Component 38 ? 1"
-                                        xmlns="http://www.w3.org/2000/svg" width="14.502" height="15.192"
-                                        viewBox="0 0 14.502 15.192">
-                                        <path id="Subtraction_4" data-name="Subtraction 4"
-                                            d="M5.686,13.6H0V10.684H3.8A4.7,4.7,0,0,0,5.686,13.36V13.6ZM3.809,8.255H0V5.343H6.123A4.718,4.718,0,0,0,3.809,8.254ZM13.6,2.914H0V0H13.6V2.913Z"
-                                            transform="translate(0 0)" fill="#ab1e56" />
-                                        <path id="Icon_ionic-ios-search" data-name="Icon ionic-ios-search"
-                                            d="M13.156,12.62,10.72,10.161a3.471,3.471,0,1,0-.527.534l2.42,2.443a.375.375,0,0,0,.529.014A.377.377,0,0,0,13.156,12.62Zm-5.164-1.9a2.741,2.741,0,1,1,1.939-.8A2.724,2.724,0,0,1,7.992,10.724Z"
-                                            transform="translate(0.957 1.688)" fill="#ab1e56" stroke="#ab1e56"
-                                            stroke-width="0.5" />
-                                    </svg>
-                                    Recherche Fatwas
-                                </span>
-
-
-
-                                <a href="javascript:;" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseSearch" aria-expanded="false"
-                                    aria-controls="collapseSearch">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="30.225" height="30.225"
-                                        viewBox="0 0 30.225 30.225">
-                                        <g id="icon-add" transform="translate(31.113) rotate(45)">
-                                            <rect id="Rectangle_112" data-name="Rectangle 112" width="20" height="20"
-                                                fill="#fff" opacity="0" />
-                                            <path id="Icon_ionic-ios-add" data-name="Icon ionic-ios-add"
-                                                d="M25.844,16.844H19.085V10.085a1.121,1.121,0,0,0-2.241,0v6.759H10.085a1.121,1.121,0,0,0,0,2.241h6.759v6.759a1.121,1.121,0,1,0,2.241,0V19.085h6.759a1.121,1.121,0,1,0,0-2.241Z"
-                                                transform="translate(-20.035 10.035)" fill="#8b8b8b" />
-                                        </g>
-                                    </svg>
-
-                                </a>
-                            </div>
-                            <div class="d-flex justify-content-between">
-                                 <input type="text" placeholder="Search here" class="inputstyle f-num" name="q" id="q2" value="" onkeypress="enter_text(event,'search_type2');" />
-                        
-                        <select class="inputstyle" name="search_type2" id="search_type2" onchange="chkdropMobile(this)">
-						<option value="Title" >Le titre de la Fetwa</option>
-						<option value="Question" >La question</option>
-						<option value="Answer" >La Fetwa</option>
-                        <option value="fatwaid" >Num�ro de la Fetwa</option>
-						<option value="All" >Tout</option>
-					   </select>
-                        
-                            </div>
-                            <div class="options-groups">
-                                
-                                <div class="text-center" style="margin-top: 20px;">
-                                    <button id="btsearchmobile" class="btn btn-secondary" type="button">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="14.947" height="14.899"
-                                            viewBox="0 0 14.947 14.899">
-                                            <path id="Icon_ionic-ios-search" data-name="Icon ionic-ios-search"
-                                                d="M18.727,17.85l-4-4.041a5.706,5.706,0,1,0-.866.877L17.835,18.7a.616.616,0,0,0,.87.022A.62.62,0,0,0,18.727,17.85Zm-8.487-3.115a4.505,4.505,0,1,1,3.187-1.32A4.478,4.478,0,0,1,10.239,14.735Z"
-                                                transform="translate(-4.25 -4.243)" fill="#fff" stroke="#fff"
-                                                stroke-width="0.5" />
-                                        </svg>
-                                        Recherche
-                                    </button>
-                                </div>
-                            </div>
-
-
-                        </div>
-
-                    </div>
-                    
-                    
-<script>
-			function chkdropMobile(f)
-			{
-				if(f.options[f.selectedIndex].value=='questionid' || f.options[f.selectedIndex].value=='fatwaid' || f.options[f.selectedIndex].value=='')
-				{
-				//document.getElementById('search_txt1').disabled='true';
-                //$("#TextOptions").css({"display:none !important"});
-                
-                $('#TextOptions').attr('style',  'display:none !important;' );
-                $(".text-center").css("margin-top","20px");
-                
-                
-                $("#q").val("");
-                $("#q").focus();
-				}
-				else
-				{
-                $("#TextOptions").css("display","block");
-                $(".text-center").css("margin-top","0px");
-				//example_text(document.getElementById('search_txt1'));
-                $("#q").focus();
-				}
-			}
-            
-</script>                                
-<div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
-
-<!-- *************************************************************** -->
-      
-<!-- *************************************************************** -->   
-
-
-<div class="item-fatwa">
-					<div class="top-item">
-						<h2>Classification des p�ch�s en p�ch�s mineurs et p�ch�s majeurs</h2>
-				
-
-					</div>
-					<div class="footer-item">
-						<span>
-							<samp>
-								<svg xmlns="http://www.w3.org/2000/svg" width="8.83" height="8.83" viewBox="0 0 8.83 8.83">
-									<path id="Icon_metro-list2" data-name="Icon metro-list2" d="M5.882,2.48H11.4v1.1H5.882V2.48Zm0,3.311H11.4V6.9H5.882v-1.1Zm0,3.311H11.4v1.1H5.882V9.1ZM2.571,3.032a1.1,1.1,0,1,1,1.1,1.1A1.1,1.1,0,0,1,2.571,3.032Zm0,3.311a1.1,1.1,0,1,1,1.1,1.1A1.1,1.1,0,0,1,2.571,6.343Zm0,3.311a1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,0,0,1-1.1-1.1Z" transform="translate(-2.571 -1.928)" fill="#6e6e6e"/>
-								  </svg>
-								  
-								  <a>402412</a>
-							</samp>
-							<samp>
-								<svg xmlns="http://www.w3.org/2000/svg" width="10.074" height="10.073" viewBox="0 0 10.074 10.073">
-									<path id="Icon_ionic-md-calendar" data-name="Icon ionic-md-calendar" d="M12.475,9.956H9.956v2.518h2.518ZM11.635,4.5v.839h-4.2V4.5H6.179v.839h-.63A1.052,1.052,0,0,0,4.5,6.389v7.135a1.052,1.052,0,0,0,1.049,1.049h7.975a1.052,1.052,0,0,0,1.049-1.049V6.389a1.052,1.052,0,0,0-1.049-1.049h-.63V4.5Zm1.889,9.024H5.549V7.963h7.975Z" transform="translate(-4.5 -4.5)" fill="#6e6e6e"/>
-								  </svg>
-								  <a>22-8-2019</a>
-								</samp>
-						</span>
-					</div>
-				</div>
-
-		
-		<div class="mainitem">
-        
-<div class=" d-flex align-items-center justify-content-between mb-3">
-		
-
-                    <span>
-						<span class="links-shares">
-		                  
-                          
-						  <a href="https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.islamweb.net%2Ffr%2Ffatwa%2F402412%2FClassification-des-p%C3%A9ch%C3%A9s-en-p%C3%A9ch%C3%A9s-mineurs-et-p%C3%A9ch%C3%A9s-majeurs"><svg xmlns="http://www.w3.org/2000/svg" width="18.164" height="18.164" viewBox="0 0 18.164 18.164">
-							<path id="Icon_simple-whatsapp" data-name="Icon simple-whatsapp" d="M13.243,10.885c-.228-.114-1.337-.656-1.544-.731s-.358-.114-.509.114-.584.73-.714.879-.264.159-.489.057a6.142,6.142,0,0,1-1.819-1.124A6.866,6.866,0,0,1,6.911,8.513c-.132-.227-.014-.352.1-.465s.228-.261.341-.4a1.919,1.919,0,0,0,.225-.375.416.416,0,0,0-.019-.4c-.057-.114-.509-1.226-.7-1.67s-.369-.386-.509-.386-.281-.011-.432-.011a.853.853,0,0,0-.6.272,2.527,2.527,0,0,0-.791,1.873,4.428,4.428,0,0,0,.923,2.327,10.091,10.091,0,0,0,3.86,3.394c.54.227.961.363,1.29.476a3.131,3.131,0,0,0,1.423.092,2.329,2.329,0,0,0,1.526-1.079,1.873,1.873,0,0,0,.136-1.078c-.056-.1-.2-.159-.431-.261M9.128,16.461H9.116A7.571,7.571,0,0,1,5.29,15.416l-.272-.162-2.838.738.761-2.759-.181-.284A7.506,7.506,0,0,1,14.45,3.69a7.408,7.408,0,0,1,2.2,5.29,7.515,7.515,0,0,1-7.519,7.481M15.53,2.61A9.189,9.189,0,0,0,9.116,0,9,9,0,0,0,1.284,13.5L0,18.164l4.794-1.25a9.129,9.129,0,0,0,4.321,1.1h0a9.036,9.036,0,0,0,9.043-9A8.926,8.926,0,0,0,15.519,2.64" fill="#012d6b"/>
-						  </svg>
-						  
-						  </a>
-						  <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.islamweb.net%2Ffr%2Ffatwa%2F402412%2FClassification-des-p%C3%A9ch%C3%A9s-en-p%C3%A9ch%C3%A9s-mineurs-et-p%C3%A9ch%C3%A9s-majeurs&text=Classification des p�ch�s en p�ch�s mineurs et p�ch�s majeurs"><svg xmlns="http://www.w3.org/2000/svg" width="19.729" height="16.035" viewBox="0 0 19.729 16.035">
-							<path id="Icon_simple-twitter" data-name="Icon simple-twitter" d="M19.691,5.279a8.221,8.221,0,0,1-2.322.637,4.076,4.076,0,0,0,1.778-2.238,8.354,8.354,0,0,1-2.57.973,4.043,4.043,0,0,0-7,2.76,4.139,4.139,0,0,0,.1.924A11.455,11.455,0,0,1,1.348,4.121,3.964,3.964,0,0,0,.8,6.156,4.045,4.045,0,0,0,2.6,9.523,4.032,4.032,0,0,1,.768,9.016v.05a4.047,4.047,0,0,0,3.244,3.968,4.082,4.082,0,0,1-1.818.07,4.058,4.058,0,0,0,3.785,2.809,8.112,8.112,0,0,1-5.016,1.73A8.585,8.585,0,0,1,0,17.588,11.5,11.5,0,0,0,6.212,19.4,11.424,11.424,0,0,0,17.72,7.907c0-.172,0-.345-.012-.518A8.167,8.167,0,0,0,19.729,5.3l-.039-.016Z" transform="translate(0 -3.369)" fill="#012d6b"/>
-						  </svg>
-						  
-						  
-						  </a>
-						  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.islamweb.net%2Ffr%2Ffatwa%2F402412%2FClassification-des-p%C3%A9ch%C3%A9s-en-p%C3%A9ch%C3%A9s-mineurs-et-p%C3%A9ch%C3%A9s-majeurs"><svg xmlns="http://www.w3.org/2000/svg" width="17.307" height="17.202" viewBox="0 0 17.307 17.202">
-							<path id="Icon_simple-facebook" data-name="Icon simple-facebook" d="M17.307,8.653A8.653,8.653,0,1,0,7.3,17.2V11.155H5.1v-2.5H7.3V6.747A3.054,3.054,0,0,1,10.57,3.38a13.308,13.308,0,0,1,1.937.169v2.13H11.416a1.251,1.251,0,0,0-1.41,1.351V8.653h2.4l-.384,2.5H10.006V17.2A8.656,8.656,0,0,0,17.307,8.653Z" fill="#012d6b"/>
-						  </svg>
-						  
-						  
-						  </a>
-						</span>
-					</span>
-                    		
-
-					<div class="static-nums">
-						<div class="static-nums">
-						<span class="mx-2">
-                   
-                 <span style="display: inline;margin-right:10px" class="ratingbox" data-id="402412" data-rated="5" data-totalstar="5" data-theme="2" data-cookiename="RATE_FATWA[F][402412]"  title="RATE : 5 out of 5 according to 1  opinion"></span>
-               
-					
-					<a href="/fr/printfatwa.php?id=402412" target="_blank"><span><i class="fa fa-print"></i>&nbsp; 1637</span></a>
-					
-					</div>
-					</div>
-			</div>        
-        
-			
-			
-			<div class="mainitemdetails">
-                
-                
-                	
-				 <meta itemprop="datePublished" content="2019-08-22">
-				
-				
-				<meta itemprop="answerCount" content="1">
-				<meta itemprop="author" content="Islamweb">                
-
-			</div>
-		</div>
-		
-		<div class="clear" style="height:15px;"></div>
-		
-		<div class="mainitem quest-fatwa">
-			<h3 class="mainitemtitle2">
-				Question
-			</h3>
-            
-            <div itemprop="text">
-			<p>
-				Assal�mou 'Aleykoum,Pouvez-vous me donner des exemples pr�cis de p�ch�s "mineurs"			</p>
-            </div>
-            
-		</div>
-		
-		<div class="clear" style="height:15px;"></div>
-		
-		<div class="mainitem quest-fatwa" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
-		<meta itemprop="author" content="Islamweb">
-		<meta itemprop="dateCreated" content="2019-08-22">
-		
-        	<h3 class="mainitemtitle2">
-				R&eacute;ponse
-			</h3>
-            
-            <div itemprop="text">
-			<p>
-			<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <title></title>
-  </head>
-  <body>
-    <p>
-      Louange � Allah et que la paix et la b�n�diction soient sur Son Proph�te et Messager, Mohammed, ainsi que sur sa famille et ses Compagnons :<br />
-      <br />
-      Il serait long d��num�rer tous les p�ch�s selon leur degr� de gravit� qu�ils soient majeurs (Kab�ra) ou mineur (Sagh�ra), mais nous allons vous donner le crit�re que les oul�mas ont �tabli pour
-      d�terminer la cat�gorie � laquelle appartient chaque p�ch�. En appliquant ce crit�re sur n�importe quel p�ch� vous pouvez facilement savoir dans laquelle des deux cat�gories de p�ch�s il faut
-      le classer.<br />
-      Les oul�mas consid�rent comme p�ch� capital tout p�ch� pour lequel le Coran ou la Sunna pr�voient un ch�timent dans ce monde (Hadd); ou dont l'auteur est menac� de col�re et de ch�timent
-      d'Allah dans l'au-del�; ou dont l'auteur a �t� maudit par Allah ou par notre Proph�te (Salla Allahou alaihi wa Sallam). De ce crit�re nous pouvons d�duire que le p�ch� mineur est tout p�ch�
-      qui n'est pas passible de ch�timent prescrit dans cette vie (Hadd) et dont l'auteur n'encourt pas de menace dans l'au-del�.<br />
-      La divergence entre les oul�mas sur la classification d�un certain nombre de p�ch�s a pour origine leur divergence sur l�authenticit� de la preuve (Dal�l) qui justifie qu�il appartient �
-      la cat�gorie des p�ch�s capitaux.<br />
-      Il est � noter que le musulman doit �viter tous les p�ch�s qu�ils soient mineurs ou majeurs. Car les p�ch�s mineurs m�nent souvent � commettre les p�ch�s majeurs, si les p�ch�s mineurs
-      s�accumulent ils m�neront leur auteur � sa perte et enfin un p�ch� mineur peut se transformer en un p�ch� majeur si son auteur minimise sa gravit� ou le perp�tre avec imp�nitence.<br />
-      <br />
-      Et Allah sait mieux
-    </p>
-  
-			</p>
-            </div>
-			<!--
-			<div class="anserfoot">
-				<a href="#">Previous Fatwa</a>
-				<a href="#" class="active">Next Fatwa</a>
-				
-				<div class="itemshare">
-					<a href="#"><img src="/content/img/ico-share.png" alt="" /></a>
-				</div>
-			</div>
-            -->
-		</div>
-		
-		<div class="clear" style="height:15px;"></div>
-		
-		<div class="mainitem linkedtab">
-			<h3 class="mainitemtitle2">
-				Fatwas en relation
-			</h3>
-
-		</div>
-		
-			<div id="tab_container">
-				<div class="tab_content tab_1 tab_active itemslist" style="height: auto;">
-  		          
-					<div>
-						<img src="/content/img/ico-fatawi.png" alt="" />
-						<h2 style="padding-bottom: 15px;"><a href="/fr/fatwa/10519/Mise-en-garde-contre-le-livre-Dal�il-al-Khayr�t">Mise en garde contre le livre Dal�il al-Khayr�t</a></h2>
-					</div>
-                  
-					<div>
-						<img src="/content/img/ico-fatawi.png" alt="" />
-						<h2 style="padding-bottom: 15px;"><a href="/fr/fatwa/512050/Respecter-certaines-r�gles-concernant-les-diff�rentes-r�citations-du-Coran">Respecter certaines r�gles concernant les diff�rentes r�citations du Coran</a></h2>
-					</div>
-                  
-					<div>
-						<img src="/content/img/ico-fatawi.png" alt="" />
-						<h2 style="padding-bottom: 15px;"><a href="/fr/fatwa/511735/Rajoute-t-on-un-ou-�-la-fin-de-certains-attributs-">Rajoute-t-on un ''ou'' � la fin de certains attributs ?</a></h2>
-					</div>
-                  
-					<div>
-						<img src="/content/img/ico-fatawi.png" alt="" />
-						<h2 style="padding-bottom: 15px;"><a href="/fr/fatwa/488980/Un-mari-peut-il-refuser-que-sa-femme-fasse-des-formations-religieuses-">Un mari peut-il refuser que sa femme fasse des formations religieuses ?</a></h2>
-					</div>
-                  
-					<div>
-						<img src="/content/img/ico-fatawi.png" alt="" />
-						<h2 style="padding-bottom: 15px;"><a href="/fr/fatwa/488770/S�exprimer-au-sujet-d�Allah-et-de-Sa-religion-sans-science">S�exprimer au sujet d�Allah (et de Sa religion) sans science</a></h2>
-					</div>
-                  
-					<div>
-						<img src="/content/img/ico-fatawi.png" alt="" />
-						<h2 style="padding-bottom: 15px;"><a href="/fr/fatwa/469438/Le-degr�-de-m�rite-entre-l��tude-de-la-jurisprudence-et-la-m�ditation-du-Coran">Le degr� de m�rite entre l��tude de la jurisprudence et la m�ditation du Coran</a></h2>
-					</div>
-                  
-					<div>
-						<img src="/content/img/ico-fatawi.png" alt="" />
-						<h2 style="padding-bottom: 15px;"><a href="/fr/fatwa/466120/Le-musulman-du-commun-doit-il-se-r�f�rer-�-un-savant-en-particulier-et-suivre-ses-avis-juridiques-">Le musulman du commun doit-il se r�f�rer � un savant en particulier et suivre ses avis juridiques ?</a></h2>
-					</div>
-                                    
-
-				</div>
-
-			</div>
-		
-	</div>
-    </div>
+    const noTitles = document.querySelectorAll('.im-400x250 .sb');
+    if(noTitles){
+        for(let i = 0; i < noTitles.length; i++) {if(noTitles[i].innerText === 'Brak tytułu'){noTitles[i].remove();};}
+    }
+    const imgToRem = document.querySelectorAll(".prev_doc_img97");
+    if(imgToRem){
+        for(let i=0;  i<imgToRem.length; i++) {imgToRem[i].remove()};
+    }
+    const pTrs = document.querySelectorAll('p');
+    if(pTrs){
+        for(let i= 0; i < pTrs.length; i++){
+        if(pTrs[i].innerText.includes('vc_column_text') || pTrs[i].innerText.includes('vc_column_text')|| pTrs[i].innerText.includes('[/vc_column_text]')) {pTrs[i].remove();}
+        }
+    }
+    const dlTrs = document.querySelectorAll('dl');
+    if(dlTrs){
+        for(let i= 0; i < dlTrs.length; i++){
+        if(dlTrs[i].innerText.includes('[/vc_column_text]') || dlTrs[i].innerText.includes('vc_column_text')|| dlTrs[i].innerText.includes('[/vc_column_text]')) {dlTrs[i].remove();}
+        }
+    }
+    const tTr = "[/vc_column_text]";
+    if(tTr){
+        tTr.replace("[/vc_column_text]", "");
+    }
     
-    <div class="left-nav">
+    </script></p>
+<style type="text/css">.search-result-container .search-result .add_info b.s {
+  display: none;
+}
+label[for="OT9"], label[for="OT1_4"], label[for="OT1_5"], label[for="OT1_6"], label[for="OT1_7"], .search-form #search-form-fic:nth-last-child(3) label[for="OT1_8"], label[for="OT1_13"], label[for="OT1_20"], label[for="OT2_1"], label[for="OT2_2"], label[for="OT4"], label[for="OT11"], label[for="OT22"] {
+  display: none !important;
+}
 
-<div class="leftblock searchleft">
-				<h3><img src="/content/img/ico-35.png" alt="" /> Recherche Fatwas</h3>
-				<p>Vous pouvez rechercher une fatwa � travers de nombreux choix</p>
-				
-				<div>
-                <form method="get" name="frmSearch" action="/fr/fatawa/">
-			
-            				
-                    <select class="inputstyle" name="search_type" id="search_type1" onchange="chkdrop(this)" style="width: 80%; float: none;">
-						<option value="Title" >Le titre de la Fetwa</option>
-						<option value="Question" >La question</option>
-						<option value="Answer" >La Fetwa</option>
-                        <option value="fatwaid" >Num�ro de la Fetwa</option>
-						<option value="All" >Tout</option>
-					</select>
-                    
+#translations {
+display: flex;
+min-height: 20px;
+padding: 10px 0;
+}
+.txt__content .engVer {
+position: relative;
+width: 40px;
+height: 20px;
+margin-right: 10px;
+}
+.txt__content .engVer::before {
+content: "";
+position: absolute;
+top: 0;
+left: 0;
+width: 40px;
+height: 20px;
+background: url('/files/24.bkt/04/30/467029_oBqo_of_the_United_Kingdom_12.svg.png');
+background-size: cover;
+background-repeat: no-repeat;
+}
+.txt__content .itVer {
+position: relative;
+width: 40px;
+height: 20px;
+margin-right: 10px;
+}
+.txt__content .plVer::before {
+content: "";
+position: absolute;
+top: 0;
+left: 0;
+width: 40px;
+height: 20px;
+background: url('/files/24.bkt/04/30/467029_zrng_Flag_of_Poland.svg.png');
+background-size: cover;
+background-repeat: no-repeat;
+}
+.txt__content .plVer {
+position: relative;
+width: 40px;
+height: 20px;
+margin-right: 10px;
+}
+.txt__content .itVer::before {
+content: "";
+position: absolute;
+top: 0;
+left: 0;
+width: 40px;
+height: 20px;
+background: url('/files/24.bkt/04/30/467029_ljlD_Flag_of_Italy.svg.png');
+background-size: cover;
+background-repeat: no-repeat;
+}
+.txt__content #translations > a {
+position: relative;
+width: 40px;
+height: 20px;
+margin-right: 10px;
+}
+.txt__content #translations > a::before {
+content: "";
+position: absolute;
+top: 0;
+left: 0;
+width: 40px;
+height: 20px;
+background-size: cover;
+background-repeat: no-repeat;
+}
+.txt__content .gerVer::before {
+background: url('/files/24.bkt/08/06/07/920687_apyn_Flag_of_Germany.svg');
+}
+.txt__content .frVer::before {
+background: url('/files/24.bkt/08/06/07/921154_LNd0_Flag_of_France.svg');
+}
+.txt__content .ukrVer::before {
+background: url('/files/24.bkt/08/06/07/921282_g7TP_Flag_of_Ukraine.svg');
+}
+.txt__content .espVer::before {
+background: url('/files/24.bkt/08/06/07/921361_njxJ_Flag_of_Spain.svg');
+}
 
-<input type="text" placeholder="Rechercher ici" class="inputstyle" name="q" id="q" value="" onkeypress="enter_text(event);" style="width: 80%;"/>
-<!-- <input type="submit" value="?" class="subsearch inputstyle fa fa-search" /> --> 	
+.txt #eng, .txt #it, .txt #pl, .txt #ger, .txt #fr, .txt #ukr, .txt #esp {
+display: none;
+}
 
-<i class="fa fa-search inputstyle" style="cursor: pointer;width: 15%; font-size: 1.4em; text-align: center;" onclick="submitsearch()" ></i>					
-                    
-<div id="search_eg" style="display:none;clear:both;font-size: 12px;">Eg: "Quran Recitation"</div>
-                    
-                    <input type="hidden" name="tab" id="tab" value="4" />
-                </form>                    
-				</div>
-</div>			
-			
-			
-			<div class="leftblock mostviewleft">
-				<h3><img src="/content/img/ico-37.png" alt="" /> Le plus lu aujourd�hui</h3>
-				
-				<ul class="iteml01">
-                
-				    					<li>
-						<span>14</span>
-						<h2><a href="/fr/fatwa/417661/Donner-des-int�r�ts-bancaires-�-une-proche-dans-le-besoin" style="line-height: 22px;">Donner des int�r�ts bancaires � une proche dans le besoin</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>13</span>
-						<h2><a href="/fr/fatwa/468370/Validit�-des-jours-de-je�ne-dits-jours-blancs" style="line-height: 22px;">Validit� des jours de je�ne dits jours blancs</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>11</span>
-						<h2><a href="/fr/fatwa/209206/Visite-des-tombes-et-invocations-�-dire-�-cette-occasion" style="line-height: 22px;">Visite des tombes et invocations � dire � cette occasion</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>9</span>
-						<h2><a href="/fr/fatwa/47783/Les-r�gles-du-rapport-sexuel" style="line-height: 22px;">Les r�gles du rapport sexuel</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>8</span>
-						<h2><a href="/fr/fatwa/138323/La-masturbation-annule-le-je�ne" style="line-height: 22px;">La masturbation annule le je�ne </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>7</span>
-						<h2><a href="/fr/fatwa/419575/Saluer-une-personne-occup�e-�-manger" style="line-height: 22px;">Saluer une personne occup�e � manger </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>7</span>
-						<h2><a href="/fr/fatwa/42574/F�ter-les-anniversaires" style="line-height: 22px;">F�ter les anniversaires </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>7</span>
-						<h2><a href="/fr/fatwa/204667/R�ver-de-personnes-d�c�d�es" style="line-height: 22px;">R�ver de personnes d�c�d�es</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>7</span>
-						<h2><a href="/fr/fatwa/235741/Souhaiter-de-bonnes-f�tes-aux-non-musulmans" style="line-height: 22px;">Souhaiter de bonnes f�tes aux non-musulmans</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>6</span>
-						<h2><a href="/fr/fatwa/81587/Liquide-pr�-�jaculatoire-et-sperme" style="line-height: 22px;">Liquide pr�-�jaculatoire et sperme</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>6</span>
-						<h2><a href="/fr/fatwa/87037/Existe-t-il-une-quelconque-preuve-dans-le-Coran-quil-y-a-une-vie-sur-Mars-" style="line-height: 22px;">Existe-t-il une quelconque preuve dans le Coran qu'il y a une vie sur Mars ?</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>6</span>
-						<h2><a href="/fr/fatwa/201196/D�penser-tout-son-patrimoine-ou-en-laisser-une-part-pour-les-h�ritiers" style="line-height: 22px;">D�penser tout son patrimoine ou en laisser une part pour les h�ritiers</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>6</span>
-						<h2><a href="/fr/fatwa/524026/Quelle-est-la-priorit�-payer-la-zakat-due-ou-rembourser-un-cr�dit-usuraire-" style="line-height: 22px;">Quelle est la priorit� : payer la zakat due ou rembourser un cr�dit usuraire ?</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>6</span>
-						<h2><a href="/fr/fatwa/88094/Invocations-qui-peuvent-aider-�-sortir-d�une-situation-difficile" style="line-height: 22px;">Invocations qui peuvent aider � sortir d�une situation difficile </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/82212/Quelles-sont-les-pri�res-que-nous-faisons-en-faveur-du-Proph�te-" style="line-height: 22px;">Quelles sont les pri�res que nous faisons en faveur du Proph�te ?</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/98600/Le-mouvement-du-soleil-et-sa-rotation" style="line-height: 22px;">Le mouvement du soleil et sa rotation</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/397939/Comment-se-purifier-apr�s-une-s�cr�tion-de-Madhy-" style="line-height: 22px;">Comment se purifier apr�s une s�cr�tion de Madhy ?</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/79570/Chaque-nuit-il-y-a-une-heure-durant-laquelle-Allah-exauce" style="line-height: 22px;">Chaque nuit il y a une heure durant laquelle Allah exauce </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/58887/Il-est-interdit-d�affirmer-qu�une-personne-en-particulier-ira-en-Enfer" style="line-height: 22px;">Il est interdit d�affirmer qu�une personne en particulier ira en Enfer</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/90196/Sa-femme-a-eu-ses-r�gles-au-cours-de-leur-rapport-sexuel" style="line-height: 22px;">Sa femme a eu ses r�gles au cours de  leur rapport sexuel</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/28916/D�but-et-fin-du-temps-imparti-de-la-pri�re-de-Douha" style="line-height: 22px;">D�but et fin du temps imparti de la pri�re de Douha</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/247267/Rattraper-vingt-ans-de-Ramadan-non-je�n�" style="line-height: 22px;">Rattraper vingt ans de Ramadan non je�n� </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/493243/Lire-la-Basmala-avant-la-lecture-de-sourate-Al-Tawba" style="line-height: 22px;">Lire la Basmala avant la lecture de sourate Al-Tawba</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/51351/La-r�compense-du-je�ne-des-trois-jours-par-mois-sobtient-en-les-je�nant-�-nimporte-quel-moment-du-mois" style="line-height: 22px;">La r�compense du je�ne des trois jours par mois s'obtient en les je�nant � n'importe quel moment du mois</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/313165/Que-d�signe-le-S�mir�-dans-le-Coran-" style="line-height: 22px;">Que d�signe le "S�mir�" dans le Coran ?</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/4310/La-roqya-l�gale" style="line-height: 22px;">La roqya l�gale</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/98697/La-FIV-et-les-embryons-congel�s" style="line-height: 22px;">La FIV et les embryons congel�s</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/6515/Donner-une-partie-de-la-zakat-�-son-enfant" style="line-height: 22px;">Donner une partie de la zakat � son enfant</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/76667/La-mort-l�agonie-et" style="line-height: 22px;">La mort, l�agonie et... </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/69306/Compl�ter-sa-pri�re-lorsque-l�on-arrive-en-retard" style="line-height: 22px;">Compl�ter sa pri�re lorsque l�on arrive en retard</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/74864/La-pri�re-dAl-Fadjr-et-celle-dAs-Sobh" style="line-height: 22px;">La pri�re d'Al-Fadjr et celle d'As-Sobh.</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/7151/Les-signes-et-sympt�mes-de-celui-qui-est-victime-de-l�envie-et-de-celui-qui-est-touch�-par-le-mauvais-�il-ainsi-que-la-mani�re-de-soigner-ces-maux" style="line-height: 22px;">Les signes et sympt�mes de celui qui est victime de l�envie et de celui qui est touch� par le mauvais �il ainsi que la mani�re de soigner ces maux. </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/87800/L�essuyage-des-oreilles-au-cours-des-ablutions" style="line-height: 22px;">L�essuyage des oreilles au cours des ablutions</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/87729/Hadiths-et-invocations-relatifs-au-b�illement-et-�-l��ternuement" style="line-height: 22px;">Hadiths et invocations relatifs au b�illement et � l��ternuement </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/51702/La-femme-qui-s�est-purifi�e-de-son-�tat-de-menstrues-apr�s-la-Salat-de-lAsr" style="line-height: 22px;">La femme qui s�est purifi�e de son �tat de menstrues apr�s la Salat de l`Asr</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/70251/La-masturbation-n�cessite-le-Ghousl" style="line-height: 22px;">La masturbation n�cessite le Ghousl </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/284074/Explication-du-verset-�-Des-fruits-des-palmiers-et-des-vignes-vous-retirez-une-boisson-enivrante-�" style="line-height: 22px;">Explication du verset : � Des fruits, des palmiers et des vignes, vous retirez une boisson enivrante [...] � </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/404362/D�tails-relatifs-au-Suj�d-al-Sahw-prosternation-de-l�oubli" style="line-height: 22px;">D�tails relatifs au Suj�d al-Sahw (prosternation de l�oubli)</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/27666/Sens-voulu-de-la-lumi�re-qui-appara�t-lors-de-la-lecture-de-la-Sourate-Al-Kahf-le-vendredi-ou-la-veille-du-vendredi" style="line-height: 22px;">Sens voulu de la lumi�re qui appara�t lors de la lecture de la Sourate Al-Kahf le vendredi ou la veille du vendredi</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/98969/Pri�re-du-Chourouq-et-mari-pratiquant-la-double-religion" style="line-height: 22px;">Pri�re du Chourouq et mari pratiquant la double religion </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/514627/Quelle-est-la-meilleure-mani�re-de-me-d�barrasser-des-int�r�ts-usuraires-" style="line-height: 22px;">Quelle est la meilleure mani�re de me d�barrasser des int�r�ts usuraires ?</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/89978/Rattrapage-des-pri�res-manqu�es" style="line-height: 22px;">Rattrapage des pri�res manqu�es</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/42313/Pri�re-du-voyageur" style="line-height: 22px;">Pri�re du voyageur</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/47863/Le-Wali-est-une-exigence-pour-la-l�gitimit�-du-mariage" style="line-height: 22px;">Le Wali est une exigence pour la l�gitimit� du mariage. </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/82134/Histoire-des-d�p�ts-dans-la-jurisprudence-islamique-" style="line-height: 22px;">Histoire des d�p�ts dans la jurisprudence islamique ?</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/89700/Il-est-permis-de-tuer-toute-b�te-nuisible" style="line-height: 22px;">Il est permis de tuer toute b�te nuisible</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/372010/Quen-est-il-des-trois-Rois-Mages-" style="line-height: 22px;">Qu'en est-il des trois Rois Mages ?</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/93131/Gog-et-Magog-Yadjoudj-wa-Madjoudj" style="line-height: 22px;">Gog et Magog, Yadjoudj wa Madjoudj  </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/89480/Quelle-est-la-signification-du-verset-�-�-frappez-les-�-�" style="line-height: 22px;">Quelle est la signification du verset � � frappez-les � �</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/409477/La-condition-de-validit�-dun-je�ne-sur�rogatoire-dont-lintention-est-�mise-durant-la-journ�e-est-de-ne-pas-avoir-mang�-quoique-ce-soit-avant" style="line-height: 22px;">La condition de validit� d'un je�ne sur�rogatoire dont l'intention est �mise durant la journ�e est de ne pas avoir mang� quoique ce soit avant.</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                                        
-				</ul>
-			</div>
-           
+.c0_5 .txt.None p::after {
+display: none !important;
+}
+
+.txt .cf.cN_opoka1 {
+    width: fit-content;
+    margin: 0 auto;
+font: normal normal 700 18px / 25px Roboto-bold, sans-serif;
+    letter-spacing: .42px;
+    text-transform: uppercase;
+color: var(--opoka-color-002445);
+}
+.txt .cf.cN_opoka1 a {
+position: relative;
+display: flex;
+align-items: center;
+padding-left: 10px;
+color: var(--opoka-color-002445);
+}
+.txt .cf.cN_opoka1 a::before {
+content: "";
+position: absolute;
+top: 0;
+left: 0;
+width: 2px;
+height: 18px;
+background: grey;
+}
+ul[data-id="7"] > .m1 > a, .webpart-wrap-menu .menu_vert-ul > li > ul > li > a, #rm191389_15 > .m1 > a {
+  font-family: Roboto-black,sans-serif;
+cursor: auto;
+}
+#rm191241_15 >.m1 > a {display: none;}
+
+.webpart-wrap-layout.webpart-bg-F2AF1A .c0_33 .webpart-wrap-layout_column .webpart-wrap-doc_list h4 span {
+text-transform: uppercase;
+}
+.menu_vert_open_ ul {
+  flex-direction: column;
+  display: flex;
+}
+.app-ObjectsListing .headerChangeTitle {
+    width: 100%;
+    text-align: right;
+    margin-left: unset !important;
+    margin-right: 10px;
+}
+.headerChangeTitle h1 {
+    font: normal normal 900 50px / 50px Roboto-bold, sans-serif;
+    letter-spacing: -1.65px;
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+div.webpart-wrap-layout.webpart-bg-E5E5E5 .fr1_E5E5E5.layout-0_5-0_5 .c0_5 .txt h2 {
+line-height: 120%;
+}
+.fr1_F2AF1A .c0_33 .webpart-wrap-doc_list .ul li {
+text-transform: uppercase;
+}
+div[class^="tab"] .c0_33 .sb.h.hnTitle ul.labels li {
+display: none;
+}
+.tB div[class^="tab"]:nth-of-type(4) .c0_33 span.hnTitle strong::before, .tB div[class^="tab"]:nth-of-type(5) .c0_33 span.hnTitle strong::before, .tB div[class^="tab"]:nth-of-type(6) .c0_33 span.hnTitle strong::before, .tB div[class^="tab"]:nth-of-type(7) .c0_33 span.hnTitle strong::before {
+display: none;
+}
+.doc_type_19 .doc-gallery img {
+  margin-top: 16px;
+}
+.layout-1 .pos-sticky .webpart-wrap-doc_list ul, .layout-1 .pos-sticky .webpart-wrap-doc_list ul li a {display: none;}
+
+.tB .tabs li.ch a {
+padding: 12px 15px 4px;
+}
+
+.tB .txt.None p > img {
+    display: none;
+}
+
+.nopic-611x349 {
+  height: 170px !important;
+  max-height: 170px !important;
+  min-height: 170px !important;
+}
+.tB div[class^="tabC"] .webpart-wrap-layout.wp-el.wp-has-title:not(.active) .cN-no-link span {
+text-transform: uppercase;
+}
+.m7 >a[rel=nofollow], .m1 > a[href="/Gremia"]:first-of-type{
+    display: none;
+}
+.wp-has-title .cf.cN_opoka1::before {
+display: none;
+}
+ul#rm191241_7 >li.m1 >a, ul#rm191241_17 >li.m1 >a {
+display: block;
+}
+.wp-has-title .cf.cN_opoka1 h4 span, .wp-has-title .cf.cN_opoka1 h4 a {
+    border-left: 2px solid;
+    padding: 0 10px;
+    line-height: 1 !important;
+}
+
+/*#rm125891_9 > li:first-of-type > a {
+      display: none;
+    }*/
+    .txt.None .imageContent {
+      display: none;
+    }
+    .fr1_E5E5E5 .im-610x456 li a {
+      display: flex;
+      flex-direction: row;
+    }
+    .fr1_E5E5E5 .im-610x456 li.prio0 a .imgBox img {
+    border-bottom: none;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    }
+ 
+    .fr1_E5E5E5 .sb.h.hnTitle {
+    padding-left: 60px;
+    }
+    .fr1_E5E5E5 .sb.h.hnTitle strong.sb {
+      font: normal normal 900 30px/22px Roboto-black,sans-serif;
+      letter-spacing: .63px;
+      color: #88004c;
+      order: -1;
+    }
+    .fr1_E5E5E5 .im-610x456 .sb {
+    background-color: #f8f8f8;
+    }
+    
+    .fr1_E5E5E5 .sb.h.hnTitle ul.labels l, .fr1_E5E5E5 .labels .label-news{
+    font: normal normal 900 18px/29px Roboto-black,sans-serif;
+    letter-spacing: .38px;
+    color: #4d4c4d !important;
+    margin-top: 11px;
+    margin-bottom: 0;
+    background: none;
+    background-color: none;
+    padding: 0;
+    text-aling: left;
+    }
+    .fr1_E5E5E5 .labels .label-news {
+    text-align: left !important;
+    }
+    .fr1_E5E5E5 .im-610x456 li.prio0 a span.sb.h.hnTitle span.sb {
+    color: var(--opoka-color-002445);
+    font: normal normal 400 18px/29px Roboto-regular,sans-serif !important;
+    }
+    .fr1_E5E5E5 .moreBtn.moreBtn2 {
+      font: normal normal normal 12px/22px Roboto-regular,sans-serif;
+      letter-spacing: .25px;
+      color: #88004c !important;
+    }
+    .fr1_E5E5E5 .moreBtn .arrow {
+      border-color: #93185c !important;
+    }
+html {
+  scroll-behavior: smooth;
+}
+.Dokumenty .webpart-wrap-layout:nth-of-type(2){
+padding:0 15px;
+}
+
+      .mobile-menu__content ul.level-0 li.active a:after {
+        transform: rotate(90deg) !important;
+      }
+
+      .mobile-menu__content ul.level-0>li>a.has-submenu:after {
+        transform: rotate(270deg);
+    }
+    
+      .Przewodniczacy .sb.h.hnTitle {
+        padding-left: 0 !important;
+        display: flex;
+        flex-direction: column;
+        margin: 0 15px;
+      }
+      .Przewodniczacy .sb.h.hnTitle strong.sb {
+        margin-top: 31px;
+        font: normal normal 900 18px/21px Roboto-black !important;
+       
+      }
+      .Przewodniczacy .sb.h.hnTitle ul.labels {
+        position: unset;
+      }
+      .Przewodniczacy .webpart-wrap-doc_content .txt {
+        flex-direction: column;
+        margin:0 15px;
+      }
+      .Przewodniczacy .webpart-wrap-doc_content .txt h2{
+        font: normal normal medium 24px/22px Roboto;
+        letter-spacing: 0.5px;
+        color: #88004C; 
+      }
+      .Przewodniczacy .webpart-wrap-doc_content .txt h3{
+        text-transform: uppercase;
+        margin-top: 12px;
+      }
+      .Przewodniczacy .webpart-wrap-doc_content{
+        background: #F8F8F8;
+      }
+      .Przewodniczacy .im-817x500{
+        background: #F8F8F8;
+      }
+
+      .txt__content a {
+        color: #88004c;
+        text-decoration: underline;
+    }
+
+      .Przewodniczacy .webpart-bg-E5E5E5{
+        background: #f8f8f8;
+        padding-top: 0 !important;
+      }
+      .Przewodniczacy .im-126x0{
+        background-color: #88004c;
+        display: flex;
+        justify-content: space-around;
+        height: 95px;
+      }
+      .Przewodniczacy .im-126x0 .nopic{
+        display: none;
+      }
+      .Przewodniczacy .im-126x0 .prio0 strong.sb{
+        color:white !important;
+      }
+      .Przewodniczacy .im-126x0 span.sb:not(.h) {
+        width: 100%;
+        height: 3px;
+        background: white;
+    }
+    .Przewodniczacy .im-126x80 .prio0 strong.sb{
+        font: normal normal 900 18px/21px Roboto-black !important;
+        letter-spacing: 0.31px;
+        color: #4D4C4D;
+        margin-left: 1rem;
+    }
+    .Przewodniczacy .im-126x80 .imgBox{
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+.Przewodniczacy .im-126x80 span.sb.h.hnTitle {
+  margin: 0;
+}
+
+.Przewodniczacy ul.im-126x80 {
+  margin: 0 15px;
+}
+
+.Przewodniczacy .wp-has-title .cf.cN_opoka1 {
+  margin-bottom: 10px;
+  margin-left: 15px;
+}
+.bishopWrap .app_document .wrapper_funkcja .funkcja .title::before {
+display: none !important;
+content: "";
+}
+.bishopWrap .app_document .wrapper_opis .wrapOpis .doc-gallery__img img{
+    max-height: unset !important;
+object-fit: cover;
+}
+@media (min-width: 1920px){
+    .bishopWrap .app_document .wrapper_opis .wrapper_opis {
+    justify-content: flex-start !important;
+}
+}
+
+.doc_type_19 .txt p span {
+  color: #4D4C4D !important;
+  padding: 15px 0;
+  margin: 15px 0;
+  line-height: 180%;
+  font-weight: bolder;
+  font-size: 1.2rem;
+}
+.lks_log a p {
+  text-align: left;
+  text-transform: none;
+  font: normal normal normal 16px/23px Roboto-regular,sans-serif;
+  letter-spacing: 0;
+  color: var(--opoka-color-4d4c4d);
+  margin: 16px auto 0 16px;
+} 
+.wp-bd.webpart-wrap-links.wp-el ul {
+max-width: 40%;
+}
+.wp-bd.webpart-wrap-links.wp-el ul li:not(.lks_img) {
+  max-width: 100%;
+}
+.headerChangeTitle {
+  margin-left: 40px;
+}
+
+.doc_type_19 p img {
+  float: right;
+}
+.webpart-wrap-menu .menu_vert-ul li a {
+text-transform: none;
+}
+.doc_type_19 p img {
+  float: right;
+  width: 280px;
+  margin: 0 200px;
+}
+.bishopWrap .app_document .wrapper_opis {
+justify-content: flex-start !important;
+}
+.bishopWrap .app_document .wrapper_opis .wrapOpis{
+    width: 80%;
+    justify-content: flex-end;
+}
+.bishopWrap .app_document .wrapper_opis::after {
+height: 85%;
+}
+.bishopWrap .app_document .doc-gallery .doc-gallery__img {
+    max-height: unset !important;
+}
+.contentWrapper {
+justify-content: space-around;
+}
+.contentWrapper ul h1{
+margin:0;
+padding:0;
+}
+ .bishopWrap .app_document .wrapDoc {
+  justify-content: center;
+}
+.addedInfo.hidden,.wp-bd.webpart-wrap-FooterMobile.wp-el + div > .txt {
+  display: none;
+}
+/*Dokumenty - prawa kolumna */
+.webpart-wrap-doc_list .ul li a, .webpart-wrap-latest_list .ul li a {
+  color: #4D4C4D;
+  font-size: 0.9rem;
+}
+div.webpart-wrap-layout.webpart-bg-E5E5E5 .fr1_E5E5E5.layout-0_5-0_5 .c0_5 .txt p:nth-of-type(2) {
+text-transform: none;
+margin-bottom:3rem;
+}
+#accreditation {
+  background: #88004c;
+  color: #fff;
+  padding: 20px;
+  border-radius: 10px 10px 0 0;
+  bottom: -40px;
+  position: absolute;
+  width: 200px;
+  text-align: center;
+}
+#rm125891_15 > .m1> a, #rm125891_11 > .m1 > a {
+  display: none;
+}
+.webpart-wrap-menu .menu_vert-ul li.m1 > ul > li > a {
+cursor: auto;
+text-transform: none;
+}
+.menu_vert_open_ > ul > li > ul {
+  display: flex;
+}
+
+
+/*.webpart-wrap-FooterMobile .footer .SwitchLayouts {
+  display: none;
+}*/
+.bishop .tabs li {
+padding: 0 10px !important;
+}
+.listing-preview-97 .add_info b:first-of-type, .add_info .time:nth-of-type(3), .time span {
+  display: none;
+}
+.fr1_CDDCE9 .layout-0_33-0_33-0_33 {
+  width: 1280px !important;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+.fr1_CDDCE9 .layout-0_33-0_33-0_33 img {
+  width: 400px;
+}
+.doc_type_3 .txt__lead {
+  font-weight: 900;
+  margin-top: 30px;
+}
+.doc_type_3 .txt__lead p {
+  font: normal normal 900 18px/26px Roboto-black,sans-serif !important;
+    font-variant-emoji: ;
+}
+.doc_type_3 .doc-gallery {
+  margin-left: 0;
+}
+.app_document.doc_type_3 {
+  padding-top: 40px;
+}
+</style>
+<script>
+const linksMenu = document.querySelectorAll('.menu_vert-ul li a');
+
+for (let i = 0; i < linksMenu.length; i++) {
+    if (linksMenu[i].innerText === '+' || linksMenu[i].innerText === '[]') {
+        linksMenu[i].remove();
+    }
+
+}
+const linksL1 = document.querySelectorAll('.LayoutsGroupsHdr.menu.level-0>li:nth-child(2)> .level-1 > li > a');
+for (let i = 0; i < linksL1.length; i++) {
+    linksL1[i].removeAttribute('href');
+}
+</script>
+</div>
+
+
+	</div>
+
+	
 		</div>
-        
-        
-        
-<script>
-			function chkdrop(f)
-			{
-				if(f.options[f.selectedIndex].value=='questionid' || f.options[f.selectedIndex].value=='fatwaid' || f.options[f.selectedIndex].value=='')
-				{
-                $("#q").val("");
-				}
-			}
-            
-			function submitsearch()
-			{
-		      if($("#q").val().trim()!="")
-              document.frmSearch.submit()
-			}
-			
-
-			function enter_text(e)
-			{
-				f=document.getElementById('search_type1');
-				//var e = window.event;
-				if(window.event)
-				keyPressed = window.event.keyCode; // IE
-				else
-				keyPressed = e.which; // Firefox
-
-
-			
-				if(f.options[f.selectedIndex].value=='questionid' || f.options[f.selectedIndex].value=='fatwaid' || f.options[f.selectedIndex].value=='')
-				{
-					if (keyPressed < 48 || keyPressed > 57)
-					{
-						if(keyPressed!=13)
-						{				
-						//keyPressed.returnValue = false;
-						if(window.event)
-						window.event.returnValue = false;
-						else
-						e.preventDefault();
-						
-						alert('For string search please select  the different type rather than Question No: and Fatwa No:');
-						}
-						
-					}
-				}
-			}
-</script>        	</section>
-
-	</div><div class="clear"></div>
-
-
-<div class="footer">
-            <section>
-                <div class="clearfix">
-                    
-                    
-			<div class="footlink">
-				<a><h2>Islamweb</h2></a>
-				<ul style="width: 95%;">
-					<!-- <li><a href="/fr/">Accueil</a></li> -->
-					<li><a href="/fr/articles/">Articles</a></li>
-					<!-- <li><a href="#">Multimédia</a></li> -->
-					<li><a href="/fr/fatawa/">Fatwas</a></li>
-					<li><a href="/fr/ebooks/">E-Books</a></li>
-                    <li><a href="/fr/article/52577/Qui-sommes-nous">Qui sommes-nous?</a></li>
-				</ul>
-			</div>
-			
-			<div class="footlink">
-				<h2>Multim&eacute;dia</h2>
-				<ul style="width: 100%;">
-					<li><a href="/fr/index.php?page=qareename">Coran R&eacute;citations</a></li>
-					<li><a href="/fr/index.php?page=adhan">Adhan</a></li>
-					<li><a href="/fr/index.php?page=conference">Conf&eacute;rences</a></li>
-					<!-- <li><a href="#">Nouveaux Services</a></li> -->
-				</ul>
-
-			</div>
-            
-			<div class="footlink">
-				<h2>Other Links</h2>
-				<ul style="width: 100%;">
-					<li><a href="/fr/prayertimes/">Prayer Times</a></li>
-				</ul>
-			</div>
-                    
-
-                    
 
 
 
 
-                    <div class="sub-footer ">
-
-					<div class="menu-footer-mob">
-                                                       
-                            <a target="_blank" href="/service_agreement/fr.pdf">Accord de service</a>
-                        
-                        </div>
-                        <div class="sub-footer-wrapper">
-                            <div class="d-inline-flex align-items-center mb-3">
-                                <a href="/fr/" class="logo-app">
-                                    <img src="/content/img/footlogo_fr.png" alt="" />
-                                </a>
-                                <a href="https://www.awqaf.gov.qa/" target="_blank" class="logo-app awkaf">
-                                    <img src="/contentver3/img/footawqaf.png" alt="" />
-                                </a>
-                            </div>
-
-                            <div class="footapp d-mobile">
-
-                                <div class="">
-                                    <a href="https://play.google.com/store/apps/developer?id=Islamweb+Dev+Team"
-                                        target="_blank"><img style="cursor: pointer" name="animg1" id="animg1"
-                                            src="/contentver3/img/googleplay.svg" alt="" /></a>
-
-                                    <a href="https://apps.apple.com/us/developer/islamweb-net-%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%88%D9%8A%D8%A8-%D9%86%D8%AA/id500544213"
-                                        target="_blank"><img name="appimg1" id="appimg1" src="/contentver3/img/appstore.svg"
-                                            alt="" /></a>
-                                </div>
-                            </div>
-                        </div>
-                        <p class="copyright d-mobile">
-                            <span>
-
-                                 &copy; 2008-2026,IslamWeb,Tous droits r&eacute;serv&eacute;s.
 
 
-                            </span>
-                        </p>
-                        <div class="footapp d-none-mobile mb-2">
+		<div class="wp-bd webpart-wrap-raw_html wp-el" >
+<script async="async" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+	
+		</div>
 
 
 
-                            <a href="https://play.google.com/store/apps/developer?id=Islamweb+Dev+Team"
-                                target="_blank"><img style="cursor: pointer" name="animg1" id="animg1"
-                                    src="/contentver3/img/googleplay2.png" alt=""></a>
-
-                            <a href="https://apps.apple.com/us/developer/islamweb-net-%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%88%D9%8A%D8%A8-%D9%86%D8%AA/id500544213"
-                                target="_blank"><img name="appimg1" id="appimg1" src="/contentver3/img/appstore2.png"
-                                    alt=""></a>
-                        </div>
-                        <div class="logos-group ">
-                            <a href="/award/econt_aw_f.html">
-                                <img src="/contentver3/img/foot-ico-logo3.png" alt="" />
-                            </a>
-                            <a target="_blank">
-                                <img src="/contentver3/img/foot-ico-logo2.png" alt="" />
-                            </a>
-                            <a href="/award/aw_f.htm" target="_blank">
-                                <img src="/contentver3/img/foot-ico-logo1.png" alt="" />
-                            </a>
-                        </div>
-
-                        <div class="d-flex align-items-center justify-content-between p-2 d-mobile ">
-
-                            <div class="dropdown dropdown-lang m-0">
-                                <a class="btn dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                                    aria-expanded="false">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="11.409" height="11.409"
-                                        viewBox="0 0 11.409 11.409">
-                                        <path id="Icon_material-language" data-name="Icon material-language"
-                                            d="M8.7,3a5.7,5.7,0,1,0,5.71,5.7A5.7,5.7,0,0,0,8.7,3Zm3.953,3.423H10.969a8.927,8.927,0,0,0-.787-2.031A4.581,4.581,0,0,1,12.652,6.423ZM8.7,4.164a8.036,8.036,0,0,1,1.09,2.259H7.615A8.036,8.036,0,0,1,8.7,4.164ZM4.289,9.846a4.462,4.462,0,0,1,0-2.282H6.217A9.421,9.421,0,0,0,6.138,8.7a9.421,9.421,0,0,0,.08,1.141Zm.468,1.141H6.44a8.927,8.927,0,0,0,.787,2.031A4.556,4.556,0,0,1,4.757,10.986ZM6.44,6.423H4.757a4.556,4.556,0,0,1,2.47-2.031A8.927,8.927,0,0,0,6.44,6.423ZM8.7,13.245a8.036,8.036,0,0,1-1.09-2.259H9.794A8.036,8.036,0,0,1,8.7,13.245Zm1.335-3.4H7.37A8.393,8.393,0,0,1,7.278,8.7,8.32,8.32,0,0,1,7.37,7.564h2.67A8.32,8.32,0,0,1,10.131,8.7,8.393,8.393,0,0,1,10.039,9.846Zm.143,3.172a8.927,8.927,0,0,0,.787-2.031h1.683a4.581,4.581,0,0,1-2.47,2.031Zm1.01-3.172a9.421,9.421,0,0,0,.08-1.141,9.421,9.421,0,0,0-.08-1.141H13.12a4.462,4.462,0,0,1,0,2.282Z"
-                                            transform="translate(-3 -3)" fill="#fff" />
-                                    </svg>
-                                    Fran&ccedil;ais
-                                </a>
-                                <ul class="dropdown-menu lang" itemscope itemtype="http://www.schema.org/Language">
-	                                <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/en/">English</a></li>
-                                    <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/ar/">&#1593;&#1585;&#1576;&#1610;</a>
-                                    </li>
-                                    <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/es/">Espa&#241;ol</a>
-                                    </li>
-                                    <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/de/">Deutsch</a>
-                                    </li>
-                                    <li itemprop="name"><a class="dropdown-item" itemprop="url" href="/fr/">Fran&ccedil;ais</a>
-                                    </li>
-                                  
-                                    
-                                    <li itemprop="name"><a class="dropdown-item" itemprop="url"
-                                            href="/id/">Indonesia</a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <ul class="social m-0 float-none w-auto">
-                                <li><a href="https://www.youtube.com/user/islamwebfrancais" target="_blank">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="26.07" height="19.557"
-                                            viewBox="0 0 26.07 19.557">
-                                            <path id="Icon_ionic-logo-youtube" data-name="Icon ionic-logo-youtube"
-                                                d="M25.9,8.819a3.959,3.959,0,0,0-3.769-4.135c-2.821-.132-5.7-.183-8.637-.183h-.917c-2.933,0-5.816.051-8.637.183A3.967,3.967,0,0,0,.178,8.829C.051,10.642-.005,12.455,0,14.268s.051,3.626.173,5.444a3.972,3.972,0,0,0,3.763,4.15c2.964.138,6,.2,9.1.194q4.644.015,9.1-.194a3.973,3.973,0,0,0,3.769-4.15c.122-1.818.178-3.631.173-5.449Q26.084,11.543,25.9,8.819ZM10.542,19.263V9.256l7.384,5Z"
-                                                transform="translate(0 -4.5)" fill="#012d6b" />
-                                        </svg>
-
-                                    </a></li>
-                                
-
-                                <li><a href="https://www.facebook.com/islamweb.fr/" target="_blank">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="22.873" height="22.734"
-                                            viewBox="0 0 22.873 22.734">
-                                            <path id="Icon_simple-facebook" data-name="Icon simple-facebook"
-                                                d="M22.873,11.437A11.437,11.437,0,1,0,9.65,22.735V14.743h-2.9V11.437h2.9V8.917c0-2.866,1.707-4.45,4.32-4.45a17.589,17.589,0,0,1,2.56.223V7.505H15.088a1.653,1.653,0,0,0-1.864,1.786v2.145H16.4l-.507,3.306H13.224v7.992A11.439,11.439,0,0,0,22.873,11.437Z"
-                                                fill="#012d6b" />
-                                        </svg>
-
-                                    </a>
-                                </li>
-                            </ul>
 
 
-                        </div>
 
-
-                    </div>
-                </div>
-            </section>
-
-            <div class="footer-bottom">
-                <section>
-                    <div class="d-flex justify-content-between align-items-center">
-                        <div class="sub-footer w-auto float-none d-inline-flex">
-                            <div class="d-none-mobile">
-                                <ul class="language">
-	                                <li><a href="/en/" target="_blank">English</a></li>
-                                    <li><a href="/ar/">&#1593;&#1585;&#1576;&#1610;</a></li>
-                                    <li><a href="/es/" target="_blank">Espa&#241;ol</a></li>
-                                    <li><a href="/de/" target="_blank">Deutsch</a></li>
-                                    <li><a href="/fr/" target="_blank">Fran&ccedil;ais</a></li>
-                                    
-                                    <li><a href="/id/" target="_blank">Indonesia</a></li>
-                                </ul>
-                            </div>
-                        
-
-                            <ul class="social mx-5 m-0 float-none w-auto">
-                                <li><a href="https://www.youtube.com/user/islamwebfrancais" target="_blank">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="26.07" height="19.557" viewBox="0 0 26.07 19.557">
-                                            <path id="Icon_ionic-logo-youtube" data-name="Icon ionic-logo-youtube" d="M25.9,8.819a3.959,3.959,0,0,0-3.769-4.135c-2.821-.132-5.7-.183-8.637-.183h-.917c-2.933,0-5.816.051-8.637.183A3.967,3.967,0,0,0,.178,8.829C.051,10.642-.005,12.455,0,14.268s.051,3.626.173,5.444a3.972,3.972,0,0,0,3.763,4.15c2.964.138,6,.2,9.1.194q4.644.015,9.1-.194a3.973,3.973,0,0,0,3.769-4.15c.122-1.818.178-3.631.173-5.449Q26.084,11.543,25.9,8.819ZM10.542,19.263V9.256l7.384,5Z" transform="translate(0 -4.5)" fill="#012d6b"></path>
-                                        </svg>
-            
-                                    </a></li>
-                                
-                                
-            
-                                <li><a href="https://www.facebook.com/islamweb.fr/" target="_blank">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="22.873" height="22.734" viewBox="0 0 22.873 22.734">
-                                            <path id="Icon_simple-facebook" data-name="Icon simple-facebook" d="M22.873,11.437A11.437,11.437,0,1,0,9.65,22.735V14.743h-2.9V11.437h2.9V8.917c0-2.866,1.707-4.45,4.32-4.45a17.589,17.589,0,0,1,2.56.223V7.505H15.088a1.653,1.653,0,0,0-1.864,1.786v2.145H16.4l-.507,3.306H13.224v7.992A11.439,11.439,0,0,0,22.873,11.437Z" fill="#012d6b"></path>
-                                        </svg>
-            
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <p class="copyright">
-                            <span>
-
-
-                                &copy; 2008-2026,IslamWeb,Tous droits r&eacute;serv&eacute;s.
-
-                            </span>
-                        </p>
-                    </div>
-                </section>
-
-            </div>
-        </div>
-
-
-<!-- </div> -->
-<!-- iwstat -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LSCR6DHCJ8"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-LSCR6DHCJ8');
+		<div class="wp-bd webpart-wrap-raw_html wp-el" style="padding-top:0px;margin-top:0;padding-bottom:0px;margin-bottom:0;">
+<script>document.addEventListener('DOMContentLoaded', function() {
+  const eventsList = document.querySelector('.webpart-wrap-EventsList');
+  if (eventsList) {
+    const eventsLinks = eventsList.querySelectorAll('a');  
+    for (const link of eventsLinks) {
+      link.setAttribute('href', '');
+link.setAttribute('style', 'cursor:auto');
+    }
+  }
+});
 </script>
+	
+		</div>
 
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '516712172087084');
-fbq('track', 'PageView');
-</script>
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-raw_html wp-el" >
+<style>
+.tabHeader::before {
+content: "WYBIERZ";
+font-size: 1rem;
+}
+.Biskupi .tabHeader::before {
+content: "FILTRUJ";
+font-size: 1rem;
+}
+li:has(ul > .z > .cur_def) > a[rel="nofollow"] {
+    font-weight: bold;
+    font-family: 'Roboto-black';
+cursor: auto;
+}
+div.webpart-wrap-layout.webpart-bg-E5E5E5 .fr1_E5E5E5.layout-0_5-0_5 .c0_5 .txt p:nth-of-type(3)::after, div.webpart-wrap-layout.webpart-bg-E5E5E5 .fr1_E5E5E5.layout-0_5-0_5 .c0_5 .txt p:nth-of-type(2)::after {
+background-size: contain;
+  background-repeat: no-repeat;
+top: 6px;
+  height: 9px;
+}
+.fr1_F9F9F9 .txt.None p>a {
+    color: #88004c;
+}
+.active .level-1 > li > a > span_ {
+    font-weight: bolder;
+    color: #000;
+}
+.active .level-2 {
+    display: block !important;
+}
+.nopic.nopic-170x170 {
+  display: none;
+}
+.home-page .wp-has-title .cf.cN_opoka1::before {
+display: none;
+}
+.cm-i-p > strong {
+display: none;
+}
+.icon-Twitter::after {
+  content: url('/files/24.bkt/05/06/985213_rGzE_x.svg');
+width: 25px;
+margin-right: 5px;
+margin-top: 2px;
+}
+
+.twitter-timeline::before,.twitter-timeline::after {
+display: none;
+}
+
+/*korekty grafika*/
+.webpart-wrap-layout.webpart-bg-1FBBA6 .txt .headerChange {
+  min-height: 30px;
+}
+body.home-page .webpart-wrap-layout.webpart-bg-1FBBA6 .txt .txt__rich-area {
+min-height: 55vh;
+}
+.webpart-wrap-ObjectsListingPreview > .cf.dl_sub .infoBox .src_auth_h a {
+  text-transform: none;
+}
+.webpart-wrap-ObjectsListingPreview > .cf.dl_sub .infoBox .add_info .time {
+font-size: 12px;
+line-height: 16px;
+}
+.tB .cN-no-link span::after{
+display: none;
+}
+.tB .cN-no-link span::before{
+right: 10%;
+}
+.wp-has-title .cN-no-link .cN_ {
+  max-width: 70%;
+  justify-content: flex-start;
+padding-left: 70px;
+}
+.tB .c0_33 .imgBox img, .diecezjeMore .im-555x355 a .imgBox img {
+border: none;
+border-radius: 0;
+}
+.doc_type_19 .txt__rich-area {
+  background: #f8f8f8;
+}
+.tB .tabs li.ch a::after {
+bottom: -20px;
+}
+.wp-bd.webpart-wrap-HeaderWithMenu.wp-el.init:not(.noScroll)::after {
+background: transparent;
+}
+.diecezjeMore .webpart-bg-E5E5E5 .moreBtn.moreBtn2 {
+  display: none;
+}
+.LayoutsGroupsHdr.menu.level-0 .level-1 > li > a span {
+  font: 900 14px/20px Roboto-bold,sans-serif !important;
+    font-variant-emoji: ;
+}
+.tB .c0_33 .cf.cN_opoka3 span {
+  display: none;
+}
+#tabC191843_6_4 span.hnTitle strong::before {
+  content: 'Delegat';
+}
+#tabC191843_6_5 span.hnTitle strong::before {
+  content: 'Asystent';
+}
+.doc_type_3 .cf.txt h1 {
+  font-size: 27px;
+line-height: 1.2;
+}
+.doc-date span {
+  display: none;
+}
+.headerChangeTitle p {
+  display: none;
+}
+
+.cells-preview-2 .attachmentWrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background: #88004c;
+padding-right: 0;
+padding-left: 0;
+}
+@media (min-width: 680px) {
+.cells-preview-2 .attachmentWrapper {
+  width: 30%;
+max-width: 30%;
+}
+.cells-preview-2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+}
+.cells-preview-2 .attachmentWrapper {
+margin-right: 1%;
+}
+.cells-preview-2 .attachmentWrapper a {
+  height: 200px;
+  justify-content: center;
+}
+.cells-preview-2 .attachmentWrapper a p {display:none};
+
+.cells-preview-box.cells-preview-2 .attachmentWrapper:nth-child(2n) {
+  margin-left: 0;
+}
+.cells-preview-2 .attachmentWrapper:nth-child(2n) {
+  margin-left: 0;
+}
+.cells-preview-2 .pgr {
+  display: none;
+}
+.cells-preview-2 h3 {
+  color: #fff;
+  text-align: center;
+height: auto;
+}
+.cells-preview-2 .add_info {
+  display: none;
+}
+.tB .layout-1280 .txt__rich-area {
+  padding: 0 5%;
+}
+.tB .layout-1280 .txt__rich-area li {
+font: normal normal 700 12px/15px Mulish-bold,sans-serif;
+  letter-spacing: .42px;
+}
+.z > .cur_def {
+  cursor: text !important;
+}
+.wp-has-title .cf.cN_opoka3 h4 a {
+color: #88004c;
+text-transform: none;
+}
+</style>
+	
+		</div>
+
+	
+		</div>
+
+	</div>
+
+</div>
+
+	
+		</div>
+
+
+
+
+
+
+
+
+		<div class="wp-bd webpart-wrap-footer wp-el" >
+
+
+<div id="f">
+	<div id="f_">
+		<div class="f-rss-nsl">
+			<a href="/nl" title="newsletter" class="nsl">newsletter</a>
+			<a href="/rss" title="rss" class="rss">RSS</a>
+				<a href="javascript:void(0)" class="ShowWidget report-error-btn" data-widget="ReportProblem">Zgłoś błąd</a>
+		</div>
+		<div id="fm">
+			<a href="https://opoka.org.pl/info/o_nas">O nas</a>
+			<a href="https://www.igomedia.pl">IGM</a>
+			<a href="https://www.gosc.pl">Gość Niedzielny</a>
+			<a href="https://www.malygosc.pl">Mały Gość</a>
+			<a href="https://foto.gosc.pl">Foto Gość</a>
+			<a href="http://reklama.wiara.pl">Reklama</a>
+			<a href="https://www.radioem.pl">Radio eM</a>
+			<a href="https://fundacja.gosc.pl">Fundacja Gość Niedzielny</a>
+			<a href="https://opoka.org.pl/info/polityka_prywatnosci">Polityka prywatności</a>
+			<a href="#">&nbsp;</a>
+		</div>
+		<div id="cr">
+			<a href="https://opoka.org.pl/info/copyright">Copyright &copy; Instytut Gość Media</a>, wszelkie prawa zastrzeżone 
+		</div>
+		<div>
+					<a href="/switch-to-mobile-layouts?url=%2Fdoc%2F185199.opinia-o-niektorych-spolecznych-skutkach-grzechu" rel="nofollow" class="SwitchLayouts" data-layouts="mobile" data-ajax="false">WERSJA MOBILNA</a>
+		</div>
+	</div>
+</div>
+
+	
+		</div>
+
+
+
+</div>
+<div id="help_div"><div class="ldr"></div></div>
+
+<noscript>
+	<div style="position:absolute;top:0;z-index:999999999;padding:10px 20px;width:100%;background:#808080;color:#fff;text-align:center;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:18px;line-height:25px;">
+		<p style="display:inline-block;text-align:left;margin:0;">
+			<span style="float:left;margin-right:20px;width:45px;"><img style="max-width:100%;height:auto;" src="/static/icons/error.gif" alt="" /></span> Wygląda na to, że Twoja przeglądarka nie obsługuje JavaScript.<br />Zmień ustawienia lub <a href="https://browser-update.org/pl/update-browser.html" style="text-decoration:underline;font-weight:bold;color:#fff;">wypróbuj inną przeglądarkę</a>.
+		</p>
+	</div>
+</noscript>
+
+
+
+
+
+
+
+
+
+		
+	<div id="l-overlay">&nbsp;</div>
+	
+	<div id="l-error"><div class="l-login"><div class="l-login-">
+	<a href="#" class="close" title="zamknij">X</a>
+	<div id="ProblemLayer"></div>
+	</div></div></div>
+
+
+	<div id="l-abuse"><div class="l-login"><div class="l-login-">
+	<a href="#" class="close" title="zamknij">X</a>
+	<div id="AbuseLayer"></div>
+	</div></div></div>
+
+	<div id="l-addfriend"><div class="l-login l-newmessage"><div class="l-login-">
+	<a href="#" class="close" title="zamknij">X</a>
+	<div id="AddFriendLayer"></div>
+	</div></div></div>
+
+
+
+			
+	<!--
+
+	-->
 
 </body>
-</html><script>
-gtag('event', 'page_view', {
-  'main_category': 'French',
-  'sub_category': 'Mainsite_FR'
-});
-</script>
+</html>

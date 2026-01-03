@@ -1,7 +1,9 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:13:53 GMT content-type: text/html;
-charset=UTF-8 vary: Accept-Encoding cache-control: max-age=3, must-revalidate
-server: o2switch-PowerBoost-v3 #Apprendre l'Islam » Flux alternate alternate
-alternate
+HTTP/2 200 date: Sat, 03 Jan 2026 16:43:32 GMT content-type: text/html;
+charset=UTF-8 vary: Accept-Encoding link: /www.centre-al-forqane.be/wp-json/>;
+rel="https://api.w.org/", /www.centre-al-forqane.be/wp-json/wp/v2/posts/529>;
+rel="alternate"; type="application/json", /www.centre-al-forqane.be/?p=529>;
+rel=shortlink server: o2switch-PowerBoost-v3 #Apprendre l'Islam » Flux alternate
+alternate alternate
 
 Skip to content
 

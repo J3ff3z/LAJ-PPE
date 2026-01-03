@@ -1,18 +1,18 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:13:51 GMT
+date: Sat, 03 Jan 2026 16:43:29 GMT
 content-type: text/html; charset=UTF-8
 server: cloudflare
 x-pingback: https://www.puissancevie.com/xmlrpc.php
 link: <https://www.puissancevie.com/wp-json/>; rel="https://api.w.org/"
 link: <https://www.puissancevie.com/wp-json/wp/v2/posts/11749>; rel="alternate"; title="JSON"; type="application/json"
 link: <https://www.puissancevie.com/?p=11749>; rel=shortlink
-report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kF5Hoka64ASwkvgXJwliMNL0pSSUI%2B7%2BT6dtHgqCMYEnKKa%2B5KTkmT3WTlKEwJfOeVdecFsjZKTyPqsjwk74J%2FMcgHXBiB%2FPkFBIA%2FnssBWXVwrTUXueYpbJ0NXMRw%3D%3D"}]}
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=e6thbnplLK%2BEC1K5Xo9J7HAtd5WGZNut0I9TUZMGRNsPTEMJiCntndZWZ28ig8MWog%2Blcjqpq%2B9%2FMOXbb8ZNCVsq6xoEtqwLzxNVnMlqvl48SgY6iOvw2oJE%2FetT4%2F3k"}]}
 vary: Accept-Encoding
 strict-transport-security: max-age=16000000
 speculation-rules: "/cdn-cgi/speculation"
 cf-cache-status: DYNAMIC
 nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-cf-ray: 9b83c91f2f310403-CDG
+cf-ray: 9b83f4894ac83388-CDG
 alt-svc: h3=":443"; ma=86400
 
 <!DOCTYPE html>
@@ -825,7 +825,7 @@ class="hfeed site" id="page">
 <div class="elementor-element elementor-element-3296054 elementor-widget elementor-widget-text-editor" data-id="3296054" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <h3>Signification</h3>
-<p>« Pécher » signifie littéralement « manquer le but ». Dans la <a href="https://www.puissancevie.com/dieu/bible-cest-quoi/"><span class='tooltipsall tooltip_post_id_14723 classtoolTips14723'>Bible</span></a> c’est faillir en faisant ce qui est mal aux yeux de Dieu. Depuis les 10 commandements jusqu’au <span class='tooltipsall tooltip_post_id_15314 classtoolTips15314'>Nouveau Testament</span>, la Bible nous montre la voie à suivre. Mais y parvient-on ? Est-ce que tu as déjà voulu quelque chose qui ne t’appartiens pas ? Ou désiré sexuellement la femme d’un autre, ou menti, ou volé (même un stylo au patron), ou… pensé que <a href="https://www.puissancevie.com/dieu/ce-que-dieu-est/">Dieu</a> n’existait pas, ne le respectant pas comme ton Créateur ? Oui, nous sommes tous des pécheurs – dès notre naissance. Les petits enfants ne sont pas responsables de leurs actes. Ça ne veut pas dire qu’ils ne pèchent pas. Toi tu pèches et tu es responsable de ce que tu fais. Et tu es même responsable des bonnes choses que tu ne fais pas (<span class='tooltipsall tooltip_post_id_custom_dbddb3749cb50a699c46c4f6650937d5 classtoolTipsCustomShortCodeOnlyForMultiTooltips'>Jacques 4:17</span><script type="text/javascript">jQuery("document").ready(function(){ toolTips('.tooltip_post_id_custom_dbddb3749cb50a699c46c4f6650937d5',"Qui sait faire le bien et ne le fait pas, pour lui c\'est un péché.",'0'); });</script>).</p>
+<p>« Pécher » signifie littéralement « manquer le but ». Dans la <a href="https://www.puissancevie.com/dieu/bible-cest-quoi/"><span class='tooltipsall tooltip_post_id_14723 classtoolTips14723'>Bible</span></a> c’est faillir en faisant ce qui est mal aux yeux de Dieu. Depuis les 10 commandements jusqu’au <span class='tooltipsall tooltip_post_id_15314 classtoolTips15314'>Nouveau Testament</span>, la Bible nous montre la voie à suivre. Mais y parvient-on ? Est-ce que tu as déjà voulu quelque chose qui ne t’appartiens pas ? Ou désiré sexuellement la femme d’un autre, ou menti, ou volé (même un stylo au patron), ou… pensé que <a href="https://www.puissancevie.com/dieu/ce-que-dieu-est/">Dieu</a> n’existait pas, ne le respectant pas comme ton Créateur ? Oui, nous sommes tous des pécheurs – dès notre naissance. Les petits enfants ne sont pas responsables de leurs actes. Ça ne veut pas dire qu’ils ne pèchent pas. Toi tu pèches et tu es responsable de ce que tu fais. Et tu es même responsable des bonnes choses que tu ne fais pas (<span class='tooltipsall tooltip_post_id_custom_1d52c388438bb1db77d97db472b5619f classtoolTipsCustomShortCodeOnlyForMultiTooltips'>Jacques 4:17</span><script type="text/javascript">jQuery("document").ready(function(){ toolTips('.tooltip_post_id_custom_1d52c388438bb1db77d97db472b5619f',"Qui sait faire le bien et ne le fait pas, pour lui c\'est un péché.",'0'); });</script>).</p>
 <h3>Mais est-ce vraiment si grave ?</h3>
 <p>Oui, le péché est grave, et il ne fait de bien à personne. Son origine c’est de penser qu’on peut être soi-même son propre dieu. Le péché montre donc une séparation entre toi et Dieu, car il est saint et il ne peut pas voir le mal ! Mais tu sais… Dieu ne nous a pas mis sur la terre pour pécher ! Car la conséquence du péché c’est la mort (<a href="https://www.puissancevie.com/ma-vie/apres-la-mort-tout-est-fini-vraiment/">Après la mort tout est fini&#8230; Vraiment?</a>), et Dieu ne veut pas la mort du pécheur, mais sa conversion et sa vie ! Il a donc quelque chose de meilleur pour toi.</p>
 <h3>Y a-t-il une solution ?</h3>
@@ -1011,7 +1011,7 @@ class="hfeed site" id="page">
 <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /><label for="wp-comment-cookies-consent">Enregistrer mon nom et mon e-mail dans le navigateur pour mon prochain commentaire</label></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Publier un commentaire &raquo;" /> <input type='hidden' name='comment_post_ID' value='11749' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="887bcf4d43" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="69"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="887bcf4d43" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="200"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	
 	
 </div><!-- #comments -->
@@ -1033,49 +1033,49 @@ class="hfeed site" id="page">
 				<div class="elementor-element elementor-element-d35ce92 elementor-grid-2 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-card-shadow-yes elementor-posts__hover-gradient elementor-widget elementor-widget-posts" data-id="d35ce92" data-element_type="widget" data-settings="{&quot;cards_columns&quot;:&quot;2&quot;,&quot;cards_columns_tablet&quot;:&quot;2&quot;,&quot;cards_columns_mobile&quot;:&quot;1&quot;,&quot;cards_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;cards_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;cards_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.cards">
 				<div class="elementor-widget-container">
 							<div class="elementor-posts-container elementor-posts elementor-posts--skin-cards elementor-grid" role="list">
-				<article class="elementor-post elementor-grid-item post-16834 post type-post status-publish format-standard has-post-thumbnail hentry category-dieu category-vivre" role="listitem">
+				<article class="elementor-post elementor-grid-item post-13168 post type-post status-publish format-video has-post-thumbnail hentry category-dieu category-videos category-vivre tag-bible post_format-post-format-video has-post-video" role="listitem">
 			<div class="elementor-post__card">
-				<a class="elementor-post__thumbnail__link" href="https://www.puissancevie.com/dieu/lexemple-de-marie-la-mere-de-jesus/" tabindex="-1" ><div class="elementor-post__thumbnail"><img loading="lazy" width="300" height="200" src="https://www.puissancevie.com/wp-content/uploads/2024/12/marie-300x200.jpg" class="attachment-medium size-medium wp-image-16846" alt="" decoding="async" srcset="https://www.puissancevie.com/wp-content/uploads/2024/12/marie-300x200.jpg 300w, https://www.puissancevie.com/wp-content/uploads/2024/12/marie-1024x684.jpg 1024w, https://www.puissancevie.com/wp-content/uploads/2024/12/marie-768x513.jpg 768w, https://www.puissancevie.com/wp-content/uploads/2024/12/marie-1536x1026.jpg 1536w, https://www.puissancevie.com/wp-content/uploads/2024/12/marie.jpg 1800w" sizes="(max-width: 300px) 100vw, 300px" /></div></a>
+				<a class="elementor-post__thumbnail__link" href="https://www.puissancevie.com/videos/est-ce-que-tu-lis-la-bible/" tabindex="-1" ><div class="elementor-post__thumbnail"><img loading="lazy" width="300" height="169" src="https://www.puissancevie.com/wp-content/uploads/2017/05/Est-ce-que-tu-lis-la-Bible--300x169.jpeg" class="attachment-medium size-medium wp-image-14197" alt="" decoding="async" srcset="https://www.puissancevie.com/wp-content/uploads/2017/05/Est-ce-que-tu-lis-la-Bible--300x169.jpeg 300w, https://www.puissancevie.com/wp-content/uploads/2017/05/Est-ce-que-tu-lis-la-Bible--1024x576.jpeg 1024w, https://www.puissancevie.com/wp-content/uploads/2017/05/Est-ce-que-tu-lis-la-Bible--768x432.jpeg 768w, https://www.puissancevie.com/wp-content/uploads/2017/05/Est-ce-que-tu-lis-la-Bible--600x338.jpeg 600w, https://www.puissancevie.com/wp-content/uploads/2017/05/Est-ce-que-tu-lis-la-Bible-.jpeg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></div></a>
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://www.puissancevie.com/dieu/lexemple-de-marie-la-mere-de-jesus/" >
-				L’exemple de Marie, la mère de Jésus			</a>
+			<a href="https://www.puissancevie.com/videos/est-ce-que-tu-lis-la-bible/" >
+				Est-ce que tu lis la Bible?			</a>
 		</h3>
 				<div class="elementor-post__excerpt">
-			<p>La Bible est remplie de nombreux exemples de personnes qui ont vécu dans la foi en Dieu, bien avant nous. Tu en connais probablement plusieurs,</p>
+			<p>La Bible est le livre le plus imprimé au monde. En possèdes-tu une? Si oui, la lis-tu ou prend-elle la poussière, délaissée dans un coin?</p>
 		</div>
 		
-		<a class="elementor-post__read-more" href="https://www.puissancevie.com/dieu/lexemple-de-marie-la-mere-de-jesus/" aria-label="En savoir plus sur L’exemple de Marie, la mère de Jésus" tabindex="-1" >
+		<a class="elementor-post__read-more" href="https://www.puissancevie.com/videos/est-ce-que-tu-lis-la-bible/" aria-label="En savoir plus sur Est-ce que tu lis la Bible?" tabindex="-1" >
 			Lire l'article »		</a>
 
 				</div>
 				<div class="elementor-post__meta-data">
 					<span class="elementor-post-author">
-			Colin		</span>
+			Timothée		</span>
 				<span class="elementor-post-avatar">
 			Aucun commentaire		</span>
 				</div>
 					</div>
 		</article>
-				<article class="elementor-post elementor-grid-item post-16398 post type-post status-publish format-video has-post-thumbnail hentry category-dieu category-rencontre category-videos tag-bible post_format-post-format-video has-post-video" role="listitem">
+				<article class="elementor-post elementor-grid-item post-13081 post type-post status-publish format-video has-post-thumbnail hentry category-dieu category-existence category-videos tag-bible post_format-post-format-video has-post-video" role="listitem">
 			<div class="elementor-post__card">
-				<a class="elementor-post__thumbnail__link" href="https://www.puissancevie.com/videos/le-chemin-pour-aller-a-dieu/" tabindex="-1" ><div class="elementor-post__thumbnail"><img loading="lazy" width="300" height="100" src="https://www.puissancevie.com/wp-content/uploads/2024/02/bg2-300x100.jpg" class="attachment-medium size-medium wp-image-16422" alt="" decoding="async" srcset="https://www.puissancevie.com/wp-content/uploads/2024/02/bg2-300x100.jpg 300w, https://www.puissancevie.com/wp-content/uploads/2024/02/bg2-1024x341.jpg 1024w, https://www.puissancevie.com/wp-content/uploads/2024/02/bg2-768x256.jpg 768w, https://www.puissancevie.com/wp-content/uploads/2024/02/bg2-1536x512.jpg 1536w, https://www.puissancevie.com/wp-content/uploads/2024/02/bg2.jpg 1800w" sizes="(max-width: 300px) 100vw, 300px" /></div></a>
+				<a class="elementor-post__thumbnail__link" href="https://www.puissancevie.com/videos/bible-rencontre-t-tant-doppositions/" tabindex="-1" ><div class="elementor-post__thumbnail"><img loading="lazy" width="300" height="169" src="https://www.puissancevie.com/wp-content/uploads/2016/12/Pourquoi-la-Bible-rencontre-t-elle-autant-doppositions-300x169.jpeg" class="attachment-medium size-medium wp-image-14209" alt="" decoding="async" srcset="https://www.puissancevie.com/wp-content/uploads/2016/12/Pourquoi-la-Bible-rencontre-t-elle-autant-doppositions-300x169.jpeg 300w, https://www.puissancevie.com/wp-content/uploads/2016/12/Pourquoi-la-Bible-rencontre-t-elle-autant-doppositions-1024x576.jpeg 1024w, https://www.puissancevie.com/wp-content/uploads/2016/12/Pourquoi-la-Bible-rencontre-t-elle-autant-doppositions-768x432.jpeg 768w, https://www.puissancevie.com/wp-content/uploads/2016/12/Pourquoi-la-Bible-rencontre-t-elle-autant-doppositions-600x338.jpeg 600w, https://www.puissancevie.com/wp-content/uploads/2016/12/Pourquoi-la-Bible-rencontre-t-elle-autant-doppositions.jpeg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></div></a>
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://www.puissancevie.com/videos/le-chemin-pour-aller-a-dieu/" >
-				Le film de ta vie			</a>
+			<a href="https://www.puissancevie.com/videos/bible-rencontre-t-tant-doppositions/" >
+				Pourquoi la Bible rencontre-t-elle tant d&rsquo;oppositions?			</a>
 		</h3>
 				<div class="elementor-post__excerpt">
-			<p>Quel scénario pour ta vie? Tu en connais le début, mais quelle en sera la fin? Pose-toi les bonnes questions avant qu&rsquo;il ne soit trop</p>
+			<p>Découvre la réponse dans cette vidéo!</p>
 		</div>
 		
-		<a class="elementor-post__read-more" href="https://www.puissancevie.com/videos/le-chemin-pour-aller-a-dieu/" aria-label="En savoir plus sur Le film de ta vie" tabindex="-1" >
+		<a class="elementor-post__read-more" href="https://www.puissancevie.com/videos/bible-rencontre-t-tant-doppositions/" aria-label="En savoir plus sur Pourquoi la Bible rencontre-t-elle tant d&rsquo;oppositions?" tabindex="-1" >
 			Lire l'article »		</a>
 
 				</div>
 				<div class="elementor-post__meta-data">
 					<span class="elementor-post-author">
-			Team Vidéo		</span>
+			joas		</span>
 				<span class="elementor-post-avatar">
 			Aucun commentaire		</span>
 				</div>

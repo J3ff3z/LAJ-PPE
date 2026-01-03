@@ -1,4 +1,4 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:13:40 GMT content-type: text/html;
+HTTP/2 200 date: Sat, 03 Jan 2026 16:43:18 GMT content-type: text/html;
 charset=UTF-8 server: cloudflare nel:
 {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} vary:
 Accept-Encoding vary: User-Agent last-modified: jeu, 24 Sep 2009 11:19:51
@@ -6,9 +6,9 @@ x-nginx-cache: HIT FR |
 shttpGETwww.psychologies.com/Moi/Se-connaitre/Comportement/Articles-et-Dossiers/
 Les-7-nouveaux-peches-capitaux access-control-allow-origin: * report-to:
 {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare
-.com/report/v4?s=ewekMCn8s2tP2u9AwDAnQ5Rs85qV6A3CRDn4H3erAARF1AjGX8pTsEASn%2B6Nw
-C076XApGgCA55ZBiIoSEK6JY6wPrbVAAHa5LItnSzLCe2tlYUIqUKDxR7Rll596j3g%3D"}]}
-cf-cache-status: DYNAMIC cf-ray: 9b83c8e57948989f-CDG alt-svc: h3=":443";
+.com/report/v4?s=YADTpexV1P5c%2FTtB2MhXiKiiFzq9lOB0%2FshFUK7DPzKbLhYHckb6OXyxLTD
+%2BsJ04u3acsK7TfqC52RLt2yRgpno2alF6De2ZullcJDUkgwlZtQ14QcihOzVe8JE2w0U%3D"}]}
+cf-cache-status: DYNAMIC cf-ray: 9b83f44ea9c4036b-CDG alt-svc: h3=":443";
 ma=86400 #Psychologies.com » Flux
 
 IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N8FW6BPP

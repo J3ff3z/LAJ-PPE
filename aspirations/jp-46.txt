@@ -1,0 +1,1295 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 03 Jan 2026 16:42:57 GMT
+content-type: text/html; charset=UTF-8
+content-length: 103821
+vary: Accept-Encoding
+link: <https://christianpress.jp/wp-json/>; rel="https://api.w.org/", <https://christianpress.jp/wp-json/wp/v2/posts/6745>; rel="alternate"; title="JSON"; type="application/json", <https://christianpress.jp/?p=6745>; rel=shortlink
+x-mod-pagespeed: Powered By XPageSpeed
+link: </wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.6>; rel=preload; as=script; nopush
+link: </wp-content/plugins/jetpack/modules/related-posts/related-posts.css?ver=20240116>; rel=preload; as=style; nopush
+link: </wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=4.2.1>; rel=preload; as=style; nopush
+link: </wp-content/plugins/pt-content-views-pro/public/assets/css/cvpro.min.css?ver=6.4.0>; rel=preload; as=style; nopush
+link: </wp-includes/css/dist/block-library/style.min.css?ver=f89287479f3d150949cd6a1f5097a2a6>; rel=preload; as=style; nopush
+link: </wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17>; rel=preload; as=style; nopush
+link: </wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=f89287479f3d150949cd6a1f5097a2a6>; rel=preload; as=style; nopush
+link: </wp-content/plugins/custom-related-posts/dist/public.css?ver=1.8.0>; rel=preload; as=style; nopush
+link: </wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=10.3.7>; rel=preload; as=style; nopush
+link: </wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=10.3.7>; rel=preload; as=style; nopush
+link: </wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=5.5.12>; rel=preload; as=style; nopush
+link: </wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=7.3.6>; rel=preload; as=style; nopush
+link: </wp-content/plugins/woocommerce/assets/css/brands.css?ver=10.3.7>; rel=preload; as=style; nopush
+link: </wp-content/themes/common_tcd097/css/swiper-bundle.min.css?ver=1716283376>; rel=preload; as=style; nopush
+link: </wp-content/themes/common_tcd097/style.css?ver=1716283376>; rel=preload; as=style; nopush
+link: </wp-content/themes/common_tcd097/css/design-plus.css?ver=1716283376>; rel=preload; as=style; nopush
+link: </wp-content/themes/common_tcd097/css/default-widget.css?ver=1716283376>; rel=preload; as=style; nopush
+link: </wp-content/themes/common_tcd097/css/comment.css?ver=1716283376>; rel=preload; as=style; nopush
+link: </wp-content/themes/common_tcd097/wc/css/woocommerce.css?ver=f89287479f3d150949cd6a1f5097a2a6>; rel=preload; as=style; nopush
+link: </wp-content/themes/common_tcd097/wc/css/wc-widget.css?ver=f89287479f3d150949cd6a1f5097a2a6>; rel=preload; as=style; nopush
+link: </wp-content/themes/common_tcd097/wc/css/common-style.css?ver=f89287479f3d150949cd6a1f5097a2a6>; rel=preload; as=style; nopush
+link: </wp-content/themes/common_tcd097/css/sns-button.css?ver=f89287479f3d150949cd6a1f5097a2a6>; rel=preload; as=style; nopush
+link: </wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=14.2.4>; rel=preload; as=style; nopush
+link: </wp-content/plugins/jetpack/_inc/build/related-posts/related-posts.min.js?ver=20240116>; rel=preload; as=script; nopush
+link: </wp-includes/js/jquery/jquery.min.js?ver=3.7.1>; rel=preload; as=script; nopush
+link: </wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1>; rel=preload; as=script; nopush
+link: </wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.3.7>; rel=preload; as=script; nopush
+link: </wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.3.7>; rel=preload; as=script; nopush
+link: </wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.3.7>; rel=preload; as=script; nopush
+link: </wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.3.7>; rel=preload; as=script; nopush
+link: </wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=14.2.4>; rel=preload; as=script; nopush
+link: </wp-content/plugins/woocommerce-gateway-stripe/build/upe-blocks.css?ver=7a015a6f0fabd17529b6>; rel=preload; as=style; nopush
+link: </wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.3.7>; rel=preload; as=style; nopush
+link: </wp-content/plugins/mailpoet/assets/dist/css/mailpoet-public.b1f0906e.css?ver=f89287479f3d150949cd6a1f5097a2a6>; rel=preload; as=style; nopush
+link: </wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js?ver=4.2.1>; rel=preload; as=script; nopush
+link: </wp-content/plugins/pt-content-views-pro/public/assets/js/cvpro.min.js?ver=6.4.0>; rel=preload; as=script; nopush
+link: </wp-content/themes/common_tcd097/js/swiper-bundle.min.js?ver=1716283376>; rel=preload; as=script; nopush
+link: </wp-content/themes/common_tcd097/js/jquery.easing.1.4.js?ver=1716283376>; rel=preload; as=script; nopush
+link: </wp-content/themes/common_tcd097/js/jquery.inview.min.js?ver=1716283376>; rel=preload; as=script; nopush
+link: </wp-content/themes/common_tcd097/js/jscript.js?ver=1716283376>; rel=preload; as=script; nopush
+link: </wp-includes/js/comment-reply.min.js?ver=f89287479f3d150949cd6a1f5097a2a6>; rel=preload; as=script; nopush
+link: </wp-content/themes/common_tcd097/js/comment.js?ver=1716283376>; rel=preload; as=script; nopush
+link: </wp-content/themes/common_tcd097/wc/js/single-product.js?ver=1.5>; rel=preload; as=script; nopush
+link: </wp-content/themes/common_tcd097/wc/js/archive-product.js?ver=1.5>; rel=preload; as=script; nopush
+link: </wp-content/themes/common_tcd097/wc/js/header.js?ver=1.5>; rel=preload; as=script; nopush
+link: </wp-content/themes/common_tcd097/wc/js/like.js?ver=1.5>; rel=preload; as=script; nopush
+link: </wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.3.7>; rel=preload; as=script; nopush
+link: </wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.3.7>; rel=preload; as=script; nopush
+link: </wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=14.2.4>; rel=preload; as=script; nopush
+link: </wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=5.5.12>; rel=preload; as=script; nopush
+link: </wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=10.3.7>; rel=preload; as=script; nopush
+link: </wp-content/plugins/mailpoet/assets/dist/js/public.js?ver=5.17.0>; rel=preload; as=script; nopush
+vary: Accept-Encoding
+cache-control: s-maxage=10
+accept-ranges: bytes
+
+<!DOCTYPE html>
+<html class="pc" lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>キリスト教、仏教、神道が語る性と生　「宗教とエイズ」 | クリプレ（クリスチャンプレス）</title>
+<meta name="description" content="「ＡＩＤＳ文化フォーラム in YOKOHAMA」がかながわ県民センターで開催され、トーク・セッション「宗教とエイズ」が行われた。ヌカポク・スダーカル氏（司祭）、古川潤哉氏（僧侶）、三橋健氏（神道学者）の話を、岩室紳也氏（医師）がリードした。">
+<link rel="pingback" href="https://christianpress.jp/xmlrpc.php">
+<script data-cfasync="false">window._EPYT_=window._EPYT_||{ajaxurl:"https://christianpress.jp/wp-admin/admin-ajax.php",security:"6c6bcfb236",gallery_scrolloffset:20,eppathtoscripts:"https://christianpress.jp/wp-content/plugins/youtube-embed-plus/scripts/",eppath:"https://christianpress.jp/wp-content/plugins/youtube-embed-plus/",epresponsiveselector:["iframe.__youtube_prefs__","iframe[src*='youtube.com']","iframe[src*='youtube-nocookie.com']","iframe[data-ep-src*='youtube.com']","iframe[data-ep-src*='youtube-nocookie.com']","iframe[data-ep-gallerysrc*='youtube.com']"],version:"14.2.4",epdovol:true,evselector:'iframe.__youtube_prefs__[src], iframe[src*="youtube.com/embed/"], iframe[src*="youtube-nocookie.com/embed/"]',ajax_compat:false,maxres_facade:'eager',ytapi_load:'light',pause_others:true,facade_mode:true,not_live_on_channel:false,stopMobileBuffer:true};</script>
+<meta name='robots' content='max-image-preview:large'/>
+<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://christianpress.jp/religion-and-aids/">
+<meta property="og:title" content="キリスト教、仏教、神道が語る性と生　「宗教とエイズ」 &#8211; クリプレ（クリスチャンプレス）">
+<meta property="og:description" content="「ＡＩＤＳ文化フォーラム in YOKOHAMA」がかながわ県民センターで開催され、トーク・セッション「宗教とエイズ」が行われた。ヌカポク・スダーカル氏（司祭）、古川潤哉氏（僧侶）、三橋健氏（神道学者）の話を、岩室紳也氏（医師）がリードした。">
+<meta property="og:site_name" content="クリプレ（クリスチャンプレス）">
+<meta property="og:image" content="https://christianpress.jp/wp-content/themes/common_tcd097/img/common/no_image2.gif">
+<meta property="og:image:secure_url" content="https://christianpress.jp/wp-content/themes/common_tcd097/img/common/no_image2.gif">
+<meta property="og:image:width" content="850">
+<meta property="og:image:height" content="500">
+<meta property="fb:app_id" content="1793475350691555">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@ChriPress">
+<meta name="twitter:creator" content="@ChriPress">
+<meta name="twitter:title" content="キリスト教、仏教、神道が語る性と生　「宗教とエイズ」 &#8211; クリプレ（クリスチャンプレス）">
+<meta property="twitter:description" content="「ＡＩＤＳ文化フォーラム in YOKOHAMA」がかながわ県民センターで開催され、トーク・セッション「宗教とエイズ」が行われた。ヌカポク・スダーカル氏（司祭）、古川潤哉氏（僧侶）、三橋健氏（神道学者）の話を、岩室紳也氏（医師）がリードした。">
+<meta name="twitter:image:src" content="https://christianpress.jp/wp-content/themes/common_tcd097/img/common/no_image2.gif">
+<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="7A94e_STssapH4-_o6ApAFXvDODshHDPeGq3Rxq7mOs"/>
+<link rel='dns-prefetch' href='//www.googletagmanager.com'/>
+<link rel='dns-prefetch' href='//stats.wp.com'/>
+<link rel="alternate" type="application/rss+xml" title="クリプレ（クリスチャンプレス） &raquo; フィード" href="https://christianpress.jp/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="クリプレ（クリスチャンプレス） &raquo; コメントフィード" href="https://christianpress.jp/comments/feed/"/>
+<script type="text/javascript" id="wpp-js" src="https://christianpress.jp/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.6" data-sampling="0" data-sampling-rate="100" data-api-url="https://christianpress.jp/wp-json/wordpress-popular-posts" data-post-id="6745" data-token="d0aff425d5" data-lang="0" data-debug="0"></script>
+<link rel='stylesheet' id='jetpack_related-posts-css' href='https://christianpress.jp/wp-content/plugins/jetpack/modules/related-posts/related-posts.css?ver=20240116' type='text/css' media='all'/>
+<link rel='stylesheet' id='pt-cv-public-style-css' href='https://christianpress.jp/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=4.2.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='pt-cv-public-pro-style-css' href='https://christianpress.jp/wp-content/plugins/pt-content-views-pro/public/assets/css/cvpro.min.css?ver=6.4.0' type='text/css' media='all'/>
+<link rel='stylesheet' id='wp-block-library-css' href='https://christianpress.jp/wp-includes/css/dist/block-library/style.min.css?ver=f89287479f3d150949cd6a1f5097a2a6' type='text/css' media='all'/>
+<link rel='stylesheet' id='mediaelement-css' href='https://christianpress.jp/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css,qver=4.2.17.pagespeed.ce.Kw3X7s6gO0.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://christianpress.jp/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=f89287479f3d150949cd6a1f5097a2a6' type='text/css' media='all'/>
+<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='crp-public-css' href='https://christianpress.jp/wp-content/plugins/custom-related-posts/dist/public.css?ver=1.8.0' type='text/css' media='all'/>
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://christianpress.jp/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=10.3.7' type='text/css' media='all'/>
+<style id='woocommerce-layout-inline-css' type='text/css'>
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://christianpress.jp/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=10.3.7' type='text/css' media='only screen and (max-width: 768px)'/>
+<link rel='stylesheet' id='woocommerce-general-css' href='https://christianpress.jp/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=10.3.7' type='text/css' media='all'/>
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='ivory-search-styles-css' href='https://christianpress.jp/wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=5.5.12' type='text/css' media='all'/>
+<link rel='stylesheet' id='wordpress-popular-posts-css-css' href='https://christianpress.jp/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=7.3.6' type='text/css' media='all'/>
+<link rel='stylesheet' id='brands-styles-css' href='https://christianpress.jp/wp-content/plugins/woocommerce/assets/css/brands.css?ver=10.3.7' type='text/css' media='all'/>
+<link rel='stylesheet' id='swiper-css' href='https://christianpress.jp/wp-content/themes/common_tcd097/css/swiper-bundle.min.css?ver=1716283376' type='text/css' media='all'/>
+<link rel='stylesheet' id='style-css' href='https://christianpress.jp/wp-content/themes/common_tcd097/style.css?ver=1716283376' type='text/css' media='all'/>
+<link rel='stylesheet' id='design-plus-css' href='https://christianpress.jp/wp-content/themes/common_tcd097/css/design-plus.css?ver=1716283376' type='text/css' media='all'/>
+<link rel='stylesheet' id='default-widget-css' href='https://christianpress.jp/wp-content/themes/common_tcd097/css/default-widget.css?ver=1716283376' type='text/css' media='all'/>
+<link rel='stylesheet' id='comment-css' href='https://christianpress.jp/wp-content/themes/common_tcd097/css/comment.css?ver=1716283376' type='text/css' media='all'/>
+<link rel='stylesheet' id='woocommerce-basic-style-css' href='https://christianpress.jp/wp-content/themes/common_tcd097/wc/css/woocommerce.css,qver=f89287479f3d150949cd6a1f5097a2a6.pagespeed.ce.8ys0kbrU_e.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='woocommerce-widget-style-css' href='https://christianpress.jp/wp-content/themes/common_tcd097/wc/css/wc-widget.css?ver=f89287479f3d150949cd6a1f5097a2a6' type='text/css' media='all'/>
+<link rel='stylesheet' id='woocommerce-common-style-css' href='https://christianpress.jp/wp-content/themes/common_tcd097/wc/css/common-style.css?ver=f89287479f3d150949cd6a1f5097a2a6' type='text/css' media='all'/>
+<link rel='stylesheet' id='sns-button-css-css' href='https://christianpress.jp/wp-content/themes/common_tcd097/css/sns-button.css?ver=f89287479f3d150949cd6a1f5097a2a6' type='text/css' media='all'/>
+<link rel='stylesheet' id='__EPYT__style-css' href='https://christianpress.jp/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=14.2.4' type='text/css' media='all'/>
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<script data-cfasync="false">window._EPYT_=window._EPYT_||{ajaxurl:"https://christianpress.jp/wp-admin/admin-ajax.php",security:"6c6bcfb236",gallery_scrolloffset:20,eppathtoscripts:"https://christianpress.jp/wp-content/plugins/youtube-embed-plus/scripts/",eppath:"https://christianpress.jp/wp-content/plugins/youtube-embed-plus/",epresponsiveselector:["iframe.__youtube_prefs__","iframe[src*='youtube.com']","iframe[src*='youtube-nocookie.com']","iframe[data-ep-src*='youtube.com']","iframe[data-ep-src*='youtube-nocookie.com']","iframe[data-ep-gallerysrc*='youtube.com']"],version:"14.2.4",epdovol:true,evselector:'iframe.__youtube_prefs__[src], iframe[src*="youtube.com/embed/"], iframe[src*="youtube-nocookie.com/embed/"]',ajax_compat:false,maxres_facade:'eager',ytapi_load:'light',pause_others:true,facade_mode:true,not_live_on_channel:false,stopMobileBuffer:true};</script>
+<script type="text/javascript" id="jetpack_related-posts-js-extra">//<![CDATA[
+var related_posts_js_options={"post_heading":"h4"};
+//]]></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/plugins/jetpack/_inc/build/related-posts/related-posts.min.js?ver=20240116" id="jetpack_related-posts-js"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.3.7" id="wc-jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">//<![CDATA[
+var wc_add_to_cart_params={"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"\u304a\u8cb7\u3044\u7269\u30ab\u30b4\u3092\u8868\u793a","cart_url":"https:\/\/christianpress.jp\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+//]]></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.3.7" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.3.7" id="wc-js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="woocommerce-js-extra">//<![CDATA[
+var woocommerce_params={"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_password_show":"\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u8868\u793a","i18n_password_hide":"\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u96a0\u3059"};
+//]]></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.3.7" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="WCPAY_ASSETS-js-extra">//<![CDATA[
+var wcpayAssets={"url":"https:\/\/christianpress.jp\/wp-content\/plugins\/woocommerce-payments\/dist\/"};
+//]]></script>
+<!-- Site Kit によって追加された Google タグ（gtag.js）スニペット -->
+<!-- Google アナリティクス スニペット (Site Kit が追加) -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-FZ5H8BZX0M" id="google_gtagjs-js" async></script>
+<script type="text/javascript" id="google_gtagjs-js-after">//<![CDATA[
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("set","linker",{"domains":["christianpress.jp"]});gtag("js",new Date());gtag("set","developer_id.dZTNiMT",true);gtag("config","G-FZ5H8BZX0M");
+//]]></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=14.2.4" id="__ytprefs__-js"></script>
+<link rel="https://api.w.org/" href="https://christianpress.jp/wp-json/"/><link rel="alternate" title="JSON" type="application/json" href="https://christianpress.jp/wp-json/wp/v2/posts/6745"/><link rel="canonical" href="https://christianpress.jp/religion-and-aids/"/>
+<link rel='shortlink' href='https://christianpress.jp/?p=6745'/>
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://christianpress.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchristianpress.jp%2Freligion-and-aids%2F"/>
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://christianpress.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchristianpress.jp%2Freligion-and-aids%2F&#038;format=xml"/>
+<meta name="generator" content="Site Kit by Google 1.168.0"/>	<style>img#wpstats{display:none}</style>
+<style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-block-placeholder,.wpp-shortcode-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+<meta name="description" content="「ＡＩＤＳ文化フォーラム in YOKOHAMA」がかながわ県民センターで開催され、トーク・セッション「宗教と&hellip;"/>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="キリスト教、仏教、神道が語る性と生　「宗教とエイズ」"/>
+<meta property="og:url" content="https://christianpress.jp/religion-and-aids/"/>
+<meta property="og:description" content="「ＡＩＤＳ文化フォーラム in YOKOHAMA」がかながわ県民センターで開催され、トーク・セッション「宗教と&hellip;"/>
+<meta property="article:published_time" content="2018-08-08T22:00:42+00:00"/>
+<meta property="article:modified_time" content="2020-07-13T02:42:50+00:00"/>
+<meta property="og:site_name" content="クリプレ（クリスチャンプレス）"/>
+<meta property="og:image" content="https://christianpress.jp/wp-content/uploads/2018/08/DSC_0435.jpg"/>
+<meta property="og:image:width" content="720"/>
+<meta property="og:image:height" content="477"/>
+<meta property="og:image:alt" content=""/>
+<meta property="og:locale" content="ja_JP"/>
+<meta name="twitter:site" content="@ChriPress"/>
+<meta name="twitter:text:title" content="キリスト教、仏教、神道が語る性と生　「宗教とエイズ」"/>
+<meta name="twitter:image" content="https://christianpress.jp/wp-content/uploads/2018/08/DSC_0435.jpg?w=640"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<!-- End Jetpack Open Graph Tags -->
+<style type="text/css">
+:root {
+  --tcd-accent-color:255,147,38;
+  --tcd-bg-color:254,249,243;
+  --tcd-link-color:255,147,38;
+}
+.c-headline { font-family:var(--tcd-font-type2); font-size:34px; }
+.p-single__header-title { font-family:var(--tcd-font-type2); font-size:28px; }
+.post_content { font-family:var(--tcd-font-type2); font-size:16px; }
+@media (max-width:767px) {
+  .c-headline { font-size:22px; }
+  .p-single__header-title { font-size:22px; }
+  .post_content { font-size:16px; }
+}
+.qt_google_map .pb_googlemap_custom-overlay-inner { background:#ffffff; color:#000000; }
+.qt_google_map .pb_googlemap_custom-overlay-inner::after { border-color:#ffffff transparent transparent transparent; }
+.styled_h2 {
+  font-size:26px!important;
+  text-align:center!important;
+  font-weight:600!important;
+  color:#000000;
+  border-color:#000000;
+  border-width:3px;
+  border-style:solid;
+border-left:none;
+border-right:none;
+border-top:none;
+border-bottom:none;
+background-color:transparent;
+}
+@media screen and (max-width:767px) {
+  .styled_h2 { font-size:18px!important; }
+}
+.styled_h3 {
+  font-size:20px!important;
+  text-align:left!important;
+  font-weight:600!important;
+  color:#000000;
+  border-color:#000000;
+  border-width:2px;
+  border-style:solid;
+padding-left:1em!important;
+padding-top:0.5em!important;
+padding-bottom:0.5em!important;
+border-right:none;
+border-top:none;
+border-bottom:none;
+background-color:transparent;
+}
+@media screen and (max-width:767px) {
+  .styled_h3 { font-size:18px!important; }
+}
+.styled_h4 {
+  font-size:18px!important;
+  text-align:left!important;
+  font-weight:400!important;
+  color:#000000;
+  border-color:#dddddd;
+  border-width:1px;
+  border-style:dotted;
+border-left:none;
+border-right:none;
+border-top:none;
+padding-bottom:0.8em!important;
+background-color:transparent;
+}
+@media screen and (max-width:767px) {
+  .styled_h4 { font-size:18px!important; }
+}
+.styled_h5 {
+  font-size:16px!important;
+  text-align:left!important;
+  font-weight:400!important;
+  color:#000000;
+  border-color:#000000;
+  border-width:3px;
+  border-style:double;
+border-left:none;
+border-right:none;
+border-top:none;
+border-bottom:none;
+background-color:#fafafa;
+padding:0.8em 1em!important;
+}
+@media screen and (max-width:767px) {
+  .styled_h5 { font-size:16px!important; }
+}
+.q_custom_button.q_custom_button1 { width:270px; height:60px;border-radius:70px;border-color:#1e73be; }.q_custom_button.q_custom_button1:before { background-color:#1e73be;left:-35px;transform:skewX(45deg); width:calc(100% + 70px); }.q_custom_button.q_custom_button1:hover { color:#333333;border-color:#333333; }.q_custom_button.q_custom_button1:hover:before { left:calc(100% + 50px); }.q_custom_button.q_custom_button2 { width:270px; height:60px;border-radius:0px;background-color:#000000;border:none; }.q_custom_button.q_custom_button2:before { background-color:#333333;left:-100%; }.q_custom_button.q_custom_button2:hover {  }.q_custom_button.q_custom_button2:hover:before { left:0; }.q_custom_button.q_custom_button3 { width:400px; height:70px;border-radius:70px;border-color:#000000; }.q_custom_button.q_custom_button3:before { background-color:#000000;left:-35px;transform:skewX(45deg); width:calc(100% + 70px); }.q_custom_button.q_custom_button3:hover { color:#333333;border-color:#333333; }.q_custom_button.q_custom_button3:hover:before { left:calc(100% + 50px); }.q_frame1 {
+  background:#ffffff;
+  border-radius:0px;
+  border-width:1px;
+  border-color:#dddddd;
+  border-style:solid;
+}
+.q_frame1 .q_frame_label {
+  color:#000000;
+}
+.q_frame2 {
+  background:#ffffff;
+  border-radius:0px;
+  border-width:1px;
+  border-color:#009aff;
+  border-style:solid;
+}
+.q_frame2 .q_frame_label {
+  color:#009aff;
+}
+.q_frame3 {
+  background:#ffffff;
+  border-radius:10px;
+  border-width:1px;
+  border-color:#f9b42d;
+  border-style:solid;
+}
+.q_frame3 .q_frame_label {
+  color:#f9b42d;
+}
+.q_underline1 {
+  font-weight:400;background-image:linear-gradient(to right, transparent 50%, #fff799 50%);background-position:-100% 0.8em;}
+.q_underline2 {
+  font-weight:600;background-image:linear-gradient(to right, transparent 50%, #99f9ff 50%);}
+.q_underline3 {
+  font-weight:400;background-image:linear-gradient(to right, transparent 50%, #ff99b8 50%);}
+.speech_balloon1 .speech_balloon_text_inner {
+  color:#000000;
+  background-color:#f2f2f2;
+  border-color:#f2f2f2;
+}
+.speech_balloon1 .before { border-left-color:#f2f2f2; }
+.speech_balloon1 .after { border-right-color:#f2f2f2; }
+.speech_balloon2 .speech_balloon_text_inner {
+  color:#000000;
+  background-color:#ffffff;
+  border-color:#000000;
+}
+.speech_balloon2 .before { border-left-color:#000000; }
+.speech_balloon2 .after { border-right-color:#ffffff; }
+.speech_balloon3 .speech_balloon_text_inner {
+  color:#ffffff;
+  background-color:#000000;
+  border-color:#000000;
+}
+.speech_balloon3 .before { border-left-color:#000000; }
+.speech_balloon3 .after { border-right-color:#000000; }
+.speech_balloon4 .speech_balloon_text_inner {
+  color:#000000;
+  background-color:#ffffff;
+  border-color:#000000;
+}
+.speech_balloon4 .before { border-left-color:#000000; }
+.speech_balloon4 .after { border-right-color:#ffffff; }
+</style>
+<style id="current-page-style" type="text/css">
+</style>
+<style id="tcd-woocommerce-output-style">
+.woocommerce .star-rating, .woocommerce .star-rating:before, .woocommerce .comment-form-rating-radios label::before { color:#ffa500!important; }
+.p-product-like-message { background-color:#333333; }
+</style>
+<style id="tcd-hover-animation-style">
+.c-hover-animation { overflow:hidden; backface-visibility: hidden; }
+.c-hover-animation__image { transition: transform  0.5s ease, opacity 0.5s ease; }
+.c-hover-animation { background:#000000; }
+@media (hover: hover) and (pointer: fine) {
+  a.c-hover-animation:hover .c-hover-animation__image, a:hover .c-hover-animation .c-hover-animation__image
+  { opacity:0.5; }
+}
+</style>
+<style type="text/css">li.crp-list-item.crp-list-item-image-left.crp-list-item-has-image {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+li.crp-list-item.crp-list-item-image-none {
+    line-height: 1.7em;
+	padding-left:3px;
+list-style-type: none!important;
+    border-bottom: 1px dotted #ddd;
+  color:#333;
+}
+h3.crp-list-title {
+    /*display: none; */
+    margin: 33px 0 4px ;
+	padding-left:10px;
+    border-top: 0px solid #ddd;
+    font-size: 20px;
+    line-height:1.5em;
+    border-bottom: 1px solid #ddd;
+}
+
+h3.crp-list-title {
+    
+    display: none;
+}
+ul.crp-list {
+    border-top: 1px solid #ccc;
+   padding-top:8px;
+   padding-bottom:8px;
+    margin-left: 0 !important;
+}</style><style id="tcd-custom-css">
+/*ヘッダー背景*/
+.p-page-header {    height: 150px;}
+/*パートナーロゴ*/
+div#cb_5 img {
+    margin: 10px;
+}
+
+/*書評購入ボタン*/
+a.b_now {
+    /* border: 1px solid #ddd; */
+    padding: 2px 4px;
+    font-size: 12px;
+    color: white;
+    background: black;
+    margin: 2px;
+}
+/*サイドバー広告文字入れ*/
+div.pt-cv-content p.wp-caption-text {
+    position: absolute;
+    color: white !important;
+    font-size: 24px;
+    top: 42%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+/*code  アイキャッチ削除*/ 
+#post_image {
+    display: none;
+}
+
+/*code ブログ・カテゴリー画像なし*/ 
+#page_header {
+    display: none;
+}
+
+/*code トップページNEW　下幅*/ 
+.post_carousel {
+    padding: 100px 0 40px;
+    margin-bottom: 60px;
+}
+
+
+/*寄付ボタンセンター寄せ*/
+.dn {
+    margin:0 auto;
+    min-width:320px;
+   text-align: center;
+}
+
+/*寄付ショートコード*/
+.asp_product_item{border:none !important; box-shadow:none !important ;}
+/*寄付ボタン*/
+.donate-button {
+    padding: 16px 16px;
+    margin-top: 17px;
+    background: #ffd589;
+    border: none;
+    border-radius: 5px;
+    display: block;
+    width: 300px;
+    float: left;
+    margin: 16px 6px;
+}
+.donate-button:hover {
+
+    background: #ddd;
+ 
+}
+
+
+
+#pt-cv-view-47f3c0084m .pt-cv-title a, #pt-cv-view-47f3c0084m .panel-title{
+	display:inline !important;
+}
+/*サムネイル幅*/
+.p-blog-archive__item-thumbnail {
+    float: left;
+    overflow: hidden;
+    position: relative;
+    width: 34.875%;
+}
+.post_content .wp-caption{border:none;}
+.p-blog-archive__item-info {
+    float: right;
+    width: 62.218%;
+}
+
+/*  .slick-slide img {
+    display: block;
+    border-radius: 10px;
+} 　メインスライダーにも影響　*/
+img.attachment-size2.size-size2.wp-post-image {
+    border-radius: 10px;
+}
+
+
+#post_list .article .image {
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    padding-top: 64.285%;
+    position: relative;
+    border-radius: 10px;
+}
+
+
+cb_content-carousel .image {
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    padding-top: 64.285%;
+    position: relative;
+    border-radius: 10px;
+}
+
+#post_list .article .image img {
+border-radius: 10px;
+}
+
+
+
+.pt-cv-thumbnail {
+    border-radius: 10px;
+}
+
+
+</style>
+<link rel="icon" href="https://christianpress.jp/wp-content/uploads/2018/05/cropped-0B987661-7491-4834-A60D-4912EC6CA008-32x32.jpeg" sizes="32x32"/>
+<link rel="icon" href="https://christianpress.jp/wp-content/uploads/2018/05/cropped-0B987661-7491-4834-A60D-4912EC6CA008-192x192.jpeg" sizes="192x192"/>
+<link rel="apple-touch-icon" href="https://christianpress.jp/wp-content/uploads/2018/05/cropped-0B987661-7491-4834-A60D-4912EC6CA008-180x180.jpeg"/>
+<meta name="msapplication-TileImage" content="https://christianpress.jp/wp-content/uploads/2018/05/cropped-0B987661-7491-4834-A60D-4912EC6CA008-270x270.jpeg"/>
+<style type="text/css" id="wp-custom-css">
+			img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
+    height: 560px !important;
+}
+.p-fp-posts__header{
+	background:none;
+}
+.c-triangle.u-flex-center {
+    display: none;
+}
+figcaption.wp-caption-text {
+    display: none;
+}
+a.p-archive--post-item__category.c-post-category.u-flex-center {
+    background: #e78e1e;
+}
+img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+a.b_now{
+	color:white !important;
+border-radius:4px;
+	padding:5px 10px;
+}
+
+.l-footer__banner-item {
+    border: 1px solid #ddd;
+}
+img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image{
+	height:auto;
+}		</style>
+<style type="text/css" media="screen">.is-menu path.search-icon-path { fill: #ffffff;}body .popup-search-close:after, body .search-close:after { border-color: #ffffff;}body .popup-search-close:before, body .search-close:before { border-color: #ffffff;}</style></head>
+<body id="body" class="post-template-default single single-post postid-6745 single-format-standard wp-embed-responsive theme-common_tcd097 woocommerce-no-js common_tcd097 no_comment_form is-header-type--light">
+<div id="js-body-start"></div>
+<header id="js-header" class="l-header p-drawer-animation">
+<div class="l-header__inner l-inner">
+<div class="l-header__logo u-flex-align-center">
+<a href="https://christianpress.jp/" class="c-logo" title="クリプレ（クリスチャンプレス）">
+<img class="c-logo__image" src="https://christianpress.jp/wp-content/uploads/2024/05/chripre-logo-1.png?1767458577" alt="クリプレ（クリスチャンプレス）" title="クリプレ（クリスチャンプレス）" width="240" height="23" style="height:23px;"/>
+<img class="c-logo__image" src="https://christianpress.jp/wp-content/uploads/2024/05/chripre-logo-1.png?1767458577" alt="クリプレ（クリスチャンプレス）" title="クリプレ（クリスチャンプレス）" width="240" height="23" style="height:23px;"/>
+</a>
+</div>
+<nav class="p-global__nav-wrapper u-flex-justify-center"><ul id="js-global-nav" class="p-global__nav"><li id="menu-item-64541" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-64541 "><a href="https://christianpress.jp/category/main_news/">ニュース</a>
+<ul class="sub-menu">
+<li id="menu-item-64542" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64542 "><a href="https://christianpress.jp/category/main_news/feature/">特集</a></li>
+<li id="menu-item-64543" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64543 "><a href="https://christianpress.jp/category/main_news/mission-church-theology/">宣教・教会・神学</a></li>
+<li id="menu-item-64544" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-64544 "><a href="https://christianpress.jp/category/main_news/society-education-list/">社会・教育</a></li>
+<li id="menu-item-64545" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-64545 "><a href="https://christianpress.jp/category/main_news/event/">イベント</a></li>
+<li id="menu-item-64546" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64546 "><a href="https://christianpress.jp/category/main_news/overseas/">海外</a></li>
+<li id="menu-item-64547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64547 "><a href="https://christianpress.jp/category/main_news/culture/">映画・音楽・文化</a></li>
+</ul>
+</li>
+<li id="menu-item-64536" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-64536 "><a href="https://christianpress.jp/category/serialization/">連載・コラム</a>
+<ul class="sub-menu">
+<li id="menu-item-64539" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64539 "><a href="https://christianpress.jp/category/serialization/talk-about-bible/">聖書からよもやま話</a></li>
+<li id="menu-item-64537" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64537 "><a href="https://christianpress.jp/category/serialization/whats_today/">今日は何の日</a></li>
+<li id="menu-item-64540" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64540 "><a href="https://christianpress.jp/category/serialization/philo/">断片から見た世界</a></li>
+</ul>
+</li>
+<li id="menu-item-64538" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64538 "><a href="https://christianpress.jp/category/serialization/commentary/">解説</a></li>
+<li id="menu-item-64535" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64535 "><a href="https://christianpress.jp/category/book/">書籍紹介</a></li>
+<li id="menu-item-87328" class="menu-item menu-item-type-post_type_archive menu-item-object-product menu-item-87328 "><a href="https://christianpress.jp/shop/">オンラインSHOP</a></li>
+<li class=" astm-search-menu is-menu is-dropdown menu-item"><a href="#" role="button" aria-label="Search Icon Link"><svg width="20" height="20" class="search-icon" role="img" viewBox="2 9 20 5" focusable="false" aria-label="Search">
+<path class="search-icon-path" d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg></a><form class="is-search-form is-form-style is-form-style-3 is-form-id-0 " action="https://christianpress.jp/" method="get" role="search"><label for="is-search-input-0"><span class="is-screen-reader-text">Search for:</span><input type="search" id="is-search-input-0" name="s" value="" class="is-search-input" placeholder="Search here..." autocomplete=off /></label><button type="submit" class="is-search-submit"><span class="is-screen-reader-text">Search Button</span><span class="is-search-icon"><svg focusable="false" aria-label="Search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24px"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg></span></button></form></li></ul></nav> <div class="l-header__icons u-flex-align-center">
+<div class="l-header__icons-search">
+<form class="l-header__search u-flex" role="search" method="get" action="https://christianpress.jp/">
+<div class="l-header__search-form">
+<input type="search" value="" name="s"/>
+</div>
+<div class="l-header__search-button">
+<button class="" type="submit" value="検索">&#xe951;</button>
+</div>
+<input type="hidden" name="post_type" value="product"/>
+</form>
+</div>
+<ul class="p-header-member u-flex">
+<li class="p-header-member__item p-header-member__item--wishlist">
+<a class="p-header-member__item-link u-flex-center" href="https://christianpress.jp/my-account/wishlist/">
+<span class="p-header-member__item-icon c-icon">&#xe94f;</span>
+<span id="js-header-wishlist-count" class="p-header-member__item-badge u-flex-center" style="background-color:#dd9696;"></span>
+</a>
+</li>
+<li class="p-header-member__item p-header-member__item--mypage">
+<a id="js-header-mypage" class="p-header-member__item-link u-flex-center is-logout" href="https://christianpress.jp/my-account/">
+<span class="p-header-member__item-icon c-icon" style="font-size:23px;">&#xe94c;</span>
+</a>
+</li>
+<li class="p-header-member__item p-header-member__item--cart">
+<a id="js-header-cart" class="p-header-member__item-link u-flex-center" href="https://christianpress.jp/cart/">
+<span class="p-header-member__item-icon c-icon">&#xe950;</span>
+<span id="js-header-cart-item-count" class="p-header-member__item-badge u-flex-center" style="background-color:;"></span>
+</a>
+</li>
+</ul>
+<div class="p-header__menu-button">
+<button id="js-menu-button" class="p-menu-button u-button-reset" type="button"><span></span><span></span><span></span></button>
+</div>
+</div>
+<div class="p-header-memberbox" id="js-header-memberbox">
+<div class="p-header-memberbox__login">
+<form action="https://christianpress.jp/my-account/" method="post" onKeyDown="if (event.keyCode == 13) return false;">
+<p class="p-header-memberbox__login-email">
+<input class="p-header-memberbox__login-input" type="text" name="username" autocomplete="username" placeholder="ユーザー名またはメールアドレス">
+</p>
+<p class="p-header-memberbox__login-password">
+<input class="p-header-memberbox__login-input" type="password" name="password" autocomplete="current-password" placeholder="パスワード">
+</p>
+<p class="p-header-memberbox__login-rememberme">
+<label><input name="rememberme" type="checkbox" value="forever"> <span>ログイン状態を保存</span></label>
+</p>
+<p class="p-header-memberbox__login-button">
+<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="dcaee82623"/><input type="hidden" name="_wp_http_referer" value="/religion-and-aids/"/>	<input type="hidden" name="redirect" value="">
+<button type="submit" class="c-button" name="login" value="ログイン">ログイン</button>
+</p>
+<p class="p-header-memberbox__login-lostpassword"><a href="https://christianpress.jp/my-account/lost-password/">パスワードを忘れた場合</a></p>
+</form>
+</div>
+</div>
+<div class="p-header-view-cart" id="js-header-view-cart">
+<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>	</div>
+</div>
+</header>
+<div id="container" class="l-container p-drawer-animation ">
+<div class="c-breadcrumb-wrapper">
+<div class="c-breadcrumb" role="navigation">
+<ol class="c-breadcrumb__list l-inner u-flex-align-center" itemscope itemtype="https://schema.org/BreadcrumbList">
+<li class="c-breadcrumb__item u-flex-align-center" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a class="c-breadcrumb__item-link c-breadcrumb__item--home" itemprop="item" href="https://christianpress.jp/"><span itemprop="name">HOME</span></a>
+<meta itemprop="position" content="1"/>
+</li>
+<li class="c-breadcrumb__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a class="c-breadcrumb__item-link" itemprop="item" href="https://christianpress.jp/blog/"><span itemprop="name">記事</span></a>
+<meta itemprop="position" content="2"/>
+</li>
+<li class="c-breadcrumb__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a class="c-breadcrumb__item-link" itemprop="item" href="https://christianpress.jp/category/main_news/society-education-list/"><span itemprop="name">社会・教育</span></a>
+<meta itemprop="position" content="3"/>
+</li>
+<li class="c-breadcrumb__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<span itemprop="name">キリスト教、仏教、神道が語る性と生　「宗教とエイズ」</span>
+<meta itemprop="position" content="4"/>
+</li>
+</ol>
+</div>
+</div>
+<div class="l-container__inner l-inner u-flex-wrap is-sidebar--right">
+<main class="l-main"><article class="p-single">
+<header class="p-single__header">
+<a class="p-single__header-category c-post-category u-flex-center" href="https://christianpress.jp/category/main_news/society-education-list/">
+社会・教育 </a>
+<div class="p-single__header-content">
+<ul class="p-single__header-meta u-flex">
+<li class="p-single__header-meta__item c-date">
+<time datetime="2020-07-13T11:42:50+09:00">2018.08.09</time>
+</li>
+<li class="p-single__header-meta__item c-date c-date--updated">
+<time datetime="2020-07-13T11:42:50+09:00">2020.07.13</time>
+</li>
+</ul>
+<h1 class="p-single__header-title">
+キリスト教、仏教、神道が語る性と生　「宗教とエイズ」 </h1>
+</div>
+</header>
+<div class="p-single__content">
+<div class="post_content u-clearfix">
+<p>&nbsp;</p>
+<p>今年で２５回目を数える「ＡＩＤＳ文化フォーラム in YOKOHAMA」が３日から３日間、かながわ県民センターで開催され、「宗教とエイズ」と題したトーク・セッションが４日午後に行われた。ヌカポク・スダーカル氏（カトリック雪ノ下教会助任司祭）、古川潤哉（ふるかわ・じゅんや）氏（浄土真宗本願寺派浄誓寺僧侶）、三橋健（みつはし・たけし）氏（<span>國學院大學大学院客員教授</span>、神道学者）の３人の話を、岩室紳也（いわむろ・しんや）氏（泌尿器科医師）がリードした。</p>
+<div id="attachment_6747" style="width: 730px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-6747" src="https://christianpress.jp/wp-content/uploads/2018/08/0449.jpg" alt="" width="720" height="477" class="size-full wp-image-6747" srcset="https://christianpress.jp/wp-content/uploads/2018/08/0449.jpg 720w, https://christianpress.jp/wp-content/uploads/2018/08/0449-300x199.jpg 300w" sizes="(max-width: 720px) 100vw, 720px"/><p id="caption-attachment-6747" class="wp-caption-text">左から古川潤哉氏、三橋健氏、ヌカボク・スダーカル氏、岩室紳也氏＝４日、かながわ県民センターで</p></div>
+<p>まずスダーカル神父が、キリスト教の立場を話した。「私の出身のインドでは、約８割がヒンズー教徒。キリスト教徒は約２パーセントしかいません。ですが、ヒンズー教徒の中で、カーストの最上位にある人がエイズに感染し、キリスト教のエイズ緩和ケア・センターに来て、キリストの愛に触れ、洗礼を受けるという例もあります。どのような人も、愛すること、そして愛されていることを知ってほしい。キリスト教の基本は愛。愛することの上に性があります」</p>
+<p>古川氏は、地元の佐賀県で僧侶をしながら、性教育や命の問題とも向き合っている。エイズ患者の緩和ケアに携わる人があまりにも少ないことに驚いて勉強を始め、それとともに若者の性や人工中絶の問題にも関わるようになったという。</p>
+<p>「生きることと死ぬことをセットで性をとらえたい。仏教では性がタブーのように見られがちだが、それは修行僧のルール。生と密接にかかわる性、そして生きていく上で切り離すことのできない性は、仏教で決して禁止されているものではありません。だからといって、性を特別視したり、神格化したりすることもない」</p>
+<p>三橋氏は、「神道では性は罪悪の一つだが、罪の概念が現代とは少し違う」と話す。「神道には大祓詞（おおはらいことば）という儀式が６月と１２月にあります。そこで、犯した罪の穢（けが）れを祓（はら）う。神道では、罪が積もり積もると、やがて死が訪れるという考え方。罪には、天（あま）つ罪と国つ罪に分かれる。国つ罪には、性も病気も含まれる。命は神様のもの。私たちは預かっているだけ。この点はカトリックと似ているのでは。命を預かっている私たちは、それを大切にしなければならない。いつかお返しする時が来るから」</p>
+<p>スダーカル神父は、「命は神様から『いただいた』最高の賜物」と表現し、３年前に司祭になったばかりの友人の話をした。ブラジルに宣教に行くことが決定し、静かに心を燃やしていた時期に、両親を車の事故で失った。失意のどん底ではあったが、神様に仕える心、強い信仰は揺るがなかった。しかし、出国直前に自身も末期がんであることが分かった。「どうしてこのようなことが起こるのでしょうか。私たちには分からないが、すべては神様がご存じ。命さえも神様にゆだねる信仰。これがいちばん大切です」</p>
+<p>それに対して古川氏がこう話した。「キリスト教が日本に入ってきたとき、なぜ『God』を『仏』ではなく『神』と訳したのか、今日の議論を聞いていると分かる気がします。非常によく似ている。浄土真宗も阿弥陀仏様の一仏信仰。仏教は多神教のようだが、宗派によっては一神教であるキリスト教と近い。しかし、仏教の経典には『命』という言葉は出てきません。『生老病死』という四つの苦があるという概念が仏教にはあり、それは避けられない。これと向き合うことが仏教です」</p>
+<p>最後に岩室氏は、次のように結んだ。</p>
+<p>「フォーラムが始まった２５年前は、薬もまだ開発されていなくて、ＨＩＶに感染した人々が次々と亡くなっていった。それを医師たちはどうすることもできなかった。その頃、フォーラムのプログラムに『エイズと宗教』がなかったのは本当に残念です。ＨＩＶ感染者には医療が必要だが、世界中の患者に薬が届いているわけではない。死と直面しなければならない人々が多くいる中、医療が届かなくても宗教は届けることができる。生と死を考えるとき、宗教を通してそれと向き合うことの大切さを改めて感じました」</p>
+<div id="attachment_6748" style="width: 730px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-6748" src="https://christianpress.jp/wp-content/uploads/2018/08/DSC_0435.jpg" alt="" width="720" height="477" class="size-full wp-image-6748" srcset="https://christianpress.jp/wp-content/uploads/2018/08/DSC_0435.jpg 720w, https://christianpress.jp/wp-content/uploads/2018/08/DSC_0435-300x199.jpg 300w" sizes="(max-width: 720px) 100vw, 720px"/><p id="caption-attachment-6748" class="wp-caption-text">カトリックＨＩＶ／ＡＩＤＳデスクのブース＝４日、かながわ県民センターで</p></div>
+<p>同フォーラムでは、エイズ、性教育や性犯罪、性病に関するものまで、多くの講演会がかながわ県民センター内の３箇所の会場に分かれて、約２時間ずつ行われた。１階ホールでは、カトリックＨＩＶ／ＡＩＤＳデスクなども参加する各団体のブースが並んだ。</p>
+<div id='jp-relatedposts' class='jp-relatedposts'>
+<h3 class="jp-relatedposts-headline"><em>関連</em></h3>
+</div> </div>
+</div>
+<div class="c-share-button">
+<ul class="c-share-button__list c-share-button--type2">
+<li class="c-share-button__item">
+<a class="c-share-button__item-link c-share-button--twitter c-share-button--monochrome" href="https://twitter.com/intent/tweet?text=%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99%E3%80%81%E4%BB%8F%E6%95%99%E3%80%81%E7%A5%9E%E9%81%93%E3%81%8C%E8%AA%9E%E3%82%8B%E6%80%A7%E3%81%A8%E7%94%9F%E3%80%80%E3%80%8C%E5%AE%97%E6%95%99%E3%81%A8%E3%82%A8%E3%82%A4%E3%82%BA%E3%80%8D&url=https%3A%2F%2Fchristianpress.jp%2Freligion-and-aids%2F&via=ChriPress&tw_p=tweetbutton&related=ChriPress">
+<i class="c-share-icon">&#xe901;</i>
+<span class="c-share-button__label">Post</span>
+</a>
+</li>
+<li class="c-share-button__item">
+<a class="c-share-button__item-link c-share-button--facebook c-share-button--monochrome" href="//www.facebook.com/sharer/sharer.php?u=https://christianpress.jp/religion-and-aids/&amp;t=%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99%E3%80%81%E4%BB%8F%E6%95%99%E3%80%81%E7%A5%9E%E9%81%93%E3%81%8C%E8%AA%9E%E3%82%8B%E6%80%A7%E3%81%A8%E7%94%9F%E3%80%80%E3%80%8C%E5%AE%97%E6%95%99%E3%81%A8%E3%82%A8%E3%82%A4%E3%82%BA%E3%80%8D" class="facebook-btn-icon-link" target="blank" rel="nofollow">
+<i class="c-share-icon">&#xe902;</i>
+<span class="c-share-button__label">Share</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="p-author-profile">
+<a class="p-author-profile__image c-hover-animation" href="https://christianpress.jp/author/morita/">
+<img class="c-hover-animation__image" src="https://christianpress.jp/wp-content/uploads/2018/11/3f8e62573f1a48a482f00d5fbf82f235.jpg" alt="守田 早生里" width="300" height="300">
+</a>
+<div class="p-author-profile__content">
+<h4 class="p-author-profile__title">
+<a href="https://christianpress.jp/author/morita/">
+守田 早生里 </a>
+</h4>
+<p class="p-author-profile__desc c-line2">
+<span>日本ナザレン教団会員。社会問題をキリスト教の観点から取材。フリーライター歴１０年。趣味はライフストーリーを聞くこと、食べること、読書、ドライブ。</span>
+</p>
+<ul class="p-author-profile__icons c-sns-icons c-sns-icons--type2"><li class="c-sns-icons__item"><a href="http://hiram" class="c-sns-icons__link c-sns-icons__link--contact" rel="nofollow noopener" target="_blank" title="contact"></a></li></ul> </div>
+</div>
+<div class="p-page-nav">
+<div class="p-page-nav__inner">
+<a class="p-page-nav__item p-page-nav__item--prev" href="https://christianpress.jp/tsuki-no-miyako-39/">
+<span class="p-page-nav__title p-page-nav__title-pc c-line2">
+<span>【連載小説】月の都（３９）下田ひとみ</span>
+</span>
+<span class="p-page-nav__title-sp">前の記事</span>
+</a>
+<a class="p-page-nav__item p-page-nav__item--next" href="https://christianpress.jp/yorokobi-heno-tobira-august-21018/">
+<span class="p-page-nav__title p-page-nav__title-pc c-line2">
+<span>８月のキリスト教テレビ・ラジオ案内「喜びへの扉」「光の泉」</span>
+</span>
+<span class="p-page-nav__title-sp">次の記事</span>
+</a>
+</div>
+</div>
+<div class="p-single-banner p-single-banner--bottom">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2204127420890351" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-2204127420890351" data-ad-slot="3946374510"></ins>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></div>
+</article>
+<section class="p-related-post">
+<div class="p-related-post__inner">
+<h3 class="p-related-post__headline c-single-section-title">
+この記事もおすすめ </h3>
+<div class="p-related-post__list u-flex-wrap">
+<article class="p-archive--post-item">
+<a class="p-archive--post-item__category c-post-category u-flex-center" href="https://christianpress.jp/category/main_news/society-education-list/">
+社会・教育 </a>
+<a class="p-archive--post-item__link" href="https://christianpress.jp/52244/">
+<div class="p-archive--post-item__image c-hover-animation">
+<div class="p-archive--post-item__image-bg c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2022/01/A-5.jpg) no-repeat center; background-size:cover;"></div>
+</div>
+<div class="p-archive--post-item__content">
+<p class="p-archive--post-item__date c-date">
+<time datetime="2022-01-19T08:34:44+09:00">2022.01.19</time>
+</p>
+<h2 class="p-archive--post-item__title c-line2 c-hover-color">
+<span>キリスト教出版販売協会総会　幹事長の選出に至らず</span>
+</h2>
+</div>
+</a>
+</article>
+<article class="p-archive--post-item">
+<a class="p-archive--post-item__category c-post-category u-flex-center" href="https://christianpress.jp/category/main_news/society-education-list/">
+社会・教育 </a>
+<a class="p-archive--post-item__link" href="https://christianpress.jp/%e3%80%90%e7%95%b0%e7%ab%af%e3%83%bb%e3%82%ab%e3%83%ab%e3%83%88110%e7%95%aa%e3%80%91%e3%80%80%e5%bc%b5%e7%89%a7%e5%b8%ab%e3%82%92%e3%80%8c%e5%86%8d%e8%87%a8%e3%81%ae%e3%82%ad%e3%83%aa%e3%82%b9/">
+<div class="p-archive--post-item__image c-hover-animation">
+<div class="p-archive--post-item__image-bg c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2024/04/IMG_1139-1-rotated-1.jpg) no-repeat center; background-size:cover;"></div>
+</div>
+<div class="p-archive--post-item__content">
+<p class="p-archive--post-item__date c-date">
+<time datetime="2024-04-25T11:48:58+09:00">2024.04.25</time>
+</p>
+<h2 class="p-archive--post-item__title c-line2 c-hover-color">
+<span>【異端・カルト110番】　張牧師を「再臨のキリスト」と信奉、秘して淀橋教会に通わせた：C T・根田訴訟東京地裁判決　ダビデ張氏の指示を事実認定</span>
+</h2>
+</div>
+</a>
+</article>
+<article class="p-archive--post-item">
+<a class="p-archive--post-item__category c-post-category u-flex-center" href="https://christianpress.jp/category/main_news/event/">
+イベント </a>
+<a class="p-archive--post-item__link" href="https://christianpress.jp/bible-reading/">
+<div class="p-archive--post-item__image c-hover-animation">
+<div class="p-archive--post-item__image-bg c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2020/10/4c1aaed5b17577e0fdfc9106f46481d5-pdf.jpg) no-repeat center; background-size:cover;"></div>
+</div>
+<div class="p-archive--post-item__content">
+<p class="p-archive--post-item__date c-date">
+<time datetime="2020-10-05T19:31:18+09:00">2020.10.05</time>
+</p>
+<h2 class="p-archive--post-item__title c-line2 c-hover-color">
+<span>【聖書読書会 １０月１６日】ZOOMで開催　コロナ時代に読む「コヘレトの言葉」</span>
+</h2>
+</div>
+</a>
+</article>
+<article class="p-archive--post-item">
+<a class="p-archive--post-item__category c-post-category u-flex-center" href="https://christianpress.jp/category/main_news/event/">
+イベント </a>
+<a class="p-archive--post-item__link" href="https://christianpress.jp/geishin_maro_talklive/">
+<div class="p-archive--post-item__image c-hover-animation">
+<div class="p-archive--post-item__image-bg c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2020/12/132602946_799176413996945_7680740300346105920_n.png) no-repeat center; background-size:cover;"></div>
+</div>
+<div class="p-archive--post-item__content">
+<p class="p-archive--post-item__date c-date">
+<time datetime="2021-06-17T11:48:30+09:00">2020.12.28</time>
+</p>
+<h2 class="p-archive--post-item__title c-line2 c-hover-color">
+<span>聖書は人生のスパイスだ！芸術新潮×ＭＡＲＯさんによるトークイベント開催</span>
+</h2>
+</div>
+</a>
+</article>
+<article class="p-archive--post-item">
+<a class="p-archive--post-item__category c-post-category u-flex-center" href="https://christianpress.jp/category/main_news/society-education-list/">
+社会・教育 </a>
+<a class="p-archive--post-item__link" href="https://christianpress.jp/tcu-0915/">
+<div class="p-archive--post-item__image c-hover-animation">
+<div class="p-archive--post-item__image-bg c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2022/09/IMG_2880.jpg) no-repeat center; background-size:cover;"></div>
+</div>
+<div class="p-archive--post-item__content">
+<p class="p-archive--post-item__date c-date">
+<time datetime="2022-09-16T09:16:47+09:00">2022.09.15</time>
+</p>
+<h2 class="p-archive--post-item__title c-line2 c-hover-color">
+<span>日本初のプロテスタント教会創設 祈りの発起人・篠崎桂之助の碑　TCUに寄贈　</span>
+</h2>
+</div>
+</a>
+</article>
+<article class="p-archive--post-item">
+<a class="p-archive--post-item__category c-post-category u-flex-center" href="https://christianpress.jp/category/main_news/society-education-list/">
+社会・教育 </a>
+<a class="p-archive--post-item__link" href="https://christianpress.jp/ishiba0815/">
+<div class="p-archive--post-item__image c-hover-animation">
+<div class="p-archive--post-item__image-bg c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2025/08/DSC_7272-scaled-1-840x460.jpg) no-repeat center; background-size:cover;"></div>
+</div>
+<div class="p-archive--post-item__content">
+<p class="p-archive--post-item__date c-date">
+<time datetime="2025-09-01T06:07:06+09:00">2025.09.01</time>
+</p>
+<h2 class="p-archive--post-item__title c-line2 c-hover-color">
+<span>石破首相　千鳥ヶ淵で献花　被爆80年式典で短歌と祈り引用</span>
+</h2>
+</div>
+</a>
+</article>
+</div>
+</div>
+</section>
+</main>
+<aside class="l-sidebar">
+<div class="l-sidebar__inner u-flex-wrap">
+<div class="p-widget u-clearfix widget_text" id="text-17">
+<div class="textwidget"><div class="post_content u-clearfix">
+<div class="pt-cv-wrapper">
+<div class="pt-cv-view pt-cv-grid pt-cv-colsys" id="pt-cv-view-e072ef18hw">
+<div data-id="pt-cv-page-1" class="pt-cv-page" data-cvc="1">
+<div class="col-md-12 col-sm-12 col-xs-12 pt-cv-content-item pt-cv-1-col" data-pid="54310">
+<div class='pt-cv-ifield'>
+<div class="pt-cv-content">
+<p><a href="https://www.hungerzero.jp/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone  wp-image-91970" src="https://christianpress.jp/wp-content/uploads/2025/08/ハンガーゼロバナー-300x167.jpg" alt="" width="435" height="242" srcset="https://christianpress.jp/wp-content/uploads/2025/08/ハンガーゼロバナー-300x167.jpg 300w, https://christianpress.jp/wp-content/uploads/2025/08/ハンガーゼロバナー-768x427.jpg 768w, https://christianpress.jp/wp-content/uploads/2025/08/ハンガーゼロバナー-600x334.jpg 600w, https://christianpress.jp/wp-content/uploads/2025/08/ハンガーゼロバナー.jpg 800w" sizes="auto, (max-width: 435px) 100vw, 435px"/></a></p>
+<div id='jp-relatedposts' class='jp-relatedposts'>
+<h3 class="jp-relatedposts-headline"><em>関連</em></h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<style type="text/css" id="pt-cv-inline-style-b9a7a0d1kh">#pt-cv-view-e072ef18hw .pt-cv-title a, #pt-cv-view-e072ef18hw  .panel-title { font-weight: 600 !important; }
+#pt-cv-view-e072ef18hw .pt-cv-readmore  { color: #ffffff !important; background-color: #00aeef !important; }
+#pt-cv-view-e072ef18hw .pt-cv-readmore:hover  { color: #ffffff !important; background-color: #00aeef !important; }</style>
+<div class="
+    mailpoet_form_popup_overlay
+      "></div>
+<div id="mailpoet_form_1" class="
+      mailpoet_form
+      mailpoet_form_shortcode
+      mailpoet_form_position_
+      mailpoet_form_animation_
+    "></p>
+<style type="text/css">
+     #mailpoet_form_1 .mailpoet_form {  }
+#mailpoet_form_1 form { margin-bottom: 0; }
+#mailpoet_form_1 p.mailpoet_form_paragraph.last { margin-bottom: 5px; }
+#mailpoet_form_1 h2.mailpoet-heading { margin-bottom: 20px; margin-top: 0; }
+#mailpoet_form_1 .mailpoet_column_with_background { padding: 10px; }
+#mailpoet_form_1 .mailpoet_form_column:not(:first-child) { margin-left: 20px; }
+#mailpoet_form_1 .mailpoet_paragraph { line-height: 20px; margin-bottom: 20px; }
+#mailpoet_form_1 .mailpoet_segment_label, #mailpoet_form_1 .mailpoet_text_label, #mailpoet_form_1 .mailpoet_textarea_label, #mailpoet_form_1 .mailpoet_select_label, #mailpoet_form_1 .mailpoet_radio_label, #mailpoet_form_1 .mailpoet_checkbox_label, #mailpoet_form_1 .mailpoet_list_label, #mailpoet_form_1 .mailpoet_date_label { display: block; font-weight: normal; }
+#mailpoet_form_1 .mailpoet_text, #mailpoet_form_1 .mailpoet_textarea, #mailpoet_form_1 .mailpoet_select, #mailpoet_form_1 .mailpoet_date_month, #mailpoet_form_1 .mailpoet_date_day, #mailpoet_form_1 .mailpoet_date_year, #mailpoet_form_1 .mailpoet_date { display: block; }
+#mailpoet_form_1 .mailpoet_text, #mailpoet_form_1 .mailpoet_textarea { width: 200px; }
+#mailpoet_form_1 .mailpoet_checkbox {  }
+#mailpoet_form_1 .mailpoet_submit {  }
+#mailpoet_form_1 .mailpoet_divider {  }
+#mailpoet_form_1 .mailpoet_message {  }
+#mailpoet_form_1 .mailpoet_form_loading { width: 30px; text-align: center; line-height: normal; }
+#mailpoet_form_1 .mailpoet_form_loading > span { width: 5px; height: 5px; background-color: #5b5b5b; }#mailpoet_form_1{border-radius: 10px;background: url(https://christianpress.jp/wp-content/uploads/2023/03/barley-ge88578f26_640-1.jpg) center / cover no-repeat;text-align: left;}#mailpoet_form_1 form.mailpoet_form {padding: 34px;}#mailpoet_form_1{width: 100%;}#mailpoet_form_1 .mailpoet_message {margin: 0; padding: 0 20px;}
+        #mailpoet_form_1 .mailpoet_validate_success {color: #000000}
+        #mailpoet_form_1 input.parsley-success {color: #000000}
+        #mailpoet_form_1 select.parsley-success {color: #000000}
+        #mailpoet_form_1 textarea.parsley-success {color: #000000}</p>
+<p>        #mailpoet_form_1 .mailpoet_validate_error {color: #cf2e2e}
+        #mailpoet_form_1 input.parsley-error {color: #cf2e2e}
+        #mailpoet_form_1 select.parsley-error {color: #cf2e2e}
+        #mailpoet_form_1 textarea.textarea.parsley-error {color: #cf2e2e}
+        #mailpoet_form_1 .parsley-errors-list {color: #cf2e2e}
+        #mailpoet_form_1 .parsley-required {color: #cf2e2e}
+        #mailpoet_form_1 .parsley-custom-error-message {color: #cf2e2e}
+      #mailpoet_form_1 .mailpoet_paragraph.last {margin-bottom: 0} @media (max-width: 500px) {#mailpoet_form_1 {background-image: none;}} @media (min-width: 500px) {#mailpoet_form_1 .last .mailpoet_paragraph:last-child {margin-bottom: 0}}  @media (max-width: 500px) {#mailpoet_form_1 .mailpoet_form_column:last-child .mailpoet_paragraph:last-child {margin-bottom: 0}} 
+    </style>
+<form target="_self" method="post" action="https://christianpress.jp/wp-admin/admin-post.php?action=mailpoet_subscription_form" class="mailpoet_form mailpoet_form_form mailpoet_form_shortcode" novalidate data-delay="" data-exit-intent-enabled="" data-font-family="" data-cookie-expiration-time=""><br/>
+<input type="hidden" name="data[form_id]" value="1"/><br/>
+<input type="hidden" name="token" value="7d570dcc32"/><br/>
+<input type="hidden" name="api_version" value="v1"/><br/>
+<input type="hidden" name="endpoint" value="subscribers"/><br/>
+<input type="hidden" name="mailpoet_method" value="subscribe"/></p>
+<p> <label class="mailpoet_hp_email_label" style="display: none !important;">このフィールドは空白のままにしてください<input type="email" name="data[email]"/></label></p>
+<h2 class="mailpoet-heading  mailpoet-has-font-size" style="text-align: center; color: #000000; font-size: 36px; line-height: 1"><span style="font-family: Montserrat" data-font="Montserrat" class="mailpoet-has-font"><strong>メルマガ登録</strong></span></h2>
+<h2 class="mailpoet-heading  mailpoet-has-font-size" style="text-align: center; color: #000000; font-size: 20px; line-height: 1.5">最新記事と各種お知らせをお届けします</h2>
+<div class="mailpoet_paragraph ">
+<style>input[name="data[form_field_ZWYyN2EzYWE4NWRlX2VtYWls]"]::placeholder{color:#38527a;opacity: 1;}</style>
+<p><input type="email" autocomplete="email" class="mailpoet_text" id="form_email_1" name="data[form_field_ZWYyN2EzYWE4NWRlX2VtYWls]" title="メールアドレス" value="" style="width:100%;box-sizing:border-box;background-color:#f8fbff;border-style:solid;border-radius:10px !important;border-width:0px;border-color:#38527a;padding:16px;margin: 0 auto 0 0;font-family:&#039;Montserrat&#039;;font-size:16px;line-height:1.5;height:auto;color:#38527a;" data-automation-id="form_email" placeholder="メールアドレス *" aria-label="メールアドレス *" data-parsley-errors-container=".mailpoet_error_2tc9j" data-parsley-required="true" required aria-required="true" data-parsley-minlength="6" data-parsley-maxlength="150" data-parsley-type-message="このバリューは有効なメールです。" data-parsley-required-message="このフィールドは必須です。"/><span class="mailpoet_error_2tc9j"></span></div>
+<div class="mailpoet_paragraph "><input type="submit" class="mailpoet_submit" value="クリックして購読する" data-automation-id="subscribe-submit-button" data-font-family='Montserrat' style="width:100%;box-sizing:border-box;border-style:solid;border-radius:10px !important;border-width:0px;padding:16px;margin: 0 auto 0 0;font-family:&#039;Montserrat&#039;;font-size:19px;line-height:1.5;height:auto;color:#ffffff;border-color:transparent;background: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);font-weight:bold;"/><span class="mailpoet_form_loading"><span class="mailpoet_bounce1"></span><span class="mailpoet_bounce2"></span><span class="mailpoet_bounce3"></span></span></div>
+<p class="mailpoet_form_paragraph  mailpoet-has-font-size" style="text-align: center; color: #000000; font-size: 14px; line-height: 1.5"><strong><span style="font-family: Montserrat" data-font="Montserrat" class="mailpoet-has-font"><a href="https://christianpress.jp/privacy-policy/" target="_blank">プライバシーポリシー</a>はこちらです</span></strong></p>
+<div class="mailpoet_message">
+<p class="mailpoet_validate_success" style="display:none;">受信ボックスか迷惑メールフォルダを確認して購読手続きを完了してください。
+</p>
+<p class="mailpoet_validate_error" style="display:none;"> </p>
+</p></div>
+</p></form>
+</p></div>
+</p></div>
+</div>
+</div>
+<div class="p-widget u-clearfix styled_post_list_widget" id="styled_post_list_widget-2">
+<div class="c-widget-headline"><h3 class="c-widget-headline__label">新着記事</h3></div><div class="p-widget-post-list">
+<article class="p-widget-post-list__item">
+<a class="p-widget-post-list__link u-flex" href="https://christianpress.jp/%e3%83%81%e3%83%a3%e3%82%a4%e3%83%ab%e3%83%89%e3%83%bb%e3%83%95%e3%82%a1%e3%83%b3%e3%83%89%e3%83%bb%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e3%80%8c%e3%81%8a%e3%81%86%e3%81%a1%e3%81%ae-goods-%e3%81%8c/">
+<div class="p-widget-post-list__image c-hover-animation">
+<div class="p-widget-post-list__image-bg c-bg-image c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2025/12/202512011-1-1024x576-1-350x350.png) no-repeat center center; background-size:cover;"></div>
+</div>
+<div class="p-widget-post-list__content">
+<p class="p-widget-post-list__date c-date">
+<time datetime="2025-12-29T13:05:02+09:00">2025.12.29</time>
+</p>
+<h3 class="p-widget-post-list__title c-line3">
+<span>チャイルド・ファンド・ジャパン「おうちの Goods が世界の Good に！キャンペーン」　年賀状じまいが支援にも影響　</span>
+</h3>
+</div>
+</a>
+</article>
+<article class="p-widget-post-list__item">
+<a class="p-widget-post-list__link u-flex" href="https://christianpress.jp/aikyodai1224/">
+<div class="p-widget-post-list__image c-hover-animation">
+<div class="p-widget-post-list__image-bg c-bg-image c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2025/12/img23-350x350.jpg) no-repeat center center; background-size:cover;"></div>
+</div>
+<div class="p-widget-post-list__content">
+<p class="p-widget-post-list__date c-date">
+<time datetime="2025-12-24T13:39:22+09:00">2025.12.24</time>
+</p>
+<h3 class="p-widget-post-list__title c-line3">
+<span>京都大学「キリスト教AI」を共同開発　教理問答を習熟　教会現場での活用に期待</span>
+</h3>
+</div>
+</a>
+</article>
+<article class="p-widget-post-list__item">
+<a class="p-widget-post-list__link u-flex" href="https://christianpress.jp/katasumi1224/">
+<div class="p-widget-post-list__image c-hover-animation">
+<div class="p-widget-post-list__image-bg c-bg-image c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2025/12/image1-350x277.png) no-repeat center center; background-size:cover;"></div>
+</div>
+<div class="p-widget-post-list__content">
+<p class="p-widget-post-list__date c-date">
+<time datetime="2025-12-24T13:38:33+09:00">2025.12.24</time>
+</p>
+<h3 class="p-widget-post-list__title c-line3">
+<span>牧会者の育児休業　李 惠源　【この世界の片隅から】</span>
+</h3>
+</div>
+</a>
+</article>
+<article class="p-widget-post-list__item">
+<a class="p-widget-post-list__link u-flex" href="https://christianpress.jp/fukushima1224/">
+<div class="p-widget-post-list__image c-hover-animation">
+<div class="p-widget-post-list__image-bg c-bg-image c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2025/12/image1-4-1-350x350.jpeg) no-repeat center center; background-size:cover;"></div>
+</div>
+<div class="p-widget-post-list__content">
+<p class="p-widget-post-list__date c-date">
+<time datetime="2025-12-24T13:33:40+09:00">2025.12.24</time>
+</p>
+<h3 class="p-widget-post-list__title c-line3">
+<span>【Web連載】ボンヘッファーの生涯（10）　ヒトラーの登場、危機感、熱狂　福島慎太郎</span>
+</h3>
+</div>
+</a>
+</article>
+<article class="p-widget-post-list__item">
+<a class="p-widget-post-list__link u-flex" href="https://christianpress.jp/tenji1224/">
+<div class="p-widget-post-list__image c-hover-animation">
+<div class="p-widget-post-list__image-bg c-bg-image c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2025/12/image8-rotated-1-350x350.jpeg) no-repeat center center; background-size:cover;"></div>
+</div>
+<div class="p-widget-post-list__content">
+<p class="p-widget-post-list__date c-date">
+<time datetime="2025-12-24T13:32:51+09:00">2025.12.24</time>
+</p>
+<h3 class="p-widget-post-list__title c-line3">
+<span>【展示会】　「キリスト教とアジア世界――高瀬弘一郎コレクションからみる」　東京大学・アジア研究図書館インタビュー</span>
+</h3>
+</div>
+</a>
+</article>
+<article class="p-widget-post-list__item">
+<a class="p-widget-post-list__link u-flex" href="https://christianpress.jp/mukai261224/">
+<div class="p-widget-post-list__image c-hover-animation">
+<div class="p-widget-post-list__image-bg c-bg-image c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2025/12/wilsan-u-aiUIs74ejx8-unsplash-1024x683-1-350x350.jpg) no-repeat center center; background-size:cover;"></div>
+</div>
+<div class="p-widget-post-list__content">
+<p class="p-widget-post-list__date c-date">
+<time datetime="2025-12-24T13:32:17+09:00">2025.12.24</time>
+</p>
+<h3 class="p-widget-post-list__title c-line3">
+<span>正しさを量る道具　向井真人　【宗教リテラシー向上委員会】</span>
+</h3>
+</div>
+</a>
+</article>
+<article class="p-widget-post-list__item">
+<a class="p-widget-post-list__link u-flex" href="https://christianpress.jp/interview261224/">
+<div class="p-widget-post-list__image c-hover-animation">
+<div class="p-widget-post-list__image-bg c-bg-image c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2025/12/books-1163695_1920-350x350.jpg) no-repeat center center; background-size:cover;"></div>
+</div>
+<div class="p-widget-post-list__content">
+<p class="p-widget-post-list__date c-date">
+<time datetime="2025-12-24T13:13:25+09:00">2025.12.24</time>
+</p>
+<h3 class="p-widget-post-list__title c-line3">
+<span>【緊急インタビュー】　揺れる日本キリスト教団出版局　キリスト教事業所連帯合同労働組合に聞く現状と展望</span>
+</h3>
+</div>
+</a>
+</article>
+<article class="p-widget-post-list__item">
+<a class="p-widget-post-list__link u-flex" href="https://christianpress.jp/kiko1224/">
+<div class="p-widget-post-list__image c-hover-animation">
+<div class="p-widget-post-list__image-bg c-bg-image c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2025/12/nikola-tomasic-uiPeadg7SjI-unsplash-scaled-1-350x350.jpg) no-repeat center center; background-size:cover;"></div>
+</div>
+<div class="p-widget-post-list__content">
+<p class="p-widget-post-list__date c-date">
+<time datetime="2025-12-24T13:12:46+09:00">2025.12.24</time>
+</p>
+<h3 class="p-widget-post-list__title c-line3">
+<span>【寄稿】　教会の〝外〟で見えた福音　元牧師が告白　決断の裏側にあった思いと献身の現実</span>
+</h3>
+</div>
+</a>
+</article>
+<article class="p-widget-post-list__item">
+<a class="p-widget-post-list__link u-flex" href="https://christianpress.jp/kaigai1224/">
+<div class="p-widget-post-list__image c-hover-animation">
+<div class="p-widget-post-list__image-bg c-bg-image c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2025/12/panyawat-auitpol-56fgjZrFTSk-unsplash-scaled-1-350x350.jpg) no-repeat center center; background-size:cover;"></div>
+</div>
+<div class="p-widget-post-list__content">
+<p class="p-widget-post-list__date c-date">
+<time datetime="2025-12-24T13:12:18+09:00">2025.12.24</time>
+</p>
+<h3 class="p-widget-post-list__title c-line3">
+<span>豪教会協議会　テロ攻撃による「反ユダヤ主義的な憎悪」を非難</span>
+</h3>
+</div>
+</a>
+</article>
+<article class="p-widget-post-list__item">
+<a class="p-widget-post-list__link u-flex" href="https://christianpress.jp/y251224/">
+<div class="p-widget-post-list__image c-hover-animation">
+<div class="p-widget-post-list__image-bg c-bg-image c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2025/12/y251224-350x350.jpg) no-repeat center center; background-size:cover;"></div>
+</div>
+<div class="p-widget-post-list__content">
+<p class="p-widget-post-list__date c-date">
+<time datetime="2025-12-20T23:44:32+09:00">2025.12.20</time>
+</p>
+<h3 class="p-widget-post-list__title c-line3">
+<span>「困ったときの神頼み」よりも悪いこと【聖書からよもやま話５９７】</span>
+</h3>
+</div>
+</a>
+</article>
+</div>
+</div>
+<div class="p-widget u-clearfix widget_text" id="text-18">
+<div class="textwidget"><div class="post_content u-clearfix"></div>
+</div>
+</div>
+</div>
+</aside>
+</div>
+<footer id="js-footer" class="l-footer">
+<div class="l-footer__banner">
+<div class="l-footer__banner-inner l-inner">
+<div class="l-footer__banner-list u-flex c-h-scroll">
+<div class="l-footer__banner-item">
+<a class="l-footer__banner-link c-hover-animation" href="https://www.kirishin.com/" target="_blank" rel="noopener noreferrer">
+<div class="l-footer__banner-content">
+<h4 class="l-footer__banner-title"></h4>
+<p class="l-footer__banner-desc"></p>
+</div>
+<div class="l-footer__banner-overlay" style="background-color:rgba(0,0,0,0);"></div>
+<div class="l-footer__banner-image c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2021/04/169523253_164340515547854_7746045443478656854_n.jpg) no-repeat center; background-size:cover;"></div>
+</a>
+</div>
+<div class="l-footer__banner-item">
+<a class="l-footer__banner-link c-hover-animation" href="https://christianpress.jp/link-source/chripre-online-seminor/">
+<div class="l-footer__banner-content">
+<h4 class="l-footer__banner-title"></h4>
+<p class="l-footer__banner-desc"></p>
+</div>
+<div class="l-footer__banner-overlay" style="background-color:rgba(0,0,0,0);"></div>
+<div class="l-footer__banner-image c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2024/09/456548329_858576809563642_5664122856818683857_n.jpg) no-repeat center; background-size:cover;"></div>
+</a>
+</div>
+<div class="l-footer__banner-item">
+<a class="l-footer__banner-link c-hover-animation" href="https://christianpress.jp/donate/">
+<div class="l-footer__banner-content">
+<h4 class="l-footer__banner-title">支援のお願い</h4>
+<p class="l-footer__banner-desc">この働きを支えてください</p>
+</div>
+<div class="l-footer__banner-overlay" style="background-color:rgba(0,0,0,0.1);"></div>
+<div class="l-footer__banner-image c-hover-animation__image" style="background:url(https://christianpress.jp/wp-content/uploads/2021/04/shutterstock_1105935356.png) no-repeat center; background-size:cover;"></div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="l-footer__content">
+<div class="l-inner u-flex-wrap">
+<div class="l-footer__info">
+<div class="l-footer__logo">
+<a href="https://christianpress.jp/" class="c-logo" title="クリプレ（クリスチャンプレス）">
+<img class="c-logo__image" src="https://christianpress.jp/wp-content/uploads/2024/05/chripre-logo-1.png?1767458577" alt="クリプレ（クリスチャンプレス）" title="クリプレ（クリスチャンプレス）" width="240" height="23" style="height:23px;"/>
+</a>
+</div>
+<ul class="l-footer__sns-icons c-sns-icons c-sns-icons--type2"><li class="c-sns-icons__item"><a href="#" class="c-sns-icons__link c-sns-icons__link--instagram" rel="nofollow noopener" target="_blank" title="instagram"></a></li><li class="c-sns-icons__item"><a href="#" class="c-sns-icons__link c-sns-icons__link--twitter" rel="nofollow noopener" target="_blank" title="twitter"></a></li><li class="c-sns-icons__item"><a href="#" class="c-sns-icons__link c-sns-icons__link--facebook" rel="nofollow noopener" target="_blank" title="facebook"></a></li><li class="c-sns-icons__item"><a href="#" class="c-sns-icons__link c-sns-icons__link--pinterest" rel="nofollow noopener" target="_blank" title="pinterest"></a></li><li class="c-sns-icons__item"><a href="#" class="c-sns-icons__link c-sns-icons__link--youtube" rel="nofollow noopener" target="_blank" title="youtube"></a></li><li class="c-sns-icons__item"><a href="#" class="c-sns-icons__link c-sns-icons__link--contact" rel="nofollow noopener" target="_blank" title="contact"></a></li><li class="c-sns-icons__item"><a href="https://christianpress.jp/feed/" class="c-sns-icons__link c-sns-icons__link--rss" rel="nofollow noopener" target="_blank" title="rss"></a></li></ul> </div>
+<div class="l-footer__nav u-flex-wrap">
+<div class="l-footer__nav-list"><ul id="menu-%e3%83%95%e3%83%83%e3%82%bf%e3%83%bc%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc" class="menu"><li id="menu-item-87329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87329 "><a href="#">メニュー</a></li>
+<li id="menu-item-27828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-27828 "><a rel="privacy-policy" href="https://christianpress.jp/privacy-policy/">プライバシーポリシー</a></li>
+<li id="menu-item-4617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4617 "><a href="https://christianpress.jp/soshiki/">組織概要</a></li>
+<li id="menu-item-4616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4616 "><a href="https://christianpress.jp/%e5%a0%b1%e9%81%93%e7%90%86%e5%bf%b5/">報道理念</a></li>
+<li id="menu-item-46962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46962 "><a href="https://christianpress.jp/contact/">お問い合わせ</a></li>
+<li id="menu-item-54035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54035 "><a href="https://christianpress.jp/ad_entry_form/">広告募集</a></li>
+<li id="menu-item-87336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87336 "><a href="https://christianpress.jp/ad-guideline/">広告掲載についてのガイドライン</a></li>
+</ul></div> </div>
+</div>
+<ul class="l-footer__sns-icons--sp u-flex-center c-sns-icons c-sns-icons--type2"><li class="c-sns-icons__item"><a href="#" class="c-sns-icons__link c-sns-icons__link--instagram" rel="nofollow noopener" target="_blank" title="instagram"></a></li><li class="c-sns-icons__item"><a href="#" class="c-sns-icons__link c-sns-icons__link--twitter" rel="nofollow noopener" target="_blank" title="twitter"></a></li><li class="c-sns-icons__item"><a href="#" class="c-sns-icons__link c-sns-icons__link--facebook" rel="nofollow noopener" target="_blank" title="facebook"></a></li><li class="c-sns-icons__item"><a href="#" class="c-sns-icons__link c-sns-icons__link--pinterest" rel="nofollow noopener" target="_blank" title="pinterest"></a></li><li class="c-sns-icons__item"><a href="#" class="c-sns-icons__link c-sns-icons__link--youtube" rel="nofollow noopener" target="_blank" title="youtube"></a></li><li class="c-sns-icons__item"><a href="#" class="c-sns-icons__link c-sns-icons__link--contact" rel="nofollow noopener" target="_blank" title="contact"></a></li><li class="c-sns-icons__item"><a href="https://christianpress.jp/feed/" class="c-sns-icons__link c-sns-icons__link--rss" rel="nofollow noopener" target="_blank" title="rss"></a></li></ul> </div>
+<div class="l-footer__copyright" style="background:#000000;">
+<div class="l-footer__copyright-inner l-inner">
+Copyright © 2024 </div>
+</div>
+</footer>
+</div>
+<div id="js-drawer" class="p-drawer-menu u-hidden-scroll-bar">
+<button id="js-drawer-close-button" class="p-menu-button--close u-button-reset" type="button">
+<span></span>
+<span></span>
+</button>
+<form class="p-drawer-search-form u-flex" role="search" method="get" action="https://christianpress.jp/">
+<div class="p-drawer-search-form__input">
+<input type="search" value="" name="s"/>
+</div>
+<div class="p-drawer-search-form__search">
+<button class="p-drawer-search-form__search-button c-icon u-button-reset u-flex-center" type="submit" value="検索">&#xe951;</button>
+</div>
+<input type="hidden" name="post_type" value="product"/>
+</form>
+<div class="p-drawer-menu__member">
+<ul class="p-drawer-menu__member-list u-flex">
+<li class="p-drawer-menu__member-item p-drawer-menu__member-item--mypage">
+<a href="https://christianpress.jp/my-account/" class="p-drawer-menu__member-item-link u-flex-align-center">
+<span class="p-drawer-menu__member-item-icon c-icon" style="font-size:20px;">&#xe94c;</span>
+ログイン </a>
+</li>
+<li class="p-drawer-menu__member-item p-drawer-menu__member-item--wishlist">
+<a href="https://christianpress.jp/my-account/wishlist/" class="p-drawer-menu__member-item-link u-flex-align-center">
+<span class="p-drawer-menu__member-item-icon c-icon">&#xe94f;</span>
+お気に入り </a>
+</li>
+</ul>
+</div>
+<nav class="p-drawer-menu__nav-wrapper"><ul id="menu-%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc" class="p-drawer-menu__nav"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-64541 "><a href="https://christianpress.jp/category/main_news/">ニュース<span class="p-drawer-menu-toggle-button u-flex-center js-drawer-toggle"></span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64542 "><a href="https://christianpress.jp/category/main_news/feature/">特集</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64543 "><a href="https://christianpress.jp/category/main_news/mission-church-theology/">宣教・教会・神学</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-64544 "><a href="https://christianpress.jp/category/main_news/society-education-list/">社会・教育</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-64545 "><a href="https://christianpress.jp/category/main_news/event/">イベント</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64546 "><a href="https://christianpress.jp/category/main_news/overseas/">海外</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64547 "><a href="https://christianpress.jp/category/main_news/culture/">映画・音楽・文化</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-64536 "><a href="https://christianpress.jp/category/serialization/">連載・コラム<span class="p-drawer-menu-toggle-button u-flex-center js-drawer-toggle"></span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64539 "><a href="https://christianpress.jp/category/serialization/talk-about-bible/">聖書からよもやま話</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64537 "><a href="https://christianpress.jp/category/serialization/whats_today/">今日は何の日</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64540 "><a href="https://christianpress.jp/category/serialization/philo/">断片から見た世界</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64538 "><a href="https://christianpress.jp/category/serialization/commentary/">解説</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64535 "><a href="https://christianpress.jp/category/book/">書籍紹介</a></li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-product menu-item-87328 "><a href="https://christianpress.jp/shop/">オンラインSHOP</a></li>
+<li class=" astm-search-menu is-menu is-dropdown menu-item"><a href="#" role="button" aria-label="Search Icon Link"><svg width="20" height="20" class="search-icon" role="img" viewBox="2 9 20 5" focusable="false" aria-label="Search">
+<path class="search-icon-path" d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg></a><form class="is-search-form is-form-style is-form-style-3 is-form-id-0 " action="https://christianpress.jp/" method="get" role="search"><label for="is-search-input-0"><span class="is-screen-reader-text">Search for:</span><input type="search" id="is-search-input-0" name="s" value="" class="is-search-input" placeholder="Search here..." autocomplete=off /></label><button type="submit" class="is-search-submit"><span class="is-screen-reader-text">Search Button</span><span class="is-search-icon"><svg focusable="false" aria-label="Search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24px"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg></span></button></form></li></ul></nav></div>
+<div id="js-close-overlay" class="p-drawer-menu__overlay"></div>
+<div id="js-like-modal-message" class="p-product-like-message-wrapper"></div> <div class="p-return-top-button-wrapper">
+<button id="js-return-top-button" class="p-return-top-button" type="button"></button>
+</div>
+<script type='text/javascript'>(function(){var c=document.body.className;c=c.replace(/woocommerce-no-js/,'woocommerce-js');document.body.className=c;})();</script>
+<link rel='stylesheet' id='wc-stripe-blocks-checkout-style-css' href='https://christianpress.jp/wp-content/plugins/woocommerce-gateway-stripe/build/upe-blocks.css?ver=7a015a6f0fabd17529b6' type='text/css' media='all'/>
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://christianpress.jp/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.3.7' type='text/css' media='all'/>
+<link rel='stylesheet' id='mailpoet_public-css' href='https://christianpress.jp/wp-content/plugins/mailpoet/assets/dist/css/mailpoet-public.b1f0906e.css?ver=f89287479f3d150949cd6a1f5097a2a6' type='text/css' media='all'/>
+<script type="text/javascript" id="pt-cv-content-views-script-js-extra">//<![CDATA[
+var PT_CV_PUBLIC={"_prefix":"pt-cv-","page_to_show":"5","_nonce":"44eddd523b","is_admin":"","is_mobile":"","ajaxurl":"https:\/\/christianpress.jp\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw==","is_mobile_tablet":"","sf_no_post_found":"\u6295\u7a3f\u304c\u898b\u3064\u304b\u308a\u307e\u305b\u3093\u3067\u3057\u305f\u3002","lf__separator":","};var PT_CV_PAGINATION={"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
+//]]></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js,qver=4.2.1.pagespeed.ce.JZHFy30etM.js" id="pt-cv-content-views-script-js"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/plugins/pt-content-views-pro/public/assets/js/cvpro.min.js?ver=6.4.0" id="pt-cv-public-pro-script-js"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/themes/common_tcd097/js/swiper-bundle.min.js?ver=1716283376" id="swiper-js"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/themes/common_tcd097/js/jquery.easing.1.4.js?ver=1716283376" id="jquery-easing-js"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/themes/common_tcd097/js/jquery.inview.min.js?ver=1716283376" id="inview-js"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/themes/common_tcd097/js/jscript.js?ver=1716283376" id="jscript-js"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-includes/js/comment-reply.min.js?ver=f89287479f3d150949cd6a1f5097a2a6" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/themes/common_tcd097/js/comment.js?ver=1716283376" id="comment-js"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/themes/common_tcd097/wc/js/single-product.js?ver=1.5" id="single-product-js-js"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/themes/common_tcd097/wc/js/archive-product.js?ver=1.5" id="archive-product-js-js"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/themes/common_tcd097/wc/js/header.js?ver=1.5" id="header-js-js"></script>
+<script type="text/javascript" id="like-js-js-extra">//<![CDATA[
+var TCD_FUNCTIONS={"ajax_url":"https:\/\/christianpress.jp\/wp-admin\/admin-ajax.php","ajax_error_message":"\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3057\u307e\u3057\u305f\u3002\u3082\u3046\u4e00\u5ea6\u304a\u8a66\u3057\u304f\u3060\u3055\u3044\u3002"};
+//]]></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/themes/common_tcd097/wc/js/like.js?ver=1.5" id="like-js-js"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.3.7" id="sourcebuster-js-js"></script>
+<script type="text/javascript" id="wc-order-attribution-js-extra">//<![CDATA[
+var wc_order_attribution={"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"base64":false,"ajaxurl":"https:\/\/christianpress.jp\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+//]]></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.3.7" id="wc-order-attribution-js"></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=14.2.4" id="__ytprefsfitvids__-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-before">//<![CDATA[
+_stq=window._stq||[];_stq.push(["view",JSON.parse("{\"v\":\"ext\",\"blog\":\"201619752\",\"post\":\"6745\",\"tz\":\"9\",\"srv\":\"christianpress.jp\",\"j\":\"1:15.3.1\"}")]);_stq.push(["clickTrackerInit","201619752","6745"]);
+//]]></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202601.js" id="jetpack-stats-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="ivory-search-scripts-js-extra">//<![CDATA[
+var IvorySearchVars={"is_analytics_enabled":"1"};
+//]]></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js,qver=5.5.12.pagespeed.ce.6csk_HuQnr.js" id="ivory-search-scripts-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">//<![CDATA[
+var wc_cart_fragments_params={"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_d62fa51cb663ab21a73cbff9e6cbec6d","fragment_name":"wc_fragments_d62fa51cb663ab21a73cbff9e6cbec6d","request_timeout":"5000"};
+//]]></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=10.3.7" id="wc-cart-fragments-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="mailpoet_public-js-extra">//<![CDATA[
+var MailPoetForm={"ajax_url":"https:\/\/christianpress.jp\/wp-admin\/admin-ajax.php","is_rtl":"","ajax_common_error_message":"\u30ea\u30af\u30a8\u30b9\u30c8\u306e\u5b9f\u884c\u4e2d\u306b\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3057\u307e\u3057\u305f\u3002\u5f8c\u3067\u3084\u308a\u76f4\u3057\u3066\u304f\u3060\u3055\u3044\u3002"};
+//]]></script>
+<script type="text/javascript" src="https://christianpress.jp/wp-content/plugins/mailpoet/assets/dist/js/public.js?ver=5.17.0" id="mailpoet_public-js" defer="defer" data-wp-strategy="defer"></script>
+</body>
+</html>

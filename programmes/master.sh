@@ -9,7 +9,7 @@ fi
 LANGUE="$1"
 
 SORTIE="tableaux/array-$LANGUE.html"
-ENTREE="URLS/fr.txt"
+ENTREE="URLS/$LANGUE.txt"
 
 echo -e "\
         <table class=\"table is-hoverable\">
@@ -25,6 +25,7 @@ echo -e "\
                     <th>Aspirations</th>
                     <th>Dumps initiaux</th>
                     <th>Dumps clean</th>
+                    <th>Contexte</th>
                     <th>Concordancier</th>
                 </tr>
             </thead>
@@ -108,11 +109,11 @@ while read -r LINE ; do
                 <td>$NB_MOTS</td>
                 <td>$COUNT</td>
                 <td>$ROBOT</td>
-                <th><a href=\"../$ASPIRATION\">$LANGUE-$NB_LIGNE.html</th>
-                <th><a href=\"../$DUMP_INITIAL\">$LANGUE-$NB_LIGNE.txt</th>
-                <th><a href=\"../$DUMP_UTF8\">$LANGUE-$NB_LIGNE-UTF8.txt</th>
-                <th><a href=\"../$CONTEXTE\">$LANGUE-$NB_LIGNE.txt</th>
-                <th><a href=\"../concordancier.html?f=$(basename $CONTEXTE)\">$LANGUE-$NB_LIGNE.txt</th>
+                <th><a href=\"$ASPIRATION\">$LANGUE-$NB_LIGNE.html</th>
+                <th><a href=\"$DUMP_INITIAL\">$LANGUE-$NB_LIGNE.txt</th>
+                <th><a href=\"$DUMP_UTF8\">$LANGUE-$NB_LIGNE-UTF8.txt</th>
+                <th><a href=\"$CONTEXTE\">$LANGUE-$NB_LIGNE.txt</th>
+                <th><a href=\"concordancier.html?f=$(basename $CONTEXTE)\">$LANGUE-$NB_LIGNE.txt</th>
             </tr>" >> "$SORTIE"
 done  < "$ENTREE"
 

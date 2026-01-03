@@ -1,17 +1,17 @@
 HTTP/2 403 
-date: Sat, 03 Jan 2026 16:13:48 GMT
+date: Sat, 03 Jan 2026 16:43:27 GMT
 server: Apache
 x-datadome: protected
 accept-ch: Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory
 charset: utf-8
 cache-control: max-age=0, private, no-cache, no-store, must-revalidate
 pragma: no-cache
-x-datadome-cid: AHrlqAAAAAMAFcU9xw9OqOgAsLmwKw==
+x-datadome-cid: AHrlqAAAAAMA7SrAI2o1SuwAsLmwKw==
 x-dd-b: 2
-set-cookie: datadome=HLgyNCLJKOX8CSc~jhtS~HHI1NXqo0KYw76EiCd28tbzhpAaieqdDAHu8lJV5HUK6xdQT7JoQPOHlX7dPYKLC~Dit6lpp9DBO2M6NpaY1qgbVByH2haakx_vmhplAok4; Max-Age=31536000; Domain=.cairn.info; Path=/; Secure; SameSite=None
+set-cookie: datadome=jxVktqVVCFJGn25Jb7YsrFhEoywSdxtaCt6fKOV_Cfhd3zCRfm0u8x3ByVZ9ulmXt4_23xoYmU~x_QYvSCTRpXBP7P87IVemFGVku7xElA0qkDbOsixjIrHfAItdGECb; Max-Age=31536000; Domain=.cairn.info; Path=/; Secure; SameSite=None
 content-length: 770
 access-control-allow-origin: *
 content-type: text/html;charset=utf-8
 set-cookie: SERVER_USED=cairnweb3; path=/
 
-<html lang="en"><head><title>cairn.info</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style="margin:0"><p id="cmsg">Please enable JS and disable any ad blocker</p><script data-cfasync="false">var dd={'rt':'c','cid':'AHrlqAAAAAMAFcU9xw9OqOgAsLmwKw==','hsh':'9E3A8A2A4B1B6523B8B3953E2C0374','t':'bv','qp':'','s':45004,'e':'fd8d013a0ff06e800f1eaba46f5bb6e08ac3d36850a850700e5b407736064b99a8c69d9024a31d19454ea5597ce6073a','host':'geo.captcha-delivery.com','cookie':'HLgyNCLJKOX8CSc~jhtS~HHI1NXqo0KYw76EiCd28tbzhpAaieqdDAHu8lJV5HUK6xdQT7JoQPOHlX7dPYKLC~Dit6lpp9DBO2M6NpaY1qgbVByH2haakx_vmhplAok4'}</script><script data-cfasync="false" src="https://ct.captcha-delivery.com/c.js"></script></body></html>
+<html lang="en"><head><title>cairn.info</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style="margin:0"><p id="cmsg">Please enable JS and disable any ad blocker</p><script data-cfasync="false">var dd={'rt':'c','cid':'AHrlqAAAAAMA7SrAI2o1SuwAsLmwKw==','hsh':'9E3A8A2A4B1B6523B8B3953E2C0374','t':'bv','qp':'','s':45004,'e':'db04639e471f4152dbd89617038cea5bfecd34a63c745a64163dc2640721354d011f0165f668d210491f917888bebd62','host':'geo.captcha-delivery.com','cookie':'jxVktqVVCFJGn25Jb7YsrFhEoywSdxtaCt6fKOV_Cfhd3zCRfm0u8x3ByVZ9ulmXt4_23xoYmU~x_QYvSCTRpXBP7P87IVemFGVku7xElA0qkDbOsixjIrHfAItdGECb'}</script><script data-cfasync="false" src="https://ct.captcha-delivery.com/c.js"></script></body></html>

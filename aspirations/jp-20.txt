@@ -1,0 +1,626 @@
+HTTP/1.1 200 OK
+Date: Sat, 03 Jan 2026 16:41:10 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Server: Apache
+Accept-Ranges: bytes
+Cache-Control: max-age=60
+Age: 0
+
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no" />
+<meta name="keywords" content="七つの大罪 神々の逆鱗,大罪,メリオダス,エリザベス,ディアンヌ,バン,キング,ゴウセル,マーリン,エスカノール,テレビ東京,あにてれ,アニメ,公式" />
+<meta name="description" content="七つの大罪 神々の逆鱗のキャラクターページ。いまだ人と、人ならざるものの世界が、分かたれてはいなかった古の物語。三千年の時を経て復活した、魔神族の精鋭〈十戒〉との戦いに〈七つの大罪〉は敗れ、メリオダスは死んだ。そして、ブリタニアには暗黒の時代が訪れる。　七つの大罪 神々の逆鱗のテレビ東京アニメ公式サイトです。最新情報やストーリー、キャラクター紹介や次回予告などを掲載しています。" />
+<link rel="canonical" href="https://www.tv-tokyo.co.jp/anime/7-taizai/chara/">
+
+
+<title>キャラクター　七つの大罪 神々の逆鱗｜テレビ東京アニメ公式</title>
+
+<link href="/anime/7-taizai/css/style_common.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/anime/7-taizai/css/style_under.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/anime/common_inc/css/utf8/anime_sp_common.css" rel="stylesheet" media="all">
+
+<link href="/anime/7-taizai/css/other.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/anime/7-taizai/css/news.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+<!-- sns -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="">
+<meta name="twitter:title" content="七つの大罪 神々の逆鱗｜テレビ東京アニメ公式">
+<meta name="twitter:image" content="https://www.tv-tokyo.co.jp/anime/7-taizai/images/facebook_icon.jpg">
+<meta name="twitter:description" content="キャラクター">
+<meta property="og:title" content="七つの大罪 神々の逆鱗｜テレビ東京アニメ公式">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.tv-tokyo.co.jp/anime/7-taizai/chara/">
+<meta property="og:image" content="https://www.tv-tokyo.co.jp/anime/7-taizai/images/facebook_icon.jpg">
+<!--/sns -->
+</head>
+
+<body>
+<!-- tag_head_inc  tag_body_inc -->
+<!--▼▼tag_head_inc.html▼▼-->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-ND9WBXK');</script>
+<!-- End Google Tag Manager -->
+<!--▼▼tag_body_inc.html▼▼-->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-ND9WBXK"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<link href="/anime/common_inc/css/utf8/animheader_theater.css" rel="stylesheet" type="text/css" media="all" />
+
+<link href="/anime/common_inc/css/utf8/reset.css" rel="stylesheet" media="screen,tv" />
+<link rel="stylesheet" type="text/css" href="/anime/main/css/utf8/index_animbase_sp.css" media="screen and (max-width:619px)">
+<link rel="stylesheet" type="text/css" href="/anime/main/css/utf8/index_animbase_tb.css" media="screen and (min-width:620px) and (max-width:1220px)">
+<link rel="stylesheet" type="text/css" href="/anime/main/css/utf8/index_animbase_pc.css" media="screen and (min-width:1221px)">
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="/anime/main/css/utf8/index_animbase_pc.css">
+<!--<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="/anime/common_inc/css/utf8/incani_animheader_sp.css" media="screen and (max-width:619px)">
+<link rel="stylesheet" type="text/css" href="/anime/common_inc/css/utf8/incani_animheader_tb.css" media="screen and (min-width:620px) and (max-width:1220px)">
+<link rel="stylesheet" type="text/css" href="/anime/common_inc/css/utf8/incani_animheader_pc.css" media="screen and (min-width:1221px)">
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="/anime/common_inc/css/utf8/incani_animheader_pc.css">
+<!--<![endif]-->
+<script src="/anime/common_inc/js/top/incani_animheader.js" charset="utf-8" type="text/javascript"></script>
+
+<div id="headerMenu">
+	<div id="headerContentsArea">
+        <div id="headerMenuTx">
+            <ul class="clearfix">
+                <li class="txMenuIndex"><a href="https://www.tv-tokyo.co.jp/">テレビ東京</a></li>
+                <li class="txMenuTimetable"><a href="/timetable/">番組表</a></li>
+                <li class="txMenuBiz"><a href="/genre_biz/">ニュース・報道</a></li>
+                <li class="txMenuInfo"><a href="/genre_info/">情報・ドキュメンタリー</a></li>
+                <li class="txMenuAnime"><a href="/genre_anime/">アニメ</a></li>
+                <li class="txMenuTravel"><a href="/genre_travel/">旅・グルメ</a></li>
+                <li class="txMenuVariety"><a href="/genre_variety/">バラエティ・音楽</a></li>
+                <li class="txMenuDrama"><a href="/genre_drama/">ドラマ・映画</a></li>
+                <li class="txMenuSports"><a href="/genre_sports/">スポーツ</a></li>
+            </ul>
+        </div><!-- /headerMenuTx -->
+        
+        <div id="headerMenuAnime">
+            <ul class="clearfix">
+                <li class="anMenuIndex"><a href="/anime/">あにてれ</a></li>
+                <li class="anMenuTimetable"><a href="/anime/animetable/">アニメ番組表</a></li>
+                <li class="anMenuSong"><a href="/anime/song/">主題歌</a></li>
+            </ul>
+        </div><!-- /headerMenuAnime -->
+	</div><!-- /headerContents -->
+    
+    <div id="headerButtonArea">
+		<div id="headerButton"><a href="javascript:void(0);" class="headerMenuOpen">MENU</a></div>
+	</div>
+</div>
+
+
+<div id="anWraper" class="wholeBox clearfix">
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/10690992/anitele', [[300, 600], [320, 50], [320, 100], [300, 250]], 'div-gpt-ad-1525164912693-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/10690992/txweb_2020/txweb_anitele_rectangle_left', [300, 250], 'div-gpt-ad-1618455147577-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/10690992/txweb_2020/txweb_anitele_rectangle_ownd', [300, 250], 'div-gpt-ad-1661342019010-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<!--▼▼SIDE BAR▼▼-->
+<link rel="stylesheet" type="text/css" href="/anime/common_inc/css/utf8/reset.css" media="screen and (min-width:620px)">
+<link rel="stylesheet" type="text/css" href="/anime/common_inc/css/utf8/incani_animheader_pc.css" media="screen and (min-width:620px)">
+<link rel="stylesheet" type="text/css" href="/anime/common_inc/css/utf8/sidebar_fixed.css" media="screen and (min-width:620px)">
+<script src="/anime/main/js/top/jquery-1.5.1.min.js" charset="utf-8" type="text/javascript"></script>
+<script src="/anime/main/js/top/incani_animheader.js" charset="utf-8" type="text/javascript"></script>
+<script src="/anime/common_inc/js/sidebar/scripts_fixed.js" charset="utf-8" type="text/javascript"></script>
+<!--<script src="/anime/common_inc/js/sidebar/anitv_bnr.js" charset="utf-8" type="text/javascript"></script>-->
+
+<!-- adnw_tag_pc start-->
+
+<!-- adnw_tag_pc end-->
+
+<div id="anSideBar">
+	<div id="anSideBarMenu">
+		<div id="logoArea">
+			<a href="/anime/" class="anitv">あにてれTOP</a>
+			<a href="/" class="tx">テレビ東京TOP</a>
+		</div><!-- /logoArea -->
+		<div id="serchArea" class="clearfix">
+			<form id="searchbox" action="/search/" method="get">
+				<input type="hidden" name="enc" value="utf8" />
+				<input id="q" type="text" name="q" />
+				<input id="searchsubmit" type="submit" value=""  />
+			</form>
+		</div><!-- /serchArea -->
+		<div id="adArea">
+<!-- /10690992/txweb_2020/txweb_anitele_rectangle_left -->
+<div id='div-gpt-ad-1618455147577-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1618455147577-0'); });
+  </script>
+</div>
+		</div><!-- /adArea -->
+		<div id="newsArea" class="whiteBox"><div class="newsAreaTitle">ニュース・更新情報</div><div class="whiteBoxMain"><ul><li><a href="https://www.tv-tokyo.co.jp/anime/gintamathefinal/news/index.html#240993" target="">映画「銀魂 THE FINAL」</a><!--<img src="/txcms/media/others/d5/b5/a0c2367252b5b308f45e63536e07.jpg" alt="映画「銀魂 THE FINAL」" width="100px" />--><span class="newsText"><p>『新劇場版 銀魂 -吉原大炎上-』公開記念！『銀魂 THE FINAL』お年玉プレゼントキャンペーン　開催！</p>[1/3 up]</span></li><li><a href="https://www.tv-tokyo.co.jp/anime/kill-blue/" target="">キルアオ</a><!--<img src="/txcms/media/others/b2/a3/5b2b1eedf7dde93ff6c7cd5f43ce.jpg" alt="キルアオ" width="100px" />--><span class="newsText"><p>2026年4月テレ東系列にて放送開始！</p>[12/26 up]</span></li><li><a href="https://www.tv-tokyo.co.jp/anime/ninjala/news/index.html#240792" target="">ニンジャラ</a><!--<img src="/txcms/media/others/b3/db/e6f647b70f2fc07c826c178459f2.jpg" alt="ニンジャラ" width="100px" />--><span class="newsText"><p>2026年1月10日と17日は特別番組をお届け！</p>[12/26 up]</span></li><li><a href="https://www.tv-tokyo.co.jp/anime/punirunes3/news/index.html#240884" target="">ぷにるんず ぷに３</a><!--<img src="/txcms/media/others/57/b7/8ddb37ff4dbe0451387ab719af7f.jpg" alt="ぷにるんず ぷに３" width="100px" />--><span class="newsText"><p>アニメ「ぷにるんず ぷに3」DVD BOXの発売が決定！</p>[12/26 up]</span></li><li><a href="https://www.tv-tokyo.co.jp/anime/pad/streaming/" target="">パズドラ</a><!--<img src="/txcms/media/others/c7/16/b4adc89b1aa81bacbb795f837991.jpg" alt="パズドラ" width="100px" />--><span class="newsText"><p>「長田先生回復祈願コンボ」「宇宙にポツン　花草商店街は大ピンチ！」見逃し配信開始！</p>[12/25 up]</span></li></ul></div></div>
+
+
+	</div><!-- /anSideBarMenu -->
+</div><!-- /anSideBar -->
+<!--▲▲SIDE BAR▲▲-->
+
+<div id="container">
+
+<!-- ロゴ -->
+<h1><a href="/anime/7-taizai/"><img src="/anime/7-taizai/images/logo.png" alt="七つの大罪 神々の逆鱗" class="pcout" /><img src="/anime/7-taizai/images/sp/sp_logo.jpg" alt="七つの大罪 神々の逆鱗" class="spout" /></a></h1>
+
+<!-- ページタイトル -->
+<h2 class="pagettl"><img src="/anime/7-taizai/images/under_h2_chara.png" alt="キャラクター" class="pcout"><img src="/anime/7-taizai/images/sp/sp_ttl_chara.png" alt="キャラクター" class="spout"></h2>
+
+<!-- パンくず -->
+<div class="breadcrumb">
+
+<a href="https://www.tv-tokyo.co.jp/anime/7-taizai/">TOP</a> &raquo;
+
+
+
+キャラクター
+
+
+</div>
+
+<div id="contents_area">
+
+
+
+
+
+
+
+<!-- repeat -->
+<a name="216481" id="216481"></a>
+<div class="entry chara">
+<div class="inside">
+<h3><img src="/anime/7-taizai/images/chara/chara01_name_j.png" alt="メリオダス"></h3>
+<div class="cv"><p>CV：梶 裕貴</p></div>
+<p>〈憤怒の罪〉を背負う、〈七つの大罪〉の団長であり、移送する酒場〈豚の帽子〉亭の店主。見た目は少年だが、その実は〈七つの大罪〉の団長。</p>
+<div class="illust"><img src="/anime/7-taizai/images/chara/chara01_illust.png" alt="メリオダス"></div>
+<div class="name"><img src="/anime/7-taizai/images/chara/chara01_name_e.png" alt="メリオダス"></div>
+</div>
+</div>
+<!-- //repeat -->
+
+<!-- repeat -->
+<a name="216483" id="216483"></a>
+<div class="entry chara">
+<div class="inside">
+<h3><img src="/anime/7-taizai/images/chara/chara02_name_j.png" alt="エリザベス"></h3>
+<div class="cv"><p>CV：雨宮 天</p></div>
+<p>リオネス王国第三王女。生まれはダナフォール王国で、王国が滅亡した際、リオネスの国王バルトラに引き取られて養女となった。泣き虫だが強い信念と慈愛に満ちた心を持ち、人を助けるために強力な治癒能力を発揮する。</p>
+<div class="illust"><img src="/anime/7-taizai/images/chara/chara02_illust.png" alt="エリザベス"></div>
+<div class="name"><img src="/anime/7-taizai/images/chara/chara02_name_e.png" alt="エリザベス"></div>
+</div>
+</div>
+<!-- //repeat -->
+
+<!-- repeat -->
+<a name="216484" id="216484"></a>
+<div class="entry chara">
+<div class="inside">
+<h3><img src="/anime/7-taizai/images/chara/chara03_name_j.png" alt="ホーク"></h3>
+<div class="cv"><p>CV：久野美咲</p></div>
+<p>人間の言葉を話すことができる豚。口は悪いが根は良い豚。〈豚の帽子〉亭では残飯処理係を担当。自分では自分のことを最強だと思っているが、戦闘能力は皆無。</p>
+<div class="illust"><img src="/anime/7-taizai/images/chara/chara03_illust.png" alt="ホーク"></div>
+<div class="name"><img src="/anime/7-taizai/images/chara/chara03_name_e.png" alt="ホーク"></div>
+</div>
+</div>
+<!-- //repeat -->
+
+<!-- repeat -->
+<a name="216485" id="216485"></a>
+<div class="entry chara">
+<div class="inside">
+<h3><img src="/anime/7-taizai/images/chara/chara04_name_j.png" alt="ディアンヌ"></h3>
+<div class="cv"><p>CV：悠木 碧</p></div>
+<p>〈七つの大罪〉のメンバーで、背負っている罪は〈嫉妬の罪〉。巨人族の女の子。魔力は乏しいが肉弾戦は強い。巨人族としては珍しく戦うことがあまり好きではない。</p>
+<div class="illust"><img src="/anime/7-taizai/images/chara/chara04_illust.png" alt="ディアンヌ"></div>
+<div class="name"><img src="/anime/7-taizai/images/chara/chara04_name_e.png" alt="ディアンヌ"></div>
+</div>
+</div>
+<!-- //repeat -->
+
+<!-- repeat -->
+<a name="216486" id="216486"></a>
+<div class="entry chara">
+<div class="inside">
+<h3><img src="/anime/7-taizai/images/chara/chara05_name_j.png" alt="バン"></h3>
+<div class="cv"><p>CV：鈴木達央</p></div>
+<p>〈強欲の罪〉をその身に刻む〈七つの大罪〉の団員。妖精王の森にある「生命の泉」を飲んだことにより不死の身体になった。自分の興味がある物は平気で盗み、興味がないものには無関心。お酒は弱いけど、飲むのは好き。</p>
+<div class="illust"><img src="/anime/7-taizai/images/chara/chara05_illust.png" alt="バン"></div>
+<div class="name"><img src="/anime/7-taizai/images/chara/chara05_name_e.png" alt="バン"></div>
+</div>
+</div>
+<!-- //repeat -->
+
+<!-- repeat -->
+<a name="216487" id="216487"></a>
+<div class="entry chara">
+<div class="inside">
+<h3><img src="/anime/7-taizai/images/chara/chara06_name_j.png" alt="キング"></h3>
+<div class="cv"><p>CV：福山 潤</p></div>
+<p>〈怠惰の罪〉と呼ばれる〈七つの大罪〉の団員。妖精王。700年前に出会ってからずっとディアンヌのことが大好き。一途に想い続けるキングが報われる日は来るのか？</p>
+<div class="illust"><img src="/anime/7-taizai/images/chara/chara06_illust.png" alt="キング"></div>
+<div class="name"><img src="/anime/7-taizai/images/chara/chara06_name_e.png" alt="キング"></div>
+</div>
+</div>
+<!-- //repeat -->
+
+<!-- repeat -->
+<a name="216489" id="216489"></a>
+<div class="entry chara">
+<div class="inside">
+<h3><img src="/anime/7-taizai/images/chara/chara07_name_j.png" alt="ゴウセル"></h3>
+<div class="cv"><p>CV：髙木裕平</p></div>
+<p>〈色欲の罪〉の印を宿す〈七つの大罪〉団員。中性的な容姿を持ち、無機質的な立ち振る舞いをする。〈七つの大罪〉の団員になる前は〈十戒〉「無欲」のゴウセルであったらしい。その正体はいまだ混沌とした謎に包まれている。</p>
+<div class="illust"><img src="/anime/7-taizai/images/chara/chara07_illust.png" alt="ゴウセル"></div>
+<div class="name"><img src="/anime/7-taizai/images/chara/chara07_name_e.png" alt="ゴウセル"></div>
+</div>
+</div>
+<!-- //repeat -->
+
+<!-- repeat -->
+<a name="216490" id="216490"></a>
+<div class="entry chara">
+<div class="inside">
+<h3><img src="/anime/7-taizai/images/chara/chara08_name_j.png" alt="マーリン"></h3>
+<div class="cv"><p>CV：坂本真綾</p></div>
+<p>〈暴食の罪〉を背負う〈七つの大罪〉の一人。その魔力は凄まじく、ブリタニア一の魔術士と呼ばれている。メリオダスたちと合流する前は、キャメロットの新王アーサーのそばにいた。</p>
+<div class="illust"><img src="/anime/7-taizai/images/chara/chara08_illust.png" alt="マーリン"></div>
+<div class="name"><img src="/anime/7-taizai/images/chara/chara08_name_e.png" alt="マーリン"></div>
+</div>
+</div>
+<!-- //repeat -->
+
+<!-- repeat -->
+<a name="216491" id="216491"></a>
+<div class="entry chara">
+<div class="inside">
+<h3><img src="/anime/7-taizai/images/chara/chara09_name_j.png" alt="エスカノール"></h3>
+<div class="cv"><p>CV：杉田智和</p></div>
+<p>〈傲慢の罪〉の印を持つ〈七つの大罪〉団員。日の出と共に力が増していき、正午になるとその力はピークに達する。でも夜は最弱。そのギャップがチャームポイント。</p>
+<div class="illust"><img src="/anime/7-taizai/images/chara/chara09_illust.png" alt="エスカノール"></div>
+<div class="name"><img src="/anime/7-taizai/images/chara/chara09_name_e.png" alt="エスカノール"></div>
+</div>
+</div>
+<!-- //repeat -->
+
+
+
+
+
+</div><!--div#contents_area-->
+
+<!-- メニュー -->
+<div id="navi">
+<ul>
+<li class="news"><a href="/anime/7-taizai/news/"><img src="/anime/7-taizai//images/menu/menu_news.png" alt="新着情報" class="pcout"><img src="/anime/7-taizai//images/sp/sp_menu_news.png" alt="新着情報" class="spout"></a></li>
+<li class="story"><a href="/anime/7-taizai/story/"><img src="/anime/7-taizai//images/menu/menu_story.png" alt="ストーリー" class="pcout"><img src="/anime/7-taizai//images/sp/sp_menu_story.png" alt="ストーリー" class="spout"></a></li>
+<li class="chara"><a href="/anime/7-taizai/chara/"><img src="/anime/7-taizai//images/menu/menu_chara.png" alt="キャラクター" class="pcout"><img src="/anime/7-taizai//images/sp/sp_menu_chara.png" alt="キャラクター" class="spout"></a></li>
+<li class="staff"><a href="/anime/7-taizai/staff/"><img src="/anime/7-taizai//images/menu/menu_staff.png" alt="スタッフ・キャスト" class="pcout"><img src="/anime/7-taizai//images/sp/sp_menu_staff.png" alt="スタッフ・キャスト" class="spout"></a></li>
+<li class="episodes"><a href="/anime/7-taizai/episodes/"><img src="/anime/7-taizai//images/menu/menu_episodes.png" alt="エピソード" class="pcout"><img src="/anime/7-taizai//images/sp/sp_menu_episodes.png" alt="エピソード" class="spout"></a></li>
+<li class="onair"><a href="/anime/7-taizai/onair/"><img src="/anime/7-taizai//images/menu/menu_onair.png" alt="放送局情報" class="pcout"><img src="/anime/7-taizai//images/sp/sp_menu_onair.png" alt="放送局情報" class="spout"></a></li>
+<li class="top"><a href="/anime/7-taizai/"><img src="/anime/7-taizai//images/menu/menu_toppage.png" alt="トップページ" class="pcout"><img src="/anime/7-taizai//images/sp/sp_menu_toppage.png" alt="トップページ" class="spout"></a></li>
+</ul>
+</div>
+
+<!-- フッター -->
+<div class="foot">
+<ul class="footmenu">
+<li><a href="/anime/7-taizai/news/">新着情報</a></li>
+<li><a href="/anime/7-taizai/story/">ストーリー</a></li>
+<li><a href="/anime/7-taizai/chara/">キャラクター</a></li>
+<li><a href="/anime/7-taizai/staff/">スタッフ・キャスト</a></li>
+<li><a href="/anime/7-taizai/episodes/">エピソード</a></li>
+<li><a href="/anime/7-taizai/onair/">放送局情報</a></li>
+<li><a href="/anime/7-taizai/">トップページ</a></li>
+</ul>
+<div id="copyright">&copy; 鈴木央・講談社／「七つの大罪 神々の逆鱗」製作委員会・テレビ東京</div>
+</div>
+
+</div><!--div#container-->
+</div><!--div#anWraper-->
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/10690992/anitele', [[300, 600], [320, 50], [320, 100], [300, 250]], 'div-gpt-ad-1525164912693-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/10690992/txweb_2020/txweb_anitele_rectangle_left', [300, 250], 'div-gpt-ad-1618455147577-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/10690992/txweb_2020/txweb_anitele_rectangle_ownd', [300, 250], 'div-gpt-ad-1661342019010-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<div id="anitvFooter">
+	<!-- メニューエリア -->
+	<div id="footerMenu">    
+		<!-- PC＆タブレット用フッターバナー -->
+		<div id="footerPcBanner" class="clearfix">
+			<div class="BannerBox">
+			<!-- PLACEHOLDERtag tx.004_anime_top banner1_468x60 start-->
+			
+			<!-- PLACEHOLDERtag tx.004_anime_top banner1_468x60 end-->
+			</div>
+			<div class="BannerBox">
+			<!-- PLACEHOLDERtag tx.004_anime_top banner2_468x60 start-->
+			
+			<!-- PLACEHOLDERtag tx.004_anime_top banner2_468x60 end-->
+			</div> 
+		</div><!-- /footerPcBanner -->
+		<!-- /PC＆タブレット用フッターバナー -->
+		<div id="footerSpBanner" class="clearfix">
+<!-- /10690992/txweb_2020/txweb_anitele_rectangle_left -->
+<div id='div-gpt-ad-1618455147577-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1618455147577-0'); });
+  </script>
+</div>
+		</div>
+	</div>
+</div><!-- /anitvFooter -->
+
+  
+      
+    
+        
+          
+      
+      
+    
+  
+<link rel="stylesheet" href="/tbcms/css/footer-anime.css" type="text/css;charset=UTF-8">
+<div id="tbcms_footer-anime">
+  <div class="tbcms_footer-anime">
+    <div class="tbcms_footer-anime__container">
+      <div class="tbcms_footer-anime__goods">
+        <div class="js-txcms-program-goods" data-program-id="1208091" data-title="人気のグッズ"></div>
+      </div>
+      <div class="tbcms_footer-anime__ondemand" id="js-tbcms-footer-anime-ondemand" data-mdas="(none)" data-tver="(none)"></div>
+      <div class="tbcms_footer-anime__navigation">
+        <div class="tbcms_footer-anime__navigation-list">
+          <a class="tbcms_footer-anime__navigation-item tbcms_footer-anime__navigation-item--timetable" href="/anime/animetable/"><span class="tbcms_footer-anime__navigation-item-icon"></span><span class="tbcms_footer-anime__navigation-item-text">アニメ番組表</span></a>
+          <a class="tbcms_footer-anime__navigation-item tbcms_footer-anime__navigation-item--song" href="/anime/song/"><span class="tbcms_footer-anime__navigation-item-icon"></span><span class="tbcms_footer-anime__navigation-item-text">主題歌一覧</span></a>
+          <a class="tbcms_footer-anime__navigation-item tbcms_footer-anime__navigation-item--home" href="/anime/"><span class="tbcms_footer-anime__navigation-item-icon"></span><span class="tbcms_footer-anime__navigation-item-text">あにてれ</span></a></div>
+      </div>
+    </div>
+    <div class="tbcms_footer-anime__global">
+      <div class="tbcms_footer-container tbcms_footer-container--border_none">
+<footer class="tbcms_footer">
+  <div class="tbcms_footer__inner-wrap">
+    <div class="tbcms_footer__inner">
+      <section class="tbcms_sns-link">
+        <div class="tbcms_sns-link__inner">
+          <div class="tbcms_sns-link__wrap">
+            <div class="tbcms_sns-link__channel-wrap">
+              <div class="tbcms_sns-link__channel-heading">テレ東公式アカウント</div>
+              <ul class="tbcms_sns-link__list">
+                <li class="tbcms_sns-link__item"><a class="tbcms_sns-link__button" href="https://www.youtube.com/user/TVTOKYO" target="_blank"><img src="/tbcms/assets/images/icon_sns_youtube.svg" alt="Youtube"></a></li>
+                <li class="tbcms_sns-link__item"><a class="tbcms_sns-link__button tbcms_sns-link__button--x" href="https://x.com/tvtokyo_pr" target="_blank"><img src="/tbcms/assets/images/icon_sns_twitter.svg" alt="X"></a></li>
+                <li class="tbcms_sns-link__item"><a class="tbcms_sns-link__button" href="https://www.instagram.com/tvtokyo_pr/" target="_blank"><img src="/tbcms/assets/images/icon_sns_instagram.svg" alt="Instagram"></a></li>
+                <li class="tbcms_sns-link__item"><a class="tbcms_sns-link__button" href="https://www.tiktok.com/@tvtokyo_pr" target="_blank"><img src="/tbcms/assets/images/icon_sns_tiktok--black.svg" alt="TikTok"></a></li>
+                <li class="tbcms_sns-link__item"><a class="tbcms_sns-link__button" href="https://line.naver.jp/ti/p/%40tvtokyo" target="_blank"><img src="/tbcms/assets/images/icon_sns_line.svg" alt="Line"></a></li>
+                <li class="tbcms_sns-link__item"><a class="tbcms_sns-link__button" href="https://www.facebook.com/tvtokyo.pr/" target="_blank"><img src="/tbcms/assets/images/icon_sns_facebook.svg" alt="Facebook"></a></li>
+              </ul>
+            </div>
+            <div class="tbcms_sns-link__channel-wrap">
+              <div class="tbcms_sns-link__channel-heading">ＢＳテレ東公式アカウント</div>
+              <ul class="tbcms_sns-link__list">
+                <li class="tbcms_sns-link__item"><a class="tbcms_sns-link__button" href="https://www.youtube.com/c/bs-tvtokyo" target="_blank"><img src="/tbcms/assets/images/icon_sns_youtube.svg" alt="Youtube"></a></li>
+                <li class="tbcms_sns-link__item"><a class="tbcms_sns-link__button tbcms_sns-link__button--x" href="https://x.com/bs7ch_pr" target="_blank"><img src="/tbcms/assets/images/icon_sns_twitter.svg" alt="X"></a></li>
+                <li class="tbcms_sns-link__item"><a class="tbcms_sns-link__button" href="https://www.instagram.com/bs7ch_pr/" target="_blank"><img src="/tbcms/assets/images/icon_sns_instagram.svg" alt="Instagram"></a></li>
+                <li class="tbcms_sns-link__item"><a class="tbcms_sns-link__button" href="https://www.tiktok.com/@bs7ch_pr" target="_blank"><img src="/tbcms/assets/images/icon_sns_tiktok--black.svg" alt="TikTok"></a></li>
+                <li class="tbcms_sns-link__item"><a class="tbcms_sns-link__button" href="https://www.facebook.com/BS7ch/" target="_blank"><img src="/tbcms/assets/images/icon_sns_facebook.svg" alt="Facebook"></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+      <nav class="tbcms_footer__main-navigation">
+        <ul class="tbcms_footer__main-navigation-list">
+          <li class="tbcms_footer__main-navigation-item">
+            <div class="tbcms_footer__main-navigation-item-title">番組関連</div>
+            <ul class="tbcms_footer__main-navigation-item-inner">
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/timetable/">番組表</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/genre_biz/">ニュース・報道</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/genre_info/">情報・ドキュメンタリー</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/genre_drama/">ドラマ・映画</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/genre_variety/">バラエティ・音楽</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/genre_anime/">アニメ</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/genre_travel/">旅・グルメ</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/genre_sports/">スポーツ</a></li>
+            </ul>
+          </li>
+          <li class="tbcms_footer__main-navigation-item">
+            <div class="tbcms_footer__main-navigation-item-title">動画</div>
+            <ul class="tbcms_footer__main-navigation-item-inner">
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://video.tv-tokyo.co.jp/" target="_blank">ネットもテレ東</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://tver.jp/" target="_blank">TVer</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://txbiz.tv-tokyo.co.jp/" target="_blank">テレ東BIZ</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://video.unext.jp/freeword/video?query=%E3%83%86%E3%83%AC%E3%83%93%E6%9D%B1%E4%BA%AC" target="_blank">U-NEXT</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/txod/">テレビ東京オンデマンド</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.youtube.com/user/TVTOKYO" target="_blank">テレ東 YouTube公式チャンネル</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.youtube.com/c/bs-tvtokyo" target="_blank">ＢＳテレ東 YouTube公式チャンネル</a></li>
+            </ul>
+          </li>
+          <li class="tbcms_footer__main-navigation-item">
+            <div class="tbcms_footer__main-navigation-item-title">ショッピング・トラベル</div>
+            <ul class="tbcms_footer__main-navigation-item-inner">
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://shop.tv-tokyo.co.jp/" target="_blank">テレ東本舗。WEB</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.toranomon-ichiba.com/" target="_blank">虎ノ門市場</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyoshop.jp/" target="_blank">テレ東マート</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.club-t.com/ct/oshiete/?p=368132" target="_blank">教えて！ツアーの達人</a></li>
+            </ul>
+          </li>
+          <li class="tbcms_footer__main-navigation-item">
+            <div class="tbcms_footer__main-navigation-item-title">読みモノ</div>
+            <ul class="tbcms_footer__main-navigation-item-inner">
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/plus/" target="_blank">テレ東プラス</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/information/" target="_blank">テレ東リリース最速情報</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/sports/" target="_blank">テレビ東京スポーツ</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/tabletennis/" target="_blank">テレビ東京卓球NEWS</a></li>
+            </ul>
+          </li>
+          <li class="tbcms_footer__main-navigation-item">
+            <div class="tbcms_footer__main-navigation-item-title">各種コンテンツ</div>
+            <ul class="tbcms_footer__main-navigation-item-inner">
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/announcer/">アナウンサー</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/nanana/">ナナナ</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/anime/">あにてれ</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/otoku/">プレゼント・観覧応募</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://pass.tv-tokyo.co.jp/hc/ja/p/top" target="_blank">テレ東パス</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/event/">テレ東 イベント情報</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.bs-tvtokyo.co.jp/event/">ＢＳテレ東 イベント情報</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/movie/">劇場映画</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.bs-tvtokyo.co.jp/cinema/">ＢＳテレ東 映画情報</a></li>
+            </ul>
+          </li>
+          <li class="tbcms_footer__main-navigation-item">
+            <div class="tbcms_footer__main-navigation-item-title">企業情報</div>
+            <ul class="tbcms_footer__main-navigation-item-inner">
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.txhd.co.jp/" target="_blank">テレビ東京ホールディングス</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/kaisha/">テレビ東京</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.bs-tvtokyo.co.jp/company/">ＢＳテレビ東京</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://txcom.jp/" target="_blank">テレビ東京コミュニケーションズ</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/kaisha/company/group.html">関係会社</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/kaisha/company/network.html">TXNネットワーク</a></li>
+            </ul>
+          </li>
+          <li class="tbcms_footer__main-navigation-item">
+            <div class="tbcms_footer__main-navigation-item-title">採用情報</div>
+            <ul class="tbcms_footer__main-navigation-item-inner">
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/tx_career/">テレビ東京【キャリア採用】</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/jinji/">テレビ東京【新卒採用】</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/index/info/job/">アルバイト募集</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/internship/">インターンシップ</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.txhd.co.jp/recruit/">関連会社採用情報</a></li>
+            </ul>
+          </li>
+          <li class="tbcms_footer__main-navigation-item">
+            <div class="tbcms_footer__main-navigation-item-title">関連情報</div>
+            <ul class="tbcms_footer__main-navigation-item-inner">
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.txhd.co.jp/sdgs/">SDGs</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/main/yoriyoi/">よりよい放送をめざして</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/main/seisaku/bangumikikaku.html">番組制作会社の皆様へ</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/programsales/" target="_blank">Program Sales</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://www.ttmnet.co.jp/en/" target="_blank">Music Publishing</a></li>
+              <li class="tbcms_footer__main-navigation-category-item"><a href="https://teretoto.tv-tokyo.co.jp/" target="_blank">テレ東と</a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+  <nav class="tbcms_footer__company-navigation">
+    <ul class="tbcms_footer__company-navigation-list">
+      <li class="tbcms_footer__company-navigation-item">
+        <div class="tbcms_footer__company-navigation-item-title">テレビ東京</div>
+        <ul class="tbcms_footer__company-navigation-item-inner">
+          <li class="tbcms_footer__company-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/index/company/goiken.html">お問い合わせ</a></li>
+          <li class="tbcms_footer__company-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/personal.html">個人情報の取り扱いについて</a></li>
+          <li class="tbcms_footer__company-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/index/company/link.html">リンクと著作権について</a></li>
+          <li class="tbcms_footer__company-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/viewinglog/">視聴データについて</a></li>
+          <li class="tbcms_footer__company-navigation-category-item"><a href="https://www.tv-tokyo.co.jp/index/info/view.html">推奨環境・ご注意</a></li>
+        </ul>
+      </li>
+      <li class="tbcms_footer__company-navigation-item">
+        <div class="tbcms_footer__company-navigation-item-title">ＢＳテレ東</div>
+        <ul class="tbcms_footer__company-navigation-item-inner">
+          <li class="tbcms_footer__company-navigation-category-item"><a href="https://www.bs-tvtokyo.co.jp/opinion/">お問い合わせ</a></li>
+          <li class="tbcms_footer__company-navigation-category-item"><a href="https://www.bs-tvtokyo.co.jp/personal.html">個人情報の取り扱いについて</a></li>
+          <li class="tbcms_footer__company-navigation-category-item"><a href="https://www.bs-tvtokyo.co.jp/link/">リンクと著作権について</a></li>
+          <li class="tbcms_footer__company-navigation-category-item"><a href="https://www.bs-tvtokyo.co.jp/company/viewinglog/index.html">視聴データについて</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+  <div class="tbcms_button-group">
+    <button class="tbcms_footer__page-to-top" type="button"></button>
+  </div>
+  <div class="tbcms_footer__attention">
+    <p><small>このWEBサイトに掲載されている文章・映像・音声写真等の著作権はテレビ東京・BSテレビ東京 およびその他の権利者に帰属しています。権利者の許諾なく、私的使用の範囲を越えて複製したり、頒布・上映・公衆送信(送信可能化を含む)等を行うことは法律で固く禁じられています。</small></p>
+  </div>
+  <div class="tbcms_footer__copyright" id="footerCopyright">
+    <p><small>Copyright &copy; TV TOKYO Corporation All rights reserved.</small></p>
+    <p><small>Copyright &copy; BS TV TOKYO Corporation All rights reserved.</small></p>
+  </div>
+</footer>
+
+      </div>
+    </div>
+  </div>
+</div>
+<script src="//cdn.cxense.com/cx.js"></script>
+<script src="/tbcms/javascripts/library.anime.js"></script>
+<script src="/tbcms/javascripts/footer-anime.js"></script>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+
+<!--scatalyst-->
+<script language="JavaScript" type="text/javascript" src="/index/scatalyst/s_code.js"></script>
+<script type="text/javascript" src="/index/scatalyst/site/7-taizai_utf8.js"></script>
+<!--/scatalyst-->
+
+</body>
+</html>

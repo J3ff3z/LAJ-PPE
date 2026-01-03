@@ -1,6 +1,5 @@
-HTTP/2 403 date: Sat, 03 Jan 2026 16:13:48 GMT server: Apache x-datadome:
+HTTP/2 403 date: Sat, 03 Jan 2026 16:43:27 GMT server: Apache x-datadome:
 protected accept-ch:
-datadome=HLgyNCLJKOX8CSc~jhtS~HHI1NXqo0KYw76EiCd28tbzhpAaieqdDAHu8lJV5HUK6xdQT7J
 Domain=.; Path=/; Secure; SameSite=None content-length: 770
 SERVER_USED=cairnweb3; path=/
 

@@ -1,7 +1,453 @@
-HTTP/2 403 date: Sat, 03 Jan 2026 16:16:11 GMT server: Apache x-datadome:
-protected accept-ch:
-datadome=85wJCW8sSolSkSHQ3D5x0BRzipZjdRtxIKxvtfP8DTO6GXsYEkRJu06TIfQYfm8ZP_nKZac
-Domain=.; Path=/; Secure; SameSite=None content-length: 770
-SERVER_USED=cairnweb4; path=/
+HTTP/2 200 date: Sat, 03 Jan 2026 16:35:35 GMT server:
+"max_age": 604800, "endpoints": [{ "url":
+Feb 2026 12:00:00 GMT set-cookie:
+Expires=Wed, 04 Feb 2026 12:00:00 GMT set-cookie:
+WMF-DP=495;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+GeoIP=FR:IDF:Maisons-Alfort:::v4; Path=/; secure; Domain=.
+set-cookie:
+=.;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027
 
-Please enable JS and disable any ad blocker
+Przejdź do zawartości
+
+Nawigacja
+
+Dla czytelników
+
+Dla wikipedystów
+
+Wikipedia wolna encyklopedia
+Szukaj
+
+ Wygląd
+
+
+ Narzędzia osobiste
+
+Spis treści
+
+  o  Definicja według św. Tomasza z Akwinu
+  o  Systematyka
+
+ Przełącz stan spisu treści
+
+Grzech
+
+ 98 języków
+
+Edytuj linki
+
+
+ polski
+
+
+ Narzędzia
+Narzędzia
+Działania
+
+Ogólne
+
+Drukuj lub eksportuj
+
+W innych projektach
+
+Wygląd
+Z Wikipedii, wolnej encyklopedii
+rodziców i wypędzenie z raju.
+
+Grzech – przekroczenie norm religijnych. W religiach, w których Bóg jest bytem
+osobowym, jak judaizm i chrześcijaństwo, grzech oznacza dobrowolne zerwanie
+przymierza z Bogiem poprzez dokonanie złego czynu.
+
+Znaczenie
+
+[edytuj | edytuj kod]
+Wikipedia:Weryfikowalność
+Ta sekcja od 2018-02 wymaga zweryfikowania podanych informacji.
+Należy podać wiarygodne źródła w formie przypisów bibliograficznych.
+Część lub nawet wszystkie informacje w sekcji mogą być nieprawdziwe. Jako
+pozbawione źródeł mogą zostać zakwestionowane i usunięte.
+Sprawdź w źródłach: Encyklopedia PWN • Google Books • Google Scholar •
+BazHum • BazTech • RCIN • Internet Archive (texts / inlibrary)
+Dokładniejsze informacje o tym, co należy poprawić, być może znajdują się w
+dyskusji tej sekcji.
+Po wyeliminowaniu niedoskonałości należy usunąć szablon {{Dopracować}} z tej
+sekcji.
+
+Dokładniej jest to świadome i dobrowolne działanie lub jego brak (grzech
+zaniechania), bądź też postawa, która stoi w sprzeczności z nakazami Boga lub
+bogów danej religii. Inaczej rzecz ujmując grzech to postawa lub działanie wbrew
+Bogu, sprzeczne z jego charakterem, powodujące świadomą alienację jednostki
+ludzkiej wobec tegoż Boga.
+
+Przeważnie religie rozróżniają różne rodzaje, wagi, czy stopnie grzechu, a
+określenie „grzech” niekoniecznie stosowane jest do wszystkich tego typu
+działań. Popełnienie grzechu częstokroć oznacza wstąpienie w stan nieczystości,
+który jeśli nie zostanie usunięty, może prowadzić do kary w życiu pozagrobowym,
+zwykle jest to zesłanie do piekła lub brak jedności z Bogiem.
+
+W niektórych religiach grzechy popełnione przez przodków mogą być dziedziczone.
+Szczególnym przypadkiem jest grzech pierworodny w części wyznań
+chrześcijańskich, który oznacza skażenie natury wszystkich ludzi przez ich
+skłonność do czynienia zła. Grzech ten zostaje usunięty w czasie chrztu (lecz
+nie znosi skłonności do zła), będącym jednocześnie sakramentem inicjującym w
+katolicyzmie (obrzęd jego odczynienia przeprowadzali np.
+Prusowie)^[potrzebny przypis].
+
+Grzech jest zazwyczaj uważany za czyn obiektywnie zły (obiektywna ocena grzechu
+nie ma zastosowania w przypadku zdefiniowanego dobra i zła jako subiektywnych
+wartości moralnych), jednak jeżeli jego działanie nie jest świadome i dobrowolne
+to, odpowiedzialność za tenże grzech (według części systemów wyznaniowych) może
+być zmniejszona. Grzechem cudzym nazywa się działanie lub jego brak, które
+prowadzi do grzechu drugiego (obojętność czy namawianie do grzechu). Potocznie
+grzechem nazywa się myśl, wypowiedź lub czyn moralnie naganny, szkodzący innym
+lub (według części wyznań) osobie dokonującej grzechu. Grzech w tym znaczeniu
+oddala grzesznika (grzeszącą osobę) od bóstwa i innych ludzi, obciążając
+jednocześnie sumienie tej osoby winą.
+
+Według Władysława Witwickiego poczucie grzechu, poczucie czegoś nieczystego
+towarzyszy poczuciu świętości. Grzeszne wydają się być czyny szkodliwe dla
+społeczeństwa – wtedy poczucie grzechu staje się wyrazem instynktu społecznego.
+W innych wypadkach napiętnowane bywają tym znamieniem zachowania obojętne
+etycznie, na przykład zjadanie pewnych pokarmów nieszkodliwych czy praca w
+pewnych dniach. Człowiek o żywym poczuciu religijnym odczuwa jako grzech nie
+tylko pewien rodzaj czynów, ale również odczuwa stan grzechu, czyli stan trwałej
+nieczystości w sobie samym lub w innych^[1]^[2].
+
+Chrześcijaństwo
+
+[edytuj | edytuj kod]
+
+Biblijne pojęcie grzechu
+
+[edytuj | edytuj kod]
+
+Biblia ukazuje Boga jako wszechmogącego, transcendentnego Stwórcę. Jest on pełen
+miłosierdzia wobec człowieka, który jawi się jako grzesznik, jedno z najbardziej
+niewdzięcznych stworzeń. Trzeci rozdział Księgi Rodzaju ukazuje grzech człowieka
+w jego wielu aspektach. Grzech Adama i Ewy ukazany został tam jako
+nieposłuszeństwo Bogu i Jego przykazaniu. Towarzyszył mu wewnętrzny akt pychy,
+człowiek chciał być jak Bóg. Dokonało się to przez namowę diabła. Grzech nie
+był jedynie czymś zewnętrznym, zniszczenie dotknęło bowiem najgłębszych pokładów
+osobowości. Zmienił człowieka i jego położenie na gorsze, zanim doznał on kary
+Bożej. Symbolem tego było poczucie wstydu i nagości. Człowiek doznał też
+śmierci, będącej brakiem życia, nieobecnością Bożej dobroci. Fizyczna śmierć,
+wobec braku jasnych pojęć eschatologicznych, jawiła się jako pozbawienie
+wszelkiego dobra, zamknięcie zbawienia. Ojcowie Kościoła, jak Augustyn z Hippony
+akcentując śmierć fizyczną, podkreślali właśnie tę całościową rzeczywistość
+śmierci (por. Państwo Boże ). Podobnie rozumiała go liturgia Kościoła,
+przywołując śmiertelną kondycję człowieka w pokutnym obrzędzie posypania
+popiołem. Pojęcie śmierci związanej z grzechem, znajduje swe dalsze wyjaśnienie
+w rozdz. 4-11 Księgi Rodzaju. Opisują one stan ludzkości przed Abrahamem,
+ukazując rozpowszechnianie się grzechu na cały świat. Grzech jest więc tam
+rozumiany jako niewola, z której nie ma wyzwolenia siłami ludzkimi – jedynie
+interwencją Bożą. Stąd następuje w Biblii opis Egiptu, jako domu niewoli (Wj
+20,2; Pwt 5,6), będącego ziemią bożków, a więc ziemią grzechu (por. Ez 20,7; Oz
+7,16; 8,13; 13,4). Rozdział trzeci Księgi Rodzaju nie postrzega grzechu jedynie
+w kategoriach pożądliwości, jest dramatem dokonującym się między Bogiem
+człowiekiem i diabłem, gdzie wyłączony jest gnostycki dualizm. Diabeł jest
+przedstawiony jako zwierzę (wąż), a więc jako stworzenie Boże. Razem z nędzą, w
+jaka popadł człowiek, ujawnia się Boża dobroć i miłosierdzie. Św. Paweł zauważy,
+że chociaż człowiek zgrzeszył, został pokonany przez zło, jednak ostatecznie
+może „zło dobrem zwyciężać” (Rz 12,21). Dzięki tej wypowiedzi apostoła i z
+kontekstu biblijnego można zrozumieć, że kara Boża miała charakter leczniczy.
+Ireneusz z Lyonu widział grzech Adama jako integralną część Bożego planu
+zbawienia. Stąd również Exultet głosi: „Szczęśliwa wina, która zasłużyła na
+takiego Odkupiciela”^[3].
+
+Kościół ojców apostolskich
+
+[edytuj | edytuj kod]
+
+Od samego początku chrześcijaństwa, autorzy takich dzieł jak Didache, Pasterz
+Hermasa, także Ignacy Antiocheński w swoich Listach i in. wyrażali przekonanie,
+że grzechy ciężkie nie są rzadkie wśród chrześcijan. C. Vogel podaje spis
+dwunastu grzechów zaczerpnięty z pism nowotestamentalnych i ojców apostolskich:
+ 1. Nieczystość: cudzołóstwo, nierząd, pederastia, pożądliwość, słowa nieczyste
+ 2. Zabójstwo
+ 3. Bałwochwalstwo
+ 4. Magia
+ 5. Chciwość
+ 6. Kradzież
+ 7. Zawiść: zazdrość, zła żądza, miłość próżnej chwały, nienawiść
+ 8. Kłamstwo: fałszywe świadectwo, fałszywe przysięgi, hipokryzja, obmowa
+ 9. Złość: gniew, niepodporządkowanie się, kłótliwość, perwersyjność, zły
+charakter, złe plotki, obraźliwe wyzwiska, krzywda, wprowadzanie w błąd.
+10. Pycha: zarozumiałość, próżność, arogancja.
+11. Niestałość i głupota
+12. Pijaństwo i nieumiarkowanie^[4].
+
+Katolicyzm
+
+[edytuj | edytuj kod]
+
+Definicja według św. Tomasza z Akwinu
+
+[edytuj | edytuj kod]
+
+Według definicji Tomasza z Akwinu, którą zaczerpnął od Augustyna z Hippony,
+
+Grzech jest to powiedzenie, uczynienie lub pożądanie czegoś przeciwnego prawu
+wiecznemu^[5].
+
+W rozumieniu Tomasza z Akwinu prawo wieczne strzeże podstawowego sensu życia
+człowieka, a czyli grzech jako przekroczenie tego prawa, to każde takie
+zachowanie, które niszczy ludzkie życie, jego godność i znaczenie:
+
+Prawo wieczne przede wszystkim i z zasady ukierunkowuje człowieka ku celowi
+/życia/, a więc sprawia, że człowiek ma dobrą postawę wobec wszystkiego tego, co
+odnosi się do celu /życia/^[6].
+
+Grzech jest w katolicyzmie istotnym elementem doktryny i duszpasterstwa. Jedną z
+podstawowych dróg terapii jest sakrament pojednania, czyli tzw. spowiedź.
+Ilustracja z austriackiego podręcznika religii dla młodzieży z 1920 r.
+
+Grzech śmiertelny jest, według innego sformułowania Tomasza, odwróceniem się od
+dobra niezmiennego, którym jest Bóg, a zwróceniem się ku dobru zmiennemu, czyli
+stworzeniom. Owo nieuporządkowane zwrócenie się ku stworzeniom jest elementem
+materialnym grzechu, nazywa się je inaczej pożądliwością /(łac.)
+concupiscentia/, podczas gdy elementem formalnym jest utrata przymierza z
+Bogiem, czyli pierwotnej sprawiedliwości^[7]. Jest ono nazywane winą śmiertelną
+– culpa mortalis (Summa theologiae III q86 a4; por. I-IIae q87 a4). Wina
+śmiertelna jest gładzona, kiedy przez łaskę usunięty zostaje stan odwrócenia
+umysłu od Boga. Wolna wola zwraca się wtedy ku Bogu w akcie wiary – actus fidei
+formatae. Zaś w odniesieniu do grzechu wolna wola dokonuje aktu pokuty – actus
+poenitentiae (STh III q86 a6 rad1). To nieuporządkowane zwrócenie się ku dobru
+zmiennemu pociąga za sobą karę doczesną – reatus poenae, która jedynie może
+przywrócić nieuporządkowanie grzechu do porządku sprawiedliwości (STh III q86
+a5)^[8]. Według Josefa Piepera, określenie „dobrowolne odwrócenie od Boga” (por.
+STh II-IIae q34 a2) jako jedyne ukazuje co dzieje się wewnątrz człowieka, gdy
+grzeszy^[9].
+
+Grzech w nauczaniu Kościoła katolickiego jest świadomym i dobrowolnym
+przekroczeniem prawa bożego. Może to oznaczać zerwaniem jedności z Bogiem i może
+się wiązać z utratą łaski uświęcającej i w konsekwencji wiecznego zbawienia.
+Każdy grzech oddala od Boga – również grzech popełniony w stanie braku łaski
+uświęcającej (jego skutkiem może być . większa trudność w nawróceniu się).
+
+Podstawowym według katolicyzmu punktem wiary chrześcijańskiej, a szczególnie
+kerygmatu, jest uznanie ludzkiej grzeszności (skłonności do zła). Według
+katolików zrozumienie tego faktu pozwala na współdziałanie z łaską Boga i
+osiągnięcie szczęścia, które nie przemija, a zaczyna się już na ziemi. Jest
+jednak dogmatem Kościoła to, że wolna od grzechu była Najświętsza Maryja Panna,
+istnieje też dawna i szeroko uznawana teza teologiczna o wolności od grzechu
+świętego Józefa. Nauczanie Kościoła, w oparciu o Pismo Święte („Jeśli mówimy, że
+nie mamy grzechu, to samych siebie oszukujemy i nie ma w nas prawdy.” 1 J 1,8
+według Biblii Tysiąclecia) głosi, że każdy człowiek jest grzeszny – również
+osoby beatyfikowane i kanonizowane. Kościół również wierzy, że łaska boża
+umożliwia człowiekowi unikanie grzechu.
+
+Systematyka
+
+[edytuj | edytuj kod]
+
+Grzechy można przypisać do jednej w dwóch kategorii (podział ze względu na
+ciężar)^[10]:
+ 1. grzechy śmiertelne – zwracają człowieka w stronę przeciwną do jego
+ostatecznego celu, zabijają miłość do Boga, wymagają nadprzyrodzonej interwencji
+Boga w duszy grzesznika^[11];
+ 2. grzechy powszednie – spowalniają człowieka na drodze do jego ostatecznego
+celu, osłabiają miłość do Boga, wymagają szczerej woli poprawy i większej
+współpracy z łaską Bożą^[12].
+
+Powyższy podział służy do oceny grzechu w kontekście jego skutków dla życia
+wiecznego, lecz każdy grzech jest niesprawiedliwością wobec Boga i Jego dzieł.
+Człowiek w stanie grzechu śmiertelnego traci jedność z Bogiem (łaskę
+uświęcającą), więc nie może przystępować do Komunii Świętej bez wcześniejszego
+rozgrzeszenia w sakramencie pokuty i pojednania. Człowiek popełniający grzechy
+powszednie nie traci łaski uświęcającej, dlatego wystarczy wzbudzenie żalu za
+grzechy, aby je zgładzić^[13]. Sama Komunia Święta również to czyni^[14].
+
+Istnieją również inne kategorie grzechów, wyróżniające grzechy spośród innych:
+uderzające zarówno w człowieka, jak i społeczeństwo w jakim żyje. Wymienione są
+. w pkt. 1867 Katechizmu Kościoła Katolickiego.
+
+ Osobny artykuł: Grzechy wołające o pomstę do Nieba.
+moralna za współudział w grzechu cudzym. Katechizm wyróżnia dziewięć sposobów
+współuczestniczenia w cudzych grzechach:
+
+ 1. Consilio - namawiać kogoś do grzechu.
+ 2. Mandato - nakazywać grzech.
+ 3. Approbatione - zezwalać na grzech.
+ 4. Provocatione - pobudzać do grzechu.
+ 5. Laude vel blandimento - pochwalać grzech drugiego.
+ 6. Occultatione - milczeć, gdy ktoś grzeszy.
+ 7. Participe - nie karać za grzech.
+ 8. Silentio - pomagać do grzechu.
+ 9. Defensio maleficii - usprawiedliwiać czyjś grzech^[15].
+
+grzechy zewnętrzne popełnione w wyniku aktu woli skierowanego ku światu
+zewnętrznemu lub wewnętrzne, które nie objawiają się zewnętrznymi aktami
+woli^[16].
+
+Świadkowie Jehowy
+
+[edytuj | edytuj kod]
+
+Świadkowie Jehowy uważają, że grzechem jest wszelkie działanie, myśl i uczucie
+niezgodne z miernikami Boga; łamanie prawa Bożego, czyli dopuszczanie się złych
+czynów, między innymi niecne postępowanie, niewywiązywanie się z powinności,
+bezbożna mowa, nieczyste myśli, samolubne pragnienia lub pobudki (Rz 3:23; 1 J
+5:17; 3:4)^[17]^[18]^[19]. Uważają, że Biblia odróżnia grzech odziedziczony od
+rozmyślnego oraz grzeszny czyn, którego się ze skruchą żałuje, od trwania w
+grzechu^[20]. Ciężar czynu, pobudki i częstotliwość popełniania grzechu to
+czynniki, które decydują o jego wadze. Bóg jest gotów przebaczać grzechy tym,
+którzy ich szczerze żałują, trzymają się w życiu zasad Bożych i okazują wiarę w
+Jezusa Chrystusa (Dz 3:19, 20)^[21]^[22]^[23]. Grzech niewybaczalny, „grzech
+prowadzący do śmierci”, popełniany jest przez osoby zatwardziałe w czynieniu
+zła, które nie zmieniają swojego nastawienia ani złego postępowania. Jednak mówi
+wprost, że popełnianie poważnych grzechów sprawia, że dana osoba nie uzyska
+wybawienia (Hbr 10:26, 27; 1 J 5:16)^[24]^[25]^[26].
+
+W islamie
+
+[edytuj | edytuj kod]
+
+Według hadisów^[27], istnieje siedem głównych grzechów:
+ 1. szirk (oddawanie czci innym bogom niż Allah)
+ 2. magia
+ 3. zabójstwo
+ 4. przejęcie własności sieroty (zobacz też: dzieci w islamie﻿(inne języki))
+ 5. lichwa
+ 6. ucieczka z pola bitwy
+ 7. pomawianie czystej kobiety o cudzołóstwo
+
+Muzułmanie nie uznają odkupienia grzechów przez ofiarę, lecz jedynie skruchę i
+naprawienie wyrządzonego zła. Według charydżytów, poważne grzechy czynią
+człowieka kafirem (niewiernym). Islam nie rozróżnia między kategorią grzechu i
+przestępstwa, osoba popełniająca poważny grzech podlega karze szariatu już za
+życia, a jeśli nie odpokutuje, to również karze Allaha po śmierci, w piekle.
+
+W buddyzmie
+
+[edytuj | edytuj kod]
+
+W buddyzmie nie używa się pojęcia grzechu, gdyż zaprzecza to np. prawom karmy,
+reinkarnacji, siunjata, czy też naturze buddy.
+
+Prawo karmy wykazuje np. że rezultaty powstałe z danych czynów doświadczane są
+tylko przez istotę, która je wykonała i nikt nie może wyzwolić bądź zbawić z
+tego "z zewnątrz".
+
+Działania ściśle prowadzą do odpowiadających im rezultatów, które doświadczy
+się w przyszłości odpowiednio jako szczęście bądź cierpienie (w tym lub w
+przyszłych żywotach) również zgodnie z procesem reinkarnacji.
+
+Owo prawo reinkarnacji jest sprzeczne z pojęciem "nieuchronności" grzechu.
+Wszystko jest współzależnie istniejące, tak że rezultaty, które "zaowocowałyby"
+cierpieniem w danym dogodnym do tego czasie, mogą być wyparte przez nowe
+działania, których rezultaty "zaowocują" szczęściem w tym właśnie czasie. O
+kolejnym odrodzeniu decydują rezultaty z niezliczonych uczynków zgodnie z
+buddyjskim prawem karmy. Uczynki wykonywane były nie tylko w obecnym życiu, ale
+i w poprzednich niezliczonych żywotach, jak i również, co podkreślane jest w
+buddyzmie tybetańskim, wykonywane będą nawet po śmierci w stanie przejściowym
+bardo tuż przed kolejnymi narodzinami. Nie może więc być żadnego fatalizmu na
+podobieństwo chrześcijaństwa, np. pojęcia grzechu śmiertelnego na wieczne
+piekło^[28].
+
+Ponadto prawo dwunastu ogniw współzależnego powstawania opisuje proces
+reinkarnacji tak, że pierwszym i fundamentalnym ogniwem jest niewiedza. Pod
+wpływem owej niewiedzy indywidualnie podlega się cierpieniu, a jeżeli ją się
+usunie, odkryte będzie nieuwarunkowane szczęście nirwany i wrodzona każdemu
+mądrość siunjata bycia w zgodzie z naturą rzeczywistości taką jaką jest, a nie
+jaką się tylko wydaje przejawiać pod wpływem splamień umysłu. Coraz bardziej
+będzie się odkrywać wrodzoną sobie naturę Buddy.
+
+Rozpatrując pojęcie natura Buddy warto zaznaczyć fundamentalną różnicę pomiędzy
+buddyzmem a np. chrześcijaństwem, gdzie stosuje się pojęcie "grzechu
+pierworodnego". Natura Buddy ze wszystkimi doskonałymi cechami jest wrodzona
+naturalnie wszystkim "czującym istotom". Parafrazując, wszyscy ludzie mają więc
+"doskonałość pierworodną". Główny traktat jogaczary o naturze Buddy, "Mahayana
+Uttaratantra Shastra", opisuje to następująco^[29]:
+
+"Doskonała kaja Buddy (sanskryt buddhakaya, synonim trzech ciał Buddy) jest
+wszystko obejmująca. (Owa) Takość jest poza wszelkimi podziałami. Wszystkie
+czujące istoty mają tę sposobność. Ponieważ one mają zawsze naturę Buddy. Budda
+powiedział: wszystkie istoty mają naturę Buddy "ze względu na obecność mądrości
+zawsze wrodzonej czującym istotom, ze względu na niesplamioną naturę poza
+dualizmem (subiekt-obiekt), ze względu na rezultat stanu Buddy."
+
+Zobacz też
+
+[edytuj | edytuj kod]
+Informacje w projektach siostrzanych
+
+Przypisy
+
+[edytuj | edytuj kod]
+ 1. ↑ Władysław Witwicki: Psychologia. T. 2. Warszawa: Państwowe Wydawnictwo
+Naukowe, 1963, s. 269–270. OCLC .
+ 2. ↑ Jan Szmyd: Psychologiczny obraz religijności i mistyki. Z badań
+psychologów polskich. Kraków: Wydawnictwo Naukowe Wyższej Szkoły Pedagogicznej,
+ 3. ↑ Lyonnet, Sabourin 1970 ↓, s. 5-11.
+ 4. ↑ Por. Cyrille Vogel: Le pécheur et la pénitence dans l'Église ancienne. s.
+14-15.
+ 5. ↑ Peccatum est dictum vel factum vel concupitum contra legem aeternam, STh
+I-IIae q 71 a 6; por. Augustyn zA. Hippony Augustyn zA., Contra Faustum
+przekład polski: Księgi XXII-XXXIII, przeł. Jan Sulowski, [w:] Przeciw
+Faustusowi (księgi XXII-XXXIII). Przeciw Sekundynowi, Warszawa 1991 ATK PSP 56,
+s. 3-151.
+ 6. ↑ Lex aeterna primo et principaliter ordinat hominem ad finem, consequenter
+autem facit hominem bene se habere circa ea quae sunt ad finem, STh I-IIae q 71
+a 6 ad3
+ 7. ↑ To rozróżnienie Tomasz odnosi także do grzechu pierworodnego, por. Thomas
+Aquinas. Theological texts, s. 118, przypis 1.
+ 8. ↑ Por. Suma Teologiczna w przekładzie londyńskim: t. 29, Sakrament pokuty
+ 9. ↑ J. Pieper, The Concept of Sin, South Bend, Indiana: St. Augustine's Press,
+10. ↑ Zob. KKK 1854
+11. ↑ Zob. KKK 1856
+12. ↑ Zob. KKK 1863
+13. ↑ Zob. Reconciliatio et paenitentia, 32
+14. ↑ Instytut . Media Instytut ., Gładzi grzechy powszednie
+16. ↑ Temat 30. Grzech [online], Opus Dei - Odnajdywać Boga w życiu codziennym,
+17. ↑ Czym jest grzech?, [w:] Jak możesz zapewnić sobie prawdziwe szczęście?
+[online], , 2013, s. 16 .
+18. ↑ Grzech, [w:] Prowadzenie rozmów na podstawie Pism, wyd. 2, Towarzystwo
+19. ↑ Co powinieneś zrobić, jeśli popełnisz poważny grzech?, [w:] Już zawsze
+ciesz się życiem! — interaktywny kurs biblijny [online], 2021 .
+20. ↑ Prawda o grzechu, [w:] Strażnica Zwiastująca Królestwo Jehowy [online],
+, 1 czerwca 2010, s. 8-10 .
+21. ↑ Watchtower, Czym jest grzech? [online],  .
+22. ↑ TowarzystwoT. Strażnica TowarzystwoT., Grzech, [w:] Wnikliwe poznawanie
+Pism, t. 1, Biblioteka Internetowa Strażnicy, 2006, s. 759–768,
+23. ↑ Watchtower, Czy Bóg mi przebaczy? [online],  .
+24. ↑ Watchtower, Czym jest grzech niewybaczalny? [online],  .
+25. ↑ Watchtower, Czy istnieje coś takiego jak siedem grzechów głównych?
+[online],  .
+26. ↑ Watchtower, Czym jest duch święty? [online],  .
+28. ↑ Katechizm Kościoła Katolickiego po Soborze Powszechnym Watykańskim II, Jan
+Paweł II. KKK 1035: Nauczanie Kościoła stwierdza istnienie piekła i jego
+wieczność. Dusze tych, którzy umierają w stanie grzechu śmiertelnego,
+bezpośrednio po śmierci idą do piekła, gdzie cierpią męki, „ogień wieczny". 588
+(przypisy)
+29. ↑ Arya Asanga, Jamgön Kongtrül Lodrö Thayé, "Buddha Nature. The Mahayana
+Uttaratantra Shastra by Arya Maitreya", -118, Snow Lion Publications
+
+Bibliografia
+
+[edytuj | edytuj kod]
+Biblical and Patristic Study. Rzym: Biblical Institute Press, 1970, s. 349,
+seria: Analecta Biblica 48.
+
+Linki zewnętrzne
+
+[edytuj | edytuj kod]
+of Philosophy, CSLI, Stanford University, 15 kwietnia 2021, ISSN 
+wykupienie subskrypcji Sin (ang.), Routledge Encyclopedia of Philosophy,
+
+Kontrola autorytatywna (pojęcie religijne):
+
+Encyklopedie internetowe:
+
+Źródło: „
+Kategorie:
+
+Ukryte kategorie:
+
+samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń. Zobacz
+szczegółowe informacje o warunkach korzystania.
+
+
+
+
+ Przełącz stan spisu treści
+Grzech

@@ -1,0 +1,446 @@
+HTTP/2 200 server: nginx date: Sat, 03 Jan 2026 16:47:02 GMT content-type:
+text/html; charset=utf-8 vary: Accept-Encoding vary: Accept-Encoding
+cache-control: no-cache, no-store, must-revalidate content-security-policy:
+report-uri /v1/csplog; block-all-mixed-content; frame-ancestors
+https://*.grupawp.pl https://*.kube.dev.dcwp.pl; expires: 0 link:
+/kobieta.wp.pl/cC5wbC5qTCJUFRRwGgpBNxdNQCBFGTwwQRNAbxcuQXkXKD0cai48HGooPRxqLjwca
+ig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0ca
+i48HGooPRxqLjwcaig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0cai48HGooPRxqLjwca
+ig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0ca
+i48HGooPRxqLjwcaig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0cai48HGooPRxqLjwca
+ig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0ca
+i48HGooPRxqLjwcaig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0cai48HGooPRxqLjwca
+ig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0ca
+i48HGooPRxqLjwcaig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0cai48HGooPRxqLjwca
+ig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0ca
+i48HGooPRxqLjwcaig9HGouPBxqKD0cai48HGooPRxqLjwcaig9HGouPBxqKD0cai5BbxcCQHkXXgInQ
+1gBLFsXCiQaHgwvXB8GbFESEShBHhNuXhgAKlAFAm1CB0wzWV8JMBcK>; rel=preload;
+as=script; crossorigin=anonymous link:
+/kobieta.wp.pl/Z29mZXIudVNYDyxrZg54RhtXeDs5HQVBTQl4dGsqeAgbMgUHFioFbWYyBQcWKgVtZ
+jIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHF
+ioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZ
+jIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHF
+ioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZ
+jIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHF
+ioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZ
+jIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHF
+ioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZ
+jIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHF
+ioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZjIFBxYqBW1mMgUHFioFbWYyBQcWKgVtZ
+jIFBxYqBRAVTy96c1d1RUkHKTQgF2wdTh0wKyUcOB9eAjw9O1swQRsQ>; rel=modulepreload;
+as=script; crossorigin=anonymous link:
+/kobieta.wp.pl/c2t0b3AuTFMVUhQAbg5BRlYKQFAxHTxVG1YHQWNZQW1WCkBsHio8bStvPWweKjxtK
+289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qPG0rbz1sH
+io8bStvPWweKjxtK289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qPG0rbz1sHio8bStvPWweKjxtK
+289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qPG0rbz1sH
+io8bStvPWweKjxtK289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qPG0rbz1sHio8bStvPWweKjxtK
+289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qPG0rbz1sH
+io8bStvPWweKjxtK289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qPG0rbz1sHio8bStvPWweKjxtK
+289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qPG0rbz1sH
+io8bStvPWweKjxtK289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qPG0rbz1sHio8bStvPWweKjxtK
+289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qPG0rbz1sH
+io8bStvPWweKjxtK289bB4qPG0rbz1sHio8bStvPWweKjxtK289bB4qQR5WRUAJY1oTXlpHEh0qGgFbE
+UQDHDMQD1cVQwccN0RNB0UHTAduFBFGHVMOVmwRBkEfRA1DbxYQQVZN>; rel=preload; as=style;
+link:
+/kobieta.wp.pl/bW1vbi5jTTZQFBRaGhFAIxNMQApFAj0wXhAHGxdGQAgTTEA2ajU9CG4pPTZqNT0Ib
+ik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02a
+jU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ib
+ik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02a
+jU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ib
+ik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02a
+jU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ib
+ik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02a
+jU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ib
+ik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02a
+jU9CG4pPTZqNT0Ibik9Nmo1PQhuKT02ajU9CG4pPTZqNT0Ibik9Nmo1PXUdVBdLD0hNJ11YFRkbAQ01W
+BMWCBoYBztUFxEMGhxTeQRHVUcBRQMlRR8BBVBHAThcGw0HGwkRJBML>; rel=preload; as=style;
+link:
+/kobieta.wp.pl/aGVtZS5jTiY3FixgGhFDM3ROeDBFAj4gORI_IRdGQxh0TngMajU-GAkrBQxqNT4YC
+SsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMa
+jU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GAkrBQxqNT4YC
+SsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMa
+jU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GAkrBQxqNT4YC
+SsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMa
+jU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GAkrBQxqNT4YC
+SsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMa
+jU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GAkrBQxqNT4YC
+SsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMa
+jU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GAkrBQxqNT4YCSsFDGo1PhgJKwUMajU-GHRYeCYXUENoJ
+hh0JEVECig0HT8nVEUTIjoROyBQRRd2eEFrZBteTjM-ETc2GwkSNHQJ>; rel=preload; as=style;
+link: /securepubads.g.doubleclick.net/tag/js/gpt.js>; rel=preload; as=script;
+link: /imasdk.googleapis.com/js/sdkloader/ima3.js>; rel=preload; as=script;
+link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: ; rel=dns-prefetch;
+link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: ; rel=dns-prefetch;
+link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: ; rel=dns-prefetch;
+link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: ; rel=dns-prefetch;
+link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: ; rel=dns-prefetch;
+link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: ; rel=dns-prefetch;
+link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: /www.wp.pl>;
+rel=preconnect; link: /v.wpimg.pl>; rel=preconnect; link: /onelogin.wpcdn.pl>;
+rel=preconnect; link: /fonts.wpcdn.pl>; rel=preconnect; link:
+/www.googletagservices.com>; rel=preconnect; link:
+/securepubads.g.doubleclick.net>; rel=preconnect; pragma: no-cache
+referrer-policy: no-referrer-when-downgrade wp-session-id:
+2101645d-2d25-4004-a1ac-9705ad77e53f x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN x-xss-protection: 1; mode=block set-cookie:
+STabid=3968c360e3310df4e31223fa8fdada04:1767458822.732:v1; path=/;
+Max-Age=31536000 set-cookie: STabnoid=1; path=/ x-wp-phost: kobieta.wp.pl
+x-wp-host: kobieta.wp.pl x-app: content-gofer-multiproduct-dc1-front-web
+accept-ch: device-memory, dpr, width, viewport-width, rtt, downlink, ect,
+sec-ch-ua, sec-ch-ua-platform, sec-ch-ua-mobile, sec-ch-ua-full-version-list,
+sec-ch-ua-platform-version, sec-ch-ua-arch, sec-ch-ua-bitness, sec-ch-ua-model
+accept-ch-lifetime: 604800 x-op-id-all: 2f1s #Aktualności
+
+[ ]
+  * ( ) Testuj produkty Testuj produkty
+Testuj produkty
+  + Przetestowane produkty
+  + Zgłoszenia
+  + Teraz testowane
+  + Wyniki testów
+  + O Klubie
+  * #Wszechmocne
+  * ( ) Moda Moda
+Moda
+  + Stylizacje
+  + Trendy
+  * ( ) Uroda Uroda
+Uroda
+  + Fryzury
+  + Makijaż
+  + Ciało i twarz
+  + Włosy
+  + Paznokcie
+  + Tatuaże
+  * Odkryj siebie
+  * Samodbałość
+  * Zdrowie Kobiety
+  * Modne Spojrzenie
+  * Silne Włosy
+  * Gwiazdy
+  * ( ) Fitness Fitness
+Fitness
+  + Ćwiczenia
+  + Diety
+  * Blisko ludzi
+  * ( ) Gotowanie Gotowanie
+Gotowanie
+  + Przepisy
+  * ( ) Dom Dom
+Dom
+  + Łazienka
+  + Kuchnia
+  + Salon
+  + Sypialnia
+  + Ogród
+  * Najnowsze
+
+Obserwuj nas na:
+(*)
+Popularne w serwisie Kobieta:
+Wtedy lepiej przerwać spowiedź. "Masz prawo odejść od konfesjonału"
+Wtedy lepiej przerwać spowiedź. "Masz prawo odejść od konfesjonału" Natalia
+Więckowska
+Mróz jej niestraszny. W takim stroju wyszła na sylwestrową scenę
+Mróz jej niestraszny. W takim stroju wyszła na sylwestrową scenę Paulina
+Żmudzińska
+Wystąpiła w "nagich" spodniach. Opcja tylko dla odważnych
+Wystąpiła w "nagich" spodniach. Opcja tylko dla odważnych Paulina Żmudzińska
+Ma dziecko z gwiazdą TVP. "Nie jest moją żoną i nigdy nie była"
+Ma dziecko z gwiazdą TVP. "Nie jest moją żoną i nigdy nie była" Dominika Pająk
+Przyszła w szortach do "DDTVN". Tak stylizuje je zimą
+Przyszła w szortach do "DDTVN". Tak stylizuje je zimą Oliwia Rybiałek
+Patent za grosze. Przyklej do butów, a zapomnisz o ślizganiu
+Patent za grosze. Przyklej do butów, a zapomnisz o ślizganiu Oliwia Rybiałek
+  * Testuj produkty
+  + Przetestowane produkty
+  + Zgłoszenia
+  + Teraz testowane
+  + Wyniki testów
+  + O Klubie
+  * #Wszechmocne
+  * Moda
+  + Stylizacje
+  + Trendy
+  * Uroda
+  + Fryzury
+  + Makijaż
+  + Ciało i twarz
+  + Włosy
+  + Paznokcie
+  + Tatuaże
+  * Odkryj siebie
+  * Samodbałość
+
+[ ]
+(BUTTON) Zaloguj
+  ___________________________________________________________________________
+
+  * WP Kobieta
+
+  Ten grzech powtarza się nagminnie. Księża mówią jasno
+
+Ten grzech powtarza się nagminnie. Księża mówią jasno
+
+Zbliża się adwent, a wraz z nim tradycyjny czas przedświątecznej spowiedzi.
+Duszpasterze z jednej z parafii w Białymstoku zwracają uwagę, że w
+konfesjonałach często powtarzają się podobne grzechy.
+Spowiedź Spowiedź
+Źródło zdjęć: © Adobe Stock
+oprac.  ANGR
+28 listopada 2025, 16:00
+(BUTTON) ZAPISZ ZAPISANO (BUTTON) UDOSTĘPNIJ
+(BUTTON) Udostępnij na X (BUTTON) Udostępnij na Facebooku
+(BUTTON) 159
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+W tym artykule:
+  * Częste grzechy Polaków
+  * Rozwój technologii wpływa na zachowanie
+
+Zbliża się adwent – czas oczekiwania na Boże Narodzenie, ale też tradycyjnie
+okres, w którym wiele osób wraca do sakramentu spowiedzi. Duszpasterze
+przypominają, że dobre przygotowanie zaczyna się od szczerego rachunku sumienia.
+Parafia pw. św. Wojciecha Biskupa i Męczennika w Białymstoku na swojej stronie
+internetowej zwraca uwagę na najczęstsze grzechy, z którymi wierni przychodzą do
+konfesjonału.
+
+Częste grzechy Polaków
+
+Na podstawie ich wieloletnich obserwacji oraz badań prowadzonych przez portale
+katolickie wynika, że najczęściej powracają grzechy zaniedbania: brak modlitwy
+lub opuszczanie niedzielnej mszy św. bez konkretnej przyczyny. Bardzo często
+pojawiają się też przekleństwa i wulgaryzmy, kłótnie w rodzinie, obmowa,
+plotkowanie, brak szacunku wobec rodziców czy teściów.
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+Zmiany w Kościele. Kary również dla wiernych?
+
+W białostockiej parafii księża zwracają uwagę również na problemy związane ze
+stylem życia: nadużywanie alkoholu, nieuczciwość i lenistwo w pracy,
+uzależnienie od pieniędzy, a także korzystanie z pornografii i grzechy przeciwko
+czystości (zarówno małżeńskiej, jak i przedmałżeńskiej). Często wyznawane są
+też zaniedbania wobec dzieci, brak przebaczenia, życie w urazie oraz kłamstwo
+i manipulacja w relacjach.
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+Idziesz do spowiedzi po długiej przerwie? Powiedz jedno ważne zdanie
+Idziesz do spowiedzi po długiej przerwie? Powiedz jedno ważne zdanie
+
+Rozwój technologii wpływa na zachowanie
+
+Coraz częściej pojawiają się też grzechy "nowych czasów": hejt w internecie,
+agresja słowna w mediach społecznościowych czy oszukiwanie państwa (np.
+w podatkach). Duszpasterze zauważają jednocześnie, że rzadziej penitentów stać
+na nazwanie po imieniu grzechów wynikających z braku miłości bliźniego czy
+obojętności na krzywdę innych, choć są one poważne.
+
+Adwent to dobra okazja, by spojrzeć szerzej na swoje życie: nie tylko "odhaczyć"
+znane przyzwyczajenia i upadki, ale zadać sobie pytanie, gdzie naprawdę brakuje
+miłości – w domu, pracy, internecie, w stosunku do Boga i ludzi. Taki rachunek
+sumienia może sprawić, że świąteczna spowiedź stanie się realnym początkiem
+zmiany.
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+Jak długo można przyjmować komunię po spowiedzi? Nie każdy wie
+Jak długo można przyjmować komunię po spowiedzi? Nie każdy wie
+
+Zapraszamy na grupę na Facebooku - #Samodbałość. To tu będziemy informować na
+bieżąco o wywiadach, nowych historiach. Dołączcie do nas i zaproście wszystkie
+znajome. Czekamy na was!
+
+Masz newsa, zdjęcie lub filmik? Prześlij nam przez dziejesie.wp.pl.
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+Klub Świadomej Konsumentki
+Klub Świadomej Konsumentki © WP Kobieta
+[ ]
+adwent spowiedź rachunek sumienia
+(BUTTON) 159
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+Wybrane dla Ciebie
+Rozsyp zamiast soli. Lód nie będzie miał żadnych szans
+Rozsyp zamiast soli. Lód nie będzie miał żadnych szans
+Zostawił żonę dla Rosjanki. Rozwód słono go kosztował
+Zostawił żonę dla Rosjanki. Rozwód słono go kosztował
+Fajkowska była gwiazdą TVP. Tak wygląda dziś
+Fajkowska była gwiazdą TVP. Tak wygląda dziś
+Kim jest żona Maduro? Daleko jej do "zwyczajnej" pierwszej damy
+Kim jest żona Maduro? Daleko jej do "zwyczajnej" pierwszej damy
+Zapomnij o frenchu. Teraz królują paznokcie jak u Julii Wieniawy
+Zapomnij o frenchu. Teraz królują paznokcie jak u Julii Wieniawy
+Krajewski nie przyznaje się do córki. Sąd postawił sprawę jasno
+Krajewski nie przyznaje się do córki. Sąd postawił sprawę jasno
+Była gwiazdą sylwestra Telewizji Republika. Mało kto wie, kim jest
+Była gwiazdą sylwestra Telewizji Republika. Mało kto wie, kim jest
+Zapytali ją o ciążę. Mama pięcioraczków z Horyńca powiedziała wprost
+Zapytali ją o ciążę. Mama pięcioraczków z Horyńca powiedziała wprost
+Rozstał się z Wrońską. Tak zareagował na pytanie o nową partnerkę
+Rozstał się z Wrońską. Tak zareagował na pytanie o nową partnerkę
+Social fatigue dotyczy wielu. "Nie nadążamy za tym tempem"
+Social fatigue dotyczy wielu. "Nie nadążamy za tym tempem"
+Krupa wskoczyła w cekinową mini. Aż trudno oderwać wzrok
+Krupa wskoczyła w cekinową mini. Aż trudno oderwać wzrok
+Uznańscy-Wiśniewscy spodziewają się dziecka. Wiadomo, jak się poznali
+Uznańscy-Wiśniewscy spodziewają się dziecka. Wiadomo, jak się poznali
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+
+[ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
+dMgM9ejc]
+  ___________________________________________________________________________
+
+[ ]
+Uroda
+  * Francuskie perfumy
+  * Kreatynowe prostowanie włosów
+  * Blond ombre
+  * Olejek arganowy
+  * Blond włosy
+  * Paznokcie ombre
+  * Jak nakładać samooplacz
+  * Odciski na stopach
+
+Moda
+  * Kozaki za kolano
+  * Fryzury ślubne
+  * Letnie sukienki
+  * Do czego pasują sandały
+  * Jak nosić legginsy
+  * Stylizacje do pracy
+  * Sukienki wizytowe
+  * Stylizacje boho
+
+Porady
+  * Odżywka do rzęs
+  * Cieniowane włosy
+  * Balejaż
+  * Czerwone szpilki
+  * Brązowe włosy
+  * Wyciskanie wągrów
+  * Kolczyk w nosie
+  * Tatuaż na przedramieniu
+
+Artykuły
+  * Fryzury na wesele
+  * Paznokcie tytanowe
+  * Osobowość borderline
+  * Warkocz dobierany
+  * Upięcia ślubne
+  * Ostracyzm
+  * Grzyby jadalne
+  * Sukienki
+
+Polecane
+  * Przepisy na grilla
+  * REKLAMA
+Extradom
+
+Nasze serwisy
+  * Wiadomości
+  * Sport
+  * Biznes
+  * Technologie
+  * Finanse
+  * Autokult.pl
+  * Zdrowie
+  * Praca
+  * Pogoda
+
+Inne nasze serwisy
+  * Dom WP
+  * Kuchnia WP
+  * Horoskop
+  * Turystyka WP
+  * Gadżetomania
+  * Fotoblogia
+  * Gry online
+  * Centrala gier
+  * O2.pl
+
+Pogoda
+  * Pogoda w miastach
+  * Pogoda Warszawa
+  * Pogoda Wrocław
+  * Pogoda Zakopane
+  * Pogoda Kraków
+  * Pogoda Szczecin
+  * Pogoda Poznań
+
+Praca
+  * Praca
+  * Oferty pracy
+  * Praca Warszawa
+  * Praca Kraków
+  * Praca Poznań
+  * Praca Wrocław
+  * Praca Łódź
+  * Praca Szczecin
+  * Praca Gdynia
+  * Praca Bydgoszcz
+  * Praca Radom
+  * Praca Katowice
+  * Praca za granicą
+  * Listy ofert pracy
+  * Szukane oferty pracy
+  * Popularne oferty pracy
+
+MNIEJ TEMATÓW WIĘCEJ TEMATÓW
+
+© WP Kobieta
+  * · Regulamin
+  * · Reklama
+  * · O nas
+  * · Zgłoś temat
+  * · Polityka prywatności
+  * (BUTTON) · Ustawienia prywatności
+
+Pobieranie, zwielokrotnianie, przechowywanie lub jakiekolwiek inne
+wykorzystywanie treści dostępnych w niniejszym serwisie - bez względu na ich
+charakter i sposób wyrażenia (w szczególności lecz nie wyłącznie: słowne,
+słowno-muzyczne, muzyczne, audiowizualne, audialne, tekstowe, graficzne i
+zawarte w nich dane i informacje, bazy danych i zawarte w nich dane) oraz formę
+(np. literackie, publicystyczne, naukowe, kartograficzne, programy komputerowe,
+plastyczne, fotograficzne) wymaga uprzedniej i jednoznacznej zgody Wirtualna
+Polska Media Spółka Akcyjna z siedzibą w Warszawie, będącej właścicielem
+niniejszego serwisu, bez względu na sposób ich eksploracji i wykorzystaną
+metodę (manualną lub zautomatyzowaną technikę, w tym z użyciem programów uczenia
+maszynowego lub sztucznej inteligencji). Powyższe zastrzeżenie nie dotyczy
+wykorzystywania jedynie w celu ułatwienia ich wyszukiwania przez wyszukiwarki
+internetowe oraz korzystania w ramach stosunków umownych lub dozwolonego użytku
+określonego przez właściwe przepisy prawa.
+Szczegółowa treść dotycząca niniejszego zastrzeżenia znajduje się tutaj.
+
+ZANIM WYJDZIESZ... NIE PRZEGAP TEGO, CO CZYTAJĄ INNI! 👇 (BUTTON)

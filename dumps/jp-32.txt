@@ -1,0 +1,324 @@
+HTTP/2 103 link: /cdn.shopify.com>; rel=preconnect, /cdn.shopify.com>;
+crossorigin; rel=preconnect, ; as=style; rel=preload HTTP/2 200 date: Sat, 03
+Jan 2026 16:42:08 GMT content-type: text/html; charset=utf-8 cf-ray:
+9b83f29add0e494a-CDG x-sorting-hat-podid: 54 x-sorting-hat-shopid: 7599095863
+x-storefront-renderer-rendered: 1 set-cookie: localization=JP; path=/;
+expires=Sun, 03 Jan 2027 16:42:08 GMT; SameSite=Lax set-cookie:
+cart_currency=JPY; path=/; expires=Sat, 17 Jan 2026 16:42:08 GMT; SameSite=Lax
+set-cookie: _shopify_y=f10669b8-7731-48ad-9f44-e96c22f662c2; domain=kurand.jp;
+path=/; expires=Sun, 03 Jan 2027 22:42:08 GMT; SameSite=Lax set-cookie:
+_shopify_s=259d1c91-cdde-45e0-afbd-166c649e6e5d; domain=kurand.jp; path=/;
+expires=Sat, 03 Jan 2026 17:12:08 GMT; SameSite=Lax set-cookie:
+_shopify_essential=:AZuEvNzrAAEAbuWpl_-4ta3XzO7YJ2fAAl6WRWaVlk7_ksxb7y0_Tf6QMloR
+j2YxZKC6FDU_mll2MERVDNywktELqBVfddqILPb7lnoEHnL0o4ZkZvZEA2yIkr7PFqPrgr3kUG_71gTG
+R-nbOGaGjTdMfDwAeqyNzIBoFQCqqmRWMYyZKt2yD648y1vx2hSurSA22TVU_qsbCZArBAUjocfu2j0v
+_vu3wOLPECKrgPrM-varT5iz5mFu7I2m-NhRJ2_cxEyCF6eYg4FcMMyAjxgV482CSjG0BNC9hBA0RaoR
+1YYZfzTITGxOb1p1wCQmSUFjkJlkRwAhSg:; Max-Age=31536000; Path=/; HttpOnly; Secure;
+Priority=High; SameSite=Lax set-cookie:
+_shopify_analytics=:AZuEvN58AAEAHkPMvg02uYb_-4CLBUZ_rHmM7ocQmmLD845gosy6Ah53TBzs
+D-Vs66T8OLmO9yvq7O0rhuPjyqbqjov5:; Max-Age=31536000; Path=/; HttpOnly; Secure;
+Priority=High; SameSite=Lax link: /cdn.shopify.com>; rel="preconnect",
+/cdn.shopify.com>; rel="preconnect"; crossorigin, ; as="style"; rel="preload"
+speculation-rules:
+"/cdn/shopifycloud/storefront/assets/storefront/storefronts.specrules-dd5621a1.j
+son" etag:
+W/"page_cache:7599095863:PageDetailsController:28012f00f12ac144bfad447555cf21b8"
+shopify-complexity-score: 4110 x-frame-options: DENY content-security-policy:
+block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+access-control-allow-origin: * strict-transport-security: max-age=7889238
+x-shopid: 7599095863 x-shardid: 54 vary: Accept vary: accept-encoding alt-svc:
+h3=":443"; ma=86400 content-language: ja-JP powered-by: Shopify server-timing:
+processing;dur=415;desc="gc:47", db;dur=104, db_async;dur=13.691, parse;dur=4,
+render;dur=190, asn;desc="5410", edge;desc="CDG", country;desc="FR",
+theme;desc="121898074167", pageType;desc="page", servedBy;desc="dvbj",
+requestID;desc="daad022f-c88f-4227-97c7-4d1e3339c112-1767458528",
+_y;desc="f10669b8-7731-48ad-9f44-e96c22f662c2",
+_s;desc="259d1c91-cdde-45e0-afbd-166c649e6e5d",
+_cmp;desc="3.AMPS_FRIDF_f_f_7r-F7f*lRe-tQThjVHSJHg" x-dc:
+gcp-europe-west1,gcp-europe-west1,gcp-europe-west1 x-request-id:
+daad022f-c88f-4227-97c7-4d1e3339c112-1767458528 cf-cache-status: DYNAMIC
+report-to:
+{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=0ZsABUqOkgG0A
+1OWBk%2Fek4FmP22Sn7jSC6dRS4V9rYJR3Q5A3VILKYnHhGe%2Fiu55423j8%2BL6B0ASoH7lfV21h10
+sr58DwVep%2BFjH2h5HG2wky9yqLngv6ENnFs4M6uKUklmEPFDnjg%3D%3D"}],"group":"cf-nel",
+"max_age":604800} nel:
+{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+x-xss-protection: 1; mode=block x-content-type-options: nosniff
+x-permitted-cross-domain-policies: none x-download-options: noopen server:
+cloudflare server-timing: cfRequestDuration;dur=453.999996 server-timing: ipv6,
+earlyhints
+
+IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MS5M5S
+
+| 申し込む | STORY 購入方法 造り手 製品詳細
+×
+STORY 購入方法 造り手 製品詳細
+[taizai_amao_bg_pc.jpg?v=1720062870&amp;width=2000]
+[taizai_amao_catch_pc.jpg?v=1720164304&amp;width=2000]
+数量限定抽選販売
+
+大罪 -あまおう-
+
+¥5,900 (税込) / 500ml
+申し込み期間は終了しました
+申し込み期間：12月13日（金）17時 〜 12月27日（金）13時
+応募の時点では料金は発生しません。
+※広告ブロック機能をご利用の場合、
+応募フォームが表示されない場合がございます。
+
+アイスクリームと最高峰いちご
+禁断の味わいに貴方は抗えますか？
+
+「アイスにかける果実酒」
+それは決して口にしてはならない、禁忌のお酒。
+なぜなら、その味わいは罪深すぎるから。
+アイスクリームへひと垂らし。
+真夜中の大人たちに捧ぐ
+「禁断のデザート」体験。
+いちごの王様「あまおう」が魅せる
+「アイスクリーム専用酒の完成形」が、
+貴方自身も知らなかった
+心の奥に潜む本能を刺激する……。
+「大罪 -あまおう-」、
+抗えない欲望に身を委ねて
+今までにない背徳感をご堪能あれ。
+
+STORY
+
+大罪 -あまおう- 大罪 -あまおう-
+
+罪深さを極めた
+アイス専用果実酒「大罪」
+
+「どろり」としたテクスチャー、濃厚な果実味、噛み応えのある果肉感。「アイスクリームにかけるため」の罪深さを極限まで考え抜いて生まれたのが、アイスクリーム専用
+の極上果実酒「大罪」。原料にはブランドいちごとして名高い「あまおう」を使用。お酒でないと味わえない「究極のいちごの魅力」を引き出しました。贅沢で濃密な時間の
+お供に、特別な1本を。
+大罪 -あまおう- 大罪 -あまおう-
+
+アイスにかけてはじまる、
+史上最高に背徳的な時間
+
+器に丁寧に盛り付けたアイスに、「大罪」をどろりとかけて。脳の髄までとろけさせるほどのなめらかさ。果肉をそのまま噛みしめているかのような「プチ、プチ」という食
+感。甘さも酸味もすべてを極限まで濃厚にした味わい。そのすべてがアイスとの組み合わせを考えて生まれたもの。究極の「真夜中のデザート体験」を貴方へお届けします。
+大罪 -あまおう- 大罪 -あまおう-
+
+いちごの王様「あまおう」
+果実本来の魅力をそのままに
+
+福岡県生まれのブランドいちご「あまおう」。その有名すぎるいちごは、艶やかな真っ赤な色味と「いちごの王様」という異名にもふさわしい大粒感が特徴です。福岡県産あ
+まおうを「お酒」として最高の形に仕上げるべく、果実酒を得意とする酒蔵「北岡本店」が挑戦。テクスチャー、果肉の大きさ、味わいまで、「お酒だからこそ味わいたい最
+高の果実の形」を完成させました。
+
+購入方法
+
+本商品は数量限定商品につき抽選販売となっております。
+本ページよりお申し込みいただき、当選されたお客様には、12月27日以降順次ご購入のご案内をお送りいたします。
+申し込み期間は終了しました
+申し込み期間：12月13日（金）17時 〜 12月27日（金）13時
+応募の時点では料金は発生しません。
+※広告ブロック機能をご利用の場合、
+応募フォームが表示されない場合がございます。
+
+造り手
+
+[taizai_amao_maker.jpg?v=1720079503&amp;width=2000]
+
+奈良県南部、「ひと目千本」と詠まれた桜の名所「吉野」に蔵を構える「北岡本店」。「日本古来の酒造り技術を伝承し、おいしい酒を通じて、心温まる人間関係の成立に寄
+与する」をめざすものとして、酒造りに取り組んでいます。日本酒をはじめ、リキュール、焼酎まで、幅広い商品展開にチャレンジし続けている酒蔵です。
+数量限定抽選販売
+大罪 -あまおう-
+¥5,900（税込）
+大罪 -あまおう-
+数量限定抽選販売
+大罪 -あまおう-
+¥5,900（税込）
+商品タイプ
+果実酒
+製造元
+北岡本店
+アルコール分
+7%
+容量
+500ml
+原材料
+いちご（国産）、醸造アルコール、砂糖 ／酸味料、増粘剤（CMC、キサンタンガム）、着色料（リコピン、赤色2号）、甘味料（スクラロース）
+購入方法
+
+本商品は数量限定商品につき抽選販売となっております。本ページよりお申し込みいただき、当選されたお客様には、12月27日以降順次ご購入のご案内をお送りいたしま
+す。
+商品発送について
+
+「大罪 -あまおう-」は2025年2月上旬以降、順次発送となります。他の商品も同時にご注文いただけますが、「大罪
+-あまおう-」と一緒にまとめての発送となります。
+申し込み期間は終了しました
+申し込み期間：12月13日（金）17時 〜 12月27日（金）13時
+応募の時点では料金は発生しません。
+※広告ブロック機能をご利用の場合、
+応募フォームが表示されない場合がございます。
+ご利用ガイド お問い合わせ
+クランドとは 会社概要 採用情報 特定商取引法に基づく表記 プライバシーポリシー
+
+商品が追加されました (BUTTON) Close modal
+合計（税込）
+商品合計
+基本送料
+¥990
+クール便手数料
+¥330
+
+※送料と消費税は会計時に計算されます
+※地方別送料がかかる場合があります。
+
+本商品 ご購入のあなたへ
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+気分で選べる酒ガチャ
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+ミニサイズのお酒
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON)
+非売品 SOLD
+OUT COMING
+SOON
+
+(BUTTON) 買い物を続ける カートを見る
+
+THE CRAFT DRINK クランド
+
+このサイトはお酒の情報を含んでいます。
+
+お客さまは20歳以上ですか？
+(BUTTON) はい サイトを閲覧する
+いいえ 企業ページへ
+
+(BUTTON) Close modal
+
+[ ]
+今後このメッセージを表示しない (BUTTON) はい (BUTTON) いいえ
+
+(BUTTON) 閉じる
+Loading...
+
+(BUTTON)
+
+[ ] 上記の内容を確認しました
+(BUTTON) はい
+
+(BUTTON) 閉じる
+
+ログインして
+お気に入り機能を使う
+
+新規会員登録する(はじめての方はこちら)
+メールアドレス
+____________________
+パスワード
+____________________
+
+パスワードを忘れた方
+
+(BUTTON) ログイン

@@ -1,0 +1,1302 @@
+HTTP/2 200 
+x-powered-by: PHP/7.4.33
+set-cookie: PHPSESSID=28ec05ef9b79491737a572bda4ee0c34; path=/; secure
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+set-cookie: swpm_session=664e38c4a964c45acdd83539eca239c5; path=/; secure
+content-type: text/html; charset=UTF-8
+set-cookie: pvc_visits[0]=1767545102b10165; expires=Sun, 04-Jan-2026 16:45:02 GMT; Max-Age=86400; path=/; secure; SameSite=LAX
+link: <https://lemaximum.cd/wp-json/>; rel="https://api.w.org/"
+link: <https://lemaximum.cd/wp-json/wp/v2/posts/10165>; rel="alternate"; type="application/json"
+link: <https://lemaximum.cd/?p=10165>; rel=shortlink
+date: Sat, 03 Jan 2026 16:45:02 GMT
+server: LiteSpeed
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>PRESIDENTIELLE DE DECEMBRE 2018 : L’UDSP/T rattrapé par le péché originel &#8211; Le Maximum</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" id="rb-preload-gfonts" href="https://fonts.googleapis.com/css?family=Oxygen%3A400%2C700%7CEncode+Sans+Condensed%3A400%2C500%2C600%2C700%2C800%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CInter%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap" crossorigin><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oxygen%3A400%2C700%7CEncode+Sans+Condensed%3A400%2C500%2C600%2C700%2C800%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CInter%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap"></noscript><link rel="alternate" type="application/rss+xml" title="Le Maximum &raquo; Flux" href="https://lemaximum.cd/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Le Maximum &raquo; Flux des commentaires" href="https://lemaximum.cd/comments/feed/" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","legalName":"Le Maximum","url":"https://lemaximum.cd/"}</script>
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.20.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-KJWZ85TVMY"  data-cfasync="false" data-wpfc-render="false" async></script>
+			<script data-cfasync="false" data-wpfc-render="false">
+				var mi_version = '8.20.1';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+										'ga-disable-G-KJWZ85TVMY',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+										__gtagTracker('config', 'G-KJWZ85TVMY', {"forceSSL":"true","link_attribution":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lemaximum.cd\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.7"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<!-- lemaximum.cd is managing ads with Advanced Ads 1.47.2 --><script id="lemax-ready">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+		<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://lemaximum.cd/wp-includes/css/dist/block-library/style.min.css?ver=6.5.7' media='all' />
+<style id='esf-fb-halfwidth-style-inline-css'>
+/*!*************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/halfwidth/style.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-easy-social-feed-facebook-carousel {
+  background-color: #21759b;
+  color: #fff;
+  padding: 2px;
+}
+
+/*# sourceMappingURL=style-index.css.map*/
+</style>
+<style id='esf-fb-fullwidth-style-inline-css'>
+/*!*************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/fullwidth/style.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-easy-social-feed-facebook-carousel {
+  background-color: #21759b;
+  color: #fff;
+  padding: 2px;
+}
+
+/*# sourceMappingURL=style-index.css.map*/
+</style>
+<style id='esf-fb-thumbnail-style-inline-css'>
+/*!*************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/thumbnail/style.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-easy-social-feed-facebook-carousel {
+  background-color: #21759b;
+  color: #fff;
+  padding: 2px;
+}
+
+/*# sourceMappingURL=style-index.css.map*/
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='titan-adminbar-styles-css' href='https://lemaximum.cd/wp-content/plugins/anti-spam/assets/css/admin-bar.css?ver=7.3.5' media='all' />
+<link rel='stylesheet' id='easy-facebook-likebox-custom-fonts-css' href='https://lemaximum.cd/wp-content/plugins/easy-facebook-likebox/frontend/assets/css/esf-custom-fonts.css?ver=6.5.7' media='all' />
+<link rel='stylesheet' id='easy-facebook-likebox-popup-styles-css' href='https://lemaximum.cd/wp-content/plugins/easy-facebook-likebox/facebook/frontend/assets/css/esf-free-popup.css?ver=6.5.2' media='all' />
+<link rel='stylesheet' id='easy-facebook-likebox-frontend-css' href='https://lemaximum.cd/wp-content/plugins/easy-facebook-likebox/facebook/frontend/assets/css/easy-facebook-likebox-frontend.css?ver=6.5.2' media='all' />
+<link rel='stylesheet' id='easy-facebook-likebox-customizer-style-css' href='https://lemaximum.cd/wp-admin/admin-ajax.php?action=easy-facebook-likebox-customizer-style&#038;ver=6.5.2' media='all' />
+<link rel='stylesheet' id='foxiz-elements-css' href='https://lemaximum.cd/wp-content/plugins/foxiz-core/lib/foxiz-elements/public/style.css?ver=2.0' media='all' />
+<link rel='stylesheet' id='swpm.common-css' href='https://lemaximum.cd/wp-content/plugins/simple-membership/css/swpm.common.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='SFSImainCss-css' href='https://lemaximum.cd/wp-content/plugins/ultimate-social-media-icons/css/sfsi-style.css?ver=2.8.6' media='all' />
+<link rel='stylesheet' id='yatra-font-awesome-css' href='https://lemaximum.cd/wp-content/plugins/yatra/assets/lib/font-awesome/css/fontawesome.min.css?ver=6.2.0' media='all' />
+<link rel='stylesheet' id='lightbox-css' href='https://lemaximum.cd/wp-content/plugins/yatra/assets/lib/lightbox2/css/lightbox.css?ver=2.11.0' media='all' />
+<link rel='stylesheet' id='yatra-jquery-ui-css' href='https://lemaximum.cd/wp-content/plugins/yatra/assets/lib/jquery-ui/jquery-ui.css?ver=1.12.1' media='all' />
+<link rel='stylesheet' id='yatra-mini-cart-css' href='https://lemaximum.cd/wp-content/plugins/yatra/assets/css/yatra-mini-cart.css?ver=2.2' media='all' />
+<link rel='stylesheet' id='yatra-style-css' href='https://lemaximum.cd/wp-content/plugins/yatra/assets/css/yatra.css?ver=2.2' media='all' />
+<link rel='stylesheet' id='yatra-select2css-css' href='https://lemaximum.cd/wp-content/plugins/yatra/assets/lib/select2/css/select2.min.css?ver=2.2' media='all' />
+<link rel='stylesheet' id='esf-custom-fonts-css' href='https://lemaximum.cd/wp-content/plugins/easy-facebook-likebox/frontend/assets/css/esf-custom-fonts.css?ver=6.5.7' media='all' />
+<link rel='stylesheet' id='esf-insta-frontend-css' href='https://lemaximum.cd/wp-content/plugins/easy-facebook-likebox//instagram/frontend/assets/css/esf-insta-frontend.css?ver=6.5.7' media='all' />
+<link rel='stylesheet' id='esf-insta-customizer-style-css' href='https://lemaximum.cd/wp-admin/admin-ajax.php?action=esf-insta-customizer-style&#038;ver=6.5.7' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://lemaximum.cd/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.17.1' media='all' />
+<link rel='stylesheet' id='eael-general-css' href='https://lemaximum.cd/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.8.13' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://lemaximum.cd/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://lemaximum.cd/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6' media='all' />
+<link rel='stylesheet' id='elementor-post-17389-css' href='https://lemaximum.cd/wp-content/uploads/elementor/css/post-17389.css?ver=1718866684' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://lemaximum.cd/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.6.5' media='all' />
+<link rel='stylesheet' id='eael-19746-css' href='https://lemaximum.cd/wp-content/uploads/essential-addons-elementor/eael-19746.css?ver=1540281462' media='all' />
+<link rel='stylesheet' id='elementor-post-19746-css' href='https://lemaximum.cd/wp-content/uploads/elementor/css/post-19746.css?ver=1718866685' media='all' />
+
+<link rel='stylesheet' id='foxiz-main-css' href='https://lemaximum.cd/wp-content/themes/foxiz/assets/css/main.css?ver=2.1.4' media='all' />
+<link rel='stylesheet' id='foxiz-print-css' href='https://lemaximum.cd/wp-content/themes/foxiz/assets/css/print.css?ver=2.1.4' media='all' />
+<link rel='stylesheet' id='foxiz-style-css' href='https://lemaximum.cd/wp-content/themes/foxiz-child/style.css?ver=2.1.4' media='all' />
+<style id='foxiz-style-inline-css'>
+[data-theme="dark"].is-hd-4 {--nav-bg: #191c20;--nav-bg-from: #191c20;--nav-bg-to: #191c20;}[data-theme="dark"].is-hd-5, [data-theme="dark"].is-hd-5:not(.sticky-on) {--nav-bg: #191c20;--nav-bg-from: #191c20;--nav-bg-to: #191c20;}:root {--max-width-wo-sb : 860px;--hyperlink-line-color :var(--g-color);}.search-header:before { background-repeat : no-repeat;background-size : cover;background-attachment : scroll;background-position : center center;}[data-theme="dark"] .search-header:before { background-repeat : no-repeat;background-size : cover;background-attachment : scroll;background-position : center center;}.footer-has-bg { background-color : #88888812;}.entry-title.is-p-protected a:before {content: "EXCLUSIVE"; display: inline-block;}#amp-mobile-version-switcher { display: none; }
+</style>
+
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://lemaximum.cd/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://lemaximum.cd/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://lemaximum.cd/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://lemaximum.cd/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script src="https://lemaximum.cd/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://lemaximum.cd/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.20.1" id="monsterinsights-frontend-script-js"></script>
+<script data-cfasync="false" data-wpfc-render="false" id='monsterinsights-frontend-script-js-extra'>var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/lemaximum.cd","hash_tracking":"false","v4_id":"G-KJWZ85TVMY"};</script>
+<script src="https://lemaximum.cd/wp-content/plugins/easy-facebook-likebox/facebook/frontend/assets/js/esf-free-popup.min.js?ver=6.5.2" id="easy-facebook-likebox-popup-script-js"></script>
+<script id="easy-facebook-likebox-public-script-js-extra">
+var public_ajax = {"ajax_url":"https:\/\/lemaximum.cd\/wp-admin\/admin-ajax.php","efbl_is_fb_pro":""};
+</script>
+<script src="https://lemaximum.cd/wp-content/plugins/easy-facebook-likebox/facebook/frontend/assets/js/public.js?ver=6.5.2" id="easy-facebook-likebox-public-script-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/yatra/assets/lib/select2/js/select2.min.js?ver=2.2" id="yatra-select2js-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/yatra/assets/lib/lightbox2/js/lightbox.js?ver=2.11.0" id="lightbox-script-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/yatra/assets/lib/moment/js/moment.min.js?ver=2.2" id="yatra-moment-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/yatra/assets/lib/popperjs/popper.js?ver=2.2" id="yatra-popper-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/yatra/assets/lib/tippyjs/tippy.js?ver=2.2" id="yatra-tippy-js"></script>
+<script id="yatra-script-js-extra">
+var yatra_params = {"ajax_url":"https:\/\/lemaximum.cd\/wp-admin\/admin-ajax.php","booking_params":{"booking_action":"yatra_tour_add_to_cart","booking_nonce":"adc2f8447c"},"single_tour":{"enabled_dates":[],"all_available_date_data":[],"availability_action":"yatra_tour_frontend_availability","availability_nonce":"2dc16d7e0b","availability_month_action":"yatra_tour_frontend_availability_month","availability_month_nonce":"418740d2da"},"pagination":{"pagination_nonce":"b2f28d4752","pagination_action":"yatra_parts_pagination"},"currency_symbol":"$","decimals":"2","decimal_separator":".","thousand_separator":",","currency_position":"left","show_enquiry_form":"yes","filter_options":{"price_range_min":0,"price_range_max":0,"price_range_min_value":0,"price_range_max_value":0,"days_range_min":0,"days_range_max":0,"days_range_min_value":0,"days_range_max_value":0,"days":"Days","current_url":"https:\/\/lemaximum.cd\/tour\/?page&year=2018&monthnum=10&day=23&name=presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel&category_name=a-la-une"}};
+</script>
+<script src="https://lemaximum.cd/wp-content/plugins/yatra/assets/js/yatra.js?ver=2.2" id="yatra-script-js"></script>
+<script id="wp-statistics-tracker-js-extra">
+var WP_Statistics_Tracker_Object = {"hitRequestUrl":"https:\/\/lemaximum.cd\/wp-json\/wp-statistics\/v2\/hit?wp_statistics_hit_rest=yes&track_all=1&current_page_type=post&current_page_id=10165&search_query&page_uri=LzIwMTgvMTAvMjMvYS1sYS11bmUvcHJlc2lkZW50aWVsbGUtZGUtZGVjZW1icmUtMjAxOC1sdWRzcC10LXJhdHRyYXBlLXBhci1sZS1wZWNoZS1vcmlnaW5lbC8","keepOnlineRequestUrl":"https:\/\/lemaximum.cd\/wp-json\/wp-statistics\/v2\/online?wp_statistics_hit_rest=yes&track_all=1&current_page_type=post&current_page_id=10165&search_query&page_uri=LzIwMTgvMTAvMjMvYS1sYS11bmUvcHJlc2lkZW50aWVsbGUtZGUtZGVjZW1icmUtMjAxOC1sdWRzcC10LXJhdHRyYXBlLXBhci1sZS1wZWNoZS1vcmlnaW5lbC8","option":{"dntEnabled":false,"cacheCompatibility":""}};
+</script>
+<script src="https://lemaximum.cd/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=6.5.7" id="wp-statistics-tracker-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/easy-facebook-likebox/frontend/assets/js/imagesloaded.pkgd.min.js?ver=6.5.7" id="imagesloaded.pkgd.min-js"></script>
+<script id="esf-insta-public-js-extra">
+var esf_insta = {"ajax_url":"https:\/\/lemaximum.cd\/wp-admin\/admin-ajax.php","version":"free","nonce":"236093bfaa"};
+</script>
+<script src="https://lemaximum.cd/wp-content/plugins/easy-facebook-likebox//instagram/frontend/assets/js/esf-insta-public.js?ver=1" id="esf-insta-public-js"></script>
+<script src="https://lemaximum.cd/wp-content/themes/foxiz/assets/js/highlight-share.js?ver=1" id="highlight-share-js"></script>
+<link rel="preload" href="https://lemaximum.cd/wp-content/themes/foxiz/assets/fonts/icons.woff2" as="font" type="font/woff2" crossorigin="anonymous"> <link rel="https://api.w.org/" href="https://lemaximum.cd/wp-json/" /><link rel="alternate" type="application/json" href="https://lemaximum.cd/wp-json/wp/v2/posts/10165" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lemaximum.cd/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.7" />
+<link rel="canonical" href="https://lemaximum.cd/2018/10/23/a-la-une/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel/" />
+<link rel='shortlink' href='https://lemaximum.cd/?p=10165' />
+<link rel="alternate" type="application/json+oembed" href="https://lemaximum.cd/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://lemaximum.cd/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.111.1" /><!-- HubSpot WordPress Plugin v10.2.5: embed JS disabled as a portalId has not yet been configured -->                <!-- auto ad code generated with Simple Google Adsense plugin v1.0.11 -->
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <script>
+                (adsbygoogle = window.adsbygoogle || []).push({
+                     google_ad_client: "ca-pub-4874240003082331",
+                     enable_page_level_ads: true
+                });
+                </script>      
+                <!-- / Simple Google Adsense plugin --><meta name="follow.it-verification-code-cU53bWZ6TWlBbTd3eCs4WThFWWgvMk1YUXkzTXBrdkdFamZ1Slg3c1JnTE1FSjUxK2xES1Izdlg3aXhzNWF4WTUzRlJWaWR4cUFIME0zZ0JkanlaaVZDbHh0dkRoODhOQmxoQVp2RUcvSnRsaEtpMWx3SDBLZlBZaERYblJVMkh8ODJaeWRTcEI4aEprR0M2THlzSHRMdlAremxwQVo3bW1QeUpZYmlIOW5kZz0=" content="qLmFACPD6ZC4RjRu2F7X"/><meta property="og:image:secure_url" content="https://lemaximum.cd/wp-content/uploads/2018/10/UDPS-FATSHI-3.jpg" data-id="sfsi"><meta property="twitter:card" content="summary_large_image" data-id="sfsi"><meta property="twitter:image" content="https://lemaximum.cd/wp-content/uploads/2018/10/UDPS-FATSHI-3.jpg" data-id="sfsi"><meta property="og:image:type" content="" data-id="sfsi" /><meta property="og:image:width" content="720" data-id="sfsi" /><meta property="og:image:height" content="540" data-id="sfsi" /><meta property="og:url" content="https://lemaximum.cd/2018/10/23/a-la-une/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel/" data-id="sfsi" /><meta property="og:description" content="C’était invraisemblable il y a un an ou deux encore. Mais ça ne l’est plus, plus tout à fait. Une trentaine d’années de lutte politique passées à s’opposer systématiquement à tout, ça ne rapporte pas toujours. Le parti fondé par Etienne Tshisekedi wa Mulumba et un groupe de parlementaires au milieu des années ’80 semble devoir récolter les fruits d’un dur et long labeur. Voué à contester tout pouvoir établi, élu ou non, si son lider maximo n’en faisait pas partie. Dans l’imaginaire populaire, l’idée s’est ancrée : l’opposition, c’est la contestation. La cohabitation, même au terme de scrutins électoraux, c’est la trahison. Et en RD Congo, l’opposition, c’est l’UDPS/Tshisekedi, qui n’a pas durablement goûté aux délices du pouvoir depuis sa création.
+Une trentaine d’années de lutte après, les choses ne sont plus aussi claires qu’auparavant. Si le pouvoir est demeuré ce qu’il a toujours été, de l’autre côté du Rubicon, les travées de l’opposition sont devenues un véritable fourre-tout. Où végètent tous ceux que les aléas de la gouvernance politique ont éjecté des arènes du pouvoir, et qui sont accueillis à bras ouverts, indistinctement, dans le fragile espoir d’ébranler l’ennemi éternel. Au finish, nul ne sait qui est qui, à l’opposition, et qui prône quelle alternative politique réelle en dehors de l’irrépressible et naturel envie de prendre la place de ceux qui sont au pouvoir. Pour en faire le même usage. Sinon pire.
+Repères égarées
+A plus ou moins deux mois des compétitions électorales en RD Congo, les 3èmes depuis 2006, c’est la pagaille généralisée dans l’opposition politique. Facile d’en juger : le Franco-Congolais Francis Kalombo Nkole, député élu sur les listes du PPRD, le parti présidentiel, en novembre 2011, est devenu opposant. Depuis peu certes, parce que c’est seulement depuis la création du G7 d’un autre ancien du PPRD, l’Italo-Zambien Moïse Katumbi Chapwe, que le play-boy de Bandalungwa est étiqueté opposant. Les faits remontent à novembre 2015, il y a à peu près 3 ans, donc. Mais l’ascension du dernier gouverneur du Katanga et de ses hommes de main fut d’une fulgurance vertigineuse. Et renversante, au propre comme au figuré. Le 20 octobre 2018, l’ancien président de la jeunesse du PPRD s’en est pris vertement à l’UDPS/Tshisekedi, à qui il reproche de se disposer à aller aux urnes en décembre prochain. Plutôt que de boycotter les scrutins combinés législatives nationales et provinciales ainsi que la présidentielle, comme l’exige Moïse Katubmi. Sur son compte Twitter, Kalombo soutient que « un opposant qui accepte la machine à « voler » alors qu’il s’est engagé contre, signifie qu’il a un arrangement avec le FCC », la plateforme de Joseph Kabila, le président de la République sortant.
+Non seulement c’est un acteur politique qui, il y a seulement 3 ans comptait encore parmi les cadres du parti présidentiel les plus en vue à Kinshasa qui donne des leçons à un parti politique considéré comme « la fille aînée de l’opposition » ; mais en plus, Kalombo assène à l’UDPS le coup de massue classique qui a fait tant des ravages au sein de l’opposition politique et même parmi les meilleurs cadres du parti tshisekediste, accusés à tour de rôle de collaboration avec le pouvoir. C’est l’histoire du fameux « bal des chauves » tapis dans l’opposition au terme de laquelle les traitres se trahissent toujours, lorsque les cheveux finissent par leur pousser sur le crâne.
+Monopole de la dénonciation des taupes
+Jusqu’à il y a peu, le monopole de la dénonciation des traîtres à la cause opposante était détenu par l’UDPS/T. Ce n’est plus le cas. Depuis le décès du vieil opposant en février 2017, épuisé par les derniers barouds politiques en vue du partage du pouvoir au nom de … l’alternance au pouvoir. A la tête du parti le plus radical du pays advient son fils biologique, Félix-Antoine Tshilombo Tshisekedi, ternissant ainsi particulièrement l’image de donneuse de leçon de démocratie incarnée par la désormais ex « fille aînée de l’opposition ». L’accession à la présidence de l’UDPS fut jugée biologique par beaucoup, et sonna le glas de l’unité du parti déjà affaibli par une cascade d’auto-éjections de « taupes », victimes du bal des chauves. Et pour tout couronner, comme son défunt géniteur, Félix Tshilombo Tshisekedi se considère comme l’unique primaturable ou présidentiable en RD Congo. Suffisant pour écorner, dans l’imaginaire populaire, la qualité d’opposant radical éternellement radicalisé.
+Pour avoir caché une vérité simple à ses nombreux combattants – que la contestation systématique n’a rien de démocratique-, l’UDPS/T en paie les frais. Le parti a décidé de rompre avec les usages surannés qui ne lui auront rien rapporté sur le long terme, en se lançant résolument dans la course à la conquête du pouvoir par les élections. Peter Kazadi, le directeur de cabinet adjoint de Félix Tshilombo, lui-même candidat député à Kinshasa, a récemment dit tout haut ce que tout le monde pense tout bas dans l’entourage de Fatshi. Par réseaux sociaux interposés. Sur Twitter, il a osé poster que « la machine à voter est un piège et prétexte pour ne pas aller aux élections. Il est que la vérité soit dite au Peuple : Voulons-nous aller aux élections le 23 décembre ou pas ? », rejoignant ainsi le point de vue défendu par l’administration électorale et … le FCC, la plateforme kabiliste. Sacrilège ! Le parti essuie depuis une semaine des tirs croisés de toutes parts … au sein de l’opposition. Les katumbistes, qui prônent une nouvelle « transition sans Joseph Kabila », particulièrement, en veulent à mort au parti de la 10ème rue Limete/Résidentiel à Kinshasa. Qu’ils accusent de tous les péchés d’Israël, y compris le péché originel : qui consiste à demeurer éternellement contestataire et opposant radical.
+J.N.
+
+ 
+" data-id="sfsi" /><meta property="og:title" content="PRESIDENTIELLE DE DECEMBRE 2018 : L’UDSP/T rattrapé par le péché originel" data-id="sfsi" /><!-- Analytics by WP Statistics v14.2 - https://wp-statistics.com/ -->
+
+<!-- Extrait Google AdSense ajouté par Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- Arrêter l&#039;extrait Google AdSense ajouté par Site Kit -->
+<meta name="generator" content="Elementor 3.17.1; features: e_dom_optimization, e_optimized_assets_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://lemaximum.cd/#website","url":"https://lemaximum.cd/","name":"Le Maximum","potentialAction":{"@type":"SearchAction","target":"https://lemaximum.cd/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+			<meta property="og:title" content="PRESIDENTIELLE DE DECEMBRE 2018 : L’UDSP/T rattrapé par le péché originel"/>
+			<meta property="og:url" content="https://lemaximum.cd/2018/10/23/a-la-une/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel/"/>
+			<meta property="og:site_name" content="Le Maximum"/>
+							<meta property="og:image" content="https://lemaximum.cd/wp-content/uploads/2018/10/UDPS-FATSHI-3.jpg"/>
+							<meta property="og:type" content="article"/>
+				<meta property="article:published_time" content="2018-10-23T07:57:42+01:00"/>
+				<meta property="article:modified_time" content="2018-10-23T07:57:42+01:00"/>
+				<meta name="author" content="LE MAXIMUM"/>
+				<meta name="twitter:card" content="summary_large_image"/>
+				<meta name="twitter:creator" content="@Le Maximum"/>
+				<meta name="twitter:label1" content="Written by"/>
+				<meta name="twitter:data1" content="LE MAXIMUM"/>
+								<meta name="twitter:label2" content="Est. reading time"/>
+				<meta name="twitter:data2" content="7 minutes"/>
+			<script type="application/ld+json">{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":4,"item":{"@id":"https://lemaximum.cd/2018/10/23/a-la-une/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel/","name":"PRESIDENTIELLE DE DECEMBRE 2018 : L\u2019UDSP/T rattrap\u00e9 par le p\u00e9ch\u00e9 originel"}},{"@type":"ListItem","position":3,"item":{"@id":"https://lemaximum.cd/rubrique/a-la-une/","name":"A la une"}},{"@type":"ListItem","position":2,"item":{"@id":"https://lemaximum.cd/blog/","name":"Blog"}},{"@type":"ListItem","position":1,"item":{"@id":"https://lemaximum.cd","name":"Le Maximum"}}]}</script>
+<link rel="icon" href="https://lemaximum.cd/wp-content/uploads/2019/05/cropped-LE-MAXIMUM-LOGO-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://lemaximum.cd/wp-content/uploads/2019/05/cropped-LE-MAXIMUM-LOGO-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://lemaximum.cd/wp-content/uploads/2019/05/cropped-LE-MAXIMUM-LOGO-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://lemaximum.cd/wp-content/uploads/2019/05/cropped-LE-MAXIMUM-LOGO-1-270x270.png" />
+</head>
+<body class="post-template-default single single-post postid-10165 single-format-standard wp-embed-responsive sfsi_actvite_theme_default personalized-all elementor-default elementor-kit-17389 aa-prefix-lemax- menu-ani-1 hover-ani-1 btn-ani-1 is-rm-1 is-hd-5 is-standard-1 is-backtop none-m-backtop is-mstick is-smart-sticky" data-theme="default">
+<div class="site-outer">
+	        <div id="site-header" class="header-wrap rb-section header-5 header-fw style-border">
+					<div class="reading-indicator"><span id="reading-progress"></span></div>
+		            <div class="logo-sec">
+                <div class="logo-sec-inner rb-container edge-padding">
+                    <div class="logo-sec-left">
+								<div class="wnav-holder widget-h-login header-dropdown-outer">
+							<a href="https://lemaximum.cd/wp-login.php?redirect_to=https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel" class="login-toggle is-login header-element" data-title="S\\\'identifier" aria-label="sign in"><svg class="svg-icon svg-user" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 456.368 456.368"><path fill="currentColor" d="M324.194,220.526c-6.172,7.772-13.106,14.947-21.07,21.423c45.459,26.076,76.149,75.1,76.149,131.158 c0,30.29-66.367,54.018-151.09,54.018s-151.09-23.728-151.09-54.018c0-56.058,30.69-105.082,76.149-131.158 c-7.963-6.476-14.897-13.65-21.07-21.423c-50.624,31.969-84.322,88.41-84.322,152.581c0,19.439,10.644,46.53,61.355,65.201 c31.632,11.647,73.886,18.06,118.979,18.06c45.093,0,87.347-6.413,118.979-18.06c50.71-18.671,61.355-45.762,61.355-65.201 C408.516,308.936,374.818,252.495,324.194,220.526z" /><path fill="currentColor" d="M228.182,239.795c56.833,0,100.597-54.936,100.597-119.897C328.779,54.907,284.993,0,228.182,0 c-56.833,0-100.597,54.936-100.597,119.897C127.585,184.888,171.372,239.795,228.182,239.795z M228.182,29.243 c39.344,0,71.354,40.667,71.354,90.654s-32.01,90.654-71.354,90.654s-71.354-40.667-71.354-90.654S188.838,29.243,228.182,29.243 z" /></svg></a>
+					</div>
+				<div class="header-social-list wnav-holder"><a class="social-link-facebook" aria-label="Facebook" data-title="Facebook" href="#" target="_blank" rel="noopener"><i class="rbi rbi-facebook" aria-hidden="true"></i></a><a class="social-link-twitter" aria-label="Twitter" data-title="Twitter" href="#" target="_blank" rel="noopener"><i class="rbi rbi-twitter" aria-hidden="true"></i></a><a class="social-link-youtube" aria-label="YouTube" data-title="YouTube" href="#" target="_blank" rel="noopener"><i class="rbi rbi-youtube" aria-hidden="true"></i></a></div>
+		                    </div>
+                    <div class="logo-sec-center">	<div class="logo-wrap is-text-logo site-branding">
+					<p class="logo-title h1">
+				<a href="https://lemaximum.cd/" title="Le Maximum">Le Maximum</a>
+			</p>
+					<p class="site-description is-hidden">Informations générales</p>
+				</div></div>
+                    <div class="logo-sec-right">
+                        <div class="navbar-right">
+									<div class="wnav-holder header-dropdown-outer">
+			<a href="#" class="dropdown-trigger notification-icon notification-trigger" aria-label="notification">
+                <span class="notification-icon-inner" data-title="Notification">
+                    <span class="notification-icon-holder">
+                    	                    <i class="rbi rbi-notification wnav-icon" aria-hidden="true"></i>
+                                        <span class="notification-info"></span>
+                    </span>
+                </span> </a>
+			<div class="header-dropdown notification-dropdown">
+				<div class="notification-popup">
+					<div class="notification-header">
+						<span class="h4">Notification</span>
+													<a class="notification-url meta-text" href="#">Voir plus d\\\'articles								<i class="rbi rbi-cright" aria-hidden="true"></i></a>
+											</div>
+					<div class="notification-content">
+						<div class="scroll-holder">
+							<div class="rb-notification ecat-l-dot is-feat-right" data-interval="12"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			<div class="wnav-holder w-header-search header-dropdown-outer">
+			<a href="#" data-title="chercher" class="icon-holder header-element search-btn search-trigger" aria-label="search">
+				<i class="rbi rbi-search wnav-icon" aria-hidden="true"></i>							</a>
+							<div class="header-dropdown">
+					<div class="header-search-form is-icon-layout">
+								<form method="get" action="https://lemaximum.cd/" class="rb-search-form"  data-search="post" data-limit="0" data-follow="0">
+			<div class="search-form-inner">
+									<span class="search-icon"><i class="rbi rbi-search" aria-hidden="true"></i></span>
+								<span class="search-text"><input type="text" class="field" placeholder="Rechercher des titres, des nouvelles..." value="" name="s"/></span>
+				<span class="rb-search-submit"><input type="submit" value="chercher"/><i class="rbi rbi-cright" aria-hidden="true"></i></span>
+							</div>
+					</form>
+						</div>
+				</div>
+					</div>
+				<div class="wnav-holder font-resizer">
+			<a href="#" class="font-resizer-trigger" data-title="Font Resizer"><span class="screen-reader-text">Font Resizer</span><strong>Aa</strong></a>
+		</div>
+				<div class="dark-mode-toggle-wrap">
+			<div class="dark-mode-toggle">
+                <span class="dark-mode-slide">
+                    <i class="dark-mode-slide-btn mode-icon-dark" data-title="Passer à la lumière"><svg class="svg-icon svg-mode-dark" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M507.681,209.011c-1.297-6.991-7.324-12.111-14.433-12.262c-7.104-0.122-13.347,4.711-14.936,11.643 c-15.26,66.497-73.643,112.94-141.978,112.94c-80.321,0-145.667-65.346-145.667-145.666c0-68.335,46.443-126.718,112.942-141.976 c6.93-1.59,11.791-7.826,11.643-14.934c-0.149-7.108-5.269-13.136-12.259-14.434C287.546,1.454,271.735,0,256,0 C187.62,0,123.333,26.629,74.98,74.981C26.628,123.333,0,187.62,0,256s26.628,132.667,74.98,181.019 C123.333,485.371,187.62,512,256,512s132.667-26.629,181.02-74.981C485.372,388.667,512,324.38,512,256 C512,240.278,510.546,224.469,507.681,209.011z" /></svg></i>
+                    <i class="dark-mode-slide-btn mode-icon-default" data-title="Basculer vers sombre"><svg class="svg-icon svg-mode-light" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232.447 232.447"><path fill="currentColor" d="M116.211,194.8c-4.143,0-7.5,3.357-7.5,7.5v22.643c0,4.143,3.357,7.5,7.5,7.5s7.5-3.357,7.5-7.5V202.3 C123.711,198.157,120.354,194.8,116.211,194.8z" /><path fill="currentColor" d="M116.211,37.645c4.143,0,7.5-3.357,7.5-7.5V7.505c0-4.143-3.357-7.5-7.5-7.5s-7.5,3.357-7.5,7.5v22.641 C108.711,34.288,112.068,37.645,116.211,37.645z" /><path fill="currentColor" d="M50.054,171.78l-16.016,16.008c-2.93,2.929-2.931,7.677-0.003,10.606c1.465,1.466,3.385,2.198,5.305,2.198 c1.919,0,3.838-0.731,5.302-2.195l16.016-16.008c2.93-2.929,2.931-7.677,0.003-10.606C57.731,168.852,52.982,168.851,50.054,171.78 z" /><path fill="currentColor" d="M177.083,62.852c1.919,0,3.838-0.731,5.302-2.195L198.4,44.649c2.93-2.929,2.931-7.677,0.003-10.606 c-2.93-2.932-7.679-2.931-10.607-0.003l-16.016,16.008c-2.93,2.929-2.931,7.677-0.003,10.607 C173.243,62.12,175.163,62.852,177.083,62.852z" /><path fill="currentColor" d="M37.645,116.224c0-4.143-3.357-7.5-7.5-7.5H7.5c-4.143,0-7.5,3.357-7.5,7.5s3.357,7.5,7.5,7.5h22.645 C34.287,123.724,37.645,120.366,37.645,116.224z" /><path fill="currentColor" d="M224.947,108.724h-22.652c-4.143,0-7.5,3.357-7.5,7.5s3.357,7.5,7.5,7.5h22.652c4.143,0,7.5-3.357,7.5-7.5 S229.09,108.724,224.947,108.724z" /><path fill="currentColor" d="M50.052,60.655c1.465,1.465,3.384,2.197,5.304,2.197c1.919,0,3.839-0.732,5.303-2.196c2.93-2.929,2.93-7.678,0.001-10.606 L44.652,34.042c-2.93-2.93-7.679-2.929-10.606-0.001c-2.93,2.929-2.93,7.678-0.001,10.606L50.052,60.655z" /><path fill="currentColor" d="M182.395,171.782c-2.93-2.929-7.679-2.93-10.606-0.001c-2.93,2.929-2.93,7.678-0.001,10.607l16.007,16.008 c1.465,1.465,3.384,2.197,5.304,2.197c1.919,0,3.839-0.732,5.303-2.196c2.93-2.929,2.93-7.678,0.001-10.607L182.395,171.782z" /><path fill="currentColor" d="M116.22,48.7c-37.232,0-67.523,30.291-67.523,67.523s30.291,67.523,67.523,67.523s67.522-30.291,67.522-67.523 S153.452,48.7,116.22,48.7z M116.22,168.747c-28.962,0-52.523-23.561-52.523-52.523S87.258,63.7,116.22,63.7 c28.961,0,52.522,23.562,52.522,52.523S145.181,168.747,116.22,168.747z" /></svg></i>
+                </span>
+			</div>
+		</div>
+		                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="navbar-outer" class="navbar-outer">
+                <div id="sticky-holder" class="sticky-holder">
+                    <div class="navbar-wrap">
+                        <div class="rb-container edge-padding">
+                            <div class="navbar-inner">
+                                <div class="navbar-center">
+											<nav id="site-navigation" class="main-menu-wrap" aria-label="main menu"><ul id="menu-principal" class="main-menu rb-menu large-menu" itemscope itemtype="https://www.schema.org/SiteNavigationElement"><li id="menu-item-76" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-76"><a href="https://lemaximum.cd/rubrique/politique/"><span>POLITIQUE</span></a></li>
+<li id="menu-item-74" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74"><a href="https://lemaximum.cd/rubrique/economie/"><span>ECONOMIE</span></a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-77"><a href="https://lemaximum.cd/rubrique/societe/"><span>SOCIÉTÉ</span></a></li>
+<li id="menu-item-78" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78"><a href="https://lemaximum.cd/rubrique/sport/"><span>SPORT</span></a></li>
+<li id="menu-item-75" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75"><a href="https://lemaximum.cd/rubrique/monde/"><span>MONDE</span></a></li>
+<li id="menu-item-20163" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20163"><a href="https://lemaximum.cd/rubrique/provinces/"><span>PROVINCES</span></a></li>
+<li id="menu-item-23365" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23365"><a href="https://lemaximum.cd/rubrique/courrier-des-lecteurs/"><span>COURRIER DES LECTEURS</span></a></li>
+</ul></nav>
+		                                </div>
+                            </div>
+                        </div>
+                    </div>
+							<div id="header-mobile" class="header-mobile">
+			<div class="header-mobile-wrap">
+						<div class="mbnav edge-padding">
+			<div class="navbar-left">
+						<div class="mobile-toggle-wrap">
+							<a href="#" class="mobile-menu-trigger" aria-label="mobile trigger">		<span class="burger-icon"><span></span><span></span><span></span></span>
+	</a>
+					</div>
+		<div class="logo-wrap is-text-logo site-branding">
+					<p class="logo-title h1">
+				<a href="https://lemaximum.cd/" title="Le Maximum">Le Maximum</a>
+			</p>
+					<p class="site-description is-hidden">Informations générales</p>
+				</div>			</div>
+			<div class="navbar-right">
+						<a href="#" class="mobile-menu-trigger mobile-search-icon" aria-label="search"><i class="rbi rbi-search" aria-hidden="true"></i></a>
+			<div class="wnav-holder font-resizer">
+			<a href="#" class="font-resizer-trigger" data-title="Font Resizer"><span class="screen-reader-text">Font Resizer</span><strong>Aa</strong></a>
+		</div>
+				<div class="dark-mode-toggle-wrap">
+			<div class="dark-mode-toggle">
+                <span class="dark-mode-slide">
+                    <i class="dark-mode-slide-btn mode-icon-dark" data-title="Passer à la lumière"><svg class="svg-icon svg-mode-dark" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M507.681,209.011c-1.297-6.991-7.324-12.111-14.433-12.262c-7.104-0.122-13.347,4.711-14.936,11.643 c-15.26,66.497-73.643,112.94-141.978,112.94c-80.321,0-145.667-65.346-145.667-145.666c0-68.335,46.443-126.718,112.942-141.976 c6.93-1.59,11.791-7.826,11.643-14.934c-0.149-7.108-5.269-13.136-12.259-14.434C287.546,1.454,271.735,0,256,0 C187.62,0,123.333,26.629,74.98,74.981C26.628,123.333,0,187.62,0,256s26.628,132.667,74.98,181.019 C123.333,485.371,187.62,512,256,512s132.667-26.629,181.02-74.981C485.372,388.667,512,324.38,512,256 C512,240.278,510.546,224.469,507.681,209.011z" /></svg></i>
+                    <i class="dark-mode-slide-btn mode-icon-default" data-title="Basculer vers sombre"><svg class="svg-icon svg-mode-light" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232.447 232.447"><path fill="currentColor" d="M116.211,194.8c-4.143,0-7.5,3.357-7.5,7.5v22.643c0,4.143,3.357,7.5,7.5,7.5s7.5-3.357,7.5-7.5V202.3 C123.711,198.157,120.354,194.8,116.211,194.8z" /><path fill="currentColor" d="M116.211,37.645c4.143,0,7.5-3.357,7.5-7.5V7.505c0-4.143-3.357-7.5-7.5-7.5s-7.5,3.357-7.5,7.5v22.641 C108.711,34.288,112.068,37.645,116.211,37.645z" /><path fill="currentColor" d="M50.054,171.78l-16.016,16.008c-2.93,2.929-2.931,7.677-0.003,10.606c1.465,1.466,3.385,2.198,5.305,2.198 c1.919,0,3.838-0.731,5.302-2.195l16.016-16.008c2.93-2.929,2.931-7.677,0.003-10.606C57.731,168.852,52.982,168.851,50.054,171.78 z" /><path fill="currentColor" d="M177.083,62.852c1.919,0,3.838-0.731,5.302-2.195L198.4,44.649c2.93-2.929,2.931-7.677,0.003-10.606 c-2.93-2.932-7.679-2.931-10.607-0.003l-16.016,16.008c-2.93,2.929-2.931,7.677-0.003,10.607 C173.243,62.12,175.163,62.852,177.083,62.852z" /><path fill="currentColor" d="M37.645,116.224c0-4.143-3.357-7.5-7.5-7.5H7.5c-4.143,0-7.5,3.357-7.5,7.5s3.357,7.5,7.5,7.5h22.645 C34.287,123.724,37.645,120.366,37.645,116.224z" /><path fill="currentColor" d="M224.947,108.724h-22.652c-4.143,0-7.5,3.357-7.5,7.5s3.357,7.5,7.5,7.5h22.652c4.143,0,7.5-3.357,7.5-7.5 S229.09,108.724,224.947,108.724z" /><path fill="currentColor" d="M50.052,60.655c1.465,1.465,3.384,2.197,5.304,2.197c1.919,0,3.839-0.732,5.303-2.196c2.93-2.929,2.93-7.678,0.001-10.606 L44.652,34.042c-2.93-2.93-7.679-2.929-10.606-0.001c-2.93,2.929-2.93,7.678-0.001,10.606L50.052,60.655z" /><path fill="currentColor" d="M182.395,171.782c-2.93-2.929-7.679-2.93-10.606-0.001c-2.93,2.929-2.93,7.678-0.001,10.607l16.007,16.008 c1.465,1.465,3.384,2.197,5.304,2.197c1.919,0,3.839-0.732,5.303-2.196c2.93-2.929,2.93-7.678,0.001-10.607L182.395,171.782z" /><path fill="currentColor" d="M116.22,48.7c-37.232,0-67.523,30.291-67.523,67.523s30.291,67.523,67.523,67.523s67.522-30.291,67.522-67.523 S153.452,48.7,116.22,48.7z M116.22,168.747c-28.962,0-52.523-23.561-52.523-52.523S87.258,63.7,116.22,63.7 c28.961,0,52.522,23.562,52.522,52.523S145.181,168.747,116.22,168.747z" /></svg></i>
+                </span>
+			</div>
+		</div>
+					</div>
+		</div>
+				</div>
+					<div class="mobile-collapse">
+			<div class="collapse-holder">
+				<div class="collapse-inner">
+											<div class="mobile-search-form edge-padding">		<div class="header-search-form is-form-layout">
+							<span class="h5">Search</span>
+					<form method="get" action="https://lemaximum.cd/" class="rb-search-form"  data-search="post" data-limit="0" data-follow="0">
+			<div class="search-form-inner">
+									<span class="search-icon"><i class="rbi rbi-search" aria-hidden="true"></i></span>
+								<span class="search-text"><input type="text" class="field" placeholder="Rechercher des titres, des nouvelles..." value="" name="s"/></span>
+				<span class="rb-search-submit"><input type="submit" value="chercher"/><i class="rbi rbi-cright" aria-hidden="true"></i></span>
+							</div>
+					</form>
+			</div>
+		</div>
+										<nav class="mobile-menu-wrap edge-padding">
+						<ul id="mobile-menu" class="mobile-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-76"><a href="https://lemaximum.cd/rubrique/politique/"><span>POLITIQUE</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74"><a href="https://lemaximum.cd/rubrique/economie/"><span>ECONOMIE</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-77"><a href="https://lemaximum.cd/rubrique/societe/"><span>SOCIÉTÉ</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78"><a href="https://lemaximum.cd/rubrique/sport/"><span>SPORT</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75"><a href="https://lemaximum.cd/rubrique/monde/"><span>MONDE</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20163"><a href="https://lemaximum.cd/rubrique/provinces/"><span>PROVINCES</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23365"><a href="https://lemaximum.cd/rubrique/courrier-des-lecteurs/"><span>COURRIER DES LECTEURS</span></a></li>
+</ul>					</nav>
+										<div class="collapse-sections edge-padding">
+													<div class="mobile-socials">
+								<span class="mobile-social-title h6">Suivez nous</span>
+								<a class="social-link-facebook" aria-label="Facebook" data-title="Facebook" href="#" target="_blank" rel="noopener"><i class="rbi rbi-facebook" aria-hidden="true"></i></a><a class="social-link-twitter" aria-label="Twitter" data-title="Twitter" href="#" target="_blank" rel="noopener"><i class="rbi rbi-twitter" aria-hidden="true"></i></a><a class="social-link-youtube" aria-label="YouTube" data-title="YouTube" href="#" target="_blank" rel="noopener"><i class="rbi rbi-youtube" aria-hidden="true"></i></a>							</div>
+											</div>
+									</div>
+			</div>
+		</div>
+			</div>
+	                </div>
+            </div>
+			        </div>
+		    <div class="site-wrap">        <div class="single-standard-1 is-sidebar-right sticky-sidebar optimal-line-length">
+            <div class="rb-container edge-padding">
+				<article id="post-10165" class="post-10165 post type-post status-publish format-standard has-post-thumbnail category-a-la-une category-politique tag-elections-2018 tag-felix-tshilombo-tshisekedi tag-francis-kalombo tag-g7 tag-moise-katumbi tag-peter-kazadi tag-udps-t" itemscope itemtype="https://schema.org/Article">                <header class="single-header">
+								<aside class="breadcrumb-wrap breadcrumb-navxt s-breadcrumb">
+				<div class="breadcrumb-inner" vocab="https://schema.org/" typeof="BreadcrumbList"><!-- Breadcrumb NavXT 7.2.0 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Le Maximum." href="https://lemaximum.cd" class="home" ><span property="name">Le Maximum</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Blog." href="https://lemaximum.cd/blog/" class="post-root post post-post" ><span property="name">Blog</span></a><meta property="position" content="2"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to the A la une Catégorie archives." href="https://lemaximum.cd/rubrique/a-la-une/" class="taxonomy category" ><span property="name">A la une</span></a><meta property="position" content="3"></span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name" class="post post-post current-item">PRESIDENTIELLE DE DECEMBRE 2018 : L’UDSP/T rattrapé par le péché originel</span><meta property="url" content="https://lemaximum.cd/2018/10/23/a-la-une/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel/"><meta property="position" content="4"></span></div>
+			</aside>
+				<div class="s-cats ecat-bg-1 ecat-size-big">
+			<div class="p-categories"><a class="p-category category-id-3" href="https://lemaximum.cd/rubrique/a-la-une/" rel="category">A la une</a><a class="p-category category-id-14" href="https://lemaximum.cd/rubrique/politique/" rel="category">Politique</a></div>		</div>
+	<h1 class="s-title fw-headline" itemprop="headline">PRESIDENTIELLE DE DECEMBRE 2018 : L’UDSP/T rattrapé par le péché originel</h1>		<div class="single-meta meta-s- yes-">
+							<div class="smeta-in">
+							<a class="meta-el meta-avatar" href="https://lemaximum.cd/author/maxmax/"><img alt='LE MAXIMUM' src='https://secure.gravatar.com/avatar/bf2aab065be99cc55df7d40a78db2aa9?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/bf2aab065be99cc55df7d40a78db2aa9?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' decoding='async'/></a>
+							<div class="smeta-sec">
+												<div class="p-meta">
+							<div class="meta-inner is-meta"><span class="meta-el meta-author">
+				<a href="https://lemaximum.cd/author/maxmax/">LE MAXIMUM</a>
+				</span>
+		</div>
+						</div>
+					</div>
+				</div>
+						<div class="smeta-extra">		<div class="t-shared-sec tooltips-n has-read-meta is-color">
+			<div class="t-shared-header is-meta">
+				<i class="rbi rbi-share" aria-hidden="true"></i><span class="share-label">Partagez</span>
+			</div>
+			<div class="effect-fadeout">            <a class="share-action share-trigger icon-facebook" aria-label="Share on Facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel%2F" data-title="Facebook" rel="nofollow"><i class="rbi rbi-facebook" aria-hidden="true"></i></a>
+		        <a class="share-action share-trigger icon-twitter" aria-label="Share on Twitter" href="https://twitter.com/intent/tweet?text=PRESIDENTIELLE+DE+DECEMBRE+2018+%3A+L%E2%80%99UDSP%2FT+rattrap%C3%A9+par+le+p%C3%A9ch%C3%A9+originel&amp;url=https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel%2F&amp;via=Le+Maximum" data-title="Twitter" rel="nofollow">
+            <i class="rbi rbi-twitter" aria-hidden="true"></i></a>            <a class="share-action icon-whatsapp is-web" aria-label="Share on Whatsapp" href="https://web.whatsapp.com/send?text=PRESIDENTIELLE+DE+DECEMBRE+2018+%3A+L%E2%80%99UDSP%2FT+rattrap%C3%A9+par+le+p%C3%A9ch%C3%A9+originel &#9758; https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel%2F" target="_blank" data-title="WhatsApp" rel="nofollow"><i class="rbi rbi-whatsapp" aria-hidden="true"></i></a>
+            <a class="share-action icon-whatsapp is-mobile" aria-label="Share on Whatsapp" href="whatsapp://send?text=PRESIDENTIELLE+DE+DECEMBRE+2018+%3A+L%E2%80%99UDSP%2FT+rattrap%C3%A9+par+le+p%C3%A9ch%C3%A9+originel &#9758; https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel%2F" target="_blank" data-title="WhatsApp" rel="nofollow"><i class="rbi rbi-whatsapp" aria-hidden="true"></i></a>
+		            <a class="share-action share-trigger icon-linkedin" aria-label="Share on Linkedin" href="https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel%2F&amp;title=PRESIDENTIELLE+DE+DECEMBRE+2018+%3A+L%E2%80%99UDSP%2FT+rattrap%C3%A9+par+le+p%C3%A9ch%C3%A9+originel" data-title="linkedIn" rel="nofollow"><i class="rbi rbi-linkedin" aria-hidden="true"></i></a>
+		            <a class="share-action share-trigger icon-telegram" aria-label="Share on Telegram" href="https://t.me/share/?url=https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel%2F&amp;text=PRESIDENTIELLE+DE+DECEMBRE+2018+%3A+L%E2%80%99UDSP%2FT+rattrap%C3%A9+par+le+p%C3%A9ch%C3%A9+originel" data-title="Telegram" rel="nofollow"><i class="rbi rbi-telegram" aria-hidden="true"></i></a>
+		            <a class="share-action icon-email" aria-label="Email" href="mailto:?subject=PRESIDENTIELLE%20DE%20DECEMBRE%202018%20:%20L’UDSP/T%20rattrapé%20par%20le%20péché%20originel%20BODY=I%20found%20this%20article%20interesting%20and%20thought%20of%20sharing%20it%20with%20you.%20Check%20it%20out:%20https://lemaximum.cd/2018/10/23/a-la-une/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel/" data-title="Email" rel="nofollow">
+                <i class="rbi rbi-email" aria-hidden="true"></i></a>
+		            <a class="share-action icon-copy copy-trigger" aria-label="Copy Link" href="#" data-copied="Copied!" data-link="https://lemaximum.cd/2018/10/23/a-la-une/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel/" rel="nofollow" data-copy="Copy Link"><i class="rbi rbi-link-o" aria-hidden="true"></i></a>
+		            <a class="share-action icon-print" aria-label="Print" rel="nofollow" href="javascript:if(window.print)window.print()" data-title="Print"><i class="rbi rbi-print" aria-hidden="true"></i></a>
+					<a class="share-action native-share-trigger more-icon" aria-label="More"  href="#" data-link="https://lemaximum.cd/2018/10/23/a-la-une/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel/" data-ptitle="PRESIDENTIELLE DE DECEMBRE 2018 : L’UDSP/T rattrapé par le péché originel" data-title="Plus"  rel="nofollow"><i class="rbi rbi-more" aria-hidden="true"></i></a>
+		</div>
+		</div>
+							<div class="single-right-meta single-time-read is-meta">
+								<span class="meta-el meta-read">7 lecture minimale</span>
+							</div>
+				</div>
+		</div>
+		                </header>
+                <div class="grid-container">
+                    <div class="s-ct">
+                        <div class="s-feat-outer">
+									<div class="s-feat">			<div class="featured-lightbox-trigger" data-source="https://lemaximum.cd/wp-content/uploads/2018/10/UDPS-FATSHI-3.jpg" data-caption="Le staff de l&#039;UDPS/T" data-attribution="">
+				<img width="720" height="540" src="https://lemaximum.cd/wp-content/uploads/2018/10/UDPS-FATSHI-3.jpg" class="attachment-foxiz_crop_o1 size-foxiz_crop_o1 wp-post-image" alt="" loading="lazy" decoding="async" />			</div>
+		</div>
+		<div class="feat-caption meta-text"><span class="caption-text meta-bold">Le staff de l'UDPS/T</span></div>                        </div>
+								<div class="s-ct-wrap has-lsl">
+			<div class="s-ct-inner">
+						<div class="l-shared-sec-outer show-mobile">
+			<div class="l-shared-sec">
+				<div class="l-shared-header meta-text">
+					<i class="rbi rbi-share" aria-hidden="true"></i><span class="share-label">Partagez</span>
+				</div>
+				<div class="l-shared-items effect-fadeout is-color">
+					            <a class="share-action share-trigger icon-facebook" aria-label="Share on Facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel%2F" data-title="Facebook" data-gravity=w rel="nofollow"><i class="rbi rbi-facebook" aria-hidden="true"></i></a>
+		        <a class="share-action share-trigger icon-twitter" aria-label="Share on Twitter" href="https://twitter.com/intent/tweet?text=PRESIDENTIELLE+DE+DECEMBRE+2018+%3A+L%E2%80%99UDSP%2FT+rattrap%C3%A9+par+le+p%C3%A9ch%C3%A9+originel&amp;url=https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel%2F&amp;via=Le+Maximum" data-title="Twitter" data-gravity=w rel="nofollow">
+            <i class="rbi rbi-twitter" aria-hidden="true"></i></a>            <a class="share-action icon-copy copy-trigger" aria-label="Copy Link" href="#" data-copied="Copied!" data-link="https://lemaximum.cd/2018/10/23/a-la-une/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel/" rel="nofollow" data-copy="Copy Link" data-gravity=w><i class="rbi rbi-link-o" aria-hidden="true"></i></a>
+		            <a class="share-action icon-print" aria-label="Print" rel="nofollow" href="javascript:if(window.print)window.print()" data-title="Print" data-gravity=w><i class="rbi rbi-print" aria-hidden="true"></i></a>
+					<a class="share-action native-share-trigger more-icon" aria-label="More"  href="#" data-link="https://lemaximum.cd/2018/10/23/a-la-une/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel/" data-ptitle="PRESIDENTIELLE DE DECEMBRE 2018 : L’UDSP/T rattrapé par le péché originel" data-title="Plus"  data-gravity=w rel="nofollow"><i class="rbi rbi-more" aria-hidden="true"></i></a>
+						</div>
+			</div>
+		</div>
+						<div class="e-ct-outer">
+					<div class="entry-content rbct clearfix is-highlight-shares" itemprop="articleBody"><p>C’était invraisemblable il y a un an ou deux encore. Mais ça ne l’est plus, plus tout à fait. Une trentaine d’années de lutte politique passées à s’opposer systématiquement à tout, ça ne rapporte pas toujours. Le parti fondé par Etienne Tshisekedi wa Mulumba et un groupe de parlementaires au milieu des années ’80 semble devoir récolter les fruits d’un dur et long labeur. Voué à contester tout pouvoir établi, élu ou non, si son lider maximo n’en faisait pas partie. Dans l’imaginaire populaire, l’idée s’est ancrée : l’opposition, c’est la contestation. La cohabitation, même au terme de scrutins électoraux, c’est la trahison. Et en RD Congo, l’opposition, c’est l’UDPS/Tshisekedi, qui n’a pas durablement goûté aux délices du pouvoir depuis sa création.<br />
+Une trentaine d’années de lutte après, les choses ne sont plus aussi claires qu’auparavant. Si le pouvoir est demeuré ce qu’il a toujours été, de l’autre côté du Rubicon, les travées de l’opposition sont devenues un véritable fourre-tout. Où végètent tous ceux que les aléas de la gouvernance politique ont éjecté des arènes du pouvoir, et qui sont accueillis à bras ouverts, indistinctement, dans le fragile espoir d’ébranler l’ennemi éternel. Au finish, nul ne sait qui est qui, à l’opposition, et qui prône quelle alternative politique réelle en dehors de l’irrépressible et naturel envie de prendre la place de ceux qui sont au pouvoir. Pour en faire le même usage. Sinon pire.<br />
+<strong>Repères égarées</strong><br />
+A plus ou moins deux mois des compétitions électorales en RD Congo, les 3èmes depuis 2006, c’est la pagaille généralisée dans l’opposition politique. Facile d’en juger : le Franco-Congolais Francis Kalombo Nkole, député élu sur les listes du PPRD, le parti présidentiel, en novembre 2011, est devenu opposant. Depuis peu certes, parce que c’est seulement depuis la création du G7 d’un autre ancien du PPRD, l’Italo-Zambien Moïse Katumbi Chapwe, que le play-boy de Bandalungwa est étiqueté opposant. Les faits remontent à novembre 2015, il y a à peu près 3 ans, donc. Mais l’ascension du dernier gouverneur du Katanga et de ses hommes de main fut d’une fulgurance vertigineuse. Et renversante, au propre comme au figuré. Le 20 octobre 2018, l’ancien président de la jeunesse du PPRD s’en est pris vertement à l’UDPS/Tshisekedi, à qui il reproche de se disposer à aller aux urnes en décembre prochain. Plutôt que de boycotter les scrutins combinés législatives nationales et provinciales ainsi que la présidentielle, comme l’exige Moïse Katubmi. Sur son compte Twitter, Kalombo soutient que « un opposant qui accepte la machine à « voler » alors qu’il s’est engagé contre, signifie qu’il a un arrangement avec le FCC », la plateforme de Joseph Kabila, le président de la République sortant.<br />
+Non seulement c’est un acteur politique qui, il y a seulement 3 ans comptait encore parmi les cadres du parti présidentiel les plus en vue à Kinshasa qui donne des leçons à un parti politique considéré comme « la fille aînée de l’opposition » ; mais en plus, Kalombo assène à l’UDPS le coup de massue classique qui a fait tant des ravages au sein de l’opposition politique et même parmi les meilleurs cadres du parti tshisekediste, accusés à tour de rôle de collaboration avec le pouvoir. C’est l’histoire du fameux « bal des chauves » tapis dans l’opposition au terme de laquelle les traitres se trahissent toujours, lorsque les cheveux finissent par leur pousser sur le crâne.<br />
+<strong>Monopole de la dénonciation des taupes</strong><br />
+Jusqu’à il y a peu, le monopole de la dénonciation des traîtres à la cause opposante était détenu par l’UDPS/T. Ce n’est plus le cas. Depuis le décès du vieil opposant en février 2017, épuisé par les derniers barouds politiques en vue du partage du pouvoir au nom de … l’alternance au pouvoir. A la tête du parti le plus radical du pays advient son fils biologique, Félix-Antoine Tshilombo Tshisekedi, ternissant ainsi particulièrement l’image de donneuse de leçon de démocratie incarnée par la désormais ex « fille aînée de l’opposition ». L’accession à la présidence de l’UDPS fut jugée biologique par beaucoup, et sonna le glas de l’unité du parti déjà affaibli par une cascade d’auto-éjections de « taupes », victimes du bal des chauves. Et pour tout couronner, comme son défunt géniteur, Félix Tshilombo Tshisekedi se considère comme l’unique primaturable ou présidentiable en RD Congo. Suffisant pour écorner, dans l’imaginaire populaire, la qualité d’opposant radical éternellement radicalisé.<br />
+Pour avoir caché une vérité simple à ses nombreux combattants – que la contestation systématique n’a rien de démocratique-, l’UDPS/T en paie les frais. Le parti a décidé de rompre avec les usages surannés qui ne lui auront rien rapporté sur le long terme, en se lançant résolument dans la course à la conquête du pouvoir par les élections. Peter Kazadi, le directeur de cabinet adjoint de Félix Tshilombo, lui-même candidat député à Kinshasa, a récemment dit tout haut ce que tout le monde pense tout bas dans l’entourage de Fatshi. Par réseaux sociaux interposés. Sur Twitter, il a osé poster que « la machine à voter est un piège et prétexte pour ne pas aller aux élections. Il est que la vérité soit dite au Peuple : Voulons-nous aller aux élections le 23 décembre ou pas ? », rejoignant ainsi le point de vue défendu par l’administration électorale et … le FCC, la plateforme kabiliste. Sacrilège ! Le parti essuie depuis une semaine des tirs croisés de toutes parts … au sein de l’opposition. Les katumbistes, qui prônent une nouvelle « transition sans Joseph Kabila », particulièrement, en veulent à mort au parti de la 10ème rue Limete/Résidentiel à Kinshasa. Qu’ils accusent de tous les péchés d’Israël, y compris le péché originel : qui consiste à demeurer éternellement contestataire et opposant radical.<br />
+<strong>J.N.</strong></p>
+</div>			<div class="entry-bottom">
+				<div id="custom_html-3" class="widget_text widget entry-widget clearfix widget_custom_html"><div class="block-h widget-heading heading-layout-1"><div class="heading-inner"><h4 class="heading-title"><span>A propos</span></h4></div></div><div class="textwidget custom-html-widget"><div class="_4bl9">
+<div class="_3-8w">Journal d'informations générales paraissant à Kinshasa, en République Démocratique du Congo</div>
+	<div>Contact: +243 97 20 71 204</div>
+<div>Email: administration@lemaximum.cd</div>
+</div>
+
+&nbsp;</div></div>			</div>
+		<div class="efoot">		<div class="efoot-bar tag-bar">
+			<span class="blabel is-meta"><i class="rbi rbi-tag" aria-hidden="true"></i>MARQUÉ :</span>
+			<span class="tags-list h5"><a href="https://lemaximum.cd/tag/elections-2018/" rel="tag">ELECTIONS 2018</a>, <a href="https://lemaximum.cd/tag/felix-tshilombo-tshisekedi/" rel="tag">Félix Tshilombo Tshisekedi</a>, <a href="https://lemaximum.cd/tag/francis-kalombo/" rel="tag">FRANCIS KALOMBO</a>, <a href="https://lemaximum.cd/tag/g7/" rel="tag">G7</a>, <a href="https://lemaximum.cd/tag/moise-katumbi/" rel="tag">Moïse Katumbi</a>, <a href="https://lemaximum.cd/tag/peter-kazadi/" rel="tag">PETER KAZADI</a>, <a href="https://lemaximum.cd/tag/udps-t/" rel="tag">UDPS/T</a></span>
+		</div>
+		</div>			<div class="article-meta is-hidden">
+				<meta itemprop="mainEntityOfPage" content="https://lemaximum.cd/2018/10/23/a-la-une/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel/">
+				<span class="vcard author">
+                    	                    <span class="fn" itemprop="author" itemscope content="LE MAXIMUM" itemtype="https://schema.org/Person">
+                                <meta itemprop="url" content="http://lemaximum.cd">
+                                <span itemprop="name">LE MAXIMUM</span>
+                            </span>
+                                    </span>
+				<time class="updated" datetime="2018-10-23T07:57:42+01:00" content="2018-10-23T07:57:42+01:00" itemprop="dateModified">23 octobre 2018</time>
+				<time class="published" datetime="2018-10-23T07:57:42+01:00" content="2018-10-23T07:57:42+01:00" itemprop="datePublished">23 octobre 2018</time>
+									<span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+				<meta itemprop="url" content="https://lemaximum.cd/wp-content/uploads/2018/10/UDPS-FATSHI-3.jpg">
+				<meta itemprop="width" content="720">
+				<meta itemprop="height" content="540">
+				</span>
+												<span itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+				<meta itemprop="name" content="Le Maximum">
+				<meta itemprop="url" content="https://lemaximum.cd/">
+								</span>
+			</div>
+							</div>
+			</div>
+					<div class="e-shared-sec entry-sec">
+			<div class="e-shared-header h4">
+				<i class="rbi rbi-share" aria-hidden="true"></i><span>Partagez cet article</span>
+			</div>
+			<div class="rbbsl tooltips-n effect-fadeout is-bg">
+				            <a class="share-action share-trigger icon-facebook" aria-label="Share on Facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel%2F" data-title="Facebook" rel="nofollow"><i class="rbi rbi-facebook" aria-hidden="true"></i><span>Facebook</span></a>
+		        <a class="share-action share-trigger icon-twitter" aria-label="Share on Twitter" href="https://twitter.com/intent/tweet?text=PRESIDENTIELLE+DE+DECEMBRE+2018+%3A+L%E2%80%99UDSP%2FT+rattrap%C3%A9+par+le+p%C3%A9ch%C3%A9+originel&amp;url=https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel%2F&amp;via=Le+Maximum" data-title="Twitter" rel="nofollow">
+            <i class="rbi rbi-twitter" aria-hidden="true"></i><span>Twitter</span></a>            <a class="share-action icon-copy copy-trigger" aria-label="Copy Link" href="#" data-copied="Copied!" data-link="https://lemaximum.cd/2018/10/23/a-la-une/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel/" rel="nofollow" data-copy="Copy Link"><i class="rbi rbi-link-o" aria-hidden="true"></i><span>Copy Link</span></a>
+		            <a class="share-action icon-print" aria-label="Print" rel="nofollow" href="javascript:if(window.print)window.print()" data-title="Print"><i class="rbi rbi-print" aria-hidden="true"></i><span>Print</span></a>
+					<a class="share-action native-share-trigger more-icon" aria-label="More"  href="#" data-link="https://lemaximum.cd/2018/10/23/a-la-une/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel/" data-ptitle="PRESIDENTIELLE DE DECEMBRE 2018 : L’UDSP/T rattrapé par le péché originel" data-title="Plus"  rel="nofollow"><i class="rbi rbi-more" aria-hidden="true"></i></a>
+					</div>
+		</div>
+				</div>
+	                    </div>
+								<div class="sidebar-wrap single-sidebar">
+				<div class="sidebar-inner clearfix">
+					<div id="easy_facebook_page_plugin-2" class="widget rb-section w-sidebar clearfix widget_easy_facebook_page_plugin"><div class="block-h widget-heading heading-layout-1"><div class="heading-inner"><h4 class="heading-title"><span>Nous suivre</span></h4></div></div><div id="fb-root"></div>
+					<script>(function(d, s, id) {
+					  var js, fjs = d.getElementsByTagName(s)[0];
+					  if (d.getElementById(id)) return;
+					  js = d.createElement(s); js.id = id;
+					  js.async=true; 
+					  js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1&appId=395202813876688";
+					  fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));</script> <div class="efbl-like-box 1">
+							<div class="fb-page" data-animclass="fadeIn" data-href="https://www.facebook.com/100083726925893" data-hide-cover=false data-width="350"   data-height="" data-show-facepile=true  data-show-posts=false data-adapt-container-width=false data-hide-cta=false data-small-header="false">
+							</div> 
+							
+						</div>
+					</div><div id="custom_html-5" class="widget_text widget rb-section w-sidebar clearfix widget_custom_html"><div class="textwidget custom-html-widget"><script>
+    (function(w,d,o,g,r,a,m){
+        var cid=(Math.random()*1e17).toString(36);d.write('<div id="'+cid+'"></div>');
+        w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+        function e(b,w,r){if((w[r+'h']=b.pop())&&!w.ABN){
+            var a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+            a.src='//cdn.'+w[r+'h']+'/libs/e.js';a.onerror=function(){e(g,w,r)};
+            p.parentNode.insertBefore(a,p)}}e(g,w,r);
+        w[r](cid,{id:1735552325,domain:w[r+'h']});
+    })(window,document,'script',['ftd.agency'],'ABNS');
+</script></div></div><div id="text-5" class="widget rb-section w-sidebar clearfix widget_text">			<div class="textwidget">		<div class="related-sec related-5">
+			<div class="inner">
+				<div class="block-h heading-layout-1"><div class="heading-inner"><h3 class="heading-title none-toc"><span>La rédaction vous conseille</span></h3></div></div>				<div class="block-inner">
+							<div class="p-wrap p-list-inline" data-pid="28726">
+	<h4 class="entry-title none-toc"><i class="rbi rbi-plus"></i>		<a class="p-url" href="https://lemaximum.cd/2025/12/31/politique/manipulation-calotine-de-laccord-rdc-usa-sur-les-minerais-strategiques/" rel="bookmark">Manipulation calotine de l’accord RDC–USA sur les minerais stratégiques</a></h4>		</div>
+			<div class="p-wrap p-list-inline" data-pid="28718">
+	<h4 class="entry-title none-toc"><i class="rbi rbi-plus"></i>		<a class="p-url" href="https://lemaximum.cd/2025/12/19/politique/rwandas-violation-of-the-washington-agreement-trump-pounds-the-table/" rel="bookmark">RWANDA’S VIOLATION OF THE WASHINGTON AGREEMENT : Trump Pounds the Table</a></h4>		</div>
+			<div class="p-wrap p-list-inline" data-pid="28713">
+	<h4 class="entry-title none-toc"><i class="rbi rbi-plus"></i>		<a class="p-url" href="https://lemaximum.cd/2025/12/18/politique/victims-of-kagames-inhumanity-the-horrific-exile-of-congolese-civilians/" rel="bookmark">VICTIMS OF KAGAME’S INHUMANITY : The Horrific exile of Congolese civilians</a></h4>		</div>
+			<div class="p-wrap p-list-inline" data-pid="28690">
+	<h4 class="entry-title none-toc"><i class="rbi rbi-plus"></i>		<a class="p-url" href="https://lemaximum.cd/2025/12/18/a-la-une/mise-en-scene-dune-manif-pro-rwandaise-uvira-bisimwa-en-mode-defiance/" rel="bookmark">MISE EN SCENE D’UNE MANIF PRO-RWANDAISE : Uvira : Bisimwa en mode défiance</a></h4>		</div>
+			<div class="p-wrap p-list-inline" data-pid="28687">
+	<h4 class="entry-title none-toc"><i class="rbi rbi-plus"></i>		<a class="p-url" href="https://lemaximum.cd/2025/12/18/a-la-une/victimes-de-linhumanite-de-kagame-lexil-infernal-des-congolais/" rel="bookmark">VICTIMES DE L’INHUMANITE DE KAGAME : L’exil infernal des Congolais</a></h4>		</div>
+	</div>
+			</div>
+		</div>
+		
+</div>
+		</div>				</div>
+			</div>
+		                </div>
+				</article>			<aside class="sfoter-sec single-related ">
+				<div class="block-h heading-layout-13"><div class="heading-inner"><h3 class="heading-title"><span>Lire aussi</span></h3></div></div><div id="uuid_r10165" class="block-wrap block-small block-grid block-grid-small-1 rb-columns rb-col-4 is-gap-10 ecat-bg-1 meta-s-"><div class="block-inner">		<div class="p-wrap p-grid p-grid-small-1" data-pid="28726">
+				<div class="feat-holder overlay-text">
+						<div class="p-featured">
+					<a class="p-flink" href="https://lemaximum.cd/2025/12/31/politique/manipulation-calotine-de-laccord-rdc-usa-sur-les-minerais-strategiques/" title="Manipulation calotine de l’accord RDC–USA sur les minerais stratégiques">
+			<img width="330" height="220" src="https://lemaximum.cd/wp-content/uploads/2025/12/PICT-11-330x220.jpg" class="featured-img wp-post-image" alt="" loading="lazy" decoding="async" />		</a>
+				</div>
+	<div class="p-categories p-top mobile-hide"><a class="p-category category-id-14" href="https://lemaximum.cd/rubrique/politique/" rel="category">Politique</a></div>			</div>
+				<div class="p-content">
+			<h4 class="entry-title">		<a class="p-url" href="https://lemaximum.cd/2025/12/31/politique/manipulation-calotine-de-laccord-rdc-usa-sur-les-minerais-strategiques/" rel="bookmark">Manipulation calotine de l’accord RDC–USA sur les minerais stratégiques</a></h4>			<div class="p-meta">
+				<div class="meta-inner is-meta">
+					<span class="meta-el meta-update">
+				<time class="updated" datetime="2025-12-31T20:26:15+01:00">31 décembre 2025</time>
+		</span>
+						</div>
+							</div>
+				</div>
+				</div>
+			<div class="p-wrap p-grid p-grid-small-1" data-pid="28718">
+				<div class="feat-holder overlay-text">
+						<div class="p-featured">
+					<a class="p-flink" href="https://lemaximum.cd/2025/12/19/politique/rwandas-violation-of-the-washington-agreement-trump-pounds-the-table/" title="RWANDA’S VIOLATION OF THE WASHINGTON AGREEMENT : Trump Pounds the Table">
+			<img width="330" height="220" src="https://lemaximum.cd/wp-content/uploads/2025/12/pict8-gigapixel-cgi-4x-330x220.jpg" class="featured-img wp-post-image" alt="" loading="lazy" decoding="async" />		</a>
+				</div>
+	<div class="p-categories p-top mobile-hide"><a class="p-category category-id-14" href="https://lemaximum.cd/rubrique/politique/" rel="category">Politique</a></div>			</div>
+				<div class="p-content">
+			<h4 class="entry-title">		<a class="p-url" href="https://lemaximum.cd/2025/12/19/politique/rwandas-violation-of-the-washington-agreement-trump-pounds-the-table/" rel="bookmark">RWANDA’S VIOLATION OF THE WASHINGTON AGREEMENT : Trump Pounds the Table</a></h4>			<div class="p-meta">
+				<div class="meta-inner is-meta">
+					<span class="meta-el meta-update">
+				<time class="updated" datetime="2025-12-19T17:25:29+01:00">19 décembre 2025</time>
+		</span>
+						</div>
+							</div>
+				</div>
+				</div>
+			<div class="p-wrap p-grid p-grid-small-1" data-pid="28713">
+				<div class="feat-holder overlay-text">
+						<div class="p-featured">
+					<a class="p-flink" href="https://lemaximum.cd/2025/12/18/politique/victims-of-kagames-inhumanity-the-horrific-exile-of-congolese-civilians/" title="VICTIMS OF KAGAME’S INHUMANITY : The Horrific exile of Congolese civilians">
+			<img width="330" height="220" src="https://lemaximum.cd/wp-content/uploads/2025/12/Deplaces-330x220.jpg" class="featured-img wp-post-image" alt="" loading="lazy" decoding="async" />		</a>
+				</div>
+	<div class="p-categories p-top mobile-hide"><a class="p-category category-id-14" href="https://lemaximum.cd/rubrique/politique/" rel="category">Politique</a></div>			</div>
+				<div class="p-content">
+			<h4 class="entry-title">		<a class="p-url" href="https://lemaximum.cd/2025/12/18/politique/victims-of-kagames-inhumanity-the-horrific-exile-of-congolese-civilians/" rel="bookmark">VICTIMS OF KAGAME’S INHUMANITY : The Horrific exile of Congolese civilians</a></h4>			<div class="p-meta">
+				<div class="meta-inner is-meta">
+					<span class="meta-el meta-update">
+				<time class="updated" datetime="2025-12-18T19:07:41+01:00">18 décembre 2025</time>
+		</span>
+						</div>
+							</div>
+				</div>
+				</div>
+			<div class="p-wrap p-grid p-grid-small-1" data-pid="28690">
+				<div class="feat-holder overlay-text">
+						<div class="p-featured">
+					<a class="p-flink" href="https://lemaximum.cd/2025/12/18/a-la-une/mise-en-scene-dune-manif-pro-rwandaise-uvira-bisimwa-en-mode-defiance/" title="MISE EN SCENE D’UNE MANIF PRO-RWANDAISE : Uvira : Bisimwa en mode défiance">
+			<img width="330" height="220" src="https://lemaximum.cd/wp-content/uploads/2025/12/Pict-4-gigapixel-cgi-4x-PS-330x220.jpg" class="featured-img wp-post-image" alt="" loading="lazy" decoding="async" />		</a>
+				</div>
+	<div class="p-categories p-top mobile-hide"><a class="p-category category-id-3" href="https://lemaximum.cd/rubrique/a-la-une/" rel="category">A la une</a></div>			</div>
+				<div class="p-content">
+			<h4 class="entry-title">		<a class="p-url" href="https://lemaximum.cd/2025/12/18/a-la-une/mise-en-scene-dune-manif-pro-rwandaise-uvira-bisimwa-en-mode-defiance/" rel="bookmark">MISE EN SCENE D’UNE MANIF PRO-RWANDAISE : Uvira : Bisimwa en mode défiance</a></h4>			<div class="p-meta">
+				<div class="meta-inner is-meta">
+					<span class="meta-el meta-update">
+				<time class="updated" datetime="2025-12-18T17:24:14+01:00">18 décembre 2025</time>
+		</span>
+						</div>
+							</div>
+				</div>
+				</div>
+	</div></div>			</aside>
+			            </div>
+        </div>
+		</div>
+		<footer class="footer-wrap rb-section left-dot footer-etemplate">
+					<div data-elementor-type="wp-post" data-elementor-id="19746" class="elementor elementor-19746">
+									<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-f2084f7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f2084f7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8b0d758" data-id="8b0d758" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-dcd8c8d elementor-nav-menu__align-center elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="dcd8c8d" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-dcd8c8d" class="elementor-nav-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-76"><a href="https://lemaximum.cd/rubrique/politique/" class="elementor-item"><span>POLITIQUE</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74"><a href="https://lemaximum.cd/rubrique/economie/" class="elementor-item"><span>ECONOMIE</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-77"><a href="https://lemaximum.cd/rubrique/societe/" class="elementor-item"><span>SOCIÉTÉ</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78"><a href="https://lemaximum.cd/rubrique/sport/" class="elementor-item"><span>SPORT</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75"><a href="https://lemaximum.cd/rubrique/monde/" class="elementor-item"><span>MONDE</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20163"><a href="https://lemaximum.cd/rubrique/provinces/" class="elementor-item"><span>PROVINCES</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23365"><a href="https://lemaximum.cd/rubrique/courrier-des-lecteurs/" class="elementor-item"><span>COURRIER DES LECTEURS</span></a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+				<ul id="menu-2-dcd8c8d" class="elementor-nav-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-76"><a href="https://lemaximum.cd/rubrique/politique/" class="elementor-item" tabindex="-1"><span>POLITIQUE</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74"><a href="https://lemaximum.cd/rubrique/economie/" class="elementor-item" tabindex="-1"><span>ECONOMIE</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-77"><a href="https://lemaximum.cd/rubrique/societe/" class="elementor-item" tabindex="-1"><span>SOCIÉTÉ</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78"><a href="https://lemaximum.cd/rubrique/sport/" class="elementor-item" tabindex="-1"><span>SPORT</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75"><a href="https://lemaximum.cd/rubrique/monde/" class="elementor-item" tabindex="-1"><span>MONDE</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20163"><a href="https://lemaximum.cd/rubrique/provinces/" class="elementor-item" tabindex="-1"><span>PROVINCES</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23365"><a href="https://lemaximum.cd/rubrique/courrier-des-lecteurs/" class="elementor-item" tabindex="-1"><span>COURRIER DES LECTEURS</span></a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-2c6e2c3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2c6e2c3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7abd1d8" data-id="7abd1d8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-d5b2070 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="d5b2070" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f02e176" data-id="f02e176" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a885be0" data-id="a885be0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3a23708 elementor-widget elementor-widget-image" data-id="3a23708" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="http://lemaximum.cd/">
+							<img width="950" height="300" src="https://lemaximum.cd/wp-content/uploads/2019/05/LE-MAXIMUM-LOGO-1.png" class="attachment-full size-full wp-image-11810" alt="" loading="lazy" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-eab91af elementor-widget elementor-widget-heading" data-id="eab91af" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Journal d’informations générales paraissant à Kinshasa, en République Démocratique du Congo.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-09aa3cc elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="09aa3cc" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
+										<span class="elementor-icon-list-text">Avenue Njombo, 57 C/Ngiri-ngiri, RD-Congo</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="http://administration@lemaximum.cd">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text">administration@lemaximum.cd</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+										<span class="elementor-icon-list-text">+243 97 20 71 204</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c0453d1 elementor-widget elementor-widget-wp-widget-wp_statistics_widget" data-id="c0453d1" data-element_type="widget" data-widget_type="wp-widget-wp_statistics_widget.default">
+				<div class="elementor-widget-container">
+			<h5>Statistiques des visites</h5><ul><li><label>Visites du jour:&nbsp;</label>513</li><li><label>Visites d’hier:&nbsp;</label>724</li><li><label>Visites des 30 derniers jours:&nbsp;</label>51 037</li><li><label>Visites totales:&nbsp;</label>17 624 218</li></ul>		</div>
+				</div>
+				<div class="elementor-element elementor-element-411d892 elementor-shape-circle e-grid-align-left e-grid-align-mobile-center elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="411d892" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-shrink elementor-repeater-item-59a64b0" href="https://web.facebook.com/100083726925893/" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<i class="fab fa-facebook-f"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-shrink elementor-repeater-item-1d85d60" href="https://instagram.com/lemaximum.cd?igshid=YmMyMTA2M2Y=" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-shrink elementor-repeater-item-7104975" href="https://twitter.com/lemaximum_cd?t=oOEtfnb32_z1jUz7rDAo1Q&#038;s=09" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-shrink elementor-repeater-item-7db04bd" href="https://www.youtube.com/channel/UCPYWbmbPzPsXWQ6ZJGc2v4A" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i class="fab fa-youtube"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8b3f0cd" data-id="8b3f0cd" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-57edb21 elementor-widget elementor-widget-eael-divider" data-id="57edb21" data-element_type="widget" data-widget_type="eael-divider.default">
+				<div class="elementor-widget-container">
+					<div class="eael-divider-wrap divider-direction-horizontal">
+							<div class="eael-divider horizontal solid"></div>
+					</div>
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		</footer>
+		</div>
+		<script>
+            (function () {
+                let currentMode = null;
+                const darkModeID = 'RubyDarkMode';
+				                currentMode = navigator.cookieEnabled ? localStorage.getItem(darkModeID) || null : 'default';
+                if (!currentMode) {
+					                    currentMode = 'default';
+                    localStorage.setItem(darkModeID, 'default');
+					                }
+                document.body.setAttribute('data-theme', currentMode === 'dark' ? 'dark' : 'default');
+				            })();
+		</script>
+				<script>
+            (function () {
+				                const darkModeID = 'RubyDarkMode';
+                const currentMode = navigator.cookieEnabled ? (localStorage.getItem(darkModeID) || 'default') : 'default';
+                const selector = currentMode === 'dark' ? '.mode-icon-dark' : '.mode-icon-default';
+                const icons = document.querySelectorAll(selector);
+                if (icons.length) {
+                    icons.forEach(icon => icon.classList.add('activated'));
+                }
+				
+				                const readingSize = navigator.cookieEnabled ? sessionStorage.getItem('rubyResizerStep') || '' : '1';
+                if (readingSize) {
+                    const body = document.querySelector('body');
+                    switch (readingSize) {
+                        case '2':
+                            body.classList.add('medium-entry-size');
+                            break;
+                        case '3':
+                            body.classList.add('big-entry-size');
+                            break;
+                    }
+                }
+            })();
+		</script>
+					<!--facebook like and share js -->
+			<div id="fb-root"></div>
+			<script>
+				(function(d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0];
+					if (d.getElementById(id)) return;
+					js = d.createElement(s);
+					js.id = id;
+					js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+					fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));
+			</script>
+		<script>
+window.addEventListener('sfsi_functions_loaded', function() {
+    if (typeof sfsi_responsive_toggle == 'function') {
+        sfsi_responsive_toggle(0);
+        // console.log('sfsi_responsive_toggle');
+
+    }
+})
+</script>
+<script>
+window.addEventListener('sfsi_functions_loaded', function() {
+    if (typeof sfsi_plugin_version == 'function') {
+        sfsi_plugin_version(2.77);
+    }
+});
+
+function sfsi_processfurther(ref) {
+    var feed_id = 'cU53bWZ6TWlBbTd3eCs4WThFWWgvMk1YUXkzTXBrdkdFamZ1Slg3c1JnTE1FSjUxK2xES1Izdlg3aXhzNWF4WTUzRlJWaWR4cUFIME0zZ0JkanlaaVZDbHh0dkRoODhOQmxoQVp2RUcvSnRsaEtpMWx3SDBLZlBZaERYblJVMkh8ODJaeWRTcEI4aEprR0M2THlzSHRMdlAremxwQVo3bW1QeUpZYmlIOW5kZz0=';
+    var feedtype = 8;
+    var email = jQuery(ref).find('input[name="email"]').val();
+    var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+    if ((email != "Enter your email") && (filter.test(email))) {
+        if (feedtype == "8") {
+            var url = "https://api.follow.it/subscription-form/" + feed_id + "/" + feedtype;
+            window.open(url, "popupwindow", "scrollbars=yes,width=1080,height=760");
+            return true;
+        }
+    } else {
+        alert("Please enter email address");
+        jQuery(ref).find('input[name="email"]').focus();
+        return false;
+    }
+}
+</script>
+<style type="text/css" aria-selected="true">
+.sfsi_subscribe_Popinner {
+    width: 100% !important;
+
+    height: auto !important;
+
+    padding: 18px 0px !important;
+
+    background-color: #ffffff !important;
+}
+
+.sfsi_subscribe_Popinner form {
+    margin: 0 20px !important;
+}
+
+.sfsi_subscribe_Popinner h5 {
+    font-family: Helvetica,Arial,sans-serif !important;
+
+    font-weight: bold !important;
+
+        color: #000000 !important;
+
+    font-size: 16px !important;
+
+    text-align: center !important;
+    margin: 0 0 10px !important;
+    padding: 0 !important;
+}
+
+.sfsi_subscription_form_field {
+    margin: 5px 0 !important;
+    width: 100% !important;
+    display: inline-flex;
+    display: -webkit-inline-flex;
+}
+
+.sfsi_subscription_form_field input {
+    width: 100% !important;
+    padding: 10px 0px !important;
+}
+
+.sfsi_subscribe_Popinner input[type=email] {
+    font-family: Helvetica,Arial,sans-serif !important;
+
+    font-style: normal !important;
+
+        color:  !important;
+
+    font-size: 14px !important;
+
+    text-align: center !important;
+}
+
+.sfsi_subscribe_Popinner input[type=email]::-webkit-input-placeholder {
+
+    font-family: Helvetica,Arial,sans-serif !important;
+
+    font-style: normal !important;
+
+        color:  !important;
+
+    font-size: 14px !important;
+
+    text-align: center !important;
+}
+
+.sfsi_subscribe_Popinner input[type=email]:-moz-placeholder {
+    /* Firefox 18- */
+
+    font-family: Helvetica,Arial,sans-serif !important;
+
+    font-style: normal !important;
+
+        color:  !important;
+
+    font-size: 14px !important;
+
+    text-align: center !important;
+
+}
+
+.sfsi_subscribe_Popinner input[type=email]::-moz-placeholder {
+    /* Firefox 19+ */
+    font-family: Helvetica,Arial,sans-serif !important;
+
+    font-style: normal !important;
+
+        color:  !important;
+
+    font-size: 14px !important;
+
+    text-align: center !important;
+
+}
+
+.sfsi_subscribe_Popinner input[type=email]:-ms-input-placeholder {
+    font-family: Helvetica,Arial,sans-serif !important;
+
+    font-style: normal !important;
+
+        color:  !important;
+
+    font-size: 14px !important;
+
+    text-align: center !important;
+}
+
+.sfsi_subscribe_Popinner input[type=submit] {
+    font-family: Helvetica,Arial,sans-serif !important;
+
+    font-weight: bold !important;
+
+        color: #000000 !important;
+
+    font-size: 16px !important;
+
+    text-align: center !important;
+
+    background-color: #dedede !important;
+}
+
+.sfsi_shortcode_container {
+        float: left;
+    }
+
+    .sfsi_shortcode_container .norm_row .sfsi_wDiv {
+        position: relative !important;
+    }
+
+    .sfsi_shortcode_container .sfsi_holders {
+        display: none;
+    }
+
+    </style>
+
+		<script type="text/template" id="bookmark-toggle-template">
+			<i class="rbi rbi-bookmark" aria-hidden="true" data-title="Sauvegarde le"></i>
+			<i class="bookmarked-icon rbi rbi-bookmark-fill" aria-hidden="true" data-title="Undo Save"></i>
+		</script>
+		<script type="text/template" id="bookmark-ask-login-template">
+			<a class="login-toggle" data-title="Connectez-vous pour enregistrer" href="https://lemaximum.cd/wp-login.php?redirect_to=https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel"><i class="rbi rbi-bookmark" aria-hidden="true"></i></a>
+		</script>
+		<script type="text/template" id="follow-ask-login-template">
+			<a class="login-toggle" data-title="Connectez-vous pour suivre" href="https://lemaximum.cd/wp-login.php?redirect_to=https%3A%2F%2Flemaximum.cd%2F2018%2F10%2F23%2Fa-la-une%2Fpresidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel"><i class="follow-icon rbi rbi-plus" aria-hidden="true"></i></a>
+		</script>
+		<script type="text/template" id="follow-toggle-template">
+			<i class="follow-icon rbi rbi-plus" data-title="Follow"></i>
+			<i class="followed-icon rbi rbi-bookmark-fill" data-title="Ne plus suivre"></i>
+		</script>
+					<aside id="bookmark-notification" class="bookmark-notification"></aside>
+			<script type="text/template" id="bookmark-notification-template">
+				<div class="bookmark-notification-inner {{classes}}">
+					<div class="bookmark-featured">{{image}}</div>
+					<div class="bookmark-inner">
+						<span class="bookmark-title h5">{{title}}</span><span class="bookmark-desc">{{description}}</span>
+					</div>
+				</div>
+			</script>
+			<script type="text/template" id="follow-notification-template">
+				<div class="follow-info bookmark-notification-inner {{classes}}">
+					<span class="follow-desc"><span>{{description}}</span><strong>{{name}}</strong></span>
+				</div>
+			</script>
+				<div id="rb-user-popup-form" class="rb-user-popup-form mfp-animation mfp-hide">
+			<div class="logo-popup-outer">
+				<div class="logo-popup">
+					<div class="login-popup-header">
+													<span class="logo-popup-heading h3">Welcome Back!</span>
+													<p class="logo-popup-description is-meta">Sign in to your account</p>
+											</div>
+							<div class="user-form"><form name="popup-form" id="popup-form" action="https://lemaximum.cd/wp-login.php" method="post"><p class="login-username">
+				<label for="user_login">Identifiant ou adresse e-mail</label>
+				<input type="text" name="log" id="user_login" autocomplete="username" class="input" value="" size="20" />
+			</p><p class="login-password">
+				<label for="user_pass">Mot de passe</label>
+				<input type="password" name="pwd" id="user_pass" autocomplete="current-password" spellcheck="false" class="input" value="" size="20" />
+			</p><p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Se souvenir de moi</label></p><p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary" value="Se connecter" />
+				<input type="hidden" name="redirect_to" value="https://lemaximum.cd/2018/10/23/a-la-une/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel" />
+			</p></form></div>
+		<div class="user-form-footer is-meta">
+						<a href="https://lemaximum.cd/wp-login.php?action=lostpassword">Mot de passe perdu?</a>
+		</div>
+					</div>
+			</div>
+		</div>
+	<link rel='stylesheet' id='e-animations-css' href='https://lemaximum.cd/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.17.1' media='all' />
+<script id="foxiz-core-js-extra">
+var foxizCoreParams = {"ajaxurl":"https:\/\/lemaximum.cd\/wp-admin\/admin-ajax.php","darkModeID":"RubyDarkMode","cookieDomain":"","cookiePath":"\/"};
+</script>
+<script src="https://lemaximum.cd/wp-content/plugins/foxiz-core/assets/core.js?ver=2.1.4" id="foxiz-core-js"></script>
+<script src="https://lemaximum.cd/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/ultimate-social-media-icons/js/shuffle/modernizr.custom.min.js?ver=6.5.7" id="SFSIjqueryModernizr-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/ultimate-social-media-icons/js/shuffle/jquery.shuffle.min.js?ver=6.5.7" id="SFSIjqueryShuffle-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/ultimate-social-media-icons/js/shuffle/random-shuffle-min.js?ver=6.5.7" id="SFSIjqueryrandom-shuffle-js"></script>
+<script id="SFSICustomJs-js-extra">
+var sfsi_icon_ajax_object = {"nonce":"1bef8b5bdb","ajax_url":"https:\/\/lemaximum.cd\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/lemaximum.cd\/wp-content\/plugins\/ultimate-social-media-icons\/"};
+</script>
+<script src="https://lemaximum.cd/wp-content/plugins/ultimate-social-media-icons/js/custom.js?ver=2.8.6" id="SFSICustomJs-js"></script>
+<script src="https://lemaximum.cd/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js"></script>
+<script id="jquery-ui-datepicker-js-after">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fermer","currentText":"Aujourd\u2019hui","monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesShort":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"nextText":"Suivant","prevText":"Pr\u00e9c\u00e9dent","dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim","lun","mar","mer","jeu","ven","sam"],"dayNamesMin":["D","L","M","M","J","V","S"],"dateFormat":"d MM yy","firstDay":1,"isRTL":false});});
+</script>
+<script id="eael-general-js-extra">
+var localize = {"ajaxurl":"https:\/\/lemaximum.cd\/wp-admin\/admin-ajax.php","nonce":"da3a4af1d7","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping"},"page_permalink":"https:\/\/lemaximum.cd\/2018\/10\/23\/a-la-une\/presidentielle-de-decembre-2018-ludsp-t-rattrape-par-le-peche-originel\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Portrait mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Paysage","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablette en mode portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablette en mode paysage","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u00c9cran large","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"ParticleThemesData":{"default":"{\"particles\":{\"number\":{\"value\":160,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":true,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":6,\"direction\":\"none\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"repulse\"},\"onclick\":{\"enable\":true,\"mode\":\"push\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","nasa":"{\"particles\":{\"number\":{\"value\":250,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":1,\"random\":true,\"anim\":{\"enable\":true,\"speed\":1,\"opacity_min\":0,\"sync\":false}},\"size\":{\"value\":3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":4,\"size_min\":0.3,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":1,\"direction\":\"none\",\"random\":true,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":600}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"bubble\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":250,\"size\":0,\"duration\":2,\"opacity\":0,\"speed\":3},\"repulse\":{\"distance\":400,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","bubble":"{\"particles\":{\"number\":{\"value\":15,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#1b1e34\"},\"shape\":{\"type\":\"polygon\",\"stroke\":{\"width\":0,\"color\":\"#000\"},\"polygon\":{\"nb_sides\":6},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":50,\"random\":false,\"anim\":{\"enable\":true,\"speed\":10,\"size_min\":40,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":200,\"color\":\"#ffffff\",\"opacity\":1,\"width\":2},\"move\":{\"enable\":true,\"speed\":8,\"direction\":\"none\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"grab\"},\"onclick\":{\"enable\":false,\"mode\":\"push\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","snow":"{\"particles\":{\"number\":{\"value\":450,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#fff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":true,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":5,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":500,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":2},\"move\":{\"enable\":true,\"speed\":6,\"direction\":\"bottom\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"bubble\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":0.5}},\"bubble\":{\"distance\":400,\"size\":4,\"duration\":0.3,\"opacity\":1,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","nyan_cat":"{\"particles\":{\"number\":{\"value\":150,\"density\":{\"enable\":false,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"star\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"http:\/\/wiki.lexisnexis.com\/academic\/images\/f\/fb\/Itunes_podcast_icon_300.jpg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":4,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":14,\"direction\":\"left\",\"random\":false,\"straight\":true,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"grab\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":200,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}"},"eael_login_nonce":"a84eb2838e","eael_register_nonce":"3c809874fe"};
+</script>
+<script src="https://lemaximum.cd/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.8.13" id="eael-general-js"></script>
+<script src="https://lemaximum.cd/wp-content/uploads/essential-addons-elementor/eael-19746.js?ver=1540281462" id="eael-19746-js"></script>
+<script src="https://lemaximum.cd/wp-content/themes/foxiz/assets/js/jquery.waypoints.min.js?ver=3.1.1" id="jquery-waypoints-js"></script>
+<script src="https://lemaximum.cd/wp-content/themes/foxiz/assets/js/rbswiper.min.js?ver=6.5.8" id="rbswiper-js"></script>
+<script src="https://lemaximum.cd/wp-content/themes/foxiz/assets/js/jquery.mp.min.js?ver=1.1.0" id="jquery-magnific-popup-js"></script>
+<script src="https://lemaximum.cd/wp-content/themes/foxiz/assets/js/jquery.tipsy.min.js?ver=1.0" id="rb-tipsy-js"></script>
+<script src="https://lemaximum.cd/wp-content/themes/foxiz/assets/js/jquery.ui.totop.min.js?ver=v1.2" id="jquery-uitotop-js"></script>
+<script src="https://lemaximum.cd/wp-content/themes/foxiz/assets/js/personalized.js?ver=2.1.4" id="foxiz-personalize-js"></script>
+<script id="foxiz-global-js-extra">
+var foxizParams = {"twitterName":"Le Maximum","sliderSpeed":"5000","sliderEffect":"slide","sliderFMode":"1","highlightShares":"1","highlightShareFacebook":"1","highlightShareTwitter":"1","highlightShareReddit":"1","singleLoadNextLimit":"20"};
+</script>
+<script src="https://lemaximum.cd/wp-content/themes/foxiz/assets/js/global.js?ver=2.1.4" id="foxiz-global-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1" id="smartmenus-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.6.5" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.1" id="elementor-webpack-runtime-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.1" id="elementor-frontend-modules-js"></script>
+<script src="https://lemaximum.cd/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://lemaximum.cd/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script src="https://lemaximum.cd/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://lemaximum.cd/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script src="https://lemaximum.cd/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/lemaximum.cd\/wp-admin\/admin-ajax.php","nonce":"eef32a1b32","urls":{"assets":"https:\/\/lemaximum.cd\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/lemaximum.cd\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"fr_FR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/lemaximum.cd\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://lemaximum.cd/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.6.5" id="elementor-pro-frontend-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Partager sur Facebook","shareOnTwitter":"Partager sur Twitter","pinIt":"L\u2019\u00e9pingler","download":"T\u00e9l\u00e9charger","downloadImage":"T\u00e9l\u00e9charger une image","fullscreen":"Plein \u00e9cran","zoom":"Zoom","share":"Partager","playVideo":"Lire la vid\u00e9o","previous":"Pr\u00e9c\u00e9dent","next":"Suivant","close":"Fermer","a11yCarouselWrapperAriaLabel":"Carousel | Scroll horizontal: Fl\u00e8che gauche & droite","a11yCarouselPrevSlideMessage":"Diapositive pr\u00e9c\u00e9dente","a11yCarouselNextSlideMessage":"Diapositive suivante","a11yCarouselFirstSlideMessage":"Ceci est la premi\u00e8re diapositive","a11yCarouselLastSlideMessage":"Ceci est la derni\u00e8re diapositive","a11yCarouselPaginationBulletMessage":"Aller \u00e0 la diapositive"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Portrait mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Paysage","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablette en mode portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablette en mode paysage","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u00c9cran large","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.17.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"additional_custom_breakpoints":true,"theme_builder_v2":true,"landing-pages":true,"page-transitions":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/lemaximum.cd\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":10165,"title":"PRESIDENTIELLE%20DE%20DECEMBRE%202018%20%3A%20L%E2%80%99UDSP%2FT%20rattrap%C3%A9%20par%20le%20p%C3%A9ch%C3%A9%20originel%20%E2%80%93%20Le%20Maximum","excerpt":"","featuredImage":"https:\/\/lemaximum.cd\/wp-content\/uploads\/2018\/10\/UDPS-FATSHI-3.jpg"}};
+</script>
+<script src="https://lemaximum.cd/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.1" id="elementor-frontend-js"></script>
+<script src="https://lemaximum.cd/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.6.5" id="pro-elements-handlers-js"></script>
+<script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script></body>
+</html>

@@ -1,0 +1,1004 @@
+HTTP/2 200 
+date: Fri, 02 Jan 2026 21:31:28 GMT
+server: mw-web.eqiad.main-8f8dcf6c-gp5kn
+x-content-type-options: nosniff
+content-language: fr
+accept-ch: 
+last-modified: Fri, 19 Dec 2025 21:31:28 GMT
+content-type: text/html; charset=UTF-8
+age: 69171
+accept-ranges: bytes
+x-cache: cp6016 hit, cp6016 hit/3
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front", host;desc="cp6016"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT
+set-cookie: WMF-DP=1ab;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7
+cache-control: private, s-maxage=0, max-age=0, must-revalidate, no-transform
+vary: Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent
+set-cookie: GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
+set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
+set-cookie: WMF-Uniq=MTH0F_NaPPQzKaM7HGKXhQLdAAAAAFvdT_S3CIG4rB6L8wTUTqS5Y7DMWRAgCL9W;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027 00:00:00 GMT
+content-length: 113340
+x-request-id: 4f87110d-474d-48ab-b9ae-6c54a08441e4
+
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Structures de péché — Wikipédia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )frwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgRequestId":"6ea57c74-9009-4939-8e19-668a47f2bd2f","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Structures_de_péché","wgTitle":"Structures de péché","wgCurRevisionId":216753649,"wgRevisionId":216753649,"wgArticleId":15027854,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Portail:Théologie/Articles liés","Portail:Religions et croyances/Articles liés","Portail:Christianisme/Articles liés","Péché","Jean-Paul II"],"wgPageViewLanguage":"fr","wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Structures_de_péché","wgRelevantArticleId":15027854,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgWMEPageLengthBucket":3,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q112304063","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ArchiveLinks","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.7">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Structures de péché — Wikipédia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipédia (fr)">
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://fr.wikipedia.org/wiki/Structures_de_p%C3%A9ch%C3%A9">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Structures_de_péché rootpage-Structures_de_péché skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Aller au contenu</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Menu principal" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Menu principal"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Menu principal</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Menu principal</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">déplacer vers la barre latérale</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">masquer</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Accueil général [z]" accesskey="z"><span>Page d’accueil</span></a></li><li id="n-thema" class="mw-list-item"><a href="/wiki/Portail:Accueil" title="Regroupements d&#039;articles par thématiques"><span>Portails thématiques</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x"><span>Article au hasard</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikip%C3%A9dia:Contact" title="Qui contacter"><span>Contact</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-Contribuer" class="vector-menu mw-portlet mw-portlet-Contribuer"  >
+	<div class="vector-menu-heading">
+		Contribuer
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-aboutwp" class="mw-list-item"><a href="/wiki/Aide:D%C3%A9buter" title="Guide pour apprendre à contribuer à Wikipédia"><span>Débuter sur Wikipédia</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Aide:Accueil" title="Accès à l’aide"><span>Aide</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver les informations"><span>Communauté</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Outils pour contribuer à Wikipédia"><span>Pages spéciales</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r"><span>Modifications récentes</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikip%C3%A9dia:Accueil_principal" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipédia" src="/static/images/mobile/copyright/wikipedia-wordmark-fr.svg" style="width: 7.4375em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="l&#039;encyclopédie libre" src="/static/images/mobile/copyright/wikipedia-tagline-fr.svg" width="120" height="13" style="width: 7.5em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Sp%C3%A9cial:Recherche" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Rechercher sur Wikipédia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Rechercher</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Rechercher sur Wikipédia" aria-label="Rechercher sur Wikipédia" autocapitalize="sentences" spellcheck="false" title="Rechercher sur Wikipédia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Spécial:Recherche">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Rechercher</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Outils personnels">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Apparence">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Modifier l&#039;apparence de la taille, de la largeur et de la couleur de la police de la page" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Apparence"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Apparence</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=fr.wikipedia.org&amp;uselang=fr" class=""><span>Faire un don</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Structures+de+p%C3%A9ch%C3%A9" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire." class=""><span>Créer un compte</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Structures+de+p%C3%A9ch%C3%A9" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o" class=""><span>Se connecter</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Plus d’options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Outils personnels"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Outils personnels</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Menu utilisateur" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=fr.wikipedia.org&amp;uselang=fr"><span>Faire un don</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Structures+de+p%C3%A9ch%C3%A9" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Créer un compte</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Structures+de+p%C3%A9ch%C3%A9" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Se connecter</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Sommaire" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Sommaire</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">déplacer vers la barre latérale</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">masquer</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Début</div>
+			</a>
+		</li>
+		<li id="toc-Définition"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Définition">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Définition</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Définition-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Historique_et_évolution"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Historique_et_évolution">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Historique et évolution</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Historique_et_évolution-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Afficher / masquer la sous-section Historique et évolution</span>
+			</button>
+		
+		<ul id="toc-Historique_et_évolution-sublist" class="vector-toc-list">
+			<li id="toc-Premières_définitions"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Premières_définitions">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1</span>
+					<span>Premières définitions</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Premières_définitions-sublist" class="vector-toc-list">
+				<li id="toc-Piet_Schoonenberg"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Piet_Schoonenberg">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1.1</span>
+					<span>Piet Schoonenberg</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Piet_Schoonenberg-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Karl_Rahner"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Karl_Rahner">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1.2</span>
+					<span>Karl Rahner</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Karl_Rahner-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Concile_Vatican_II"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Concile_Vatican_II">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1.3</span>
+					<span>Concile Vatican II</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Concile_Vatican_II-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-Sous_le_pontificat_de_Jean-Paul_II"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Sous_le_pontificat_de_Jean-Paul_II">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2</span>
+					<span>Sous le pontificat de Jean-Paul II</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Sous_le_pontificat_de_Jean-Paul_II-sublist" class="vector-toc-list">
+				<li id="toc-Premières_définitions_2"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Premières_définitions_2">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2.1</span>
+					<span>Premières définitions</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Premières_définitions_2-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Utilisation_dans_les_textes_principaux"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Utilisation_dans_les_textes_principaux">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2.2</span>
+					<span>Utilisation dans les textes principaux</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Utilisation_dans_les_textes_principaux-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-Reprise_par_le_pape_François"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Reprise_par_le_pape_François">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.3</span>
+					<span>Reprise par le pape François</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Reprise_par_le_pape_François-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Articles_connexes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Articles_connexes">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Articles connexes</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Articles_connexes-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Notes_et_références"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Notes_et_références">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Notes et références</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Notes_et_références-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Afficher / masquer la sous-section Notes et références</span>
+			</button>
+		
+		<ul id="toc-Notes_et_références-sublist" class="vector-toc-list">
+			<li id="toc-Bibliographie"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Bibliographie">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">4.1</span>
+					<span>Bibliographie</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Bibliographie-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Bibliographie_complémentaire"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Bibliographie_complémentaire">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Bibliographie complémentaire</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Bibliographie_complémentaire-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Sommaire" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Table des matières" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Basculer la table des matières"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Basculer la table des matières</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Structures de péché</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Cet article est disponible uniquement dans cette langue. Ajouter l&#039;article pour d&#039;autres langues"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Ajouter des langues</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q112304063#sitelinks-wikipedia" title="Ajouter des liens interlangues" class="wbc-editpage">Ajouter des liens</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Espaces de noms">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Structures_de_p%C3%A9ch%C3%A9" title="Voir le contenu de la page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Discussion:Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Discussion au sujet de cette page de contenu (page inexistante) [t]" accesskey="t"><span>Discussion</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Modifier la variante de langue"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">français</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Affichages">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Structures_de_p%C3%A9ch%C3%A9"><span>Lire</span></a></li><li id="ca-ve-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit" title="Modifier cette page [v]" accesskey="v"><span>Modifier</span></a></li><li id="ca-edit" class="collapsible vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit" title="Modifier le wikicode de cette page [e]" accesskey="e"><span>Modifier le code</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h"><span>Voir l’historique</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Outils de la page">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Outils"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Outils</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Outils</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">déplacer vers la barre latérale</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">masquer</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Plus d’options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Structures_de_p%C3%A9ch%C3%A9"><span>Lire</span></a></li><li id="ca-more-ve-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit" title="Modifier cette page [v]" accesskey="v"><span>Modifier</span></a></li><li id="ca-more-edit" class="collapsible vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit" title="Modifier le wikicode de cette page [e]" accesskey="e"><span>Modifier le code</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=history"><span>Voir l’historique</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Général
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Structures_de_p%C3%A9ch%C3%A9" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j"><span>Pages liées</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Structures_de_p%C3%A9ch%C3%A9" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k"><span>Suivi des pages liées</span></a></li><li id="t-upload" class="mw-list-item"><a href="//fr.wikipedia.org/wiki/Aide:Importer_un_fichier" title="Téléverser des fichiers [u]" accesskey="u"><span>Téléverser un fichier</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;oldid=216753649" title="Adresse permanente de cette version de cette page"><span>Lien permanent</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=info" title="Davantage d’informations sur cette page"><span>Informations sur la page</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Structures_de_p%C3%A9ch%C3%A9&amp;id=216753649&amp;wpFormIdentifier=titleform" title="Informations sur la manière de citer cette page"><span>Citer cette page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:UrlShortener&amp;url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FStructures_de_p%25C3%25A9ch%25C3%25A9"><span>Obtenir l&#039;URL raccourcie</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:QrCode&amp;url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FStructures_de_p%25C3%25A9ch%25C3%25A9"><span>Télécharger le code QR</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Imprimer / exporter
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Structures+de+p%C3%A9ch%C3%A9"><span>Créer un livre</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&amp;page=Structures_de_p%C3%A9ch%C3%A9&amp;action=show-download-screen"><span>Télécharger comme PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p"><span>Version imprimable</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		Dans d’autres projets
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q112304063" title="Lien vers l’élément dans le dépôt de données connecté [g]" accesskey="g"><span>Élément Wikidata</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Outils de la page">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Apparence">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Apparence</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">déplacer vers la barre latérale</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">masquer</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="fr" dir="ltr"><p>Les <b>structures de <a href="/wiki/P%C3%A9ch%C3%A9" title="Péché">péché</a></b>, également appelées <b>péché structurel</b>, sont une notion théologique esquissée notamment par la <a href="/wiki/Th%C3%A9ologie_de_la_lib%C3%A9ration" title="Théologie de la libération">théologie de la libération</a> dans les années 1960 en <a href="/wiki/Am%C3%A9rique_du_Sud" title="Amérique du Sud">Amérique du Sud</a>, puis développée en particulier par le pape <a href="/wiki/Jean-Paul_II" title="Jean-Paul II">Jean-Paul II</a> au cours de son pontificat.
+</p><p>Ce dernier développe en effet l'idée que les structures sociales, économiques, politiques, financières, développées par l'être humain le contraignent par la suite au point de ne plus lui permettre d'agir autrement qu'en péchant. Il dénonce en particulier les ravages de ces structures de péché sur l'écologie et sur l'anthropologie. 
+</p><p>Ce concept est ensuite repris à plusieurs reprises par le pape <a href="/wiki/Fran%C3%A7ois_(pape)" title="François (pape)">François</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="Définition"><span id="D.C3.A9finition"></span>Définition</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit&amp;section=1" title="Modifier la section : Définition" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;section=1" title="Modifier le code source de la section : Définition"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Le péché structurel peut être pensé comme une catégorie intermédiaire entre le <a href="/wiki/P%C3%A9ch%C3%A9_originel" title="Péché originel">péché originel</a>, inhérent à l'Homme et donc inéluctable, et le péché individuel, fruit d'une décision ou du moins d'une liberté de choix<sup id="cite&#95;ref-Péché&#95;structurel&#95;et&#95;nature&#95;humaine&#95;page&#95;134&#95;1-0" class="reference"><a href="#cite_note-Péché_structurel_et_nature_humaine_page_134-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>. Il caractérise des types d’organisations sociales qui induisent automatiquement, ou du moins de manière très contraignante, une manière d’être déviante<sup id="cite&#95;ref-Pourquoi&#95;avoir&#95;inventé&#95;un&#95;péché&#95;écologique&#95;2-0" class="reference"><a href="#cite_note-Pourquoi_avoir_inventé_un_péché_écologique-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>En tant que telles, ces organisations sont le fruit d'une accumulation de péchés personnels qui crée à la longue des faits de société qui par leur influence induisent une vraie disposition aux péchés personnels<sup id="cite&#95;ref-Catéchisme&#95;de&#95;l&#39;Église&#95;catholique&#95;3-0" class="reference"><a href="#cite_note-Catéchisme_de_l&#39;Église_catholique-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup class="reference cite&#95;virgule">,</sup><sup id="cite&#95;ref-Les&#95;structures&#95;de&#95;péché&#95;comme&#95;frein&#95;au&#95;bien&#95;commun&#95;4-0" class="reference"><a href="#cite_note-Les_structures_de_péché_comme_frein_au_bien_commun-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Les structures de péché défont et détruisent la durabilité du monde, au sens que donne <a href="/wiki/Hannah_Arendt" title="Hannah Arendt">Hannah Arendt</a> à ce terme&#160;; plus précisément, elles défont la capacité du monde à héberger l'être humain en tant que créature humaine. Mathias Nebel affirme ainsi que le péché structurel <span class="citation">«&#160;oblige l’homme à s’inscrire dans un champ de l’action absurde, dans lequel il ne peut se penser ou même s’imaginer [et] désintègre ainsi non seulement la durée du monde, mais la durée de l’individu&#160;»</span><sup id="cite&#95;ref-Péché&#95;structurel&#95;et&#95;nature&#95;humaine&#95;pages&#95;148&#95;à&#95;151&#95;5-0" class="reference"><a href="#cite_note-Péché_structurel_et_nature_humaine_pages_148_à_151-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Historique_et_évolution"><span id="Historique_et_.C3.A9volution"></span>Historique et évolution</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit&amp;section=2" title="Modifier la section : Historique et évolution" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;section=2" title="Modifier le code source de la section : Historique et évolution"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="Premières_définitions"><span id="Premi.C3.A8res_d.C3.A9finitions"></span>Premières définitions</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit&amp;section=3" title="Modifier la section : Premières définitions" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;section=3" title="Modifier le code source de la section : Premières définitions"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading4"><h4 id="Piet_Schoonenberg">Piet Schoonenberg</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit&amp;section=4" title="Modifier la section : Piet Schoonenberg" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;section=4" title="Modifier le code source de la section : Piet Schoonenberg"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><a href="/wiki/Piet_Schoonenberg" title="Piet Schoonenberg">Piet Schoonenberg</a>, dans son ouvrage de 1964 <i><span class="lang-nl" lang="nl">Der Macht der Zonde</span></i> —&#160;littéralement, «&#160;la puissance du péché&#160;»&#160;— propose une réinterprétation de la doctrine du péché originel en l’identifiant au «&#160;péché du monde&#160;» développé par <a href="/wiki/Jean_(ap%C3%B4tre)" title="Jean (apôtre)">Jean</a> dans son <a href="/wiki/%C3%89vangile_selon_Jean" title="Évangile selon Jean">Évangile</a><sup id="cite&#95;ref-Péché&#95;structurel&#95;et&#95;nature&#95;humaine&#95;page&#95;135&#95;6-0" class="reference"><a href="#cite_note-Péché_structurel_et_nature_humaine_page_135-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>. Il définit en effet le péché comme un refus de Dieu qui peut être attachement désordonné à un objet créé&#160;; jusque-là cette définition est directement inspirée de celle d'<a href="/wiki/Augustin_d%27Hippone" title="Augustin d&#39;Hippone">Augustin</a>. Toutefois Schoonenberg insère cette relation et sa rupture dans une relation à Dieu de la création tout entière. D'autre part, il désingularise le péché pour le fragmenter en une série de refus, qui s'expriment de manière croissante. De ce fait ce refus porte en priorité sur la question de la liberté et de l'autonomie de l'individu, allant jusqu'au refus du <a href="/wiki/Salut_(christianisme)" title="Salut (christianisme)">salut</a>. Ce péché est donc ontologiquement porteur de destruction, et personnification de l'<a href="/wiki/Anomie" title="Anomie">anomie</a><sup id="cite&#95;ref-Péché&#95;structurel&#95;et&#95;nature&#95;humaine&#95;page&#95;136&#95;7-0" class="reference"><a href="#cite_note-Péché_structurel_et_nature_humaine_page_136-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Revenant sur le premier chapitre de l'Évangile de Jean, et notamment sur la description de <a href="/wiki/J%C3%A9sus-Christ" title="Jésus-Christ">Jésus-Christ</a> qu'y fait <a href="/wiki/Jean_le_Baptiste" title="Jean le Baptiste">Jean le Baptiste</a> —&#160;«&#160;Voici l'Agneau de Dieu qui enlève le péché du monde&#160;»&#160;—, Schoonenberg s'appuie sur la définition de «&#160;monde&#160;» développée dans cet Évangile pour qualifier ledit «&#160;péché du monde&#160;». Il s'agit pour lui du péché de l’humanité en tant qu’elle est une société, c’est-à-dire une communauté d’individus. Chaque être humain est dans une situation qui est le <span class="citation">«&#160;lien entre une décision libre et une autre&#160;»</span>, ou bien <span class="citation">«&#160;l’ensemble des circonstances réalisées dans un certain domaine&#160;»</span>. Le péché du monde n'est donc pas une accumulation de péchés individuels, mais à l'interaction entre ces péchés individuels et cette <i>situation</i><sup id="cite&#95;ref-Péché&#95;structurel&#95;et&#95;nature&#95;humaine&#95;pages&#95;137&#95;à&#95;139&#95;8-0" class="reference"><a href="#cite_note-Péché_structurel_et_nature_humaine_pages_137_à_139-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>De cette définition découle que le péché du monde est une incapacité de la communauté humaine à être le lieu d’accomplissement d’une liberté particulière&#160;: la communauté humaine, du fait de ses structures de péché, entraîne, de manière non obligatoire, mais très fortement, chacun des individus qui la compose à pécher<sup id="cite&#95;ref-Péché&#95;structurel&#95;et&#95;nature&#95;humaine&#95;pages&#95;139&#95;&amp;&#95;140&#95;9-0" class="reference"><a href="#cite_note-Péché_structurel_et_nature_humaine_pages_139_&amp;_140-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading4"><h4 id="Karl_Rahner">Karl Rahner</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit&amp;section=5" title="Modifier la section : Karl Rahner" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;section=5" title="Modifier le code source de la section : Karl Rahner"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>En parallèle, <a href="/wiki/Karl_Rahner" title="Karl Rahner">Karl Rahner</a> s'appuie sur les concepts développés par <a href="/wiki/Martin_Heidegger" title="Martin Heidegger">Martin Heidegger</a>, notamment dans <i><a href="/wiki/%C3%8Atre_et_Temps" title="Être et Temps">Être et Temps</a></i>, pour affirmer que le péché structurel est notamment issu d'une tension ontologique créée par l’inscription temporelle d’êtres dont la durée d’accomplissement n’est pas identique. Il émerge de la dialectique entre le temps de l’individu et celui des institutions qui structurent la communauté&#160;; ces durées divergent mais sont toutes deux portées par l'individu<sup id="cite&#95;ref-Péché&#95;structurel&#95;et&#95;nature&#95;humaine&#95;pages&#95;148&#95;à&#95;151&#95;5-1" class="reference"><a href="#cite_note-Péché_structurel_et_nature_humaine_pages_148_à_151-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading4"><h4 id="Concile_Vatican_II">Concile Vatican II</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit&amp;section=6" title="Modifier la section : Concile Vatican II" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;section=6" title="Modifier le code source de la section : Concile Vatican II"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Le <a href="/wiki/IIe_concile_%C5%93cum%C3%A9nique_du_Vatican" class="mw-redirect" title="IIe concile œcuménique du Vatican">concile Vatican II</a> évoque le «&#160;péché social&#160;» mais ne développe pas spécifiquement le concept<sup id="cite&#95;ref-Structures&#95;of&#95;Sin:&#95;Population,&#95;and&#95;Ecology&#95;page&#95;507&#95;10-0" class="reference"><a href="#cite_note-Structures_of_Sin:_Population,_and_Ecology_page_507-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Sous_le_pontificat_de_Jean-Paul_II">Sous le pontificat de Jean-Paul II</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit&amp;section=7" title="Modifier la section : Sous le pontificat de Jean-Paul II" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;section=7" title="Modifier le code source de la section : Sous le pontificat de Jean-Paul II"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading4"><h4 id="Premières_définitions_2"><span id="Premi.C3.A8res_d.C3.A9finitions_2"></span>Premières définitions</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit&amp;section=8" title="Modifier la section : Premières définitions" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;section=8" title="Modifier le code source de la section : Premières définitions"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>La première mention du terme «&#160;structures de péché&#160;» par Jean-Paul II date de la <a href="/wiki/Conf%C3%A9rence_de_Puebla" title="Conférence de Puebla">conférence de Puebla</a> en 1979. À cette occasion, le pape applique cette notion aux déséquilibres sociaux majeurs qui affectent l’Amérique du Sud&#160;: corruption, trafic d’armes, marginalisation économique d’une partie de la population<sup id="cite&#95;ref-Les&#95;structures&#95;de&#95;péché&#95;comme&#95;frein&#95;au&#95;bien&#95;commun&#95;4-1" class="reference"><a href="#cite_note-Les_structures_de_péché_comme_frein_au_bien_commun-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>. De manière plus large, il cible deux types d'organisations constituant de son point de vue des structures de péché&#160;: le <a href="/wiki/Capitalisme" title="Capitalisme">capitalisme</a> <a href="/wiki/Lib%C3%A9ralisme_%C3%A9conomique" title="Libéralisme économique">libéral</a> et le <a href="/wiki/Marxisme" title="Marxisme">marxisme</a> <a href="/wiki/Collectivisme_%C3%A9conomique" title="Collectivisme économique">collectiviste</a><sup id="cite&#95;ref-Structures&#95;of&#95;Sin:&#95;Population,&#95;and&#95;Ecology&#95;page&#95;509&#95;11-0" class="reference"><a href="#cite_note-Structures_of_Sin:_Population,_and_Ecology_page_509-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>En 1982, la <a href="/wiki/Commission_th%C3%A9ologique_internationale" title="Commission théologique internationale">Commission théologique internationale</a>, dans son texte <i>La réconciliation et la pénitence</i>, affirme que <span class="citation">«&#160;Au sens propre du terme, seul l’homme est capable de péché [et que] c’est tout au plus dans un sens analogique que l’on peut parler de “structures de péché” ou de “péchés structurels”&#160;»</span>&#160;; néanmoins, elle admet que <span class="citation">«&#160;la faute et le péché prennent corps aussi dans les organisations et les structures créées par les hommes et la société humaine&#160;; ces organisations et structures sont à leur tour intériorisées par les individus humains qui y vivent et elles peuvent ainsi peser sur la liberté humaine et conduire au péché […], exerçant sur l’homme une action aliénante et destructrice&#160;»</span><sup id="cite&#95;ref-La&#95;réconciliation&#95;et&#95;la&#95;pénitence&#95;12-0" class="reference"><a href="#cite_note-La_réconciliation_et_la_pénitence-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading4"><h4 id="Utilisation_dans_les_textes_principaux">Utilisation dans les textes principaux</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit&amp;section=9" title="Modifier la section : Utilisation dans les textes principaux" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;section=9" title="Modifier le code source de la section : Utilisation dans les textes principaux"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Jean-Paul II développe ensuite la notion de structures de péché dans ses deux encycliques <i><a href="/wiki/Sollicitudo_rei_socialis" title="Sollicitudo rei socialis">Sollicitudo rei socialis</a></i>, en 1987, et <i><a href="/wiki/Centesimus_annus" title="Centesimus annus">Centesimus annus</a></i>, en 1991. Dans la première, il définit les structures de péché comme la <span class="citation">«&#160;somme des facteurs négatifs qui agissent à l'opposé d'une vraie conscience du bien commun universel et du devoir de le promouvoir, [et qui] donne l'impression de créer, chez les personnes et dans les institutions, un obstacle très difficile à surmonter à première vue&#160;»</span><sup id="cite&#95;ref-Sollicitudo&#95;rei&#95;socialis&#95;§36&#95;13-0" class="reference"><a href="#cite_note-Sollicitudo_rei_socialis_§36-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>. Il les illustre par deux principales tendances&#160;: d'une part le <span class="citation">«&#160;désir exclusif du profit&#160;»</span>&#160;; d'autre part, la <span class="citation">«&#160;soif du pouvoir dans le but d'imposer aux autres sa volonté&#160;»</span>. Particulièrement, il pointe que c'est l'absolutisation de ces désirs, la volonté du <span class="citation">«&#160;à tout prix&#160;»</span> qui les définit comme structures de péché<sup id="cite&#95;ref-Sollicitudo&#95;rei&#95;socialis&#95;§37&#95;14-0" class="reference"><a href="#cite_note-Sollicitudo_rei_socialis_§37-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Dans <i><a href="/wiki/Centesimus_annus" title="Centesimus annus">Centesimus annus</a></i>, en 1991, le pape affirme que la <span class="citation">«&#160;destruction irrationnelle du milieu naturel [ainsi que celle] du milieu humain&#160;»</span> sont dues notamment aux structures de péché, induites par <span class="citation">«&#160;la structure sociale dans laquelle vit [l'être humain], par l'éducation reçue et par son milieu. […] Les décisions grâce auxquelles se constitue un milieu humain peuvent créer des structures de péché spécifiques qui entravent le plein épanouissement de ceux qu'elles oppriment de différentes manières&#160;»</span>. Il appelle donc en conséquence ses lecteurs à <span class="citation">«&#160;démanteler de telles structures et les remplacer par des formes plus authentiques de convivialité&#160;»</span><sup id="cite&#95;ref-Centesimus&#95;annus&#95;§38&#95;15-0" class="reference"><a href="#cite_note-Centesimus_annus_§38-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>L'apport de Jean-Paul II dans cette réflexion change le paradigme qui voulait que <span class="citation">«&#160;seul un individu pouvait se rendre pécheur par une faute contre le bien commun. Désormais, un État ou une entreprise peuvent aussi être condamnés en raison de leurs actes&#160;»</span><sup id="cite&#95;ref-L’Église,&#95;l&#39;homme&#95;et&#95;l&#39;économie&#95;16-0" class="reference"><a href="#cite_note-L’Église,_l&#39;homme_et_l&#39;économie-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Reprise_par_le_pape_François"><span id="Reprise_par_le_pape_Fran.C3.A7ois"></span>Reprise par le pape François</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit&amp;section=10" title="Modifier la section : Reprise par le pape François" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;section=10" title="Modifier le code source de la section : Reprise par le pape François"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Au cours de son pontificat, le <a href="/wiki/Fran%C3%A7ois_(pape)" title="François (pape)">pape François</a> développe l'idée que les structures économiques et financières mondiales, telles qu'elles sont alors développées, favorisent ontologiquement une forme de société pécheresse. Il fustige en particulier l’<a href="/wiki/%C3%89vasion_fiscale" title="Évasion fiscale">évasion fiscale</a> et la <a href="/wiki/Corruption" title="Corruption">corruption</a> qu'il considère comme des structures de péché<sup id="cite&#95;ref-L’évasion&#95;fiscale&#95;et&#95;la&#95;corruption,&#95;structures&#95;de&#95;péché&#95;17-0" class="reference"><a href="#cite_note-L’évasion_fiscale_et_la_corruption,_structures_de_péché-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Le <time class="nowrap" datetime="2021-03-21" data-sort-value="2021-03-21">21 mars 2021</time>, à l’occasion de la journée de la mémoire et de l’engagement en souvenir des victimes innocentes des mafias, François affirme que les mafias sont des <span class="citation">«&#160;structures de péché, […] contraires à l’Évangile du Christ, [qui] confondent la foi avec l’idolâtrie&#160;»</span><sup id="cite&#95;ref-Le&#95;Vatican&#95;veut&#95;excommunier&#95;les&#95;mafieux&#95;18-0" class="reference"><a href="#cite_note-Le_Vatican_veut_excommunier_les_mafieux-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>. Dans son exhortation apostolique <i><a href="/wiki/Laudate_Deum" title="Laudate Deum">Laudate Deum</a></i> publiée le <time class="nowrap" datetime="2023-10-04" data-sort-value="2023-10-04">4 octobre 2023</time>, le pape rappelle que les évêques africains avaient estimé que le changement climatique est le révélateur d'<span class="citation">«&#160;un exemple frappant de péché structurel&#160;»</span><sup id="cite&#95;ref-Laudate&#95;Deum&#95;19-0" class="reference"><a href="#cite_note-Laudate_Deum-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Articles_connexes">Articles connexes</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit&amp;section=11" title="Modifier la section : Articles connexes" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;section=11" title="Modifier le code source de la section : Articles connexes"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/P%C3%A9ch%C3%A9_dans_le_catholicisme" title="Péché dans le catholicisme">Péché dans le catholicisme</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Notes_et_références"><span id="Notes_et_r.C3.A9f.C3.A9rences"></span>Notes et références</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit&amp;section=12" title="Modifier la section : Notes et références" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;section=12" title="Modifier le code source de la section : Notes et références"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="references-small decimal" style="column-width:30em;"><ol class="references">
+<li id="cite&#95;note-Péché&#95;structurel&#95;et&#95;nature&#95;humaine&#95;page&#95;134-1"><span class="mw-cite-backlink"><a href="#cite_ref-Péché_structurel_et_nature_humaine_page_134_1-0">↑</a> </span><span class="reference-text"> <a href="#Mathias_Nebel_2010">Mathias Nebel 2010</a>, Introduction, <abbr class="abbr" title="page(s)">p.</abbr>&#160;134.</span>
+</li>
+<li id="cite&#95;note-Pourquoi&#95;avoir&#95;inventé&#95;un&#95;péché&#95;écologique-2"><span class="mw-cite-backlink"><a href="#cite_ref-Pourquoi_avoir_inventé_un_péché_écologique_2-0">↑</a> </span><span class="reference-text"> <span class="ouvrage" id="Charmetant2020"><span class="ouvrage" id="Éric&#95;Charmetant2020">Éric <span class="nom&#95;auteur">Charmetant</span>, «&#160;<cite style="font-style:normal">Pourquoi avoir inventé un “péché écologique”&#160;?</cite>&#160;», <i><a href="/wiki/La_Croix" title="La Croix">La Croix</a></i>,&#8206; <time class="nowrap" datetime="2020-09-30" data-sort-value="2020-09-30">30 septembre 2020</time> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<span class="plainlinks noarchive"><a rel="nofollow" class="external text" href="https://portal.issn.org/resource/issn/0242-6056">0242-6056</a></span>, <a rel="nofollow" class="external text" href="https://croire.la-croix.com/Definitions/Lexique/Pourquoi-avoir-invente-peche-ecologique-2020-09-30-1701116783">lire en ligne</a>)</small><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Pourquoi+avoir+invent%C3%A9+un+%E2%80%9Cp%C3%A9ch%C3%A9+%C3%A9cologique%E2%80%9D+%3F&amp;rft.jtitle=La+Croix&amp;rft.aulast=Charmetant&amp;rft.aufirst=%C3%89ric&amp;rft.date=2020-09-30&amp;rft.issn=0242-6056&amp;rfr&#95;id=info%3Asid%2Ffr.wikipedia.org%3AStructures+de+p%C3%A9ch%C3%A9"></span></span></span>.</span>
+</li>
+<li id="cite&#95;note-Catéchisme&#95;de&#95;l&#39;Église&#95;catholique-3"><span class="mw-cite-backlink"><a href="#cite_ref-Catéchisme_de_l&#39;Église_catholique_3-0">↑</a> </span><span class="reference-text"> <span class="ouvrage" id="Commission&#95;théologique&#95;internationale2005"><a href="/wiki/Commission_th%C3%A9ologique_internationale" title="Commission théologique internationale">Commission théologique internationale</a>, <cite class="italique"><a href="/wiki/Cat%C3%A9chisme_de_l%27%C3%89glise_catholique" title="Catéchisme de l&#39;Église catholique">Compendium du catéchisme de l'Église catholique</a></cite>, <a href="/wiki/Rome" title="Rome">Rome</a>, <a href="/wiki/Saint-Si%C3%A8ge" title="Saint-Siège">Saint-Siège</a>, <time>2005</time> <small style="line-height:1em;">(<a rel="nofollow" class="external text" href="https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_fr.html">lire en ligne</a>)</small>, «&#160;Troisième partie. La vie dans le Christ. — Première section. La vocation de l'Homme&#160;: la vie dans l'Esprit. — Chapitre I. La dignité de la personne humaine — Le péché. — 400. Qu’est ce que les structures de péché&#160;?&#160;»<span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Compendium+du+cat%C3%A9chisme+de+l%27%C3%89glise+catholique&amp;rft.atitle=Troisi%C3%A8me+partie.+La+vie+dans+le+Christ.+%E2%80%94+Premi%C3%A8re+section.+La+vocation+de+l%27Homme+%3A+la+vie+dans+l%27Esprit.+%E2%80%94+Chapitre+I.+La+dignit%C3%A9+de+la+personne+humaine+%E2%80%94+Le+p%C3%A9ch%C3%A9.+%E2%80%94+400.+Qu%E2%80%99est+ce+que+les+structures+de+p%C3%A9ch%C3%A9+%3F&amp;rft.place=Rome&amp;rft.pub=Saint-Si%C3%A8ge&amp;rft.aucorp=%5B%5BCommission+th%C3%A9ologique+internationale%5D%5D&amp;rft.date=2005&amp;rfr&#95;id=info%3Asid%2Ffr.wikipedia.org%3AStructures+de+p%C3%A9ch%C3%A9"></span></span>.</span>
+</li>
+<li id="cite&#95;note-Les&#95;structures&#95;de&#95;péché&#95;comme&#95;frein&#95;au&#95;bien&#95;commun-4"><span class="mw-cite-backlink noprint">↑ <sup><a href="#cite_ref-Les_structures_de_péché_comme_frein_au_bien_commun_4-0">a</a> et <a href="#cite_ref-Les_structures_de_péché_comme_frein_au_bien_commun_4-1">b</a></sup> </span><span class="reference-text"> <span class="ouvrage" id="2017">«&#160;<a rel="nofollow" class="external text" href="https://www.lesedc.org/eclairage/structures-de-peche-frein-bien-commun/"><cite style="font-style:normal;">Doctrine sociale de l’Eglise&#160;: les structures de péché comme frein au bien commun</cite></a>&#160;», Entrepreneurs et dirigeants chrétiens, <time class="nowrap" datetime="2017-04-08" data-sort-value="2017-04-08">8 avril 2017</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2020-01-21" data-sort-value="2020-01-21">21 janvier 2020</time>)</small></span>.</span>
+</li>
+<li id="cite&#95;note-Péché&#95;structurel&#95;et&#95;nature&#95;humaine&#95;pages&#95;148&#95;à&#95;151-5"><span class="mw-cite-backlink noprint">↑ <sup><a href="#cite_ref-Péché_structurel_et_nature_humaine_pages_148_à_151_5-0">a</a> et <a href="#cite_ref-Péché_structurel_et_nature_humaine_pages_148_à_151_5-1">b</a></sup> </span><span class="reference-text"> <a href="#Mathias_Nebel_2010">Mathias Nebel 2010</a>, Conclusion, <abbr class="abbr" title="page(s)">p.</abbr>&#160;148 à 151.</span>
+</li>
+<li id="cite&#95;note-Péché&#95;structurel&#95;et&#95;nature&#95;humaine&#95;page&#95;135-6"><span class="mw-cite-backlink"><a href="#cite_ref-Péché_structurel_et_nature_humaine_page_135_6-0">↑</a> </span><span class="reference-text"> <a href="#Mathias_Nebel_2010">Mathias Nebel 2010</a>, Le péché du monde, <abbr class="abbr" title="page(s)">p.</abbr>&#160;135.</span>
+</li>
+<li id="cite&#95;note-Péché&#95;structurel&#95;et&#95;nature&#95;humaine&#95;page&#95;136-7"><span class="mw-cite-backlink"><a href="#cite_ref-Péché_structurel_et_nature_humaine_page_136_7-0">↑</a> </span><span class="reference-text"> <a href="#Mathias_Nebel_2010">Mathias Nebel 2010</a>, L'essence du péché, <abbr class="abbr" title="page(s)">p.</abbr>&#160;136.</span>
+</li>
+<li id="cite&#95;note-Péché&#95;structurel&#95;et&#95;nature&#95;humaine&#95;pages&#95;137&#95;à&#95;139-8"><span class="mw-cite-backlink"><a href="#cite_ref-Péché_structurel_et_nature_humaine_pages_137_à_139_8-0">↑</a> </span><span class="reference-text"> <a href="#Mathias_Nebel_2010">Mathias Nebel 2010</a>, Le péché du monde, <abbr class="abbr" title="page(s)">p.</abbr>&#160;137 à 139.</span>
+</li>
+<li id="cite&#95;note-Péché&#95;structurel&#95;et&#95;nature&#95;humaine&#95;pages&#95;139&#95;&amp;&#95;140-9"><span class="mw-cite-backlink"><a href="#cite_ref-Péché_structurel_et_nature_humaine_pages_139_&amp;_140_9-0">↑</a> </span><span class="reference-text"> <a href="#Mathias_Nebel_2010">Mathias Nebel 2010</a>, L’être au monde selon Schoonenberg, <abbr class="abbr" title="page(s)">p.</abbr>&#160;139 &amp; 140.</span>
+</li>
+<li id="cite&#95;note-Structures&#95;of&#95;Sin:&#95;Population,&#95;and&#95;Ecology&#95;page&#95;507-10"><span class="mw-cite-backlink"><a href="#cite_ref-Structures_of_Sin:_Population,_and_Ecology_page_507_10-0">↑</a> </span><span class="reference-text"> <a href="#Mathias_Nebel_2010">Mathias Nebel 2010</a>, Structures of sin, <abbr class="abbr" title="page(s)">p.</abbr>&#160;507.</span>
+</li>
+<li id="cite&#95;note-Structures&#95;of&#95;Sin:&#95;Population,&#95;and&#95;Ecology&#95;page&#95;509-11"><span class="mw-cite-backlink"><a href="#cite_ref-Structures_of_Sin:_Population,_and_Ecology_page_509_11-0">↑</a> </span><span class="reference-text"> <a href="#Mathias_Nebel_2010">Mathias Nebel 2010</a>, Structures of sin, <abbr class="abbr" title="page(s)">p.</abbr>&#160;509.</span>
+</li>
+<li id="cite&#95;note-La&#95;réconciliation&#95;et&#95;la&#95;pénitence-12"><span class="mw-cite-backlink"><a href="#cite_ref-La_réconciliation_et_la_pénitence_12-0">↑</a> </span><span class="reference-text"> <span class="ouvrage" id="Commission&#95;théologique&#95;internationale1983"><a href="/wiki/Commission_th%C3%A9ologique_internationale" title="Commission théologique internationale">Commission théologique internationale</a>, <cite class="italique">La réconciliation et la pénitence</cite>, <a href="/wiki/Rome" title="Rome">Rome</a>, <a href="/wiki/Saint-Si%C3%A8ge" title="Saint-Siège">Saint-Siège</a>, <time class="nowrap" datetime="1983-06-29" data-sort-value="1983-06-29">29 juin 1983</time> <small style="line-height:1em;">(<a rel="nofollow" class="external text" href="https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1982_riconciliazione-penitenza_fr.html">lire en ligne</a>)</small>, «&#160;A. Le contexte anthropologique de la pénitence — II. Dimensions anthropologiques de la pénitence — 1.&#160;»<span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=La+r%C3%A9conciliation+et+la+p%C3%A9nitence&amp;rft.atitle=A.+Le+contexte+anthropologique+de+la+p%C3%A9nitence+%E2%80%94+II.+Dimensions+anthropologiques+de+la+p%C3%A9nitence+%E2%80%94+1.&amp;rft.place=Rome&amp;rft.pub=Saint-Si%C3%A8ge&amp;rft.aucorp=%5B%5BCommission+th%C3%A9ologique+internationale%5D%5D&amp;rft.date=1983-06-29&amp;rfr&#95;id=info%3Asid%2Ffr.wikipedia.org%3AStructures+de+p%C3%A9ch%C3%A9"></span></span>.</span>
+</li>
+<li id="cite&#95;note-Sollicitudo&#95;rei&#95;socialis&#95;§36-13"><span class="mw-cite-backlink"><a href="#cite_ref-Sollicitudo_rei_socialis_§36_13-0">↑</a> </span><span class="reference-text"> <a href="#Sollicitudo_rei_socialis_1987">Sollicitudo rei socialis 1987</a>, V. Une lecture théologique des problèmes modernes — § 36.</span>
+</li>
+<li id="cite&#95;note-Sollicitudo&#95;rei&#95;socialis&#95;§37-14"><span class="mw-cite-backlink"><a href="#cite_ref-Sollicitudo_rei_socialis_§37_14-0">↑</a> </span><span class="reference-text"> <a href="#Sollicitudo_rei_socialis_1987">Sollicitudo rei socialis 1987</a>, V. Une lecture théologique des problèmes modernes — § 37.</span>
+</li>
+<li id="cite&#95;note-Centesimus&#95;annus&#95;§38-15"><span class="mw-cite-backlink"><a href="#cite_ref-Centesimus_annus_§38_15-0">↑</a> </span><span class="reference-text"> <a href="#Centesimus_annus_1991">Centesimus annus 1991</a>, V. Une lecture théologique des problèmes modernes — § 38.</span>
+</li>
+<li id="cite&#95;note-L’Église,&#95;l&#39;homme&#95;et&#95;l&#39;économie-16"><span class="mw-cite-backlink"><a href="#cite_ref-L’Église,_l&#39;homme_et_l&#39;économie_16-0">↑</a> </span><span class="reference-text"> <span class="ouvrage" id="Senèze2005"><span class="ouvrage" id="Nicolas&#95;Senèze2005"><a href="/wiki/Nicolas_Sen%C3%A8ze" title="Nicolas Senèze">Nicolas <span class="nom&#95;auteur">Senèze</span></a>, «&#160;<cite style="font-style:normal">L’Église, l'homme et l'économie</cite>&#160;», <i><a href="/wiki/Les_%C3%89chos" title="Les Échos">Les Échos</a></i>,&#8206; <time class="nowrap" datetime="2005-05-12" data-sort-value="2005-05-12">12 mai 2005</time> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<span class="plainlinks noarchive"><a rel="nofollow" class="external text" href="https://portal.issn.org/resource/issn/0242-6056">0242-6056</a></span>, <a rel="nofollow" class="external text" href="https://www.lesechos.fr/2005/05/leglise-lhomme-et-leconomie-1065790">lire en ligne</a>)</small><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=L%E2%80%99%C3%89glise%2C+l%27homme+et+l%27%C3%A9conomie&amp;rft.jtitle=Les+%C3%89chos&amp;rft.aulast=Sen%C3%A8ze&amp;rft.aufirst=Nicolas&amp;rft.date=2005-05-12&amp;rft.issn=0242-6056&amp;rfr&#95;id=info%3Asid%2Ffr.wikipedia.org%3AStructures+de+p%C3%A9ch%C3%A9"></span></span></span>.</span>
+</li>
+<li id="cite&#95;note-L’évasion&#95;fiscale&#95;et&#95;la&#95;corruption,&#95;structures&#95;de&#95;péché-17"><span class="mw-cite-backlink"><a href="#cite_ref-L’évasion_fiscale_et_la_corruption,_structures_de_péché_17-0">↑</a> </span><span class="reference-text"> <span class="ouvrage" id="Polo2020"><span class="ouvrage" id="Jean-François&#95;Polo2020">Jean-François <span class="nom&#95;auteur">Polo</span>, «&#160;<cite style="font-style:normal">L’évasion fiscale et la corruption, “structures de péché” pour le pape</cite>&#160;», <i><a href="/wiki/La_Croix" title="La Croix">La Croix</a></i>,&#8206; <time class="nowrap" datetime="2020-02-06" data-sort-value="2020-02-06">6 février 2020</time> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<span class="plainlinks noarchive"><a rel="nofollow" class="external text" href="https://portal.issn.org/resource/issn/2270-5279">2270-5279</a></span>, <a rel="nofollow" class="external text" href="https://www.la-croix.com/Religion/Catholicisme/Pape/Levasion-fiscale-corruption-multinationales-structures-peche-pape-2020-02-06-1201076764">lire en ligne</a>)</small><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=L%E2%80%99%C3%A9vasion+fiscale+et+la+corruption%2C+%E2%80%9Cstructures+de+p%C3%A9ch%C3%A9%E2%80%9D+pour+le+pape&amp;rft.jtitle=La+Croix&amp;rft.aulast=Polo&amp;rft.aufirst=Jean-Fran%C3%A7ois&amp;rft.date=2020-02-06&amp;rft.issn=2270-5279&amp;rfr&#95;id=info%3Asid%2Ffr.wikipedia.org%3AStructures+de+p%C3%A9ch%C3%A9"></span></span></span>.</span>
+</li>
+<li id="cite&#95;note-Le&#95;Vatican&#95;veut&#95;excommunier&#95;les&#95;mafieux-18"><span class="mw-cite-backlink"><a href="#cite_ref-Le_Vatican_veut_excommunier_les_mafieux_18-0">↑</a> </span><span class="reference-text"> <span class="ouvrage" id="Besmond&#95;de&#95;Senneville2021"><span class="ouvrage" id="Loup&#95;Besmond&#95;de&#95;Senneville2021">Loup <span class="nom&#95;auteur">Besmond de Senneville</span>, «&#160;<cite style="font-style:normal">Le Vatican veut excommunier les mafieux</cite>&#160;», <i><a href="/wiki/La_Croix" title="La Croix">La Croix</a></i>,&#8206; <time class="nowrap" datetime="2021-05-10" data-sort-value="2021-05-10">10 mai 2021</time> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<span class="plainlinks noarchive"><a rel="nofollow" class="external text" href="https://portal.issn.org/resource/issn/2270-5279">2270-5279</a></span>, <a rel="nofollow" class="external text" href="https://www.la-croix.com/Religion/Le-Vatican-veut-excommunier-mafieux-2021-05-10-1201155049">lire en ligne</a>)</small><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Le+Vatican+veut+excommunier+les+mafieux&amp;rft.jtitle=La+Croix&amp;rft.aulast=Besmond+de+Senneville&amp;rft.aufirst=Loup&amp;rft.date=2021-05-10&amp;rft.issn=2270-5279&amp;rfr&#95;id=info%3Asid%2Ffr.wikipedia.org%3AStructures+de+p%C3%A9ch%C3%A9"></span></span></span>.</span>
+</li>
+<li id="cite&#95;note-Laudate&#95;Deum-19"><span class="mw-cite-backlink"><a href="#cite_ref-Laudate_Deum_19-0">↑</a> </span><span class="reference-text"> <span class="ouvrage" id="2023">«&#160;<cite style="font-style:normal">“Laudate Deum”, l'intégralité de l'exhortation apostolique du pape François</cite>&#160;», <i><a href="/wiki/Le_P%C3%A8lerin_(magazine)" title="Le Pèlerin (magazine)">Le Pèlerin</a></i>,&#8206; <time class="nowrap" datetime="2023-10-04" data-sort-value="2023-10-04">4 octobre 2023</time> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<span class="plainlinks noarchive"><a rel="nofollow" class="external text" href="https://portal.issn.org/resource/issn/2270-5279">2270-5279</a></span>, <a rel="nofollow" class="external text" href="https://www.lepelerin.com/religions-et-spiritualites/coin-pratique/laudate-deum-l-integralite-de-l-exhortation-apostolique-du-pape-francois-8291">lire en ligne</a>)</small><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%E2%80%9CLaudate+Deum%E2%80%9D%2C+l%27int%C3%A9gralit%C3%A9+de+l%27exhortation+apostolique+du+pape+Fran%C3%A7ois&amp;rft.jtitle=Le+P%C3%A8lerin&amp;rft.date=2023-10-04&amp;rft.issn=2270-5279&amp;rfr&#95;id=info%3Asid%2Ffr.wikipedia.org%3AStructures+de+p%C3%A9ch%C3%A9"></span></span>.</span>
+</li>
+</ol>
+</div>
+<div class="mw-heading mw-heading3"><h3 id="Bibliographie">Bibliographie</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit&amp;section=13" title="Modifier la section : Bibliographie" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;section=13" title="Modifier le code source de la section : Bibliographie"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div style="column-width:30em;column-gap:1em;" class="colonnes">
+<ul><li><span class="ouvrage" id="Sollicitudo&#95;rei&#95;socialis&#95;1987"><small>[Sollicitudo rei socialis 1987]</small> <a href="/wiki/Jean-Paul_II" title="Jean-Paul II">Jean-Paul II</a>, <cite class="italique"><a href="/wiki/Sollicitudo_rei_socialis" title="Sollicitudo rei socialis">Sollicitudo rei socialis</a></cite>, <a href="/wiki/Rome" title="Rome">Rome</a>, <a href="/wiki/Saint-Si%C3%A8ge" title="Saint-Siège">Saint-Siège</a>, <time class="nowrap" datetime="1987-12-30" data-sort-value="1987-12-30">30 décembre 1987</time> <small style="line-height:1em;">(<a rel="nofollow" class="external text" href="https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html">lire en ligne</a>)</small><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sollicitudo+rei+socialis&amp;rft.place=Rome&amp;rft.pub=Saint-Si%C3%A8ge&amp;rft.au=Jean-Paul+II&amp;rft.date=1987-12-30&amp;rfr&#95;id=info%3Asid%2Ffr.wikipedia.org%3AStructures+de+p%C3%A9ch%C3%A9"></span></span></li>
+<li><span class="ouvrage" id="Vitaliano&#95;R.&#95;Gorospe&#95;1988"><small>[Vitaliano R. Gorospe 1988]</small> <abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> Vitaliano R. <span class="nom&#95;auteur">Gorospe</span>, «&#160;<cite style="font-style:normal" lang="en">Sollicitudo Rei Socialis — Structures of Sin: Population, and Ecology</cite>&#160;», <i><span class="lang-en" lang="en"><a href="/wiki/Philippine_Studies" title="Philippine Studies">Philippine Studies</a></span></i>, <abbr class="abbr" title="volume">vol.</abbr>&#160;36, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;4,&#8206; <time class="nowrap" datetime="1988" data-sort-value="1988">automne 1988</time>, <abbr class="abbr" title="pages">p.</abbr>&#160;<span class="nowrap">506-514</span> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<span class="plainlinks noarchive"><a rel="nofollow" class="external text" href="https://portal.issn.org/resource/issn/2244-1093">2244-1093</a></span>, <a rel="nofollow" class="external text" href="https://www.jstor.org/stable/42633118">lire en ligne</a>)</small><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Sollicitudo+Rei+Socialis+%E2%80%94+Structures+of+Sin%3A+Population%2C+and+Ecology&amp;rft.jtitle=Philippine+Studies&amp;rft.issue=4&amp;rft.aulast=Gorospe&amp;rft.aufirst=Vitaliano+R.&amp;rft.date=1988&amp;rft.volume=36&amp;rft.pages=506-514&amp;rft.issn=2244-1093&amp;rfr&#95;id=info%3Asid%2Ffr.wikipedia.org%3AStructures+de+p%C3%A9ch%C3%A9"></span></span></li>
+<li><span class="ouvrage" id="Centesimus&#95;annus&#95;1991"><small>[Centesimus annus 1991]</small> <a href="/wiki/Jean-Paul_II" title="Jean-Paul II">Jean-Paul II</a>, <cite class="italique"><a href="/wiki/Centesimus_annus" title="Centesimus annus">Centesimus annus</a></cite>, <a href="/wiki/Rome" title="Rome">Rome</a>, <a href="/wiki/Saint-Si%C3%A8ge" title="Saint-Siège">Saint-Siège</a>, <time class="nowrap" datetime="1991-05-01" data-sort-value="1991-05-01"><abbr class="abbr" title="premier">1<sup>er</sup></abbr> mai 1991</time> <small style="line-height:1em;">(<a rel="nofollow" class="external text" href="https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html">lire en ligne</a>)</small><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Centesimus+annus&amp;rft.place=Rome&amp;rft.pub=Saint-Si%C3%A8ge&amp;rft.au=Jean-Paul+II&amp;rft.date=1991-05-01&amp;rfr&#95;id=info%3Asid%2Ffr.wikipedia.org%3AStructures+de+p%C3%A9ch%C3%A9"></span></span></li>
+<li><span class="ouvrage" id="Ramón&#95;Martínez&#95;de&#95;Pisón&#95;Liébanas&#95;2000"><small>[Ramón Martínez de Pisón Liébanas 2000]</small> Ramón <span class="nom&#95;auteur">Martínez de Pisón Liébanas</span>, <cite class="italique">Le péché et le mal</cite>, <a href="/wiki/Montr%C3%A9al" title="Montréal">Montréal</a>, <a href="/wiki/M%C3%A9diaspaul" title="Médiaspaul">Médiaspaul</a>, <abbr class="abbr" title="collection">coll.</abbr>&#160;«&#160;Brèches théologiques&#160;» (<abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;32), <time>2000</time>, 184&#160;<abbr class="abbr" title="pages">p.</abbr> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9782894204061" title="Spécial:Ouvrages de référence/9782894204061"><span class="nowrap">9782894204061</span></a>, <a href="/wiki/Online_Computer_Library_Center" title="Online Computer Library Center">OCLC</a>&#160;<span class="plainlinks noarchive nowrap"><a rel="nofollow" class="external text" href="https://worldcat.org/fr/title/1098564244">1098564244</a></span>, <a rel="nofollow" class="external text" href="https://www.erudit.org/fr/revues/ltp/2003-v59-n3-ltp757/008799ar/">présentation en ligne</a>)</small><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Le+p%C3%A9ch%C3%A9+et+le+mal&amp;rft.place=Montr%C3%A9al&amp;rft.pub=M%C3%A9diaspaul&amp;rft.aulast=Mart%C3%ADnez+de+Pis%C3%B3n+Li%C3%A9banas&amp;rft.aufirst=Ram%C3%B3n&amp;rft.date=2000&amp;rft.tpages=184&amp;rft.isbn=9782894204061&amp;rft&#95;id=info%3Aoclcnum%2F1098564244&amp;rfr&#95;id=info%3Asid%2Ffr.wikipedia.org%3AStructures+de+p%C3%A9ch%C3%A9"></span></span></li>
+<li><span class="ouvrage" id="Mathias&#95;Nebel&#95;2010"><small>[Mathias Nebel 2010]</small> Mathias <span class="nom&#95;auteur">Nebel</span>, «&#160;<cite style="font-style:normal">Péché structurel et nature humaine — Une relecture du concept de nature par le biais de son emploi dans les théologies du “péché du monde”</cite>&#160;», <i>Revue d'éthique et de théologie morale</i>, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;261,&#8206; <time>2010</time>, <abbr class="abbr" title="pages">p.</abbr>&#160;<span class="nowrap">133-153</span> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<span class="plainlinks noarchive"><a rel="nofollow" class="external text" href="https://portal.issn.org/resource/issn/2118-4518">2118-4518</a></span>, <a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier">DOI</a>&#160;<span class="plainlinks noarchive nowrap"><a rel="nofollow" class="external text" href="https://dx.doi.org/10.3917/retm.261.0133">10.3917/retm.261.0133</a></span>, <a rel="nofollow" class="external text" href="https://www.cairn.info/revue-d-ethique-et-de-theologie-morale-2010-HS-page-133.html">lire en ligne</a>)</small><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=P%C3%A9ch%C3%A9+structurel+et+nature+humaine+%E2%80%94+Une+relecture+du+concept+de+nature+par+le+biais+de+son+emploi+dans+les+th%C3%A9ologies+du+%E2%80%9Cp%C3%A9ch%C3%A9+du+monde%E2%80%9D&amp;rft.jtitle=Revue+d%27%C3%A9thique+et+de+th%C3%A9ologie+morale&amp;rft.issue=261&amp;rft.aulast=Nebel&amp;rft.aufirst=Mathias&amp;rft.date=2010&amp;rft.pages=133-153&amp;rft.issn=2118-4518&amp;rft&#95;id=info%3Adoi%2F10.3917%2Fretm.261.0133&amp;rfr&#95;id=info%3Asid%2Ffr.wikipedia.org%3AStructures+de+p%C3%A9ch%C3%A9"></span></span></li>
+<li><span class="ouvrage" id="Christoph&#95;Theobald&#95;2011"><small>[Christoph Theobald 2011]</small> <a href="/wiki/Christoph_Theobald" title="Christoph Theobald">Christoph <span class="nom&#95;auteur">Theobald</span></a>, «&#160;<cite style="font-style:normal">À propos de la théologie du péché</cite>&#160;», <i><a href="/wiki/Recherches_de_science_religieuse" title="Recherches de science religieuse">Recherches de science religieuse</a></i>, <abbr class="abbr" title="tome">t.</abbr>&#160;99, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;2,&#8206; <time>2011</time>, <abbr class="abbr" title="pages">p.</abbr>&#160;<span class="nowrap">259-264</span> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<span class="plainlinks noarchive"><a rel="nofollow" class="external text" href="https://portal.issn.org/resource/issn/2104-3884">2104-3884</a></span>, <a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier">DOI</a>&#160;<span class="plainlinks noarchive nowrap"><a rel="nofollow" class="external text" href="https://dx.doi.org/10.3917/rsr.112.0259">10.3917/rsr.112.0259</a></span>, <a rel="nofollow" class="external text" href="https://www.cairn.info/revue-recherches-de-science-religieuse-2011-2-page-259.htm">lire en ligne</a>)</small><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%C3%80+propos+de+la+th%C3%A9ologie+du+p%C3%A9ch%C3%A9&amp;rft.jtitle=Recherches+de+science+religieuse&amp;rft.issue=2&amp;rft.aulast=Theobald&amp;rft.aufirst=Christoph&amp;rft.date=2011&amp;rft.pages=259-264&amp;rft.issn=2104-3884&amp;rft&#95;id=info%3Adoi%2F10.3917%2Frsr.112.0259&amp;rfr&#95;id=info%3Asid%2Ffr.wikipedia.org%3AStructures+de+p%C3%A9ch%C3%A9"></span></span></li></ul>
+</div>
+<div class="mw-heading mw-heading2"><h2 id="Bibliographie_complémentaire"><span id="Bibliographie_compl.C3.A9mentaire"></span>Bibliographie complémentaire</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;veaction=edit&amp;section=14" title="Modifier la section : Bibliographie complémentaire" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;action=edit&amp;section=14" title="Modifier le code source de la section : Bibliographie complémentaire"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><span class="ouvrage" id="2019">«&#160;<a rel="nofollow" class="external text" href="https://www.lorientlejour.com/article/1164332/-structures-du-peche-un-concept-central-de-la-doctrine-sociale-de-leglise.html"><cite style="font-style:normal;">“Structures du péché”, un concept central de la doctrine sociale de l’Église</cite></a>&#160;», sur <span class="italique">L'Orient-Le Jour</span>, <time class="nowrap" datetime="2019-04-01" data-sort-value="2019-04-01"><abbr class="abbr" title="premier">1<sup>er</sup></abbr> avril 2019</time> <small style="line-height:1em;">(consulté le <time class="nowrap" datetime="2022-10-26" data-sort-value="2022-10-26">26 octobre 2022</time>)</small></span></li></ul>
+<ul id="bandeau-portail" class="bandeau-portail"><li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><span class="noviewer" typeof="mw:File"><a href="/wiki/Portail:Th%C3%A9ologie" title="Portail de la théologie"><img alt="icône décorative" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/God_In_Religions_1.png/40px-God_In_Religions_1.png" decoding="async" width="21" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/God_In_Religions_1.png/60px-God_In_Religions_1.png 2x" data-file-width="425" data-file-height="494" /></a></span></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Th%C3%A9ologie" title="Portail:Théologie">Portail de la théologie</a></span> </span></li> <li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><span class="noviewer skin-invert-image" typeof="mw:File"><a href="/wiki/Portail:Christianisme" title="Portail du christianisme"><img alt="icône décorative" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Latin_Cross.svg/20px-Latin_Cross.svg.png" decoding="async" width="17" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Latin_Cross.svg/40px-Latin_Cross.svg.png 1.5x" data-file-width="280" data-file-height="400" /></a></span></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Christianisme" title="Portail:Christianisme">Portail du christianisme</a></span> </span></li>                   </ul>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐ff4bf79f8‐4b7rk
+Cached time: 20251229055211
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.220 seconds
+Real time usage: 0.288 seconds
+Preprocessor visited node count: 2191/1000000
+Revision size: 19602/2097152 bytes
+Post‐expand include size: 60219/2097152 bytes
+Template argument size: 15599/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 21293/5000000 bytes
+Lua time usage: 0.093/10.000 seconds
+Lua memory usage: 4421601/52428800 bytes
+Number of Wikibase entities loaded: 1/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  243.634      1 -total
+ 29.50%   71.860      1 Modèle:Références
+ 28.70%   69.923      1 Modèle:Portail
+ 16.25%   39.580      1 Modèle:Catégorisation_badges
+ 13.81%   33.646      8 Modèle:Article
+ 10.25%   24.979     15 Modèle:Citation
+  9.15%   22.294      1 Modèle:Lang
+  8.19%   19.965      2 Modèle:Date-
+  7.89%   19.226      1 Modèle:Colonnes
+  6.61%   16.104      1 Modèle:Suivi_des_biographies
+-->
+
+<!-- Saved in parser cache with key frwiki:pcache:15027854:|#|:idhash:canonical and timestamp 20251229055211 and revision id 216753649. Rendering was triggered because: page_view
+ -->
+</div><noscript><img src="https://fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Ce document provient de «&#160;<a dir="ltr" href="https://fr.wikipedia.org/w/index.php?title=Structures_de_péché&amp;oldid=216753649">https://fr.wikipedia.org/w/index.php?title=Structures_de_péché&amp;oldid=216753649</a>&#160;».</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:P%C3%A9ch%C3%A9" title="Catégorie:Péché">Péché</a></li><li><a href="/wiki/Cat%C3%A9gorie:Jean-Paul_II" title="Catégorie:Jean-Paul II">Jean-Paul II</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Portail:Th%C3%A9ologie/Articles_li%C3%A9s" title="Catégorie:Portail:Théologie/Articles liés">Portail:Théologie/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Religions_et_croyances/Articles_li%C3%A9s" title="Catégorie:Portail:Religions et croyances/Articles liés">Portail:Religions et croyances/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Christianisme/Articles_li%C3%A9s" title="Catégorie:Portail:Christianisme/Articles liés">Portail:Christianisme/Articles liés</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> La dernière modification de cette page a été faite le 12 juillet 2024 à 20:27.</li>
+	<li id="footer-info-copyright"><span style="white-space: normal"><a href="/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia" title="Wikipédia:Citation et réutilisation du contenu de Wikipédia">Droit d'auteur</a>&#160;: les textes sont disponibles sous <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">licence Creative Commons attribution, partage dans les mêmes conditions</a>&#160;; d’autres conditions peuvent s’appliquer. Voyez les <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr">conditions d’utilisation</a> pour plus de détails, ainsi que les <a href="/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques" title="Wikipédia:Crédits graphiques">crédits graphiques</a>. En cas de réutilisation des textes de cette page, voyez <a href="/wiki/Sp%C3%A9cial:Citer/Structures_de_p%C3%A9ch%C3%A9" title="Spécial:Citer/Structures de péché">comment citer les auteurs et mentionner la licence</a>.<br />
+Wikipedia® est une marque déposée de la <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, organisation de bienfaisance régie par le paragraphe <a href="/wiki/501c" title="501c">501(c)(3)</a> du code fiscal des États-Unis.</span><br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/fr">Politique de confidentialité</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia">À propos de Wikipédia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux">Avertissements</a></li>
+	<li id="footer-places-contact"><a href="//fr.wikipedia.org/wiki/Wikipédia:Contact">Contact</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Contacts juridiques &amp; sécurité</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code de conduite</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Développeurs</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikipedia.org">Statistiques</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+	<li id="footer-places-mobileview"><a href="//fr.wikipedia.org/w/index.php?title=Structures_de_p%C3%A9ch%C3%A9&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left vector-button-flush-right" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Rechercher</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Rechercher sur Wikipédia">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Spécial:Recherche">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Rechercher</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Sommaire" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Basculer la table des matières"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Basculer la table des matières</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Structures de péché</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Ajouter des langues</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Ajouter un sujet</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8f8dcf6c-gp5kn","wgBackendResponseTime":129,"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.288","ppvisitednodes":{"value":2191,"limit":1000000},"revisionsize":{"value":19602,"limit":2097152},"postexpandincludesize":{"value":60219,"limit":2097152},"templateargumentsize":{"value":15599,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":21293,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00%  243.634      1 -total"," 29.50%   71.860      1 Modèle:Références"," 28.70%   69.923      1 Modèle:Portail"," 16.25%   39.580      1 Modèle:Catégorisation_badges"," 13.81%   33.646      8 Modèle:Article"," 10.25%   24.979     15 Modèle:Citation","  9.15%   22.294      1 Modèle:Lang","  8.19%   19.965      2 Modèle:Date-","  7.89%   19.226      1 Modèle:Colonnes","  6.61%   16.104      1 Modèle:Suivi_des_biographies"]},"scribunto":{"limitreport-timeusage":{"value":"0.093","limit":"10.000"},"limitreport-memusage":{"value":4421601,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-ff4bf79f8-4b7rk","timestamp":"20251229055211","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Structures de p\u00e9ch\u00e9","url":"https:\/\/fr.wikipedia.org\/wiki\/Structures_de_p%C3%A9ch%C3%A9","sameAs":"http:\/\/www.wikidata.org\/entity\/Q112304063","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q112304063","author":{"@type":"Organization","name":"Contributeurs aux projets Wikimedia"},"publisher":{"@type":"Organization","name":"Fondation Wikimedia, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2022-06-09T12:59:47Z","dateModified":"2024-07-12T19:27:54Z","headline":"p\u00e9ch\u00e9 induit par les structures \u00e9conomiques et sociales qui contraignent l'individu"}</script>
+</body>
+</html>

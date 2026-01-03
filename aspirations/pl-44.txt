@@ -1,0 +1,638 @@
+HTTP/2 200 
+date: Sat, 03 Jan 2026 16:49:07 GMT
+content-type: text/html
+content-length: 94109
+access-control-allow-headers: Content-Type, Authorization
+access-control-allow-methods: GET,POST
+cache-control: max-age=0, no-cache, no-store, must-revalidate
+content-security-policy: upgrade-insecure-requests;
+cross-origin-embedder-policy: unsafe-none; report-to='default'
+cross-origin-embedder-policy-report-only: unsafe-none; report-to='default'
+cross-origin-opener-policy: unsafe-none
+cross-origin-opener-policy-report-only: unsafe-none; report-to='default'
+cross-origin-resource-policy: cross-origin
+expires: max-age=A10368000, public
+last-modified: Sat, 03 Jan 2026 13:29:36 GMT
+permissions-policy: accelerometer=(), autoplay=(), camera=(), cross-origin-isolated=(), display-capture=(self), encrypted-media=(), fullscreen=*, geolocation=(self), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=*, picture-in-picture=*, publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=*, usb=(), xr-spatial-tracking=(), gamepad=(), serial=()
+pragma: no-cache
+referrer-policy: strict-origin-when-cross-origin
+server: IdeaWebServer/6.3.2
+strict-transport-security: max-age=63072000
+x-content-security-policy: default-src 'self'; img-src *; media-src * data:;
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-permitted-cross-domain-policies: none
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="pl-PL">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="pl-PL">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="pl-PL">
+<!--<![endif]-->
+<head>
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-114407720-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<meta charset="UTF-8" />
+<meta name="deklaracja-dostępności" content="https://tworczosc.com.pl/deklaracja-dostepnosci/">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="format-detection" content="telephone=no">
+<title>Miesięcznik Twórczość &raquo; „Inne życie”.O trudnej przyjaźni Czesława Miłosza i Jarosława Iwaszkiewicza</title>
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://tworczosc.com.pl/xmlrpc.php" />
+<link rel="shortcut icon" href="https://tworczosc.com.pl/wp-content/themes/bazinga/images/favicon.png" />
+<link rel="stylesheet" href="https://use.typekit.net/khe5tcj.css">
+<!--[if lt IE 9]>
+<script src="https://tworczosc.com.pl/wp-content/themes/twentysixteen/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>„Inne życie”.O trudnej przyjaźni Czesława Miłosza i Jarosława Iwaszkiewicza &#8211; Miesięcznik Twórczość</title>
+<style>
+#wpadminbar #wp-admin-bar-wccp_free_top_button .ab-icon:before {
+content: "\f160";
+color: #02CA02;
+top: 3px;
+}
+#wpadminbar #wp-admin-bar-wccp_free_top_button .ab-icon {
+transform: rotate(45deg);
+}
+</style>
+<meta name='robots' content='max-image-preview:large' />
+<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/ca968adab1f89160d71b8ff9/script.js"></script><link rel="alternate" type="application/rss+xml" title="Miesięcznik Twórczość &raquo; Kanał z wpisami" href="https://tworczosc.com.pl/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/tworczosc.com.pl\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+img.wp-smiley, img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 0.07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='wp-block-library-css' href='https://tworczosc.com.pl/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//tworczosc.com.pl/wp-content/cache/wpfc-minified/7yjl2u0z/a7ic9.css" media="all"/>
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--dark-gray: #1a1a1a;--wp--preset--color--medium-gray: #686868;--wp--preset--color--light-gray: #e5e5e5;--wp--preset--color--blue-gray: #4d545c;--wp--preset--color--bright-blue: #007acc;--wp--preset--color--light-blue: #9adffd;--wp--preset--color--dark-brown: #402b30;--wp--preset--color--medium-brown: #774e24;--wp--preset--color--dark-red: #640c1f;--wp--preset--color--bright-red: #ff675f;--wp--preset--color--yellow: #ffef8e;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<!-- <link rel='stylesheet' id='contact-form-7-css' href='https://tworczosc.com.pl/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4' media='all' /> -->
+<!-- <link rel='stylesheet' id='photoswipe-core-css-css' href='https://tworczosc.com.pl/wp-content/plugins/photoswipe-masonry/photoswipe-dist/photoswipe.css?ver=6.8.3' media='all' /> -->
+<!-- <link rel='stylesheet' id='pswp-skin-css' href='https://tworczosc.com.pl/wp-content/plugins/photoswipe-masonry/photoswipe-dist/default-skin/default-skin.css?ver=6.8.3' media='all' /> -->
+<!-- <link rel='stylesheet' id='bootstrap-css-css' href='https://tworczosc.com.pl/wp-content/themes/bazinga/css/bootstrap.min.css' media='all' /> -->
+<!-- <link rel='stylesheet' id='swiper-css-css' href='https://tworczosc.com.pl/wp-content/themes/bazinga/css/swiper.min.css' media='all' /> -->
+<!-- <link rel='stylesheet' id='twentysixteen-fonts-css' href='https://tworczosc.com.pl/wp-content/themes/twentysixteen/fonts/merriweather-plus-inconsolata.css?ver=20230328' media='all' /> -->
+<!-- <link rel='stylesheet' id='genericons-css' href='https://tworczosc.com.pl/wp-content/themes/twentysixteen/genericons/genericons.css?ver=20201208' media='all' /> -->
+<!-- <link rel='stylesheet' id='twentysixteen-style-css' href='https://tworczosc.com.pl/wp-content/themes/bazinga/style.css?ver=20250715' media='all' /> -->
+<!-- <link rel='stylesheet' id='twentysixteen-block-style-css' href='https://tworczosc.com.pl/wp-content/themes/twentysixteen/css/blocks.css?ver=20240817' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//tworczosc.com.pl/wp-content/cache/wpfc-minified/1o7yikzh/a7ic9.css" media="all"/>
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css' href='https://tworczosc.com.pl/wp-content/themes/twentysixteen/css/ie.css?ver=20170530' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css' href='https://tworczosc.com.pl/wp-content/themes/twentysixteen/css/ie8.css?ver=20170530' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css' href='https://tworczosc.com.pl/wp-content/themes/twentysixteen/css/ie7.css?ver=20170530' media='all' />
+<![endif]-->
+<script src='//tworczosc.com.pl/wp-content/cache/wpfc-minified/e4n4f1cy/a7ic9.js' type="text/javascript"></script>
+<!-- <script src="https://tworczosc.com.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script> -->
+<!-- <script src="https://tworczosc.com.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script> -->
+<!-- <script src="https://tworczosc.com.pl/wp-content/plugins/photoswipe-masonry/photoswipe-dist/photoswipe.min.js?ver=6.8.3" id="photoswipe-js"></script> -->
+<!-- <script src="https://tworczosc.com.pl/wp-content/plugins/photoswipe-masonry/photoswipe-masonry.js?ver=6.8.3" id="photoswipe-masonry-js-js"></script> -->
+<!-- <script src="https://tworczosc.com.pl/wp-content/plugins/photoswipe-masonry/photoswipe-dist/photoswipe-ui-default.min.js?ver=6.8.3" id="photoswipe-ui-default-js"></script> -->
+<!-- <script src="https://tworczosc.com.pl/wp-content/plugins/photoswipe-masonry/masonry.pkgd.min.js?ver=6.8.3" id="photoswipe-masonry-js"></script> -->
+<!-- <script src="https://tworczosc.com.pl/wp-content/plugins/photoswipe-masonry/imagesloaded.pkgd.min.js?ver=6.8.3" id="photoswipe-imagesloaded-js"></script> -->
+<!-- <script src="https://tworczosc.com.pl/wp-content/themes/bazinga/js/onLoad.js?ver=6.8.3" id="onLoad-js"></script> -->
+<!-- <script src="https://tworczosc.com.pl/wp-content/themes/bazinga/js/swiper.min.js?ver=6.8.3" id="swiper-js"></script> -->
+<!--[if lt IE 9]>
+<script src="https://tworczosc.com.pl/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3" id="twentysixteen-html5-js"></script>
+<![endif]-->
+<script id="twentysixteen-script-js-extra">
+var screenReaderText = {"expand":"rozwi\u0144 menu potomne","collapse":"zwi\u0144 menu potomne"};
+</script>
+<script src='//tworczosc.com.pl/wp-content/cache/wpfc-minified/qtkhukfc/a7ic9.js' type="text/javascript"></script>
+<!-- <script src="https://tworczosc.com.pl/wp-content/themes/twentysixteen/js/functions.js?ver=20230629" id="twentysixteen-script-js" defer data-wp-strategy="defer"></script> -->
+<link rel="https://api.w.org/" href="https://tworczosc.com.pl/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tworczosc.com.pl/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<link rel="canonical" href="https://tworczosc.com.pl/artykul/inne-zycie-o-trudnej-przyjazni-czeslawa-milosza-i-jaroslawa-iwaszkiewicza/" />
+<link rel='shortlink' href='https://tworczosc.com.pl/?p=4293' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://tworczosc.com.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftworczosc.com.pl%2Fartykul%2Finne-zycie-o-trudnej-przyjazni-czeslawa-milosza-i-jaroslawa-iwaszkiewicza%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://tworczosc.com.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftworczosc.com.pl%2Fartykul%2Finne-zycie-o-trudnej-przyjazni-czeslawa-milosza-i-jaroslawa-iwaszkiewicza%2F&#038;format=xml" />
+<script id="wpcp_disable_selection" type="text/javascript">
+var image_save_msg='You are not allowed to save images!';
+var no_menu_msg='Context Menu disabled!';
+var smessage = "Treść niedostępna do kopiowania.";
+function disableEnterKey(e)
+{
+var elemtype = e.target.tagName;
+elemtype = elemtype.toUpperCase();
+if (elemtype == "TEXT" || elemtype == "TEXTAREA" || elemtype == "INPUT" || elemtype == "PASSWORD" || elemtype == "SELECT" || elemtype == "OPTION" || elemtype == "EMBED")
+{
+elemtype = 'TEXT';
+}
+if (e.ctrlKey){
+var key;
+if(window.event)
+key = window.event.keyCode;     //IE
+else
+key = e.which;     //firefox (97)
+//if (key != 17) alert(key);
+if (elemtype!= 'TEXT' && (key == 97 || key == 65 || key == 67 || key == 99 || key == 88 || key == 120 || key == 26 || key == 85  || key == 86 || key == 83 || key == 43 || key == 73))
+{
+if(wccp_free_iscontenteditable(e)) return true;
+show_wpcp_message('You are not allowed to copy content or view source');
+return false;
+}else
+return true;
+}
+}
+/*For contenteditable tags*/
+function wccp_free_iscontenteditable(e)
+{
+var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+var target = e.target || e.srcElement;
+var elemtype = e.target.nodeName;
+elemtype = elemtype.toUpperCase();
+var iscontenteditable = "false";
+if(typeof target.getAttribute!="undefined" ) iscontenteditable = target.getAttribute("contenteditable"); // Return true or false as string
+var iscontenteditable2 = false;
+if(typeof target.isContentEditable!="undefined" ) iscontenteditable2 = target.isContentEditable; // Return true or false as boolean
+if(target.parentElement.isContentEditable) iscontenteditable2 = true;
+if (iscontenteditable == "true" || iscontenteditable2 == true)
+{
+if(typeof target.style!="undefined" ) target.style.cursor = "text";
+return true;
+}
+}
+////////////////////////////////////
+function disable_copy(e)
+{	
+var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+var elemtype = e.target.tagName;
+elemtype = elemtype.toUpperCase();
+if (elemtype == "TEXT" || elemtype == "TEXTAREA" || elemtype == "INPUT" || elemtype == "PASSWORD" || elemtype == "SELECT" || elemtype == "OPTION" || elemtype == "EMBED")
+{
+elemtype = 'TEXT';
+}
+if(wccp_free_iscontenteditable(e)) return true;
+var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+var checker_IMG = '';
+if (elemtype == "IMG" && checker_IMG == 'checked' && e.detail >= 2) {show_wpcp_message(alertMsg_IMG);return false;}
+if (elemtype != "TEXT")
+{
+if (smessage !== "" && e.detail == 2)
+show_wpcp_message(smessage);
+if (isSafari)
+return true;
+else
+return false;
+}	
+}
+//////////////////////////////////////////
+function disable_copy_ie()
+{
+var e = e || window.event;
+var elemtype = window.event.srcElement.nodeName;
+elemtype = elemtype.toUpperCase();
+if(wccp_free_iscontenteditable(e)) return true;
+if (elemtype == "IMG") {show_wpcp_message(alertMsg_IMG);return false;}
+if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "OPTION" && elemtype != "EMBED")
+{
+return false;
+}
+}	
+function reEnable()
+{
+return true;
+}
+document.onkeydown = disableEnterKey;
+document.onselectstart = disable_copy_ie;
+if(navigator.userAgent.indexOf('MSIE')==-1)
+{
+document.onmousedown = disable_copy;
+document.onclick = reEnable;
+}
+function disableSelection(target)
+{
+//For IE This code will work
+if (typeof target.onselectstart!="undefined")
+target.onselectstart = disable_copy_ie;
+//For Firefox This code will work
+else if (typeof target.style.MozUserSelect!="undefined")
+{target.style.MozUserSelect="none";}
+//All other  (ie: Opera) This code will work
+else
+target.onmousedown=function(){return false}
+target.style.cursor = "default";
+}
+//Calling the JS function directly just after body load
+window.onload = function(){disableSelection(document.body);};
+//////////////////special for safari Start////////////////
+var onlongtouch;
+var timer;
+var touchduration = 1000; //length of time we want the user to touch before we do something
+var elemtype = "";
+function touchstart(e) {
+var e = e || window.event;
+// also there is no e.target property in IE.
+// instead IE uses window.event.srcElement
+var target = e.target || e.srcElement;
+elemtype = window.event.srcElement.nodeName;
+elemtype = elemtype.toUpperCase();
+if(!wccp_pro_is_passive()) e.preventDefault();
+if (!timer) {
+timer = setTimeout(onlongtouch, touchduration);
+}
+}
+function touchend() {
+//stops short touches from firing the event
+if (timer) {
+clearTimeout(timer);
+timer = null;
+}
+onlongtouch();
+}
+onlongtouch = function(e) { //this will clear the current selection if anything selected
+if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "EMBED" && elemtype != "OPTION")	
+{
+if (window.getSelection) {
+if (window.getSelection().empty) {  // Chrome
+window.getSelection().empty();
+} else if (window.getSelection().removeAllRanges) {  // Firefox
+window.getSelection().removeAllRanges();
+}
+} else if (document.selection) {  // IE?
+document.selection.empty();
+}
+return false;
+}
+};
+document.addEventListener("DOMContentLoaded", function(event) { 
+window.addEventListener("touchstart", touchstart, false);
+window.addEventListener("touchend", touchend, false);
+});
+function wccp_pro_is_passive() {
+var cold = false,
+hike = function() {};
+try {
+const object1 = {};
+var aid = Object.defineProperty(object1, 'passive', {
+get() {cold = true}
+});
+window.addEventListener('test', hike, aid);
+window.removeEventListener('test', hike, aid);
+} catch (e) {}
+return cold;
+}
+/*special for safari End*/
+</script>
+<script id="wpcp_disable_Right_Click" type="text/javascript">
+document.ondragstart = function() { return false;}
+function nocontext(e) {
+return false;
+}
+document.oncontextmenu = nocontext;
+</script>
+</head>
+<body data-rsssl=1 class="wp-singular artykul-template-default single single-artykul postid-4293 wp-embed-responsive wp-theme-twentysixteen wp-child-theme-bazinga unselectable inne-zycie-o-trudnej-przyjazni-czeslawa-milosza-i-jaroslawa-iwaszkiewicza">
+<div class="fStartDim"></div>
+<div class="fArrowUp"></div>
+<div class="fHeader">
+<div class="container">
+<div class="row fHeaderTop">	
+<div class="fMenuIcon"></div>
+<div class="fLogo"><a class="fBlock" href="https://tworczosc.com.pl"></a></div>
+<div class="fHeaderIcons">
+<div class="fHeaderIcon fFB"><div class="fHeaderIconBorder"></div><a class="fBlock" href="http://facebook.com/miesieczniktworczosc" target="_blank"></a></div>
+<div class="fHeaderIcon fSearch"><div class="fHeaderIconBorder"></div><!--<a class="fBlock" href="https://tworczosc.com.pl/wyszukiwarka"></a>--></div>
+<div class="fHeaderIcon fContrast"><div class="fHeaderIconBorder"></div><div class="fContrastInner"></div></div>
+<div class="fHeaderIcon fFontsize"><div class="fHeaderIconBorder"></div><a>Aa</a></div>
+<div class="fClear"></div>
+</div>
+</div>
+<div class="row fHeaderBottom">
+<div class="fLogoT"><a class="fBlock" href="https://tworczosc.com.pl"></a></div>
+<div class="fMenu">
+<div class="Menu 1"><ul id="menu-main-menu" class="menu"><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://tworczosc.com.pl/o-redakcji/">O redakcji</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://tworczosc.com.pl/aleja-zasluzonych/">Aleja zasłużonych</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://tworczosc.com.pl/baza-bibliograficzna/">Baza bibliograficzna</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a target="_blank" href="https://sklep.instytutksiazki.pl/kategoria/czasopisma/tworczosc/?orderby=date">Zamów</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://tworczosc.com.pl/archiwum/">Archiwum</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="https://tworczosc.com.pl/kontakt/">Kontakt</a></li>
+</ul></div>					</div>
+</div>
+</div>
+</div>
+<div class="fSearchBox">
+<div class="fSearchForm">
+<form role="search" method="get" class="search-form" action="https://tworczosc.com.pl/">
+<label>
+<span class="screen-reader-text">
+Szukaj:		</span>
+<input type="search" class="search-field" placeholder="Szukaj &hellip;" value="" name="s" />
+</label>
+<button type="submit" class="search-submit"><span class="screen-reader-text">
+Szukaj	</span></button>
+</form>
+</div>
+</div>
+<div class="fWrapper fSingleWrapper">
+<div class="container">
+<div class="row fSingleRow">
+<div class="col-lg-8">
+<div class="fSingleNumber fSectionTitle">02/2022<div class="fSingleNumberLogoT"></div></div>
+<div class="fSingleAuthor"><h1>Andrzej&nbsp;Franaszek</h1></div>
+<div class="fSingleTitle"><h1>„Inne życie”.<br/>O trudnej przyjaźni Czesława Miłosza i Jarosława Iwaszkiewicza</h1></div>
+<div class="fSingleContent">
+<div class="tab">
+<p style="padding-left: 50%;"><i>Dla Agnieszki i&#160;Roberta Papieskich</i></p>
+</div>
+<p></br></p>
+<div class="tab">
+<p style="padding-left: 50%;"><i> Znalazłem w&#160;starych papierach wiersz Miłosza </i>Sicilia sive Insula Mirandae<i> […]. Cały dzień czułem się omyty tym wierszem, tak jakbym z&#160;samego rana zażył kąpieli w&#160;wannie zarzuconej fiołkami. Cóż to&#160;za&#160;poeta wspaniały, którego czaru zdefiniować niepodobna, jeden z&#160;największych poetów naszego zmaltretowanego świata.</i></p>
+<p style="padding-left: 50%; margin: 0em 0em 0em 1em;">Jarosław Iwaszkiewicz<span class="note"><a title="Jarosław Iwaszkiewicz, „Dzienniki 1956–1963”, oprac. Agnieszka i&#160;Robert Papiescy, Radosław Romaniuk, Czytelnik, Warszawa 2010, s.&#160;185 i&#160;następne."><sup>1</sup></a></span></p>
+</div>
+<p></br></p>
+<div class="tab">
+<p style="padding-left: 50%;"><i>Nie zdradziłem poezji Jarosława.</i></p>
+<p style="padding-left: 50%; margin: 0em 0em 0em 1em;">Czesław Miłosz<span class="note"><a title="Czesław Miłosz, „Rok myśliwego”, Znak, Kraków 2001, s.&#160;209. Wszystkie cytaty z&#160;„Roku myśliwego” według tego wydania."><sup>2</sup></a></span></p>
+</div>
+<p></br></p>
+<div class="tab">Ostatniego dnia listopada 1930 roku Czesław Miłosz wysłał z&#160;Wilna do&#160;starszego od&#160;siebie o&#160;siedemnaście lat Jarosława Iwaszkiewicza pełen emocji list. Zaczynał od&#160;konwencjonalnej formułki „Szanowny Panie”, by&#160;w&#160;następnej linijce rzucić się na&#160;głęboką wodę wyznań:</div>
+<p></br></p>
+<div class="quote">Uwielbiam Pana. Każdy wiersz Pana jest dla mnie objawieniem. Dlatego zwracam się do&#160;Pana z&#160;prośbą o&#160;ocenę moich utworów. […] Niech Pan powie, Pan jest dla mnie najdroższym przyjacielem i&#160;mistrzem. Zdanie Pana będę uważał za&#160;rozstrzygające o&#160;tym, czy mam nadal traktować poważnie swoją pracę literacką. Jestem studentem wydziału prawa (na&#160;<k2>II</k2> roku), mam lat 19, pochodzę z&#160;Litwy –&#160;tyle informacji o&#160;sobie.</p>
+<div class="tab">Oskar Miłosz, którego misterium <i>Miguel Mañara</i> jest w&#160;przekładzie Br.&#160;Ostrowskiej, jest moim krewnym. Pan rozumie, że&#160;to&#160;podsyca hilaryczne marzenia we&#160;mnie.</p>
+<p>Rzadko przychodzi stan ekstatyczny. Przeważnie piszę na&#160;zimno i&#160;to&#160;mnie bardzo męczy. Nie mam oddechu i&#160;pozostaje mi tylko korzyć się przed napięciem <i>Dionizyj</i>.</p>
+<p>Z&#160;wierszy, które posyłam, <i>Kompozycja</i> i&#160;<i>Podróż</i> będą drukowane wkrótce w&#160;„Alma Mater Vilnensis”. Ale to&#160;wszystko głupstwo i&#160;póki Pan nie wyda swojej oceny, nic nie wiem o&#160;swoich tworach<span class="note"><a title="List Czesława Miłosza do&#160;Jarosława Iwaszkiewicza, Wilno, 30 listopada 1930 roku [w:] Czesław Miłosz, Jarosław Iwaszkiewicz, „Portret podwójny”, oprac. Barbara Toruńczyk, Robert Papieski, Zeszyty Literackie, Warszawa 2011, s.&#160;7. Następne cytaty z&#160;listów według tego wydania; dalej podaję tylko miejsce i&#160;datę listu."><sup>3</sup></a></span>.</div>
+</div>
+<p></br></p>
+<p>Przed podpisem dodał jeszcze: „zawsze Pana kochający”…</p>
+<p>Sporo można wyczytać z&#160;tych parunastu linijek. Stan duszy rodzącego się, niepewnego siebie, zagubionego, a&#160;zarazem oczywiście trawionego ambicją poety. Jego zwątpienia i&#160;nadzieje, a&#160;może też zaczątek strategii, na&#160;poły świadome szukanie sposobu wyrwania się z&#160;prowincjonalnej anonimowości. Osamotnienie, każące szukać mistrza, powiernika, przyjaciela, z&#160;którym połączyłoby go intymne pokrewieństwo, wspólnota artystycznego daru. Desperację, przełamującą nieśmiałość i&#160;zmuszającą do&#160;odsłonięcia się przed człowiekiem, który o&#160;nadawcy listu nigdy dotychczas nie słyszał. Potrzebę zrozumienia, kim jest, zbudowania własnej genealogii, choćby chwilowego, ale jednak nobilitowania się poprzez napomknienie o&#160;zaszczytnych rodzinnych koneksjach. Dobrą orientację w&#160;twórczości adresata, pozwalającą odwołać się i&#160;do&#160;zbioru <i>Dionizje</i>, i&#160;do&#160;powieści <i>Hilary, syn buchaltera</i>. Zresztą także późniejsze listy Miłosza pełne będą aluzji do&#160;twórczości autora <i>Brzeziny</i>, po&#160;pół wieku zaś Miłosz wspomni jeszcze w&#160;<i>Roku myśliwego</i>: „tomiki Iwaszkiewicza, ich szarawy, ale w&#160;dobrym gatunku papier, ich chropowate okładki, były dla mnie nie książkami, ale przedmiotami kultu”.</p>
+<p>Dodajmy jeszcze, że&#160;<i>Kompozycja</i> i&#160;<i>Podróż</i>, wiersze, które rzeczywiście stały się Miłoszowym debiutem, pełne metafizycznego zwątpienia zawartego choćby w&#160;słowach „pustka nad nami króluje”<span class="note"><a title="Czesław Miłosz, „Podróż” [w:] tenże, „Wiersze wszystkie”, Znak, Kraków 2015, s.&#160;30. Wszystkie wiersze Czesława Miłosza według tego wydania; dalej podaję tytuł wiersza, WW i&#160;numer strony."><sup>4</sup></a></span>, mogą być, wraz z&#160;anonsującym je listem do&#160;Iwaszkiewicza, początkiem opowieści o&#160;duchowej wędrówce Miłosza, swój kres znajdującej ostatecznie w&#160;próbach utwierdzenia wiary.<br />
+</br></p>
+<div class="tab"><b>Cierń w&#160;dłoni</b><br />
+Po&#160;raz pierwszy tę stronę pełną wyznań i&#160;zaklęć oraz następujące po&#160;niej kolejne listy Miłosza zobaczyłem przed bodaj piętnastu laty w&#160;warszawskiej Bibliotece Instytutu Badań Literackich, obracając skrzypiące rolki i&#160;wpatrując się w&#160;ekran czytnika mikrofilmów. Odcyfrowywałem słowa z&#160;wypiekami na&#160;policzkach, podobnie zresztą jak wtedy, gdy dane mi było poznać listy wymieniane przez Miłosza i&#160;Herberta. Korespondencja z&#160;autorem <i>Pana Cogito</i> odsłaniała nieznane wtedy oblicze relacji łączącej dwóch poetów, historię przyjaźni, w&#160;połowie lat dziewięćdziesiątych minionego stulecia prawie całkowicie przesłoniętą przez koszmar ataków Herberta, przez paszkwil o&#160;tytule <i>Chodasiewicz</i><span class="note"><a title="O&#160;relacji wiążącej obu poetów pisałem w&#160;książce „Miłosz. Biografia”, Kraków 2011."><sup>5</sup></a></span>. Korespondencja z&#160;Iwaszkiewiczem pokazywała Miłosza rozpoczynającego świadome życie intelektualne i&#160;artystyczne, mało jeszcze przypominającego autora tysięcy zapisanych stronic, jednego z&#160;najwspanialszych polskich poetów, noblistę. Tego Miłosza, którego znałem z&#160;Krakowa przełomu stuleci: człowieka mocnego jak dąb, swe cierpienia –&#160;później miałem to&#160;zrozumieć –&#160;skrywającego, już bardzo rzadko przypuszczającego innych do&#160;komitywy i&#160;raczej nie wyznającego –&#160;jak jego młodsze o&#160;długie dekady wcielenie –&#160;że&#160;„oschłość i&#160;sztuczność to&#160;choroba ludzi zanadto czułych” (list z&#160;września 1935 roku).</div>
+<p>Namawiałem wtedy zaprzyjaźnionego wydawcę, by&#160;opublikował listy z&#160;archiwum Iwaszkiewicza w&#160;postaci książki, tom taki rzeczywiście się ukazał, choć w&#160;nieco innym czasie i&#160;w&#160;innej oficynie<span class="note"><a title="Cytowany wyżej „Portret podwójny” w&#160;znakomitym opracowaniu Barbary Toruńczyk i&#160;Roberta Papieskiego."><sup>6</sup></a></span>. Dziś zaś wracam do&#160;tamtej lektury, sam też już nieco inny, by&#160;lepiej zrozumieć fascynujący krajobraz powiązań, które łączyły największych według mnie polskich pisarzy drugiej połowy <k2>XX</k2> wieku: Miłosza, Iwaszkiewicza, Herberta, Różewicza. Sploty, w&#160;których intelektualne batalie spotykają się z&#160;przekraczającą konflikty przyjaźnią, poczuciem braterstwa, ale też z&#160;nieufnością, zawiścią, ze&#160;zranioną miłością własną. Frapują mnie przemiany losów, choćby obserwowanie, jak dionizyjski i&#160;artystowski autor <i>Oktostychów</i> przemienia się w&#160;oficjalnego reprezentanta polskiej kultury, a&#160;po&#160;części także komunistycznego państwa, co&#160;Miłosz przedstawiał w&#160;<i>Traktacie poetyckim</i>: „Z&#160;barwnych kamieni składał gospodarstwo / Publicznym sprawom obcy Iwaszkiewicz, / Mówca późniejszy, tudzież obywatel / Pod naciskami twardej konieczności” (WW 414 i&#160;następne). Przyglądanie się temu pejzażowi przypomina, że&#160;z&#160;innymi ludźmi łączy nas coś innego niż wspólnota –&#160;zmieniających się przecież –&#160;poglądów, raczej trudniejsze do&#160;racjonalnej oceny pokrewieństwo charakterów, i&#160;że&#160;więź ta potrafi być zaskakująco mocna. Jak z&#160;dystansu lat autor <i>Brzeziny</i> wspominał pierwszy list i&#160;pierwsze spotkanie z&#160;Miłoszem na&#160;Stawisku: „tak się zaczęła przyjaźń, ta korespondencja i&#160;to&#160;obopólne rozczarowanie, tak się zaczął ten bolesny stosunek, który do&#160;dziś dnia cierniem tkwi jeżeli nie w&#160;sercu moim, to&#160;w&#160;dłoni”<span class="note"><a title="Jarosław Iwaszkiewicz, „Portrety na&#160;marginesach”, Więź, Warszawa 2004, s.&#160;94."><sup>7</sup></a></span>.<br />
+</br></p>
+<div class="tab"><b><i>„J’adore”</i></b><br />
+Miłosz z&#160;kolei, pod koniec lat osiemdziesiątych <k2>XX</k2> wieku poświęcając Iwaszkiewiczowi strony <i>Roku myśliwego</i>, sięgał do&#160;chwil wcześniejszych: „wieczór poetycki Tuwima w&#160;Wilnie ściągnął tłum, wieczór poetycki Iwaszkiewicza mnie zawstydził. Byłem wtedy jeszcze uczniem szkoły średniej. Prócz mnie (nie ośmieliłbym się do&#160;niego zbliżyć) w&#160;dużej sali Teatru na&#160;Pohulance siedziało może pięć czy sześć osób. Czytał jakieś swoje opowiadanie, które potwierdzało dość powszechną o&#160;nim opinię, że&#160;to&#160;taki «omdlewający esteta»”.</div>
+<p>Nie ośmielił się podejść, ale z&#160;czasem wysłał list, zapewne wtedy, gdy zapisywane utwory zaczęły domagać się od&#160;niego, by&#160;rozpoznał własne powołanie. Fakt, że&#160;podziwiany adresat odpowiedział, i&#160;to&#160;natychmiast<span class="note"><a title="List Miłosza jest datowany 30 listopada. Zachowała się na&#160;nim adnotacja Iwaszkiewicza: „odpowiedziałem 3&#160;grudnia”."><sup>8</sup></a></span>, wprawił go w&#160;stan, który powinniśmy chyba nazwać gorączką. W&#160;każdym razie kolejne listy przynoszą wyznania i&#160;deklaracje: „gdybym mógł, to&#160;napisałbym o&#160;Panu książkę i&#160;zatytułowałbym ją <i>J’adore</i>” (Wilno, 11&#160;grudnia 1930), „Uwielbiam”, czy też: „sprawa korespondencji z&#160;Panem jest dla mnie najważniejszym sensem życia obecnie” (Suwałki, 20&#160;grudnia 1930). Odpowiedzi na&#160;to&#160;nie znamy, listy Iwaszkiewicza zaginęły, podobnie jak jego dzienniki z&#160;lat trzydziestych, możemy wsłuchiwać się tylko w&#160;monolog młodego Miłosza, przerwany pojedynczą uratowaną kartką pocztową, wysłaną do&#160;Wilna z&#160;Paryża w&#160;marcu 1931 roku. Dawał na&#160;niej znać autor <i>Dionizji</i>: „Złotko! […] Bardzo bym chciał zobaczyć Ciebie –&#160;co&#160;porabiasz i&#160;co&#160;piszesz? Tęskno mi trochę do&#160;Ciebie i&#160;do&#160;pogadania z&#160;Tobą. Ściskam Cię bardzo mocno. Twój Jiwa”. Pisał zatem do&#160;młodziutkiego studenta ciepło, choć w&#160;zdecydowanie spokojniejszej tonacji, do&#160;czego skłaniać mogła i&#160;dostępna cudzym oczom forma –&#160;jak dawniej mówiono –&#160;„odkrytki” i&#160;przede wszystkim odmienna sytuacja życiowa. Na&#160;początku lat trzydziestych minionego wieku Iwaszkiewicz jest bowiem mężczyzną w&#160;sile wieku, mężem, ojcem dwóch córek, właścicielem dworu pod Warszawą, urzędnikiem państwowym, niewątpliwie nie najmocniej świecącą gwiazdą pośród skamandrytów, ale przecież uznanym pisarzem o&#160;sporym dorobku, a&#160;wreszcie człowiekiem o&#160;nieporównanie większych doświadczeniach miłosnych. Może także mężczyzną cokolwiek przyzwyczajonym do&#160;wyrazów hołdu, do&#160;siły atrakcji swej osobowości, w&#160;końcu trzy lata wcześniej otwierał list od&#160;innego dwudziestolatka, jeśli wierzyć fotografiom –&#160;co&#160;najmniej tak pięknego, jak młody Miłosz malarza Józefa Rajnfelda, który wyznawał z&#160;równą jak Miłosz bezpośredniością: „czytałem Pańskie książki i&#160;widuję Pana czasem na&#160;koncertach. Uwielbiam Pana”<span class="note"><a title="List Józefa Rajnfelda do&#160;Jarosława Iwaszkiewicza, Warszawa, 1928 [w:] „Portret młodego artysty. Listy Józefa Rajnfelda do&#160;Jarosława Iwaszkiewicza 1928–1938. Z&#160;notatkami adresata”, oprac. Paweł Hertz, Marek Zagańczyk, Wydawnictwo Tenten, Warszawa 1997, s.&#160;15. Do&#160;tej konstelacji zachwytów możemy dodać jeszcze późniejszy list –&#160;nieporównanie bardziej zdyscyplinowanego –&#160;Pawła Hertza: „Szanowny Panie! Wybaczy mi Pan, że&#160;niepokoję Go tym listem. List ten zawiera parę wierszy i&#160;prośbę, by&#160;Pan był łaskaw wydać o&#160;nich swój sąd. Sądząc, że&#160;Pan, jako jeden z&#160;najlepszych współczesnych poetów polskich, najlepiej chyba będzie mi mógł powiedzieć, czy warto pisać w&#160;dalszym ciągu, pozwalam sobie na&#160;przesłanie tego listu” –&#160;list Pawła Hertza do&#160;Jarosława Iwaszkiewicza, Warszawa, 5&#160;stycznia 1934 roku [w:] Paweł Hertz, Anna i&#160;Jarosław Iwaszkiewiczowie, „Korespondencja”, t. 1, 1934–1948, oprac. Agnieszka i&#160;Robert Papiescy, Zeszyty Literackie, Warszawa 2015, s.&#160;7."><sup>9</sup></a></span>.<br />
+</br></p>
+<div class="tab"><b>„Jak najwięcej bebechów”</b><br />
+Zatem w&#160;korespondencji z&#160;Iwaszkiewiczem z&#160;lat trzydziestych zeszłego wieku mówi do&#160;nas tylko Miłosz, ponieważ to&#160;jego głos się zachował, ale także dlatego, że&#160;to&#160;przede wszystkim on chciał mówić. Zwłaszcza z&#160;początku mówi naprawdę dużo i&#160;głównie o&#160;sobie. 11&#160;grudnia 1930 roku deklaruje: „chciałbym wybebeszyć się «całkowicie» –&#160;ale tymczasem to&#160;mi się nie udało, jeżeli Pan pozwoli, to&#160;napiszę jeszcze do&#160;Pana”, tydzień później dodaje: „chcę pisać o&#160;sobie. […] Jak najwięcej bebechów!”. Jest odcień ironii losu w&#160;tym, że&#160;składa te deklaracje człowiek, który w&#160;przyszłości będzie walczyć z&#160;tak zwaną bebechowatością literatury, starannie też będzie unikać zwierzeń i&#160;nawet się zastanawiać: „Dlaczego w&#160;moich wierszach / Tak mało autobiografii? Skąd ten pomysł, / Żeby co&#160;własne ukrywać jak chorobę?”(<i>Dawno i&#160;daleko</i>, WW 1037). Teraz jednak wykorzystuje to, że&#160;bodaj po&#160;raz pierwszy w&#160;życiu znalazł odpowiadającego mu intelektualnie partnera, że&#160;poprzez rozmowę z&#160;nim może dokonywać autoanalizy, aż&#160;kipi więc od&#160;myśli i&#160;uczuć, szuka dla siebie formuły, oceniając przy tym: „zwykle traktuję siebie albo zbyt pochlebnie, albo mieszam z&#160;błotem” (11&#160;grudnia). Rekonstruuje rodzinną genealogię, w&#160;której może sięgnąć <k2>XVI</k2> wieku i&#160;wspomnieć o&#160;późniejszym topnieniu ziemiańskiej fortuny –&#160;temat oczywiście nader literacki, doda zatem: „wszystko to&#160;bardzo romantyczne i&#160;schlebia mojej próżności” (20&#160;grudnia). Mówi o&#160;coraz trudniejszych relacjach z&#160;rodzicami, dotykając kompleksu, który dekady później opisze inny poeta, Tadeusz Różewicz, w&#160;książce <i>Matka odchodzi</i> ukazujący kłąb uczuć, jaki niesie w&#160;sobie dziecko przerastające intelektualnie matkę i&#160;ojca, odnoszące nieporównanie większe od&#160;nich życiowe sukcesy. Raz za&#160;razem daje wyraz potrzebie wyrwania się z&#160;maleńkiego Wilna, a&#160;tym bardziej z&#160;Suwałk, w&#160;których mieszkali jego rodzice. Marzy o&#160;Warszawie, jeszcze bardziej o&#160;„włóczędze do&#160;Zachodu”, czuje, że&#160;się dusi, zapewne na&#160;jakąś uwagę Iwaszkiewicza na&#160;temat uroków prowincji odpowiada wspomnieniem niekończących się podróży dzieciństwa, dochodząc do&#160;wniosku: „to&#160;też wywołuje na&#160;potem pewne skutki: żądzę ruchu, ruchu, ruchu, no i&#160;dlatego nienawidzę tego, co&#160;może dla Pana jest egzotyką” (Suwałki, 2&#160;stycznia 1931). Wiek dojrzały łatwiej akceptuje pozostawanie poza tętniącym sercem wydarzeń, czasem nawet mitologizuje oddalenie –&#160;jako drogę do&#160;skupienia, do&#160;duchowego czy artystycznego rozwoju, ambitna młodość natomiast pragnie ekspansji, tego, co&#160;dziewiętnastoletni Miłosz nazywał „marzeniem o&#160;«locie»”. W&#160;wieku dojrzałym poeta z&#160;goryczą przypomni sobie ten stan, zapisując w&#160;wierszu, że&#160;przecież „miało się być czymś w&#160;rodzaju archanioła” (<i>Dużo śpię</i>, WW 551).</div>
+<p>Przede wszystkim usiłuje uzyskać odpowiedź na&#160;najprostsze pytanie: „czy mam talent?”, i&#160;już wtedy boryka się z&#160;demonicznym splotem cech, które w&#160;wielkim stopniu budują pisarza: z&#160;egoizmem, nakierowaniem na&#160;własną twórczość, z&#160;postrzeganiem wszystkich doświadczeń jako materiału literackiego. Przy czym u&#160;Miłosza –&#160;co&#160;dla niego tym boleśniejsze –&#160;cechy te spotykać się będą z&#160;ostrą samoświadomością i&#160;poczuciem winy. Ledwie parę lat wcześniej nieszczęśliwy kochanek, który za&#160;pomocą rosyjskiej ruletki sprawdzał, czy pisane jest mu dalsze życie, teraz znów stara się znaleźć usprawiedliwienie dla swego istnienia: „kwestia «pisania» jest dla mnie bardzo ważna. Chwytam się tego jedynego sensu, jak tonący brzytwy. Poza tym nie mogę ułapić rzeczywistości; świat po&#160;prostu przecieka mi przez palce” (11&#160;grudnia 1930). Wyrzuca sobie, że&#160;nawet w&#160;najbardziej bolesnych chwilach, takich jak chwila śmierci babci, towarzyszyło mu „estetyzowanie i&#160;sceny ciągle układane” (20&#160;grudnia), jednocześnie opisując: „mam tzw. w&#160;dogmatyce «sumienie skrupulatne» i&#160;ciągle wyrzucam sobie, że&#160;kłamię” (11&#160;grudnia). Rozpoznaje, a&#160;przynajmniej wydaje mu się, że&#160;tak czyni, podobne cechy w&#160;Iwaszkiewiczu, w&#160;jego prześwitującej zza strof wierszy gwałtownej zmysłowości, pasji erotycznej pozostającej pod znakiem cierpienia, okrucieństwa i&#160;śmierci, pasji żywiącej nadzieję, iż&#160;pogoń za&#160;bogiem-kochankiem doprowadzi do&#160;wyzwalającej transgresji, co&#160;autor <i>Dionizji</i> zapisuje w&#160;finałowych liniach <i>Podróży po&#160;Warszawie</i>: „Uduszę go i&#160;wolno wywiercę mu ślepia. / Co&#160;przez lat tyle w&#160;każdej migały karecie, / I&#160;kości pogruchocę najbielsze na&#160;świecie, / I&#160;wargi me zeschnięte święta krew pozlepia”<span class="note"><a title="Jarosław Iwaszkiewicz, „Podróż po&#160;Warszawie” [w:] tenże, „Wiersze”, t. 1, Czytelnik, Warszawa 1977, s.&#160;112&#160;i&#160;nast. Wiersze Iwaszkiewicza według tego wydania; dalej podaję tytuł wiersza, tom (W1, W2) i&#160;numer strony."><sup>10</sup></a></span>. Wileński czytelnik tych słów dochodzi do&#160;wniosku, że&#160;jeśli nie z&#160;powodu talentu, to&#160;chociaż „dzięki posiadaniu takich brzydko-dionizyjskich popędów mogę choć trochę przybliżyć się do&#160;Ciebie” (Suwałki, kwiecień 1931). Mnie zaś przychodzi do&#160;głowy pytanie, czy –&#160;nawet nie do&#160;końca świadomie –&#160;swego autoportretu nie stylizował tak, by&#160;właśnie zbliżyć się do&#160;Iwaszkiewicza, a&#160;dokładnie: do&#160;takiego Iwaszkiewicza, jakiego sobie wyobrażał na&#160;podstawie jego poezji…</p>
+<p>W&#160;bardzo późnych latach swego życia, gdy do&#160;wizji ludzkiej egzystencji, jaką można odnaleźć w&#160;twórczości Iwaszkiewicza, będzie już Miłosz odnosił się z&#160;dużą dozą krytycyzmu, i&#160;tak wiersz poświęcony pamięci autora <i>Oktostychów</i> opatrzy tytułem <i>Mistrz mego rzemiosła</i>. W&#160;młodości deklarował wprost: „wiersze poprawiam według Twoich wskazówek” (Wilno, 12&#160;kwietnia 1931), z&#160;czasem oceniając, że&#160;lektura pierwszych tomów Iwaszkiewicza, odnaleziony tam „ogromny wybuch wszystkich form metrycznych”<span class="note"><a title="„Czesława Miłosza autoportret przekorny”, rozmowy przeprowadził Aleksander Fiut, Wydawnictwo Literackie, Kraków 2003, s.&#160;66."><sup>11</sup></a></span>, „szalone i&#160;nieoczekiwane załamania się rytmu, dysonansowe tony dzikości i&#160;słodyczy”<span class="note"><a title="Czesław Miłosz, „Historia literatury polskiej”, przeł. Maria Tarnowska, Znak, Kraków 2010, s.&#160;450."><sup>12</sup></a></span>, były dlań wyzwoleniem „z&#160;poezji tradycyjnie pisanej, poezji skamandrytów czy poezji Staffa”. Powody jego fascynacji były jednak głębsze od&#160;docenienia rewolucyjności Iwaszkiewiczowego stylu. Młody Miłosz nie tylko rozczytuje się w&#160;wierszach swego, jakbyśmy dziś powiedzieli, idola, ale przede wszystkim poprzez te utwory odczuwa rzeczywistość, od&#160;początku zresztą doskonale to&#160;rozumiejąc, pisząc otwarcie do&#160;autora <i>Kasyd</i>: „Pan kształtuje świat, po&#160;prostu widzę świat w&#160;barwach Pana” (2&#160;stycznia 1931).</p>
+<p>Większość z&#160;nas, w&#160;dzieciństwie i&#160;młodości zagorzałych czytelników, nieraz miała wrażenie, że&#160;w&#160;życiu „prawdziwym” przeżywamy tylko naśladownictwo czegoś, o&#160;czym wcześniej czytaliśmy, w&#160;wypadku wchodzącego w&#160;dorosłość Miłosza to&#160;poczucie jest szczególnie mocne, ale też –&#160;szczególnie ciekawe. Obok deklaracji uświadomienia sobie, iż&#160;wszystkie jego „porywy” to&#160;może „tylko piętno <i>Dionizji</i> czy <i>Księgi dnia i&#160;księgi nocy</i>” (11&#160;grudnia), w&#160;listach znajdziemy niedopowiedziane wyznania, świadectwa plątaniny uczuć towarzyszących młodemu poecie, który napomyka o&#160;przeżywaniu chwil szczególnych, gdy „patrzy się na&#160;tych, których się kocha, i&#160;nic nie można oprócz przygryzania ust –&#160;a&#160;odczuwa się przypływ szału, naprawdę szału, chciałoby się lecieć gdzieś z&#160;nożem [w] zębach, rozedrzeć na&#160;strzępy przedmiot miłości albo zamknąć w&#160;wieży i&#160;torturować głodem –&#160;a&#160;można tylko przygryzać usta i&#160;być słodkim do&#160;obrzydzenia” (Suwałki, kwiecień 1931). Miłosz siedemdziesięcioletni, próbując zrozumieć samego siebie sprzed pół wieku, uruchomi introspekcyjną sondę i&#160;dojdzie w&#160;<i>Roku myśliwego</i> do&#160;następującego wniosku: „sadomasochistyczna gwałtowność urzekała mnie u&#160;niego, bardziej może niż złoto jesieni i&#160;dojrzałych owoców”.</p>
+<p>Niezależnie przecież od&#160;tego, czy obiektem pożądania było młodzieńcze ciało czy przeszywający pięknem krajobraz, poprzez nie osiągane odczucie pełni istnienia –&#160;motorem egzystencji Iwaszkiewicza była zmysłowość, którą uprzytamniamy sobie, czytając jego <i>Dzienniki</i>, śledząc zachłanność i&#160;zarazem precyzję wpatrywania się w&#160;świat, a&#160;później –&#160;siłę pamięci ratującą i&#160;pozwalającą przeżywać na&#160;nowo drobiny tego świata. Czasem zresztą wszystkie te jakości spotykały się, jak choćby w&#160;tej epifanijnej chwili z&#160;lata roku 1974, gdy sędziwy już pisarz, łącząc wspomnienie dawnych przyjaźni z&#160;czystością kontemplacyjnego zachwytu, zapisze: „łubin późno się rozwinął i&#160;rozkwitła tylko jedna żółta kiść, taka czysta i&#160;nowa. Stanąłem przed nią jak wryty. Taka radość lata w&#160;niej mieszkała, żółta kiść łubinu zawierała w&#160;sobie tyle! Miałem uczucie, że&#160;to&#160;jeden ze&#160;Świerczyńskich zakwitł na&#160;polu. Na&#160;przykład Tomek, taki był uroczy i&#160;właśnie czysty, jak ta kiść łubinu. Za&#160;parę dni będzie tych łubinów więcej, ale ten jeden oszołomił mnie ilością treści, którą w&#160;sobie zawierał. Przez chwilę było cudownie, młodo i&#160;pachnąco”<span class="note"><a title="Jarosław Iwaszkiewicz, „Dzienniki 1964–1980”, oprac. Agnieszka i&#160;Robert Papiescy, Radosław Romaniuk, Czytelnik, Warszawa 2011, s.&#160;402."><sup>13</sup></a></span>.</p>
+<p>W&#160;jeszcze jednym fragmencie <i>Roku myśliwego</i> Miłosz podejrzewa, iż&#160;być może jego młodzieńcza fascynacja twórczością Iwaszkiewicza była efektem projekcji: „to&#160;ja wyposażyłem jego wiersze w&#160;coś, czego w&#160;nich nigdy nie było, przenosząc na&#160;nie mój własny erotyzm, moją żarłoczność, moją muzykę”, rzeczywistość wydaje się przecież inna. Nie tylko młody, ale i&#160;dojrzały Miłosz cechował się równą Iwaszkiewiczowi intensywnością przeżywania i&#160;pamiętania, a&#160;zatem zachodziło tutaj raczej niezwykłe powinowactwo. Autor <i>Nieobjętej ziemi</i> mógłby wręcz –&#160;po&#160;dokonaniu drobnych korekt –&#160;powtórzyć deklarację autora <i>Dionizji</i>”: „żaden biograf nie napisze dobrze mojej biografii, ponieważ w&#160;moim zwyczajnym, szarym życiu […] nie weźmie pod uwagę intensywności moich przeżyć, która to&#160;intensywność nadaje barwę […] najpospolitszym przebiegom”<span class="note"><a title="Jarosław Iwaszkiewicz, „Dzienniki 1911–1955”, oprac. Agnieszka i&#160;Robert Papiescy, Czytelnik, Warszawa 2008, s.&#160;409."><sup>14</sup></a></span>. A&#160;nawet w&#160;pewien sposób ją powtarzał, pisząc, że&#160;długi tor jego życia tak naprawdę „zasługuje na&#160;wzruszenie ramion / I&#160;jest tylko biografią, to&#160;znaczy zmyśleniem” (<i>Do&#160;leszczyny</i>, WW 1161).</p>
+<p>W&#160;Miłosza odczuwaniu egzystencji, odczuwaniu, które próbował przekazać Iwaszkiewiczowi na&#160;początku lat trzydziestych <k2>XX</k2> wieku, łączyły się z&#160;sobą erotyka, miłość własna, ale też religijność. Wiosną 1931 roku przyszły autor <i>Ziemi Ulro</i> ukazuje już nie „szanownemu panu”, lecz „Jarosławowi” walkę, którą toczy dzień za&#160;dniem –&#160;posłużmy się tytułem czytanej wtedy przez młodego poetę powieści Bernanosa –&#160;„pod słońcem szatana”:<br />
+</br></p>
+<div class="quote">To&#160;jest najzwyklejsze w&#160;świecie kuszenie –&#160;Jarosławie –&#160;wierzę w&#160;Diabła, naprawdę wierzę –&#160;on jest ciągle przy mnie –&#160;od&#160;dzieciństwa kusi […]. Ukazuje jak Chrystusowi na&#160;górze wszystkie skarby świata, najpiękniejsze rytmy wiersza, najpiękniejsze obrazy prozy, a&#160;potem mówi, że&#160;nic z&#160;tego nie jest mi dostępne, i&#160;kiedy gryzę sobie palce, powtarza, że&#160;jestem biednym opętanym grafomanem, albo otwiera przyszłość i&#160;pokazuje mnie jako <i>bourgeois</i>, który nie umie o&#160;niczym myśleć prócz weksli. Jątrzy i&#160;napełnia pychą cierpienia, a&#160;potem unicestwia tę ostatnią podłą masochistyczną radość szepcząc, że&#160;wszystko się wyrówna, uspokoi, że&#160;moje cierpienia są dziecinne i&#160;śmieszne. Nie umiem się modlić, bo&#160;przecież świętym nie jestem –&#160;Nie mam żadnej broni. Jarosław –&#160;powiedz –&#160;czy naprawdę cała moja męczarnia nic nie znaczy, czy cała moja męczarnia jest nawozem, na&#160;którym wyrośnie jedynie wasiliok poczciwego „strasznego mieszczanina”? I&#160;w&#160;tych moich słowach jest ta przeklęta pycha, i&#160;te słowa On mi dyktuje.</div>
+<p></br></p>
+<p>Na&#160;koniec zaś z&#160;udręczeniem odnajduje się w&#160;figurze bohatera zaczerpniętej z&#160;<i>Kasyd</i>, kolejnego tomu Iwaszkiewicza, powtarzając za&#160;nim: „to&#160;ja jestem «smutny zabłąkaniec, poeta bez talentu»” (kwiecień 1931).</p>
+<p>Odczuwa swój los z&#160;gwałtownością, która kojarzyć się może z&#160;dynamiką mistycznych wzlotów i&#160;upadków, zbliżenia do&#160;boskiej światłości i&#160;strącenia w&#160;ciemność zwątpień, zresztą sam Miłosz, już niedługo autor wiersza <i>Do&#160;księdza&#160;Ch.</i> (WW 103), z&#160;wersami: „O&#160;światło potępienia, o&#160;wieczną zatratę / modliłem się wtedy, a&#160;ręce skrzydlate / czułem w&#160;każdym powiewie muskającym twarz”, ma świadomość –&#160;co&#160;dokumentują listy –&#160;splatającego się w&#160;nim zapału artystycznego i&#160;religijnego. Opisując dni zwątpienia w&#160;siebie i&#160;pisarskiej posuchy, konkluduje: „chciałoby się po&#160;prostu leżeć na&#160;zimnych płytach krzyżem”, by&#160;dodać w&#160;następnym zdaniu: „jedyne, co&#160;mogłoby mnie uratować, to&#160;pisanie” (Wilno, 3&#160;lutego 1931). Dwa dni wcześniej przewiduje z&#160;dozą dramatyzmu: „jeżeli będę żyć […] to&#160;chyba skończę na&#160;neo-katolicyzmie”, rozwijając myśl o&#160;swojej „umysłowości mnicha”, o&#160;tym, że&#160;cechuje go „chrześcijański masochizm”: „czuję się tylko wtedy dobrze, jeżeli mam grzech, jeżeli mogę powiedzieć o&#160;swojej małości”. Jeszcze wcześniej wobec doświadczenia wiary, czy raczej wiary zinstytucjonalizowanej, przyjmuje pozycję wyznaczaną zarazem przez dystans i&#160;przez fascynację: „chciałbym być prawowiernym katolikiem. Tak mnie imponuje ten most zawieszony w&#160;próżni. Konstrukcja w&#160;sobie zamknięta, samowystarczalna; nie kusząca się o&#160;uchwycenie prawdy świata zewnętrznego”, znamiennie kończąc wątek życzeniem: „móc stworzyć choć jeden wiersz tak zamknięty i&#160;obiektywny!!!” (11&#160;grudnia 1930). Mógłbym od&#160;razu dodać, że&#160;takie pojmowanie religii przez młodego artystę zmieni wkrótce spotkanie z&#160;poetą i&#160;mistykiem Oskarem Miłoszem, o&#160;którym wzmianka znalazła się w&#160;pierwszym liście do&#160;autora <i>Kasyd</i>.</p>
+<p>I&#160;znów trudno nie zauważyć, że&#160;mimo wielu różnic, wszystkie te wyznania mogły budować głębokie porozumienie między Iwaszkiewiczem i&#160;jego korespondentem. Wszak uwielbiany przez Miłosza pisarz był naturą tyleż zmysłową, co&#160;<i>par excellence</i> religijną<span class="note"><a title="Bodaj najpełniejszy opis duchowego pejzażu zawartego w&#160;twórczości autora „Młyna nad Utratą” przynosi książka Piotra Mitznera „Na&#160;progu. Doświadczenia religijne w&#160;tekstach Jarosława Iwaszkiewicza”, Wydawnictwo Uniwersytetu Kardynała Stefana Wyszyńskiego, Warszawa 2003."><sup>15</sup></a></span>, o&#160;ogromnej rozpiętości duchowych doznań, których istotną składową była niechęć wobec ortodoksji, nakierowanie na&#160;poszukiwanie, wędrówkę, a&#160;nie spokojne zarzucenie kotwicy w&#160;porcie pewników. Parę lat przed poznaniem Miłosza zżymał się na&#160;manifestowanie religijnej pewności przez Jerzego Lieberta, komentując w&#160;liście do&#160;żony: „nie marzę o&#160;regionach doskonałości, gdzie przebywa dumny duch Jurka […] jako starego grzesznika nic mnie bardziej nie irytuje, jak doskonałość cnoty i&#160;jej pewność siebie”<span class="note"><a title="List Jarosława Iwaszkiewicza do&#160;Anny Iwaszkiewiczowej, Paryż, 10 marca 1926 roku [w:] Anna i&#160;Jarosław Iwaszkiewiczowie, „Listy 1922–1926”, oprac. Małgorzata Bojanowska, Ewa Cieślak, Czytelnik, Warszawa 2012, s.&#160;442."><sup>16</sup></a></span>. Parę lat po&#160;poznaniu autora <i>Podróży</i> powróci do&#160;podobnych wątków w&#160;prozie o&#160;wspaniałym i&#160;symbolicznym tytule <i>Młyn nad Utratą</i>, której jeden z&#160;bohaterów, Juliusz Zdanowski, szczyci się ową pewnością siebie cnoty, jego duszy nie nawiedzają już „paroksyzmy strachu ani tragicznych zwątpień”, a&#160;wątpliwości targające jego przyjacielem, Karolem Hopferem, traktuje z&#160;„lekceważeniem, właściwym osobom, które posiadły pewność i&#160;znajdują się raz na&#160;zawsze w&#160;bezpiecznej przystani”<span class="note"><a title="Jarosław Iwaszkiewicz, „Młyn nad Utratą” [w:] tenże, „Opowiadania”, t. 1, Czytelnik, Warszawa 1979, s.&#160;348; kolejne cytaty według tego wydania."><sup>17</sup></a></span>. Nietrudno się domyślić, że&#160;za&#160;ową nadmierną pewność, będącą bodaj przebraniem pychy, Julek zapłaci cenę najwyższą –&#160;upadku i&#160;śmierci w&#160;poczuciu grzechu. A&#160;przecież, by&#160;obraz był bardziej złożony, zdąży wcześniej przejrzeć otaczający nas świat –&#160;dojrzeć za&#160;nim rzeczywistość boską. Tę samą, którą być może odwiedzał Oskar Miłosz, tę samą, którą Czesław Miłosz dekady później nazwie „podszewką świata”. W&#160;południe upalnego dnia, gdy z&#160;daleka niósł się „głos dzwonów […] na&#160;Anioł Pański”, Julkowi niespodziewanie zielona sadzawka, rząd jabłoni, nabiegła fioletem chmura, „ten cały cichy pejzaż wydał się”:<br />
+</br></p>
+<div class="quote">zasłoną, zapuszczoną na&#160;jego oczy –&#160;i&#160;uczuł poza tą zasłoną obecność tak rzeczywistą i&#160;dojmującą innego świata, że&#160;pod wpływem siły tego przeżycia osłabł fizycznie. Liście i&#160;woda, drzewa i&#160;przedmioty znowu wydały mu się wyobrażeniem i&#160;odbiciem innego świata, a&#160;najwyższe objawienie konkretne i&#160;słodkie dosłownie powaliło go o&#160;ziemię. Odchylił głowę w&#160;tył i&#160;jednocześnie, czując łechtanie źdźbeł trawy o&#160;kark, czuł ogrom wszystkiego ponad sobą i&#160;ogrom tego, co&#160;się w&#160;nim działo. Zamknąwszy oczy powtarzał słowa sprzed kilku godzin:</p>
+<div class="tab">–&#160;Panie, nie jestem godzien, abyś wszedł pod dach mój… A&#160;mimo to&#160;czuł, jak ów&#160;Pan zabierał go i&#160;pochłaniał niby nieskończony ocean, porywał go i&#160;ciągnął za&#160;sobą w&#160;wir nieskończony rzeczywistości bardziej rzeczywistej od&#160;wszystkiego, na&#160;co&#160;patrzył i&#160;co&#160;czuł.</div>
+</div>
+<p></br></p>
+<div class="tab"><b>„Więcej niż przyjaciel”</b><br />
+„Blisko jest od&#160;podniesienia do&#160;upadku” –&#160;ironizował Karol Hopfer, nawiązując do&#160;rytuału mszy i&#160;kolei losu swego przyjaciela, my zaś zauważmy, że&#160;Miłosz miał też świadomość dwuznaczności łączących go z&#160;autorem <i>Zmowy mężczyzn</i> więzów, zwłaszcza od&#160;chwili, gdy w&#160;styczniu 1931 roku przyjechał na&#160;kilka dni do&#160;Warszawy. Było to&#160;zresztą możliwe tylko dzięki pieniądzom, które pożyczył, a&#160;raczej zapewne podarował mu Iwaszkiewicz, sądząc zaś z&#160;jego wspomnień, także pierwsza podróż Miłosza do&#160;Paryża, czyli jego słynna studencka wyprawa kajakowa, przynajmniej po&#160;części finansowana była z&#160;tego samego źródła<span class="note"><a title="Por. Jarosław Iwaszkiewicz, „Dzienniki 1956–1963”, dz. cyt., s.&#160;421. Dodajmy tu jeszcze napomknienie Miłosza: „Jerzy Zagórski zdał egzaminy na&#160;III kurs prawa jedynie dzięki tym 100 złotym, które dla niego dałeś” (Wilno, 12 lipca 1932)."><sup>18</sup></a></span>.</div>
+<p>W&#160;zetknięciu ze&#160;światem Stawiska, zwłaszcza z&#160;rozczytującą się w&#160;Prouście Anną Iwaszkiewiczową, która w&#160;tym właśnie okresie pracowała nad szkicem poświęconym autorowi <i>W&#160;poszukiwaniu straconego czasu</i>, a&#160;raczej autorowi <i>À la recherche du temps perdu</i>, miało bowiem minąć jeszcze parę lat, nim pojawiły się pierwsze tomy przekładu Boya<span class="note"><a title="Por. Anna Iwaszkiewiczowa, „Sztuka Prousta” [w:] taż, „Szkice i&#160;wspomnienia”, oprac. Maria Iwaszkiewicz&#8209;Wojdowska, PIW, Warszawa 1987, s.&#160;46–64."><sup>19</sup></a></span>, poczuł się Miłosz niedokształconym prowincjuszem. Później przyzna, że&#160;mogło to&#160;wzmagać jego „rebelianckie nastroje”, my zaś moglibyśmy się zastanowić, w&#160;jakim stopniu poczucie niższości przyczyniło się do&#160;szukania odmiennej od&#160;Iwaszkiewicza drogi politycznego zaangażowania, na&#160;którą Miłosz wkroczy wkrótce wraz z&#160;lewicującymi wileńskimi kolegami. Do&#160;sposobu rozumienia własnej, innej niż Iwaszkiewicza sytuacji ideowej i&#160;życiowej, czego sygnały znaleźć możemy w&#160;tych listach, w&#160;których pojawiają się pierwsze elementy krytycyzmu wobec autora zbioru <i>Powrót do&#160;Europy</i>, gdy młody Miłosz dość już poufale pisze: „wolałbym, żebyś ty był jednym z&#160;obszarpańców wileńskich, żebyś był mniej dojrzały i&#160;wielki, no i&#160;żebyś nie «wracał do&#160;Europy». Mimo wszystko Twoja «burżujskość» […] utrudnia trochę porozumienie” (Wilno, 21&#160;kwietnia 1931). Także środowisko stołecznych kawiarni literackich rozbudzało jego kompleksy, co&#160;gorsza, Miłosz uzmysłowił sobie, że&#160;ich bywalcy widzą w&#160;nim kochanka starszego poety<span class="note"><a title="„Mnie […] szczególnie poniżało, kiedy kawiarnia Ziemiańska uważała mnie za&#160;chłopczyka Iwaszkiewicza” –&#160;Czesław Miłosz, „Wspomnienie” [w:] „Portret młodego artysty”, dz. cyt., s.&#160;174."><sup>20</sup></a></span>. Nie bez znaczenia była tu oczywiście uroda przyszłego autora <i>Trzech zim</i>, jeszcze parę lat później nie kryjący się ze&#160;swoim homoseksualizmem Paweł Hertz napomknie w&#160;liście do&#160;Iwaszkiewicza: „Miłosza widziałem, z&#160;daleka i&#160;raz, niestety nie udało mi się poznać go osobiście, czego szczerze żałuję. Jest taki ładny!” (29&#160;listopada 1935).</p>
+<p>Zdając sobie sprawę z&#160;wrażenia, jakie wywarł na&#160;Iwaszkiewiczu, Miłosz chyba nie do&#160;końca wiedział, jak się odnaleźć w&#160;tej sytuacji. Z&#160;jednej strony prosi o&#160;pomoc w&#160;zamieszczeniu wierszy w&#160;„poważnym piśmie”, krygując się przy tym cokolwiek: „odczuwam wyrzuty sumienia, że&#160;Ciebie eksploatuję dla celów mojej «kariery», chciałbym tego nie robić –&#160;ale trudno –&#160;to&#160;już Twoja wina, że&#160;jesteś wielkim pisarzem i&#160;trochę potentatem w&#160;warszawskich stosunkach” (Suwałki, 15&#160;kwietnia 1931). Z&#160;drugiej, gdy parę miesięcy później ów&#160;„potentat” zaproponuje mu ufundowanie stypendium, które by&#160;otrzymywał, gdyby się zdecydował na&#160;przenosiny do&#160;Warszawy, Miłosz stanowczo odmówi (list z&#160;1&#160;listopada 1931 roku, z&#160;Wilna). Przede wszystkim jednak stara się pojąć rodzaj uczuć, jakie wiążą go z&#160;autorem <i>Dionizji</i>. Bezpośrednio po&#160;powrocie ze&#160;stolicy pisze o&#160;tym, że&#160;mimo przyciągających go do&#160;adresata listu emocji, nie potrafi wyrwać się ze&#160;stanu samotności: „ciągle szukam przyjaźni i&#160;z&#160;chwilą, kiedy wiem, że&#160;mógłbym znaleźć przyjaciela, czuję, że&#160;wina będzie po&#160;mojej stronie, że&#160;będzie mój chłód, senność, sceptycyzm, gorycz i&#160;to&#160;straszne skamienienie”. Kończy jednak dramatycznym wyznaniem: „najdroższy, kochany […] kręcę się w&#160;kółko jak skorpion na&#160;węglach, ciągle to&#160;samo, to&#160;samo, z&#160;nieskończoną ilością wariacyj, których właśnie powiedzieć nie można. […] Wiem tylko, że&#160;cierpię”, podpisując się 1&#160;lutego 1931 roku z&#160;Wilna rzadko używaną formułką: „Twój zawsze, Czesiek”. Trudno nie pomyśleć, że&#160;jest to&#160;list człowieka zakochanego, zwłaszcza gdy w&#160;następnym liście znajdziemy słowa: „myślę o&#160;Tobie i&#160;wyobrażam Ciebie w&#160;biurze, w&#160;domu, na&#160;ulicy, w&#160;kolejce” (Wilno, 11&#160;lutego), szybka zaś rewizyta Iwaszkiewicza w&#160;Wilnie przynosi studentowi prawa rozgorączkowane noce:<br />
+</br></p>
+<div class="quote">za&#160;dużo zahamowań –&#160;i&#160;dlatego sny zbyt dużo mi wyjawiają –&#160;mają takie wspaniałe kompleksy. Jeden był szczególnie fantastyczny, brałeś w&#160;nim udział Ty, raz „sam w&#160;sobie”, a&#160;drugi raz pewne twoje elementy wchodziły w&#160;całokształt postaci kobiety. Sen ten, pełen potworności, od&#160;których skóra cierpnie, miał nadzwyczajne przedstawienia. Całowała mnie i&#160;pieściła owa istota: ukobiecony Ty –&#160;a&#160;inny znowu fragment snu to: miałem stosunek z&#160;mężczyzną, który był umężczyźnioną dziewczyną, z&#160;którą rzeczywiście spędziłem kilka nocy. Pierwsze było rozkoszne, drugie –&#160;ohydne. Temat dla freudystów pierwszorzędny [Wilno, 8&#160;marca].</div>
+<p></br></p>
+<p>Nie szukając podpowiedzi u&#160;Zygmunta Freuda, sam mógłbym zaryzykować hipotezę, iż&#160;w&#160;tych snach pobrzmiewa marzenie o&#160;pełni: o&#160;połączeniu spełnienia seksualnego osiąganego w&#160;stosunku z&#160;kobietą i&#160;spełnienia intelektualno-duchowego, które reprezentował sobą Iwaszkiewicz. We&#160;wspomnieniach autora <i>Sławy i&#160;chwały</i> wszystko było prostsze. Czytając <i>Rodzinną Europę</i> Miłosza, gniewając się na&#160;niedocenienie w&#160;tej książce swojej postaci, przypomni Iwaszkiewicz nie tylko pomoc materialną, jakiej niegdyś udzielał swemu podopiecznemu, lecz także da do&#160;zrozumienia, że&#160;zachowane listy wyjaśnią, „co&#160;znaczyły dwa tygodnie spędzone przez Czesia w&#160;Brukseli u&#160;mnie, z&#160;weekendem w&#160;Zout, mój przyjazd do&#160;Wilna w&#160;maju 1936 itd., itd.”<span class="note"><a title="Jarosław Iwaszkiewicz, „Dzienniki 1956–1963”, dz. cyt., s.&#160;421."><sup>21</sup></a></span>. Ową podróż do&#160;Wilna wspominał już wcześniej, w&#160;budzącym emocje wielu czytelników fragmencie <i>Dziennika</i>: „każda epoka ma swój styl, nawet w&#160;drobiazgach i&#160;w&#160;innej epoce nie można pewnych rzeczy realizować. Mogłem w&#160;maju 1936 roku chędożyć Czesia Miłosza w&#160;mickiewiczowskiej celi Konrada u&#160;Bazylianów w&#160;Wilnie. Była cudowna noc z&#160;księżycem i&#160;słowikami. Rzecz nie do&#160;pomyślenia w&#160;roku 1824 ani 1954. Gdzie teraz Mickiewicz? Gdzie Miłosz, a&#160;gdzie Iwaszkiewicz?”<span class="note"><a title="Tenże, „Dzienniki 1911–1955”, dz. cyt., s.&#160;450."><sup>22</sup></a></span>.</p>
+<p>Zapis ten ma charakter refleksyjno-nostalgiczny i&#160;wbrew pierwszemu wrażeniu czytelnika –&#160;nie jest prostym stwierdzeniem faktu. Zupełnie jednoznaczne jest natomiast napomknienie o&#160;Miłoszu w&#160;liście Iwaszkiewicza do&#160;Jerzego Lisowskiego: „to&#160;bardzo wielki mój przyjaciel, nawet przez pewien czas więcej niż przyjaciel. Niestety, tamto prędko minęło”<span class="note"><a title="Anna i&#160;Jarosław Iwaszkiewiczowie, Jerzy Lisowski, „Listy 1947–1979”, t. 1, oprac. Agnieszka i&#160;Robert Papiescy, Sedno, Warszawa 2020, s.&#160;230 n; list z&#160;18 maja 1949 roku."><sup>23</sup></a></span>. Nie warto zatem gubić się w&#160;kolejnych zastrzeżeniach i&#160;wątpliwościach, mądrzej jest przyjąć, że&#160;wspomnienie Iwaszkiewicza oddaje prawdę miłosnego uniesienia, tej chwili, gdy poeta przyjechał na&#160;wieczór autorski do&#160;Wilna, został na&#160;kilka dni, nocował w&#160;dawnym klasztorze Bazylianów, pływał żaglówką po&#160;Jeziorze Trockim, do&#160;żony zaś wysyłał pocztówkę, co&#160;charakterystyczne, nie wspominając o&#160;swym przyjacielu: „cudownie w&#160;Wilnie, ciepło i&#160;słonecznie, choć wiatr. Rzeczywiście latem Wilno ładniejsze niż w&#160;zimie, choć w&#160;ogóle jako miasto do&#160;luftu. Bardzo dużo myślę o&#160;Tobie, ściskam Cię i&#160;całuję”<span class="note"><a title="Anna i&#160;Jarosław Iwaszkiewiczowie, „Listy 1932–1939”, oprac. Małgorzata Bojanowska, Ewa Cieślak, Czytelnik, Warszawa 2014, s.&#160;694."><sup>24</sup></a></span>. Skoro tak, możemy wpisać ów&#160;epizod w&#160;dłuższą historię Iwaszkiewiczowych podbojów, obok wcześniejszego i&#160;skądinąd nieudanego pocałunku, który po&#160;wielu dekadach wspominał Józef Czapski: „pamiętam jeszcze z&#160;obrzydzeniem te ogromne, śliskie usta”<span class="note"><a title="Józef Czapski, „Świat w&#160;moich oczach”, rozmowy przeprowadził Piotr Kłoczowski, Apostolicum, Ząbki–Paryż 2001, s.&#160;129."><sup>25</sup></a></span>. I&#160;obok, przeskoczmy do&#160;innego pokolenia, uwag Iwaszkiewicza o&#160;niewypowiedzianej przez literaturę zmysłowej atmosferze okupacji i&#160;powstania warszawskiego, z&#160;której w&#160;pamięci pisarza pozostaje jedynie „pocałunek Gajcego i&#160;cała intryga Jerzego [Andrzejewskiego], abym się z&#160;nim nie spotkał”, a&#160;wspomnieniu towarzyszy westchnienie: „gdybyż to&#160;można było pisać o&#160;tym wszystkim jak Genet! W&#160;ogóle żebym wreszcie mógł napisać swobodnie o&#160;sprawach seksualnych –&#160;ale teraz to&#160;już by&#160;było starcze lubowanie się. […] Nie trzeba. Niech ci&#160;wszyscy ludzie zostaną czyści jak łzy”<span class="note"><a title="Jarosław Iwaszkiewicz, „Dzienniki 1964–1980”, dz. cyt., s.&#160;225 i&#160;nast."><sup>26</sup></a></span>.</p>
+<p>W&#160;naszej współczesności o&#160;byciu czystym jak łza szczęśliwie przestaje decydować tak zwana heteronormatywność, dla tej opowieści mniejsze znaczenie ma jednak to, czy rodzaj zakochania łączący Miłosza z&#160;Iwaszkiewiczem znalazł swą cielesną realizację. Ciekawsze, także dla zrozumienia twórczości obu pisarzy, wydaje się uzmysłowienie sobie właściwego im sposobu traktowania relacji łączących mężczyzn i&#160;kobiety. W&#160;kilka miesięcy po&#160;pierwszym pobycie Miłosza na&#160;Stawisku, relacjonując żonie swą podróż do&#160;Włoch, kontakt z&#160;mieszkającym w&#160;San Gimignano wspominanym tu już Józefem Rajnfeldem, kontakt, który miał mu pozwolić w&#160;pełni odczuć włoskie malarstwo, Iwaszkiewicz podsumowywał: „z&#160;kobietą nawet najmądrzejszą nie przeżyje się właśnie tego sięgnięcia w&#160;istotę pewnych rzeczy. Ciebie nie uważam za&#160;kobietę, ponieważ u&#160;ciebie płeć nie jest na&#160;pierwszym miejscu, nie jest tym najważniejszym, co&#160;obnosi każda baba jak relikwie, procesjonalnie po&#160;całym świecie”<span class="note"><a title="Anna i&#160;Jarosław Iwaszkiewiczowie, „Listy 1927–1931”, oprac. Małgorzata Bojanowska, Ewa Cieślak, Czytelnik, Warszawa 2012, s.&#160;525; Genewa, 26 września 1931 roku."><sup>27</sup></a></span>. W&#160;<i>Młynie nad Utratą</i> zaś porzucenie przez Julka drogi do&#160;ascetycznej katolickiej świętości, związanie się z&#160;kobietą, zgryźliwie skomentuje Karol: „taka baba zabiera nam takiego człowieka!”. Wydaje się, że&#160;bardzo podobnie uważał –&#160;przynajmniej młody –&#160;Miłosz. W&#160;listach ekspediowanych na&#160;Stawisko pisze, że&#160;uczucia do&#160;kobiet są może nieuniknione, ale jednak „raczej męczą i&#160;nudzą” (Wilno, 11&#160;grudnia 1930). Że&#160;oczywiście nieobce są mu doświadczenia erotyczne, najchętniej jednak nie wiązałby ich z&#160;większymi emocjami, traktował jako niezbędny „element higieny”: „męczy mnie komplikowanie tych spraw, to&#160;znaczy «zakochiwanie się», «uwznioślenie» i&#160;inne w&#160;tym rodzaju historie […] najlepiej bym się czuł, gdyby zawsze <i>post factum</i> umyć się i&#160;stać się na&#160;nowo na&#160;pewien czas anachoretą i&#160;ascetą” (Suwałki, 2&#160;stycznia 1931). I&#160;że&#160;tylko kontakt z&#160;Iwaszkiewiczem to&#160;nić łącząca go z&#160;„wyższym porządkiem rzeczy”, gdyby zaś zdecydował się na&#160;kontynuowanie jednego z&#160;romansów, skończyłoby się to&#160;źle: „wpadałbym subtelnie w&#160;jełopowatość w&#160;ramionach tejże dziewczyny”. By&#160;jeszcze nieco rozszerzyć myślowe spektrum, zauważmy, że&#160;w&#160;tym samym liście Miłosz posługuje się znamiennie sarkastyczną formą żeńską: „poetką w&#160;rodzaju Tuwima nie chciałbym może być, ale poetą w&#160;rodzaju Iwaszkiewicza bardzo” (Wilno, 21&#160;maja 1931).</p>
+<p>Nietrudno dojść do&#160;wniosku, że&#160;we&#160;wszystkich tych zgryźliwościach pobrzmiewają echa tak zwanego katolickiego wychowania, przekonania o&#160;grzeszności naszego ciała, które to&#160;przekonanie z&#160;zapałem wpajał swym gimnazjalnym uczniom prefekt Leopold Chomski, adresat cytowanego już utworu <i>Do&#160;księdza&#160;Ch.</i> Dobrze się te wątki komponują z&#160;bliskim Miłoszowi „manicheizmem”, a&#160;ostrożniej mówiąc –&#160;przekonaniem o&#160;skażeniu świata, o&#160;tym, że&#160;nasze dusze zostały schwytane w&#160;pułapkę materii. I&#160;z&#160;tym głęboko zakorzenionym w&#160;kulturze stereotypem –&#160;bliskim zresztą także Iwaszkiewiczowi, choćby jako autorowi powstających na&#160;początku lat trzydziestych opowiadań <i>Brzezina</i> i&#160;<i>Panny z&#160;Wilka</i> –&#160;który męskość wiąże z&#160;intelektualizmem i&#160;poszukiwaniami duchowymi, pierwiastek kobiecy z&#160;somatycznością i&#160;światem natury. Z&#160;tego punktu widzenia wysublimowany, platoniczny homoseksualizm byłby próbą ucieczki przed uwięzieniem w&#160;zbrukanej materii, dążeniem w&#160;górę, ku&#160;wyobraźni i&#160;artystycznemu spełnieniu. Bardzo już wiekowy Czesław Miłosz przyzna zresztą w&#160;rozmowie z&#160;Tadeuszem Różewiczem: „u&#160;mnie odzywają się pewne echa mizoginizmu”, rozwijając następnie to&#160;spostrzeżenie: „w&#160;mojej twórczości istnieje problem kobiety jako przedstawicielki natury. Ponieważ natura nie jest w&#160;moich oczach przyjazna człowiekowi, wobec tego głęboka identyfikacja kobiety z&#160;naturą nasuwa pewne podejrzenia groźby niebezpieczeństwa ze&#160;strony kobiety”<span class="note"><a title="„Dialogi poetów: Czesław Miłosz i&#160;Tadeusz Różewicz”, rozmowy przeprowadziła Renata Gorczyńska [w:] „Wbrew sobie. Rozmowy z&#160;Tadeuszem Różewiczem”, oprac. Jan Stolarczyk, Biuro Literackie, Wrocław 2011, s.&#160;441."><sup>28</sup></a></span>.</p>
+<p>[…]<br />
+</br></p>
+<p>[Ciąg dalszy w&#160;numerze.]</p>
+</div>
+</div>
+<div class="col-lg-1"></div>
+<div class="col-lg-3">
+<div class="fSingleCover" style="margin-top: 60px"><img width="500" height="750" src="https://tworczosc.com.pl/wp-content/uploads/2022/01/T222cov_front-500x750.jpg" class="attachment-cover size-cover wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://tworczosc.com.pl/wp-content/uploads/2022/01/T222cov_front-500x750.jpg 500w, https://tworczosc.com.pl/wp-content/uploads/2022/01/T222cov_front-200x300.jpg 200w, https://tworczosc.com.pl/wp-content/uploads/2022/01/T222cov_front-683x1024.jpg 683w, https://tworczosc.com.pl/wp-content/uploads/2022/01/T222cov_front-768x1152.jpg 768w, https://tworczosc.com.pl/wp-content/uploads/2022/01/T222cov_front.jpg 800w" sizes="auto, (max-width: 500px) 85vw, 500px" /></div>
+<div class="fSingleCoverDesc"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 cu" style="padding-left: 15px"><a href="https://tworczosc.com.pl/wydanie/915"><br><k2>POWRÓT DO NUMERU</k2></a></div>
+</div>
+</div>
+</div>
+
+<div class="fFooter">
+<div class="container">
+<div class="row fFooterTop">
+<div class="fLogoT"><a class="fBlock" href="https://tworczosc.com.pl"></a></div>
+<div class="fMenu">
+<div class="Menu 1"><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://tworczosc.com.pl/o-redakcji/">O redakcji</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://tworczosc.com.pl/aleja-zasluzonych/">Aleja zasłużonych</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://tworczosc.com.pl/baza-bibliograficzna/">Baza bibliograficzna</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a target="_blank" href="https://sklep.instytutksiazki.pl/kategoria/czasopisma/tworczosc/?orderby=date">Zamów</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://tworczosc.com.pl/archiwum/">Archiwum</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="https://tworczosc.com.pl/kontakt/">Kontakt</a></li>
+</ul></div>						</div>
+</div>
+<div class="row fFooterBottom">
+<div class="col-lg-4 col-sm-12 f1">
+<div class="fFooterLeft1"><k2>WYDAWCA:</k2></div>
+<div class="fFooterLeft2"><a class="fBlock" href="httpa://instytutksiazki.pl" target="_blank"></a></div>
+<!--<div class="fFooterLeft3"><a class="fBlock" href="http://facebook.com/miesieczniktworczosc" target="_blank"></a></div>-->
+</div>
+<div class="col-lg-4 col-sm-12 f2">
+<k2>WSZELKIE PRAWA ZASTRZEŻONE</k2><br> &copy;2017-2025 | Twórczość
+<br><a style="font-weight: 400" href="/deklaracja-dostepnosci/" target="_blank">Deklaracja dostępności</a>
+</div>
+<div class="col-lg-4 col-sm-12 f3"><div class="fContainer"><div class="fLine"></div> site design / dev. by  <a href="http://bazinga.technology" target="_blank"> <k2>BAZINGA</k2> </a></div></div>
+</div>
+</div>
+</div>
+</div> <!-- .fDimWrapper -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/bazinga\/*","\/wp-content\/themes\/twentysixteen\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+<!-- Background of PhotoSwipe.
+Its a separate element, as animating opacity is faster than rgba(). -->
+<div class="pswp__bg"></div>
+<!-- Slides wrapper with overflow:hidden. -->
+<div class="pswp__scroll-wrap">
+<!-- Container that holds slides.
+PhotoSwipe keeps only 3 slides in DOM to save memory. -->
+<div class="pswp__container">
+<!-- dont modify these 3 pswp__item elements, data is added later on -->
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<!--  Controls are self-explanatory. Order can be changed. -->
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--share" title="Share"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+<!-- element will get class pswp__preloader--active when preloader is running -->
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+<div class="pswp__share-tooltip"></div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+</button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+</button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>	<div id="wpcp-error-message" class="msgmsg-box-wpcp hideme"><span>error: </span>Treść niedostępna do kopiowania.</div>
+<script>
+var timeout_result;
+function show_wpcp_message(smessage)
+{
+if (smessage !== "")
+{
+var smessage_text = '<span>Alert: </span>'+smessage;
+document.getElementById("wpcp-error-message").innerHTML = smessage_text;
+document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp showme";
+clearTimeout(timeout_result);
+timeout_result = setTimeout(hide_message, 3000);
+}
+}
+function hide_message()
+{
+document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp hideme";
+}
+</script>
+<style>
+@media print {
+body * {display: none !important;}
+body:after {
+content: "You are not allowed to print preview this page, Thank you"; }
+}
+</style>
+<style type="text/css">
+#wpcp-error-message {
+direction: ltr;
+text-align: center;
+transition: opacity 900ms ease 0s;
+z-index: 99999999;
+}
+.hideme {
+opacity:0;
+visibility: hidden;
+}
+.showme {
+opacity:1;
+visibility: visible;
+}
+.msgmsg-box-wpcp {
+border:1px solid #f5aca6;
+border-radius: 10px;
+color: #555;
+font-family: Tahoma;
+font-size: 11px;
+margin: 10px;
+padding: 10px 36px;
+position: fixed;
+width: 255px;
+top: 50%;
+left: 50%;
+margin-top: -10px;
+margin-left: -130px;
+-webkit-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+-moz-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+}
+.msgmsg-box-wpcp span {
+font-weight:bold;
+text-transform:uppercase;
+}
+.warning-wpcp {
+background:#ffecec url('https://tworczosc.com.pl/wp-content/plugins/wp-content-copy-protector/images/warning.png') no-repeat 10px 50%;
+}
+</style>
+<script src="https://tworczosc.com.pl/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="https://tworczosc.com.pl/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src="https://tworczosc.com.pl/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.4" id="swv-js"></script>
+<script id="contact-form-7-js-translations">
+( function( domain, translations ) {
+var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+localeData[""].domain = domain;
+wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-12-11 12:03:49+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);","lang":"pl"},"This contact form is placed in the wrong place.":["Ten formularz kontaktowy zosta\u0142 umieszczony w niew\u0142a\u015bciwym miejscu."],"Error:":["B\u0142\u0105d:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+</script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+"api": {
+"root": "https:\/\/tworczosc.com.pl\/wp-json\/",
+"namespace": "contact-form-7\/v1"
+}
+};
+</script>
+<script src="https://tworczosc.com.pl/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.4" id="contact-form-7-js"></script>
+<script src="https://tworczosc.com.pl/wp-content/themes/bazinga/js/popper.js" id="popper-js"></script>
+<script src="https://tworczosc.com.pl/wp-content/themes/bazinga/js/bootstrap.min.js" id="bootstrap-js-js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LeOkh0sAAAAAETmXrpyjkh60r29T2ZK-zl0BDRL&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script src="https://tworczosc.com.pl/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script id="wpcf7-recaptcha-js-before">
+var wpcf7_recaptcha = {
+"sitekey": "6LeOkh0sAAAAAETmXrpyjkh60r29T2ZK-zl0BDRL",
+"actions": {
+"homepage": "homepage",
+"contactform": "contactform"
+}
+};
+</script>
+<script src="https://tworczosc.com.pl/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.4" id="wpcf7-recaptcha-js"></script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.193 seconds, on 3 January 2026 @ 14:29 -->

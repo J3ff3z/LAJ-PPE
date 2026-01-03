@@ -1,0 +1,422 @@
+HTTP/1.1 200 OK
+content-type: text/html; charset=UTF-8
+cache-control: max-age=900, public
+date: Sat, 03 Jan 2026 16:48:55 GMT
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-security-policy: default-src 'self' 'unsafe-inline' data: blob: https://static.zpe.gov.pl https://static.epodreczniki.pl;script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: https://static.zpe.gov.pl https://static.epodreczniki.pl https://www.googletagmanager.com https://www.google-analytics.com;img-src 'self' 'unsafe-inline' data: blob: https://logowanie.zpe.gov.pl https://platforma.zpe.gov.pl https://static.zpe.gov.pl https://static.epodreczniki.pl https://www.google-analytics.com https://www.googletagmanager.com https://kronika.gov.pl;connect-src 'self' ws: blob: https://logowanie.zpe.gov.pl https://platforma.zpe.gov.pl https://moje.zpe.gov.pl https://static.zpe.gov.pl https://static.epodreczniki.pl https://sandbox.zpe.gov.pl https://sr-production.contentplus.io https://*.google-analytics.com;media-src 'self' data: blob: https://static.zpe.gov.pl https://static.epodreczniki.pl;worker-src 'self' data: blob: https://static.zpe.gov.pl https://static.epodreczniki.pl;frame-src * data:;frame-ancestors 'self' https://logowanie.zpe.gov.pl
+Vary: Origin,X-Mobile-App, Accept-Encoding
+Age: 0
+Cache-Hit-Status: MISS
+Accept-Ranges: bytes
+Connection: keep-alive
+Transfer-Encoding: chunked
+
+<!DOCTYPE html>
+<html lang="pl" data-wcag-font-size="100">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes, maximum-scale=5">
+    <link rel="shortcut icon" type="image/x-icon" href="https://static.zpe.gov.pl/portal/assets/3109/img/favicon.ico"/>
+    <title>
+        
+                            
+        Przeczytaj  -  Søren Kierkegaard. Część pierwsza: poglądy - zpe.gov.pl    </title>
+    <meta name="description"
+          content="E‑podręczniki to bezpłatne i dostępne dla wszystkich materiały edukacyjne.">
+    <link rel="shortcut icon" href="/static/img/favicon.ico">
+    <link rel="icon" href="/static/img/favicon.ico">
+
+    <script type="text/javascript" src="/config.js"></script>
+
+        <script type="text/javascript" src="https://static.zpe.gov.pl/portal/assets/3109/c/mathjax/es5/tex-mml-chtml.js"></script><script type="text/javascript" src="https://static.zpe.gov.pl/portal/assets/3109/c/header.js"></script><link rel="stylesheet" href="https://static.zpe.gov.pl/portal/assets/3109/c/header.css"><link rel="stylesheet" href="https://static.zpe.gov.pl/portal/assets/3109/c/main.css"><link rel="stylesheet" href="https://static.zpe.gov.pl/portal/assets/3109/c/style.css">
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135367972-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-135367972-1');
+    </script>
+    <script>
+    window.APP_VERSION = 3109;
+</script>
+<script>
+    CpDocumentApp.domain = (function stripHost(domain) {
+        var pos = domain.split('.');
+        var p2 = pos.pop();
+        var p1 = pos.pop();
+
+        if (-1 !== ['gov'].indexOf(p1)) {
+            var p3 = pos.pop();
+            p1 = p3 ? (p3 + '.' + p1) : p1;
+        }
+
+        return p1 ? (p1 + '.' + p2) : p2;
+    })(document.domain);
+    try {
+        document.domain = CpDocumentApp.domain;
+    } catch (e) {
+        console.error(e);
+    }
+
+    requirejs.onError = function (err) {
+        console.error(err);
+    };
+    define('messageApi.ready', ['modules/api/apilistener', 'reader.api'], function (apilistener, ReaderApi) {
+        var ra = new ReaderApi(require, true, null);
+        apilistener({}, window, null, ra, {}, {});
+    });
+
+    var volatileStorage = new CpStorage();
+    volatileStorage.addWrapper(new CpStorageLocalstorageWrapper());
+    var persistentStorage = new CpStorage();
+        if (localStorage.getItem('AUTH_IS_LOGGED')) {
+        window.define('reader.internal.auth', {
+            'authenticated': true,
+            'username': 'użytkownik'
+        });
+        let domain = window.CP_CONFIGURATION.host.lms + 'api/v1';
+        persistentStorage.addWrapper(
+            new CpStorageCacheWrapper(
+                new CpStorageLoggedUser({
+                    fetch: domain + ((function(a) { a=Cp.extend({},a); var r = "\/storage\/fetch"+(a["document"]?("\/"+a["document"]):"\/DJWnBBGFq")+(a["language"]?("\/"+a["language"]):"\/pl"); delete a["language"];delete a["document"]; return r + '?' + CpWebUtils.arrayToURI(a); }))(),
+                    save: domain + ((function(a) { a=Cp.extend({},a); var r = "\/storage\/save"+(a["document"]?("\/"+a["document"]):"\/DJWnBBGFq")+(a["language"]?("\/"+a["language"]):"\/pl"); delete a["language"];delete a["document"]; return r + '?' + CpWebUtils.arrayToURI(a); }))(),
+                    fetchFile: domain + ((function(a) { a=Cp.extend({},a); var r = "\/file-storage\/fetch"+(a["document"]?("\/"+a["document"]):"\/DJWnBBGFq")+(a["language"]?("\/"+a["language"]):"\/pl"); delete a["language"];delete a["document"]; return r + '?' + CpWebUtils.arrayToURI(a); }))(),
+                    saveFile: domain + ((function(a) { a=Cp.extend({},a); var r = "\/file-storage\/save"+(a["document"]?("\/"+a["document"]):"\/DJWnBBGFq")+(a["language"]?("\/"+a["language"]):"\/pl"); delete a["language"];delete a["document"]; return r + '?' + CpWebUtils.arrayToURI(a); }))(),
+                })
+            )
+        );
+    } else {
+        window.define('reader.internal.auth', {
+            'authenticated': false,
+            'username': 'niezalogowany'
+        });
+        persistentStorage.addWrapper(new CpStorageLocalstorageWrapper());
+    }
+    
+    define('reader.internal.storage.volatile', volatileStorage);
+    define('reader.internal.storage.persistent', persistentStorage);
+
+    define('reader.app', ['underscore', 'jquery', 'jquery.ba-throttle-debounce', 'backbone', 'device_detection', 'common_base', 'libs/jquery.tooltipsy', 'reader.api', 'modules/cp/womi', 'messageApi.ready'], Cp.noop);
+</script>
+
+    <script>
+
+    </script>
+</head>
+<body class="no-transition  ">
+
+    <div id="header"></div>
+
+
+<div class="sidebar-visible-overlay"></div>
+
+    <div
+        class="document-navigation wrapper wrapper--wide2 has-share-panel has-project-toc-sidebar">
+        <div class="wrapper_content">
+            <div class="document-navigation_breadcrumb hidden-xs" style="flex-wrap: wrap">
+                                    <div class="d-flex f-align-center">
+                        
+                                                    <a class="document-navigation_breadcrumb-item"
+                               href="/">
+                                                                    <span class="document-navigation_breadcrumb-icon">
+                                        <span class="mdi mdi-home-outline d-flex"></span>                                    </span>
+                                
+                                Strona główna                            </a>
+                                            </div>
+                                    <div class="d-flex f-align-center">
+                                                    <span
+                                class="document-navigation_breadcrumb-divider d-flex mdi mdi-chevron-right mdi-18px"></span>
+                        
+                                                    <a class="document-navigation_breadcrumb-item"
+                               href="/szukaj?stage=E4">
+                                
+                                Liceum ogólnokształcące i technikum                            </a>
+                                            </div>
+                                    <div class="d-flex f-align-center">
+                                                    <span
+                                class="document-navigation_breadcrumb-divider d-flex mdi mdi-chevron-right mdi-18px"></span>
+                        
+                                                    <a class="document-navigation_breadcrumb-item"
+                               href="/szukaj?stage=E4&subject=Filozofia LICEUM/TECHNIKUM">
+                                
+                                Filozofia                            </a>
+                                            </div>
+                                    <div class="d-flex f-align-center">
+                                                    <span
+                                class="document-navigation_breadcrumb-divider d-flex mdi mdi-chevron-right mdi-18px"></span>
+                        
+                                                    <a class="document-navigation_breadcrumb-item"
+                               href="/b/PcUREdw7w">
+                                
+                                <span lang="da">Søren Kierkegaard</span>. Część pierwsza: poglądy                            </a>
+                                            </div>
+                                    <div class="d-flex f-align-center">
+                                                    <span
+                                class="document-navigation_breadcrumb-divider d-flex mdi mdi-chevron-right mdi-18px"></span>
+                        
+                                                    <span class="document-navigation_breadcrumb-item">
+                                
+                                Przeczytaj                            </span>
+                                            </div>
+                            </div>
+            <a class="document-navigation_back" href="javascript:history.go(-1)">
+                <span class="d-flex mdi mdi-chevron-left mdi-18px mr-1"></span>
+                <span>Powrót</span>
+            </a>
+        </div>
+    </div>
+
+<div role="main" class="page-wrapper" id="content">
+    <script>
+    window.PAGE_DATA = {"project":{"id":"PcUREdw7w","isEmaterial":true,"manifestUrl":"https:\/\/zpe.gov.pl\/api\/v1\/project\/PcUREdw7w\/pl\/manifest"}}</script>
+<script>
+    window.DOCUMENT_DATA = {"project":{"id":"PcUREdw7w"},"document":{"id":"DJWnBBGFq"}}</script>
+
+
+    <div id="sidebar_app"></div>
+    <div id="switch-bar-article"></div>
+
+<div
+    class="main-section-content main-section-content--article   main-section-content--article__no-left-padding"
+    id="collection-metadata"
+    data-collection-variant="student"
+    data-pageinfo="{&quot;siblings&quot;:{&quot;prevSibling&quot;:{&quot;name&quot;:&quot;Wprowadzenie&quot;,&quot;link&quot;:&quot;\/a\/wprowadzenie\/DlvDvjOFj&quot;},&quot;nextSibling&quot;:{&quot;name&quot;:&quot;Audiobook&quot;,&quot;link&quot;:&quot;\/a\/audiobook\/DOydfhz5Z&quot;}}}"
+    data-project-info="{&quot;project&quot;:&quot;PcUREdw7w&quot;,&quot;document&quot;:&quot;DJWnBBGFq&quot;,&quot;projectType&quot;:&quot;e_material_with_toc&quot;,&quot;teacherEditEnabled&quot;:true,&quot;materialBuilderEnabled&quot;:true}">
+    <div class="animation-reload_header" style="display: none;">
+        <div class="wrapper">
+            <div class="wrapper_content">
+                <div class="page-header page-header--previous">
+                                            <h1>Wprowadzenie</h1>
+                                    </div>
+
+                <div class="page-header page-header--next">
+                                            <h1>Audiobook</h1>
+                                    </div>
+
+                <div class="animation-reload_icon">
+                    <i class="mdi mdi-refresh" aria-hidden="true"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="animation-reload_page">
+        <div class="page-content document-body" role="article" id="main-content">
+            <div class="page-container"><div class="wrapper" data-editor-no-parse=""><div class="wrapper_content"><div class="page-header page-header--current"><h1>Przeczytaj</h1></div></div></div><div class="wrapper"><span data-specifier-type="section1-weak"><span data-alternative=""></span><span data-value=""></span></span> <span data-editor-params=""></span><div class="wrapper_content"><h2 data-id="DJWnBBGFq_pl_main__4B" id="DJWnBBGFq_pl_main__4B">Biografia  <span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="" data-specifier-type-main=""><span data-alternative=""></span><span data-value=""></span></span></span></h2><section data-block-name="ResourceElement" data-block-resolved-by="media" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="media" data-specifier-type-main=""><span data-alternative=""></span><span data-value="">R1FZPFH6JbDyy</span></span><span data-specifier-type="floatright" data-specifier-type-main="float-right"><span data-alternative=""></span><span data-value="">1</span></span></span><div data-editor-block-content=""><span class="dummy-node" data-editor-no-parse="true"></span><div class="float-right"><figure class="figure image cp-image   " data-resource-id="R1FZPFH6JbDyy" data-exercise-level="" data-id="DJWnBBGFq_pl_main__4" data-editor-no-parse=""><div class="cp-editor-alt" aria-hidden="true" style="display: none" data-editor-no-parse="">Ilustracja przedstawia portret mężczyzny. Ma on półdługie, zaczesane na boki włosy oraz pociągłą twarz. Ubrany jest w długi płaszcz.</div><div class="image-link image-fullscreen-trigger" href="https://static.zpe.gov.pl/portal/f/res-minimized/R1FZPFH6JbDyy/1642512821/pnShIsg1LORcPXyeLvdxT5t0faAWE7Nl.jpeg" data-lightbox="62ccb48e0371b" data-title="&lt;div class=&quot;figcaption_content&quot;&gt;Søren Kierkegaard zarażał obsesją śmierci swoje dzieci, a atmosferę panującą w domu potęgowały dramatyczne wydarzenia – czworo rodzeństwa zmarło, nie doczekawszy wieku chrystusowego. Sam Kierkegaard żył w  „bezsensownie surowym” domu, w ascetycznej pobożności, w atmosferze fanatyzmu i starotestamentowego pojęcia grzechu, realizując przysięgę złożoną przed ojcem na cmentarzu w wieku 10 lat, że nigdy nie porzuci wiary, w której został wychowany. To pierwszy z czynników, który odcisnął istotne piętno na jego filozofii.&lt;/div&gt;&lt;div class=&quot;figure_caption_bibliography&quot; data-editor-no-parse&gt;&lt;span class=&quot;ref--before&quot;&gt; Źródło: &lt;/span&gt;&lt;em&gt;&lt;span lang=&quot;da&quot;&gt;Søren Kierkegaard&lt;/span&gt; (1813–1855).&lt;/em&gt;, https://www.europeana.eu/, licencja: CC BY-NC-ND 4.0.&lt;/div&gt;"><picture><img src="https://static.zpe.gov.pl/portal/f/res-minimized/R1FZPFH6JbDyy/1642512821/pnShIsg1LORcPXyeLvdxT5t0faAWE7Nl.jpeg" alt="Ilustracja przedstawia portret mężczyzny. Ma on półdługie, zaczesane na boki włosy oraz pociągłą twarz. Ubrany jest w długi płaszcz." title="" class="figure_img cp-gallery-set-size"/></picture></div><figcaption class="figure_caption"><div class="figcaption_content"><span lang="da">Søren Kierkegaard</span> zarażał obsesją śmierci swoje dzieci, a atmosferę panującą w domu potęgowały dramatyczne wydarzenia – czworo rodzeństwa zmarło, nie doczekawszy wieku chrystusowego. Sam <span lang="da">Kierkegaard</span> żył w  „bezsensownie surowym” domu, w ascetycznej pobożności, w atmosferze fanatyzmu i starotestamentowego pojęcia grzechu, realizując przysięgę złożoną przed ojcem na cmentarzu w wieku 10 lat, że nigdy nie porzuci wiary, w której został wychowany. To pierwszy z czynników, który odcisnął istotne piętno na jego filozofii.</div><div class="figure_caption_bibliography" data-editor-no-parse=""><span class="ref--before"> Źródło: </span><em><span lang="da">Søren Kierkegaard</span> (1813–1855).</em>, https://www.europeana.eu/, licencja: CC BY-NC-ND 4.0.</div></figcaption></figure></div><span class="dummy-node" data-editor-no-parse="true"></span></div></section><p id="DJWnBBGFq_pl_main__5" data-id="DJWnBBGFq_pl_main__5"><strong><span class="foreign" lang="da">Søren Aabye Kierkegaard</span></strong> (1813‑1855) żył w niezłomnym przekonaniu, że śmierć dopadnie go, nim skończy 33 lata. Ten najmłodszy z siedmiorga rodzeństwa był bowiem pewien, że i jego dosięgnie karząca ręka Boga za bluźnierstwo, którego dopuścił się jego ojciec jako młodziutki pasterz. W swoim dzienniku, prawdopodobnie w roku 1846, czyli roku spodziewanej śmierci, <span class="foreign" lang="da">Kierkegaard</span> napisał:</p><section data-block-name="Quote" data-block-resolved-by="cytat" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="cytat" data-specifier-type-main=""><span data-alternative=""></span><span data-value=""></span></span><span data-specifier-type="small" data-specifier-type-main="small"><span data-alternative=""></span><span data-value="">1</span></span></span><div data-editor-block-content=""><span class="dummy-node" data-editor-no-parse="true"></span><blockquote class="blockquote small-style" id="DJWnBBGFq_pl_main__9" data-editor-not-section=""> <div data-editor-content=""><p id="DJWnBBGFq_pl_main__A" data-id="DJWnBBGFq_pl_main__A">To przerażające, co dotknęło tego człowieka, który kiedyś jako mały chłopiec, pasąc na jutlandzkim pastwisku, przecierpiał wiele złego, głodował, marzł i wreszcie stanął na pagórku i przeklął Boga; człowiek ten nie był w stanie tego zapomnieć w wieku 82 lat.</p></div></blockquote><span class="dummy-node" data-editor-no-parse="true"></span></div></section><p id="DJWnBBGFq_pl_main__B" data-id="DJWnBBGFq_pl_main__B">Na początku lat 30. <span class="foreign" lang="da">Kierkegaard</span> rozpoczął studia teologiczne, w ich trakcie poznawał jednak także starożytną etykę i estetykę, zaś z nowożytnych filozofów – myśl Hegla i <span class="foreign" lang="de">Schleiermachera</span>. Kilka lat później, w roku 1841, słuchał w Berlinie wykładów <span class="foreign" lang="de">Schellinga</span>, do którego szybko się zniechęcił. W wieku 23 lat, po śmierci dwóch braci i sióstr, przeszedł głęboki kryzys, zwątpił w wiarę chrześcijańską, odsunął się od zasad wpajanych przez ojca. Przerwał studia, wszedł na „grzeszną” drogę – zaczął prowadzić hulaszczy tryb życia. Niespodziewana śmierć ojca w roku 1838, który w myśl rodzinnego mitu miał przecież przeżyć wszystkie dzieci, wyrwała go z drogi „grzechu”.<span class="foreign" lang="da"> Kierkegaard</span> potraktował to jako dowód miłości ojca do siebie: <q>On odszedł nie ode mnie, ale dla mnie, żeby – jeśli to możliwe – jeszcze coś ze mnie wyrosło</q>. Poczuł się zmobilizowany do ukończenia studiów, co nastąpiło w roku 1840. Uwieńczeniem studiów była doktorska dysertacja <cite><em>O pojęciu ironii</em></cite>.</p></div><div class="wrapper_comments-container" data-editor-no-parse=""></div></div><div class="wrapper wrapper-wide wrapper--wide wrapper--missing-left-side wrapper--missing-right-side"><span data-specifier-type="section1-weak"><span data-alternative=""></span><span data-value=""></span></span><div class="wrapper_content"><section data-block-name="ResourceElement" data-block-resolved-by="media" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="media" data-specifier-type-main=""><span data-alternative=""></span><span data-value="">R1f0jUfMzw6E5</span></span><span data-specifier-type="wide" data-specifier-type-main="wide"><span data-alternative=""></span><span data-value="">1</span></span></span><div data-editor-block-content=""><figure class="figure image cp-image   " data-resource-id="R1f0jUfMzw6E5" data-exercise-level="" data-id="DJWnBBGFq_pl_main__J" data-editor-no-parse=""><div class="cp-editor-alt" aria-hidden="true" style="display: none" data-editor-no-parse="">Zdjęcie przedstawia duże pomieszczenie z drewnianymi ławami, które są ustawione naprzeciwko mównicy. Na ścianie za mównicą są wysokie okna.</div><div class="image-link image-fullscreen-trigger" href="https://static.zpe.gov.pl/portal/f/res-minimized/R1f0jUfMzw6E5/1642512823/gOpI1la0x0uLGEFpCJIkAyADROd1UII0.jpeg" data-lightbox="62ccb48e05011" data-title="&lt;div class=&quot;figcaption_content&quot;&gt;Sala Bractwa.Mówi się, że ta mównica jest jedyną, z której przemawiał Søren Kierkegaard. Nie prowadził on wykładów na uniwersytecie, nie pracował też jako duchowny – utrzymywał się z majątku odziedziczonego po ojcu i pisał książki. W ciągu niewiele ponad dwóch lat (1843–1846) napisał ich czternaście – nie znalazły one jednak uznania, nikt ich nie recenzował. Kolejny okres wytężonej pracy nastąpił w latach 1849–1855, efekty ilościowe były jednak dużo skromniejsze – ukończył bowiem „tylko” trzy książki. Były to głównie lata sporów z chrześcijaństwem zinstytucjonalizowanym. Filozof publikował też artykuły propagujące powrót do praktyk wczesnego chrześcijaństwa, w końcu doszedł do przekonania, że „chrześcijaństwa Nowego Testamentu w ogóle nie ma”, istnieje tylko doczesna „chrześcijańskość”.&lt;/div&gt;&lt;div class=&quot;figure_caption_bibliography&quot; data-editor-no-parse&gt;&lt;span class=&quot;ref--before&quot;&gt; Źródło: &lt;/span&gt;https://www.europeana.eu/, licencja: CC BY-NC-ND 4.0.&lt;/div&gt;"><picture><img src="https://static.zpe.gov.pl/portal/f/res-minimized/R1f0jUfMzw6E5/1642512823/gOpI1la0x0uLGEFpCJIkAyADROd1UII0.jpeg" alt="Zdjęcie przedstawia duże pomieszczenie z drewnianymi ławami, które są ustawione naprzeciwko mównicy. Na ścianie za mównicą są wysokie okna." title="" class="figure_img cp-gallery-set-size"/></picture></div><figcaption class="figure_caption"><div class="figcaption_content">Sala Bractwa.<br/>Mówi się, że ta mównica jest jedyną, z której przemawiał <span lang="da">Søren Kierkegaard</span>. Nie prowadził on wykładów na uniwersytecie, nie pracował też jako duchowny – utrzymywał się z majątku odziedziczonego po ojcu i pisał książki. W ciągu niewiele ponad dwóch lat (1843–1846) napisał ich czternaście – nie znalazły one jednak uznania, nikt ich nie recenzował. Kolejny okres wytężonej pracy nastąpił w latach 1849–1855, efekty ilościowe były jednak dużo skromniejsze – ukończył bowiem „tylko” trzy książki. Były to głównie lata sporów z chrześcijaństwem zinstytucjonalizowanym. Filozof publikował też artykuły propagujące powrót do praktyk wczesnego chrześcijaństwa, w końcu doszedł do przekonania, że „chrześcijaństwa Nowego Testamentu w ogóle nie ma”, istnieje tylko doczesna „chrześcijańskość”.</div><div class="figure_caption_bibliography" data-editor-no-parse=""><span class="ref--before"> Źródło: </span>https://www.europeana.eu/, licencja: CC BY-NC-ND 4.0.</div></figcaption></figure></div></section></div><div class="wrapper_comments-container" data-editor-no-parse=""></div></div><div class="wrapper"><span data-specifier-type="section1-weak"><span data-alternative=""></span><span data-value=""></span></span> <span data-editor-params=""></span><div class="wrapper_content"><p id="DJWnBBGFq_pl_main__K" data-id="DJWnBBGFq_pl_main__K">Kompleks ojca to pierwszy, ale nie jedyny bolesny kompleks <span class="foreign" lang="da">Kierkegaarda.</span> Nie tylko bowiem mitologia rodzinna wywarła istotny wpływ na życie filozofa. Równie ważny był związek z Reginą Olsen. <span class="foreign" lang="da">Kierkegaard</span> poznał dziewczynę, gdy miała 15 lat. Zaręczył się z nią w roku 1840, ale po roku wewnętrznych cierpień i wątpliwości zerwał  zaręczyny. <q>Historia jest słynna, kluczowa w życiu duńskiego ojca <span data-specifier-type="pojecie-ref" data-specifier-inline="" contenteditable="false"><span data-alternative="">egzystencjalizmu</span><span data-value=""><span data-cp-editor-value="" style="display: none;">filozofia egzystencjalna</span><span data-editor-no-parse=""><a class="cp-concept-link" href="#DJWnBBGFq_pl_main_concept_1">egzystencjalizmu</a></span></span></span>, jak kometa wlecze za sobą ogon różnorodnych i sprzecznych interpretacji</q> (G. Herling‑Grudziński, <cite><em>Dziennik pisany nocą 1973‑1979</em></cite>). Najlepszą odpowiedź na pytanie, czy owo wydarzenie miało aż takie znaczenie, by umieszczać je w biografii filozofa, stanowić mogą jego własne słowa: <q>Kiedy węzeł został zerwany, odczuwałem, że albo rzucę się w dziką otchłań rozrywki, albo całkowicie w nurt religijności, ale innego rodzaju niż religijność księży</q>.</p><p id="DJWnBBGFq_pl_main__S" data-id="DJWnBBGFq_pl_main__S">W październiku 1855 r. <span class="foreign" lang="da">Kierkegaard</span> doznał na kopenhaskiej ulicy utraty świadomości. Zmarł w szpitalu w listopadzie tego roku.</p><h2 data-id="DJWnBBGFq_pl_main__4C" id="DJWnBBGFq_pl_main__4C">Najważniejsze dzieła  <span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="" data-specifier-type-main=""><span data-alternative=""></span><span data-value=""></span></span></span></h2><section data-block-name="ResourceElement" data-block-resolved-by="media" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="media" data-specifier-type-main=""><span data-alternative=""></span><span data-value="">R1ahu2GILPMix</span></span><span data-specifier-type="floatright" data-specifier-type-main="float-right"><span data-alternative=""></span><span data-value="">1</span></span></span><div data-editor-block-content=""><span class="dummy-node" data-editor-no-parse="true"></span><div class="float-right"><figure class="figure image cp-image    figure--archive-image" data-resource-id="R1ahu2GILPMix" data-exercise-level="" data-id="DJWnBBGFq_pl_main__V" data-editor-no-parse=""><div class="cp-editor-alt" aria-hidden="true" style="display: none" data-editor-no-parse="">Obraz przedstawia portret młodej kobiety. Ma ciemne, kręcone włosy, rumiane policzki oraz ubrana jest w zieloną suknię.</div><div class="image-link image-fullscreen-trigger" href="https://static.zpe.gov.pl/portal/f/res-minimized/R1ahu2GILPMix/1642512824/2VZCApgCCf8IAasYNTVzPGAJo1hOJJnZ.jpg" data-lightbox="62ccb48e06b0e" data-title="&lt;div class=&quot;figcaption_content&quot;&gt;Częścią Albo‑albo był Dziennik uwodziciela, w którym Kierkegaard uzasadniał m.in. przyczyny zerwania z Reginą.&lt;/div&gt;&lt;div class=&quot;figure_caption_bibliography&quot; data-editor-no-parse&gt;&lt;span class=&quot;ref--before&quot;&gt; Źródło: &lt;/span&gt;Emil   Bærentzen, &lt;em&gt;&lt;cite&gt;&lt;span lang=&quot;en&quot;&gt;Regina&lt;/span&gt; Olsen&lt;/cite&gt;&lt;/em&gt;, 1840, &lt;span lang=&quot;en&quot;&gt;Wikimedia Commons&lt;/span&gt;, domena publiczna.&lt;/div&gt;"><picture><img src="https://static.zpe.gov.pl/portal/f/res-minimized/R1ahu2GILPMix/1642512824/2VZCApgCCf8IAasYNTVzPGAJo1hOJJnZ.jpg" alt="Obraz przedstawia portret młodej kobiety. Ma ciemne, kręcone włosy, rumiane policzki oraz ubrana jest w zieloną suknię." title="" class="figure_img cp-gallery-set-size"/></picture></div><figcaption class="figure_caption"><div class="figcaption_content">Częścią <cite><em>Albo‑albo</em></cite> był <cite><em>Dziennik uwodziciela</em></cite>, w którym <span lang="da">Kierkegaard</span> uzasadniał m.in. przyczyny zerwania z Reginą.</div><div class="figure_caption_bibliography" data-editor-no-parse=""><span class="ref--before"> Źródło: </span>Emil   Bærentzen, <em><cite><span lang="en">Regina</span> Olsen</cite></em>, 1840, <span lang="en">Wikimedia Commons</span>, domena publiczna.</div></figcaption></figure></div><span class="dummy-node" data-editor-no-parse="true"></span></div></section><p id="DJWnBBGFq_pl_main__W" data-id="DJWnBBGFq_pl_main__W">Pierwszą publikacją <span class="foreign" lang="da">Kierkegaarda</span> stał się napisany miesiąc po śmierci ojca (w roku 1838) tekst krytyczny poświęcony Andersenowi pod znamiennym tytułem <cite><em>Z papierów jeszcze żyjącego...</em></cite> Kolejną publikacją była doktorska dysertacja <cite><em>O pojęciu</em> <em>ironii</em></cite> z roku 1840. W roku 1843 rozpoczyna się pierwszy wielki okres pisarstwa <span class="foreign" lang="da">Kierkegaarda</span>; otwiera go książka <cite><em>Albo‑albo</em></cite>.</p><p id="DJWnBBGFq_pl_main__16" data-id="DJWnBBGFq_pl_main__16">W tym samym roku ukazały się jeszcze kolejne ważne książki filozofa: <cite><em>Powtórzenie</em></cite>, <cite><em>Bojaźń i drżenie</em></cite> oraz <cite><em>Okruchy filozoficzne</em></cite> i <cite><em>Zamykające nienaukowe postscriptum</em></cite> do <cite><em>„Okruchów filozoficznych”</em></cite>. W roku 1844 opublikowane zostało dzieło <cite><em>Pojęcie lęku</em></cite>, w którym <span class="foreign" lang="da">Kierkegaard</span> podjął próbę rozróżnienia lęku od strachu; pierwszy jest bezprzedmiotowy, a drugi wynika z czegoś określonego. Rok 1845 przyniósł <cite><em>Stadia na drodze życia</em></cite>, których jeden rozdział znów poświęcony był przyczynom zerwania z Reginą Olsen.</p><p id="DJWnBBGFq_pl_main__1M" data-id="DJWnBBGFq_pl_main__1M"><cite><em>Choroba na śmierć</em></cite> ukazała się w 1849 r. i należy do drugiego okresu pisarstwa <span class="foreign" lang="da">Kierkegaarda</span>; jest ona dla jego myśli tekstem kluczowym. Tytuł odsyła do fenomenu rozpaczy rozumianej jako minięcie się z tym, czym w swej egzystencji ma stać się człowiek. Bardzo ważną książka jest <cite><em>Dziennik</em></cite>, który <span class="foreign" lang="da">Kierkegaard</span> prowadził od dramatycznej połowy lat 30., znaczonej śmiercią rodzeństwa, aż do dnia swojej śmierci w roku 1855. <cite><em>Dziennik</em></cite> liczy blisko trzy tysiące stron.</p><h2 data-id="DJWnBBGFq_pl_main__4D" id="DJWnBBGFq_pl_main__4D">Poglądy  <span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="" data-specifier-type-main=""><span data-alternative=""></span><span data-value=""></span></span></span></h2></div><div class="wrapper_comments-container" data-editor-no-parse=""></div></div><div class="wrapper wrapper--bg-cyan"><span data-specifier-type="section1"><span data-alternative=""></span><span data-value="">bg‑cyan</span></span> <span data-editor-params=""></span><div class="wrapper_content"><h3 data-id="DJWnBBGFq_pl_main__4E" id="DJWnBBGFq_pl_main__4E">Antropologia  <span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="" data-specifier-type-main=""><span data-alternative=""></span><span data-value=""></span></span></span></h3></div><div class="wrapper_comments-container" data-editor-no-parse=""></div></div><div class="wrapper"><span data-specifier-type="section1"><span data-alternative=""></span><span data-value=""></span></span> <span data-editor-params=""></span><div class="wrapper_content"><p id="DJWnBBGFq_pl_main__20" data-id="DJWnBBGFq_pl_main__20"><span class="foreign" lang="da">Kierkegaard</span> pisał, że „właściwie stosunek do Boga powoduje, że człowiek staje się człowiekiem”. Zajmował go więc problem stosunku człowieka do Boga, czyli istnienia krótkotrwałego, przemijającego do bytu wiecznego. Najpierw jednak dążył do wyjaśnienia struktury, zasadniczej konstytucji ludzkiej tożsamości. Człowiek w ujęciu filozofa jest syntezą duszy i ciała; tego, co jest doczesne, skończone, poddawane konieczności (czyli ciała) i tego, co nieskończone, wieczne i wolne (czyli duszy). Ale to połączenie nie jest jeszcze <span data-specifier-type="pojecie-ref" data-specifier-inline="" contenteditable="false"><span data-alternative="">jaźnią</span><span data-value=""><span data-cp-editor-value="" style="display: none;">jaźń</span><span data-editor-no-parse=""><a class="cp-concept-link" href="#DJWnBBGFq_pl_main_concept_2">jaźnią</a></span></span></span>. Pojawia się ona dopiero wtedy, gdy stosunek zachodzący pomiędzy ciałem i duszą, czyli synteza tych przeciwstawnych elementów, uzyska nową jakość i wejdzie w stosunek z samym sobą. Pojawia się wówczas świadomość ustosunkowania się jaźni do samej siebie, czyli jej samoświadomość. <span class="foreign" lang="da">Kierkegaard</span> nazywa to osobowością. W człowieku zatem dochodzi do spotkania tego, co ziemskie, z tym, co boskie. Człowiek jest syntezą „nieskończoności i skończoności, doczesności i wieczności, wolności i konieczności”, a więc syntezą antytez. Trwa to dopóty, dopóki w człowieku pozostaje duch, który jest założony przez Moc.</p></div><div class="wrapper_comments-container" data-editor-no-parse=""></div></div><div class="wrapper wrapper--bg-cyan"><span data-specifier-type="section1"><span data-alternative=""></span><span data-value="">bg‑cyan</span></span> <span data-editor-params=""></span><div class="wrapper_content"><h3 data-id="DJWnBBGFq_pl_main__4F" id="DJWnBBGFq_pl_main__4F">Rozpacz  <span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="" data-specifier-type-main=""><span data-alternative=""></span><span data-value=""></span></span></span></h3></div><div class="wrapper_comments-container" data-editor-no-parse=""></div></div><div class="wrapper"><span data-specifier-type="section1"><span data-alternative=""></span><span data-value=""></span></span> <span data-editor-params=""></span><div class="wrapper_content"><section data-block-name="ResourceElement" data-block-resolved-by="media" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="media" data-specifier-type-main=""><span data-alternative=""></span><span data-value="">R1SzPC32D7aUf</span></span><span data-specifier-type="floatright" data-specifier-type-main="float-right"><span data-alternative=""></span><span data-value="">1</span></span></span><div data-editor-block-content=""><div class="float-right"><figure class="figure image cp-image    figure--archive-image" data-resource-id="R1SzPC32D7aUf" data-exercise-level="" data-id="DJWnBBGFq_pl_main__28" data-editor-no-parse=""><div class="cp-editor-alt" aria-hidden="true" style="display: none" data-editor-no-parse="">Ilustracja przedstawia sylwetkę stojącego, nagiego mężczyzny, który zakrywa twarz rękami.</div><div class="image-link image-fullscreen-trigger" href="https://static.zpe.gov.pl/portal/f/res-minimized/R1SzPC32D7aUf/1642512825/2ceEaxRwMLvAjZ3tRFW9Hlzs1UbfjFK5.jpg" data-lightbox="62ccb48e08f06" data-title="&lt;div class=&quot;figcaption_content&quot;&gt;Kierkegaard sądził, że początkiem filozofii nie jest zdziwienie, jak twierdzili Grecy, lecz rozpacz. Ale czym jest rozpacz? Ta jedna z najważniejszych kategorii myślenia Kierkegaarda oznacza utratę własnej osobowości psychicznej. Następuje to wtedy, gdy jaźń człowieka zaczyna sprzeciwiać się swojemu przeznaczeniu, gdy nie pozwala urzeczywistnić się indywidualnej tożsamości. Człowiek staje się wtedy chory na duchu, jest to „choroba na śmierć”, która nie prowadzi do śmierci w sensie biologicznym, ale śmierci duchowej, ponieważ zabija jaźń. &lt;/div&gt;&lt;div class=&quot;figure_caption_bibliography&quot; data-editor-no-parse&gt;&lt;span class=&quot;ref--before&quot;&gt; Źródło: &lt;/span&gt;Arnold  Peter &lt;span lang=&quot;hu&quot;&gt;Weisz-Kubínčan&lt;/span&gt;, &lt;em&gt;&lt;cite&gt;Rozpacz&lt;/cite&gt;&lt;/em&gt;, 1940/44, &lt;span lang=&quot;en&quot;&gt;Wikimedia Commons&lt;/span&gt;, domena publiczna.&lt;/div&gt;"><picture><img src="https://static.zpe.gov.pl/portal/f/res-minimized/R1SzPC32D7aUf/1642512825/2ceEaxRwMLvAjZ3tRFW9Hlzs1UbfjFK5.jpg" alt="Ilustracja przedstawia sylwetkę stojącego, nagiego mężczyzny, który zakrywa twarz rękami." title="" class="figure_img cp-gallery-set-size"/></picture></div><figcaption class="figure_caption"><div class="figcaption_content"><span lang="da">Kierkegaard</span> sądził, że początkiem filozofii nie jest zdziwienie, jak twierdzili Grecy, lecz rozpacz. Ale czym jest rozpacz? Ta jedna z najważniejszych kategorii myślenia <span lang="da">Kierkegaarda</span> oznacza utratę własnej osobowości psychicznej. Następuje to wtedy, gdy jaźń człowieka zaczyna sprzeciwiać się swojemu przeznaczeniu, gdy nie pozwala urzeczywistnić się indywidualnej tożsamości. Człowiek staje się wtedy chory na duchu, jest to „choroba na śmierć”, która nie prowadzi do śmierci w sensie biologicznym, ale śmierci duchowej, ponieważ zabija jaźń. </div><div class="figure_caption_bibliography" data-editor-no-parse=""><span class="ref--before"> Źródło: </span>Arnold  Peter <span lang="hu">Weisz-Kubínčan</span>, <em><cite>Rozpacz</cite></em>, 1940/44, <span lang="en">Wikimedia Commons</span>, domena publiczna.</div></figcaption></figure></div><span class="dummy-node" data-editor-no-parse="true"></span></div></section><p id="DJWnBBGFq_pl_main__29" data-id="DJWnBBGFq_pl_main__29"><span class="foreign" lang="da">Kierkegaard</span> przedstawia różne formy rozpaczy – od <q>rozpaczy, która nie wie, że jest rozpaczą</q>, aż po <q>rozpacz, kiedy wątpi się nawet w to, czy chce się być</q>. Analizuje rozpacz najpierw z perspektywy samoświadomości jaźni, później zaś przez pryzmat elementów tworzących syntezę w człowieku. W tym pierwszym rozróżnieniu wskazał dwa rodzaje rozpaczy świadomej:</p><ul data-id="DJWnBBGFq_pl_main__2D">
+  <li data-id="DJWnBBGFq_pl_main__2E"><p id="DJWnBBGFq_pl_main__2F" data-id="DJWnBBGFq_pl_main__2F">rozpacz związaną ze świadomością, że się nie chce być sobą,</p></li>
+  <li data-id="DJWnBBGFq_pl_main__2G"><p id="DJWnBBGFq_pl_main__2H" data-id="DJWnBBGFq_pl_main__2H">rozpacz z powodu pragnienia bycia sobą.</p></li>
+</ul><p id="DJWnBBGFq_pl_main__2I" data-id="DJWnBBGFq_pl_main__2I">Powiadał jednak <span class="foreign" lang="da">Kierkegaard</span>, że najbardziej rozpowszechniona jest rozpacz nieuświadamiana, która polega na braku samoświadomości jaźni, co oznacza, że duch ludzki nie dostrzega, że posiada jaźń. Możliwość zbawienia stwarza rozpacz nad własnym „ja”, powoduje ona bowiem świadomość jego istnienia.</p><p id="DJWnBBGFq_pl_main__2K" data-id="DJWnBBGFq_pl_main__2K">Uwzględniając natomiast elementy syntezy, rozróżnił kolejne rodzaje rozpaczy:</p><ul data-id="DJWnBBGFq_pl_main__2L">
+  <li data-id="DJWnBBGFq_pl_main__2M"><p id="DJWnBBGFq_pl_main__2N" data-id="DJWnBBGFq_pl_main__2N">rozpacz nieskończoności,</p></li>
+  <li data-id="DJWnBBGFq_pl_main__2O"><p id="DJWnBBGFq_pl_main__2P" data-id="DJWnBBGFq_pl_main__2P">rozpacz skończoności,</p></li>
+  <li data-id="DJWnBBGFq_pl_main__2Q"><p id="DJWnBBGFq_pl_main__2R" data-id="DJWnBBGFq_pl_main__2R">rozpacz możliwości,</p></li>
+  <li data-id="DJWnBBGFq_pl_main__2S"><p id="DJWnBBGFq_pl_main__2T" data-id="DJWnBBGFq_pl_main__2T">rozpacz konieczności.</p></li>
+</ul><p id="DJWnBBGFq_pl_main__2U" data-id="DJWnBBGFq_pl_main__2U">Popadnięcie w którąkolwiek z tych rozpaczy prowadzi do wyeliminowania jednego z elementów syntezy, pozbycia się połowy swego istnienia, a więc nie tylko zubożenia osobowości, lecz także załamania samej syntezy, którą jest jednostka. Filozof akcentuje więc niemożliwy do rozwiązania tragizm egzystencji. Kto się opowie za skończonością, skazuje się na nicość, ten zaś, kto wybiera nieskończoność, skazuje się na męczarnię. Kierkegaard zakładał, że rozpacz zostanie usunięta dopiero wtedy, gdy tożsamość jednostki urzeczywistni się w wierze.</p><p id="DJWnBBGFq_pl_main__2V" data-id="DJWnBBGFq_pl_main__2V">W obliczu Boga człowiek musi traktować rozpacz jako grzech, stanowi on dla <span class="foreign" lang="da">Kierkegaarda</span> rodzaj postawy wobec Boga; tylko przed Nim jednostka jest odpowiedzialna za grzech. Filozof dostrzega pozytywne znaczenie grzechu, gdyż „jest on w obliczu Boga” i rodzi się przecież w trakcie przełamywania rozpaczy. <span class="foreign" lang="da">Kierkegaard</span> stara się wyjaśnić chrześcijańskie pojęcie grzechu przez porównanie z sokratejskim myślowym dobrem. Sokrates utożsamiał grzech z niewiedzą, z nieświadomością cnoty, zabrakło w tym jednak pojęcia woli. Dla filozofa ważne jest natomiast, że człowiek wie, jak należy postępować, zna przecież Objawienie, ale nie chce postępować zgodnie z nim.</p></div><div class="wrapper_comments-container" data-editor-no-parse=""></div></div><div class="wrapper wrapper--bg-cyan"><span data-specifier-type="section1"><span data-alternative=""></span><span data-value="">bg‑cyan</span></span> <span data-editor-params=""></span><div class="wrapper_content"><h3 data-id="DJWnBBGFq_pl_main__4G" id="DJWnBBGFq_pl_main__4G">Egzystencja  <span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="" data-specifier-type-main=""><span data-alternative=""></span><span data-value=""></span></span></span></h3></div><div class="wrapper_comments-container" data-editor-no-parse=""></div></div><div class="wrapper"><span data-specifier-type="section1"><span data-alternative=""></span><span data-value=""></span></span> <span data-editor-params=""></span><div class="wrapper_content"><p id="DJWnBBGFq_pl_main__32" data-id="DJWnBBGFq_pl_main__32">Istnienie ludzkie jest procesem ciągłego stawania się, osobowość zatem musi się stale rozwijać, poszukuje swojego miejsca, swojego autentyzmu. Podejmuje działania mające uczynić ją nieskończonością, a jednocześnie zwraca się ku skończoności. Jakiekolwiek zbłądzenie, zejście z którejś z tych dróg, może spowodować rozpad pełnej osobowości. Człowiek bowiem jest syntezą doczesności i wieczności. Niemożliwe zatem jest ujęcie istnienia w jednej formule, wobec tego również filozofia egzystencjalna, która w myśli <span class="foreign" lang="da">Kierkegaarda</span> podejmuje próbę wyjaśnienia autentyczności bytu ludzkiego w jego relacji do Boga, musi być zmienna, nie może dać zamkniętej wiedzy.</p><p id="DJWnBBGFq_pl_main__34" data-id="DJWnBBGFq_pl_main__34"><span class="foreign" lang="da">Kierkegaard</span> nie przyjmuje żadnej koncepcji, która abstrahuje od konkretu, która ujmuje człowieka jako abstrakcję. To jednostka staje twarzą w twarz z Bogiem, to jednostka doświadcza niepojętości niezmiennego, nieskończonego Boga. Egzystencja człowieka oznacza zatem jej więź z <span data-specifier-type="pojecie-ref" data-specifier-inline="" contenteditable="false"><span data-alternative="">transcendencją</span><span data-value=""><span data-cp-editor-value="" style="display: none;">transcendencja</span><span data-editor-no-parse=""><a class="cp-concept-link" href="#DJWnBBGFq_pl_main_concept_3">transcendencją</a></span></span></span>, pragnienie wyrwania się z istnienia do prawdziwego bytu, czego wyrazem jest religia.</p></div><div class="wrapper_comments-container" data-editor-no-parse=""></div></div><div class="wrapper wrapper--bg-cyan"><span data-specifier-type="section1"><span data-alternative=""></span><span data-value="">bg‑cyan</span></span> <span data-editor-params=""></span><div class="wrapper_content"><h3 data-id="DJWnBBGFq_pl_main__4H" id="DJWnBBGFq_pl_main__4H">Typy życia (sfery egzystencji)  <span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="" data-specifier-type-main=""><span data-alternative=""></span><span data-value=""></span></span></span></h3></div><div class="wrapper_comments-container" data-editor-no-parse=""></div></div><div class="wrapper"><span data-specifier-type="section1"><span data-alternative=""></span><span data-value=""></span></span> <span data-editor-params=""></span><div class="wrapper_content"><section data-block-name="ResourceElement" data-block-resolved-by="media" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="media" data-specifier-type-main=""><span data-alternative=""></span><span data-value="">RaFiJOQ9gkqYY</span></span></span><div data-editor-block-content=""><figure class="figure image cp-image    figure--archive-image" data-resource-id="RaFiJOQ9gkqYY" data-exercise-level="" data-id="DJWnBBGFq_pl_main__3B" data-editor-no-parse=""><div class="cp-editor-alt" aria-hidden="true" style="display: none" data-editor-no-parse="">Zdjęcie przedstawia dwa zniszczone fotele. Za fotelami są nieotynkowane ściany. Na jednym z foteli siedzi dziewczyna. Ma spuszczoną głowę, długie rude włosy zasłaniają jej twarz.  </div><div class="image-link image-fullscreen-trigger" href="https://static.zpe.gov.pl/portal/f/res-minimized/RaFiJOQ9gkqYY/1642512826/qKWCoN66G9f3LM3TeR1teXZ67TrbbDhF.jpg" data-lightbox="62ccb48e0b559" data-title="&lt;div class=&quot;figcaption_content&quot;&gt;W człowieku toczy się walka, raz po raz górę biorą któreś z elementów syntezy; jednostka albo pragnie zbliżyć się do ludzkiej skończoności, albo ma aspiracje wieczności, żywi pragnienie dorównania Bogu. Znajduje to odzwierciedlenie w trzech typach życia lub stadiach na drodze życia, jak  określił je w tytule swojej książki. W tytule tym zawarta jest jednoznaczna sugestia, że każdy z owych typów stanowi skończony okres w życiu człowieka. Nie należy przez to rozumieć, że raz przekroczywszy pewne stadium, już się do niego nie powraca.&lt;/div&gt;&lt;div class=&quot;figure_caption_bibliography&quot; data-editor-no-parse&gt;&lt;span class=&quot;ref--before&quot;&gt; Źródło: &lt;/span&gt;&lt;span lang=&quot;en&quot;&gt;Pixabay&lt;/span&gt;, domena publiczna.&lt;/div&gt;"><picture><img src="https://static.zpe.gov.pl/portal/f/res-minimized/RaFiJOQ9gkqYY/1642512826/qKWCoN66G9f3LM3TeR1teXZ67TrbbDhF.jpg" alt="Zdjęcie przedstawia dwa zniszczone fotele. Za fotelami są nieotynkowane ściany. Na jednym z foteli siedzi dziewczyna. Ma spuszczoną głowę, długie rude włosy zasłaniają jej twarz.  " title="" class="figure_img cp-gallery-set-size"/></picture></div><figcaption class="figure_caption"><div class="figcaption_content">W człowieku toczy się walka, raz po raz górę biorą któreś z elementów syntezy; jednostka albo pragnie zbliżyć się do ludzkiej skończoności, albo ma aspiracje wieczności, żywi pragnienie dorównania Bogu. Znajduje to odzwierciedlenie w trzech typach życia lub stadiach na drodze życia, jak  określił je w tytule swojej książki. W tytule tym zawarta jest jednoznaczna sugestia, że każdy z owych typów stanowi skończony okres w życiu człowieka. Nie należy przez to rozumieć, że raz przekroczywszy pewne stadium, już się do niego nie powraca.</div><div class="figure_caption_bibliography" data-editor-no-parse=""><span class="ref--before"> Źródło: </span><span lang="en">Pixabay</span>, domena publiczna.</div></figcaption></figure><span class="dummy-node" data-editor-no-parse="true"></span></div></section><p id="DJWnBBGFq_pl_main__3C" data-id="DJWnBBGFq_pl_main__3C">Życie jest nieustannym miotaniem się człowieka między jednym typem a innymi. Pierwszym typem lub sferą egzystencji (bo i tak określa filozof te etapy) jest <strong>typ estetyczny</strong>, kolejny to <strong>typ etyczny</strong>, ostatni zaś – <strong>typ religijny</strong>. Przejście między typami jest radykalne; człowiek ma przed sobą alternatywę albo‑albo, nie ma rozwiązań pośrednich.</p><ul data-id="DJWnBBGFq_pl_main__3G">
+  <li data-id="DJWnBBGFq_pl_main__3H"><p id="DJWnBBGFq_pl_main__3I" data-id="DJWnBBGFq_pl_main__3I">Życie w <strong>pierwszym stadium</strong> ma charakter niezaangażowany, człowiek bawi  się życiem (symbolem dla Kierkegaarda jest Don Juan), daje się ponieść  jego możliwościom, urokom. Unika podejmowania ważnych decyzji, nie  zawiera bliskich przyjaźni. Nie stawia przed sobą zadań, celów. Świat,  środowisko zostają przez estetę tak naprawdę odrzucone, zdewaluowane.  Nie znajduje on również wartości w sobie. Prowadzi to do poczucia  beznadziejności, absurdu, bezsensu, nudy. Zamiast radości przychodzi  więc rozczarowanie, wynikające z braku Boga. Wprowadzenie Go, a więc  dokonanie wyboru, oznacza przejście do typu etycznego.</p></li>
+</ul><ul data-id="DJWnBBGFq_pl_main__3K">
+  <li data-id="DJWnBBGFq_pl_main__3L"><p id="DJWnBBGFq_pl_main__3M" data-id="DJWnBBGFq_pl_main__3M">W <strong>drugim stadium</strong> życie jest świadomie zaakceptowane. Dominuje poczucie  odpowiedzialności. Etyk poszukuje rzeczywistości i trwa w raz dokonanym  wyborze. Umożliwia to uzyskanie pozycji społecznej, podnosi wartość  człowieka. Zmusza także do podporządkowania się regułom zewnętrznym  (państwowym, religijnym), ale tylko w ogólnym zakresie. W szczegółach  człowiek sam dokonuje wyborów, jest skazany na wolny i samodzielny  wybór. W tym zawiera się niebezpieczeństwo, ale również możliwość  wejścia w konflikt z istniejącymi normami. Dotyczy to zwykle jednostek  wyjątkowych, które reprezentują poglądy odbiegające od panujących  rygorów i zasad. Przyjęcie ich oznaczałoby uzależnienie jednostki od  abstrakcji. Ale nie tylko – życie okazuje się bardziej skomplikowane,  niż przewidują to istniejące zbiory praw, i zmusza niejednokrotnie do  podjęcia sprzecznych decyzji zgodnie z nakazami wewnętrznymi, których  nie da się zwerbalizować. Wynikają one z wiary. A to oznacza „skok” do  kolejnego typu życia.</p></li>
+</ul><ul data-id="DJWnBBGFq_pl_main__3O">
+  <li data-id="DJWnBBGFq_pl_main__3P"><p id="DJWnBBGFq_pl_main__3Q" data-id="DJWnBBGFq_pl_main__3Q"><strong>Typ religijny</strong> oznacza odrzucenie życia w społeczności ludzkiej wraz  z panującymi prawami ogólnymi i wejście w stadium osobistej,  subiektywnej wiary. Stadium religijne dla Kierkegaarda uzyskuje dwie różne postaci: A i B.</p></li>
+</ul></div><div class="wrapper_comments-container" data-editor-no-parse=""></div></div><div class="wrapper wrapper-wide wrapper--wide wrapper--missing-left-side wrapper--missing-right-side"><span data-specifier-type="section1-weak"><span data-alternative=""></span><span data-value=""></span></span><div class="wrapper_content"><section data-block-name="StaticExerciseCommand" data-block-resolved-by="command" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="command" data-specifier-type-main=""><span data-alternative=""></span><span data-value=""></span></span><span data-specifier-type="wide" data-specifier-type-main="wide"><span data-alternative=""></span><span data-value="">1</span></span></span><div data-editor-block-content=""><div class="elearning_exercise static-exercise" id="DJWnBBGFq_pl_main__3S" role="region" aria-labelledby="DJWnBBGFq_pl_main__3S_label" data-exercise-level="" data-exercise-order="1"><div class="elearning_exercise__title" id="DJWnBBGFq_pl_main__3S_label" data-exercise-command-order="1" data-editor-no-parse="">Polecenie <span data-editor-counter="command">1</span></div><div data-editor-content=""><section data-block-name="Wcag" data-block-resolved-by="wcag" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="wcag" data-specifier-type-main=""><span data-alternative=""></span><span data-value=""></span></span></span><div data-editor-block-content=""><div class="wcag-container"><div data-editor-content=""><p id="DJWnBBGFq_pl_main__3U" data-id="DJWnBBGFq_pl_main__3U">Uzupełnij mapę myśli poglądami <span class="foreign" lang="da">Sørena Kierkegaarda.</span></p><section data-block-name="ResourceElement" data-block-resolved-by="media" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="media" data-specifier-type-main=""><span data-alternative=""></span><span data-value="">RstHo7fHzf0wF</span></span><span data-specifier-type="wide" data-specifier-type-main="wide"><span data-alternative=""></span><span data-value="">1</span></span></span><div data-editor-block-content=""><span class="dummy-node" data-editor-no-parse="true"></span><figure class="figure exercise cp-exercise interactive   " data-resource-id="RstHo7fHzf0wF" data-storage-id="DJWnBBGFq_pl_main_RstHo7fHzf0wF_1" data-exercise-level="" data-id="DJWnBBGFq_pl_main__3W" data-editor-no-parse=""><div class="cp-editor-alt" aria-hidden="true" style="display: none" data-editor-no-parse="">Mapa myśli.  Lista elementów: <ul><li>Nazwa kategorii: Søren Kierkegaard</li><ul>Elementy należące do kategorii Søren Aabye Kierkegaard<li>Nazwa kategorii: antropologia</li><ul>Elementy należące do kategorii antropologia<li>Nazwa kategorii: </li><li>Nazwa kategorii: </li><li>Nazwa kategorii: </li>Koniec elementów należących do kategorii antropologia</ul><li>Nazwa kategorii: rozpacz</li><ul>Elementy należące do kategorii rozpacz<li>Nazwa kategorii: </li><li>Nazwa kategorii: </li>Koniec elementów należących do kategorii rozpacz</ul><li>Nazwa kategorii: egzystencja</li><ul>Elementy należące do kategorii egzystencja<li>Nazwa kategorii: </li><li>Nazwa kategorii: </li>Koniec elementów należących do kategorii egzystencja</ul><li>Nazwa kategorii: typy życia</li><ul>Elementy należące do kategorii typy życia<li>Nazwa kategorii: </li>Koniec elementów należących do kategorii typy życia</ul><li>Nazwa kategorii: religijność A i B</li><ul>Elementy należące do kategorii religijność A i B<li>Nazwa kategorii: </li><li>Nazwa kategorii: </li>Koniec elementów należących do kategorii religijność A i B</ul><li>Nazwa kategorii: egzystencjalizm religii</li><ul>Elementy należące do kategorii egzystencjalizm religii<li>Nazwa kategorii: </li><li>Nazwa kategorii: </li>Koniec elementów należących do kategorii egzystencjalizm religii</ul>Koniec elementów należących do kategorii Søren Aabye Kierkegaard</ul></ul></div><span class="sr-only" data-editor-no-parse="">Mapa myśli.  Lista elementów: <ul><li>Nazwa kategorii: Søren Kierkegaard</li><ul>Elementy należące do kategorii Søren Aabye Kierkegaard<li>Nazwa kategorii: antropologia</li><ul>Elementy należące do kategorii antropologia<li>Nazwa kategorii: </li><li>Nazwa kategorii: </li><li>Nazwa kategorii: </li>Koniec elementów należących do kategorii antropologia</ul><li>Nazwa kategorii: rozpacz</li><ul>Elementy należące do kategorii rozpacz<li>Nazwa kategorii: </li><li>Nazwa kategorii: </li>Koniec elementów należących do kategorii rozpacz</ul><li>Nazwa kategorii: egzystencja</li><ul>Elementy należące do kategorii egzystencja<li>Nazwa kategorii: </li><li>Nazwa kategorii: </li>Koniec elementów należących do kategorii egzystencja</ul><li>Nazwa kategorii: typy życia</li><ul>Elementy należące do kategorii typy życia<li>Nazwa kategorii: </li>Koniec elementów należących do kategorii typy życia</ul><li>Nazwa kategorii: religijność A i B</li><ul>Elementy należące do kategorii religijność A i B<li>Nazwa kategorii: </li><li>Nazwa kategorii: </li>Koniec elementów należących do kategorii religijność A i B</ul><li>Nazwa kategorii: egzystencjalizm religii</li><ul>Elementy należące do kategorii egzystencjalizm religii<li>Nazwa kategorii: </li><li>Nazwa kategorii: </li>Koniec elementów należących do kategorii egzystencjalizm religii</ul>Koniec elementów należących do kategorii Søren Aabye Kierkegaard</ul></ul></span><div class="womi-container-v2 print-hide" data-editor-disabled=""><div class="classic"><div class="interactive-object-container" data-alt="Mapa myśli.  Lista elementów: Nazwa kategorii: Søren KierkegaardElementy należące do kategorii Søren Aabye KierkegaardNazwa kategorii: antropologiaElementy należące do kategorii antropologiaNazwa kategorii: Nazwa kategorii: Nazwa kategorii: Koniec elementów należących do kategorii antropologiaNazwa kategorii: rozpaczElementy należące do kategorii rozpaczNazwa kategorii: Nazwa kategorii: Koniec elementów należących do kategorii rozpaczNazwa kategorii: egzystencjaElementy należące do kategorii egzystencjaNazwa kategorii: Nazwa kategorii: Koniec elementów należących do kategorii egzystencjaNazwa kategorii: typy życiaElementy należące do kategorii typy życiaNazwa kategorii: Koniec elementów należących do kategorii typy życiaNazwa kategorii: religijność A i BElementy należące do kategorii religijność A i BNazwa kategorii: Nazwa kategorii: Koniec elementów należących do kategorii religijność A i BNazwa kategorii: egzystencjalizm religiiElementy należące do kategorii egzystencjalizm religiiNazwa kategorii: Nazwa kategorii: Koniec elementów należących do kategorii egzystencjalizm religiiKoniec elementów należących do kategorii Søren Aabye Kierkegaard" data-width="100%"><div class="standard-interactive-object" data-object-src="https://static.zpe.gov.pl/portal/f/res/RstHo7fHzf0wF/1642512827/19JdrDj19oPyFDDWL8Hgn7fczi2MzY5q" data-object-engine="core/e41amcforcedirectedtreegenerator" data-manifest="{&quot;data&quot;:{&quot;code&quot;:null,&quot;mode&quot;:null,&quot;type&quot;:&quot;E41AMCForceDirectedTreeGenerator&quot;,&quot;content&quot;:{&quot;items&quot;:{&quot;tree&quot;:[{&quot;name&quot;:&quot;Søren Aabye Kierkegaard&quot;,&quot;value&quot;:48,&quot;children&quot;:[{&quot;name&quot;:&quot;antropologia&quot;,&quot;value&quot;:32,&quot;children&quot;:[{&quot;name&quot;:&quot;&quot;,&quot;value&quot;:16},{&quot;name&quot;:&quot;&quot;,&quot;value&quot;:16},{&quot;name&quot;:&quot;&quot;,&quot;value&quot;:16}]},{&quot;name&quot;:&quot;rozpacz&quot;,&quot;value&quot;:32,&quot;children&quot;:[{&quot;name&quot;:&quot;&quot;,&quot;value&quot;:16},{&quot;name&quot;:&quot;&quot;,&quot;value&quot;:16}]},{&quot;name&quot;:&quot;egzystencja&quot;,&quot;value&quot;:32,&quot;children&quot;:[{&quot;name&quot;:&quot;&quot;,&quot;value&quot;:16},{&quot;name&quot;:&quot;&quot;,&quot;value&quot;:16}]},{&quot;name&quot;:&quot;typy życia&quot;,&quot;value&quot;:32,&quot;children&quot;:[{&quot;name&quot;:&quot;&quot;,&quot;value&quot;:16}]},{&quot;name&quot;:&quot;egzystencjalizm religii&quot;,&quot;value&quot;:32,&quot;children&quot;:[{&quot;name&quot;:&quot;&quot;,&quot;value&quot;:16},{&quot;name&quot;:&quot;&quot;,&quot;value&quot;:16}]}]}],&quot;settings&quot;:{&quot;task&quot;:&quot;&quot;,&quot;share&quot;:1,&quot;legend&quot;:0,&quot;size_x&quot;:16,&quot;size_y&quot;:9,&quot;swap_view&quot;:&quot;1&quot;,&quot;stroke_width&quot;:1,&quot;stroke_opacity&quot;:1}},&quot;title&quot;:&quot;&quot;,&quot;gameTitle&quot;:&quot;&quot;,&quot;gameSubtitle&quot;:&quot;&quot;},&quot;options&quot;:{&quot;theme&quot;:null,&quot;isTest&quot;:true,&quot;footerStyle&quot;:&quot;extended&quot;,&quot;isFullScreen&quot;:false,&quot;isAnswerCaseSensitive&quot;:true},&quot;shuffle&quot;:true,&quot;resources&quot;:[],&quot;resourcesCount&quot;:{&quot;audio&quot;:0,&quot;image&quot;:0,&quot;video&quot;:0},&quot;feedbackNegative&quot;:{&quot;title&quot;:&quot;&quot;,&quot;content&quot;:&quot;&quot;},&quot;feedbackPositive&quot;:{&quot;title&quot;:&quot;&quot;,&quot;content&quot;:&quot;&quot;}},&quot;files&quot;:[],&quot;engine&quot;:&quot;core/E41AMCForceDirectedTreeGenerator&quot;}"></div></div></div></div><div class="print-only" data-editor-no-parse=""></div><figcaption class="figure_caption"><div class="figcaption_content"></div></figcaption></figure><span class="dummy-node" data-editor-no-parse="true"></span></div></section><section data-block-name="WcagAlternativeExercise" data-block-resolved-by="wcag-alternative-exercise" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="wcag-alternative-exercise" data-specifier-type-main=""><span data-alternative=""></span><span data-value=""></span></span></span><div data-editor-block-content=""><span class="dummy-node" data-editor-no-parse="true"></span><div class="wcag-alternative-exercise"><div data-editor-content=""><section data-block-name="ResourceElement" data-block-resolved-by="media" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="media" data-specifier-type-main=""><span data-alternative=""></span><span data-value="">R1aXuEdloRILR</span></span></span><div data-editor-block-content=""><figure class="figure exercise cp-exercise interactive  lms-open-exercise wcag-ready" data-resource-id="R1aXuEdloRILR" data-storage-id="DJWnBBGFq_pl_main_R1aXuEdloRILR_1" data-exercise-level="" data-id="DJWnBBGFq_pl_main__3Y" data-editor-no-parse=""><span class="sr-only" data-editor-no-parse="">(Uzupełnij).</span><div class="womi-container-v2 print-hide" data-editor-disabled=""><div class="classic"><div class="interactive-object-container" data-alt="(Uzupełnij)." data-width="100%"><div class="standard-interactive-object" data-object-src="https://static.zpe.gov.pl/portal/f/res/R1aXuEdloRILR/1642512828/11XmjhoIb8zAaMWYUdNbqNT2kAKdaJp5" data-object-engine="core/e11journal" data-manifest="{&quot;data&quot;:{&quot;code&quot;:null,&quot;mode&quot;:null,&quot;type&quot;:&quot;E11Journal&quot;,&quot;content&quot;:{&quot;items&quot;:{&quot;button&quot;:&quot;Add&quot;,&quot;elements&quot;:[{&quot;type&quot;:1,&quot;content&quot;:[{&quot;width&quot;:100,&quot;elements&quot;:[{&quot;type&quot;:&quot;textarea&quot;,&quot;label&quot;:&quot;&quot;,&quot;placeholder&quot;:&quot;&quot;}]}]}]},&quot;title&quot;:&quot;Stwórz notatkę o poglądach &lt;span lang=\&quot;da\&quot;&gt;Søren Aabye Kierkegaarda&lt;/span&gt;.&quot;,&quot;gameTitle&quot;:&quot;Stwórz notatkę o poglądach &lt;span lang=\&quot;da\&quot;&gt;Søren Aabye Kierkegaarda&lt;/span&gt;.&quot;,&quot;gameSubtitle&quot;:&quot;&quot;},&quot;options&quot;:{&quot;theme&quot;:null,&quot;isTest&quot;:true,&quot;footerStyle&quot;:&quot;extended&quot;,&quot;isFullScreen&quot;:false,&quot;isAnswerCaseSensitive&quot;:true},&quot;shuffle&quot;:true,&quot;resources&quot;:[],&quot;resourcesCount&quot;:{&quot;audio&quot;:0,&quot;image&quot;:0,&quot;video&quot;:0},&quot;feedbackNegative&quot;:{&quot;title&quot;:&quot;&quot;,&quot;content&quot;:&quot;&quot;},&quot;feedbackPositive&quot;:{&quot;title&quot;:&quot;&quot;,&quot;content&quot;:&quot;&quot;}},&quot;files&quot;:[],&quot;engine&quot;:&quot;core/E11Journal&quot;}"></div></div></div></div><div class="print-only" data-editor-no-parse=""></div><figcaption class="figure_caption"><div class="figcaption_content"></div></figcaption></figure></div></section></div></div></div></section></div></div></div></section></div></div></div></section></div><div class="wrapper_comments-container" data-editor-no-parse=""></div></div><div class="wrapper"><span data-specifier-type="section1-weak"><span data-alternative=""></span><span data-value=""></span></span> <span data-editor-params=""></span><div class="wrapper_content"><h2 data-id="DJWnBBGFq_pl_main__4I" id="DJWnBBGFq_pl_main__4I">Słownik  <span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="" data-specifier-type-main=""><span data-alternative=""></span><span data-value=""></span></span></span></h2><section data-block-name="Concept" data-block-resolved-by="pojecie" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="pojecie" data-specifier-type-main="definition"><span data-alternative=""></span><span data-value="">filozofia egzystencjalna</span></span></span><div data-editor-block-content=""><span class="dummy-node" data-editor-no-parse="true"></span><div class="note note--important" id="DJWnBBGFq_pl_main_concept_1" role="region" aria-labelledby="DJWnBBGFq_pl_main__40_label"><div class="note__title cp-editor-contenteditable-parent" id="DJWnBBGFq_pl_main__40_label" data-editor-no-parse="" data-editor-editable-title-type="definition">filozofia egzystencjalna</div><div data-editor-content=""><p id="DJWnBBGFq_pl_main__41" data-id="DJWnBBGFq_pl_main__41">w rozumieniu <span class="foreign" lang="da">Kierkegaarda</span> filozofia, która zajmuje się próbą wyjaśnienia autentyczności bytu ludzkiego w jego relacji do Boga</p></div></div><span class="dummy-node" data-editor-no-parse="true"></span></div></section><section data-block-name="Concept" data-block-resolved-by="pojecie" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="pojecie" data-specifier-type-main="definition"><span data-alternative=""></span><span data-value="">jaźń</span></span></span><div data-editor-block-content=""><span class="dummy-node" data-editor-no-parse="true"></span><div class="note note--important" id="DJWnBBGFq_pl_main_concept_2" role="region" aria-labelledby="DJWnBBGFq_pl_main__43_label"><div class="note__title cp-editor-contenteditable-parent" id="DJWnBBGFq_pl_main__43_label" data-editor-no-parse="" data-editor-editable-title-type="definition">jaźń</div><div data-editor-content=""><p id="DJWnBBGFq_pl_main__44" data-id="DJWnBBGFq_pl_main__44">samoświadomość oparta na podmiotowości i poczuciu własnego Ja</p></div></div><span class="dummy-node" data-editor-no-parse="true"></span></div></section><section data-block-name="Concept" data-block-resolved-by="pojecie" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="pojecie" data-specifier-type-main="definition"><span data-alternative=""></span><span data-value="">skok</span></span></span><div data-editor-block-content=""><span class="dummy-node" data-editor-no-parse="true"></span><div class="note note--important" id="DJWnBBGFq_pl_main_concept_4" role="region" aria-labelledby="DJWnBBGFq_pl_main__45_label"><div class="note__title cp-editor-contenteditable-parent" id="DJWnBBGFq_pl_main__45_label" data-editor-no-parse="" data-editor-editable-title-type="definition">skok</div><div data-editor-content=""><p id="DJWnBBGFq_pl_main__46" data-id="DJWnBBGFq_pl_main__46">u Kierkeggarda nagłe przejście z jednej sfery egzystencji do drugiej z jednoczesnym zerwaniem ciągłości, zakwestionowaniem dotychczasowych przekonań, które wynika z wolnej woli człowieka, jest jego świadomym wyborem</p></div></div><span class="dummy-node" data-editor-no-parse="true"></span></div></section><section data-block-name="Concept" data-block-resolved-by="pojecie" data-editor-block=""><span data-editor-params=""><span data-specifier-resolvedby="" data-specifier-type="pojecie" data-specifier-type-main="definition"><span data-alternative=""></span><span data-value="">transcendencja</span></span></span><div data-editor-block-content=""><span class="dummy-node" data-editor-no-parse="true"></span><div class="note note--important" id="DJWnBBGFq_pl_main_concept_3" role="region" aria-labelledby="DJWnBBGFq_pl_main__47_label"><div class="note__title cp-editor-contenteditable-parent" id="DJWnBBGFq_pl_main__47_label" data-editor-no-parse="" data-editor-editable-title-type="definition">transcendencja</div><div data-editor-content=""><p id="DJWnBBGFq_pl_main__48" data-id="DJWnBBGFq_pl_main__48">(łac. <em><span class="foreign" lang="la">transcendere</span></em> – wychodzenie poza granice) określenie tego, co znajduje się „poza”, np. światem fizycznym; w tym sensie Bóg lub idee mogą być transcendentne - znajdują się bowiem poza światem; jest to zatem pojęcie z zakresu ontologii</p></div></div></div></section></div><div class="wrapper_comments-container" data-editor-no-parse=""></div></div></div>            <script>
+                (function () {
+                    for (var o of $('[data-object-src]')) {
+                        var src = o.getAttribute('data-object-src');
+                        if (src.startsWith('https://static.')) {
+                            var url = new URL(src);
+                            url.host = url.host.replace(/^static\./, '')
+                            url.pathname = '/static-data' + url.pathname
+                            o.setAttribute('data-object-src', url.toString());
+                        }
+                    }
+                })();
+            </script>
+        </div>
+
+        
+                    <div class="wrapper">
+                <div class="wrapper_content">
+                    <div class="page-nav-footer">
+                                                    <div class="page-nav-footer__item page-nav-footer__item--prev">
+                                <a href="/a/wprowadzenie/DlvDvjOFj" class="page-nav-footer__btn"
+                                   aria-label="Poprzednia strona"
+                                   title="Poprzednia strona" data-course-prev-btn>
+                                    <span class="mdi mdi-chevron-left"></span>
+                                    <span class="page-nav-footer__label">
+                                        Wprowadzenie                                    </span>
+                                </a>
+                            </div>
+                                                                            <div class="page-nav-footer__item page-nav-footer__item--next">
+                                <a href="/a/audiobook/DOydfhz5Z" class="page-nav-footer__btn"
+                                   aria-label="Następna strona"
+                                   title="Następna strona" data-course-next-btn>
+                                    <span class="page-nav-footer__label">
+                                        Audiobook                                    </span>
+                                    <span class="mdi mdi-chevron-right"></span>
+                                </a>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+            </div>
+</div>
+
+<script type="text/javascript">
+    (function () {
+        $('.print-button').show();
+
+        $('body').addClass('preload');
+        $('#main-content').find('.elearning_exercise__title').filter(function () {
+            return $(this).siblings().length == 0;
+        }).parent().remove();
+
+        $('.switch--sidebar').on('click', function () {
+            if ($('body').hasClass('no-sidebar')) {
+                $('body').removeClass('no-sidebar');
+                $('.sidebar-menu').attr('aria-hidden', false).find('.course-list_node').attr('tabindex', 0);
+            } else {
+                $('body').addClass('no-sidebar');
+                $('.sidebar-menu').attr('aria-hidden', true).find('.course-list_node').attr('tabindex', -1);
+            }
+
+        }).keyup(function (event) {
+            if (CpKeyboard.checkCode(event, 'enter')) {
+                $(this).click();
+            }
+        });
+
+        $(document).on('click', '.nav li > i, .nav li .nav-item', function () {
+            var el = $(this).closest('li');
+
+            if (el.find('.nav_dropdown').hasClass('active')) {
+                el.find('.nav_dropdown').removeClass('active');
+            } else {
+                el.parent().find('.nav_dropdown').removeClass('active');
+                el.find('.nav_dropdown').addClass('active');
+            }
+        });
+
+        var exerciseResultCollector = null; // to remove
+
+        let storage = new LocalStorageExerciseStorage();
+
+        console.warn("DEBUG", ((function(a) { a=Cp.extend({},a); var r = "\/storage\/fetch"+(a["document"]?("\/"+a["document"]):"\/DJWnBBGFq")+(a["language"]?("\/"+a["language"]):"\/pl"); delete a["language"];delete a["document"]; return r + '?' + CpWebUtils.arrayToURI(a); }))());
+
+        if (localStorage.getItem('AUTH_IS_LOGGED')) {
+            let domain = window.CP_CONFIGURATION.host.lms + 'api/v1';
+            storage = new ZPEApiExerciseStorage(
+                httpReader,
+                {
+                    fetch: domain + ((function(a) { a=Cp.extend({},a); var r = "\/storage\/fetch"+(a["document"]?("\/"+a["document"]):"\/DJWnBBGFq")+(a["language"]?("\/"+a["language"]):"\/pl"); delete a["language"];delete a["document"]; return r + '?' + CpWebUtils.arrayToURI(a); }))(),
+                    save: domain + ((function(a) { a=Cp.extend({},a); var r = "\/storage\/save"+(a["document"]?("\/"+a["document"]):"\/DJWnBBGFq")+(a["language"]?("\/"+a["language"]):"\/pl"); delete a["language"];delete a["document"]; return r + '?' + CpWebUtils.arrayToURI(a); }))(),
+                    fetchFile: domain + ((function(a) { a=Cp.extend({},a); var r = "\/file-storage\/fetch"+(a["document"]?("\/"+a["document"]):"\/DJWnBBGFq")+(a["language"]?("\/"+a["language"]):"\/pl"); delete a["language"];delete a["document"]; return r + '?' + CpWebUtils.arrayToURI(a); }))(),
+                    saveFile: domain + ((function(a) { a=Cp.extend({},a); var r = "\/file-storage\/save"+(a["document"]?("\/"+a["document"]):"\/DJWnBBGFq")+(a["language"]?("\/"+a["language"]):"\/pl"); delete a["language"];delete a["document"]; return r + '?' + CpWebUtils.arrayToURI(a); }))(),
+                }
+            );
+        }
+
+        let app = new CpCourseApp($('body'), storage, exerciseResultCollector, null, Object.assign({"layoutEngine":null,"siblings":{"prevSibling":{"name":"Wprowadzenie","link":"\/a\/wprowadzenie\/DlvDvjOFj"},"nextSibling":{"name":"Audiobook","link":"\/a\/audiobook\/DOydfhz5Z"}}},
+                {
+                    pageLoader: function (url, http) {
+                        return http.get(url).then(resp => {
+                            let pagesContainer = $('#collection-metadata', resp.data);
+                            pagesContainer.find('.page-nav-footer').addClass('layout-mode');
+
+                            app._documentApp.updateDOM(pagesContainer);
+                            let pageInfo = JSON.parse(pagesContainer.attr('data-pageinfo'));
+
+                            return {
+                                content: pagesContainer[0],
+                                info: pageInfo
+                            };
+                        })
+                    }
+                }));
+
+        app.setLanguage("pl");
+        app.setContrast(Number(localStorage.getItem('contrast') || 0));
+        app.setVersion(3109);
+        app.setLocale("pl");
+        app.setI18N(window.CP_CONFIGURATION.i18n);
+        app.enableNoContentPlaceholder(true);
+
+        let docCode = 'DJWnBBGFq';
+
+        app._documentApp.setInteractiveTestsCallbacks(null, null, function (testKey, result, level) {
+            // save in game mode
+            console.log("[article] SAVE GAME CALLBACK", testKey, result, level);
+
+            $.post('/result-storage/save-game/' + testKey + '/' + docCode + '/pl', {
+                data: {
+                    "result": result,
+                    "level": level
+                }
+            }, function (data) {
+                console.log("Game saved!", data);
+            })
+        });
+
+        app.init();
+
+        $('.test-interactive').each(function (k, interactiveTest) {
+            var testId = $(interactiveTest).attr('id');
+            $.post('/result-storage/fetch-game/' + testId + '/' + docCode + '/pl', {}, function (data) {
+                if (data && data.length !== 0) {
+                    app._documentApp.setInteractiveTestLastScore(data.result, data.currentLevel);
+                }
+            })
+        });
+
+        $('.figure:not([galleryid]) .figure_img').attr('tabindex', 0).before('<span class="sr-only">Kliknij, aby uruchomić podgląd</span>').keyup(function (event) {
+            if (CpKeyboard.checkCode(event, 'enter')) {
+                $(this).click();
+            }
+        });
+
+        // X
+        // $('p[id], h1[id], h2[id], h3[id], h4[id], h5[id], h6[id], .page-header h1, .elearning_exercise__title, .note__title').attr('tabindex', 0);
+
+        $(document).ready(function () {
+            // resources should have ID, not only data-id
+            $('[data-id]').each(function (k, v) {
+                if ($(v).attr('id')) {
+                    return;
+                }
+
+                if ($(v).attr('data-id')) {
+                    $(v).attr('id', $(v).attr('data-id'));
+                }
+            });
+
+            let currentUrl = new URL(window.location.href);
+            if (currentUrl.searchParams.get('goToResource')) {
+                let resourceCode = currentUrl.searchParams.get('goToResource');
+
+                let resourceElem = $('[data-resource-id="' + resourceCode + '"]');
+                if (!resourceElem) {
+                    console.warn("Resource from goToResource param not found: " + resourceCode);
+                } else {
+                    window.location.href = '#' + (resourceElem.attr('id'));
+                }
+            }
+        });
+
+        $('body').removeClass('preload');
+    })();
+</script>
+
+<div id="document-app"></div>
+</div>
+
+<div id="bottom-buttons" aria-label="Przyciski zgłoś problem i filmy instruktażowe" role="complementary">
+</div>
+
+    <div id="footer_app"></div>
+</body>
+
+</html>

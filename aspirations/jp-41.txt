@@ -1,0 +1,1456 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 03 Jan 2026 16:42:39 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+last-modified: Sat, 03 Jan 2026 15:48:39 GMT
+cache-control: max-age=0
+expires: Sat, 03 Jan 2026 16:42:39 GMT
+vary: Accept-Encoding
+
+<!DOCTYPE html>
+<html lang="ja">
+<head><meta charset="utf-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>(()=>{class RocketLazyLoadScripts{constructor(){this.v="2.0.4",this.userEvents=["keydown","keyup","mousedown","mouseup","mousemove","mouseover","mouseout","touchmove","touchstart","touchend","touchcancel","wheel","click","dblclick","input"],this.attributeEvents=["onblur","onclick","oncontextmenu","ondblclick","onfocus","onmousedown","onmouseenter","onmouseleave","onmousemove","onmouseout","onmouseover","onmouseup","onmousewheel","onscroll","onsubmit"]}async t(){this.i(),this.o(),/iP(ad|hone)/.test(navigator.userAgent)&&this.h(),this.u(),this.l(this),this.m(),this.k(this),this.p(this),this._(),await Promise.all([this.R(),this.L()]),this.lastBreath=Date.now(),this.S(this),this.P(),this.D(),this.O(),this.M(),await this.C(this.delayedScripts.normal),await this.C(this.delayedScripts.defer),await this.C(this.delayedScripts.async),await this.T(),await this.F(),await this.j(),await this.A(),window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.lastTouchEnd&&await new Promise(t=>setTimeout(t,500-Date.now()+this.lastTouchEnd)),this.I(),this.H(),this.U(),this.W()}i(){this.CSPIssue=sessionStorage.getItem("rocketCSPIssue"),document.addEventListener("securitypolicyviolation",t=>{this.CSPIssue||"script-src-elem"!==t.violatedDirective||"data"!==t.blockedURI||(this.CSPIssue=!0,sessionStorage.setItem("rocketCSPIssue",!0))},{isRocket:!0})}o(){window.addEventListener("pageshow",t=>{this.persisted=t.persisted,this.realWindowLoadedFired=!0},{isRocket:!0}),window.addEventListener("pagehide",()=>{this.onFirstUserAction=null},{isRocket:!0})}h(){let t;function e(e){t=e}window.addEventListener("touchstart",e,{isRocket:!0}),window.addEventListener("touchend",function i(o){o.changedTouches[0]&&t.changedTouches[0]&&Math.abs(o.changedTouches[0].pageX-t.changedTouches[0].pageX)<10&&Math.abs(o.changedTouches[0].pageY-t.changedTouches[0].pageY)<10&&o.timeStamp-t.timeStamp<200&&(window.removeEventListener("touchstart",e,{isRocket:!0}),window.removeEventListener("touchend",i,{isRocket:!0}),"INPUT"===o.target.tagName&&"text"===o.target.type||(o.target.dispatchEvent(new TouchEvent("touchend",{target:o.target,bubbles:!0})),o.target.dispatchEvent(new MouseEvent("mouseover",{target:o.target,bubbles:!0})),o.target.dispatchEvent(new PointerEvent("click",{target:o.target,bubbles:!0,cancelable:!0,detail:1,clientX:o.changedTouches[0].clientX,clientY:o.changedTouches[0].clientY})),event.preventDefault()))},{isRocket:!0})}q(t){this.userActionTriggered||("mousemove"!==t.type||this.firstMousemoveIgnored?"keyup"===t.type||"mouseover"===t.type||"mouseout"===t.type||(this.userActionTriggered=!0,this.onFirstUserAction&&this.onFirstUserAction()):this.firstMousemoveIgnored=!0),"click"===t.type&&t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),"touchstart"===this.lastEvent&&"touchend"===t.type&&(this.lastTouchEnd=Date.now()),"click"===t.type&&(this.lastTouchEnd=0),this.lastEvent=t.type,t.composedPath&&t.composedPath()[0].getRootNode()instanceof ShadowRoot&&(t.rocketTarget=t.composedPath()[0]),this.savedUserEvents.push(t)}u(){this.savedUserEvents=[],this.userEventHandler=this.q.bind(this),this.userEvents.forEach(t=>window.addEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})),document.addEventListener("visibilitychange",this.userEventHandler,{isRocket:!0})}U(){this.userEvents.forEach(t=>window.removeEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})),document.removeEventListener("visibilitychange",this.userEventHandler,{isRocket:!0}),this.savedUserEvents.forEach(t=>{(t.rocketTarget||t.target).dispatchEvent(new window[t.constructor.name](t.type,t))})}m(){const t="return false",e=Array.from(this.attributeEvents,t=>"data-rocket-"+t),i="["+this.attributeEvents.join("],[")+"]",o="[data-rocket-"+this.attributeEvents.join("],[data-rocket-")+"]",s=(e,i,o)=>{o&&o!==t&&(e.setAttribute("data-rocket-"+i,o),e["rocket"+i]=new Function("event",o),e.setAttribute(i,t))};new MutationObserver(t=>{for(const n of t)"attributes"===n.type&&(n.attributeName.startsWith("data-rocket-")||this.everythingLoaded?n.attributeName.startsWith("data-rocket-")&&this.everythingLoaded&&this.N(n.target,n.attributeName.substring(12)):s(n.target,n.attributeName,n.target.getAttribute(n.attributeName))),"childList"===n.type&&n.addedNodes.forEach(t=>{if(t.nodeType===Node.ELEMENT_NODE)if(this.everythingLoaded)for(const i of[t,...t.querySelectorAll(o)])for(const t of i.getAttributeNames())e.includes(t)&&this.N(i,t.substring(12));else for(const e of[t,...t.querySelectorAll(i)])for(const t of e.getAttributeNames())this.attributeEvents.includes(t)&&s(e,t,e.getAttribute(t))})}).observe(document,{subtree:!0,childList:!0,attributeFilter:[...this.attributeEvents,...e]})}I(){this.attributeEvents.forEach(t=>{document.querySelectorAll("[data-rocket-"+t+"]").forEach(e=>{this.N(e,t)})})}N(t,e){const i=t.getAttribute("data-rocket-"+e);i&&(t.setAttribute(e,i),t.removeAttribute("data-rocket-"+e))}k(t){Object.defineProperty(HTMLElement.prototype,"onclick",{get(){return this.rocketonclick||null},set(e){this.rocketonclick=e,this.setAttribute(t.everythingLoaded?"onclick":"data-rocket-onclick","this.rocketonclick(event)")}})}S(t){function e(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=>o,set(s){t.everythingLoaded?o=s:e["rocket"+i]=o=s}})}e(document,"onreadystatechange"),e(window,"onload"),e(window,"onpageshow");try{Object.defineProperty(document,"readyState",{get:()=>t.rocketReadyState,set(e){t.rocketReadyState=e},configurable:!0}),document.readyState="loading"}catch(t){console.log("WPRocket DJE readyState conflict, bypassing")}}l(t){this.originalAddEventListener=EventTarget.prototype.addEventListener,this.originalRemoveEventListener=EventTarget.prototype.removeEventListener,this.savedEventListeners=[],EventTarget.prototype.addEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalAddEventListener.call(this,e,i,o):(t.savedEventListeners.push({target:this,remove:!1,type:e,func:i,options:o}),"mouseenter"!==e&&"mouseleave"!==e||t.originalAddEventListener.call(this,e,t.savedUserEvents.push,o))},EventTarget.prototype.removeEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalRemoveEventListener.call(this,e,i,o):t.savedEventListeners.push({target:this,remove:!0,type:e,func:i,options:o})}}J(t,e){this.savedEventListeners=this.savedEventListeners.filter(i=>{let o=i.type,s=i.target||window;return e!==o||t!==s||(this.B(o,s)&&(i.type="rocket-"+o),this.$(i),!1)})}H(){EventTarget.prototype.addEventListener=this.originalAddEventListener,EventTarget.prototype.removeEventListener=this.originalRemoveEventListener,this.savedEventListeners.forEach(t=>this.$(t))}$(t){t.remove?this.originalRemoveEventListener.call(t.target,t.type,t.func,t.options):this.originalAddEventListener.call(t.target,t.type,t.func,t.options)}p(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map(t=>"load"===t||t.startsWith("load.")?"rocket-jquery-load":t).join(" ")}function o(o){function s(e){const s=o.fn[e];o.fn[e]=o.fn.init.prototype[e]=function(){return this[0]===window&&t.userActionTriggered&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(t=>{const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e})),s.apply(this,arguments),this}}if(o&&o.fn&&!t.allJQueries.includes(o)){const e={DOMContentLoaded:[],"rocket-DOMContentLoaded":[]};for(const t in e)document.addEventListener(t,()=>{e[t].forEach(t=>t())},{isRocket:!0});o.fn.ready=o.fn.init.prototype.ready=function(i){function s(){parseInt(o.fn.jquery)>2?setTimeout(()=>i.bind(document)(o)):i.bind(document)(o)}return"function"==typeof i&&(t.realDomReadyFired?!t.userActionTriggered||t.fauxDomReadyFired?s():e["rocket-DOMContentLoaded"].push(s):e.DOMContentLoaded.push(s)),o([])},s("on"),s("one"),s("off"),t.allJQueries.push(o)}e=o}t.allJQueries=[],o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){o(t)}})}P(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript,o=document.createRange(),s=i.parentElement;let n=t.get(i);void 0===n&&(n=i.nextSibling,t.set(i,n));const c=document.createDocumentFragment();o.setStart(c,0),c.appendChild(o.createContextualFragment(e)),s.insertBefore(c,n)}}async R(){return new Promise(t=>{this.userActionTriggered?t():this.onFirstUserAction=t})}async L(){return new Promise(t=>{document.addEventListener("DOMContentLoaded",()=>{this.realDomReadyFired=!0,t()},{isRocket:!0})})}async j(){return this.realWindowLoadedFired?Promise.resolve():new Promise(t=>{window.addEventListener("load",t,{isRocket:!0})})}M(){this.pendingScripts=[];this.scriptsMutationObserver=new MutationObserver(t=>{for(const e of t)e.addedNodes.forEach(t=>{"SCRIPT"!==t.tagName||t.noModule||t.isWPRocket||this.pendingScripts.push({script:t,promise:new Promise(e=>{const i=()=>{const i=this.pendingScripts.findIndex(e=>e.script===t);i>=0&&this.pendingScripts.splice(i,1),e()};t.addEventListener("load",i,{isRocket:!0}),t.addEventListener("error",i,{isRocket:!0}),setTimeout(i,1e3)})})})}),this.scriptsMutationObserver.observe(document,{childList:!0,subtree:!0})}async F(){await this.X(),this.pendingScripts.length?(await this.pendingScripts[0].promise,await this.F()):this.scriptsMutationObserver.disconnect()}D(){this.delayedScripts={normal:[],async:[],defer:[]},document.querySelectorAll("script[type$=rocketlazyloadscript]").forEach(t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)})}async _(){await this.L();let t=[];document.querySelectorAll("script[type$=rocketlazyloadscript][data-rocket-src]").forEach(e=>{let i=e.getAttribute("data-rocket-src");if(i&&!i.startsWith("data:")){i.startsWith("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}}),t=[...new Map(t.map(t=>[JSON.stringify(t),t])).values()],this.Y(t,"preconnect")}async G(t){if(await this.K(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise(e=>{let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.includes("Firefox/")||""===navigator.vendor||this.CSPIssue)i=document.createElement("script"),[...t.attributes].forEach(t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))}),t.text&&(i.text=t.text),t.nonce&&(i.nonce=t.nonce),i.hasAttribute("src")?(i.addEventListener("load",o,{isRocket:!0}),i.addEventListener("error",()=>{i.setAttribute("data-rocket-status","failed-network"),e()},{isRocket:!0}),setTimeout(()=>{i.isConnected||e()},1)):(i.text=t.text,o()),i.isWPRocket=!0,t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),s=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o,{isRocket:!0}),t.addEventListener("error",i=>{this.CSPIssue&&i.target.src.startsWith("data:")?(console.log("WPRocket: CSP fallback activated"),t.removeAttribute("src"),this.G(t).then(e)):(t.setAttribute("data-rocket-status","failed-network"),e())},{isRocket:!0}),s?(t.fetchPriority="high",t.removeAttribute("data-rocket-src"),t.src=s):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed-transform"),e()}});t.setAttribute("data-rocket-status","skipped")}async C(t){const e=t.shift();return e?(e.isConnected&&await this.G(e),this.C(t)):Promise.resolve()}O(){this.Y([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}Y(t,e){this.trash=this.trash||[];let i=!0;var o=document.createDocumentFragment();t.forEach(t=>{const s=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(s&&!s.startsWith("data:")){const n=document.createElement("link");n.href=s,n.rel=e,"preconnect"!==e&&(n.as="script",n.fetchPriority=i?"high":"low"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),t.crossOrigin&&(n.crossOrigin=t.crossOrigin),t.integrity&&(n.integrity=t.integrity),t.nonce&&(n.nonce=t.nonce),o.appendChild(n),this.trash.push(n),i=!1}}),document.head.appendChild(o)}W(){this.trash.forEach(t=>t.remove())}async T(){try{document.readyState="interactive"}catch(t){}this.fauxDomReadyFired=!0;try{await this.K(),this.J(document,"readystatechange"),document.dispatchEvent(new Event("rocket-readystatechange")),await this.K(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.K(),this.J(document,"DOMContentLoaded"),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.K(),this.J(window,"DOMContentLoaded"),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}catch(t){console.error(t)}}async A(){try{document.readyState="complete"}catch(t){}try{await this.K(),this.J(document,"readystatechange"),document.dispatchEvent(new Event("rocket-readystatechange")),await this.K(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.K(),this.J(window,"load"),window.dispatchEvent(new Event("rocket-load")),await this.K(),window.rocketonload&&window.rocketonload(),await this.K(),this.allJQueries.forEach(t=>t(window).trigger("rocket-jquery-load")),await this.K(),this.J(window,"pageshow");const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.K(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}catch(t){console.error(t)}}async K(){Date.now()-this.lastBreath>45&&(await this.X(),this.lastBreath=Date.now())}async X(){return document.hidden?new Promise(t=>setTimeout(t)):new Promise(t=>requestAnimationFrame(t))}B(t,e){return e===document&&"readystatechange"===t||(e===document&&"DOMContentLoaded"===t||(e===window&&"DOMContentLoaded"===t||(e===window&&"load"===t||e===window&&"pageshow"===t)))}static run(){(new RocketLazyLoadScripts).t()}}RocketLazyLoadScripts.run()})();</script>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>天津罪（あまつつみ）と国津罪（くにつつみ）、神道の罪の違い | 日本神話と歴史</title>
+<link data-rocket-prefetch href="https://pagead2.googlesyndication.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://www.youtube.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://www.googletagmanager.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://fundingchoicesmessages.google.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://www.google.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://googleads.g.doubleclick.net" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://widgets.getpocket.com" rel="dns-prefetch">
+<style id="rocket-critical-css">:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}div{margin:0;padding:0;border:none;font-size:100%;font-style:normal}body{vertical-align:baseline;font-smoothing:antialiased;text-rendering:auto;margin:0;width:100%;font-size:16px;line-height:1.6;font-family:游ゴシック体,"游ゴシック Medium","Yu Gothic Medium","游ゴシック体",YuGothic,"ヒラギノ角ゴシック Pro","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,Osaka,"ＭＳ Ｐゴシック","MS PGothic",FontAwesome,sans-serif}*,*:before,*:after{-webkit-box-sizing:border-box;-o-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box}*,*:before,*:after{-webkit-box-sizing:border-box;box-sizing:border-box}</style><link rel="preload" data-rocket-preload as="image" href="https://rekishinoeki.org/wp-content/uploads/2025/01/amatsutsumi-kunitsutsumi.jpg" fetchpriority="high">
+<meta name="description" content="天津罪（あまつつみ）と国津罪（くにつつみ）は、神道における罪の概念で、それぞれ天の秩序と地上の秩序を乱す行為を指します。本記事では、天津罪と国津罪の違いや具体例を表で整理し、日本神話におけるスサノオノ">
+<meta name="thumbnail" content="https://rekishinoeki.org/wp-content/uploads/2025/01/amatsutsumi-kunitsutsumi-150x84.jpg" /><!-- Diver OGP -->
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:title" content="天津罪（あまつつみ）と国津罪（くにつつみ）、神道の罪の違い" />
+<meta property="og:description" content="天津罪（あまつつみ）と国津罪（くにつつみ）は、神道における罪の概念で、それぞれ天の秩序と地上の秩序を乱す行為を指します。本記事では、天津罪と国津罪の違いや具体例を表で整理し、日本神話におけるスサノオノミコトの罪の物語を交えながら解説。神道の浄化の儀式「大祓詞」についても紹介します。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://rekishinoeki.org/amatsutsumi-kunitsutsumi/" />
+<meta property="og:image" content="https://rekishinoeki.org/wp-content/uploads/2025/01/amatsutsumi-kunitsutsumi.jpg" />
+<meta property="og:site_name" content="日本神話と歴史" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="天津罪（あまつつみ）と国津罪（くにつつみ）、神道の罪の違い" />
+<meta name="twitter:url" content="https://rekishinoeki.org/amatsutsumi-kunitsutsumi/" />
+<meta name="twitter:description" content="天津罪（あまつつみ）と国津罪（くにつつみ）は、神道における罪の概念で、それぞれ天の秩序と地上の秩序を乱す行為を指します。本記事では、天津罪と国津罪の違いや具体例を表で整理し、日本神話におけるスサノオノミコトの罪の物語を交えながら解説。神道の浄化の儀式「大祓詞」についても紹介します。" />
+<meta name="twitter:image" content="https://rekishinoeki.org/wp-content/uploads/2025/01/amatsutsumi-kunitsutsumi.jpg" />
+<!-- / Diver OGP -->
+<link rel="canonical" href="https://rekishinoeki.org/amatsutsumi-kunitsutsumi/">
+<link rel="shortcut icon" href="http://rekishinoeki.org/wp-content/uploads/2024/04/rekishifavi.png">
+<!--[if IE]>
+		<link rel="shortcut icon" href="http://rekishinoeki.org/wp-content/uploads/2024/04/rekishifavi.png">
+<![endif]-->
+<link rel="apple-touch-icon" href="http://rekishinoeki.org/wp-content/uploads/2024/04/rekishifavi.png" />
+<style>
+#wpadminbar #wp-admin-bar-wccp_free_top_button .ab-icon:before {
+	content: "\f160";
+	color: #02CA02;
+	top: 3px;
+}
+#wpadminbar #wp-admin-bar-wccp_free_top_button .ab-icon {
+	transform: rotate(45deg);
+}
+</style>
+<meta name='robots' content='max-image-preview' />
+<!-- Google tag (gtag.js) consent mode dataLayer added by Site Kit -->
+<script type="text/javascript" id="google_gtagjs-js-consent-mode-data-layer">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {"ad_personalization":"denied","ad_storage":"denied","ad_user_data":"denied","analytics_storage":"denied","functionality_storage":"denied","security_storage":"denied","personalization_storage":"denied","region":["AT","BE","BG","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IS","IT","LI","LT","LU","LV","MT","NL","NO","PL","PT","RO","SE","SI","SK"],"wait_for_update":500});
+window._googlesitekitConsentCategoryMap = {"statistics":["analytics_storage"],"marketing":["ad_storage","ad_user_data","ad_personalization"],"functional":["functionality_storage","security_storage"],"preferences":["personalization_storage"]};
+window._googlesitekitConsents = {"ad_personalization":"denied","ad_storage":"denied","ad_user_data":"denied","analytics_storage":"denied","functionality_storage":"denied","security_storage":"denied","personalization_storage":"denied","region":["AT","BE","BG","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IS","IT","LI","LT","LU","LV","MT","NL","NO","PL","PT","RO","SE","SI","SK"],"wait_for_update":500};
+/* ]]> */
+</script>
+<!-- Google タグ (gtag.js) の終了同意モード dataLayer が Site Kit によって追加されました -->
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+
+<link rel="alternate" type="application/rss+xml" title="日本神話と歴史 &raquo; フィード" href="https://rekishinoeki.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="日本神話と歴史 &raquo; コメントフィード" href="https://rekishinoeki.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="日本神話と歴史 &raquo; 天津罪（あまつつみ）と国津罪（くにつつみ）、神道の罪の違い のコメントのフィード" href="https://rekishinoeki.org/amatsutsumi-kunitsutsumi/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://rekishinoeki.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frekishinoeki.org%2Famatsutsumi-kunitsutsumi%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://rekishinoeki.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frekishinoeki.org%2Famatsutsumi-kunitsutsumi%2F&#038;format=xml" />
+<!-- rekishinoeki.org is managing ads with Advanced Ads 2.0.16 – https://wpadvancedads.com/ --><!--noptimize--><script id="rekis-ready">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+		<!--/noptimize--><style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style><style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--light-blue: #70b8f1;--wp--preset--color--light-red: #ff8178;--wp--preset--color--light-green: #2ac113;--wp--preset--color--light-yellow: #ffe822;--wp--preset--color--light-orange: #ffa30d;--wp--preset--color--blue: #00f;--wp--preset--color--red: #f00;--wp--preset--color--purple: #674970;--wp--preset--color--gray: #ccc;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: .8em;--wp--preset--font-size--medium: 1em;--wp--preset--font-size--large: 1.2em;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--xlarge: 1.5em;--wp--preset--font-size--xxlarge: 2em;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);--wp--custom--spacing--small: max(1.25rem, 5vw);--wp--custom--spacing--medium: clamp(2rem, 8vw, calc(4 * var(--wp--style--block-gap)));--wp--custom--spacing--large: clamp(4rem, 10vw, 8rem);--wp--custom--spacing--outer: var(--wp--custom--spacing--small, 1.25rem);--wp--custom--typography--font-size--huge: clamp(2.25rem, 4vw, 2.75rem);--wp--custom--typography--font-size--gigantic: clamp(2.75rem, 6vw, 3.25rem);--wp--custom--typography--font-size--colossal: clamp(3.25rem, 8vw, 6.25rem);--wp--custom--typography--line-height--tiny: 1.15;--wp--custom--typography--line-height--small: 1.2;--wp--custom--typography--line-height--medium: 1.4;--wp--custom--typography--line-height--normal: 1.6;}:root { --wp--style--global--content-size: 769px;--wp--style--global--wide-size: 1240px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 1.5em; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 1.5em; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 1.5em;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 1.5em;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 1.5em;}:root :where(.is-layout-grid){gap: 1.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-light-blue-color{color: var(--wp--preset--color--light-blue) !important;}.has-light-red-color{color: var(--wp--preset--color--light-red) !important;}.has-light-green-color{color: var(--wp--preset--color--light-green) !important;}.has-light-yellow-color{color: var(--wp--preset--color--light-yellow) !important;}.has-light-orange-color{color: var(--wp--preset--color--light-orange) !important;}.has-blue-color{color: var(--wp--preset--color--blue) !important;}.has-red-color{color: var(--wp--preset--color--red) !important;}.has-purple-color{color: var(--wp--preset--color--purple) !important;}.has-gray-color{color: var(--wp--preset--color--gray) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-light-blue-background-color{background-color: var(--wp--preset--color--light-blue) !important;}.has-light-red-background-color{background-color: var(--wp--preset--color--light-red) !important;}.has-light-green-background-color{background-color: var(--wp--preset--color--light-green) !important;}.has-light-yellow-background-color{background-color: var(--wp--preset--color--light-yellow) !important;}.has-light-orange-background-color{background-color: var(--wp--preset--color--light-orange) !important;}.has-blue-background-color{background-color: var(--wp--preset--color--blue) !important;}.has-red-background-color{background-color: var(--wp--preset--color--red) !important;}.has-purple-background-color{background-color: var(--wp--preset--color--purple) !important;}.has-gray-background-color{background-color: var(--wp--preset--color--gray) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-light-blue-border-color{border-color: var(--wp--preset--color--light-blue) !important;}.has-light-red-border-color{border-color: var(--wp--preset--color--light-red) !important;}.has-light-green-border-color{border-color: var(--wp--preset--color--light-green) !important;}.has-light-yellow-border-color{border-color: var(--wp--preset--color--light-yellow) !important;}.has-light-orange-border-color{border-color: var(--wp--preset--color--light-orange) !important;}.has-blue-border-color{border-color: var(--wp--preset--color--blue) !important;}.has-red-border-color{border-color: var(--wp--preset--color--red) !important;}.has-purple-border-color{border-color: var(--wp--preset--color--purple) !important;}.has-gray-border-color{border-color: var(--wp--preset--color--gray) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-xlarge-font-size{font-size: var(--wp--preset--font-size--xlarge) !important;}.has-xxlarge-font-size{font-size: var(--wp--preset--font-size--xxlarge) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='preload'  href='https://rekishinoeki.org/wp-content/cache/background-css/1/rekishinoeki.org/wp-content/themes/diver/css/style.min.css?ver=6.9&wpr_t=1767487719' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"   media='all'>
+<link rel='preload'  href='https://rekishinoeki.org/wp-content/themes/diver_child/style.css?theme=6.1.21' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"   media='all'>
+<script type="text/javascript"src="https://rekishinoeki.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1&amp;theme=6.1.21" id="jquery-core-js" data-rocket-defer defer></script>
+<script type="text/javascript"src="https://rekishinoeki.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1&amp;theme=6.1.21" id="jquery-migrate-js" data-rocket-defer defer></script>
+
+<!-- Site Kit によって追加された Google タグ（gtag.js）スニペット -->
+<!-- Google アナリティクス スニペット (Site Kit が追加) -->
+<script type="text/javascript"src="https://www.googletagmanager.com/gtag/js?id=GT-T5N3Q2X4" id="google_gtagjs-js" async></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["rekishinoeki.org"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-T5N3Q2X4", {"googlesitekit_post_type":"post"});
+//# sourceURL=google_gtagjs-js-after
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://rekishinoeki.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://rekishinoeki.org/wp-json/wp/v2/posts/986" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rekishinoeki.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<link rel='shortlink' href='https://rekishinoeki.org/?p=986' />
+<meta name="generator" content="Site Kit by Google 1.168.0" /><script type="rocketlazyloadscript" id="wpcp_disable_selection" data-rocket-type="text/javascript">
+var image_save_msg='You are not allowed to save images!';
+	var no_menu_msg='Context Menu disabled!';
+	var smessage = "このコンテンツは保護されています。";
+
+function disableEnterKey(e)
+{
+	var elemtype = e.target.tagName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	if (elemtype == "TEXT" || elemtype == "TEXTAREA" || elemtype == "INPUT" || elemtype == "PASSWORD" || elemtype == "SELECT" || elemtype == "OPTION" || elemtype == "EMBED")
+	{
+		elemtype = 'TEXT';
+	}
+	
+	if (e.ctrlKey){
+     var key;
+     if(window.event)
+          key = window.event.keyCode;     //IE
+     else
+          key = e.which;     //firefox (97)
+    //if (key != 17) alert(key);
+     if (elemtype!= 'TEXT' && (key == 97 || key == 65 || key == 67 || key == 99 || key == 88 || key == 120 || key == 26 || key == 85  || key == 86 || key == 83 || key == 43 || key == 73))
+     {
+		if(wccp_free_iscontenteditable(e)) return true;
+		show_wpcp_message('You are not allowed to copy content or view source');
+		return false;
+     }else
+     	return true;
+     }
+}
+
+
+/*For contenteditable tags*/
+function wccp_free_iscontenteditable(e)
+{
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+  	
+	var target = e.target || e.srcElement;
+
+	var elemtype = e.target.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	var iscontenteditable = "false";
+		
+	if(typeof target.getAttribute!="undefined" ) iscontenteditable = target.getAttribute("contenteditable"); // Return true or false as string
+	
+	var iscontenteditable2 = false;
+	
+	if(typeof target.isContentEditable!="undefined" ) iscontenteditable2 = target.isContentEditable; // Return true or false as boolean
+
+	if(target.parentElement.isContentEditable) iscontenteditable2 = true;
+	
+	if (iscontenteditable == "true" || iscontenteditable2 == true)
+	{
+		if(typeof target.style!="undefined" ) target.style.cursor = "text";
+		
+		return true;
+	}
+}
+
+////////////////////////////////////
+function disable_copy(e)
+{	
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+	
+	var elemtype = e.target.tagName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	if (elemtype == "TEXT" || elemtype == "TEXTAREA" || elemtype == "INPUT" || elemtype == "PASSWORD" || elemtype == "SELECT" || elemtype == "OPTION" || elemtype == "EMBED")
+	{
+		elemtype = 'TEXT';
+	}
+	
+	if(wccp_free_iscontenteditable(e)) return true;
+	
+	var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+	
+	var checker_IMG = '';
+	if (elemtype == "IMG" && checker_IMG == 'checked' && e.detail >= 2) {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT")
+	{
+		if (smessage !== "" && e.detail == 2)
+			show_wpcp_message(smessage);
+		
+		if (isSafari)
+			return true;
+		else
+			return false;
+	}	
+}
+
+//////////////////////////////////////////
+function disable_copy_ie()
+{
+	var e = e || window.event;
+	var elemtype = window.event.srcElement.nodeName;
+	elemtype = elemtype.toUpperCase();
+	if(wccp_free_iscontenteditable(e)) return true;
+	if (elemtype == "IMG") {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "OPTION" && elemtype != "EMBED")
+	{
+		return false;
+	}
+}	
+function reEnable()
+{
+	return true;
+}
+document.onkeydown = disableEnterKey;
+document.onselectstart = disable_copy_ie;
+if(navigator.userAgent.indexOf('MSIE')==-1)
+{
+	document.onmousedown = disable_copy;
+	document.onclick = reEnable;
+}
+function disableSelection(target)
+{
+    //For IE This code will work
+    if (typeof target.onselectstart!="undefined")
+    target.onselectstart = disable_copy_ie;
+    
+    //For Firefox This code will work
+    else if (typeof target.style.MozUserSelect!="undefined")
+    {target.style.MozUserSelect="none";}
+    
+    //All other  (ie: Opera) This code will work
+    else
+    target.onmousedown=function(){return false}
+    target.style.cursor = "default";
+}
+//Calling the JS function directly just after body load
+window.onload = function(){disableSelection(document.body);};
+
+//////////////////special for safari Start////////////////
+var onlongtouch;
+var timer;
+var touchduration = 1000; //length of time we want the user to touch before we do something
+
+var elemtype = "";
+function touchstart(e) {
+	var e = e || window.event;
+  // also there is no e.target property in IE.
+  // instead IE uses window.event.srcElement
+  	var target = e.target || e.srcElement;
+	
+	elemtype = window.event.srcElement.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	if(!wccp_pro_is_passive()) e.preventDefault();
+	if (!timer) {
+		timer = setTimeout(onlongtouch, touchduration);
+	}
+}
+
+function touchend() {
+    //stops short touches from firing the event
+    if (timer) {
+        clearTimeout(timer);
+        timer = null;
+    }
+	onlongtouch();
+}
+
+onlongtouch = function(e) { //this will clear the current selection if anything selected
+	
+	if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "EMBED" && elemtype != "OPTION")	
+	{
+		if (window.getSelection) {
+			if (window.getSelection().empty) {  // Chrome
+			window.getSelection().empty();
+			} else if (window.getSelection().removeAllRanges) {  // Firefox
+			window.getSelection().removeAllRanges();
+			}
+		} else if (document.selection) {  // IE?
+			document.selection.empty();
+		}
+		return false;
+	}
+};
+
+document.addEventListener("DOMContentLoaded", function(event) { 
+    window.addEventListener("touchstart", touchstart, false);
+    window.addEventListener("touchend", touchend, false);
+});
+
+function wccp_pro_is_passive() {
+
+  var cold = false,
+  hike = function() {};
+
+  try {
+	  const object1 = {};
+  var aid = Object.defineProperty(object1, 'passive', {
+  get() {cold = true}
+  });
+  window.addEventListener('test', hike, aid);
+  window.removeEventListener('test', hike, aid);
+  } catch (e) {}
+
+  return cold;
+}
+/*special for safari End*/
+</script>
+<script type="rocketlazyloadscript" id="wpcp_disable_Right_Click" data-rocket-type="text/javascript">
+document.ondragstart = function() { return false;}
+	function nocontext(e) {
+	   return false;
+	}
+	document.oncontextmenu = nocontext;
+</script>
+<style>
+.unselectable
+{
+-moz-user-select:none;
+-webkit-user-select:none;
+cursor: default;
+}
+html
+{
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+</style>
+<script id="wpcp_css_disable_selection" type="text/javascript">
+var e = document.getElementsByTagName('body')[0];
+if(e)
+{
+	e.setAttribute('unselectable',"on");
+}
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NCLPDS56');</script>
+<!-- End Google Tag Manager -->
+
+<!-- 広告ブロックによる損失収益の回復 -->
+<script type="rocketlazyloadscript" async data-rocket-src="https://fundingchoicesmessages.google.com/i/pub-1348254106999004?ers=1"></script><script type="rocketlazyloadscript">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+<!-- 広告ブロックによる損失収益の回復 --><script type="application/ld+json" class="json-ld">[
+    {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://rekishinoeki.org/amatsutsumi-kunitsutsumi/"
+        },
+        "headline": "天津罪（あまつつみ）と国津罪（くにつつみ）、神道の罪の違い",
+        "image": [
+            "https://rekishinoeki.org/wp-content/uploads/2025/01/amatsutsumi-kunitsutsumi.jpg",
+            "https://rekishinoeki.org/wp-content/uploads/2025/01/amatsutsumi-kunitsutsumi-300x169.jpg",
+            "https://rekishinoeki.org/wp-content/uploads/2025/01/amatsutsumi-kunitsutsumi-150x84.jpg"
+        ],
+        "description": "天津罪（あまつつみ）と国津罪（くにつつみ）は、神道における罪の概念で、それぞれ天の秩序と地上の秩序を乱す行為を指します。本記事では、天津罪と国津罪の違いや具体例を表で整理し、日本神話におけるスサノオノ",
+        "datePublished": "2025-01-26T00:36:28+09:00",
+        "dateModified": "2025-10-04T23:51:32+09:00",
+        "articleSection": [
+            "日本神話・歴史エピソード"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "writer",
+            "url": "https://rekishinoeki.org/author/writer/"
+        },
+        "publisher": {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "日本神話と歴史",
+            "description": "日本神話・日本の歴史、古事記・日本書紀・口伝で伝わる神々の生き様と私たちの生活・神社との繋がり",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rekishinoeki.org/wp-content/uploads/2024/05/sinwa-logo.png"
+            }
+        }
+    }
+]</script>
+<style>body{background-image:var(--wpr-bg-b04474a3-4c49-4921-928c-04ebf20b986a);}</style><style>#onlynav ul ul,#nav_fixed #nav ul ul,.header-logo #nav ul ul {visibility:hidden;opacity:0;transition:.4s ease-in-out;}#onlynav ul li:hover > ul,#nav_fixed #nav ul li:hover > ul,.header-logo #nav ul li:hover > ul{visibility:visible;opacity:1;}</style><style>body{background-color:#ffffff;color:#333333;}:where(a){color:#3c82ff;}:where(a):hover{color:#afb200}:where(.content){color:#666666;}:where(.content) a{color:#3c82ff;}:where(.content) a:hover{color:#6495ED;}.header-wrap,#header ul.sub-menu, #header ul.children,#scrollnav,.description_sp{background:#ffffff;color:#333333}.header-wrap a,#scrollnav a,div.logo_title{color:#333333;}.header-wrap a:hover,div.logo_title:hover{color:#567cbf}.drawer-nav-btn span{background-color:#333333;}.drawer-nav-btn:before,.drawer-nav-btn:after {border-color:#333333;}#scrollnav ul li a{background:rgba(255,255,255,.8);color:#333333}.header_small_menu{background:#d2d5c0;color:#333333}.header_small_menu a{color:#fff}.header_small_menu a:hover{color:#6495ED}#nav_fixed.fixed, #nav_fixed #nav ul ul{background:#ffffff;color:#333333}#nav_fixed.fixed a,#nav_fixed .logo_title{color:#333333}#nav_fixed.fixed a:hover{color:#6495ED}#nav_fixed .drawer-nav-btn:before,#nav_fixed .drawer-nav-btn:after{border-color:#333333;}#nav_fixed .drawer-nav-btn span{background-color:#333333;}#onlynav{background:#fff;color:#333333}#onlynav ul li a{color:#333333}#onlynav ul ul.sub-menu{background:#fff}#onlynav div > ul > li > a:before{border-color:#333333}#onlynav ul > li:hover > a:hover,#onlynav ul>li:hover>a,#onlynav ul>li:hover li:hover>a,#onlynav ul li:hover ul li ul li:hover > a{background:#5d8ac1;color:#fff}#onlynav ul li ul li ul:before{border-left-color:#fff}#onlynav ul li:last-child ul li ul:before{border-right-color:#fff}#bigfooter{background:#fff;color:#333333}#bigfooter a{color:#3c82ff}#bigfooter a:hover{color:#6495ED}#footer{background:#fff;color:#333333}#footer a{color:#3c82ff}#footer a:hover{color:#6495ED}#sidebar .widget{background:#fff;color:#333333;}#sidebar .widget a{color:#3c82ff;}#sidebar .widget a:hover{color:#6495ED;}.post-box-contents,#main-wrap #pickup_posts_container img,.hentry, #single-main .post-sub,.navigation,.single_thumbnail,.in_loop,#breadcrumb,.pickup-cat-list,.maintop-widget, .mainbottom-widget,#share_plz,.sticky-post-box,.catpage_content_wrap,.cat-post-main{background:#fff;}.post-box{border-color:#eee;}.drawer_content_title,.searchbox_content_title{background:#eee;color:#333333;}.drawer-nav,#header_search{background:#fff}.drawer-nav,.drawer-nav a,#header_search,#header_search a{color:#333333}#footer_sticky_menu{background:rgba(255,255,255,.8)}.footermenu_col{background:rgba(255,255,255,.8);color:#333333;}a.page-numbers{background:#afafaf;color:#fff;}.pagination .current{background:#a5d660;color:#fff;}</style><style>@media screen and (min-width:1201px){#main-wrap,.header-wrap .header-logo,.header_small_content,.bigfooter_wrap,.footer_content,.container_top_widget,.container_bottom_widget{width:1150px;}}@media screen and (max-width:1200px){ #main-wrap,.header-wrap .header-logo, .header_small_content, .bigfooter_wrap,.footer_content, .container_top_widget, .container_bottom_widget{width:96%;}}@media screen and (max-width:768px){#main-wrap,.header-wrap .header-logo,.header_small_content,.bigfooter_wrap,.footer_content,.container_top_widget,.container_bottom_widget{width:100%;}}@media screen and (min-width:960px){#sidebar {width:310px;}}#pickup_posts_container li > a,.post-box-thumbnail__wrap::before{padding-top:56.25%;}</style><style>@media screen and (min-width:1201px){#main-wrap{width:1150px;}}@media screen and (max-width:1200px){ #main-wrap{width:96%;}}</style><style type="text/css" id="diver-custom-heading-css">.content h2:where(:not([class])),:where(.is-editor-blocks) :where(.content) h2:not(.sc_heading){color:#544545;background-color:#f7aaaa;border-bottom:2px solid #f7aaaa;background:transparent;padding-left:0px;padding-right:0px;}.content h3:where(:not([class])),:where(.is-editor-blocks) :where(.content) h3:not(.sc_heading){color:#000;background-color:#f9f7f4;border-radius:5px;}.content h4:where(:not([class])),:where(.is-editor-blocks) :where(.content) h4:not(.sc_heading){color:#89522a;background-color:#eadace;border-bottom:2px solid #eadace;background:transparent;padding-left:0px;padding-right:0px;}.content h5:where(:not([class])),:where(.is-editor-blocks) :where(.content) h5:not(.sc_heading){color:#000;}</style>
+<!-- Site Kit が追加した Google AdSense メタタグ -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- Site Kit が追加した End Google AdSense メタタグ -->
+<noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript><style>.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}</style><style>.wp-block-gallery.is-cropped .blocks-gallery-item picture{height:100%;width:100%;}</style>
+<!-- Google AdSense スニペット (Site Kit が追加) -->
+<script type="text/javascript" async="async" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004&amp;host=ca-host-pub-2644536267352236" crossorigin="anonymous"></script>
+
+<!-- (ここまで) Google AdSense スニペット (Site Kit が追加) -->
+<link rel="icon" href="https://rekishinoeki.org/wp-content/uploads/2024/04/cropped-rekishifavi-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://rekishinoeki.org/wp-content/uploads/2024/04/cropped-rekishifavi-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://rekishinoeki.org/wp-content/uploads/2024/04/cropped-rekishifavi-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://rekishinoeki.org/wp-content/uploads/2024/04/cropped-rekishifavi-270x270.jpg" />
+		<style type="text/css" id="wp-custom-css">
+			.post_list_wrap figure {
+    width: 180px;
+}		</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><script type="rocketlazyloadscript">
+/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+(function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}
+var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=!1}
+return function(){return ret}})();rp.bindMediaToggle=function(link){var finalMedia=link.media||"all";function enableStylesheet(){link.media=finalMedia}
+if(link.addEventListener){link.addEventListener("load",enableStylesheet)}else if(link.attachEvent){link.attachEvent("onload",enableStylesheet)}
+setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(enableStylesheet,3000)};rp.poly=function(){if(rp.support()){return}
+var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}
+if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
+else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.youtube.com/iframe_api" data-rocket-defer defer></script>
+
+<link data-minify="1" rel='preload'  href='https://rekishinoeki.org/wp-content/cache/min/1/font-awesome/4.7.0/css/font-awesome.min.css?ver=1762697134' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"   media='all'>
+<link data-minify="1" rel='preload'  href='https://rekishinoeki.org/wp-content/cache/min/1/ajax/libs/lity/2.3.1/lity.min.css?ver=1762697134' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"   media='all'>
+<style id="rocket-lazyrender-inline-css">[data-wpr-lazyrender] {content-visibility: auto;}</style><style id="wpr-lazyload-bg-container"></style><style id="wpr-lazyload-bg-exclusion"></style>
+<noscript>
+<style id="wpr-lazyload-bg-nostyle">input[type=submit].searchsubmit{--wpr-bg-443cae96-5ff3-46c3-bbe2-f093de431166: url('https://rekishinoeki.org/wp-content/themes/diver/images/search_w.png');}.rank_h::before{--wpr-bg-176a58d0-0d2b-43e8-a398-f4057c945372: url('https://rekishinoeki.org/wp-content/themes/diver/images/rank/diver_rank_icon.png');}30 :before{--wpr-bg-383f6e6f-9992-4d30-b580-816e8a858908: url('https://rekishinoeki.org/wp-content/themes/diver/images/rank/diver_rank_0.png');}31 :before{--wpr-bg-1414b6ad-7894-4969-8437-3e13f7ac01bd: url('https://rekishinoeki.org/wp-content/themes/diver/images/rank/diver_rank_1.png');}32 :before{--wpr-bg-fa8ab399-51c2-4d56-a0b4-f14d6601ed90: url('https://rekishinoeki.org/wp-content/themes/diver/images/rank/diver_rank_2.png');}33 :before{--wpr-bg-f4d93c68-9571-43d6-a135-12eaff0be56d: url('https://rekishinoeki.org/wp-content/themes/diver/images/rank/diver_rank_3.png');}34 :before{--wpr-bg-f9943e37-56f9-4aa6-9325-977447cbbec2: url('https://rekishinoeki.org/wp-content/themes/diver/images/rank/diver_rank_4.png');}35 :before{--wpr-bg-c1362806-ea78-47ae-8ccc-c8878055492f: url('https://rekishinoeki.org/wp-content/themes/diver/images/rank/diver_rank_5.png');}36 :before{--wpr-bg-ba81e0ff-2bfc-408d-89d1-26ec9da20fdc: url('https://rekishinoeki.org/wp-content/themes/diver/images/rank/diver_rank_6.png');}37 :before{--wpr-bg-98d0d991-7868-4508-a4f2-6a3ed1e687aa: url('https://rekishinoeki.org/wp-content/themes/diver/images/rank/diver_rank_7.png');}38 :before{--wpr-bg-cbdc8fc3-f271-4d55-a22f-d40a03988375: url('https://rekishinoeki.org/wp-content/themes/diver/images/rank/diver_rank_8.png');}.review_star{--wpr-bg-7db5c574-3923-49f2-ad12-78c483873bc0: url('https://rekishinoeki.org/wp-content/themes/diver/images/diverstar_o.png');}.review_star .star{--wpr-bg-50a570cb-cf66-433f-b416-fe433a789616: url('https://rekishinoeki.org/wp-content/themes/diver/images/diverstar.png');}body{--wpr-bg-b04474a3-4c49-4921-928c-04ebf20b986a: url('https://rekishinoeki.org/');}.warning-wpcp{--wpr-bg-2f82b12d-ed10-4379-8eed-92ef33b29ad0: url('https://rekishinoeki.org/wp-content/plugins/wp-content-copy-protector/images/warning.png');}</style>
+</noscript>
+<script type="application/javascript">const rocket_pairs = [{"selector":"input[type=submit].searchsubmit","style":"input[type=submit].searchsubmit{--wpr-bg-443cae96-5ff3-46c3-bbe2-f093de431166: url('https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/search_w.png');}","hash":"443cae96-5ff3-46c3-bbe2-f093de431166","url":"https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/search_w.png"},{"selector":".rank_h","style":".rank_h::before{--wpr-bg-176a58d0-0d2b-43e8-a398-f4057c945372: url('https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_icon.png');}","hash":"176a58d0-0d2b-43e8-a398-f4057c945372","url":"https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_icon.png"},{"selector":"30 ","style":"30 :before{--wpr-bg-383f6e6f-9992-4d30-b580-816e8a858908: url('https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_0.png');}","hash":"383f6e6f-9992-4d30-b580-816e8a858908","url":"https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_0.png"},{"selector":"31 ","style":"31 :before{--wpr-bg-1414b6ad-7894-4969-8437-3e13f7ac01bd: url('https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_1.png');}","hash":"1414b6ad-7894-4969-8437-3e13f7ac01bd","url":"https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_1.png"},{"selector":"32 ","style":"32 :before{--wpr-bg-fa8ab399-51c2-4d56-a0b4-f14d6601ed90: url('https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_2.png');}","hash":"fa8ab399-51c2-4d56-a0b4-f14d6601ed90","url":"https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_2.png"},{"selector":"33 ","style":"33 :before{--wpr-bg-f4d93c68-9571-43d6-a135-12eaff0be56d: url('https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_3.png');}","hash":"f4d93c68-9571-43d6-a135-12eaff0be56d","url":"https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_3.png"},{"selector":"34 ","style":"34 :before{--wpr-bg-f9943e37-56f9-4aa6-9325-977447cbbec2: url('https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_4.png');}","hash":"f9943e37-56f9-4aa6-9325-977447cbbec2","url":"https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_4.png"},{"selector":"35 ","style":"35 :before{--wpr-bg-c1362806-ea78-47ae-8ccc-c8878055492f: url('https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_5.png');}","hash":"c1362806-ea78-47ae-8ccc-c8878055492f","url":"https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_5.png"},{"selector":"36 ","style":"36 :before{--wpr-bg-ba81e0ff-2bfc-408d-89d1-26ec9da20fdc: url('https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_6.png');}","hash":"ba81e0ff-2bfc-408d-89d1-26ec9da20fdc","url":"https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_6.png"},{"selector":"37 ","style":"37 :before{--wpr-bg-98d0d991-7868-4508-a4f2-6a3ed1e687aa: url('https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_7.png');}","hash":"98d0d991-7868-4508-a4f2-6a3ed1e687aa","url":"https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_7.png"},{"selector":"38 ","style":"38 :before{--wpr-bg-cbdc8fc3-f271-4d55-a22f-d40a03988375: url('https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_8.png');}","hash":"cbdc8fc3-f271-4d55-a22f-d40a03988375","url":"https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/rank\/diver_rank_8.png"},{"selector":".review_star","style":".review_star{--wpr-bg-7db5c574-3923-49f2-ad12-78c483873bc0: url('https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/diverstar_o.png');}","hash":"7db5c574-3923-49f2-ad12-78c483873bc0","url":"https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/diverstar_o.png"},{"selector":".review_star .star","style":".review_star .star{--wpr-bg-50a570cb-cf66-433f-b416-fe433a789616: url('https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/diverstar.png');}","hash":"50a570cb-cf66-433f-b416-fe433a789616","url":"https:\/\/rekishinoeki.org\/wp-content\/themes\/diver\/images\/diverstar.png"},{"selector":"body","style":"body{--wpr-bg-b04474a3-4c49-4921-928c-04ebf20b986a: url('https:\/\/rekishinoeki.org\/');}","hash":"b04474a3-4c49-4921-928c-04ebf20b986a","url":"https:\/\/rekishinoeki.org\/"},{"selector":".warning-wpcp","style":".warning-wpcp{--wpr-bg-2f82b12d-ed10-4379-8eed-92ef33b29ad0: url('https:\/\/rekishinoeki.org\/wp-content\/plugins\/wp-content-copy-protector\/images\/warning.png');}","hash":"2f82b12d-ed10-4379-8eed-92ef33b29ad0","url":"https:\/\/rekishinoeki.org\/wp-content\/plugins\/wp-content-copy-protector\/images\/warning.png"}]; const rocket_excluded_pairs = [];</script><meta name="generator" content="WP Rocket 3.20.3" data-wpr-features="wpr_lazyload_css_bg_img wpr_delay_js wpr_defer_js wpr_minify_js wpr_async_css wpr_lazyload_images wpr_preconnect_external_domains wpr_automatic_lazy_rendering wpr_oci wpr_image_dimensions wpr_minify_css wpr_preload_links wpr_host_fonts_locally wpr_desktop" /></head>
+<body itemscope="itemscope" itemtype="http://schema.org/WebPage" class="wp-singular post-template-default single single-post postid-986 single-format-standard wp-embed-responsive wp-theme-diver wp-child-theme-diver_child unselectable  l-sidebar-left aa-prefix-rekis-">
+
+<div  id="container">
+<!-- header -->
+	<!-- lpページでは表示しない -->
+	<div  id="header" class="clearfix">
+					<header  class="header-wrap" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+			<div class="header_small_menu clearfix">
+		<div class="header_small_content">
+			<div id="description">日本神話・日本の歴史、古事記・日本書紀・口伝で伝わる神々の生き様と私たちの生活・神社との繋がり</div>
+			<nav class="header_small_menu_right" role="navigation" itemscope="itemscope" itemtype="http://scheme.org/SiteNavigationElement">
+							</nav>
+		</div>
+	</div>
+
+			<div class="header-logo clearfix">
+				<!-- 	<button type="button" class="drawer-toggle drawer-hamburger">
+	  <span class="sr-only">toggle navigation</span>
+	  <span class="drawer-hamburger-icon"></span>
+	</button> -->
+
+	<div class="drawer-nav-btn-wrap"><span class="drawer-nav-btn"><span></span></span></div>
+
+
+	<div class="header_search"><a href="#header_search" class="header_search_btn" data-lity><div class="header_search_inner"><i class="fa fa-search" aria-hidden="true"></i><div class="header_search_title">SEARCH</div></div></a></div>
+
+				<!-- /Navigation -->
+
+								<div id="logo">
+										<a href="https://rekishinoeki.org/">
+						
+															<picture><source   type="image/webp" data-srcset="https://rekishinoeki.org/wp-content/uploads/2024/05/sinwa-logo.png.webp"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAABGAQAAAADK1P/nAAAAAnRSTlMAAHaTzTgAAAAaSURBVEjH7cEBDQAAAMKg909tDwcUAAAAnwYN8gAB0BZ4eQAAAABJRU5ErkJggg==" alt="日本神話と歴史" width="400" height="70" data-eio="p" data-src="https://rekishinoeki.org/wp-content/uploads/2024/05/sinwa-logo.png" decoding="async" class="lazyload" data-eio-rwidth="400" data-eio-rheight="70"></picture><noscript><img src="https://rekishinoeki.org/wp-content/uploads/2024/05/sinwa-logo.png" alt="日本神話と歴史" width="400" height="70" data-eio="l"></noscript>
+							
+											</a>
+				</div>
+							</div>
+		</header>
+		<nav id="scrollnav" role="navigation" itemscope="itemscope" itemtype="http://scheme.org/SiteNavigationElement">
+					</nav>
+		
+		<div id="nav_fixed">
+		<div class="header-logo clearfix">
+			<!-- Navigation -->
+			<!-- 	<button type="button" class="drawer-toggle drawer-hamburger">
+	  <span class="sr-only">toggle navigation</span>
+	  <span class="drawer-hamburger-icon"></span>
+	</button> -->
+
+	<div class="drawer-nav-btn-wrap"><span class="drawer-nav-btn"><span></span></span></div>
+
+
+	<div class="header_search"><a href="#header_search" class="header_search_btn" data-lity><div class="header_search_inner"><i class="fa fa-search" aria-hidden="true"></i><div class="header_search_title">SEARCH</div></div></a></div>
+
+			<!-- /Navigation -->
+			<div class="logo clearfix">
+				<a href="https://rekishinoeki.org/">
+					
+													<picture><source   type="image/webp" data-srcset="https://rekishinoeki.org/wp-content/uploads/2024/05/sinwa-logo.png.webp"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAABGAQAAAADK1P/nAAAAAnRSTlMAAHaTzTgAAAAaSURBVEjH7cEBDQAAAMKg909tDwcUAAAAnwYN8gAB0BZ4eQAAAABJRU5ErkJggg==" alt="日本神話と歴史" width="400" height="70" data-eio="p" data-src="https://rekishinoeki.org/wp-content/uploads/2024/05/sinwa-logo.png" decoding="async" class="lazyload" data-eio-rwidth="400" data-eio-rheight="70"></picture><noscript><img src="https://rekishinoeki.org/wp-content/uploads/2024/05/sinwa-logo.png" alt="日本神話と歴史" width="400" height="70" data-eio="l"></noscript>
+													
+									</a>
+			</div>
+					<nav id="nav" role="navigation" itemscope="itemscope" itemtype="http://scheme.org/SiteNavigationElement">
+				<div class="menu-%e3%83%98%e3%83%83%e3%83%80%e3%83%bc%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc-container"><ul id="fixnavul" class="menu"><li id="menu-item-158" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-158"><a href="https://rekishinoeki.org/category/episode/">日本神話・歴史</a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88"><a href="https://rekishinoeki.org/category/kamisama/">神様の紹介</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89"><a href="https://rekishinoeki.org/category/place/">日本神話の場所</a></li>
+<li id="menu-item-87" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-87"><a href="https://rekishinoeki.org/category/rekishi/">日本の歴史・時代</a>
+<ul class="sub-menu">
+	<li id="menu-item-156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156"><a href="https://rekishinoeki.org/category/rekishi/jomon/">縄文時代</a></li>
+	<li id="menu-item-157" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-157"><a href="https://rekishinoeki.org/category/rekishi/yayoi/">弥生時代</a></li>
+	<li id="menu-item-155" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-155"><a href="https://rekishinoeki.org/category/rekishi/kofunjidai/">古墳時代</a></li>
+	<li id="menu-item-154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-154"><a href="https://rekishinoeki.org/category/rekishi/asuka/">飛鳥時代</a></li>
+	<li id="menu-item-153" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-153"><a href="https://rekishinoeki.org/category/rekishi/nara/">奈良時代</a></li>
+	<li id="menu-item-152" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152"><a href="https://rekishinoeki.org/category/rekishi/heian/">平安時代</a></li>
+	<li id="menu-item-151" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151"><a href="https://rekishinoeki.org/category/rekishi/kamakura/">鎌倉時代</a></li>
+	<li id="menu-item-150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150"><a href="https://rekishinoeki.org/category/rekishi/nanbokucho/">南北朝時代</a></li>
+	<li id="menu-item-149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-149"><a href="https://rekishinoeki.org/category/rekishi/muromachi/">室町時代</a></li>
+</ul>
+</li>
+<li id="menu-item-751" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-751"><a href="https://rekishinoeki.org/category/shinji/">神事</a></li>
+<li id="menu-item-244" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-244"><a href="https://rekishinoeki.org/category/animism/">アニメ・エンタメと神様</a></li>
+<li id="menu-item-750" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-750"><a href="https://rekishinoeki.org/category/bunka/">日本の文化</a></li>
+<li id="menu-item-480" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-480"><a href="https://rekishinoeki.org/category/minkandensyo/">民間伝承・昔話</a></li>
+<li id="menu-item-1204" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1204"><a href="https://rekishinoeki.org/category/gogyo/">陰陽五行</a></li>
+<li id="menu-item-749" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-749"><a href="https://rekishinoeki.org/category/sekaishi/">世界の歴史</a></li>
+</ul></div>			</nav>
+				</div>
+	</div>
+							<nav id="onlynav" class="onlynav" role="navigation" itemscope="itemscope" itemtype="http://scheme.org/SiteNavigationElement">
+				<div class="menu-%e3%83%98%e3%83%83%e3%83%80%e3%83%bc%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc-container"><ul id="onlynavul" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-158"><a href="https://rekishinoeki.org/category/episode/">日本神話・歴史</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88"><a href="https://rekishinoeki.org/category/kamisama/">神様の紹介</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89"><a href="https://rekishinoeki.org/category/place/">日本神話の場所</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-87"><a href="https://rekishinoeki.org/category/rekishi/">日本の歴史・時代</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156"><a href="https://rekishinoeki.org/category/rekishi/jomon/">縄文時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-157"><a href="https://rekishinoeki.org/category/rekishi/yayoi/">弥生時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-155"><a href="https://rekishinoeki.org/category/rekishi/kofunjidai/">古墳時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-154"><a href="https://rekishinoeki.org/category/rekishi/asuka/">飛鳥時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-153"><a href="https://rekishinoeki.org/category/rekishi/nara/">奈良時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152"><a href="https://rekishinoeki.org/category/rekishi/heian/">平安時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151"><a href="https://rekishinoeki.org/category/rekishi/kamakura/">鎌倉時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150"><a href="https://rekishinoeki.org/category/rekishi/nanbokucho/">南北朝時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-149"><a href="https://rekishinoeki.org/category/rekishi/muromachi/">室町時代</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-751"><a href="https://rekishinoeki.org/category/shinji/">神事</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-244"><a href="https://rekishinoeki.org/category/animism/">アニメ・エンタメと神様</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-750"><a href="https://rekishinoeki.org/category/bunka/">日本の文化</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-480"><a href="https://rekishinoeki.org/category/minkandensyo/">民間伝承・昔話</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1204"><a href="https://rekishinoeki.org/category/gogyo/">陰陽五行</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-749"><a href="https://rekishinoeki.org/category/sekaishi/">世界の歴史</a></li>
+</ul></div>			</nav>
+					</div>
+	<div  class="d_sp">
+		</div>
+	
+	<div  id="main-wrap">
+	<!-- main -->
+		<div  class="l-main-container">
+		<main id="single-main"  style="margin-left:-330px;padding-left:330px;" role="main">
+					
+								<div id="breadcrumb"><ul itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://rekishinoeki.org/" itemprop="item"><span itemprop="name"><i class="fa fa-home" aria-hidden="true"></i> ホーム</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://rekishinoeki.org/category/episode/" itemprop="item"><span itemprop="name">日本神話・歴史エピソード</span></a><meta itemprop="position" content="2" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span itemprop="name">天津罪（あまつつみ）と国津罪（くにつつみ）、神道の罪の違い</span><meta itemprop="position" content="3" /></li></ul></div> 
+					<div id="content_area" class="fadeIn animated">
+												<article id="post-986" class="post-986 post type-post status-publish format-standard has-post-thumbnail hentry category-episode tag-194 tag-963 tag-1167 tag-1168 tag-1169 tag-31 tag-111">
+							<header>
+								<div class="post-meta clearfix">
+									<div class="cat-tag">
+																					<div class="single-post-category" style="background:"><a href="https://rekishinoeki.org/category/episode/" rel="category tag">日本神話・歴史エピソード</a></div>
+																				<div class="tag"><a href="https://rekishinoeki.org/tag/%e9%ab%98%e5%a4%a9%e5%8e%9f/" rel="tag">高天原</a></div><div class="tag"><a href="https://rekishinoeki.org/tag/%e3%82%b9%e3%82%b5%e3%83%8e%e3%82%aa%e3%83%8e%e3%83%9f%e3%82%b3%e3%83%88/" rel="tag">スサノオノミコト</a></div><div class="tag"><a href="https://rekishinoeki.org/tag/%e8%91%a6%e5%8e%9f%e4%b8%ad%e5%9b%bd/" rel="tag">葦原中国</a></div><div class="tag"><a href="https://rekishinoeki.org/tag/%e5%a4%a7%e7%a5%93%e8%a9%9e/" rel="tag">大祓詞</a></div><div class="tag"><a href="https://rekishinoeki.org/tag/%e5%9b%bd%e6%b4%a5%e7%bd%aa/" rel="tag">国津罪</a></div><div class="tag"><a href="https://rekishinoeki.org/tag/%e5%a4%a9%e6%b4%a5%e7%bd%aa/" rel="tag">天津罪</a></div><div class="tag"><a href="https://rekishinoeki.org/tag/%e5%bb%b6%e5%96%9c%e5%bc%8f/" rel="tag">延喜式</a></div>									</div>
+
+									<h1 class="single-post-title entry-title">天津罪（あまつつみ）と国津罪（くにつつみ）、神道の罪の違い</h1>
+									<div class="post-meta-bottom">
+									<div class="pr-tag">本記事はアフィリエイト・プロモーションを含みます</div>																											
+									</div>
+																	</div>
+								<figure class="single_thumbnail"><picture><source srcset="https://rekishinoeki.org/wp-content/uploads/2025/01/amatsutsumi-kunitsutsumi.jpg.webp"  type="image/webp"><img fetchpriority="high" src="https://rekishinoeki.org/wp-content/uploads/2025/01/amatsutsumi-kunitsutsumi.jpg" width="1200" height="675" alt="天津罪（あまつつみ）と国津罪（くにつつみ）、神道の罪の違い" data-eio="p"></picture></figure>    
+    							</header>
+							<section class="single-post-main">
+									<div class="widget single-top rekis-widget"><div style="margin-top: 80px;margin-bottom: 60px;" id="rekis-18926069"><div style="background-color:#fafafa; padding: 20px;">
+
+<p align="center">広告</p>
+<div class="row sp">
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</div></div></div>									
+
+									<div class="content">
+																		<p>神道には、「天津罪（あまつつみ）」と「国津罪（くにつつみ）」という罪の概念があります。これは、『延喜式（えんぎしき）』や『大祓詞（おおはらえのことば）』に見られる神道の教えで、日本人の倫理観や宗教観に深く根付いています。本記事では、天津罪と国津罪の違いや、それが日本神話においてどのように扱われているのかを解説し、高天原（たかまのはら）でスサノオノミコトが犯した罪の物語にも触れながら理解を深めていきます。</p>
+<div class="rekis-pc-1h2" style="margin-top: 80px;margin-bottom: 60px;" id="rekis-78744086"><div style="background-color:#fafafa; padding: 20px;">
+
+<p align="center">広告</p>
+<div class="row sp">
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</div></div><h2>天津罪とは？天に背く罪</h2>
+<h3>天津罪の意味</h3>
+<p>天津罪（あまつつみ）とは、「天津神（あまつかみ）」、つまり天上界の神々に対して犯される罪を指します。これらは、宇宙の秩序や天の理（ことわり）を乱す行為とされ、特に高天原（たかまのはら）に住む神々の世界における罪とされます。</p>
+<h3>天津罪の具体例</h3>
+<p>天津罪は、主に農耕を妨害する人為的な行為に関連する罪を指します。これらは神話においてスサノオが高天原で犯した行為と関連付けられています。『延喜式』や『大祓詞』によると、天津罪には以下のようなものが含まれます。</p>
+<table>
+<thead>
+<tr>
+<th><strong>種類</strong></th>
+<th><strong>内容</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>天津罪（あまつつみ）</strong></td>
+<td>天上界（高天原）に関わる罪、神々の秩序を乱す罪</td>
+</tr>
+<tr>
+<td>畔放（あはなち）</td>
+<td>田の畦（あぜ）を壊すこと、水を引けなくする行為</td>
+</tr>
+<tr>
+<td>溝埋（みぞうめ）</td>
+<td>水路を埋めること</td>
+</tr>
+<tr>
+<td>樋放（ひはなち）</td>
+<td>灌漑施設を壊すこと</td>
+</tr>
+<tr>
+<td>生剥（いきはぎ）</td>
+<td>生きたまま皮を剥ぐこと</td>
+</tr>
+<tr>
+<td>逆剥（さかはぎ）</td>
+<td>動物の皮を逆向きに剥ぐこと</td>
+</tr>
+<tr>
+<td>屎戸（くそへ）</td>
+<td>宮殿や神域を汚すこと（糞尿を撒くなど）</td>
+</tr>
+<tr>
+<td>不浄行為</td>
+<td>穢れ（けがれ）を撒き散らすこと</td>
+</tr>
+<tr>
+<td>近親相姦</td>
+<td>血縁関係にある者同士の交わり</td>
+</tr>
+<tr>
+<td>神の権威を侵害</td>
+<td>神々の尊厳を傷つける行為</td>
+</tr>
+</tbody>
+</table>
+<div class="sc_getpost"><a class="clearfix" href="https://rekishinoeki.org/engishiki/"><div class="sc_getpost_thumb post-box-thumbnail__wrap"><img decoding="async" src="data:image/gif;base64,R0lGODdhAQABAPAAAN3d3QAAACwAAAAAAQABAAACAkQBADs=" width="1200" height="675" alt="延喜式とは？奈良・平安時代の国家制度をまとめた法典（えんぎしき）"  data-src="https://rekishinoeki.org/wp-content/uploads/2025/02/engishiki.jpg" class="lazyload"></div><div class="title">延喜式とは？奈良・平安時代の国家制度をまとめた法典（えんぎしき）</div><div class="date">2025.2.25</div><div class="substr">延喜式とは、奈良・平安時代に編纂された全50巻・約3300条の法典です。国家の行政や儀式、祭祀を具体的に規定しており、特に神社を記した延喜式神名帳（式内社）は現代でも重要な資料です...</div></a></div>
+<div class="rekis-pc-2h2" style="margin-top: 80px;margin-bottom: 60px;" id="rekis-1895656637"><div style="background-color:#fafafa; padding: 20px;">
+
+<p align="center">広告</p>
+<div class="row sp">
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</div></div><h2>国津罪とは？地上世界の罪</h2>
+<h3>国津罪の意味</h3>
+<p>国津罪（くにつつみ）とは、「国津神（くにつかみ）」、つまり<a href="https://rekishinoeki.org/ashiharanonakatsukuni/">地上界（葦原中国）</a>における罪を指します。天津罪が天の秩序を乱す罪であるのに対し、国津罪は人間社会における秩序を乱す罪とされ、日常生活や人々の間の関係性において問題となる行為が含まれます。</p>
+<h3>国津罪の具体例</h3>
+<p>国津罪は、主に血の穢れ、身体的異常、反社会的な性行為、天災、呪いなどに関連する罪を指します。国津罪には以下のようなものが挙げられます。</p>
+<table style="height: 405px;">
+<thead>
+<tr style="height: 45px;">
+<th style="height: 45px; width: 319.12px;"><strong>種類</strong></th>
+<th style="height: 45px; width: 789.028px;"><strong>内容</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 45px;">
+<td style="height: 45px; width: 319.12px;"><strong>国津罪（くにつつみ）</strong></td>
+<td style="height: 45px; width: 789.028px;">地上世界（葦原中国）に関わる罪、人間社会の秩序を乱す罪</td>
+</tr>
+<tr style="height: 45px;">
+<td style="height: 45px; width: 319.12px;">殺人（ひとごろし）</td>
+<td style="height: 45px; width: 789.028px;">人を殺すこと</td>
+</tr>
+<tr style="height: 45px;">
+<td style="height: 45px; width: 319.12px;">生膚断（いきはだたち）</td>
+<td style="height: 45px; width: 789.028px;">生きている人に傷をつける行為</td>
+</tr>
+<tr>
+<td style="width: 319.12px;">死膚断（しにはだたち）</td>
+<td style="width: 789.028px;">死体を損壊する行為</td>
+</tr>
+<tr style="height: 45px;">
+<td style="height: 45px; width: 319.12px;">盗み（ぬすびと）</td>
+<td style="height: 45px; width: 789.028px;">他人のものを奪うこと</td>
+</tr>
+<tr style="height: 45px;">
+<td style="height: 45px; width: 319.12px;">不義（ふぎ）</td>
+<td style="height: 45px; width: 789.028px;">道徳に反する行為</td>
+</tr>
+<tr style="height: 45px;">
+<td style="height: 45px; width: 319.12px;">妄言（もうげん）</td>
+<td style="height: 45px; width: 789.028px;">偽りを広めること、虚偽の発言</td>
+</tr>
+<tr style="height: 45px;">
+<td style="height: 45px; width: 319.12px;">呪詛（じゅそ）</td>
+<td style="height: 45px; width: 789.028px;">他人を呪うこと</td>
+</tr>
+<tr style="height: 45px;">
+<td style="height: 45px; width: 319.12px;">婚姻の禁忌</td>
+<td style="height: 45px; width: 789.028px;">血縁関係を無視した婚姻</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<div class="rekis-pc-3h2" style="margin-top: 80px;margin-bottom: 60px;" id="rekis-1513122579"><div style="background-color:#fafafa; padding: 20px;">
+
+<p align="center">広告</p>
+<div class="row sp">
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</div></div><h2>日本神話における天津罪と国津罪の事例</h2>
+<h3>スサノオノミコトが犯した天津罪</h3>
+<p>日本神話には、天津罪を犯した代表的な神が登場します。それが、須佐之男命（スサノオノミコト）です。</p>
+<div class="sc_getpost"><a class="clearfix" href="https://rekishinoeki.org/susanoonomikoto/"><div class="sc_getpost_thumb post-box-thumbnail__wrap"><img decoding="async" src="data:image/gif;base64,R0lGODdhAQABAPAAAN3d3QAAACwAAAAAAQABAAACAkQBADs=" width="1200" height="675" alt="スサノオノミコト「須佐之男命」とはどんな神様なのか？"  data-src="https://rekishinoeki.org/wp-content/uploads/susanoonomikoto.jpg" class="lazyload"></div><div class="title">スサノオノミコト「須佐之男命」とはどんな神様なのか？</div><div class="date">2024.3.19</div><div class="substr">日本の神話に登場する神様「須佐之男命（スサノオノミコト）」の魅力をわかりやすく解説。現在も八坂神社を中心にに祀られる勇敢な冒険、深い家族愛、そして八岐大蛇（ヤマタノオロチ）との戦い...</div></a></div>
+<p>スサノオは、<a href="https://rekishinoeki.org/izanagi/">イザナギ</a>から「海原（海の世界）」を治めるよう命じられましたが、これを拒否し、死んでしまった母、<a href="https://rekishinoeki.org/izanami/">イザナミ</a>に会いたいと泣き叫びました。そのため、彼は<a href="https://rekishinoeki.org/takamagahara/">高天原</a>に上ることを許されます。しかし、そこで次々と天津罪を犯してしまいます。</p>
+<h4>田の畦を壊す（畔放）</h4>
+<p>スサノオは乱暴に田を駆け回り、田畑を荒らしました。</p>
+<h4>宮殿に糞をまき散らす（屎戸）</h4>
+<p>天照大御神の宮殿の中に糞を撒き散らし、穢れを広げました。</p>
+<h4>織女の機織小屋を破壊し、侍女を死なせる</h4>
+<p>天照大御神の織女が機織りをしているとき、スサノオは皮を剥いだ馬を投げ込み、驚いた織女は機織機で負傷し、死亡してしまいました。</p>
+<p>&nbsp;</p>
+<p>これらの行為は高天原の秩序を乱すものであり、天津罪として重く見られました。結果として、天照大御神は天岩戸（あまのいわと）に隠れ、世界は闇に包まれます。この事態を収めるため、<a href="https://rekishinoeki.org/all-things-have-a-spirit/">八百万の神々</a>が協力して天照大御神を岩戸から引き出す「天岩戸神話」が展開されます。</p>
+<div class="sc_getpost"><a class="clearfix" href="https://rekishinoeki.org/amenoiwatogakure/"><div class="sc_getpost_thumb post-box-thumbnail__wrap"><img decoding="async" src="data:image/gif;base64,R0lGODdhAQABAPAAAN3d3QAAACwAAAAAAQABAAACAkQBADs=" width="1200" height="675" alt="天岩戸隠れ（あめのいわどがくれ）伝説のあらすじと場所の考察"  data-src="https://rekishinoeki.org/wp-content/uploads/2024/04/amenoiwatogakuretoha.jpg" class="lazyload"></div><div class="title">天岩戸隠れ（あめのいわどがくれ）伝説のあらすじと場所の考察</div><div class="date">2024.4.12</div><div class="substr">日本神話の天岩戸隠れの物語を掘り下げ、そのあらすじと神話が生まれた場所について詳しく解説します。天照大神の行動がどのようにして日本の文化や伝統に影響を与えたのか、その神秘的な舞台設...</div></a></div>
+<p>最終的にスサノオは高天原を追放され、出雲の国へと降ります。ここで彼は八岐大蛇（やまたのおろち）を退治し、国津神としての道を歩むことになります。</p>
+<div class="sc_getpost"><a class="clearfix" href="https://rekishinoeki.org/yamatanoorochi/"><div class="sc_getpost_thumb post-box-thumbnail__wrap"><img decoding="async" src="data:image/gif;base64,R0lGODdhAQABAPAAAN3d3QAAACwAAAAAAQABAAACAkQBADs=" width="1200" height="675" alt="ヤマタノオロチとは　倒した神様、神話上の伝説の正体"  data-src="https://rekishinoeki.org/wp-content/uploads/2024/04/yamatanoorochi.jpg" class="lazyload"></div><div class="title">ヤマタノオロチとは　倒した神様、神話上の伝説の正体</div><div class="date">2024.4.29</div><div class="substr">「ヤマタノオロチとは―倒した神様、神話上の伝説の正体」の記事では、スサノオノミコトが退治したヤマタノオロチの伝説に光を当てます。出雲地方の古代製鉄技術や洪水との関連を探りながら、ヤ...</div></a></div>
+<div class="rekis-pc-4h2" style="margin-top: 80px;margin-bottom: 60px;" id="rekis-963098197"><div style="background-color:#fafafa; padding: 20px;">
+
+<p align="center">広告</p>
+<div class="row sp">
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</div></div><h2>天津罪と国津罪の違いを整理</h2>
+<table>
+<thead>
+<tr>
+<th>罪の種類</th>
+<th>特徴</th>
+<th>例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>天津罪</td>
+<td>天上界（高天原）に関わる罪</td>
+<td>田畑の破壊、宮殿の汚染、神々への冒涜</td>
+</tr>
+<tr>
+<td>国津罪</td>
+<td>地上世界（葦原中国）に関わる罪</td>
+<td>殺人、盗み、詐欺、人間関係の禁忌</td>
+</tr>
+</tbody>
+</table>
+<p>天津罪は神々の秩序を乱す行為であり、国津罪は人間社会の秩序を乱す行為であるという違いがあります。</p>
+<div class="rekis-pc-5h2" style="margin-top: 80px;margin-bottom: 60px;" id="rekis-3062285422"><div style="background-color:#fafafa; padding: 20px;">
+
+<p align="center">広告</p>
+<div class="row sp">
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</div></div><h2>大祓詞（おおはらえのことば）による浄化</h2>
+<p>日本では、これらの罪を清めるために「大祓（おおはらえ）」が行われます。特に、6月と12月に行われる夏越の祓（なごしのはらえ）や年越の祓（としこしのはらえ）は、天津罪や国津罪を祓い清める重要な儀式です。</p>
+<p>大祓詞の中では、天津罪や国津罪を犯したとしても、神々の力によって罪や穢れを清め、再び正しい道へと戻れるとされています。</p>
+<div class="sc_getpost"><a class="clearfix" href="https://rekishinoeki.org/ooharaenorito/"><div class="sc_getpost_thumb post-box-thumbnail__wrap"><img decoding="async" src="data:image/gif;base64,R0lGODdhAQABAPAAAN3d3QAAACwAAAAAAQABAAACAkQBADs=" width="1200" height="675" alt="大祓祝詞の全文、ひらがな現代語訳、意味から効果を考える"  data-src="https://rekishinoeki.org/wp-content/uploads/2024/12/ooharaenorito.jpg" class="lazyload"></div><div class="title">大祓祝詞の全文、ひらがな現代語訳、意味から効果を考える</div><div class="date">2024.12.9</div><div class="substr">大祓祝詞の全文をひらがな読みと現代語訳でわかりやすく解説！祝詞に込められた意味や、心身の浄化や災厄除けといった効果を考察します。日本の神道の精神を知るきっかけに！...</div></a></div>
+<div class="rekis-pc-6h2" style="margin-top: 80px;margin-bottom: 60px;" id="rekis-1442999805"><div style="background-color:#fafafa; padding: 20px;">
+
+<p align="center">広告</p>
+<div class="row sp">
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</div></div><h2>まとめ</h2>
+<p>天津罪と国津罪は、神道における罪の概念を理解する上で重要な要素です。スサノオノミコトの物語からも分かるように、天津罪は神々の秩序を乱す罪であり、高天原からの追放という厳しい罰が与えられました。一方で、国津罪は人間社会の秩序を乱す罪であり、現代の法律に通じる側面があります。</p>
+<p>このように、日本神話や神道における罪の概念を知ることで、日本人の倫理観や宗教観の成り立ちを深く理解することができます。</p>
+<p>&nbsp;</p>
+									</div>
+
+									
+									<div class="bottom_ad clearfix">
+											<div class="widget rekis-widget"><div style="margin-top: 80px;margin-bottom: 60px;" id="rekis-658228487"><div style="background-color:#fafafa; padding: 20px;">
+
+<p align="center">広告</p>
+<div class="row sp">
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<div class="sc_col2 sp">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1348254106999004"
+     crossorigin="anonymous"></script>
+<!-- 日本神話と歴史 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1348254106999004"
+     data-ad-slot="2046797923"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</div></div></div>											
+																		</div>
+
+									    
+    																</section>
+							<footer class="article_footer">
+								<!-- コメント -->
+																<!-- 関連キーワード -->
+																		<div class="single_title">関連キーワード</div>
+										<div class="tag_area">
+											<div class="tag"><a href="https://rekishinoeki.org/tag/%e8%91%a6%e5%8e%9f%e4%b8%ad%e5%9b%bd/" rel="tag">葦原中国</a></div><div class="tag"><a href="https://rekishinoeki.org/tag/%e5%a4%a7%e7%a5%93%e8%a9%9e/" rel="tag">大祓詞</a></div><div class="tag"><a href="https://rekishinoeki.org/tag/%e5%9b%bd%e6%b4%a5%e7%bd%aa/" rel="tag">国津罪</a></div><div class="tag"><a href="https://rekishinoeki.org/tag/%e5%a4%a9%e6%b4%a5%e7%bd%aa/" rel="tag">天津罪</a></div><div class="tag"><a href="https://rekishinoeki.org/tag/%e5%bb%b6%e5%96%9c%e5%bc%8f/" rel="tag">延喜式</a></div><div class="tag"><a href="https://rekishinoeki.org/tag/%e9%ab%98%e5%a4%a9%e5%8e%9f/" rel="tag">高天原</a></div><div class="tag"><a href="https://rekishinoeki.org/tag/%e3%82%b9%e3%82%b5%e3%83%8e%e3%82%aa%e3%83%8e%e3%83%9f%e3%82%b3%e3%83%88/" rel="tag">スサノオノミコト</a></div>										</div>
+									
+								<!-- 関連記事 -->
+								<div class="single_title"><span class="cat-link"><a href="https://rekishinoeki.org/category/episode/" rel="category tag">日本神話・歴史エピソード</a></span>の関連記事</div>
+<ul class="newpost_list">
+			<li class="post_list_wrap clearfix hvr-fade-post">
+		<a class="clearfix" href="https://rekishinoeki.org/21dai-yuuryakutennou/" title="第21代雄略天皇（ゆうりゃくてんのう）とは？ ワカタケルとの関係、古墳について" rel="bookmark">
+		<figure class="post-box-thumbnail__wrap">
+		<img src="data:image/gif;base64,R0lGODdhAQABAPAAAN3d3QAAACwAAAAAAQABAAACAkQBADs=" width="150" height="84" alt="第21代雄略天皇（ゆうりゃくてんのう）とは？ ワカタケルとの関係、古墳について"  data-src="https://rekishinoeki.org/wp-content/uploads/21dai-yuuryakutennou-150x84.jpg" class="lazyload">		</figure>
+		<div class="meta">
+		<div class="title">第21代雄略天皇（ゆうりゃくてんのう）とは？ ワカタケルとの関係、古墳について</div>
+		<time class="date" datetime="2025-12-19">
+		2025年12月19日		</time>
+		</div>
+		</a>
+		</li>
+				<li class="post_list_wrap clearfix hvr-fade-post">
+		<a class="clearfix" href="https://rekishinoeki.org/umisachi-yamasachi/" title="海幸彦（ホデリノミコト）と山幸彦（ホオリノミコト）の神話、家系図" rel="bookmark">
+		<figure class="post-box-thumbnail__wrap">
+		<img src="data:image/gif;base64,R0lGODdhAQABAPAAAN3d3QAAACwAAAAAAQABAAACAkQBADs=" width="150" height="84" alt="海幸彦（ホデリノミコト）と山幸彦（ホオリノミコト）の神話、家系図"  data-src="https://rekishinoeki.org/wp-content/uploads/umisachi-yamasachi-150x84.jpg" class="lazyload">		</figure>
+		<div class="meta">
+		<div class="title">海幸彦（ホデリノミコト）と山幸彦（ホオリノミコト）の神話、家系図</div>
+		<time class="date" datetime="2025-11-12">
+		2025年11月12日		</time>
+		</div>
+		</a>
+		</li>
+				<li class="post_list_wrap clearfix hvr-fade-post">
+		<a class="clearfix" href="https://rekishinoeki.org/tenchi-kaibyaku/" title="天地開闢(てんちかいびゃく)とは？いつどの神様が天地創造した？" rel="bookmark">
+		<figure class="post-box-thumbnail__wrap">
+		<img src="data:image/gif;base64,R0lGODdhAQABAPAAAN3d3QAAACwAAAAAAQABAAACAkQBADs=" width="150" height="84" alt="天地開闢(てんちかいびゃく)とは？いつどの神様が天地創造した？"  data-src="https://rekishinoeki.org/wp-content/uploads/tenchi-kaibyaku-150x84.jpg" class="lazyload">		</figure>
+		<div class="meta">
+		<div class="title">天地開闢(てんちかいびゃく)とは？いつどの神様が天地創造した？</div>
+		<time class="date" datetime="2025-10-10">
+		2025年10月10日		</time>
+		</div>
+		</a>
+		</li>
+				<li class="post_list_wrap clearfix hvr-fade-post">
+		<a class="clearfix" href="https://rekishinoeki.org/amenotokotachinokami/" title="天之常立神(あめのとこたちのかみ)とは？天地開闢・別天津神 第五の神" rel="bookmark">
+		<figure class="post-box-thumbnail__wrap">
+		<img src="data:image/gif;base64,R0lGODdhAQABAPAAAN3d3QAAACwAAAAAAQABAAACAkQBADs=" width="150" height="84" alt="天之常立神(あめのとこたちのかみ)とは？天地開闢・別天津神 第五の神"  data-src="https://rekishinoeki.org/wp-content/uploads/amenotokotachinokami-150x84.jpg" class="lazyload">		</figure>
+		<div class="meta">
+		<div class="title">天之常立神(あめのとこたちのかみ)とは？天地開闢・別天津神 第五の神</div>
+		<time class="date" datetime="2025-10-10">
+		2025年10月10日		</time>
+		</div>
+		</a>
+		</li>
+				<li class="post_list_wrap clearfix hvr-fade-post">
+		<a class="clearfix" href="https://rekishinoeki.org/ashiharanonakatsukuni/" title="葦原中国とは？日本の地上世界のこと（あしはらのなかつくに）" rel="bookmark">
+		<figure class="post-box-thumbnail__wrap">
+		<img src="data:image/gif;base64,R0lGODdhAQABAPAAAN3d3QAAACwAAAAAAQABAAACAkQBADs=" width="150" height="84" alt="葦原中国とは？日本の地上世界のこと（あしはらのなかつくに）"  data-src="https://rekishinoeki.org/wp-content/uploads/ashiharanonakatsukuni-150x84.jpg" class="lazyload">		</figure>
+		<div class="meta">
+		<div class="title">葦原中国とは？日本の地上世界のこと（あしはらのなかつくに）</div>
+		<time class="date" datetime="2025-10-04">
+		2025年10月4日		</time>
+		</div>
+		</a>
+		</li>
+				<li class="post_list_wrap clearfix hvr-fade-post">
+		<a class="clearfix" href="https://rekishinoeki.org/tairanomasakado/" title="平将門は何をした？平将門の乱、首塚の怨霊と伝説" rel="bookmark">
+		<figure class="post-box-thumbnail__wrap">
+		<img src="data:image/gif;base64,R0lGODdhAQABAPAAAN3d3QAAACwAAAAAAQABAAACAkQBADs=" width="150" height="98" alt="平将門は何をした？平将門の乱、首塚の怨霊と伝説"  data-src="https://rekishinoeki.org/wp-content/uploads/tairanomasakado-150x98.jpg" class="lazyload">		</figure>
+		<div class="meta">
+		<div class="title">平将門は何をした？平将門の乱、首塚の怨霊と伝説</div>
+		<time class="date" datetime="2025-09-22">
+		2025年9月22日		</time>
+		</div>
+		</a>
+		</li>
+				<li class="post_list_wrap clearfix hvr-fade-post">
+		<a class="clearfix" href="https://rekishinoeki.org/75-sutokutennou/" title="第75代崇徳天皇、日本三大怨霊と呼ばれる崇徳院の生涯とは" rel="bookmark">
+		<figure class="post-box-thumbnail__wrap">
+		<img src="data:image/gif;base64,R0lGODdhAQABAPAAAN3d3QAAACwAAAAAAQABAAACAkQBADs=" width="150" height="84" alt="第75代崇徳天皇、日本三大怨霊と呼ばれる崇徳院の生涯とは"  data-src="https://rekishinoeki.org/wp-content/uploads/75-sutokutennou-150x84.jpg" class="lazyload">		</figure>
+		<div class="meta">
+		<div class="title">第75代崇徳天皇、日本三大怨霊と呼ばれる崇徳院の生涯とは</div>
+		<time class="date" datetime="2025-09-22">
+		2025年9月22日		</time>
+		</div>
+		</a>
+		</li>
+				<li class="post_list_wrap clearfix hvr-fade-post">
+		<a class="clearfix" href="https://rekishinoeki.org/shintousyu/" title="中世の説話集「神道集」の内容" rel="bookmark">
+		<figure class="post-box-thumbnail__wrap">
+		<img src="data:image/gif;base64,R0lGODdhAQABAPAAAN3d3QAAACwAAAAAAQABAAACAkQBADs=" width="150" height="84" alt="中世の説話集「神道集」の内容"  data-src="https://rekishinoeki.org/wp-content/uploads/shintousyu-150x84.jpg" class="lazyload">		</figure>
+		<div class="meta">
+		<div class="title">中世の説話集「神道集」の内容</div>
+		<time class="date" datetime="2025-09-15">
+		2025年9月15日		</time>
+		</div>
+		</a>
+		</li>
+		</ul>
+															</footer>
+						</article>
+					</div>
+					<!-- CTA -->
+										<!-- navigation -->
+					
+					
+						 
+ 										<div class="post-sub">
+						<!-- bigshare -->
+						<!-- rabdom_posts(bottom) -->
+																	</div>
+									</main>
+
+		<!-- /main -->
+			<!-- sidebar -->
+	<div id="sidebar" role="complementary">
+		<div class="sidebar_content">
+						<div id="diver_widget_search-2" class="widget widget_diver_widget_search"><div class="widgettitle">検索</div><form class="search-widget" method="get" action="https://rekishinoeki.org"><div class="search-widget__col"><label class="search-widget__label">キーワード</label><input type="text" name="s" class="search-widget__input" placeholder="キーワードを入力" value=""></div><div class="search-widget__col"><label class="search-widget__label">カテゴリー</label><div class="search-widget__select"><select name="cat"><option value>カテゴリーを選択</option><option value="1052" >安土桃山時代</option><option value="1053" >江戸時代</option><option value="1054" >明治時代</option><option value="1055" >大正時代</option><option value="1056" >昭和時代</option><option value="1057" >平成時代</option><option value="1058" >令和時代</option><option value="1291" >陰陽五行</option><option value="211" >アニメ・エンタメと神様</option><option value="371" >民間伝承・昔話</option><option value="1002" >世界の歴史</option><option value="1013" >日本の文化</option><option value="1018" >神事</option><option value="79" >縄文時代</option><option value="132" >日本神話・歴史エピソード</option><option value="128" >弥生時代</option><option value="1" >未分類</option><option value="142" >古墳時代</option><option value="4" >日本神話の場所</option><option value="58" >飛鳥時代</option><option value="3" >神様の紹介</option><option value="5" >日本の歴史・時代</option><option value="129" >奈良時代</option><option value="130" >平安時代</option><option value="90" >鎌倉時代</option><option value="91" >南北朝時代</option><option value="131" >室町時代</option></select></div></div><div class="search-widget__col"><label class="search-widget__label">タグ</label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e3%83%a4%e3%83%9e%e3%83%88%e3%82%bf%e3%82%b1%e3%83%ab"  /><span class="search-widget__checkbox-label">ヤマトタケル</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e5%85%ab%e5%b9%a1%e7%a5%9e%e7%a4%be"  /><span class="search-widget__checkbox-label">八幡神社</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e8%aa%89%e7%94%b0%e5%88%a5%e5%b0%8a"  /><span class="search-widget__checkbox-label">誉田別尊</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e7%a5%9e%e6%a0%bc%e5%8c%96"  /><span class="search-widget__checkbox-label">神格化</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e6%84%9b%e7%9d%80"  /><span class="search-widget__checkbox-label">愛着</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e4%be%9b%e9%a4%8a"  /><span class="search-widget__checkbox-label">供養</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e4%bb%98%e5%96%aa%e7%a5%9e"  /><span class="search-widget__checkbox-label">付喪神</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e7%a5%9e%e9%81%93%e9%9b%86"  /><span class="search-widget__checkbox-label">神道集</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e5%be%92%e7%84%b6%e8%8d%89"  /><span class="search-widget__checkbox-label">徒然草</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e4%bb%8a%e6%98%94%e7%89%a9%e8%aa%9e%e9%9b%86"  /><span class="search-widget__checkbox-label">今昔物語集</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e7%99%be%e9%ac%bc%e5%a4%9c%e8%a1%8c%e7%b5%b5%e5%b7%bb"  /><span class="search-widget__checkbox-label">百鬼夜行絵巻</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e5%85%ab%e5%b9%a1%e7%a5%9e"  /><span class="search-widget__checkbox-label">八幡神</span></label></div><button type="submit" class="search-widget__submit" value="search">検索</button></form></div><div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="widgettitle">日本の歴史の全体像</div><div class="textwidget custom-html-widget"><a href="https://rekishinoeki.org/nihon-gengou-tennou-ichiran/"><picture><source   type="image/webp" data-srcset="https://rekishinoeki.org/wp-content/uploads/2024/04/nihon-gengou-tennou-ichiran.png.webp"><img width="1200" height="675" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAAKjAQAAAAAlyMttAAAAAnRSTlMAAHaTzTgAAAB5SURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAM440AAFaumxcAAAAAElFTkSuQmCC" alt="日本の歴史 時代区分・元号・歴代天皇を順番に一覧にした年表" data-eio="p" data-src="https://rekishinoeki.org/wp-content/uploads/2024/04/nihon-gengou-tennou-ichiran.png" decoding="async" class="lazyload" data-eio-rwidth="1200" data-eio-rheight="675"></picture><noscript><img width="1200" height="675" src="https://rekishinoeki.org/wp-content/uploads/2024/04/nihon-gengou-tennou-ichiran.png" alt="日本の歴史 時代区分・元号・歴代天皇を順番に一覧にした年表" data-eio="l"></noscript></a><br>
+<a href="https://rekishinoeki.org/rekidaitennou-ichiran/"><picture><source   type="image/webp" data-srcset="https://rekishinoeki.org/wp-content/uploads/2024/04/rekidaitennou-ichiran.png.webp"><img width="1200" height="675" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAAKjAQAAAAAlyMttAAAAAnRSTlMAAHaTzTgAAAB5SURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAM440AAFaumxcAAAAAElFTkSuQmCC" alt="歴代天皇の名前一覧表（別名含む）" data-eio="p" data-src="https://rekishinoeki.org/wp-content/uploads/2024/04/rekidaitennou-ichiran.png" decoding="async" class="lazyload" data-eio-rwidth="1200" data-eio-rheight="675"></picture><noscript><img width="1200" height="675" src="https://rekishinoeki.org/wp-content/uploads/2024/04/rekidaitennou-ichiran.png" alt="歴代天皇の名前一覧表（別名含む）" data-eio="l"></noscript></a><br>
+<p><a href="https://rekishinoeki.org/syogun-ichiran/"><strong>将軍とは何か？歴代将軍の名前・年表一覧（征夷大将軍・類似将軍職）</strong></a></p>
+</div></div><div id="media_image-2" class="widget widget_media_image"><div class="widgettitle">カタカムナとは何か？</div><a href="https://rekishinoeki.org/katakamuna/"><img width="300" height="169" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20169'%3E%3C/svg%3E" class="image wp-image-1871  attachment-medium size-medium" alt="カタカムナ一覧" style="max-width: 100%; height: auto;" decoding="async" data-lazy-srcset="https://rekishinoeki.org/wp-content/uploads/katakamuna-ichiran-300x169.jpg 300w, https://rekishinoeki.org/wp-content/uploads/katakamuna-ichiran-1024x576.jpg 1024w, https://rekishinoeki.org/wp-content/uploads/katakamuna-ichiran-150x84.jpg 150w, https://rekishinoeki.org/wp-content/uploads/katakamuna-ichiran.jpg 1200w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://rekishinoeki.org/wp-content/uploads/katakamuna-ichiran-300x169.jpg" /><noscript><img width="300" height="169" src="https://rekishinoeki.org/wp-content/uploads/katakamuna-ichiran-300x169.jpg" class="image wp-image-1871  attachment-medium size-medium" alt="カタカムナ一覧" style="max-width: 100%; height: auto;" decoding="async" srcset="https://rekishinoeki.org/wp-content/uploads/katakamuna-ichiran-300x169.jpg 300w, https://rekishinoeki.org/wp-content/uploads/katakamuna-ichiran-1024x576.jpg 1024w, https://rekishinoeki.org/wp-content/uploads/katakamuna-ichiran-150x84.jpg 150w, https://rekishinoeki.org/wp-content/uploads/katakamuna-ichiran.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a></div>        <div id="diver_widget_newpost-2" class="widget widget_diver_widget_newpost">      
+      <div class="widgettitle">新着記事</div>        <ul>
+                                          <li class="widget_post_list clearfix">
+              <a class="clearfix" href="https://rekishinoeki.org/kyu-syogatsu/" title="旧正月とは？太陰太陽暦（中国暦）の1月1日">
+                            <div class="meta" style="margin:0;padding:5px 3px;">
+                    <div class="post_list_title">旧正月とは？太陰太陽暦（中国暦）の1月1日</div>
+                    <div class="post_list_tag">
+                                          <div class="post_list_cat" style="">世界の歴史</div>
+                                                              </div>
+                                            
+                                  </div>
+              </a>
+            </li>
+                                  <li class="widget_post_list clearfix">
+              <a class="clearfix" href="https://rekishinoeki.org/syogatsuryori/" title="正月料理の意味と定番ランキング、一覧で紹介">
+                            <div class="meta" style="margin:0;padding:5px 3px;">
+                    <div class="post_list_title">正月料理の意味と定番ランキング、一覧で紹介</div>
+                    <div class="post_list_tag">
+                                          <div class="post_list_cat" style="">日本の文化</div>
+                                                              </div>
+                                            
+                                  </div>
+              </a>
+            </li>
+                                  <li class="widget_post_list clearfix">
+              <a class="clearfix" href="https://rekishinoeki.org/syogatsukazari/" title="正月飾りはいつからいつまで？玄関や神棚で縁起の良い新年を">
+                            <div class="meta" style="margin:0;padding:5px 3px;">
+                    <div class="post_list_title">正月飾りはいつからいつまで？玄関や神棚で縁起の良い新年を</div>
+                    <div class="post_list_tag">
+                                          <div class="post_list_cat" style="">日本の文化</div>
+                                                              </div>
+                                            
+                                  </div>
+              </a>
+            </li>
+                                  <li class="widget_post_list clearfix">
+              <a class="clearfix" href="https://rekishinoeki.org/daigensuinohou/" title="大元帥法とは？（だいげんすいほう／たいげんのほう）意味と歴史・作法・近現代の論点">
+                            <div class="meta" style="margin:0;padding:5px 3px;">
+                    <div class="post_list_title">大元帥法とは？（だいげんすいほう／たいげんのほう）意味と歴史・作法・近現代の論点</div>
+                    <div class="post_list_tag">
+                                          <div class="post_list_cat" style="">民間伝承・昔話</div>
+                                                              </div>
+                                            
+                                  </div>
+              </a>
+            </li>
+                                  <li class="widget_post_list clearfix">
+              <a class="clearfix" href="https://rekishinoeki.org/toraijin/" title="渡来人とは？ 古墳時代の渡来人が伝えたもの、渡来人の子孫に多い苗字">
+                            <div class="meta" style="margin:0;padding:5px 3px;">
+                    <div class="post_list_title">渡来人とは？ 古墳時代の渡来人が伝えたもの、渡来人の子孫に多い苗字</div>
+                    <div class="post_list_tag">
+                                          <div class="post_list_cat" style="">古墳時代</div>
+                                                              </div>
+                                            
+                                  </div>
+              </a>
+            </li>
+                                  <li class="widget_post_list clearfix">
+              <a class="clearfix" href="https://rekishinoeki.org/yuuryakutennou-toraijin/" title="雄略天皇の治世を支えた「渡来人」、古代国家形成のエンジニアたち">
+                            <div class="meta" style="margin:0;padding:5px 3px;">
+                    <div class="post_list_title">雄略天皇の治世を支えた「渡来人」、古代国家形成のエンジニアたち</div>
+                    <div class="post_list_tag">
+                                          <div class="post_list_cat" style="">古墳時代</div>
+                                                              </div>
+                                            
+                                  </div>
+              </a>
+            </li>
+                                  <li class="widget_post_list clearfix">
+              <a class="clearfix" href="https://rekishinoeki.org/21dai-yuuryakutennou/" title="第21代雄略天皇（ゆうりゃくてんのう）とは？ ワカタケルとの関係、古墳について">
+                            <div class="meta" style="margin:0;padding:5px 3px;">
+                    <div class="post_list_title">第21代雄略天皇（ゆうりゃくてんのう）とは？ ワカタケルとの関係、古墳について</div>
+                    <div class="post_list_tag">
+                                          <div class="post_list_cat" style="">古墳時代</div>
+                                                              </div>
+                                            
+                                  </div>
+              </a>
+            </li>
+                                  <li class="widget_post_list clearfix">
+              <a class="clearfix" href="https://rekishinoeki.org/nagatsuki9/" title="日本の旧暦9月「長月（ながつき）」の意味と由来とキャラクター名との関わり">
+                            <div class="meta" style="margin:0;padding:5px 3px;">
+                    <div class="post_list_title">日本の旧暦9月「長月（ながつき）」の意味と由来とキャラクター名との関わり</div>
+                    <div class="post_list_tag">
+                                          <div class="post_list_cat" style="">日本の文化</div>
+                                                              </div>
+                                            
+                                  </div>
+              </a>
+            </li>
+          
+          
+                </ul>
+        </div>    <div id="custom_html-3" class="widget_text widget widget_custom_html"><div class="widgettitle">ブログランキング参加中</div><div class="textwidget custom-html-widget"><p align="center"><a href="https://history.blogmura.com/ranking/in?p_cid=11188449" target="_blank"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2088%2031'%3E%3C/svg%3E" width="88" height="31" border="0" alt="にほんブログ村 歴史ブログへ" data-lazy-src="https://b.blogmura.com/history/88_31.gif" /><noscript><img src="https://b.blogmura.com/history/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 歴史ブログへ" /></noscript></a></p>
+<p align="center"></p>
+<a href="https://blog.with2.net/link/?id=2116552&tag=2607" title="「#神話」人気ブログランキング" target="_blank"><img alt="「#神話」人気ブログランキング" width="150" height="30" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%2030'%3E%3C/svg%3E" data-lazy-src="https://blog.with2.net/banner/tag/2607/ss"><noscript><img alt="「#神話」人気ブログランキング" width="150" height="30" src="https://blog.with2.net/banner/tag/2607/ss"></noscript></a></div></div>						<div id="fix_sidebar">
+								<div id="custom_html-4" class="widget_text widget fix_sidebar widget_custom_html"><div class="widgettitle">カタカムナを学び活かすなら</div><div class="textwidget custom-html-widget"><p style="text-align: center;"><span class="sc_marker-animation y"><strong>カタカムナの本質を知って、人生に活かしませんか？</strong></span><br><br>
+<strong><a href="https://park.jp/service_menu/10215?aff=EMNKVD" target="_blank" rel="noopener">神さまが教えてくれた！<br>カタカムナ成功法則マスター講座</a></strong>
+<a href="https://park.jp/service_menu/10215?aff=EMNKVD" target="_blank" rel="noopener"><img width="320" height="166" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20166'%3E%3C/svg%3E"  alt="カタカムナ成功法則マスター講座" data-lazy-src="https://rekishinoeki.org/wp-content/uploads/katakamuna-kouza1.png.webp" /><noscript><img width="320" height="166" src="https://rekishinoeki.org/wp-content/uploads/katakamuna-kouza1.png.webp"  alt="カタカムナ成功法則マスター講座" /></noscript></a><br>
+<strong><a href="https://park.jp/service_menu/10907?aff=21M52P">本当の使命を知って人生を輝かせる!<br>カタカムナ使命診断</a></strong>
+<a href="https://park.jp/service_menu/10907?aff=21M52P"><img width="320" height="167" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20167'%3E%3C/svg%3E"    alt="カタカムナ使命診断" data-lazy-src="https://rekishinoeki.org/wp-content/uploads/katakamunashimei1.png.webp"/><noscript><img width="320" height="167" src="https://rekishinoeki.org/wp-content/uploads/katakamunashimei1.png.webp"    alt="カタカムナ使命診断"/></noscript></a>他のカタカムナ鑑定とは違う、平均30ページ以上のPDFデータ鑑定書
+</p></div></div>											</div>
+		</div>
+	</div>
+	<!-- /sidebar -->
+	</div>
+</div>
+				</div>
+		<!-- /container -->
+		
+			<!-- Big footer -->
+				<div data-wpr-lazyrender="1" id="bigfooter">
+		<div  class="bigfooter_wrap clearfix">
+			<div  class="bigfooter_colomn col3">
+							</div>
+			<div  class="bigfooter_colomn col3">
+							</div>
+						<div  class="bigfooter_colomn col3">
+							</div>
+		</div>
+	</div>
+			<!-- /Big footer -->
+
+			<!-- footer -->
+			<footer data-wpr-lazyrender="1" id="footer">
+				<div  class="footer_content clearfix">
+					<nav class="footer_navi" role="navigation">
+						<ul id="menu-%e3%83%95%e3%83%83%e3%82%bf%e3%83%bc" class="menu"><li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161"><a href="https://rekishinoeki.org/about/">日本神話と歴史とは</a></li>
+<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-168"><a rel="privacy-policy" href="https://rekishinoeki.org/privacy-policy/">プライバシーポリシー</a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a href="https://rekishinoeki.org/contact/">お問い合わせ</a></li>
+<li id="menu-item-1097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1097"><a href="https://houkoji.jp/">パワースポットの手引き</a></li>
+</ul>					</nav>
+					<div  id="copyright">日本神話と歴史 All Rights Reserved.</div>
+				</div>
+			</footer>
+			<!-- /footer -->
+						<!-- フッターmenu -->
+						<!-- フッターCTA -->
+					
+
+		<div data-wpr-lazyrender="1" class="drawer-overlay"></div>
+		<div  class="drawer-nav"><div id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-%e3%83%98%e3%83%83%e3%83%80%e3%83%bc%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc-container"><ul id="menu-%e3%83%98%e3%83%83%e3%83%80%e3%83%bc%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc-2" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-158"><a href="https://rekishinoeki.org/category/episode/">日本神話・歴史</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88"><a href="https://rekishinoeki.org/category/kamisama/">神様の紹介</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89"><a href="https://rekishinoeki.org/category/place/">日本神話の場所</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-87"><a href="https://rekishinoeki.org/category/rekishi/">日本の歴史・時代</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156"><a href="https://rekishinoeki.org/category/rekishi/jomon/">縄文時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-157"><a href="https://rekishinoeki.org/category/rekishi/yayoi/">弥生時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-155"><a href="https://rekishinoeki.org/category/rekishi/kofunjidai/">古墳時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-154"><a href="https://rekishinoeki.org/category/rekishi/asuka/">飛鳥時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-153"><a href="https://rekishinoeki.org/category/rekishi/nara/">奈良時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152"><a href="https://rekishinoeki.org/category/rekishi/heian/">平安時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151"><a href="https://rekishinoeki.org/category/rekishi/kamakura/">鎌倉時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150"><a href="https://rekishinoeki.org/category/rekishi/nanbokucho/">南北朝時代</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-149"><a href="https://rekishinoeki.org/category/rekishi/muromachi/">室町時代</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-751"><a href="https://rekishinoeki.org/category/shinji/">神事</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-244"><a href="https://rekishinoeki.org/category/animism/">アニメ・エンタメと神様</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-750"><a href="https://rekishinoeki.org/category/bunka/">日本の文化</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-480"><a href="https://rekishinoeki.org/category/minkandensyo/">民間伝承・昔話</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1204"><a href="https://rekishinoeki.org/category/gogyo/">陰陽五行</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-749"><a href="https://rekishinoeki.org/category/sekaishi/">世界の歴史</a></li>
+</ul></div></div></div>
+
+				<div  id="header_search" class="lity-hide">
+			<div  id="diver_widget_search-3" class="widget widget_diver_widget_search"><div  class="searchbox_content_title">検索</div><form class="search-widget" method="get" action="https://rekishinoeki.org"><div class="search-widget__col"><label class="search-widget__label">キーワード</label><input type="text" name="s" class="search-widget__input" placeholder="キーワードを入力" value=""></div><div class="search-widget__col"><label class="search-widget__label">カテゴリー</label><div class="search-widget__select"><select name="cat"><option value>カテゴリーを選択</option><option value="1052" >安土桃山時代</option><option value="1053" >江戸時代</option><option value="1054" >明治時代</option><option value="1055" >大正時代</option><option value="1056" >昭和時代</option><option value="1057" >平成時代</option><option value="1058" >令和時代</option><option value="1291" >陰陽五行</option><option value="211" >アニメ・エンタメと神様</option><option value="371" >民間伝承・昔話</option><option value="1002" >世界の歴史</option><option value="1013" >日本の文化</option><option value="1018" >神事</option><option value="79" >縄文時代</option><option value="132" >日本神話・歴史エピソード</option><option value="128" >弥生時代</option><option value="1" >未分類</option><option value="142" >古墳時代</option><option value="4" >日本神話の場所</option><option value="58" >飛鳥時代</option><option value="3" >神様の紹介</option><option value="5" >日本の歴史・時代</option><option value="129" >奈良時代</option><option value="130" >平安時代</option><option value="90" >鎌倉時代</option><option value="91" >南北朝時代</option><option value="131" >室町時代</option></select></div></div><div class="search-widget__col"><label class="search-widget__label">タグ</label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e3%83%a4%e3%83%9e%e3%83%88%e3%82%bf%e3%82%b1%e3%83%ab"  /><span class="search-widget__checkbox-label">ヤマトタケル</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e5%85%ab%e5%b9%a1%e7%a5%9e%e7%a4%be"  /><span class="search-widget__checkbox-label">八幡神社</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e8%aa%89%e7%94%b0%e5%88%a5%e5%b0%8a"  /><span class="search-widget__checkbox-label">誉田別尊</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e7%a5%9e%e6%a0%bc%e5%8c%96"  /><span class="search-widget__checkbox-label">神格化</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e6%84%9b%e7%9d%80"  /><span class="search-widget__checkbox-label">愛着</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e4%be%9b%e9%a4%8a"  /><span class="search-widget__checkbox-label">供養</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e4%bb%98%e5%96%aa%e7%a5%9e"  /><span class="search-widget__checkbox-label">付喪神</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e7%a5%9e%e9%81%93%e9%9b%86"  /><span class="search-widget__checkbox-label">神道集</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e5%be%92%e7%84%b6%e8%8d%89"  /><span class="search-widget__checkbox-label">徒然草</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e4%bb%8a%e6%98%94%e7%89%a9%e8%aa%9e%e9%9b%86"  /><span class="search-widget__checkbox-label">今昔物語集</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e7%99%be%e9%ac%bc%e5%a4%9c%e8%a1%8c%e7%b5%b5%e5%b7%bb"  /><span class="search-widget__checkbox-label">百鬼夜行絵巻</span></label><label><input type="checkbox" class="search-widget__checkbox" name="tag[]" value="%e5%85%ab%e5%b9%a1%e7%a5%9e"  /><span class="search-widget__checkbox-label">八幡神</span></label></div><button type="submit" class="search-widget__submit" value="search">検索</button></form></div>		</div>
+		
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/diver_child/*","/wp-content/themes/diver/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+	<div  id="wpcp-error-message" class="msgmsg-box-wpcp hideme"><span>error: </span>このコンテンツは保護されています。</div>
+	<script type="rocketlazyloadscript">
+	var timeout_result;
+	function show_wpcp_message(smessage)
+	{
+		if (smessage !== "")
+			{
+			var smessage_text = '<span>Alert: </span>'+smessage;
+			document.getElementById("wpcp-error-message").innerHTML = smessage_text;
+			document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp showme";
+			clearTimeout(timeout_result);
+			timeout_result = setTimeout(hide_message, 3000);
+			}
+	}
+	function hide_message()
+	{
+		document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp hideme";
+	}
+	</script>
+		<style>
+	@media print {
+	body * {display: none !important;}
+		body:after {
+		content: "このコンテンツは保護されており、印刷できません。"; }
+	}
+	</style>
+		<style type="text/css">
+	#wpcp-error-message {
+	    direction: ltr;
+	    text-align: center;
+	    transition: opacity 900ms ease 0s;
+	    z-index: 99999999;
+	}
+	.hideme {
+    	opacity:0;
+    	visibility: hidden;
+	}
+	.showme {
+    	opacity:1;
+    	visibility: visible;
+	}
+	.msgmsg-box-wpcp {
+		border:1px solid #f5aca6;
+		border-radius: 10px;
+		color: #555;
+		font-family: Tahoma;
+		font-size: 11px;
+		margin: 10px;
+		padding: 10px 36px;
+		position: fixed;
+		width: 255px;
+		top: 50%;
+  		left: 50%;
+  		margin-top: -10px;
+  		margin-left: -130px;
+  		-webkit-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+		-moz-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+		box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+	}
+	.msgmsg-box-wpcp span {
+		font-weight:bold;
+		text-transform:uppercase;
+	}
+		.warning-wpcp {
+		background:#ffecec var(--wpr-bg-2f82b12d-ed10-4379-8eed-92ef33b29ad0) no-repeat 10px 50%;
+	}
+    </style>
+<style>@media screen and (max-width:599px){.grid_post-box{width:50% !important;}}</style><style>.appeal_box,#share_plz,.hentry, #single-main .post-sub,#breadcrumb,#sidebar .widget,.navigation,.wrap-post-title,.pickup-cat-wrap,.maintop-widget, .mainbottom-widget,.post-box-contents,#main-wrap .pickup_post_list,.sticky-post-box,.p-entry__tw-follow,.p-entry__push,.catpage_content_wrap,#cta,h1.page_title{-webkit-box-shadow:0 0 5px #ddd;-moz-box-shadow:0 0 5px #ddd;box-shadow:0 0 5px #ddd;-webkit-box-shadow:0 0 0 5px rgba(150,150,150,.2);-moz-box-shadow:0 0 5px rgba(150,150,150,.2);box-shadow:0 0 5px rgba(150,150,150,.2);}</style><style>.newlabel {display:inline-block;position:absolute;margin:0;text-align:center;font-size:13px;color:#fff;font-size:13px;background:#ff6666;top:0;}.newlabel span{color:#fff;background:#ff6666;}.widget_post_list .newlabel:before{border-left-color:#ff6666;}.pickup-cat-img .newlabel::before {content:"";top:0;left:0;border-bottom:40px solid transparent;border-left:40px solid #ff6666;position:absolute;}.pickup-cat-img .newlabel span{font-size:11px;display:block;top:6px;transform:rotate(-45deg);left:0px;position:absolute;z-index:101;background:none;}@media screen and (max-width:768px){.newlabel span{font-size:.6em;}}</style><style>.post-box-contents .newlable{top:0px;}.post-box-contents .newlabel::before {content:"";top:0;left:0;border-bottom:4em solid transparent;border-left:4em solid #ff6666;position:absolute;}.post-box-contents .newlabel span{white-space:nowrap;display:block;top:8px;transform:rotate(-45deg);left:2px;position:absolute;z-index:101;background:none;}@media screen and (max-width:768px){.post-box-contents .newlabel::before{border-bottom:3em solid transparent;border-left:3em solid #ff6666;}.post-box-contents .newlabel span{top:7px;left:1px;}}</style><style>@media screen and (min-width:560px){.grid_post-box:hover .grid_post_thumbnail img,.post-box:hover .post_thumbnail img{-webkit-transform:scale(1.2);transform:scale(1.2);}}</style><style>#page-top a{background:rgba(0,0,0,0.6);color:#fff;}</style><style>.wpp-list li:nth-child(1):after,.diver_popular_posts li.widget_post_list:nth-child(1):after {background:rgb(255, 230, 88);}.wpp-list li:nth-child(2):after,.diver_popular_posts li.widget_post_list:nth-child(2):after {background:#ccc;}.wpp-list li:nth-child(3):after,.diver_popular_posts li.widget_post_list:nth-child(3):after {background:rgba(255, 121, 37, 0.8);}.wpp-list li:after{content:counter(wpp-ranking, decimal);counter-increment:wpp-ranking;}.diver_popular_posts li.widget_post_list:after {content:counter(dpp-ranking, decimal);counter-increment:dpp-ranking;}.wpp-list li:after,.diver_popular_posts li.widget_post_list:after {line-height:1;position:absolute;padding:3px 6px;left:4px;top:4px;background:#313131;color:#fff;font-size:1em;border-radius:50%;font-weight:bold;z-index:}</style><style>.wrap-post-title,.wrap-post-title a{color:#333;text-decoration:none;}</style> <style>.wrap-post-title,.widget .wrap-post-title{background:#fff;}</style><style>.widget.widget_block .wp-block-group h2:first-child,.widget.widget_block .wp-block-group h3:first-child,.widgettitle{color:#515151;}</style><style>.widget.widget_block .wp-block-group h2:first-child,.widget.widget_block .wp-block-group h3:first-child,.widgettitle{border-bottom:3px solid #ffffff;background:-webkit-linear-gradient(top, #fff 0%, #cccfb9 100%); background:linear-gradient(to bottom, #fff 0%, #cccfb9 100%);}</style><style>.content{font-size:17px;line-height:1.8em;}:where(.content) p:where(:not([style]):not(:empty)),:where(.content) div:where(:not([class]):not([style]):not(:empty)) {margin:0 0 1em;}:where(.content) p:where(:not([class]):not([style]):empty),:where(.content) div:where(:not([class]):not([style]):empty){padding-bottom:1em;margin:0;}:where(.content) ul,:where(.content) ol,:where(.content) table,:where(.content) dl{margin-bottom:1em;}.single_thumbnail img{max-height:500px;}@media screen and (max-width:768px){.content{font-size:16px}}</style><style>.diver_firstview_simple.stripe.length{background-image:linear-gradient(-90deg,transparent 25%,#fff 25%, #fff 50%,transparent 50%, transparent 75%,#fff 75%, #fff);background-size:80px 50px;}.diver_firstview_simple.stripe.slant{background-image:linear-gradient(-45deg,transparent 25%,#fff 25%, #fff 50%,transparent 50%, transparent 75%,#fff 75%, #fff);background-size:50px 50px;}.diver_firstview_simple.stripe.vertical{background-image:linear-gradient(0deg,transparent 25%,#fff 25%, #fff 50%,transparent 50%, transparent 75%,#fff 75%, #fff);background-size:50px 80px;}.diver_firstview_simple.dot {background-image:radial-gradient(#fff 20%, transparent 0), radial-gradient(#fff 20%, transparent 0);background-position:0 0, 10px 10px;background-size:20px 20px;}.diver_firstview_simple.tile.length,.diver_firstview_simple.tile.vertical{background-image:linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff), linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff);background-position:5px 5px ,40px 40px;background-size:70px 70px;}.diver_firstview_simple.tile.slant{background-image:linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff), linear-gradient(-45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff);background-size:50px 50px; background-position:25px;}.diver_firstview_simple.grad.length{background:linear-gradient(#fff,#759ab2);}.diver_firstview_simple.grad.vertical{background:linear-gradient(-90deg,#fff,#759ab2);}.diver_firstview_simple.grad.slant{background:linear-gradient(-45deg, #fff,#759ab2);}</style><style>.nav_in_btn li.nav_in_btn_list_1 a{background:#ffffff;color:#333333;}.nav_in_btn li.nav_in_btn_list_2 a{background:#ffffff;color:#333333;}.nav_in_btn li.nav_in_btn_list_3 a{background:#ffffff;color:#333333;}.nav_in_btn li.nav_in_btn_list_4 a{background:#ffffff;color:#333333;}.nav_in_btn ul li {border-left:solid 1px #d4d4d4;}.nav_in_btn ul li:last-child {border-right:solid 1px #d4d4d4;}.nav_in_btn ul li i{font-size:30px;}.d_sp .nav_in_btn ul li{width:100%;}</style><script type="text/javascript" id="eio-lazy-load-js-before">
+/* <![CDATA[ */
+var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":0,"bg_min_dpr":1.100000000000000088817841970012523233890533447265625,"threshold":0,"use_dpr":1};
+//# sourceURL=eio-lazy-load-js-before
+/* ]]> */
+</script>
+<script type="text/javascript"src="https://rekishinoeki.org/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=831&amp;theme=6.1.21" id="eio-lazy-load-js" async="async" data-wp-strategy="async"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-browser-checker-js-after">
+/* <![CDATA[ */
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+//# sourceURL=rocket-browser-checker-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https://rekishinoeki.org","onHoverDelay":"100","rateThrottle":"3"};
+//# sourceURL=rocket-preload-links-js-extra
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+
+//# sourceURL=rocket-preload-links-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket_lazyload_css-js-extra">
+/* <![CDATA[ */
+var rocket_lazyload_css_data = {"threshold":"300"};
+//# sourceURL=rocket_lazyload_css-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket_lazyload_css-js-after">
+/* <![CDATA[ */
+!function o(n,c,a){function u(t,e){if(!c[t]){if(!n[t]){var r="function"==typeof require&&require;if(!e&&r)return r(t,!0);if(s)return s(t,!0);throw(e=new Error("Cannot find module '"+t+"'")).code="MODULE_NOT_FOUND",e}r=c[t]={exports:{}},n[t][0].call(r.exports,function(e){return u(n[t][1][e]||e)},r,r.exports,o,n,c,a)}return c[t].exports}for(var s="function"==typeof require&&require,e=0;e<a.length;e++)u(a[e]);return u}({1:[function(e,t,r){"use strict";{const c="undefined"==typeof rocket_pairs?[]:rocket_pairs,a=(("undefined"==typeof rocket_excluded_pairs?[]:rocket_excluded_pairs).map(t=>{var e=t.selector;document.querySelectorAll(e).forEach(e=>{e.setAttribute("data-rocket-lazy-bg-"+t.hash,"excluded")})}),document.querySelector("#wpr-lazyload-bg-container"));var o=rocket_lazyload_css_data.threshold||300;const u=new IntersectionObserver(e=>{e.forEach(t=>{t.isIntersecting&&c.filter(e=>t.target.matches(e.selector)).map(t=>{var e;t&&((e=document.createElement("style")).textContent=t.style,a.insertAdjacentElement("afterend",e),t.elements.forEach(e=>{u.unobserve(e),e.setAttribute("data-rocket-lazy-bg-"+t.hash,"loaded")}))})})},{rootMargin:o+"px"});function n(){0<(0<arguments.length&&void 0!==arguments[0]?arguments[0]:[]).length&&c.forEach(t=>{try{document.querySelectorAll(t.selector).forEach(e=>{"loaded"!==e.getAttribute("data-rocket-lazy-bg-"+t.hash)&&"excluded"!==e.getAttribute("data-rocket-lazy-bg-"+t.hash)&&(u.observe(e),(t.elements||=[]).push(e))})}catch(e){console.error(e)}})}n(),function(){const r=window.MutationObserver;return function(e,t){if(e&&1===e.nodeType)return(t=new r(t)).observe(e,{attributes:!0,childList:!0,subtree:!0}),t}}()(document.querySelector("body"),n)}},{}]},{},[1]);
+//# sourceURL=rocket_lazyload_css-js-after
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript"data-rocket-src="https://rekishinoeki.org/wp-content/cache/min/1/ajax/libs/lazysizes/4.1.5/plugins/unveilhooks/ls.unveilhooks.min.js?ver=1767386586" id="unveilhooks-js" data-rocket-defer defer></script>
+<script data-minify="1" type="text/javascript"src="https://rekishinoeki.org/wp-content/cache/min/1/ajax/libs/lazysizes/4.1.5/lazysizes.min.js?ver=1767386586" id="lazysize-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript"data-rocket-src="https://rekishinoeki.org/wp-content/cache/min/1/ajax/libs/slick-carousel/1.9.0/slick.min.js?ver=1767386586" id="slick-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript"data-rocket-src="https://rekishinoeki.org/wp-content/cache/min/1/ajax/libs/gsap/2.1.2/TweenMax.min.js?ver=1767386586" id="tweenmax-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript"data-rocket-src="https://rekishinoeki.org/wp-content/cache/min/1/ajax/libs/lity/2.3.1/lity.min.js?ver=1767386586" id="lity-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript"data-rocket-src="https://rekishinoeki.org/wp-content/themes/diver/js/diver.min.js?ver=6.9&amp;theme=6.1.21" id="diver-main-js-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript"data-rocket-src="https://rekishinoeki.org/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-consent-mode-bc2e26cfa69fcd4a8261.js?theme=6.1.21" id="googlesitekit-consent-mode-js" data-rocket-defer defer></script>
+<script data-minify="1" type="text/javascript"src="https://rekishinoeki.org/wp-content/cache/min/1/wp-content/plugins/advanced-ads/admin/assets/js/advertisement.js?ver=1767386586" id="advanced-ads-find-adblocker-js" data-rocket-defer defer></script>
+<!--noptimize--><script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script><!--/noptimize--><script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://rekishinoeki.org/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>		<script type="rocketlazyloadscript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+		<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCLPDS56"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	<script>"use strict";function wprRemoveCPCSS(){var preload_stylesheets=document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]');if(preload_stylesheets&&0<preload_stylesheets.length)for(var stylesheet_index=0;stylesheet_index<preload_stylesheets.length;stylesheet_index++){var media=preload_stylesheets[stylesheet_index].getAttribute("media")||"all";if(window.matchMedia(media).matches)return void setTimeout(wprRemoveCPCSS,200)}var elem=document.getElementById("rocket-critical-css");elem&&"remove"in elem&&elem.remove()}window.addEventListener?window.addEventListener("load",wprRemoveCPCSS):window.attachEvent&&window.attachEvent("onload",wprRemoveCPCSS);</script><noscript><link rel='stylesheet'  href='https://rekishinoeki.org/wp-content/cache/background-css/1/rekishinoeki.org/wp-content/themes/diver/css/style.min.css?ver=6.9&wpr_t=1767487719'  media='all'><link rel='stylesheet'  href='https://rekishinoeki.org/wp-content/themes/diver_child/style.css?theme=6.1.21'  media='all'><link data-minify="1" rel='stylesheet'  href='https://rekishinoeki.org/wp-content/cache/min/1/font-awesome/4.7.0/css/font-awesome.min.css?ver=1762697134'  media='all'><link data-minify="1" rel='stylesheet'  href='https://rekishinoeki.org/wp-content/cache/min/1/ajax/libs/lity/2.3.1/lity.min.css?ver=1762697134'  media='all'></noscript></body>
+</html><style>
+
+</style>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1767455319 -->
