@@ -1,0 +1,2007 @@
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+date: Sat, 03 Jan 2026 16:41:49 GMT
+cross-origin-opener-policy: same-origin-allow-popups
+cross-origin-embedder-policy: unsafe-none
+set-cookie: AWSALB=iNXvBuuueQd0khuRsZTjz/5yq6vZwUArD/RAI4Nx2bgqOCYUXrZxT+ac5WgD8iLIvWc92L6P2UKIvm5PjvlcUR6ooawGnYLjmadD8CLIqp7FGebgErh6Iz7RVq5F; Expires=Sat, 10 Jan 2026 16:41:48 GMT; Path=/
+set-cookie: AWSALBCORS=iNXvBuuueQd0khuRsZTjz/5yq6vZwUArD/RAI4Nx2bgqOCYUXrZxT+ac5WgD8iLIvWc92L6P2UKIvm5PjvlcUR6ooawGnYLjmadD8CLIqp7FGebgErh6Iz7RVq5F; Expires=Sat, 10 Jan 2026 16:41:48 GMT; Path=/; SameSite=None; Secure
+set-cookie: fuelcid=S%3AZBd7eruHhpZMTZaisMoD221aqib4rMi46fUH-oCZ0mF6w-Rp-ngEe8kNZl02oBbzKD7KTAlpYHjtcVbUrHQfQNF9V93t4BABstnkfXbYRnF48BIo5JHKbGXmqHGpX3vdw7R3u_tZDlePcrcGGtm8gYflVqu_oZt7jA7nQKTfk3-yvkEr0aM6rKvSgZdD-vLXpCFvok7iG8Iz-lQ9ocsV-tn6Md05q0lWL8T-hLkVgVut_L07OCp3Jq00CWjlNdGACFSytJxwru4oW4tjUSQ4L5caq3pmmSDsipaE1c7Yr6YCToW6YRQkpKRYLMH_ojqfDhV_iNz8ZLYBTrXx-TFY32-vv1U4cGIRtYNKd8sckUGgA8nQ-AkMglUx6vxQnb5k-AmdeRvTSw38zdF2NB-y04NodHL3NQOKqmtFPw4sLfpKi5nEjcnd-39KRtbHg1qt7lFIY5Vj6yg5sdbpOAtF2bYCmt4f8ghI7OGWVuBzq4spCTCpZ62-3A5RfU7U1hq-GbI%3D; expires=Sat, 03-Jan-2026 18:41:49 GMT; Max-Age=7200; path=/
+server: Apache
+cache-control: max-age=60, stale-while-revalidate=30
+vary: CloudFront-Is-Desktop-Viewer,CloudFront-Is-Mobile-Viewer,Accept-Encoding
+x-cache: Miss from cloudfront
+via: 1.1 43f36fe628062371b0e7725538b714ac.cloudfront.net (CloudFront)
+x-amz-cf-pop: CDG50-P3
+x-amz-cf-id: cveQ2KWpYyge9hQE3O3FfKv-ND07CcZTlfOWj3QtndacZItuw9H8Uw==
+
+<!DOCTYPE HTML>
+<html lang="ja-JP" class="">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<!-- Google Tag Manager -->
+<script>
+var dataLayer = dataLayer || [];
+dataLayer.push({'device': 'PC'});
+
+dataLayer.push({"gallery":"true","tags":["アニメ・漫画","テレビ","声優","ＳＮＳ","からだ","マンガ"],"external-title":"「七つの大罪」声優、1カ月入院&2回の手術へ　人生初の救急車→「顎の骨が折れちゃったみたい」","author":"よろず～ニュース編集部","cp":"よろず〜","pubdate":"2025-12-09T16:10:00+0900","exist-article-more":"true","last-page":"true","exist-next-page":"false","max-page":1});
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=MnjaupTKJqE322o1o4NBcg&gtm_preview=env-1&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MJKZ7HV');</script>
+<!-- End Google Tag Manager -->
+<!-- Dynamic Provisioning -->
+<script async src="//micro.rubiconproject.com/prebid/dynamic/12426.js"></script>
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+
+<script src="//cdn.nexx360.io/usersync.js"></script>
+
+<script>
+    var gptAdSlots = [];
+    var headerBiddingSlots = [];
+    var nonHeaderBiddingSlots = [];
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    var A9_TIMEOUT = 2000;
+    var FAILSAFE_TIMEOUT = 3000;
+  
+    let lazyLoadManager = {};
+    const lazyLabel = 'color: #fff; background: #01c4cc; padding: 1px 4px; border-radius: 3px;';
+
+    var judgeURL = location.href;
+    if (judgeURL.indexOf('/manamon') != -1) {
+        console.log("manamon : true");
+        googletag.cmd.push(function() { googletag.pubads().setTargeting("manamon", "true"); });
+        var script = document.createElement("script");
+        script.src = "https://tagan.adlightning.com/kobe-yorozoo/op.js";
+        script.defer = true;
+        document.head.appendChild(script);
+    }
+</script>
+
+<!-- PC_HEAD部 -->
+<script>
+    window.googletag = window.googletag || { cmd: [] };
+    googletag.cmd.push(function () {
+        gptAdSlots[0] = googletag.defineSlot('/21662775423/yzpc/header', [[728, 90], [970, 250], [1, 1], 'fluid'], 'yzpc-header').addService(googletag.pubads());
+        gptAdSlots[1] = googletag.defineSlot('/21662775423/yzpc/rec1', [[300, 250]], 'yzpc-rec1').addService(googletag.pubads());
+        gptAdSlots[2] = googletag.defineSlot('/21662775423/yzpc/rec3', [[300, 250], [300, 600], 'fluid'], 'yzpc-rec3').addService(googletag.pubads());
+        gptAdSlots[3] = googletag.defineSlot('/21662775423/yzpc/main1_l', [[300, 250], [336, 280]], 'yzpc-main1_l').addService(googletag.pubads());
+        gptAdSlots[4] = googletag.defineSlot('/21662775423/yzpc/main1_r', [[300, 250], [1, 1], 'fluid'], 'yzpc-main1_r').addService(googletag.pubads());
+        gptAdSlots[5] = googletag.defineSlot('/21662775423/yzpc/main2_l', [[300, 250], [336, 280]], 'yzpc-main2_l').addService(googletag.pubads());
+        gptAdSlots[6] = googletag.defineSlot('/21662775423/yzpc/main2_r', [[300, 250], [1, 1], 'fluid'], 'yzpc-main2_r').addService(googletag.pubads());
+  
+        gptAdSlots[10] = googletag.defineSlot('/21662775423/yzpc/nativeRecommend', ['fluid', [1, 1]], 'yzpc-nativeRecommend').addService(googletag.pubads());
+        gptAdSlots[11] = googletag.defineSlot('/21662775423/yzpc/inread', [[1, 1], 'fluid'], 'yzpc-inread').addService(googletag.pubads());
+        gptAdSlots[12] = googletag.defineSlot('/21662775423/yzpc/articleAd', ['fluid'], 'yzpc-articleAd').addService(googletag.pubads());
+        gptAdSlots[13] = googletag.defineOutOfPageSlot('/21662775423/yzpc/interstitial', googletag.enums.OutOfPageFormat.INTERSTITIAL).addService(googletag.pubads());
+  
+        headerBiddingSlots.push(gptAdSlots[0]);
+        headerBiddingSlots.push(gptAdSlots[1]);
+        headerBiddingSlots.push(gptAdSlots[2]);
+        headerBiddingSlots.push(gptAdSlots[3]);
+        headerBiddingSlots.push(gptAdSlots[4]);
+        headerBiddingSlots.push(gptAdSlots[5]);
+        headerBiddingSlots.push(gptAdSlots[6]);
+  
+        nonHeaderBiddingSlots.push(gptAdSlots[10]);
+        nonHeaderBiddingSlots.push(gptAdSlots[11]);
+        nonHeaderBiddingSlots.push(gptAdSlots[12]);
+        nonHeaderBiddingSlots.push(gptAdSlots[13]);
+  
+        googletag.pubads().disableInitialLoad();
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        if (nonHeaderBiddingSlots.length > 0) {
+            googletag.pubads().refresh(nonHeaderBiddingSlots);
+        }
+    });
+  
+    !function (a9, a, p, s, t, A, g) { if (a[a9]) return; function q(c, r) { a[a9]._Q.push([c, r]) } a[a9] = { init: function () { q("i", arguments) }, fetchBids: function () { q("f", arguments) }, setDisplayBids: function () { }, _Q: [] }; A = p.createElement(s); A.async = !0; A.src = t; g = p.getElementsByTagName(s)[0]; g.parentNode.insertBefore(A, g) }("apstag", window, document, "script", "//c.amazon-adsystem.com/aax2/apstag.js");
+    apstag.init({
+        pubID: '3483',
+        adServer: 'googletag'//,
+        //      videoAdServer: 'DFP'
+    });
+
+    var apstagSlots = [{
+        slotID: 'yzpc-header',
+        slotName: "/21662775423/yzpc/header",
+        sizes: [[970, 250], [728, 90]]
+    }, {
+        slotID: 'yzpc-rec1',
+        slotName: "/21662775423/yzpc/rec1",
+        sizes: [[300, 250]]
+    }, {
+        slotID: 'yzpc-rec2',
+        slotName: "/21662775423/yzpc/rec2",
+        sizes: [[300, 250], [300, 600]]
+    }, {
+        slotID: 'yzpc-rec3',
+        slotName: "/21662775423/yzpc/rec3",
+        sizes: [[300, 250], [300, 600]]
+    }, {
+        slotID: 'yzpc-main1_l',
+        slotName: "/21662775423/yzpc/main1_l",
+        sizes: [[300, 250], [336, 280]]
+    }, {
+        slotID: 'yzpc-main1_r',
+        slotName: "/21662775423/yzpc/main1_r",
+        sizes: [300, 250]
+    }, {
+        slotID: 'yzpc-main2_l',
+        slotName: "/21662775423/yzpc/main2_l",
+        sizes: [[300, 250], [336, 280]]
+    }, {
+        slotID: 'yzpc-main2_r',
+        slotName: "/21662775423/yzpc/main2_r",
+        sizes: [300, 250]
+    }
+        //,{
+        //slotID: 'yzpc-inread',
+        //mediaType: 'video'
+        //}
+    ];
+  
+    function demandManagerBids() {
+        var pbLabel = 'color: #fff; background: #2564B3; padding: 1px 4px; border-radius: 3px;';
+        var a9Label = 'color: #EA9624; background: #0B2E35; padding: 1px 4px; border-radius: 3px;';
+        var bidders = ['a9', 'prebid'];
+        var requestManager = {
+            adserverRequestSent: false,
+        };
+
+        bidders.forEach(function (bidder) {
+            requestManager[bidder] = false;
+        });
+
+        function allBiddersBack() {
+            var allBiddersBack = bidders
+                .map(function (bidder) { return requestManager[bidder]; })
+                .filter(function (bool) { return bool; })
+                .length === bidders.length;
+            return allBiddersBack;
+        }
+
+        function headerBidderBack(bidder) {
+            if (requestManager.adserverRequestSent === true) {
+                return;
+            }
+            if (bidder === 'a9') {
+                requestManager.a9 = true;
+                console.info("%c TAM -Kobe", a9Label, "info : A9 recieved");
+            } else if (bidder === 'prebid') {
+                requestManager.prebid = true;
+                console.info("%cPrebid-Kobe", pbLabel, "info : PB recieved");
+            }
+            if (allBiddersBack()) {
+                console.info("%cPrebid-Kobe", pbLabel, " info : All Bid recieved");
+                sendAdserverRequest();
+            }
+        }
+
+        function sendAdserverRequest() {
+            if (requestManager.adserverRequestSent === true) {
+                return;
+            }
+            if (requestManager.prebid !== true) {
+                console.info("%cPrebid-Kobe", pbLabel, "warn : Timeout");
+            }
+            if (requestManager.a9 !== true) {
+                console.info("%c TAM -Kobe", a9Label, "warn : Timeout");
+            }
+            requestManager.adserverRequestSent = true;
+            googletag.cmd.push(function () {
+                apstag.setDisplayBids();
+                googletag.pubads().refresh(headerBiddingSlots);
+                //	ここでrefresh関数をcallする 一旦コメントアウト
+                //  callInitialRefreshAds();
+            });
+        }
+
+        function requestBids() {
+            googletag.cmd.push(function () {
+                pbjs.que.push(function () {
+                    console.info("%cPrebid-Kobe", pbLabel, " info : Prebid ", pbjs.version);
+                    pbjs.rp.requestBids({
+                        callback: function (bidResponses) {
+                            headerBidderBack('prebid');
+                        },
+                        gptSlotObjects: headerBiddingSlots
+                    });
+                });
+            });
+            apstag.fetchBids({
+                slots: apstagSlots,
+                timeout: A9_TIMEOUT
+            }, function (bids) {
+                headerBidderBack('a9');
+            });
+        }
+
+        setTimeout(function () {
+            sendAdserverRequest();
+        }, FAILSAFE_TIMEOUT);
+
+        function callInitialRefreshAds() {
+            if (typeof retry === 'undefined') retry = 0;
+            console.log("callInitialRefreshAds: " + retry);
+            if (retry > 50) {
+                console.log("callInitialRefreshAds retry over");
+                return;
+            }
+            if (typeof initialRefreshAds === 'function') {
+                initialRefreshAds();
+            } else {
+                setTimeout(function () {
+                    callInitialRefreshAds(++retry);
+                }, 50)
+            }
+        }
+        requestBids();
+    }
+    demandManagerBids();
+</script>
+
+<script src="//public.potaufeu.asahi.com/yorozoonews/common/js/jquery-3.3.1.min.js"></script>
+<script src="//public.potaufeu.asahi.com/yorozoonews/common/js/jquery.inview.min.js"></script>
+
+<!-- Browsi -->
+<script src="https://cdn.browsiprod.com/bootstrap/bootstrap.js" id="browsi-tag" data-pubKey="kobeshimbun" data-siteKey="yorozoonews" async></script>
+<script>
+    window.browsitag = window.browsitag || {};
+    window.browsitag.cmd = window.browsitag.cmd || [];
+</script>
+
+<!-- YDN -->
+<script type="text/javascript" src="//yads.c.yimg.jp/js/yads-async.js"></script>
+
+<!-- ID5 config -->
+<script>
+    window.ID5EspConfig = {
+        partnerId: 521
+    };
+</script>
+
+<!--  GMOソース  -->
+<script src="//cdn.gmossp-sp.jp/ads/loader.js?space_id=g938323" charset="utf-8" language="JavaScript"></script>
+
+<!--  Geniee  -->
+<script src="https://works.gsspcln.jp/w/m214471/interstitial/head.js"></script>
+
+<!-- Selectmedia用KeyValue設定 -->
+<script>
+    var Urlpath = location.pathname;
+    console.log(Urlpath);
+
+    var obj2 = { "yz_UrlPath": Urlpath };
+    googletag.cmd.push(function () {
+        Object.keys(obj2).forEach(function (key) {
+            googletag.pubads().setTargeting(key, obj2[key]);
+        });
+    });
+</script>
+
+<!-- SpotlightAds -->
+<script>
+if (Array.isArray(dataLayer[1].tags) && !dataLayer[1].tags.includes('ギリギリ')) {
+	var spotlightAds = document.createElement("script");
+	spotlightAds.src = "https://contextual.media.net/dmedianet.js?cid=8CUD24PR2";
+	spotlightAds.async = true;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(spotlightAds, s);
+
+	window._mNHandle = window._mNHandle || {};
+	window._mNHandle.queue = window._mNHandle.queue || [];
+	medianet_versionId = "3121199";
+}
+</script>
+
+<!-- Sovrn //Connect Container: yorozoonews.jp -->
+<script src="//get.s-onetag.com/b37009b1-a041-4df7-ae3f-7daf82648e11/tag.min.js" async defer></script>
+
+
+<script>
+  var obj = {"yz_preview":"false","yz_pagetype":"article","yz_env":"production","yz_gallery":"true","yz_tags":["アニメ・漫画","テレビ","声優","ＳＮＳ","からだ","マンガ"],"yz_ads":"false","yz_photo":"false"};
+  googletag.cmd.push(function() {
+    googletag.pubads().enableSingleRequest();
+    // googletag.pubads().disableInitialLoad();
+
+    Object.keys(obj).forEach(function (key) {
+      googletag.pubads().setTargeting(key, obj[key]);
+    });
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>「七つの大罪」声優、1カ月入院&amp;2回の手術へ　人生初の救急車→「顎の骨が折れちゃったみたい」｜よろず〜ニュース</title>
+  <meta name="description" content="　声優で舞台俳優の高木裕平が9日、自身のX（旧ツイッター）を更新。あごを骨折し、入院することを明かした。　高木は5日に「人生で初めて救急車で運ばれてしまいました 顎の骨が折れちゃったみたいで…」とあごの骨折を公表していた。骨折の公表から4日…">
+  <meta property="og:url" content="https://yorozoonews.jp/article/16211912">
+  <meta property="og:title" content="「七つの大罪」声優、1カ月入院&amp;2回の手術へ　人生初の救急車→「顎の骨が折れちゃったみたい」｜よろず〜ニュース">
+  <meta property="og:type" content="article">
+  <meta property="og:description" content="　声優で舞台俳優の高木裕平が9日、自身のX（旧ツイッター）を更新。あごを骨折し、入院することを明かした。　高木は5日に「人生で初めて救急車で運ばれてしまいました 顎の骨が折れちゃったみたいで…」とあごの骨折を公表していた。骨折の公表から4日…">
+  <meta property="og:image" content="https://p.potaufeu.asahi.com/8fa1-p/picture/28481674/b34358ccbea81683793509c3439fb243.jpg">
+  <meta property="og:image:alt" content="※写真はイメージです　Zamrznuti-tonovi／stock.adobe.com">
+  <meta property="og:site_name" content="よろず〜ニュース">
+  <meta property="og:image:width" content="960">
+  <meta property="og:image:height" content="640">
+  <meta property="og:locale" content="ja_JP">
+  <meta name="article:publisher" content="https://www.facebook.com/yorozoonews/">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@yorozoonews">
+  <meta property="fb:app_id" content="">
+  <meta name="robots" content="max-image-preview:large">
+    	  <link rel="canonical" href="https://yorozoonews.jp/article/16211912">
+    <!--link rel="amphtml" href="https://yorozoonews.jp/article/16211912?amp=1"--><!--not implemented-->
+
+<!-- <link rel="manifest" href="site.webmanifest"> -->
+<link rel="shortcut icon" href="//p.potaufeu.asahi.com/yorozoonews/favicon.ico" />
+<link rel="apple-touch-icon" href="//p.potaufeu.asahi.com/yorozoonews/apple-touch-icon2.png">
+<link rel="icon" href="//p.potaufeu.asahi.com/yorozoonews/apple-touch-icon.png">
+<link type="text/css" rel="stylesheet" href="//p.potaufeu.asahi.com/yorozoonews/common/css/reset.css?4a867e17310e017fa5dc6433cf497d0f" />
+
+<link type="text/css" rel="stylesheet" href="//p.potaufeu.asahi.com/yorozoonews/pc/css/pc-common.css?560784090edd0165d03cd7a5ad623616" />
+
+<link type="text/css" rel="stylesheet" href="//p.potaufeu.asahi.com/yorozoonews/vendor/slick/slick.css?f38b2db10e01b1572732a3191d538707" />
+
+<link type="text/css" rel="stylesheet" href="//p.potaufeu.asahi.com/yorozoonews/vendor/slick/slick-theme.css?f9faba678c4d6dcfdde69e5b11b37a2e" />
+
+</head>
+
+<body class="">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJKZ7HV&gtm_auth=MnjaupTKJqE322o1o4NBcg&gtm_preview=env-1&gtm_cookies_win=x"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+  <noscript>
+    <div class="noscript">このWebサイトの全ての機能を利用するためにはJavaScriptを有効にする必要があります。</div>
+  </noscript>
+
+  <!-- contents -->
+  <div class="layout-wrapper" id="wrapper">
+
+<header class="layout-header" id="header">
+  <div class="layout-header__inner">
+      	  
+    <div class="layout-header-logo">
+      <a class="layout-header-logo__site" href="/"><img src="//p.potaufeu.asahi.com/yorozoonews/common/img/logo.svg" alt="よろず〜ニュース" width="206" height="53" />
+</a>
+      
+      <a class="layout-header-logo__site_manamon" href="/manamon"><img src="//p.potaufeu.asahi.com/yorozoonews/common/img/face_manamon.svg" alt="まなモン" width="130" height="53" />
+</a>
+      <aside class="layout-header-logo__aside">
+        <form method="get" action="/search" class="module-header-search-form" id="js-header-search-form">
+          <input type="text" name="word" placeholder="何をお探しですか？" class="module-header-search-form__keyword">
+          <input type="submit" value="検索" class="module-header-search-form__submit">
+        </form>
+        <ul class="module-header-sns">
+          <li class="module-header-sns__item"><a href="https://twitter.com/yorozoonews" target="_blank">
+          <img src="//p.potaufeu.asahi.com/yorozoonews/common/img/icon_x.svg" alt="X" class="module-header-icon--twitter" width="30" height="30" />
+</a></li>
+          <li class="module-header-sns__item"><a href="https://www.facebook.com/yorozoonews" target="_blank">
+          <img src="//p.potaufeu.asahi.com/yorozoonews/common/img/icon_facebook.svg" alt="Facebook" class="module-header-icon--facebook" width="30" height="30" />
+</a></li>
+        </ul>
+      </aside><!-- .layout-header-logo__aside -->
+    </div><!-- .layout-header-logo -->
+
+ 
+    <div class="layout-header-menu" id="js-header-menu">
+      <div class="layout-header-menu__inner">
+        <nav class="layout-header-nav" id="js-layout-header-nav">
+          <dl class="module-header-nav">
+            <dt class="module-header-nav__title">ニュース一覧</dt>
+            <dd class="module-header-nav__list">
+              <ul class="module-header-nav-list">
+                <li class="module-header-nav-list__item"><a href="/">トップ</a></li>
+                <li class="module-header-nav-list__item manamon"><a href="/manamon">まなモン</a></li>
+                                            <li class="module-header-nav-list__item"><a href="/tag/フォト">フォト</a></li>
+                                            <li class="module-header-nav-list__item"><a href="/tag/海外エンタメ">海外</a></li>
+                                            <li class="module-header-nav-list__item"><a href="/tag/都市伝説">都市伝説</a></li>
+                                            <li class="module-header-nav-list__item"><a href="/tag/アニメ">アニメ・漫画</a></li>
+                                            <li class="module-header-nav-list__item"><a href="/tag/ゲーム">ゲーム</a></li>
+            <!-- 連載がある程度増えたら復活させる
+                <li class="module-header-nav-list__item"><a href="/series">連載・特集</a></li>
+ -->
+              </ul>
+            </dd>
+          </dl><!-- .module-header-nav -->
+        </nav><!-- .layout-header-nav -->
+      </div><!-- .layout-header-menu__inner -->
+    </div><!-- .layout-header-menu -->
+
+
+    <div class="layout-header-search" id="js-header-search">
+      <div class="layout-header-search__inner">
+        <nav class="layout-header-tag" id="js-layout-header-tag">
+          <dl class="module-header-tag">
+            <dt class="module-header-tag__title">注目ワード</dt>
+            <dd class="module-header-tag__list cfix">
+            <ul class="module-header-tag-list">
+              
+                                                            
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/テレビ">テレビ</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/エンタメ">エンタメ</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/ＳＮＳ">ＳＮＳ</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/ファミリー">ファミリー</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/芸人">芸人</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/IT・科学">IT・科学</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/アイドル">アイドル</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/マネー">マネー</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/オタク">オタク</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/お仕事">お仕事</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/芸能人">芸能人</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/からだ">からだ</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/ひと">ひと</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/くらし">くらし</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/どうぶつ">どうぶつ</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/東京">東京</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/神奈川">神奈川</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/のりもの">のりもの</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/社会">社会</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/スポーツ">スポーツ</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/ミュージック">ミュージック</a></li>
+                                                              
+                                                                                  <li class="module-header-tag-list__item"><a href="/tag/ファッション">ファッション</a></li>
+                                                              <li class="module-header-tag-list__item--button"><a href="/tag">もっと見る</a></li>
+              </ul>
+            </dd>
+          </dl><!-- .module-header-tag -->
+        </nav><!-- .layout-header-tag -->
+      </div>
+    </div><!-- .layout-header-search -->
+
+  </div>
+</header><!-- .layout-header -->
+
+
+
+<div class="module-ad-header">
+  <div class="module-ad-header__item"><!-- /21662775423/yzpc/header -->
+<div id='yzpc-header'>
+    <script>
+        googletag.cmd.push(function() { googletag.display('yzpc-header'); });
+    </script>
+  <a href="https://townlife-aff.com/link.php?i=691fbc5ac8389&m=69143b31af2e9" >
+    <div style="width:970px;height:250px;">
+        <img border="0" src="//p.potaufeu.asahi.com/yorozoonews/ads/akiya_b_970x250.jpg" style="width:100%;height:100%;" alt="akiya_b">
+    </div>
+</a>
+</div>
+
+<!-- YZ Interstitial -->
+<!-- Intertstitial & Overlay -->
+<div id="yzpc-overlay"></div>
+<script src="//cdn.gmossp-sp.jp/ads/loader.js?space_id=g938323" charset="utf-8" language="JavaScript"></script>
+<script async src="https://cdn.gmossp-sp.jp/js/async/g931924/gc.js"></script>
+<script async src="https://cdn.gmossp-sp.jp/js/async/g947029/gc.js"></script>
+<script async src="https://cdn.gmossp-sp.jp/js/async/g947147/gc.js"></script>
+<script data-ca-profitx-pageid="36165" src="https://cdn.caprofitx.com/media/5204/pfx.js" type="text/javascript" charset="utf-8" data-ca-profitx-js async></script>
+<script data-ca-profitx-pageid="36851" src="https://cdn.caprofitx.com/media/5204/pfx.js" type="text/javascript" charset="utf-8" data-ca-profitx-js async></script>
+<script data-ca-profitx-pageid="37769" src="https://cdn.caprofitx.com/media/5204/pfx.js" type="text/javascript" charset="utf-8" data-ca-profitx-js async></script>
+<script>
+    const adLabel = 'color: #FFD500; text-shadow:1px 1px 0 #000,-1px 1px 0 #000,1px -1px 0 #000,-1px -1px 0 #000; background: #00219A; padding: 1px 4px; border-radius: 3px;';
+
+    function getCookie(name) {
+        cookies = document.cookie.split('; ');
+        for (var i = 0, l = cookies.length; i < l; i++) {
+            if (cookies[i].indexOf(name + '=') === 0) {
+                return cookies[i].substring(name.length + 1);
+            }
+        }
+        return false;
+    }
+    function getParam(name, url) {
+        if (!url)
+            url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)")
+            , results = regex.exec(url);
+        if (!results)
+            return null;
+        if (!results[2])
+            return '';
+        return decodeURIComponent(results[2].replace(/\+/g, " "));
+    }
+    function getRandomIntInclusive(min, max) {
+        min = Math.ceil(min);
+        max = Math.floor(max);
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+    function isInterstitialRestricted() {
+        return false;
+    }
+
+    var matchURL = window.location.href.match(".+/(\\d+)(?:\\?|$)");
+    var pageIdentity = matchURL ? matchURL[1] : null;
+    if (getParam('p')) {
+        pageFlg = pageIdentity + "P";
+    } else if (getParam('page')) {
+        pageFlg = pageIdentity + "A";
+    } else {
+        pageFlg = pageIdentity;
+    }
+    console.info("%c YZads ", adLabel, "pageFlg : " + pageFlg);
+
+    if (judgeURL.indexOf('/manamon') != -1) {
+        pageFlg = null;
+    }
+    if (pageFlg !== null && !getCookie("kobeInHouse")) {
+        if (/^https:\/\/yorozoonews\.jp\//.test(document.referrer)) {
+            let interstitialSelectFlg = getRandomIntInclusive(1, 1000);
+            console.info("%c YZads ", adLabel, "interstitial RandomInt : ", interstitialSelectFlg);
+            if (interstitialSelectFlg <= 300) {
+                interstitialPFX(0);
+            } else if (interstitialSelectFlg <= 700) {
+                interstitialGMO();
+            } else {
+                interstitialGeniee();
+            }
+        } else {
+            if (document.referrer !== 'https://news.yahoo.co.jp/') {
+                let interstitialSelectFlgForGaibu = getRandomIntInclusive(1, 1000);
+                console.info("%c YZads ", adLabel, "interstitialForGaibu RandomInt : ", interstitialSelectFlgForGaibu);
+                if (interstitialSelectFlgForGaibu <= 300) {
+                    interstitialPFX(1);
+                } else if (interstitialSelectFlgForGaibu <= 900) {
+                    interstitialGeniee();
+                } else {
+                    interstitialRISE_gaibu();
+                }
+            } else {
+                interstitialPFX(2);
+            }
+        }
+    }
+
+    function interstitialPFX(type) {
+        console.info("%c YZads ", adLabel, "interstitial : PFX Type = " + type);
+        if (type === 0) {
+            var pfxhtmlNaibu = `<div class="ca_profitx_ad_container ca_profitx_mediaid_5204 ca_profitx_pageid_36165">
+                                    <div class="ca_profitx_ad" data-ca-profitx-ad data-ca-profitx-tagid="40440" data-ca-profitx-spotid="pfxad_40440" data-ca-profitx-pageid="36165"></div>
+                                    <div class="ca_profitx_ad" data-ca-profitx-ad data-ca-profitx-tagid="40441" data-ca-profitx-spotid="pfxad_40441" data-ca-profitx-pageid="36165"></div>
+                                </div>`;
+            document.getElementsByTagName("body")[0].insertAdjacentHTML("afterbegin", pfxhtmlNaibu);
+        } else if (type === 1) {
+            var pfxhtmlGaibu = `<div class="ca_profitx_ad_container ca_profitx_mediaid_5204 ca_profitx_pageid_36851">
+                                    <div class="ca_profitx_ad" data-ca-profitx-ad data-ca-profitx-tagid="43077" data-ca-profitx-spotid="pfxad_43077" data-ca-profitx-pageid="36851"></div>
+                                    <div class="ca_profitx_ad" data-ca-profitx-ad data-ca-profitx-tagid="43078" data-ca-profitx-spotid="pfxad_43078" data-ca-profitx-pageid="36851"></div>
+                                </div>`;
+            document.getElementsByTagName("body")[0].insertAdjacentHTML("afterbegin", pfxhtmlGaibu);
+        } else {
+            var pfxhtmlGaibuY = `<div class="ca_profitx_ad_container ca_profitx_mediaid_5204 ca_profitx_pageid_37769">
+                                    <div class="ca_profitx_ad" data-ca-profitx-ad data-ca-profitx-tagid="45809" data-ca-profitx-spotid="pfxad_45809" data-ca-profitx-pageid="37769"></div>
+                                    <div class="ca_profitx_ad" data-ca-profitx-ad data-ca-profitx-tagid="45810" data-ca-profitx-spotid="pfxad_45810" data-ca-profitx-pageid="37769"></div>
+                                 </div>`;
+            document.getElementsByTagName("body")[0].insertAdjacentHTML("afterbegin", pfxhtmlGaibuY);
+        }
+
+        var set_interval_id = setInterval(findTargetElement, 200);
+        var retry_counter = 0;
+        function findTargetElement() {
+            console.info("%c YZads ", adLabel, "PFX_retry_counter : ", retry_counter);
+            retry_counter++;
+            // 要素がMAXリトライ値になっても見つからない場合、インターバルを削除
+            if (retry_counter > 30) {
+                clearInterval(set_interval_id);
+                overlayCall();
+                console.info("%c YZads ", adLabel, "PFX_retry_counter : timeout");
+            }
+            var diff_container_elements = null;
+            var pfxiframe = document.getElementsByClassName("profitx-ad-frame-markup pfx-renderer-observed")[0];
+            if (pfxiframe) {
+                if (pfxiframe.contentWindow.document) {
+                    diff_container_elements = pfxiframe.contentWindow.document.getElementById('pfx_interstitial_close');
+                }
+            }
+            if (diff_container_elements != null) {
+                clearInterval(set_interval_id);
+                diff_container_elements.addEventListener('mouseup', function() {
+                    overlayCall();
+                });
+                console.info("%c YZads ", adLabel, "PFX_retry_counter : stopped");
+            }
+        }
+    }
+
+    function interstitialGeniee() {
+        console.info("%c YZads ", adLabel, " interstitial : Geniee");
+        var genieeScript = document.createElement("script");
+        genieeScript.innerHTML = 'gnsinstlib.interstitialRendered()';
+        var genieebody = document.getElementsByTagName("body")[0];
+        genieebody.appendChild(genieeScript);
+
+        var set_interval_id = setInterval(findTargetElement, 200);
+        var retry_counter = 0;
+        function findTargetElement() {
+            console.info("%c YZads ", adLabel, "Geniee_retry_counter : ", retry_counter);
+            retry_counter++;
+            // 要素がMAXリトライ値になっても見つからない場合、インターバルを削除
+            if (retry_counter > 30) {
+                clearInterval(set_interval_id);
+                overlayCall();
+                console.info("%c YZads ", adLabel, "Geniee_retry_counter : timeout");
+            }
+            var diff_container_elements = null;
+            var genieeiframe = document.getElementById('iframeContent');
+            if (genieeiframe) {
+                if (genieeiframe.contentWindow.document) {
+                    diff_container_elements = genieeiframe.contentWindow.document.getElementById('gn_ydn_interstitial_btn');
+                }
+            }
+            if (diff_container_elements != null) {
+                clearInterval(set_interval_id);
+                diff_container_elements.addEventListener('mouseup', function() {
+                    overlayCall();
+                });
+                console.info("%c YZads ", adLabel, "Geniee_retry_counter : stopped");
+            }
+        }
+    }
+
+    function interstitialGMO() {
+        console.info("%c YZads ", adLabel, "interstitial : GMOSSP");
+        var gmodiv = document.createElement("div");
+        gmodiv.className = "gmossp_core_g931924";
+        var gmoscript = document.createElement("script");
+        gmoscript.textContent = `
+        window.Gmossp = window.Gmossp || {};
+        window.Gmossp.events = window.Gmossp.events || [];
+        window.Gmossp.events.push({
+            sid: "g931924",
+        });
+        `;
+        gmodiv.appendChild(gmoscript);
+        var body = document.getElementsByTagName("body")[0];
+        body.appendChild(gmodiv);
+
+        var set_interval_id = setInterval(findTargetElement, 200);
+        var retry_counter = 0;
+        function findTargetElement() {
+            console.info("%c YZads ", adLabel, "GMO_retry_counter : ", retry_counter);
+            retry_counter++;
+            // 要素がMAXリトライ値になっても見つからない場合、インターバルを削除
+            if (retry_counter > 30) {
+                clearInterval(set_interval_id);
+                overlayBids();
+                console.info("%c YZads ", adLabel, "GMO_retry_counter : timeout");
+            }
+            var diff_container_elements = null;
+            var gmoiframe = document.getElementsByClassName("gmossp_core_g931924")[0].getElementsByTagName("iframe")[0];
+            if (gmoiframe) {
+                if (gmoiframe.contentWindow.document.getElementsByClassName('gmoyda gmoam_close_button')[0]) {
+                    diff_container_elements = gmoiframe.contentWindow.document.getElementsByClassName('gmoyda gmoam_close_button')[0];
+                }
+            }
+            if (diff_container_elements != null) {
+                clearInterval(set_interval_id);
+                diff_container_elements.addEventListener('mouseup', function() {
+                    overlayBids();
+                });
+                console.info("%c YZads ", adLabel, "GMO_retry_counter : stopped");
+            }
+        }
+    }
+
+    function interstitialGMO_gaibu() {
+        console.info("%c YZads ", adLabel, "interstitial : GMO_gaibu");
+        var gmodiv = document.createElement("div");
+        gmodiv.className = "gmossp_core_g947029";
+        var gmoscript = document.createElement("script");
+        gmoscript.textContent = `
+        window.Gmossp = window.Gmossp || {};
+        window.Gmossp.events = window.Gmossp.events || [];
+        window.Gmossp.events.push({
+            sid: "g947029",
+        });
+        `;
+        gmodiv.appendChild(gmoscript);
+        var body = document.getElementsByTagName("body")[0];
+        body.appendChild(gmodiv);
+
+        var set_interval_id = setInterval(findTargetElement, 200);
+        var retry_counter = 0;
+        function findTargetElement() {
+            console.info("%c YZads ", adLabel, "GMO_retry_counter : ", retry_counter);
+            retry_counter++;
+            // 要素がMAXリトライ値になっても見つからない場合、インターバルを削除
+            if (retry_counter > 30) {
+                clearInterval(set_interval_id);
+                overlayCall();
+                console.info("%c YZads ", adLabel, "GMO_retry_counter : timeout");
+            }
+            var diff_container_elements = null;
+            var gmoiframe = document.getElementsByClassName("gmossp_core_g947029")[0].getElementsByTagName("iframe")[0];
+            if (gmoiframe) {
+                if (gmoiframe.contentWindow.document.getElementsByClassName('gmoyda gmoam_close_button')[0]) {
+                    diff_container_elements = gmoiframe.contentWindow.document.getElementsByClassName('gmoyda gmoam_close_button')[0];
+                }
+            }
+            if (diff_container_elements != null) {
+                clearInterval(set_interval_id);
+                diff_container_elements.addEventListener('mouseup', function() {
+                    overlayCall();
+                });
+                console.info("%c YZads ", adLabel, "GMO_retry_counter : stopped");
+            }
+        }
+    }
+
+    function interstitialRISE_gaibu() {
+        console.info("%c YZads ",adLabel, " interstitial : RISE_gaibu");
+        var riseDiv = document.createElement('div');
+        riseDiv.id = "ads-ADU-5AB0F7RP";
+        var body = document.getElementsByTagName("body")[0];
+        body.appendChild(riseDiv);
+        (function(w,d,s,i){w.adunitlength?w.adunitlength.push('ADU-5AB0F7RP'):w.adunitlength=['ADU-5AB0F7RP'];var f=d.getElementsByTagName(s)[0],j=d.createElement(s);j.async=true;j.src='https://rise.enhance.co.jp/adu.js?id='+i + '&matwName=matw_uuid' + '&clientTime=' + (new Date()).getTime();f.parentNode.insertBefore(j,f);})(window,document,'script','ADU-5AB0F7RP');
+
+        var set_interval_id = setInterval(findTargetElement, 200);
+        var retry_counter = 0;
+        function findTargetElement() {
+            console.info("%c YZads ",adLabel, " RISE_retry_counter : ",retry_counter);
+            retry_counter++;
+            // 要素がMAXリトライ値になっても見つからない場合、インターバルを削除
+            if(retry_counter > 30) {
+                clearInterval(set_interval_id);
+                overlayCall();
+                console.info("%c YZads ",adLabel, " RISE_retry_counter : ",retry_counter);
+            }
+            var diff_container_elements = null;
+            var risearea = document.getElementById('rise-interstitial-area');
+            if (risearea) {
+                var riseiframe = risearea.getElementsByTagName('iframe')[0];
+                if (riseiframe) {
+                    if (riseiframe.contentWindow.document.getElementById('rise-close-text-base')) {
+                        diff_container_elements = riseiframe.contentWindow.document.getElementById('rise-close-text-base');
+                    }
+                }
+            }
+            if(diff_container_elements!= null) {
+                clearInterval(set_interval_id);
+                diff_container_elements.addEventListener('mouseup', function() {
+                    overlayCall();
+                });
+                console.info("%c YZads ",adLabel, " RISE_retry_counter : stopped");
+            }
+        }
+    }
+
+    function overlayCall() {
+        let overlaySelectFlg = getRandomIntInclusive(1, 10);
+        console.info("%c YZads ", adLabel, "Overlay RandomInt : ", overlaySelectFlg);
+        if (overlaySelectFlg <= 5) {
+            overlayTag();
+        } else {
+            overlayBids();
+        }
+    }
+
+    function overlayTag() {
+        var target = document.body || document.getElementsByTagName("body")[0];
+        if (!target) return;
+
+        var container = document.createElement('div');
+        container.className = 'gmossp_core_g947147';
+
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.text = `
+          window.Gmossp = window.Gmossp || {};
+          window.Gmossp.events = window.Gmossp.events || [];
+          window.Gmossp.events.push({ sid: "g947147" });
+        `;
+
+        container.appendChild(s);
+        target.appendChild(container);
+        console.info("%c YZads ", adLabel, "Overlay : Gmossp");
+    }
+
+    function overlayBids() {
+        var lazyLabel = 'color: #fff; background: #01c4cc; padding: 1px 4px; border-radius: 3px;';
+        var overlayAdSlots = [];
+        var overlayBiddingSlots = [];
+        googletag.cmd.push(function () {
+            overlayAdSlots[0] = googletag.defineSlot('/21662775423/yzpc/overlay', [1, 1], 'yzpc-overlay').addService(googletag.pubads());
+            overlayBiddingSlots.push(overlayAdSlots[0]);
+        });
+
+        var overlayBidders = ['prebid'];
+        var overlayRequestManager = {
+            adserverRequestSent: false,
+        };
+        overlayBidders.forEach(function (bidder) {
+            overlayRequestManager[bidder] = false;
+        });
+
+        function overlayAllBiddersBack() {
+            var overlayAllBiddersBack = overlayBidders
+            .map(function (bidder) { return overlayRequestManager[bidder]; })
+            .filter(function (bool) { return bool; })
+            .length === overlayBidders.length;
+            return overlayAllBiddersBack;
+        }
+
+        function overlayHeaderBidderBack(bidder) {
+            if (overlayRequestManager.adserverRequestSent === true) {
+                return;
+            }
+            if (bidder === 'prebid') {
+                overlayRequestManager.prebid = true;
+                console.log("%c YZads ", adLabel, " Overlay : PB recieved ");
+            }
+            if (overlayAllBiddersBack()) {
+                console.log("%c YZads ", adLabel, " Overlay : All Bid recieved ");
+                overlaySendAdserverRequest();
+            }
+        }
+
+        function overlaySendAdserverRequest() {
+            if (overlayRequestManager.adserverRequestSent === true) {
+                return;
+            }
+
+            if (overlayRequestManager.prebid !== true) {
+                console.info("%c YZads ", adLabel, "Overlay : PB Timeout");
+            }
+
+            overlayRequestManager.adserverRequestSent = true;
+        }
+
+        if (!isInterstitialRestricted()) {
+            googletag.cmd.push(function () {
+                googletag.pubads().refresh(overlayBiddingSlots);
+            });
+        }
+
+        function overlayRequestBids() {
+            pbjs.que.push(function () {
+                pbjs.rp.requestBids({
+                    callback: function (bidResponses) {
+                        overlayHeaderBidderBack('prebid');
+                    },
+                    gptSlotObjects: overlayBiddingSlots
+                });
+            });
+        }
+        overlayRequestBids();
+    }
+</script>
+
+<!-- ブラウザバック広告 -->
+<script>
+    var BrowserbackAdLabel = 'color: #000; background: #0073ff; padding: 1px 4px; border-radius: 3px;';
+    var targetDiv = document.getElementById("yzpc-header");
+    var parentTargetDiv = targetDiv.parentNode;
+
+    function browserbackAds() {
+        insertProfitxAds();
+        setbrowserbackOutbrainAds();
+        let adsSelectFlg = getRandomIntInclusive(1, 100);
+        if (adsSelectFlg <= 50) {
+
+        } else {
+
+        }
+    }
+
+    function insertProfitxAds({
+        mediaId = "5204",
+        pageId = "37466",
+        tagIds = [44978, 44979],
+        target = document.body,
+        position = "beforeend",
+    } = {}) {
+        const container = document.createElement("div");
+        container.className = `ca_profitx_ad_container ca_profitx_mediaid_${mediaId} ca_profitx_pageid_${pageId}`;
+        tagIds.forEach((id) => {
+            const ad = document.createElement("div");
+            ad.className = "ca_profitx_ad";
+            ad.setAttribute("data-ca-profitx-ad", "");
+            ad.setAttribute("data-ca-profitx-tagid", String(id));
+            ad.setAttribute("data-ca-profitx-spotid", `pfxad_${id}`);
+            ad.setAttribute("data-ca-profitx-pageid", pageId);
+            container.appendChild(ad);
+        });
+        parentTargetDiv.insertBefore(container, targetDiv.nextSibling);
+    }
+
+    function setbrowserbackOutbrainAds() {
+        var OutbrainDiv = document.createElement("div");
+        OutbrainDiv.className = "OUTBRAIN";
+        OutbrainDiv.setAttribute("data-src", "DROP_PERMALINK_HERE");
+        OutbrainDiv.setAttribute("data-widget-id", "AR_10");
+        OutbrainDiv.id = 'OutbrainDiv';
+        var OutbrainScript = document.createElement('script');
+        OutbrainScript.type = "text/javascript";
+        OutbrainScript.async = true;
+        OutbrainScript.src = "//widgets.outbrain.com/outbrain.js";
+        parentTargetDiv.insertBefore(OutbrainDiv, targetDiv.nextSibling);
+        parentTargetDiv.insertBefore(OutbrainScript, targetDiv.nextSibling);
+        console.log("%c Browser ", BrowserbackAdLabel, " ads : OB insert");
+    }
+
+    function setbrowserbackGMOAds() {
+        var GMODiv = document.createElement("div");
+        GMODiv.id = "gmo_bb_recommend";
+        GMODiv.style = "display:none";
+        parentTargetDiv.insertBefore(GMODiv, targetDiv.nextSibling);
+        (function () {
+            let isFromCrossHost = document.referrer
+            ? new URL(document.referrer).host !== location.host
+            : true;
+            if (!isFromCrossHost) {
+                console.log("BB recommend is not allowed.");
+                return;
+            }
+            let bb_url_list = sessionStorage.getItem('taxel_bb_url') ? sessionStorage.getItem('taxel_bb_url') : '';
+            let bb_url = window.location.pathname + ';';
+            if (bb_url_list.indexOf(bb_url) === -1) {
+                console.log("add history and change state.");
+                sessionStorage.setItem('taxel_bb_url', bb_url_list + bb_url);
+                history.replaceState('addedHistory', null, null);
+                history.pushState(null, null, document.URL);
+            }
+            console.log("add popstate event.");
+            window.addEventListener("popstate", function (e) {
+                if (e.state === 'addedHistory') {
+                    sessionStorage.setItem('taxel_bb_url', bb_url_list.replace(bb_url, ""));
+                    console.log("delete bb_url");
+                    console.log("request leave recommend.");
+                    let removeDivs = document.querySelectorAll("[id^='gmo_rw_']");
+                    removeDivs.forEach(div => {
+                        div.remove();
+                    });
+                    let scripts = document.getElementsByTagName("script");
+                    [...scripts].forEach(script => {
+                        if (script.src.indexOf("//cdn.taxel.jp/1080/rw.js") >= 0) {
+                            script.remove();
+                        }
+                    });
+                    let div = document.createElement("div");
+                    div.id = "gmo_rw_14546";
+                    div.dataset.gmoad = "rw";
+                    let s = document.createElement("script");
+                    s.src = "//cdn.taxel.jp/1080/rw.js";
+                    s.type = "text/javascript";
+                    s.async = true;
+                    document.getElementById("gmo_bb_recommend").appendChild(div);
+                    document.getElementById("gmo_bb_recommend").appendChild(s);
+                    setTimeout(function () {
+                        document.getElementById("gmo_rw_14546").classList.add("bb_recommend");
+                        document.getElementById("gmo_bb_recommend").style.display = "block";
+                        document.body.style.overflow = 'hidden';
+                        window.scrollTo(0, 0);
+                        let d = document.getElementById("gmo_bb_recommend");
+                        let event = new Event("scroll");
+                        d.dispatchEvent(event);
+                    }, 100);
+                }
+            });
+        })();
+        console.log("%c Browser ", BrowserbackAdLabel, " ads : GMO insert");
+    }
+
+    if (judgeURL.indexOf('/manamon') === -1) {
+        browserbackAds();
+    } 
+</script>
+
+<style type="text/css">
+    .bb_recommend {
+        position: fixed;
+        inset: 0px;
+        display: block;
+        box-sizing: border-box;
+        margin: auto;
+        background-color: #fff;
+        overflow: hidden scroll;
+        z-index: 2147483647;
+    }
+    [id^="mn_ovl_"] {
+        z-index: 2147483000 !important;
+    }
+</style></div>
+</div><!-- .module-ad-header -->
+
+  <div class="layout-contents">
+   
+    <main class="layout-main" id="main">
+
+
+                
+            <nav>
+  <ol class="module-breadcrumb">
+    <li class="module-breadcrumb__item"><a href="/"><span>トップ</span></a></li>
+            <li class="module-breadcrumb__item">
+        <a href="/tag/アニメ"><span>アニメ・漫画</span></a>
+    </li>
+            <li class="module-breadcrumb__item"><span>&#12300;&#19971;&#12388;&#12398;&#22823;&#32618;&#12301;&#22768;&#20778;&#12289;1&#12459;&#26376;&#20837;&#38498;&amp;2&#22238;&#12398;&#25163;&#34899;&#12408;&#12288;&#20154;&#29983;&#21021;&#12398;&#25937;&#24613;&#36554;&rarr;&#12300;&#38990;&#12398;&#39592;&#12364;&#25240;&#12428;&#12385;&#12419;&#12387;&#12383;</span></li>
+      </ol>
+</nav>
+
+
+
+<article class="layout-article" id="article">
+  <header class="module-article-header">
+  <!--タイトル、表示用日時-->
+  <time class="module-article-header__datetime" datetime="2025-12-09">2025.12.09(Tue)<span class="console"></span></time>
+  <h1 class="module-article-header__heading">「七つの大罪」声優、1カ月入院&amp;2回の手術へ　人生初の救急車→「顎の骨が折れちゃったみたい」</h1>
+
+
+  <div class="module-article-header__credit">
+    <a href="/writer/11007016" id="author">
+      <span class="module-article-header__credit__thumb">
+      <img src="//p.potaufeu.asahi.com/8a08-p/picture/25975770/30a711861df7beafc0973f783be7e168_120px.jpg" alt="よろず～ニュース編集部" class="ofi-cover" />
+
+      </span>
+      <span class="module-article-header__credit__name">よろず～ニュース編集部</span>
+    </a>
+  </div>
+
+</header>
+<div class="module-article-body">
+<div class="module-article-body__more hide">
+
+
+
+
+          
+        <div class="module-article-header__gallery">
+        <figure class="module-article-header-photo">
+      <a class="module-article-header-photo__image" href="/article/16211912?p=28481674">
+        <img src="//p.potaufeu.asahi.com/8fa1-p/picture/28481674/b34358ccbea81683793509c3439fb243_640px.jpg" alt="※写真はイメージです　Zamrznuti-tonovi／stock.adobe.com" class="ofi-cover" width="960" height="640" />
+
+      </a>
+      <figcaption class="module-article-header-photo__caption">※写真はイメージです　Zamrznuti-tonovi／stock.adobe.com</figcaption>
+    </figure>
+      
+        <aside class="module-article-header__aside">
+            <ul class="module-article-header-photo-thumbs" id="js-article-header-photo-thumbs-slick">
+                  
+                                          
+          <li class="module-article-header-photo-thumbs__item selected">
+            <a href="/article/16211912?p=28481674">
+                                        <img src="//p.potaufeu.asahi.com/8fa1-p/picture/28481674/b34358ccbea81683793509c3439fb243_200px.jpg" alt="※写真はイメージです　Zamrznuti-tonovi／stock.adobe.com" class="ofi-cover" id="thumbnail_s1" />
+
+                        </a>
+          </li>
+                            
+                    
+          <li class="module-article-header-photo-thumbs__item ">
+            <a href="/article/16211912?p=30300367">
+                                        <img src="//p.potaufeu.asahi.com/76ac-p/picture/30300367/76acf19efd8be03ee994ec76e44c0c76.png" alt="高木裕平のX（@takagiyuhei0623）より" class="ofi-cover" id="thumbnail_s2" />
+
+                        </a>
+          </li>
+                            
+                    
+          <li class="module-article-header-photo-thumbs__item ">
+            <a href="/article/16211912?p=30300366">
+                                        <img src="//p.potaufeu.asahi.com/de7a-p/picture/30300366/eb9cf061e52ad71d89fe24f79b2eedf5.png" alt="高木裕平のX（@takagiyuhei0623）より" class="ofi-cover" id="thumbnail_s3" />
+
+                        </a>
+          </li>
+                        </ul>
+    </aside>
+      </div><!-- .module-article-header__gallery-->
+          
+
+
+
+
+  <p>　声優で舞台俳優の高木裕平が9日、自身のX（旧ツイッター）を更新。あごを骨折し、入院することを明かした。</p>
+<p>　高木は5日に「人生で初めて救急車で運ばれてしまいました 顎の骨が折れちゃったみたいで…」とあごの骨折を公表していた。骨折の公表から4日後の9日、「本日からひと月程入院いたします」と報告。「先日の顎の骨折なのですが、2回の手術とひと月前後の入院が必要みたいで…」と手術が必要な大ケガであったこともあわせて知らせた。</p>
+<p>　関係者に向けては「お仕事やスケジュール等、大変ご迷惑おかけして申し訳ありません」と謝罪。最後には「12月楽しみが多かっただけに本当に悲しい… また元気に戻って来るのでよろしくお願いいたします」と記した。</p>
+<p>　高木は人気アニメ「七つの大罪」シリーズで物語の鍵を握るキャラクター・ゴウセル役を担当。声優以外にも、舞台俳優として活動している。</p>
+      </div><!--.module-article-body__more-->
+    <aside class="module-article-aside">
+        <div class="module-button module-button-more">
+      <a id="js-article-more" href="javascript:void(0)"><span>続きを読む</span></a>
+    </div><!-- .module-button-more -->
+        <div class="module-pagination hide" id="js-article-pagination">
+      <!--タグ-->
+            <div class="module-article-tags">
+        <ul class="module-article-tags-list cfix">
+                                      <li class="module-article-tags-list__item"><a href="/tag/アニメ">アニメ・漫画</a></li>
+                                      <li class="module-article-tags-list__item"><a href="/tag/テレビ">テレビ</a></li>
+                                      <li class="module-article-tags-list__item"><a href="/tag/声優">声優</a></li>
+                                      <li class="module-article-tags-list__item"><a href="/tag/ＳＮＳ">ＳＮＳ</a></li>
+                                      <li class="module-article-tags-list__item"><a href="/tag/からだ">からだ</a></li>
+                                      <li class="module-article-tags-list__item"><a href="/tag/マンガ">マンガ</a></li>
+                </ul>
+      </div><!-- .module-article-tags -->
+          
+                <ul class="module-article-sns">
+        <li class="module-article-sns__item">
+          <a href="https://twitter.com/intent/tweet?url=https://yorozoonews.jp/article/16211912&text=%E3%80%8C%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%E3%80%8D%E5%A3%B0%E5%84%AA%E3%80%811%E3%82%AB%E6%9C%88%E5%85%A5%E9%99%A2%262%E5%9B%9E%E3%81%AE%E6%89%8B%E8%A1%93%E3%81%B8%E3%80%80%E4%BA%BA%E7%94%9F%E5%88%9D%E3%81%AE%E6%95%91%E6%80%A5%E8%BB%8A%E2%86%92%E3%80%8C%E9%A1%8E%E3%81%AE%E9%AA%A8%E3%81%8C%E6%8A%98%E3%82%8C%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F%E3%81%BF%E3%81%9F%E3%81%84%E3%80%8D" onclick="window.open(this.href, 'TWwindow', 'width=650, height=450, menubar=no, toolbar=no, scrollbars=yes'); return false;">
+          <img src="//p.potaufeu.asahi.com/yorozoonews/common/img/icon_x.png" alt="X" id="sns_twitter" width="40" height="40" />
+
+          </a>
+        </li>
+        <li class="module-article-sns__item">
+          <a href="http://www.facebook.com/share.php?u=https://yorozoonews.jp/article/16211912" onclick="window.open(this.href, 'FBwindow', 'width=650, height=450, menubar=no, toolbar=no, scrollbars=yes'); return false;">
+          <img src="//p.potaufeu.asahi.com/yorozoonews/common/img/icon_facebook.svg" alt="Facebook" id="sns_facebook" width="40" height="40" />
+
+          </a>
+        </li>
+      </ul>
+          <ul class="module-pagination-list" style="display: none">
+                                
+              <li class="module-pagination-list__item"><span class="first disabled">&laquo;</span></li>
+      
+                      <li class="module-pagination-list__item active">
+          <a href="/article/16211912?page=1" id="paging1">1</a>
+        </li>
+      
+              <li class="module-pagination-list__item"><span class="last disabled">&raquo;</span></li>
+            </ul>
+                
+		  	        <section class="module-section page-photo-thumbs-section">
+		<div class="module-section__title">
+		  <h2><span>この記事の画像</span></h2>
+		  <div class="all-photo-btn"><a class="all-count" href="/article/16211912?p=28481674">全ての画像（全3枚）</a></div>
+		</div>
+
+		<div class="module-article-page-photo-thumbs-outer">
+			<ul class="module-article-page-photo-thumbs">
+						  
+			  <li class="module-article-page-photo-thumbs__item">
+				<a href="/article/16211912?p=28481674">
+								  				  <img src="//p.potaufeu.asahi.com/8fa1-p/picture/28481674/b34358ccbea81683793509c3439fb243_200px.jpg" alt="※写真はイメージです　Zamrznuti-tonovi／stock.adobe.com" class="ofi-cover" id="thumbnail_s1" />
+
+								</a>
+			  </li>
+			  						  
+			  <li class="module-article-page-photo-thumbs__item">
+				<a href="/article/16211912?p=30300367">
+								  				  <img src="//p.potaufeu.asahi.com/76ac-p/picture/30300367/76acf19efd8be03ee994ec76e44c0c76.png" alt="高木裕平のX（@takagiyuhei0623）より" class="ofi-cover" id="thumbnail_s2" />
+
+								</a>
+			  </li>
+			  						  
+			  <li class="module-article-page-photo-thumbs__item">
+				<a href="/article/16211912?p=30300366">
+								  				  <img src="//p.potaufeu.asahi.com/de7a-p/picture/30300366/eb9cf061e52ad71d89fe24f79b2eedf5.png" alt="高木裕平のX（@takagiyuhei0623）より" class="ofi-cover" id="thumbnail_s3" />
+
+								</a>
+			  </li>
+			  						</ul>
+		</div>
+      </section>
+	    </div><!-- .module-pagination -->
+  </aside><!-- .module-article-aside -->
+
+</div><!--.module-article-body-->
+</article>
+<div class="module-ad">
+    <div class="module-ad__item"><!-- /21662775423/yzpc/main1_l -->
+<div id='yzpc-main1_l'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('yzpc-main1_l'); });
+  </script>
+</div></div>
+    <div class="module-ad__item"><!-- /21662775423/yzpc/main1_r -->
+<div id='yzpc-main1_r'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('yzpc-main1_r'); });
+  </script>
+</div></div>
+  </div>
+
+<section class="module-section jobs-section">
+  <div class="module-section__title">
+    <h2><span>よろず〜の求人情報</span></h2>
+	  <span class="c-heading__more"><a href="/joblist/">求人情報一覧へ</a></span>
+  </div>
+		
+  <div class="jobs__content">
+	<div class="c-infomation__container">
+	  	  		  <div class="c-infomation-items">
+			<a class="c-infomation-items__inner" target="_blank" href="https://xn--pckua2a7gp15o89zb.com/rd/a/v1/job-detail?p=gn086TaKApTKTNFt5WMQesfJCh7dORYc6LNQ51KcrUNoZL9zpnMms8LldCpBnxa9T%2F6nVEyKBLgZwZPXCfYuN6%2FWmikC%2FhrAgkUgKO%2FB%2BGaKxS9i%2Fukp%2FZ1eWmD8n6kaitwiwrlSVva6o9Tz8SFTk6nnfSUPyElbC0e11vfEGhT%2FChwKnTZPDf7eR3%2F%2FZFPW57DhUQeW2G%2Bsp2VGce0bluid2Elqbm9BLJLjl1VcJRcQK2S7CSH9LGYVAIwoh7JUvIcN05m2005Udu%2BBEUtEu0oGCNK5zuYuPEveBO4ChHrjG98mgKS8e0Tr7eXWzsTc0EefC6ySlgx7f6VSGzeQjFqB5PoKmr0AAyGBexLgQDLTaXXddchBHWPTlLatl4x95Jg%2BenzKKhgfSy4%2FM2WJpnTszOi1zN7VUDVqBY%2BUgEkGIF%2BfD%2BKN9XPFkCVS%2BpiErMz7lbPcpQ7VlNgUxMPrHi40RD%2Fs75gbFqGaS5EP2thY7r6tOOHB8u5Qe4F9%2BcYCLnQcHySuGAPqZvpT%2BSiw03rsHv2JA0RflOrkMEBICeYkeHj6bkol7M%2F7sFYVRl%2F7u0GJJBwLFoeGU4Rx0WJQ3DIA5vqgFwismtd7a0YqdNIebh0TtE238Mnc52M84%2BpoA2pRskH%2Be2zsdphq1FdH24%2BnmfoXCJuxQ%2BAMtayE3aLWvZLp8VEzbiF1QTdLFBdO4h8i7n9TcfGyVo97kscYohQXceuXdV7cgI2Z5J%2BcvAr03nkRg6k8vjLwjfZQObhKI4axFGBkPL84M1muvorVXrRPoOy1V7n75x6S9zChClPqkKsWYbt%2Fy4vJIKb4VVHPqyL0%2BhkNMv%2BxEd0tjDspZRnRAdaGIoppvy1776fFlXK8AB4nTO7eESZTGsRNBp16">
+			  <h3 class="c-infomation-title">&#32076;&#29702;&#20107;&#21209;/&#32076;&#29702;/&#30149;&#38498;/&#26085;&#21220;&#24111;&#12398;&#12415;/&#32057;&#20171;&#20104;&#23450;&#27966;&#36963;/&#26178;&#32102;1,439&#20870;&#12316;
+			  				  <div class="c-infomation-badge__container">
+					<span class="c-infomation-badge">NEW</span>
+				  </div>
+			  			  </h3>
+			  <p class="c-infomation-name">&#26666;&#24335;&#20250;&#31038;&#12502;&#12524;&#12452;&#12502;</p>
+			  <ul class="c-infomation-detail__container">
+				<li class="c-infomation-detail-items">
+				  <div class="c-infomation-detail-items-img">
+				  <img src="//p.potaufeu.asahi.com/yorozoonews/common/img/pin.svg" alt="pin icon" />
+
+				  </div>
+				  <p class="c-infomation-detail-items-txt">&#26481;&#20140;&#37117;</p>
+				</li>
+				<li class="c-infomation-detail-items">
+				  <div class="c-infomation-detail-items-img">
+				  <img src="//p.potaufeu.asahi.com/yorozoonews/common/img/human.svg" alt="human icon" />
+
+				  </div>
+				  <p class="c-infomation-detail-items-txt">&#32057;&#20171;&#20104;&#23450;&#27966;&#36963;：&#26178;&#32102;1,439&#20870;&#65374;</p>
+				</li>
+			  </ul>
+			  <p class="c-infomation-txt">&#12304;&#20181;&#20107;&#20869;&#23481;&#12305;&#12362;&#12418;&#12394;&#26989;&#21209;&#12399; 
+ &#20250;&#35336;&#26989;&#21209;(&#35531;&#27714;&#20869;&#23481;&#12398;&#12481;&#12455;&#12483;&#12463;&#12420;&#21307;&#30274;&#36027;&#12398;&#12358;&#12385;&#31379;&#21475;&#36000;&#25285;&#38989;&#12398;&#12362;&#20250;&#35336;&#31561;)
+  &#19968;&#33324;&#20107;&#21209;
+  &#20107;&#21209;&#20316;&#26989;
+  &#38651;&#35441;&#23550;&#24540;
+ 
+
+&#26481;&#20140;&#37117;&#23567;&#37329;&#20117;&#24066;&#12395;&#12354;&#12427;&#30149;&#38498;&#12391;&#32076;&#29702;&#20107;&#21209;&#12398;&#12362;&#20181;&#20107;&#12434;&#12362;&#20219;&#12379;&#12375;&#12414;&#12377;&#12290;
+
+&#12450;&#12463;&#12475;&#12473;:
+&#27494;&#34101;&#23567;&#37329;&#20117;&#39365;&#12363;&#12425;&#12496;&#12473;&#12391;10&#20998;
+
+&#21220;&#21209;&#26178;&#38291;:
+&lt;&#26085;&#21220;&#65533;@&gt;08:00&#12316;16:00
+&lt;&#26085;&#21220;&#65533;A&gt;09:00&#12316;17:00(&#21508;&#20241;&#25001;60&#20998;)
+
+
+&#21220;&#21209;&#26085;&#25968;:&#36913;5&#26085;
+
+&#32102;&#19982;:
+&#26178;&#32102;1,439&#20870;&#12316;...</p>
+			</a>
+		  </div>
+	  		  <div class="c-infomation-items">
+			<a class="c-infomation-items__inner" target="_blank" href="https://xn--pckua2a7gp15o89zb.com/rd/a/v1/job-detail?p=VdQL54ZzzivI7UO%2BJZXbisX4ruIFq8m1lc9YPMlpx9tWQuu%2Bdx2tquQ6stuN4bq90mdt62WK36HdPeQDJCW%2B79IcQVcrQmWYniytv6%2FyOqNMLt3rQ0CwUhG3RHuxgRe3mEEDAU70ppRkuVPKE1Kkg8o3%2Bz%2Bp4PHII1xpQITPdKHfkq5hfQzIGTjqXdrbG%2FldpT5uZDRTV1BxOlpG2cH%2FKMCxu3pPJjZgQ0gEiS43IMCAMu1sU9R3cTjgA1OyV8IePIyoXwCx8HHu5AIR6KCu74wRbXbaP%2FEU%2BVRxmduRqyXd8EQqT67BGTjHTORgugvinmrnF6P3vL2ShWY1nXGPBb9ecjGhMMXkZA3zhQZZ2UD7yfDtR89ejo79oNa7miWpBEh4F2Ax9oaV5LbYmpdi1Qjyyf7AG6jcDf9If6ZQtS4jA9NVSDNhBmVa%2BxWsyhiCrVwwWRMUbYOlhUedwdzDdBT3KG4a8aDdXdej9450Ku3ruAcpaMo0WbnhJLLGDlMiP3EWtDqXgKeOc63jGPIsOtJx8UQuow4A0q%2BrJEIdQr2%2FL1xTAmM%2BsQN%2FbNiHcEi4jSlFCrIyP9D88%2FKAklXjcwUMbMJSNAbyUpAaDpVsw3USMtjU6fEupLnXdDyFoaqSrDyK2FMp0ujb44FOSms5gC4s%2Bs9E2Auwxn8czUELbIfuauXBKy8pAIyfAIsY%2BEb8%2B5XlbcJfiAgsKLnUz3x8OpBGGA3iYmy%2BKLHvMdwbJS8dH61UYUUh7myDdhoXXWvNUviZADRp8fmrcOXkO7np4zWKfu9gYtztOqvlb0CKTkzIzfPRnvunznTIl2izHikeU4glk%2FBjONTTUZtUT4zi7c9v6W%2F%2FNyGdODoUyWBQm7cAbXEhFqB%2Bj3IvOakI6Wok">
+			  <h3 class="c-infomation-title">&#26410;&#32076;&#39443;&#27475;&#36814; &#26908;&#26619;&#35036;&#21161;&#12539;&#21307;&#30274;&#31995;&#36605;&#20316;&#26989; &#39640;&#26178;&#32102;1,350&#20870;!&#28961;&#26009;&#39376;&#36554;&#22580;&#26377; &#36913;&#20241;2&#26085;
+			  				  <div class="c-infomation-badge__container">
+					<span class="c-infomation-badge">NEW</span>
+				  </div>
+			  			  </h3>
+			  <p class="c-infomation-name">&#20140;&#35199;&#12473;&#12479;&#12483;&#12501;&#12469;&#12540;&#12499;&#12473;&#26666;&#24335;&#20250;&#31038;</p>
+			  <ul class="c-infomation-detail__container">
+				<li class="c-infomation-detail-items">
+				  <div class="c-infomation-detail-items-img">
+				  <img src="//p.potaufeu.asahi.com/yorozoonews/common/img/pin.svg" alt="pin icon" />
+
+				  </div>
+				  <p class="c-infomation-detail-items-txt">&#26481;&#20140;&#37117;</p>
+				</li>
+				<li class="c-infomation-detail-items">
+				  <div class="c-infomation-detail-items-img">
+				  <img src="//p.potaufeu.asahi.com/yorozoonews/common/img/human.svg" alt="human icon" />
+
+				  </div>
+				  <p class="c-infomation-detail-items-txt">&#27966;&#36963;&#31038;&#21729;：&#26178;&#32102;1,350&#20870;&#65374;1,688&#20870;</p>
+				</li>
+			  </ul>
+			  <p class="c-infomation-txt">&#12304;&#20181;&#20107;&#20869;&#23481;&#12305;&#21307;&#30274;&#26908;&#26619;&#12395;&#38306;&#12431;&#12427;&#36605;&#20316;&#26989;&#12434;&#25285;&#24403;&#12375;&#12390;&#12356;&#12383;&#12384;&#12367;&#12362;&#20181;&#20107; 
+20&#20195;&#12289;30&#20195;&#12289;40&#20195;&#12398;&#24133;&#24195;&#12356;&#24180;&#40802;&#23652;&#12398;&#22899;&#24615;&#12364;&#27963;&#36493;&#20013; 
+&#26410;&#32076;&#39443;&#12398;&#26041;&#12418;&#23433;&#24515;&#12375;&#12390;&#12473;&#12479;&#12540;&#12488;&#12391;&#12365;&#12414;&#12377;&#12290;
+
+&lt;&#12362;&#20181;&#20107;&#20869;&#23481;&gt;
+&#21307;&#30274;&#26908;&#26619;&#12395;&#38306;&#12431;&#12427;&#36605;&#20316;&#26989;&#12434;&#12362;&#20219;&#12379;&#12356;&#12383;&#12375;&#12414;&#12377;!!
+&#12539;&#21463;&#20184;&#26989;&#21209;&hellip;&#23626;&#12356;&#12383;&#26908;&#20307;&#12434;&#12487;&#12540;&#12479;&#20837;&#21147;&#12375;&#12289;&#12521;&#12505;&#12523;&#12434;&#36028;&#20184;!
+&#12539;&#26908;&#26619;&#21697;&#12398;&#21152;&#24037;&hellip;&#26908;&#20307;&#12434;&#12503;&#12524;&#12497;&#12521;&#12540;&#12488;&#12395;&#20055;&#12379;&#12390;&#12525;&#12454;&#12391;&#22266;&#12417;&#12427;
+ &#12429;&#12358;&#12391;&#22266;&#12417;&#12383;&#20313;&#20998;&#12394;&#37096;&#20998;&#12434;&#21462;&#12426;&#38500;&#12367;
+&#12539;&#30330;&#36865;&#28310;&#20633;&hellip;&#21152;&#24037;&#12375;&#12383;&#26908;&#20307;&#12434;&#27425;&#12398;&#24037;&#31243;...</p>
+			</a>
+		  </div>
+	        <div class="c-infomation-icon-area">
+        <div class="c-infomation-icon-area__inner">
+			<a href="https://xn--pckua2a7gp15o89zb.com/" target="_blank">
+          		<span class="c-infomation-txt">Sponsored by</span>
+          		<img src="//p.potaufeu.asahi.com/yorozoonews/vendor/kyujinbox/logo_color_bg.png" alt="" class="c-infomation-img" />
+
+          	</a>
+        </div>
+      </div>
+	</div>
+  </div>
+</section>
+
+<!--関連記事-->
+<section class="module-section">
+  <div class="module-section__title">
+    <h2><span>おすすめニュース</span></h2>
+  </div>
+  <ul class="module-list-articles--related" id="js-list-related">
+
+                      
+      
+                  
+                      <li class="module-list-articles__item">
+      <a href="/article/16211561" id="relation_list1" target="">        <figure class="module-list-articles__item__photo">
+          <img id="relation_thumbnail1" data-src="//p.potaufeu.asahi.com/5491-p/picture/29381780/c0109c89fb73951a20ba3df2ce2546ff_200px.jpg" alt="" class="js-lazy-image ofi-cover">
+        </figure>
+        <span id="relation_title1" class="module-list-articles__item__heading ">事故で入院、ゆたぼんに本当にお見舞金振り込まれた！「いかなる法的な義務も負いません」募集は継続</span>
+      </a>
+            <div class="module-list-articles__item__credit">
+        <a href="/writer/11007016">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/8a08-p/picture/25975770/30a711861df7beafc0973f783be7e168_120px.jpg" alt="よろず～ニュース編集部" class="ofi-cover" />
+
+          </span>
+          <span class="module-list-articles__item__credit__name">よろず～ニュース編集部</span>
+        </a>
+      </div>
+          </li>
+                              
+      
+                  
+                      <li class="module-list-articles__item">
+      <a href="/article/16160230" id="relation_list2" target="">        <figure class="module-list-articles__item__photo">
+          <img id="relation_thumbnail2" data-src="//p.potaufeu.asahi.com/1835-p/picture/28557858/5552330b838866a2ea9663fb471584f7_200px.jpg" alt="" class="js-lazy-image ofi-cover">
+        </figure>
+        <span id="relation_title2" class="module-list-articles__item__heading ">大食いYouTuber、入院の主な原因「うつ病」と告白　一時は食への興味も失う→ストレスで負のサイクル</span>
+      </a>
+            <div class="module-list-articles__item__credit">
+        <a href="/writer/11007016">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/8a08-p/picture/25975770/30a711861df7beafc0973f783be7e168_120px.jpg" alt="よろず～ニュース編集部" class="ofi-cover" />
+
+          </span>
+          <span class="module-list-articles__item__credit__name">よろず～ニュース編集部</span>
+        </a>
+      </div>
+          </li>
+                              
+      
+                  
+                      <li class="module-list-articles__item">
+      <a href="/article/16123525" id="relation_list3" target="">        <figure class="module-list-articles__item__photo">
+          <img id="relation_thumbnail3" data-src="//p.potaufeu.asahi.com/ac21-p/picture/29194547/d02e1592797ca6a323e813fd878bd37a_200px.jpg" alt="" class="js-lazy-image ofi-cover">
+        </figure>
+        <span id="relation_title3" class="module-list-articles__item__heading ">指定難病『脊椎小脳変性症』の人気モデルが入院「熱を測ったら41.2度…人間の体温とは思えない」</span>
+      </a>
+            <div class="module-list-articles__item__credit">
+        <a href="/writer/11007016">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/8a08-p/picture/25975770/30a711861df7beafc0973f783be7e168_120px.jpg" alt="よろず～ニュース編集部" class="ofi-cover" />
+
+          </span>
+          <span class="module-list-articles__item__credit__name">よろず～ニュース編集部</span>
+        </a>
+      </div>
+          </li>
+                  <!-- /21662775423/yzpc/nativeRelation -->
+<div id='yzpc-nativeRelation' style="min-height:111px;border-bottom: 1px solid #ddd ;margin: 5px 0 0 0"></div>
+
+<script>
+$(function(){
+	var lazyAdSlotsNativeRelation=[];
+	var lazyBiddingSlotsNativeRelation = [];
+	lazyLoadManager.nativeRelation = false;
+
+	const targetDiv = document.getElementById("yzpc-nativeRelation");
+	$(targetDiv).on('inview', function () {
+		if(!lazyLoadManager.nativeRelation){
+			console.log("%cNativeRelation",lazyLabel  ," info : inView ");
+
+			googletag.cmd.push(function() {
+				lazyAdSlotsNativeRelation = googletag.defineSlot('/21662775423/yzpc/nativeRelation', ['fluid'], 'yzpc-nativeRelation').addService(googletag.pubads());
+				lazyBiddingSlotsNativeRelation.push(lazyAdSlotsNativeRelation);
+			});
+
+			googletag.cmd.push(function() {
+				googletag.pubads().refresh(lazyBiddingSlotsNativeRelation);
+			});
+
+			lazyLoadManager.nativeRelation = true;
+		}
+	});
+});
+</script>
+                          
+      
+                  
+                      <li class="module-list-articles__item">
+      <a href="/article/16037904" id="relation_list4" target="">        <figure class="module-list-articles__item__photo">
+          <img id="relation_thumbnail4" data-src="//p.potaufeu.asahi.com/58cd-p/picture/26607939/7e127cee7443b3480c704b089275bdfd_200px.jpg" alt="" class="js-lazy-image ofi-cover">
+        </figure>
+        <span id="relation_title4" class="module-list-articles__item__heading ">人気モデル28歳が再入院　点滴受け横たわる姿公開　16歳でライム病「いつも突然消えてごめんなさい」</span>
+      </a>
+            <div class="module-list-articles__item__credit">
+        <a href="/writer/11006983">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/c5ec-p/picture/25965297/4ccee54ca1a5f01fdcaaa60ff813a0b0_120px.jpg" alt="海外エンタメ" class="ofi-cover" />
+
+          </span>
+          <span class="module-list-articles__item__credit__name">海外エンタメ</span>
+        </a>
+      </div>
+          </li>
+                              
+      
+                  
+                      <li class="module-list-articles__item">
+      <a href="/article/16027734" id="relation_list5" target="">        <figure class="module-list-articles__item__photo">
+          <img id="relation_thumbnail5" data-src="//p.potaufeu.asahi.com/352a-p/picture/30010415/7e8606fc32dad52036927e3ca6530425_200px.jpg" alt="" class="js-lazy-image ofi-cover">
+        </figure>
+        <span id="relation_title5" class="module-list-articles__item__heading ">美川憲一、心臓を手術「最近めまいが…」検査で病気発覚【全文】現在は入院中「仕事復帰できるよう」</span>
+      </a>
+            <div class="module-list-articles__item__credit">
+        <a href="/writer/11007016">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/8a08-p/picture/25975770/30a711861df7beafc0973f783be7e168_120px.jpg" alt="よろず～ニュース編集部" class="ofi-cover" />
+
+          </span>
+          <span class="module-list-articles__item__credit__name">よろず～ニュース編集部</span>
+        </a>
+      </div>
+          </li>
+                  <!-- kobe ad PC 関連記事インフィード（7本目） -->
+
+
+      </ul>
+</section>
+<!-- /.module-section -->
+
+<div class="module-ad">
+    <div class="module-ad__item"><!-- openweb -->
+<script>
+const regex = /\/$/;
+const excludeJoblist = /joblist/;
+if (!regex.test(location.href) && !excludeJoblist.test(location.href)) {
+        var targetDiv = document.getElementsByClassName("jobs-section")[0];
+        var owSection = document.createElement("div");
+        owSection.id = "openwebSection";
+        targetDiv.parentNode.insertBefore(owSection, targetDiv.nextElementSibling);
+  
+        const reaction = document.createElement("div");
+        reaction.setAttribute("data-spotim-app", "reactions");
+        reaction.setAttribute("data-spot-id", "sp_hkS46umS");
+        reaction.setAttribute("data-post-id", location.href.match(/\/(\d+)(?:\?|$)/)[1]);
+        owSection.parentNode.insertBefore(reaction, owSection);
+  
+}
+</script>
+
+<!-- /21662775423/yzpc/main2_l -->
+<div id='yzpc-main2_l' style="min-height:250px;">
+  <script>
+    googletag.cmd.push(function() { 
+      googletag.display('yzpc-main2_l');
+    });
+  </script>
+</div>
+
+
+
+</div>
+    <div class="module-ad__item"><!-- /21662775423/yzpc/main2_r -->
+<div id='yzpc-main2_r' style="min-height:250px;">
+  <script>
+    googletag.cmd.push(function() { 
+      googletag.display('yzpc-main2_r');
+    });
+  </script>
+</div>
+
+</div>
+  </div>
+
+<div class="module-ad">
+  <div class="module-ad__recommend"><!-- /21662775423/yzpc/inread -->
+<div id='yzpc-inread'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('yzpc-inread'); });
+  </script>
+</div>
+
+
+<!-- /21662775423/yzpc/nativeRecommend -->
+<div id='yzpc-nativeRecommend'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('yzpc-nativeRecommend'); });
+  </script>
+</div>
+
+</div>
+</div>
+
+
+
+<section class="module-section">
+  <div class="module-section__title">
+    <h2><span>気になるキーワード</span></h2>
+  </div>
+  <!--タグ-->
+  <div class="module-article-tags">
+    <ul class="module-article-tags-list cfix">
+                      <li class="module-article-tags-list__item"><a href="/tag/アニメ">アニメ・漫画</a></li>
+                      <li class="module-article-tags-list__item"><a href="/tag/テレビ">テレビ</a></li>
+                      <li class="module-article-tags-list__item"><a href="/tag/声優">声優</a></li>
+                      <li class="module-article-tags-list__item"><a href="/tag/ＳＮＳ">ＳＮＳ</a></li>
+                      <li class="module-article-tags-list__item"><a href="/tag/からだ">からだ</a></li>
+                      <li class="module-article-tags-list__item"><a href="/tag/マンガ">マンガ</a></li>
+        </ul>
+  </div><!-- .module-article-tags -->
+  
+    <ul class="module-list-articles" id="js-list-tags">
+                      
+                <li class="module-list-articles__item">
+      <a href="/article/16257304">
+        <figure class="module-list-articles__item__photo">
+          <img data-src="//p.potaufeu.asahi.com/e7d7-p/picture/30367976/03d017d11b9018aba8f80cdc35aaad9b.png" alt="" class="js-lazy-image ofi-cover">
+        </figure>
+        <span class="module-list-articles__item__heading ">男はいくつになってもカッコつけたい！寡黙でふさぎこむおじいちゃんに妻の考えた「秘策」とは【漫画】</span>
+      </a>
+      
+      <div class="module-list-articles__item__credit">
+                <a href="/writer/11014316">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/cfbc-p/picture/28940879/ae77a3b94af6a8de8dc835994a12f6d9_120px.jpg" alt="カキMONO.1" class="ofi-cover" />
+
+          </span>          
+          <span class="module-list-articles__item__credit__name">カキMONO.1</span>
+        </a>
+                <time class="module-list-articles__item__credit__datetime">2026.01.03</time>
+      </div>
+    </li>
+                              
+                <li class="module-list-articles__item">
+      <a href="/article/16243984">
+        <figure class="module-list-articles__item__photo">
+          <img data-src="//p.potaufeu.asahi.com/3c99-p/picture/30347876/a017e0caf9119cc47e6729799c0161ba_200px.jpg" alt="" class="js-lazy-image ofi-cover">
+        </figure>
+        <span class="module-list-articles__item__heading ">女性との距離感がわからん！男子校に女性教師が赴任してきたら...生徒たちの反応に「癒される」【漫画】</span>
+      </a>
+      
+      <div class="module-list-articles__item__credit">
+                <a href="/writer/11014316">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/cfbc-p/picture/28940879/ae77a3b94af6a8de8dc835994a12f6d9_120px.jpg" alt="カキMONO.1" class="ofi-cover" />
+
+          </span>          
+          <span class="module-list-articles__item__credit__name">カキMONO.1</span>
+        </a>
+                <time class="module-list-articles__item__credit__datetime">2026.01.02</time>
+      </div>
+    </li>
+                              
+                <li class="module-list-articles__item">
+      <a href="/article/16223379">
+        <figure class="module-list-articles__item__photo">
+          <img data-src="//p.potaufeu.asahi.com/e84d-p/picture/30316991/a017e0caf9119cc47e6729799c0161ba_200px.jpg" alt="" class="js-lazy-image ofi-cover">
+        </figure>
+        <span class="module-list-articles__item__heading ">「変なのがいる！！」鏡に映る自分の姿を怖がる飼い犬　理解した途端「まあ、これはこれで…」【漫画】</span>
+      </a>
+      
+      <div class="module-list-articles__item__credit">
+                <a href="/writer/11014316">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/cfbc-p/picture/28940879/ae77a3b94af6a8de8dc835994a12f6d9_120px.jpg" alt="カキMONO.1" class="ofi-cover" />
+
+          </span>          
+          <span class="module-list-articles__item__credit__name">カキMONO.1</span>
+        </a>
+                <time class="module-list-articles__item__credit__datetime">2026.01.01</time>
+      </div>
+    </li>
+                  <!-- /21662775423/yzpc/native1 -->
+<div id='yzpc-native1' style="min-height:111px;border-bottom: 1px solid #ddd;margin: 5px 0 0 0"></div>
+
+<script>
+$(function(){
+	var lazyAdSlotsNative1=[];
+	var lazyBiddingSlotsNative1 = [];
+	lazyLoadManager.native1 = false;
+
+	const targetDiv = document.getElementById("yzpc-native1");
+	$(targetDiv).on('inview', function () {
+		if(!lazyLoadManager.native1){
+			console.log("%cNative1",lazyLabel  ," info : inView ");
+
+			googletag.cmd.push(function() {
+				lazyAdSlotsNative1 = googletag.defineSlot('/21662775423/yzpc/native1', ['fluid'], 'yzpc-native1').addService(googletag.pubads());
+				lazyBiddingSlotsNative1.push(lazyAdSlotsNative1);
+			});
+
+			googletag.cmd.push(function() {
+				googletag.pubads().refresh(lazyBiddingSlotsNative1);
+			});
+
+			lazyLoadManager.native1 = true;
+		}
+	});
+});
+</script>
+                          
+                <li class="module-list-articles__item">
+      <a href="/article/16261352">
+        <figure class="module-list-articles__item__photo">
+          <img data-src="//p.potaufeu.asahi.com/854b-p/picture/30375881/c3e108eccc3970ae26a1d1aa6d02a4ee_200px.jpg" alt="" class="js-lazy-image ofi-cover">
+        </figure>
+        <span class="module-list-articles__item__heading ">36歳の声優・女優が11歳下のミュージカル俳優と結婚「誠実に歩んでまいります」</span>
+      </a>
+      
+      <div class="module-list-articles__item__credit">
+                <a href="/writer/11007016">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/8a08-p/picture/25975770/30a711861df7beafc0973f783be7e168_120px.jpg" alt="よろず～ニュース編集部" class="ofi-cover" />
+
+          </span>          
+          <span class="module-list-articles__item__credit__name">よろず～ニュース編集部</span>
+        </a>
+                <time class="module-list-articles__item__credit__datetime">2026.01.01</time>
+      </div>
+    </li>
+                              
+                <li class="module-list-articles__item">
+      <a href="/article/16258152">
+        <figure class="module-list-articles__item__photo">
+          <img data-src="//p.potaufeu.asahi.com/7bfa-p/picture/30370050/03d017d11b9018aba8f80cdc35aaad9b.png" alt="" class="js-lazy-image ofi-cover">
+        </figure>
+        <span class="module-list-articles__item__heading ">「この子1歳だから！」遊び場で弟を守るお姉ちゃんの過剰な防御力にほっこり【漫画】</span>
+      </a>
+      
+      <div class="module-list-articles__item__credit">
+                <a href="/writer/11014316">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/cfbc-p/picture/28940879/ae77a3b94af6a8de8dc835994a12f6d9_120px.jpg" alt="カキMONO.1" class="ofi-cover" />
+
+          </span>          
+          <span class="module-list-articles__item__credit__name">カキMONO.1</span>
+        </a>
+                <time class="module-list-articles__item__credit__datetime">2026.01.01</time>
+      </div>
+    </li>
+          </ul><!-- .module-list-articles -->
+  </section><!-- .module-section -->
+
+
+<script>
+var excludes = [16211912,16211561,16160230,16123525,16037904,16027734,16257304,16243984,16223379,16261352,16258152,16262913,16262937,16262831,16263248,16263018];
+var pageSize = 10;
+var hasNext = true;		// 初回必ず取得しに行く
+var hideAd = false;
+</script>
+
+<section class="module-section">
+  <div class="module-section__title">
+    <h2><span>新着ニュース</span></h2>
+  </div>
+
+  <ul class="module-list-articles load-more-ariticles" id="js-list-scroll">
+
+  </ul><!-- .module-list-articles -->
+</section><!-- .module-section -->
+
+<aside class="module-aside" style="display:none;" id="module-aside-more">
+  <div class="module-button module-button-more">
+    <a id="js-list-scroll-more" href="javascript:void(0)"><span>もっと見る</span></a>
+  </div><!-- .module-pagination -->
+</aside>
+
+    </main><!-- /[ MAIN-AREA ] -->
+  
+    <aside class="layout-sidebar" id="sidebar">
+<div class="module-sidebar" id="js-module-sidebar">
+<div class="module-ad">
+  <div class="module-ad__item"><!-- /21662775423/yzpc/rec1 -->
+<div id='yzpc-rec1' style="min-height:250px;">
+  <script>
+    googletag.cmd.push(function() { googletag.display('yzpc-rec1'); });
+  </script>
+</div></div>
+</div>
+
+<section class="module-section">
+  <div class="module-section__title articlesranking__title">
+    <h2><span>アクセスランキング</span></h2>
+  </div>
+  <ul class="module-list-articles--ranking">
+              
+    
+                      	      	      	      			    <li class="module-list-articles__item rank-1">
+      <a href="/article/16262913" id="ranking_list1">
+        <figure class="module-list-articles__item__photo"><img class="ofi-cover js-lazy-image" data-src="//p.potaufeu.asahi.com/ea4f-p/picture/28463619/7ebfbdf5cef70f3ad98fa6788226b90e_200px.jpg" alt=""></figure>
+        <span class="module-list-articles__item__heading ">芸能一家の元俳優次男　久々、兄妹との3ショットに登場「お元気そうでなにより」「久しぶりに弟さんを拝見」</span>
+      </a>
+            <div class="module-list-articles__item__credit">
+        <a href="/writer/11007016">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/8a08-p/picture/25975770/30a711861df7beafc0973f783be7e168_120px.jpg" alt="よろず～ニュース編集部" class="ofi-cover" />
+
+          </span>
+          <span class="module-list-articles__item__credit__name">よろず～ニュース編集部</span>
+        </a>
+      </div>
+          </li>
+              
+    
+                      			            
+    
+                      	      			    <li class="module-list-articles__item rank-2">
+      <a href="/article/16262831" id="ranking_list2">
+        <figure class="module-list-articles__item__photo"><img class="ofi-cover js-lazy-image" data-src="//p.potaufeu.asahi.com/05c3-p/picture/30378516/8d543f0620ac359f6e3096e606e06a0b_200px.jpg" alt=""></figure>
+        <span class="module-list-articles__item__heading ">入社3年目の“ボディビルダーになる女子アナ&quot;　ホテルで40万円盗難被害　パスポート、現金を盗まれた</span>
+      </a>
+            <div class="module-list-articles__item__credit">
+        <a href="/writer/11007016">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/8a08-p/picture/25975770/30a711861df7beafc0973f783be7e168_120px.jpg" alt="よろず～ニュース編集部" class="ofi-cover" />
+
+          </span>
+          <span class="module-list-articles__item__credit__name">よろず～ニュース編集部</span>
+        </a>
+      </div>
+          </li>
+              
+    
+                      	      	      			    <li class="module-list-articles__item rank-3">
+      <a href="/article/16263248" id="ranking_list3">
+        <figure class="module-list-articles__item__photo"><img class="ofi-cover js-lazy-image" data-src="//p.potaufeu.asahi.com/34f0-p/picture/30379338/0f4e760bf6faf651c2051fbe41860995_200px.jpg" alt=""></figure>
+        <span class="module-list-articles__item__heading ">ラインくっきり！元NHKフリー女子アナの美スタイル泥だらけショット「スタイル抜群」「泥も滴るいい女 」の声</span>
+      </a>
+            <div class="module-list-articles__item__credit">
+        <a href="/writer/11007016">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/8a08-p/picture/25975770/30a711861df7beafc0973f783be7e168_120px.jpg" alt="よろず～ニュース編集部" class="ofi-cover" />
+
+          </span>
+          <span class="module-list-articles__item__credit__name">よろず～ニュース編集部</span>
+        </a>
+      </div>
+          </li>
+              
+    
+                      	      	      	      			    <li class="module-list-articles__item rank-4">
+      <a href="/article/16263018" id="ranking_list4">
+        <figure class="module-list-articles__item__photo"><img class="ofi-cover js-lazy-image" data-src="//p.potaufeu.asahi.com/dead-p/picture/30378886/d2cb8a14839b0954e13a84eaccadb823_200px.jpg" alt=""></figure>
+        <span class="module-list-articles__item__heading ">規格外110！ベッドでゴロンと超恵体　美カーブ見せつけた田野憂、きっちり年頭あいさつと大ギャップ</span>
+      </a>
+            <div class="module-list-articles__item__credit">
+        <a href="/writer/11007016">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/8a08-p/picture/25975770/30a711861df7beafc0973f783be7e168_120px.jpg" alt="よろず～ニュース編集部" class="ofi-cover" />
+
+          </span>
+          <span class="module-list-articles__item__credit__name">よろず～ニュース編集部</span>
+        </a>
+      </div>
+          </li>
+              
+    
+                      			            
+    
+                      	      	      	      			    <li class="module-list-articles__item rank-5">
+      <a href="/article/16238314" id="ranking_list5">
+        <figure class="module-list-articles__item__photo"><img class="ofi-cover js-lazy-image" data-src="//p.potaufeu.asahi.com/93fa-p/picture/30339038/8cb3f48f81649aa96619632f3cc16c60_200px.jpg" alt=""></figure>
+        <span class="module-list-articles__item__heading ">数年続いた「たぬきの恩返し」生まれた子どもを毎年見せにくる野生のたぬきが話題「童話みたい」</span>
+      </a>
+            <div class="module-list-articles__item__credit">
+        <a href="/writer/11007088">
+          <span class="module-list-articles__item__credit__thumb">
+          <img src="//p.potaufeu.asahi.com/b98e-p/picture/26056200/183d8b82bf41da69e7f4ca9c913fd2a3_120px.jpg" alt="米田ゆきほ" class="ofi-cover" />
+
+          </span>
+          <span class="module-list-articles__item__credit__name">米田ゆきほ</span>
+        </a>
+      </div>
+          </li>
+        </ul><!-- .module-list-articles -->
+  <aside class="module-aside">
+    <div class="module-sub-links">
+      <a href="/ranking">６位以降を見る</a>
+    </div><!-- .module-button -->
+  </aside><!-- .module-aside -->
+</section><!-- .module-section -->
+
+<div class="module-ad">
+  <div class="module-ad__item"><center>
+<div id='yzpc-rec2'></div>
+</center>
+
+<script>
+var params = new URLSearchParams(window.location.search);
+if (!params.has('p')) {
+  $(function(){
+      var lazyAdSlotsRec2=[];
+      var lazyBiddingSlotsRec2 = [];
+      lazyLoadManager.rec2 = false;
+
+      const targetDiv = document.getElementById("yzpc-rec2");
+      $(targetDiv).on('inview', function () {
+          if(!lazyLoadManager.rec2){
+              console.log("%cRec2",lazyLabel  ," info : inView ");
+
+              googletag.cmd.push(function() {
+                  lazyAdSlotsRec2 = googletag.defineSlot('/21662775423/yzpc/rec2', [[300, 250], [336, 280]], 'yzpc-rec2').addService(googletag.pubads());
+                  lazyBiddingSlotsRec2.push(lazyAdSlotsRec2);
+              });
+
+              googletag.cmd.push(function() {
+                  googletag.pubads().refresh(lazyBiddingSlotsRec2);
+              });
+
+              lazyLoadManager.rec2 = true;
+          }
+      });
+  });
+}else{
+  document.getElementById('yzpc-rec2').parentNode.parentNode.parentNode.style.display = "none";
+}
+</script></div>
+</div>
+
+<aside class="module-aside">
+  <div class="twitter-head_oh"><img src="//p.potaufeu.asahi.com/yorozoonews/common/img/kappakun_07plus.webp" alt="X（Twitter）" width="800" height="390" />
+</div>
+  <div class="module-aside__embed">
+    <a class="twitter-timeline" data-width="300" data-height="600" data-theme="light" href="https://twitter.com/yorozoonews?ref_src=twsrc%5Etfw">Tweets by yorozoonews</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</aside><!-- .module-aside -->
+
+<aside class="module-aside">
+  <div class="module-aside__embed">
+    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fyorozoonews&tabs=timeline&width=300&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=210195165676611" width="300" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  </div>
+</aside><!-- .module-aside -->
+
+<div class="module-ad">
+  <div class="module-ad__item"><!-- /21662775423/yzpc/rec3 -->
+<div id='yzpc-rec3' style="min-height:250px;"></div>
+  <script>
+    googletag.cmd.push(function() { googletag.display('yzpc-rec3'); });
+  </script>
+
+<script>
+var td = document.getElementById("js-list-scroll");
+var bbb = document.createElement("div");
+bbb.id = "ad1";
+td.append(bbb);
+
+yadsRequestAsync({
+yads_ad_ds : '18091_584592',
+yads_parent_element : "ad1"
+});
+</script>
+
+<!-- ボタン透明化対応 -->
+<script>
+  //記事・写真面判定
+  const GetUrl = location.pathname;
+  const UrlJudge = GetUrl.indexOf('article');
+  const GetUrlPhoto = location.search;
+  const UrlPhotoJudge = GetUrlPhoto.match(/\?p=[0-9]{8}/);
+  if(UrlJudge !== -1){
+    console.log("article");
+    if (UrlPhotoJudge!=null){
+      console.log('Photo'); 
+      const buttonPrev = document.getElementsByClassName("module-article-photo-button module-article-photo-button--prev");
+      const buttonNext = document.getElementsByClassName("module-article-photo-button module-article-photo-button--next");
+  	　buttonPrev[0].style.opacity = 0.5;
+      buttonNext[0].style.cssText = 'opacity: 0.5;';
+    };
+  };
+</script></div>
+</div>
+
+</div><!-- .module-sidebar -->
+    </aside><!-- .layout-sidebar -->
+  </div><!-- .layout-contents -->
+  
+  <footer class="layout-footer" id="footer">
+
+
+  <nav class="layout-footer__nav" id="js-footer-menu">
+    <dl class="module-footer-nav">
+      <dt class="module-footer-nav__title">ニュース一覧</dt>
+      <dd class="module-footer-nav__list">
+        <ul class="module-footer-nav-list">
+          <li class="module-footer-nav-list__item"><a href="/" id="footer_menu_new">トップ</a></li>
+          <li class="module-footer-nav-list__item"><a href="/manamon" id="footer_menu_new">まなモン</a></li>
+                  <li class="module-footer-nav-list__item"><a href="/tag/フォト" id="footer_menu_tag1">フォト</a></li>
+                  <li class="module-footer-nav-list__item"><a href="/tag/海外エンタメ" id="footer_menu_tag2">海外エンタメ</a></li>
+                  <li class="module-footer-nav-list__item"><a href="/tag/都市伝説" id="footer_menu_tag3">都市伝説</a></li>
+                  <li class="module-footer-nav-list__item"><a href="/tag/アニメ" id="footer_menu_tag4">アニメ・漫画</a></li>
+                  <li class="module-footer-nav-list__item"><a href="/tag/ゲーム" id="footer_menu_tag5">ゲーム</a></li>
+        <!-- 連載は始まってからアンコメント
+          <li class="module-footer-nav-list__item"><a href="/series" id="footer_menu_series">連載・特集</a></li>
+-->
+        </ul>
+      </dd>
+    </dl><!-- .module-footer-nav -->
+    <dl class="module-footer-nav">
+      <dt class="module-footer-nav__title">ライター一覧</dt>
+      <dd class="module-footer-nav__list">
+        <ul class="module-footer-nav-list">
+          <li class="module-footer-nav-list__item"><a href="/writer" id="footer_menu_writer">記者</a></li>
+        </ul>
+      </dd>
+    </dl><!-- .module-footer-nav -->
+    <dl class="module-footer-nav">
+      <dt class="module-footer-nav__title">Information</dt>
+      <dd class="module-footer-nav__list">
+        <ul class="module-footer-nav-list">
+          <li class="module-footer-nav-list__item"><a href="/about" id="footer_menu_about">よろず〜とは</a></li>
+          <li class="module-footer-nav-list__item"><a href="https://www.daily.co.jp/company/" id="footer_menu_company" target="_blank">会社概要</a></li>
+          <li class="module-footer-nav-list__item"><a href="/terms" id="footer_menu_agreement">利用規約・プライバシー</a></li>
+          <li class="module-footer-nav-list__item"><a href="/copyright" id="footer_menu_agreement">著作権</a></li>
+          <li class="module-footer-nav-list__item"><a href="/yorozoonews/materials/AdvertisingGuide.pdf" id="footer_menu_ad">広告メニュー</a></li>
+          <li class="module-footer-nav-list__item"><a href="/contact" id="footer_menu_contact">お問い合わせ</a></li>
+        </ul>
+      </dd>
+    </dl><!-- .module-footer-nav -->
+  </nav><!-- .layout-footer__nav -->
+  <div class="layout-footer__copyright">
+    <p class="module-footer-copyright">Copyright &copy; よろず〜ニュース All rights reserved.</p>
+  </div><!-- .layout-footer__copyright -->
+  <div class="module-footer-scrlTop">
+    <a id="js-footer-scrlTop" href="javascript:void(0)">ページトップへ戻る</a>
+  </div><!-- .module-footer-scrlTop -->
+
+  </footer>
+  
+</div> <!-- /.layout-wrapper -->
+
+<script src="//p.potaufeu.asahi.com/yorozoonews/common/js/jquery-3.3.1.min.js?a09e13ee94d51c524b7e2a728c7d4039"></script>
+
+			<script src="//p.potaufeu.asahi.com/yorozoonews/common/js/jquery.inview.min.js?be435d68c8a834ca6ffec6b6a054bdec"></script>
+
+<script src="//p.potaufeu.asahi.com/yorozoonews/common/js/default.js?ad8dd45103a66ee47e2627a90ad91530"></script>
+
+<script src="//p.potaufeu.asahi.com/yorozoonews/vendor/ofi/ofi.min.js?23f95f0af620c2a1e2b14797b51e3b68"></script>
+
+<script nomodule src="//p.potaufeu.asahi.com/yorozoonews/vendor/polyfill/intersection-observer.js?475e80eab03aa5228bcceb98e0b51d93"></script>
+
+<script src="//p.potaufeu.asahi.com/yorozoonews/vendor/lozad/lozad.min.js?107377f99f686c7f594c25112097293b"></script>
+
+<script src="//p.potaufeu.asahi.com/yorozoonews/vendor/slick/slick.min.js?d5a61c749e44e47159af8a6579dda121"></script>
+
+<script src="//p.potaufeu.asahi.com/yorozoonews/pc/js/common.js?08d2ffed7866225ac6c384e206bef267"></script>
+
+<script nomodule src="//p.potaufeu.asahi.com/yorozoonews/vendor/polyfill/es6-promise.min.js?a4c99b7757a591636264f7b9328b3ad5"></script>
+
+<script nomodule src="//p.potaufeu.asahi.com/yorozoonews/vendor/polyfill/es6-promise.auto.min.js?7850f75032813dc5c0e9eb75eba880bf"></script>
+
+<script src="//p.potaufeu.asahi.com/yorozoonews/pc/js/loadmore-articles.js?48827b318aa877aed294e4379527f5a3"></script>
+
+<script src="//p.potaufeu.asahi.com/yorozoonews/pc/js/add_infeed_ads_pc.js?f3610c8867f60d8462f7511cc1cf8733"></script>
+
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://yorozoonews.jp/article/16211912"},"headline":"「七つの大罪」声優、1カ月入院&2回の手術へ　人生初の救急車→「顎の骨が折れちゃったみたい」","image":[{"url":"//p.potaufeu.asahi.com/8fa1-p/picture/28481674/b34358ccbea81683793509c3439fb243.jpg","width":960,"height":640,"@type":"ImageObject"},{"url":"//p.potaufeu.asahi.com/76ac-p/picture/30300367/76acf19efd8be03ee994ec76e44c0c76.png","width":1333,"height":983,"@type":"ImageObject"},{"url":"//p.potaufeu.asahi.com/de7a-p/picture/30300366/eb9cf061e52ad71d89fe24f79b2eedf5.png","width":907,"height":987,"@type":"ImageObject"}],"datePublished":"2025-12-09T16:10:00+0900","dateModified":"2025-12-09T16:10:00+0900","publisher":{"@type":"Organization","name":"よろず〜ニュース","logo":{"url":"https://p.potaufeu.asahi.com/yorozoonews/common/img/ogp.jpg","width":"1200","height":"630","@type":"ImageObject"}},"description":"声優で舞台俳優の高木裕平が9日、自身のX（旧ツイッター）を更新。あごを骨折し、入院することを明かした。\r\n　高木は5日に「人生で初めて救急車で運ばれてしまいました 顎の骨が折れちゃったみたいで…」とあごの骨折を公表していた。骨折の公表から4","author":{"@type":"Organization","name":"よろず〜ニュース"}}
+</script>
+
+<script async src="https://s.yimg.jp/images/listing/tool/cv/ytag.js"></script>
+<script>
+window.yjDataLayer = window.yjDataLayer || [];
+function ytag() { yjDataLayer.push(arguments); }
+ytag({
+  "type":"yjad_retargeting",
+  "config":{
+    "yahoo_retargeting_id": "J9K5P8QFC0",
+    "yahoo_retargeting_label": "",
+    "yahoo_retargeting_page_type": "",
+    "yahoo_retargeting_items":[
+      {item_id: '', category_id: '', price: '', quantity: ''}
+    ]
+  }
+});
+</script>
+</body>
+</html>

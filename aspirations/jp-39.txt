@@ -1,0 +1,1506 @@
+HTTP/2 200 
+date: Sat, 03 Jan 2026 16:42:33 GMT
+server: Apache
+cache-control: max-age=0, must-revalidate, private
+expires: Sat, 03 Jan 2026 16:42:33 GMT
+set-cookie: haggis=%7B%2255b5505c05%22%3A1767458553%7D; expires=Sat, 03 Jan 2026 17:12:33 GMT; Max-Age=1800; path=/; secure; HttpOnly
+set-cookie: bread=IkzL7WdrAK6BVMAGHnE7HVVHhWXGt4gv; expires=Tue, 29 Dec 2026 16:42:33 GMT; Max-Age=31104000; path=/; domain=.plaza.rakuten.co.jp; secure; HttpOnly; SameSite=Lax
+set-cookie: honey=%7B%22c2604d1499%22%3A1767458553%7D; expires=Sat, 03 Jan 2026 17:12:33 GMT; Max-Age=1800; path=/; secure; HttpOnly
+set-cookie: cuid=1767458553%3A1767458553%3A0; expires=Sun, 03 Jan 2027 16:42:33 GMT; Max-Age=31536000; path=/; domain=.plaza.rakuten.co.jp; secure; HttpOnly
+set-cookie: hamo=1767458553%3A1767458553%3A0; expires=Tue, 03 Feb 2026 16:42:33 GMT; Max-Age=2678400; path=/; domain=.plaza.rakuten.co.jp; secure; HttpOnly
+set-cookie: PHPSESSID=aadqqa0jds86gqo3g9cn5ao7rb; path=/; secure; httponly
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+content-type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ja" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:mixi="http://mixi-platform.com/ns#" xmlns:gr="http://gree.jp/ns" xmlns:og="http://ogp.me/ns#">
+<head>
+<link rel="canonical" href="https://plaza.rakuten.co.jp/karasumorijinja/diary/200606090000/" />
+<link rel="prev" href="https://plaza.rakuten.co.jp/karasumorijinja/diary/200606100000/" />
+<link rel="next" href="https://plaza.rakuten.co.jp/karasumorijinja/diary/200606070000/" />
+<link rel="amphtml" href="https://plaza.rakuten.co.jp/karasumorijinja/diary/200606090000-amp/" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="twitter:card" content="summary" />
+<meta name="referrer" content="unsafe-url">
+
+<meta name="description" content="神道では、人が犯すかもしれない罪を「天つ罪」「国つ罪」との２種に分けて考えています。「天津罪」･「国津罪」とも書かれます。
+『延喜式』巻八「祝詞」に収録される大祓詞に対句として登場します。
+今日はその「大祓詞」の中の「天つ罪」についてお話します。
+
+「天つ罪」とは「スサノオが天上（高天原）で犯した８種の罪」のことです。
+天照大神が天上で行っていた、最も神聖なお仕事の一つ･･･すなわち、稲作をスサノオ…">
+<meta name="keywords" content="大祓詞の中にある「天つ罪」について,烏　森　神　社,そのほか,神道豆知識,楽天ブログ,ブログ,blog,日記,楽天,Infoseek,無料,アフィリエイト,楽天イーグルス,フォト,RSS" />
+<meta name="robots" content="max-image-preview:large">
+<meta property="og:title" content="大祓詞の中にある「天つ罪」について - 烏　森　神　社：楽天ブログ" />
+<meta property="og:description" content="神道では、人が犯すかもしれない罪を「天つ罪」「国つ罪」との２種に分けて考えています。「天津罪」･「国津罪」とも書かれます。
+『延喜式』巻八「祝詞」に収録される大祓詞に対句として登場します。
+今日はその" />
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="楽天ブログ" />
+<meta property="og:image" content="http://image.space.rakuten.co.jp/lg01/20/0000181520/35/imge1b13d2ajmblio.jpeg" /><meta property="og:image" content="http://image.space.rakuten.co.jp/lg01/20/0000181520/36/img54ef7a2bjmbt7g.jpeg" />
+  <meta property="og:locale" content="ja_JP" />
+<meta property="fb:app_id" content="417946498267255" />
+<meta property="article:publisher" content="https://www.facebook.com/RakutenBlog" />
+<meta property="og:url" content="http://plaza.rakuten.co.jp/karasumorijinja/diary/200606090000/" />
+<title>大祓詞の中にある「天つ罪」について | 烏　森　神　社 - 楽天ブログ</title>
+<link rel="stylesheet" href="//plaza.rakuten.co.jp/_css/karasumorijinja.css?v001&11f9826b8e9e9fa216a183ecdc58447a" type="text/css" media="screen" />
+<link rel="shortcut icon" href="//plaza.rakuten.co.jp/favicon.ico?v001" />
+<link rel="mask-icon" href="//plaza.rakuten.co.jp/img/logo/Rakuten_SafariPin.svg?v001" color="#bf0000">
+<link rel="alternate" href="https://api.plaza.rakuten.ne.jp/karasumorijinja/rss/" type="application/rss+xml" title="RSS" />
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org/",
+    "@type": "BlogPosting",
+    "mainEntityOfPage":{
+       "@type":"WebPage",
+       "@id":"https://plaza.rakuten.co.jp/karasumorijinja/diary/200606090000/"
+    },
+    "headline": "烏　森　神　社 - 楽天ブログ",
+    "datePublished": "2006-06-09T15:49:08+09:00",
+    "dateModified": "2006-06-09T15:49:08+09:00",
+    "image": {
+      "@type": "ImageObject",
+      "url": "http://image.space.rakuten.co.jp/lg01/20/0000181520/35/imge1b13d2ajmblio.jpeg",
+      "width": 270,
+      "height": 199
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "楽天ブログ",
+      "logo": {
+              "@type": "ImageObject",
+              "url": "https://plaza.jp.rakuten-static.com/img/common/blog_logo_600x60.png",
+              "width": 600,
+              "height": 60
+      }
+    },
+    "author": {
+      "@type": "Person",
+      "name":  "烏森神社",
+      "url": "https://plaza.rakuten.co.jp/karasumorijinja/profile/"
+    }
+  }
+</script><script src="//plaza.jp.rakuten-static.com/assets/runtime.a62e363b.js?v001"></script><script src="//plaza.jp.rakuten-static.com/assets/0.d91bac89.js?v001"></script><script src="//plaza.jp.rakuten-static.com/assets/4.43c552bb.js?v001"></script><script src="//plaza.jp.rakuten-static.com/assets/basejQuery.eb61df85.js?v001"></script>
+<script type="text/javascript" >
+<!--
+  jQuery.noConflict();
+  var layoutType = 2;
+  var headerWidth = "1000px";
+  var diaryImgWidth = "570";
+  var sideImgWidth = "130";
+  var sideImgWideWidth = "300";
+  var maxWidthForWide = "600";
+  var titleHeight = "90";
+  var isTempImg = "";
+  var raPostIds = "";
+  var blogAdDispValue = "1";
+  raPostIds = "2,5,8,11,14";
+//-->
+</script>
+
+<script language="javascript"  type="text/javascript">
+var ppid = 'IkzL7WdrAK6BVMAGHnE7HVVHhWXGt4gv';
+var appKey = 'anAuY28ucmFrdXRlbi5yZXdhcmQud2ViLWlDOG5qeVdwM2J0UlZzN1p1TnZOLVNmSTI0d2VqNWFC';
+var accessToken = '';
+var actionCode = 'xThFzXioxDyjRh8I';
+var missionPlacementId = 'c2EL1COpchFo';
+window.googletag = window.googletag || { cmd: [] };
+googletag.cmd.push(function () {
+  googletag.pubads().setPublisherProvidedId(ppid);
+  googletag.enableServices();
+});
+</script>
+<script type="text/javascript" src="https://portal.reward.rakuten.co.jp/sdk-static/sdk/1.0.0/missionsdk.js"></script>
+<script type="text/javascript" src="https://serving.lookverin.com/player/adlook.js"></script>
+
+<script src="//plaza.jp.rakuten-static.com/assets/2.9a3b90e9.js?v001"></script><script src="//plaza.jp.rakuten-static.com/assets/plazaUserDiaryCommon.9eb2a592.js?v001"></script>
+<script src="//plaza.jp.rakuten-static.com/assets/plazaUserDiaryMission.c93a7cc1.js?v001"></script>
+
+<link rel="stylesheet" href="//plaza.jp.rakuten-static.com/assets/plazaUserBase.7593b6a8.css?v001">
+<link rel="stylesheet" href="//plaza.jp.rakuten-static.com/assets/plazaUserDiary.e55e5545.css?v001">
+
+
+<!-- ****************** CONTROLL TAG ****************** -->
+<script type="text/javascript">
+  window.pbjs = window.pbjs || { que: [] };
+  var hbScriptTag = document.createElement('script');
+  hbScriptTag.setAttribute('type', 'text/javascript');
+  hbScriptTag.setAttribute('async', 'async');
+  hbScriptTag.setAttribute('src', 'https://flux-cdn.com/client/rakuten/rakuten-blog.min.js');
+  document.getElementsByTagName('head')[0].appendChild(hbScriptTag);
+</script>
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script type="text/javascript">
+  window.googletag = window.googletag || { cmd: [] };
+</script>
+<script type="text/javascript">
+  window.fluxtag = {
+    runaDivIds: [],
+    readyBids: {
+      prebid: false,
+      google: false
+    },
+    failSafeTimeout: 3e3,
+    isFn: function isFn(object) {
+      var _t = 'Function';
+      var toString = Object.prototype.toString;
+      return toString.call(object) === '[object ' + _t + ']';
+    },
+    launchAdServer: function () {
+      if (!fluxtag.readyBids.prebid) {
+        return;
+      }
+      fluxtag.requestAdServer();
+    },
+    requestAdServer: function () {
+      if (!fluxtag.readyBids.google) {
+        fluxtag.readyBids.google = true;
+        googletag.cmd.push(function () {
+          if (!!(pbjs.setTargetingForGPTAsync) && fluxtag.isFn(pbjs
+            .setTargetingForGPTAsync)) {
+            pbjs.que.push(function () {
+              pbjs.setTargetingForGPTAsync();
+            });
+          }
+          var slots = googletag.pubads().getSlots().filter(function (slot) {
+            var divId = slot.getSlotElementId();
+            return divId !== 'div-gpt-ad-1614648512478-0' && divId !== 'Rak_Blog_All_FooterOverlay' && window.fluxtag.runaDivIds.indexOf(divId) === -1;
+          });
+          googletag.pubads().refresh(slots);
+        });
+      }
+    },
+    renderAds: function (lines) {
+      googletag.cmd.push(function () {
+        var refreshLines = [];
+        var params = (function () {
+          var readyBids = {
+            google: false,
+            prebid: false,
+          };
+          var refreshSlots = [];
+          var divIds = [];
+          var definedSlots = [];
+          var displayDivIds = [];
+
+          googletag.pubads().getSlots().forEach(function (slot) {
+            definedSlots[slot.getSlotElementId()] = slot;
+          });
+          for (var i = 0; i < lines.length; i++) {
+            var divId = lines[i].divId;
+            var adUnitCode = lines[i].code;
+            var sizes = lines[i].sizes;
+
+            refreshLines.push({
+              code: adUnitCode,
+              size: sizes,
+              id: divId
+            });
+            if (definedSlots[divId]) {
+              refreshSlots.push(definedSlots[divId]);
+            } else {
+              refreshSlots.push(
+                googletag.defineSlot(adUnitCode, sizes, divId).addService(googletag
+                  .pubads())
+              );
+              displayDivIds.push(divId);
+            }
+
+            divIds.push(divId);
+          }
+          var adServerSend = function () {
+            if (!readyBids.prebid) {
+              return;
+            }
+            if (!readyBids.google) {
+              readyBids.google = true;
+              for (var i = 0; i < displayDivIds.length; i++) {
+                googletag.display(displayDivIds[i]);
+              }
+              if (!!(pbjs.setTargetingForGPTAsync) && fluxtag.isFn(pbjs.setTargetingForGPTAsync)) {
+                pbjs.que.push(function () {
+                  pbjs.setTargetingForGPTAsync(divIds);
+                });
+              }
+              googletag.pubads().refresh(refreshSlots);
+            }
+          };
+          var prebidCallback = function () {
+            readyBids.prebid = true;
+            adServerSend();
+          };
+          setTimeout(function () {
+            readyBids.prebid = true;
+            adServerSend();
+          }, 3000);
+
+          return {
+            prebid: {
+              callback: prebidCallback,
+            }
+          };
+        })();
+        if (!!(window.pbFlux) && window.pbFlux.refresh && fluxtag.isFn(window.pbFlux.refresh)) {
+          pbjs.que.push(function () {
+            pbFlux.refresh({
+              lines: refreshLines,
+              callback: params.prebid.callback,
+              timeout: 2000
+            });
+          });
+        } else {
+          params.prebid.callback();
+        }
+      });
+    }
+  };
+</script>
+<script type="text/javascript" src="https://plaza.jp.rakuten-static.com/js/adjs/RGPT.class.min.js"></script>
+<script type='text/javascript'>
+  var RGPT_Rak_Blog_User_SideBanner2 = new RGPT([[300, 250], [300, 600]], 'RGPT_Rak_Blog_User_SideBanner2');
+  var RGPT_Rak_Blog_User_SideBanner = new RGPT([[300, 250], [300, 600]], 'RGPT_Rak_Blog_User_SideBanner');
+  var RGPT_Rak_Blog_User_2ndSideBanner = new RGPT([[300, 250]], 'RGPT_Rak_Blog_User_2ndSideBanner');
+  var RGPT_Rak_Blog_User_KijiRect = new RGPT([[300, 250], [336, 280], [1, 1]], 'RGPT_Rak_Blog_User_KijiRect');
+  var RGPT_Rak_Blog_User_InRead = new RGPT([[300, 250], [336, 280], [1, 1]], 'RGPT_Rak_Blog_User_InRead');
+</script>
+<script type='text/javascript'>
+  if (typeof blogAdDispValue !== 'undefined') { } else { blogAdDispValue = "0"; }
+  if (typeof blogAdDispTarget1 !== 'undefined') { } else { var blogAdDispTarget1 = "0"; }
+  googletag.cmd.push(function () {
+   
+    googletag.pubads()
+      .setTargeting("blogAdDispValue", blogAdDispValue)
+      .setTargeting("blogAdDispTarget1", blogAdDispTarget1)
+      .setTargeting("adnwpub", "9_Blog");
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+    if (!!(window.pbFlux) && !!(window.pbFlux.prebidBidder) && fluxtag.isFn(window.pbFlux.prebidBidder)) {
+      pbjs.que.push(function () {
+        window.pbFlux.prebidBidder();
+      });
+    } else {
+      fluxtag.readyBids.prebid = true;
+      fluxtag.launchAdServer();
+    }
+  });
+</script>
+<!-- ****************** /CONTROLL TAG ****************** -->
+
+
+<!-- Taboola Controll -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/rakuten-blog/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+<!-- /Taboola Controll -->
+<script language="javascript"  type="text/javascript">
+</script>
+</head>
+<body>
+<div id="global_height_box"></div>
+<script type="text/javascript"><!--
+  var diary_global_header_user = "karasumorijinja";
+  var diary_global_header_genreid = "1200";
+  var diary_global_header_genrename = "そのほか";
+//-->
+</script>
+<div id="diary_global_header">
+<table width="100%" id="headerAd">
+  <tbody>
+    <tr>
+    <td class="headerAdL">
+     <a href="//plaza.rakuten.co.jp/" class="headerLogo" style="width:150px;"><img src="//plaza.jp.rakuten-static.com/img/logo/1line_logo.svg" alt=" 楽天ブログ" style="height:18px;" /></a>
+     <!-- genreIconStart -->
+     <a id="diary_global_header_icon"></a>
+     <!-- genreIconEnd -->
+    </td>
+    <td class="headerAdC">
+     <div id="headerpc20140620">
+      <span><a href="https://toolbar.rakuten.co.jp/intro/yamawake/?scid=wi_blg_text" style="color:#bf0000" onclick="s.linkTrackVars='prop11'; s.prop11='pc_user_head_text'; s.tl(this,'o');" ><font size="-1"><font color="#bf0000">100万ポイント山分け！1日5回検索で1ポイントもらえる</font></font></a></span>
+     </div>
+    </td>
+    <!--addContentsAreaHeaderAdC-->
+    <td class="headerAdR">
+	  <!--headerSearchStart-->
+      <div class="headerSearch">
+        <form action="https://websearch.rakuten.co.jp/Web" method="get">
+        <input type="hidden" name ="ref" value="rblog" />
+        <input type="hidden" name ="col" value="OW" />
+        <input type="hidden" name ="dm" value="plaza.rakuten.co.jp" />
+        <input type="text" name="qt" class="searchInput"
+data-placeholder="" />
+        <input type="submit" value="" class="searchBtn" alt="検索" />
+        </form>
+      </div>
+	  <!--headerSearchEnd-->
+      <ul>
+	    <!--viewOtherBlogStart-->
+        <li><a href="http://plaza.rakuten.co.jp/dac/">&gt;&gt;<b>人気記事ランキング</b></a></li>
+		<!--viewOtherBlogEnd-->
+        <li><a href="http://plaza.rakuten.co.jp/evt/beginner/beginner01.html"class="editBlog">ブログを作成</a></li>
+        <li><a href="http://www.rakuten.co.jp/"target="_blank" class="top">楽天市場</a></li>
+      </ul>
+    </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<!-- ****************** Diary Header js ****************** -->
+<script type="text/javascript"><!--
+// 他のブログを見る
+var setAnotherBlogLink = function(){
+  var user = diary_global_header_user;
+  var rndurl = new String();
+  var gau = document.getElementById("diary_global_header_another");
+  if(!gau) return;
+  rndurl += "http://plaza.rakuten.co.jp/rnd/";
+  rndurl += user;
+  rndurl += "/";
+  gau.href = rndurl;
+}
+setAnotherBlogLink();
+// ジャンルリンク
+var setGenreLink = function(){
+  var genreid = diary_global_header_genreid;
+  var genrename = diary_global_header_genrename;
+  var giu = document.getElementById("diary_global_header_icon"); 
+  if(!giu) return;
+  var gnrurl = new String();
+  gnrurl += "/gnr/g";
+  gnrurl += genreid;
+  gnrurl += "/";
+  var gnrcls = new String();
+  gnrcls += "icon";
+  gnrcls += genreid;
+  giu.href = gnrurl;
+  giu.className = gnrcls;
+  giu.innerHTML = genrename;
+}
+setGenreLink();
+// グローバルヘッダ高さ
+var createGHeader = setInterval(function(){
+  var headerAd = document.getElementById("headerAd");
+  if(!headerAd) return;
+  var content_height = headerAd.clientHeight;
+  var ghb = document.getElementById("global_height_box");
+  if(!ghb) return;
+  var pix = new String();
+  pix += content_height;
+  pix += "px";
+  ghb.style.height = pix;
+}, 0);
+//-->
+</script>
+<!-- ****************** /Diary Header js ****************** -->
+
+</div>
+<!-- script for bannar display and targeting -->
+<script src="//jp.rakuten-static.com/1/grp/banner/js/create.js"></script>
+<!-- header banner -->
+<div id="mkdiv_header_pitari"></div>
+<div id="wrapper">
+  <div id="hiroba_header">
+<table border="0" width="1000px" cellpadding="0" cellspacing="0" style="margin-top:3px;">
+  <tr>
+    <td>
+      <table border="0" cellpadding="0" cellspacing="0" width="1000px">
+        <tr>
+          <td id="counter" colspan="5" align="right">
+            <a href="#">1334894</a>
+            <a href="/rnd/karasumorijinja/" rel="nofollow">
+              <img src="//plaza.jp.rakuten-static.com/img/user/header/random.gif" width="12" height="12" border="0" alt="ランダム" style="background:none;">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td width="400">
+
+          &nbsp;<a href="//plaza.rakuten.co.jp/karasumorijinja/">ホーム</a> | 
+          <a href="//plaza.rakuten.co.jp/karasumorijinja/diaryall/">日記</a> |
+          <a href="//plaza.rakuten.co.jp/karasumorijinja/profile/">プロフィール</a> 
+          </td>
+          <td align="right" colspan="3">
+            <a href="//my.plaza.rakuten.co.jp/?func=diary&act=okini&sub_act=add_from&TargetID=12twex" class="top">【フォローする】</a>
+            <a href="//my.plaza.rakuten.co.jp/" class="top">【ログイン】</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</div>
+<div id="title_out" width="1000px">
+  <div id="img_area">
+    <h1>
+                                      <p id="text_area">
+        <span class="title_text" id="title" style="color:#FFFFFF;">
+        烏　森　神　社
+        </span>
+      </p>
+            <a href="//plaza.rakuten.co.jp/karasumorijinja/"></a>
+    </h1>
+  </div>
+</div>
+<table align="center" width="1000px" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+<td id="content-center" class="break-word">
+  <a name="top"></a>
+
+<div class="mainNavi">
+  <div class="mainNaviContents mainNaviLeft mainNaviSide" style="width:27%;">
+        <p class="main_title"><a href="/karasumorijinja/diary/200606100000/">&lt; 新しい記事</a></p>
+      </div>
+
+    <div class="mainNaviContents mainNaviCenter" style="width:45%;">
+              <p class="main_title"><a href="/karasumorijinja/diaryall/">新着記事一覧(全518件)</a></p>
+        </div>
+
+  <div class="mainNaviContents mainNaviRight mainNaviSide"  style="width:27%;">
+          <p class="main_title"><a href="/karasumorijinja/diary/200606070000/">過去の記事 &gt;</a></p>
+      </div>
+</div>
+
+<div class="DIV">
+  
+    
+<!-- rakuten_ad_target_begin -->
+<!-- google_ad_section_start(name=rakuten1) -->
+
+<div id="diarydate" style="padding:4px;margin-bottom:3px;position:relative;">
+        <b>2006年06月09日</b>
+      <div style="position:absolute;right:5px;top:50%;margin-top:-0.6em;">
+    <a href="http://api.plaza.rakuten.ne.jp/karasumorijinja/rss/"><img src="//plaza.jp.rakuten-static.com/img/user/diary/icon_rss.gif" alt="XML" border="0"></a>
+  </div>
+  </div>
+
+<a name="200606090000"></a>
+  <div class="dTitle titleBar break-word">
+    <h2 style="display:inline;">
+      <a href="https://plaza.rakuten.co.jp/karasumorijinja/diary/200606090000/">大祓詞の中にある「天つ罪」について</a>
+    </h2>
+      </div>
+
+  <div class="lo">
+      <div class="dCate" style="margin:5px 0px 30px 0px;" >
+        カテゴリ：<a href="/karasumorijinja/diary/?ctgy=6">神道豆知識</a>
+    </div>
+            <div class="dText break-word">
+    神道では、人が犯すかもしれない罪を「天つ罪」「国つ罪」との２種に分けて考えています。「天津罪」･「国津罪」とも書かれます。<br />
+『延喜式』巻八「祝詞」に収録される大祓詞に対句として登場します。<br />
+今日はその「<a href="http://plaza.rakuten.co.jp/karasumorijinja/7000">大祓詞</a>」の中の「天つ罪」についてお話します。<br />
+<br />
+「天つ罪」とは「スサノオが天上（高天原）で犯した８種の罪」のことです。<br />
+天照大神が天上で行っていた、最も神聖なお仕事の一つ･･･すなわち、稲作をスサノオが以下の悪行を働いたことで、「天の岩戸」隠れをなさるのです。<br />
+「天つ罪」とはスサノオが行った悪行＝罪のことです。<br />
+その内容は以下の通り、農耕に関係するタブー、農耕を妨害する行為の内容です。いかに、米作りが神聖な行為であるかがここでも伺えます。<br />
+<br />
+・畔放<ｱﾊﾅﾁ> ：田の畦<ｱｾﾞ>を壊して、田の水を干し、稲の生長を妨げること。<br />
+<br />
+・溝埋<ﾐｿﾞｳﾒ>：田に水を引くために設けた溝を埋め、田へ水が通わなくすること。<br />
+<br />
+・樋放<ﾋﾊﾅﾁ>：田に水を引くために設けた樋<ﾄｲ>を壊し、田へ水が通わなくすること。<br />
+<br />
+・頻播<ｼｷﾏｷ>：ある人が種を蒔いたところへ、別の人が重ねて種を蒔いて、作物の生長を妨害すること。又、自分のものとしてしまうこと。<br />
+<br />
+・串刺<ｸｼｻｼ>：作物の収穫時に、他人の田畑に所有権を示す札や杭を立て、それが自分のものであるとし、所有権を侵害すること。<br />
+<br />
+・生剥<ｲｷﾊｷﾞ>：生きている馬の皮を剥ぐこと。<br />
+<br />
+・逆剥<ｻｶﾊｷﾞ>：馬の皮を尻の方から剥ぐこと。<br />
+<br />
+・糞戸<ｸｿﾍ>：祭場に汚物を撒き散らすこと。<br />
+<br />
+現在、多くの神社の「大祓詞」は、「天つ罪」・「国つ罪」の罪名の部分はカットされています。すなわち、現在の大祓詞で「天つ罪 国つ罪 許許太久（ここだく）の罪出でむ」となっている部分は、本来は「天つ罪と 畦放 溝埋 樋放 頻蒔 串刺 生剥 逆剥 屎戸 許多の罪を天つ罪と法（の）り別（わ）けて 国つ罪と 生膚断 死膚断 白人 胡久美 おのが母犯せる罪 おのが子犯せる罪 母と子と犯せる罪 子と母と犯せる罪 畜犯せる罪 昆ふ虫の災 高つ神の災 高つ鳥の災 畜仆し蟲物する罪 許多の罪出でむ」でありました。<br />
+<br />
+当社「夏越の大祓」神事は６月３０日午後５時斎行致します。<br />
+１５日頃には、境内に「茅の輪」と「形代」をご用意致します。<br />
+<br />
+<img src="https://image.space.rakuten.co.jp/lg01/20/0000181520/35/imge1b13d2ajmblio.jpeg" width="270" height="199" alt="社殿前の茅の輪" border="0">　<img src="https://image.space.rakuten.co.jp/lg01/20/0000181520/36/img54ef7a2bjmbt7g.jpeg" width="177" height="240" alt="参道茅の輪" border="0"><br />
+昨年の「夏越の大祓」の「茅の輪」<br />
+<br />
+年末に形代をお納めになった方は勿論、今まで「大祓」をされていらっしゃらない方も、半年の罪・穢れを「形代」に移し「大祓」神事でお清め致します。<br />
+元気に夏を乗り切り、年末まで健やかに過ごせるよう、「形代」にご自身の罪･穢れを移し、お納め下さい。<br />
+大祓のお札も形代と一緒にご用意致します。<br />
+
+    </div>
+        <br />
+    <br />
+    <br clear="all" />
+      <br />
+    <br />
+
+            <div id="commonAdsParts" style="text-align:center;margin:10px;">
+
+</div>
+      
+       <div id="diaryLikeArea">
+<div class="headDeco">お気に入りの記事を「いいね！」で応援しよう</div>
+<button id="btnDLike_200606090000" class="btnDlike" data-diaryid="200606090000" data-baseurl="karasumorijinja" data-token="68313df35fff.C3tXpQLy7CW9BRsUQ_dlFJ2N23aKPXCDPnMztMzUeNU.ZAsk13Cg3RTzcUMmDpI2ZPrgvQ65ayPOUCBd3bSDAKBvGmHpUJjVF-gwaA" data-my="" data-cnt="0" data-href="//my.plaza.rakuten.co.jp"><span class="like-thumb-icon"></span><span class="btnDlike_txt">いいね！</span><span class="btnDlike_cnt">0</span></button>
+</div>
+     <script src="//plaza.jp.rakuten-static.com/assets/load_once.50960984.js?v001"></script>
+<div align="left" style="">
+  <div style="float:left;">
+    <a href="https://twitter.com/share?text=%E5%A4%A7%E7%A5%93%E8%A9%9E%E3%81%AE%E4%B8%AD%E3%81%AB%E3%81%82%E3%82%8B%E3%80%8C%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%80%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6&url=http://plaza.rakuten.co.jp/karasumorijinja/diary/200606090000%2F%3Fscid%3Dwe_blg_tw01&hashtags=r_blog" target="_blank" >
+      <img src="//plaza.jp.rakuten-static.com/img/user/social/btn_tweet_x.png" width="80" height="20" alt="TWITTER" align="top" border="0">
+    </a>
+  </div>
+  <div style="float:left;margin-left:5px;margin-bottom: 5px;">
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v18.0&appId=152784435807127" nonce="wCt0xn5y"></script>
+    <div class="fb-share-button" data-href="http://plaza.rakuten.co.jp/karasumorijinja/diary/200606090000/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://plaza.rakuten.co.jp/karasumorijinja/diary/200606090000/&src=sdkpreparse" class="fb-xfbml-parse-ignore">シェアする</a></div>
+  </div>
+  <div style="float:left;margin-left:5px;margin-bottom: 5px;">
+    <div class="line-it-button" data-lang="ja" data-type="share-a" data-url= "http://plaza.rakuten.co.jp/karasumorijinja/diary/200606090000/?scid=we_blg_line01" style="display: none;" ></div>
+       <div id="loadlineuridata" style="display:none;" data-load-data="{&quot;uri&quot;:&quot;https:\/\/d.line-scdn.net\/r\/web\/social-plugin\/js\/thirdparty\/loader.min.js&quot;,&quot;name&quot;:&quot;line-jssdk&quot;}"></div>
+   </div>
+  <div style="float:left;margin-left:5px;margin-bottom: 5px;">
+    <a href="http://b.hatena.ne.jp/entry/s/plaza.rakuten.co.jp/karasumorijinja/diary/200606090000/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" data-hatena-bookmark-width="115" data-hatena-bookmark-height="20" title="このエントリーをはてなブックマークに追加" >
+    </a>
+       <div id="loadhatenauridata" style="display:none;" data-load-data="{&quot;uri&quot;:&quot;https:\/\/b.st-hatena.com\/js\/bookmark_button.js&quot;,&quot;name&quot;:&quot;hatena-jssdk&quot;}"></div>
+  </div>
+</div>
+<br clear="all">
+      <div align="right">
+    最終更新日&nbsp;
+      2006年06月09日 15時49分08秒
+      <br />
+        </div>
+    
+            <div id="featureCategory">
+<div class="dTitle break-word">
+  [神道豆知識] カテゴリの最新記事
+</div>
+<ul>
+  <li>
+    <p class="arrow">&nbsp;</p>
+    <p class="content">
+      <a href="/karasumorijinja/diary/200612130000/?scid=we_blg_pc_lastctgy_1_title" class="title">お歳暮について　～事始め～</a>
+      <span class="date">2006年12月13日</span>
+          </p>
+  </li>
+  <li>
+    <p class="arrow">&nbsp;</p>
+    <p class="content">
+      <a href="/karasumorijinja/diary/200611230000/?scid=we_blg_pc_lastctgy_2_title" class="title">勤労感謝の日・新嘗祭について</a>
+      <span class="date">2006年11月23日</span>
+          </p>
+  </li>
+  <li>
+    <p class="arrow">&nbsp;</p>
+    <p class="content">
+      <a href="/karasumorijinja/diary/200610170000/?scid=we_blg_pc_lastctgy_3_title" class="title">神嘗祭～２～</a>
+      <span class="date">2006年10月17日</span>
+          </p>
+  </li>
+</ul>
+</div>
+<p class="moreLink"><a href="/karasumorijinja/diary/ctgylist/?ctgy=6&scid=we_blg_pc_lastctgy_more"><span>もっと見る</span></a></p>
+      </div>
+
+     
+                    <div id="commonAdsParts" style="text-align:center;margin:10px;">
+<!-- 7727/RakutenBlog/User/KijiRect -->
+  <div id='RGPT_Rak_Blog_User_KijiRect' align="center"></div>
+  <script>
+    var rdntag = rdntag || {};
+    rdntag.cmd = rdntag.cmd || [];
+    rdntag.cmd.push(function () {
+      rdntag
+        .defineAd("1143", "RGPT_Rak_Blog_User_KijiRect");
+      rdntag.display("RGPT_Rak_Blog_User_KijiRect");
+    });
+  </script>
+  <script src="https://s-cdn.rmp.rakuten.co.jp/js/aa.js" async></script>
+  <script>
+    document.getElementById('RGPT_Rak_Blog_User_KijiRect').addEventListener('slotResponseReceived', function (e) {
+      if (e && e.detail) {
+        if (e.detail.adReturned) {
+          var elm = document.getElementById("RGPT_Rak_Blog_User_KijiRect");
+          var iframe = elm.querySelector('[data-rdn-session]');
+          iframe.style.display = "inline";
+        } else {
+          window.googletag = window.googletag || { cmd: [] };
+          googletag.cmd.push(function () {
+            window.fluxtag.runaDivIds.push('RGPT_Rak_Blog_User_KijiRect');
+            googletag.defineSlot('/7727/RakutenBlog/User/KijiRect', [[300, 250], [336, 280], [1, 1]], 'RGPT_Rak_Blog_User_KijiRect').addService(googletag.pubads());
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+            window.fluxtag.renderAds([{code: '/7727/RakutenBlog/User/KijiRect',sizes: [[300, 250], [336, 280], [1, 1]],divId: 'RGPT_Rak_Blog_User_KijiRect',}]);
+          });
+        }
+      }
+    });
+  </script>
+<!-- /7727/RakutenBlog/User/KijiRect -->
+
+
+
+
+
+
+<br><br>
+
+<!-- /7727/RakutenBlog/User/InRead -->
+  <div id='RGPT_Rak_Blog_User_InRead'></div>
+  <script>
+    var rdntag = rdntag || {};
+    rdntag.cmd = rdntag.cmd || [];
+    rdntag.cmd.push(function () {
+      rdntag
+        .defineAd("33354", "RGPT_Rak_Blog_User_InRead");
+      rdntag.display("RGPT_Rak_Blog_User_InRead");
+    });
+  </script>
+  <script src="https://s-cdn.rmp.rakuten.co.jp/js/aa.js" async></script>
+  <script>
+    document.getElementById('RGPT_Rak_Blog_User_InRead').addEventListener('slotResponseReceived', function (e) {
+      if (e && e.detail) {
+        if (e.detail.adReturned) {
+          var elm = window.top.document.getElementById("RGPT_Rak_Blog_User_InRead");
+          var iframe = elm.querySelector('[data-rdn-session]');
+          iframe.style.display = "inline";
+        } else {
+          window.googletag = window.googletag || { cmd: [] };
+          googletag.cmd.push(function () {
+            window.fluxtag.runaDivIds.push('RGPT_Rak_Blog_User_InRead');
+            googletag.defineSlot('/7727/RakutenBlog/User/InRead', [[300, 250], [336, 280], [1, 1]], 'RGPT_Rak_Blog_User_InRead').addService(googletag.pubads());
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+            window.fluxtag.renderAds([{code: '/7727/RakutenBlog/User/InRead',sizes: [[300, 250], [336, 280], [1, 1]],divId: 'RGPT_Rak_Blog_User_InRead',}]);
+          });
+        }
+      }
+    });
+  </script>
+<!-- /7727/RakutenBlog/User/InRead -->
+</div>
+              <script type="text/javascript">
+var diaryId = '200606090000';
+var baseUrl = 'karasumorijinja';
+var token = '68313df35fff.C3tXpQLy7CW9BRsUQ_dlFJ2N23aKPXCDPnMztMzUeNU.ZAsk13Cg3RTzcUMmDpI2ZPrgvQ65ayPOUCBd3bSDAKBvGmHpUJjVF-gwaA';
+</script>
+<!-- 7727/RakutenBlog/User/RectInArticle -->
+<script>
+
+  /* ------------- Below script to create gpt ad div ------------- */
+  var pointAdElm =  document.getElementById('div-plaza-point-ad-' + diaryId);
+  if (typeof(pointAdElm) != 'undefined' && pointAdElm != null) {
+    var iCapBef = document.createElement('div');
+    iCapBef.classList.add('band');
+    iCapBef.innerText = '----Blo-katsu AD----';
+    pointAdElm.appendChild(iCapBef);
+
+    var iDiv = document.createElement('div');
+    iDiv.id = 'div-gpt-ad-1676430817462-0-' + diaryId;
+    pointAdElm.appendChild(iDiv);
+
+    var iCapAft = document.createElement('div');
+    iCapAft.classList.add('band');
+    iCapAft.innerText = '----Blo-katsu AD----';
+    pointAdElm.appendChild(iCapAft);
+  }
+  /* -------------- End create gpt ad div Script ------------------- */
+
+  var rdntag = rdntag || {};
+  rdntag.cmd = rdntag.cmd || [];
+  rdntag.cmd.push(function () {
+    rdntag
+      .defineAd("21853", "div-gpt-ad-1676430817462-0-" + diaryId);
+    rdntag.display("div-gpt-ad-1676430817462-0-" + diaryId);
+  });
+</script>
+<script src="https://s-cdn.rmp.rakuten.co.jp/js/aa.js" async></script>
+<script>
+var element =  document.getElementById('div-gpt-ad-1676430817462-0-' + diaryId);
+if (typeof(element) != 'undefined' && element != null)
+  {
+  document.getElementById('div-gpt-ad-1676430817462-0-' + diaryId).addEventListener('slotResponseReceived', function (e) {
+    if (e && e.detail) {
+      if (e.detail.adReturned) {
+        var elm = document.getElementById("div-gpt-ad-1676430817462-0-" + diaryId);
+        var iframe = elm.querySelector('[data-rdn-session]');
+        iframe.style.display = "inline";
+      } else {
+        window.googletag = window.googletag || { cmd: [] };
+        googletag.cmd.push(function () {
+          window.fluxtag.runaDivIds.push('div-gpt-ad-1676430817462-0-' + diaryId);
+          googletag.defineSlot('/7727/RakutenBlog/User/RectInArticle', [[1, 1], [300, 250], [336, 280]], 'div-gpt-ad-1676430817462-0-' + diaryId).addService(googletag.pubads());
+          googletag.pubads().collapseEmptyDivs();
+          googletag.enableServices();
+          window.fluxtag.renderAds([{code: '/7727/RakutenBlog/User/RectInArticle',sizes: [[1, 1], [300, 250], [336, 280]],divId: 'div-gpt-ad-1676430817462-0-' + diaryId,}]);
+        });
+      }
+    }
+   });          
+ 
+ 
+      /* ------------- Below script for Impression Viewable ------------- */        
+      window.googletag = window.googletag || {cmd: []};
+          googletag.cmd.push(function () {
+          googletag.pubads().addEventListener('impressionViewable', function(event) {
+          var slotId = event.slot.getSlotElementId();
+          var targetSlot = document.getElementById("div-gpt-ad-1676430817462-0-" + diaryId);
+          if (slotId === 'div-gpt-ad-1676430817462-0-' + diaryId) {
+           _pointad.callPointAdApi(diaryId,baseUrl,token);
+          }  
+         });
+         googletag.enableServices();
+         googletag.pubads().collapseEmptyDivs();
+       });
+      /* ------------ End Impression Viewable Script -------------------- */
+}
+</script>
+<!-- /7727/RakutenBlog/User/RectInArticle -->
+
+
+              
+    <!-- google_ad_section_end(name=rakuten1) -->
+  <!-- rakuten_ad_target_end -->
+
+  </div>
+<div id="underMainNavi" style="display: none">
+<div class="mainNavi">
+  <div class="mainNaviContents mainNaviLeft mainNaviSide" style="width:27%;">
+        <p class="main_title"><a href="/karasumorijinja/diary/200606100000/">&lt; 新しい記事</a></p>
+      </div>
+
+    <div class="mainNaviContents mainNaviCenter" style="width:45%;">
+              <p class="main_title"><a href="/karasumorijinja/diaryall/">新着記事一覧(全518件)</a></p>
+        </div>
+
+  <div class="mainNaviContents mainNaviRight mainNaviSide"  style="width:27%;">
+          <p class="main_title"><a href="/karasumorijinja/diary/200606070000/">過去の記事 &gt;</a></p>
+      </div>
+</div>
+</div>
+</td>
+
+<div id="sideNavi">
+  <ul>
+    <li class="sideHome"><a href="/karasumorijinja/"><img src="//plaza.jp.rakuten-static.com/img/navi/pc/home.png" border="0"><br />ホーム</a></li>
+          <li class="sideAll"><a href="//my.plaza.rakuten.co.jp/?func=diary&act=okini&sub_act=add_from&TargetID=12twex" border = "0"><img src="//plaza.jp.rakuten-static.com/img/navi/pc/favorite.png" border="0"><br />フォローする</a></li>
+              <li class="sideNext"><a href="/karasumorijinja/diary/200606070000/"><img src="//plaza.jp.rakuten-static.com/img/navi/pc/arrow_right.png" border="0"><br />過去の記事</a></li>
+              <li class="sideBack"><a href="/karasumorijinja/diary/200606100000/"><img src="//plaza.jp.rakuten-static.com/img/navi/pc/arrow_left.png" border="0"><br />新しい記事</a></li>
+        <li class="sideAll"><a href="/karasumorijinja/diaryall/"><img src="//plaza.jp.rakuten-static.com/img/navi/pc/list.png" border="0"><br />新着記事</a></li>
+    <li class="sideTop"><a href="javascript:void(0);" onclick="jQuery('html, body').animate({scrollTop:0});return false;"><img src="//plaza.jp.rakuten-static.com/img/navi/pc/top.png" border="0"><br />上に戻る</a></li>
+  </ul>
+</div>
+<div id="mission-window">
+    <input type="hidden" id="userCheck" data-my="" data-save="" data-choice="1" data-total="518"/>
+    <div id="mission-window-during">
+        <div class="inner">
+            <div class="mission-status">
+                <div>【毎日開催】</div>
+                <div class="mission-progress-title">15記事にいいね！で1ポイント</div>
+            </div>
+            <div class="progress-bar-and-count">
+                <div>
+                    <div class="mission-stay">
+                        <span class="mission-stay-bar">
+                            <span class="loading-inner-text">10秒滞在</span>
+                            <span id="mission-stay-bar-item-id" class="mission-stay-bar-item"></span>
+                        </span>
+                        <span class="mission-loading-tick"></span>
+                    </div>
+                    <div class="mission-read-end">
+                        <div class="mission-read-end-1">
+                        <span class="mission-like-count-txt">いいね!</span>
+                        <span class="mission-like-count"><span class="mission-progress-count">--</span><span>/</span><span class="mission-times-count">--</span></span>
+                        </div>
+                        <div class="mission-read-end-2">
+                            <span class="mission-complete-tick"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="mission-next-diary-btn">
+                    <a href="/"><span>次の日記を探す</span></a>
+                </div>
+                <div class="mission-next-article-loading"></div>
+            </div>
+        </div>
+        <div class="mission-window-close"></div>
+    </div>
+</div><div id="mission-completed-model">
+    <div class="mission-model-inner">
+        <div class="mission-model-img"><img src="//plaza.jp.rakuten-static.com/my/img/common/iconMissionPoint.png" width="47" height="47"></div>
+        <div class="mission-model-text">おめでとうございます！<br>ミッションを達成しました。</div>
+        <div><button type="button" class="mission-model-btn" id="mission-play-btn">広告を見てポイントを獲得する</button></div>
+        <div class="mission-model-small-text">※「ポイントを獲得する」ボタンを押すと広告が表示されます。</div>
+        <a href="#" class="mission-model-close">x</a>
+    </div>
+</div><div id="mission-login-failed-model">
+    <div class="mission-login-failed-inner">
+        <div class="mission-login-failed-img"><img src="//plaza.jp.rakuten-static.com/my/img/common/warning.svg" width="47" height="47"></div>
+        <div class="mission-login-failed-text">エラーにより、アクションを達成できませんでした。下記より再度ログインの上、改めてミッションに参加してください。</div>
+        <div><button class="mission-login-failed-btn">ログインする</button></div>
+        <a href="#" class="mission-login-failed-close">x</a>
+    </div>
+</div><script type="text/javascript">
+    window.closeRaPopUp = function() {
+        var target = window.document.querySelector('#raPopup');
+        if (target.classList.contains('ra-is-visible')) {
+            window.document.getElementById("raOverlay").style.display="none";
+            target.classList.remove('ra-is-visible');
+            document.body.style.overflow = 'visible';
+        }
+    }
+</script>
+<div id="raOverlay"></div>
+<div id="raPopup">
+    <div class="runa-ad-2-popup-container">
+        <div id="runa-ad-display-slot"></div>
+        <a href="#0" class="ra_runa-ad-2-popup-close img-replace-runa-ad-2" onclick="closeRaPopUp();return false;">X</a>
+    </div>
+</div><script>
+function runaAd2Fun() {
+        var runaAdDivElement = "runa-ad-display-slot";
+        var raAdElm =  document.getElementById(runaAdDivElement);
+        var runaAdDiv = document.createElement('div');
+        runaAdDiv.id = 'rdn-adspot-29026-17231973';
+        raAdElm.appendChild(runaAdDiv);
+        window.rdntag = window.rdntag || {};
+        var rdntag = window.rdntag;
+        rdntag.cmd = rdntag.cmd || [];
+        rdntag.cmd.push(function() {
+            rdntag
+                .defineAd("29026", "rdn-adspot-29026-17231973");
+            rdntag.display("rdn-adspot-29026-17231973");
+        });
+        rdntag.execute();
+        document.getElementById('rdn-adspot-29026-17231973').addEventListener('slotResponseReceived', function (e) {
+            if (e && e.detail && e.detail.adReturned) {
+        window.document.getElementById("raPopup").classList.add("ra-is-visible");
+        window.document.getElementById("raOverlay").style.display = "block";
+                document.body.style.overflow = 'hidden';
+            }
+        });
+ 
+}
+</script>
+ 
+<style>
+.runa-ad-2-popup-container .ra_runa-ad-2-popup-close {
+    position: absolute;
+    top: -50px;
+    right: 0px;
+    width: 50px;
+    height: 50px;
+    opacity: 0.9;
+}
+ 
+.runa-ad-2-popup-container .ra_runa-ad-2-popup-close::before, .runa-ad-2-popup-container .ra_runa-ad-2-popup-close::after {
+    position: fixed;
+    width: 3px;
+    background-color: #d1d1d1;
+    content: ' ';       
+    height: 44px; /*Change this value to increase and decrease close button size */
+    top: -40px; /*adjust the top position after changing the height */
+    right: 15px;  /*adjust the left position after changing the height */    
+}
+.runa-ad-2-popup-container .ra_runa-ad-2-popup-close::before {
+    transform: rotate(45deg);
+}
+.runa-ad-2-popup-container .ra_runa-ad-2-popup-close::after {
+    transform: rotate(-45deg);
+}
+</style>
+    <td id="content-side" class="sideline_left" >
+    <div id="content-sticky" data-sticky="true">
+    <table border="0" cellpadding="0" width="330px" cellspacing="0">
+  <tr>
+    <td style="padding-right: 16px;">
+      <p class="side_title">PR</p>
+      <div class="side_lo">
+                  <!-- GenieeWipeAds -->
+<!-- Geniee Wrapper Head Tag -->
+<script>
+  window.gnshbrequest = window.gnshbrequest || {cmd:[]};
+  window.gnshbrequest.cmd.push(function(){
+    window.gnshbrequest.forceInternalRequest();
+  });
+</script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script async src="https://cpt.geniee.jp/hb/v1/215414/621/wrapper.min.js"></script>
+<!-- /Geniee Wrapper Head Tag -->
+<!-- Geniee Wrapper Body Tag 1575610 -->
+<div data-cptid="1575610" style="display: block;">
+<script>
+  window.gnshbrequest.cmd.push(function() {
+    window.gnshbrequest.applyPassback("1575610", "[data-cptid='1575610']");
+  });
+</script>
+</div>
+<!-- /Geniee Wrapper Body Tag 1575610 -->
+<!-- GenieeWipeAds -->
+
+<!-- 7727/RakutenBlog/User/SideBanner -->
+  <div id='RGPT_Rak_Blog_User_SideBanner' align="center" style='min-height: 250px;'></div>
+  <script>
+    var rdntag = rdntag || {};
+    rdntag.cmd = rdntag.cmd || [];
+    rdntag.cmd.push(function () {
+      rdntag
+        .defineAd("1142", "RGPT_Rak_Blog_User_SideBanner");
+      rdntag.display("RGPT_Rak_Blog_User_SideBanner");
+    });
+  </script>
+  <script src="https://s-cdn.rmp.rakuten.co.jp/js/aa.js" async></script>
+  <script>
+    document.getElementById('RGPT_Rak_Blog_User_SideBanner').addEventListener('slotResponseReceived', function (e) {
+      if (e && e.detail) {
+        if (e.detail.adReturned) {
+          var elm = window.top.document.getElementById("RGPT_Rak_Blog_User_SideBanner");
+          var iframe = elm.querySelector('[data-rdn-session]');
+          iframe.style.display = "inline";
+        } else {
+          window.googletag = window.googletag || { cmd: [] };
+          googletag.cmd.push(function () {
+            window.fluxtag.runaDivIds.push('RGPT_Rak_Blog_User_SideBanner');
+            googletag.defineSlot('/7727/RakutenBlog/User/SideBanner', [[300, 250]], 'RGPT_Rak_Blog_User_SideBanner').addService(googletag.pubads());
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+            window.fluxtag.renderAds([{code: '/7727/RakutenBlog/User/SideBanner',sizes: [[300, 250]],divId: 'RGPT_Rak_Blog_User_SideBanner',}]);
+          });
+        }
+      }
+    });
+  </script>
+<!-- /7727/RakutenBlog/User/SideBanner -->
+ 
+<!-- /7727/RakutenBlog/User/2ndSideBanner -->
+  <div id='RGPT_Rak_Blog_User_2ndSideBanner' align="center" style="margin-top: 20px; min-width: 300px; min-height: 250px;"></div>
+  <script>
+    var rdntag = rdntag || {};
+    rdntag.cmd = rdntag.cmd || [];
+    rdntag.cmd.push(function () {
+      rdntag
+        .defineAd("33355", "RGPT_Rak_Blog_User_2ndSideBanner");
+      rdntag.display("RGPT_Rak_Blog_User_2ndSideBanner");
+    });
+  </script>
+  <script src="https://s-cdn.rmp.rakuten.co.jp/js/aa.js" async></script>
+  <script>
+    document.getElementById('RGPT_Rak_Blog_User_2ndSideBanner').addEventListener('slotResponseReceived', function (e) {
+      if (e && e.detail) {
+        if (e.detail.adReturned) {
+          var elm = window.top.document.getElementById("RGPT_Rak_Blog_User_2ndSideBanner");
+          var iframe = elm.querySelector('[data-rdn-session]');
+          iframe.style.display = "inline";
+        } else {
+          window.googletag = window.googletag || { cmd: [] };
+          googletag.cmd.push(function () {
+            window.fluxtag.runaDivIds.push('RGPT_Rak_Blog_User_2ndSideBanner');
+            googletag.defineSlot('/7727/RakutenBlog/User/2ndSideBanner', [[300, 250]], 'RGPT_Rak_Blog_User_2ndSideBanner').addService(googletag.pubads());
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+            window.fluxtag.renderAds([{code: '/7727/RakutenBlog/User/2ndSideBanner',sizes: [[300, 250]],divId: 'RGPT_Rak_Blog_User_2ndSideBanner',}]);
+          });
+        }
+      }
+    });
+  </script>
+<!-- /7727/RakutenBlog/User/2ndSideBanner -->
+      <!-- 7727/RakutenBlog/All/FooterOverlay -->
+  <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || { cmd: [] };
+    googletag.cmd.push(function () {
+      var targetSlot = googletag.defineSlot('/7727/RakutenBlog/All/FooterOverlay', [[970, 90], [728, 90], [1, 1], 'fluid'], 'Rak_Blog_All_FooterOverlay').addService(googletag.pubads());
+      googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+        if (!event.isEmpty) {
+          var targetElement = document.getElementById('google_ads_iframe_/7727/RakutenBlog/All/FooterOverlay_0');
+          var gptAdCloseBtn = document.getElementById('rak-blog-all-footer-overlay-close-btn');
+
+          if (targetElement) {
+            targetElement.parentNode.style.backgroundColor = 'rgba(40,40,40,0.3)';
+          }
+
+          if (gptAdCloseBtn) {
+            gptAdCloseBtn.style.display = 'block';
+          }
+        }
+      });
+      googletag.pubads().collapseEmptyDivs();
+      googletag.pubads().setTargeting("blogAdDispValue", blogAdDispValue).setTargeting("blogAdDispTarget1", blogAdDispTarget1);
+      googletag.enableServices();
+      window.fluxtag.renderAds([{ code: '/7727/RakutenBlog/All/FooterOverlay', sizes: [[970, 90], [728, 90], [1, 1], 'fluid'], divId: 'Rak_Blog_All_FooterOverlay', }]);
+    });
+  </script>
+  <div id='Rak_Blog_All_FooterOverlay'>
+    <script>
+      googletag.cmd.push(function () { googletag.display('Rak_Blog_All_FooterOverlay'); });
+    </script>
+  </div>
+  <div id="rak-blog-all-footer-overlay-close-btn">
+    X
+    <script>
+      function gptAdClose() {
+        var ad_element = document.getElementById('Rak_Blog_All_FooterOverlay');
+        if (!ad_element) {
+          return;
+        }
+        ad_element.parentNode.removeChild(ad_element);
+        this.removeEventListener('click', gptAdClose, false);
+        this.parentNode.removeChild(this);
+      }
+      document.getElementById('rak-blog-all-footer-overlay-close-btn').addEventListener('click', gptAdClose, false);
+    </script>
+  </div>
+  <style>
+    #Rak_Blog_All_FooterOverlay>div {
+      position: fixed;
+      opacity: 1;
+      left: 0px;
+      bottom: 0px;
+      width: 100% !important;
+      z-index: 9997;
+    }
+
+    #google_ads_iframe_\/7727\/RakutenBlog\/All\/FooterOverlay_0 {
+      margin: 0 auto;
+      z-index: 9998;
+      text-align: center;
+      display: block;
+    }
+
+    #rak-blog-all-footer-overlay-close-btn {
+      position: fixed;
+      bottom: 60px;
+      right: 8px;
+      width: 16px;
+      height: 16px;
+      display: none;
+      cursor: pointer;
+      font-size: 24px;
+      z-index: 9998;
+    }
+  </style>
+  <!-- /7727/RakutenBlog/All/FooterOverlay -->
+
+<style>
+div.consent-modal-body div.consent-modal-body__title{
+  color:#000000; /*modalcss*/
+}
+</style>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" width="330px" cellspacing="0">
+  <tr>
+    <td style="padding-right: 16px;">
+      <p class="side_title">
+              フリーページ
+            </p>
+              <div class="side_lo break-word wide">
+                            <h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/2000/ ">例大祭について</a></h3><br /><img src="//plaza.jp.rakuten-static.com/img/user/blogparts/freepage/pagelist_line1.gif" align="absmiddle"><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/2001/ ">本社大神輿の説明</a></h3><br /><img src="//plaza.jp.rakuten-static.com/img/user/blogparts/freepage/pagelist_line1.gif" align="absmiddle"><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/2002/ ">担ぎ手の皆様へ</a></h3><br /><img src="//plaza.jp.rakuten-static.com/img/user/blogparts/freepage/pagelist_line2.gif" align="absmiddle"><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/2003/ ">本社神輿渡御進行図</a></h3><br /><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/3000/ ">御祭神と御神徳</a></h3><br /><img src="//plaza.jp.rakuten-static.com/img/user/blogparts/freepage/pagelist_line1.gif" align="absmiddle"><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/3001/ ">倉稲魂命</a></h3><br /><img src="//plaza.jp.rakuten-static.com/img/user/blogparts/freepage/pagelist_line1.gif" align="absmiddle"><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/3002/ ">天鈿女命</a></h3><br /><img src="//plaza.jp.rakuten-static.com/img/user/blogparts/freepage/pagelist_line2.gif" align="absmiddle"><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/3003/ ">瓊々杵尊</a></h3><br /><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/4000/ ">氏子町</a></h3><br /><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/5000/ ">神社へのアクセス</a></h3><br /><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/6000/ ">烏森神社授与品の御案内</a></h3><br /><img src="//plaza.jp.rakuten-static.com/img/user/blogparts/freepage/pagelist_line1.gif" align="absmiddle"><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/6001/ ">お守り</a></h3><br /><img src="//plaza.jp.rakuten-static.com/img/user/blogparts/freepage/pagelist_line1.gif" align="absmiddle"><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/6002/ ">御神札</a></h3><br /><img src="//plaza.jp.rakuten-static.com/img/user/blogparts/freepage/pagelist_line1.gif" align="absmiddle"><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/6003/ ">特別授与品各種</a></h3><br /><img src="//plaza.jp.rakuten-static.com/img/user/blogparts/freepage/pagelist_line1.gif" align="absmiddle"><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/6004/ ">心願色みくじ</a></h3><br /><img src="//plaza.jp.rakuten-static.com/img/user/blogparts/freepage/pagelist_line2.gif" align="absmiddle"><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/6005/ ">御朱印</a></h3><br /><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/7000/ ">大祓詞</a></h3><br /><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/9000/ ">のし袋の表書</a></h3><br /><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/11000/ ">節分祭特別参拝（2月１・２・３日）</a></h3><br /><img src="//plaza.jp.rakuten-static.com/img/user/blogparts/freepage/pagelist_line2.gif" align="absmiddle"><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/11001/ ">恵方開通護符</a></h3><br /><h3 class="side_contents" style="display:inline;"><a href = "//plaza.rakuten.co.jp/karasumorijinja/12000/ ">H27年　厄年表</a></h3><br /></DIV><!-- -->
+            </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" width="330px" cellspacing="0">
+  <tr>
+    <td style="padding-right: 16px;">
+      <p class="side_title">
+              カテゴリ
+            </p>
+              <div class="side_lo break-word wide">
+                                    
+      <h3 class="side_contents"><a href="//plaza.rakuten.co.jp/karasumorijinja/diary/?ctgy=0">カテゴリ未分類</a></h3>(59)<br />
+          
+      <h3 class="side_contents"><a href="//plaza.rakuten.co.jp/karasumorijinja/diary/?ctgy=3">お知らせ</a></h3>(146)<br />
+          
+      <h3 class="side_contents"><a href="//plaza.rakuten.co.jp/karasumorijinja/diary/?ctgy=1">年中行事</a></h3>(11)<br />
+          
+      <h3 class="side_contents"><a href="//plaza.rakuten.co.jp/karasumorijinja/diary/?ctgy=4">大祭関連</a></h3>(41)<br />
+          
+      <h3 class="side_contents"><a href="//plaza.rakuten.co.jp/karasumorijinja/diary/?ctgy=2">神社祭事</a></h3>(44)<br />
+          
+      <h3 class="side_contents"><a href="//plaza.rakuten.co.jp/karasumorijinja/diary/?ctgy=5">神社・境内について</a></h3>(79)<br />
+          
+      <h3 class="side_contents"><a href="//plaza.rakuten.co.jp/karasumorijinja/diary/?ctgy=12">授与品について</a></h3>(5)<br />
+          
+      <h3 class="side_contents"><a href="//plaza.rakuten.co.jp/karasumorijinja/diary/?ctgy=6">神道豆知識</a></h3>(54)<br />
+          
+      <h3 class="side_contents"><a href="//plaza.rakuten.co.jp/karasumorijinja/diary/?ctgy=7">人生儀礼</a></h3>(6)<br />
+          
+      <h3 class="side_contents"><a href="//plaza.rakuten.co.jp/karasumorijinja/diary/?ctgy=8">こよみ・祝日・季節などの豆知識</a></h3>(42)<br />
+          
+      <h3 class="side_contents"><a href="//plaza.rakuten.co.jp/karasumorijinja/diary/?ctgy=9">ご案内とお願い</a></h3>(11)<br />
+          
+      <h3 class="side_contents"><a href="//plaza.rakuten.co.jp/karasumorijinja/diary/?ctgy=10">新橋の街</a></h3>(16)<br />
+          
+      <h3 class="side_contents"><a href="//plaza.rakuten.co.jp/karasumorijinja/diary/?ctgy=11">ご参拝</a></h3>(4)<br />
+              </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" width="330px" cellspacing="0">
+  <tr>
+    <td style="padding-right: 16px;">
+      <p class="side_title">
+              <a href="https://plaza.rakuten.co.jp/karasumorijinja/backnumber/202601/">バックナンバー</a>
+            </p>
+              <div class="side_lo break-word wide">
+                            <div class="backnumberArea">
+<div class="backnumberList">
+2026年01月<br />
+2025年12月<br />
+2025年11月<br />
+</div>
+<div class="backnumberList">
+2025年10月<br />
+2025年09月<br />
+</div>
+</div>
+            </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" width="330px" cellspacing="0">
+  <tr>
+    <td style="padding-right: 16px;">
+      <p class="side_title">
+              <a href="https://plaza.rakuten.co.jp/karasumorijinja/diary/">日記/記事の投稿</a>
+            </p>
+              <div class="side_lo break-word wide">
+                            <a href="/karasumorijinja/diary/201603010000/">
+限定御朱印情報などはツイッターをご覧ください！
+</a>
+<br />
+<a href="/karasumorijinja/diary/201602280000/">
+３月３日
+</a>
+<br />
+<a href="/karasumorijinja/diary/201602030000/">
+節分授与品
+</a>
+<br />
+<a href="/karasumorijinja/diary/201602020000/">
+本日の節分授与品受付終了
+</a>
+<br />
+<a href="/karasumorijinja/diary/201601310000/">
+本日御朱印の受付時間
+</a>
+<br />
+            </div>
+    </td>
+  </tr>
+</table>
+<!-- Taboola infeed ads -->
+<div id="taboola-below-article-thumbnails-desktop" style="width:300px;margin:15px 0"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails-desktop',
+    placement: 'Below Article Thumbnails Desktop',
+    target_type: 'mix'
+  });
+</script>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+<!-- /Taboola infeed ads -->
+
+<script type="text/javascript">
+<!--
+jQuery.noConflict();
+jQuery(document).ready(function(){
+    if(jQuery('#RGPT_Rak_Blog_User_SideBanner2').length > 0) {
+        var bodyObj = jQuery('body'),
+            sideMotionWidgetObj = jQuery('#RGPT_Rak_Blog_User_SideBanner2'),
+            sideMotionWidgetObjTop = sideMotionWidgetObj.offset().top;
+
+        jQuery(window).on('scroll', function () {
+            if(jQuery(this).scrollTop() > sideMotionWidgetObjTop) {
+                bodyObj.addClass('adFixed');
+            } else {
+                sideMotionWidgetObjTop = sideMotionWidgetObj.offset().top;
+                bodyObj.removeClass('adFixed');
+            }
+        });
+    }
+});
+//-->
+</script>
+<style type="text/css">
+<!--
+#RGPT_Rak_Blog_User_SideBanner2 {
+  text-align: center;
+}
+body.adFixed .header {
+  margin-bottom: 64px;
+}
+body.adFixed #RGPT_Rak_Blog_User_SideBanner2 {
+    position: fixed;
+    top: 45px;  /* ←画面上との幅を変えるときはここを調節する */
+    text-align: center;
+z-index: 9 !important;
+}
+-->
+</style>
+
+<!-- 7727/RakutenBlog/User/SlideBanner2 -->
+<div id='RGPT_Rak_Blog_User_SideBanner2' style="width: 330px;"></div>
+<script>
+  var rdntag = rdntag || {};
+  rdntag.cmd = rdntag.cmd || [];
+  rdntag.cmd.push(function () {
+    rdntag
+      .defineAd("1151", "RGPT_Rak_Blog_User_SideBanner2");
+    rdntag.display("RGPT_Rak_Blog_User_SideBanner2");
+  });
+</script>
+<script src="https://s-cdn.rmp.rakuten.co.jp/js/aa.js" async></script>
+<script>
+  window.fluxtag.runaDivIds.push('RGPT_Rak_Blog_User_SideBanner2');
+  document.getElementById('RGPT_Rak_Blog_User_SideBanner2').addEventListener('slotResponseReceived', function (e) {
+    if (e && e.detail) {
+      if (e.detail.adReturned) {
+        var elm = document.getElementById("RGPT_Rak_Blog_User_SideBanner2");
+        var iframe = elm.querySelector('[data-rdn-session]');
+        iframe.style.display = "inline";
+      } else {
+        window.fluxtag.renderAds([{code: '/7727/RakutenBlog/User/SlideBanner2',sizes: [[300, 250], [300, 600]],divId: 'RGPT_Rak_Blog_User_SideBanner2',}]);
+      }
+    }
+  });
+</script>
+<!-- /7727/RakutenBlog/User/SlideBanner2 -->
+
+
+
+
+
+<script type="text/javascript">
+var stickyPosition = 1600;
+jQuery.noConflict();
+jQuery(document).ready(function(){
+    if(jQuery('#content-sticky').length > 0) {
+      var obj = jQuery('#content-sticky'),
+      objTop = obj.offset().top,
+      dataObj = document.getElementById('content-sticky');
+
+      jQuery(window).on('scroll', function () {
+          var sticky = dataObj.dataset.sticky;
+          var scrollTop = jQuery(this).scrollTop();
+          var scrollHeight = jQuery(document).height();
+          var windowHeight = jQuery(this).height();
+
+           if(scrollTop + windowHeight > scrollHeight - 10) {dataObj.dataset.sticky = "true";}
+           if(scrollTop - objTop < 0) {obj.removeClass('contentFixedRemoved');}
+           if(scrollTop - objTop > 0 && scrollTop < stickyPosition && sticky == "true") {
+              if(scrollTop + windowHeight < scrollHeight - 10) {
+                 obj.addClass('contentFixed');
+                 obj.removeClass('contentFixedRemoved');
+              } else {
+                 obj.removeClass('contentFixed');
+                 obj.removeClass('contentFixedRemoved');
+                 dataObj.dataset.sticky = "false";
+              }
+          } else {
+              if(obj.hasClass('contentFixed')) {
+                obj.removeClass('contentFixed');
+                 obj.addClass('contentFixedRemoved');
+                dataObj.dataset.sticky = "true";
+              }
+          }
+      });
+    }
+});
+</script>
+<style type="text/css">
+.contentFixed {
+  position: fixed;
+  top: 46px;
+  width: 330px;
+}
+
+.contentFixedRemoved {
+  position: absolute;
+  width: 330px;
+  top: 1600px;
+}
+</style>
+    </div>
+    </td>
+  </tr>
+</table>
+</div>
+<center>
+    <hr width="1000px">
+    <div>
+    &copy; Rakuten Group, Inc.
+  </div>
+</center>
+<script type="text/javascript">
+window._runaad = function(frequencyTime, isAdSuccess) {
+    if(isAdSuccess) {
+        if(frequencyTime > 0) {
+            var match = document.cookie.match(new RegExp('(^| )RBIAC=([^;]+)'));
+            if(match) {
+                window.document.getElementById("interstitial-popup").classList.remove("is-visible");
+                document.body.style.overflow = 'visible';
+            } else {
+                window.googletag = window.googletag || {cmd: []};
+                googletag.cmd.push(function() {
+                        googletag.pubads().setTargeting('OW_Blog', ['0']);
+                });
+                window.document.getElementById("interstitial-popup").classList.add("is-visible");
+                document.body.style.overflow = 'hidden';
+                var now = new Date();
+                now.setTime(now.getTime() + frequencyTime * 60 * 1000);
+                document.cookie = "RBIAC=all; expires=" + now.toGMTString() + "; path=/";
+            }
+        } else if(frequencyTime == 0) {
+            window.googletag = window.googletag || {cmd: []};
+            googletag.cmd.push(function() {
+                    googletag.pubads().setTargeting('OW_Blog', ['0']);
+            });
+            window.document.getElementById("interstitial-popup").classList.add("is-visible");
+            document.body.style.overflow = 'hidden';
+        } else {
+            window.document.getElementById("interstitial-popup").classList.remove("is-visible");
+            document.body.style.overflow = 'visible';
+        }
+    } else {
+        window.document.getElementById("interstitial-popup").classList.remove("is-visible");
+        document.body.style.overflow = 'visible';
+    }
+}
+
+window.closeRunaPopUp = function() {
+    var target = window.document.querySelector('#interstitial-popup');
+      if (target.classList.contains('is-visible')) {
+        target.classList.remove('is-visible');
+        document.body.style.overflow = 'visible';
+      }
+}
+
+window.document.onkeyup = function (event) {
+  if (event.which == 27 || event.keyCode == 27) {
+   var target = window.document.querySelector('#interstitial-popup');
+         if (target.classList.contains('is-visible')) {
+           target.classList.remove('is-visible');
+           document.body.style.overflow = 'visible';
+         }
+  }
+};
+
+</script>
+<div id="interstitial-popup">
+    <div class="interstitial-popup-container">
+        <script>
+let isRunaShow = true;
+var runa_freq_time = 15; // Set the frequency in minutes
+var raCookie = window.document.cookie.match(new RegExp('(^| )RBIAC=([^;]+)'));
+if(runa_freq_time != "") {
+        if(raCookie && runa_freq_time > 0){
+           isRunaShow = false;
+        } else if(runa_freq_time == 0) {
+           isRunaShow = true;
+        }
+} else {
+isRunaShow = false;
+}
+ 
+</script>
+<div id="rdn-adspot-27582-21999772" style="min-width:300px;min-height:250px;"></div>
+<script src="https://s-cdn.rmp.rakuten.co.jp/js/aa.js" async></script>
+<script>
+if(isRunaShow) {
+var rdntag = rdntag || {};
+rdntag.cmd = rdntag.cmd || [];
+rdntag.cmd.push(function() {
+  rdntag
+    .defineAd("27582", "rdn-adspot-27582-21999772");
+  rdntag.display("rdn-adspot-27582-21999772");
+});
+ 
+document.getElementById('rdn-adspot-27582-21999772').addEventListener('slotResponseReceived', function (e) {
+    if (e && e.detail && e.detail.adReturned) {
+           setTimeout(() => {
+                   _runaad(runa_freq_time, true);
+          }, "100");
+    } else {
+        setTimeout(() => {
+               _runaad(runa_freq_time, false);
+        }, "1000");
+    }
+});
+}
+</script>
+
+<style>
+.interstitial-popup-container .ra_interstitial-popup-close {
+    position: absolute;
+    top: -50px;
+    right: 0px;
+    width: 50px;
+    height: 50px;
+    opacity: 0.9;
+}
+ 
+.interstitial-popup-container .ra_interstitial-popup-close::before, .interstitial-popup-container .ra_interstitial-popup-close::after {
+    position: fixed;
+    width: 3px;
+    background-color: #d1d1d1;
+    content: ' ';
+    height: 44px; /*Change this value to increase and decrease close button size */
+    top: -40px; /*adjust the top position after changing the height */
+    right: 15px;  /*adjust the left position after changing the height */ 
+}
+.interstitial-popup-container .ra_interstitial-popup-close::before {
+    transform: rotate(45deg);
+}
+.interstitial-popup-container .ra_interstitial-popup-close::after {
+    transform: rotate(-45deg);
+}
+</style>
+        <a href="#0" class="ra_interstitial-popup-close img-replace" onclick="closeRunaPopUp();return false;">X</a>
+    </div>
+</div></div>
+
+<!-- RAT tags -->
+<form class="ratForm" name="ratForm" id="ratForm" style="display:none;">
+  <input type="hidden" name="rat" id="ratAccountId"   value="1014">
+  <input type="hidden" name="rat" id="ratServiceId"   value="1">
+  <input type="hidden" name="rat" id="ratServiceType" value="plaza">
+  <input type="hidden" name="rat" id="ratPageLayout"  value="pc">
+</form>
+<script type="text/javascript" src="//r.r10s.jp/com/rat/js/rat-main.js" async defer></script>
+<!-- /RAT tags-->
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async defer src="//www.instagram.com/embed.js"></script>
+
+
+</body>
+</html>

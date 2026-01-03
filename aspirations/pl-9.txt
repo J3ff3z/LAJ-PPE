@@ -1,0 +1,475 @@
+HTTP/2 200 
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+cache-control: no-cache, must-revalidate
+x-content-type-options: nosniff
+content-type: text/html; charset=utf-8
+content-language: pl
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 7 (http://drupal.org)
+link: </kazania-konferencje/pisane/cnoty-i-grzechy-glowne/o-grzechu-nieczystosci>; rel="canonical",</node/642>; rel="shortlink"
+date: Sat, 03 Jan 2026 16:46:46 GMT
+server: LiteSpeed
+retry-after: 3
+vary: User-Agent
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+<!DOCTYPE html>
+<html lang="pl" dir="ltr">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/kazania-konferencje/pisane/cnoty-i-grzechy-glowne/o-grzechu-nieczystosci" />
+<link rel="shortlink" href="/node/642" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1, user-scalable=no" />
+<link rel="shortcut icon" href="https://pietrasdawid.pl/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+  <title>O GRZECHU NIECZYSTOŚCI | Pietras Dawid</title>
+  <link type="text/css" rel="stylesheet" href="https://pietrasdawid.pl/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://pietrasdawid.pl/sites/default/files/css/css_0hv45Wxv-tPKJ_ViU-tSIWtsDt9-b4RagNR0pgXuccU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://pietrasdawid.pl/sites/default/files/css/css_ECOr2blrBFRvLUzQiul8aY6aCbnbJIVdSi7ThyPoPRs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://pietrasdawid.pl/sites/default/files/css/css_XlL-dvWAu8aTYpiuRMHkdJcNXopq8Ivixxiztf0O6Uk.css" media="all" />
+
+<!--[if (lt IE 9)]>
+<link type="text/css" rel="stylesheet" href="https://pietrasdawid.pl/sites/all/themes/eneton/css/ie8.css?q9wh2p" media="all" />
+<![endif]-->
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600&subset=latin-ext' rel='stylesheet' type='text/css'>
+
+  
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="https://pietrasdawid.pl/sites/default/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script>
+<script type="text/javascript" src="https://pietrasdawid.pl/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script type="text/javascript" src="https://pietrasdawid.pl/sites/default/files/js/js_j_GA_EM6vhTpaMMEzgB5xQQIWfpSMRcZU5TxPbWEh_k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").fadeIn();	
+			} else {
+				$("#toTop").fadeOut();
+			}
+		});
+		
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});	
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://pietrasdawid.pl/sites/default/files/js/js_-QTOW7v2Syq9KuhK8fQW0JdnW1L-cffgNJhRbx3lXCM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"eneton","theme_token":"S3OaACSw550vp2daPglK5-AOFvwSoHZBOyOdA_YqDZU","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/pl_iM9QxdVIe8kk0hRa0Q3lrCC_zOgP1DS-c4e4IBM7-Es.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"0":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/eneton\/eneton\/css\/eneton.css":1,"sites\/all\/themes\/eneton\/css\/style.css":1,"sites\/all\/themes\/eneton\/color\/colors.css":1,"sites\/all\/themes\/eneton\/css\/local.css":1,"sites\/all\/themes\/eneton\/css\/ie8.css":1}},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"","node_link_target":0,"image_count":"Zdj\u0119cie !current z !total","video_count":"Wideo !current z !total","page_count":"Strona !current z !total","lite_press_x_close":"Naci\u015bnij \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E by zamkn\u0105\u0107","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0,"useragent":"curl\/8.14.1"},"superfish":[{"id":"1","sf":{"animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Menu"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"16","maxWidth":"27","extraWidth":1}}},{"id":"4","sf":{"pathLevels":"0","animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Menu"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"27","maxWidth":"60","extraWidth":1}}}],"urlIsAjaxTrusted":{"\/kazania-konferencje\/pisane\/cnoty-i-grzechy-glowne\/o-grzechu-nieczystosci":true}});
+//--><!]]>
+</script>
+
+  <!-- Matomo -->
+  <script type="text/javascript">
+    var _paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="//statystyki.pietrasdawid.pl/";
+      _paq.push(['setTrackerUrl', u+'piwik.php']);
+      _paq.push(['setSiteId', '1']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <!-- End Matomo Code -->
+
+
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-642 node-type-kazania-konferencje-pisane" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Przejdź do treśći</a>
+  </div>
+    <div id="toTop"><span class="glyphicon glyphicon-chevron-up"></span></div>
+
+
+
+
+<!-- header -->
+<header id="header" role="banner" class="clearfix">
+	<div class="tran60">
+    <div class="container">
+
+        <!-- #header-inside -->
+        <div id="header-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+
+                                <div id="logo">
+                <a href="/" title="Strona główna" rel="home"> <img src="https://pietrasdawid.pl/sites/all/themes/eneton/logo.png" alt="Strona główna" /> </a>
+                </div>
+                
+                
+                
+                                <div id="logo-bok">
+                  <div class="region region-header">
+    <div id="block-block-16" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <div class="wmail1">
+<p>Potrzebujesz:</p>
+<ul><li>rozmowy? spowiedzi generalnej?</li>
+<li>kierownictwa duchowego?</li>
+</ul></div>
+<div class="wmail2 bgblue">
+<p>Napisz do mnie<br /><a href="mailto:pietrasdawid@poczta.fm">pietrasdawid@poczta.fm</a></p>
+</div>
+  </div>
+</div>
+  </div>
+                </div>
+                
+
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #header-inside -->
+    </div>
+    </div>
+</header>
+<!-- EOF: #header -->
+
+
+
+
+
+<!-- #main-navigation -->
+<div id="main-navigation" class="clearfix">
+    <div class="container">
+
+        <!-- #main-navigation-inside -->
+        <div id="main-navigation-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav role="navigation">
+                                                  <div class="region region-navigation">
+    <div id="block-superfish-1" class="block block-superfish clearfix">
+
+    
+  <div class="content">
+    <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-1 sf-single-items-6"><li id="menu-221-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" title="" class="sf-depth-1">Strona Główna</a></li><li id="menu-475-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/omnie" class="sf-depth-1">O Mnie</a></li><li id="menu-748-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/aktualnosci" title="" class="sf-depth-1">Aktualności</a></li><li id="menu-477-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/kazania-konferencje" class="sf-depth-1 menuparent">Kazania i Konferencje</a><ul><li id="menu-540-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/kazania-konferencje/pisane" class="sf-depth-2">Kazania i Konferencje Pisane</a></li><li id="menu-541-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/kazania-konferencje/video" class="sf-depth-2">Kazania i Konferencje Video</a></li></ul></li><li id="menu-478-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/inne-opracowania" class="sf-depth-1">Inne Opracowania</a></li><li id="menu-479-1" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/msza-trydencka" class="sf-depth-1">Msza Trydencka</a></li><li id="menu-480-1" class="last odd sf-item-7 sf-depth-1 sf-no-children"><a href="/katechezy-dla-doroslych" class="sf-depth-1">Katechezy dla Dorosłych</a></li></ul>  </div>
+</div>
+  </div>
+                                            </nav>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #main-navigation-inside -->
+
+    </div>
+</div>
+<!-- EOF: #main-navigation -->
+
+
+
+<!-- #page -->
+<div id="page" class="clearfix">
+
+    
+    <!-- #main-content -->
+    <div id="main-content">
+        <div class="container">
+
+            <!-- #messages-console -->
+                        <!-- EOF: #messages-console -->
+
+            <div class="row">
+
+                
+
+                <section class="col-md-8">
+
+                    <!-- #main -->
+                    <div id="main" class="clearfix">
+
+                                                                                    <h1 class="page-title">O GRZECHU NIECZYSTOŚCI</h1>
+                                                        
+
+
+                                                <!-- #breadcrumb -->
+                        <div id="breadcrumb" class="clearfix">
+                            <!-- #breadcrumb-inside -->
+                            <div id="breadcrumb-inside" class="clearfix">
+                            <ol class="breadcrumb"><li><a href="/kazania-konferencje/pisane">Kazania i Konferencje Pisane</a></li><li><a href="/kazania-konferencje/pisane/cnoty-i-grzechy-glowne">CNOTY I GRZECHY GŁÓWNE</a></li><li>O GRZECHU NIECZYSTOŚCI</li></ol>                            </div>
+                            <!-- EOF: #breadcrumb-inside -->
+                        </div>
+                        <!-- EOF: #breadcrumb -->
+                        
+                        
+                        <!-- EOF:#content-wrapper -->
+                        <div id="content-wrapper">
+
+
+
+                            
+                            <!-- #tabs -->
+                                                            <div class="tabs">
+                                                                </div>
+                                                        <!-- EOF: #tabs -->
+
+                            <!-- #action links -->
+                                                        <!-- EOF: #action links -->
+
+                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <article id="node-642" class="node node-kazania-konferencje-pisane clearfix">
+
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Ks. Dawid Pietras<br />
+Gorzów Wlkp. 21 V 2016 r.</p>
+<p class="rtecenter"><strong>KATECHEZA O GRZECHU NIECZYSTYM </strong></p>
+<p class="rtecenter"><em>Wolą Bożą jest wasze uświęcenie: powstrzymywanie się od rozpusty,<br />
+aby każdy umiał utrzymywać własne ciało w świętości i we czci,<br />
+a nie w pożądliwej namiętności, jak to czynią nie znający Boga poganie. (…)<br />
+Nie powołał nas Bóg do nieczystości, ale do świętości </em>(1 Tes 4,3-7).</p>
+<p class="rtejustify">Te słowa św. Pawła są dla nas wezwaniem do czystości serca, do walki o cnotę czystości. Dziś więc spojrzymy na grzech nieczystości. Zagadnienia dotkniemy w trzech punktach:</p>
+<p>1. Waga grzechu nieczystego.<br />
+2. Rodzaje grzechów nieczystości.<br />
+3. Jak walczyć z grzechem nieczystości.</p>
+<p><strong>1. WIELKOŚĆ GRZECHU NIECZYSTOŚCI</strong></p>
+<p class="rtejustify"><strong>Święci mówią, że o grzechach nieczystości nie powinno się rozprawiać szczegółowo.</strong> Św. Franciszek Salezy mówi, że samym rozprawianiem o tych grzechach możemy już splamić cnotę czystości. Jednakże skoro Biblia w tylu miejscach potępia grzech nieczysty, to i Kościół ma prawo nauczać o tym grzechu. Dziś jest to nader konieczne, kiedy ten grzech stał się tak rozpowszechniony i widzimy na niego społeczne przyzwolenie! Potrzebne są więc kazania wyjaśniające ten jeden z siedmiu grzechów głównych – nieczystość.    </p>
+<p class="rtejustify">Dlatego św. Jan Maria Vianney w kazaniu o grzechu nieczystym mówił: „Chcąc wam należycie przedstawić ciężkość tego przeklętego grzechu, który tyle dusz wiedzie na stracenie, należałoby otworzyć przed waszymi oczyma piekło z całą jego grozą i wskazać, jak strasznie chłoszcze wszechmoc Boża nieszczęśliwe ofiary tego występku. – Przyznacie, że człowiek nie zdoła pojąć należycie szkarady tego grzechu i surowości Bożej, która karze na wieki nieczystych. Powiem tylko tyle, że <strong>kto popełnia grzech nieczysty, dopuszcza się pewnego rodzaju świętokradztwa, bo znieważa członki Chrystusowe i świątynię Ducha Świętego, którą jest nasze ciało</strong> (1 Kor 6,15.19). Z tego można choć nieco pojąć, jak wielką obrazą Bożą jest ten grzech i na jak wielkie zasługuje kary”. Dokonujemy więc przez ten grzech profanacji ciała, które ma zmartwychwstać w chwale!  </p>
+<p class="rtejustify">Św. Paweł wołał: <em>„Strzeżcie się rozpusty. (…) Czyż nie wiecie, że ciało wasze jest świątynią Ducha Świętego, który w was jest, a którego macie od Boga, i że już nie należycie do samych siebie?”</em> (1 Kor 6, 18-19). Akt małżeński jest rzeczywistością sakrum. Jest uczestnictwem rodziców w wielkim darze dawania nowego życia. Tego daru nie otrzymali nawet aniołowie!</p>
+<p class="rtejustify">Katechizm św. Piusa X mówi: „Nieczystość jest nader poważnym grzechem w oczach Boga i ludzi, gdyż zniża człowieka do poziomu nierozumnych zwierząt, pociąga do wielu innych grzechów i wad, a także <strong>przynosi najstraszniejsze kary zarówno w życiu doczesnym jak i w przyszłym</strong>”. Wiemy, że Sodoma i Gomora zostały zniszczone z powodu grzechów nieczystych, grzechów homoseksualizmu<strong>. „Krzyk Sodomy i Gomory rozmnożył się i grzech ich zbytnie ociężał” (Rdz 18,20). „Jak Sodoma i Gomora, i okoliczne miasta – (…) oddawszy się rozpuście i pożądaniu cudzego ciała – stanowią przykład przez to, że ponoszą karę wiecznego ognia” (Jd 7). </strong>Podobnie Pompeje, w których kwitły domy rozpusty zniszczone zostały z powodu wybuchu Wezuwiusza. Wiemy też jakie skutki przyniósł grzech cudzołóstwa, którego dopuścił się król Dawid.  </p>
+<p class="rtejustify">W pierwszych wiekach grzech <strong>apostazji, zabójstwa i cudzołóstwa</strong> uważano za największe przestępstwa. Było za nie od 7 do 10 lat pokuty, czyli wyłączenia z Kościoła. A kiedy po otrzymaniu rozgrzeszenia ktoś ponownie go popełnił, zostawał dozgonnie wyłączony z Kościoła. Zestawienie cudzołóstwa z zaparciem się wiary i zabójstwem skazuje na wyjątkowy ciężar gatunkowy grzechu nieczystego.</p>
+<p class="rtejustify">Maryja powiedziała bł. Hiacyncie z Fatimy: <strong>„Najwięcej ludzi trafia do piekła przez grzechy nieczystości”</strong>.  W Liście Judy czytamy: <em>„Ci właśnie na waszych agapach są zakałami, bez obawy oddają się rozpuście… samych siebie pasą… obłoki bez wody wiatrami unoszone… drzewa jesienne nie mające owocu, po dwakroć uschłe, wykorzenione… rozhukane bałwany morskie wypluwające swoją hańbę… gwiazdy zbłąkane, dla których nieprzeniknione ciemności na wieki przeznaczone” </em>(Jd 12-13). <em>Gwiazdy zbłąkane </em>to metafora do upadłych aniołów, których los potępienia podzielą rozpustnicy! „<strong>Dopiero na Sądzie Ostatecznym poznamy, ilu to ludzi wtrąciła nieczystość na wieczne potępienie.</strong> Tak, bracia moi, grzech ten jest okropnie szkaradnym i dlatego ludzie tajemnie go popełniają. Chcą go nawet ukryć w oczach własnych, bo dobrze wiedzą, jak ich upadla” – mówi św. Jan Vianney. <strong>Grzech nieczystości jest więc generalnie grzechem ciężkim. </strong>Choć oczywiście wina moralna może być w konkretnym przypadku mniejsza poprzez okoliczności łagodzące.</p>
+<p class="rtejustify">Apostoł Paweł poucza, że człowiek może <em>"doprowadzić siebie do zatwardziałości i oddać się rozpuście, popełniając zachłannie wszelkiego rodzaju grzechy nieczyste"</em> (Ef 4,19). Grzech ten pociąga bowiem za sobą szukanie coraz to mocniejszych doznań, bodźców…  Doświadczenia seksualne wdrukowują się w nas i popęd seksualny niewłaściwie realizowany staje się nałogiem. Wtedy stajemy się niewolnikami własnego popędu seksualnego. Tak jakby ogon machał psem, a nie pies ogonem! <strong>Są to nałogi bardzo trudne do pokonania! </strong>Potwierdza to wiele świadectw ludzi. Polecam również wykład egzorcysty ks. Piotra Glassa pt. <strong>„Demony seksu”</strong>. Ukazuje jak dochodzi również do opętania poprzez grzechy nieczyste!    </p>
+<p class="rtejustify">O powadze tego grzechu świadczy scena, którą mistycznie zobaczyła św. Faustyna: <strong>„Ujrzałam Pana Jezusa przywiązanego do słupa, z szat obnażonego, i zaraz nastąpiło biczowanie. (…) I dał mi Jezus poznać, za jakie grzechy poddał się biczowaniu, są to grzechy nieczyste”</strong> (<em>Dzienniczek</em>, nr 445). A okrucieństwo rzymskiego biczowania widzieliśmy chociażby w filmie „Pasja” Mela Gibsona.</p>
+<p class="rtejustify">Św. Piotr napisał o popełniających nieczystość: <em>„Za przyjemność uważając rozpustę uprawianą z dnia, jako zakały i plugawcy pławią się w tych uciechach, gdy z wami są przy stole. Oczy mając pełne kobiety cudzołożnej i niesyte grzechu, uwodzą oni dusze niestałe. (…) Wypowiadając bowiem słowa górnolotne a próżne, uwodzą żądzami cielesnymi i rozpustą (…). Wolność im głoszą, a sami są niewolnikami zepsucia” </em>(2 P 2,13-19). Ci wszyscy, którzy stworzyli <strong>ideologię gender</strong> są niewolnikami zepsucia i psują moralność innych. Wg tej ideologii płeć jest jedynie tworem kulturowo-społecznym. Niektórzy wyliczają 56 płci. Stąd nie istnieją żadne zasady moralne, każdy realizuje się seksualnie wg własnych potrzeb. Ta ideologia jest opracowana w podręczniki, programy nauczania i wtłaczana powoli w system edukacji! To prowadzi do zaburzeń osobowości oraz zupełnej rozwiązłości seksualnej u dzieci. Rozbije to rodzinę i zdeprawuje społeczeństwo. Grzech nieczysty prowadzi ludzi do ustanawiania praw sprzecznych nie tylko z moralnością, ale i z prawem naturalnym! <strong>Raport Światowej Organizacji Zdrowia</strong> promuje edukację seksualną typu B. Według niej dzieci do lat 4 mają wiedzieć o masturbacji, dzieci do lat 6 powinny wiedzieć czym jest miłość homoseksualna, do lat 9 umieć znać metody antykoncepcji, a do lat 12 ją stosować, do lat 15 znać rodzaje związków! Mamy więc doświadczenia z systemowym niszczeniem czystości serc nawet najmłodszych.  </p>
+<p><strong>2. RODZAJE GRZECHÓW NIECZYSTYCH </strong></p>
+<p class="rtejustify">Spójrzmy teraz na rodzaje grzechów nieczystości. Niektórym z tych grzechów należało by poświęcić więcej czasu. Szczególnie dlatego, że współczesny człowiek nierzadko nie rozumie, dlaczego jakiś czyn jest grzechem. Szczegółowe wyjaśnianie i ukazywanie wszelkich skutków poszczególnych grzechów nie jest jednak celem tej katechezy. Spójrzmy więc bliżej na te grzechy. </p>
+<p class="rtejustify"><strong>MYŚLI I POŻĄDANIA</strong></p>
+<p class="rtejustify"><em>„Każdy, kto pożądliwie patrzy na kobietę, już się w swoim sercu dopuścił z nią cudzołóstwa” </em>(Mt 5,28) - powiedział Pan Jezus. Także dziewiąte przykazanie Dekalogu mówi: „Nie pożądaj żony bliźniego swego”.</p>
+<p class="rtejustify">Oczywiście grzeszyć pożądaniem można i nie będąc małżonkiem. Św. Piotr pisze:<em> „Proszę, abyście jak przybysze i goście powstrzymywali się od cielesnych pożądań” </em>(1 P 2,11).   </p>
+<p class="rtejustify">Nie każda myśl, która nasunie się człowiekowi jest grzechem. Świat, szatan i pożądliwość ciała będą narzucać nam różne pokusy.<strong> Kiedy pokusę odrzucamy, zdobywamy zasługę i odnosimy zwycięstwo w duchowej walce!</strong> <strong>Dopiero, kiedy dana pokusa jest przez nas podjęta i rozwinięta w myśli, możemy mówić o grzechu. </strong>Św. Jan Vianney w kazaniu o grzechu nieczystym mówi, by rozróżniać przy spowiedzi nieczyste myśli od nieczystych pragnień. Między nimi jest różnica, bo pragnienia dążą do ich realizacji. Nie wolno nam lekceważyć myśli i pragnień, bo z nich rodzą się słowa i czyny. Bóg widzi nasze myśli i najtajniejsze pragnienia.   </p>
+<p class="rtejustify"><strong>SŁOWA</strong></p>
+<p class="rtejustify">Św. Jakub w swoim Liście pisze o języku: <em>Oto mały ogień, a jak wielki las zapala. Tak i język jest ogniem, sferą nieprawości </em>(Jk 3,5).</p>
+<p class="rtejustify">Św. Jan Vianney w swoim kazaniu mówił: „Grzeszyć możemy dalej słowami. Przez mowę wyrażamy na zewnątrz to, co myślimy, co dzieje się w naszym sercu. Należy się więc [w spowiedzi św.] oskarżyć ze wszystkich nieczystych słów i dodać, jak długo trwała brudna rozmowa, jakie pobudki skłoniły was do niej, wobec ilu i wobec jakich osób mówiliście o nieczystych rzeczach. Ach, bracia moi, dla wielu dzieci byłoby lepiej, gdyby wpadły w łapy tygrysa lub lwa, zamiast dostać się w towarzystwo wyuzdanych ludzi. Z obfitości serca mówią usta. Stąd łatwo zrozumiecie, jak muszą być zepsute serca tych niegodziwców, którzy brudzą się i tarzają w błocie nieczystości. O Boże, Tyś sam powiedział, że z owocu poznaje się drzewo! Ze szkaradnych rozmów poznaje się zgniliznę duchową człowieka”. Ileż to nieczystych dwuznacznych rozmów, <strong>żartów</strong> słyszymy wokół nas, chociażby w środowiskach pracy! Podobnie<strong> flirty, kokieteria… Granie na czyichś uczuciach poprzez słowa… Bezwstyd nie ma dziś granic. </strong></p>
+<p class="rtejustify">Św. Ludwik umierając, dał synowi swemu następującą wskazówkę: „Mów zawsze tak, byś się nie potrzebował rumienić, choćby się cały świat o tym dowiedział”. </p>
+<p class="rtejustify"><strong>NIESKROMNY UBIÓR</strong></p>
+<p class="rtejustify">Św. Paweł naucza:<em> „Podobnie kobiety – skromnie przyodziane, niech się przyozdabiają ze wstydliwością i umiarem, nie przesadnie zaplatanymi włosami, nie złotem czy perłami, czy kosztownym strojem, lecz dobrymi uczynkami, co przystoi kobietom, co przyznają się do pobożności” </em>(1 Tym 2,9-10).</p>
+<p class="rtejustify">Św. Bernard pisze, że <strong>osoby nieskromnie ubrane są narzędziami czarta, który posługuje się nimi, by zatracać dusze.</strong> Nie jeden gwałciciel zaczynał od spojrzenia na nieskromnie ubraną kobietę. To był początek jego zainteresowania się erotyką. <strong>Dziś w modę weszły dekolty, odsłonięte plecy, pępki,  ramiona, uda…</strong> Nowa moda ukazuje nam coraz to więcej golizny! Na rekolekcjach oazowych dziewczyny mają problem, w co się ubrać, bo większość ciuchów, jakie biorą są nieskromne. <strong>O zgrozo! To wchodzi nawet do naszych świątyń! </strong>O. Pio czasem odsyłał wiele kobiet spod konfesjonału do domu, by się ubrały właściwie. W środowiskach tradycji powraca zwyczaj ubierania na głowę <strong>mantylki</strong>. Chusta ta zakrywa włosy kobiety, jest wyrazem skromności, pokory i posłuszeństwa Kościołowi. Włosy też są zmysłowe, dlatego w świątyni kobiety je zakrywają. O potrzebie zakrywania głowy u kobiety podczas zgromadzeń litrugicznych św. Paweł napisał: <em>"Każda zaś kobieta, modląc się (...) z odkrytą głową, hańbi swoją głowę. (...) Czy wypada, aby kobieta z odkrytą głową modliła się do Boga?" </em>(1 Kor 11,1-16). Podobnie na audiencji u papieża kobiety zakrywają włosy.     </p>
+<p class="rtejustify"><strong>Ile ubiór rodzi nieczystych myśli, pragnień, spojrzeń, czynów… Jak iskra – rozpala las! </strong>Kobiety muszą zdać sobie sprawę, że mężczyzna jest wzrokowcem. Polecam film: „Naga prawda o skromności”. Ukazuje on jak ubiór działa na płeć przeciwną. Przecież kobieta może ubrać się elegancko, gustownie, ale przy tym skromnie! Nie musi ubierać się wyzywająco, by być zauważoną. <strong>Cały jednak dramat dzieje się tedy, kiedy kobieta robi to świadomie, żeby kusić.</strong> Jakże często kobiety nie rozumieją już tego problemu! Świadomie czy nie, poprzez nieodpowiedni strój stają się współwinne niejednego grzechu nieczystego!</p>
+<p class="rtejustify"><strong>A ile golizny widzi się na plaży!?</strong> Oczywiście trudno wszystkich osądzać o złe intencje, ale nie zaprzeczymy, że plaża jest idealnym miejscem na pokusy nieczyste. Dlatego sam osobiście wolę wypoczywać w górach. Mniej pokus i jakby bliżej Boga!          </p>
+<p class="rtejustify"><strong>SPOJRZENIA BEZWSTYDNE (PORNOGRAFIA, OBRAZY, ZDJĘCIA, SZTUKI TEATRALNE, KINO, FILM, CZYTANIE ROMANSÓW, GAZETY) </strong></p>
+<p class="rtejustify">W Katechizmie czytamy: „<strong><em>Pornografia</em></strong> polega na wyrwaniu aktów płciowych, rzeczywistych lub symulowanych, z intymności partnerów, aby w sposób zamierzony pokazywać je innym. <strong>Znieważa ona czystość, ponieważ stanowi wynaturzenie aktu małżeńskiego, wzajemnego intymnego daru małżonków.</strong> Narusza poważnie godność tych, którzy jej się oddają (aktorzy, sprzedawcy, publiczność), ponieważ <strong>jedni stają się dla drugich przedmiotem prymitywnej przyjemności i niedozwolonego zarobku</strong>. (…) Władze cywilne powinny zabronić <strong>wytwarzania</strong> i <strong>rozpowszechniania</strong> materiałów pornograficznych” (KKK 2354).</p>
+<p class="rtejustify">Dawniej pornografia nie była tak dostępna. Głównie posługiwano się kasetami video. Dziś w dobie Internetu dostęp wszelkiego rodzaju pornografii jest niezwykle prosty. Pornografia promuje wszelką perwersje seksualną… od pedofilii po homoseksualizm… a nawet gorsze zboczenia. <strong>Najczęściej wpisywanym hasłem w internecie na Google jest <em>sex</em>. </strong>W szerzenie erotyki wpisują się magazyny pornograficzne dostępne w kioskach, sklepach, na stacjach benzynowych. Widocznie <strong>magazyny erotyczne</strong> – podobnie jak <strong>prezerwatywy</strong> – są przedmiotami pierwszego użytku… Wykładane często na zewnątrz przyciągają wzrok klienta.</p>
+<p class="rtejustify">Prócz materiałów pornograficznych dzisiejszy człowiek styka się nieustannie <strong>z wszechobecną golizną</strong>. W <strong>filmach</strong>, <strong>teatrze</strong>, <strong>w handlu</strong>, <strong>w reklamach</strong>… Kupujesz w sklepie materiały budowlane, kosmetyki, bieliznę… musisz patrzeć na gołą kobietę lub nagiego mężczyznę. <strong>Seks stał się narzędziem marketingu.</strong> <strong>Firmy reklamowe wykorzystują pożądliwość i zmysłowość w reklamowaniu towaru. </strong>Oddziałują na wzrok, słuch, wyobraźnię… <strong>W grach komputerowych</strong>, <strong>w bajkach, zabawkach dla dzieci…</strong> również spotykamy erotykę. Kobiety przedstawiane są z idealnymi kształtami, biustami… Spójrzcie chociażby na ubiór postaci z gier komputerowych. Podobnie <strong>w przemyśle muzycznym</strong> coraz częściej promowane są perwersje, w tym homoseksualizm. Gwiazdy podziwiane przez młodzież promują liberalizm seksualny. <strong>W bajkach, filmach, teledyskach coraz częściej mamy do czynienia z podprogowym przekazem treści erotycznych.</strong> Np. w bajce „Król lew”, kiedy tenże lew pada zmęczony z ziemię, z pyłu tworzy się chmurka, która w ułamku sekundy układa się w wyraz <em>sex</em>. Dziecko tego nie zauważy, ale nasz mózg koduję tę informację. Podobnie ukryte są sceny erotyczne czy zdjęcia akcesoriów erotycznych. Sztuka „Golgota-piknik”, którą chciano wystawić w Polsce, to prócz bluźnierstwa, jedno wielkie promowanie seksu.</p>
+<p class="rtejustify">A czy <strong>czytanie romansów</strong> nie rozpala pożądliwości? Podobnie <strong>piśmidła dla kobiet</strong>, prezentujące model <strong><em>kobiety wyzwolonej</em></strong>… Czyż nie zawierają jakiegoś artykułu o seksie, o nowych trikach seksualnych… Artykuł na pierwszej stronie gazety dla kobiet pt. „Jak zaskoczyć partnera w łóżku?”. Wszystkie te tzw. kobiety wyzwolone należałoby zapytać, od czego one się wyzwoliły?</p>
+<p class="rtejustify">Ostatnio powstał program rozrywkowy - show, w którym uczestnicy występują nago! Jadę na egzamin po Warszawie i nagle widzę wielki billboard z napisem: „Pierwszy taki program w Polsce!”.  </p>
+<p class="rtejustify"><strong>OKAZJE </strong></p>
+<p class="rtejustify">Czy takimi okazjami nie są <strong>nocne imprezy z alkoholem</strong>… <strong>kluby nocne</strong>… <strong>plaże nudystów</strong>… <strong>dyskoteki… </strong>Czy stamtąd się wychodzi w stanie łaski uświęcającej? Czy nieskromne ubiory uczestników dyskotek… tańce z nieprzyzwoitym dotykaniem siebie… pożądliwe pocałunki… zapewnią duchowy wzrost naszej młodzieży? Grzechem będzie również tworzenie sytuacji idealnych do grzechu np. chłopak pozostaje u dziewczyny na noc. Jadą tylko we dwoje pod namiot itd. <strong>Podobnie chętne przebywanie z osobami rozpustnymi, serfowanie po Internecie godzinami bez celu!</strong> To wszystko jest narażaniem się na upadek. Również <strong>odpowiedzialność biorą rodzice i opiekunowie</strong>, za to, co dzieci czy młodzież ogląda. Rodzice z troski o dusze dzieci winni podjąć trud kontroli korzystania przez nich z Internetu.</p>
+<p class="rtejustify">Wiemy jak św. Jan Vianney walczył z tańcami w swojej parafii. Mówił, że taniec jest zmysłowy. W kazaniu powiedział: „Również <strong>bale i tańce są pod tym względem bardzo niebezpieczne</strong>. Wskutek nich przynajmniej trzy czwarte młodych ludzi dostaje się w ręce ducha nieczystego. (…) Tak, moi bracia, na Sądzie Ostatecznym poznamy, że <strong>przez zanadto światowe zabawy dziewczęta więcej popełniły grzechów, niż mają włosów na głowie</strong>. Ile wtedy bywa złych spojrzeń, pragnień, nieskromnych dotknięć, słów nieczystych, namiętnych uścisków, ile zazdrości i kłótni? – Powiedział dobrze cierpiący Hiob: <em>Trzymają bęben i harfę i weselą się przy głosie muzyki. Prowadzą w dobrach dni swoje, a w mgnieniu oka do piekła zstępują</em> (Hi 21,12-13)”. Oczywiście nie możemy potępić wszelkiego rodzaju tańca, ale zastanowić się trzeba czy dany rodzaj tańca nie wzbudza pożądliwości.   </p>
+<p class="rtejustify"><strong>CZYNY</strong></p>
+<p class="rtejustify">„Przez <strong><em>masturbację</em> </strong>należy rozumieć dobrowolne pobudzanie narządów płciowych w celu uzyskania przyjemności cielesnej. Zarówno Urząd Nauczycielski Kościoła wraz z niezmienną tradycją, jak i zmysł moralny chrześcijan stanowczo stwierdzają, że masturbacja jest aktem wewnętrznie i poważnie nieuporządkowanym. Bez względu na świadomy i dobrowolny motyw użycie narządów płciowych poza prawidłowym współżyciem małżeńskim w sposób istotny sprzeciwia się ich celowości. Poszukuje się w niej przyjemności płciowej poza relacją płciową, wymaganą przez porządek moralny, która urzeczywistnia w kontekście prawdziwej miłości pełny sens wzajemnego oddawania się sobie i przekazywania życia ludzkiego. W celu sformułowania wyważonej oceny odpowiedzialności moralnej konkretnych osób i ukierunkowania działań duszpasterskich należy wziąć pod uwagę <strong>niedojrzałość uczuciową, nabyte nawyki, stany lękowe lub inne czynniki psychiczne czy społeczne, które mogą zmniejszyć, a nawet zredukować do minimum winę moralną” (KKK 2352)</strong>. Nie każdy więc czyn ten jest grzechem ciężkim. Trzeba nam więc podejść do tego problemu z delikatnością. Sprawę skonsultować ze spowiednikiem czy kierownikiem duchowym.  </p>
+<p class="rtejustify">Św. Faustyna usłyszała od Jezusa: „Nie lękaj się ani walk duchowych, ani żadnych pokus; […] wiedz, że przez mężną walkę oddajesz mi wielką chwałę, a sobie skarbisz zasługi, pokusa daje sposobność do okazania mi wierności” (<em>Dzienniczek</em>, nr 1560). Walcząc z pokusą podobamy się Bogu i Bóg tę walkę doceni. To pocieszenie dla tych, którzy walczą z tą słabością.</p>
+<p class="rtejustify">„<strong><em>Nierząd</em></strong> <u>jest zjednoczeniem cielesnym między wolnym mężczyzną i wolną kobietą poza małżeństwem</u>. Jest on w poważnej sprzeczności z godnością osoby ludzkiej i jej płciowości w sposób naturalny podporządkowanej dobru małżonków, jak również przekazywaniu życia i wychowaniu dzieci. Poza tym nierząd jest poważnym wykroczeniem, gdy powoduje deprawację młodzieży” (KKK 2353).</p>
+<p class="rtejustify">Kard. J. Ratzinger w wywiadzie-rzece <em>Raport o stanie wiary </em>mówi o dwóch pęknięciach w dziedzinie seksualnej: <strong>oddzielenie płodności od małżeństwa</strong> oraz <strong>oddzielenie współżycia od płodności</strong>. Dziś w środkach społecznego przekazu, filmach, sztuce… <strong>seks pozamałżeński ukazywany jest jako coś normalnego</strong>. „Skoro się kochają, to mają prawo do tego”. Zastanówmy się jaki procent naszej młodzieży uznaje naukę Kościoła o czystości przedmałżeńskiej?<strong> Podobnie w mentalności wielu seks nie musi się wiązać z płodnością</strong>, już nie kojarzy się jako droga do poczęcia dziecka. Jest to jedynie zmysłowa przyjemność. Czy nie stąd bierze się nazywanie poczęcia dziecka „wypadkiem przy pracy”?         </p>
+<p class="rtejustify">Św. Piotr pisze: <em>„Wystarczy bowiem, że w minionym czasie spełnialiście wolę pogan i postępowaliście w rozwiązłościach, żądzach (…). Temu też się dziwią, że wy nie płyniecie w tym samym nurcie rozpusty, i źle o was mówią. </em>(1 P 4,3-4). I dziś niejedna matka, broniącą zasad moralnych, słyszy od swoich dzieci, że „jest ze średniowiecza”. Ostatnio do kancelarii przyszła osoba, która na chrzestnych proponowała osoby żyjące w konkubinatach. Sama również żyła w takim stanie. Po wyjaśnieniu jej, że nie mogą być chrzestnymi, odparła: „w jakim świecie ksiądz żyje!”.</p>
+<p class="rtejustify"><em>„Jest rzeczą wiadomą, jakie uczynki rodzą się z ciała: <strong>nierząd, nieczystość, wyuzdanie</strong>, bałwochwalstwo, czary, nienawiść, spory, zawiść (…) ci, którzy się takich rzeczy dopuszczają, królestwa Bożego nie odziedziczą”. </em>(Ga 4,19-21).     </p>
+<p class="rtejustify">Czyż nie z nierządu biorą się niechciane ciąże, a co za tym idzie: aborcje czy dzieci oddane do domów dziecka? <strong>Czyż nierząd nie jest powodem stosowania <em>antykoncepcji hormonalnej, pigułek Dzień-po, spirali domacicznej czy pigułki wczesnoporonnej</em>? </strong>A wiemy, że stosowanie tego łączy się z zabijaniem poczętego życia ludzkiego. Dokładnie to wyjaśniam w konferencji wygłoszonej podczas oazy: „Wartość ludzkiego życia”. <strong>Stosowanie antykoncepcji jest grzechem ciężkim.</strong> Ileż to razy się zdarza, że ginekologowie zachęcają do jej stosowania! Celowe ubezpłodnienie aktu małżeńskiego jest sprzeczne z celem małżeństwa i istotą tego aktu. Akt małżeński, by był zgodny z Bożym zamysłem musi spełniać dwa aspekty: otwarcie na życie (aspekt prokreacyjny) i wyrażać miłość (aspekt jednoczący). Wobec każdego małżeństwa Bóg zaplanował jakąś ilość dzieci. Stosując antykoncepcję niszczymy ten Boży zamysł. Również stosowanie NPR-u, które nie jest antykoncepcją, nie może stać się formą uniknięcia potomstwa i nie może zamknąć małżonków na dar potomstwa.       </p>
+<p class="rtejustify">,,Ojciec Pio wspierał duchowo nie tylko narzeczonych, tak także pomagał przychodzącym do niego małżonkom. Jego duszpasterstwo opierało się na obronie trzech istotnych elementów ich życia: <strong>jedności, płodności i świętości</strong>. Zabiegając o godność małżeństwa, piętnował grzechy, które ją niszczyły, szczególnie antykoncepcję, aborcję, cudzołóstwo i zdrady małżeńskie. Pewien profesor, który spędził swe życie u boku Stygmatyka, przywołuje jedną z dyskusji, jaką miał okazję prowadzić z nim przed wieloma laty. Dotyczyła ona odpowiedzialności małżonków za udział w Bożym planie stworzenia.</p>
+<p class="rtejustify">– Grzechy przeciwko małżeństwu są tymi, które Bóg najtrudniej wybacza – mówił wtedy Ojciec Pio. – Wiesz dlaczego? Ponieważ Pan mógłby ciągle stwarzać mężczyzn i kobiety, tak jak Adama i Ewę. Wyrzekł się tego przywileju, dając mężczyźnie i kobiecie nakaz płodności i rozmnażania się. Ale tak jak postąpił Lucyfer, podobnie uczynili mężczyzna i kobieta, krzycząc swoje „non serviam”, nie chcemy Ci służyć, uniemożliwiając w ten sposób plan stworzenia dusz.</p>
+<p class="rtejustify">Wypowiedź o płodnej miłości małżonków zadziwia dojrzałością i głębią argumentacji. <strong>Ojciec Pio trafnie zauważa, że to właśnie Bóg, który stwarza i przekazuje życie, podzielił się tym darem z małżonkami, oczekując jedynie ich zgody. </strong>Co więcej, przez zrodzenie potomstwa ujawnia się stwórcza moc Boga, dzięki czemu mężczyzna i kobieta stają się czynnymi uczestnikami w dziele stworzenia. Właśnie dlatego Zakonnik będzie się sprzeciwiał wszelkim formom antykoncepcji, gdyż są one mówieniem Bogu: Nie! Nie chcę Ci służyć!" (Głos Ojca Pio 49/2008).</p>
+<p class="rtejustify">Dziś jesteśmy świadkami społecznego przyzwolenia, nierzadko samych rodziców, na <strong>mieszkanie ze sobą bez sakramentalnego małżeństwa</strong>. Z punktu widzenia Prawa kościelnego jest to konkubinat, nawet jeśli mają jedynie tzw. ślub cywilny, czyli kontrakt cywilny. Ogromny grzech popełniają <strong>rodzice</strong>, którzy świadomie na to przyzwalają! „Żeby się lepiej poznali…” Najpierw seks, potem wspólne zamieszkanie, potem dzieci, potem cywilna umowa, a na końcu może ślub kościelny! Wszystko odwrotnie. Oczywiście trzeba wspomnieć również o zgorszeniu <strong>wypływającym z tzw. luźnych związków. </strong>Związki luźne, konkubinaty czy związki cywilne między katolikami są pogardą dla małżeństwa, które Pan Jezus podniósł między ochrzczonymi do godności sakramentu! </p>
+<p class="rtejustify">„<strong><em>Prostytucja</em></strong> narusza godność osoby, która oddaje się prostytucji, stając się przedmiotem przyjemności cielesnej kogoś drugiego. Ten, kto płaci, grzeszy ciężko przeciw sobie samemu; niszczy czystość, do której zobowiązuje go chrzest, i znieważa swoje ciało, świątynię Ducha Świętego. Prostytucja stanowi plagę społeczną. Dotyka na ogół kobiety, lecz także mężczyzn, dzieci i młodzież (w dwóch ostatnich przypadkach grzech jest jednocześnie zgorszeniem). Oddawanie się prostytucji jest zawsze grzechem ciężkim, jednak nędza, szantaż i presja społeczna mogą zmniejszyć odpowiedzialność za winę” (KKK 2355).</p>
+<p class="rtejustify">W Internecie wszechobecne stały się<strong> portale randkowe. </strong>Wspomnieć trzeba również o <strong>procederze sprzedawania dziewictwa przez dziewczyny. </strong>Reklamują się w Internecie i sprzedają swoje ciało za pieniądze! Podobnie <strong>wynajmowanie pokoju studentkom w zamian za seks</strong>. Skala podobnych zjawisk rośnie. Nie sposób ich wszystkich tu opisać.</p>
+<p class="rtejustify">„<strong><em>Gwałt</em></strong> oznacza wtargnięcie przemocą w intymność płciową osoby. Jest naruszeniem sprawiedliwości i miłości. Rani on głęboko prawo każdego człowieka do szacunku, wolności oraz integralności fizycznej i moralnej. Wyrządza poważną krzywdę ofierze i może wywrzeć piętno na całym jej życiu. Jest zawsze czynem wewnętrznie złym. Jeszcze poważniejszy jest gwałt popełniony przez rodziców (por. <strong>kazirodztwo</strong>) lub wychowawców na dzieciach, które są im powierzone (<strong>pedofilia</strong>)”. (KKK 2356)</p>
+<p class="rtejustify">Wiemy o małych dziewczynkach uprowadzonych i wykorzystywanych do rytuałów masońskich i satanistycznych. Tam są rytualnie gwałcone i zabijane! Część nieodnalezionych zgubionych dzieci ginie w takich okolicznościach!    </p>
+<p class="rtejustify">„<strong><em>Homoseksualizm</em></strong> oznacza relacje między mężczyznami lub kobietami odczuwającymi pociąg płciowy, wyłączny lub dominujący, do osób tej samej płci. (…) Tradycja, opierając się na Piśmie świętym, przedstawiającym homoseksualizm jako poważne zepsucie, zawsze głosiła, że akty homoseksualizmu z samej swojej wewnętrznej natury są nieuporządkowane. <strong>Są one sprzeczne z prawem naturalnym; wykluczają z aktu płciowego dar życia.</strong> Nie wynikają z prawdziwej komplementarności uczuciowej i płciowej. W żadnym wypadku nie będą mogły zostać zaaprobowane” (KKK 2357).</p>
+<p class="rtejustify">Osoby, które odnajdują w sobie tendencję homoseksualną, winniśmy obdarzać szacunkiem. Jednak stanowczo potępiać ten grzech, który jest <strong>jednym z czterech grzechów wołających o pomstę do nieba (grzech sodomski)</strong>. <u>Podobnie rozróżnić trzeba tendencję homoseksualną od aktów homoseksualnych.</u> Tendencja taka może się zrodzić np. w skutek niewłaściwych relacji rodzicielskich, gwałtu i innych zranień, nie musi więc być grzechem. Natomiast czyn jest już grzechem. Co o tym mówi Biblia?     </p>
+<p class="rtejustify"><em>„Nie będziesz obcował z mężczyzną, tak jak się obcuje z kobietą. <strong>To jest obrzydliwość!”</strong> </em>(Kpł 18,22)</p>
+<p class="rtejustify"><em>„Wszędzie się wmieszały: (…) zepsucie, niewierność, gwałt, (…) znieprawienie dusz, <strong>grzechy przeciwne naturze</strong>, rozprzężenie w małżeństwach, cudzołóstwo i rozpusta”</em> (Mdr 14,26).</p>
+<p class="rtejustify"><em>„I zamienili chwałę niezniszczalnego Boga na podobizny i obrazy śmiertelnego człowieka, ptaków, czworonożnych zwierząt i płazów. Dlatego wydał ich Bóg poprzez pożądania ich serc na łup nieczystości, tak iż <strong>dopuszczali się bezczeszczenia własnych ciał</strong>. Prawdę Bożą przemienili oni w kłamstwo i stworzeniu oddawali cześć, i służyli jemu, zamiast służyć Stwórcy, który jest błogosławiony na wieki. Amen. Dlatego to wydał ich Bóg na pastwę bezecnych namiętności: mianowicie <strong>kobiety ich przemieniły pożycie zgodne z naturą na przeciwne naturze. Podobnie też i mężczyźni, porzuciwszy normalne współżycie z kobietą, zapałali nawzajem żądzą ku sobie, mężczyźni z mężczyznami uprawiając bezwstyd</strong> i na samych sobie ponosząc zapłatę należną za zboczenie. A ponieważ nie uznali za słuszne zachować prawdziwe poznanie Boga, wydał ich Bóg na pastwę na nic niezdatnego rozumu, tak że czynili to, co się nie godzi”. </em>(Rz 1,23-28)</p>
+<p class="rtejustify"><strong>Grzechem sodomskim jest nie tylko homoseksualizm, ale każdy akt seksualny sprzeczny z naturą.</strong> Taki jak seks oralny, analny, zoofilia, nekrofilia czy inne perwersje seksualne. Grzechy te wołają o pomstę do nieba! Nazywamy je również <em>grzechami niemymi</em>, gdyż są tak wstrętne, że nawet o nich nie powinno się mówić. Zdecydowałem się jednak je wymienić ponieważ dzisiejszy człowiek musi usłyszeć konkretnie, żeby zrozumieć. Mówienie ogólne już często ludziom nic nie mówi. Te grzechy stały się nawet czymś normalnym głównie z powodu rozpowszechnionej pornografii.      </p>
+<p class="rtejustify">Dziś również widzimy, jak <strong>sklepy z akcesoriami erotycznymi</strong> wyrosły jak grzyby po deszczu. To wszystko prowadzi do wyuzdania i zmysłowości.</p>
+<p class="rtejustify">Dodać też możemy problem <strong><em>transseksualizmu</em></strong>, czyli próby zmiany płci. Czasami jest konieczne operacyjne skorygowanie narządów płciowych, ale próba zmiany płci jest głęboką ingerencją w osobowość mężczyzny lub kobiety. Jest grzechem i to poważnym. Genetycznie nie można zmienić płci.   </p>
+<p class="rtejustify"><strong>ZDRADA MAŁŻEŃSKA, ZDRADA CELIBATU, ŚLUBÓW CZYSTOŚCI  </strong></p>
+<p class="rtejustify">Św. J. Vianney mówił w kazaniu: „<strong>Zgrzeszyć z osobą wolnego stanu, niezamężną</strong>, wcale niekrewną, jest ciężkim występkiem według nauki św. Pawła, jest grzechem, który zamyka niebo, a otwiera przepaści wieczne. Daleko jednak cięższa zachodzi zbrodnia, gdy grzeszy się z osobą zamężną. Jest to bowiem <strong>straszna niewierność, która profanuje i unicestwia wszystkie łaski sakramentu małżeństwa</strong>; <strong>to straszne wiarołomstwo i podeptanie nogami przysiąg, złożonych przy ołtarzu nie tylko w obecności aniołów, lecz także Jezusa Chrystusa! </strong>Zbrodnia ta sprowadza przekleństwo na cały dom i parafię. Grzech z osobą niekrewną i niezamężną jest śmiertelnym i gubi nas wiecznie. Kto jednak grzeszy mimo węzłów małżeńskich lub pokrewieństwa, jak np. ojciec z córką, matka z synem, brat z siostrą, brat przyrodni z siostrą przyrodnią, kuzyn z kuzynką, popełnia tak ciężką zbrodnię, że sobie już większej nie można wyobrazić. Drwi sobie bowiem z najświętszych reguł wstydliwości, poniewiera i depcze wszelkie prawa religii i natury. Grzech wreszcie <strong>z osobą poświęconą Bogu</strong> jest szczytem złego, bo strasznym świętokradztwem”.</p>
+<p class="rtejustify"><strong>Również w małżeństwie sakramentalnym istnieje powołanie do czystości.</strong> Jest to czystość małżeńska. Akt małżeński – jak już powiedzieliśmy – musi spełniać dwa cele: otwartość na płodność i dobro małżonków. Grzechem ciężkim jest więc celowe<strong> ubezpłodnienie aktu małżeńskiego</strong> poprzez stosowanie antykoncepcji czy tzw. stosunek przerywany. Jest to wbrew Bożemu zamysłowi zrodzenia potomstwa. Grzechem będzie <strong>traktowanie współmałżonka przedmiotowo</strong>, na sposób bezwstydny czy perwersyjny. <em>„We czci niech będzie małżeństwo pod każdym względem i łoże nieskalane, gdyż rozpustników i cudzołożników osądzi Bóg” </em>(Hbr 13,4). A więc grzeszyć rozpustą można także w małżeństwie, popełniając np. grzech sodomski.  </p>
+<p class="rtejustify">Podobnie grzechem jest <strong>ODMAWIANIE POWINNOŚCI MAŁŻEŃSKIEJ</strong> <strong>bez powodu</strong>, gdyż jest narażaniem współmałżonka na pokusy. <em><tt>"Niech mąż oddaje powinność małżeńską żonie, a żona mężowi. (…) Nie uchylajcie się od współżycia małżeńskiego, chyba za wspólną zgodą i tylko na pewien czas, aby poświęcić się modlitwie. Potem znowu podejmijcie współżycie, aby nie kusił was szatan, wykorzystując waszą niepowściągliwość"</tt><tt> (1 Kor 7,3-5)</tt></em><tt>. Małżonkowie winni otaczać się szacunkiem i troską. </tt></p>
+<p class="rtejustify"><em><tt>Bez wątpienia </tt><tt>CUDZOŁÓSTWO </tt><tt>jest wielkim grzechem przeciw wierności małżeńskiej, której znakiem jest obrączka. Zdrada małżeńska jest pogardą przysięgi małżeńskiej.</tt> „Słyszeliście, że powiedziano: Nie cudzołóż! A Ja wam powiadam: </em><strong>Każdy, kto pożądliwie patrzy na kobietę, już się w swoim sercu dopuścił z nią cudzołóstwa” (Mt 5,27). Przykazanie mówi: </strong><em>„Nie cudzołóż!”</em> oraz <em>„Nie pożądaj żony bliźniego swego!”</em> (por. Wj 20, 14. 17). Cudzołóstwo można popełnić również pożądaniem, oglądaniem pornografii, flirtem... Ilu małżonków zdradza się w myśli lub poprzez oglądanie bezwstydnych obrazków czy filmów?!  </p>
+<p class="rtejustify"><em>„Czy nie czytaliście, że Stwórca od początku stworzył ich jako mężczyznę i kobietę? I rzekł: </em><strong><em>Dlatego opuści człowiek ojca i matkę i złączy się ze swoją żoną, i będą oboje jednym ciałem. A tak już nie są dwoje, lecz jedno ciało. Co więc Bóg złączył, niech człowiek nie rozdziela”</em></strong> (Mt 19,1n).<em> Małżeństwo sakramentalne jest więc nierozerwalne. </em><strong>I tu dramatem są ROZWODY i PONOWNE STAŁE ZWIĄZKI.</strong> Katechizm mówi w p. 2384:<strong> „Fakt zawarcia nowego związku, choćby był uznany przez prawo cywilne, powiększa jeszcze bardziej ciężar rozbicia; stawia bowiem współmałżonka żyjącego w nowym związku w sytuacji publicznego i trwałego cudzołóstwa”. </strong>Św. Bazyli Wielki: „Jeśli mąż odłączywszy się od swojej żony, łączy się z inną kobietą, sam jest cudzołożnikiem, ponieważ każe popełnić cudzołóstwo tej kobiecie; także kobieta, która mieszka z nim, jest cudzołożnicą, ponieważ pociągnęła do siebie męża innej żony”.</p>
+<p class="rtejustify">„Proszę księdza, my jesteśmy małżeństwem, ale tylko cywilnym” –nie rozumiem takich słów. Nie nazywajmy konkubinatu i cudzołożnego związku małżeństwem!   </p>
+<p class="rtejustify"><strong>Dlatego według św. O. Pio rozwód jest „paszportem do piekła”.</strong> Już jako piętnastolatek napisał w szkolnym wypracowaniu: „Ach, gdybym był królem! Ile pięknych rzeczy chciałbym dokonać… Przede wszystkim zwalczałbym rozwody, tak upragnione przez wielu złych ludzi, i sprawiłbym, że sakrament małżeństwa byłby szanowany”. Ludzie rozwiedzeni wchodzą więc przeważnie w nowe związki i już cztery osoby żyją w związkach cudzołożnych, dając zgorszenie przede wszystkim dzieciom. Oczywiście i tu wina moralna może być różna. Są to bowiem sytuacje bardzo trudne, a zranienia niesione do końca życia.  </p>
+<p class="rtejustify">Św. Paweł pisze o nierozerwalności małżeństwa: <em>„Tym zaś, którzy trwają w związkach małżeńskich, nakazuję nie ja, lecz Pan: </em><strong>Żona niech nie odchodzi od swego męża! Gdyby zaś odeszła, niech pozostanie samotna albo niech się pojedna ze swym mężem.</strong><em> Mąż również niech nie oddala żony. (…) Żona związana jest tak długo, jak długo żyje jej mąż. Jeżeli mąż umrze, może poślubić kogo chce, byleby w Panu. Szczęśliwsza jednak będzie, jeżeli pozostanie tak, jak jest, zgodnie z moją radą” </em>(1 Kor 7,10-11.39-40)<em>. </em></p>
+<p class="rtejustify">Pamiętajmy, że jest też możliwość stworzenia tzw. białego małżeństwa i także nierzadko sprawdzić trzeba, czy nie ma podstaw, by na drodze sądowej orzec nieważność sakramentalnego małżeństwa. Temat małżeństwa poruszam dokładniej w kazaniu pt.: „Czy istnieją rozwody kościelne?”.</p>
+<p><strong>3. JAK WALCZYĆ Z GRZECHEM NIECZYSTOŚCI</strong></p>
+<p class="rtejustify">Postawmy więc sobie teraz pytanie, jak walczyć z tymi grzechami, które są tak destrukcyjne dla życia duchowego i tak rozpowszechnione?</p>
+<p class="rtejustify">ENERGICZNE ODRZUCANIE POKUS</p>
+<p class="rtejustify"><strong>Z pokusą nie można prowadzić jakiegokolwiek dialogu.</strong> Schemat grzechu nieczystego jest świetnym przykładem mechanizmu pokusy. Najpierw jest obraz lub myśl, czyli jakaś pokusa. Potem wewnętrzna walka, przepychanka, aż w końcu jest decyzja woli. Jeżeli wola przyzwoli na rozwój tej pokusy, w tym momencie mówimy o grzechu. Św. Hieronim mówi, że grzech nieczysty jest <strong>jak wąż</strong>, któremu należy zdeptać głowę, jak się tylko ukaże, bo inaczej wypuści śmiertelny jad. Pokusę więc należy w zalążku odrzucić. <strong>Można to porównać do lawiny.</strong> Dopóki jest spokój nic się nie dzieje, ale jak lawina ruszy, jest nie do powstrzymania. Św. Grzegorz Wielki porównuje nieczystość do <strong>iskry w słomie</strong>, z której powstaje ogień nie do ugaszenia.  </p>
+<p class="rtejustify">W tych pokusach do nieczystości diabeł ma potężnego wspomożyciela: <strong>popęd seksualny – ogromna siła witalna wpisana w naszą naturę</strong>. Realizacja tego popędu łączy się z przyjemnością, co jest przedmiotem tej pokusy. Szatan zawsze ubarwia pokusę. Ukazuje ten czyn jako coś niezwykle przyjemnego.</p>
+<p class="rtejustify">UNIKANIE OKAZJI DO GRZECHU, TROSKA O CZYSTOŚĆ SERCA</p>
+<p class="rtejustify">Trzeba uporządkować swoje serce: <em>„Z wnętrza bowiem, z serca ludzkiego pochodzą złe myśli, nierząd, […], cudzołóstwa, […], wyuzdanie, […]. Całe to zło z wnętrza pochodzi i czyni człowieka nieczystym”</em> (Mk 7, 21-23).</p>
+<p class="rtejustify">„Chcąc zachować tę cnotę, musimy walczyć z pokusami i unikać okazji, jak to czynili święci. Oto Józef, patriarcha, zostawił połowę płaszcza w ręce niegodziwej żony Putyfara, która namawiała go do grzechu i uciekł, nie chcąc obrazić Boga (Rdz 39, 12). Czysta Zuzanna wolała narazić się na śmierć, niż utracić tę cnotę tak miłą Bogu (Dn 13)”  – mówił św. Vianney.</p>
+<p class="rtejustify">Pamiętajmy, że im bardziej zaśmiecimy sobie wyobraźnię obrazami, tym trudniej będzie o pokój w sercu i wolność od pokus. Z doświadczeń egzorcystów wiemy, że do nieczystości kuszą demony z najwyższych chórów anielskich.  </p>
+<p class="rtejustify">ASCEZA, UMARTWIENIA</p>
+<p class="rtejustify">Jakże ważny w walce z nieczystością jest <strong>post</strong>. Skoro grzech nieczysty pobudza zmysły, to należy je ujarzmiać. Post od pokarmów, alkoholu, telewizji, Internetu, gazet… Asceza hartuje w walce o anielską cnotę czystości. <strong>Święci w obronie tej cnoty używali sposobów nader radykalnych.</strong> Np. Św. Benedykt zanurzył się po szyję w ściętej mrozem wodzie, aby w ten sposób ugasić nieczyste żądze. Inni rzucali się w pokrzywę. A jeszcze inni umierali w obronie tej cnoty, np. bł. Karolina Kózkówna.  </p>
+<p class="rtejustify">Podkreślić tu należy rolę <strong>Ruchu Czystych Serc</strong> oraz <strong>dwumiesięcznika <em>Miłujcie się</em></strong>, który podejmuje tę tematykę.  Niemałą rolę w szerzeniu kultury skromności ma także <strong>oazowy Ruch Światło-Życie poprzez Nową Kulturę oraz Krucjatę Wyzwolenia Człowieka. </strong></p>
+<p class="rtejustify">MODLITWA I ŻYCIE SAKRAMENTAMI </p>
+<p class="rtejustify">Św. de Liguori proponował, by codziennie odmawiać modlitwę kolekty z Niepokalanego Poczęcia Najśw. Maryi Panny i dodawać do niej Zdrowaś Maryjo. Św. Vianney codziennie odmawiał akt strzelisty ku czci Niepokalanego Poczęcia Maryi w intencji czystości.</p>
+<p class="rtejustify">Modlitwa do Maryi – Matki Pięknej Miłości i do św. Józefa, których w litaniach wzywamy jako strażników czystości jest więc wielką pomocą. Nabożeństwo do św. Michała Archanioła, Anioła Stróża, czy do dziewic-męczennic: bł. Karoliny Kózkówny, św. Agaty czy św. Filomeny... Cnota niewinności jest darem niebios, dlatego trzeba się o nią modlić!</p>
+<p class="rtejustify"><strong>Spowiedź, Komunia św. oraz sakramentalia</strong> np. noszenie medalików, szkaplerzy… na pewno pomoże w walce o czystość. <strong>Jakkolwiek upadlibyśmy, Bóg nam przebaczy w sakramencie spowiedzi i wydźwignie z bagna grzechu!</strong> Boże Miłosierdzie zawsze pozostaje nadzieją.  </p>
+<p class="rtejustify">A oto doświadczenie św. Faustyny: „Nagle stanął Jezus obok mnie w szacie białej, przepasany pasem złotym i rzekł do mnie: <strong>U<strong>dzielam ci wieczystej miłości, aby czystość twoja była nieskalana i na dowód, że nie będziesz nigdy doznawać pokus nieczystych</strong></strong>. Zdjął Jezus pas zloty z Siebie i przepasał nim biodra moje. Od tej chwili nie doznaję żadnych poruszeń przeciwnych cnocie ani w sercu, ani w umyśle. Zrozumiałam później, że to jedna z największych łask, którą mi wyprosiła Najświętsza Maryja Panna, bo o tę łaskę prosiłam Ją przez wiele lat” (Dzienniczek, p. 40). <strong>Prośmy więc o łaskę czystości!</strong></p>
+<p class="rtejustify">Na koniec posłuchajmy słów św. Jana Pawła II do Polaków: „Nie lękajcie się żyć wbrew obiegowym opiniom i sprzecznym z Bożym prawem propozycjom. Odwaga wiary wiele kosztuje, ale wy nie możecie przegrać miłości! Nie dajcie się zniewolić! Nie dajcie się uwieść ułudom szczęścia, za które musielibyście zapłacić zbyt wielką cenę, cenę nieuleczalnych często zranień lub nawet złamanego życia! Pragnę wam powtórzyć to, co kiedyś już powiedziałem do młodzieży: «Tylko czyste serce może w pełni kochać Boga! Tylko czyste serce może w pełni dokonać wielkiego dzieła miłości, jakim jest małżeństwo! Tylko czyste serce może w pełni służyć drugiemu. Nie pozwólcie, aby zniszczono waszą przyszłość. Nie pozwólcie odebrać sobie bogactwa miłości. Brońcie waszą wierność; wierność waszych przyszłych rodzin, które założycie w miłości Chrystusa” (Sandomierz, 2002 r.).</p>
+</div></div></div>  </div>
+
+      <footer>
+            </footer>
+  
+  
+</article>  </div>
+</div>
+  </div>
+                       <!--       -->
+
+                        </div>
+                        <!-- EOF:#content-wrapper -->
+
+                    </div>
+                    <!-- EOF:#main -->
+
+                </section>
+
+                                <aside class="col-md-4">
+                    <!--#sidebar-second-->
+                    <section id="sidebar-second" class="sidebar clearfix">
+                      <div class="region region-sidebar-second">
+    <div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/kazania-konferencje/pisane/cnoty-i-grzechy-glowne/o-grzechu-nieczystosci" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Formularz wyszukiwania</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Wyszukaj na stronie...&#039;;}" onfocus="if (this.value == &#039;Wyszukaj na stronie...&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Wyszukaj na stronie..." size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input value="" type="submit" id="edit-submit" name="op" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-OjLE-rPIBl0c-9hCPUQOvY0MrwtNcyoXPTSOF1-GMvw" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-menu-menu-menu-kk-pisane" class="block block-menu clearfix">
+
+    <h2>Menu Kazań i Konferencji Pisanych</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/kazania-konferencje/pisane/cnoty-i-grzechy-glowne" title="CNOTY I GRZECHY GŁÓWNE (11)">CNOTY I GRZECHY GŁÓWNE (18)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/dzien-swiety-0" title="DNI ŚWIĘTE I OKRESY LITURGICZNE (9)">DNI ŚWIĘTE I OKRESY LITURGICZNE (13)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/jezus-chrystus" title="JEZUS CHRYSTUS (27)">JEZUS CHRYSTUS (28)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/skrupulanctwo" title="SKRUPULANCTWO (1)">SKRUPULANCTWO (1)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/laska-uswiecajaca-i-uczynkowa" title="ŁASKA UŚWIĘCAJĄCA I UCZYNKOWA (3)">ŁASKA UŚWIĘCAJĄCA I UCZYNKOWA (4)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/kosciol-wiara-katolicka" title="KOŚCIÓŁ, WIARA KATOLICKA (22)">KOŚCIÓŁ, WIARA KATOLICKA (22)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/aniolowie-i-demony" title="ANIOŁOWIE I DEMONY (5)">ANIOŁOWIE I DEMONY (5)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/boze-milosierdzie-i-sprawiedliwosc" title="BOŻE MIŁOSIERDZIE I SPRAWIEDLIWOŚĆ (9)">BOŻE MIŁOSIERDZIE I SPRAWIEDLIWOŚĆ (9)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/dar-zycia" title="DAR ŻYCIA (3)">DAR ŻYCIA (3)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/do-mlodziezy" title="DO MŁODZIEŻY (10)">DO MŁODZIEŻY (10)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/duch-swiety" title="DUCH ŚWIĘTY (3)">DUCH ŚWIĘTY (4)</a></li>
+<li class="expanded"><a href="/kazania-konferencje/pisane/eucharystia" title="EUCHARYSTIA (11)">EUCHARYSTIA (28)</a><ul class="menu"><li class="first leaf"><a href="/kazania-konferencje/pisane/ofiara-mszy-swietej" title="OFIARA MSZY ŚWIĘTEJ (7)">OFIARA MSZY ŚWIĘTEJ (7)</a></li>
+<li class="last leaf"><a href="/kazania-konferencje/pisane/komunia-swieta" title="KOMUNIA ŚWIĘTA (10)">KOMUNIA ŚWIĘTA (11)</a></li>
+</ul></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/kaplanstwo" title="KAPŁAŃSTWO (10)">KAPŁAŃSTWO (12)</a></li>
+<li class="expanded"><a href="/kazania-konferencje/pisane/krzyz-i-cierpienie" title="KRZYŻ I CIERPIENIE (22)">KRZYŻ I CIERPIENIE (22)</a><ul class="menu"><li class="first leaf"><a href="/kazania-konferencje/pisane/kazania-pasyjne" title="KAZANIA PASYJNE (6)">KAZANIA PASYJNE (6)</a></li>
+<li class="last leaf"><a href="/kazania-konferencje/pisane/kazania-o-krzyzu-i-cierpieniu" title="KAZANIA O KRZYŻU I CIERPIENIU (18)">KAZANIA O KRZYŻU I CIERPIENIU (18)</a></li>
+</ul></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/liturgia" title="LITURGIA (12)">LITURGIA (14)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/modlitwa" title="MODLITWA (3)">MODLITWA (3)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/najsw-maryja-panna" title="NAJŚW. MARYJA PANNA (21)">NAJŚW. MARYJA PANNA (21)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/okultyzm-i-ezoteryzm" title="OKULTYZM I EZOTERYZM (4)">OKULTYZM I EZOTERYZM (4)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/patriotyzm" title="PATRIOTYZM (8)">PATRIOTYZM (8)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/pokora-i-pycha" title="POKORA I PYCHA (6)">POKORA I PYCHA (6)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/rodzina-i-malzenstwo" title="RODZINA I MAŁŻEŃSTWO (19)">RODZINA I MAŁŻEŃSTWO (20)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/spowiedz-sw-grzech-i-nawrocenie" title="SPOWIEDŹ ŚW., GRZECH I NAWRÓCENIE (18)">SPOWIEDŹ ŚW., GRZECH I NAWRÓCENIE (26)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/swiadkowie-jehowy" title="ŚWIADKOWIE JEHOWY (1)">ŚWIADKOWIE JEHOWY (0)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/slowo-boze" title="SŁOWO BOŻE (4)">SŁOWO BOŻE (5)</a></li>
+<li class="leaf"><a href="/kazania-konferencje/pisane/trojca-przenajswietsza" title="TRÓJCA PRZENAJŚWIĘTSZA (1)">TRÓJCA PRZENAJŚWIĘTSZA (1)</a></li>
+<li class="last leaf"><a href="/kazania-konferencje/pisane/wiecznosc-i-przygotowanie-do-niej" title="WIECZNOŚĆ I PRZYGOTOWANIE DO NIEJ (23)">WIECZNOŚĆ I PRZYGOTOWANIE DO NIEJ (24)</a></li>
+</ul>  </div>
+</div>
+  </div>
+                    </section>
+                    <!--EOF:#sidebar-second-->
+                </aside>
+                
+            </div>
+
+        </div>
+    </div>
+    <!-- EOF:#main-content -->
+
+    
+</div>
+<!-- EOF:#page -->
+
+
+<footer id="subfooter" class="clearfix">
+    <div class="container">
+
+        <!-- #subfooter-inside -->
+        <div id="subfooter-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- #subfooter-left -->
+                    <div class="subfooter-area">
+                    
+                                          <div class="region region-footer">
+    <div id="block-superfish-4" class="block block-superfish clearfix">
+
+    
+  <div class="content">
+    <ul id="superfish-4" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-0 sf-single-items-7"><li id="menu-221-4" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" title="" class="sf-depth-1">Strona Główna</a></li><li id="menu-475-4" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/omnie" class="sf-depth-1 sf-depth-1">O Mnie</a></li><li id="menu-748-4" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/aktualnosci" title="" class="sf-depth-1">Aktualności</a></li><li id="menu-477-4" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/kazania-konferencje" class="sf-depth-1 menuparent sf-depth-1">Kazania i Konferencje</a></li><li id="menu-478-4" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/inne-opracowania" class="sf-depth-1 sf-depth-1">Inne Opracowania</a></li><li id="menu-479-4" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/msza-trydencka" class="sf-depth-1 sf-depth-1">Msza Trydencka</a></li><li id="menu-480-4" class="last odd sf-item-7 sf-depth-1 sf-no-children"><a href="/katechezy-dla-doroslych" class="sf-depth-1 sf-depth-1">Katechezy dla Dorosłych</a></li></ul>  </div>
+</div>
+<div id="block-block-15" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <p class="credits">Create <a href="http://www.e-neton.pl" title="tworzenie stron internetowych woj. lubuskie">EnetOn</a> Copyright © 2020 <a href="http://www.pietrasdawid.pl">www.pietrasdawid.pl</a></p>
+  </div>
+</div>
+  </div>
+                    
+                    </div>
+                    <!-- EOF: #subfooter-left -->
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #subfooter-inside -->
+
+    </div>
+</footer>
+
+<!-- EOF:#subfooter -->
+  
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.linuxpl.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 7845]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="http://piwik.linuxpl.com/piwik.php?idsite=7845" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+</body>
+</html>

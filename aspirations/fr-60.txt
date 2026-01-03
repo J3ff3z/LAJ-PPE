@@ -1,0 +1,874 @@
+HTTP/2 200 
+date: Sat, 03 Jan 2026 16:45:52 GMT
+content-type: text/html; charset=UTF-8
+server: OVHcloud
+x-powered-by: PHP/7.4
+set-cookie: qtrans_front_language=fr; expires=Sun, 03-Jan-2027 16:45:52 GMT; Max-Age=31536000; path=/
+x-pingback: https://pascalide.fr/xmlrpc.php
+link: <https://pascalide.fr/wp-json/>; rel="https://api.w.org/"
+link: <https://pascalide.fr/?p=5369>; rel=shortlink
+accept-ranges: none
+vary: Accept-Encoding
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="fr-FR">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="fr-FR">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="fr-FR">
+<!--<![endif]-->
+	<head>
+		<meta content="True" name="HandheldFriendly">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+		<meta name="viewport" content="width=device-width">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<link rel="pingback" href="https://pascalide.fr/xmlrpc.php">
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
+				<link rel="shortcut icon" href="https://pascalide.fr/wp-content/themes/Seatera/images/favicon.ico" />
+		<title>La dimension sociale du péché dans le magistère de l’Eglise 4/5 &#8211; Pascal Ide</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Pascal Ide &raquo; Flux" href="https://pascalide.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Pascal Ide &raquo; Flux des commentaires" href="https://pascalide.fr/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Pascal Ide &raquo; La dimension sociale du péché dans le magistère de l’Eglise 4/5 Flux des commentaires" href="https://pascalide.fr/la-dimension-sociale-du-peche-dans-le-magistere-de-leglise-45/feed/" />
+<!-- This site uses the Google Analytics by ExactMetrics plugin v6.0.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var em_version         = '6.0.2';
+	var em_track_user      = true;
+	var em_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-111742307-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( em_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+window.ga = __gaTracker;		__gaTracker('create', 'UA-111742307-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+		__gaTracker( function() { window.ga = __gaTracker; } );
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + em_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+			window.ga = __gaTracker;		})();
+		}
+</script>
+<!-- / Google Analytics by ExactMetrics -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/pascalide.fr\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.20"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='thickbox.css-css'  href='https://pascalide.fr/wp-includes/js/thickbox/thickbox.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://pascalide.fr/wp-includes/css/dist/block-library/style.min.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://pascalide.fr/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.3.1.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='wp-postratings-css'  href='https://pascalide.fr/wp-content/plugins/wp-postratings/css/postratings-css.css?ver=1.87' type='text/css' media='all' />
+<link rel='stylesheet' id='ns-category-widget-tree-style-css'  href='https://pascalide.fr/wp-content/plugins/ns-category-widget/public/assets/css/themes/default/style.css?ver=3.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='qts_front_styles-css'  href='https://pascalide.fr/wp-content/plugins/qtranslate-slug/assets/css/qts-default.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='master-css-css'  href='https://pascalide.fr/wp-content/themes/Seatera/style.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='vh-normalize-css'  href='https://pascalide.fr/wp-content/themes/Seatera/css/normalize.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://pascalide.fr/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyphoto-css'  href='https://pascalide.fr/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='vh-responsive-css'  href='https://pascalide.fr/wp-content/themes/Seatera/css/responsive.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='pushy-css'  href='https://pascalide.fr/wp-content/themes/Seatera/css/nav/pushy.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='component-css'  href='https://pascalide.fr/wp-content/themes/Seatera/css/component.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-dialog-css'  href='https://pascalide.fr/wp-content/themes/Seatera/css/jquery-ui-1.10.4.custom.min.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='front-gfonts-css'  href='https://pascalide.fr/wp-content/themes/Seatera/css/gfonts.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='pbytax-styles-css'  href='https://pascalide.fr/wp-content/plugins/wp-list-pages-by-custom-taxonomy/css/pbytax-style.css?ver=1.4.10' type='text/css' media='' />
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/pascalide.fr","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js?ver=6.0.2'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.3.1.5'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5'></script>
+<link rel='https://api.w.org/' href='https://pascalide.fr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pascalide.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pascalide.fr/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='La crise de la postmodernité selon George Steiner' href='https://pascalide.fr/la-crise-de-la-postmodernite-selon-george-steiner/' />
+<link rel='next' title='Les papes et la médecine : Les compétences du soignant' href='https://pascalide.fr/les-papes-et-la-medecine-les-competences-du-soignant/' />
+<meta name="generator" content="WordPress 5.3.20" />
+<link rel="canonical" href="https://pascalide.fr/la-dimension-sociale-du-peche-dans-le-magistere-de-leglise-45/" />
+<link rel='shortlink' href='https://pascalide.fr/?p=5369' />
+<link rel="alternate" type="application/json+oembed" href="https://pascalide.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpascalide.fr%2Fla-dimension-sociale-du-peche-dans-le-magistere-de-leglise-45%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://pascalide.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpascalide.fr%2Fla-dimension-sociale-du-peche-dans-le-magistere-de-leglise-45%2F&#038;format=xml" />
+<meta name="generator" content="qTranslate-X 3.4.6.8" />
+<link hreflang="x-default" href="https://pascalide.fr/la-dimension-sociale-du-peche-dans-le-magistere-de-leglise-45/" rel="alternate" />
+<link hreflang="fr" href="https://pascalide.fr/la-dimension-sociale-du-peche-dans-le-magistere-de-leglise-45/" rel="alternate" />
+<link hreflang="en" href="https://pascalide.fr/en/francais-la-dimension-sociale-du-peche-dans-le-magistere-de-leglise-45/" rel="alternate" />
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://pascalide.fr/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; background-image: url("https://pascalide.fr/wp-content/uploads/2019/03/homefond2.png"); background-position: left top; background-size: contain; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+	<meta name="generator" content="Powered by Slider Revolution 5.3.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://pascalide.fr/wp-content/uploads/2019/03/cropped-PastedGraphic-5-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://pascalide.fr/wp-content/uploads/2019/03/cropped-PastedGraphic-5-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://pascalide.fr/wp-content/uploads/2019/03/cropped-PastedGraphic-5-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://pascalide.fr/wp-content/uploads/2019/03/cropped-PastedGraphic-5-1-270x270.png" />
+
+		<!-- Custom CSS -->
+		<style type='text/css'>
+.button_red { display: none; }
+.movie_time { display: none}
+.icon-search { display: none}
+body.page-id-6 {
+background-image: none;
+}
+.isotope-item { 
+display: inline-block
+vertical-align:top;
+     width:28%;
+     padding:1.25%;
+     margin:1.25%;
+     min-height:190px;
+     background-color:#eee;
+}
+
+p em {
+font-style: italic;
+}
+
+.open_entry_image {
+    display: block;
+    width: 100%;
+text-align : center;
+margin:center;
+}
+
+.post_info {
+    display: none;
+}
+ html .main-inner p, .ac-device .description, .pricing-table .pricing-content .pricing-desc-1, body .vc_progress_bar .vc_single_bar .vc_label, .page-wrapper .member-desc, .page-wrapper .member-position, .page-wrapper .main-inner ul:not(.ui-tabs-nav) li, .page-wrapper .bg-style-2 p {  font-family: 'Lato'; font-size: 16px; line-height: 26px; color: #666666; font-weight: normal; } .sidebar-inner, .seatera-contactform.widget input:not(.btn), .seatera-recentpostsplus.widget .news-item p, .wrapper .text.widget p, .seatera-fastflickrwidget.widget, .widget li, .search.widget .sb-search-input, .widget .content-form .textarea.input-block-level {  font-family: 'Lato'; font-size: 16px; line-height: 26px; color: #666666; font-weight: normal; } .wrapper h1 {  font-family: 'Lato'; font-size: 32px; line-height: 38px; color: #c50505; font-weight: 300; } .page-wrapper h2, h2, .content .entry-title, .teaser_grid_container .post-title {  font-family: 'Lato'; font-size: 22px; line-height: 33px; color: #000000; font-weight: 300; } .wrapper h3 {  font-family: 'Lato'; font-size: 18px; line-height: 29px; color: #000000; font-weight: 300; } .wrapper h4 {  font-family: 'Lato'; font-size: 18px; line-height: 40px; color: #666666; font-weight: 300; } .wrapper h5 {  font-family: 'Lato'; font-size: 14px; line-height: 25px; color: #666666; font-weight: bold; } .wrapper h6 {  font-family: 'Lato'; font-size: 12px; line-height: 24px; color: #000000; font-weight: bold; } .wpb_wrapper a, #author-link a {  font-family: 'Lato'; font-size: 16px; line-height: 26px; color: #cc0000; font-weight: normal; }@media (min-width: 1200px) {  .wrapper .sidebar-inner .item-title-bg h4, .wrapper .sidebar-inner .widget-title, .wrapper h3.widget-title a {  font-family: 'Lato'; font-size: 26px; line-height: 29px; color: #c50505; font-weight: normal; } }  body .wrapper .page-title h1 {  font-family: 'Lato'; font-size: 40px; line-height: 34px; color: #fff; font-weight: 300; }</style>
+		<style type="text/css" id="wp-custom-css">
+			/*
+Vous pouvez ajouter du CSS personnalisé ici.
+
+Cliquez sur l’icône d’aide ci-dessus pour en savoir plus.
+*/
+
+.top-header .logo a img {
+	display: none;
+}
+
+a.prettyphoto, div.header-search-container, div.post_info_img {
+ display: none;
+}
+
+/* css gratitude */
+
+video {
+	width: 100%;
+}
+
+iframe {
+	width: 100%;
+	height: auto;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+
+.navbar {
+}
+
+.navbar-brand img {
+	vertical-align: middle
+}
+
+.navbar-brand p{
+	display: inline-block;
+}
+
+.container {
+	text-align: center;
+}
+
+.selectContainer {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+}
+
+.video {
+	width: 280px;
+	height: auto;
+	margin-right: 8px;
+	margin-left: 8px;
+	display: inline-block;
+}
+
+.retrait {
+	text-indent: 15px;
+	font-size: 18px;
+}
+
+.retraitSpan {
+	margin-left: 15px;
+	font-size: 18px;
+}
+
+.retraitSousTitre {
+	margin-left: 25px;
+}
+
+.chapters, .text {
+	width: 800px;
+	margin: 0 auto;
+	text-align: justify;
+}
+
+.chapters h3, .text h3, .text h4 {
+	text-align: center;
+}
+
+.noteBasDePage {
+	font-size: 12px;
+}
+
+footer#footer{
+	text-align: center;
+	margin-top: 15px;
+}
+
+table
+{
+    border-collapse: collapse;
+    text-align: center;
+}
+td, th /* Mettre une bordure sur les td ET les th */
+{
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+
+@media screen and (max-width: 1200px) {
+  #pageWidth {
+  	width: 100%;
+  }
+}
+
+@media screen and (max-width: 1185px) {
+  .container {
+  	width: 100%;
+  	text-align: center;
+  }
+}
+
+@media screen and (max-width: 811px) {
+	.chapters, .text {
+		width: 600px;
+		margin: 0 auto;
+	}
+}
+
+@media screen and (max-width: 626px) {
+	.marginDropdown {
+		margin-top: 10px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+  .video {
+  	width: 90%;
+  	margin-right: 0;
+  	margin-left: 0
+  }
+
+  .chapters, .text {
+  	width: 400px;
+  	margin: 0 auto;
+  }
+
+  iframe {
+  	height: 245px;
+  }
+}
+
+/* css dropdown gratitude */
+
+.custom-dropdown select{
+	background-color: rgb(230, 183, 43);
+	width: 300px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.selectContainer {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.videoContainer {
+	margin-top: 15px;
+}
+
+.custom-dropdown--large {
+	font-size: 1.5em;
+}
+
+.custom-dropdown--small {
+	font-size: .7em;
+}
+
+.custom-dropdown__select{
+	font-size: inherit; /* inherit size from .custom-dropdown */
+	padding: .5em; /* add some space*/
+	margin: 0; /* remove default margins */
+}
+
+.custom-dropdown__select--white {
+	background-color: #fff;
+	color: #444;    
+}
+
+@supports (pointer-events: none) and
+	  ((-webkit-appearance: none) or
+	  (-moz-appearance: none) or
+	  (appearance: none)) {
+
+	.custom-dropdown {
+		position: relative;
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	.custom-dropdown__select {
+		padding-right: 2.5em; /* accommodate with the pseudo elements for the dropdown arrow */
+		border: 0;
+		border-radius: 3px;
+		-webkit-appearance: none;
+		-moz-appearance: none;
+		appearance: none;    
+	}
+
+	.custom-dropdown::before,
+	.custom-dropdown::after {
+		content: "";
+		position: absolute;
+		pointer-events: none;
+	}
+
+	.custom-dropdown::after { /*  Custom dropdown arrow */
+		content: "\25BC";
+		height: 1em;
+		font-size: .625em;
+		line-height: 1;
+		right: 1.2em;
+		top: 50%; margin-top: -.5em;
+	}
+
+	.custom-dropdown::before { /*  Custom dropdown arrow cover */
+		width: 2em;
+		right: 0; top: 0; bottom: 0;
+		border-radius: 0 3px 3px 0;
+	}
+
+	.custom-dropdown__select[disabled] {
+		color: rgba(0,0,0,.3);
+	}
+
+	.custom-dropdown.custom-dropdown--disabled::after {
+		color: rgba(0,0,0,.1);
+	}
+
+	/* White dropdown style */
+	.custom-dropdown--white::before {
+		background-color: grey;
+		border-left: 1px solid rgba(0,0,0,.1);
+	}
+
+	.custom-dropdown--white::after {
+		color: rgba(0,0,0,.9);
+	}
+
+	/* FF only temp fix */
+	@-moz-document url-prefix() {
+		.custom-dropdown__select 			 { padding-right: .9em }
+		.custom-dropdown--large .custom-dropdown__select { padding-right: 1.3em }
+		.custom-dropdown--small .custom-dropdown__select { padding-right: .5em }
+	}
+}		</style>
+		<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+		<script type="text/javascript" src="http://pascalide.fr/wp-content/themes/Seatera/js/custom.js"></script>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+jQuery(document).ready(function() {
+
+	jQuery(".listMovie").change(function() {
+		var value = $(this).val();
+		jQuery(".chapters").attr("hidden", "true");
+		jQuery(".text").attr("hidden", "true");
+		jQuery(".chap" + value).removeAttr("hidden");
+	});
+
+	jQuery(".listText").change(function() {
+		var value = $(this).val();
+		jQuery(".chapters").attr("hidden", "true");
+		jQuery(".text").attr("hidden", "true");
+		jQuery(".text" + value).removeAttr("hidden");
+	});
+});
+</script>
+	</head>
+	<body class="post-template-default single single-post postid-5369 single-format-standard custom-background singular not_front_page has_breadcrumb wp-post-4-4 wpb-js-composer js-comp-ver-5.0.1 vc_responsive fr">
+				<div class="vh_wrapper" id="vh_wrappers">
+		<div class="main-body-color"></div>
+		<div class="secondary-body-color"></div>
+		<div class="overlay-hide"></div>
+		<div class="pushy pushy-left">
+			<div class="menu-nouveau-menu-container"><ul id="menu-nouveau-menu" class="responsive-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3358"><a href="http://pascalide.fr">Accueil</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3414"><a href="https://pascalide.fr/critique-de-films/">Cinéma</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3590"><a href="http://pascalide.fr/psychologie-sante">Psychologie-Santé</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3385"><a href="https://pascalide.fr/category/psychologie/blessure-interieure/">Blessure intérieure</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3386"><a href="https://pascalide.fr/category/psychologie/burn-out/">Burn-out</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3387"><a href="https://pascalide.fr/category/psychologie/enneagramme/">Ennéagramme</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3755"><a href="https://pascalide.fr/category/psychologie/education/">Education</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3389"><a href="https://pascalide.fr/category/psychologie/gratitude-2/">Gratitude</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3390"><a href="https://pascalide.fr/category/psychologie/personnalites-narcissiques/">Personnalités narcissiques</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3392"><a href="https://pascalide.fr/category/psychologie/triangle-dramatique-de-karpman/">Triangle dramatique de Karpman</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3591"><a href="http://pascalide.fr/ethique-bioethique">Éthique-Bioéthique</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3380"><a href="https://pascalide.fr/category/ethique/embryon/">Embryon</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3381"><a href="https://pascalide.fr/category/ethique/mort-criteres-cliniques/">Mort. Critères cliniques</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3382"><a href="https://pascalide.fr/category/ethique/pardon/">Pardon</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3383"><a href="https://pascalide.fr/category/ethique/peche-et-blessure/">Péché et blessure</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3384"><a href="https://pascalide.fr/category/ethique/vertus/">Vertus</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3592"><a href="http://pascalide.fr/philosophie">Philosophie</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3393"><a href="https://pascalide.fr/category/philosophie/amour/">Amour</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3394"><a href="https://pascalide.fr/category/philosophie/animal/">Animal</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3395"><a href="https://pascalide.fr/category/philosophie/corps/">Corps</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3397"><a href="https://pascalide.fr/category/philosophie/emotions/">Émotions</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3398"><a href="https://pascalide.fr/category/philosophie/homme/">Homme</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3399"><a href="https://pascalide.fr/category/philosophie/imaginaire/">Imaginaire</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3400"><a href="https://pascalide.fr/category/philosophie/metaphysique/">Métaphysique</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3401"><a href="https://pascalide.fr/category/philosophie/nature-2/">Nature</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3402"><a href="https://pascalide.fr/category/philosophie/paranormal/">Paranormal</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3403"><a href="https://pascalide.fr/category/philosophie/sexualite/">Sexualité</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3404"><a href="https://pascalide.fr/category/philosophie/souffrance/">Souffrance</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3593"><a href="http://pascalide.fr/spiritualite-theologie">Spiritualité-Théologie</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3405"><a href="https://pascalide.fr/category/spiritualite-theologie/anges/">Anges</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3408"><a href="https://pascalide.fr/category/spiritualite-theologie/jean-paul-ii/">Jean-Paul II</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3409"><a href="https://pascalide.fr/category/spiritualite-theologie/laicite/">Laïcité</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3406"><a href="https://pascalide.fr/category/spiritualite-theologie/benoit-xvi/">Benoît XVI</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3407"><a href="https://pascalide.fr/category/spiritualite-theologie/hans-urs-von-balthasar/">Hans Urs von Balthasar</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3594"><a href="http://pascalide.fr/art">Art</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3364"><a href="https://pascalide.fr/category/art/litterature/">Littérature</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3365"><a href="https://pascalide.fr/category/art/musique/">Musique</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3366"><a href="https://pascalide.fr/category/art/bande-dessinee/">Bande dessinée</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3595"><a href="http://pascalide.fr/bio-bibliographie">Bio/Bibliographie</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3581"><a href="https://pascalide.fr/category/biographie/">Biographie</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3582"><a href="https://pascalide.fr/category/bibliographie/">Bibliographie</a></li>
+</ul>
+</li>
+</ul></div>
+		</div>
+		<div class="srch clearfix">
+			<form method="GET" action="https://pascalide.fr">
+				<div class="container cbd"><input max-length="120" autocomplete="off" placeholder="Rechercher..." value="" name="s" id="q"><button type="submit" title="Rechercher sur le site"><i class="fa fa-search"></i></button></div>
+			</form>
+		</div>
+		<div class="wrapper st-effect-3 w_display_none" id="container">
+			<div class="main">
+								<header class="header vc_row wpb_row vc_row-fluid">
+					<div class="top-header vc_col-sm-12">
+<!-- 
+						<div class="logo shadows vc_col-sm-3">
+							<a href="https://pascalide.fr"><img src="https://pascalide.fr/wp-content/themes/Seatera/images/logo.png" alt="Pascal Ide" /></a>
+						</div>
+ -->
+						<div class="top-menu-container">
+							<div class="menu-style"><ul id="menu-nouveau-menu-1" class="header-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3358"><a href="http://pascalide.fr">Accueil</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3414"><a href="https://pascalide.fr/critique-de-films/">Cinéma</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3590"><a href="http://pascalide.fr/psychologie-sante">Psychologie-Santé</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3385"><a href="https://pascalide.fr/category/psychologie/blessure-interieure/">Blessure intérieure</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3386"><a href="https://pascalide.fr/category/psychologie/burn-out/">Burn-out</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3387"><a href="https://pascalide.fr/category/psychologie/enneagramme/">Ennéagramme</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3755"><a href="https://pascalide.fr/category/psychologie/education/">Education</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3389"><a href="https://pascalide.fr/category/psychologie/gratitude-2/">Gratitude</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3390"><a href="https://pascalide.fr/category/psychologie/personnalites-narcissiques/">Personnalités narcissiques</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3392"><a href="https://pascalide.fr/category/psychologie/triangle-dramatique-de-karpman/">Triangle dramatique de Karpman</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3591"><a href="http://pascalide.fr/ethique-bioethique">Éthique-Bioéthique</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3380"><a href="https://pascalide.fr/category/ethique/embryon/">Embryon</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3381"><a href="https://pascalide.fr/category/ethique/mort-criteres-cliniques/">Mort. Critères cliniques</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3382"><a href="https://pascalide.fr/category/ethique/pardon/">Pardon</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3383"><a href="https://pascalide.fr/category/ethique/peche-et-blessure/">Péché et blessure</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3384"><a href="https://pascalide.fr/category/ethique/vertus/">Vertus</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3592"><a href="http://pascalide.fr/philosophie">Philosophie</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3393"><a href="https://pascalide.fr/category/philosophie/amour/">Amour</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3394"><a href="https://pascalide.fr/category/philosophie/animal/">Animal</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3395"><a href="https://pascalide.fr/category/philosophie/corps/">Corps</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3397"><a href="https://pascalide.fr/category/philosophie/emotions/">Émotions</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3398"><a href="https://pascalide.fr/category/philosophie/homme/">Homme</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3399"><a href="https://pascalide.fr/category/philosophie/imaginaire/">Imaginaire</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3400"><a href="https://pascalide.fr/category/philosophie/metaphysique/">Métaphysique</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3401"><a href="https://pascalide.fr/category/philosophie/nature-2/">Nature</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3402"><a href="https://pascalide.fr/category/philosophie/paranormal/">Paranormal</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3403"><a href="https://pascalide.fr/category/philosophie/sexualite/">Sexualité</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3404"><a href="https://pascalide.fr/category/philosophie/souffrance/">Souffrance</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3593"><a href="http://pascalide.fr/spiritualite-theologie">Spiritualité-Théologie</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3405"><a href="https://pascalide.fr/category/spiritualite-theologie/anges/">Anges</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3408"><a href="https://pascalide.fr/category/spiritualite-theologie/jean-paul-ii/">Jean-Paul II</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3409"><a href="https://pascalide.fr/category/spiritualite-theologie/laicite/">Laïcité</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3406"><a href="https://pascalide.fr/category/spiritualite-theologie/benoit-xvi/">Benoît XVI</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3407"><a href="https://pascalide.fr/category/spiritualite-theologie/hans-urs-von-balthasar/">Hans Urs von Balthasar</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3594"><a href="http://pascalide.fr/art">Art</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3364"><a href="https://pascalide.fr/category/art/litterature/">Littérature</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3365"><a href="https://pascalide.fr/category/art/musique/">Musique</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3366"><a href="https://pascalide.fr/category/art/bande-dessinee/">Bande dessinée</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3595"><a href="http://pascalide.fr/bio-bibliographie">Bio/Bibliographie</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3581"><a href="https://pascalide.fr/category/biographie/">Biographie</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3582"><a href="https://pascalide.fr/category/bibliographie/">Bibliographie</a></li>
+</ul>
+</li>
+</ul></div>						</div>
+						<div class="header-search-container">
+							<div class="header_search"><div class="search sb-search" id="sb-search">
+	<form action="https://pascalide.fr" method="get" class=" gray-form">
+		<input type="text" name="s" class="footer_search_input" onclick="clearInput(this, 'Search');" value="Recherche" />
+		<input type="submit" name="search" class="btn btn-primary sb-search-submit" value="Recherche" />
+		<span class="sb-icon-search icon-search blue-button"></span>
+	</form>
+</div><!--end of search--></div>
+						</div>
+						<div class="menu-btn icon-menu-1"></div>
+												<div class="header-social-icons vc_col-sm-3" style="width: 70px;">
+																									<div class="header-icon facebook-icon hover_right" style="width: 100%;"><a href="https://www.facebook.com/pere.pascalide" class="icon-facebook"></a></div>
+																																									</div>
+						<div class="clearfix"></div>
+					</div>
+				</header><!--end of header-->
+				<div id="loader" class="pageload-overlay" data-opening="M 0,0 80,-10 80,60 0,70 0,0" data-closing="M 0,-10 80,-20 80,-10 0,0 0,-10">
+					<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 80 60" preserveAspectRatio="none">
+						<path d="M 0,70 80,60 80,80 0,80 0,70"/>
+					</svg>
+				</div>
+				<div class="clearfix"></div>
+								<div class="page-sidebar-no page-wrapper">
+	<div class="clearfix"></div>
+	<div class="page_info">
+			<div class="page-title"> <h1 class="blog_title">Blog</h1></div><div class="breadcrumb"><a href="https://pascalide.fr">Home</a> <span class="delimiter">></span> <a href="https://pascalide.fr/category/articles/">Articles</a> <span class="delimiter">></span> <span class="current">La dimension sociale du péché dans le magistère de l’Eglise 4/5</span></div>	</div>
+	<div class="content vc_row wpb_row vc_row-fluid">
+				<div class="sidebar-no-pull">
+			<div class="main-content vc_col-sm-12">
+				<div class="main-inner">
+					<div class="vc_row wpb_row vc_row-fluid">
+						<div class="entry no_left_margin first-entry   vc_col-sm-12">
+	<div class="entry-image vh_animate_when_almost_visible with_full_image " style="float: none;">
+				<div class="main_image_wrapper">
+												<div class="post_info">
+					<span class="comments icon-comment">0</span><span class="blog_likes"><span class='single-post-like ldc-ul_cont_likes icon-heart' data-id='5369'><span></span></span></span>					</div>
+														<div class="image_wrapper shadows">
+					<img src="https://pascalide.fr/wp-content/uploads/2018/09/Paysage-automne.jpg " style="margin-left: 0;" class="open_entry_image" alt="" />
+				</div>
+					</div>
+		<div class="entry-content">
+				<div class="title-and-utility"><div class="page_title">La dimension sociale du péché dans le magistère de l’Eglise 4/5</div><div class="clearfix"></div></div>			<div class="clearfix"></div>
+			<p>Ce texte a été élaboré en l’an 2000. Il a été soumis à un groupe de recherche autour de Philippe Saint-Germain, dans le cadre de la revue <em>Liberté politique</em>. Il n’a jamais fait l’objet d’une publication à part.</p>
+<h2>4) Réponse aux difficultés</h2>
+<h3>a) Réponse à l’objection sur la diversité</h3>
+<p>On peut déjà répondre que les diverses expressions employées par le Souverain Pontife (« péché social », « structures de péché », etc.) appartiennent au même champ sémantique <a href="#_ftn1" name="_ftnref1">[1]</a>. Ce qui est commun est : en creux ou en négatif, l’opposition au péché personnel ; en plein ou en positif, la relation (ce terme est volontiers très générique et très vague) du péché à une institution humaine.</p>
+<p>De plus, la lecture du tableau fait apparaître une évolution dans le choix des expressions et un emploi de plus en plus prédominant de l’expression « structure de péché ».</p>
+<h3>b) Réponse à l’objection sur la hiérarchie</h3>
+<p>Le choix du Magistère s’est porté sur l’expression « structure de péché ». Sans doute, notamment, parce qu’elle permet de préciser le sens de social : qui dit social, dit seulement relation à l’autre, groupe informel ; qui dit structure dit en plus ordre, institution, un minimum d’organisation.</p>
+<h3>c) Réponse à l’objection sur la rupture</h3>
+<p>Il ne faudrait pas que la rupture en vienne à nier la continuité : au-delà de la différence de vocabulaire, on rencontre une continuité de doctrine. La différence de signifiant n’est pas nécessairement une distinction de signifié. Il est au contraire passionnant de constater combien le pape inscrit l’usage de l’expression « péché social » dans l’exhortation <em>Reconciliatio et pænitentiæ</em> en continuité avec celle de « structures de péché » dans l’encyclique <em>Sollicitudo rei socialis</em> : « il n’est pas hors de propos de parler de ‘structures de péché’, lesquelles, comme je l’ai montré dans l’exhortation apostolique <em>Reconciliatio et pænitentiæ </em><a href="#_ftn2" name="_ftnref2">[2]</a>… »</p>
+<p>Voir là une astuce rhétorique, une manière de faire passer deux idées dans une même phrase, est, à défaut d’une exégèse précise, un procès d’intention dénué de fondement et contraire à l’intention explicite de la phrase.</p>
+<p>En outre, toute différence ne signifie pas rupture ni absolue nouveauté ; elle peut se comprendre en termes d’explicitation. Je pencherai plutôt vers cette dernière interprétation, comme le montre l’étude précise de l’évolution des expressions, ainsi que nous l’avons vu.</p>
+<h3>d) Réponse à la question de théologie fondamentale</h3>
+<p>Nous sommes maintenant à même de répondre à la difficulté soulevée dans l’introduction. Les limites du discours magistériel indiquent en creux les tâches de la théologie. Voilà qui donne une réponse à l’objection</p>
+<p>Certes, un discours théologique n’est jamais clos et celui qui prétend à la réponse définitive confondrait son discours avec la vision béatifique qui, justement, n’est pas discursive. Mais il y a deux sortes de non-clôture du discours. L’une est d’ordre ; l’autre est d’ordre conceptuel.</p>
+<h2>5) Conclusion</h2>
+<p>Les expressions « péché social » et « structures de péché » sont nouvelles dans le Magistère. Et cette nouveauté lexicale signale une innovation conceptuelle.</p>
+<p>Cette introduction fut progressive, prudente et nuancée. C’est ainsi que, dans <em>Reconciliatio et pænitentiæ</em>, la formule « péché social » fait l’objet d’une précision lexicale peut-être unique dans les écrits et discours de Jean-Paul II. De même, les neuf apparitions de l’expression « structures de péché » dans <em>Sollicitudo Rei Socialis</em> sont toutes protégées d’un matelas de guillemets, avant que l’expression s’en délivre et acquiert ses lettres de noblesse.</p>
+<p>Il n’est pas impossible de décrire une certaine évolution des écrits du Magistère à partir de la lecture des occurrences des expressions.</p>
+<p>&#8211; La notion de dimension sociale ou structurelle du péché fait sa première entrée, <em>grosso modo</em>, en 1983, dans l’orbe de l’exhortation <em>Reconciliatio et pænitentiæ</em>, avec l’expression « péché social ». Entre 1983 et décembre 1987, celle-ci demeure prédominante. Non sans quelque flottement puisqu’elle est en concurrence avec celle de « situations de péché ».</p>
+<p>&#8211; En revanche, à partir de <em>Sollicitudo rei socialis</em>, la notion de « structure de péché » remplace presque définitivement celle de « péché social », non sans la faire totalement disparaître. On voit d’ailleurs une évolution interne se dessiner. Au départ, les guillemets sont toujours employés ; puis ils disparaissent ou réapparaissent selon les cas sans que je sois capable de repérer une logique particulière. Je n’ai pas non plus toujours vérifié sur le texte original. En tout cas, les textes majeurs comme les lettres encycliques <em>Centesimus Annus</em> ou <em>Evangelium Vitæ</em> semblent préférer se passer des guillemets.</p>
+<p>&#8211; Enfin, on peut repérer une évolution dans l’usage de l’expression. Un signe étonnant en est qu’au lieu de restreindre le sens de l’expression problématique, le pape va peu à peu l’élargir. Autant dans ses premiers écrits, il sauve le primat de la conscience personnelle sur la structure, autant, par la suite, il dénonce une tendance à la clôture de la conscience. Déjà, dans la lettre encyclique <em>Evangelium Vitæ</em>, il insiste pour en quelque sorte déprivatiser le discours moral : la culture de mort n’est pas seulement présente dans telle ou telle conscience qui choisit d’en finir avec la vie, mais aussi dans les structures, les institutions. Au point qu’il parle de « la ‘conscience morale’ de la société <a href="#_ftn3" name="_ftnref3">[3]</a> ». Au fond, les deux parties spécialisées de la théologie morale sont habitées par des tendances contraires quant à la place de la structure de péché : la morale sociale tend à la valoriser au profit de la seule dimension sociale et la morale dite familiale à la dévaloriser au profit du seul privé, de la seule conscience personnelle. Mais cet élargissement vaut aussi pour le domaine social. Au point que Jean-Paul II parlant de la nécessité de la conversion et du développement du message évangélique, affirme que le but est « de libérer les hommes et les femmes de notre temps du péché et des ‘structures de péché’ <a href="#_ftn4" name="_ftnref4">[4]</a> ». Enfin, le pape l’applique à l’examen de conscience des causes de désunité de l’Église : on ne peut en rester aux péchés personnels, les « péchés sociaux » aussi « ont entraîné et peuvent entraîner la division et la confirmer <a href="#_ftn5" name="_ftnref5">[5]</a> ».</p>
+<p>Passons maintenant aux tâches à accomplir. Le Magistère a comme défini, au sens étymologique du terme, le travail, c’est-à-dire il l’a délimité. Le labeur central est de définir cette notion même de structure de péché.</p>
+<p>Le plan implicite que j’ai cru discerner dans les œuvres du Saint-Père pourrait servir de base, d’autant qu’il a valeur universelle. Je me permettrais toutefois d’ajouter quelques précisions.</p>
+<h3>o) Préalable</h3>
+<p>En philosophie réaliste, le <em>an sit</em> précède toujours le <em>quid sit</em>. Cette détermination du fait présuppose toutefois une définition nominale, une première approche descriptive de la structure de péché. L’étude du sens de la structure de péché dans l’œuvre de Jean-Paul II a en quelque sorte joué ce rôle. Précisant ou corrigeant ce que j’ai pu dire, des mises au point seraient utiles :</p>
+<p>&#8211; L’expression « péché social » (et quelques notions proches, de signification équivalente, à l’exception de « structures de péché ») apparaît dans le discours du Magistère du Souverain Pontife le 29 octobre 1983, lors du discours de clôture du Synode sur la réconciliation et la pénitence dans la vie et la mission de l’Église et reçoit ses lettres de noblesse dans l’exhortation <em>Réconciliation et pénitence</em>. Le pape y dit expressément qu’il s’interroge sur leur emploi. La théologie de la libération a joué un rôle dans leur apparition. Sont-elles explicitement présentes chez lesdits théologiens ou sont-elles une « invention » du Magistère ? Dans le premier cas, chez qui et quand apparaissent-elles exactement et quels changements, quelle évolution Jean-Paul II fait opérer à ces notions ?</p>
+<p>&#8211; L’expression « structures de péché » est d’introduction plus tardive, dans l’encyclique <em>Sollicitudo rei socialis </em>fin 1987. Quelles sont les raisons précises pour lesquelles le pape est passé d’un usage prédominant de l’expression « péché social » à un usage tout aussi privilégié « structures de péché » ?</p>
+<p>&#8211; Enfin, pour quelles raisons le pape semble attacher de plus en plus d’intérêt à cette expression qu’il ne protège plus de guillemets ?</p>
+<h3>a) Le fait des structures de péché</h3>
+<p>Cette étude ébaucherait aussi une première classification des structure de péché.</p>
+<p>Il faudrait partir d’expériences concrètes, en allant du plus simple au plus complexe.</p>
+<h3>b) Nature (quiddité) de la structure de péché</h3>
+<p>La grande question sera celle de la détermination de la nature de la structure, de son type d’autonomie, d’être : être de raison ou être réel, et alors de type substantiel, qualitatif ou relationnel ?</p>
+<p>Ici, tout à est à faire, car nous ne sommes pas encore en possession d’une définition essentielle de la structure de péché. L’aide des sciences humaines, la sociologie au premier chef, sera précieuse. Incontestablement, la notion bourdieusienne d’habitus sera de première utilité, car elle montre combien l’institution se subjectivise ; le concept d’effet pervers développé par Boudon semble aussi utile.</p>
+<p>Les structures de péché ne sont pas non plus étrangères à la notion aristotélicienne d’habitus. Rappelons-nous les deux séries de verbes caractérisant le lien existant entre structures de péché et péchés personnels. Le péché est la source de la structure qu’il fait naître, consolide et rend mal réversible ; en retour, la structure favorise et conditionne les péchés. Or, de même, d’une part, l’acte pécheur engendre un habitus vicieux et, multiplié, le renforce, voire le rend compulsif ; d’autre part, la disposition habituelle facilite le péché. Il demeure que l’habitus est personnel, alors que la structure est impersonnelle.</p>
+<h3>c) Causes des structures de péché</h3>
+<p>Il faudra considérer en premier lieu les sources des structure de péché. Or, selon l’insistance si précieuse du pape, cette cause (efficiente principale) est avant tout le péché. Toutefois, les blessures, les conditionnements ont aussi un rôle à jouer. En effet, double est la cause : volontaire (ici, le mal du péché), mais aussi subie (le mal de la blessure, la passivité du conditionnement).</p>
+<p>Voici un exemple de clarification. On a vu, à propos des péchés originaires qui conditionnent les structures de péché, que <em>Sollicitudo rei socialis </em>privilégie l’avidité et la vanité et constate leur corrélation indissoluble. Il n’est pas impossible de comprendre ce double fait à partir d’une réflexion lumineuse du Docteur angélique. S’il est un point sur lequel les Pères, les Docteurs et la tradition spirituelle sont d’accord, c’est que « le commencement de tout péché, c’est l’orgueil » (Si 10,13. Trad. de la Vulgate) <a href="#_ftn6" name="_ftnref6">[6]</a>. Or, l’Écriture dit aussi que « la racine de tous les maux, c’est la cupidité » (1 Tm 6,10). N’y a-t-il pas contradiction ? Thomas répond qu’on distingue deux ordres dans les actes libres : l’ordre d’intention et l’ordre d’exécution. Or, ce qui est premier dans l’ordre d’intention, c’est la finalité et ce qui est premier dans l’ordre d’exécution, c’est le premier moyen mis en œuvre pour atteindre cette fin. Par exemple, si vous désirez aller dîner en ville, cette finalité sera première dans votre intention ; maintenant, pour vous y rendre, vous prenez votre voiture, ce qui relève de l’ordre des moyens. Or, les moyens sont premiers dans l’exécution : vous devez d’abord sortir votre voiture avant d’arriver à votre dîner. La finalité qui était première en intention est donc dernière dans l’exécution. Moyens et fins suivent un ordre opposé. Mais « la fin de l’homme, dans l’acquisition de tous les biens temporels [donc pécheurs], c’est d’obtenir par ce moyen une perfection et une excellence particulières. Aussi à cet égard l’orgueil, qui est la recherche de l’excellence, est donné comme le commencement de tout péché. Mais dans l’ordre d’exécution, ce qu’il y a de premier c’est ce qui fournit le moyen de contenter tous les mauvais désirs, ce qui est comme une racine nourricière, à savoir les richesses <a href="#_ftn7" name="_ftnref7">[7]</a> ». La cupidité « ressemble à la racine par laquelle l’arbre tire son aliment du sol ». En effet, « l’homme acquiert avec la richesse la faculté de perpétrer n’importe quel péché et celle d’en avoir le désir, du fait que l’argent peut aider à procurer les biens de ce monde quels qu’ils soient, selon le mot de l’Ecclésiaste : ‘À l’argent tout obéit’ (Si 10,19. Trad. de la Vulgate) <a href="#_ftn8" name="_ftnref8">[8]</a> ».</p>
+<h3>d) Mécanismes des structures de péché</h3>
+<p>Le mécanisme se distingue de la cause comme le mouvement du moteur.</p>
+<p>Il sera là encore important de faire appel à la sociologie. Mais il sera encore plus important de fonder le propos en anthropologie et en éthique. En effet, nous avons vu que l’effet social, extérieur de la structure de péché suppose et se fonde sur une rupture intérieure. Voilà pourquoi on pourra distinguer les mécanismes selon les facultés humaines mises en jeu : l’intelligence (aveuglement volontaire ou ignorance non coupable), la volonté (malice pécheresse ou affaiblissement non responsable) et l’affectivité (désirs désorganisés, notamment la démesure des passions, la violence) <a href="#_ftn9" name="_ftnref9">[9]</a>.</p>
+<p>C’est ici me semble-t-il (ou plutôt à la frontière entre les causes et les mécanismes) que se situe l’intérêt des travaux de Bourdieu et de Foucault.</p>
+<p>Il me semble que l’on pourrait réinterpréter leur insistance sur le pouvoir et la domination comme structure de péché en faisant appel à la notion de triple rupture :</p>
+<ol>
+<li>Les deux auteurs (et Marx avant eux) ont bien vu que l’essence du péché social est la domination de l’homme par l’homme, ce qui entraîne que certains hommes utilisent les autres à leur propre profit. En ce sens une structure de péché est toujours une institution qui favorise cette domination et la fait passer à l’état habituel dans les mœurs intellectuelles, volontaires et affectives.</li>
+<li>Mais cette domination de l’homme par l’homme n’est possible que parce que l’homme est rompu en son être intime, s’enracine dans la division intérieure. Ici, le meilleur guide semble Foucault : le dressage du corps, donc le refus de tout dynamisme naturel, son façonnement à l’image des desseins d’une raison toute-puissante est le répondant anthropologique, la projection intime de la dialectique dominant-dominé, maître-esclave qui constitue l’essence du péché social.</li>
+<li>Enfin, la source première de toute division intérieure et de tout péché social est dans la rupture première avec Dieu ; or, l’on sait combien la modernité s’est instaurée, pour une part, par un coup de force, ce que Jean-Paul II appelle « la métatentation » : la rupture à l’égard de toute donation originaire, qui a été la face négative de la prise de conscience enivrée de l’autonomie de l’acte rationnel et de la transcendance de la liberté.</li>
+</ol>
+<h3>e) Effets des structures de péché</h3>
+<p>De même que la structure de péché est bordée en amont notamment par le péché, de même l’est-elle en aval par le ou plutôt les péchés. Le premier travail est déterminer la nature du lien de causalité entre la structure et les péchés dont elle est la source. Jean-Paul II dit que cette relation n’est pas de cause principale mais de conditionnement. C’est ici que le concept de désir mimétique développé par Girard sera précieux.</p>
+<p>Il me semble qu’un second objectif est important bien que le Magistère n’y fasse presque pas allusion car son objectif est plus éthique : les structures de péché ont aussi la souffrance pour conséquence. En effet, double est le mal : voulu du péché et subi de la blessure.</p>
+<p>Il faudra enfin analyser de près les phénomènes en cascade, les boucles de rétroaction. De manière plus générale, les sciences sociales, l’approche systémique sont d’une aide extrêmement précieuse.</p>
+<h3>f) Remèdes aux structures de péché</h3>
+<p>Ils sont à répartir de plusieurs manières selon qu’ils sont d’ordre naturel ou d’ordre théologal, selon qu’ils sont d’ordre individuel (conversion, exercice de vertus) ou d’ordre social, structurel.</p>
+<p>Pascal Ide</p>
+<p><a href="#_ftnref1" name="_ftn1">[1]</a> Il faudrait un peu plus nuancer pour l’expression « situation de péché ». En effet, elle n’a parfois pas de relation avec la dimension sociale ou structurelle du péché pour n’en avoir qu’avec la personne dans son individualité (par exemple : Homélie à la messe à Lomé (Togo), 8-8-1985, n. 8) ; inversement les deux emplois de « situation(s) de péché » dans <em>Reconciliatio et pænitentiæ</em> sont presque synonyme de « péché social » (<em>idem</em> : Audience générale du 17-9-1986, n. 3-5).</p>
+<p><a href="#_ftnref2" name="_ftn2">[2]</a> <em>Sollicitudo rei socialis</em>, 30-12-1987, n. 36.</p>
+<p><a href="#_ftnref3" name="_ftn3">[3]</a> Lettre encyclique <em>Evangelium Vitæ</em> sur la valeur et l’inviolabilité de la vie humaine, 25-3-1995, n. 24.</p>
+<p><a href="#_ftnref4" name="_ftn4">[4]</a> Allocution à Johannesburg pour la seconde session de célébration du Synode africain, 17-9-1995, n. 3.</p>
+<p><a href="#_ftnref5" name="_ftn5">[5]</a> Lettre encyclique sur l’engagement œcuménique <em>Ut unum sint</em>, 25-5-1995, n. 34.</p>
+<p><a href="#_ftnref6" name="_ftn6">[6]</a> Cf. S. Augustin, <em>Cité de Dieu</em>, L. XIV, ch. 28, coll. « Bibliothèque augustinienne » n° 35, Paris, Desclée, p. 465.</p>
+<p><a href="#_ftnref7" name="_ftn7">[7]</a> <em>Somme de théologie</em>, Ia-IIae, q. 84, a. 2.</p>
+<p><a href="#_ftnref8" name="_ftn8">[8]</a> <em>Ibid.</em>, a. 1.</p>
+<p><a href="#_ftnref9" name="_ftn9">[9]</a> Jean-Paul II ne parle pas de l’anarchie des passions comme telle. Les deux désirs désordonnés à la source de toute structure de péché dont parle <em>Sollicitudo rei socialis</em>, la soif du pouvoir, désir désordonné des richesses, sont des pathologies du désir, mais volontaire, et non pas sensitif.</p>
+<p>&nbsp;</p>
+<div class="entry-bottom-utility"><div class="blog_time icon-clock">6.10.2018</div>
+			<div class="category-link">
+			<i class="entypo_icon icon-folder-open"></i>
+			<span class="entry-utility-prep entry-utility-prep-cat-links"></span> <a href="https://pascalide.fr/category/articles/" rel="category tag">Articles</a>, <a href="https://pascalide.fr/category/spiritualite-theologie/jean-paul-ii/" rel="category tag">Jean-Paul II</a>, <a href="https://pascalide.fr/category/ethique/peche-et-blessure/" rel="category tag">Péché et blessure</a>, <a href="https://pascalide.fr/category/spiritualite-theologie/" rel="category tag">Spiritualité-Théologie</a>, <a href="https://pascalide.fr/category/theologie/" rel="category tag">Théologie</a>
+			</div>
+		<div class="open_blog_social">
+			<div id="fb-root"></div>
+			<script>(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.0";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, "script", "facebook-jssdk"));</script>
+			<div class="fb-like" data-href="http://pascalide.fr/?p=5369" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+			<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document, "script", "twitter-wjs");</script>
+			<div class="g-plusone" data-size="medium" data-href="http://pascalide.fr/?p=5369"></div>
+			<!-- Place this tag after the last +1 button tag. -->
+			<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+		</div>
+		<div class="sep">&nbsp;</div>		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="clearfix"></div>
+	</div>									<div class="clearfix"></div>
+									<div class="comments_container">
+											<nav class="nav-single blog">
+																									<div class="hover_left nav_button left"><a href="https://pascalide.fr/la-crise-de-la-postmodernite-selon-george-steiner/" class="prev_blog_post icon-left-open-big hover_left"></a></div>
+																								  <div class="hover_right nav_button right"><a href="https://pascalide.fr/les-papes-et-la-medecine-les-competences-du-soignant/" class="next_blog_post icon-right-open-big hover_right"></a></div>
+																								<div class="clearfix"></div>
+											</nav><!-- .nav-single -->
+										<div class="clearfix"></div>
+										<div id="comments">
+	
+			<p class="nocomments">Les commentaires sont fermés.</p>
+		<div class="content-form white-form">
+			</div>
+</div><!-- end of comments -->
+									</div>
+														</div>
+				</div>
+			</div>
+		</div>
+						<div class="clearfix"></div>
+	</div><!--end of content-->
+	<div class="clearfix"></div>
+</div><!--end of page-wrapper-->
+
+<hr />
+<div id="footer" role="contentinfo">
+<!-- If you'd like to support WordPress, having the "powered by" link somewhere on your blog is the best way; it's our only promotion or advertising. -->
+	<p>
+		Pascal Ide est fièrement propulsé par <a href="https://wordpress.org/">WordPress</a>	</p>
+</div>
+</div>
+
+<!-- Gorgeous design by Michael Heilemann - http://binarybonsai.com/kubrick/ -->
+
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Suiv.\u00a0>","prev":"<\u00a0Pr\u00e9c.","image":"Image","of":"sur","close":"Fermer","noiframes":"Cette fonctionnalit\u00e9 requiert des iframes. Les iframes sont d\u00e9sactiv\u00e9es sur votre navigateur, ou alors il ne les accepte pas.","loadingAnimation":"https:\/\/pascalide.fr\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/plugins/seatera-plugin/lib/js/js.cookie.js?ver=5.3.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var seatera_main = {"ajaxurl":"https:\/\/pascalide.fr\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/plugins/seatera-plugin/lib/js/master.js?ver=5.3.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"https:\/\/pascalide.fr\/wp-content\/plugins\/wp-postratings","ajax_url":"https:\/\/pascalide.fr\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 item at a time.","image":"stars","image_ext":"gif","max":"5","show_loading":"1","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="https://pascalide.fr/wp-content/plugins/wp-postratings/images/stars/rating_over.gif";;
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.87'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/plugins/ns-category-widget/public/assets/js/jstree.min.js?ver=3.0.0'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/plugins/ns-category-widget/public/assets/js/jstree.state.js?ver=3.0.0'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/plugins/ns-category-widget/public/assets/js/public.js?ver=3.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_login_object = {"ajaxurl":"https:\/\/pascalide.fr\/wp-admin\/admin-ajax.php","redirecturl":"https:\/\/pascalide.fr","loadingmessage":"Sending user info, please wait..."};
+var my_ajax = {"ajaxurl":"https:\/\/pascalide.fr\/wp-admin\/admin-ajax.php"};
+var date_format = {"date_format":"mm.dd.yy","date_separator":".","upcomming_time":"","time_format":"12h","startofweek":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/master.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=5.0.1'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/nav/pushy.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/jquery.mousewheel.min.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/jquery.jcarousel.pack.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/classie.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/smoothscroll/jquery.kinetic.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/smoothscroll/jquery.smoothDivScroll-1.3.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/snap.svg-min.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/svgLoader.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fermer","currentText":"Aujourd\u2019hui","monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesShort":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"nextText":"Suivant","prevText":"Pr\u00e9c\u00e9dent","dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim","lun","mar","mer","jeu","ven","sam"],"dayNamesMin":["D","L","M","M","J","V","S"],"dateFormat":"d MM yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/jquery.cookie.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/dots.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/jquery.debouncedresize.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/jquery.dotdotdot.min.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/modernizr.custom.79639.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-content/themes/Seatera/js/jquery.easing.1.3.min.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/comment-reply.min.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://pascalide.fr/wp-includes/js/wp-embed.min.js?ver=5.3.20'></script>
+</body>
+</html>

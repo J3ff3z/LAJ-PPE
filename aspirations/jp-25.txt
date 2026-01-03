@@ -1,0 +1,2342 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 03 Jan 2026 16:41:25 GMT
+content-type: text/html; charset=UTF-8
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+vary: User-Agent,Cookie
+link: <https://www.animatetimes.com/index.php?rest_route=/>; rel="https://api.w.org/"
+x-b-cache: cache
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+            </script>
+    <script>
+    window.isMobile = (function (userAgent) {
+      var mobileUA = [
+            'Mobile', 'Android', 'Silk/', 'Kindle', 'BlackBerry', 'Opera Mini', 'Opera Mobi',
+        ];
+        for (var i in mobileUA) {
+            if (userAgent.indexOf(mobileUA[i]) > -1) {
+                return true;
+            }
+        }
+        return false;
+    })(navigator.userAgent);
+
+    window.gtmKey = isMobile ? 'GTM-WTK4TCX' : 'GTM-5LL2J7Z';
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer',gtmKey);</script>
+    <!-- End Google Tag Manager -->
+
+    <script async src="https://yads.c.yimg.jp/js/yads-async.js"></script>
+
+    <script type="text/javascript" src="//js.rtoaster.jp/Rtoaster.js"></script>
+    <script>
+            Rtoaster.init("RTA-5e68-a99135045038");
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>七つの大罪｜アニメ声優・キャラクター・登場人物・最新情報一覧 | アニメイトタイムズ</title>
+        <meta name="keywords" content="アニメ,ラジオ,ニュース,声優,アニメイトタイムズ,アニメイト">
+    <meta name="description" content="【アニメイトタイムズ】『七つの大罪』は、鈴木央による漫画作品。こちらでは、アニメ『七つの大罪』のあらすじ、キャスト声優、スタッフ、オススメ記事をご紹介！">
+    <link rel="canonical" href="https://www.animatetimes.com/tag/details.php?id=5119">
+    <link rel="shortcut icon" href="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/common/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/common/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/common/android-chrome-256x256.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/common/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/common/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/common/favicon-16x16.png">
+    <meta name="verify-v1" content="yCAUuml+xhTYucSjL4mVDfsFlPFshQywQzQHY6axtHE=">
+    <meta property="og:url" content="https://www.animatetimes.com/tag/details.php?id=5119">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="アニメイトタイムズ">
+    <meta property="og:title" content="七つの大罪｜アニメ声優・キャラクター・登場人物・最新情報一覧 | アニメイトタイムズ">
+    <meta property="og:description" content="【アニメイトタイムズ】『七つの大罪』は、鈴木央による漫画作品。こちらでは、アニメ『七つの大罪』のあらすじ、キャスト声優、スタッフ、オススメ記事をご紹介！">
+    <meta property="og:image" content="https://img2.animatetimes.com/2018/11/6077e44f65a04_a1faed2a3feca72693df338252b8927e-e1644888723848.jpg">
+    <meta property="fb:app_id" content="519627958200656">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@animatetimes">
+    <meta name="twitter:title" content="七つの大罪｜アニメ声優・キャラクター・登場人物・最新情報一覧 | アニメイトタイムズ">
+    <meta name="twitter:description" content="【アニメイトタイムズ】『七つの大罪』は、鈴木央による漫画作品。こちらでは、アニメ『七つの大罪』のあらすじ、キャスト声優、スタッフ、オススメ記事をご紹介！">
+    <meta name="twitter:image" content="https://img2.animatetimes.com/2018/11/6077e44f65a04_a1faed2a3feca72693df338252b8927e-e1644888723848.jpg">
+    <meta name="thumbnail" content="https://img2.animatetimes.com/2018/11/6077e44f65a04_a1faed2a3feca72693df338252b8927e-e1644888723848.jpg">
+    <link rel = "next" href="https://www.animatetimes.com/tag/details.php?id=5119&p=2" >
+    <link rel='stylesheet' id='contact-form-7-css'  href='https://www.animatetimes.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ligature-symbols-css'  href='https://www.animatetimes.com/wp-content/plugins/gianism/assets/css/lsf.css?ver=2.11' type='text/css' media='all' />
+<link rel='stylesheet' id='gianism-css'  href='https://www.animatetimes.com/wp-content/plugins/gianism/assets/css/gianism-style.css?ver=3.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/css/style.css?ver=1761122776' type='text/css' media='all' />
+<link rel='stylesheet' id='style_comment-css'  href='https://www.animatetimes.com/s/css/style_comment.css?ver=4.9.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.animatetimes.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.animatetimes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='application/json' id="wpp-json">
+{"sampling_active":1,"sampling_rate":100,"ajax_url":"https:\/\/www.animatetimes.com\/index.php?rest_route=\/wordpress-popular-posts\/v1\/popular-posts","ID":1704903,"token":"3549fb0a20","lang":0,"debug":0}
+</script>
+<script type='text/javascript' src='https://www.animatetimes.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=5.3.5'></script>
+        <style>
+            @-webkit-keyframes bgslide {
+                from {
+                    background-position-x: 0;
+                }
+                to {
+                    background-position-x: -200%;
+                }
+            }
+
+            @keyframes bgslide {
+                    from {
+                        background-position-x: 0;
+                    }
+                    to {
+                        background-position-x: -200%;
+                    }
+            }
+
+            .wpp-widget-placeholder {
+                margin: 0 auto;
+                width: 60px;
+                height: 3px;
+                background: #dd3737;
+                background: -webkit-gradient(linear, left top, right top, from(#dd3737), color-stop(10%, #571313), to(#dd3737));
+                background: linear-gradient(90deg, #dd3737 0%, #571313 10%, #dd3737 100%);
+                background-size: 200% auto;
+                border-radius: 3px;
+                -webkit-animation: bgslide 1s infinite linear;
+                animation: bgslide 1s infinite linear;
+            }
+        </style>
+            <script src="https://www.animatetimes.com/filter-dead-link.js.php"></script>
+  </head>
+  <body class="tag-template-default">
+
+    <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LL2J7Z"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+    <div class="l-wrapper" id="pagetop">
+
+<header class="c-header c-header-pc">
+  <div class="c-header-logo"><a href="https://www.animatetimes.com/" id="times_logo"><img src="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/common/logo.png" alt="animate Times"></a></div>
+  <div class="c-header-trig nav-toggle">
+    <div class="c-header-trig--label">menu</div>
+  </div>
+
+  <nav class="c-globalnav">
+    <div class="row">
+      <div class="c-globalnav-list--pc" style="margin-top: 80px;">
+    <div class="nav-icons">
+        <ul class="c-globalnav-list c-globalnav-list--category" style="margin-top: 0px;">
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com" name="menu_burger"><i class="fas fa-home"></i>HOME</a></li>
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/ranking/" name="menu_burger"><i class="fas fa-crown"></i>ランキング</a></li>
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/anime/" name="menu_burger"><i class="fas fa-tv"></i>アニメ</a></li>
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/seiyu/" name="menu_burger"><i class="fas fa-microphone-alt"></i>声優</a></li>
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/radio/" name="menu_burger"><i class="fas fa-broadcast-tower"></i>ラジオ</a></li>
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/comment/" name="menu_burger"><i class="fas fa-comment"></i>みんなの声</a></li>
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/goods/" name="menu_burger"><i class="fas fa-gift"></i>グッズ</a></li>
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/eiga/" name="menu_burger"><i class="fas fa-video"></i>映画</a></li>
+        </ul>
+    </div>
+    <div class="nav-icons">
+        <ul class="c-globalnav-list c-globalnav-list--category" style="margin-top: 0px;">
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/book/" name="menu_burger"><i class="fas fa-book"></i>マンガ・ラノベ</a></li>
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/game/" name="menu_burger"><i class="fas fa-gamepad"></i>ゲーム・アプリ</a></li>
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/music/" name="menu_burger"><i class="fas fa-music"></i>音楽</a></li>
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/cosplay/" name="menu_burger"><i class="fas fa-tshirt"></i>コスプレ</a></li>
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/25d/" name="menu_burger"><i class="fa-solid fa-people-line"></i>2.5次元</a></li>
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/webcast/" name="menu_burger"><i class="fa-brands fa-square-youtube"></i>配信・Vtuber</a></li>
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/trend/" name="menu_burger"><i class="fas fa-arrow-trend-up"></i>トレンド</a></li>
+            <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/ebook/" name="menu_burger"><i class="fas fa-book-open"></i>無料マンガ</a></li>
+        </ul>
+    </div>
+    <div class="nav-menu">
+        <ul class="c-globalnav-list">
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/index.php?p=1" name="menu_burger_news"><i class="fas fa-newspaper"></i>最新記事一覧</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/anime/?p=1" name="menu_burger_news-anime"><i class="fas fa-newspaper"></i>アニメ記事一覧</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/seiyu/?p=1" name="menu_burger_news-seiyu"><i class="fas fa-newspaper"></i>声優記事一覧</a></li>
+</ul>
+
+<ul class="c-globalnav-list">
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/tag/details.php?id=4105" name="menu_burger_eiga-anime"><i class="fas fa-video"></i>アニメ映画一覧</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/tag/details.php?id=6875" name="menu_burger_eiga-live"><i class="fas fa-video"></i>実写化映画一覧</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/tag/details.php?id=1393" name="menu_burger_seiyu-list"><i class="fas fa-microphone-alt"></i>男性声優/女性声優一覧</a></li>
+</ul>
+
+<ul class="c-globalnav-list">
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/tag/details.php?id=1392" name="menu_burger_week"><i class="fas fa-tv"></i>今期アニメ曜日別一覧</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/tag/details.php?id=5228" name="menu_burger_spring"><i class="fas fa-tv"></i>春アニメ</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/tag/details.php?id=5806" name="menu_burger_summer"><i class="fas fa-tv"></i>夏アニメ</a></li>
+</ul>
+
+<ul class="c-globalnav-list">
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/tag/details.php?id=5947" name="menu_burger_autumn"><i class="fas fa-tv"></i>秋アニメ</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/tag/details.php?id=6212" name="menu_burger_winter"><i class="fas fa-tv"></i>冬アニメ</a></li>
+</ul>
+    </div>
+
+    <div class="c-sns">
+        <div class="c-sns-title">FOLLOW US</div>
+        <ul class="c-sns-list">
+        <li class="c-sns-item"><a class="c-sns-link" href="https://twitter.com/animatetimes" target="_blank"><i class="fa-brands fa-x-twitter">
+            <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
+        </i></a></li>
+        <li class="c-sns-item"><a class="c-sns-link" href="https://www.youtube.com/channel/UCj-7fExtfepnDR3FrX5K2sg/" target="_blank"><i class="fab fa-youtube"></i></a></li>
+        <li class="c-sns-item"><a class="c-sns-link" href="https://www.facebook.com/animatetimes/?fref=ts" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+        <li class="c-sns-item"><a class="c-sns-link" href="https://www.instagram.com/animatetimes/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+        </ul>
+    </div>
+</div><!--// pc -->
+    </div>
+  </nav>
+  <div class="c-header-search">
+    <div class="c-header-search--label">search</div>
+      <form action="https://www.animatetimes.com/search/" method="get" id="searchArea" autocomplete="off">
+        <div class="c-header-search-input">
+          <input type="text" name="q" placeholder="検索キーワードを入力してください。">
+        </div>
+        <div class="c-header-search-icon"><i class="fas fa-search"></i></div>
+        <div class="c-header-search-close"><i class="fas fa-times"></i></div>
+      </form>
+      <script type="text/javascript" src="//www.google.co.jp/coop/cse/brand?form=cse-search-box&amp;lang=ja"></script>
+  </div>
+  <nav class="c-header-nav">
+    <ul class="c-header-list">
+      <li class="c-header-item">
+        <a class="c-header-link" href="https://www.animatetimes.com/" id="menu_gnavi_home">HOME</a>
+      </li>
+                                      <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/ranking/" id="menu_gnavi_ranking">
+              ランキング            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/trend/" id="menu_gnavi_trend">
+              トレンド            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/anime/" id="menu_gnavi_anime">
+              アニメ            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/seiyu/" id="menu_gnavi_seiyu">
+              声優            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/radio/" id="menu_gnavi_radio">
+              ラジオ            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/comment/" id="menu_gnavi_comment">
+              みんなの声            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/goods/" id="menu_gnavi_goods">
+              グッズ            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/eiga/" id="menu_gnavi_eiga">
+              映画            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/book/" id="menu_gnavi_book">
+              マンガ・ラノベ            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/game/" id="menu_gnavi_game">
+              ゲーム・アプリ            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/music/" id="menu_gnavi_music">
+              音楽            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/cosplay/" id="menu_gnavi_cosplay">
+              コスプレ            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/25d/" id="menu_gnavi_25d">
+              2.5次元            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/webcast/" id="menu_gnavi_webcast">
+              配信・Vtuber            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/ebook/" id="menu_gnavi_ebook">
+              無料マンガ            </a>
+          </li>
+                  </ul>
+    <div class="c-header-border"></div>
+  </nav>
+</header>
+
+<header class="c-header c-header-sp">
+  <div class="c-header-logo"><a href="https://www.animatetimes.com/" id="times_logo"><img src="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/common/logo.png" alt="animate Times"></a></div>
+  <div class="c-header-trig nav-toggle">
+    <div class="c-header-trig--label">menu</div>
+  </div>
+
+  <nav class="c-globalnav">
+    <div class="row">
+      <div class="c-globalnav-list--sp">
+<ul class="c-globalnav-list c-globalnav-list--category c-globalnav-list--one-fourth">
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/" name="menu_burger"><i class="fas fa-home"></i>HOME</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/ranking/" name="menu_burger"><i class="fas fa-crown"></i>ランキング</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/anime/" name="menu_burger"><i class="fas fa-tv"></i>アニメ</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/seiyu/" name="menu_burger"><i class="fas fa-microphone-alt"></i>声優</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/radio/" name="menu_burger"><i class="fas fa-broadcast-tower"></i>ラジオ</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/comment/" name="menu_burger"><i class="fas fa-comment"></i>みんなの声</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/goods/" name="menu_burger"><i class="fas fa-gift"></i>グッズ</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/eiga/" name="menu_burger"><i class="fas fa-video"></i>映画</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/book/" name="menu_burger"><i class="fas fa-book"></i>マンガ・ラノベ</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/game/" name="menu_burger"><i class="fas fa-gamepad"></i>ゲーム・アプリ</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/music/" name="menu_burger"><i class="fas fa-music"></i>音楽</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/cosplay/" name="menu_burger"><i class="fas fa-tshirt"></i>コスプレ</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/25d/" name="menu_burger"><i class="fa-solid fa-people-line"></i>2.5次元</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/webcast/" name="menu_burger"><i class="fa-brands fa-square-youtube"></i>配信・Vtuber</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/trend/" name="menu_burger"><i class="fas fa-arrow-trend-up"></i>トレンド</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="https://www.animatetimes.com/ebook/" name="menu_burger"><i class="fas fa-book-open"></i>無料マンガ</a></li>
+</ul>
+<!-- class に c-globalnav-list--half をつけると、幅が半分になります。 -->
+
+<ul class="c-globalnav-list">
+    <li class="c-globalnav-item"><a name="menu_burger_week" class="c-globalnav-link" href="https://www.animatetimes.com/index.php?p=1"><i class="fas fa-newspaper"></i>最新記事一覧</a></li>
+</ul>
+
+<ul class="c-globalnav-list c-globalnav-list--half">
+    <li class="c-globalnav-item"><a name="menu_burger_winter" class="c-globalnav-link" href="/anime/?p=1"><i class="fas fa-newspaper"></i>アニメ記事一覧</a></li>
+    <li class="c-globalnav-item"><a name="menu_burger_spring" class="c-globalnav-link" href="/seiyu/?p=1"><i class="fas fa-newspaper"></i>声優記事一覧</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/tag/details.php?id=4105" name="menu_burger_eiga-anime"><i class="fas fa-video"></i>アニメ映画一覧</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/tag/details.php?id=6875" name="menu_burger_eiga-live"><i class="fas fa-video"></i>実写化映画一覧</a></li>
+</ul>
+
+
+<ul class="c-globalnav-list">
+    <li class="c-globalnav-item"><a name="menu_burger_week" class="c-globalnav-link" href="/tag/details.php?id=1392"><i class="fas fa-tv"></i>今期アニメ曜日別一覧</a></li>
+</ul>
+
+<ul class="c-globalnav-list c-globalnav-list--half">
+    <li class="c-globalnav-item"><a name="menu_burger_spring" class="c-globalnav-link" href="/tag/details.php?id=5228"><i class="fas fa-tv"></i>春アニメ</a></li>
+    <li class="c-globalnav-item"><a name="menu_burger_summer" class="c-globalnav-link" href="/tag/details.php?id=5806"><i class="fas fa-tv"></i>夏アニメ</a></li>
+    <li class="c-globalnav-item"><a name="menu_burger_autumn" class="c-globalnav-link" href="/tag/details.php?id=5947"><i class="fas fa-tv"></i>秋アニメ</a></li>
+    <li class="c-globalnav-item"><a name="menu_burger_winter" class="c-globalnav-link" href="/tag/details.php?id=6212"><i class="fas fa-tv"></i>冬アニメ</a></li>
+</ul>
+
+<ul class="c-globalnav-list">
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/tag/details.php?id=1393" name="menu_burger_seiyu-list"><i class="fas fa-microphone-alt"></i>男性声優/女性声優一覧</a></li>
+</ul>
+
+<!-- c-globalnav-list--half をつけなければ、幅は100%です。
+<ul class="c-globalnav-list">
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/index.php?p=1"><i class="far fa-newspaper"></i>特集１</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/index.php?p=1"><i class="far fa-newspaper"></i>特集2</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/index.php?p=1"><i class="far fa-newspaper"></i>特集3</a></li>
+</ul>
+ -->
+
+<!-- アイコン付きで2列のパターンです
+<ul class="c-globalnav-list c-globalnav-list--category">
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/index.php?p=1"><i class="far fa-newspaper"></i>特集１</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/index.php?p=1"><i class="far fa-newspaper"></i>特集2</a></li>
+</ul>
+ -->
+
+<!-- アイコン付きで3列のパターンです
+<ul class="c-globalnav-list c-globalnav-list--category c-globalnav-list--one-third">
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/index.php?p=1"><i class="far fa-newspaper"></i>特集１</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/index.php?p=1"><i class="far fa-newspaper"></i>特集2</a></li>
+    <li class="c-globalnav-item"><a class="c-globalnav-link" href="/index.php?p=1"><i class="far fa-newspaper"></i>特集3</a></li>
+</ul>
+ --><a class="nav-toggle bottom" href="."><i class="fas fa-times"></i></a>
+<div class="c-sns">
+    <div class="c-sns-title">FOLLOW US</div>
+    <ul class="c-sns-list">
+    <li class="c-sns-item"><a class="c-sns-link" href="https://twitter.com/animatetimes" target="_blank"><i class="fa-brands fa-x-twitter">
+        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
+    </i></a></li>
+    <li class="c-sns-item"><a class="c-sns-link" href="https://www.youtube.com/channel/UCj-7fExtfepnDR3FrX5K2sg/" target="_blank"><i class="fab fa-youtube"></i></a></li>
+    <li class="c-sns-item"><a class="c-sns-link" href="https://www.facebook.com/animatetimes/?fref=ts" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+    <li class="c-sns-item"><a class="c-sns-link" href="https://www.instagram.com/animatetimes/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+    </ul>
+</div>
+</div><!--// sp  -->
+    </div>
+  </nav>
+  <div class="c-header-search">
+    <div class="c-header-search--label">search</div>
+      <form action="https://www.animatetimes.com/search/" method="get" id="searchArea" autocomplete="off">
+        <div class="c-header-search-input">
+          <input type="text" name="q" placeholder="検索キーワードを入力してください。">
+        </div>
+        <div class="c-header-search-icon"><i class="fas fa-search"></i></div>
+        <div class="c-header-search-close"><i class="fas fa-times"></i></div>
+      </form>
+      <script type="text/javascript" src="//www.google.co.jp/coop/cse/brand?form=cse-search-box&amp;lang=ja"></script>
+  </div>
+  <nav class="c-header-nav">
+    <ul class="c-header-list">
+      <li class="c-header-item">
+        <a class="c-header-link" href="https://www.animatetimes.com/" id="menu_gnavi_home">HOME</a>
+      </li>
+                                      <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/ranking/" id="menu_gnavi_ranking">
+              ランキング            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/trend/" id="menu_gnavi_trend">
+              トレンド            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/anime/" id="menu_gnavi_anime">
+              アニメ            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/seiyu/" id="menu_gnavi_seiyu">
+              声優            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/radio/" id="menu_gnavi_radio">
+              ラジオ            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/comment/" id="menu_gnavi_comment">
+              みんなの声            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/goods/" id="menu_gnavi_goods">
+              グッズ            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/eiga/" id="menu_gnavi_eiga">
+              映画            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/book/" id="menu_gnavi_book">
+              マンガ・ラノベ            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/game/" id="menu_gnavi_game">
+              ゲーム・アプリ            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/music/" id="menu_gnavi_music">
+              音楽            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/cosplay/" id="menu_gnavi_cosplay">
+              コスプレ            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/25d/" id="menu_gnavi_25d">
+              2.5次元            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/webcast/" id="menu_gnavi_webcast">
+              配信・Vtuber            </a>
+          </li>
+                                <li class="c-header-item">
+            <a class="c-header-link" href="https://www.animatetimes.com/ebook/" id="menu_gnavi_ebook">
+              無料マンガ            </a>
+          </li>
+                  </ul>
+    <div class="c-header-border"></div>
+  </nav>
+</header>
+
+<div class="container">
+          <div class="c-banner-sp c-banner-sp--w320 visible-xs visible-sm">
+        <!-- 季節アニメ書籍(通販送客)
+<div>
+   <a name="times_pcside_shosekimatome" href="https://www.animate-onlineshop.jp/corner/cc/comic_set/cd/1738/?utm_source=atimes&utm_medium=animate&utm_campaign=times_bmatome_atm2024#anime" id="below_the_sitename">
+          <img src="https://www.animatetimes.com/wp-content/uploads/2024/11/531282111e2999ce2e85f6d1a75fb932671f04254f4752_60672843_73b933106755c477493c4743d8ce3c35c283ad69.jpeg" alt="アニメイト通販秋アニメ書籍まとめ"></a>
+    </div>
+--!>
+
+<div>
+   <a name="times_pcside_shosekimatome" href="https://www.animatetimes.com/tag/details.php?id=12009" id="below_the_sitename">
+          <img src="https://img2.animatetimes.com/2019/03/61414fde6bd54_1b8fb52418bb56c0627b4261937e1127.png" alt="おすすめ商品まとめ"></a>
+    </div>
+        </div>
+
+</div>
+<div class="c-banner-lg-area visible-md visible-lg">
+ <div style="top: 135px; position: absolute; width: 100%">
+  <div class="c-banner-lg-site-jack">
+    <div class="c-banner-lg-site-jack-container">
+      <div class='c-banner-lg c-banner-lg--left'>
+    <a href='https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/ranking/&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online_figure' target='_blank' class='c-banner-lg-container' id='times_ad_jackleft'>
+        <img src='https://img2.animatetimes.com/2022/08/bbc296424516b071003072245087b2c362f5d839cdb1d1_28080128_7a11eda7b53301a0dffddba9a4e2a2e62e91c5de.jpg' alt='アニメイト通販 おすすめフィギュア' width='250' height='800'>
+    </a>
+</div>
+<div class='c-banner-lg c-banner-lg--right'>
+    <a href='https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/animetitle/?aid=14212&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online_kujimate' target='_blank' class='c-banner-lg-container' id='times_ad_jackright'>
+        <img src='https://img2.animatetimes.com/2022/08/8b66d5962b9d6d4588cc5dd7e97918bb62f5d051306523_02927872_ca83e0d8ea898b3ce5770de7a08675d84efa03d7.jpg
+' alt='アニメイト通販 くじメイト' width='250' height='800'></a>
+</div>    </div>
+  </div>
+ </div>
+</div>
+      <div class="container">
+          <nav class="c-pankuzu">
+              <ul class="c-pankuzu-list" itemscope itemtype="http://schema.org/BreadcrumbList">
+                  <li class="c-pankuzu-home" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                      <a class="c-pankuzu-link" itemprop="item" href="https://www.animatetimes.com"><i class="fas fa-home"></i><span class="sr-only" itemprop="name">animateTimes</span></a>
+                      <meta itemprop="position" content="1" />
+                  </li>
+
+                                        <li class="c-pankuzu-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a class="c-pankuzu-link" itemprop="item" href="https://www.animatetimes.com/tag/details.php?id=5119"><span itemprop="name">七つの大罪</span></a>
+                      <meta itemprop="position" content="2" />
+                      </li>
+                                        <li class="c-pankuzu-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a class="c-pankuzu-link" itemprop="item" href="https://www.animatetimes.com/tag/details.php?id=5119"><span itemprop="name">七つの大罪｜アニメ声優・キャラクター・登場人物・最新情報一覧</span></a>
+                      <meta itemprop="position" content="3" />
+                      </li>
+                                </ul>
+          </nav>
+      </div>
+      <div class="container">
+        <div class="l-content">
+          <section class="l-content-main">
+            <div class="l-box l-box--article">
+    <div class="c-image-kv">
+            <div class="l-article mt-20 mb-5">
+            <time class="c-time-article">更新：2025-01-10</time>
+        </div>
+    </div>
+    <!-- <nav class="c-tab"><a class="c-tab-link" href="#a1">作品情報</a><a class="c-tab-link" href="#a2">キャスト情報</a><a class="c-tab-link" href="#a3">ニュース</a></nav> -->
+    <nav class="c-share">
+    <div class="c-share-list" data-url="https://www.animatetimes.com/tag/details.php?id=5119">
+        <div class="c-share-item">
+            <a class="share_social_link" href="https://twitter.com/share?url=https%3A%2F%2Fwww.animatetimes.com%2Ftag%2Fdetails.php%3Fid%3D5119&text=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%EF%BD%9C%E3%82%A2%E3%83%8B%E3%83%A1%E5%A3%B0%E5%84%AA%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E3%83%BB%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E4%B8%80%E8%A6%A7&count=horizontal&lang=ja" target="_blank">
+            <div class="c-share-link c-share-link--tw" href=""><i><svg style="margin-top: 4px; line-height: 1; height: 1em; width: auto;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></i>
+                <div class="c-share-count"></div>
+            </div>
+            </a>
+        </div>
+        <div class="c-share-item">
+            <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.animatetimes.com%2Ftag%2Fdetails.php%3Fid%3D5119" target="_blank">
+            <div class="c-share-link c-share-link--fb" href=""><i class="fab fa-facebook-f"></i>
+                <div class="c-share-count"></div>
+            </div>
+            </a>
+        </div>
+        <div class="c-share-item">
+            <a href="https://b.hatena.ne.jp/add?mode=confirm&url=https%3A%2F%2Fwww.animatetimes.com%2Ftag%2Fdetails.php%3Fid%3D5119&title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%EF%BD%9C%E3%82%A2%E3%83%8B%E3%83%A1%E5%A3%B0%E5%84%AA%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E3%83%BB%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E4%B8%80%E8%A6%A7" target="_blank">
+            <div class="c-share-link c-share-link--b" href=""><img src="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/share/b.png" alt=""></div>
+            </a>
+        </div>
+        <div class="c-share-item">
+            <a href="https://line.me/R/msg/text/?%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%EF%BD%9C%E3%82%A2%E3%83%8B%E3%83%A1%E5%A3%B0%E5%84%AA%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E3%83%BB%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E4%B8%80%E8%A6%A7%0D%0Ahttps%3A%2F%2Fwww.animatetimes.com%2Ftag%2Fdetails.php%3Fid%3D5119" target="_blank">
+            <div class="c-share-link c-share-link--ln" href=""><img src="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/share/ln.png" alt=""></div>
+            </a>
+        </div>
+    </div>
+</nav>
+
+            <div class="c-banner-sp c-banner-sp--w320 visible-xs visible-sm">
+                </div>
+
+    <h1 class="c-pagetitle" style="padding-left: 40px; padding-right: 40px"><i class="fas fa-tag"></i>七つの大罪｜アニメ声優・キャラクター・登場人物・最新情報一覧</h1>
+    <div class="maybe-legacy tag-content">
+    
+            <div class="l-article responsive-iframe basic-style">
+                        <div align="left">『<a name="times_auto-tag" href="https://www.animatetimes.com/tag/details.php?id=5119">七つの大罪</a>』は、<a name="times_auto-tag" href="https://www.animatetimes.com/tag/details.php?id=25431">鈴木央</a>による漫画作品。こちらでは、アニメ『<a name="times_auto-tag" href="https://www.animatetimes.com/tag/details.php?id=5119">七つの大罪</a>』のあらすじ、キャスト声優、スタッフ、オススメ記事をご紹介！</div>        </div>
+        <div class="l-article responsive-iframe basic-style">
+        <div class="c-accordion"><div class="c-accordion-header" role="button" data-toggle="collapse" data-target="#outline-accordion" aria-expanded="true"><h2 class="c-heading-h2 toc-heading">目次</h2></div><div class="c-accordion-content collapse in" id="outline-accordion" aria-expanded="true" style=""><ul class="toc-content"><li style=""><a href="#link1">『七つの大罪』作品一覧</a></li><li style=""><a href="#link2">キャラクター</a></li><li style=""><a href="#link3">関連動画</a></li><li style=""><a href="#link4">最新記事</a></li></ul></div></div>        <div class="c-banner-common c-banner-common--w300">
+        <script type="text/javascript">
+var microadCompass = microadCompass || {};
+microadCompass.queue = microadCompass.queue || [];
+</script>
+<script type="text/javascript" charset="UTF-8" src="//j.microad.net/js/compass.js" onload="new microadCompass.AdInitializer().initialize();" async></script>
+<div id="596bd3c94c4e9bf5501b9c1f08021ea9" style="min-height: 250px;">
+        <script type="text/javascript">
+                microadCompass.queue.push({
+                        "spot": "596bd3c94c4e9bf5501b9c1f08021ea9"
+                });
+        </script>
+</div>        </div>
+
+<h2 class="c-heading-h2" id="link1">『七つの大罪』作品一覧</h2>
+<h3 class="c-heading-h3">TVアニメ</h3>
+<div class="blog-card">
+    <span class="blog-card-badge">関連記事</span>
+    <a class="blog-card-link" href="https://www.animatetimes.com/tag/details.php?id=15188">
+        <div class="blog-card-inner">
+            <div class="blog-img xc-headline-img" style="background-image: url(https://img2.animatetimes.com/2022/05/6278c83543843_8f58a02434edb22906b40217baa0be0f.jpg)"></div>
+            <div class="blog-info">
+                <div class="blog-title">七つの大罪（1期）</div>
+                <div class="blog-description">いまだ人と、人ならざるものの世界が、分かれてはいなかった時代。絶大なる魔力を有し、人々から敬われ、時に恐れられる存在＜聖騎士＞に守られた『リオネス王国』。王国の王女エリザベスは、たった一人国を離れ、ある者たちを探す旅に出ていた。それは最強最悪の騎士団として恐れられ、国を裏切り、全聖騎士を敵に回した罪人たち──＜七つの大罪＞。たどり着いた一軒の酒場で、エリザベスは店主を名乗る少年・メリオダスに出会う。それは、彼女と＜七つの大罪＞たち、そして世界の命運を一変させるとびきりの冒険の始まりであった――！作品名七つの大罪（1期）放送形態TVアニメシリーズ七つの大罪スケジュール2014年10月5日（日）～2015年3月29日（日）TBS系列ほか話数全24話キャストメリオダス：梶裕貴エリザベス：雨宮天ホーク：久野美咲ディアンヌ：悠木碧バン：鈴木達央キング：福山潤ゴウセル：髙木裕平ギルサンダー：宮野真守スタッフ原作：鈴木央（講談社「週刊少年マガジン」連載）監督：岡村天斎シリーズ構成：菅正太郎脚本：菅正太郎　花田十輝　綾奈ゆにこキャラクターデザイン：佐々木啓悟サブキャラクターデザイン：小松麻美総作画監督：佐々木啓悟　小松麻美アクション設計：諸貫哲朗...</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="blog-card">
+    <span class="blog-card-badge">関連記事</span>
+    <a class="blog-card-link" href="https://www.animatetimes.com/tag/details.php?id=14523">
+        <div class="blog-card-inner">
+            <div class="blog-img xc-headline-img" style="background-image: url(https://img2.animatetimes.com/2022/02/6209e0e49bfe9_8cfc3e16fc4d2437925c48c6f3a04949.jpg)"></div>
+            <div class="blog-info">
+                <div class="blog-title">七つの大罪 戒めの復活</div>
+                <div class="blog-description">いまだ人と、ひとならざるものの世界が、分かれてはいなかった時代。ヘンドリクセンとドレファスの二大聖騎士長の支配から王国を奪還した＜七つの大罪＞とエリザベス、ホーク。王国誕生祭も無事に終わり、リオネス王国にようやく平和が訪れた。だが、次なる脅威の予兆は確実に生まれつつあった――作品名七つの大罪戒めの復活放送形態TVアニメシリーズ七つの大罪スケジュール2018年1月6日（土）～2018年6月30日（土）TBSほか話数全24話キャストメリオダス：梶裕貴エリザベス：雨宮天ホーク：久野美咲ディアンヌ：悠木碧バン：鈴木達央キング：福山潤ゴウセル：髙木裕平マーリン：坂本真綾ギルサンダー：宮野真守ハウザー：木村良平グリアモール：櫻井孝宏エスカノール：杉田智和マトローナ：佐藤利奈ゼルドリス：梶裕貴エスタロッサ：東地宏樹ガラン：岩崎ひろしメラスキュラ：M・A・Oドロール：小野大輔グロキシニア：小林裕介モンスピート：津田健次郎デリエリ：高垣彩陽グレイロード：遊佐浩二フラウドリン：小西克幸スタッフ原作：鈴木央（講談社「週刊少年マガジン」連載）監督：古田丈司副監督：田中智也シリーズ構成：吉岡たかをキャラクターデザイン：戸谷賢都　佐々木啓悟プロップデザイン：...</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="blog-card">
+    <span class="blog-card-badge">関連記事</span>
+    <a class="blog-card-link" href="https://www.animatetimes.com/tag/details.php?id=15190">
+        <div class="blog-card-inner">
+            <div class="blog-img xc-headline-img" style="background-image: url(https://img2.animatetimes.com/2022/05/6278c8360d816_4fdea55f9188dea46b6686f54228a4da.jpg)"></div>
+            <div class="blog-info">
+                <div class="blog-title">七つの大罪 聖戦の予兆</div>
+                <div class="blog-description">いまだ人と、人ならざるものの世界が、分かれてはいなかった時代。ヘンドリクセンとドレファスの二大聖騎士長の支配から王国を奪還した＜七つの大罪＞とエリザベス、ホーク。王国誕生祭も無事に終わり、リオネス王国にようやく平和が訪れた。だが、次なる脅威の予兆は、確実に生まれつつあった。そんな気配を感じてか感じていないのか、＜七つの大罪＞たちはようやく訪れた日常を満喫していた。しかし、彼らの日常が普通で済むはずはなく...。これは、＜七つの大罪＞が次なる戦いに向かうまでの、つかの間の日々を描いたスペシャルな物語である！作品名七つの大罪聖戦の予兆放送形態TVアニメシリーズ七つの大罪スケジュール2016年8月28日（日）～2016年9月18日（日）TBSほか話数全4話キャストメリオダス：梶裕貴エリザベス：雨宮天ホーク：久野美咲ディアンヌ：悠木碧バン：鈴木達央キング：福山潤ゴウセル：髙木裕平マーリン：坂本真綾ギルサンダー：宮野真守ハウザー：木村良平グリアモール：櫻井孝宏スタッフ原作：鈴木央（講談社「週刊少年マガジン」連載）監督：ところともかずシリーズ構成：綾奈ゆにこ脚本：綾奈ゆにこ　木戸雄一郎キャラクターデザイン：佐々木啓悟総作画監督：須藤智子　伊...</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="blog-card">
+    <span class="blog-card-badge">関連記事</span>
+    <a class="blog-card-link" href="https://www.animatetimes.com/tag/details.php?id=15191">
+        <div class="blog-card-inner">
+            <div class="blog-img xc-headline-img" style="background-image: url(https://img2.animatetimes.com/2022/05/6278c8373ea24_34f182884bfc7006f8db2693be76d3d2.jpg)"></div>
+            <div class="blog-info">
+                <div class="blog-title">七つの大罪 神々の逆鱗</div>
+                <div class="blog-description">いまだ人と、人ならざるものの世界が、分かたれてはいなかった古の物語。三千年の時を経て復活した、魔神族の精鋭〈十戒〉との戦いに〈七つの大罪〉は敗れ、メリオダスは死んだ。そして、ブリタニアには暗黒の時代が訪れる。ディアンヌ、キングも行方不明の中、リオネス王国に迫る〈十戒〉の魔の手。エスカノールがエスタロッサを退けるも劣勢は続く。そして、エリザベスが窮地に陥ったその時、圧倒的な力を取り戻したメリオダスが煉獄より復活を果たす。〈十戒〉のグレイロードとフラウドリンは討たれリオネス王国は守られた。復旧する建物。しかし、人々の恐怖に傷ついた心は癒えない。そして、力を取り戻した事でメリオダスは最凶の魔神と呼ばれた時代に逆行しつつあった。キャメロットを根城にする〈十戒〉の脅威は続く。ブリタニアを魔神族から解放する為、〈七つの大罪〉は再集結に向けて動き出すー。作品名七つの大罪神々の逆鱗放送形態TVアニメシリーズ七つの大罪スケジュール2019年10月9日（水）～2020年3月25日（水）テレビ東京系にて話数全24話キャストメリオダス：梶裕貴エリザベス：雨宮天ホーク：久野美咲ディアンヌ：悠木碧バン：鈴木達央キング：福山潤ゴウセル：髙木裕平マーリン...</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="blog-card">
+    <span class="blog-card-badge">関連記事</span>
+    <a class="blog-card-link" href="https://www.animatetimes.com/tag/details.php?id=15192">
+        <div class="blog-card-inner">
+            <div class="blog-img xc-headline-img" style="background-image: url(https://img2.animatetimes.com/2022/05/6278c83876378_9a08039d7b38b2ed60a153ae0febcc79.jpg)"></div>
+            <div class="blog-info">
+                <div class="blog-title">七つの大罪 憤怒の審判</div>
+                <div class="blog-description">いまだ人と、人ならざるものの世界が、分かたれてはいなかった古の物語。リュドシエル率いる〈光の聖痕（スティグマ）〉と魔神族による聖戦は、ブリタニア全土を巻き込み激化。3つの戒禁を取り込んだエスタロッサは暴走し、エリザベスを連れ去った。キング、ゴウセル、ホーク、そしてサリエルとタルミエルはその後を追い、天空演舞場跡へとたどり着く。一方、キャメロット城では、新たなる魔神王になると決めたメリオダスが、暗黒領域の繭の中で着々と戒禁を取り込み続けていた。メリオダスの魂を救うために自ら煉獄へと身を投じたバンは、常人では決して生きられない瘴気の中を彷徨う。明かされるエスタロッサの正体。決壊するゴウセルの禁呪。数多に絡み合う思惑の行く先は。真の敵は誰なのか。討つべき者は何なのか。“永遠の生”と“永劫の輪廻”という運命に抗い、3,000年の旅を続けてきた、メリオダスとエリザベス。二人の旅路は、どのような結末を迎えるのか──。作品名七つの大罪憤怒の審判放送形態TVアニメシリーズ七つの大罪スケジュール2021年1月13日（水）～2021年6月23日（水）テレビ東京ほか話数全24話キャストメリオダス：梶裕貴エリザベス：雨宮天ホーク：久野美咲ディアンヌ：悠木碧バ...</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<br><h3 class="c-heading-h3">映画</h3>
+<div class="blog-card">
+    <span class="blog-card-badge">関連記事</span>
+    <a class="blog-card-link" href="https://www.animatetimes.com/tag/details.php?id=15193">
+        <div class="blog-card-inner">
+            <div class="blog-img xc-headline-img" style="background-image: url(https://img2.animatetimes.com/2022/05/6278c839e407f_73f890f3fa8ba8bb82954219deaabec5.jpg)"></div>
+            <div class="blog-info">
+                <div class="blog-title">劇場版 七つの大罪 天空の囚われ人</div>
+                <div class="blog-description">ここは妖精族や女神族や魔神族が存在する世界。魔神族の暗躍により、滅亡寸前だった大国・リオネス王国を救ったのは、大罪人であり伝説の騎士団〈七つの大罪〉と、ひとりの王女だった。そして、リオネス王国に平穏がもたらされてから少し時が流れたころ――。国王の誕生日を祝うため、幻の食材・天空魚を探しに辺境の地へやって来た〈七つの大罪〉たち。団長のメリオダスと、人の言葉を話す豚のホークは、天空魚を求めるうちに空高く、雲の上に存在する天空の世界“天空宮”へと飛ばされてしまう。天空宮には翼をもつ“天翼人”が暮らしている。メリオダスは掟を破った天翼人の少年と間違えられて牢屋へ入れられてしまう。天空宮では三千年間封印される凶悪な魔獣の解放を防ぐため、儀式の準備をしていた。だが封印を解こうと天翼人の命を狙う、“ベルリオン”率いる強靭な魔神族の集団〈黒の六騎士〉が姿を現す。残虐非道な彼らからみんなを守るため、メリオダスたちは〈黒の六騎士〉と激突する！作品名劇場版七つの大罪天空の囚われ人放送形態劇場版アニメシリーズ七つの大罪スケジュール2018年8月18日（金）キャストメリオダス：梶裕貴エリザベス：雨宮天ホーク：久野美咲ディアンヌ：悠木碧バン：鈴木達...</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="blog-card">
+    <span class="blog-card-badge">関連記事</span>
+    <a class="blog-card-link" href="https://www.animatetimes.com/tag/details.php?id=15194">
+        <div class="blog-card-inner">
+            <div class="blog-img xc-headline-img" style="background-image: url(https://img2.animatetimes.com/2022/05/6278c83bb3b18_7e1ed8f67709ba50364258abf6156ec8.jpg)"></div>
+            <div class="blog-info">
+                <div class="blog-title">劇場版 七つの大罪 光に呪われし者たち</div>
+                <div class="blog-description">〈憤怒の罪〉(ドラゴン・シン)メリオダス率いる史上最凶最悪の逆賊〈七つの大罪〉の活躍により、人間、女神族、妖精族、巨人族ら四種族が魔神族と争った『聖戦』は終結。〈傲慢の罪〉(ライオン・シン)エスカノールの命が尽きるも、魔神王を討ち果たし、世界は平和を取り戻した。その後、新たな王国の創造を目指す王・アーサーと行動を共にする〈暴食の罪〉(ボア・シン)マーリンをはじめ、大罪人たちはそれぞれの道を歩んでいた―。メリオダスは王女･エリザベスと思い出の地を巡る旅をしていた。その道中、弟･ゼルドリスと偶然の再会を果たす。一方、〈怠惰の罪〉(グリズリー・シン)キングと〈嫉妬の罪〉(サーペント・シン)ディアンヌの結婚式が執り行われようとしていた。祝福に包まれる式場には、〈強欲の罪〉(フォックス・シン)バンと〈色欲の罪〉(ゴート・シン)ゴウセルの姿も。ドレスに身を包んだディアンヌの登場で華やぐ森に、地鳴りのような不気味な音が響き始めた。“『聖戦』を台無しにした〈七つの大罪〉とそれに与くみした者共を罰する”平穏が訪れたはずの地に突如、妖精族と巨人族の軍勢が押し寄せる。敵陣の先頭に立つのは、かつて姿を消した“二代目妖精王”ダリアと“巨人の名工”ダブズ。...</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="blog-card">
+    <span class="blog-card-badge">関連記事</span>
+    <a class="blog-card-link" href="https://www.animatetimes.com/tag/details.php?id=13696">
+        <div class="blog-card-inner">
+            <div class="blog-img xc-headline-img" style="background-image: url(https://img2.animatetimes.com/2021/11/2c7c7cf2aa18695cc6f6ea25409ed0a764ba11fd06d384_23039413_4e5834bc1e80248faed2e64edca34f51ce310054-e1689915909316.jpg)"></div>
+            <div class="blog-info">
+                <div class="blog-title">七つの大罪 怨嗟のエジンバラ</div>
+                <div class="blog-description">魔神族との戦いから14年。平穏を取り戻したリオネス王国の王子・トリスタンは、〈憤怒の罪(ドラゴン・シン)〉として〈七つの大罪〉の団長を務めた父・メリオダスの魔神族の力と母・エリザベスの女神族の力、大きすぎる2つの力を制御できずに悩み苦しんでいた。そんな中、かつて聖騎士の集団〈蒼天の六連星〉に名を連ねるも、王国を捨てたデスピアスの魔の手がエリザベスに迫る。呪いに侵される母親を救うためトリスタンは王国を飛び出し、デスピアスが居城を構えるエジンバラを目指す。そして、新たに出会う妖精族によってトリスタン自身の運命も大きく動き出すこととなる。〈七つの大罪〉をも巻き込む、新世代の物語がいま始まる―――。作品名七つの大罪怨嗟のエジンバラ放送形態配信シリーズ七つの大罪スケジュール前編：2022年12月20日（火）後編：2023年8月8日（火）Netflixにてキャストトリスタン：村瀬歩妖精／ランスロット：内山昂輝メリオダス：梶裕貴エリザベス：雨宮天バン：鈴木達央ディアンヌ：悠木碧キング：福山潤ゴウセル：髙木裕平トリスタン（少年期）：小松未可子デスピアス：阿座上洋平プリースト：興津和幸タイロン：徳留慎乃佑ミニカ：小市眞琴クルミル：下地紫野スタッフ原作：...</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+
+<h2 class="c-heading-h2" id="link2">キャラクター</h2>
+<h3 class="c-heading-h3">メリオダス（CV：梶裕貴）</h3>〈憤怒の罪〉を背負う、〈<a name="times_auto-tag" href="https://www.animatetimes.com/tag/details.php?id=5119">七つの大罪</a>〉の団長であり、移送する酒場〈豚の帽子〉亭の店主。見た目は少年だが、その実は〈<a name="times_auto-tag" href="https://www.animatetimes.com/tag/details.php?id=5119">七つの大罪</a>〉の団長。<br><center><div class="c-image-a"><img src="https://img.animatetimes.com/2019/10/5d9ae0bf9f480_e2d5d92467470d105b197b7c7259eb17.jpg" alt="「七つの大罪 神々の逆鱗」メリオダス(梶裕貴)" loading="lazy" class="article-image" data-image-number="1" data-image-count="7"></div></center>
+<br><br><br><h3 class="c-heading-h3">エリザベス（CV：雨宮天）</h3>リオネス王国第三王女。生まれはダナフォール王国で、王国が滅亡した際、リオネスの国王バルトラに引き取られて養女となった。泣き虫だが強い信念と慈愛に満ちた心を持ち、人を助けるために強力な治癒能力を発揮する。<br><center><div class="c-image-a"><img src="https://img.animatetimes.com/2019/10/5d9ae0da3a659_2f771d9279ac347b25a46f8f0fede844.jpg" alt="「七つの大罪 神々の逆鱗」エリザベス(雨宮天)" loading="lazy" class="article-image" data-image-number="2" data-image-count="7"></div></center>
+<br><br><br><h3 class="c-heading-h3" id="ホーク（CV：久野美咲）">ホーク（CV：久野美咲）</h3>人間の言葉を話すことができる豚。口は悪いが根は良い豚。〈豚の帽子〉亭では残飯処理係を担当。自分では自分のことを最強だと思っているが、戦闘能力は皆無。<br><center><div class="c-image-a"><img src="https://img.animatetimes.com/news/visual/2018/1518148688/1518150087209.jpg" alt="「七つの大罪 神々の逆鱗」ホーク(久野美咲)" loading="lazy" class="article-image" data-image-number="3" data-image-count="7"></div></center>
+<br><br><br><h3 class="c-heading-h3" id="ディアンヌ（CV：悠木碧）">ディアンヌ（CV：悠木碧）</h3>〈<a name="times_auto-tag" href="https://www.animatetimes.com/tag/details.php?id=5119">七つの大罪</a>〉のメンバーで、背負っている罪は〈嫉妬の罪〉。巨人族の女の子。魔力は乏しいが肉弾戦は強い。巨人族としては珍しく戦うことがあまり好きではない。<br><center><div class="c-image-a"><img src="https://img.animatetimes.com/2019/07/5d383c0b504b9_94f92a25b197c346a89f24b653b16b15.jpg" alt="「七つの大罪 神々の逆鱗」ディアンヌ(悠木碧)" loading="lazy" class="article-image" data-image-number="4" data-image-count="7"></div></center>
+<br><br><br><h3 class="c-heading-h3" id="バン（CV：鈴木達央）">バン（CV：鈴木達央）</h3>〈強欲の罪〉をその身に刻む〈<a name="times_auto-tag" href="https://www.animatetimes.com/tag/details.php?id=5119">七つの大罪</a>〉の団員。妖精王の森にある「生命の泉」を飲んだことにより不死の身体になった。自分の興味がある物は平気で盗み、興味がないものには無関心。お酒は弱いけど、飲むのは好き。<br><center><div class="c-image-a"><img src="https://img.animatetimes.com/news/visual/2018/1519997257_1_1_e50f1fe6ea6df3fa647a090dfe6ab8f7.jpg" alt="「七つの大罪 神々の逆鱗」バン(鈴木達央)" loading="lazy" class="article-image" data-image-number="5" data-image-count="7"></div></center>
+<br><br><br><h3 class="c-heading-h3" id="キング（CV：福山潤）">キング（CV：福山潤）</h3>〈怠惰の罪〉と呼ばれる〈<a name="times_auto-tag" href="https://www.animatetimes.com/tag/details.php?id=5119">七つの大罪</a>〉の団員。妖精王。700年前に出会ってからずっとディアンヌのことが大好き。一途に想い続けるキングが報われる日は来るのか？<br><center><div class="c-image-a"><img src="https://img.animatetimes.com/news/visual/2018/1518148688/1518150017438.jpg" alt="「七つの大罪 神々の逆鱗」キング(福山潤)" loading="lazy" class="article-image" data-image-number="6" data-image-count="7"></div></center>
+<br><br><br><h3 class="c-heading-h3" id="ゴウセル（CV：高木裕平 ）">ゴウセル（CV：高木裕平 ）</h3>〈色欲の罪〉の印を宿す〈<a name="times_auto-tag" href="https://www.animatetimes.com/tag/details.php?id=5119">七つの大罪</a>〉団員。中性的な容姿を持ち、無機質的な立ち振る舞いをする。〈<a name="times_auto-tag" href="https://www.animatetimes.com/tag/details.php?id=5119">七つの大罪</a>〉の団員になる前は〈十戒〉「無欲」のゴウセルであったらしい。その正体はいまだ混沌とした謎に包まれている。<br><center><div class="c-image-a"><img src="https://img.animatetimes.com/news/visual/2018/1518148688/1518150072167.jpg" alt="「七つの大罪 神々の逆鱗」ゴウセル(高木裕平 )" loading="lazy" class="article-image" data-image-number="7" data-image-count="7"></div></center>
+<br><br><br><h3 class="c-heading-h3" id="マーリン（CV：坂本真綾）">マーリン（CV：坂本真綾）</h3>〈暴食の罪〉を背負う〈<a name="times_auto-tag" href="https://www.animatetimes.com/tag/details.php?id=5119">七つの大罪</a>〉の一人。その魔力は凄まじく、ブリタニア一の魔術士と呼ばれている。メリオダスたちと合流する前は、キャメロットの新王アーサーのそばにいた。<br>        <div class="c-banner-common c-banner-common--w300">
+        <script type="text/javascript">
+var microadCompass = microadCompass || {};
+microadCompass.queue = microadCompass.queue || [];
+</script>
+<script type="text/javascript" charset="UTF-8" src="//j.microad.net/js/compass.js" onload="new microadCompass.AdInitializer().initialize();" async></script>
+<div id="9788fd50b9b7ed9359e0c3a9e1e35675" style="min-height: 250px;">
+        <script type="text/javascript">
+                microadCompass.queue.push({
+                        "spot": "9788fd50b9b7ed9359e0c3a9e1e35675"
+                });
+        </script>
+</div>        </div>
+<h2 class="c-heading-h2" id="link3">関連動画</h2>
+<div class="youtube"><iframe width="640" height="360" src="https://www.youtube.com/embed/i4AhV60cROQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<br><div class="youtube"><iframe width="640" height="360" src="https://www.youtube.com/embed/An_gRDmgUmQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+<h2 class="c-heading-h2" id="link4">最新記事</h2>
+        </div>
+        <div class="l-article responsive-iframe basic-style">
+                </div>
+            
+        <div class="l-article mt-20">
+    <div align="left">七つの大罪 関連ニュース情報は308件あります。
+    現在人気の記事は「歴代名作人気アニメランキング一覧〜みんなが決めた平成アニメ代表作99作品まとめ〜」や「バトル・アクションアニメおすすめまとめ一覧【2026年版】｜『チェンソーマン』『鬼滅の刃』『SHAMAN KING』など85作品以上を紹介！」です。</div>
+</div>
+
+            <div class="c-banner-sp c-banner-sp--w300 visible-xs visible-sm">
+        <div style="background-color:#FFFFFF; position: relative; width:300px; height:250px; text-align: center; margin: 0 auto; border:1px solid #C0BFC0;" >
+    <a target="_blank" name="times_affiliate-spmiddle" class="inject-link" style="position:absolute; top:0; left:0; height:100%; width:100%;" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3339882&amp;lstid=AMAUTOTRACK&amp;utm_source=atimes&amp;utm_medium=animate&amp;utm_campaign=times_sales_3339882">
+        <img alt="アニメイト通販おすすめ商品のご紹介" style="width:auto; height:30px; display:block; margin:0 auto; margin-top:10px;" src="https://img2.animatetimes.com/2019/03/5c85c69f02fdf_025dda870061254571083b03385e5137.png">
+        <img alt="" style="width:280px; height:155px; display:block; margin:0 auto; margin-top:5px; object-fit:contain; " class="inject-image-src" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12041307_693108f643688.jpg&amp;width=&amp;height=&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0" loading="lazy" alt="" >
+        <div class="c-product__title inject-name" style="width:250px; margin: 0 auto; margin-top:5px; font-size: 10px; line-height: 1.2em;">
+            【グッズ-シール】たべっ子どうぶつ THE MOVIE Cherigem Sticker ビスケット        </div>
+    </a>
+</div>
+            
+
+
+
+        </div>
+
+</div>
+        <nav class="c-share">
+    <div class="c-share-list" data-url="https://www.animatetimes.com/tag/details.php?id=5119">
+        <div class="c-share-item">
+            <a class="share_social_link" href="https://twitter.com/share?url=https%3A%2F%2Fwww.animatetimes.com%2Ftag%2Fdetails.php%3Fid%3D5119&text=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%EF%BD%9C%E3%82%A2%E3%83%8B%E3%83%A1%E5%A3%B0%E5%84%AA%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E3%83%BB%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E4%B8%80%E8%A6%A7&count=horizontal&lang=ja" target="_blank">
+            <div class="c-share-link c-share-link--tw" href=""><i><svg style="margin-top: 4px; line-height: 1; height: 1em; width: auto;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></i>
+                <div class="c-share-count"></div>
+            </div>
+            </a>
+        </div>
+        <div class="c-share-item">
+            <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.animatetimes.com%2Ftag%2Fdetails.php%3Fid%3D5119" target="_blank">
+            <div class="c-share-link c-share-link--fb" href=""><i class="fab fa-facebook-f"></i>
+                <div class="c-share-count"></div>
+            </div>
+            </a>
+        </div>
+        <div class="c-share-item">
+            <a href="https://b.hatena.ne.jp/add?mode=confirm&url=https%3A%2F%2Fwww.animatetimes.com%2Ftag%2Fdetails.php%3Fid%3D5119&title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%EF%BD%9C%E3%82%A2%E3%83%8B%E3%83%A1%E5%A3%B0%E5%84%AA%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E3%83%BB%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E4%B8%80%E8%A6%A7" target="_blank">
+            <div class="c-share-link c-share-link--b" href=""><img src="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/share/b.png" alt=""></div>
+            </a>
+        </div>
+        <div class="c-share-item">
+            <a href="https://line.me/R/msg/text/?%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%EF%BD%9C%E3%82%A2%E3%83%8B%E3%83%A1%E5%A3%B0%E5%84%AA%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E3%83%BB%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E4%B8%80%E8%A6%A7%0D%0Ahttps%3A%2F%2Fwww.animatetimes.com%2Ftag%2Fdetails.php%3Fid%3D5119" target="_blank">
+            <div class="c-share-link c-share-link--ln" href=""><img src="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/share/ln.png" alt=""></div>
+            </a>
+        </div>
+    </div>
+</nav>
+
+    <div class="maybe-legacy tag-content">
+
+        <div class="c-taglist">
+            <div class="c-heading-icon"><i class="fas fa-tag"></i>関連タグ</div>
+            <ul class="c-taglist-list">
+                                        <li class="c-taglist-item"><a name="times_relation-tag" href="https://www.animatetimes.com/tag/details.php?id=5119" class="c-taglist-link">七つの大罪</a></li>
+                                        <li class="c-taglist-item"><a name="times_relation-tag" href="https://www.animatetimes.com/tag/details.php?id=306" class="c-taglist-link">梶裕貴</a></li>
+                                        <li class="c-taglist-item"><a name="times_relation-tag" href="https://www.animatetimes.com/tag/details.php?id=3365" class="c-taglist-link">雨宮天</a></li>
+                                        <li class="c-taglist-item"><a name="times_relation-tag" href="https://www.animatetimes.com/tag/details.php?id=4797" class="c-taglist-link">久野美咲</a></li>
+                                        <li class="c-taglist-item"><a name="times_relation-tag" href="https://www.animatetimes.com/tag/details.php?id=773" class="c-taglist-link">悠木碧</a></li>
+                                        <li class="c-taglist-item"><a name="times_relation-tag" href="https://www.animatetimes.com/tag/details.php?id=788" class="c-taglist-link">鈴木達央</a></li>
+                                        <li class="c-taglist-item"><a name="times_relation-tag" href="https://www.animatetimes.com/tag/details.php?id=719" class="c-taglist-link">福山潤</a></li>
+                                        <li class="c-taglist-item"><a name="times_relation-tag" href="https://www.animatetimes.com/tag/details.php?id=6396" class="c-taglist-link">髙木裕平</a></li>
+                                        <li class="c-taglist-item"><a name="times_relation-tag" href="https://www.animatetimes.com/tag/details.php?id=424" class="c-taglist-link">坂本真綾</a></li>
+                                        <li class="c-taglist-item"><a name="times_relation-tag" href="https://www.animatetimes.com/tag/details.php?id=545" class="c-taglist-link">杉田智和</a></li>
+                    </ul>
+        </div>
+
+    <div class="c-taglist recommend_wrapper">
+        <div class="c-heading-icon"><i class="fas fa-tag"></i>おすすめタグ</div>
+        <ul class="c-taglist-list" id="rt_detail_tag">
+          <li class="c-taglist-item" id="rt_detail_tag_1"></li>
+          <li class="c-taglist-item" id="rt_detail_tag_2"></li>
+          <li class="c-taglist-item" id="rt_detail_tag_3"></li>
+          <li class="c-taglist-item" id="rt_detail_tag_4"></li>
+          <li class="c-taglist-item" id="rt_detail_tag_5"></li>
+        </ul>
+    </div>
+
+
+
+
+        <div class="c-besides">
+            <div class="c-heading-icon" id="rel_news"><i class="fas fa-tag"></i>七つの大罪 関連ニュース</div>
+            <div class="c-headline c-headline--l">
+                <ul class="c-headline-list">
+    
+                        <li class="c-headline-item">
+                <a  name="times_tag-news" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1758793086">
+                                        <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/09/938af5557240c023c1c1b9491f19530068d54d301bbf29_61369097_977f1574d5d8dbec9308eed8ff0b2721178258b1.jpg" loading="lazy" alt="えなこ＆篠崎こころ＆南あみが『七つの大罪』コスプレでTGS2025に降臨" width="1280" height="853"></div></div>
+                    <div class="c-headline-meta">
+                        <!--<div class="c-headline-info"></div>-->
+                        <div class="c-headline-text">えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け</div>
+                        <div class="c-headline-date">2025-09-26 07:00</div>
+                    </div>
+                </a>
+            </li>
+        
+                        <li class="c-headline-item">
+                <a  name="times_tag-news" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1751425219">
+                                        <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/07/f817dcb06b08dbe4ee73b3c969b4ed7b6864a139917167_25343623_fbf3b60d9be9acaf6183ab5df6799f0050149520.png" loading="lazy" alt="声優・梶裕貴さん、アニメキャラクター代表作まとめ（2025年版）" width="642" height="434"></div></div>
+                    <div class="c-headline-meta">
+                        <!--<div class="c-headline-info"></div>-->
+                        <div class="c-headline-text">声優・梶裕貴さん、『進撃の巨人』『僕のヒーローアカデミア』『悪魔くん』『あんさんぶるスターズ！！』『からかい上手の高木さん』など代表作に選ばれたのは？ − アニメキャラクター代表作まとめ（2025 年版）</div>
+                        <div class="c-headline-date">2025-09-03 00:00</div>
+                    </div>
+                </a>
+            </li>
+        
+                        <li class="c-headline-item">
+                <a  name="times_tag-news" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1756537765">
+                                        <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/08/45080a2e2e38ae7186e815970e39953c68b2bd818939f3_98298409_3e7c5886f386e457f2d203d46cd493fac755648d.jpg" loading="lazy" alt="【アニサマ2025】FLOW×影山ヒロノブ「CHA-LA HEAD-CHA-LA」でDAY2開幕" width="1280" height="864"></div></div>
+                    <div class="c-headline-meta">
+                        <!--<div class="c-headline-info"></div>-->
+                        <div class="c-headline-text">【アニサマ2025】FLOW×影山ヒロノブ「CHA-LA HEAD-CHA-LA」で大爆発スタート！「DAYS」(エウレカセブンOP)、「GO!!!」（ナルトOP）の歌唱も！「Animelo Summer Live 2025 &quot;ThanXX!&quot;」</div>
+                        <div class="c-headline-date">2025-08-30 18:03</div>
+                    </div>
+                </a>
+            </li>
+        
+                        <li class="c-headline-item">
+                <a  name="times_tag-news" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1749458275">
+                                        <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/06/e6d65de511249ff38a12490b8f7e224e68469d9c1b26e3_74690678_7d0cb6212369a9faad6af238c4888152af54a9dd.png" loading="lazy" alt="声優・雨宮天さん、アニメキャラクター代表作まとめ（2025年版）" width="642" height="434"></div></div>
+                    <div class="c-headline-meta">
+                        <!--<div class="c-headline-info"></div>-->
+                        <div class="c-headline-text">声優・雨宮天さん、『この素晴らしい世界に祝福を！』『彼女、お借りします』『マギアレコード 魔法少女まどか☆マギカ外伝』『東京喰種トーキョーグール』『七つの大罪』など代表作に選ばれたのは？ − アニメキャラクター代表作まとめ（2025 年版）</div>
+                        <div class="c-headline-date">2025-08-28 00:00</div>
+                    </div>
+                </a>
+            </li>
+        
+                        <li class="c-headline-item">
+                <a  name="times_tag-news" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1747035368">
+                                        <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/06/a59677976610dde0a9228255c9bde91d6821a7670a1f51_56777634_63f3d2d151f37a320dbde359d5318b86ba7e3e71.png" loading="lazy" alt="声優・宮野真守さん、アニメキャラクター代表作まとめ（2025年版）" width="642" height="434"></div></div>
+                    <div class="c-headline-meta">
+                        <!--<div class="c-headline-info"></div>-->
+                        <div class="c-headline-text">声優・宮野真守さん、『うたの☆プリンスさまっ♪』『文豪ストレイドッグス』『Free!』『忘却バッテリー』『STEINS;GATE』など代表作に選ばれたのは？ − アニメキャラクター代表作まとめ（2025 年版）</div>
+                        <div class="c-headline-date">2025-06-08 00:00</div>
+                    </div>
+                </a>
+            </li>
+                            <li class="c-headline-item visible-xs visible-sm">
+        <script type="text/javascript">
+var microadCompass = microadCompass || {};
+microadCompass.queue = microadCompass.queue || [];
+</script>
+<script type="text/javascript" charset="UTF-8" src="//j.microad.net/js/compass.js" onload="new microadCompass.AdInitializer().initialize();" async></script>
+<div id="e73ea67a3ff8ff8e4f6fc6970bcd7f4f" >
+        <script type="text/javascript">
+                microadCompass.queue.push({
+                        "spot": "e73ea67a3ff8ff8e4f6fc6970bcd7f4f"
+                });
+        </script>
+</div>        </li>
+                <!-- ad-inventory-pc-infeed-news-list -->
+
+                <li class="c-headline-item visible-md visible-lg">
+        <script type="text/javascript">
+var microadCompass = microadCompass || {};
+microadCompass.queue = microadCompass.queue || [];
+</script>
+<script type="text/javascript" charset="UTF-8" src="//j.microad.net/js/compass.js" onload="new microadCompass.AdInitializer().initialize();" async></script>
+<div id="073b95fa9f09ae432a679c8806ccb89b" >
+        <script type="text/javascript">
+                microadCompass.queue.push({
+                        "spot": "073b95fa9f09ae432a679c8806ccb89b"
+                });
+        </script>
+</div>        </li>
+        
+            
+                        <li class="c-headline-item">
+                <a  name="times_tag-news" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1723615779">
+                                        <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2024/08/b30dc0cfa2d9af0ec6462cbb5d5b319466bc4b400e3a29_11200807_fbf3b60d9be9acaf6183ab5df6799f0050149520.png" loading="lazy" alt="声優・梶裕貴さん、アニメキャラクター代表作まとめ（2024年版）" width="642" height="434"></div></div>
+                    <div class="c-headline-meta">
+                        <!--<div class="c-headline-info"></div>-->
+                        <div class="c-headline-text">声優・梶裕貴さん、『進撃の巨人』『僕のヒーローアカデミア』『ドラゴンクエスト ダイの大冒険』『ハイキュー!!』『あんさんぶるスターズ！！』など代表作に選ばれたのは？ − アニメキャラクター代表作まとめ（2024 年版）</div>
+                        <div class="c-headline-date">2024-09-03 00:00</div>
+                    </div>
+                </a>
+            </li>
+        
+                        <li class="c-headline-item">
+                <a  name="times_tag-news" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1718608752">
+                                        <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2024/06/b34b58464d8cc7c2b72e313963d1277f666fe39f209208_58807690_7d0cb6212369a9faad6af238c4888152af54a9dd.png" loading="lazy" alt="声優・雨宮天さん、アニメキャラクター代表作まとめ（2024年版）" width="642" height="434"></div></div>
+                    <div class="c-headline-meta">
+                        <!--<div class="c-headline-info"></div>-->
+                        <div class="c-headline-text">声優・雨宮天さん、『この素晴らしい世界に祝福を！』『七つの大罪』『アイドルマスター ミリオンライブ！』『東京喰種トーキョーグール』『彼女、お借りします』など代表作に選ばれたのは？ − アニメキャラクター代表作まとめ（2024 年版）</div>
+                        <div class="c-headline-date">2024-08-28 00:00</div>
+                    </div>
+                </a>
+            </li>
+        
+                        <li class="c-headline-item">
+                <a  name="times_tag-news" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1718914028">
+                                        <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2024/06/e894c15507211b4c017788dcf18963fa66748c4052e7b3_14847576_eab548994a15f390f62d82af35a92649b5388562.jpg" loading="lazy" alt="『七つの大罪』コスプレ特集│エリザベス、ゴウセル" width="640" height="433"></div></div>
+                    <div class="c-headline-meta">
+                        <!--<div class="c-headline-info"></div>-->
+                        <div class="c-headline-text">『七つの大罪』キャラクターコスプレ特集！　エリザベス・リオネス、ゴウセルに扮するコスプレイヤーさんたちをピックアップ！</div>
+                        <div class="c-headline-date">2024-06-22 08:00</div>
+                    </div>
+                </a>
+            </li>
+        
+                        <li class="c-headline-item">
+                <a  name="times_tag-news" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1711675555">
+                                        <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2024/03/08166f72da444ff9545ea5091cb2c392660618d02f2df2_49539263_38358b7fdd93aefa9ab484a350ca014f193df055.jpg" loading="lazy" alt="『七つの大罪 黙示録の四騎士』声優陣が語るキャラクターの成長【座談会】" width="1280" height="853"></div></div>
+                    <div class="c-headline-meta">
+                        <!--<div class="c-headline-info"></div>-->
+                        <div class="c-headline-text">芝居に乗せたキャラクターの成長と信頼関係――『七つの大罪 黙示録の四騎士』パーシバル役・小村将さん×ドニー役・戸谷菊之介さん×ナシエンス役・島田愛野さん×アン役・中村カンナさん座談会｜メリオダス役・梶裕貴さんの前にパーシバル隊キャストが思わず整列!?</div>
+                        <div class="c-headline-date">2024-03-30 19:00</div>
+                    </div>
+                </a>
+            </li>
+        
+                        <li class="c-headline-item">
+                <a  name="times_tag-news" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1711697287">
+                                        <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2024/03/10bd69147a16b97a129fae4d2e57775e66066eeb637a04_82017888_30f0941996ebb46efcb6396053d0d47d5e7d8760.jpg" loading="lazy" alt="『七つの大罪 黙示録の四騎士』第24話（最終回）先行カット＆あらすじ" width="1280" height="864"></div></div>
+                    <div class="c-headline-meta">
+                        <!--<div class="c-headline-info"></div>-->
+                        <div class="c-headline-text">『七つの大罪 黙示録の四騎士』より、第24話（最終回）「降臨」先行場面カット＆あらすじ公開！</div>
+                        <div class="c-headline-date">2024-03-29 16:50</div>
+                    </div>
+                </a>
+            </li>
+                    </ul>
+            </div>
+
+
+<div class="c-pagination"><span class="c-pagination__number is-current">1</span><a class="c-pagination__number" href="https://www.animatetimes.com/tag/details.php?id=5119&p=2">2</a><a class="c-pagination__number" href="https://www.animatetimes.com/tag/details.php?id=5119&p=3">3</a><a class="c-pagination__number" href="https://www.animatetimes.com/tag/details.php?id=5119&p=4">4</a><a class="c-pagination__number" href="https://www.animatetimes.com/tag/details.php?id=5119&p=5">5</a><a class="c-pagination__side c-pagination__side--next" href="https://www.animatetimes.com/tag/details.php?id=5119&p=2"></a></div>
+        </div>
+    </div>
+<div class="c-besides">
+    <div class="c-headline c-headline--l">
+                <div class="c-heading-icon"><i class="fas fa-tag"></i>七つの大罪 みんなの声</div>
+                <div class="c-headline c-headline--l">
+            <ul class="c-headline-list">
+                                        <li class="c-headline-item comment-theme">
+                <a class="c-headline-link" href="https://www.animatetimes.com/comment/details.php?id=7-taizai">
+                    <div class='c-favtag c-favtag-comment'>10</div>                    <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2019/09/5ffd2d55cd737_ca58a82b4bafb0156cd29414b4f13cda.jpg" loading="lazy" alt="『七つの大罪』感想＆見どころ・レビュー募集（ネタバレあり）" width="640" height="427"></div></div>
+                    <div class="c-headline-meta">
+                        <!--<div class="c-headline-info"></div>-->
+                        <div class="c-headline-text">『七つの大罪』感想＆見どころ・レビュー募集（ネタバレあり）</div>
+                        <div class="c-headline-date">2019-09-25 10:56</div>
+                    </div>
+                </a>
+            </li>
+                        </ul>
+        </div>
+    </div>
+</div>
+    <div class="c-besides c-relatedimage">
+        <div class="c-heading-box"><h2>七つの大罪の関連画像集</h2></div>
+        <div class="c-carousel">
+            <div class="slick_target" id="related_image_carousel">
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=1">
+                        <div><img src="https://img2.animatetimes.com/2025/09/b863545aaf8094fd99ffdbe2d52e09d368d54cdbf06d60_36880583_03b81ab04515e96f4f89690647347f37b20485cc.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-1" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=2">
+                        <div><img src="https://img2.animatetimes.com/2025/09/807f2f46b3b1a4d23d9f7f25688eef1368d54cdd6c0b85_03148485_9d416d5023487cf50266fd0c350273d70345d577.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-2" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=3">
+                        <div><img src="https://img2.animatetimes.com/2025/09/74bb8741b82b96dc8034096413fbb98468d54cdea83d58_19516450_2938e427ddf4502694626cc03ce8b78e5a561319.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-3" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=4">
+                        <div><img src="https://img2.animatetimes.com/2025/09/68fd87242c49c0ff112a38371f93531468d54ce01c4766_89977318_619cba01977bebecbe5d019cf76552f01b19fc8f.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-4" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=5">
+                        <div><img src="https://img2.animatetimes.com/2025/09/3ad3ae8fabfed8c281d0209b6ca41dff68d54ce1957b18_69584775_cbb49c7a64e3c24b749830c3d4de5684bcc9fce5.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-5" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=6">
+                        <div><img src="https://img2.animatetimes.com/2025/09/0b0406e0b95aa4eee385a314c0a394d268d54ce2e892a6_24729450_a257052a59910e5d1d583a207562305d72c14155.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-6" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=7">
+                        <div><img src="https://img2.animatetimes.com/2025/09/687b1c8b5e9db886cae80741715b415b68d54ce46d81e5_08841728_85013475e689b4d735970fde606b8496359a0c8a.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-7" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=8">
+                        <div><img src="https://img2.animatetimes.com/2025/09/0585e1354664513583fdf7f73deb1c7c68d54ce5cb8669_95796704_60c563c4f669910a55988b1044ff4c81d9075549.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-8" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=9">
+                        <div><img src="https://img2.animatetimes.com/2025/09/32d73d33f32c022a8c830db8e1cc178668d54ce746f330_65607655_2792cbe7628d65c5eac7ddbc1b4e464f960755c4.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-9" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=10">
+                        <div><img src="https://img2.animatetimes.com/2025/09/671bc2a56bd730ab4d9b50d5275a688468d54ce8b05006_38949892_dd5b74d0fd0e67bd6adabd0c6b4ea089f790e6c0.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-10" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=11">
+                        <div><img src="https://img2.animatetimes.com/2025/09/54ce1663435f15f58cd6cd0e50bfb43168d54cea3b57f2_40862323_b9ee4205e3593b0f1e3dd9569a974420ac85e059.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-11" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=12">
+                        <div><img src="https://img2.animatetimes.com/2025/09/a60751be920ea55b741c1fc900ea4caf68d54ceba86651_70176579_44f0af1f9bdc5969b49b934f0e217fea5eda2c4c.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-12" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=13">
+                        <div><img src="https://img2.animatetimes.com/2025/09/7a34a674bd2f5b8571798442fb68605068d54ced09ce17_07247820_119120811a83a055c91ecf418f0d5c8825ce0924.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-13" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=14">
+                        <div><img src="https://img2.animatetimes.com/2025/09/f739bb0c2ad3754ccdae00c8f0a7035168d54cee7bd7a4_60805021_68ab13c937cca066aee223bcfe9918b64bed4f24.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-14" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=15">
+                        <div><img src="https://img2.animatetimes.com/2025/09/6f484386c0badaf4597926514a10a40568d54cefe678a3_86692795_86422acc1c1dca37d26402f4d659440b424e0282.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-15" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=16">
+                        <div><img src="https://img2.animatetimes.com/2025/09/7f6b9280d67147faad3a8962134eb75168d54cf17847c5_43965007_e9f6b471654413788e02143c2f6b540822cb4e7e.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-16" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=17">
+                        <div><img src="https://img2.animatetimes.com/2025/09/e3714cdf879fe539de5b6c559eb45ecb68d54cf312e594_87054914_f6f1fef9979c57ff447c27064ba1bad6cda3b1ed.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-17" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=18">
+                        <div><img src="https://img2.animatetimes.com/2025/09/68f4cfa5df27c6b665db8adc04937a6b68d54cf4b408e9_79162273_58f087e758c072fe8fa627d948474c5d889d0abd.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-18" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=19">
+                        <div><img src="https://img2.animatetimes.com/2025/09/ce0d1638c074f450343e728a9079853668d54cf648bef7_95973723_ad272ab0cb2fca49e4cf8cbf497e9271132bd430.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-19" width="315" /></div>
+                    </a>
+                </div>
+                <div class="c-item">
+                    <a name="times_tag-img" class="c-item-link" href="https://www.animatetimes.com/tag_img/details.php?id=5119&p=1&n=20">
+                        <div><img src="https://img2.animatetimes.com/2025/09/1f1d5fa35d41ae008e1c80de378c8f2068d54cf7e35735_88983028_aff327ed0ea4eafa5ae7927aa95b9c1d3691bcba.jpg" alt="えなこさん、篠崎こころさん、南あみさんが『七つの大罪』のコスプレで「TGS2025」に降臨！　『七つの大罪：Origin』スペシャルコスプレショーの写真をお届け-20" width="315" /></div>
+                    </a>
+                </div>
+            </div>
+        </div><!-- // c-carousel -->
+        <div class="c-besides">
+            <a name="times_tag-img" class="c-more c-button-normal" href="/tag_img/details.php?id=5119">七つの大罪<br />画像まとめを見る</a></div>
+        </div>
+
+            </div>
+        <div class="c-banner-sp c-banner-sp--w300 visible-xs visible-sm">
+        <div id="a65ec63370814bcde1a0d4ccaa07785a" >
+	<script type="text/javascript">
+		microadCompass.queue.push({
+			"spot": "a65ec63370814bcde1a0d4ccaa07785a"
+		});
+	</script>
+</div>        </div>
+
+<div class="l-box l-box-b">
+    <div class="c-heading-box">
+                    <h2>関連商品</h2>
+            </div>
+    <div class="l-article">
+        <div class="slick_target" id="related_products_carousel">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3313609&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p1" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=07559602.JPG&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="127" height="127" loading="lazy" alt="【コミック】黙示録の四騎士(25)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">予約</div>
+                </div>
+                <div class="c-product__date">2026/01/16 発売</div>
+                <div class="c-product__title">【コミック】黙示録の四騎士(25)</div>
+                <div class="c-product__price">￥594</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3268093&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p2" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784065415528.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="85" height="127" loading="lazy" alt="【コミック】黙示録の四騎士(24)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2025/11/17 発売</div>
+                <div class="c-product__title">【コミック】黙示録の四騎士(24)</div>
+                <div class="c-product__price">￥594</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3186678&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p3" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784592225461.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="80" height="127" loading="lazy" alt="【コミック】恋する天使は罪深い(1)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2025/09/19 発売</div>
+                <div class="c-product__title">【コミック】恋する天使は罪深い(1)</div>
+                <div class="c-product__price">￥594</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=2044553&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p4" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784046812377.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(18)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2022/03/26 発売</div>
+                <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(18)</div>
+                <div class="c-product__price">￥693</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1756609&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p5" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040644943.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(15)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2020/03/27 発売</div>
+                <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(15)</div>
+                <div class="c-product__price">￥682</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1658573&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p6" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040655871.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(14)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2019/07/26 発売</div>
+                <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(14)</div>
+                <div class="c-product__price">￥682</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1545200&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p7" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040699813.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(13)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2018/10/25 発売</div>
+                <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(13)</div>
+                <div class="c-product__price">￥660</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1505559&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p8" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040697666.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(12)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2018/03/27 発売</div>
+                <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(12)</div>
+                <div class="c-product__price">￥660</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1491851&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p9" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040688060.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(11)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2017/12/27 発売</div>
+                <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(11)</div>
+                <div class="c-product__price">￥660</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1402812&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p10" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040682839.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(10)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2016/07/27 発売</div>
+                <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(10)</div>
+                <div class="c-product__price">￥660</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1372275&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p11" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040678689.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="88" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(9) 通常版の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2015/12/26 発売</div>
+                <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(9) 通常版</div>
+                <div class="c-product__price">￥660</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1342096&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p12" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040672335.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="88" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(7)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2014/12/27 発売</div>
+                <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(7)</div>
+                <div class="c-product__price">￥607</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1341598&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p13" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040675657.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(8)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2015/07/27 発売</div>
+                <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(8)</div>
+                <div class="c-product__price">￥649</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1295488&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p14" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040668222.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(6)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2014/07/26 発売</div>
+                <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(6)</div>
+                <div class="c-product__price">￥607</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3172427&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p15" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/share/no_image_aos.png" width="640" height="640" loading="lazy" alt="【DVD】団地七つの大罪 &lt;東宝DVD名作セレクション&gt;の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">即取り</div>
+                </div>
+                <div class="c-product__date">2024/11/20 発売</div>
+                <div class="c-product__title">【DVD】団地七つの大罪 &lt;東宝DVD名作セレクション&gt;</div>
+                <div class="c-product__price">￥3,300</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3009382&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p16" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=02271730_67c022a6a978a.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="95" height="127" loading="lazy" alt="【DVD】TV 「七つの大罪 黙示録の四騎士」DVD-BOX Ⅲの画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2025/03/26 発売</div>
+                <div class="c-product__title">【DVD】TV 「七つの大罪 黙示録の四騎士」DVD-BOX Ⅲ</div>
+                <div class="c-product__price">￥23,100</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3009381&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p17" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=02271728_67c0222b35442.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="95" height="127" loading="lazy" alt="【Blu-ray】TV 「七つの大罪 黙示録の四騎士」Blu-ray BOX Ⅲの画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2025/03/26 発売</div>
+                <div class="c-product__title">【Blu-ray】TV 「七つの大罪 黙示録の四騎士」Blu-ray BOX Ⅲ</div>
+                <div class="c-product__price">￥27,500</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=2954764&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p18" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=10281012_671ee50e56392.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="127" height="127" loading="lazy" alt="【音楽】TV 七つの大罪 黙示録の四騎士 ED「アカイロ」/Hana Hope【初回生産限定盤】の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2024/12/04 発売</div>
+                <div class="c-product__title">【音楽】TV 七つの大罪 黙示録の四騎士 ED「アカイロ」/Hana Hope【初回生産限定盤】</div>
+                <div class="c-product__price">￥1,999</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=2860350&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p19" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/share/no_image_aos.png" width="640" height="640" loading="lazy" alt="【DVD】セブン&#039;09X 蘇る七つの大罪の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2009/03/13 発売</div>
+                <div class="c-product__title">【DVD】セブン&#039;09X 蘇る七つの大罪</div>
+                <div class="c-product__price">￥4,180</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=2859839&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p20" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/share/no_image_aos.png" width="640" height="640" loading="lazy" alt="【DVD】七つの大罪&lt;IVC BEST SELECTION&gt;ジェラール・フィリップ セレクションの画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2011/02/25 発売</div>
+                <div class="c-product__title">【DVD】七つの大罪&lt;IVC BEST SELECTION&gt;ジェラール・フィリップ セレクション</div>
+                <div class="c-product__price">￥1,980</div></a>
+        </div>
+    </div>
+</div><div class="container">
+    <div class="l-content">
+        <section class="l-content-main">
+            <div class="l-box l-box--b">
+                <div class="c-heading-box">
+                    <h2>最新ニュースランキング</h2>
+                </div>
+                <div class="l-article">
+                    <div class="c-headline c-headline--l">
+                        <ul class="c-headline-list">
+                                                        <li class="c-headline-item ranking">
+<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1765856911">
+                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/46679162182e698156fb3132f2b90eb869450ac6734971_28252281_e51398d6017f7f7d6155ca30879ec6090386ed9e.jpg" loading="lazy" alt="『ヒロアカ』死亡＆行方不明のキャラクターまとめ" width="1280" height="864"></div></div>
+        <div class="c-headline-meta">
+            <div class="c-headline-info">第<strong>1</strong>位</div>
+            <div class="c-headline-text">『ヒロアカ』死亡＆行方不明のキャラクターまとめ</div>
+            <div class="c-headline-date">2026-01-03 15:00</div>
+            <div class="c-label c-label--anime">アニメ</div>        </div>
+    </a>
+</li>
+                                                        <li class="c-headline-item ranking">
+<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767325938">
+                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/0b6059d8a64a32d6c6a58b11bc7d9bc1695749557389d3_55721566_24d7a7edcfd6f2d11c5a698df4221ade8ebafe7a.jpg" loading="lazy" alt="『キミプリ』第46話先行場面カット＆あらすじ" width="1280" height="864"></div></div>
+        <div class="c-headline-meta">
+            <div class="c-headline-info">第<strong>2</strong>位</div>
+            <div class="c-headline-text">『キミプリ』第46話先行場面カット＆あらすじ</div>
+            <div class="c-headline-date">2026-01-03 12:00</div>
+            <div class="c-label c-label--anime">アニメ</div>        </div>
+    </a>
+</li>
+                                                        <li class="c-headline-item ranking">
+<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1766632663">
+                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/4728e6989d44da1f8149b59ce44d6c11694cae5017e750_57809876_c84c3f9be6093b67dff912b2e54c9af1ae131760.jpeg" loading="lazy" alt="『呪術廻戦』キャラクター人気ランキング" width="1279" height="864"></div></div>
+        <div class="c-headline-meta">
+            <div class="c-headline-info">第<strong>3</strong>位</div>
+            <div class="c-headline-text">『呪術廻戦』キャラクター人気ランキング</div>
+            <div class="c-headline-date">2026-01-03 17:00</div>
+            <div class="c-label c-label--book">マンガ・ラノベ</div>        </div>
+    </a>
+</li>
+                                                        <li class="c-headline-item ranking">
+<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767410678">
+                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/c38b21324899cf7c70edd45aa13a1e0e69589112ab4d87_39792178_90d1455b6fec04b0bcc4f007dbeee16bba922e34.jpg" loading="lazy" alt="『幼ラブアニメ』第1話先行場面カット＆あらすじ" width="1280" height="864"></div></div>
+        <div class="c-headline-meta">
+            <div class="c-headline-info">第<strong>4</strong>位</div>
+            <div class="c-headline-text">『幼ラブアニメ』第1話先行場面カット＆あらすじ</div>
+            <div class="c-headline-date">2026-01-03 13:15</div>
+            <div class="c-label c-label--anime">アニメ</div>        </div>
+    </a>
+</li>
+                                                        <li class="c-headline-item ranking">
+<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1765515361">
+                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/df61199c36deb156ee910047f34b2bd8693ba1223168f3_40340443_77012b5a681e22dddb89607f31428b75465d8e31.jpg" loading="lazy" alt="冬アニメ『恋しま』第2期 浦和希インタビュー" width="1280" height="853"></div></div>
+        <div class="c-headline-meta">
+            <div class="c-headline-info">第<strong>5</strong>位</div>
+            <div class="c-headline-text">冬アニメ『恋しま』第2期 浦和希インタビュー</div>
+            <div class="c-headline-date">2026-01-03 12:00</div>
+            <div class="c-label c-label--anime">アニメ</div>        </div>
+    </a>
+</li>
+                                                    </ul>
+                    </div>
+                </div>
+                                <a id="times_ranking" href="https://www.animatetimes.com/ranking/" class="c-more">ランキングを見る</a>
+                            </div>
+        </section>
+    </div>
+</div>
+<!-- aタグはidは固定値、リンクはアフィ&utmパラメータ必須、imgのaltはバナー名を入れる -->
+
+     <div class="l-box">
+        <div class="c-heading-box">
+          <h2><img src="https://img2.animatetimes.com/2019/03/5c85c69f02fdf_025dda870061254571083b03385e5137.png" style="width:240px" alt="アニメイト通販"></h2>
+        </div>
+
+        <div class="c-anime">
+          <div class="ec-box">
+
+            <div class="c-item-img">
+              <a href="https://www.animatetimes.com/tag/details.php?id=19226" id="ec_recommend_1">
+                <img src="https://img2.animatetimes.com/2018/11/6137a2ae208cfc1b9c0c7501843b4390655433d61bf1f1_87437097_90f752b23c4ebab8f16424720a10f2d157ecd1f2.jpg" alt="痛バ" />
+              </a>
+            </div>
+
+            <div class="c-item-img">
+              <a href="https://www.animatetimes.com/tag/details.php?id=18147" id="ec_recommend_2">
+                <img src="https://img2.animatetimes.com/2018/11/6e6fa66ad80e3862d030800cd656b21c655433e64dcca7_16667661_c7b7792a9cfe2550eb22e6b2c7feb4c33a74b386.jpg" alt="ディスプレイ用グッズ" />
+              </a>
+            </div>
+
+            <div class="c-item-img">
+              <a href="https://www.animatetimes.com/tag/details.php?id=22719" id="ec_recommend_3">
+                <img src="https://img2.animatetimes.com/2018/11/53d7bff7182840d6ec8f76f96f5006be655433ece6ffe9_79923289_d3aee4138858e1d81786543b6813cfc768f1bcf9.jpg" alt="ぬい活" />
+              </a>
+            </div>
+
+            <div class="c-item-img">
+              <a href="https://www.animatetimes.com/tag/details.php?id=22925" id="ec_recommend_4">
+                <img src="https://img2.animatetimes.com/2018/11/18d2a3b5ad7fc4ca0fd6327c7b2c97c3656454b15174a1_23705212_d27f8f70f1d02fb44f394ab0d3476aa9c73de191.jpg" alt="収納グッズまとめ" />
+              </a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+
+<style>
+.ec-box{
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	margin: auto .5rem 1rem .5rem;
+}
+.ec-box .c-item-img{
+	margin: .125rem;
+}
+.c-item-img:hover img{
+	opacity: .3;
+}
+</style><div class="l-box"><div class="c-heading-box"><h2>おすすめ特集</h2></div><div class="c-anime"><div class="row row--foritem">
+
+<div class="col-xs-6 col-md-6"><div class="c-item-img"><a name="times_special" class="c-anime-link" href="https://www.animatetimes.com/tag/details.php?id=1392"><img src="https://img.animatetimes.com/2019/05/5cf07dbdf33e2_02a8461cee680b5f9c963648608ab394.png" alt="今期アニメ曜日別一覧"><span></span></a></div></div>
+
+<div class="col-xs-6 col-md-6"><div class="c-item-img"><a name="times_special" class="c-anime-link" href="https://www.animatetimes.com/tag/details.php?id=6212"><img src="https://img2.animatetimes.com/2022/09/33840b50ca118ad29c24db33c8491954684119ca271127_88827104_1d23ab336269533e89307c432cb803ce37724922.png" alt="2026年冬アニメ一覧 1月放送開始"><span></span></a></div></div>
+
+<div class="col-xs-6 col-md-4"><div class="c-item-img"><a name="times_special" class="c-anime-link" href="https://www.animatetimes.com/tag/details.php?id=5228"><img src="https://img2.animatetimes.com/2022/08/4a504496961b15dfaa53785c7d205c3c68db7826500484_83111837_83329a9d73e202a1dab6f2bf4a16066c5b5cde8b.png" alt="2026年春アニメ一覧 4月放送開始"><span></span></a></div></div>
+
+<div class="col-xs-6 col-md-4"><div class="c-item-img"><a name="times_special" class="c-anime-link" href="https://www.animatetimes.com/tag/details.php?id=5806"><img src="https://img2.animatetimes.com/2022/08/60b428b97dc90778e29cdc699ad5a205677c91a7a21df5_21372588_275726f96b0f717dc1ea2be4af67dcfeeb27d828.png" alt="2025年夏アニメ一覧 7月放送開始"><span></span></a></div></div>
+
+<div class="col-xs-6 col-md-4"><div class="c-item-img"><a name="times_special" class="c-anime-link" href="https://www.animatetimes.com/tag/details.php?id=5947"><img src="https://img2.animatetimes.com/2022/09/08f240b6c91a9625ff1929ff7f92e58c67b3d9b5ebfdf7_12921747_0f50554d543a52b24998ad94ddfaa8bda0ddc415.png" alt="2025年秋アニメ一覧 10月放送開始"><span></span></a></div></div>
+
+<div class="col-xs-6 col-md-4"><div class="c-item-img"><a name="times_special" class="c-anime-link" href="https://www.animatetimes.com/news/details.php?id=1764923995"><img src="https://img2.animatetimes.com/2025/12/c3e965db1a1316571978d3acc1e483d26951eb2fcad850_51044715_a08dc31ce06369be757b5028ab537aed5a103dfb.png" alt="2026冬アニメ何観る"><span></span></a></div></div>
+
+<div class="col-xs-6 col-md-4"><div class="c-item-img"><a name="times_special" class="c-anime-link" href="https://www.animatetimes.com/news/details.php?id=1764311104"><img src="https://img2.animatetimes.com/2025/12/2d37e9e9cfefb5f4d024bdf0f9abde32692941c5f29888_75853728_f8ef08a04cb40c6942cbced558a07f78941fa292.png" alt="2026冬アニメ最速放送日"><span></span></a></div></div>
+
+<div class="col-xs-6 col-md-4"><div class="c-item-img"><a name="times_special" class="c-anime-link" href="https://www.animatetimes.com/news/details.php?id=1766041571"><img src="https://img2.animatetimes.com/2025/12/4bd570ca0ad2ca743de1cafd872c376e6943a9edb69597_66292659_e546ea9f93471ca3bcb94baaae0bec17b09c98b6.png" alt="2026冬アニメも声優で観る！"><span></span></a></div></div>
+
+<div class="col-xs-6 col-md-4"><div class="c-item-img"><a name="times_special" class="c-anime-link" href="https://www.animatetimes.com/tag/details.php?id=4101"><img src="https://img2.animatetimes.com/2021/04/606c1be8e3079_a65c6139136c16885419b5e34a5d8a78.png" alt="アニメ化決定一覧"><span></span></a></div></div>
+
+<div class="col-xs-6 col-md-4"><div class="c-item-img"><a name="times_special" class="c-anime-link" href="https://www.animatetimes.com/tag/details.php?id=7936"><img src="https://img.animatetimes.com/2019/06/5cf75a15614a0_f8b6677dcd83985067a5a3807ec3148d.png" alt="声優さんお誕生日記念みんなの考える代表作を紹介！"><span></span></a></div></div>
+
+<div class="col-xs-6 col-md-4"><div class="c-item-img"><a name="times_special" class="c-anime-link" href="https://www.animatetimes.com/news/details.php?id=1556427695"><img src="https://img.animatetimes.com/2019/06/5cf7694d75750_77278a0f53b45aacc70459aea55c00cb.png" alt="平成アニメランキング"><span></span></a></div></div>
+
+</div></div></div>
+        <div class="c-banner-pc visible-md visible-lg">
+            <div class="c-banner-pc--w300">
+            <div id="a65ec63370814bcde1a0d4ccaa07785a" >
+	<script type="text/javascript">
+		microadCompass.queue.push({
+			"spot": "a65ec63370814bcde1a0d4ccaa07785a"
+		});
+	</script>
+</div>            </div>
+            <div class="c-banner-pc--w300">
+            <div class="yads-placeholder"></div>            </div>
+        </div>
+
+          </section>
+<aside class="l-content-aside">
+        <div class="c-banner-aside visible-md visible-lg">
+        <div id="1ba23b37ac893daf9d3bb0554b53fbf9" >
+	<script type="text/javascript">
+		microadCompass.queue.push({
+			"spot": "1ba23b37ac893daf9d3bb0554b53fbf9"
+		});
+	</script>
+</div>        </div>
+        <div class="c-banner-aside visible-md visible-lg">
+        <div style="margin:5px 0;">
+   <a name="times_pcside_icpc" href="https://saihito-anime.com/" target="_blank"><img src="https://img2.animatetimes.com/2019/03/adb3125df90d1f5b591f2745ac8594f568eedc1d8aaa57_12863712_cba34a4f3a18dde11a095cabba4d43bd59123916.jpg" alt="TVアニメ「最後にひとつだけお願いしてもよろしいでしょうか」公式サイト" width="300" height="100"></a>
+</div>
+
+<div style="margin:5px 0;">
+   <a name="times_pcside_icpc" href="https://tojima-rider.com/" target="_blank"><img src="https://www.animatetimes.com/wp-content/uploads/2019/03/3dddcfab03c317271a4da100e8502f0668fefe7facd1f7_07824328_cddcd3db84e50f9efc5c921e5f8311be143e79ca.jpg" alt="TVアニメ「東島丹三郎は仮面ライダーになりたい」公式サイト" width="300" height="100"></a>
+</div>
+
+<div style="margin:5px 0;">
+   <a name="times_pcside_icpc" href="https://egatae.com/" target="_blank"><img src="https://www.animatetimes.com/wp-content/uploads/2019/03/e655e48003579d90e76ce5dc27c33e2e68f6ed36816ee7_24446003_44b21ed960f9aa975b2834b460a5f1b46bf2eb1c.jpg" alt="TVアニメ「笑顔のたえない職場です。」公式サイト" width="300" height="100"></a>
+</div>
+
+<div style="margin:5px 0;">
+   <a name="times_pcside_icpc" href="https://haigakura.jp/" target="_blank"><img src="https://www.animatetimes.com/wp-content/uploads/2019/03/929773b5dcc47a8c3d9e725d26aa0af2686b1f9e44a5f0_63636344_714694f45abe663aa059e68b015aa517bcb6715b.jpg" alt="TVアニメ「ハイガクラ」公式サイト" width="300" height="100"></a>
+</div>
+
+<div class="img">
+</div>
+
+<!-- ソレオス -->
+<!-- 
+
+<div style="margin:5px 0;">
+   <a href="https://soreosu.com/?animatebannertimes_migi_" target="_blank"><img src="https://www.animatetimes.com/wp-content/uploads/2019/03/95b5fd5c632c223143da3f0c6480147967aec6a88cf0d2_70178800_a39385d79b3e5f89b1a5172b5d058f03e7e3dfe4.jpg" alt="ソレオス広告" width="300" height="100"></a>
+</div>
+
+ -->
+
+<div style="margin:5px 0;">
+   <a href="https://soreosu.com/projects/2i2?utm_source=atimes&utm_medium=banner&utm_campaign=times_sidebanner_2i2" target="_blank"><img src=" https://www.animatetimes.com/wp-content/uploads/2019/03/ab2dd945e60c2e0c39eeb546c9011e6a6944ddb68d1cd0_43649555_c609237a0fa8698ab0b64381e5c8b86f968e0e53.png" alt="#2i2完結。史上最大の大暴走を刻むベストアルバム制作プロジェクト" width="300" height="100"></a>
+</div>
+
+<!-- ソレオス終了 -->
+
+
+ <div style="margin-top:5px;">
+   <a name="times_pcside_animemangaseiyuuanke-to" href="https://www.animate-onlineshop.jp/corner/cc/staff_oshi_comic/cd/3305/?utm_source=atimes&utm_medium=animate&utm_campaign=staff_oshi_comic_times_banner">
+          <img src="https://img2.animatetimes.com/2024/11/e18ccfaeaeaf32a6991d7729d38faee26743e077944ed1_15330395_985850298d6c6da691394fb175734061f7b67414.jpg" alt="「○○すぎる漫画」シリーズ" width="300" height="100"></a>
+    </div>
+
+　 <div style="margin-top:5px;">
+  　　　　 <a name="times_pcside_animemangaseiyuuanke-to" href="https://www.animatetimes.com/tag/details.php?id=997">
+          <img src="https://img2.animatetimes.com/2021/11/61938246d9427_a5a82e17e49a4ab003fc8d4c0121d900.png" alt="アニメマンガ声優アンケート" width="300" height="100"></a>
+    </div>
+
+    <div style="margin-top:5px;">
+          <a name="times_pcside_seiyu-award" href="https://www.animatetimes.com/tag/details.php?id=1605">
+          <img src="https://img2.animatetimes.com/2019/03/6228355eb027d_15e715717aa2440f166ac607570d721a.png" alt="声優アワード 歴代受賞者一覧" width="300" height="100"></a>
+    </div>
+
+    <div style="margin-top:5px;">
+          <a name="times_pcside_seiyu-birthday" href="https://www.animatetimes.com/tag/details.php?id=7936">
+          <img src="https://img2.animatetimes.com/2019/08/5d49085099944_e932c87454a2c1556d42fea6eabb7790.png" alt="声優別代表作まとめ一覧" width="300" height="100"></a>
+    </div>
+
+        </div>
+<div class="l-box">
+  <div class="c-heading-box c-heading-box--s">
+    <h2>新着ラジオ番組</h2>
+  </div>
+  <div class="slick_target" id="aside_radio_carousel">
+    
+    <div class="c-item">
+      <a class="c-item-link" href="https://www.animatetimes.com/radio/details.php?id=shinofficeyusa" id="times_radio">
+        <div class="c-item-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2018/05/5cf9b378c1392_f915d44e384905a101e4da56721cd8d2.png" loading="lazy" alt="新・オフィス遊佐浩二" width="315" height="243"></div></div>
+        <div class="c-item-ttl">
+          <div class="c-headline-text no-bg-color mb-10">新・オフィス遊佐浩二</div>
+        </div>
+      </a>
+    </div>
+
+    <div class="c-item">
+      <a class="c-item-link" href="https://www.animatetimes.com/radio/details.php?id=tsumashio" id="times_radio">
+        <div class="c-item-img"><div class="thumb-placeholder"><img src="https://img.animatetimes.com/radio/visual/tsumashio/9ae5eddf41cd3c3daa8f2dee026c0814_main_thumb.jpg" loading="lazy" alt="森久保祥太郎×浪川大輔 つまみは塩だけ" width="180" height="134"></div></div>
+        <div class="c-item-ttl">
+          <div class="c-headline-text no-bg-color mb-10">森久保祥太郎×浪川大輔 つまみは塩だけ</div>
+        </div>
+      </a>
+    </div>
+
+    <div class="c-item">
+      <a class="c-item-link" href="https://www.animatetimes.com/radio/details.php?id=music_park" id="times_radio">
+        <div class="c-item-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2017/11/5cde58e7c53d4_2d6cb868894dd4f0bf30b2c5529ae708.png" loading="lazy" alt="Kiramune Presents 僕らのMusic Park" width="1000" height="543"></div></div>
+        <div class="c-item-ttl">
+          <div class="c-headline-text no-bg-color mb-10">Kiramune Presents 僕らのMusic Park</div>
+        </div>
+      </a>
+    </div>
+
+    <div class="c-item">
+      <a class="c-item-link" href="https://www.animatetimes.com/radio/details.php?id=jukebox" id="times_radio">
+        <div class="c-item-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2015/11/b8a1f9b8b2c32eda89f7630b314b303666a878060a36e5_52383839_b01174c6f8ecb200639e86b28048bfbff1624858.jpg" loading="lazy" alt="川上千尋StoryJukeBox" width="1280" height="864"></div></div>
+        <div class="c-item-ttl">
+          <div class="c-headline-text no-bg-color mb-10">川上千尋StoryJukeBox</div>
+        </div>
+      </a>
+    </div>
+
+    <div class="c-item">
+      <a class="c-item-link" href="https://www.animatetimes.com/radio/details.php?id=onkimo-love" id="times_radio">
+        <div class="c-item-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2011/06/5ce4dd90520a3_cf5521c41a5280fc6e418ab7b1da3f2b.jpg" loading="lazy" alt="高橋美紀のおんぷの気持ち♪　in アニメイトタイムズ" width="642" height="462"></div></div>
+        <div class="c-item-ttl">
+          <div class="c-headline-text no-bg-color mb-10">高橋美紀のおんぷの気持ち♪　in アニメイトタイムズ</div>
+        </div>
+      </a>
+    </div>
+
+    <div class="c-item">
+      <a class="c-item-link" href="https://www.animatetimes.com/radio/details.php?id=kirabeat" id="times_radio">
+        <div class="c-item-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2012/05/c46ceb650f4506dfe247a092e6d562eb6512692bc7a181_01365687_1ef297a66079dd424347842d6ecae21be9218c24.jpg" loading="lazy" alt="Trignalのキラキラ☆ビートＲ" width="900" height="600"></div></div>
+        <div class="c-item-ttl">
+          <div class="c-headline-text no-bg-color mb-10">Trignalのキラキラ☆ビートＲ</div>
+        </div>
+      </a>
+    </div>
+
+    <div class="c-item">
+      <a class="c-item-link" href="https://www.animatetimes.com/radio/details.php?id=yatteyare" id="times_radio">
+        <div class="c-item-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2023/11/84db62a9e9ff8e1aa35bf78c776a35c26706367ccdefe6_67170187_093b58ae86824279ab52d475e09e6b340e0ba676.jpg" loading="lazy" alt="立花慎之介・狩野翔のやってやれないことはないZ！" width="3710" height="2682"></div></div>
+        <div class="c-item-ttl">
+          <div class="c-headline-text no-bg-color mb-10">立花慎之介・狩野翔のやってやれないことはないZ！</div>
+        </div>
+      </a>
+    </div>
+
+    <div class="c-item">
+      <a class="c-item-link" href="https://www.animatetimes.com/radio/details.php?id=sentai_radio" id="times_radio">
+        <div class="c-item-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2024/03/1f6535958beb14e39b1a284d2a2567146874787080cf14_43385098_95d681ab505ad787d5ce62aac6c8732f9df81f8c.png" loading="lazy" alt="TVアニメ『戦隊大失格』radio 大直会 2nd season" width="1280" height="720"></div></div>
+        <div class="c-item-ttl">
+          <div class="c-headline-text no-bg-color mb-10">TVアニメ『戦隊大失格』radio 大直会 2nd season</div>
+        </div>
+      </a>
+    </div>
+  </div>
+
+    <a class="c-more" href="https://www.animatetimes.com/radio/" id="times_radio">もっと見る</a>
+</div><div class="container">
+          <div class="c-banner-sp c-banner-sp--w300 visible-xs visible-sm">
+        <div class="yads-placeholder"></div>        </div>
+
+</div>
+
+<div class="l-box visible-md visible-lg">
+  <div class="c-heading-box c-heading-box--s">
+    <h2>人気ランキング</h2>
+  </div>
+  <div class="c-headline c-headline--ranking l-headline">
+    <ul class="c-headline-list">
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1764311104" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/2d37e9e9cfefb5f4d024bdf0f9abde32692941c5f29888_75853728_f8ef08a04cb40c6942cbced558a07f78941fa292.png" loading="lazy" alt="2026冬アニメ 最速放送＆放送日順一覧（日付順）" width="642" height="434"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>1</strong>位</div>
+            </div>
+            <div class="c-headline-text">2026冬アニメ 最速放送＆放送日順一覧（日付順）</div>
+            <div class="c-headline-date">2025/12/26 14:30</div>
+            <div class="c-label c-label--anime">アニメ</div>          </div></a>
+      </li>
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1766541081" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/4bf1636c8bcb0be833c10f88db655c5b694b4775756870_14986731_3f456aec8595315939e9c21d1729b271b63ccdb0.png" loading="lazy" alt="【今年の注目作はこれ！】2026年放送・配信予定のアニメまとめ！" width="1280" height="864"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>2</strong>位</div>
+            </div>
+            <div class="c-headline-text">【今年の注目作はこれ！】2026年放送・配信予定のアニメまとめ！</div>
+            <div class="c-headline-date">2026/01/01 15:00</div>
+            <div class="c-label c-label--anime">アニメ</div>          </div></a>
+      </li>
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1764923995" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/c3e965db1a1316571978d3acc1e483d26951eb2fcad850_51044715_a08dc31ce06369be757b5028ab537aed5a103dfb.png" loading="lazy" alt="今期・2026冬アニメ おすすめランキングまとめ！結果発表！" width="642" height="434"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>3</strong>位</div>
+            </div>
+            <div class="c-headline-text">今期・2026冬アニメ おすすめランキングまとめ！結果発表！</div>
+            <div class="c-headline-date">2025/12/29 12:00</div>
+            <div class="c-label c-label--anime">アニメ</div>          </div></a>
+      </li>
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1765856911" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/46679162182e698156fb3132f2b90eb869450ac6734971_28252281_e51398d6017f7f7d6155ca30879ec6090386ed9e.jpg" loading="lazy" alt="『ヒロアカ』死亡＆行方不明のキャラクターまとめ" width="1280" height="864"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>4</strong>位</div>
+            </div>
+            <div class="c-headline-text">『ヒロアカ』死亡＆行方不明のキャラクターまとめ</div>
+            <div class="c-headline-date">2026/01/03 15:00</div>
+            <div class="c-label c-label--anime">アニメ</div>          </div></a>
+      </li>
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767325938" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/0b6059d8a64a32d6c6a58b11bc7d9bc1695749557389d3_55721566_24d7a7edcfd6f2d11c5a698df4221ade8ebafe7a.jpg" loading="lazy" alt="『キミプリ』第46話先行場面カット＆あらすじ" width="1280" height="864"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>5</strong>位</div>
+            </div>
+            <div class="c-headline-text">『キミプリ』第46話先行場面カット＆あらすじ</div>
+            <div class="c-headline-date">2026/01/03 12:00</div>
+            <div class="c-label c-label--anime">アニメ</div>          </div></a>
+      </li>
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1710050336" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2024/03/64079f7b261153d9abef24e525c022df65ed4e142965e8_61535454_870901dfc0d3993c17147eff6e7d6c6eb248edfb.jpg" loading="lazy" alt="『ハイキュー!!』キャラクター（登場人物）一覧・紹介＆解説" width="1280" height="864"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>6</strong>位</div>
+            </div>
+            <div class="c-headline-text">『ハイキュー!!』キャラクター（登場人物）一覧・紹介＆解説</div>
+            <div class="c-headline-date">2024/03/11 16:00</div>
+            <div class="c-label c-label--anime">アニメ</div>          </div></a>
+      </li>
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1632474803" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2023/06/7abbcebcec214c7ed7816851c91a1766687075557c1743_71366936_4020709f52ab4c301fbca1d5c5eae9c5ea14509c.jpg" loading="lazy" alt="『鬼滅の刃』十二鬼月（上弦の鬼、下弦の鬼）メンバーを一覧で紹介＆解説（登場鬼の情報まとめ）" width="1280" height="864"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>7</strong>位</div>
+            </div>
+            <div class="c-headline-text">『鬼滅の刃』十二鬼月（上弦の鬼、下弦の鬼）メンバーを一覧で紹介＆解説（登場鬼の情報まとめ）</div>
+            <div class="c-headline-date">2023/06/20 00:00</div>
+            <div class="c-label c-label--anime">アニメ</div>          </div></a>
+      </li>
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767237303" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/f614212a345563780885b0b54c3d1c3c6955e8119a4473_68284091_3aa6b8038858c57497e2d0a6c269a3adb8b2a472.jpg" loading="lazy" alt="『かぐや様は告らせたい』完結編 制作決定・特報映像解禁" width="1280" height="864"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>8</strong>位</div>
+            </div>
+            <div class="c-headline-text">『かぐや様は告らせたい』完結編 制作決定・特報映像解禁</div>
+            <div class="c-headline-date">2026/01/01 12:25</div>
+            <div class="c-label c-label--eiga">映画</div>          </div></a>
+      </li>
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1516353266" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2018/01/5e9408a479e21_3721530b1f7e3d8935c3a966bcea4b19.jpg" loading="lazy" alt="アニメ『Fate』シリーズ見る順番をわかりやすく解説" width="1280" height="864"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>9</strong>位</div>
+            </div>
+            <div class="c-headline-text">アニメ『Fate』シリーズ見る順番をわかりやすく解説</div>
+            <div class="c-headline-date">2024/05/23 00:00</div>
+            <div class="c-label c-label--anime">アニメ</div>          </div></a>
+      </li>
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1766102843" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/59fe86ac20e9a718b3cf6725ae321a2c6944bdb82caf76_37743632_2af6f970f1235656f286008676d2abbe86170396.jpg" loading="lazy" alt="『アイドルマスターSideM』和ユニット・彩（さい）の魅力を語らせてくだ彩（さい）！" width="1280" height="864"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>10</strong>位</div>
+            </div>
+            <div class="c-headline-text">『アイドルマスターSideM』和ユニット・彩（さい）の魅力を語らせてくだ彩（さい）！</div>
+            <div class="c-headline-date">2026/01/02 12:00</div>
+            <div class="c-label c-label--music">音楽</div>          </div></a>
+      </li>
+        </ul>
+  </div>
+  <a class="c-more" target="_blank" name="times_ranking" href="https://www.animatetimes.com/ranking/">ランキングを見る</a>
+</div>
+<div class="l-box">
+  <div class="c-heading-box c-heading-box--s">
+    <h2>アニメイト<br>通販ランキング</h2>
+  </div>
+
+  <div class="c-headline c-headline--ranking l-headline">
+      <ul class="c-headline-list">
+            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3339882&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
+          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12041307_693108f643688.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              第<strong>1</strong>位
+            </div>
+            <div class="c-headline-text">【グッズ-シール】たべっ子どうぶつ THE MOVIE Cherigem Sticker ビスケット</div>
+            <div class="c-headline-date">￥660</div>
+            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
+      </li>
+            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3339881&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
+          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12041306_693108dd22579.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              第<strong>2</strong>位
+            </div>
+            <div class="c-headline-text">【グッズ-シール】たべっ子どうぶつ THE MOVIE Cherigem Sticker 3DCG</div>
+            <div class="c-headline-date">￥660</div>
+            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
+      </li>
+            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3352691&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
+          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12171258_69422a7803d5f.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              第<strong>3</strong>位
+            </div>
+            <div class="c-headline-text">【グッズ(音楽)】ぬいぐるみ 浦島坂田船×サンリオキャラクターズ　ぬいぐるみ　センラ×マイメロディ</div>
+            <div class="c-headline-date">￥5,000</div>
+            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
+      </li>
+            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3339883&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
+          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12041307_693109106a661.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              第<strong>4</strong>位
+            </div>
+            <div class="c-headline-text">【グッズ-シール】お文具といっしょ Cherigem Sticker お弁当・ようちえん</div>
+            <div class="c-headline-date">￥660</div>
+            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
+      </li>
+            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3339884&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
+          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12041308_6931092dc06df.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              第<strong>5</strong>位
+            </div>
+            <div class="c-headline-text">【グッズ-シール】お文具といっしょ Cherigem Sticker バスタイム・童話</div>
+            <div class="c-headline-date">￥660</div>
+            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
+      </li>
+            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3352683&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
+          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12171248_6942282a127b6.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              第<strong>6</strong>位
+            </div>
+            <div class="c-headline-text">【グッズ(音楽)】キーホルダー 浦島坂田船×サンリオキャラクターズ　アクリルキーホルダー　センラ×マイメロディ</div>
+            <div class="c-headline-date">￥1,200</div>
+            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
+      </li>
+            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3352687&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
+          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12171254_6942296d4d1f4.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              第<strong>7</strong>位
+            </div>
+            <div class="c-headline-text">【グッズ(音楽)】ヘアバンド 浦島坂田船×サンリオキャラクターズ　ヘアクリップ　センラ×マイメロディ</div>
+            <div class="c-headline-date">￥1,600</div>
+            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
+      </li>
+            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3352688&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
+          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12171256_69422a09e7ea2.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              第<strong>8</strong>位
+            </div>
+            <div class="c-headline-text">【グッズ(音楽)】ぬいぐるみ 浦島坂田船×サンリオキャラクターズ　ぬいぐるみ　うらたぬき×ポムポムプリン</div>
+            <div class="c-headline-date">￥5,000</div>
+            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
+      </li>
+            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3318648&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
+          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=07559756.JPG&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              第<strong>9</strong>位
+            </div>
+            <div class="c-headline-text">【コミック】うるわしの宵の月(10)</div>
+            <div class="c-headline-date">￥594</div>
+            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
+      </li>
+            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3318651&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
+          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=07559754.JPG&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              第<strong>10</strong>位
+            </div>
+            <div class="c-headline-text">【コミック】恋せよまやかし天使ども(6)</div>
+            <div class="c-headline-date">￥594</div>
+            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
+      </li>
+            </ul>
+  </div>
+  <a class="c-more" target="_blank" name="times_affiliate-ranking" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/ranking/&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">すべて見る</a>
+</div>
+<div class="container">
+          <div class="c-banner-sp c-banner-sp--w320 visible-xs visible-sm">
+        <div style="background-color:#FFFFFF; position: relative; width:300px; height:250px; text-align: center; margin: 0 auto; border:1px solid #C0BFC0;" >
+    <a target="_blank" name="" class="inject-link" style="position:absolute; top:0; left:0; height:100%; width:100%;" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3339881&amp;lstid=AMAUTOTRACK&amp;utm_source=atimes&amp;utm_medium=animate&amp;utm_campaign=times_sales_3339881">
+        <img alt="アニメイト通販おすすめ商品のご紹介" style="width:auto; height:30px; display:block; margin:0 auto; margin-top:10px;" src="https://img2.animatetimes.com/2019/03/5c85c69f02fdf_025dda870061254571083b03385e5137.png">
+        <img alt="" style="width:280px; height:155px; display:block; margin:0 auto; margin-top:5px; object-fit:contain; " class="inject-image-src" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12041306_693108dd22579.jpg&amp;width=&amp;height=&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0" loading="lazy" alt="" >
+        <div class="c-product__title inject-name" style="width:250px; margin: 0 auto; margin-top:5px; font-size: 10px; line-height: 1.2em;">
+            【グッズ-シール】たべっ子どうぶつ THE MOVIE Cherigem Sticker 3DCG        </div>
+    </a>
+</div>
+            
+        </div>
+</div>
+            <div class="l-box recommend_wrapper">
+              <div class="c-heading-box c-heading-box--s">
+                <h2>あなたへのおすすめ</h2>
+              </div>
+              <div class="c-headline l-headline">
+                <ul class="c-headline-list" id="rt_right_recommend">
+                    <li class="c-headline-item" id="rt_right_recommend_1"></li>
+                    <li class="c-headline-item" id="rt_right_recommend_2"></li>
+                    <li class="c-headline-item" id="rt_right_recommend_3"></li>
+                    <li class="c-headline-item" id="rt_right_recommend_4"></li>
+                    <li class="c-headline-item" id="rt_right_recommend_5"></li>
+                </ul>
+              </div>
+            </div><div class="container">
+          <div class="c-banner-sp c-banner-sp--w320 visible-xs visible-sm">
+        
+<div style="background-color:#FFFFFF; position: relative; width:300px; height:250px; text-align: center; margin: 0 auto; border:1px solid #C0BFC0;" >
+    <a target="_blank" name="" class="inject-link" style="position:absolute; top:0; left:0; height:100%; width:100%;" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3339882&amp;lstid=AMAUTOTRACK&amp;utm_source=atimes&amp;utm_medium=animate&amp;utm_campaign=times_sales_3339882">
+        <img alt="アニメイト通販おすすめ商品のご紹介" style="width:auto; height:30px; display:block; margin:0 auto; margin-top:10px;" src="https://img2.animatetimes.com/2019/03/5c85c69f02fdf_025dda870061254571083b03385e5137.png">
+        <img alt="" style="width:280px; height:155px; display:block; margin:0 auto; margin-top:5px; object-fit:contain; " class="inject-image-src" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12041307_693108f643688.jpg&amp;width=&amp;height=&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0" loading="lazy" alt="" >
+        <div class="c-product__title inject-name" style="width:250px; margin: 0 auto; margin-top:5px; font-size: 10px; line-height: 1.2em;">
+            【グッズ-シール】たべっ子どうぶつ THE MOVIE Cherigem Sticker ビスケット        </div>
+    </a>
+</div>
+            
+        </div>
+
+</div>
+            <div class="l-box recommend_wrapper">
+              <div class="c-heading-box c-heading-box--s">
+                <h2>閲覧履歴</h2>
+              </div>
+              <div class="c-headline l-headline">
+                <ul class="c-headline-list" id="rt_view_history">
+                  <li class="c-headline-item" id="rt_view_history_1"></li>
+                  <li class="c-headline-item" id="rt_view_history_2"></li>
+                  <li class="c-headline-item" id="rt_view_history_3"></li>
+                  <li class="c-headline-item" id="rt_view_history_4"></li>
+                  <li class="c-headline-item" id="rt_view_history_5"></li>
+                </ul>
+              </div>
+            </div><div class="container" style="margin-bottom: 15px;">
+          <div class="c-banner-sp c-banner-sp--w320 visible-xs visible-sm">
+                </div>
+
+</div>
+<div class="common-bnr">
+<!-- リンクはアフィ&amp;utmパラメータ必須、imgのaltはバナー名を入れる -->
+<div class="container">
+    <style>
+        .banner_library img {
+            height: auto !important;
+        }
+
+    </style>
+
+<!-- ソレオス -->
+<!-- 
+
+<div class="c-banner-aside banner_library">
+   <a href="https://docs.google.com/forms/d/e/1FAIpQLSf5R-_u86yg8groSxMgW25iqHKI_W1LlFJoGahfUlKyFpoWbQ/viewform" target="_blank">
+   <img src="https://www.animatetimes.com/wp-content/uploads/2018/10/c48972982c2fa9e5143096f6fa43867467aea40f98f047_39865318_b6eca35b937310cfcc9aa68dd438ad9ce8b4df3d.jpg" alt="ソレオス_プロジェクトアイディア募集" width="300" height="100">
+   </a>
+</div>
+
+<div class="c-banner-aside banner_library">
+   <a href="https://soreosu.com/projects/tcslive2025?utm_source=atimes&utm_medium=banner&utm_campaign=times_anionbanner_tcslive2025" target="_blank">
+   <img src="https://www.animatetimes.com/wp-content/uploads/2018/10/1c113475271a2e2c4d74d27727add80e68f5ea4f830744_68386620_39533c3ea9b22efab87ca895e8bae21b782ef6c0.jpg " alt="「東京カラーソニック!!」ライブイベントに向けて駅広告＆会場装飾を作りたい！" width="300" height="100">
+   </a>
+</div>
+
+<div class="c-banner-aside banner_library">
+   <a href="https://soreosu.com/projects/2i2?utm_source=atimes&utm_medium=banner&utm_campaign=times_anionbanner_2i2" target="_blank">
+   <img src=" https://www.animatetimes.com/wp-content/uploads/2018/10/062f72e7586af68c0c6a8e19cd587f5a6944de285537f8_91613499_c609237a0fa8698ab0b64381e5c8b86f968e0e53.png" alt="#2i2完結。史上最大の大暴走を刻むベストアルバム制作プロジェクト" width="300" height="100">
+   </a>
+</div>
+
+ -->
+
+<div class="c-banner-aside banner_library">
+   <a href="https://soreosu.com/projects/wtmr2?utm_source=atimes&utm_medium=banner&utm_campaign=times_anionbanner_wtmr2 " target="_blank">
+   <img src=" https://www.animatetimes.com/wp-content/uploads/2018/10/fd209882e0ba70ab71418ae490b94b3b6937c6f753b075_02102388_7e014901dc12785793792339a022fda022427749.png" alt="『私たちフェイクマリッジ？』あなたが《画面の向こうに参加出来る百合ゲーム》参加しませんか？" width="300" height="100">
+   </a>
+</div>
+
+<!-- ソレオス終了 -->
+
+    <div class="c-banner-aside banner_library">
+        <a name="times_pcside_osusumegoods" href="https://www.animatetimes.com/tag/details.php?id=12009" target="_blank">
+            <img src="https://img2.animatetimes.com/2019/03/61414fde6bd54_1b8fb52418bb56c0627b4261937e1127.png" alt="編集部おすすめグッズ紹介" width="300" height="100">
+        </a>
+    </div>
+
+    <div class="c-banner-aside banner_library">
+        <a name="times_pcside_tsuhanshoseki" href="https://www.animate-onlineshop.jp/corner/cc/hayatouk/cd/3021/" target="_blank">
+            <img src="https://img2.animatetimes.com/2018/10/22ab447337f79f204109fc04c3e5df086697371796ea03_59593221_f024479d495a051c3e057846cf16254e147a2ce3.jpg" alt="書籍早得店舗受取り" width="300" height="100">
+        </a>
+		</div>
+
+    <div class="c-banner-aside  banner_library">
+        <a href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/animetitle/?aid=14731&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_banner_nijisanji" target="_blank">
+            <img src="https://img2.animatetimes.com/2018/10/f195494071c2d425d1bccbff824cfbda63ec41666ced26_25133182_d175a167d00c15975c716a25c04d55b8182a495a.jpg" alt="ホロライブ" width="300" height="101">
+        </a>
+    </div>
+
+    <div class="c-banner-aside  banner_library">
+        <a href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/animetitle/?aid=4839&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_banner_nijisanji" target="_blank">
+            <img src="https://img2.animatetimes.com/2018/10/00c3e7f4da82edbf1969c401c1bc769463ec4167bf0592_39383416_423fc897c4b2ffb6145999c2d60fb052b8ad377c.jpg" alt="にじさんじ" width="300" height="101">
+        </a>
+    </div>
+
+    <div class="c-banner-aside  banner_library">
+        <a href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/animetitle/?aid=4548&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_banner_kimetsu"
+            target="_blank">
+            <img src="https://img2.animatetimes.com/2019/04/5cc5456c9926e_868a538ed850e42d8eaf3d73268f8227.jpg" alt="鬼滅の刃" width="300" height="101">
+        </a>
+    </div>
+
+    <div class="c-banner-aside  banner_library">
+        <a href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/animetitle/?aid=3748&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_banner_ensemble_stars"
+            target="_blank">
+            <img src="https://img2.animatetimes.com/2018/10/627a297281df3_48c5e7c05ae813f7c5ea866ebf2773d5.jpeg" alt="あんさんぶるスターズ!!" width="300" height="101">
+        </a>
+    </div>
+
+    <div class="c-banner-aside  banner_library">
+        <a href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/animetitle/?aid=3901&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_banner_idolish7"
+            target="_blank">
+            <img src="https://img2.animatetimes.com/2018/10/627a29731ed9d_a6dc2f8555ba1622c887bda311b114bc.jpeg" alt="アイドリッシュセブン" width="300" height="101">
+        </a>
+    </div>
+
+<!-- 
+   <div class="c-banner-aside  banner_library">
+      <a href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/index.php?nf=1&spc=5&scc=47&ss=5&sl=0&nd%5B%5D=7&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_banner_newfigure" target="_blank">
+         <img src="https://img2.animatetimes.com/2019/07/5d367a3ae2a65_0bb1ebd321de48c869336f32e4194318.jpg" alt="新作フィギュア" width="300" height="101">
+      </a>
+   </div>
+
+   <div class="c-banner-aside  banner_library">
+      <a href="https://www.animate-onlineshop.jp/affiliate/affland.php?lstid=AMAUTOTRACK&company_id=101&corner_id=1374&utm_source=atimes&utm_medium=animate&utm_campaign=times_banner_otakatsu" target="_blank">
+         <img src="https://img2.animatetimes.com/2024/12/5e81520aed1a724d46c364102324e4cb67580148d89f28_45950827_cb44da9c773ffb6d688e9a27e81f768de1c71149.jpg" alt="オタ活" width="300" height="101">
+      </a>
+   </div>
+
+-->
+
+<!--
+<div class="c-banner-aside banner_library">
+     <a name="times_pcside_ebook" href="https://www.animatetimes.com/ebook/?utm_source=atimes&utm_medium=animate&utm_campaign=attimesside" id="pcsideebook">
+     <img src="https://img2.animatetimes.com/2018/10/8e6b85346a886e096cf475718ae7ae67645de0d75ed985_81274492_2925be3be76260becc1c8bb5f173f4f65f8b18e3.jpg" alt="アニメイトタイムズ「無料マンガ」コーナー" width="300" height="100">
+    </a>
+</div>
+
+    <div class="c-banner-aside  banner_library">
+        <a href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/animetitle/?aid=12913&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_banner_spyfamily"
+            target="_blank">
+            <img src="https://img2.animatetimes.com/2018/10/627a297447ae1_710d0fa80f90eff32ab8b73e53bf6b62.jpeg" alt="SPY×FAMILY" width="300" height="101">
+        </a>
+    </div>
+
+    <div class="c-banner-aside  banner_library">
+        <a href="https://www.animate-onlineshop.jp/affiliate/affland.php?lstid=AMAUTOTRACK&company_id=101&corner_id=1684&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_banner_jujutsukaisen"
+            target="_blank">
+            <img src="https://img2.animatetimes.com/2018/10/627a2d680eddc_49d89885325d05fd1c2b0950d666851b.jpeg" alt="呪術廻戦" width="300" height="101">
+        </a>
+    </div>
+
+    <div class="c-banner-aside  banner_library">
+        <a href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/animetitle/?aid=13561&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_banner_whitetales"
+            target="_blank">
+            <img src="https://img2.animatetimes.com/2018/10/627a2971c433a_40c51295c6330b54bab0e897aa06ad0f.jpeg" alt="ワイテルズ" width="300" height="101">
+        </a>
+    </div>
+
+   <div class="c-banner-aside  banner_library">
+      <a href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/corner/corner.php?corner_id=1254&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_banner_utaite" target="_blank">
+         <img src="https://img2.animatetimes.com/2018/10/5d5b51547e0ef_73f02a56323e1a9a10166a873178e3aa.jpg" alt="歌い手特集" width="300" height="101">
+      </a>
+   </div>
+-->
+
+
+
+</div></div>
+<div class="c-banner-aside-follow-top-limit"></div>
+<div class="c-banner-aside c-banner-aside-follow visible-md visible-lg">
+          <script type="text/javascript">
+  var microadCompass = microadCompass || {};
+  microadCompass.queue = microadCompass.queue || [];
+</script>
+<script type="text/javascript" charset="UTF-8" src="//j.microad.net/js/compass.js" onload="new microadCompass.AdInitializer().initialize();" async></script>
+<div id="6737244acc6e0434935734f4c3cf4cb2" >
+  <script type="text/javascript">
+    microadCompass.queue.push({
+      "spot": "6737244acc6e0434935734f4c3cf4cb2"
+    });
+  </script>
+</div>
+</div>
+<div class="c-banner-aside-follow-bottom-limit"></div>
+</aside>        </div>
+      </div>
+      <div class="container">
+      </div>
+      <div class="c-footer">
+        <div class="container">
+          <div class="c-footer-logo"><a href="/" style="line-height: 1.4;"><img src="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/common/logo.png" alt="animate Times"><br><span style="font-weight: bold; font-size: medium">アニメイト</span></a></div>
+          <!--ナビゲーション-->
+          <nav class="row" id="footer_nav">
+            <div class="c-footer-col is-open">
+              <div class="c-footer-heading">
+                <a href="#" onclick="return false;" role="button" data-toggle="collapse" data-parent="#footer_nav" data-target="#footer_nav_1">カテゴリ</a>
+              </div>
+              <ul class="c-footer-list collapse in" id="footer_nav_1">
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/">HOME</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/ranking/">ランキング</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/anime/">アニメ</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/seiyu/">声優</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/radio/">ラジオ</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/comment/">みんなの声</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/goods/">グッズ</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/eiga/">映画</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/book/">マンガ・ラノベ</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/game/">ゲーム・アプリ</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/music/">音楽</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/cosplay/">コスプレ</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/25d/">2.5次元</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/webcast/">配信・Vtuber</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/trend/">トレンド</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/ebook/">無料マンガ</a></li> 
+              </ul>
+            </div>
+            <div class="c-footer-col is-open">
+    <div class="c-footer-heading">
+        <a href="#" onclick="return false;" role="button"  data-toggle="collapse" data-parent="#footer_nav" data-target="#footer_nav_2">特集/一覧まとめ</a>
+    </div>
+    <ul class="c-footer-list collapse in" id="footer_nav_2">
+        <li class="c-footer-item"><a class="c-footer-link" href="/index.php?p=1">最新記事一覧</a></li>
+        <li class="c-footer-item"><a class="c-footer-link" href="/tag/details.php?id=1392">今期アニメ曜日別一覧</a></li>
+        <li class="c-footer-item"><a class="c-footer-link" href="/tag/details.php?id=5228">春アニメ</a></li>
+        <li class="c-footer-item"><a class="c-footer-link" href="/tag/details.php?id=5806">夏アニメ</a></li>
+        <li class="c-footer-item"><a class="c-footer-link" href="/tag/details.php?id=5947">秋アニメ</a></li>
+        <li class="c-footer-item"><a class="c-footer-link" href="/tag/details.php?id=6212">冬アニメ</a></li>
+        <li class="c-footer-item"><a class="c-footer-link" href="/anime/?p=1">アニメ記事一覧</a></li>
+        <li class="c-footer-item"><a class="c-footer-link" href="/seiyu/?p=1">声優記事一覧</a></li>
+        <li class="c-footer-item"><a class="c-footer-link" href="/tag/details.php?id=1393">男性声優/女性声優一覧</a></li>
+        <li class="c-footer-item"><a class="c-footer-link" href="/tag/details.php?id=3&subids=1393">声優×インタビュー</a></li>
+        <li class="c-footer-item"><a class="c-footer-link" href="/tag/details.php?id=1393&subids=2">声優×レポート</a></li>
+     </ul>            </div>
+            <div class="c-footer-col">
+              <div class="c-footer-heading">
+                <a href="#" onclick="return false;" role="button" data-toggle="collapse" data-parent="#footer_nav" data-target="#footer_nav_3">アニメイトタイムズについて</a>
+              </div>
+              <ul class="c-footer-list collapse" id="footer_nav_3">
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="/tos.php">利用規約</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animate.co.jp/privacy/" target="_blank">プライバシーポリシー</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="/cookie_policy/">クッキーポリシー</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="/comment_policy.php">コメントポリシー</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://req.qubo.jp/animatelab/form/ask">お問い合わせ</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="/faq/">よくあるご質問</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="/faq/sns.php">SNSアカウント一覧</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatetimes.com/ad/" target="_blank">広告掲載について</a></li>
+                <li class="c-footer-item"></li>
+              </ul>
+            </div>
+            <div class="c-footer-col">
+              <div class="c-footer-heading">
+                <a href="#" onclick="return false;" role="button" data-toggle="collapse" data-parent="#footer_nav" data-target="#footer_nav_4">アニメイトのWebサービス</a>
+              </div>
+              <ul class="c-footer-list collapse" id="footer_nav_4">
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animatebookstore.com/" target="_blank">アニメイトブックストア</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animategames.jp/" target="_blank">アニメイトゲームス</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://pokedora.com/" target="_blank">ポケットドラマCD</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://soreosu.com/?utm_source=atimes&utm_medium=referral&utm_campaign=atimes_footer" target="_blank">ソレオス</a></li>
+                <li class="c-footer-item"></li>
+              </ul>
+            </div>
+            <div class="c-footer-col">
+              <div class="c-footer-heading">
+                <a href="#" onclick="return false;" role="button" data-toggle="collapse" data-parent="#footer_nav" data-target="#footer_nav_5">会社案内</a>
+              </div>
+              <ul class="c-footer-list collapse" id="footer_nav_5">
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animate.co.jp/" target="_blank">アニメイト</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animate-onlineshop.jp/?utm_source=atimes&utm_medium=animate&utm_campaign=menu_footer" target="_blank">アニメイト通販</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animate.co.jp/shop/" target="_blank">アニメイト店舗</a></li>
+                <li class="c-footer-item"><a class="c-footer-link" name="menu_footer" href="https://www.animate.co.jp/company/" target="_blank">アニメイトグループ</a></li>
+              </ul>
+              <ul class="c-footer-license-list">
+                <li class="c-footer-item"><img src="https://img2.animatetimes.com/img/common/license01.png" width="35" height="35" alt="" style="">許諾番号<br>9005542009Y56084</li>
+                <li class="c-footer-item"><img src="https://img2.animatetimes.com/img/common/license02.png" width="35" height="35" alt="">許諾番号<br>9005542008Y30005</li>
+                <li class="c-footer-item"><img src="https://img2.animatetimes.com/img/common/license03.png" width="35" height="35" alt="">許諾番号<br>005542005Y31018</li>
+                <li class="c-footer-item"><img src="https://img2.animatetimes.com/img/common/license04.png" height="35" alt=""></li>
+              </ul>
+            </div>
+          </nav>
+          <div class="c-sns">
+            <div class="c-sns-title">FOLLOW US</div>
+            <ul class="c-sns-list">
+              <li class="c-sns-item"><a class="c-sns-link" href="https://twitter.com/animatetimes" target="_blank"><i class="fa-brands fa-x-twitter">
+              <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
+              </i></a></li>
+              <li class="c-sns-item"><a class="c-sns-link" href="https://www.youtube.com/channel/UCj-7fExtfepnDR3FrX5K2sg/" target="_blank"><i class="fab fa-youtube"></i></a></li>
+              <li class="c-sns-item"><a class="c-sns-link" href="https://www.facebook.com/animatetimes/?fref=ts" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+              <li class="c-sns-item"><a class="c-sns-link" href="https://www.instagram.com/animatetimes/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+            </ul>
+          </div>
+          <div class="c-footer-caption">アニメイトタイムズに掲載されているすべての画像、 <br>文章等の無断転載を禁じます</div>
+          <div class="c-footer-copyright"><small>Copyright(C) animate Corporation.<br>All rights reserved</small></div>
+        </div>
+      </div>
+            <span class="pop-toc">
+        <span class="pop-toc__label toggle-pop-toc">目次</span>
+        <i class="pop-toc__icon fas fa-list"></i>
+      </span>
+      <div class="pop-toc-content toggle-pop-toc">
+        <div class="pop-toc-content__inner">
+          <div class="pop-toc-content__heading">
+            <div class="pop-toc-content__heading-icon"><i class="fas fa-list"></i></div>
+            <div class="pop-toc-content__heading-label">目次</div>
+            <div class="pop-toc-content__heading-close toggle-pop-toc">
+              <i class="fas fa-times"></i>
+            </div>
+          </div>
+          <div class="pop-toc-content__body">
+            <ul class="toc-content"><li style=""><a href="#link1">『七つの大罪』作品一覧</a></li><li style=""><a href="#link2">キャラクター</a></li><li style=""><a href="#link3">関連動画</a></li><li style=""><a href="#link4">最新記事</a></li></ul>          </div>
+        </div>
+      </div>
+            <a class="c-pagetop" href="#pagetop" id="btn_pagetop"><i class="fas fa-angle-up"></i></a>
+    </div>
+    <div id="cookie-agreement" style="display: none;">
+      <span class="dismiss">&times;</span>
+      <div class="inner">
+        <div class="text">
+        当サイトでは、サイトの利便性向上のため、クッキー(Cookie)を使用しています。<br>
+        サイトのクッキー(Cookie)の使用に関しては、<a href="/cookie_policy/">「クッキーポリシー」</a>をお読みください。
+        </div>
+        <div class="buttons">
+          <a href="#" class="agree">同意する</a>
+        </div>
+      </div>
+    </div>
+    <div id="rtoaster_popup"></div>
+        <script type="text/javascript" src="//d-cache.microad.jp/js/td_at_access.js"></script>
+    <script type="text/javascript">microadTd.AT.start({});</script>
+    <script>
+    (async function (window) {
+      const yadsId = window.isMobile ? "90908_880233" : "23020_882210";
+
+      const phs = document.querySelectorAll(".yads-placeholder");
+      for (const ph of phs) {
+        if (ph.checkVisibility()) {
+          ph.setAttribute("id", "yads" + yadsId);
+          window.YJ_YADS = window.YJ_YADS || { tasks: [] };
+          let q;
+          window.YJ_YADS.tasks.push(
+            q = {
+              yads_ad_ds: yadsId,
+              yads_parent_element: "yads" + yadsId
+            }
+          );
+          break;
+        }
+      }
+      
+    })(window);
+    </script>
+
+    <script type="text/javascript">
+        data_from_php = {"share_title":"\u4e03\u3064\u306e\u5927\u7f6a | \u30a2\u30cb\u30e1\u30a4\u30c8\u30bf\u30a4\u30e0\u30ba","share_url":"https:\/\/www.animatetimes.com\/tag\/details.php?id=5119","tag_image_url":"https:\/\/www.animatetimes.com\/tag_img\/details.php?id=5119"};
+    </script>
+    <script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.animatetimes.com\/index.php?rest_route=\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.animatetimes.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.animatetimes.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.animatetimes.com/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.animatetimes.com/wp-content/plugins/gianism/assets/js/js.cookie.js?ver=2.1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var GianismHelper = {"confirmLabel":"Consent Required","btnConfirm":"Confirm","btnCancel":"Cancel"};
+var Gianism = {"admin":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.animatetimes.com/wp-content/plugins/gianism/assets/js/public-notice.js?ver=3.3.0'></script>
+<script type='text/javascript' src='https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/js/vendor.js?ver=1574690443'></script>
+<script type='text/javascript' src='https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/js/main.js?ver=1761122780'></script>
+<script type='text/javascript' src='https://www.animatetimes.com/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+                <script type="text/javascript">
+        var microadCompass = microadCompass || {};
+        microadCompass.queue = microadCompass.queue || [];
+        </script>
+        <script type="text/javascript" charset="UTF-8" src="//j.microad.net/js/compass.js" onload="new microadCompass.AdInitializer().initialize();" async=""></script>
+                <div id="rt_tag_history_products">
+            <div id="rt_tag_history_products_1"></div>
+            <div id="rt_tag_history_products_2"></div>
+            <div id="rt_tag_history_products_3"></div>
+            <div id="rt_tag_history_products_4"></div>
+            <div id="rt_tag_history_products_5"></div>
+        </div>
+                <script>
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        ga('create', 'UA-75178649-5', 'auto', 'system');
+        </script>
+            <div class="c-banner-common c-banner-common--w300" id="rt-popup-ad-inventory" style="display: none;">
+        <div style="background-color:#FFFFFF; position: relative; width:300px; height:250px; text-align: center; margin: 0 auto; border:1px solid #C0BFC0;" class="inject-recommend-result">
+    <a target="_blank" name="" class="inject-link" style="position:absolute; top:0; left:0; height:100%; width:100%;" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3339882&amp;lstid=AMAUTOTRACK&amp;utm_source=atimes&amp;utm_medium=animate&amp;utm_campaign=times_sales_3339882">
+        <img alt="アニメイト通販おすすめ商品のご紹介" style="width:auto; height:30px; display:block; margin:0 auto; margin-top:10px;" src="https://img2.animatetimes.com/2019/03/5c85c69f02fdf_025dda870061254571083b03385e5137.png">
+        <img alt="" style="width:280px; height:155px; display:block; margin:0 auto; margin-top:5px; object-fit:contain;  visibility: hidden; " class="inject-image-src" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12041307_693108f643688.jpg&amp;width=&amp;height=&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0"  >
+        <div class="c-product__title inject-name" style="width:250px; margin: 0 auto; margin-top:5px; font-size: 10px; line-height: 1.2em; visibility: hidden; ">
+            【グッズ-シール】たべっ子どうぶつ THE MOVIE Cherigem Sticker ビスケット        </div>
+    </a>
+</div>
+                </div>
+        <script defer type="text/javascript" src="//js.rtoaster.jp/Rtoaster.Popup.js"></script>
+        <script defer>
+            $(function(){
+                //見てる記事（一つ）
+                Rtoaster.item('');
+                //購買記事（複数）
+                Rtoaster.track(JSON.parse('[]'));
+
+                //カテゴリ絞り込み
+                Rtoaster.category(JSON.parse('["","",""]'));
+                //こっちは閲覧
+                Rtoaster.item(JSON.parse('[]'));
+
+                                document.Recommend.ids.forEach(function(value,index){
+                    if($('#'+value).length>0){
+                        Rtoaster.listen(value, function(e) {
+                           document.Recommend.callback_function(value);
+                        });
+                    }
+                });
+                var tagRecommendProducts = [];
+                Rtoaster.callback = function (elem) {
+                    if (elem === 'rt_tag_history_products') {
+                        $("#rt_tag_history_products").children().each(function (c) {
+                            var productsInElement = JSON.parse($(this).text() || "[]");
+                            for (var i in productsInElement) {
+                                if (productsInElement[i] && productsInElement[i].id) {
+                                    tagRecommendProducts.push(productsInElement[i]);
+                                }
+                            }
+                        });
+                    }
+                    if (elem === undefined) {
+                        // 最後のコールバック
+                        if (tagRecommendProducts.length) {
+                            $(".inject-recommend-result").each(function () {
+                                var product = tagRecommendProducts[0];
+                                var lsUrl = "https://www.animate-onlineshop.jp/products/detail.php?product_id=" + product.id;
+                                var link = "https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=" + lsUrl + "&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_sales-" + product.id;
+                                var name = product.name;
+                                var imageSrc = "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=" + product.image_name + "&width=&height=&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0";
+                                $(this).find(".inject-link").attr("href", link);
+                                $(this).find(".inject-image-src").attr("src", "").attr("src", imageSrc);
+                                $(this).find(".inject-name").text(name);
+                            });
+                        }
+                        $(".inject-recommend-result").find(".inject-link, .inject-image-src, .inject-name").css("visibility", "visible");
+                    }
+                };
+                Rtoaster.Popup.register("rtoaster_popup");
+                // Rtoaster.Popup.closeIconSrc = "https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/common/popup_close.png";
+                document.Recommend.ids.push("rtoaster_popup");
+                window.addEventListener('message', function (evt) {
+                    if (evt.data !== 'rt-popup-load-ad-inventory') {
+                        return;
+                    }
+                    var src = $("#rt-popup-ad-inventory");
+                    var dest = $("#rt-ad-inventory");
+                    dest.append(src);
+                    src.show();
+                }, false);
+                window.addEventListener('message', function (evt) {
+                    if (!("" + evt.data).match(/^rt-popup-load-ad-inventory-/)) {
+                        return;
+                    }
+                    !function (evt) {
+                        ga('system.send', 'event', 'popup', 'beforeload', evt.data);
+                        var loadIfReady = function () {
+                            var iv = $("#rt-ad-inventory");
+                            if (iv.closest("#rtoaster_popup").length) {
+                                iv.load(
+                                    '/popup/' + evt.data.replace(/^rt-popup-load-ad-inventory-/, '') + '/',
+                                    function (data, status) {
+                                        if ("error" === status) {
+                                            ga('system.send', 'event', 'popup', 'loadfailed', evt.data);
+                                            Rtoaster.Popup.close("rtoaster_popup", true);
+                                        } else {
+                                            ga('system.send', 'event', 'popup', 'loaded', evt.data);
+                                            iv.on('click', function () {
+                                                Rtoaster.click('rtoaster_popup');
+                                                ga('system.send', 'event', 'popup', 'click', evt.data);
+                                            });
+                                        }
+                                    }
+                                );
+                            } else {
+                                setTimeout(loadIfReady, 200);
+                            }
+                        };
+                        loadIfReady();
+                    }(evt);
+                }, false);
+                Rtoaster.recommendNow.apply(this, document.Recommend.ids);
+
+                let code = '';
+                if(code){
+                    var target = $('.l-content-main');
+                    scrollInViewElement(target);
+
+                    function scrollInViewElement(target) {
+                      var scrollIn = function(event) {
+                        var targetTop = target[0].getBoundingClientRect().top;
+                        var targetBottom = target[0].getBoundingClientRect().bottom;
+                        if (targetBottom <= window.innerHeight) {
+                            Rtoaster.track({
+                                'subtotal': 1,
+                                'item1_code': '',
+                                'item1_price': 1,
+                                'item1_qty': 1
+                            });
+                          window.removeEventListener('scroll', scrollIn, false);
+                        }
+
+                      };
+                      window.addEventListener('scroll', scrollIn, false);
+                    }
+                }
+            });
+        </script>
+          </body>
+</html>
+
+<!-- page cached by KUSANAGI. Cache created : 16:31:19(GMT). Expire : 16:46:19(GMT). -->
+<!-- CacheID : b80a5a8848d1ee543e769b77fdef7bbc -->

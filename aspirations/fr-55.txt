@@ -1,0 +1,1399 @@
+HTTP/2 200 
+server: nginx
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+cache-control: max-age=0, must-revalidate, private
+date: Sat, 03 Jan 2026 16:45:35 GMT
+content-security-policy: frame-ancestors 'self'
+expires: Sat, 03 Jan 2026 16:45:35 GMT
+set-cookie: JwStickySession=szytizZEekfTzri3Uxkb8mn7rRJQrTby; expires=Mon, 02 Feb 2026 16:45:35 GMT; Max-Age=2592000; path=/; secure; httponly
+cache-control: no-transform
+x-ua-compatible: IE=Edge
+x-content-type-options: nosniff
+
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="canonical" href="https://www.alliancedutroneetdelautel.fr/le-liberalisme-est-un-peche-de-don-sarda-y-salvany-un-livre-a-lire-et-relire">
+        <meta property="og:title" content="La conduite anti-liberale à tenir d&#039;après l&#039;auteur du livre &quot;Le libéralisme est un péché&quot;.">
+        <meta property="og:url" content="https://www.alliancedutroneetdelautel.fr/le-liberalisme-est-un-peche-de-don-sarda-y-salvany-un-livre-a-lire-et-relire">
+        <base href="https://www.alliancedutroneetdelautel.fr/">
+        <meta name="description" property="og:description" content="Le libéralisme est un véritable fléau touchant même les catholiques dits traditionnalistes qui ont besoin comme les autres d&#039;un remède comme le livre &quot;Le libéralisme est un péché&quot; ou le Syllabus de Pie IX en conséquence il leur est proposé cet article qui reprend des exemples de conduite tirés du &quot;Libéralisme est un péché&quot;.">
+                <script nonce="4da5e42ac2d66096181291a6364209f5">
+            
+            window.JOUWWEB = window.JOUWWEB || {};
+            window.JOUWWEB.application = window.JOUWWEB.application || {};
+            window.JOUWWEB.application = {"backends":[{"domain":"jouwweb.nl","freeDomain":"jouwweb.site"},{"domain":"webador.com","freeDomain":"webadorsite.com"},{"domain":"webador.de","freeDomain":"webadorsite.com"},{"domain":"webador.fr","freeDomain":"webadorsite.com"},{"domain":"webador.es","freeDomain":"webadorsite.com"},{"domain":"webador.it","freeDomain":"webadorsite.com"},{"domain":"jouwweb.be","freeDomain":"jouwweb.site"},{"domain":"webador.ie","freeDomain":"webadorsite.com"},{"domain":"webador.co.uk","freeDomain":"webadorsite.com"},{"domain":"webador.at","freeDomain":"webadorsite.com"},{"domain":"webador.be","freeDomain":"webadorsite.com"},{"domain":"webador.ch","freeDomain":"webadorsite.com"},{"domain":"webador.ch","freeDomain":"webadorsite.com"},{"domain":"webador.mx","freeDomain":"webadorsite.com"},{"domain":"webador.com","freeDomain":"webadorsite.com"},{"domain":"webador.dk","freeDomain":"webadorsite.com"},{"domain":"webador.se","freeDomain":"webadorsite.com"},{"domain":"webador.no","freeDomain":"webadorsite.com"},{"domain":"webador.fi","freeDomain":"webadorsite.com"},{"domain":"webador.ca","freeDomain":"webadorsite.com"},{"domain":"webador.ca","freeDomain":"webadorsite.com"},{"domain":"webador.pl","freeDomain":"webadorsite.com"},{"domain":"webador.com.au","freeDomain":"webadorsite.com"},{"domain":"webador.nz","freeDomain":"webadorsite.com"}],"editorLocale":"fr-FR","editorTimezone":"Europe\/Brussels","editorLanguage":"fr","analytics4TrackingId":"G-E6PZPGE4QM","analyticsDimensions":[],"backendDomain":"www.webador.fr","backendShortDomain":"webador.fr","backendKey":"webador-fr","freeWebsiteDomain":"webadorsite.com","noSsl":false,"build":{"reference":"2195fa4"},"linkHostnames":["www.jouwweb.nl","www.webador.com","www.webador.de","www.webador.fr","www.webador.es","www.webador.it","www.jouwweb.be","www.webador.ie","www.webador.co.uk","www.webador.at","www.webador.be","www.webador.ch","fr.webador.ch","www.webador.mx","es.webador.com","www.webador.dk","www.webador.se","www.webador.no","www.webador.fi","www.webador.ca","fr.webador.ca","www.webador.pl","www.webador.com.au","www.webador.nz"],"assetsUrl":"https:\/\/assets.jwwb.nl","loginUrl":"https:\/\/www.webador.fr\/connexion","publishUrl":"https:\/\/www.webador.fr\/v2\/website\/4845602\/publish-proxy","adminUserOrIp":false,"pricing":{"plans":{"lite":{"amount":"700","currency":"EUR"},"pro":{"amount":"1200","currency":"EUR"},"business":{"amount":"2400","currency":"EUR"}},"yearlyDiscount":{"price":{"amount":"0","currency":"EUR"},"ratio":0,"percent":"0\u00a0%","discountPrice":{"amount":"0","currency":"EUR"},"termPricePerMonth":{"amount":"0","currency":"EUR"},"termPricePerYear":{"amount":"0","currency":"EUR"}}},"hcUrl":{"add-product-variants":"https:\/\/help.webador.com\/hc\/fr\/articles\/29426751649809","basic-vs-advanced-shipping":"https:\/\/help.webador.com\/hc\/fr\/articles\/29426731685777","html-in-head":"https:\/\/help.webador.com\/hc\/fr\/articles\/29426689990033","link-domain-name":"https:\/\/help.webador.com\/hc\/fr\/articles\/29426688803345","optimize-for-mobile":"https:\/\/help.webador.com\/hc\/fr\/articles\/29426707033617","seo":"https:\/\/help.webador.com\/hc\/fr\/categories\/29387178511377","transfer-domain-name":"https:\/\/help.webador.com\/hc\/fr\/articles\/29426715688209","website-not-secure":"https:\/\/help.webador.com\/hc\/fr\/articles\/29426706659729"}};
+            window.JOUWWEB.brand = {"type":"webador","name":"Webador","domain":"Webador.fr","supportEmail":"support@webador.fr"};
+                    
+                window.JOUWWEB = window.JOUWWEB || {};
+                window.JOUWWEB.websiteRendering = {"locale":"fr-FR","timezone":"Europe\/Brussels","routes":{"api\/upload\/product-field":"\/_api\/upload\/product-field","checkout\/cart":"\/cart","payment":"\/complete-order\/:publicOrderId","payment\/forward":"\/complete-order\/:publicOrderId\/forward","public-order":"\/order\/:publicOrderId","checkout\/authorize":"\/cart\/authorize\/:gateway","wishlist":"\/wishlist"}};
+                                                    window.JOUWWEB.website = {"id":4845602,"locale":"fr-FR","enabled":true,"title":"Alliance du tr\u00f4ne et de l'autel","hasTitle":true,"roleOfLoggedInUser":null,"ownerLocale":"fr-FR","plan":"pro","freeWebsiteDomain":"webadorsite.com","backendKey":"webador-be","currency":"EUR","defaultLocale":"fr-FR","url":"https:\/\/www.alliancedutroneetdelautel.fr\/","homepageSegmentId":20169630,"category":"website","isOffline":false,"isPublished":true,"locales":["fr-FR"],"allowed":{"ads":false,"credits":true,"externalLinks":true,"slideshow":true,"customDefaultSlideshow":true,"hostedAlbums":true,"moderators":true,"mailboxQuota":1,"statisticsVisitors":true,"statisticsDetailed":true,"statisticsMonths":1,"favicon":true,"password":true,"freeDomains":0,"freeMailAccounts":1,"canUseLanguages":false,"fileUpload":true,"legacyFontSize":false,"webshop":true,"products":10,"imageText":false,"search":true,"audioUpload":true,"videoUpload":0,"allowDangerousForms":false,"allowHtmlCode":true,"mobileBar":true,"sidebar":false,"poll":false,"allowCustomForms":true,"allowBusinessListing":true,"allowCustomAnalytics":true,"allowAccountingLink":true,"digitalProducts":false,"sitemapElement":false},"mobileBar":{"enabled":false,"theme":"accent","email":{"active":true},"location":{"active":true},"phone":{"active":true},"whatsapp":{"active":false},"social":{"active":true,"network":"facebook"}},"webshop":{"enabled":false,"currency":"EUR","taxEnabled":false,"taxInclusive":true,"vatDisclaimerVisible":false,"orderNotice":null,"orderConfirmation":null,"freeShipping":false,"freeShippingAmount":"0.00","shippingDisclaimerVisible":false,"pickupAllowed":false,"couponAllowed":false,"detailsPageAvailable":false,"socialMediaVisible":true,"termsPage":null,"termsPageUrl":null,"extraTerms":null,"pricingVisible":false,"orderButtonVisible":false,"shippingAdvanced":false,"shippingAdvancedBackEnd":false,"soldOutVisible":false,"backInStockNotificationEnabled":false,"canAddProducts":true,"nextOrderNumber":1,"allowedServicePoints":[],"sendcloudConfigured":false,"sendcloudFallbackPublicKey":"a3d50033a59b4a598f1d7ce7e72aafdf","taxExemptionAllowed":false,"invoiceComment":null,"emptyCartVisible":false,"minimumOrderPrice":null,"productNumbersEnabled":false,"wishlistEnabled":true,"hideTaxOnCart":false},"isTreatedAsWebshop":false};                            window.JOUWWEB.cart = {"products":[],"coupon":null,"shippingCountryCode":null,"shippingChoice":null,"breakdown":[]};                            window.JOUWWEB.scripts = ["website-rendering\/slideshow"];                        window.parent.JOUWWEB.colorPalette = window.JOUWWEB.colorPalette;
+        </script>
+                <title>La conduite anti-liberale à tenir d&#039;après l&#039;auteur du livre &quot;Le libéralisme est un péché&quot;.</title>
+                                                                            <meta property="og:image" content="https&#x3A;&#x2F;&#x2F;primary.jwwb.nl&#x2F;public&#x2F;l&#x2F;b&#x2F;d&#x2F;temp-bsqivlvdzhfpuumfhrgp&#x2F;item318821-high-2r7iew.png">
+                                    <meta name="twitter:card" content="summary_large_image">
+                        <meta property="twitter:image" content="https&#x3A;&#x2F;&#x2F;primary.jwwb.nl&#x2F;public&#x2F;l&#x2F;b&#x2F;d&#x2F;temp-bsqivlvdzhfpuumfhrgp&#x2F;item318821-high-2r7iew.png">
+                                                    <script src="https://plausible.io/js/script.manual.js" nonce="4da5e42ac2d66096181291a6364209f5" data-turbo-track="reload" defer data-domain="shard2.jouwweb.nl"></script>
+<link rel="stylesheet" type="text/css" href="https://gfonts.jwwb.nl/css?display=fallback&amp;family=Open+Sans%3A400%2C700%2C400italic%2C700italic" nonce="4da5e42ac2d66096181291a6364209f5" data-turbo-track="dynamic">
+<script src="https://assets.jwwb.nl/assets/build/website-rendering/fr-FR.js?bust=d22e184a4e9021e41ae8" nonce="4da5e42ac2d66096181291a6364209f5" data-turbo-track="reload" defer></script>
+<script src="https://assets.jwwb.nl/assets/website-rendering/runtime.d9e65c74d3b5e295ad0f.js?bust=5de238b33c4b1a20f3c0" nonce="4da5e42ac2d66096181291a6364209f5" data-turbo-track="reload" defer></script>
+<script src="https://assets.jwwb.nl/assets/website-rendering/103.3d75ec3708e54af67f50.js?bust=cb0aa3c978e146edbd0d" nonce="4da5e42ac2d66096181291a6364209f5" data-turbo-track="reload" defer></script>
+<script src="https://assets.jwwb.nl/assets/website-rendering/main.2f7c09906f189d174f8d.js?bust=848e4e4e936bd3ccd39b" nonce="4da5e42ac2d66096181291a6364209f5" data-turbo-track="reload" defer></script>
+<link rel="preload" href="https://assets.jwwb.nl/assets/website-rendering/styles.f78188d346eb1faf64a5.css?bust=7a6e6f2cb6becdc09bb5" as="style">
+<link rel="preload" href="https://assets.jwwb.nl/assets/website-rendering/fonts/icons-website-rendering/font/website-rendering.woff2?bust=bd2797014f9452dadc8e" as="font" crossorigin>
+<link rel="preconnect" href="https://gfonts.jwwb.nl">
+<link rel="stylesheet" type="text/css" href="https://assets.jwwb.nl/assets/website-rendering/styles.f78188d346eb1faf64a5.css?bust=7a6e6f2cb6becdc09bb5" nonce="4da5e42ac2d66096181291a6364209f5" data-turbo-track="dynamic">
+<link rel="preconnect" href="https://assets.jwwb.nl">
+<link rel="stylesheet" type="text/css" href="https://primary.jwwb.nl/public/l/b/d/temp-bsqivlvdzhfpuumfhrgp/style.css?bust=1767260813" nonce="4da5e42ac2d66096181291a6364209f5" data-turbo-track="dynamic">    </head>
+    <body
+        id="top"
+        class="jw-is-slideshow jw-header-is-text jw-is-segment-page jw-is-frontend jw-is-no-sidebar jw-is-no-messagebar jw-is-no-touch-device jw-is-no-mobile"
+                                    data-jouwweb-page="22226502"
+                                                data-jouwweb-segment-id="22226502"
+                                                data-jouwweb-segment-type="page"
+                                                data-template-threshold="1020"
+                                                data-template-name="clean"
+                            itemscope
+        itemtype="https://schema.org/WebPage"
+    >
+                                    <meta itemprop="url" content="https://www.alliancedutroneetdelautel.fr/le-liberalisme-est-un-peche-de-don-sarda-y-salvany-un-livre-a-lire-et-relire">
+        <div class="jw-background"></div>
+        <div class="jw-body">
+            <div class="jw-mobile-menu jw-mobile-is-text js-mobile-menu">
+            <button
+            type="button"
+            class="jw-mobile-menu__button jw-mobile-search-button"
+            aria-label="Rechercher dans le site"
+        >
+            <span class="jw-icon-search"></span>
+        </button>
+        <div class="jw-mobile-header jw-mobile-header--text">
+        <a            class="jw-mobile-header-content"
+                            href="/"
+                        >
+                                        <div class="jw-mobile-text">
+                    <span style="display: inline-block; font-size: 16px;"><span style="display: inline-block; font-size: 16px;"> <span style="display: inline-block; font-size: 16px;"><span style="display: inline-block; font-size: 16px;"> <span style="display: inline-block; font-size: 16px;"><span style="display: inline-block; font-size: 16px;"> <span style="display: inline-block; font-size: 16px;"><span style="display: inline-block; font-size: 20px;"> Alliance du tr&ocirc;ne et de l'autel </span></span> </span></span> </span></span> </span></span>                </div>
+                    </a>
+    </div>
+
+    
+            <button
+            type="button"
+            class="jw-mobile-menu__button jw-mobile-toggle"
+            aria-label="Afficher/Masquer le menu"
+        >
+            <span class="jw-icon-burger"></span>
+        </button>
+    </div>
+    <div class="jw-mobile-menu-search jw-mobile-menu-search--hidden">
+        <form
+            action="/search"
+            method="get"
+            class="jw-mobile-menu-search__box"
+        >
+            <input
+                type="text"
+                name="q"
+                value=""
+                placeholder="Recherche en cours..."
+                class="jw-mobile-menu-search__input"
+            >
+            <button type="submit" class="jw-btn jw-btn--style-flat jw-mobile-menu-search__button">
+                <span class="website-rendering-icon-search"></span>
+            </button>
+            <button type="button" class="jw-btn jw-btn--style-flat jw-mobile-menu-search__button js-cancel-search">
+                <span class="website-rendering-icon-cancel"></span>
+            </button>
+        </form>
+    </div>
+            <div class="topmenu">
+    <header>
+        <div class="topmenu-inner js-topbar-content-container">
+            <div class="jw-header-logo">
+        <div
+    class="jw-header jw-header-title-container jw-header-text jw-header-text-toggle"
+    data-stylable="true"
+>
+    <a        id="jw-header-title"
+        class="jw-header-title"
+                    href="/"
+            >
+        <span style="display: inline-block; font-size: 16px;"><span style="display: inline-block; font-size: 16px;"> <span style="display: inline-block; font-size: 16px;"><span style="display: inline-block; font-size: 16px;"> <span style="display: inline-block; font-size: 16px;"><span style="display: inline-block; font-size: 16px;"> <span style="display: inline-block; font-size: 16px;"><span style="display: inline-block; font-size: 20px;"> Alliance du tr&ocirc;ne et de l'autel </span></span> </span></span> </span></span> </span></span>    </a>
+</div>
+</div>
+            <nav class="menu jw-menu-copy">
+                <ul
+    id="jw-menu"
+    class="jw-menu jw-menu-horizontal"
+            >
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/"                                            data-page-link-id="20169630"
+                            >
+                <span class="">
+            Accueil        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/l-imposture-david-livingstone"                                            data-page-link-id="20302803"
+                            >
+                <span class="">
+            L&#039;IMPOSTURE DAVID LIVINGSTONE        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/critique-catholique-du-livre-refaire-un-peuple-pour-un-populisme-radical-de-julien-langella"                                            data-page-link-id="20451938"
+                            >
+                <span class="">
+            Critique catholique du livre &quot;Refaire un peuple. Pour un populisme radical&quot; De Julien Langella        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/la-malediction-de-jacques-de-mollay-validee-par-hillard-et-gregor-van-der-eyken"                                            data-page-link-id="20518059"
+                            >
+                <span class="">
+            La malédiction de Jacques De Mollay validée par Hillard et gregor Van der Eyken        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/le-spiritualisme-subversif-colloque-de-la-societe-augustin-barruel-des-24-25-26-aout-1982"                                            data-page-link-id="20637397"
+                            >
+                <span class="">
+            Le spiritualisme subversif. Colloque de la société Augustin Barruel des 24,25,26 août 1982        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/le-mythe-de-la-bonne-gnose"                                            data-page-link-id="20691755"
+                            >
+                <span class="">
+            Le mythe de la bonne gnose        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/gnose-chretienne-et-gnose-anti-chretienne"                                            data-page-link-id="20741674"
+                            >
+                <span class="">
+            GNOSE CHRÉTIENNE ET GNOSE ANTI-CHRETIENNE        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/la-gnose-traditionnaliste-du-professeur-borella"                                            data-page-link-id="20812058"
+                            >
+                <span class="">
+            LA GNOSE &quot;TRADITIONNALISTE&quot; DU PROFESSEUR BORELLA        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/la-nouvelle-droite-et-ses-fondements-doctrinaux"                                            data-page-link-id="20836904"
+                            >
+                <span class="">
+            LA NOUVELLE DROITE ET SES FONDEMENTS DOCTRINAUX        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/exoterisme-et-esoterisme"                                            data-page-link-id="20928469"
+                            >
+                <span class="">
+            Éxotérisme et ésotérisme        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/serge-de-beketch-l-ami-de-resistance-adepte-de-l-esoterisme"                                            data-page-link-id="21075204"
+                            >
+                <span class="">
+            Serge De Beketch l&#039;ami de résistance adepte de l&#039;ésotérisme        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/la-trahison-des-inities-d-alain-pascal-ou-l-insurrection-d-alain-pascal-contre-les-mauvais-inities"                                            data-page-link-id="21516060"
+                            >
+                <span class="">
+            La trahison des initiés d&#039;Alain Pascal ou l&#039;insurrection d&#039;Alain Pascal contre &quot;les mauvais initiés&quot;        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/critique-du-livre-la-pre-kabbale-d-alain-pascal"                                            data-page-link-id="22132436"
+                            >
+                <span class="">
+            Critique du livre &quot;La pré-kabbale&quot; d&#039;Alain Pascal.        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item jw-menu-is-active"
+>
+        <a        class="jw-menu-link js-active-menu-item"
+        href="/le-liberalisme-est-un-peche-de-don-sarda-y-salvany-un-livre-a-lire-et-relire"                                            data-page-link-id="22226502"
+                            >
+                <span class="">
+            Le libéralisme est un péché de Don Sarda Y Salvany, un livre à lire et relire.        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/interview-d-etienne-couvert-sur-la-gnose-pour-le-journal-de-rome-et-d-ailleurs-par-yves-anne-laurens"                                            data-page-link-id="22807233"
+                            >
+                <span class="">
+            Interview d&#039;Étienne Couvert sur la gnose pour le journal De Rome et d&#039;ailleurs par Yves-Anne Laurens        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/arnaud-guyot-jeannin-et-le-cercle-sol-invictus-article-de-la-revue-de-rome-et-d-ailleurs-1999"                                            data-page-link-id="22812772"
+                            >
+                <span class="">
+            Arnaud Guyot-Jeannin et le cercle sol invictus. Article de la revue De Rome et d&#039;ailleurs. (1999)        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/des-gens-d-extreme-droite-presents-chez-les-francs-macons-le-journaliste-christophe-bourseiller-temoigne"                                            data-page-link-id="22897002"
+                            >
+                <span class="">
+            Des gens &quot;d&#039;extrême droite&quot; présents chez les francs-maçons, le journaliste Christophe Bourseiller t        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/le-fascisme-un-culte-de-la-nation-soutenu-par-les-loges"                                            data-page-link-id="22975199"
+                            >
+                <span class="">
+            Le fascisme un culte de la nation soutenu par les loges        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/1969-1984-quinze-ans-de-guerre-religieuse-contre-la-messe-traditionnelle"                                            data-page-link-id="23226608"
+                            >
+                <span class="">
+            1969-1984 Quinze ans de guerre religieuse contre la messe traditionnelle.        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/de-jeune-nation-au-catholicisme-identitaire-la-nouvelle-droite-a-la-trace"                                            data-page-link-id="24751179"
+                            >
+                <span class="">
+            De Jeune Nation au catholicisme identitaire. La nouvelle droite à la trace.        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/les-ecrits-de-rome-une-revue-introduisant-le-paganisme-dans-la-formation-des-jeunes-catholiques"                                            data-page-link-id="25039183"
+                            >
+                <span class="">
+            Les écrits de Rome, une revue introduisant le paganisme dans la formation des jeunes catholiques.        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/le-parti-de-la-france-vous-souhaite-un-bon-solstice-d-hiver-coup-de-projecteur-sur-ce-parti"                                            data-page-link-id="25718973"
+                            >
+                <span class="">
+            Le parti de la France vous souhaite un bon solstice d&#039;hiver. Coup de projecteur sur ce parti.        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/introduction-du-paganisme-dans-la-formation-des-jeunes-catholiques-le-cas-academia-christiana"                                            data-page-link-id="26107976"
+                            >
+                <span class="">
+            Introduction du paganisme dans la formation des jeunes catholiques: le cas Academia Christiana.        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/promotion-du-gnostique-jean-borella-dans-la-revue-dite-catholique-monde-vie"                                            data-page-link-id="26790377"
+                            >
+                <span class="">
+            Promotion du gnostique Jean Borella dans la revue dite catholique Monde &amp; vie.        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/discours-gnostique-de-david-engels-lors-d-une-udt-d-academia-christiana"                                            data-page-link-id="27177599"
+                            >
+                <span class="">
+            Discours gnostique de David Engels lors d&#039;une UDT d&#039;académia christiana.        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/encore-un-oracle-en-conference-d-udt-academia-christiana"                                            data-page-link-id="27379529"
+                            >
+                <span class="">
+            Encore un oracle en conférence d&#039;UDT academia christiana!        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/le-circus-du-grand-monarque"                                            data-page-link-id="27615837"
+                            >
+                <span class="">
+            LE CIRCUS DU GRAND MONARQUE        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/enquete-sur-le-reseau-cathonazi-qui-sont-ces-epouvantails-de-la-tradition"                                            data-page-link-id="28734726"
+                            >
+                <span class="">
+            Enquête sur le réseau 《cathonazi》. Qui sont ces épouvantails de la tradition?        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/une-introduction-a-l-oeuvre-de-jean-borella-par-ses-disciples"                                            data-page-link-id="29928353"
+                            >
+                <span class="">
+            Une introduction à l&#039;œuvre de Jean Borella par ses disciples        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/une-republique-couronnee-par-un-orleans-une-idee-de-de-gaulle-qui-refait-surface"                                            data-page-link-id="30296843"
+                            >
+                <span class="">
+            Une République couronnée par un Orléans. Une idée de de Gaulle qui refait surface.        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/paul-marie-couteaux-l-homme-d-influence-de-la-droite-souverainiste"                                            data-page-link-id="30401253"
+                            >
+                <span class="">
+            Paul-Marie Coûteaux, l&#039;homme d&#039;influence de la droite souverainiste.        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/le-pere-viot-est-il-toujours-franc-macon"                                            data-page-link-id="30585454"
+                            >
+                <span class="">
+            Le Père Viot est-il toujours franc-maçon?        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/polemique-autour-du-film-sacre-coeur-la-regie-de-la-sncf-et-de-la-ratp-refuse-une-affiche-du-film"                                            data-page-link-id="30739295"
+                            >
+                <span class="">
+            Polémique autour du film Sacré-Cœur. La régie de la SNCF et de la RATP refuse une affiche du film.        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/greg-calto-un-adepte-de-la-gnose-de-borella-promu-par-differents-medias-et-influenceurs"                                            data-page-link-id="31739286"
+                            >
+                <span class="">
+            Greg Calto,  un adepte de la gnose de Borella promu par différents médias et influenceurs        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/l-association-tradition-famille-propriete-une-secte-influente-et-peu-connue"                                            data-page-link-id="31951097"
+                            >
+                <span class="">
+            L&#039;association Tradition famille propriété, une secte influente et peu connue.        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/le-piege-du-liberalisme-politique"                                            data-page-link-id="32036138"
+                            >
+                <span class="">
+            Le piège du libéralisme politique        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item jw-menu-search-item"
+>
+        <button        class="jw-menu-link jw-menu-link--icon jw-text-button"
+                                                                    title="Rechercher"
+            >
+                                <span class="website-rendering-icon-search"></span>
+                            <span class="hidden-desktop-horizontal-menu">
+            Rechercher        </span>
+            </button>
+                
+            <div class="jw-popover-container jw-popover-container--inline is-hidden">
+                <div class="jw-popover-backdrop"></div>
+                <div class="jw-popover">
+                    <div class="jw-popover__arrow"></div>
+                    <div class="jw-popover__content jw-section-white">
+                        <form  class="jw-search" action="/search" method="get">
+                            
+                            <input class="jw-search__input" type="text" name="q" value="" placeholder="Recherche en cours..." >
+                            <button class="jw-search__submit" type="submit">
+                                <span class="website-rendering-icon-search"></span>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+                        </li>
+    
+    </ul>
+
+    <script nonce="4da5e42ac2d66096181291a6364209f5" id="jw-mobile-menu-template" type="text/template">
+        <ul id="jw-menu" class="jw-menu jw-menu-horizontal">
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/"                                            data-page-link-id="20169630"
+                            >
+                <span class="">
+            Accueil        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/l-imposture-david-livingstone"                                            data-page-link-id="20302803"
+                            >
+                <span class="">
+            L&#039;IMPOSTURE DAVID LIVINGSTONE        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/critique-catholique-du-livre-refaire-un-peuple-pour-un-populisme-radical-de-julien-langella"                                            data-page-link-id="20451938"
+                            >
+                <span class="">
+            Critique catholique du livre &quot;Refaire un peuple. Pour un populisme radical&quot; De Julien Langella        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/la-malediction-de-jacques-de-mollay-validee-par-hillard-et-gregor-van-der-eyken"                                            data-page-link-id="20518059"
+                            >
+                <span class="">
+            La malédiction de Jacques De Mollay validée par Hillard et gregor Van der Eyken        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/le-spiritualisme-subversif-colloque-de-la-societe-augustin-barruel-des-24-25-26-aout-1982"                                            data-page-link-id="20637397"
+                            >
+                <span class="">
+            Le spiritualisme subversif. Colloque de la société Augustin Barruel des 24,25,26 août 1982        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/le-mythe-de-la-bonne-gnose"                                            data-page-link-id="20691755"
+                            >
+                <span class="">
+            Le mythe de la bonne gnose        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/gnose-chretienne-et-gnose-anti-chretienne"                                            data-page-link-id="20741674"
+                            >
+                <span class="">
+            GNOSE CHRÉTIENNE ET GNOSE ANTI-CHRETIENNE        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/la-gnose-traditionnaliste-du-professeur-borella"                                            data-page-link-id="20812058"
+                            >
+                <span class="">
+            LA GNOSE &quot;TRADITIONNALISTE&quot; DU PROFESSEUR BORELLA        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/la-nouvelle-droite-et-ses-fondements-doctrinaux"                                            data-page-link-id="20836904"
+                            >
+                <span class="">
+            LA NOUVELLE DROITE ET SES FONDEMENTS DOCTRINAUX        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/exoterisme-et-esoterisme"                                            data-page-link-id="20928469"
+                            >
+                <span class="">
+            Éxotérisme et ésotérisme        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/serge-de-beketch-l-ami-de-resistance-adepte-de-l-esoterisme"                                            data-page-link-id="21075204"
+                            >
+                <span class="">
+            Serge De Beketch l&#039;ami de résistance adepte de l&#039;ésotérisme        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/la-trahison-des-inities-d-alain-pascal-ou-l-insurrection-d-alain-pascal-contre-les-mauvais-inities"                                            data-page-link-id="21516060"
+                            >
+                <span class="">
+            La trahison des initiés d&#039;Alain Pascal ou l&#039;insurrection d&#039;Alain Pascal contre &quot;les mauvais initiés&quot;        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/critique-du-livre-la-pre-kabbale-d-alain-pascal"                                            data-page-link-id="22132436"
+                            >
+                <span class="">
+            Critique du livre &quot;La pré-kabbale&quot; d&#039;Alain Pascal.        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item jw-menu-is-active"
+>
+        <a        class="jw-menu-link js-active-menu-item"
+        href="/le-liberalisme-est-un-peche-de-don-sarda-y-salvany-un-livre-a-lire-et-relire"                                            data-page-link-id="22226502"
+                            >
+                <span class="">
+            Le libéralisme est un péché de Don Sarda Y Salvany, un livre à lire et relire.        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/interview-d-etienne-couvert-sur-la-gnose-pour-le-journal-de-rome-et-d-ailleurs-par-yves-anne-laurens"                                            data-page-link-id="22807233"
+                            >
+                <span class="">
+            Interview d&#039;Étienne Couvert sur la gnose pour le journal De Rome et d&#039;ailleurs par Yves-Anne Laurens        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/arnaud-guyot-jeannin-et-le-cercle-sol-invictus-article-de-la-revue-de-rome-et-d-ailleurs-1999"                                            data-page-link-id="22812772"
+                            >
+                <span class="">
+            Arnaud Guyot-Jeannin et le cercle sol invictus. Article de la revue De Rome et d&#039;ailleurs. (1999)        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/des-gens-d-extreme-droite-presents-chez-les-francs-macons-le-journaliste-christophe-bourseiller-temoigne"                                            data-page-link-id="22897002"
+                            >
+                <span class="">
+            Des gens &quot;d&#039;extrême droite&quot; présents chez les francs-maçons, le journaliste Christophe Bourseiller t        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/le-fascisme-un-culte-de-la-nation-soutenu-par-les-loges"                                            data-page-link-id="22975199"
+                            >
+                <span class="">
+            Le fascisme un culte de la nation soutenu par les loges        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/1969-1984-quinze-ans-de-guerre-religieuse-contre-la-messe-traditionnelle"                                            data-page-link-id="23226608"
+                            >
+                <span class="">
+            1969-1984 Quinze ans de guerre religieuse contre la messe traditionnelle.        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/de-jeune-nation-au-catholicisme-identitaire-la-nouvelle-droite-a-la-trace"                                            data-page-link-id="24751179"
+                            >
+                <span class="">
+            De Jeune Nation au catholicisme identitaire. La nouvelle droite à la trace.        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/les-ecrits-de-rome-une-revue-introduisant-le-paganisme-dans-la-formation-des-jeunes-catholiques"                                            data-page-link-id="25039183"
+                            >
+                <span class="">
+            Les écrits de Rome, une revue introduisant le paganisme dans la formation des jeunes catholiques.        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/le-parti-de-la-france-vous-souhaite-un-bon-solstice-d-hiver-coup-de-projecteur-sur-ce-parti"                                            data-page-link-id="25718973"
+                            >
+                <span class="">
+            Le parti de la France vous souhaite un bon solstice d&#039;hiver. Coup de projecteur sur ce parti.        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/introduction-du-paganisme-dans-la-formation-des-jeunes-catholiques-le-cas-academia-christiana"                                            data-page-link-id="26107976"
+                            >
+                <span class="">
+            Introduction du paganisme dans la formation des jeunes catholiques: le cas Academia Christiana.        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/promotion-du-gnostique-jean-borella-dans-la-revue-dite-catholique-monde-vie"                                            data-page-link-id="26790377"
+                            >
+                <span class="">
+            Promotion du gnostique Jean Borella dans la revue dite catholique Monde &amp; vie.        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/discours-gnostique-de-david-engels-lors-d-une-udt-d-academia-christiana"                                            data-page-link-id="27177599"
+                            >
+                <span class="">
+            Discours gnostique de David Engels lors d&#039;une UDT d&#039;académia christiana.        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/encore-un-oracle-en-conference-d-udt-academia-christiana"                                            data-page-link-id="27379529"
+                            >
+                <span class="">
+            Encore un oracle en conférence d&#039;UDT academia christiana!        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/le-circus-du-grand-monarque"                                            data-page-link-id="27615837"
+                            >
+                <span class="">
+            LE CIRCUS DU GRAND MONARQUE        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/enquete-sur-le-reseau-cathonazi-qui-sont-ces-epouvantails-de-la-tradition"                                            data-page-link-id="28734726"
+                            >
+                <span class="">
+            Enquête sur le réseau 《cathonazi》. Qui sont ces épouvantails de la tradition?        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/une-introduction-a-l-oeuvre-de-jean-borella-par-ses-disciples"                                            data-page-link-id="29928353"
+                            >
+                <span class="">
+            Une introduction à l&#039;œuvre de Jean Borella par ses disciples        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/une-republique-couronnee-par-un-orleans-une-idee-de-de-gaulle-qui-refait-surface"                                            data-page-link-id="30296843"
+                            >
+                <span class="">
+            Une République couronnée par un Orléans. Une idée de de Gaulle qui refait surface.        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/paul-marie-couteaux-l-homme-d-influence-de-la-droite-souverainiste"                                            data-page-link-id="30401253"
+                            >
+                <span class="">
+            Paul-Marie Coûteaux, l&#039;homme d&#039;influence de la droite souverainiste.        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/le-pere-viot-est-il-toujours-franc-macon"                                            data-page-link-id="30585454"
+                            >
+                <span class="">
+            Le Père Viot est-il toujours franc-maçon?        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/polemique-autour-du-film-sacre-coeur-la-regie-de-la-sncf-et-de-la-ratp-refuse-une-affiche-du-film"                                            data-page-link-id="30739295"
+                            >
+                <span class="">
+            Polémique autour du film Sacré-Cœur. La régie de la SNCF et de la RATP refuse une affiche du film.        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/greg-calto-un-adepte-de-la-gnose-de-borella-promu-par-differents-medias-et-influenceurs"                                            data-page-link-id="31739286"
+                            >
+                <span class="">
+            Greg Calto,  un adepte de la gnose de Borella promu par différents médias et influenceurs        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/l-association-tradition-famille-propriete-une-secte-influente-et-peu-connue"                                            data-page-link-id="31951097"
+                            >
+                <span class="">
+            L&#039;association Tradition famille propriété, une secte influente et peu connue.        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+>
+        <a        class="jw-menu-link"
+        href="/le-piege-du-liberalisme-politique"                                            data-page-link-id="32036138"
+                            >
+                <span class="">
+            Le piège du libéralisme politique        </span>
+            </a>
+                </li>
+            
+                    </ul>
+    </script>
+            </nav>
+        </div>
+    </header>
+</div>
+<div
+    id="jw-slideshow"
+    class="jw-slideshow jw-slideshow-toggle banner-md"
+    data-pause="7000"
+    data-autoplay="1"
+    data-transition="horizontal"
+    data-ratio="0.5"
+>
+                    <div class="bx-wrapper"><div class="bx-viewport">
+        <ul>
+                    <li class="jw-slideshow-slide">
+    <div data-key="0" data-text="" data-subtext="" data-buttontext="" data-buttontarget="_self" data-backdrop="0" data-layout="no-text" style="background-position: 50% 50%; background-image: url(&#039;https://primary.jwwb.nl/public/l/b/d/temp-bsqivlvdzhfpuumfhrgp/bapteme-clovis-reims-496-standard-ne3fhl.jpg?enable-io=true&amp;enable=upscale&amp;crop=1400%2C700%2Cx0%2Cy187%2Csafe&amp;width=1020&amp;height=510&#039;);" data-background-position-x="0.5" data-background-position-y="0.5" class="jw-slideshow-slide-content jw-slideshow-slide-content--display-cover jw-slideshow-slide-content--no-backdrop ">                                    <div class="jw-slideshow-slide-content-height-enforcer-wrapper">
+                <div
+                    class="jw-slideshow-slide-content-height-enforcer"
+                    style="padding-bottom: 50%;"
+                >
+                </div>
+            </div>
+                <div class="bx-caption-wrapper jw-slideshow-slide-align-center">
+            <div class="bx-caption">
+                <div class="jw-slideshow-title"></div>
+                                            </div>
+        </div>
+    </div>
+</li>
+
+            </ul>
+            </div></div>
+        <div class="jw-slideshow__scroll-arrow">
+        <i class="website-rendering-icon-down-open-big"></i>
+    </div>
+    <style>
+                @media screen and (min-width: 1200px) {
+            .jw-slideshow-slide-content-height-enforcer-wrapper {
+                max-height: 600px !important;
+            }
+        }
+            </style>
+</div>
+
+<script nonce="4da5e42ac2d66096181291a6364209f5">
+    var backgroundElement = document.querySelector('.jw-background');
+
+    JOUWWEB.templateConfig = {
+        header: {
+            selector: '.topmenu',
+            mobileSelector: '.jw-mobile-menu',
+            updatePusher: function (height, state) {
+
+                if (state === 'desktop') {
+                    // Expose the header height as a custom property so
+                    // we can use this to set the background height in CSS.
+                    if (backgroundElement && height) {
+                        backgroundElement.setAttribute('style', '--header-height: ' + height + 'px;');
+                    }
+                } else if (state === 'mobile') {
+                    $('.jw-menu-clone .jw-menu').css('margin-top', height);
+                }
+            },
+        },
+    };
+</script>
+<div class="main-content">
+    
+<main class="block-content">
+    <div data-section-name="content" class="jw-section jw-section-content jw-responsive">
+        <div
+    id="jw-element-365512487"
+    data-jw-element-id="365512487"
+        class="jw-tree-node jw-element jw-strip-root jw-tree-container jw-node-is-first-child jw-node-is-last-child"
+>
+    <div
+    id="jw-element-365512488"
+    data-jw-element-id="365512488"
+        class="jw-tree-node jw-element jw-strip jw-tree-container jw-strip--default jw-strip--style-color jw-strip--color-default jw-strip--padding-both jw-node-is-first-child jw-strip--primary jw-node-is-last-child"
+>
+    <div class="jw-strip__content-container"><div class="jw-strip__content jw-responsive">
+                    <div
+    id="jw-element-366286109"
+    data-jw-element-id="366286109"
+        class="jw-tree-node jw-element jw-image-text jw-node-is-first-child"
+>
+    <div class="jw-element-imagetext-text">
+            <h2 class="jw-heading-100" style="text-align: center;"><strong>"Le lib&eacute;ralisme est un p&eacute;ch&eacute;" de Don Sarda Y Salvany un livre &agrave; lire et relire</strong></h2>    </div>
+</div><div
+    id="jw-element-366288326"
+    data-jw-element-id="366288326"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <h3 style="text-align: center;" class="jw-heading-70"><strong>Quelques attitudes &agrave; tenir extraites du livre "Le lib&eacute;ralisme est un p&eacute;ch&eacute;</strong>"</h3>    </div>
+</div><div
+    id="jw-element-366285808"
+    data-jw-element-id="366285808"
+        class="jw-tree-node jw-element jw-spacer"
+>
+    <div
+    class="jw-element-spacer-container "
+    style="height: 50px"
+>
+    </div>
+</div><div
+    id="jw-element-366285723"
+    data-jw-element-id="366285723"
+        class="jw-tree-node jw-element jw-image"
+>
+    <div
+    class="jw-intent jw-element-image jw-element-content jw-element-image-is-left"
+            style="width: 166px;"
+    >
+            
+        
+                <picture
+            class="jw-element-image__image-wrapper jw-image-is-square jw-intrinsic"
+            style="padding-top: 143.8849%;"
+        >
+                                            <img class="jw-element-image__image jw-intrinsic__item" style="--jw-element-image--pan-x: 0.5; --jw-element-image--pan-y: 0.5;" alt="" src="https://primary.jwwb.nl/public/l/b/d/temp-bsqivlvdzhfpuumfhrgp/item318821-standard-31szce.png" srcset="https://primary.jwwb.nl/public/l/b/d/temp-bsqivlvdzhfpuumfhrgp/item318821-high-f9e2l8.png?enable-io=true&amp;width=96 96w, https://primary.jwwb.nl/public/l/b/d/temp-bsqivlvdzhfpuumfhrgp/item318821-high-f9e2l8.png?enable-io=true&amp;width=147 147w, https://primary.jwwb.nl/public/l/b/d/temp-bsqivlvdzhfpuumfhrgp/item318821-high-f9e2l8.png?enable-io=true&amp;width=226 226w, https://primary.jwwb.nl/public/l/b/d/temp-bsqivlvdzhfpuumfhrgp/item318821-high-f9e2l8.png?enable-io=true&amp;width=347 347w, https://primary.jwwb.nl/public/l/b/d/temp-bsqivlvdzhfpuumfhrgp/item318821-high-f9e2l8.png?enable-io=true&amp;width=532 532w, https://primary.jwwb.nl/public/l/b/d/temp-bsqivlvdzhfpuumfhrgp/item318821-high-f9e2l8.png?enable-io=true&amp;width=816 816w, https://primary.jwwb.nl/public/l/b/d/temp-bsqivlvdzhfpuumfhrgp/item318821-high-f9e2l8.png?enable-io=true&amp;width=1252 1252w, https://primary.jwwb.nl/public/l/b/d/temp-bsqivlvdzhfpuumfhrgp/item318821-high-f9e2l8.png?enable-io=true&amp;width=1920 1920w" sizes="auto, min(100vw, 166px), 100vw" loading="lazy" width="278" height="400">                    </picture>
+
+            </div>
+</div><div
+    id="jw-element-366285849"
+    data-jw-element-id="366285849"
+        class="jw-tree-node jw-element jw-spacer"
+>
+    <div
+    class="jw-element-spacer-container "
+    style="height: 50px"
+>
+    </div>
+</div><div
+    id="jw-element-366292998"
+    data-jw-element-id="366292998"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <h3 class="jw-heading-70"><span style="color: #202020;"><strong>Sommaire:</strong></span></h3>
+<h3 class="jw-heading-70"><span style="color: #202020;"><strong>1 Pr&eacute;face&nbsp;</strong></span></h3>
+<h3 class="jw-heading-70"><span style="color: #202020;"><strong>2 Introduction&nbsp;</strong></span></h3>
+<h3 class="jw-heading-70"><span style="color: #202020;"><strong>3 Qu'est-ce que le lib&eacute;ralisme?</strong></span></h3>
+<h3 class="jw-heading-70"><span style="color: #202020;"><strong>4 Les complicit&eacute;s lib&eacute;rales et leurs d&eacute;g&acirc;ts&nbsp;</strong></span></h3>
+<h3 class="jw-heading-70"><span style="color: #202020;"><strong>5 La charit&eacute; voulue par les lib&eacute;raux et celle qu'on leur doit</strong></span></h3>
+<h3 class="jw-heading-70"><span style="color: #202020;"><strong>6 L'organisation des catholiques&nbsp;</strong></span></h3>
+<h3 class="jw-heading-70"><span style="color: #202020;"><strong>7 Les journaux lib&eacute;raux d'apparence traditionnaliste</strong></span></h3>
+<h3 class="jw-heading-70"><span style="color: #202020;"><strong>8 Le bon sens catholique pour faire face aux lib&eacute;raux qui avancent masqu&eacute;s&nbsp;</strong></span></h3>
+<h3 class="jw-heading-70"><span style="color: #202020;"><strong>9&nbsp;S'il est bon quelquefois que catholiques et lib&eacute;raux s'unissent pour une fin commune, et dans quelle condition?</strong></span></h3>
+<h3 class="jw-heading-70"><span style="color: #202020;"><strong>10 Conclusion&nbsp;</strong></span></h3>    </div>
+</div><div
+    id="jw-element-366293020"
+    data-jw-element-id="366293020"
+        class="jw-tree-node jw-element jw-spacer"
+>
+    <div
+    class="jw-element-spacer-container "
+    style="height: 50px"
+>
+    </div>
+</div><div
+    id="jw-element-365513399"
+    data-jw-element-id="365513399"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <h3 class="jw-heading-70"><strong>I Pr&eacute;face</strong>&nbsp;</h3>    </div>
+</div><div
+    id="jw-element-365513818"
+    data-jw-element-id="365513818"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <p>&nbsp;《 Jamais plus qu'aujourd'hui la lecture de ce livre est n&eacute;cessaire pour tous ceux qui veulent se d&eacute;sintoxiquer des erreurs du lib&eacute;ralisme.</p>
+<p>&nbsp; Le virus qui d&eacute;truit toutes les valeurs naturelles et surnaturelles atteint d&eacute;sormais non seulement les soci&eacute;t&eacute;s mais l'&eacute;glise elle-m&ecirc;me. C'est en poursuivant les ramifications de ce cancer que nous restaurerons le R&egrave;gne de Notre-Seigneur J&eacute;sus-Christ et de sa sainte M&egrave;re ici-bas, et que nous travaillerons &agrave; l'extension de la seule arche du salut: l'Eglise Catholique et Romaine.</p>
+<p>&nbsp; Nous f&eacute;licitons de tout c&oelig;ur les animateurs de la librairie de la Nouvelle Aurore qui concourent efficacement &agrave; mettre en lumi&egrave;re la v&eacute;rit&eacute; et &agrave; dissiper les t&eacute;n&egrave;bres de l'erreur. C'est le meilleur service qu'ils puissent rendre &agrave; leur prochain. Nous demandons &agrave; Dieu de les b&eacute;nir ainsi que tous ceux qui trouveront dans ces pages une nourriture saine et bienfaisante.》</p>
+<p class="jw-text-small" style="text-align: right;">Le 23 novembre 1975 + Marcel Lefebvre&nbsp;</p>    </div>
+</div><div
+    id="jw-element-365513785"
+    data-jw-element-id="365513785"
+        class="jw-tree-node jw-element jw-spacer"
+>
+    <div
+    class="jw-element-spacer-container "
+    style="height: 50px"
+>
+    </div>
+</div><div
+    id="jw-element-365524363"
+    data-jw-element-id="365524363"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <h3 class="jw-heading-70"><strong>II Introduction</strong>&nbsp;</h3>    </div>
+</div><div
+    id="jw-element-365527275"
+    data-jw-element-id="365527275"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <p>&nbsp; Ce livre fut &eacute;crit en 1884 par Don Sarda Y Salvany, <span style="text-decoration: underline;">dans cet ouvrage l'auteur s'appuie sur les encycliques Marari vos de Gr&eacute;goire XVI (1832) et le Syllabus de Pie IX (1864)</span> dans un contexte particulier c'est-&agrave;-dire lors de la restauration, &agrave; cette p&eacute;riode il n'y avait pas le lib&eacute;ralisme anticlerical que l'on trouvait en France mais une autre facette du lib&eacute;ralisme, un lib&eacute;ralisme "cierge &agrave; la main" pouvant r&eacute;pandre sereinement l'h&eacute;r&eacute;sie lib&eacute;rale dans la soci&eacute;t&eacute; Espagnole.&nbsp;</p>
+<p><span>&nbsp; Le livre suscita l'opposition de C&eacute;lestins de Pazos (Chanoine du dioc&egrave;se de Vich),</span><span>&nbsp;qui lui r&eacute;pondit avec&nbsp;</span>Proceso del integrismo<span>&nbsp;(&laquo;&nbsp;Proc&egrave;s de l'int&eacute;grisme</span><span>&raquo;), publi&eacute; &agrave; Madrid&nbsp;</span><span>l'ann&eacute;e suivante. Cet affrontement donna lieu &agrave; un d&eacute;bat houleux, &agrave; tel point tel qu'il dut &ecirc;tre r&eacute;solu par la Congr&eacute;gation de l'Index</span><span>&nbsp;qui fit l'&eacute;loge du texte de Sard&aacute; Y Salvany</span><sup class=""></sup><span>.</span></p>
+<p><span>《<span style="text-decoration: underline;">elle (la congr&eacute;gation de l'Index) n'a rien trouv&eacute; qui soit contraire &agrave; la saine doctrine, mais son auteur D. F&eacute;lix Sarda m&eacute;rite d'&ecirc;tre lou&eacute;, parce qu'il impose et d&eacute;fend la saine doctrine sur le sujet dont il s'agit, par des arguments solides, d&eacute;velopp&eacute;s avec ordre et clart&eacute;, sans nulle attaque &agrave; qui que ce soi.</span>》</span></p>    </div>
+</div><div
+    id="jw-element-365561184"
+    data-jw-element-id="365561184"
+        class="jw-tree-node jw-element jw-spacer"
+>
+    <div
+    class="jw-element-spacer-container "
+    style="height: 50px"
+>
+    </div>
+</div><div
+    id="jw-element-365561193"
+    data-jw-element-id="365561193"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <h3 class="jw-heading-70"><strong>III Qu'est-ce que le lib&eacute;ralisme ?</strong></h3>    </div>
+</div><div
+    id="jw-element-365563643"
+    data-jw-element-id="365563643"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <p>&nbsp;P20《Dans l'ordre des id&eacute;es, le lib&eacute;ralisme est l'ensemble de ce que l'on appelle les principes lib&eacute;raux, avec les cons&eacute;quences qui en d&eacute;coulent logiquement. Les principes lib&eacute;raux sont: la souverainet&eacute; absolue de l'individu, dans une enti&egrave;re ind&eacute;pendance de Dieu et de son autorit&eacute;; la souverainet&eacute; absolue de la soci&eacute;t&eacute;, dans une enti&egrave;re ind&eacute;pendance de ce qui ne proc&egrave;de pas d'elle-m&ecirc;me; la souverainet&eacute; nationale, c'est-&agrave;-dire le droit reconnu au peuple de faire des lois et de gouverner, dans l'ind&eacute;pendance absolue de tout autre crit&eacute;rium que celui de sa propre volont&eacute; exprim&eacute;e d'abord par le suffrage et ensuite par la majorit&eacute; parlementaire; la libert&eacute; de penser sans aucun frein, ni en politique, ni en morale, ni en religion; la libert&eacute; de la presse, absolue ou insuffisamment limit&eacute;e, et la libert&eacute; d'association tout aussi &eacute;tendue.》</p>
+<p><strong>Le fond commun des id&eacute;es lib&eacute;rales:</strong></p>
+<p>《&nbsp; Le rationalisme individuel, le rationalisme politique et le rationalisme social, d'o&ugrave; d&eacute;coulent et d&eacute;rivent: la libert&eacute; des cultes, plus ou moins restreinte; la supr&eacute;matie de l'&eacute;tat dans ses rapports avec l'&eacute;glise; l'enseignement la&iuml;que ou ind&eacute;pendant, n'ayant aucun lien avec la religion; le mariage l&eacute;gitimit&eacute; et sanctionn&eacute; par l'intervention unique de l'&eacute;tat. <span style="text-decoration: underline;">Son dernier mot, celui qui en est le r&eacute;sum&eacute; et la synth&egrave;se, c'est la s&eacute;cularisation, c'est-&agrave;-dire la non intervention de la religion dans les actes de la vie publique, quels qu'ils soient, v&eacute;ritable ath&eacute;isme social qui est la derni&egrave;re cons&eacute;quence du lib&eacute;ralisme.》</span></p>    </div>
+</div><div
+    id="jw-element-365993798"
+    data-jw-element-id="365993798"
+        class="jw-tree-node jw-element jw-spacer"
+>
+    <div
+    class="jw-element-spacer-container "
+    style="height: 50px"
+>
+    </div>
+</div><div
+    id="jw-element-365993501"
+    data-jw-element-id="365993501"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <h3 class="jw-heading-70"><strong>IV&nbsp;Les complicit&eacute;s lib&eacute;rales et leurs d&eacute;g&acirc;ts</strong></h3>    </div>
+</div><div
+    id="jw-element-365993782"
+    data-jw-element-id="365993782"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <p><span><span style="color: #202020;"><strong>La complicit&eacute; d'affiliation &agrave; un parti lib&eacute;ral</strong></span>:</span></p>
+<p><span>《L'affiliation formelle &agrave; un parti lib&eacute;ral est la plus grande complicit&eacute; en cette mati&egrave;re&nbsp;; c'est &agrave; peine si elle se distingue de l'action directe &agrave; laquelle elle se rattache. Beaucoup d'esprits, &agrave; la seule lumi&egrave;re de leur entendement, voient toute la fausset&eacute; doctrinale du lib&eacute;ralisme, connaissent ses sinistres projets et ont en horreur son abominable histoire. Mais par tradition de famille, haines h&eacute;r&eacute;ditaires, esp&eacute;rances personnelles, reconnaissance de bienfaits re&ccedil;us, crainte de pr&eacute;judices &agrave; venir ou enfin pour tout autre motif, ils acceptent une situation dans le parti qui professe de pareilles doctrines et favorise de semblables desseins, permettant ainsi qu'on les compte publiquement parmi les affili&eacute;s qui s'honorent d'en avoir le titre et travaillent sous son drapeau.》</span></p>
+<p><span style="color: #202020;"><strong>La complicit&eacute; sans l'affiliation &agrave; un parti lib&eacute;ral</strong></span>:</p>
+<p>《Sans &ecirc;tre formellement affili&eacute; &agrave; un parti lib&eacute;ral, et m&ecirc;me en d&eacute;clarant hautement ne pas lui appartenir, on contracte n&eacute;anmoins la complicit&eacute; lib&eacute;rale lorsqu'on manifeste pour lui des sympathies publiques, lorsqu'on loue ses membres, lorsqu'on d&eacute;fend et qu'on excuse ses journaux ou que l'on assiste &agrave; ses f&ecirc;tes... Ainsi par exemple, un catholique et surtout un pr&ecirc;tre qui honore de sa collaboration un journal lib&eacute;ral, le favorise manifestement par le prestige de sa signature, quoi qu'avec elle il ne d&eacute;fende pas la partie mauvaise du journal, quoi que sous cette signature il rende public son &eacute;loignement pour ce qu'il y a de mauvais dans ce journal. On dit quelques fois que c'est l&agrave; le moyen de faire entendre la voix de la v&eacute;rit&eacute; &agrave; un grand nombre de lecteurs qui ne l"&eacute;couteraient pas sous le couvert d'une autre feuille; cela est vrai, mais d'un autre c&ocirc;t&eacute;, la signature d'un homme de bien dans les colonnes d'un mauvais journal, suffit pour l'accr&eacute;ditater aux yeux des lecteurs peu habiles &agrave; distinguer la doctrine d'un article d'avec celle d'un autre... Que de fois nous avons pu dire: Ce journal mauvais?- Non, certes puisque un tel y collabore. <br />C'est ainsi que raisonne le vulgaire et le vulgaire forme la presque totalit&eacute; du genre humain. <br />Malheureusement une pareille complicit&eacute; est bien fr&eacute;quente de nos jours.》</p>    </div>
+</div><div
+    id="jw-element-365994343"
+    data-jw-element-id="365994343"
+        class="jw-tree-node jw-element jw-spacer"
+>
+    <div
+    class="jw-element-spacer-container "
+    style="height: 50px"
+>
+    </div>
+</div><div
+    id="jw-element-365995013"
+    data-jw-element-id="365995013"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <p><strong><span style="color: #202020;">Ne pas soutenir ou d&eacute;plorer la chute d'un journal lib&eacute;ral</span>&nbsp;</strong></p>    </div>
+</div><div
+    id="jw-element-365994413"
+    data-jw-element-id="365994413"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <p>《 C'est faire acte de complicit&eacute; que de s'abonner &agrave; un journal lib&eacute;ral ou de le recommander dans un journal de saine doctrine, de d&eacute;plorer sa chute ou sa suspension par un faux esprit de camaraderie ou par un sentiment de courtoisie non moins faux.&nbsp;</p>
+<p>&nbsp; S'abonner &agrave; un journal lib&eacute;ral, c'est fournir de l'argent pour fomenter le lib&eacute;ralisme, et de plus, c'est porter par son exemple un autre imprudent &agrave; lire. En outre, c'est procurer &agrave; sa famille et aux amis de la maison une lecture plus ou moins empoisonn&eacute;e.</p>
+<p>Combien de mauvais journaux seraient oblig&eacute;s de renoncer &agrave; leur pernicieuse et d&eacute;plorable propagande s'ils n'&eacute;taient soutenus par des souscripteurs trop naifs!... Quand un de ces journaux est suspendu ou qu'il cesse de para&icirc;tre, il faut rendre gr&acirc;ce &agrave; Dieu, parce que sa divine majest&eacute; compte un ennemi de moins et au jour de son apparition, bien loin de saluer sa venue, il faut la pleurer comme une calamit&eacute;.》</p>    </div>
+</div><div
+    id="jw-element-365995835"
+    data-jw-element-id="365995835"
+        class="jw-tree-node jw-element jw-spacer"
+>
+    <div
+    class="jw-element-spacer-container "
+    style="height: 50px"
+>
+    </div>
+</div><div
+    id="jw-element-365995819"
+    data-jw-element-id="365995819"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <h3 class="jw-heading-70"><strong>V La "charit&eacute;" voulue par les lib&eacute;raux et celle qu'on leur doit</strong></h3>    </div>
+</div><div
+    id="jw-element-365996692"
+    data-jw-element-id="365996692"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <p>《<span style="text-decoration: underline;">La charit&eacute; qu'ils voudraient de nous, ce serait de les louer, de les admirer, de les appuyer, ou tout au moins de les laisser agir &agrave; leur guise.</span> Nous ne voulons leur faire la charit&eacute; de les interpeller, de les reprendre, de les exciter par mille moyens &agrave; sortir de leur mauvaise voie. <span style="text-decoration: underline;">Quand ils disent un mensonge, s&egrave;ment une calomnie ou pillent les biens d'autrui, les lib&eacute;raux voudraient nous voir cacher ces petits p&eacute;ch&eacute;s v&eacute;niels et bien d'autres avec sous le manteau de la charit&eacute;</span>...<br />Quand il leur &eacute;chappe quelque distraction grammaticale, orthographique, syntaxique, ou simplement logique, ils nous prient de fermer les yeux sur elles; ils pleurent, il geignent et, si on les en avertissons en public, ils se plaignent de notre manque de charit&eacute;. <span style="text-decoration: underline;">Nous au contraire, nous accomplissons &agrave; leur intention une bonne oeuvre, en les obligeant &agrave; palper de leurs propres mains une chose qu'ils ne devraient pas ignorer, &agrave; savoir: que non seulement ils ne sont pas ma&icirc;tres, comme ils se le figurent, mais encore qu'ils sont &agrave; peine de m&eacute;diocres &eacute;coliers.</span>》</p>
+<p class="jw-text-small">Propos issus du journal "La Civilta Cattolica" repris dans le lib&eacute;ralisme est un p&eacute;ch&eacute; de Don Sarda Y Salvany</p>
+<p><span style="color: #202020;"><strong>Remarque</strong></span>:</p>
+<p><span style="text-decoration: underline;">&nbsp; En bref, si vous dites comme certains lib&eacute;raux le souhaitent:《cher docteur; cher professeur...avec tout le respect que je vous dois, je crois que vous faites erreur... 》ou si vous vous taisez vous ne les ferez pas bouger.</span></p>    </div>
+</div><div
+    id="jw-element-366000062"
+    data-jw-element-id="366000062"
+        class="jw-tree-node jw-element jw-spacer"
+>
+    <div
+    class="jw-element-spacer-container "
+    style="height: 50px"
+>
+    </div>
+</div><div
+    id="jw-element-365999997"
+    data-jw-element-id="365999997"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <h3 class="jw-heading-70"><strong>VI L'organisation des catholiques</strong>&nbsp;</h3>    </div>
+</div><div
+    id="jw-element-366000254"
+    data-jw-element-id="366000254"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <p>《Dans chaque localit&eacute;, il faut qu'ils se connaissent se voient, s'unissent... Cette organisation attire les ind&eacute;cis, donne du courage aux h&eacute;sitants, fait contrepoids &agrave; l'influence du qu'en dira-t-on et rend chacun fort de la force de tous. Vous n'&ecirc;tes qu'une douzaine d'hommes de c&oelig;ur, n'importe: fondez une acad&eacute;mie de la jeunesse catholique, une conf&eacute;rence ou du moins une confr&eacute;rie. Mettez-vous aussit&ocirc;t en relation avec la soci&eacute;t&eacute; analogue de la ville voisine ou de la capitale. Serrez-vous de la sorte dans toute la contr&eacute;e, associations avec associations... ainsi unis, si peu nombreux que vous soyez, vous porterez haut la banni&egrave;re d'une doctrine saine, pure, intransigeante, sans d&eacute;guisement ni att&eacute;nuation, sans pacte ni alliance avec l'ennemi. <span style="text-decoration: underline;">L'intransigeance courageuse offre un aspect noble, sympathique et chevaleresque... Pr&ecirc;chez par votre conduite, pr&ecirc;chez par elle en tout lieu. Vous verrez bient&ocirc;t avec quelle facilit&eacute; vous imposerez d'abord le respect, puis l'admiration et ensuite la sympathie》</span></p>
+<p><span style="color: #202020;"><strong>Remarque</strong></span>:</p>
+<p>&nbsp; Les catholiques qui se laissent prendre par des m&eacute;dias lib&eacute;raux comme Pr&eacute;sent; Rivarol voir pa&iuml;ens "de libre parole" comme TV Libert&eacute;s...."pour faire entendre la voie du catholicisme" ne peuvent pas exprimer pleinement la v&eacute;rit&eacute; et rayonner comme il se doit, il n'est pas trop tard pour qu'ils changent de direction et se joignent aux &oelig;uvres les plus propres.</p>    </div>
+</div><div
+    id="jw-element-366001859"
+    data-jw-element-id="366001859"
+        class="jw-tree-node jw-element jw-spacer"
+>
+    <div
+    class="jw-element-spacer-container "
+    style="height: 50px"
+>
+    </div>
+</div><div
+    id="jw-element-366003489"
+    data-jw-element-id="366003489"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <h3 class="jw-heading-70"><strong>VII Les journaux lib&eacute;raux d'apparence traditionaliste</strong></h3>    </div>
+</div><div
+    id="jw-element-366003615"
+    data-jw-element-id="366003615"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <p>《Il y a encore une classe de journaux moins prompte &agrave; se d&eacute;masquer et &agrave; se prononcer, qui aime vivre dans l'ambigu&iuml;t&eacute;, &agrave; demeurer dans les couleurs ind&eacute;finies et les teintes ind&eacute;cises. &Agrave; toute heure elle se r&eacute;clame catholique et par moment elle d&eacute;teste et abomine le lib&eacute;ralisme, du moins &agrave; les en croire sur parole... De celles-l&agrave; il faut se m&eacute;fier plus encore et ne point se laisser duper par ses momeries et son pi&eacute;tisme.》<br />《Le courant lib&eacute;ral est plus ais&eacute; &agrave; suivre, il est compos&eacute; de plus de pros&eacute;lytes et plus sympathique &agrave; l'amour propre. Le courant catholique est plus difficile en apparence, il compte moins de partisans et d'amis, exige que l'on navigue sans cesse contre l'impulsion naturelle et perverse des id&eacute;es et des passions.》</p>    </div>
+</div><div
+    id="jw-element-366003597"
+    data-jw-element-id="366003597"
+        class="jw-tree-node jw-element jw-spacer"
+>
+    <div
+    class="jw-element-spacer-container "
+    style="height: 50px"
+>
+    </div>
+</div><div
+    id="jw-element-366001828"
+    data-jw-element-id="366001828"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <h3 class="jw-heading-70"><strong>VIII Le bon sens catholique pour faire face aux lib&eacute;raux qui avancent masqu&eacute;s</strong>&nbsp;</h3>    </div>
+</div><div
+    id="jw-element-366002200"
+    data-jw-element-id="366002200"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <p>1 《Il faut donc examiner quels sont les ant&eacute;c&eacute;dents de la personne ou des personnes qui organisent ou initient l'&oelig;uvre en question. Si ils sont tels que vous ne puissiez avoir confiance dans leurs doctrines, tenez vous en garde contre toutes leurs entreprises. Ne les r&eacute;prouvez pas imm&eacute;diatement... Mais gardez-vous de les tenir imm&eacute;diatement pour bonnes, m&eacute;fiez-vous en, soumettez-les &agrave; un long examen, attendez leurs r&eacute;sultats.》</p>
+<p>2 Examinez le genre de personnes qui louent l'&oelig;uvre en question. Cette r&egrave;gle est encore plus s&ucirc;re que la pr&eacute;c&eacute;dente... Voyez si le courant lib&eacute;ral les approuve, les recommande et les prends &agrave; son compte. Si oui, le livre et le projet sont jug&eacute;s: ils lui appartiennent. Car il est &eacute;vident que le lib&eacute;ralisme, ou le diable son inspirateur, distinguent sur le champ ce qui leur est dommageable ou leur est utile, et qu'ils ne sont pas si sots que d'aider &agrave; ce qui leur est oppos&eacute; ou de s'opposer &agrave; ce qui favorise leurs desseins. Les partis et les sectes ont un instinct, une intuition particuli&egrave;re (olfactus mentis), selon l'expression d'un philosophe, qui leur r&eacute;v&egrave;le a priori ce qui leur est bon et ce qui leur est hostile. D&eacute;fiez-vous donc de tout ce que les lib&eacute;raux louent et vantent.》</p>
+<p><strong><span style="color: #202020;">Remarque</span>:</strong></p>
+<p>&nbsp; Outre les mauvaises gens dissimul&eacute;s, les lib&eacute;raux "d'extr&ecirc;me droite" ont besoin comme caution de bons catholiques naifs. Ces lib&eacute;raux pouvant s&eacute;duire les catholiques ce ne sont pas les ma&ccedil;ons qui crachent ouvertement sur la religion catholique mais c'est la nouvelle droite; les anciens du club de l'horloge; les Gu&eacute;noniens et "ex" Gu&eacute;noniens qui pour la plupart sont pass&eacute;s par la ma&ccedil;onnerie ou une secte &agrave; caract&egrave;re initiatique.</p>    </div>
+</div><div
+    id="jw-element-366019771"
+    data-jw-element-id="366019771"
+        class="jw-tree-node jw-element jw-spacer"
+>
+    <div
+    class="jw-element-spacer-container "
+    style="height: 50px"
+>
+    </div>
+</div><div
+    id="jw-element-366019685"
+    data-jw-element-id="366019685"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <h3 class="jw-heading-70"><strong>IX S'il est bon quelquefois que catholiques et lib&eacute;raux s'unissent pour une fin commune, et dans quelle condition?</strong></h3>    </div>
+</div><div
+    id="jw-element-366020333"
+    data-jw-element-id="366020333"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <p>&nbsp; 《Une autre question a souvent &eacute;t&eacute; agit&eacute;e de nos jours. Elle se rapporte &agrave; l'union des catholiques et des lib&eacute;raux moins avanc&eacute;s, dans le but commun de contenir la r&eacute;volution radicale et d&eacute;cha&icirc;n&eacute;e. Songe dor&eacute; ou candide illusion chez quelques-un; chez d'autres, au contraire, pi&egrave;ge perfide au moyen duquel ils ont pr&eacute;tendu paralyser nos forces et nous d&eacute;sunie, ce qu'ils ont en grande partie r&eacute;alis&eacute;.</p>
+<p>&nbsp; <span style="color: #202020;"><strong>Que devons-nous penser de ces tentatives unionistes, nous qui voulons avant tout autre int&eacute;r&ecirc;t celui de notre sainte religion?</strong></span></p>
+<p><strong>&nbsp;<span style="text-decoration: underline;">&nbsp;</span></strong><span style="text-decoration: underline;">En th&egrave;se g&eacute;n&eacute;rale nous devons penser que de pareilles unions ne sont ni bonnes ni recommandables</span>... Le lib&eacute;ralisme, si mod&eacute;r&eacute; et si patelin qu'il se pr&eacute;sente dans la forme, est par son essence en opposition directe au catholicisme. Les lib&eacute;raux sont donc ennemis n&eacute;s des catholiques, et ce n'est qu'accidentellement que les uns et les autres peuvent avoir des int&eacute;r&ecirc;t v&eacute;ritablement communs.</p>
+<p>&nbsp; <span style="text-decoration: underline;">De ceci il peut se pr&eacute;senter quelques cas tr&egrave;s rares. Ainsi, l'union des forces int&eacute;gralement catholiques avec celles du groupe le plus mod&eacute;r&eacute; du lib&eacute;ralisme contre la faction avanc&eacute;e des lib&eacute;raux peut &ecirc;tre utile en un cas donn&eacute;.</span> Quand cette union est opportune il faut l'&eacute;tablir sur les bases suivantes:</p>
+<p>1 Ne jamais prendre pour point de d&eacute;part la neutralit&eacute; ou la conciliation entre principes et int&eacute;r&ecirc;ts essentiellement oppos&eacute;... Cette neutralit&eacute; est condamn&eacute;e par le Syllabus et par cons&eacute;quent elle est une base fausse...</p>
+<p>2 <span style="text-decoration: underline;">Bien moins encore faut-il accorder au groupe lib&eacute;ral de nous en rouler sous sa banni&egrave;re</span>... En d'autres termes qu'ils s'unissent &agrave; nous; mais ne nous unissons jamais &agrave; eux...</p>
+<p><span style="text-decoration: underline;">3 Ne jamais croire qu'on a &eacute;tabli ainsi les bases d'une action constante et normale,&nbsp; elles ne peuvent l'&ecirc;tre qu'en vue d'une action fortuite et passag&egrave;re</span>...》</p>    </div>
+</div><div
+    id="jw-element-366298192"
+    data-jw-element-id="366298192"
+        class="jw-tree-node jw-element jw-spacer"
+>
+    <div
+    class="jw-element-spacer-container "
+    style="height: 50px"
+>
+    </div>
+</div><div
+    id="jw-element-366298391"
+    data-jw-element-id="366298391"
+        class="jw-tree-node jw-element jw-image-text"
+>
+    <div class="jw-element-imagetext-text">
+            <h3 class="jw-heading-70"><strong>X CONCLUSION</strong>&nbsp;</h3>    </div>
+</div><div
+    id="jw-element-366298597"
+    data-jw-element-id="366298597"
+        class="jw-tree-node jw-element jw-image-text jw-node-is-last-child"
+>
+    <div class="jw-element-imagetext-text">
+            <p>&nbsp; &nbsp;Malgr&eacute; l'anciennet&eacute; des &eacute;crits, les enseignements de ce livre sont d'une haute importance puisqu'ils sont bas&eacute;s sur deux encycliques importantes et nous donnent la marche &agrave; suivre vis-&agrave;-vis de l'h&eacute;r&eacute;sie lib&eacute;rale. Certains lib&eacute;raux habiles pourraient faire avaler &agrave; qui veut bien l'entendre que ce livre serait caduque ou d'un autre temps, dire cela reviendrait &agrave; dire que les encycliques Marari vos de Gr&eacute;goire XVI et du Syllabus de Pie IX seraient d'un autre temps puisque ce livre se base sur elles.&nbsp;</p>
+<p>&nbsp; Bonne lecture &agrave; vous! 😉</p>
+<p style="text-align: right;"><strong>&nbsp; <span style="color: #202020;">Jean de Grive</span></strong></p>    </div>
+</div></div></div></div></div>            </div>
+</main>
+    </div>
+<footer class="block-footer">
+    <div
+        data-section-name="footer"
+        class="jw-section jw-section-footer jw-responsive"
+    >
+                <div class="jw-strip jw-strip--default jw-strip--style-color jw-strip--primary jw-strip--color-default jw-strip--padding-both"><div class="jw-strip__content-container"><div class="jw-strip__content jw-responsive">            <div
+    id="jw-element-303503025"
+    data-jw-element-id="303503025"
+        class="jw-tree-node jw-element jw-simple-root jw-tree-container jw-node-is-first-child jw-node-is-last-child"
+>
+    <div
+    id="jw-element-478298042"
+    data-jw-element-id="478298042"
+        class="jw-tree-node jw-element jw-image-text jw-node-is-first-child jw-node-is-last-child"
+>
+    <div class="jw-element-imagetext-text">
+                </div>
+</div></div>                            <div class="jw-credits clear">
+                    <div class="jw-credits-owner">
+                        <div id="jw-footer-text">
+                            <div class="jw-footer-text-content">
+                                &copy; 2024 - 2026 Alliance du trône et de l&#039;autel                            </div>
+                        </div>
+                    </div>
+                    <div class="jw-credits-right">
+                                                <div id="jw-credits-tool">
+    <small>
+        Propulsé par <a href="https://www.webador.be" rel="">Webador</a>    </small>
+</div>
+                    </div>
+                </div>
+                    </div></div></div>    </div>
+</footer>
+            
+<div class="jw-bottom-bar__container">
+    </div>
+<div class="jw-bottom-bar__spacer">
+    </div>
+
+            <div id="jw-variable-loaded" style="display: none;"></div>
+            <div id="jw-variable-values" style="display: none;">
+                                    <span data-jw-variable-key="background-color" class="jw-variable-value-background-color"></span>
+                                    <span data-jw-variable-key="background" class="jw-variable-value-background"></span>
+                                    <span data-jw-variable-key="font-family" class="jw-variable-value-font-family"></span>
+                                    <span data-jw-variable-key="paragraph-color" class="jw-variable-value-paragraph-color"></span>
+                                    <span data-jw-variable-key="paragraph-link-color" class="jw-variable-value-paragraph-link-color"></span>
+                                    <span data-jw-variable-key="paragraph-font-size" class="jw-variable-value-paragraph-font-size"></span>
+                                    <span data-jw-variable-key="heading-color" class="jw-variable-value-heading-color"></span>
+                                    <span data-jw-variable-key="heading-link-color" class="jw-variable-value-heading-link-color"></span>
+                                    <span data-jw-variable-key="heading-font-size" class="jw-variable-value-heading-font-size"></span>
+                                    <span data-jw-variable-key="heading-font-family" class="jw-variable-value-heading-font-family"></span>
+                                    <span data-jw-variable-key="menu-text-color" class="jw-variable-value-menu-text-color"></span>
+                                    <span data-jw-variable-key="menu-text-link-color" class="jw-variable-value-menu-text-link-color"></span>
+                                    <span data-jw-variable-key="menu-text-font-size" class="jw-variable-value-menu-text-font-size"></span>
+                                    <span data-jw-variable-key="menu-font-family" class="jw-variable-value-menu-font-family"></span>
+                                    <span data-jw-variable-key="menu-capitalize" class="jw-variable-value-menu-capitalize"></span>
+                                    <span data-jw-variable-key="website-size" class="jw-variable-value-website-size"></span>
+                                    <span data-jw-variable-key="content-color" class="jw-variable-value-content-color"></span>
+                                    <span data-jw-variable-key="accent-color" class="jw-variable-value-accent-color"></span>
+                                    <span data-jw-variable-key="footer-text-color" class="jw-variable-value-footer-text-color"></span>
+                                    <span data-jw-variable-key="footer-text-link-color" class="jw-variable-value-footer-text-link-color"></span>
+                                    <span data-jw-variable-key="footer-text-font-size" class="jw-variable-value-footer-text-font-size"></span>
+                            </div>
+        </div>
+                            <script nonce="4da5e42ac2d66096181291a6364209f5" type="application/ld+json">[{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.alliancedutroneetdelautel.fr\/","name":"Alliance du tr\u00f4ne et de l'autel"}]</script>
+                <script nonce="4da5e42ac2d66096181291a6364209f5">window.JOUWWEB = window.JOUWWEB || {}; window.JOUWWEB.experiment = {"enrollments":{},"defaults":{"only-annual-discount-restart":"3months-50pct","ai-homepage-structures":"on","checkout-shopping-cart-design":"on","ai-page-wizard-ui":"on"}};</script>        <script nonce="4da5e42ac2d66096181291a6364209f5">window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) };plausible('pageview', { props: {website: 4845602 }});</script>                                </body>
+</html>

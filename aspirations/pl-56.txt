@@ -1,0 +1,943 @@
+HTTP/1.1 200 OK
+Server: nginx/1.24.0 (Ubuntu)
+Date: Sat, 03 Jan 2026 16:53:13 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Pingback: https://sensualnosc.bn.org.pl/xmlrpc.php
+Link: <https://sensualnosc.bn.org.pl/wp-json/>; rel="https://api.w.org/"
+Link: <https://sensualnosc.bn.org.pl/wp-json/wp/v2/posts/8675>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://sensualnosc.bn.org.pl/?p=8675>; rel=shortlink
+Vary: Accept-Encoding
+X-Client-IP: 91.238.85.37
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="pl-PL">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="pl-PL">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="pl-PL" class="no-js">
+<!--<![endif]-->
+  <head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="profile"  href="https://gmpg.org/xfn/11" />
+  <link rel="pingback" href="https://sensualnosc.bn.org.pl/xmlrpc.php" />
+<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Ciemna erotyka – proza wczesnego modernizmu &#8211; Sensualność w kulturze polskiej</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" type="application/rss+xml" title="Sensualność w kulturze polskiej &raquo; Kanał z wpisami" href="https://sensualnosc.bn.org.pl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sensualność w kulturze polskiej &raquo; Kanał z komentarzami" href="https://sensualnosc.bn.org.pl/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sensualność w kulturze polskiej &raquo; Ciemna erotyka – proza wczesnego modernizmu Kanał z komentarzami" href="https://sensualnosc.bn.org.pl/ciemna-erotyka-proza-wczesnego-modernizmu-463/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sensualnosc.bn.org.pl\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://sensualnosc.bn.org.pl/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='customizr-main-css' href='https://sensualnosc.bn.org.pl/wp-content/themes/customizr/assets/front/css/style.min.css?ver=4.4.22' media='all' />
+<style id='customizr-main-inline-css'>
+::-moz-selection{background-color:#1b0fc1}::selection{background-color:#1b0fc1}a,.btn-skin:active,.btn-skin:focus,.btn-skin:hover,.btn-skin.inverted,.grid-container__classic .post-type__icon,.post-type__icon:hover .icn-format,.grid-container__classic .post-type__icon:hover .icn-format,[class*='grid-container__'] .entry-title a.czr-title:hover,input[type=checkbox]:checked::before{color:#1b0fc1}.czr-css-loader > div ,.btn-skin,.btn-skin:active,.btn-skin:focus,.btn-skin:hover,.btn-skin-h-dark,.btn-skin-h-dark.inverted:active,.btn-skin-h-dark.inverted:focus,.btn-skin-h-dark.inverted:hover{border-color:#1b0fc1}.tc-header.border-top{border-top-color:#1b0fc1}[class*='grid-container__'] .entry-title a:hover::after,.grid-container__classic .post-type__icon,.btn-skin,.btn-skin.inverted:active,.btn-skin.inverted:focus,.btn-skin.inverted:hover,.btn-skin-h-dark,.btn-skin-h-dark.inverted:active,.btn-skin-h-dark.inverted:focus,.btn-skin-h-dark.inverted:hover,.sidebar .widget-title::after,input[type=radio]:checked::before{background-color:#1b0fc1}.btn-skin-light:active,.btn-skin-light:focus,.btn-skin-light:hover,.btn-skin-light.inverted{color:#3b2eef}input:not([type='submit']):not([type='button']):not([type='number']):not([type='checkbox']):not([type='radio']):focus,textarea:focus,.btn-skin-light,.btn-skin-light.inverted,.btn-skin-light:active,.btn-skin-light:focus,.btn-skin-light:hover,.btn-skin-light.inverted:active,.btn-skin-light.inverted:focus,.btn-skin-light.inverted:hover{border-color:#3b2eef}.btn-skin-light,.btn-skin-light.inverted:active,.btn-skin-light.inverted:focus,.btn-skin-light.inverted:hover{background-color:#3b2eef}.btn-skin-lightest:active,.btn-skin-lightest:focus,.btn-skin-lightest:hover,.btn-skin-lightest.inverted{color:#5145f1}.btn-skin-lightest,.btn-skin-lightest.inverted,.btn-skin-lightest:active,.btn-skin-lightest:focus,.btn-skin-lightest:hover,.btn-skin-lightest.inverted:active,.btn-skin-lightest.inverted:focus,.btn-skin-lightest.inverted:hover{border-color:#5145f1}.btn-skin-lightest,.btn-skin-lightest.inverted:active,.btn-skin-lightest.inverted:focus,.btn-skin-lightest.inverted:hover{background-color:#5145f1}.pagination,a:hover,a:focus,a:active,.btn-skin-dark:active,.btn-skin-dark:focus,.btn-skin-dark:hover,.btn-skin-dark.inverted,.btn-skin-dark-oh:active,.btn-skin-dark-oh:focus,.btn-skin-dark-oh:hover,.post-info a:not(.btn):hover,.grid-container__classic .post-type__icon .icn-format,[class*='grid-container__'] .hover .entry-title a,.widget-area a:not(.btn):hover,a.czr-format-link:hover,.format-link.hover a.czr-format-link,button[type=submit]:hover,button[type=submit]:active,button[type=submit]:focus,input[type=submit]:hover,input[type=submit]:active,input[type=submit]:focus,.tabs .nav-link:hover,.tabs .nav-link.active,.tabs .nav-link.active:hover,.tabs .nav-link.active:focus{color:#130b88}.grid-container__classic.tc-grid-border .grid__item,.btn-skin-dark,.btn-skin-dark.inverted,button[type=submit],input[type=submit],.btn-skin-dark:active,.btn-skin-dark:focus,.btn-skin-dark:hover,.btn-skin-dark.inverted:active,.btn-skin-dark.inverted:focus,.btn-skin-dark.inverted:hover,.btn-skin-h-dark:active,.btn-skin-h-dark:focus,.btn-skin-h-dark:hover,.btn-skin-h-dark.inverted,.btn-skin-h-dark.inverted,.btn-skin-h-dark.inverted,.btn-skin-dark-oh:active,.btn-skin-dark-oh:focus,.btn-skin-dark-oh:hover,.btn-skin-dark-oh.inverted:active,.btn-skin-dark-oh.inverted:focus,.btn-skin-dark-oh.inverted:hover,button[type=submit]:hover,button[type=submit]:active,button[type=submit]:focus,input[type=submit]:hover,input[type=submit]:active,input[type=submit]:focus{border-color:#130b88}.btn-skin-dark,.btn-skin-dark.inverted:active,.btn-skin-dark.inverted:focus,.btn-skin-dark.inverted:hover,.btn-skin-h-dark:active,.btn-skin-h-dark:focus,.btn-skin-h-dark:hover,.btn-skin-h-dark.inverted,.btn-skin-h-dark.inverted,.btn-skin-h-dark.inverted,.btn-skin-dark-oh.inverted:active,.btn-skin-dark-oh.inverted:focus,.btn-skin-dark-oh.inverted:hover,.grid-container__classic .post-type__icon:hover,button[type=submit],input[type=submit],.czr-link-hover-underline .widgets-list-layout-links a:not(.btn)::before,.czr-link-hover-underline .widget_archive a:not(.btn)::before,.czr-link-hover-underline .widget_nav_menu a:not(.btn)::before,.czr-link-hover-underline .widget_rss ul a:not(.btn)::before,.czr-link-hover-underline .widget_recent_entries a:not(.btn)::before,.czr-link-hover-underline .widget_categories a:not(.btn)::before,.czr-link-hover-underline .widget_meta a:not(.btn)::before,.czr-link-hover-underline .widget_recent_comments a:not(.btn)::before,.czr-link-hover-underline .widget_pages a:not(.btn)::before,.czr-link-hover-underline .widget_calendar a:not(.btn)::before,[class*='grid-container__'] .hover .entry-title a::after,a.czr-format-link::before,.comment-author a::before,.comment-link::before,.tabs .nav-link.active::before{background-color:#130b88}.btn-skin-dark-shaded:active,.btn-skin-dark-shaded:focus,.btn-skin-dark-shaded:hover,.btn-skin-dark-shaded.inverted{background-color:rgba(19,11,136,0.2)}.btn-skin-dark-shaded,.btn-skin-dark-shaded.inverted:active,.btn-skin-dark-shaded.inverted:focus,.btn-skin-dark-shaded.inverted:hover{background-color:rgba(19,11,136,0.8)}
+              body {
+                font-size : 1.00rem;
+                line-height : 1.5em;
+              }
+
+.tc-header.border-top { border-top-width: 5px; border-top-style: solid }
+#czr-push-footer { display: none; visibility: hidden; }
+        .czr-sticky-footer #czr-push-footer.sticky-footer-enabled { display: block; }
+        
+</style>
+<link rel='stylesheet' id='customizr-style-css' href='https://sensualnosc.bn.org.pl/wp-content/themes/customizr-child/style.css?ver=4.4.21.1704120813' media='all' />
+<script src="https://sensualnosc.bn.org.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://sensualnosc.bn.org.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://sensualnosc.bn.org.pl/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script id="czr-init-js-extra">
+var CZRParams = {"assetsPath":"https:\/\/sensualnosc.bn.org.pl\/wp-content\/themes\/customizr\/assets\/front\/","mainScriptUrl":"https:\/\/sensualnosc.bn.org.pl\/wp-content\/themes\/customizr\/assets\/front\/js\/tc-scripts.min.js?4.4.22","deferFontAwesome":"1","fontAwesomeUrl":"https:\/\/sensualnosc.bn.org.pl\/wp-content\/themes\/customizr\/assets\/shared\/fonts\/fa\/css\/fontawesome-all.min.css?4.4.22","_disabled":[],"centerSliderImg":"1","isLightBoxEnabled":"1","SmoothScroll":{"Enabled":true,"Options":{"touchpadSupport":false}},"isAnchorScrollEnabled":"","anchorSmoothScrollExclude":{"simple":["[class*=edd]",".carousel-control","[data-toggle=\"modal\"]","[data-toggle=\"dropdown\"]","[data-toggle=\"czr-dropdown\"]","[data-toggle=\"tooltip\"]","[data-toggle=\"popover\"]","[data-toggle=\"collapse\"]","[data-toggle=\"czr-collapse\"]","[data-toggle=\"tab\"]","[data-toggle=\"pill\"]","[data-toggle=\"czr-pill\"]","[class*=upme]","[class*=um-]"],"deep":{"classes":[],"ids":[]}},"timerOnScrollAllBrowsers":"1","centerAllImg":"1","HasComments":"","LoadModernizr":"1","stickyHeader":"","extLinksStyle":"","extLinksTargetExt":"","extLinksSkipSelectors":{"classes":["btn","button"],"ids":[]},"dropcapEnabled":"","dropcapWhere":{"post":"","page":""},"dropcapMinWords":"","dropcapSkipSelectors":{"tags":["IMG","IFRAME","H1","H2","H3","H4","H5","H6","BLOCKQUOTE","UL","OL"],"classes":["btn"],"id":[]},"imgSmartLoadEnabled":"1","imgSmartLoadOpts":{"parentSelectors":["[class*=grid-container], .article-container",".__before_main_wrapper",".widget-front",".post-related-articles",".tc-singular-thumbnail-wrapper",".sek-module-inner"],"opts":{"excludeImg":[".tc-holder-img"]}},"imgSmartLoadsForSliders":"1","pluginCompats":[],"isWPMobile":"","menuStickyUserSettings":{"desktop":"stick_up","mobile":"stick_up"},"adminAjaxUrl":"https:\/\/sensualnosc.bn.org.pl\/wp-admin\/admin-ajax.php","ajaxUrl":"https:\/\/sensualnosc.bn.org.pl\/?czrajax=1","frontNonce":{"id":"CZRFrontNonce","handle":"e16b94e9be"},"isDevMode":"","isModernStyle":"1","i18n":{"Permanently dismiss":"Permanently dismiss"},"frontNotifications":{"welcome":{"enabled":false,"content":"","dismissAction":"dismiss_welcome_note_front"}},"preloadGfonts":"1","googleFonts":"Source+Sans+Pro","version":"4.4.22"};
+</script>
+<script src="https://sensualnosc.bn.org.pl/wp-content/themes/customizr/assets/front/js/tc-init.min.js?ver=4.4.22" id="czr-init-js"></script>
+<script src="https://sensualnosc.bn.org.pl/wp-content/themes/customizr/assets/front/js/libs/modernizr.min.js?ver=4.4.22" id="modernizr-js"></script>
+<link rel="https://api.w.org/" href="https://sensualnosc.bn.org.pl/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://sensualnosc.bn.org.pl/wp-json/wp/v2/posts/8675" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sensualnosc.bn.org.pl/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<link rel="canonical" href="https://sensualnosc.bn.org.pl/ciemna-erotyka-proza-wczesnego-modernizmu-463/" />
+<link rel='shortlink' href='https://sensualnosc.bn.org.pl/?p=8675' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://sensualnosc.bn.org.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsensualnosc.bn.org.pl%2Fciemna-erotyka-proza-wczesnego-modernizmu-463%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://sensualnosc.bn.org.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsensualnosc.bn.org.pl%2Fciemna-erotyka-proza-wczesnego-modernizmu-463%2F&#038;format=xml" />
+              <link rel="preload" as="font" type="font/woff2" href="https://sensualnosc.bn.org.pl/wp-content/themes/customizr/assets/shared/fonts/customizr/customizr.woff2?128396981" crossorigin="anonymous"/>
+            		<style id="wp-custom-css">
+			cite {
+  color: #777;
+  font-weight: 300;
+  font-style: normal;
+  padding-left: 2.625em;
+  padding-right: 0.25em;
+  position: relative;
+  display: inline-block;
+}
+
+cite::before {
+  content: none;
+  position: absolute;
+  width: 2.5em;
+  height: 1px;
+  bottom: 2px;
+  left: 0;
+  border-bottom: 1px solid;
+  color: #313131;
+}
+
+.header-skin-light .tc-header {
+	background: #d2c3ad
+}
+
+.footer-skin-dark .footer__wrapper {
+	background: #d2c3ad
+}
+
+.header-skin-light .sticky-transparent.is-sticky .desktop-sticky {
+	background: inherit
+}
+
+body {
+	background-color: #ede1d3
+}		</style>
+		</head>
+
+  <body class="wp-singular post-template-default single single-post postid-8675 single-format-standard wp-embed-responsive wp-theme-customizr wp-child-theme-customizr-child czr-link-hover-underline header-skin-light footer-skin-dark czr-no-sidebar tc-center-images czr-full-layout customizr-4-4-22-with-child-theme czr-sticky-footer">
+          <a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+    
+    
+    <div id="tc-page-wrap" class="">
+
+      <header class="tpnav-header__header tc-header sl-logo_left sticky-brand-shrink-on sticky-transparent border-top czr-submenu-fade czr-submenu-move" >
+        <div class="primary-navbar__wrapper d-none d-lg-block has-horizontal-menu desktop-sticky" >
+  <div class="container">
+    <div class="row align-items-center flex-row primary-navbar__row">
+      <div class="branding__container col col-auto" >
+  <div class="branding align-items-center flex-column ">
+    <div class="branding-row d-flex flex-row align-items-center align-self-start">
+      <span class="navbar-brand col-auto " >
+    <a class="navbar-brand-sitename " href="https://sensualnosc.bn.org.pl/">
+    <span>Sensualność w kulturze polskiej</span>
+  </a>
+</span>
+      </div>
+      </div>
+</div>
+      <div class="primary-nav__container justify-content-lg-around col col-lg-auto flex-lg-column" >
+  <div class="primary-nav__wrapper flex-lg-row align-items-center justify-content-end">
+              <nav class="primary-nav__nav col" id="primary-nav">
+          <div class="nav__menu-wrapper primary-nav__menu-wrapper justify-content-end czr-open-on-hover" >
+<ul id="main-menu" class="primary-nav__menu regular-nav nav__menu nav"><li id="menu-item-4330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children czr-dropdown menu-item-4330"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/lista-wpisow/" class="nav__link"><span class="nav__title">indeksy i artykuły</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+	<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-74"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/wykaz-dziedzin-dziedziniec/" class="nav__link"><span class="nav__title">indeks dziedzin (dziedziniec)</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+		<li id="menu-item-109" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-109"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/category/literatura/" class="nav__link"><span class="nav__title">literatura</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+			<li id="menu-item-110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-110"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/category/literatura/okres-staropolski/" class="nav__link"><span class="nav__title">okres staropolski</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li id="menu-item-111" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-111"><a href="https://sensualnosc.bn.org.pl/category/literatura/okres-staropolski/poezja/" class="nav__link"><span class="nav__title">poezja</span></a></li>
+				<li id="menu-item-112" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-112"><a href="https://sensualnosc.bn.org.pl/category/literatura/okres-staropolski/proza/" class="nav__link"><span class="nav__title">proza</span></a></li>
+				<li id="menu-item-113" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-113"><a href="https://sensualnosc.bn.org.pl/category/literatura/okres-staropolski/tematy/" class="nav__link"><span class="nav__title">tematy</span></a></li>
+</ul>
+</li>
+			<li id="menu-item-129" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-129"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/category/literatura/xviii-wiek/" class="nav__link"><span class="nav__title">XVIII wiek</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li id="menu-item-138" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-138"><a href="https://sensualnosc.bn.org.pl/category/literatura/xviii-wiek/poezja-xviii-wiek/" class="nav__link"><span class="nav__title">poezja</span></a></li>
+				<li id="menu-item-139" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-139"><a href="https://sensualnosc.bn.org.pl/category/literatura/xviii-wiek/proza-xviii-wiek/" class="nav__link"><span class="nav__title">proza</span></a></li>
+				<li id="menu-item-140" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-140"><a href="https://sensualnosc.bn.org.pl/category/literatura/xviii-wiek/tematy-xviii-wiek/" class="nav__link"><span class="nav__title">tematy</span></a></li>
+</ul>
+</li>
+			<li id="menu-item-128" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-128"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/" class="nav__link"><span class="nav__title">XIX wiek</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li id="menu-item-141" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-141"><a href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/poezja-xix-wiek/" class="nav__link"><span class="nav__title">poezja</span></a></li>
+				<li id="menu-item-143" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent dropdown-item current-active menu-item-143"><a href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/proza-xix-wiek/" class="nav__link"><span class="nav__title">proza</span></a></li>
+				<li id="menu-item-145" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-145"><a href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/tematy-xix-wiek/" class="nav__link"><span class="nav__title">tematy</span></a></li>
+				<li id="menu-item-144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-144"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/romantyzm/" class="nav__link"><span class="nav__title">romantyzm</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+					<li id="menu-item-135" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-135"><a href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/romantyzm/teoria/" class="nav__link"><span class="nav__title">teoria</span></a></li>
+					<li id="menu-item-137" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-137"><a href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/romantyzm/opisy-zmyslow/" class="nav__link"><span class="nav__title">opisy zmysłów</span></a></li>
+</ul>
+</li>
+				<li id="menu-item-142" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-142"><a href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/pozytywizm/" class="nav__link"><span class="nav__title">pozytywizm</span></a></li>
+</ul>
+</li>
+			<li id="menu-item-130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-130"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/category/literatura/xx-wiek/" class="nav__link"><span class="nav__title">XX wiek</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li id="menu-item-146" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-146"><a href="https://sensualnosc.bn.org.pl/category/literatura/xx-wiek/poezja-xx-wiek/" class="nav__link"><span class="nav__title">poezja</span></a></li>
+				<li id="menu-item-147" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-147"><a href="https://sensualnosc.bn.org.pl/category/literatura/xx-wiek/proza-xx-wiek/" class="nav__link"><span class="nav__title">proza</span></a></li>
+				<li id="menu-item-148" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-148"><a href="https://sensualnosc.bn.org.pl/category/literatura/xx-wiek/tematy-xx-wiek/" class="nav__link"><span class="nav__title">tematy</span></a></li>
+</ul>
+</li>
+			<li id="menu-item-132" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-132"><a href="https://sensualnosc.bn.org.pl/category/literatura/teoria-przekladu/" class="nav__link"><span class="nav__title">teoria przekładu</span></a></li>
+			<li id="menu-item-131" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-131"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/category/literatura/teoria-literatury/" class="nav__link"><span class="nav__title">teoria literatury</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li id="menu-item-133" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-133"><a href="https://sensualnosc.bn.org.pl/category/literatura/teoria-literatury/terminologia/" class="nav__link"><span class="nav__title">terminologia</span></a></li>
+</ul>
+</li>
+			<li id="menu-item-114" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-114"><a href="https://sensualnosc.bn.org.pl/category/literatura/pogranicza-literatury/" class="nav__link"><span class="nav__title">pogranicza literatury</span></a></li>
+</ul>
+</li>
+		<li id="menu-item-99" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-99"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/category/jezyk/" class="nav__link"><span class="nav__title">język</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+			<li id="menu-item-100" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-100"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/category/jezyk/diachronia/" class="nav__link"><span class="nav__title">diachronia</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li id="menu-item-101" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-101"><a href="https://sensualnosc.bn.org.pl/category/jezyk/diachronia/morfologia/" class="nav__link"><span class="nav__title">morfologia</span></a></li>
+				<li id="menu-item-102" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-102"><a href="https://sensualnosc.bn.org.pl/category/jezyk/diachronia/semantyka/" class="nav__link"><span class="nav__title">semantyka</span></a></li>
+				<li id="menu-item-103" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-103"><a href="https://sensualnosc.bn.org.pl/category/jezyk/diachronia/skladnia/" class="nav__link"><span class="nav__title">składnia</span></a></li>
+</ul>
+</li>
+			<li id="menu-item-104" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-104"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/category/jezyk/synchronia/" class="nav__link"><span class="nav__title">synchronia</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li id="menu-item-105" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-105"><a href="https://sensualnosc.bn.org.pl/category/jezyk/synchronia/morfologia-synchronia/" class="nav__link"><span class="nav__title">morfologia</span></a></li>
+				<li id="menu-item-106" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-106"><a href="https://sensualnosc.bn.org.pl/category/jezyk/synchronia/semantyka-synchronia/" class="nav__link"><span class="nav__title">semantyka</span></a></li>
+				<li id="menu-item-107" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-107"><a href="https://sensualnosc.bn.org.pl/category/jezyk/synchronia/skladnia-synchronia/" class="nav__link"><span class="nav__title">składnia</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+		<li id="menu-item-118" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-118"><a href="https://sensualnosc.bn.org.pl/category/sztuka/" class="nav__link"><span class="nav__title">sztuka</span></a></li>
+		<li id="menu-item-119" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-119"><a href="https://sensualnosc.bn.org.pl/category/teatr/" class="nav__link"><span class="nav__title">teatr</span></a></li>
+		<li id="menu-item-115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-115"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/category/media/" class="nav__link"><span class="nav__title">media</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+			<li id="menu-item-116" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-116"><a href="https://sensualnosc.bn.org.pl/category/media/radio/" class="nav__link"><span class="nav__title">radio</span></a></li>
+			<li id="menu-item-117" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-117"><a href="https://sensualnosc.bn.org.pl/category/media/telewizja/" class="nav__link"><span class="nav__title">telewizja</span></a></li>
+</ul>
+</li>
+		<li id="menu-item-108" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-108"><a href="https://sensualnosc.bn.org.pl/category/kino/" class="nav__link"><span class="nav__title">kino</span></a></li>
+		<li id="menu-item-98" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-98"><a href="https://sensualnosc.bn.org.pl/category/historia/" class="nav__link"><span class="nav__title">historia</span></a></li>
+		<li id="menu-item-96" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-96"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/" class="nav__link"><span class="nav__title">antropologia kulturowa</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+			<li id="menu-item-97" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-97"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/kultura-tradycyjna-ludowa/" class="nav__link"><span class="nav__title">kultura tradycyjna/ludowa</span></a></li>
+			<li id="menu-item-125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-125"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/tematy-antropologia-kulturowa/" class="nav__link"><span class="nav__title">tematy</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li id="menu-item-124" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-124"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/tematy-antropologia-kulturowa/religia/" class="nav__link"><span class="nav__title">religia</span></a></li>
+				<li id="menu-item-122" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-122"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/tematy-antropologia-kulturowa/magia/" class="nav__link"><span class="nav__title">magia</span></a></li>
+				<li id="menu-item-123" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-123"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/tematy-antropologia-kulturowa/medycyna/" class="nav__link"><span class="nav__title">medycyna</span></a></li>
+				<li id="menu-item-121" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-121"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/tematy-antropologia-kulturowa/higiena/" class="nav__link"><span class="nav__title">higiena</span></a></li>
+				<li id="menu-item-126" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-126"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/tematy-antropologia-kulturowa/wiedza-potoczna/" class="nav__link"><span class="nav__title">wiedza potoczna</span></a></li>
+				<li id="menu-item-120" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-120"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/tematy-antropologia-kulturowa/folklor/" class="nav__link"><span class="nav__title">folklor</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+		<li id="menu-item-127" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-127"><a href="https://sensualnosc.bn.org.pl/category/zagadnienia-interdyscyplinarne/" class="nav__link"><span class="nav__title">zagadnienia interdyscyplinarne</span></a></li>
+</ul>
+</li>
+	<li id="menu-item-4331" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-4331"><a href="https://sensualnosc.bn.org.pl/wykaz-alfabetyczny-artykulow-wedlug-tytulu/" class="nav__link"><span class="nav__title">Indeks alfabetyczny artykułów (według tytułów)</span></a></li>
+	<li id="menu-item-4370" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-4370"><a href="https://sensualnosc.bn.org.pl/wykaz-alfabetyczny-artykulow-wedlug-autora/" class="nav__link"><span class="nav__title">Indeks alfabetyczny nazwisk autorów artykułów</span></a></li>
+	<li id="menu-item-9754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-9754"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-bibliografii/" class="nav__link"><span class="nav__title">Indeks bibliografii</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+		<li id="menu-item-9766" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-9766"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-bibliografii-a-j/" class="nav__link"><span class="nav__title">Indeks bibliografii A-J</span></a></li>
+		<li id="menu-item-9765" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-9765"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-bibliografii-k-q/" class="nav__link"><span class="nav__title">Indeks bibliografii K-Q</span></a></li>
+		<li id="menu-item-9764" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-9764"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-bibliografii-r/" class="nav__link"><span class="nav__title">Indeks bibliografii R-Ż</span></a></li>
+</ul>
+</li>
+	<li id="menu-item-10054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-10054"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-cytatow/" class="nav__link"><span class="nav__title">Indeks cytatów</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+		<li id="menu-item-10057" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-10057"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-cytatow-a-j/" class="nav__link"><span class="nav__title">Indeks cytatów A-J</span></a></li>
+		<li id="menu-item-10056" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-10056"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-cytatow-k-q/" class="nav__link"><span class="nav__title">Indeks cytatów K-Q</span></a></li>
+		<li id="menu-item-10055" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-10055"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-cytatow-r/" class="nav__link"><span class="nav__title">Indeks cytatów R-Ż</span></a></li>
+</ul>
+</li>
+	<li id="menu-item-10945" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-10945"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-mediow/" class="nav__link"><span class="nav__title">indeks mediów</span></a></li>
+	<li id="menu-item-10438" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-10438"><a href="https://sensualnosc.bn.org.pl/indeks-tagow/" class="nav__link"><span class="nav__title">indeks tagów</span></a></li>
+	<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-71"><a data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" href="https://sensualnosc.bn.org.pl/wykaz-zmyslow/" class="nav__link"><span class="nav__title">indeks zmysłów</span><span class="caret__dropdown-toggler"><i class="icn-down-small"></i></span></a>
+<ul class="dropdown-menu czr-dropdown-menu">
+		<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-28"><a href="https://sensualnosc.bn.org.pl/category/sensualnosc/" class="nav__link"><span class="nav__title">sensualność</span></a></li>
+		<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-18"><a href="https://sensualnosc.bn.org.pl/category/wzrok/" class="nav__link"><span class="nav__title">wzrok</span></a></li>
+		<li id="menu-item-30" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-30"><a href="https://sensualnosc.bn.org.pl/category/wech/" class="nav__link"><span class="nav__title">węch</span></a></li>
+		<li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-17"><a href="https://sensualnosc.bn.org.pl/category/sluch/" class="nav__link"><span class="nav__title">słuch</span></a></li>
+		<li id="menu-item-29" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-29"><a href="https://sensualnosc.bn.org.pl/category/smak/" class="nav__link"><span class="nav__title">smak</span></a></li>
+		<li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-26"><a href="https://sensualnosc.bn.org.pl/category/dotyk/" class="nav__link"><span class="nav__title">dotyk</span></a></li>
+		<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent dropdown-item current-active menu-item-25"><a href="https://sensualnosc.bn.org.pl/category/cialo/" class="nav__link"><span class="nav__title">ciało</span></a></li>
+		<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-27"><a href="https://sensualnosc.bn.org.pl/category/polisensorycznosc/" class="nav__link"><span class="nav__title">polisensoryczność</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-16"><a href="https://sensualnosc.bn.org.pl/" class="nav__link"><span class="nav__title">o projekcie</span></a></li>
+</ul></div>        </nav>
+    <div class="primary-nav__utils nav__utils col-auto" >
+    <ul class="nav utils flex-row flex-nowrap regular-nav">
+      <li class="nav__search " >
+  <a href="#" class="search-toggle_btn icn-search czr-overlay-toggle_btn"  aria-expanded="false"><span class="sr-only">Search</span></a>
+        <div class="czr-search-expand">
+      <div class="czr-search-expand-inner"><div class="search-form__container " >
+  <form action="https://sensualnosc.bn.org.pl/" method="get" class="czr-form search-form">
+    <div class="form-group czr-focus">
+            <label for="s-695949504448e" id="lsearch-695949504448e">
+        <span class="screen-reader-text">Szukaj</span>
+        <input id="s-695949504448e" class="form-control czr-search-field" name="s" type="search" value="" aria-describedby="lsearch-695949504448e" placeholder="Szukaj &hellip;">
+      </label>
+      <button type="submit" class="button"><i class="icn-search"></i><span class="screen-reader-text">Szukaj &hellip;</span></button>
+    </div>
+  </form>
+</div></div>
+    </div>
+    </li>
+    </ul>
+</div>  </div>
+</div>
+    </div>
+  </div>
+</div>    <div class="mobile-navbar__wrapper d-lg-none mobile-sticky" >
+    <div class="branding__container justify-content-between align-items-center container" >
+  <div class="branding flex-column">
+    <div class="branding-row d-flex align-self-start flex-row align-items-center">
+      <span class="navbar-brand col-auto " >
+    <a class="navbar-brand-sitename " href="https://sensualnosc.bn.org.pl/">
+    <span>Sensualność w kulturze polskiej</span>
+  </a>
+</span>
+    </div>
+      </div>
+  <div class="mobile-utils__wrapper nav__utils regular-nav">
+    <ul class="nav utils row flex-row flex-nowrap">
+      <li class="nav__search " >
+  <a href="#" class="search-toggle_btn icn-search czr-dropdown" data-aria-haspopup="true" aria-expanded="false"><span class="sr-only">Search</span></a>
+        <div class="czr-search-expand">
+      <div class="czr-search-expand-inner"><div class="search-form__container " >
+  <form action="https://sensualnosc.bn.org.pl/" method="get" class="czr-form search-form">
+    <div class="form-group czr-focus">
+            <label for="s-69594950447ae" id="lsearch-69594950447ae">
+        <span class="screen-reader-text">Szukaj</span>
+        <input id="s-69594950447ae" class="form-control czr-search-field" name="s" type="search" value="" aria-describedby="lsearch-69594950447ae" placeholder="Szukaj &hellip;">
+      </label>
+      <button type="submit" class="button"><i class="icn-search"></i><span class="screen-reader-text">Szukaj &hellip;</span></button>
+    </div>
+  </form>
+</div></div>
+    </div>
+        <ul class="dropdown-menu czr-dropdown-menu">
+      <li class="header-search__container container">
+  <div class="search-form__container " >
+  <form action="https://sensualnosc.bn.org.pl/" method="get" class="czr-form search-form">
+    <div class="form-group czr-focus">
+            <label for="s-69594950448cb" id="lsearch-69594950448cb">
+        <span class="screen-reader-text">Szukaj</span>
+        <input id="s-69594950448cb" class="form-control czr-search-field" name="s" type="search" value="" aria-describedby="lsearch-69594950448cb" placeholder="Szukaj &hellip;">
+      </label>
+      <button type="submit" class="button"><i class="icn-search"></i><span class="screen-reader-text">Szukaj &hellip;</span></button>
+    </div>
+  </form>
+</div></li>    </ul>
+  </li>
+<li class="hamburger-toggler__container " >
+  <button class="ham-toggler-menu czr-collapsed" data-toggle="czr-collapse" data-target="#mobile-nav"><span class="ham__toggler-span-wrapper"><span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span></span><span class="screen-reader-text">Menu</span></button>
+</li>
+    </ul>
+  </div>
+</div>
+<div class="mobile-nav__container " >
+   <nav class="mobile-nav__nav flex-column czr-collapse" id="mobile-nav">
+      <div class="mobile-nav__inner container">
+      <div class="nav__menu-wrapper mobile-nav__menu-wrapper czr-open-on-click" >
+<ul id="mobile-nav-menu" class="mobile-nav__menu vertical-nav nav__menu flex-column nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children czr-dropdown menu-item-4330"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/lista-wpisow/" class="nav__link"><span class="nav__title">indeksy i artykuły</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-74"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/wykaz-dziedzin-dziedziniec/" class="nav__link"><span class="nav__title">indeks dziedzin (dziedziniec)</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-109"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/category/literatura/" class="nav__link"><span class="nav__title">literatura</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-110"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/category/literatura/okres-staropolski/" class="nav__link"><span class="nav__title">okres staropolski</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-111"><a href="https://sensualnosc.bn.org.pl/category/literatura/okres-staropolski/poezja/" class="nav__link"><span class="nav__title">poezja</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-112"><a href="https://sensualnosc.bn.org.pl/category/literatura/okres-staropolski/proza/" class="nav__link"><span class="nav__title">proza</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-113"><a href="https://sensualnosc.bn.org.pl/category/literatura/okres-staropolski/tematy/" class="nav__link"><span class="nav__title">tematy</span></a></li>
+</ul>
+</li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-129"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/category/literatura/xviii-wiek/" class="nav__link"><span class="nav__title">XVIII wiek</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-138"><a href="https://sensualnosc.bn.org.pl/category/literatura/xviii-wiek/poezja-xviii-wiek/" class="nav__link"><span class="nav__title">poezja</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-139"><a href="https://sensualnosc.bn.org.pl/category/literatura/xviii-wiek/proza-xviii-wiek/" class="nav__link"><span class="nav__title">proza</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-140"><a href="https://sensualnosc.bn.org.pl/category/literatura/xviii-wiek/tematy-xviii-wiek/" class="nav__link"><span class="nav__title">tematy</span></a></li>
+</ul>
+</li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-128"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/" class="nav__link"><span class="nav__title">XIX wiek</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-141"><a href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/poezja-xix-wiek/" class="nav__link"><span class="nav__title">poezja</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent dropdown-item current-active menu-item-143"><a href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/proza-xix-wiek/" class="nav__link"><span class="nav__title">proza</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-145"><a href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/tematy-xix-wiek/" class="nav__link"><span class="nav__title">tematy</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-144"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/romantyzm/" class="nav__link"><span class="nav__title">romantyzm</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+					<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-135"><a href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/romantyzm/teoria/" class="nav__link"><span class="nav__title">teoria</span></a></li>
+					<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-137"><a href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/romantyzm/opisy-zmyslow/" class="nav__link"><span class="nav__title">opisy zmysłów</span></a></li>
+</ul>
+</li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-142"><a href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/pozytywizm/" class="nav__link"><span class="nav__title">pozytywizm</span></a></li>
+</ul>
+</li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-130"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/category/literatura/xx-wiek/" class="nav__link"><span class="nav__title">XX wiek</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-146"><a href="https://sensualnosc.bn.org.pl/category/literatura/xx-wiek/poezja-xx-wiek/" class="nav__link"><span class="nav__title">poezja</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-147"><a href="https://sensualnosc.bn.org.pl/category/literatura/xx-wiek/proza-xx-wiek/" class="nav__link"><span class="nav__title">proza</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-148"><a href="https://sensualnosc.bn.org.pl/category/literatura/xx-wiek/tematy-xx-wiek/" class="nav__link"><span class="nav__title">tematy</span></a></li>
+</ul>
+</li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-132"><a href="https://sensualnosc.bn.org.pl/category/literatura/teoria-przekladu/" class="nav__link"><span class="nav__title">teoria przekładu</span></a></li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-131"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/category/literatura/teoria-literatury/" class="nav__link"><span class="nav__title">teoria literatury</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-133"><a href="https://sensualnosc.bn.org.pl/category/literatura/teoria-literatury/terminologia/" class="nav__link"><span class="nav__title">terminologia</span></a></li>
+</ul>
+</li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-114"><a href="https://sensualnosc.bn.org.pl/category/literatura/pogranicza-literatury/" class="nav__link"><span class="nav__title">pogranicza literatury</span></a></li>
+</ul>
+</li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-99"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/category/jezyk/" class="nav__link"><span class="nav__title">język</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-100"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/category/jezyk/diachronia/" class="nav__link"><span class="nav__title">diachronia</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-101"><a href="https://sensualnosc.bn.org.pl/category/jezyk/diachronia/morfologia/" class="nav__link"><span class="nav__title">morfologia</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-102"><a href="https://sensualnosc.bn.org.pl/category/jezyk/diachronia/semantyka/" class="nav__link"><span class="nav__title">semantyka</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-103"><a href="https://sensualnosc.bn.org.pl/category/jezyk/diachronia/skladnia/" class="nav__link"><span class="nav__title">składnia</span></a></li>
+</ul>
+</li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-104"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/category/jezyk/synchronia/" class="nav__link"><span class="nav__title">synchronia</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-105"><a href="https://sensualnosc.bn.org.pl/category/jezyk/synchronia/morfologia-synchronia/" class="nav__link"><span class="nav__title">morfologia</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-106"><a href="https://sensualnosc.bn.org.pl/category/jezyk/synchronia/semantyka-synchronia/" class="nav__link"><span class="nav__title">semantyka</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-107"><a href="https://sensualnosc.bn.org.pl/category/jezyk/synchronia/skladnia-synchronia/" class="nav__link"><span class="nav__title">składnia</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-118"><a href="https://sensualnosc.bn.org.pl/category/sztuka/" class="nav__link"><span class="nav__title">sztuka</span></a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-119"><a href="https://sensualnosc.bn.org.pl/category/teatr/" class="nav__link"><span class="nav__title">teatr</span></a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-115"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/category/media/" class="nav__link"><span class="nav__title">media</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-116"><a href="https://sensualnosc.bn.org.pl/category/media/radio/" class="nav__link"><span class="nav__title">radio</span></a></li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-117"><a href="https://sensualnosc.bn.org.pl/category/media/telewizja/" class="nav__link"><span class="nav__title">telewizja</span></a></li>
+</ul>
+</li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-108"><a href="https://sensualnosc.bn.org.pl/category/kino/" class="nav__link"><span class="nav__title">kino</span></a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-98"><a href="https://sensualnosc.bn.org.pl/category/historia/" class="nav__link"><span class="nav__title">historia</span></a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-96"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/" class="nav__link"><span class="nav__title">antropologia kulturowa</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-97"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/kultura-tradycyjna-ludowa/" class="nav__link"><span class="nav__title">kultura tradycyjna/ludowa</span></a></li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-125"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/tematy-antropologia-kulturowa/" class="nav__link"><span class="nav__title">tematy</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-124"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/tematy-antropologia-kulturowa/religia/" class="nav__link"><span class="nav__title">religia</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-122"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/tematy-antropologia-kulturowa/magia/" class="nav__link"><span class="nav__title">magia</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-123"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/tematy-antropologia-kulturowa/medycyna/" class="nav__link"><span class="nav__title">medycyna</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-121"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/tematy-antropologia-kulturowa/higiena/" class="nav__link"><span class="nav__title">higiena</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-126"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/tematy-antropologia-kulturowa/wiedza-potoczna/" class="nav__link"><span class="nav__title">wiedza potoczna</span></a></li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-120"><a href="https://sensualnosc.bn.org.pl/category/antropologia-kulturowa/tematy-antropologia-kulturowa/folklor/" class="nav__link"><span class="nav__title">folklor</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-127"><a href="https://sensualnosc.bn.org.pl/category/zagadnienia-interdyscyplinarne/" class="nav__link"><span class="nav__title">zagadnienia interdyscyplinarne</span></a></li>
+</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-4331"><a href="https://sensualnosc.bn.org.pl/wykaz-alfabetyczny-artykulow-wedlug-tytulu/" class="nav__link"><span class="nav__title">Indeks alfabetyczny artykułów (według tytułów)</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-4370"><a href="https://sensualnosc.bn.org.pl/wykaz-alfabetyczny-artykulow-wedlug-autora/" class="nav__link"><span class="nav__title">Indeks alfabetyczny nazwisk autorów artykułów</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-9754"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-bibliografii/" class="nav__link"><span class="nav__title">Indeks bibliografii</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-9766"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-bibliografii-a-j/" class="nav__link"><span class="nav__title">Indeks bibliografii A-J</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-9765"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-bibliografii-k-q/" class="nav__link"><span class="nav__title">Indeks bibliografii K-Q</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-9764"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-bibliografii-r/" class="nav__link"><span class="nav__title">Indeks bibliografii R-Ż</span></a></li>
+</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-10054"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-cytatow/" class="nav__link"><span class="nav__title">Indeks cytatów</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-10057"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-cytatow-a-j/" class="nav__link"><span class="nav__title">Indeks cytatów A-J</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-10056"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-cytatow-k-q/" class="nav__link"><span class="nav__title">Indeks cytatów K-Q</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-10055"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-cytatow-r/" class="nav__link"><span class="nav__title">Indeks cytatów R-Ż</span></a></li>
+</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-10945"><a href="https://sensualnosc.bn.org.pl/zbiorczy-wykaz-mediow/" class="nav__link"><span class="nav__title">indeks mediów</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page dropdown-item menu-item-10438"><a href="https://sensualnosc.bn.org.pl/indeks-tagow/" class="nav__link"><span class="nav__title">indeks tagów</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children czr-dropdown-submenu dropdown-item menu-item-71"><span class="display-flex nav__link-wrapper align-items-start"><a href="https://sensualnosc.bn.org.pl/wykaz-zmyslow/" class="nav__link"><span class="nav__title">indeks zmysłów</span></a><button data-toggle="czr-dropdown" aria-haspopup="true" aria-expanded="false" class="caret__dropdown-toggler czr-btn-link"><i class="icn-down-small"></i></button></span>
+<ul class="dropdown-menu czr-dropdown-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-28"><a href="https://sensualnosc.bn.org.pl/category/sensualnosc/" class="nav__link"><span class="nav__title">sensualność</span></a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-18"><a href="https://sensualnosc.bn.org.pl/category/wzrok/" class="nav__link"><span class="nav__title">wzrok</span></a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-30"><a href="https://sensualnosc.bn.org.pl/category/wech/" class="nav__link"><span class="nav__title">węch</span></a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-17"><a href="https://sensualnosc.bn.org.pl/category/sluch/" class="nav__link"><span class="nav__title">słuch</span></a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-29"><a href="https://sensualnosc.bn.org.pl/category/smak/" class="nav__link"><span class="nav__title">smak</span></a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-26"><a href="https://sensualnosc.bn.org.pl/category/dotyk/" class="nav__link"><span class="nav__title">dotyk</span></a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent dropdown-item current-active menu-item-25"><a href="https://sensualnosc.bn.org.pl/category/cialo/" class="nav__link"><span class="nav__title">ciało</span></a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown-item menu-item-27"><a href="https://sensualnosc.bn.org.pl/category/polisensorycznosc/" class="nav__link"><span class="nav__title">polisensoryczność</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-16"><a href="https://sensualnosc.bn.org.pl/" class="nav__link"><span class="nav__title">o projekcie</span></a></li>
+</ul></div>      </div>
+  </nav>
+</div></div></header>
+
+
+  
+    <div id="main-wrapper" class="section">
+
+                      
+
+          <div class="czr-hot-crumble container page-breadcrumbs" role="navigation" aria-label="Nawigacja - okruszki" >
+  <div class="row">
+        <div class="breadcrumbs col-12"><span class="trail-begin"><a href="https://sensualnosc.bn.org.pl" title="Sensualność w kulturze polskiej" rel="home" class="trail-begin">Strona główna</a></span> <span class="sep">&raquo;</span> <a href="https://sensualnosc.bn.org.pl/category/cialo/" title="ciało">ciało</a> <span class="sep">&raquo;</span> <span class="trail-end">Ciemna erotyka – proza wczesnego modernizmu</span></div>  </div>
+</div>
+          <div class="container" role="main">
+
+            
+            <div class="flex-row row column-content-wrapper">
+
+                
+                <div id="content" class="col-12 article-container">
+
+                  <article id="post-8675" class="post-8675 post type-post status-publish format-standard category-cialo category-proza-xix-wiek tag-brzozowski-stanislaw tag-cierpienie tag-erotyka tag-metafizyka tag-micinski-tadeusz tag-nalkowska-zofia tag-przybyszewski-stanislaw tag-smierc tag-zeromski-stefan czr-hentry" >
+    <header class="entry-header " >
+  <div class="entry-header-inner">
+                <div class="tax__container post-info entry-meta">
+          <a class="tax__link" href="https://sensualnosc.bn.org.pl/category/cialo/" title="Zobacz wszystkie wpisy w ciało"> <span>ciało</span> </a><a class="tax__link" href="https://sensualnosc.bn.org.pl/category/literatura/xix-wiek/proza-xix-wiek/" title="Zobacz wszystkie wpisy w proza"> <span>proza</span> </a>        </div>
+        <h1 class="entry-title">Ciemna erotyka – proza wczesnego modernizmu</h1>
+        <div class="header-bottom">
+      <div class="post-info">
+                  <span class="entry-meta">
+        <span class="author-meta"><span class="author vcard"><span class="author_name"><a class="url fn n" href="https://sensualnosc.bn.org.pl/author/pawel-prochniak/" title="Zobacz wszystkie wpisy, których autorem jest Próchniak, Paweł" rel="author">Próchniak, Paweł</a></span></span></span><span class="v-separator">|</span>Opublikowano <a href="https://sensualnosc.bn.org.pl/2024/04/15/" title="14:07" rel="bookmark"><time class="entry-date published updated" datetime="2024-04-15">2024-04-15</time></a></span>      </div>
+    </div>
+      </div>
+</header>  <div class="post-entry tc-content-inner">
+    <section class="post-content entry-content " >
+            <div class="czr-wp-the-content">
+        <p style="text-indent: 0cm;"class="artyku">Młoda Polska postrzegała erotyzm jako kwintesencję zmysłowości. Dla wielu pisarzy tamtej epoki prawda erotycznego doświadczenia – przemawiająca w ciele, na wskroś sensualna – jest kluczem do ludzkiej natury. Pozwala rozpoznać sytuację człowieka – odsłania jego wewnętrzny pejzaż, ukazuje sposób umocowania w świecie. Literackie próby zbliżania się do tej prawdy wyrastają z poczucia, że doświadczenie erotyczne ma w sobie ten sam pierwiastek, który uobecnia się w sztuce. Jest zstąpieniem w pierwotny żywioł – źródłowy, łączący przeciwieństwa, scalający rozbieżne nurty istnienia. Żywioł ten pozwala doświadczyć intensywności i głębi. Bywa źródłem iluminacji. Ale jednocześnie jest irracjonalny i groźny. Daje o sobie znać w pracy ciemnej strony <a href="/asymetrie-rodzajowo-plciowe-w-polszczyznie-95">płci</a> i związanych z nią biologicznych sił – gwałtownych, zaborczych, niepokojąco dwuznacznych. W kręgu takich rozpoznań dojrzewała erotyczna obsesja Młodej Polski – widoczna szczególnie u Stanisława Przybyszewskiego, ale dochodząca do głosu u wielu innych pisarzy, dla których niszcząca i perwersyjna strona erotyzmu jest jednocześnie aspektem seksualności dającym szansę przekroczenia granic płytkiej egzystencji, pozwalającym zakosztować wolności istnienia, otwierającym przepaść doznań tak bardzo intensywnych, że wyobraźnia łączy je z całkowitą zatratą w cierpieniu lub <a href="/trup-cialo-osobliwe-w-wybranych-dramatach-wczesnego-modernizmu-296">śmierci</a>. </p>
+<p style="text-indent: 0cm;"class="artyku">W prozie Młodej Polski – zwłaszcza u Przybyszewskiego i Stefana Żeromskiego, a spośród pisarzy drugiego planu: u Ludwika Licińskiego – dolorystyczna aura otaczająca erotyczne doświadczenie wydobywa ciemne, niepokojące podglebie zmysłowej rozkoszy. Akcentuje jej związek ze złem: ze zbrodniczymi instynktami, z doznawaniem i <a href="/gombrowicz-odczuwanie-i-zadawanie-bolu-356">zadawaniem bólu</a>, ze ślepym popędem, który nie daje się nigdy w pełni zaspokoić ani stłumić i pochłania wszystko, co stanie mu na drodze. Erotyczny dreszcz okazuje się doświadczeniem skażonym, niszczącym, spokrewnionym ze śmiercią. Ale ma też wymiar hedonistyczny – cielesny, zmysłowy, naznaczony namiętnością. Oba wątki spotykają się niekiedy w obrazach doświadczeń orgiastycznych (przede wszystkim w powieściach <span>Tadeusza Micińskiego</span> i w prozie Przybyszewskiego, ale również u dużo ostrożniejszego pod tym względem Żeromskiego). Częściej jednak dochodzą do głosu w erotyce rozdrażnionej, perwersyjnej, nacechowanej okrucieństwem, znajdującej wyraz w wizjach ukazujących miłość płciową jako spełniające się unicestwienie, dla którego pisarze tacy jak Przybyszewski czy Miciński szukają niekiedy analogonów w kreślonych z rozmachem obrazach <span>kosmicznych</span> kataklizmów o eschatologicznym wymiarze. W ten sposób niszcząca siła erosa odsłania gwałtowną atrofię istnienia – przenosi w ludzką rzeczywistość dramat trwającej nieprzerwanie apokalipsy. Ale zarazem właśnie ten destrukcyjny rys seksualności wyostrza w młodopolskiej prozie liczne opisy erotycznych doznań bliskich epifanii, pozwalających na rozlanie się świadomości w odbieranym sensualnie świecie. W tych doznaniach perwersyjna inklinacja zwykle łączy się z rozpoznaniami natury metafizycznej i szuka dla siebie wyrazu w języku doświadczenia religijnego. Widać to dobrze u prozaików pierwszego planu – we wczesnej prozie Przybyszewskiego, w <em>Xiędzu Fauście</em> (1913) Micińskiego, w księżycowej trylogii Żuławskiego. Jeszcze wyraźniej – bo w sposób mocniej konwencjonalny – wspomniana tendencja odzywa się w dziełach twórców mniej eksponowanych. Choćby u Ewy Łuskiny w poetyckich opowiadaniach z tomów <em>Chińskim tuszem</em> (1906) i <em>Viraginitas</em> (1906). W obu książkach pisarka na różne sposoby łączy erotyczną perwersję o mocnym zabarwieniu sadomasochistycznym z wyrafinowanym okrucieństwem, a opisywane doświadczenia ciała chętnie oddaje przez odesłania do figur wyobraźni religijnej. Podobne wychylenie w stronę wrażliwości zestrajającej sferę seksualną i religijną odnaleźć można w zbiorze nowel Marii Krzymuskiej-Iwanowskiej zatytułowanym <em>Stygmat</em> (1906). Ta skłonność młodopolskiej wyobraźni z nieprzeciętną siłą odezwie się w <em>Marii Magdalenie</em> (1912) Gustawa Daniłowskiego. W tej wyjątkowo odważnej pod względem obyczajowym powieści apokryficznej erotyczne rozbudzenie głównej bohaterki ma w sobie coś z nimfomanii – podszyte jest nerwowym, chorobliwym przymusem perwersji. Ta perwersyjna inklinacja ostatecznie zespala się z inklinacją mistyczną, która, zwłaszcza w końcowych partiach książki, ociera się o seksualnie zorientowaną <span>histerię</span> religijną i przybiera postać doznań silnie zabarwionych masochistycznie. Erotyczna transgresja staje się tym samym transgresją w rzeczywistość duchową. W namiętność wpisuje wertykalną oś. Kieruje w stronę sakralnego wymiaru egzystencji. Zarazem jednak sprowadza religijne doświadczenie na teren zmysłowości – czyni je sprawą ciała odczuwającego rozkosz i ból.</p>
+<p style="text-indent: 0cm;"class="artyku">Bohater prozy Młodej Polski to często, szukający prawdy doświadczenia wewnętrznego, niewolnik ciała walczący o wyzwolenie duszy. Ale młodopolscy artyści duszy to jednocześnie – jak mówi Przybyszewski we wstępie do <em>De profundis</em> – „tragiczni »<span>senzytywni</span>«” (Przybyszewski 1922: 34). Ich nadwrażliwość ujawnia się zwłaszcza w sferze doznań erotycznych, w których na różne sposoby odzywa się „straszliwa symfonia krwi i spermy” (Przybyszewski 1917: 33). To właśnie z inspiracji Przybyszewskiego pisarze wczesnej fazy polskiego modernizmu patrzą na sprawy płci coraz odważniej i z coraz mniejszą pruderią. Chętnie przydają erotyce dekadencko-satanistyczny koloryt. Jeszcze chętniej wybujałą seksualność i związane z nią doznania przeciwstawiają nudzie i jałowości świata filistrów. Własny bunt przeciwko temu światu artykułują w języku namiętności. </p>
+<p style="text-indent: 0cm;"class="artyku">Młodopolskie języki namiętności ewokują zmysłowy konkret, eksponują sensualizm – często <span>naturalistycznej</span> proweniencji. Naturaliści odsłaniali seksualność erosa. Przybyszewski utożsamił go z chucią i płcią, a więc z tym nurtem egzystencji, który ma bezpośredni dostęp do nagiej duszy człowieka i wszechświata. Wyobraźnia autora <em>Totenmesse</em> jest panseksualna. W jego wizji świata nie tylko ludzka kondycja zdominowana jest przez biologiczny erotyzm. Erotyczną naturę ma również fundament wszelkiego istnienia – chuć rozumiana jako istota wszelkiego bytu, niewyczerpana siła zarazem twórcza i niszcząca. W tym źródłowym żywiole istnienia uczestniczy się poprzez zatratę – zstępując w ciemność ciała pobudzonego przez namiętność. Wczesna proza Przybyszewskiego akcentuje erotyczny sposób odbierania świata – posługuje się obrazami kompulsywnych zachowań seksualnych, a zwłaszcza wynaturzonych, poddanych hiperbolizacji aktów płciowych, które przybierają formę orgii zmysłów, seksualnego wstrząsu o skali wykraczającej daleko poza ludzką miarę. Akcent pada na amoralny, sadomasochistyczny rys miłości, która zadaje cierpienie i niszczy, bo tylko wtedy zbliża się do własnej pełni. Śmiała erotyka przesycona jest nieuchronnym cierpieniem zwłaszcza w <em>Requiem aeternam</em> (1904), ale i w innych wczesnych poematach prozą, a później także w powieściach. Cierpienie to ma w sobie element perwersji wkraczającej w domenę <a href="/tortury-w-dawnej-europie-i-polsce-309">tortur</a> i nekrofilii. Bywa przejawem i źródłem sadyzmu. Ale w przekonaniu autora <em>Krzyku</em> cierpienie wpisane jest w doświadczenie erotyczne również za sprawą praw natury władających biologią człowieka. Upostaciowaniem tych praw jest kobieta-samica, a ich wyrazem – popęd płciowy i instynkt rozrodczy. Powieści Przybyszewskiego raz po raz pokazują, że miłość jest kwestią biologii i płci, że relacja <a href="/meski-i-zenski-punkt-widzenia-w-jezykowym-obrazie-swiata-452">między mężczyzną i kobietą</a> ma w sobie mocny rys animalny, a ludzki pierwiastek w sferę seksualności wnoszą jedynie wyrafinowane i amoralne zachowania erotyczne. Oczywiście również te zachowania tkwią korzeniami w miazmatach psychicznych i biologicznych determinant, a u ich podłoża zawsze leży pierwiastek ciemny, agresywny, nieopanowany. Jego naturę dobrze oddają ważne dla Młodej Polski motywy <span>wampirycznej kobiety</span> i kazirodczej miłości. Otaczają one erotyczne doznania aurą transgresji i nasycają je intensywnością, która wydaje się niewyrażalna w języku oswojonych zmysłów. Ale pokazują również, że erotyzm ma także wyraźnie negatywny walor. Szczególnie mocno akcentuje to Wacław Berent. W <em>Próchnie</em> (1903) miłosne doznania naznacza piętnem klęski i wpisuje je w domenę śmierci, która nie jest ani formą intensyfikacji doznań, ani ukojeniem. Widziane z takiej perspektywy erotyczne doświadczenie traci niemal wszystkie pozytywne konotacje. Jest upadkiem pozbawionym tragizmu i głębi. Bruka i degraduje, ma bowiem zawsze znamiona incestu lub okazuje się aktem <span>prostytucji</span>. Jest albo sięgnięciem po ciało pokrewnej duszy, albo po cudzą kobietę, która pozostaje tylko liczmanem w arytmetyce fantazmatów i kompleksów. Głód ciała sprowadza uczuciową inklinację na poziom zmysłowego odczuwania świata i samego siebie. Wyzwala żywioł autoerotyzmu – jałowy, trywialny, destrukcyjny. Potęguje niemoc, niweczy tożsamość, wikła w niekończący się łańcuch przeniesień. Nie oznacza to jednak, że obecność erosa trzeba odsuwać na dalszy plan lub lekceważyć. Wręcz przeciwnie. W zintelektualizowanej, na poły teatralnej <em>Oziminie</em> (1911) zmysłowa cielesność gości zgromadzonych w salonie Niemanów nieustannie skrzy czymś erotycznym. Ta erotyczna aura stopniowo narasta i kulminuje w wizji Niny, w cielesnym spazmie, a na innym poziomie – w obrazie zrewoltowanej Warszawy. Ale i w tej powieści seksualne doświadczenie sprzymierzone jest ze śmiercią – ma w sobie skazę chłodu, uprzedmiotowienia, martwoty. Również w <em>Żywych kamieniach</em> (1918) erotyzm nie traci swojej ciemnej, destrukcyjnej aury. I jeśli nawet zostaje zagarnięty przez głoszoną w powieści apoteozę radości, jeśli na krótką chwilę staje się przestrzenią spełnionej komunii porządku witalnego z wymiarem sakralnym, to jest też zarzewiem śmierci i zagłady – pozwala odzyskać na moment światło początku, ale zarazem otwiera ludzką rzeczywistość na absolutną ciemność końca. </p>
+<p style="text-indent: 0cm;"class="artyku">Podobne napięcie pojawia się u Żeromskiego. Seksualna namiętność i doznania erotycznej rozkoszy często osnute są w jego prozie liryczną, niemal egzaltowaną aurą intymności. Bywa, że odsłaniają wewnętrzną jedność i bezgraniczność istnienia. Z biegiem lat czysty akt miłosny nabiera jednak w pisarstwie autora <em>Urody życia</em> coraz wyraźniej cech doświadczenia seksualnego – erotyzm staje się coraz śmielszy, bywa drastyczny. Pisarz również w tym względzie wiele zawdzięcza naturalizmowi. Naturalistyczną proweniencję ma u niego erotyka silnie zdeterminowana biologicznie, związana za złem, degradująca, bolesna, rozpaczliwa, dryfująca w stronę rynsztoka, naznaczona czymś grzesznym i złowrogim, ale też na swój sposób pociągająca. Takie ujęcie odsłania podszewkę wzniosłych porywów miłości, udziela głosu intuicji podpowiadającej, że seksualna determinanta pozwala zobaczyć ludzką kondycję w jej rzeczywistym mateczniku – w przepychu cielesnych doświadczeń i w nędzy ciała. Żeromski wiele wnikliwej uwagi poświęcił dwuznaczności erotyzmu. Sporo zrobił dla literackiego oswojenia modernistycznej seksualności. Za jego sprawą skłonność do wiwisekcji doznań erotycznych należy do kluczowych inklinacji epoki. Mocno poprowadzony erotyczny kontur prozy autora <em>Popiołów</em> bierze się ze szczególnego wyczulenie na niuanse seksualnych doznań. Świadectwo tego rodzaju wrażliwości dają zarówno <em>Dzienniki </em> (nieznane współczesnym – obejmujące lata 1882-1891, bezpruderyjne w traktowaniu życia erotycznego młodego pisarza), jak i proza fikcjonalna – zwłaszcza <em>Dzieje grzechu </em> (1908), w których ciemne, wstydliwe instynkty rozpisane zostają na szeroką paletę seksualnych zachowań i erotycznych przeżyć. Żeromski umie w wyrazistym skrócie oddać ważne dla Młodej Polski figury wyobraźni. Choćby w scenie zabójstwa Szczerbica – łączącej cielesną rozkosz z agonią, małą śmierć orgazmu ze śmiercią rzeczywistą. Ale powieść o Ewie Pobratyńskiej jest też odważną i udaną próbą oświetlenia złożonej natury kobiecego erotyzmu, wydobycia na jaw jego niezwykłej skali, zadokumentowania prawa kobiety do życia we władaniu erosa, a tym samym odebrania mężczyźnie monopolu na potrzeby seksualne – zwłaszcza te zaspokajane poza małżeństwem. </p>
+<p style="text-indent: 0cm;"class="artyku">Celne uchwycenie gwałtownych fluktuacji erotycznego żywiołu, zakorzenionego w ciele kobiety i na różne sposoby spokrewnionego z okrucieństwem, sprawiało, że <em>Dzieje grzechu</em> oskarżane były o pornografię. O uprawianie pornografii posądzano również Mieczysława Srokowskiego, który w tomie nowel <em>Krew</em> (1906) i w powieści <em>Kult ciała. Dziennik człowieka samotnego</em> (1909) brał na warsztat przejawy odważnego, wyszukanego erotyzmu, oddając je w sposób pikantny, chwilami nad wyraz jaskrawy, choć zasadniczo oparty na grze sugestii i niedopowiedzeń. Opisywana przez niego erotyka jest obszarem poszukiwania coraz bardziej wymyślnych doznań, które podtrzymują i wzmagają nie miłosny afekt, ale seksualne rozdrażnienie. Zwłaszcza <em>Kult ciała</em> – przewrotnie wykorzystujący model powieści rozwojowej – oddziela rozkosz zmysłową od miłości jako uczucia. Powieść odsłania obsesyjne i perwersyjne strony erotyzmu. Ukazuje seksualne doświadczenia jako rodzaj wyrafinowanej i wyzwalającej gry, akcentując przy tym wyjątkowe znaczenie doświadczenia erotycznego, w którym prawda zmysłowej rozkoszy, prawda ciała, obnaża wewnętrzną pustkę usankcjonowanego społecznie katalogu norm i ukazuje ich czysto deklaratywny charakter. W utwór Srokowskiego wpisana jest teza, że prawdziwy wgląd w ludzką rzeczywistość daje tylko erotyczny dreszcz, że jedynie praktyczna edukacja seksualna (a to właśnie taka edukacja jest głównym tematem powieści) pozwala odnaleźć się w świecie wciąż podskórnie buzującym erotyczną energią, która jest nie tylko niewyczerpanym źródłem ożywiającego ludzi podniecenia seksualnego, lecz także jedynym autentycznym polem stosunków międzyludzkich. </p>
+<p style="text-indent: 0cm;"class="artyku">Podobnie jest u Marii-Jehanne Wielopolskiej (hrabiny Walewskiej). Jej <em>Faunessy </em>z roku 1913 – dedykowane „Posążkowi z nera in bianco” – ukazują świat zamykający się w granicach kobiecego pokoju, w którym gustowne drobiazgi są figuracją gromadzonej kolekcji doznań erotycznych – tym cenniejszych, im bliższych perwersji, i tym bardziej ekscytujących, że na różne sposoby obwiedzionych konturem śmierci (Wielopolska 1913: 1). <em>Faunessy </em>to, jak głosi podtytuł, <em>Powieść dzisiejsza</em>. Wydany w roku 1911 zbiór nowel zatytułowany <em>Pani El</em> określiła pisarka jako <em>Cykl nowoczesny</em>. Uchwycona w tych utworach aura – niedzisiejsza, dziwna, nieledwie kuriozalna – rzeczywiście jest bardzo młodopolska. Ma w sobie coś z estetyki secesji przełamującej się mimowolnie w groteskę, ale przede wszystkim tworzy ją prowokacyjna tematyka: wyrafinowana seksualność bohaterek, perwersyjne zachowania erotyczne, atmosfera zmysłowej rozkoszy, na wskroś chorobliwa, przerafinowana, jawnie sztuczna. W tak nakreślonej przestrzeni erotyczna gra okazuje się najwyższą formą ludzkiej egzystencji, a erotyczna rozkosz – najwyższą wartością. W prozie Młodej Polski trudno chyba znaleźć mocniejszy i bardziej zastanawiający akord buduarowego dekadentyzmu.</p>
+<p style="text-indent: 0cm;"class="artyku">Formy dla kobiecej zmysłowości szuka również <span>Zofia Nałkowska.</span> W jej wczesnych powieściach – zwłaszcza w programowo zatytułowanych <em>Kobietach</em> (1906) i <em>Rówieśnicach</em> (1909) oraz po części w <em>Narcyzie</em> (1910) – zabarwiony erotycznie rys kobiecości mocno współbrzmi z wrażliwością na <span>barwy</span> i kształty świata, na jego zmienną <a href="/nazwy-cech-odbieranych-dotykiem-42">fakturę</a>, której metonimią stają się kobiece stroje, ozdoby i precjoza, fryzury, kosmetyki. W tym porządku metonimicznych złączeń i przeniesień sytuuje się też erotyczne pragnienie – czysto fizyczne, instynktowne i grzeszne zrazem. Młoda pisarka upomina się o prawo kobiety do władania sobą, do swobody w dysponowaniu swoim ciałem, do życia w zgodzie z poruszeniami miłosnego instynktu. Jednocześnie w tej czystej w intencjach i podszytej wewnętrzną udręką prozie dochodzi do głosu charakterystyczne dla młodopolskiej wrażliwości poczucie skażenia erotycznego doznania czymś złowrogim i skrajnie destrukcyjnym. Stąd pisarskie próby zestrajania sfer miłości i śmierci, łączenia erotyki z figurami dolorystycznej wyobraźni. Stąd też skłonność do ujmowania miłosnych doświadczeń w kategoriach cierpienia. Cierpienie to ma związek z siłami ślepego popędu – przenikającego świat i spokrewnionego z nigdy nienasyconym erotycznym pożądaniem. Ale w niemałym stopniu bierze się również z mocnego antagonizmu między kobietą i mężczyzną. Pisarki Młodej Polski chętnie ten antagonizm akcentowały. Tak jest u Komornickiej – w jej młodzieńczych <em>Szkicach</em> (1894), czy w świetnym opowiadaniu zatytułowanym <em>W świątyni hymeny</em> (1903). Autorka <em>Biesów</em> wydobywa zwłaszcza napięcie między posiadającym męską sygnaturę światem norm i nakazów a kobiecym pożądaniem, które staje się energią buntu i zdobywania wolności, ale przede wszystkim jest odzywającą się w ciele namiętnością. Ta namiętność w prozie kobiet zwykle ma formę <span>głodu</span>. Erotyczny głód – biorący odwet na prawidłach mieszczańskiej egzystencji, na życiu według zasad ustalonych przez zmowę mężczyzn – na różne sposoby ogrywa Gabriela Zapolska. W jej <em>Kobiecie bez skazy</em> (1913) zaspokojenie głodu namiętności, głodu rozbudzonego seksualnie ciała, mogłoby stanowić remedium na nudę i pustkę wegetacji w porządnym domu. Mogłoby, ale tylko pomnaża trywialność, pogłębia wewnętrzne rozdarcie, umacnia strukturę świata, którego zasadą jest odseparowanie erotyzmu od społecznych ról przyzwoitej kobiety. </p>
+<p style="text-indent: 0cm;"class="artyku">Zapolską ciekawi walka płci. Opisuje kobiety padające ofiarą męskiego egoizmu – erotycznej agresji, deprawacji, poniżenia. Mężczyźni często stawiają sprawę odwrotnie. W ich prozie zwykle to właśnie kobieta uosabia zło. Jest samicą i krwiożerczą <span>bestią</span>. Reprezentuje animalną stronę ludzkiej natury. Pozostaje we władaniu biologicznych sił – ciemnych, zaborczych, wampirycznych. Erotycznie zorientowana wyobraźnia epoki każe widzieć kobietę tak, jak zobaczona została w <em>Próchnie</em>, gdzie zjawia się jako sęp ścierwnik, który dumnie i leniwie czeka na padlinę – na ciało mężczyzny. Ten mizoginiczny rys młodopolskiej epiki tworzonej przez mężczyzn nie jest akcentem dominującym. Jego obecność, pozostająca w lustrzanej relacji do kobiecych dążeń emancypacyjnych, uzmysławia jednak, że prawda erotycznego doznania jest w tamtej epoce również prawdą zdeprawowanych, występnych, nie stroniących od okrucieństwa kobiet, które daleko przewyższają swoich partnerów w perwersyjnych zachowaniach i w bezwzględnym dążeniu do zaspokojenia erotycznych pragnień. </p>
+<p style="text-indent: 0cm;"class="artyku">Lustrzana relacja łącząca mizoginizm i emancypację rzuca światło na toczącą się w wyobraźni Młodej Polski zaciętą walkę dwóch przeciwstawnych <a href="/zywioly-162">żywiołów</a> – oddających cios za cios i jednocześnie zespolonych w erotycznym dreszczu. Ciemne rejestry tej wewnętrznie sprzecznej relacji najgłębiej przemyślał Stanisław Brzozowski. Jej zmysłowy wymiar ma u autora <em>Legendy Młodej Polski</em> odcień sadystyczny, który już w nieukończonych <em>Wirach</em> (1905) zabarwia miłosne doświadczenia i fantazmaty. Podobnie jest w <em>Płomieniach</em> (1908), gdzie erotyka staje się ponadto domeną krzywdy i poniżenia, pojawia się w aurze seksualnych okrucieństw i zbrodni. Pisarz dba jednak o to, by erotycznej przemocy i jej perwersyjnym aspektom odebrać powab wyrafinowanej ekscytacji. Ciemną stronę seksualności sprowadza na ziemię – obnaża jej banalność, wewnętrzną pustkę, inercyjne ciążenie ku złu. Pokazuje, że erotyzm zmysłowych podrażnień, chorobliwych namiętności utrzymanych w dekadenckiej tonacji, jest w istocie pochodną nudy i jałowości filisterskiej egzystencji. Pustce takiego erotyzmu Brzozowski przeciwstawia w <em>Płomieniach</em> erotyzm rewolucji – w gruncie rzeczy również ciemny i niszczycielski, wyrastający z feministycznie zabarwionego resentymentu, ale odwołujący się do pełni człowieczeństwa, do szacunku dla czystości głęboko ludzkich instynktów. Filisterskie i zarazem dekadenckie uprzedmiotowienie seksualnego partnera zastąpione zostaje relacją, w obrębie której przedmiot rozkoszy staje się partnerem w erotycznym przeżyciu – w miłości i walce. Tak pojęte doświadczenie erotyczne ma być egzystencjalnym wstrząsem, który wytrąca życie z utartych kolein, oczyszcza relacje ze światem, odsłania rzeczywistość. Zmysłowa namiętność niezmiennie obleka się u autora <em>Idei</em> w sensualny konkret, jest probierzem autentyczności. Ale prawda erosa zawsze pozostaje prawdą niegotową i otwartą. Uzmysławia, że właśnie taka, niegotowa i otwarta, jest ludzka egzystencja. Podobnie jak niegotowy i otwarty jest świat. By jednak ta trudna i dramatyczna prawda odsłoniła się w erotycznym doznaniu, musi mieć ono znamiona transgresji – musi wyzwolić swoją burzycielską energię, która biologiczną prawdę ciała, prawdę zintensyfikowanych przeżyć zmysłowych, przeciwstawi prawdzie relacji społecznych i kulturowych konstruktów. Erotyczna transgresja to – jak mówi Brzozowski – „bunt ciała” skierowany przeciw „obłudzie lub samoomamieniu” (Brzozowski 1997: 217). Jednak ten rewolucyjny ferment ma nie tylko oczyszczający charakter. W sposób nieunikniony wyzwala również, najlepiej widać to w powieści <em>Sam wśród ludzi</em> (1911), wspomniany już sadomasochistyczny żywioł, którego ekspansja ściśle wiąże się z nieprzekraczalną odrębnością uczestników aktu seksualnego. Za sprawą tego żywiołu wyostrza się radykalna samotność kochanków, a łączące ich zmysłowe doznania okazują się domeną fermentacji najniższych instynktów: egoizmu, resentymentów, wzgardy. Zobaczona z takiej perspektywy prawda erotycznego doświadczenia – przemawiająca w ciele, na wskroś sensualna – okazuje się prawdą ciemną, niepokojącą, paradoksalną. W jej zmąconym świetle widać dobrze jedynie dramatyzm i grozę sytuacji człowieka.</p>
+<h2>Źródła</h2>
+<ul>
+<li>Brzozowski Stanisław, „Legenda Młodej Polski. Studia o strukturze duszy kulturalnej” (1910), t. 1, Kraków 1997.</li>
+<li>Gutowski Wojciech, „Rozdział IV. Mity miłości w powieści młodopolskiej”, [w:] „Nagie dusze i maski (o młodopolskich mitach miłości)”, Wydawnictwo Literackie, Kraków 1992.</li>
+<li>Makowiecki Andrzej Z., „Ten wyuzdany fin de siècle”, [w:] tegoż, „Wokół modernizmu. Szkice”, PIW, Warszawa 1985.</li>
+<li>Podraza-Kwiatkowska Maria, „Salome i Androgyne. Mizoginizm a emancypacja”, [w:] tejże, „Młodopolskie harmonie i dysonanse”, PIW, Warszawa 1969.</li>
+<li>Podraza-Kwiatkowska Maria, „Schopenhauer i chuć”, [w:] tejże, „Somnambulicy – dekadenci – herosi. Studia i eseje o literaturze Młodej Polski”, Wydawnictwo Literackie, Kraków 1985.</li>
+<li>Przybyszewski Stanisław, „De profundis. Powieść zaopatrzona wstępem autora” (1895), Lektor, Lwów 1922.</li>
+<li>Przybyszewski Stanisław, „Na marginesie tworu Ewersa”, Lektor, Lwów 1917.</li>
+<li>Wielopolska (Walewska) Maria-Jehanne, „Faunessy. Powieść dzisiejsza” (1913), Księgarnia Literacka K. Kwaśniewskiego, Warszawa 1913.</li>
+</ul>
+<h2>Artykuły powiązane</h2>
+<ul>
+<li>Janicka, Anna &#8211; <a href="/zapolska-plec-spojrzenia-492">Zapolska – płeć spojrzenia</a></li>
+<li>Magnone, Lena &#8211; <a href="/prus-doswiadczenie-erotyczne-w-lalce-623">Prus – doświadczenie erotyczne w „Lalce”</a></li>
+<li>Magnone, Lena &#8211; <a href="/sienkiewicz-cialo-meskie-w-powiesciach-624">Sienkiewicz – ciało męskie w powieściach</a></li>
+<li>Magnone, Lena &#8211; <a href="/cialo-wokulskiego-941">Ciało Wokulskiego</a></li>
+</ul>
+      </div>
+      <footer class="post-footer clearfix">
+                <div class="row entry-meta justify-content-between align-items-center">
+                    <div class="post-tags col-xs-12 col-sm-auto col-sm">
+			   <div>
+			  <h2>
+				  Tagi
+		      </h2>
+		  </div>
+            <ul class="tags">
+              <li><a class="tag__link btn btn-skin-dark-oh inverted" href="https://sensualnosc.bn.org.pl/tag/brzozowski-stanislaw/" title="Zobacz wszystkie wpisy w Brzozowski Stanisław"> <span>Brzozowski Stanisław</span> </a></li><li><a class="tag__link btn btn-skin-dark-oh inverted" href="https://sensualnosc.bn.org.pl/tag/cierpienie/" title="Zobacz wszystkie wpisy w Cierpienie"> <span>Cierpienie</span> </a></li><li><a class="tag__link btn btn-skin-dark-oh inverted" href="https://sensualnosc.bn.org.pl/tag/erotyka/" title="Zobacz wszystkie wpisy w Erotyka"> <span>Erotyka</span> </a></li><li><a class="tag__link btn btn-skin-dark-oh inverted" href="https://sensualnosc.bn.org.pl/tag/metafizyka/" title="Zobacz wszystkie wpisy w Metafizyka"> <span>Metafizyka</span> </a></li><li><a class="tag__link btn btn-skin-dark-oh inverted" href="https://sensualnosc.bn.org.pl/tag/micinski-tadeusz/" title="Zobacz wszystkie wpisy w Miciński Tadeusz"> <span>Miciński Tadeusz</span> </a></li><li><a class="tag__link btn btn-skin-dark-oh inverted" href="https://sensualnosc.bn.org.pl/tag/nalkowska-zofia/" title="Zobacz wszystkie wpisy w Nałkowska Zofia"> <span>Nałkowska Zofia</span> </a></li><li><a class="tag__link btn btn-skin-dark-oh inverted" href="https://sensualnosc.bn.org.pl/tag/przybyszewski-stanislaw/" title="Zobacz wszystkie wpisy w Przybyszewski Stanisław"> <span>Przybyszewski Stanisław</span> </a></li><li><a class="tag__link btn btn-skin-dark-oh inverted" href="https://sensualnosc.bn.org.pl/tag/smierc/" title="Zobacz wszystkie wpisy w Śmierć"> <span>Śmierć</span> </a></li><li><a class="tag__link btn btn-skin-dark-oh inverted" href="https://sensualnosc.bn.org.pl/tag/zeromski-stefan/" title="Zobacz wszystkie wpisy w Żeromski Stefan"> <span>Żeromski Stefan</span> </a></li>            </ul>
+          </div>
+                          </div>
+      </footer>
+    </section><!-- .entry-content -->
+  </div><!-- .post-entry -->
+  </article><section class="post-author " >
+  <div class="post-author__wrapper">
+    <h2 class="post-author-title">AUTOR</h2>
+      <figure class="author-info">
+      <span class="author-avatar"><img alt='' src='https://secure.gravatar.com/avatar/21f78739bca30f034cb16b5980904af7e027f7899643bb80f9d36780715f8ede?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/21f78739bca30f034cb16b5980904af7e027f7899643bb80f9d36780715f8ede?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy' decoding='async'/></span>
+      <figcaption>
+        <h3 class="post-author-name author_name">Próchniak, Paweł</h3>
+        <div class="post-author-description">Prof. dr hab., historyk literatury, krytyk literacki. W kręgu jego zainteresowań pozostaje twórczość pisarzy polskiego modernizmu, poezja XX wieku, literatura najnowsza oraz sztuka interpretacji. Autor monografii: <em>Sen nożownika. O twórczości Ludwika Stanisława Licińskiego </em>(2001), <em>Pęknięty płomień. O pisarstwie Tadeusza Micińskiego</em> (2006), <em>Modernizm: ciemny nurt. Studia z dziejów poezji</em> (2011) oraz książek o literaturze ostatnich dziesięcioleci: <em>Wiersze na wietrze (szkice, notatki)</em> (2008), <em>Zamiar ze słów (szkice, notatki)</em> (2011). Współredaktor tomów poświęconych poezji Józefa Czechowicza (2003), Kazimierza Tetmajera (2003), Tadeusza Micińskiego (2004), Leopolda Staffa (2005).</div>
+        <a href="https://sensualnosc.bn.org.pl/author/pawel-prochniak/" rel="author" class="action-link" title="Zobacz wszystkie posty autora">
+          3 wpisy        </a>
+        <!-- fake need to have social links somewhere -->
+              </figcaption>
+    </figure>
+    </div>
+</section>                </div>
+
+                
+            </div><!-- .column-content-wrapper -->
+
+            
+
+          </div><!-- .container -->
+
+          <div id="czr-push-footer" ></div>
+    </div><!-- #main-wrapper -->
+
+    
+    
+<footer id="footer" class="footer__wrapper" >
+  <div id="footer-widget-area" class="widget__wrapper" >
+  <div class="container widget__container">
+    <div class="row">
+                      <div id="footer_one" class="col-md-4 col-12">
+            <div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-menu-footer-container"><ul id="menu-menu-footer" class="menu"><li id="menu-item-4347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4347"><a href="https://sensualnosc.bn.org.pl/regulamin/">Regulamin</a></li>
+<li id="menu-item-4354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-4354"><a rel="privacy-policy" href="https://sensualnosc.bn.org.pl/polityka-prywatnosci-2/">Polityka prywatności</a></li>
+<li id="menu-item-9996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9996"><a href="https://sensualnosc.bn.org.pl/deklaracja-dostepnosci/">Deklaracja dostępności</a></li>
+<li id="menu-item-4350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4350"><a href="https://sensualnosc.bn.org.pl/zespol/">Zespół</a></li>
+<li id="menu-item-4362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4362"><a href="https://sensualnosc.bn.org.pl/kontakt/">Kontakt</a></li>
+<li id="menu-item-9787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9787"><a href="https://sensualnosc.bn.org.pl/instrukcja-dla-autorow/">Instrukcja dla autorów artykułów</a></li>
+</ul></div></div>          </div>
+                  <div id="footer_two" class="col-md-4 col-12">
+            <div id="block-9" class="widget widget_block widget_media_image">
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" width="641" height="360" src="https://sensualnosc.bn.org.pl/wp-content/uploads/2024/10/4012-edited-1.jpg" alt="" class="wp-image-9857" style="width:239px;height:auto" srcset="https://sensualnosc.bn.org.pl/wp-content/uploads/2024/10/4012-edited-1.jpg 641w, https://sensualnosc.bn.org.pl/wp-content/uploads/2024/10/4012-edited-1-300x168.jpg 300w, https://sensualnosc.bn.org.pl/wp-content/uploads/2024/10/4012-edited-1-528x297.jpg 528w" sizes="auto, (max-width: 641px) 100vw, 641px" /></figure>
+</div><div id="block-13" class="widget widget_block widget_text">
+<p class="has-text-align-right"></p>
+</div>          </div>
+                  <div id="footer_three" class="col-md-4 col-12">
+            <div id="block-10" class="widget widget_block widget_media_image">
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="312" height="80" src="https://sensualnosc.bn.org.pl/wp-content/uploads/2024/10/images.png" alt="" class="wp-image-9778" srcset="https://sensualnosc.bn.org.pl/wp-content/uploads/2024/10/images.png 312w, https://sensualnosc.bn.org.pl/wp-content/uploads/2024/10/images-300x77.png 300w" sizes="auto, (max-width: 312px) 100vw, 312px" /></figure>
+</div><div id="block-13" class="widget widget_block widget_text">
+<p class="has-text-align-right"></p>
+</div><div id="block-14" class="widget widget_block widget_text">
+<p class="has-text-align-right">Realizacja projektu została dofinansowana przez Narodowe Centrum Badań i Rozwoju <br>(Projekt badawczo-rozwojowy własny N R17 0005 06/2009). <br>Copyright © Instytut Badań Literackich <br>Polskiej Akademii Nauk 2010-2024 <br>ISBN 978-83-61552-46-8</p>
+</div>          </div>
+                  </div>
+  </div>
+</div>
+<div id="colophon" class="colophon " >
+  <div class="container">
+    <div class="colophon__row row flex-row justify-content-between">
+      <div class="col-12 col-sm-auto">
+        <div id="footer__credits" class="footer__credits" >
+  <p class="czr-copyright">
+    <span class="czr-copyright-text">&copy;&nbsp;2026&nbsp;</span><a class="czr-copyright-link" href="https://sensualnosc.bn.org.pl" title="Sensualność w kulturze polskiej">Sensualność w kulturze polskiej</a><span class="czr-rights-text">&nbsp;&ndash;&nbsp;Wszelkie prawa zastrzeżone</span>
+  </p>
+  <p class="czr-credits">
+    <span class="czr-designer">
+      <span class="czr-wp-powered"><span class="czr-wp-powered-text">Oparte na&nbsp;</span><a class="czr-wp-powered-link" title="Oparte na WordPressie" href="https://wordpress.org/" target="_blank" rel="noopener noreferrer">WP</a></span><span class="czr-designer-text">&nbsp;&ndash;&nbsp;Designed with the <a class="czr-designer-link" href="https://presscustomizr.com/customizr" title="Customizr theme">Customizr theme</a></span>
+    </span>
+  </p>
+</div>
+      </div>
+            <div class="col-12 col-sm-auto">
+        <div class="social-links">
+          <ul class="socials " >
+  </ul>
+        </div>
+      </div>
+          </div>
+  </div>
+</div>
+</footer>
+    </div><!-- end #tc-page-wrap -->
+
+    <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/customizr-child\/*","\/wp-content\/themes\/customizr\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+        <script>
+            // Do not change this comment line otherwise Speed Optimizer won't be able to detect this script
+
+            (function () {
+                const calculateParentDistance = (child, parent) => {
+                    let count = 0;
+                    let currentElement = child;
+
+                    // Traverse up the DOM tree until we reach parent or the top of the DOM
+                    while (currentElement && currentElement !== parent) {
+                        currentElement = currentElement.parentNode;
+                        count++;
+                    }
+
+                    // If parent was not found in the hierarchy, return -1
+                    if (!currentElement) {
+                        return -1; // Indicates parent is not an ancestor of element
+                    }
+
+                    return count; // Number of layers between element and parent
+                }
+                const isMatchingClass = (linkRule, href, classes, ids) => {
+                    return classes.includes(linkRule.value)
+                }
+                const isMatchingId = (linkRule, href, classes, ids) => {
+                    return ids.includes(linkRule.value)
+                }
+                const isMatchingDomain = (linkRule, href, classes, ids) => {
+                    if(!URL.canParse(href)) {
+                        return false
+                    }
+
+                    const url = new URL(href)
+
+                    return linkRule.value === url.host
+                }
+                const isMatchingExtension = (linkRule, href, classes, ids) => {
+                    if(!URL.canParse(href)) {
+                        return false
+                    }
+
+                    const url = new URL(href)
+
+                    return url.pathname.endsWith('.' + linkRule.value)
+                }
+                const isMatchingSubdirectory = (linkRule, href, classes, ids) => {
+                    if(!URL.canParse(href)) {
+                        return false
+                    }
+
+                    const url = new URL(href)
+
+                    return url.pathname.startsWith('/' + linkRule.value + '/')
+                }
+                const isMatchingProtocol = (linkRule, href, classes, ids) => {
+                    if(!URL.canParse(href)) {
+                        return false
+                    }
+
+                    const url = new URL(href)
+
+                    return url.protocol === linkRule.value + ':'
+                }
+                const isMatchingExternal = (linkRule, href, classes, ids) => {
+                    if(!URL.canParse(href) || !URL.canParse(document.location.href)) {
+                        return false
+                    }
+
+                    const matchingProtocols = ['http:', 'https:']
+                    const siteUrl = new URL(document.location.href)
+                    const linkUrl = new URL(href)
+
+                    // Links to subdomains will appear to be external matches according to JavaScript,
+                    // but the PHP rules will filter those events out.
+                    return matchingProtocols.includes(linkUrl.protocol) && siteUrl.host !== linkUrl.host
+                }
+                const isMatch = (linkRule, href, classes, ids) => {
+                    switch (linkRule.type) {
+                        case 'class':
+                            return isMatchingClass(linkRule, href, classes, ids)
+                        case 'id':
+                            return isMatchingId(linkRule, href, classes, ids)
+                        case 'domain':
+                            return isMatchingDomain(linkRule, href, classes, ids)
+                        case 'extension':
+                            return isMatchingExtension(linkRule, href, classes, ids)
+                        case 'subdirectory':
+                            return isMatchingSubdirectory(linkRule, href, classes, ids)
+                        case 'protocol':
+                            return isMatchingProtocol(linkRule, href, classes, ids)
+                        case 'external':
+                            return isMatchingExternal(linkRule, href, classes, ids)
+                        default:
+                            return false;
+                    }
+                }
+                const track = (element) => {
+                    const href = element.href ?? null
+                    const classes = Array.from(element.classList)
+                    const ids = [element.id]
+                    const linkRules = [{"type":"extension","value":"pdf"},{"type":"extension","value":"zip"},{"type":"protocol","value":"mailto"},{"type":"protocol","value":"tel"}]
+                    if(linkRules.length === 0) {
+                        return
+                    }
+
+                    // For link rules that target an id, we need to allow that id to appear
+                    // in any ancestor up to the 7th ancestor. This loop looks for those matches
+                    // and counts them.
+                    linkRules.forEach((linkRule) => {
+                        if(linkRule.type !== 'id') {
+                            return;
+                        }
+
+                        const matchingAncestor = element.closest('#' + linkRule.value)
+
+                        if(!matchingAncestor || matchingAncestor.matches('html, body')) {
+                            return;
+                        }
+
+                        const depth = calculateParentDistance(element, matchingAncestor)
+
+                        if(depth < 7) {
+                            ids.push(linkRule.value)
+                        }
+                    });
+
+                    // For link rules that target a class, we need to allow that class to appear
+                    // in any ancestor up to the 7th ancestor. This loop looks for those matches
+                    // and counts them.
+                    linkRules.forEach((linkRule) => {
+                        if(linkRule.type !== 'class') {
+                            return;
+                        }
+
+                        const matchingAncestor = element.closest('.' + linkRule.value)
+
+                        if(!matchingAncestor || matchingAncestor.matches('html, body')) {
+                            return;
+                        }
+
+                        const depth = calculateParentDistance(element, matchingAncestor)
+
+                        if(depth < 7) {
+                            classes.push(linkRule.value)
+                        }
+                    });
+
+                    const hasMatch = linkRules.some((linkRule) => {
+                        return isMatch(linkRule, href, classes, ids)
+                    })
+
+                    if(!hasMatch) {
+                        return
+                    }
+
+                    const url = "https://sensualnosc.bn.org.pl/wp-content/plugins/independent-analytics/iawp-click-endpoint.php";
+                    const body = {
+                        href: href,
+                        classes: classes.join(' '),
+                        ids: ids.join(' '),
+                        ...{"payload":{"resource":"singular","singular_id":8675,"page":1},"signature":"e78232d5cafdca83962893ac28882c43"}                    };
+
+                    if (navigator.sendBeacon) {
+                        let blob = new Blob([JSON.stringify(body)], {
+                            type: "application/json"
+                        });
+                        navigator.sendBeacon(url, blob);
+                    } else {
+                        const xhr = new XMLHttpRequest();
+                        xhr.open("POST", url, true);
+                        xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+                        xhr.send(JSON.stringify(body))
+                    }
+                }
+                document.addEventListener('mousedown', function (event) {
+                                        if (navigator.webdriver || /bot|crawler|spider|crawling|semrushbot|chrome-lighthouse/i.test(navigator.userAgent)) {
+                        return;
+                    }
+                    
+                    const element = event.target.closest('a')
+
+                    if(!element) {
+                        return
+                    }
+
+                    const isPro = false
+                    if(!isPro) {
+                        return
+                    }
+
+                    // Don't track left clicks with this event. The click event is used for that.
+                    if(event.button === 0) {
+                        return
+                    }
+
+                    track(element)
+                })
+                document.addEventListener('click', function (event) {
+                                        if (navigator.webdriver || /bot|crawler|spider|crawling|semrushbot|chrome-lighthouse/i.test(navigator.userAgent)) {
+                        return;
+                    }
+                    
+                    const element = event.target.closest('a, button, input[type="submit"], input[type="button"]')
+
+                    if(!element) {
+                        return
+                    }
+
+                    const isPro = false
+                    if(!isPro) {
+                        return
+                    }
+
+                    track(element)
+                })
+                document.addEventListener('play', function (event) {
+                                        if (navigator.webdriver || /bot|crawler|spider|crawling|semrushbot|chrome-lighthouse/i.test(navigator.userAgent)) {
+                        return;
+                    }
+                    
+                    const element = event.target.closest('audio, video')
+
+                    if(!element) {
+                        return
+                    }
+
+                    const isPro = false
+                    if(!isPro) {
+                        return
+                    }
+
+                    track(element)
+                }, true)
+                document.addEventListener("DOMContentLoaded", function (e) {
+                    if (document.hasOwnProperty("visibilityState") && document.visibilityState === "prerender") {
+                        return;
+                    }
+
+                                            if (navigator.webdriver || /bot|crawler|spider|crawling|semrushbot|chrome-lighthouse/i.test(navigator.userAgent)) {
+                            return;
+                        }
+                    
+                    let referrer_url = null;
+
+                    if (typeof document.referrer === 'string' && document.referrer.length > 0) {
+                        referrer_url = document.referrer;
+                    }
+
+                    const params = location.search.slice(1).split('&').reduce((acc, s) => {
+                        const [k, v] = s.split('=');
+                        return Object.assign(acc, {[k]: v});
+                    }, {});
+
+                    const url = "https://sensualnosc.bn.org.pl/wp-json/iawp/search";
+                    const body = {
+                        referrer_url,
+                        utm_source: params.utm_source,
+                        utm_medium: params.utm_medium,
+                        utm_campaign: params.utm_campaign,
+                        utm_term: params.utm_term,
+                        utm_content: params.utm_content,
+                        gclid: params.gclid,
+                        ...{"payload":{"resource":"singular","singular_id":8675,"page":1},"signature":"e78232d5cafdca83962893ac28882c43"}                    };
+
+                    if (navigator.sendBeacon) {
+                        let blob = new Blob([JSON.stringify(body)], {
+                            type: "application/json"
+                        });
+                        navigator.sendBeacon(url, blob);
+                    } else {
+                        const xhr = new XMLHttpRequest();
+                        xhr.open("POST", url, true);
+                        xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+                        xhr.send(JSON.stringify(body))
+                    }
+                });
+            })();
+        </script>
+        <script src="https://sensualnosc.bn.org.pl/wp-includes/js/comment-reply.min.js?ver=6.8.3" id="comment-reply-js" async data-wp-strategy="async"></script>
+<script src="https://sensualnosc.bn.org.pl/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+  </body>
+  </html>

@@ -1,0 +1,673 @@
+HTTP/2 200 accept-ch: x-datacenter: RES x-content-type-options: nosniff
+last-modified: Fri, 02 Jan 2026 16:43:00 GMT link: /api2.amplitude.com/>;
+rel=preconnect; crossorigin=anonymous link:
+/services.fandom.com/icbm/api/config?app=fandomnoads&compact=true>; rel=preload;
+as=fetch; crossorigin=anonymous x-envoy-upstream-service-time: 167 x-mobile-app:
+0 content-security-policy-report-only: script-src 'unsafe-eval' blob: 'self'
+https: 'self' data: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'
+internal-soap.wikia.com internal-soap.fandom.com internal-soap.wikia.org
+internal-soap.gamepedia.com www.fandom.com www.wikia.com www.wikia.org
+www.gamepedia.com; default-src 'self' data: blob: https://images.wikia.com
+https://static.wikia.nocookie.net https: 'self' data: blob:
+internal-soap.wikia.com internal-soap.fandom.com internal-soap.wikia.org
+internal-soap.gamepedia.com www.fandom.com www.wikia.com www.wikia.org
+www.gamepedia.com; style-src 'self' data: blob: https://images.wikia.com
+https://static.wikia.nocookie.net https: 'self' data: blob:
+internal-soap.wikia.com internal-soap.fandom.com internal-soap.wikia.org
+internal-soap.gamepedia.com www.fandom.com www.wikia.com www.wikia.org
+www.gamepedia.com 'unsafe-inline'; img-src * data: blob:; object-src 'none';
+report-uri https://services.fandom.com/csp-logger/csp/ucp; worker-src 'self'
+blob: content-type: text/html; charset=UTF-8 content-security-policy:
+upgrade-insecure-requests x-request-id: 6890de93fcef0504e5d6d3c72344ead5
+report-to:
+{"group":"nel","max_age":604800,"include_subdomains":true,"endpoints":[{"url":"h
+ttps://services.fandom.com/browser-errors/report"}]} nel:
+{"report_to":"nel","max_age":604800,"include_subdomains":true,"failure_fraction"
+:0.01} x-ssexp: other content-language: ja x-cacheable: YES accept-ranges: bytes
+age: 0 date: Sat, 03 Jan 2026 16:43:00 GMT x-served-by:
+cache-iad-kiad7000064-IAD, cache-iad-kiad7000064-IAD, cache-par-lfpg1960058-PAR
+x-cache: MISS, MISS, MISS x-cache-hits: 0, 0, 0 x-timer:
+S1767458580.287923,VS0,VE356 vary: Accept-Encoding, X-Mobile-App, X-Ssexp,
+Cookie server-timing: beacon;desc="eU4IlpZj_q",
+b2;desc="-Vf5nzBGtq.1767458580288" set-cookie: exp_bucket=v7-63;
+domain=.fandom.com; path=/; expires=Mon, 03 Jan 2028 16:43:00 GMT; set-cookie:
+exp_bucket_2=v5-10; domain=.fandom.com; path=/; expires=Mon, 03 Jan 2028
+16:43:00 GMT; strict-transport-security: max-age=300; includeSubDomains
+server-timing: dc;desc="res", roaa;desc="active", roaadc;desc="res",
+roaareason;desc="read_closest", roaavariant;desc="none" set-cookie:
+Geo={%22region%22:%22IDF%22%2C%22city%22:%22alfortville%22%2C%22country_name%22:
+%22france%22%2C%22country%22:%22FR%22%2C%22continent%22:%22EU%22}; path=/;
+domain=.fandom.com; SameSite=None; Secure; cache-control: private, s-maxage=0,
+max-age=0, must-revalidate content-length: 294294 #編集 原神 Wiki (ja) 原神 Wikiの Atom
+フィード
+
+ログイン
+登録
+
+原神 Wiki 原神 Wiki
+
+  * 探索
+  + メインページ
+  + ディスカッション
+  + 全ページ
+  + コミュニティ
+  + インタラクティブな地図
+  + 最近のブログの投稿
+  * キャラクター
+  + プレイヤーキャラクター
+  o 旅人
+  o アンバー
+  o ガイア
+  o リサ
+  o キャラクターの比較
+  + キャラクターの一覧
+  + NPC
+  o パイモン
+  o キャサリン
+  o 無名の神
+  o 注目のNPC
+  + 集団
+  o 七神
+  o 冒険者協会
+  o 西風騎士団
+  o 璃月七星
+  o 稲妻幕府
+  o スメール教令院
+  o ファデュイ
+  + 声優
+  + 誕生日
+  + 公式動画
+  o キャラ実戦紹介
+  o チュートリアル動画
+  o キャラエピソード
+  o ストーリームービー
+  o サウンドトラック動画
+  o OST selection
+  o コスチュームPV
+  o バージョン予告PV
+  * 世界
+  + テイワット
+  o モンド
+  o 璃月
+  o 稲妻
+  o スメール
+  o フォンテーヌ
+  o ナタ
+  o スネージナヤ
+  o カーンルイア
+  + 伝承
+  o 年表
+  o 漫画
+  o 言語
+  o 書籍
+  o 楽曲
+  o コミックス
+  + 任務
+  o 魔神任務
+  o 伝説任務
+  o 世界任務
+  o 依頼任務
+  o デートイベント
+  o イベント任務
+  + イベント
+  o バージョン情報
+  o 紀行
+  o テーマイベント
+  o ゲーム内イベント
+  o ログインイベント
+  o テーマイベント
+  o 腕試し
+  o Webイベント
+  o イベント履歴
+  + 活動
+  o 秘境
+  # 煉武（武器）
+  # 祈聖（聖遺物）
+  # 熟知（天賦）
+  # 征討領域
+  o 地脈の花芽
+  o 探索
+  o 深境螺旋
+  + 敵/魔物
+  o 普通の敵
+  o 精鋭の敵
+  o 通常BOSS
+  o 週BOSS
+  o 野生生物
+  + ショップ
+  o ギフトパックショップ
+  o スター交換
+  o 紀念品ショップ
+  o 雑貨屋
+  o レストラン
+  o 鍛冶屋
+  o 釣り協会
+  * アイテム
+  + 武器
+  o 片手剣
+  o 長柄武器
+  o 両手剣
+  o 法器
+  o 弓
+  o 武器強化素材
+  + 聖遺物
+  o 聖遺物セット一覧
+  o 聖遺物経験
+  + 育成アイテム
+  o キャラ経験値素材
+  o キャラ育成素材
+  o キャラと武器育成素材
+  o 精錬素材
+  o キャラ天賦素材
+  o 武器突破素材
+  + 材料
+  o 地域の特産
+  o 食材
+  o 鍛造素材
+  o 調度品素材
+  o 栽培素材
+  + 消耗品
+  o 食べ物
+  o 薬剤
+  o 異夢の溶媒
+  o 変転の塵
+  + 便利アイテム
+  + その他
+  o 天然樹脂
+  # 脆弱樹脂
+  # 濃縮樹脂
+  # 刹那樹脂
+  o 名刺の飾り紋
+  o ギフトパック
+  o 貨幣
+  o 任務アイテム
+  o イベントアイテム
+  o 貴重アイテム
+  o 調度品
+  * その他
+  + 戦闘
+  o ステータス
+  o 元素
+  o 元素反応
+  o 天賦
+  o 命ノ星座
+  + 進行
+  o 冒険ランク
+  o キャラクター経験
+  o 冒険の証
+  o アチーブメント
+  o 評判
+  o 奉納システム
+  o 塵歌壺
+  o 七聖召喚
+  + 探索
+  o 七天神像
+  o 神の瞳
+  o 地霊壇
+  o ワープポイント
+  o マップ
+  o 釣り
+  + 収益化
+  o 祈願
+  o 原石
+  o 創世結晶
+  o 紀行
+  o 空月の祝福
+  o キャラクター服装
+  + 加工
+  o 調理
+  o 食材加工
+  o 鍛造
+  o 合成
+  o 製作
+  + その他のシステム
+  o アカウント
+  o 図鑑
+  o マルチプレイ
+  o キーコンフィグ
+  o フレンド
+  o バッグ
+  o プロフィール
+  o オプション
+  o チュートリアル
+  o 展望
+  + コミュニティ
+  o 原神
+  o miHoYo
+  o HOYO-MiX
+  o HoYoLAB
+  o 用語集
+
+ログイン
+アカウントをお持ちでない場合
+登録
+  ___________________________________________________________________________
+
+ログイン
+
+(BUTTON) メニュー
+(BUTTON) 探索
+(BUTTON) もっと見る 履歴
+
+広告
+コンテンツに移動
+
+原神 Wiki
+原神 Wiki
+14,465
+ページ
+
+  * 探索
+  + メインページ
+  + ディスカッション
+  + 全ページ
+  + コミュニティ
+  + インタラクティブな地図
+  + 最近のブログの投稿
+  * キャラクター
+  + プレイヤーキャラクター
+  o 旅人
+  o アンバー
+  o ガイア
+  o リサ
+  o キャラクターの比較
+  + キャラクターの一覧
+  + NPC
+  o パイモン
+  o キャサリン
+  o 無名の神
+  o 注目のNPC
+  + 集団
+  o 七神
+  o 冒険者協会
+  o 西風騎士団
+  o 璃月七星
+  o 稲妻幕府
+  o スメール教令院
+  o ファデュイ
+  + 声優
+  + 誕生日
+  + 公式動画
+  o キャラ実戦紹介
+  o チュートリアル動画
+  o キャラエピソード
+  o ストーリームービー
+  o サウンドトラック動画
+  o OST selection
+  o コスチュームPV
+  o バージョン予告PV
+  * 世界
+  + テイワット
+  o モンド
+  o 璃月
+  o 稲妻
+  o スメール
+  o フォンテーヌ
+  o ナタ
+  o スネージナヤ
+  o カーンルイア
+  + 伝承
+  o 年表
+  o 漫画
+  o 言語
+  o 書籍
+  o 楽曲
+  o コミックス
+  + 任務
+  o 魔神任務
+  o 伝説任務
+  o 世界任務
+  o 依頼任務
+  o デートイベント
+  o イベント任務
+  + イベント
+  o バージョン情報
+  o 紀行
+  o テーマイベント
+  o ゲーム内イベント
+  o ログインイベント
+  o テーマイベント
+  o 腕試し
+  o Webイベント
+  o イベント履歴
+  + 活動
+  o 秘境
+  # 煉武（武器）
+  # 祈聖（聖遺物）
+  # 熟知（天賦）
+  # 征討領域
+  o 地脈の花芽
+  o 探索
+  o 深境螺旋
+  + 敵/魔物
+  o 普通の敵
+  o 精鋭の敵
+  o 通常BOSS
+  o 週BOSS
+  o 野生生物
+  + ショップ
+  o ギフトパックショップ
+  o スター交換
+  o 紀念品ショップ
+  o 雑貨屋
+  o レストラン
+  o 鍛冶屋
+  o 釣り協会
+  * アイテム
+  + 武器
+  o 片手剣
+  o 長柄武器
+  o 両手剣
+  o 法器
+  o 弓
+  o 武器強化素材
+  + 聖遺物
+  o 聖遺物セット一覧
+  o 聖遺物経験
+  + 育成アイテム
+  o キャラ経験値素材
+  o キャラ育成素材
+  o キャラと武器育成素材
+  o 精錬素材
+  o キャラ天賦素材
+  o 武器突破素材
+  + 材料
+  o 地域の特産
+  o 食材
+  o 鍛造素材
+  o 調度品素材
+  o 栽培素材
+  + 消耗品
+  o 食べ物
+  o 薬剤
+  o 異夢の溶媒
+  o 変転の塵
+  + 便利アイテム
+  + その他
+  o 天然樹脂
+  # 脆弱樹脂
+  # 濃縮樹脂
+  # 刹那樹脂
+  o 名刺の飾り紋
+  o ギフトパック
+  o 貨幣
+  o 任務アイテム
+  o イベントアイテム
+  o 貴重アイテム
+  o 調度品
+  * その他
+  + 戦闘
+  o ステータス
+  o 元素
+  o 元素反応
+  o 天賦
+  o 命ノ星座
+  + 進行
+  o 冒険ランク
+  o キャラクター経験
+  o 冒険の証
+  o アチーブメント
+  o 評判
+  o 奉納システム
+  o 塵歌壺
+  o 七聖召喚
+  + 探索
+  o 七天神像
+  o 神の瞳
+  o 地霊壇
+  o ワープポイント
+  o マップ
+  o 釣り
+  + 収益化
+  o 祈願
+  o 原石
+  o 創世結晶
+  o 紀行
+  o 空月の祝福
+  o キャラクター服装
+  + 加工
+  o 調理
+  o 食材加工
+  o 鍛造
+  o 合成
+  o 製作
+  + その他のシステム
+  o アカウント
+  o 図鑑
+  o マルチプレイ
+  o キーコンフィグ
+  o フレンド
+  o バッグ
+  o プロフィール
+  o オプション
+  o チュートリアル
+  o 展望
+  + コミュニティ
+  o 原神
+  o miHoYo
+  o HOYO-MiX
+  o HoYoLAB
+  o 用語集
+
+(BUTTON)
+分類: 天賦、神里綾華の天賦、固有天賦1、
+および 6ページ
+  * 固有天賦
+  * 片手剣の固有天賦1
+  * 通常攻撃DMG増加の天賦
+  * 重撃DMG増加の天賦
+  * ダメージアップの天賦
+  * バージョン2.0でリリース
+
+日本語
+  * English
+  * Español
+  * Français
+  * Português do Brasil
+  * Русский
+  * ไทย
+  * Tiếng Việt
+
+天つ罪・国つ罪の鎮詞
+
+編集
+  * ソースを編集
+  * 履歴
+  * キャッシュ破棄
+  * トーク（0件）
+
+IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P
+
+天つ罪・国つ罪の鎮詞
+
+Talent Amatsumi Kunitsumi Sanctification
+
+キャラクター
+
+神里綾華
+
+天賦の種類
+
+突破段階1の固有
+
+カテゴリ
+
+固有
+
+  * 情報
+  * 詳細
+
+神里流・氷華を発動した後の6秒間、神里綾華の通常攻撃と重撃のダメージ+30%。
+効用
+  * 通常攻撃DMG増加
+  * 重撃DMG増加
+  * ダメージアップ
+
+天つ罪・国つ罪の鎮詞は、神里綾華の突破段階1の固有。
+[ ]
+
+目次
+
+  * 1 プレビュー
+  * 2 その他の言語
+  * 3 変更履歴
+  * 4 ナビゲーション
+
+プレビュー[]
+
+プレビューにカーソルを合わせると高画質で表示される。
+(プレビュー設定)
+Media:Amatsumi Kunitsumi Sanctification Preview.mp4
+Amatsumi Kunitsumi Sanctification Preview Amatsumi Kunitsumi Sanctification
+Preview
+
+その他の言語[]
+
+言語 正式名称
+日本語 天つ罪・国つ罪の鎮詞^[• 1]
+Amatsutsumi - Kunitsutsumi no Ihahigoto^‍[!][!]想定される読み方‍
+中国語（簡体字） 天罪国罪镇词
+Tiānzuì Guózuì Zhèncí
+中国語（繁体字） 天罪國罪鎮詞
+Tiānzuì Guózuì Zhèncí
+英語 Amatsumi Kunitsumi Sanctification
+韓国語 천죄국죄 진사
+Cheonjoegukjoe Jinsa
+スペイン語 Supresión de lo impuro
+フランス語 Sanctification de l'impur
+ロシア語 Освящение амацуми куницуми
+Osvyashcheniye amatsumi kunitsumi
+タイ語 Amatsumi Kunitsumi Sanctification
+ベトナム語 Lời Phán Amatsumi Kunitsumi
+ドイツ語 Amatsumi-Kunitsumi-Weihe
+インドネシア語 Amatsumi Kunitsumi Sanctification
+ポルトガル語 Amatsutsumi Kunitsutsumi Chinshi
+トルコ語 Amatsumi Kunitsumi Kutsaması
+イタリア語 Consacrazione Amatsumi Kunitsumi
+ 1. ↑
+中国語と日本語：天つ罪はあまつつみ、国つ罪はくにつつみと読む。どちらも「つみ」の概念と結びついている。天つ罪・国つ罪は「罪」の意味全体をカバーするものではな
+い。
+
+変更履歴[]
+
+Ver.2.0でリリース
+[新しい履歴の作成]
+
+ナビゲーション[]
+
+
+神里綾華の天賦と命ノ星座
+通常
+攻撃
+Sword Cryo
+神里流・傾き 元素
+スキル
+Talent Kamisato Art Hyouka
+神里流・氷華 元素
+爆発
+Talent Kamisato Art Soumetsu
+神里流・霜滅 ダッシュ
+の代わり
+Talent Kamisato Art Senho
+神里流・霰歩 突破段階1の
+固有
+Talent Amatsumi Kunitsumi Sanctification
+天つ罪・国つ罪の鎮詞 突破段階4の
+固有
+Talent Kanten Senmyou Blessing
+寒空の宣命祝詞 実用の
+固有
+Talent Fruits of Shinsa
+鑑査の心得
+命ノ星座
+第1重
+Constellation Snowswept Sakura
+霜枯れの墨染櫻 命ノ星座
+第2重
+Constellation Blizzard Blade Seki no To
+三重雪関扉 命ノ星座
+第3重
+Constellation Frostbloom Kamifubuki
+花白錦画紙吹雪 命ノ星座
+第4重
+Constellation Ebb and Flow
+栄枯盛衰 命ノ星座
+第5重
+Constellation Blossom Cloud Irutsuki
+花雲鐘入月 命ノ星座
+第6重
+Constellation Dance of Suigetsu
+間水月
+
+カテゴリ
+
+  * カテゴリ:
+  * 天賦
+  * 神里綾華の天賦
+  * 固有天賦1
+  * 固有天賦
+  * 片手剣の固有天賦1
+  * 通常攻撃DMG増加の天賦
+  * 重撃DMG増加の天賦
+  * ダメージアップの天賦
+  * バージョン2.0でリリース
+  * (BUTTON) カテゴリを追加
+
+(BUTTON) 取り消し (BUTTON) 保存
+
+言語
+English Español Français Português do Brasil Русский ไทย Tiếng Việt
+特に記載のない限り、コミュニティのコンテンツはCC-BY-SAライセンスの下で利用可能です。
+
+広告
+
+Fandom logo
+
+各種プロパティ
+
+  * Fandom
+  * Fanatical
+  * GameSpot
+  * Metacritic
+  * TV Guide
+  * Honest Entertainment
+
+フォローする
+
+  *
+  *
+
+会社情報
+
+  * Fandomについて
+  * 会社概要
+  * 採用情報
+  * メディア掲載
+  * お問い合わせ
+  * 利用規約
+  * プライバシー
+  * デジタル・サービス・アクト
+  * グローバル サイトマップ
+  * コミュニティ サイトマップ
+  * (BUTTON)
+
+コミュニティ
+
+  * コミュニティセントラル
+  * サポート
+  * ヘルプ
+
+広告について
+
+  * 媒体資料
+
+Fandomアプリ
+
+アプリをダウンロードすれば、いつでもどこでもお気に入りのコミュニティに簡単にアクセスできます。
+
+Fandom App logo
+  * Store icon
+  * Store icon
+
+原神 WikiはゲームジャンルのFandomコミュニティです。
+(BUTTON) モバイル版で表示

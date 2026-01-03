@@ -1,0 +1,1100 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 03 Jan 2026 16:38:37 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+x-pingback: https://knt-worldblog.com/xmlrpc.php
+vary: User-Agent
+link: <https://knt-worldblog.com/wp-json/>; rel="https://api.w.org/", <https://knt-worldblog.com/wp-json/wp/v2/posts/589>; rel="alternate"; title="JSON"; type="application/json", <https://knt-worldblog.com/?p=589>; rel=shortlink
+
+<!DOCTYPE html>
+<html lang="ja" data-loaded="false" data-scrolled="false" data-spmenu="closed">
+<head>
+<meta charset="utf-8">
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, viewport-fit=cover">
+<title>七つの大罪って知ってる？罪の重い順番や象徴する悪魔も | KONA BLOG</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="KONA BLOG &raquo; フィード" href="https://knt-worldblog.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="KONA BLOG &raquo; コメントフィード" href="https://knt-worldblog.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="KONA BLOG &raquo; 七つの大罪って知ってる？罪の重い順番や象徴する悪魔も のコメントのフィード" href="https://knt-worldblog.com/589/7-taizai-tsumi-akuma/feed/" />
+
+<!-- SEO SIMPLE PACK 3.6.2 -->
+<meta name="description" content="「七つの大罪」ってご存知ですか？ 7つすべてを言える方や、具体的な内容について説明できる方は、案外少ないかもしれません。 そこで今回は、七つの大罪とはどんなものなのか、罪の重い順に解説します。 また、それぞれの罪を象徴する悪魔や動物、新・七">
+<link rel="canonical" href="https://knt-worldblog.com/589/7-taizai-tsumi-akuma/">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://knt-worldblog.com/wp-content/uploads/2025/04/bible-1058289_1280.jpg">
+<meta property="og:title" content="七つの大罪って知ってる？罪の重い順番や象徴する悪魔も | KONA BLOG">
+<meta property="og:description" content="「七つの大罪」ってご存知ですか？ 7つすべてを言える方や、具体的な内容について説明できる方は、案外少ないかもしれません。 そこで今回は、七つの大罪とはどんなものなのか、罪の重い順に解説します。 また、それぞれの罪を象徴する悪魔や動物、新・七">
+<meta property="og:url" content="https://knt-worldblog.com/589/7-taizai-tsumi-akuma/">
+<meta property="og:site_name" content="KONA BLOG">
+<meta name="twitter:card" content="summary">
+<!-- / SEO SIMPLE PACK -->
+
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style><style id='wp-block-archives-inline-css' type='text/css'>
+.wp-block-archives{box-sizing:border-box}.wp-block-archives-dropdown label{display:block}
+/*# sourceURL=https://knt-worldblog.com/wp-includes/blocks/archives/style.min.css */
+</style>
+<style id='wp-block-categories-inline-css' type='text/css'>
+.wp-block-categories{box-sizing:border-box}.wp-block-categories.alignleft{margin-right:2em}.wp-block-categories.alignright{margin-left:2em}.wp-block-categories.wp-block-categories-dropdown.aligncenter{text-align:center}.wp-block-categories .wp-block-categories__label{display:block;width:100%}
+/*# sourceURL=https://knt-worldblog.com/wp-includes/blocks/categories/style.min.css */
+</style>
+<style id='wp-block-heading-inline-css' type='text/css'>
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://knt-worldblog.com/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id='wp-block-image-inline-css' type='text/css'>
+.wp-block-image>a,.wp-block-image>figure>a{display:inline-block}.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}@media not (prefers-reduced-motion){.wp-block-image img.hide{visibility:hidden}.wp-block-image img.show{animation:show-content-image .4s}}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull>a,.wp-block-image.alignwide>a{width:100%}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-image.is-style-circle-mask img{border-radius:9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}:root :where(.wp-block-image.is-style-rounded img,.wp-block-image .is-style-rounded img){border-radius:9999px}.wp-block-image figure{margin:0}.wp-lightbox-container{display:flex;flex-direction:column;position:relative}.wp-lightbox-container img{cursor:zoom-in}.wp-lightbox-container img:hover+button{opacity:1}.wp-lightbox-container button{align-items:center;backdrop-filter:blur(16px) saturate(180%);background-color:#5a5a5a40;border:none;border-radius:4px;cursor:zoom-in;display:flex;height:20px;justify-content:center;opacity:0;padding:0;position:absolute;right:16px;text-align:center;top:16px;width:20px;z-index:100}@media not (prefers-reduced-motion){.wp-lightbox-container button{transition:opacity .2s ease}}.wp-lightbox-container button:focus-visible{outline:3px auto #5a5a5a40;outline:3px auto -webkit-focus-ring-color;outline-offset:3px}.wp-lightbox-container button:hover{cursor:pointer;opacity:1}.wp-lightbox-container button:focus{opacity:1}.wp-lightbox-container button:focus,.wp-lightbox-container button:hover,.wp-lightbox-container button:not(:hover):not(:active):not(.has-background){background-color:#5a5a5a40;border:none}.wp-lightbox-overlay{box-sizing:border-box;cursor:zoom-out;height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100%;z-index:100000}.wp-lightbox-overlay .close-button{align-items:center;cursor:pointer;display:flex;justify-content:center;min-height:40px;min-width:40px;padding:0;position:absolute;right:calc(env(safe-area-inset-right) + 16px);top:calc(env(safe-area-inset-top) + 16px);z-index:5000000}.wp-lightbox-overlay .close-button:focus,.wp-lightbox-overlay .close-button:hover,.wp-lightbox-overlay .close-button:not(:hover):not(:active):not(.has-background){background:none;border:none}.wp-lightbox-overlay .lightbox-image-container{height:var(--wp--lightbox-container-height);left:50%;overflow:hidden;position:absolute;top:50%;transform:translate(-50%,-50%);transform-origin:top left;width:var(--wp--lightbox-container-width);z-index:9999999999}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;height:100%;justify-content:center;margin:0;position:relative;transform-origin:0 0;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image img{height:var(--wp--lightbox-image-height);min-height:var(--wp--lightbox-image-height);min-width:var(--wp--lightbox-image-width);width:var(--wp--lightbox-image-width)}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.active{visibility:visible}@media not (prefers-reduced-motion){.wp-lightbox-overlay.active{animation:turn-on-visibility .25s both}.wp-lightbox-overlay.active img{animation:turn-on-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active){animation:turn-off-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active) img{animation:turn-off-visibility .25s both}.wp-lightbox-overlay.zoom.active{animation:none;opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .lightbox-image-container{animation:lightbox-zoom-in .4s}.wp-lightbox-overlay.zoom.active .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active){animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container{animation:lightbox-zoom-out .4s}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim{animation:turn-off-visibility .4s forwards}}@keyframes show-content-image{0%{visibility:hidden}99%{visibility:hidden}to{visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}
+/*# sourceURL=https://knt-worldblog.com/wp-includes/blocks/image/style.min.css */
+</style>
+<style id='wp-block-latest-comments-inline-css' type='text/css'>
+ol.wp-block-latest-comments{box-sizing:border-box;margin-left:0}:where(.wp-block-latest-comments:not([style*=line-height] .wp-block-latest-comments__comment)){line-height:1.1}:where(.wp-block-latest-comments:not([style*=line-height] .wp-block-latest-comments__comment-excerpt p)){line-height:1.8}.has-dates :where(.wp-block-latest-comments:not([style*=line-height])),.has-excerpts :where(.wp-block-latest-comments:not([style*=line-height])){line-height:1.5}.wp-block-latest-comments .wp-block-latest-comments{padding-left:0}.wp-block-latest-comments__comment{list-style:none;margin-bottom:1em}.has-avatars .wp-block-latest-comments__comment{list-style:none;min-height:2.25em}.has-avatars .wp-block-latest-comments__comment .wp-block-latest-comments__comment-excerpt,.has-avatars .wp-block-latest-comments__comment .wp-block-latest-comments__comment-meta{margin-left:3.25em}.wp-block-latest-comments__comment-excerpt p{font-size:.875em;margin:.36em 0 1.4em}.wp-block-latest-comments__comment-date{display:block;font-size:.75em}.wp-block-latest-comments .avatar,.wp-block-latest-comments__comment-avatar{border-radius:1.5em;display:block;float:left;height:2.5em;margin-right:.75em;width:2.5em}.wp-block-latest-comments[class*=-font-size] a,.wp-block-latest-comments[style*=font-size] a{font-size:inherit}
+/*# sourceURL=https://knt-worldblog.com/wp-includes/blocks/latest-comments/style.min.css */
+</style>
+<style id='wp-block-latest-posts-inline-css' type='text/css'>
+.wp-block-latest-posts{box-sizing:border-box}.wp-block-latest-posts.alignleft{margin-right:2em}.wp-block-latest-posts.alignright{margin-left:2em}.wp-block-latest-posts.wp-block-latest-posts__list{list-style:none}.wp-block-latest-posts.wp-block-latest-posts__list li{clear:both;overflow-wrap:break-word}.wp-block-latest-posts.is-grid{display:flex;flex-wrap:wrap}.wp-block-latest-posts.is-grid li{margin:0 1.25em 1.25em 0;width:100%}@media (min-width:600px){.wp-block-latest-posts.columns-2 li{width:calc(50% - .625em)}.wp-block-latest-posts.columns-2 li:nth-child(2n){margin-right:0}.wp-block-latest-posts.columns-3 li{width:calc(33.33333% - .83333em)}.wp-block-latest-posts.columns-3 li:nth-child(3n){margin-right:0}.wp-block-latest-posts.columns-4 li{width:calc(25% - .9375em)}.wp-block-latest-posts.columns-4 li:nth-child(4n){margin-right:0}.wp-block-latest-posts.columns-5 li{width:calc(20% - 1em)}.wp-block-latest-posts.columns-5 li:nth-child(5n){margin-right:0}.wp-block-latest-posts.columns-6 li{width:calc(16.66667% - 1.04167em)}.wp-block-latest-posts.columns-6 li:nth-child(6n){margin-right:0}}:root :where(.wp-block-latest-posts.is-grid){padding:0}:root :where(.wp-block-latest-posts.wp-block-latest-posts__list){padding-left:0}.wp-block-latest-posts__post-author,.wp-block-latest-posts__post-date{display:block;font-size:.8125em}.wp-block-latest-posts__post-excerpt,.wp-block-latest-posts__post-full-content{margin-bottom:1em;margin-top:.5em}.wp-block-latest-posts__featured-image a{display:inline-block}.wp-block-latest-posts__featured-image img{height:auto;max-width:100%;width:auto}.wp-block-latest-posts__featured-image.alignleft{float:left;margin-right:1em}.wp-block-latest-posts__featured-image.alignright{float:right;margin-left:1em}.wp-block-latest-posts__featured-image.aligncenter{margin-bottom:1em;text-align:center}
+/*# sourceURL=https://knt-worldblog.com/wp-includes/blocks/latest-posts/style.min.css */
+</style>
+<style id='wp-block-search-inline-css' type='text/css'>
+.wp-block-search__button{margin-left:10px;word-break:normal}.wp-block-search__button.has-icon{line-height:0}.wp-block-search__button svg{height:1.25em;min-height:24px;min-width:24px;width:1.25em;fill:currentColor;vertical-align:text-bottom}:where(.wp-block-search__button){border:1px solid #ccc;padding:6px 10px}.wp-block-search__inside-wrapper{display:flex;flex:auto;flex-wrap:nowrap;max-width:100%}.wp-block-search__label{width:100%}.wp-block-search.wp-block-search__button-only .wp-block-search__button{box-sizing:border-box;display:flex;flex-shrink:0;justify-content:center;margin-left:0;max-width:100%}.wp-block-search.wp-block-search__button-only .wp-block-search__inside-wrapper{min-width:0!important;transition-property:width}.wp-block-search.wp-block-search__button-only .wp-block-search__input{flex-basis:100%;transition-duration:.3s}.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden,.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden .wp-block-search__inside-wrapper{overflow:hidden}.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden .wp-block-search__input{border-left-width:0!important;border-right-width:0!important;flex-basis:0;flex-grow:0;margin:0;min-width:0!important;padding-left:0!important;padding-right:0!important;width:0!important}:where(.wp-block-search__input){appearance:none;border:1px solid #949494;flex-grow:1;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;margin-left:0;margin-right:0;min-width:3rem;padding:8px;text-decoration:unset!important;text-transform:inherit}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper){background-color:#fff;border:1px solid #949494;box-sizing:border-box;padding:4px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input{border:none;border-radius:0;padding:0 4px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input:focus{outline:none}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) :where(.wp-block-search__button){padding:4px 8px}.wp-block-search.aligncenter .wp-block-search__inside-wrapper{margin:auto}.wp-block[data-align=right] .wp-block-search.wp-block-search__button-only .wp-block-search__inside-wrapper{float:right}
+/*# sourceURL=https://knt-worldblog.com/wp-includes/blocks/search/style.min.css */
+</style>
+<style id='wp-block-group-inline-css' type='text/css'>
+.wp-block-group{box-sizing:border-box}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}
+/*# sourceURL=https://knt-worldblog.com/wp-includes/blocks/group/style.min.css */
+</style>
+<style id='wp-block-paragraph-inline-css' type='text/css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://knt-worldblog.com/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id='wp-block-table-inline-css' type='text/css'>
+.wp-block-table{overflow-x:auto}.wp-block-table table{border-collapse:collapse;width:100%}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{border:1px solid;padding:.5em}.wp-block-table .has-fixed-layout{table-layout:fixed;width:100%}.wp-block-table .has-fixed-layout td,.wp-block-table .has-fixed-layout th{word-break:break-word}.wp-block-table.aligncenter,.wp-block-table.alignleft,.wp-block-table.alignright{display:table;width:auto}.wp-block-table.aligncenter td,.wp-block-table.aligncenter th,.wp-block-table.alignleft td,.wp-block-table.alignleft th,.wp-block-table.alignright td,.wp-block-table.alignright th{word-break:break-word}.wp-block-table .has-subtle-light-gray-background-color{background-color:#f3f4f5}.wp-block-table .has-subtle-pale-green-background-color{background-color:#e9fbe5}.wp-block-table .has-subtle-pale-blue-background-color{background-color:#e7f5fe}.wp-block-table .has-subtle-pale-pink-background-color{background-color:#fcf0ef}.wp-block-table.is-style-stripes{background-color:initial;border-collapse:inherit;border-spacing:0}.wp-block-table.is-style-stripes tbody tr:nth-child(odd){background-color:#f0f0f0}.wp-block-table.is-style-stripes.has-subtle-light-gray-background-color tbody tr:nth-child(odd){background-color:#f3f4f5}.wp-block-table.is-style-stripes.has-subtle-pale-green-background-color tbody tr:nth-child(odd){background-color:#e9fbe5}.wp-block-table.is-style-stripes.has-subtle-pale-blue-background-color tbody tr:nth-child(odd){background-color:#e7f5fe}.wp-block-table.is-style-stripes.has-subtle-pale-pink-background-color tbody tr:nth-child(odd){background-color:#fcf0ef}.wp-block-table.is-style-stripes td,.wp-block-table.is-style-stripes th{border-color:#0000}.wp-block-table.is-style-stripes{border-bottom:1px solid #f0f0f0}.wp-block-table .has-border-color td,.wp-block-table .has-border-color th,.wp-block-table .has-border-color tr,.wp-block-table .has-border-color>*{border-color:inherit}.wp-block-table table[style*=border-top-color] tr:first-child,.wp-block-table table[style*=border-top-color] tr:first-child td,.wp-block-table table[style*=border-top-color] tr:first-child th,.wp-block-table table[style*=border-top-color]>*,.wp-block-table table[style*=border-top-color]>* td,.wp-block-table table[style*=border-top-color]>* th{border-top-color:inherit}.wp-block-table table[style*=border-top-color] tr:not(:first-child){border-top-color:initial}.wp-block-table table[style*=border-right-color] td:last-child,.wp-block-table table[style*=border-right-color] th,.wp-block-table table[style*=border-right-color] tr,.wp-block-table table[style*=border-right-color]>*{border-right-color:inherit}.wp-block-table table[style*=border-bottom-color] tr:last-child,.wp-block-table table[style*=border-bottom-color] tr:last-child td,.wp-block-table table[style*=border-bottom-color] tr:last-child th,.wp-block-table table[style*=border-bottom-color]>*,.wp-block-table table[style*=border-bottom-color]>* td,.wp-block-table table[style*=border-bottom-color]>* th{border-bottom-color:inherit}.wp-block-table table[style*=border-bottom-color] tr:not(:last-child){border-bottom-color:initial}.wp-block-table table[style*=border-left-color] td:first-child,.wp-block-table table[style*=border-left-color] th,.wp-block-table table[style*=border-left-color] tr,.wp-block-table table[style*=border-left-color]>*{border-left-color:inherit}.wp-block-table table[style*=border-style] td,.wp-block-table table[style*=border-style] th,.wp-block-table table[style*=border-style] tr,.wp-block-table table[style*=border-style]>*{border-style:inherit}.wp-block-table table[style*=border-width] td,.wp-block-table table[style*=border-width] th,.wp-block-table table[style*=border-width] tr,.wp-block-table table[style*=border-width]>*{border-style:inherit;border-width:inherit}
+/*# sourceURL=https://knt-worldblog.com/wp-includes/blocks/table/style.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--swl-main: var(--color_main);--wp--preset--color--swl-main-thin: var(--color_main_thin);--wp--preset--color--swl-gray: var(--color_gray);--wp--preset--color--swl-deep-01: var(--color_deep01);--wp--preset--color--swl-deep-02: var(--color_deep02);--wp--preset--color--swl-deep-03: var(--color_deep03);--wp--preset--color--swl-deep-04: var(--color_deep04);--wp--preset--color--swl-pale-01: var(--color_pale01);--wp--preset--color--swl-pale-02: var(--color_pale02);--wp--preset--color--swl-pale-03: var(--color_pale03);--wp--preset--color--swl-pale-04: var(--color_pale04);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 0.9em;--wp--preset--font-size--medium: 1.1em;--wp--preset--font-size--large: 1.25em;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--xs: 0.75em;--wp--preset--font-size--huge: 1.6em;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='swell-icons-css' href='https://knt-worldblog.com/wp-content/themes/swell/build/css/swell-icons.css?ver=2.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='main_style-css' href='https://knt-worldblog.com/wp-content/themes/swell/build/css/main.css?ver=2.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='swell_blocks-css' href='https://knt-worldblog.com/wp-content/themes/swell/build/css/blocks.css?ver=2.13.0' type='text/css' media='all' />
+<style id='swell_custom-inline-css' type='text/css'>
+:root{--swl-fz--content:4.2vw;--swl-font_family:"游ゴシック体", "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;--swl-font_weight:500;--color_main:#04384c;--color_text:#333;--color_link:#1176d4;--color_htag:#c6c6c6;--color_bg:#fdfdfd;--color_gradient1:#d8ffff;--color_gradient2:#87e7ff;--color_main_thin:rgba(5, 70, 95, 0.05 );--color_main_dark:rgba(3, 42, 57, 1 );--color_list_check:#04384c;--color_list_num:#04384c;--color_list_good:#86dd7b;--color_list_triangle:#f4e03a;--color_list_bad:#f36060;--color_faq_q:#d55656;--color_faq_a:#6599b7;--color_icon_good:#3cd250;--color_icon_good_bg:#ecffe9;--color_icon_bad:#4b73eb;--color_icon_bad_bg:#eafaff;--color_icon_info:#f578b4;--color_icon_info_bg:#fff0fa;--color_icon_announce:#ffa537;--color_icon_announce_bg:#fff5f0;--color_icon_pen:#7a7a7a;--color_icon_pen_bg:#f7f7f7;--color_icon_book:#787364;--color_icon_book_bg:#f8f6ef;--color_icon_point:#ffa639;--color_icon_check:#86d67c;--color_icon_batsu:#f36060;--color_icon_hatena:#5295cc;--color_icon_caution:#f7da38;--color_icon_memo:#84878a;--color_deep01:#e44141;--color_deep02:#3d79d5;--color_deep03:#63a84d;--color_deep04:#f09f4d;--color_pale01:#fff2f0;--color_pale02:#f3f8fd;--color_pale03:#f1f9ee;--color_pale04:#fdf9ee;--color_mark_blue:#b7e3ff;--color_mark_green:#bdf9c3;--color_mark_yellow:#fcf69f;--color_mark_orange:#ffddbc;--border01:solid 1px var(--color_main);--border02:double 4px var(--color_main);--border03:dashed 2px var(--color_border);--border04:solid 4px var(--color_gray);--card_posts_thumb_ratio:56.25%;--list_posts_thumb_ratio:61.805%;--big_posts_thumb_ratio:56.25%;--thumb_posts_thumb_ratio:61.805%;--blogcard_thumb_ratio:56.25%;--color_header_bg:#ffffff;--color_header_text:#606060;--color_footer_bg:#fdfdfd;--color_footer_text:#333;--container_size:1200px;--article_size:900px;--logo_size_sp:48px;--logo_size_pc:40px;--logo_size_pcfix:32px;}.swl-cell-bg[data-icon="doubleCircle"]{--cell-icon-color:#ffc977}.swl-cell-bg[data-icon="circle"]{--cell-icon-color:#94e29c}.swl-cell-bg[data-icon="triangle"]{--cell-icon-color:#eeda2f}.swl-cell-bg[data-icon="close"]{--cell-icon-color:#ec9191}.swl-cell-bg[data-icon="hatena"]{--cell-icon-color:#93c9da}.swl-cell-bg[data-icon="check"]{--cell-icon-color:#94e29c}.swl-cell-bg[data-icon="line"]{--cell-icon-color:#9b9b9b}.cap_box[data-colset="col1"]{--capbox-color:#f59b5f;--capbox-color--bg:#fff8eb}.cap_box[data-colset="col2"]{--capbox-color:#5fb9f5;--capbox-color--bg:#edf5ff}.cap_box[data-colset="col3"]{--capbox-color:#2fcd90;--capbox-color--bg:#eafaf2}.red_{--the-btn-color:#f74a4a;--the-btn-color2:#ffbc49;--the-solid-shadow: rgba(185, 56, 56, 1 )}.blue_{--the-btn-color:#338df4;--the-btn-color2:#35eaff;--the-solid-shadow: rgba(38, 106, 183, 1 )}.green_{--the-btn-color:#62d847;--the-btn-color2:#7bf7bd;--the-solid-shadow: rgba(74, 162, 53, 1 )}.is-style-btn_normal{--the-btn-radius:80px}.is-style-btn_solid{--the-btn-radius:80px}.is-style-btn_shiny{--the-btn-radius:80px}.is-style-btn_line{--the-btn-radius:80px}.post_content blockquote{padding:1.5em 2em 1.5em 3em}.post_content blockquote::before{content:"";display:block;width:5px;height:calc(100% - 3em);top:1.5em;left:1.5em;border-left:solid 1px rgba(180,180,180,.75);border-right:solid 1px rgba(180,180,180,.75);}.mark_blue{background:-webkit-linear-gradient(transparent 64%,var(--color_mark_blue) 0%);background:linear-gradient(transparent 64%,var(--color_mark_blue) 0%)}.mark_green{background:-webkit-linear-gradient(transparent 64%,var(--color_mark_green) 0%);background:linear-gradient(transparent 64%,var(--color_mark_green) 0%)}.mark_yellow{background:-webkit-linear-gradient(transparent 64%,var(--color_mark_yellow) 0%);background:linear-gradient(transparent 64%,var(--color_mark_yellow) 0%)}.mark_orange{background:-webkit-linear-gradient(transparent 64%,var(--color_mark_orange) 0%);background:linear-gradient(transparent 64%,var(--color_mark_orange) 0%)}[class*="is-style-icon_"]{color:#333;border-width:0}[class*="is-style-big_icon_"]{border-width:2px;border-style:solid}[data-col="gray"] .c-balloon__text{background:#f7f7f7;border-color:#ccc}[data-col="gray"] .c-balloon__before{border-right-color:#f7f7f7}[data-col="green"] .c-balloon__text{background:#d1f8c2;border-color:#9ddd93}[data-col="green"] .c-balloon__before{border-right-color:#d1f8c2}[data-col="blue"] .c-balloon__text{background:#e2f6ff;border-color:#93d2f0}[data-col="blue"] .c-balloon__before{border-right-color:#e2f6ff}[data-col="red"] .c-balloon__text{background:#ffebeb;border-color:#f48789}[data-col="red"] .c-balloon__before{border-right-color:#ffebeb}[data-col="yellow"] .c-balloon__text{background:#f9f7d2;border-color:#fbe593}[data-col="yellow"] .c-balloon__before{border-right-color:#f9f7d2}.-type-list2 .p-postList__body::after,.-type-big .p-postList__body::after{content: "READ MORE »";}.c-postThumb__cat{background-color:#04384c;color:#fff;background-image: repeating-linear-gradient(-45deg,rgba(255,255,255,.1),rgba(255,255,255,.1) 6px,transparent 6px,transparent 12px)}.post_content h2:where(:not([class^="swell-block-"]):not(.faq_q):not(.p-postList__title)){border-top:solid 2px var(--color_htag);border-bottom:solid 2px var(--color_htag);padding:1em .75em}.post_content h2:where(:not([class^="swell-block-"]):not(.faq_q):not(.p-postList__title))::before{position:absolute;display:block;pointer-events:none}.post_content h3:where(:not([class^="swell-block-"]):not(.faq_q):not(.p-postList__title)){border-left:solid 4px var(--color_htag);padding:.25em 0 .25em 16px}.l-header{box-shadow: 0 1px 4px rgba(0,0,0,.12)}.l-header__bar{color:#fff;background:var(--color_main)}.l-header__menuBtn{order:1}.l-header__customBtn{order:3}.c-gnav a::after{background:var(--color_main);width:100%;height:2px;transform:scaleX(0)}.p-spHeadMenu .menu-item.-current{border-bottom-color:var(--color_main)}.c-gnav > li:hover > a::after,.c-gnav > .-current > a::after{transform: scaleX(1)}.c-gnav .sub-menu{color:#333;background:#fff}.l-fixHeader::before{opacity:1}#pagetop{border-radius:50%}#fix_bottom_menu{color:#333}#fix_bottom_menu::before{background:#fff;opacity:0.9}.c-widget__title.-spmenu{padding:.5em .75em;border-radius:var(--swl-radius--2, 0px);background:var(--color_main);color:#fff;}.c-widget__title.-footer{padding:.5em}.c-widget__title.-footer::before{content:"";bottom:0;left:0;width:40%;z-index:1;background:var(--color_main)}.c-widget__title.-footer::after{content:"";bottom:0;left:0;width:100%;background:var(--color_border)}.c-secTitle{border-left:solid 2px var(--color_main);padding:0em .75em}.p-spMenu{color:#333}.p-spMenu__inner::before{background:#fdfdfd;opacity:1}.p-spMenu__overlay{background:#000;opacity:0.6}[class*="page-numbers"]{color:#fff;background-color:#dedede}a{text-decoration: none}.l-topTitleArea.c-filterLayer::before{background-color:#000;opacity:0.2;content:""}@media screen and (min-width: 960px){:root{}}@media screen and (max-width: 959px){:root{}.l-header__logo{order:2;text-align:center}}@media screen and (min-width: 600px){:root{--swl-fz--content:16px;}}@media screen and (max-width: 599px){:root{}}@media (min-width: 1108px) {.alignwide{left:-100px;width:calc(100% + 200px);}}@media (max-width: 1108px) {.-sidebar-off .swell-block-fullWide__inner.l-container .alignwide{left:0px;width:100%;}}.l-fixHeader .l-fixHeader__gnav{order:0}[data-scrolled=true] .l-fixHeader[data-ready]{opacity:1;-webkit-transform:translateY(0)!important;transform:translateY(0)!important;visibility:visible}.-body-solid .l-fixHeader{box-shadow:0 2px 4px var(--swl-color_shadow)}.l-fixHeader__inner{align-items:stretch;color:var(--color_header_text);display:flex;padding-bottom:0;padding-top:0;position:relative;z-index:1}.l-fixHeader__logo{align-items:center;display:flex;line-height:1;margin-right:24px;order:0;padding:16px 0}[data-scrolled=true] #fix_bottom_menu{bottom:0}#fix_bottom_menu{box-shadow:0 0 4px rgba(0,0,0,.1);transition:bottom .4s;width:100%;z-index:100}#fix_bottom_menu:before{display:block;z-index:0}#fix_bottom_menu .menu_list{align-items:center;display:flex;height:50px;justify-content:space-between;padding:2px 0 0;position:relative;z-index:1}#fix_bottom_menu .menu_btn .open_btn{opacity:1;-webkit-transform:scale(1.1);transform:scale(1.1)}#fix_bottom_menu .menu-item{flex:1 1 100%;margin:0;padding:0;text-align:center}#fix_bottom_menu .menu-item a{color:inherit;display:block;line-height:1;text-decoration:none}#fix_bottom_menu .menu-item i{color:inherit;display:block;font-size:20px;height:20px;line-height:20px;text-align:center}#fix_bottom_menu .menu-item i:before{color:inherit;display:inline-block}#fix_bottom_menu span{color:inherit;display:block;font-size:10px;line-height:1;margin-top:4px;width:100%}@media not all and (min-width:960px){#fix_bottom_menu{display:block;padding-bottom:calc(env(safe-area-inset-bottom)*.5)}}.is-style-btn_normal a,.is-style-btn_shiny a{box-shadow:var(--swl-btn_shadow)}.c-shareBtns__btn,.is-style-balloon>.c-tabList .c-tabList__button,.p-snsCta,[class*=page-numbers]{box-shadow:var(--swl-box_shadow)}.p-articleThumb__img,.p-articleThumb__youtube{box-shadow:var(--swl-img_shadow)}.p-pickupBanners__item .c-bannerLink,.p-postList__thumb{box-shadow:0 2px 8px rgba(0,0,0,.1),0 4px 4px -4px rgba(0,0,0,.1)}.p-postList.-w-ranking li:before{background-image:repeating-linear-gradient(-45deg,hsla(0,0%,100%,.1),hsla(0,0%,100%,.1) 6px,transparent 0,transparent 12px);box-shadow:1px 1px 4px rgba(0,0,0,.2)}.l-header__bar{position:relative;width:100%}.l-header__bar .c-catchphrase{color:inherit;font-size:12px;letter-spacing:var(--swl-letter_spacing,.2px);line-height:14px;margin-right:auto;overflow:hidden;padding:4px 0;white-space:nowrap;width:50%}.l-header__bar .c-iconList .c-iconList__link{margin:0;padding:4px 6px}.l-header__barInner{align-items:center;display:flex;justify-content:flex-end}@media (min-width:960px){.-series .l-header__inner{align-items:stretch;display:flex}.-series .l-header__logo{align-items:center;display:flex;flex-wrap:wrap;margin-right:24px;padding:16px 0}.-series .l-header__logo .c-catchphrase{font-size:13px;padding:4px 0}.-series .c-headLogo{margin-right:16px}.-series-right .l-header__inner{justify-content:space-between}.-series-right .c-gnavWrap{margin-left:auto}.-series-right .w-header{margin-left:12px}.-series-left .w-header{margin-left:auto}}@media (min-width:960px) and (min-width:600px){.-series .c-headLogo{max-width:400px}}.c-gnav .sub-menu a:before,.c-listMenu a:before{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:icomoon!important;font-style:normal;font-variant:normal;font-weight:400;line-height:1;text-transform:none}.c-submenuToggleBtn{display:none}.c-listMenu a{padding:.75em 1em .75em 1.5em;transition:padding .25s}.c-listMenu a:hover{padding-left:1.75em;padding-right:.75em}.c-gnav .sub-menu a:before,.c-listMenu a:before{color:inherit;content:"\e921";display:inline-block;left:2px;position:absolute;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%);vertical-align:middle}.widget_categories>ul>.cat-item>a,.wp-block-categories-list>li>a{padding-left:1.75em}.c-listMenu .children,.c-listMenu .sub-menu{margin:0}.c-listMenu .children a,.c-listMenu .sub-menu a{font-size:.9em;padding-left:2.5em}.c-listMenu .children a:before,.c-listMenu .sub-menu a:before{left:1em}.c-listMenu .children a:hover,.c-listMenu .sub-menu a:hover{padding-left:2.75em}.c-listMenu .children ul a,.c-listMenu .sub-menu ul a{padding-left:3.25em}.c-listMenu .children ul a:before,.c-listMenu .sub-menu ul a:before{left:1.75em}.c-listMenu .children ul a:hover,.c-listMenu .sub-menu ul a:hover{padding-left:3.5em}.c-gnav li:hover>.sub-menu{opacity:1;visibility:visible}.c-gnav .sub-menu:before{background:inherit;content:"";height:100%;left:0;position:absolute;top:0;width:100%;z-index:0}.c-gnav .sub-menu .sub-menu{left:100%;top:0;z-index:-1}.c-gnav .sub-menu a{padding-left:2em}.c-gnav .sub-menu a:before{left:.5em}.c-gnav .sub-menu a:hover .ttl{left:4px}:root{--color_content_bg:var(--color_bg);}.c-widget__title.-side{padding:.5em}.c-widget__title.-side::before{content:"";bottom:0;left:0;width:40%;z-index:1;background:var(--color_main)}.c-widget__title.-side::after{content:"";bottom:0;left:0;width:100%;background:var(--color_border)}.c-shareBtns__item:not(:last-child){margin-right:4px}.c-shareBtns__btn{padding:8px 0}@media screen and (min-width: 960px){:root{}}@media screen and (max-width: 959px){:root{}}@media screen and (min-width: 600px){:root{}}@media screen and (max-width: 599px){:root{}}.swell-block-fullWide__inner.l-container{--swl-fw_inner_pad:var(--swl-pad_container,0px)}@media (min-width:960px){.-sidebar-on .l-content .alignfull,.-sidebar-on .l-content .alignwide{left:-16px;width:calc(100% + 32px)}.swell-block-fullWide__inner.l-article{--swl-fw_inner_pad:var(--swl-pad_post_content,0px)}.-sidebar-on .swell-block-fullWide__inner .alignwide{left:0;width:100%}.-sidebar-on .swell-block-fullWide__inner .alignfull{left:calc(0px - var(--swl-fw_inner_pad, 0))!important;margin-left:0!important;margin-right:0!important;width:calc(100% + var(--swl-fw_inner_pad, 0)*2)!important}}.p-relatedPosts .p-postList__item{margin-bottom:1.5em}.p-relatedPosts .p-postList__times,.p-relatedPosts .p-postList__times>:last-child{margin-right:0}@media (min-width:600px){.p-relatedPosts .p-postList__item{width:33.33333%}}@media screen and (min-width:600px) and (max-width:1239px){.p-relatedPosts .p-postList__item:nth-child(7),.p-relatedPosts .p-postList__item:nth-child(8){display:none}}@media screen and (min-width:1240px){.p-relatedPosts .p-postList__item{width:25%}}.-index-off .p-toc,.swell-toc-placeholder:empty{display:none}.p-toc.-modal{height:100%;margin:0;overflow-y:auto;padding:0}#main_content .p-toc{border-radius:var(--swl-radius--2,0);margin:4em auto;max-width:800px}#sidebar .p-toc{margin-top:-.5em}.p-toc .__pn:before{content:none!important;counter-increment:none}.p-toc .__prev{margin:0 0 1em}.p-toc .__next{margin:1em 0 0}.p-toc.is-omitted:not([data-omit=ct]) [data-level="2"] .p-toc__childList{height:0;margin-bottom:-.5em;visibility:hidden}.p-toc.is-omitted:not([data-omit=nest]){position:relative}.p-toc.is-omitted:not([data-omit=nest]):before{background:linear-gradient(hsla(0,0%,100%,0),var(--color_bg));bottom:5em;content:"";height:4em;left:0;opacity:.75;pointer-events:none;position:absolute;width:100%;z-index:1}.p-toc.is-omitted:not([data-omit=nest]):after{background:var(--color_bg);bottom:0;content:"";height:5em;left:0;opacity:.75;position:absolute;width:100%;z-index:1}.p-toc.is-omitted:not([data-omit=nest]) .__next,.p-toc.is-omitted:not([data-omit=nest]) [data-omit="1"]{display:none}.p-toc .p-toc__expandBtn{background-color:#f7f7f7;border:rgba(0,0,0,.2);border-radius:5em;box-shadow:0 0 0 1px #bbb;color:#333;display:block;font-size:14px;line-height:1.5;margin:.75em auto 0;min-width:6em;padding:.5em 1em;position:relative;transition:box-shadow .25s;z-index:2}.p-toc[data-omit=nest] .p-toc__expandBtn{display:inline-block;font-size:13px;margin:0 0 0 1.25em;padding:.5em .75em}.p-toc:not([data-omit=nest]) .p-toc__expandBtn:after,.p-toc:not([data-omit=nest]) .p-toc__expandBtn:before{border-top-color:inherit;border-top-style:dotted;border-top-width:3px;content:"";display:block;height:1px;position:absolute;top:calc(50% - 1px);transition:border-color .25s;width:100%;width:22px}.p-toc:not([data-omit=nest]) .p-toc__expandBtn:before{right:calc(100% + 1em)}.p-toc:not([data-omit=nest]) .p-toc__expandBtn:after{left:calc(100% + 1em)}.p-toc.is-expanded .p-toc__expandBtn{border-color:transparent}.p-toc__ttl{display:block;font-size:1.2em;line-height:1;position:relative;text-align:center}.p-toc__ttl:before{content:"\e918";display:inline-block;font-family:icomoon;margin-right:.5em;padding-bottom:2px;vertical-align:middle}#index_modal .p-toc__ttl{margin-bottom:.5em}.p-toc__list li{line-height:1.6}.p-toc__list>li+li{margin-top:.5em}.p-toc__list .p-toc__childList{padding-left:.5em}.p-toc__list [data-level="3"]{font-size:.9em}.p-toc__list .mininote{display:none}.post_content .p-toc__list{padding-left:0}#sidebar .p-toc__list{margin-bottom:0}#sidebar .p-toc__list .p-toc__childList{padding-left:0}.p-toc__link{color:inherit;font-size:inherit;text-decoration:none}.p-toc__link:hover{opacity:.8}.p-toc.-double{background:var(--color_gray);background:linear-gradient(-45deg,transparent 25%,var(--color_gray) 25%,var(--color_gray) 50%,transparent 50%,transparent 75%,var(--color_gray) 75%,var(--color_gray));background-clip:padding-box;background-size:4px 4px;border-bottom:4px double var(--color_border);border-top:4px double var(--color_border);padding:1.5em 1em 1em}.p-toc.-double .p-toc__ttl{margin-bottom:.75em}@media (min-width:960px){#main_content .p-toc{width:92%}}@media (hover:hover){.p-toc .p-toc__expandBtn:hover{border-color:transparent;box-shadow:0 0 0 2px currentcolor}}@media (min-width:600px){.p-toc.-double{padding:2em}}.p-pnLinks{align-items:stretch;display:flex;justify-content:space-between;margin:2em 0}.p-pnLinks__item{font-size:3vw;position:relative;width:49%}.p-pnLinks__item:before{content:"";display:block;height:.5em;pointer-events:none;position:absolute;top:50%;width:.5em;z-index:1}.p-pnLinks__item.-prev:before{border-bottom:1px solid;border-left:1px solid;left:.35em;-webkit-transform:rotate(45deg) translateY(-50%);transform:rotate(45deg) translateY(-50%)}.p-pnLinks__item.-prev .p-pnLinks__thumb{margin-right:8px}.p-pnLinks__item.-next .p-pnLinks__link{justify-content:flex-end}.p-pnLinks__item.-next:before{border-bottom:1px solid;border-right:1px solid;right:.35em;-webkit-transform:rotate(-45deg) translateY(-50%);transform:rotate(-45deg) translateY(-50%)}.p-pnLinks__item.-next .p-pnLinks__thumb{margin-left:8px;order:2}.p-pnLinks__item.-next:first-child{margin-left:auto}.p-pnLinks__link{align-items:center;border-radius:var(--swl-radius--2,0);color:inherit;display:flex;height:100%;line-height:1.4;min-height:4em;padding:.6em 1em .5em;position:relative;text-decoration:none;transition:box-shadow .25s;width:100%}.p-pnLinks__thumb{border-radius:var(--swl-radius--4,0);height:32px;-o-object-fit:cover;object-fit:cover;width:48px}.p-pnLinks .-prev .p-pnLinks__link{border-left:1.25em solid var(--color_main)}.p-pnLinks .-prev:before{color:#fff}.p-pnLinks .-next .p-pnLinks__link{border-right:1.25em solid var(--color_main)}.p-pnLinks .-next:before{color:#fff}@media not all and (min-width:960px){.p-pnLinks.-thumb-on{display:block}.p-pnLinks.-thumb-on .p-pnLinks__item{width:100%}}@media (min-width:600px){.p-pnLinks__item{font-size:13px}.p-pnLinks__thumb{height:48px;width:72px}.p-pnLinks__title{transition:-webkit-transform .25s;transition:transform .25s;transition:transform .25s,-webkit-transform .25s}.-prev>.p-pnLinks__link:hover .p-pnLinks__title{-webkit-transform:translateX(4px);transform:translateX(4px)}.-next>.p-pnLinks__link:hover .p-pnLinks__title{-webkit-transform:translateX(-4px);transform:translateX(-4px)}.p-pnLinks .-prev .p-pnLinks__link:hover{box-shadow:1px 1px 2px var(--swl-color_shadow)}.p-pnLinks .-next .p-pnLinks__link:hover{box-shadow:-1px 1px 2px var(--swl-color_shadow)}}
+/*# sourceURL=swell_custom-inline-css */
+</style>
+<link rel='stylesheet' id='swell-parts/footer-css' href='https://knt-worldblog.com/wp-content/themes/swell/build/css/modules/parts/footer.css?ver=2.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='swell-page/single-css' href='https://knt-worldblog.com/wp-content/themes/swell/build/css/modules/page/single.css?ver=2.13.0' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://knt-worldblog.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.3' type='text/css' media='all' />
+
+<noscript><link href="https://knt-worldblog.com/wp-content/themes/swell/build/css/noscript.css" rel="stylesheet"></noscript>
+<link rel="https://api.w.org/" href="https://knt-worldblog.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://knt-worldblog.com/wp-json/wp/v2/posts/589" /><link rel='shortlink' href='https://knt-worldblog.com/?p=589' />
+<link rel="icon" href="https://knt-worldblog.com/wp-content/uploads/2025/02/cropped-tulip-8266514_640-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://knt-worldblog.com/wp-content/uploads/2025/02/cropped-tulip-8266514_640-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://knt-worldblog.com/wp-content/uploads/2025/02/cropped-tulip-8266514_640-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://knt-worldblog.com/wp-content/uploads/2025/02/cropped-tulip-8266514_640-270x270.jpg" />
+
+<link rel="stylesheet" href="https://knt-worldblog.com/wp-content/themes/swell/build/css/print.css" media="print" >
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6613274195905234"
+     crossorigin="anonymous"></script>
+<link rel='stylesheet' id='swell_luminous-css' href='https://knt-worldblog.com/wp-content/themes/swell/build/css/plugins/luminous.css?ver=2.13.0' type='text/css' media='all' />
+</head>
+<body data-rsssl=1>
+<div id="body_wrap" class="wp-singular post-template-default single single-post postid-589 single-format-standard wp-theme-swell -body-solid -sidebar-on -frame-off id_589" >
+<div id="sp_menu" class="p-spMenu -left">
+	<div class="p-spMenu__inner">
+		<div class="p-spMenu__closeBtn">
+			<button class="c-iconBtn -menuBtn c-plainBtn" data-onclick="toggleMenu" aria-label="メニューを閉じる">
+				<i class="c-iconBtn__icon icon-close-thin"></i>
+			</button>
+		</div>
+		<div class="p-spMenu__body">
+			<div class="c-widget__title -spmenu">
+				MENU			</div>
+			<div class="p-spMenu__nav">
+				<ul class="c-spnav c-listMenu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-645"><a href="https://knt-worldblog.com/category/%e9%9b%91%e5%ad%a6/">雑学</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2423"><a href="https://knt-worldblog.com/category/%e9%a3%9f%e3%81%b9%e7%89%a9%e3%81%ae%e9%9b%91%e5%ad%a6/">食べ物の雑学</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1076"><a href="https://knt-worldblog.com/category/%e8%a6%b3%e5%85%89%e3%83%bb%e3%81%8a%e5%87%ba%e3%81%8b%e3%81%91/">観光・お出かけ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1427"><a href="https://knt-worldblog.com/%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab/">プロフィール</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1417"><a href="https://knt-worldblog.com/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/">お問い合わせ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-1422"><a rel="privacy-policy" href="https://knt-worldblog.com/privacy-policy/">プライバシーポリシー</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1432"><a href="https://knt-worldblog.com/%e3%82%b5%e3%82%a4%e3%83%88%e3%83%9e%e3%83%83%e3%83%97/">サイトマップ</a></li>
+</ul>			</div>
+					</div>
+	</div>
+	<div class="p-spMenu__overlay c-overlay" data-onclick="toggleMenu"></div>
+</div>
+<header id="header" class="l-header -series -series-right" data-spfix="1">
+	<div class="l-header__bar pc_">
+	<div class="l-header__barInner l-container">
+		<div class="c-catchphrase"></div><ul class="c-iconList">
+						<li class="c-iconList__item -rss">
+						<a href="https://knt-worldblog.com/feed/" target="_blank" rel="noopener" class="c-iconList__link u-fz-14 hov-flash" aria-label="rss">
+							<i class="c-iconList__icon icon-rss" role="presentation"></i>
+						</a>
+					</li>
+									<li class="c-iconList__item -search">
+						<button class="c-iconList__link c-plainBtn u-fz-14 hov-flash" data-onclick="toggleSearch" aria-label="検索">
+							<i class="c-iconList__icon icon-search" role="presentation"></i>
+						</button>
+					</li>
+				</ul>
+	</div>
+</div>
+	<div class="l-header__inner l-container">
+		<div class="l-header__logo">
+			<div class="c-headLogo -txt"><a href="https://knt-worldblog.com/" title="KONA BLOG" class="c-headLogo__link" rel="home">KONA BLOG</a></div>					</div>
+		<nav id="gnav" class="l-header__gnav c-gnavWrap">
+					<ul class="c-gnav">
+							<li class="menu-item">
+					<a href="https://knt-worldblog.com/%e3%82%b5%e3%82%a4%e3%83%88%e3%83%9e%e3%83%83%e3%83%97/">
+						<span class="ttl">サイトマップ</span>
+					</a>
+				</li>
+							<li class="menu-item">
+					<a href="https://knt-worldblog.com/%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab/">
+						<span class="ttl">プロフィール</span>
+					</a>
+				</li>
+							<li class="menu-item">
+					<a href="https://knt-worldblog.com/privacy-policy/">
+						<span class="ttl">プライバシーポリシー</span>
+					</a>
+				</li>
+							<li class="menu-item">
+					<a href="https://knt-worldblog.com/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/">
+						<span class="ttl">お問い合わせ</span>
+					</a>
+				</li>
+								</ul>
+			</nav>
+		<div class="l-header__customBtn sp_">
+			<button class="c-iconBtn c-plainBtn" data-onclick="toggleSearch" aria-label="検索ボタン">
+			<i class="c-iconBtn__icon icon-search"></i>
+					</button>
+	</div>
+<div class="l-header__menuBtn sp_">
+	<button class="c-iconBtn -menuBtn c-plainBtn" data-onclick="toggleMenu" aria-label="メニューボタン">
+		<i class="c-iconBtn__icon icon-menu-thin"></i>
+			</button>
+</div>
+	</div>
+	</header>
+<div id="fix_header" class="l-fixHeader -series -series-right">
+	<div class="l-fixHeader__inner l-container">
+		<div class="l-fixHeader__logo">
+			<div class="c-headLogo -txt"><a href="https://knt-worldblog.com/" title="KONA BLOG" class="c-headLogo__link" rel="home">KONA BLOG</a></div>		</div>
+		<div class="l-fixHeader__gnav c-gnavWrap">
+					<ul class="c-gnav">
+							<li class="menu-item">
+					<a href="https://knt-worldblog.com/%e3%82%b5%e3%82%a4%e3%83%88%e3%83%9e%e3%83%83%e3%83%97/">
+						<span class="ttl">サイトマップ</span>
+					</a>
+				</li>
+							<li class="menu-item">
+					<a href="https://knt-worldblog.com/%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab/">
+						<span class="ttl">プロフィール</span>
+					</a>
+				</li>
+							<li class="menu-item">
+					<a href="https://knt-worldblog.com/privacy-policy/">
+						<span class="ttl">プライバシーポリシー</span>
+					</a>
+				</li>
+							<li class="menu-item">
+					<a href="https://knt-worldblog.com/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/">
+						<span class="ttl">お問い合わせ</span>
+					</a>
+				</li>
+								</ul>
+			</div>
+	</div>
+</div>
+<div id="breadcrumb" class="p-breadcrumb -bg-on"><ol class="p-breadcrumb__list l-container"><li class="p-breadcrumb__item"><a href="https://knt-worldblog.com/" class="p-breadcrumb__text"><span class="__home icon-home"> ホーム</span></a></li><li class="p-breadcrumb__item"><a href="https://knt-worldblog.com/category/%e9%9b%91%e5%ad%a6/" class="p-breadcrumb__text"><span>雑学</span></a></li><li class="p-breadcrumb__item"><span class="p-breadcrumb__text">七つの大罪って知ってる？罪の重い順番や象徴する悪魔も</span></li></ol></div><div id="content" class="l-content l-container" data-postid="589" data-pvct="true">
+<main id="main_content" class="l-mainContent l-article">
+	<article class="l-mainContent__inner" data-clarity-region="article">
+		<div class="p-articleHead c-postTitle">
+	<h1 class="c-postTitle__ttl">七つの大罪って知ってる？罪の重い順番や象徴する悪魔も</h1>
+			<time class="c-postTitle__date u-thin" datetime="2025-07-22" aria-hidden="true">
+			<span class="__y">2025</span>
+			<span class="__md">7/22</span>
+		</time>
+	</div>
+<div class="p-articleMetas -top">
+
+	
+		<div class="p-articleMetas__termList c-categoryList">
+					<a class="c-categoryList__link hov-flash-up" href="https://knt-worldblog.com/category/%e9%9b%91%e5%ad%a6/" data-cat-id="14">
+				雑学			</a>
+			</div>
+<div class="p-articleMetas__times c-postTimes u-thin">
+	<time class="c-postTimes__posted icon-posted" datetime="2025-04-28" aria-label="公開日">2025年4月28日</time><time class="c-postTimes__modified icon-modified" datetime="2025-07-22" aria-label="更新日">2025年7月22日</time></div>
+</div>
+
+
+<figure class="p-articleThumb"><img width="1280" height="853"  src="https://knt-worldblog.com/wp-content/uploads/2025/04/bible-1058289_1280.jpg" alt="" class="p-articleThumb__img" srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/bible-1058289_1280.jpg 1280w, https://knt-worldblog.com/wp-content/uploads/2025/04/bible-1058289_1280-300x200.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/bible-1058289_1280-1024x682.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/bible-1058289_1280-768x512.jpg 768w" sizes="(min-width: 960px) 960px, 100vw" ></figure>		<div class="post_content">
+			
+<p>「七つの大罪」ってご存知ですか？</p>
+
+
+
+<p>7つすべてを言える方や、具体的な内容について説明できる方は、案外少ないかもしれません。</p>
+
+
+
+<p>そこで今回は、七つの大罪とはどんなものなのか、罪の重い順に解説します。</p>
+
+
+
+<p>また、それぞれの罪を象徴する悪魔や動物、新・七つの大罪についてもご紹介します。</p>
+
+
+
+<div class="p-toc -double"><span class="p-toc__ttl">目次</span></div><h2 class="wp-block-heading">七つの大罪とは？種類や起源を解説</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://knt-worldblog.com/wp-content/uploads/2025/04/bible-2110439_1280-1024x683.jpg" alt="" class="wp-image-597 lazyload" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/bible-2110439_1280-1024x683.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/bible-2110439_1280-300x200.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/bible-2110439_1280-768x512.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/bible-2110439_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"  data-aspectratio="1024/683"><noscript><img decoding="async" width="1024" height="683" src="https://knt-worldblog.com/wp-content/uploads/2025/04/bible-2110439_1280-1024x683.jpg" alt="" class="wp-image-597" srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/bible-2110439_1280-1024x683.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/bible-2110439_1280-300x200.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/bible-2110439_1280-768x512.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/bible-2110439_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" ></noscript></figure>
+
+
+
+<p><span class="swl-marker mark_yellow">七つの大罪とは、<strong>「傲慢」「嫉妬」「憤怒」「怠惰」「強欲」「暴食」「色欲」</strong>という7つのこと。</span></p>
+
+
+
+<p>キリスト教の西方教会、主にカトリック教会における用語で、意味は英語やラテン語で「七つの死に至る罪」です。</p>
+
+
+
+<p>ただ、罪そのものというよりも、人間を罪に導く可能性がある欲望や感情のことを指すため、日本のカトリック教会では「七つの罪源（ざいげん）」と訳します。</p>
+
+
+
+<p><span class="swl-marker mark_orange">簡単に言うと、<strong>「これら7つの欲望や感情に身を任せると、自分や人を死に至らしめるほどの罪を犯す危険性がある」</strong>ということ</span>なのです！</p>
+
+
+
+<p>起源は、4世紀エジプトの修道士、エヴァグリオス・ポンティコスの著者『修行論』に、八つの「人間一般の想念」として現れたこと。</p>
+
+
+
+<p>八つの想念とは、「貪食（暴食）」「淫蕩（色欲）」「金銭欲（強欲）」「憂鬱」「怒り（憤怒）」「怠惰）」「虚飾（虚栄・自惚れ）」「傲慢」です。</p>
+
+
+
+<p>これらが6世紀後半、ローマ教皇グレゴリウス1世によって、「虚飾」が「傲慢」に含まれ、「怠惰」と「憂鬱」が一つに、そして「嫉妬」が追加され、現在の「七つの大罪」になりました。</p>
+
+
+
+<h2 class="wp-block-heading">七つの大罪｜罪の重さに順番はある？</h2>
+
+
+
+<p>「七つの大罪（Seven Deadly Sins）」には、<span class="swl-marker mark_yellow"><strong>伝統的に明確な「罪の重さの順番」は存在しません</strong>が、一部の神学者や宗教的伝統では、罪の重さに差があると考えられてきました。</span></p>
+
+
+
+<p>特にキリスト教のカトリック神学では、罪には「大罪（mortal sin）」と「小罪（venial sin）」があるとされ、その中でも七つの大罪は人を堕落させる根本的な「根源的な罪」とみなされます。</p>
+
+
+
+<p>以下は七つの大罪の歴史的・神学的な一部解釈に基づいた「重い順」とされることのある順番です。</p>
+
+
+
+<p><strong><span class="swl-fz u-fz-l"><span class="swl-marker mark_yellow">傲慢⇒嫉妬⇒憤怒⇒怠惰⇒強欲⇒暴食⇒色欲</span></span></strong></p>
+
+
+
+<h2 class="wp-block-heading">七つの大罪を象徴する悪魔・幻獣・動物とは？</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="574" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://knt-worldblog.com/wp-content/uploads/2025/04/ai-generated-8745721_1280-1024x574.png" alt="" class="wp-image-616 lazyload" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/ai-generated-8745721_1280-1024x574.png 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/ai-generated-8745721_1280-300x168.png 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/ai-generated-8745721_1280-768x430.png 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/ai-generated-8745721_1280.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px"  data-aspectratio="1024/574"><noscript><img decoding="async" width="1024" height="574" src="https://knt-worldblog.com/wp-content/uploads/2025/04/ai-generated-8745721_1280-1024x574.png" alt="" class="wp-image-616" srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/ai-generated-8745721_1280-1024x574.png 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/ai-generated-8745721_1280-300x168.png 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/ai-generated-8745721_1280-768x430.png 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/ai-generated-8745721_1280.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" ></noscript></figure>
+
+
+
+<p>七つの大罪には、それらを司る悪魔や象徴する幻獣・動物があるんです！</p>
+
+
+
+<p>欲望や感情を擬人化したものと言っても良いでしょう。</p>
+
+
+
+<p>ここでは、それぞれの罪をどんな生き物たちで象徴するのか、ご紹介します。</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td data-has-cell-bg="1" data-text-color="black"><span class="swl-cell-bg has-swl-pale-01-background-color" data-text-color="black" aria-hidden="true"> </span><strong>大罪</strong></td><td data-has-cell-bg="1" data-text-color="black"><span class="swl-cell-bg has-swl-pale-02-background-color" data-text-color="black" aria-hidden="true"> </span><strong>司る悪魔</strong></td><td data-has-cell-bg="1" data-text-color="black"><span class="swl-cell-bg has-swl-pale-03-background-color" data-text-color="black" aria-hidden="true"> </span><strong>象徴する幻獣</strong></td><td data-has-cell-bg="1" data-text-color="black"><span class="swl-cell-bg has-swl-pale-04-background-color" data-text-color="black" aria-hidden="true"> </span><strong>象徴する動物</strong></td></tr><tr><td>傲慢</td><td>ルシファー</td><td>グリフォン</td><td>獅子（＋孔雀）</td></tr><tr><td>嫉妬</td><td>レヴィアタン</td><td>マーメイド</td><td>蛇（＋犬）</td></tr><tr><td>憤怒</td><td>サタン</td><td>ユニコーン</td><td>龍（＋狼）</td></tr><tr><td>怠惰</td><td>ベルフェゴール</td><td>フェニックス</td><td>熊（＋ロバ）</td></tr><tr><td>強欲</td><td>マモン</td><td>コブリン</td><td>狐（＋ハリネズミ）</td></tr><tr><td>暴食</td><td>ベルゼブブ</td><td>ケルベロス</td><td>豚（＋ハエ）</td></tr><tr><td>色欲</td><td>アスモデウス</td><td>サキュバス</td><td>サソリ（＋ヤギ）</td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading">七つの大罪の具体的な意味や内容を解説！</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://knt-worldblog.com/wp-content/uploads/2025/04/church-3481187_1280-1024x682.jpg" alt="" class="wp-image-614 lazyload" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/church-3481187_1280-1024x682.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/church-3481187_1280-300x200.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/church-3481187_1280-768x512.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/church-3481187_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"  data-aspectratio="1024/682"><noscript><img decoding="async" width="1024" height="682" src="https://knt-worldblog.com/wp-content/uploads/2025/04/church-3481187_1280-1024x682.jpg" alt="" class="wp-image-614" srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/church-3481187_1280-1024x682.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/church-3481187_1280-300x200.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/church-3481187_1280-768x512.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/church-3481187_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" ></noscript></figure>
+
+
+
+<p>七つの大罪を司る悪魔や、象徴する幻獣・動物たちをご紹介しましたが、悪魔や幻獣の名前はなかなか聞かないことでしょう。</p>
+
+
+
+<p>彼らはいったい何者なのか、その正体が気になる方もいるかと思います。</p>
+
+
+
+<p>そこでここでは、それらの正体を含め、7つの大罪がどのように人の行動や社会に影響を与えるのかなど、具体的な内容や意味を<strong>罪の重い順に</strong>解説していきます。</p>
+
+
+
+<h3 class="wp-block-heading">①傲慢</h3>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="636" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://knt-worldblog.com/wp-content/uploads/2025/04/lion-5982571_1280-1024x636.jpg" alt="" class="wp-image-610 lazyload" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/lion-5982571_1280-1024x636.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/lion-5982571_1280-300x186.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/lion-5982571_1280-768x477.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/lion-5982571_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"  data-aspectratio="1024/636"><noscript><img decoding="async" width="1024" height="636" src="https://knt-worldblog.com/wp-content/uploads/2025/04/lion-5982571_1280-1024x636.jpg" alt="" class="wp-image-610" srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/lion-5982571_1280-1024x636.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/lion-5982571_1280-300x186.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/lion-5982571_1280-768x477.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/lion-5982571_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" ></noscript></figure>
+
+
+
+<p>最も罪深いとされる「傲慢」は、自己中心的な態度と他人への無関心を言い、自分を他人よりも高く評価することから、他者との孤立や対立を引き起こします。</p>
+
+
+
+<p><span class="swl-marker mark_yellow">傲慢を司る悪魔は&#8221;<strong>ルシファー</strong>&#8220;。</span></p>
+
+
+
+<p>ルシファーは、<strong>悪魔の王や地獄の王として、数いる悪魔の中でも最強の力を持つ存在</strong>です。</p>
+
+
+
+<p><strong>「光をもたらす者」</strong>という意味のルシファーは、<strong>元々は神に仕える天使の長で、天使の中でも最高の能力と地位のある大天使</strong>でした。</p>
+
+
+
+<p>しかし、神に反逆し「闇落ちした堕天使、サタン」になってしまったのです。</p>
+
+
+
+<p>元々は12枚の翼を持つ神の右腕と称される、天使の中でも最も美しいトップクラスの大天使だったようですね。</p>
+
+
+
+<p><span class="swl-marker mark_orange">幻獣は&#8221;<strong>グリフォン</strong>&#8220;</span>。</p>
+
+
+
+<p>グリフォンとは神話や伝説に登場する生物で、ワシの頭と翼、ライオンの身体を持つ姿をし、力強さや守護、神秘性の象徴として知られています。</p>
+
+
+
+<p>ワシは空、ライオンは地上において「王」することから、グリフォンを「天と地を支配する力」の象徴と認識し、強大な存在としてのイメージを確立されています。</p>
+
+
+
+<h3 class="wp-block-heading">②嫉妬</h3>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="732" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://knt-worldblog.com/wp-content/uploads/2025/04/snake-9260451_1280-1024x732.png" alt="" class="wp-image-609 lazyload" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/snake-9260451_1280-1024x732.png 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/snake-9260451_1280-300x214.png 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/snake-9260451_1280-768x549.png 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/snake-9260451_1280.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px"  data-aspectratio="1024/732"><noscript><img decoding="async" width="1024" height="732" src="https://knt-worldblog.com/wp-content/uploads/2025/04/snake-9260451_1280-1024x732.png" alt="" class="wp-image-609" srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/snake-9260451_1280-1024x732.png 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/snake-9260451_1280-300x214.png 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/snake-9260451_1280-768x549.png 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/snake-9260451_1280.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" ></noscript></figure>
+
+
+
+<p>傲慢に次ぐ罪の重さである「嫉妬」は、他人の成功や幸福を羨んだり妬んだりする感情で、心や社会の和を乱し人間関係の軋轢の原因となり得ます。</p>
+
+
+
+<p><span class="swl-marker mark_yellow">嫉妬を司る悪魔は&#8221;<strong>レヴィアタン</strong>&#8220;。</span></p>
+
+
+
+<p>レヴィアタンは、<strong>旧約聖書に登場する最強の海の悪魔（怪物）</strong>として有名です。</p>
+
+
+
+<p>旧約聖書では、神が天地創造の5日目に作り出した存在として記されており、同じく神に作られたベヒモスと二頭一対を成すとされています。</p>
+
+
+
+<p>またレヴィアタンは、その硬い鱗と巨大さから、いかなる武器も通用しない最強の生物と言われ、彼が海を泳ぐと波が逆巻き、鼻からは煙を、口からは炎を吐き、凶暴で冷酷無比なのだそう。</p>
+
+
+
+<p>繁殖を防ぐため雄しか存在せず、大ウソつき者で不死身です。</p>
+
+
+
+<p><span class="swl-marker mark_orange">幻獣は&#8221;<strong>マーメイド</strong>&#8220;</span>。</p>
+
+
+
+<p>童話をはじめ、さまざまな作品やキャラクターのモチーフとされるマーメイドは、今やその名を知らない人はいないでしょう。</p>
+
+
+
+<p>マーメイドは具体的に、上半身が人間で下半身が魚の形をした想像上の女の人魚を指し、一説にはジュゴンやマナティをモデルとし、マーメイドを食すと若返るという逸話がありますね。</p>
+
+
+
+<p>一般的には人間と同じサイズですが、時には600mを超えるなんていう民話も&#8230;。</p>
+
+
+
+<h3 class="wp-block-heading">③憤怒</h3>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="650" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://knt-worldblog.com/wp-content/uploads/2025/04/dragon-4767447_1280-1024x650.jpg" alt="" class="wp-image-633 lazyload" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/dragon-4767447_1280-1024x650.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/dragon-4767447_1280-300x190.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/dragon-4767447_1280-768x487.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/dragon-4767447_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"  data-aspectratio="1024/650"><noscript><img decoding="async" width="1024" height="650" src="https://knt-worldblog.com/wp-content/uploads/2025/04/dragon-4767447_1280-1024x650.jpg" alt="" class="wp-image-633" srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/dragon-4767447_1280-1024x650.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/dragon-4767447_1280-300x190.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/dragon-4767447_1280-768x487.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/dragon-4767447_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" ></noscript></figure>
+
+
+
+<p>「憤怒」は理性を失い感情のコントロールができないことから、しばしば暴力や衝突を引き起こします。</p>
+
+
+
+<p><span class="swl-marker mark_yellow">憤怒を司る悪魔は&#8221;<strong>サタン</strong>&#8220;。</span></p>
+
+
+
+<p>サタンはヘブライ語で、「敵対者」「訴える者」「妨げる者」などを意味します。</p>
+
+
+
+<p>かつては&#8221;ルシファー&#8221;として、キリスト教・ユダヤ教で神に仕える御使いでしたが、<strong>神に反逆してからは「神の敵対者」として、悪魔に変化</strong>してしまいました。</p>
+
+
+
+<p>また、イスラム教でも人間の敵とされているのです。</p>
+
+
+
+<p><span class="swl-marker mark_orange">幻獣は&#8221;<strong>ユニコーン</strong></span>&#8220;</p>
+
+
+
+<p>ユニコーンはヨーロッパの伝説上の生き物で、馬の体と額にはねじれた1本の角を持つ「一角獣」です。</p>
+
+
+
+<p>角には解毒する力があるとする説もありますが、一般的には真っ白な馬にパステルカラーが立て髪やしっぽに使われるかわいらしいキャラクターとファンタジーな世界観として、女の子に大人気ですね。</p>
+
+
+
+<h3 class="wp-block-heading">④怠惰</h3>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://knt-worldblog.com/wp-content/uploads/2025/04/texture-2082878_1280-1024x682.jpg" alt="" class="wp-image-607 lazyload" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/texture-2082878_1280-1024x682.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/texture-2082878_1280-300x200.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/texture-2082878_1280-768x512.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/texture-2082878_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"  data-aspectratio="1024/682"><noscript><img decoding="async" width="1024" height="682" src="https://knt-worldblog.com/wp-content/uploads/2025/04/texture-2082878_1280-1024x682.jpg" alt="" class="wp-image-607" srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/texture-2082878_1280-1024x682.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/texture-2082878_1280-300x200.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/texture-2082878_1280-768x512.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/texture-2082878_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" ></noscript></figure>
+
+
+
+<p>「怠惰」とは行動を起こすことへの無関心や意欲の欠如を言い、個人の成長や社会貢献の妨げとなります。</p>
+
+
+
+<p><span class="swl-marker mark_yellow">怠惰を司る悪魔は&#8221;<strong>ベルフェゴール</strong>&#8220;。</span></p>
+
+
+
+<p>ベルフェゴールとは、「ぺオル山の主神」を意味し、その姿は牛の尻尾にねじれた2本の角、顎にはひげを生やした醜悪なものとされています。</p>
+
+
+
+<p><strong>人間に便利な発明品を与えて、怠惰の罪に陥れる悪魔</strong>なのだそう。</p>
+
+
+
+<p>また、人間の結婚生活を覗き見る悪魔ともされており、女性の心に性的で不道徳な心を芽生えさせる力を持つためか、女性に対して不信感を持っていたとされています。</p>
+
+
+
+<p><span class="swl-marker mark_orange">幻獣は&#8221;<strong>フェニックス</strong>&#8220;</span></p>
+
+
+
+<p>フェニックスは、死んでも蘇ることで永遠の時を生きるとされる伝説の鳥です。</p>
+
+
+
+<p>寿命を迎えると自ら炎に飛び込んでその命を終えますが、再び若い姿になって蘇ることから「不死鳥」とも言われます。</p>
+
+
+
+<h3 class="wp-block-heading">⑤強欲</h3>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="717" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://knt-worldblog.com/wp-content/uploads/2025/04/fox-9203427_1280-1024x717.jpg" alt="" class="wp-image-608 lazyload" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/fox-9203427_1280-1024x717.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/fox-9203427_1280-300x210.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/fox-9203427_1280-768x538.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/fox-9203427_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"  data-aspectratio="1024/717"><noscript><img decoding="async" width="1024" height="717" src="https://knt-worldblog.com/wp-content/uploads/2025/04/fox-9203427_1280-1024x717.jpg" alt="" class="wp-image-608" srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/fox-9203427_1280-1024x717.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/fox-9203427_1280-300x210.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/fox-9203427_1280-768x538.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/fox-9203427_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" ></noscript></figure>
+
+
+
+<p>「強欲」は過度の物質的欲求や財産の貯蓄を指し、社会的不平等や環境問題に繋がります。</p>
+
+
+
+<p><span class="swl-marker mark_yellow">強欲を司る悪魔は&#8221;<strong>マモン</strong>&#8220;。</span></p>
+
+
+
+<p>一般的に「<strong>富の悪霊</strong>」として擬人化したものと言われているマモンは、<strong>「地獄の七大君主」の一人</strong>ともされています。</p>
+
+
+
+<p>地獄の七大君主とは、地獄の貴族の代表格とされ、地に落ちた神の影、強壮な天使の一群のことを表しています。</p>
+
+
+
+<p>マモンは時に、袋を抱えて箱に腰を下ろす男の姿や、金貨をばらまく悪魔の姿で現されることがあるようです。</p>
+
+
+
+<p>ジョン・ミルトンの『失楽園』によると、マモンは堕天使の中で最も卑しい根性の持ち主で、神よりも下界の金着い財宝を賛美していたとされています。</p>
+
+
+
+<p><span class="swl-marker mark_orange">幻獣は&#8221;<strong>コブリン</strong>&#8220;</span></p>
+
+
+
+<p>ヨーロッパの民間伝承に登場する伝説の生き物・コブリンは、人の膝ほどの背丈と灰色の髪やあごひげを持つ妖精です。</p>
+
+
+
+<p>普段は洞穴や木立に住み、小さな子供が大好き！</p>
+
+
+
+<p>良い子にはプレゼントをくれたり面倒を見てくれますが、同時に人間の家を引っ搔き回すなどの悪戯をすることも。</p>
+
+
+
+<p>また時に、小さな子供を食べる邪悪な者とされています。</p>
+
+
+
+<h3 class="wp-block-heading">⑥暴食</h3>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="738" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://knt-worldblog.com/wp-content/uploads/2025/04/walk-2672654_1280-1024x738.png" alt="" class="wp-image-605 lazyload" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/walk-2672654_1280-1024x738.png 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/walk-2672654_1280-300x216.png 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/walk-2672654_1280-768x553.png 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/walk-2672654_1280.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px"  data-aspectratio="1024/738"><noscript><img decoding="async" width="1024" height="738" src="https://knt-worldblog.com/wp-content/uploads/2025/04/walk-2672654_1280-1024x738.png" alt="" class="wp-image-605" srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/walk-2672654_1280-1024x738.png 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/walk-2672654_1280-300x216.png 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/walk-2672654_1280-768x553.png 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/walk-2672654_1280.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" ></noscript></figure>
+
+
+
+<p>「暴食」はその名の通り過度な食欲を指し、健康問題や資源の無駄遣いの要因となります。</p>
+
+
+
+<p><span class="swl-marker mark_yellow">暴食を司る悪魔は&#8221;<strong>ベルゼブブ</strong>&#8220;。</span></p>
+
+
+
+<p>ベルゼブブは、ヘブライ語で「<strong>ハエの王</strong>」を意味しますが、本来は&#8221;バアル・ゼブル&#8221;といい、「気高き主」という意味です。</p>
+
+
+
+<p><strong>地獄においてサタンに次ぐ権力と邪悪さだとされ、その実力はサタンをもしのぐほどの魔王</strong>だとも言われています。</p>
+
+
+
+<p>またベルゼブブは、作物を荒らすハエの害から人間を救う力も持っており、神託をもたらす悪魔だとされているのです。</p>
+
+
+
+<p><span class="swl-marker mark_orange">幻獣は&#8221;<strong>ケルベロス</strong>&#8220;</span></p>
+
+
+
+<p>ケルベロスはギリシャ神話に登場する犬の怪物で、ハーデースが支配する冥界の番犬。</p>
+
+
+
+<p>一般的には3つの頭を持ち、普段は1頭ずつ交代で眠り残り2頭が常に見張りをしています。</p>
+
+
+
+<p>ハーデースに非常に忠実で、死者の魂が冥界やってくるとそのまま通しますが。冥界から逃げ出そうとする者はすぐさま捉えて食べてしまうのだそう。</p>
+
+
+
+<h3 class="wp-block-heading">⑦色欲</h3>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="654" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://knt-worldblog.com/wp-content/uploads/2025/04/scorpio-2689945_1280-1024x654.jpg" alt="" class="wp-image-606 lazyload" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/scorpio-2689945_1280-1024x654.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/scorpio-2689945_1280-300x191.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/scorpio-2689945_1280-768x490.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/scorpio-2689945_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"  data-aspectratio="1024/654"><noscript><img decoding="async" width="1024" height="654" src="https://knt-worldblog.com/wp-content/uploads/2025/04/scorpio-2689945_1280-1024x654.jpg" alt="" class="wp-image-606" srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/scorpio-2689945_1280-1024x654.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/scorpio-2689945_1280-300x191.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/scorpio-2689945_1280-768x490.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/scorpio-2689945_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" ></noscript></figure>
+
+
+
+<p>「色欲」は不適切な性的欲望のことで、人間関係の破綻や倫理的問題を引き起こします。</p>
+
+
+
+<p><span class="swl-marker mark_yellow">色欲を司る悪魔は&#8221;<strong>アスモデウス</strong>&#8220;。</span></p>
+
+
+
+<p>元は智天使である堕天使で、その容姿は「人」「牛」「羊」の3つの頭とガチョウの足、毒蛇の尻尾を持ち、手には軍旗と槍を持っています。</p>
+
+
+
+<p>そして、地獄の龍に跨り、口から火を噴いている恐ろしい悪魔とされています。</p>
+
+
+
+<p>アマイモン配下の東宝の悪魔の首座であり、<strong>72の軍団を率いる序列32番の偉大な王</strong>なのです。</p>
+
+
+
+<p><span class="swl-marker mark_orange">幻獣は &#8220;<strong>サキュバス</strong>&#8220;</span></p>
+
+
+
+<p>サキュバスは、男性を魅了する悪魔で、理想の女性の姿をした夢魔（下級の悪魔）のこと。</p>
+
+
+
+<p>反対に女性を魅了する悪魔を&#8221;インキュバス&#8221;と言い、理想の外見をした男性の夢魔で、悪魔の子を妊娠させます。</p>
+
+
+
+<h2 class="wp-block-heading">新・七つの大罪を紹介</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://knt-worldblog.com/wp-content/uploads/2025/04/church-3599448_1280-1024x682.jpg" alt="" class="wp-image-615 lazyload" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/church-3599448_1280-1024x682.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/church-3599448_1280-300x200.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/church-3599448_1280-768x512.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/church-3599448_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"  data-aspectratio="1024/682"><noscript><img decoding="async" width="1024" height="682" src="https://knt-worldblog.com/wp-content/uploads/2025/04/church-3599448_1280-1024x682.jpg" alt="" class="wp-image-615" srcset="https://knt-worldblog.com/wp-content/uploads/2025/04/church-3599448_1280-1024x682.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/04/church-3599448_1280-300x200.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/04/church-3599448_1280-768x512.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/04/church-3599448_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" ></noscript></figure>
+
+
+
+<p>実は、<span class="swl-marker mark_green">2008年にバチカンのローマ教皇庁より、<strong>「新・七つの大罪」</strong>が発表されました。</span></p>
+
+
+
+<p>その理由は、<strong>「従来の七つの大罪は、個人主義的な側面があり、それとは異なる種類の罪もあるということを信者に伝え、理解させるため」</strong>としています。</p>
+
+
+
+<p>新・七つの大罪は、以下の通りです。</p>
+
+
+
+<p class="has-border -border02 is-style-icon_pen"><strong>1. 遺伝子を改造すること<br>2. 人体実験を行うこと<br>3. 環境を汚染すること<br>4. 社会的な不公平を行うこと<br>5. 他人を貧困にすること<br>6. 悪辣に金を得ること<br>7. 薬物を濫用すること</strong></p>
+
+
+
+<p>現代において非常に分かりやすく、そして誰もが納得のいくものとなっていますね。</p>
+
+
+
+<p>また、インド独立の父として知られる「マハトマ・ガンディー」は、20世紀資本主義における「七つの社会的大罪」を提唱おり、ガンディーの慰霊碑にも刻まれています。</p>
+
+
+
+<p>以下が、彼の提唱した七つの社会的大罪です。</p>
+
+
+
+<p class="has-border -border03 is-style-icon_book"><strong>1. 原則なき政治<br>2. 道徳なき商業<br>3. 労働なき富<br>4. 人格なき教育<br>5. 人間性なき科学<br>6. 良心なき快楽<br>7. 献身なき信仰</strong></p>
+
+
+
+<p>こちらも従来の七つの大罪とは異なる視点で、現代に即した内容となっていると言えるでしょう。</p>
+
+
+
+<h2 class="wp-block-heading">まとめ</h2>
+
+
+
+<p>「七つの大罪」の意味や罪深さについてご紹介しました。</p>
+
+
+
+<p>きっと初めて知る悪魔や幻獣もいたことでしょう。</p>
+
+
+
+<p>元々の「七つの大罪」も、「新・七つの大罪」やガンディーの「七つの社会的大罪」も、そのほとんどが日頃身近にあり、私たちを取り巻く不要な欲望や感情です。</p>
+
+
+
+<p>「大罪」と言われているほどですから、十分に気を付けて生活していきたいですね。</p>
+		</div>
+		<div class="p-articleFoot">
+	<div class="p-articleMetas -bottom">
+			<div class="p-articleMetas__termList c-categoryList">
+					<a class="c-categoryList__link hov-flash-up" href="https://knt-worldblog.com/category/%e9%9b%91%e5%ad%a6/" data-cat-id="14">
+				雑学			</a>
+			</div>
+	<div class="p-articleMetas__termList c-tagList">
+					<a class="c-tagList__link hov-flash-up" href="https://knt-worldblog.com/tag/%e4%b8%83%e3%81%a4%e3%81%ae%e5%a4%a7%e7%bd%aa/" data-tag-id="52">
+				七つの大罪			</a>
+			</div>
+	</div>
+</div>
+<div class="c-shareBtns -bottom -style-block">
+			<div class="c-shareBtns__message">
+			<span class="__text">
+				よかったらシェアしてね！			</span>
+		</div>
+		<ul class="c-shareBtns__list">
+							<li class="c-shareBtns__item -facebook">
+				<a class="c-shareBtns__btn hov-flash-up" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fknt-worldblog.com%2F589%2F7-taizai-tsumi-akuma%2F" title="Facebookでシェア" onclick="javascript:window.open(this.href, '_blank', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=800,width=600');return false;" target="_blank" role="button" tabindex="0">
+					<i class="snsicon c-shareBtns__icon icon-facebook" aria-hidden="true"></i>
+				</a>
+			</li>
+							<li class="c-shareBtns__item -twitter-x">
+				<a class="c-shareBtns__btn hov-flash-up" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fknt-worldblog.com%2F589%2F7-taizai-tsumi-akuma%2F&#038;text=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%E3%81%A3%E3%81%A6%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%EF%BC%9F%E7%BD%AA%E3%81%AE%E9%87%8D%E3%81%84%E9%A0%86%E7%95%AA%E3%82%84%E8%B1%A1%E5%BE%B4%E3%81%99%E3%82%8B%E6%82%AA%E9%AD%94%E3%82%82" title="X(Twitter)でシェア" onclick="javascript:window.open(this.href, '_blank', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" target="_blank" role="button" tabindex="0">
+					<i class="snsicon c-shareBtns__icon icon-twitter-x" aria-hidden="true"></i>
+				</a>
+			</li>
+							<li class="c-shareBtns__item -hatebu">
+				<a class="c-shareBtns__btn hov-flash-up" href="//b.hatena.ne.jp/add?mode=confirm&#038;url=https%3A%2F%2Fknt-worldblog.com%2F589%2F7-taizai-tsumi-akuma%2F" title="はてなブックマークに登録" onclick="javascript:window.open(this.href, '_blank', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=1000');return false;" target="_blank" role="button" tabindex="0">
+					<i class="snsicon c-shareBtns__icon icon-hatebu" aria-hidden="true"></i>
+				</a>
+			</li>
+							<li class="c-shareBtns__item -pocket">
+				<a class="c-shareBtns__btn hov-flash-up" href="https://getpocket.com/edit?url=https%3A%2F%2Fknt-worldblog.com%2F589%2F7-taizai-tsumi-akuma%2F&#038;title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%E3%81%A3%E3%81%A6%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%EF%BC%9F%E7%BD%AA%E3%81%AE%E9%87%8D%E3%81%84%E9%A0%86%E7%95%AA%E3%82%84%E8%B1%A1%E5%BE%B4%E3%81%99%E3%82%8B%E6%82%AA%E9%AD%94%E3%82%82" title="Pocketに保存" target="_blank" role="button" tabindex="0">
+					<i class="snsicon c-shareBtns__icon icon-pocket" aria-hidden="true"></i>
+				</a>
+			</li>
+									<li class="c-shareBtns__item -line">
+				<a class="c-shareBtns__btn hov-flash-up" href="https://social-plugins.line.me/lineit/share?url=https%3A%2F%2Fknt-worldblog.com%2F589%2F7-taizai-tsumi-akuma%2F&#038;text=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%E3%81%A3%E3%81%A6%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%EF%BC%9F%E7%BD%AA%E3%81%AE%E9%87%8D%E3%81%84%E9%A0%86%E7%95%AA%E3%82%84%E8%B1%A1%E5%BE%B4%E3%81%99%E3%82%8B%E6%82%AA%E9%AD%94%E3%82%82" title="LINEに送る" target="_blank" role="button" tabindex="0">
+					<i class="snsicon c-shareBtns__icon icon-line" aria-hidden="true"></i>
+				</a>
+			</li>
+												<li class="c-shareBtns__item -copy">
+				<button class="c-urlcopy c-plainBtn c-shareBtns__btn hov-flash-up" data-clipboard-text="https://knt-worldblog.com/589/7-taizai-tsumi-akuma/" title="URLをコピーする">
+					<span class="c-urlcopy__content">
+						<svg xmlns="http://www.w3.org/2000/svg" class="swl-svg-copy c-shareBtns__icon -to-copy" width="1em" height="1em" viewBox="0 0 48 48" role="img" aria-hidden="true" focusable="false"><path d="M38,5.5h-9c0-2.8-2.2-5-5-5s-5,2.2-5,5h-9c-2.2,0-4,1.8-4,4v33c0,2.2,1.8,4,4,4h28c2.2,0,4-1.8,4-4v-33
+				C42,7.3,40.2,5.5,38,5.5z M24,3.5c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S22.9,3.5,24,3.5z M38,42.5H10v-33h5v3c0,0.6,0.4,1,1,1h16
+				c0.6,0,1-0.4,1-1v-3h5L38,42.5z"/><polygon points="24,37 32.5,28 27.5,28 27.5,20 20.5,20 20.5,28 15.5,28 "/></svg>						<svg xmlns="http://www.w3.org/2000/svg" class="swl-svg-copied c-shareBtns__icon -copied" width="1em" height="1em" viewBox="0 0 48 48" role="img" aria-hidden="true" focusable="false"><path d="M38,5.5h-9c0-2.8-2.2-5-5-5s-5,2.2-5,5h-9c-2.2,0-4,1.8-4,4v33c0,2.2,1.8,4,4,4h28c2.2,0,4-1.8,4-4v-33
+				C42,7.3,40.2,5.5,38,5.5z M24,3.5c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S22.9,3.5,24,3.5z M38,42.5H10v-33h5v3c0,0.6,0.4,1,1,1h16
+				c0.6,0,1-0.4,1-1v-3h5V42.5z"/><polygon points="31.9,20.2 22.1,30.1 17.1,25.1 14.2,28 22.1,35.8 34.8,23.1 "/></svg>					</span>
+				</button>
+				<div class="c-copyedPoppup">URLをコピーしました！</div>
+			</li>
+			</ul>
+
+	</div>
+<div class="c-shareBtns -fix -style-block">
+		<ul class="c-shareBtns__list">
+							<li class="c-shareBtns__item -facebook">
+				<a class="c-shareBtns__btn hov-flash-up" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fknt-worldblog.com%2F589%2F7-taizai-tsumi-akuma%2F" title="Facebookでシェア" onclick="javascript:window.open(this.href, '_blank', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=800,width=600');return false;" target="_blank" role="button" tabindex="0">
+					<i class="snsicon c-shareBtns__icon icon-facebook" aria-hidden="true"></i>
+				</a>
+			</li>
+							<li class="c-shareBtns__item -twitter-x">
+				<a class="c-shareBtns__btn hov-flash-up" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fknt-worldblog.com%2F589%2F7-taizai-tsumi-akuma%2F&#038;text=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%E3%81%A3%E3%81%A6%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%EF%BC%9F%E7%BD%AA%E3%81%AE%E9%87%8D%E3%81%84%E9%A0%86%E7%95%AA%E3%82%84%E8%B1%A1%E5%BE%B4%E3%81%99%E3%82%8B%E6%82%AA%E9%AD%94%E3%82%82" title="X(Twitter)でシェア" onclick="javascript:window.open(this.href, '_blank', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" target="_blank" role="button" tabindex="0">
+					<i class="snsicon c-shareBtns__icon icon-twitter-x" aria-hidden="true"></i>
+				</a>
+			</li>
+							<li class="c-shareBtns__item -hatebu">
+				<a class="c-shareBtns__btn hov-flash-up" href="//b.hatena.ne.jp/add?mode=confirm&#038;url=https%3A%2F%2Fknt-worldblog.com%2F589%2F7-taizai-tsumi-akuma%2F" title="はてなブックマークに登録" onclick="javascript:window.open(this.href, '_blank', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=1000');return false;" target="_blank" role="button" tabindex="0">
+					<i class="snsicon c-shareBtns__icon icon-hatebu" aria-hidden="true"></i>
+				</a>
+			</li>
+							<li class="c-shareBtns__item -pocket">
+				<a class="c-shareBtns__btn hov-flash-up" href="https://getpocket.com/edit?url=https%3A%2F%2Fknt-worldblog.com%2F589%2F7-taizai-tsumi-akuma%2F&#038;title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%E3%81%A3%E3%81%A6%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%EF%BC%9F%E7%BD%AA%E3%81%AE%E9%87%8D%E3%81%84%E9%A0%86%E7%95%AA%E3%82%84%E8%B1%A1%E5%BE%B4%E3%81%99%E3%82%8B%E6%82%AA%E9%AD%94%E3%82%82" title="Pocketに保存" target="_blank" role="button" tabindex="0">
+					<i class="snsicon c-shareBtns__icon icon-pocket" aria-hidden="true"></i>
+				</a>
+			</li>
+									<li class="c-shareBtns__item -line">
+				<a class="c-shareBtns__btn hov-flash-up" href="https://social-plugins.line.me/lineit/share?url=https%3A%2F%2Fknt-worldblog.com%2F589%2F7-taizai-tsumi-akuma%2F&#038;text=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%E3%81%A3%E3%81%A6%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%EF%BC%9F%E7%BD%AA%E3%81%AE%E9%87%8D%E3%81%84%E9%A0%86%E7%95%AA%E3%82%84%E8%B1%A1%E5%BE%B4%E3%81%99%E3%82%8B%E6%82%AA%E9%AD%94%E3%82%82" title="LINEに送る" target="_blank" role="button" tabindex="0">
+					<i class="snsicon c-shareBtns__icon icon-line" aria-hidden="true"></i>
+				</a>
+			</li>
+												<li class="c-shareBtns__item -copy">
+				<button class="c-urlcopy c-plainBtn c-shareBtns__btn hov-flash-up" data-clipboard-text="https://knt-worldblog.com/589/7-taizai-tsumi-akuma/" title="URLをコピーする">
+					<span class="c-urlcopy__content">
+						<svg xmlns="http://www.w3.org/2000/svg" class="swl-svg-copy c-shareBtns__icon -to-copy" width="1em" height="1em" viewBox="0 0 48 48" role="img" aria-hidden="true" focusable="false"><path d="M38,5.5h-9c0-2.8-2.2-5-5-5s-5,2.2-5,5h-9c-2.2,0-4,1.8-4,4v33c0,2.2,1.8,4,4,4h28c2.2,0,4-1.8,4-4v-33
+				C42,7.3,40.2,5.5,38,5.5z M24,3.5c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S22.9,3.5,24,3.5z M38,42.5H10v-33h5v3c0,0.6,0.4,1,1,1h16
+				c0.6,0,1-0.4,1-1v-3h5L38,42.5z"/><polygon points="24,37 32.5,28 27.5,28 27.5,20 20.5,20 20.5,28 15.5,28 "/></svg>						<svg xmlns="http://www.w3.org/2000/svg" class="swl-svg-copied c-shareBtns__icon -copied" width="1em" height="1em" viewBox="0 0 48 48" role="img" aria-hidden="true" focusable="false"><path d="M38,5.5h-9c0-2.8-2.2-5-5-5s-5,2.2-5,5h-9c-2.2,0-4,1.8-4,4v33c0,2.2,1.8,4,4,4h28c2.2,0,4-1.8,4-4v-33
+				C42,7.3,40.2,5.5,38,5.5z M24,3.5c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S22.9,3.5,24,3.5z M38,42.5H10v-33h5v3c0,0.6,0.4,1,1,1h16
+				c0.6,0,1-0.4,1-1v-3h5V42.5z"/><polygon points="31.9,20.2 22.1,30.1 17.1,25.1 14.2,28 22.1,35.8 34.8,23.1 "/></svg>					</span>
+				</button>
+				<div class="c-copyedPoppup">URLをコピーしました！</div>
+			</li>
+			</ul>
+
+	</div>
+		<div id="after_article" class="l-articleBottom">
+			<ul class="p-pnLinks -style-normal">
+			<li class="p-pnLinks__item -prev">
+				<a href="https://knt-worldblog.com/552/aisu-4-syurui-jerato-tigai-difference/" rel="prev" class="p-pnLinks__link">
+				<span class="p-pnLinks__title">アイスは4種類ある！？ジェラートとの違いや種類別の代表商品も</span>
+	</a>
+			</li>
+				<li class="p-pnLinks__item -next">
+				<a href="https://knt-worldblog.com/671/ryouri-kousou-habu/" rel="next" class="p-pnLinks__link">
+				<span class="p-pnLinks__title">【料理に使うハーブ・香草7選】特徴や効果、使用用途など！</span>
+	</a>
+			</li>
+	</ul>
+<section class="l-articleBottom__section -author">
+	<h2 class="l-articleBottom__title c-secTitle">
+		この記事を書いた人	</h2>
+	<div class="p-authorBox">
+		<div class="p-authorBox__l">
+			<img width="100" height="100"  src="https://knt-worldblog.com/wp-content/uploads/2025/02/easy-peasy_jyPOTra59y.png" alt="konaのアバター" class="avatar" srcset="https://knt-worldblog.com/wp-content/uploads/2025/02/easy-peasy_jyPOTra59y.png 500w, https://knt-worldblog.com/wp-content/uploads/2025/02/easy-peasy_jyPOTra59y-300x300.png 300w, https://knt-worldblog.com/wp-content/uploads/2025/02/easy-peasy_jyPOTra59y-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" loading="lazy" >			<a href="https://knt-worldblog.com/author/kntlog/" class="p-authorBox__name hov-col-main u-fz-m">
+				kona			</a>
+					</div>
+		<div class="p-authorBox__r">
+							<p class="p-authorBox__desc u-thin">
+					趣味が多く一人行動大好きなwebライター、konaと申します！<br />
+<br />
+日本や世界の行事、文化、食べ物を中心にさまざまな面白い情報や雑学について紹介していきます☺<br />
+<br />
+日常のちょっとした疑問にも答えていきますので、よければご覧いただけると嬉しいです。				</p>
+											</div>
+	</div>
+</section>
+<section class="l-articleBottom__section -related">
+	<h2 class="l-articleBottom__title c-secTitle">関連記事</h2><ul class="p-postList p-relatedPosts -type-card"><li class="p-postList__item">
+	<a href="https://knt-worldblog.com/2984/the-autum-leaves/" class="p-postList__link">
+		<div class="p-postList__thumb c-postThumb">
+			<figure class="c-postThumb__figure">
+			<img width="300" height="200"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" class="c-postThumb__img u-obf-cover lazyload" sizes="(min-width: 600px) 320px, 50vw" data-src="https://knt-worldblog.com/wp-content/uploads/2025/09/maple-leaves-2789234_1280-300x200.jpg" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/09/maple-leaves-2789234_1280-300x200.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/09/maple-leaves-2789234_1280-1024x682.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/09/maple-leaves-2789234_1280-768x512.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/09/maple-leaves-2789234_1280.jpg 1280w" data-aspectratio="300/200" ><noscript><img src="https://knt-worldblog.com/wp-content/uploads/2025/09/maple-leaves-2789234_1280-300x200.jpg" class="c-postThumb__img u-obf-cover" alt=""></noscript>			</figure>
+		</div>
+		<div class="p-postList__body">
+			<div class="p-postList__title">紅葉狩りは奈良時代からあった！？いつ何をする？楽しみ方や注意点も解説</div>
+				<div class="p-postList__meta"><div class="p-postList__times c-postTimes u-thin">
+	<time class="c-postTimes__posted icon-posted" datetime="2025-09-03" aria-label="公開日">2025年9月3日</time></div>
+</div>		</div>
+	</a>
+</li>
+<li class="p-postList__item">
+	<a href="https://knt-worldblog.com/2799/2026-full-moon-english-name/" class="p-postList__link">
+		<div class="p-postList__thumb c-postThumb">
+			<figure class="c-postThumb__figure">
+			<img width="300" height="200"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" class="c-postThumb__img u-obf-cover lazyload" sizes="(min-width: 600px) 320px, 50vw" data-src="https://knt-worldblog.com/wp-content/uploads/2025/08/tree-736877_1280-300x200.jpg" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/08/tree-736877_1280-300x200.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/08/tree-736877_1280-1024x684.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/08/tree-736877_1280-768x513.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/08/tree-736877_1280.jpg 1280w" data-aspectratio="300/200" ><noscript><img src="https://knt-worldblog.com/wp-content/uploads/2025/08/tree-736877_1280-300x200.jpg" class="c-postThumb__img u-obf-cover" alt=""></noscript>			</figure>
+		</div>
+		<div class="p-postList__body">
+			<div class="p-postList__title">2026年の満月はいつ？各月の名称（和名）や英語での呼び方を解説！</div>
+				<div class="p-postList__meta"><div class="p-postList__times c-postTimes u-thin">
+	<time class="c-postTimes__posted icon-posted" datetime="2025-08-30" aria-label="公開日">2025年8月30日</time></div>
+</div>		</div>
+	</a>
+</li>
+<li class="p-postList__item">
+	<a href="https://knt-worldblog.com/2462/fall-7-seven-herbs/" class="p-postList__link">
+		<div class="p-postList__thumb c-postThumb">
+			<figure class="c-postThumb__figure">
+			<img width="300" height="200"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" class="c-postThumb__img u-obf-cover lazyload" sizes="(min-width: 600px) 320px, 50vw" data-src="https://knt-worldblog.com/wp-content/uploads/2025/08/maple-2135514_1280-300x200.jpg" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/08/maple-2135514_1280-300x200.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/08/maple-2135514_1280-1024x683.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/08/maple-2135514_1280-768x512.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/08/maple-2135514_1280.jpg 1280w" data-aspectratio="300/200" ><noscript><img src="https://knt-worldblog.com/wp-content/uploads/2025/08/maple-2135514_1280-300x200.jpg" class="c-postThumb__img u-obf-cover" alt=""></noscript>			</figure>
+		</div>
+		<div class="p-postList__body">
+			<div class="p-postList__title">万葉集に出てくる「秋の七草」の名前とは？覚え方の順番や由来を紹介</div>
+				<div class="p-postList__meta"><div class="p-postList__times c-postTimes u-thin">
+	<time class="c-postTimes__posted icon-posted" datetime="2025-08-16" aria-label="公開日">2025年8月16日</time></div>
+</div>		</div>
+	</a>
+</li>
+<li class="p-postList__item">
+	<a href="https://knt-worldblog.com/2387/2025-jugoya-tsukimi/" class="p-postList__link">
+		<div class="p-postList__thumb c-postThumb">
+			<figure class="c-postThumb__figure">
+			<img width="300" height="200"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" class="c-postThumb__img u-obf-cover lazyload" sizes="(min-width: 600px) 320px, 50vw" data-src="https://knt-worldblog.com/wp-content/uploads/2025/08/full-moon-460314_1280-300x200.jpg" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/08/full-moon-460314_1280-300x200.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/08/full-moon-460314_1280-1024x682.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/08/full-moon-460314_1280-768x512.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/08/full-moon-460314_1280.jpg 1280w" data-aspectratio="300/200" ><noscript><img src="https://knt-worldblog.com/wp-content/uploads/2025/08/full-moon-460314_1280-300x200.jpg" class="c-postThumb__img u-obf-cover" alt=""></noscript>			</figure>
+		</div>
+		<div class="p-postList__body">
+			<div class="p-postList__title">【2025年】十五夜とはいつ？発祥やお月見に供える食べ物、「中秋の名月」との違いも</div>
+				<div class="p-postList__meta"><div class="p-postList__times c-postTimes u-thin">
+	<time class="c-postTimes__posted icon-posted" datetime="2025-08-12" aria-label="公開日">2025年8月12日</time></div>
+</div>		</div>
+	</a>
+</li>
+<li class="p-postList__item">
+	<a href="https://knt-worldblog.com/2360/otukimi-dorobou-jugoya/" class="p-postList__link">
+		<div class="p-postList__thumb c-postThumb">
+			<figure class="c-postThumb__figure">
+			<img width="300" height="193"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" class="c-postThumb__img u-obf-cover lazyload" sizes="(min-width: 600px) 320px, 50vw" data-src="https://knt-worldblog.com/wp-content/uploads/2025/08/thief-4173477_1280-300x193.jpg" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/08/thief-4173477_1280-300x193.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/08/thief-4173477_1280-1024x660.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/08/thief-4173477_1280-768x495.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/08/thief-4173477_1280.jpg 1280w" data-aspectratio="300/193" ><noscript><img src="https://knt-worldblog.com/wp-content/uploads/2025/08/thief-4173477_1280-300x193.jpg" class="c-postThumb__img u-obf-cover" alt=""></noscript>			</figure>
+		</div>
+		<div class="p-postList__body">
+			<div class="p-postList__title">十五夜には「お月見どろぼう」が現れる！？2025年はいつ？ハロウィンとの違いも</div>
+				<div class="p-postList__meta"><div class="p-postList__times c-postTimes u-thin">
+	<time class="c-postTimes__posted icon-posted" datetime="2025-08-10" aria-label="公開日">2025年8月10日</time></div>
+</div>		</div>
+	</a>
+</li>
+<li class="p-postList__item">
+	<a href="https://knt-worldblog.com/2280/akuma-no-syoumei-probatio-diabolica/" class="p-postList__link">
+		<div class="p-postList__thumb c-postThumb">
+			<figure class="c-postThumb__figure">
+			<img width="300" height="191"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" class="c-postThumb__img u-obf-cover lazyload" sizes="(min-width: 600px) 320px, 50vw" data-src="https://knt-worldblog.com/wp-content/uploads/2025/08/judgment-8442199_1280-e1754490158372-300x191.png" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/08/judgment-8442199_1280-e1754490158372-300x191.png 300w, https://knt-worldblog.com/wp-content/uploads/2025/08/judgment-8442199_1280-e1754490158372-1024x652.png 1024w, https://knt-worldblog.com/wp-content/uploads/2025/08/judgment-8442199_1280-e1754490158372-768x489.png 768w, https://knt-worldblog.com/wp-content/uploads/2025/08/judgment-8442199_1280-e1754490158372.png 1280w" data-aspectratio="300/191" ><noscript><img src="https://knt-worldblog.com/wp-content/uploads/2025/08/judgment-8442199_1280-e1754490158372-300x191.png" class="c-postThumb__img u-obf-cover" alt=""></noscript>			</figure>
+		</div>
+		<div class="p-postList__body">
+			<div class="p-postList__title">&#8220;悪魔の証明&#8221;の意味とは？使い方や論破する方法をわかりやすく解説</div>
+				<div class="p-postList__meta"><div class="p-postList__times c-postTimes u-thin">
+	<time class="c-postTimes__posted icon-posted" datetime="2025-08-07" aria-label="公開日">2025年8月7日</time></div>
+</div>		</div>
+	</a>
+</li>
+<li class="p-postList__item">
+	<a href="https://knt-worldblog.com/2052/knitting-trend-charm/" class="p-postList__link">
+		<div class="p-postList__thumb c-postThumb">
+			<figure class="c-postThumb__figure">
+			<img width="300" height="200"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" class="c-postThumb__img u-obf-cover lazyload" sizes="(min-width: 600px) 320px, 50vw" data-src="https://knt-worldblog.com/wp-content/uploads/2025/07/merry-christmas-869221_1280-300x200.jpg" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/07/merry-christmas-869221_1280-300x200.jpg 300w, https://knt-worldblog.com/wp-content/uploads/2025/07/merry-christmas-869221_1280-1024x682.jpg 1024w, https://knt-worldblog.com/wp-content/uploads/2025/07/merry-christmas-869221_1280-768x512.jpg 768w, https://knt-worldblog.com/wp-content/uploads/2025/07/merry-christmas-869221_1280.jpg 1280w" data-aspectratio="300/200" ><noscript><img src="https://knt-worldblog.com/wp-content/uploads/2025/07/merry-christmas-869221_1280-300x200.jpg" class="c-postThumb__img u-obf-cover" alt=""></noscript>			</figure>
+		</div>
+		<div class="p-postList__body">
+			<div class="p-postList__title">止まらない編み物ブーム！初心者でもかぎ針と毛糸さえあればOK！季節ごとのおすすめアイテムも紹介</div>
+				<div class="p-postList__meta"><div class="p-postList__times c-postTimes u-thin">
+	<time class="c-postTimes__posted icon-posted" datetime="2025-07-23" aria-label="公開日">2025年7月23日</time></div>
+</div>		</div>
+	</a>
+</li>
+<li class="p-postList__item">
+	<a href="https://knt-worldblog.com/1772/cogimyun-profile/" class="p-postList__link">
+		<div class="p-postList__thumb c-postThumb">
+			<figure class="c-postThumb__figure">
+			<img width="300" height="212"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" class="c-postThumb__img u-obf-cover lazyload" sizes="(min-width: 600px) 320px, 50vw" data-src="https://knt-worldblog.com/wp-content/uploads/2025/07/heart-5106075_1280-300x212.png" data-srcset="https://knt-worldblog.com/wp-content/uploads/2025/07/heart-5106075_1280-300x212.png 300w, https://knt-worldblog.com/wp-content/uploads/2025/07/heart-5106075_1280-1024x724.png 1024w, https://knt-worldblog.com/wp-content/uploads/2025/07/heart-5106075_1280-768x543.png 768w, https://knt-worldblog.com/wp-content/uploads/2025/07/heart-5106075_1280.png 1280w" data-aspectratio="300/212" ><noscript><img src="https://knt-worldblog.com/wp-content/uploads/2025/07/heart-5106075_1280-300x212.png" class="c-postThumb__img u-obf-cover" alt=""></noscript>			</figure>
+		</div>
+		<div class="p-postList__body">
+			<div class="p-postList__title">サンリオキャラクター「こぎみゅん」｜炎上の真相や誕生日・声優などプロフィールなどを解説！</div>
+				<div class="p-postList__meta"><div class="p-postList__times c-postTimes u-thin">
+	<time class="c-postTimes__posted icon-posted" datetime="2025-07-17" aria-label="公開日">2025年7月17日</time></div>
+</div>		</div>
+	</a>
+</li>
+</ul></section>
+		</div>
+			</article>
+</main>
+<aside id="sidebar" class="l-sidebar">
+	<div id="block-2" class="c-widget widget_block widget_search"><form role="search" method="get" action="https://knt-worldblog.com/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"    ><label class="wp-block-search__label" for="wp-block-search__input-1" >検索</label><div class="wp-block-search__inside-wrapper" ><input class="wp-block-search__input" id="wp-block-search__input-1" placeholder="" value="" type="search" name="s" required /><button aria-label="検索" class="wp-block-search__button wp-element-button" type="submit" >検索</button></div></form></div><div id="block-3" class="c-widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">最近の投稿</h2><ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="https://knt-worldblog.com/2984/the-autum-leaves/">紅葉狩りは奈良時代からあった！？いつ何をする？楽しみ方や注意点も解説</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://knt-worldblog.com/2799/2026-full-moon-english-name/">2026年の満月はいつ？各月の名称（和名）や英語での呼び方を解説！</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://knt-worldblog.com/2582/the-three-grand-cuisines/">世界三大料理とは誰が決めた？なぜトルコ料理？特徴や歴史を紹介</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://knt-worldblog.com/2516/galette-des-rois-feve/">&#8220;王様のお菓子&#8221;「ガレットデロワ」の主役はフェーブ（人形）？模様に込められた意味とは？</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://knt-worldblog.com/2462/fall-7-seven-herbs/">万葉集に出てくる「秋の七草」の名前とは？覚え方の順番や由来を紹介</a></li>
+</ul></div></div></div><div id="block-4" class="c-widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">最近のコメント</h2><div class="no-comments wp-block-latest-comments">表示できるコメントはありません。</div></div></div></div><div id="block-5" class="c-widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">アーカイブ</h2><ul class="wp-block-archives-list c-listMenu wp-block-archives"><li><a href="https://knt-worldblog.com/date/2025/09/">2025年9月<span class="post_count"></span></a></li><li><a href="https://knt-worldblog.com/date/2025/08/">2025年8月<span class="post_count"></span></a></li><li><a href="https://knt-worldblog.com/date/2025/07/">2025年7月<span class="post_count"></span></a></li><li><a href="https://knt-worldblog.com/date/2025/06/">2025年6月<span class="post_count"></span></a></li><li><a href="https://knt-worldblog.com/date/2025/05/">2025年5月<span class="post_count"></span></a></li><li><a href="https://knt-worldblog.com/date/2025/04/">2025年4月<span class="post_count"></span></a></li><li><a href="https://knt-worldblog.com/date/2025/03/">2025年3月<span class="post_count"></span></a></li></ul></div></div></div><div id="block-6" class="c-widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container"><h2 class="wp-block-heading">カテゴリー</h2><ul class="wp-block-categories-list c-listMenu wp-block-categories">	<li class="cat-item cat-item-68"><a href="https://knt-worldblog.com/category/%e8%a6%b3%e5%85%89%e3%83%bb%e3%81%8a%e5%87%ba%e3%81%8b%e3%81%91/">観光・お出かけ</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://knt-worldblog.com/category/%e9%9b%91%e5%ad%a6/">雑学</a>
+</li>
+	<li class="cat-item cat-item-133"><a href="https://knt-worldblog.com/category/%e9%a3%9f%e3%81%b9%e7%89%a9%e3%81%ae%e9%9b%91%e5%ad%a6/">食べ物の雑学</a>
+</li>
+</ul></div></div></div></aside>
+</div>
+<footer id="footer" class="l-footer">
+	<div class="l-footer__inner">
+			<div class="l-footer__foot">
+			<div class="l-container">
+						<p class="copyright">
+				<span lang="en">&copy;</span>
+				KONA BLOG.			</p>
+					</div>
+	</div>
+</div>
+</footer>
+<div id="fix_bottom_menu">
+	<ul class="menu_list">
+					<li class="menu-item menu_btn" data-onclick="toggleMenu">
+				<i class="icon-menu-thin open_btn"></i>
+				<span>メニュー</span>
+			</li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-645"><a href="https://knt-worldblog.com/category/%e9%9b%91%e5%ad%a6/"><i class=""></i><span>雑学</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2423"><a href="https://knt-worldblog.com/category/%e9%a3%9f%e3%81%b9%e7%89%a9%e3%81%ae%e9%9b%91%e5%ad%a6/"><i class=""></i><span>食べ物の雑学</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1076"><a href="https://knt-worldblog.com/category/%e8%a6%b3%e5%85%89%e3%83%bb%e3%81%8a%e5%87%ba%e3%81%8b%e3%81%91/"><i class=""></i><span>観光・お出かけ</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1427"><a href="https://knt-worldblog.com/%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab/"><i class=""></i><span>プロフィール</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1417"><a href="https://knt-worldblog.com/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/"><i class=""></i><span>お問い合わせ</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-1422"><a href="https://knt-worldblog.com/privacy-policy/"><i class=""></i><span>プライバシーポリシー</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1432"><a href="https://knt-worldblog.com/%e3%82%b5%e3%82%a4%e3%83%88%e3%83%9e%e3%83%83%e3%83%97/"><i class=""></i><span>サイトマップ</span></a></li>
+							</ul>
+</div>
+<div class="p-fixBtnWrap">
+	
+			<button id="pagetop" class="c-fixBtn c-plainBtn hov-bg-main" data-onclick="pageTop" aria-label="ページトップボタン" data-has-text="">
+			<i class="c-fixBtn__icon icon-chevron-up" role="presentation"></i>
+					</button>
+	</div>
+
+<div id="search_modal" class="c-modal p-searchModal">
+	<div class="c-overlay" data-onclick="toggleSearch"></div>
+	<div class="p-searchModal__inner">
+		<form role="search" method="get" class="c-searchForm" action="https://knt-worldblog.com/" role="search">
+	<input type="text" value="" name="s" class="c-searchForm__s s" placeholder="検索" aria-label="検索ワード">
+	<button type="submit" class="c-searchForm__submit icon-search hov-opacity u-bg-main" value="search" aria-label="検索を実行する"></button>
+</form>
+		<button class="c-modal__close c-plainBtn" data-onclick="toggleSearch">
+			<i class="icon-batsu"></i> 閉じる		</button>
+	</div>
+</div>
+<div id="index_modal" class="c-modal p-indexModal">
+	<div class="c-overlay" data-onclick="toggleIndex"></div>
+	<div class="p-indexModal__inner">
+		<div class="p-toc post_content -modal"><span class="p-toc__ttl">目次</span></div>
+		<button class="c-modal__close c-plainBtn" data-onclick="toggleIndex">
+			<i class="icon-batsu"></i> 閉じる		</button>
+	</div>
+</div>
+</div><!--/ #all_wrapp-->
+<div class="l-scrollObserver" aria-hidden="true"></div><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/swell/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" id="swell_script-js-extra">
+/* <![CDATA[ */
+var swellVars = {"siteUrl":"https://knt-worldblog.com/","restUrl":"https://knt-worldblog.com/wp-json/wp/v2/","ajaxUrl":"https://knt-worldblog.com/wp-admin/admin-ajax.php","ajaxNonce":"c30a909551","isLoggedIn":"","useAjaxAfterPost":"","useAjaxFooter":"","usePvCount":"1","isFixHeadSP":"1","tocListTag":"ol","tocTarget":"h3","tocPrevText":"\u524d\u306e\u30da\u30fc\u30b8\u3078","tocNextText":"\u6b21\u306e\u30da\u30fc\u30b8\u3078","tocCloseText":"\u6298\u308a\u305f\u305f\u3080","tocOpenText":"\u3082\u3063\u3068\u898b\u308b","tocOmitType":"ct","tocOmitNum":"15","tocMinnum":"1","tocAdPosition":"before","offSmoothScroll":"","psNum":"5","psNumSp":"2","psSpeed":"1500","psDelay":"5000"};
+//# sourceURL=swell_script-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://knt-worldblog.com/wp-content/themes/swell/build/js/main.min.js?ver=2.13.0" id="swell_script-js"></script>
+<script type="text/javascript" src="https://knt-worldblog.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://knt-worldblog.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://knt-worldblog.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.3" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-01-14 04:07:30+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"ja_JP"},"This contact form is placed in the wrong place.":["\u3053\u306e\u30b3\u30f3\u30bf\u30af\u30c8\u30d5\u30a9\u30fc\u30e0\u306f\u9593\u9055\u3063\u305f\u4f4d\u7f6e\u306b\u7f6e\u304b\u308c\u3066\u3044\u307e\u3059\u3002"],"Error:":["\u30a8\u30e9\u30fc:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+//# sourceURL=contact-form-7-js-translations
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/knt-worldblog.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://knt-worldblog.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.3" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://knt-worldblog.com/wp-content/themes/swell/assets/js/plugins/lazysizes.min.js?ver=2.13.0" id="swell_lazysizes-js"></script>
+<script type="text/javascript" src="https://knt-worldblog.com/wp-content/themes/swell/build/js/front/set_fix_header.min.js?ver=2.13.0" id="swell_set_fix_header-js"></script>
+<script type="text/javascript" src="https://knt-worldblog.com/wp-content/themes/swell/assets/js/plugins/luminous.min.js?ver=2.13.0" id="swell_luminous-js"></script>
+<script type="text/javascript" id="swell_set_luminous-js-extra">
+/* <![CDATA[ */
+var swlLuminousVars = {"postImg":"1"};
+//# sourceURL=swell_set_luminous-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://knt-worldblog.com/wp-content/themes/swell/build/js/front/set_luminous.min.js?ver=2.13.0" id="swell_set_luminous-js"></script>
+<script type="text/javascript" src="https://knt-worldblog.com/wp-includes/js/clipboard.min.js?ver=2.0.11" id="clipboard-js"></script>
+<script type="text/javascript" src="https://knt-worldblog.com/wp-content/themes/swell/build/js/front/set_urlcopy.min.js?ver=2.13.0" id="swell_set_urlcopy-js"></script>
+
+<!-- JSON-LD @SWELL -->
+<script type="application/ld+json">{"@context": "https://schema.org","@graph": [{"@type":"Organization","@id":"https:\/\/knt-worldblog.com\/#organization","name":"KONA BLOG","url":"https:\/\/knt-worldblog.com\/"},{"@type":"WebSite","@id":"https:\/\/knt-worldblog.com\/#website","url":"https:\/\/knt-worldblog.com\/","name":"KONA BLOG"},{"@type":"WebPage","@id":"https:\/\/knt-worldblog.com\/589\/7-taizai-tsumi-akuma\/","url":"https:\/\/knt-worldblog.com\/589\/7-taizai-tsumi-akuma\/","name":"七つの大罪って知ってる？罪の重い順番や象徴する悪魔も | KONA BLOG","description":"「七つの大罪」ってご存知ですか？ 7つすべてを言える方や、具体的な内容について説明できる方は、案外少ないかもしれません。 そこで今回は、七つの大罪とはどんなものなのか、罪の重い順に解説します。 また、それぞれの罪を象徴する悪魔や動物、新・七","isPartOf":{"@id":"https:\/\/knt-worldblog.com\/#website"}},{"@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/knt-worldblog.com\/589\/7-taizai-tsumi-akuma\/"},"headline":"七つの大罪って知ってる？罪の重い順番や象徴する悪魔も","image":{"@type":"ImageObject","url":"https:\/\/knt-worldblog.com\/wp-content\/uploads\/2025\/04\/bible-1058289_1280.jpg"},"datePublished":"2025-04-28T13:26:11+0900","dateModified":"2025-07-22T11:23:26+0900","author":{"@type":"Person","@id":"https:\/\/knt-worldblog.com\/589\/7-taizai-tsumi-akuma\/#author","name":"kona","url":"https:\/\/knt-worldblog.com\/"},"publisher":{"@id":"https:\/\/knt-worldblog.com\/#organization"}},{"@type":"BreadcrumbList","@id":"https:\/\/knt-worldblog.com\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/knt-worldblog.com\/category\/%e9%9b%91%e5%ad%a6\/","name":"雑学"}}]}]}</script>
+<!-- / JSON-LD @SWELL -->
+</body></html>

@@ -1,0 +1,2440 @@
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+cache-control: max-age=3600, must-revalidate
+x-ua-compatible: IE=edge
+x-pingback: https://www.ipri.pl/xmlrpc.php
+link: <https://www.ipri.pl/wp-json/>; rel="https://api.w.org/", <https://www.ipri.pl/wp-json/wp/v2/pages/278>; rel="alternate"; title="JSON"; type="application/json", <https://www.ipri.pl/?p=278>; rel=shortlink
+hummingbird-cache: Served
+date: Sat, 03 Jan 2026 16:47:58 GMT
+server: LiteSpeed
+retry-after: 3
+vary: User-Agent
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+<!-- This page is cached by the Hummingbird Performance plugin v3.15.0 - https://wordpress.org/plugins/hummingbird-performance/. --><!DOCTYPE html>
+<html dir="ltr" lang="pl-PL">
+<head>
+    <meta charset="UTF-8" />
+    
+    <link rel="pingback" href="https://www.ipri.pl/xmlrpc.php" />
+    <script>
+    var themeHasJQuery = !!window.jQuery;
+</script>
+<script src="https://www.ipri.pl/wp-content/themes/ipiri/jquery.js?ver="></script>
+<script>
+    window._$ = jQuery.noConflict(themeHasJQuery);
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--[if lte IE 9]>
+<link rel="stylesheet" type="text/css" href="https://www.ipri.pl/wp-content/themes/ipiri/layout.ie.css" />
+<script src="https://www.ipri.pl/wp-content/themes/ipiri/layout.ie.js"></script>
+<![endif]-->
+<link class="" href='//fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=latin-ext' rel='stylesheet' type='text/css'>
+<script src="https://www.ipri.pl/wp-content/themes/ipiri/layout.core.js"></script>
+<script src="https://www.ipri.pl/wp-content/themes/ipiri/CloudZoom.js?ver=" type="text/javascript"></script>
+    
+    <title>Zaburzenia &#8211; Instytut Psychoterapii Integralnej</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.gstatic.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//apis.google.com' />
+<link rel='dns-prefetch' href='//google-analytics.com' />
+<link rel='dns-prefetch' href='//www.google-analytics.com' />
+<link rel='dns-prefetch' href='//ssl.google-analytics.com' />
+<link rel='dns-prefetch' href='//youtube.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel="alternate" type="application/rss+xml" title="Instytut Psychoterapii Integralnej &raquo; Kanał z wpisami" href="https://www.ipri.pl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Instytut Psychoterapii Integralnej &raquo; Kanał z komentarzami" href="https://www.ipri.pl/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Instytut Psychoterapii Integralnej &raquo; Zaburzenia Kanał z komentarzami" href="https://www.ipri.pl/duchowosc/zaburzenia/feed/" />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.ipri.pl/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wphb-1-css' href='https://www.ipri.pl/wp-content/uploads/hummingbird-assets/dbffabdabac3b9420979a89032baf9ca.css' type='text/css' media='all' />
+<script type="text/javascript" id="wphb-2-js-before">
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/www.ipri.pl\/wp-admin\/admin-ajax.php","nonce":"84b1de5abf","hideEffect":"fade","position":"bottom","onScroll":false,"onScrollOffset":100,"onClick":true,"cookieName":"cookie_notice_accepted","cookieTime":2592000,"cookieTimeRejected":2592000,"globalCookie":false,"redirection":true,"cache":true,"revokeCookies":false,"revokeCookiesOpt":"automatic"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ipri.pl/wp-content/uploads/hummingbird-assets/075ed13caf0d236ebe9441b80ce34a09.js" id="wphb-2-js"></script>
+<script type="text/javascript" src="//www.ipri.pl/wp-content/themes/ipiri/bootstrap.min.js" id="theme-bootstrap-js"></script>
+<script type="text/javascript" src="https://www.ipri.pl/wp-content/uploads/hummingbird-assets/ed09f085d2539095613e7b22cd665f93.js" id="theme-script-js"></script>
+<link rel="https://api.w.org/" href="https://www.ipri.pl/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.ipri.pl/wp-json/wp/v2/pages/278" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ipri.pl/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://www.ipri.pl/duchowosc/zaburzenia/" />
+<link rel='shortlink' href='https://www.ipri.pl/?p=278' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.ipri.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ipri.pl%2Fduchowosc%2Fzaburzenia%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.ipri.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ipri.pl%2Fduchowosc%2Fzaburzenia%2F&#038;format=xml" />
+<link rel='header_link' href='https://www.ipri.pl/' /><script>window.wpJQuery = window.jQuery;</script>    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-27135911-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body class="wp-singular page-template-default page page-id-278 page-parent page-child parent-pageid-31 wp-theme-ipiri  hfeed bootstrap bd-body-7 bd-pagebackground bd-margins cookies-not-set">
+<header class=" bd-headerarea-1 bd-margins">
+        <section class=" bd-section-4 bd-page-width bd-tagstyles " id="section3" data-section-title="Page High Slider Header">
+    <div class="bd-container-inner bd-margins clearfix">
+        <div class=" bd-layoutbox-48 bd-no-margins clearfix">
+    <div class="bd-container-inner">
+        <div class=" bd-headline-3">
+    <div class="bd-container-inner">
+        <h3>
+            <a href="https://www.ipri.pl/">Instytut Psychoterapii Integralnej</a>
+        </h3>
+    </div>
+</div>
+	
+		    
+    <nav class=" bd-hmenu-7" data-responsive-menu="true" data-responsive-levels="expand on click">
+        
+            <div class=" bd-responsivemenu-8 collapse-button">
+    <div class="bd-container-inner">
+        <div class="bd-menuitem-27 ">
+            <a  data-toggle="collapse"
+                data-target=".bd-hmenu-7 .collapse-button + .navbar-collapse"
+                href="#" onclick="return false;">
+                    <span>Menu</span>
+            </a>
+        </div>
+    </div>
+</div>
+            <div class="navbar-collapse collapse">
+        
+        <div class=" bd-horizontalmenu-9 clearfix">
+            <div class="bd-container-inner">
+            
+<ul class=" bd-menu-18 nav nav-pills navbar-left">
+    <li class=" bd-menuitem-35 bd-toplevel-item  bd-submenu-icon-only">
+    <a class=" "  href="https://www.ipri.pl/badania-naukowe/">
+        <span>
+            Badania naukowe        </span>
+    </a>    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/badania-z-neuroobrazowaniem/">
+                <span>
+                    Badania z neuroobrazowaniem                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/badania-z-neuroobrazowaniem/muse-headband/">
+                <span>
+                    Muse Headband                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/badania-z-neuroobrazowaniem/neuromedytacja/">
+                <span>
+                    Neuromedytacja                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/kompetencje-nauk/">
+                <span>
+                    Kompetencje nauk                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/kompetencje-nauk/neurologia/">
+                <span>
+                    Neurologia                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/kompetencje-nauk/neurologia/model/">
+                <span>
+                    Model                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/kompetencje-nauk/neurologia/neuroplastycznosc/">
+                <span>
+                    Neuroplastyczność                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/kompetencje-nauk/psychologia/">
+                <span>
+                    Psychologia                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/kompetencje-nauk/psychologia/kliniczny-model/">
+                <span>
+                    Kliniczny model                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/kompetencje-nauk/psychologia/mechanizm-i-funkcje/">
+                <span>
+                    Mechanizm i funkcje                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/kompetencje-nauk/psychologia/pozytywna-efektywnosc/">
+                <span>
+                    Pozytywna efektywność                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/kompetencje-nauk/teologia/">
+                <span>
+                    Teologia                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/kompetencje-nauk/teologia/deautomatyzacja/">
+                <span>
+                    Deautomatyzacja                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/kompetencje-nauk/teologia/kultywowanie-czystosci-serca/">
+                <span>
+                    Kultywowanie czystości serca                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/kompetencje-nauk/teologia/receptywna-biernosc-kontemplacji/">
+                <span>
+                    Receptywna bierność kontemplacji                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/">
+                <span>
+                    Narzędzia psychometryczne                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/duchowosc-2/">
+                <span>
+                    Duchowość                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/duchowosc-2/current-experiences-inventory/">
+                <span>
+                    Current Experiences Inventory                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/duchowosc-2/daily-spiritual-experience-scale/">
+                <span>
+                    Daily Spiritual Experience Scale                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/duchowosc-2/experiences-questionnaire/">
+                <span>
+                    Experiences Questionnaire                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/duchowosc-2/inwentarz-zycia-religijnego/">
+                <span>
+                    Inwentarz Życia Religijnego                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/duchowosc-2/kwestionariusz-samoopisu/">
+                <span>
+                    Kwestionariusz Samoopisu                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/duchowosc-2/miller-measure-of-spirituality/">
+                <span>
+                    Miller Measure of Spirituality                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/duchowosc-2/santa-clara-strength-of-religious-faith-questionnaire/">
+                <span>
+                    Santa Clara Strength of Religious Faith&hellip;                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/duchowosc-2/skala-samooceny-religijnej/">
+                <span>
+                    Skala Samooceny Religijnej                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/">
+                <span>
+                    Mindfulness                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/cams-r/">
+                <span>
+                    CAMS-R                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/chime-a/">
+                <span>
+                    CHIME-A                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/ffmq-39-ffmq-24-ffmq-15/">
+                <span>
+                    FFMQ-39 FFMQ-24 FFMQ-15                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/fryburski-inwentarz-uwaznosci/">
+                <span>
+                    Fryburski Inwentarz Uważności                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/kwestionariusz-bladzenia-myslami/">
+                <span>
+                    Kwestionariusz Błądzenia Myślami                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/kwestionariusz-zaawansowania-w-uwaznosci/">
+                <span>
+                    Kwestionariusz Zaawansowania w Uważności                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/kwestionariusz-zdolnosci-bycia-uwaznym/">
+                <span>
+                    Kwestionariusz Zdolności Bycia Uważnym                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/langer-mindfulness-scale/">
+                <span>
+                    Langer Mindfulness Scale                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/leaf-mind-management/">
+                <span>
+                    Leaf Mind Management                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/maas-15-vs-maas-5/">
+                <span>
+                    MAAS-15 vs MAAS-5                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/meditation-depth-index/">
+                <span>
+                    Meditation Depth Index                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/skala-nieprzywiazania/">
+                <span>
+                    Skala Nieprzywiązania                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/skala-zarzadzania-umyslem-leaf/">
+                <span>
+                    Skala Zarządzania Umysłem Leaf                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/the-kentucky-inventory-of-mindfulness-skills/">
+                <span>
+                    The Kentucky Inventory of Mindfulness&hellip;                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/the-philadelphia-mindfulness-scale/">
+                <span>
+                    The Philadelphia Mindfulness Scale                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/three-facet-mindfulness-questionnaire/">
+                <span>
+                    Three Facet Mindfulness Questionnaire                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/toronto-mindfulness-scale/">
+                <span>
+                    Toronto Mindfulness Scale                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mindfulness/uwaznosc-w-rodzicielstwie/">
+                <span>
+                    Uważność w rodzicielstwie                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mysticism/">
+                <span>
+                    Mistycyzm                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mysticism/doswiadczenie-mistyczne/">
+                <span>
+                    Doświadczenie Mistyczne                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mysticism/edwards-lowis-attitudes-to-mysticism-scales/">
+                <span>
+                    Edwards Lowis Attitudes to Mysticism&hellip;                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mysticism/francis-louden-mystical-orientation-scale/">
+                <span>
+                    Francis–Louden Mystical Orientation&hellip;                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mysticism/mysticism-experience/">
+                <span>
+                    Mysticism Experience                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mysticism/mysticism-scale/">
+                <span>
+                    Mysticism Scale                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/mysticism/revised-mystical-experience-questionnaire/">
+                <span>
+                    Revised Mystical Experience&hellip;                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/osobowosc/">
+                <span>
+                    Osobowość                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/osobowosc/dass-8/">
+                <span>
+                    DASS-8                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/osobowosc/kwestionariusz-ruminacji-refleksyjnosci/">
+                <span>
+                    Kwestionariusz Ruminacji-Refleksyjności                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/osobowosc/radochonski/">
+                <span>
+                    Radochoński                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/osobowosc/test-na-plec/">
+                <span>
+                    Test na płeć                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/wellbeing/">
+                <span>
+                    Wellbeing                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/wellbeing/mindfulness-korelaty/">
+                <span>
+                    Cattel PF16                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/wellbeing/emotion-regulation-questionnaire/">
+                <span>
+                    Emotion Regulation Questionnaire                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/wellbeing/kwestionariusz-ruminacji-refleksyjnosci/">
+                <span>
+                    Kwestionariusz Ruminacji-Refleksyjności                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/wellbeing/metacognitive-affective-cognitive-experience/">
+                <span>
+                    Metacognitive, Affective, Cognitive&hellip;                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/wellbeing/multidimensional-quest-orientation-scale/">
+                <span>
+                    Multidimensional Quest Orientation Scale                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/wellbeing/psychological-well%e2%80%90being-scale/">
+                <span>
+                    Psychological Well‐Being Scale                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/wellbeing/strzalecki/">
+                <span>
+                    Strzałecki                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/wellbeing/the-acceptance-and-action-questionnaire/">
+                <span>
+                    The Acceptance and Action Questionnaire                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/wellbeing/the-affective-style-questionnaire/">
+                <span>
+                    The Affective Style Questionnaire                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/wellbeing/the-meaning-in-life-questionnaire/">
+                <span>
+                    The Meaning in Life Questionnaire                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/wellbeing/the-meaning-in-life-questionnaire-short-form/">
+                <span>
+                    The Meaning in Life Questionnaire-Short&hellip;                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/wellbeing/the-rumination-reflection-questionnaire/">
+                <span>
+                    The Rumination-Reflection Questionnaire                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/narzedzia-psychometryczne/wellbeing/values-in-action-inventory-of-strength/">
+                <span>
+                    Values in Action Inventory of Strength                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/publikacje/">
+                <span>
+                    Publikacje                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/publikacje/duchowosc/">
+                <span>
+                    Duchowość                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/publikacje/mindfulness/">
+                <span>
+                    Mindfulness                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/uczelnie/">
+                <span>
+                    Uczelnie                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/uczelnie/akademia-mindfulness/">
+                <span>
+                    Akademia Mindfulness                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/uczelnie/asp/">
+                <span>
+                    ASP                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/uczelnie/uam/">
+                <span>
+                    UAM                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/uczelnie/uj/">
+                <span>
+                    UJ                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/uczelnie/uj/historyczne-uwarunkowania-technik-medytacji/">
+                <span>
+                    Historyczne uwarunkowania technik&hellip;                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/uczelnie/uj/skutecznosc-psychoterapeutyczna-uwaznosci/">
+                <span>
+                    Skuteczność psychoterapeutyczna&hellip;                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/uczelnie/uj/pomoce/">
+                <span>
+                    Typologia i struktura technik medytacji                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/uczelnie/upjp2/">
+                <span>
+                    UPJP2                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/uczelnie/upjp2/sylabus/">
+                <span>
+                    Sylabus                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/wyniki-badan-wlasnych/">
+                <span>
+                    Wyniki badań własnych                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/wyniki-badan-wlasnych/uwaznosc-opis-oraz-wyniki-badan-wlasnych/">
+                <span>
+                    Czynniki uważności                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/wyniki-badan-wlasnych/doswiadczenia-mistyczne/">
+                <span>
+                    Doświadczenia mistyczne                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/wyniki-badan-wlasnych/mbct-l-a-case-series-study/">
+                <span>
+                    MBCT-L &#8211; a case series study                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/wyniki-badan-wlasnych/uwaznosc-jako-mediator/">
+                <span>
+                    Uważność jako mediator                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/wyniki-badan-wlasnych/uwaznosc-w-relacjach/">
+                <span>
+                    Uważność w relacjach                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/badania-naukowe/wyniki-badan-wlasnych/zaburzenia-osobowosci/">
+                <span>
+                    Zaburzenia osobowości                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+    </li>
+    
+<li class=" bd-menuitem-35 bd-toplevel-item  bd-submenu-icon-only">
+    <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/">
+        <span>
+            Mindfulness        </span>
+    </a>    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/chrzescijanskie-korzenie-mindfulness/">
+                <span>
+                    Chrześcijańskie korzenie mindfulness                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/chrzescijanstwo-a-mindfulness/">
+                <span>
+                    Chrześcijaństwo a mindfulness                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/co-dziala-w-mindfulness/">
+                <span>
+                    Co działa w mindfulness?                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/co-to-jest-mindfulness/">
+                <span>
+                    Co to jest mindfulness?                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/czy-praktykowac-samemu/">
+                <span>
+                    Czy praktykować samemu?                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/efektywnosc-kliniczna/">
+                <span>
+                    Efektywność kliniczna                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/historyczne-uwarunkowania/">
+                <span>
+                    Historyczne uwarunkowania                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/jak-dziala-mindfulness/">
+                <span>
+                    Jak działa mindfulness?                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/jak-praktykowac-samemu/">
+                <span>
+                    Jak praktykować samemu?                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/kompatybilnosc-z-chrzescijanstwem/">
+                <span>
+                    Kompatybilność z chrześcijaństwem                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/kulturowe-uwarunkowania/">
+                <span>
+                    Kulturowe uwarunkowania                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/teologia/">
+                <span>
+                    Mindfulness a teologia                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/psychoterapia/">
+                <span>
+                    Mindfulness jako technika psychoterapii                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/psychologia/">
+                <span>
+                    Mindfulness w ujęciu psychologii                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/model/">
+                <span>
+                    Model teoretyczny                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/neurobiologia/">
+                <span>
+                    Neurobiologia                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/poczatki-mindfulness/">
+                <span>
+                    Początki                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/mindfulness-krakow/przyczyny-fascynacji/">
+                <span>
+                    Przyczyny fascynacji                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+    </li>
+    
+<li class=" bd-menuitem-35 bd-toplevel-item  bd-submenu-icon-only">
+    <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/">
+        <span>
+            Psychoterapia        </span>
+    </a>    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/adhd/">
+                <span>
+                    ADHD                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/depresja/">
+                <span>
+                    Depresja                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/depresja/opis-i-leczenie-depresji/">
+                <span>
+                    Opis i leczenie depresji                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/depresja/samobojstwo/">
+                <span>
+                    Samobójstwo                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/depresja/suicide/">
+                <span>
+                    Suicide                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/psychoza/">
+                <span>
+                    Psychoza                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/psychoza/schizofrenia-objawy-i-leczenie/">
+                <span>
+                    Schizofrenia objawy i leczenie                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/uzaleznienia/">
+                <span>
+                    Uzależnienia                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/zaburzenia-afektywne/">
+                <span>
+                    Zaburzenia afektywne                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/zaburzenia-afektywne/symptomatyka-i-leczenie/">
+                <span>
+                    Symptomatyka i leczenie                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/zaburzenia-osobowosci/">
+                <span>
+                    Zaburzenia osobowości                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/zaburzenia-osobowosci/charakterystyka/">
+                <span>
+                    Charakterystyka                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/zaburzenia-osobowosci/diagnoza/">
+                <span>
+                    Diagnoza                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/zaburzenia-osobowosci/symptomatyka/">
+                <span>
+                    Symptomatologia                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/zaburzenia-osobowosci/wyniki-badan/">
+                <span>
+                    Wyniki badań                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/psychoterapia-krakow/zespol-stresu-pourazowego/">
+                <span>
+                    Zespół stresu pourazowego                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+    </li>
+    
+<li class=" bd-menuitem-35 bd-toplevel-item  bd-submenu-icon-only">
+    <a class=" active"  href="https://www.ipri.pl/duchowosc/">
+        <span>
+            Duchowość        </span>
+    </a>    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19    active">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/funkcje-duchowosci/">
+                <span>
+                    Funkcje duchowości                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/historia-duchowosci-katolickiej/">
+                <span>
+                    Historia duchowości katolickiej                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/katolicka-ocena/">
+                <span>
+                    Katolicka ocena                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/katolicka-ocena/antropozofia/">
+                <span>
+                    Antropozofia                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/katolicka-ocena/new-age/">
+                <span>
+                    New Age                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/katolicka-ocena/posacki/">
+                <span>
+                    Posacki                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/katolicka-ocena/verlinde/">
+                <span>
+                    Verlinde                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/katolicka-ocena/zwolinski/">
+                <span>
+                    Zwoliński                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/kryteria-diagnostyczne/">
+                <span>
+                    Kryteria diagnostyczne                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/kryteria-diagnostyczne/psychologiczne-kryteria-diagnostyczne/">
+                <span>
+                    Psychologiczne kryteria diagnostyczne                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/kryteria-diagnostyczne/teologiczne-kryteria-diagnostyczne/">
+                <span>
+                    Teologiczne kryteria diagnostyczne                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/nadzwyczajne-zjawiska/">
+                <span>
+                    Nadzwyczajne zjawiska                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/nadzwyczajne-zjawiska/ekstaza-i-trans/">
+                <span>
+                    Ekstaza i trans                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/nadzwyczajne-zjawiska/glosolalia/">
+                <span>
+                    Glosolalia                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/nadzwyczajne-zjawiska/gnoza-i-misteryjne-wtajemniczenia/">
+                <span>
+                    Gnoza i misteryjne wtajemniczenia                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/nadzwyczajne-zjawiska/porwania-mistyczne/">
+                <span>
+                    Porwania mistyczne                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/nadzwyczajne-zjawiska/stany-halucynogenne/">
+                <span>
+                    Stany halucynogenne                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/nadzwyczajne-zjawiska/stygmaty/">
+                <span>
+                    Stygmaty                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/nadzwyczajne-zjawiska/sugestia-i-hipnoza/">
+                <span>
+                    Sugestia i hipnoza                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/nadzwyczajne-zjawiska/tworcze-stany-transgresyjne/">
+                <span>
+                    Twórcze stany transgresyjne                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/opetania/">
+                <span>
+                    Opętania                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/opetania/egzorcyzmy-a-modlitwa-o-uwolnienie/">
+                <span>
+                    Egzorcyzmy a modlitwa o uwolnienie                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/opetania/kryteria-roznicowe/">
+                <span>
+                    Kryteria różnicowe                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/opetania/norma-i-patologia-w-ujeciu-transkulturowym/">
+                <span>
+                    Norma i patologia w ujęciu&hellip;                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/opetania/przypadki-opetan/">
+                <span>
+                    Przypadki opętań                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/opetania/satanizm/">
+                <span>
+                    Satanizm                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/opetania/psychiatria-kulturowa/">
+                <span>
+                    Symptomatologia opętań                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/paralelizm-psychofizjologiczny/">
+                <span>
+                    Paralelizm psychofizjologiczny                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/psychoterapia-w-duchowosci/">
+                <span>
+                    Psychoterapia w duchowości                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/wspolczesne-rozumienie/">
+                <span>
+                    Współczesne rozumienie                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-submenu-icon-only bd-sub-item">
+    
+            <a class=" active"  href="https://www.ipri.pl/duchowosc/zaburzenia/">
+                <span>
+                    Zaburzenia                </span>
+            </a>
+    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19    active">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/zaburzenia/depresja-i-zaburzenia-efektywne/">
+                <span>
+                    Depresja i zaburzenia efektywne                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/zaburzenia/zaburzenia-osobowosci/">
+                <span>
+                    Opis zaburzeń osobowości                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/zaburzenia/zaburzenia-konwersyjne-i-dysocjacyjne/">
+                <span>
+                    Zaburzenia konwersyjne i dysocjacyjne                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/zaburzenia/zaburzenia-myslenia/">
+                <span>
+                    Zaburzenia myślenia                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/zaburzenia/zaburzenia-procesow-emocjonalnych/">
+                <span>
+                    Zaburzenia procesów emocjonalnych                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/zaburzenia/zaburzenia-sensoryczne/">
+                <span>
+                    Zaburzenia sensoryczne                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/zaburzenia/zaburzenia-swiadomosci/">
+                <span>
+                    Zaburzenia świadomości                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/zaburzenia/zaburzenia-wolicjonalne/">
+                <span>
+                    Zaburzenia wolicjonalne                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/duchowosc/zaburzenia/zaburzenie-z-pogranicza/">
+                <span>
+                    Zaburzenie z pogranicza                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+    </li>
+    
+<li class=" bd-menuitem-35 bd-toplevel-item  bd-submenu-icon-only">
+    <a class=" "  href="https://www.ipri.pl/doswiadczenia-mistyczne/">
+        <span>
+            Doświadczenia mistyczne        </span>
+    </a>    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/doswiadczenia-mistyczne/dynamika/">
+                <span>
+                    Dynamika                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/doswiadczenia-mistyczne/mistycyzm-jako-epifenomen-psychologiczny/">
+                <span>
+                    Mistycyzm jako epifenomen psychologiczny                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/doswiadczenia-mistyczne/predyspozycje-osobowosciowe/">
+                <span>
+                    Predyspozycje osobowościowe                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/doswiadczenia-mistyczne/psychologiczne-kryteria-opisowe/">
+                <span>
+                    Psychologiczne kryteria opisowe                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/doswiadczenia-mistyczne/psylocybina-a-doswiadczenia-mistyczne/">
+                <span>
+                    Psylocybina a doświadczenia mistyczne                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/doswiadczenia-mistyczne/stymulacja-eksperymentalna/">
+                <span>
+                    Stymulacja eksperymentalna                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/doswiadczenia-mistyczne/teologiczne-kryteria-oceny/">
+                <span>
+                    Teologiczne kryteria oceny                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/doswiadczenia-mistyczne/typologia/">
+                <span>
+                    Typologia                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+    </li>
+    
+<li class=" bd-menuitem-35 bd-toplevel-item ">
+    <a class=" "  href="https://www.ipri.pl/aktualnosci/">
+        <span>
+            Aktualności        </span>
+    </a>    </li>
+    
+<li class=" bd-menuitem-35 bd-toplevel-item  bd-submenu-icon-only">
+    <a class=" "  href="https://www.ipri.pl/kontakt/">
+        <span>
+            Kontakt        </span>
+    </a>    
+    <div class="bd-menu-19-popup ">
+            <ul class="bd-menu-19   ">
+        
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/kontakt/treningi-en/">
+                <span>
+                    Treningi EN                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/kontakt/treningi-pl/">
+                <span>
+                    Treningi PL                </span>
+            </a>
+            </li>
+    
+    
+    
+            <li class=" bd-menuitem-36  bd-sub-item">
+    
+            <a class=" "  href="https://www.ipri.pl/kontakt/kadra/">
+                <span>
+                    Kadra                </span>
+            </a>
+            </li>
+    
+    
+            </ul>
+        </div>
+    
+    </li>
+    
+</ul>            </div>
+        </div>
+        
+        
+            </div>
+    </nav>
+    
+    </div>
+</div>
+	
+		<div id="carousel-7" class="bd-slider-7 bd-background-width  bd-slider bd-no-margins  carousel slide bd-carousel-fade" >
+    
+
+    
+
+    
+
+    <div class="bd-slides carousel-inner">
+        <div class=" bd-slide-12 bd-textureoverlay bd-textureoverlay-3 bd-slide item"
+    
+    
+    >
+    <div class="bd-container-inner">
+        <div class="bd-container-inner-wrapper">
+            <div class=" bd-layoutbox-47 bd-no-margins clearfix">
+    <div class="bd-container-inner">
+        <div class=" bd-layoutbox-20 animated bd-animation-2 animated bd-animation-4 bd-no-margins clearfix" data-animation-name="fadeInDown,fadeOutUp" data-animation-event="slidein,slideout" data-animation-duration="900ms,700ms" data-animation-delay="0ms,0ms" data-animation-infinited="false,false">
+    <div class="bd-container-inner">
+            
+    <div class=" bd-breadcrumbs-2">
+        <div class="bd-container-inner">
+            <ol class="breadcrumb">
+                                        <li><div class=" bd-breadcrumbslink-2">
+        <a href="https://www.ipri.pl" title="">Strona główna</a>
+    </div></li>
+                                            <li><div class=" bd-breadcrumbslink-2">
+        <a href="https://www.ipri.pl/duchowosc/" title="Duchowość">Duchowość</a>
+    </div></li>
+                                            <li class="active"><span class=" bd-breadcrumbstext-2"><span>Zaburzenia</span></span></li>
+                                </ol>
+        </div>
+    </div>
+    
+    </div>
+</div>
+    </div>
+</div>
+        </div>
+    </div>
+</div>
+    </div>
+
+    
+
+    
+
+    
+
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        if ('undefined' !== typeof initSlider) {
+            initSlider(
+                '.bd-slider-7',
+                {
+                    leftButtonSelector: 'bd-left-button',
+                    rightButtonSelector: 'bd-right-button',
+                    navigatorSelector: '.bd-carousel-5',
+                    indicatorsSelector: '.bd-indicators-4',
+                    carouselInterval: 3000,
+                    carouselPause: "hover",
+                    carouselWrap: true,
+                    carouselRideOnStart: true
+                }
+            );
+        }
+        /* ]]> */
+    </script>
+</div>
+    </div>
+</section>
+</header>
+	
+		<div class=" bd-stretchtobottom-1 bd-stretch-to-bottom" data-control-selector=".bd-contentlayout-7">
+<div class="bd-contentlayout-7  bd-sheetstyles  bd-no-margins bd-margins" >
+    <div class="bd-container-inner">
+
+        <div class="bd-flex-vertical bd-stretch-inner bd-contentlayout-offset">
+            
+            <div class="bd-flex-horizontal bd-flex-wide bd-no-margins">
+                
+                <div class="bd-flex-vertical bd-flex-wide bd-no-margins">
+                    
+
+                    <div class=" bd-layoutitemsbox-21 bd-flex-wide bd-no-margins">
+    <div class=" bd-content-12">
+    
+            <div class=" bd-blog-3">
+        <div class="bd-container-inner">
+        
+                    
+        <div class=" bd-grid-6 bd-margins">
+            <div class="container-fluid">
+                <div class="separated-grid row">
+                        
+                        <div class="separated-item-21 col-md-12 ">
+                        
+                            <div class="bd-griditem-21">
+                                <article id="post-278" class=" bd-article-4 clearfix hentry post-278 page type-page status-publish hentry">
+    	
+		<div class=" bd-pagetitle-1">
+    <div class="bd-container-inner">
+        <h1>Zaburzenia</h1>
+    </div>
+</div>
+	
+		<div class=" bd-postcontent-3 bd-tagstyles  entry-content bd-contentlayout-offset" >
+    <p>Zaburzenie psychiczne wyrywa człowieka z codziennych schematów, stereotypowego myślenia, skłania do pogłębionej autorefleksji, może budzić potrzebę otwarcia na wymiar duchowy, na to, co niepoznawalne. Treści religijne w przebiegu zaburzeń psychicznych mogą być zjawiskiem wtórnym (wynikają z potrzeby wytłumaczenia dolegliwości czy cierpienia, np. w depresji niepsychotycznej) lub pierwotnym (są składową samego zaburzenia, np. w schizofrenii, depresji psychotycznej czy nerwicy natręctw). W zaburzeniach niepsychotycznych przeżycia czy refleksje religijne są najczęściej zgodne z dotychczas wyznawaną wiarą czy światopoglądem, choć mogą zyskać na intensywności. W psychozach treści religijne są często dziwaczne, nie zawsze zgodne z oficjalną wykładnią danej religii lub stanowią połączenie różnych poglądów.</p>
+<p>Wszystkie zaburzenia psychiczne podzielić można na psychotyczne i niepsychotyczne. Zaburzenia psychotyczne (psychozy, choroby psychiczne) to takie, w których osoba traci częściowo kontakt z realnością. Doświadcza wrażeń zmysłowych (halucynacje, omamy), których nie doświadczała wcześniej lub wypowiada przekonania (urojenia) niezgodne z powszechnie akceptowanymi poglądami, i wobec których pozostaje częściowo lub całkowicie niekrytyczna.  W zaburzeniach niepsychotycznych rozumienie i ocena rzeczywistości pozostają jakościowo niezmienione, pomimo doświadczania różnego rodzaju dolegliwości czy cierpień.</p>
+<p>Zaburzenia organiczne, wynikające z uszkodzenia mózgu (np. upośledzenie umysłowe, otępienie, majaczenie) [psychotyczne lub niepsychotyczne]. Zaburzenia związane z przyjmowaniem substancji psychoaktywnych (np. alkohol, narkotyki, leki) [psychotyczne lub niepsychotyczne]</p>
+<p>Zaburzenia urojeniowe (np. schizofrenia, paranoja) [psychotyczne]</p>
+<p>Zaburzenia nastroju (afektywne) (np. depresja, mania) [psychotyczne lub niepsychotyczne]</p>
+<p>Zaburzenia lękowe (nerwicowe) [niepsychotyczne]</p>
+<p>Zaburzenia osobowości [niepsychotyczne]</p>
+<p>&nbsp;</p>
+<h2>PRZYCZYNY</h2>
+<p>1. Wyjaśnienie naturalne (naukowe)</p>
+<p>&#8211; Biologiczne (choroba lub zaburzenie pracy mózgu),</p>
+<p>&#8211; Psychologiczne (skutek przeżytego urazu psychicznego, frustracji lub deprywacji ważnych potrzeb, obecności nierozwiązanego konfliktu wewnątrzpsychicznego, w przeszłości lub aktualnie),</p>
+<p>&#8211; Egzystencjalne (skutek życia w świecie sprzeczności, niemożność ich zrozumienia, rozdźwięk między konwencjami społecznymi a potrzebą zaspokojenia własnych popędów czy pragnień, załamanie systemu wartości, zagubienie poczucia sensu życia).</p>
+<p>2. Wyjaśnienie pozanaturalne (religijne, filozoficzne)</p>
+<p>&#8211; Doświadczenie wynikające z tajemnicy losu człowieka i jego przeznaczenia (pochodzi od Boga),</p>
+<p>&#8211; Skutek wpływu złych duchów, demonów, szatana.</p>
+<p>Zaburzenie psychiczne jest nowym i trudnym doświadczeniem psychologicznym i egzystencjalnym, skłania zatem do poszukiwania także nowych wyjaśnień. Wyjaśnienie może mieć charakter:</p>
+<p>1) naturalny (własne koncepcje, choroba ciała, mózgu, przyczyny zewnętrzne, rodzina, miejsce pracy – w konsekwencji poszukiwanie lekarza, psychiatry, psychologa) lub</p>
+<p>2) pozanaturalny (odwołanie się do wiary, poglądów religijnych – poszukiwanie kapłana, spowiednika).</p>
+<p>&nbsp;</p>
+<h1>RELIGIJNY OBRAZ PATOLOGII</h1>
+<p>W schizofrenii paranoidalnej: słyszenie głosów, w tym głosu Boga, Matki Bożej, odbieranie myśli, przekazów, ale też głos szatana, bycie pod jego wpływem, nękanie przez szatana, poczucie opętania.</p>
+<p>W schizofrenii katatonicznej ponadto: „wizje”, przeżycia opisywane jako mistyczne, ekstatyczne, quasi-objawienia, ale też doznania budzące lęk, przerażenie.</p>
+<p>W przewlekłym zaburzeniu urojeniowym (paranoi): przekonanie  o ważnej misji powierzonej przez Boga, głoszenie poglądów z reguły niezgodnych z religią, na którą osoba się powołuje.</p>
+<p>Mogą być podejmowane działania zmierzające do pozyskania słuchaczy, uczniów, możliwość stania się przywódcą sekty.</p>
+<p>Poczucie winy, samooskarżanie się, typowe dla wielu postaci depresji, osiąga w depresji psychotycznej skrajne nasilenie objawiające się urojeniami grzeszności, winy, kary lub wiecznego potępienia.</p>
+<p>Osoba taka jest przekonana, że jej grzechy są nie do wybaczenia, nie zasługuje na Boże Miłosierdzie, że zostanie potępiona.</p>
+<p><strong>Mania psychotyczna</strong></p>
+<p>Bezkrytyczne poczucie bycia kimś wyjątkowym: osobą wybraną      w sposób szczególny przez Boga, posiadającą z Nim bezpośrednią łączność, bycie Synem Bożym, Matką Bożą, dostąpienie łaski cudownego poczęcia, np. jak biblijna Sara, słyszenie głosu Boga, potwierdzającego szczególne wybraństwo. Inne objawy stanu maniakalnego, takie jak: wybitnie podwyższony nastrój, nasilona i bezcelowa aktywność, wielomówność, ogólny bezkrytycyzm, lekceważenie społecznych konwencji, niekiedy drażliwość i zachowania agresywne, nie pozostawiają wątpliwości, co do patologicznej natury takich zachowań.</p>
+<p><strong>Zaburzenie obsesyjno-kompulsyjne.</strong></p>
+<p>Prawdopodobnie jedyne z zaburzeń niepsychotycznych, w którym treści religijne są dość częstą składową, szczególnie u osób wierzących. Pojawiają się tu niechciane, natrętnie powracające myśli czy wyobrażenia, odbierane jako własne, zawierające treści agresywne, wulgarne, lubieżne lub bluźniercze. Ich obecność wywołuje znaczne poczucie cierpienia, udręczenia, poczucie popełnienia ciężkiego grzechu i obawę przed nieuchronną karą. Natręctwa o wymienionych treściach mogą występować także w przebiegu depresji.</p>
+<p>Szczególną formą zaburzeń obsesyjnych może być skrupulantyzm. Osoba przeżywa ciągłe wątpliwości czy poprawnie odbyła spowiedź, czy nie zataiła grzechu. Może przejawiać się to uzupełnianiem podczas bieżącej spowiedzi nie wyznanymi w przeszłości, bez intencji zatajenia, grzechami rzeczywistymi lub domniemanymi. W cięższych przypadkach osoba w każdym rozwiązaniu problemu widzi grzech, jakby jakakolwiek korzystna dla niej okoliczność była czymś nagannym. Można w takiej postawie dopatrywać się przyczyn naturalnych (zaburzenie) lub pozanaturalnych (dręczenie przez demona).</p>
+<p><strong>Trans i opętanie</strong></p>
+<p>Jedno z tzw. zaburzeń dysocjacyjnych, dawniej zwanych nerwicą histeryczną. Osoba zachowuje się, czuje i komunikuje z otoczeniem w taki sposób, jakby była opętana, owładnięta przez złego ducha, czerpiąc wiedzę na ten temat z dostępnych jej źródeł. Brak tu oczywiście jakichkolwiek cech opętania demonicznego (posiadanie ukrytej wiedzy, posługiwanie się wieloma językami, często starożytnymi lub nieużywanymi dialektami), poza bezwiednym naśladowaniem tych przejawów opętania, które nie wymagają udziału czynników pozanaturalnych. Mimo to zdarza się, iż osoba z tym zaburzeniem jest kierowana do egzorcysty.</p>
+<p><strong>Majaczenie alkoholowe</strong></p>
+<p>Jedyna z psychoz alkoholowych zwana też majaczeniem drżennym (delirium tremens), w której nierzadkie są budzące lęk omamy wzrokowe i słuchowe, przedstawiające postaci diabelskie. Najczęściej jawią się jako istoty upersonifikowane, mające źródło w powszechnych wyobrażeniach lub ludowym folklorze.</p>
+<p><strong>Substancje psychoaktywne</strong></p>
+<p>Zależnie od rodzaju substancji o działaniu narkotycznym lub halucynogennym może wystąpić: poczucie jedności  z wszechświatem, zrozumienia „istoty rzeczy”, uczucie błogostanu, wizje Boga, aniołów, pozaziemskiej rzeczywistości, raju lub piekła. Substancje halucynogenne, pozyskiwane z roślin, używane były m.in. przez szamanów, dla uzyskiwania kontaktu ze sferą nadprzyrodzoną, w celu pozyskania ukrytej wiedzy czy nabycia niezwykłych umiejętności i służyły celom inicjacyjnym.</p>
+<p>&nbsp;</p>
+<p><strong>Samobójstwo</strong></p>
+<p>Definicja: Celowe zachowanie samodestrukcyjne prowadzące do śmierci biologicznej. Tragiczna konsekwencja stanu wewnętrznego lub zewnętrznego osoby, który jest przez nią oceniany jako niemożliwy do dalszego w nim trwania. Samobójstwo jako zanegowanie, odrzucenie największego daru, jakim jest życie, które pochodzi od Boga. W takim rozumieniu było (i jest) traktowane jako grzech (wyjątkowo) ciężki. Obserwacja i relacje ludzi, którzy doświadczyli pewnych „stanów granicznych” nakazuje sądzić, iż istnieją takie poziomy cierpienia, lęku lub zwątpienia, o których osoby ich nie doświadczające nie mogą właściwie nic wiedzieć.</p>
+<p>Wiadomo obecnie, że część samobójstw wynika z poważnych zaburzeń psychicznych, w znacznym stopniu ograniczających wolę. Trudno o całkiem jednoznaczną ocenę, czy istnieją samobójstwa całkowicie nie mające patologicznych przyczyn (jak tu definiować patologię, przy bardzo różnej odporności osób na cierpienie, czy subiektywnie istotny brak jakiejś wartości, czy niespełnienie ważnej potrzeby?). Decyzja o odebraniu sobie życia może mieć charakter: nieprzemyślanego impulsu (połknięcie tabletek nasennych po kłótni z rodzicami), zaplanowanego, ale jednorazowego aktu (skok z wysokości, albo powieszenie się podczas nieobecności rodziny w domu), konsekwentnego działania (zagłodzenie się).</p>
+<p>Najczęstsze przyczyny: Choroby psychiczne (depresja, schizofrenia, halucynoza alkoholowa, niektóre zaburzenia osobowości), Choroby somatyczne (przeżywanie bólu, kalectwa czy otrzymanie „wyroku” w przypadku rozpoznania śmiertelnej choroby), Sytuacje egzystencjalne (uwięzienie, tortury, samotność, porzucenie, bezdomność, brak środków do życia, brak nadziei na poprawę losu), Przyczyny ideologiczne (jako sprzeciw w obronie wartości, prawdy, innych osób – w tych sytuacjach nie należy mylić samobójstwa z poświęceniem).</p>
+<h1>POMOC DUCHOWA</h1>
+<p>Nie w każdym zaburzeniu psychicznym, w którym występują treści religijne, osoba szuka pomocy duchowej. Najczęściej ma to miejsce w:</p>
+<p>1) Depresji (poczucie winy, grzeszności, poszukiwanie pociechy, wsparcia, przebaczenia),</p>
+<p>2) Nerwicy natręctw (wątpliwości, czy obsesyjne bluźniercze myśli   i wyobrażenia są ciężkim grzechem, obawa, że jest się nękanym czy wręcz opętanym przez złego ducha),</p>
+<p>3) Schizofrenii (niekiedy) (raczej nie wątpliwości, lecz oczekiwanie potwierdzenia szczególnego kontaktu z Bogiem lub utwierdzenia w przekonaniu, że przeżycia nie są objawem choroby i nie jest potrzebne leczenie psychiatryczne),</p>
+<p>4) Uzależnieniach (doświadczenie własnej słabości, szukanie oparcia i siły w religijności, modlitwie, potrzeba nawrócenia).</p>
+<p>&nbsp;</p>
+<p>Osoby wierzące z zaburzeniami psychicznymi często szukają pomocy i wsparcia u kapłanów poprzez:</p>
+<p>1) Sakrament pokuty</p>
+<p>2) Wstąpienie do wspólnoty</p>
+<p>3) Indywidualną rozmowę z kapłanem</p>
+<p>Bywa, że kapłan bądź instytucja religijna stanowią dla osoby z zaburzeniami psychicznymi „ostatnią instancję”, u której szuka wyjaśnienia i pociechy. Właściwa pomoc duchowa może uwolnić osobę od patologicznego poczucia winy i nierzadko zapobiec poważnym konsekwencjom zaburzeń, np. samobójstwu.</p>
+<p>Kapłan może pomóc w uporządkowaniu przeżyć i wskazać, które z nich należy uznać za wynikające ze świadomych złych skłonności czy słabości (grzech), a które są niechciane, pojawiają się bez udziału woli lub wbrew niej (zaburzenie) i powinny być poddane leczeniu.</p>
+<p>Ważne jest, by nie pogłębiać poczucia winy, tam gdzie nie wynika ono z grzechu, z drugiej strony natomiast nie wzmacniać poczucia szczególnego doświadczenia religijnego, gdy istnieją wątpliwości, czy nie wynika ono z pychy lub zaburzenia psychicznego. Pamiętać należy, że treści religijne często, podobnie jak inne objawy w zaburzeniach psychicznych, czerpią z indywidualnego doświadczenia czy historii życia. Patologiczne poczucie winy pochodzić może z trudnych przeżyć rodzinnych, np. z wychowania opartego na ciągłym krytykowaniu i niezadowoleniu z dziecka, niemożności zadowolenia rodzica. Częste u katolików, doświadczających depresji czy nerwicy, wyobrażenie Boga, jako karzącego sędziego, pochodzić może ze wspomnienia własnego ojca, który był nieprzewidywalny, niezrozumiały, osądzający, budzący lęk.</p>
+<p>Wartościowa dla osób doświadczających dylematów religijnych w przebiegu zaburzeń psychicznych byłaby współpraca pomiędzy lekarzami a kapłanami, w udzielaniu im skutecznej pomocy.</p>
+<p><strong>Trudności</strong></p>
+<p>Dla lekarza – zbytnie oparcie się na intelekcie, naukowych wyjaśnieniach, niechęć uznania, iż nie wszystkie objawy czy odczucia pacjenta można zrozumieć jedynie w oparciu o mechanizmy biologiczne czy psychologiczne, że wsparcie duchowe, może być równie skuteczne jak przepisany lek,</p>
+<p>Dla kapłana – zgoda na to, że nie wszystko podlega naszej woli, że uwarunkowania psychologiczne, wynikające z trudnych doświadczeń w dzieciństwie lub zaburzonych związków z rodzicami mogą zawężać obszar wewnętrznej wolności i ograniczać zdolność świadomego kierowania własnymi decyzjami.</p>
+<p>&nbsp;</p>
+</div>
+</article>
+                                                                                                                                </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        
+        </div>
+    </div>
+</div>
+</div>
+
+                    
+                </div>
+                
+ 
+                                    <aside class="bd-sidebararea-1-column  bd-flex-vertical bd-flex-fixed">
+                    <div class="bd-sidebararea-1 bd-flex-wide  bd-contentlayout-offset">
+                        
+                        <div  class=" bd-primarywidgetarea-9 bd-no-margins clearfix" data-position="primary"><div class=" bd-block-3 bd-own-margins widget widget_search" data-block-id="search-5">
+        <div class=" bd-blockcontent bd-tagstyles bd-custom-bulletlist  shape-only">
+
+<form id="search-2" class=" bd-searchwidget-2 hidden-xs form-inline" method="get" name="searchform" action="https://www.ipri.pl/">
+    <div class="bd-container-inner">
+        <div class="bd-search-wrapper">
+            
+                <input name="s" type="text" class=" bd-bootstrapinput-2 form-control" value="" placeholder="Szukaj">
+                <a href="#" class="bd-icon-6 bd-icon " onclick="jQuery(this).closest('form').submit(); return false;"></a>
+        </div>
+    </div>
+    </form></div>
+</div>
+    <div class=" bd-block-3 bd-own-margins widget widget_recent_entries" data-block-id="recent-posts-2">
+        
+    <div class=" bd-blockheader bd-tagstyles">
+        <h4>Aktualności</h4>
+    </div>
+    
+    <div class=" bd-blockcontent bd-tagstyles bd-custom-bulletlist ">
+
+		
+		
+		<ul>
+											<li>
+					<a href="https://www.ipri.pl/commercial-eeg-in-meditation-spirituality-and-religion/">Commercial EEG in meditation, spirituality and religion</a>
+									</li>
+											<li>
+					<a href="https://www.ipri.pl/mindfulness-u-charyzmatykow/">Mindfulness u charyzmatyków</a>
+									</li>
+											<li>
+					<a href="https://www.ipri.pl/mindfulness-u-karmelitow/">Mindfulness u Karmelitów</a>
+									</li>
+											<li>
+					<a href="https://www.ipri.pl/mindfulness-na-uniwersytecie-papieskim-upjp2/">Mindfulness na Uniwersytecie Papieskim UPJP2</a>
+									</li>
+											<li>
+					<a href="https://www.ipri.pl/mindfulness-na-uniwersytecie-jagiellonskim/">Mindfulness na Uniwersytecie Jagiellońskim</a>
+									</li>
+											<li>
+					<a href="https://www.ipri.pl/mindfulness-a-chrzescijanstwo/">Mindfulness a chrześcijaństwo</a>
+									</li>
+											<li>
+					<a href="https://www.ipri.pl/medytacja-a-religia-ksiadz-dr-stanislaw-radon-obala-mity/">Medytacja a religia</a>
+									</li>
+											<li>
+					<a href="https://www.ipri.pl/medytacja-to-zlo-rozproszenia-joga-buddyzm-opetanie/">Medytacja to zło? Rozproszenia, joga, buddyzm, opętanie</a>
+									</li>
+											<li>
+					<a href="https://www.ipri.pl/mindfulness-w-psychozie-i-schizofrenii-krakow/">Mindfulness w psychozie i schizofrenii (Kraków)</a>
+									</li>
+											<li>
+					<a href="https://www.ipri.pl/modlitwa-i-medytacja-w-ujeciu-interkulturowym/">Modlitwa i medytacja w ujęciu interkulturowym</a>
+									</li>
+					</ul>
+
+		</div>
+</div></div>                        
+                    </div>
+                </aside>
+                                </div>
+            
+        </div>
+
+    </div>
+</div></div>
+	
+		<footer class=" bd-footerarea-1">
+            <section class=" bd-section-2 bd-tagstyles" id="section4" data-section-title="Three Columns">
+    <div class="bd-container-inner bd-margins clearfix">
+        <div class=" bd-layoutcontainer-16 bd-columns bd-no-margins">
+    <div class="bd-container-inner">
+        <div class="container-fluid">
+            <div class="row 
+ bd-row-flex 
+ bd-row-align-middle">
+                <div class=" bd-columnwrapper-73 
+ col-md-6
+ col-sm-6">
+    <div class="bd-layoutcolumn-73 bd-column" ><div class="bd-vertical-align-wrapper"><p class=" bd-textblock-37 bd-content-element">
+    <span style="line-height: 17.1429px; text-align: center;">Copyright © 2012-2019.&nbsp;</span><span style="line-height: 17.1429px; text-align: center;">Instytut Psychoterapii Integralnej, Kraków</span></p></div></div>
+</div>
+	
+		<div class=" bd-columnwrapper-77 
+ col-md-6
+ col-sm-6">
+    <div class="bd-layoutcolumn-77 bd-column" ><div class="bd-vertical-align-wrapper"><div class=" bd-socialicons-2">
+    
+        <a target="_blank" class=" bd-socialicon-5 bd-socialicon" href="//www.facebook.com/sharer.php?u=www.facebook.com%2FIPRI-544279338917295">
+    <span class="bd-icon"></span><span></span>
+</a>
+    
+        <a target="_blank" class=" bd-socialicon-6 bd-socialicon" href="//twitter.com/share?url=https%3A%2F%2Ftwitter.com%2FMindfulness_KR&amp;text=">
+    <span class="bd-icon"></span><span></span>
+</a>
+    
+        <a target="_blank" class=" bd-socialicon-7 bd-socialicon" href="//plus.google.com/share?url=">
+    <span class="bd-icon"></span><span></span>
+</a>
+    
+        <a target="_blank" class=" bd-socialicon-8 bd-socialicon" href="//pinterest.com/pin/create/button/?url=&amp;media=&amp;description=">
+    <span class="bd-icon"></span><span></span>
+</a>
+    
+    
+    
+    
+    
+    
+</div></div></div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+	
+		
+    </div>
+</section>
+    </footer>
+	
+		<div data-smooth-scroll data-animation-time="250" class=" bd-smoothscroll-3"><a href="#" class=" bd-backtotop-1 ">
+    <span class="bd-icon-67 bd-icon "></span>
+</a></div>
+<div id="wp-footer">
+    <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/ipiri\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" id="wphb-lazy-load-js-extra">
+/* <![CDATA[ */
+var wphbGlobal = {"ajaxurl":"https:\/\/www.ipri.pl\/wp-admin\/admin-ajax.php","commentForm":"","preloadComment":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ipri.pl/wp-content/plugins/hummingbird-performance/admin/assets/js/wphb-lazy-load.min.js" id="wphb-lazy-load-js"></script>
+<script type="text/javascript" src="https://www.ipri.pl/wp-includes/js/comment-reply.min.js" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+
+		<!-- Cookie Notice plugin v2.5.7 by Hu-manity.co https://hu-manity.co/ -->
+		<div id="cookie-notice" role="dialog" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(255,255,255,1);"><div class="cookie-notice-container" style="color: #555555"><span id="cn-notice-text" class="cn-text-container">Na stronach internetowych IPI stosowane są pliki "cookies" zgodnie z <a href="https://www.ipri.pl/polityka-plikow-cookies/" target="_blank" id="cn-more-info" class="cn-privacy-policy-link cn-link">Polityką prywatności</a></span><span id="cn-notice-buttons" class="cn-buttons-container"><button id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button" aria-label="Zgoda" style="background-color: #fcae3a">Zgoda</button><button id="cn-refuse-cookie" data-cookie-set="refuse" class="cn-set-cookie cn-button" aria-label="Nie wyrażam zgody" style="background-color: #fcae3a">Nie wyrażam zgody</button></span><span id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" title="Nie wyrażam zgody"></span></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin -->    <!-- 242 queries. 0,704 seconds. -->
+</div>
+</body>
+</html><!-- Hummingbird cache file was created in 0.152184009552 seconds, on 12-12-25 1:21:59 -->

@@ -1,0 +1,2404 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 03 Jan 2026 16:44:15 GMT
+content-type: text/html; charset=UTF-8
+last-modified: Mon, 01 Dec 2025 09:10:39 GMT
+age: 0
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+accept-ranges: bytes
+
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+<meta charset="UTF-8" />
+<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+<meta http-equiv='X-UA-Compatible' content='IE=edge' />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+<!-- This site is optimized with the Yoast SEO plugin v26.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Tous les péchés ne sont pas équivalents  - YOUCAT</title>
+<link rel="canonical" href="https://youcat.org/fr/credopedia/tous-les-peches-ne-sont-pas-equivalents/" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Tous les péchés ne sont pas équivalents  - YOUCAT" />
+<meta property="og:url" content="https://youcat.org/fr/credopedia/tous-les-peches-ne-sont-pas-equivalents/" />
+<meta property="og:site_name" content="YOUCAT" />
+<meta property="article:modified_time" content="2024-07-26T09:35:21+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<script type="application/ld+json" class="yoast-schema-graph">{
+"@context": "https:\/\/schema.org",
+"@graph": [
+{
+"@type": "WebPage",
+"@id": "https:\/\/youcat.org\/credopedia\/not-all-sins-are-the-same\/",
+"url": "https:\/\/youcat.org\/credopedia\/not-all-sins-are-the-same\/",
+"name": "Tous les p\u00e9ch\u00e9s ne sont pas \u00e9quivalents\u00a0 - YOUCAT",
+"isPartOf": {
+"@id": "https:\/\/youcat.org\/#website"
+},
+"datePublished": "2024-07-24T12:21:06+00:00",
+"dateModified": "2024-07-26T09:35:21+00:00",
+"breadcrumb": {
+"@id": "https:\/\/youcat.org\/credopedia\/not-all-sins-are-the-same\/#breadcrumb"
+},
+"inLanguage": "fr-FR",
+"potentialAction": [
+{
+"@type": "ReadAction",
+"target": [
+"https:\/\/youcat.org\/credopedia\/not-all-sins-are-the-same\/"
+]
+}
+]
+},
+{
+"@type": "BreadcrumbList",
+"@id": "https:\/\/youcat.org\/credopedia\/not-all-sins-are-the-same\/#breadcrumb",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"name": "",
+"item": "https:\/\/youcat.org\/"
+},
+{
+"@type": "ListItem",
+"position": 2,
+"name": "Credopedia",
+"item": "https:\/\/youcat.org\/credopedia\/"
+},
+{
+"@type": "ListItem",
+"position": 3,
+"name": "Tous les p\u00e9ch\u00e9s ne sont pas \u00e9quivalents\u00a0"
+}
+]
+},
+{
+"@type": "WebSite",
+"@id": "https:\/\/youcat.org\/#website",
+"url": "https:\/\/youcat.org\/",
+"name": "YOUCAT",
+"description": "Der Glaube der katholischen Kirche : anschaulich erkl\u00e4rt, innovativ pr\u00e4sentiert, offiziell best\u00e4tigt.",
+"potentialAction": [
+{
+"@type": "SearchAction",
+"target": {
+"@type": "EntryPoint",
+"urlTemplate": "https:\/\/youcat.org\/?s={search_term_string}"
+},
+"query-input": {
+"@type": "PropertyValueSpecification",
+"valueRequired": true,
+"valueName": "search_term_string"
+}
+}
+],
+"inLanguage": "fr-FR"
+}
+]
+}</script>
+<!-- / Yoast SEO plugin. -->
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//hcaptcha.com' />
+<link rel="alternate" type="application/rss+xml" title="YOUCAT &raquo; Flux" href="https://youcat.org/fr/feed/" />
+<link rel="preload" href="https://youcat.org/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://youcat.org/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<!-- <link rel='stylesheet' id='wp-block-library-css' href='https://youcat.org/wp-includes/css/dist/block-library/style.min.css?ver=5cfc03e06974548dec847c577d0e97a3' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//youcat.org/wp-content/cache/wpfc-minified/6yprm9k1/a8d4k.css" media="all"/>
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<!-- <link rel='stylesheet' id='activecampaign-form-block-css' href='https://youcat.org/wp-content/plugins/activecampaign-subscription-forms/activecampaign-form-block/build/style-index.css?ver=1764577700' media='all' /> -->
+<!-- <link rel='stylesheet' id='mediaelement-css' href='https://youcat.org/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-mediaelement-css' href='https://youcat.org/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5cfc03e06974548dec847c577d0e97a3' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//youcat.org/wp-content/cache/wpfc-minified/12uexwjp/a8d4k.css" media="all"/>
+<style id='jetpack-sharing-buttons-style-inline-css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id='filebird-block-filebird-gallery-style-inline-css'>
+ul.filebird-block-filebird-gallery{margin:auto!important;padding:0!important;width:100%}ul.filebird-block-filebird-gallery.layout-grid{display:grid;grid-gap:20px;align-items:stretch;grid-template-columns:repeat(var(--columns),1fr);justify-items:stretch}ul.filebird-block-filebird-gallery.layout-grid li img{border:1px solid #ccc;box-shadow:2px 2px 6px 0 rgba(0,0,0,.3);height:100%;max-width:100%;-o-object-fit:cover;object-fit:cover;width:100%}ul.filebird-block-filebird-gallery.layout-masonry{-moz-column-count:var(--columns);-moz-column-gap:var(--space);column-gap:var(--space);-moz-column-width:var(--min-width);columns:var(--min-width) var(--columns);display:block;overflow:auto}ul.filebird-block-filebird-gallery.layout-masonry li{margin-bottom:var(--space)}ul.filebird-block-filebird-gallery li{list-style:none}ul.filebird-block-filebird-gallery li figure{height:100%;margin:0;padding:0;position:relative;width:100%}ul.filebird-block-filebird-gallery li figure figcaption{background:linear-gradient(0deg,rgba(0,0,0,.7),rgba(0,0,0,.3) 70%,transparent);bottom:0;box-sizing:border-box;color:#fff;font-size:.8em;margin:0;max-height:100%;overflow:auto;padding:3em .77em .7em;position:absolute;text-align:center;width:100%;z-index:2}ul.filebird-block-filebird-gallery li figure figcaption a{color:inherit}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--fl-heading-text: #1c1c1c;--wp--preset--color--fl-body-bg: #ffffff;--wp--preset--color--fl-body-text: #1c1c1c;--wp--preset--color--fl-accent: #f5ce3e;--wp--preset--color--fl-accent-hover: #edc01b;--wp--preset--color--fl-topbar-bg: #ffffff;--wp--preset--color--fl-topbar-text: #000000;--wp--preset--color--fl-topbar-link: #428bca;--wp--preset--color--fl-topbar-hover: #428bca;--wp--preset--color--fl-header-bg: #ffffff;--wp--preset--color--fl-header-text: #000000;--wp--preset--color--fl-header-link: #428bca;--wp--preset--color--fl-header-hover: #428bca;--wp--preset--color--fl-nav-bg: #ffffff;--wp--preset--color--fl-nav-link: #428bca;--wp--preset--color--fl-nav-hover: #428bca;--wp--preset--color--fl-content-bg: #ffffff;--wp--preset--color--fl-footer-widgets-bg: #ffffff;--wp--preset--color--fl-footer-widgets-text: #000000;--wp--preset--color--fl-footer-widgets-link: #428bca;--wp--preset--color--fl-footer-widgets-hover: #428bca;--wp--preset--color--fl-footer-bg: #ffffff;--wp--preset--color--fl-footer-text: #000000;--wp--preset--color--fl-footer-link: #428bca;--wp--preset--color--fl-footer-hover: #428bca;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<!-- <link rel='stylesheet' id='trp-language-switcher-style-css' href='https://youcat.org/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css?ver=3.0.5' media='all' /> -->
+<!-- <link rel='stylesheet' id='font-awesome-5-css' href='https://youcat.org/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/css/all.min.css?ver=2.9.4.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='icon-1705059269-css' href='https://youcat.org/wp-content/uploads/bb-plugin/icons/icon-1705059269/style.css?ver=2.9.4.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='dashicons-css' href='https://youcat.org/wp-includes/css/dashicons.min.css?ver=5cfc03e06974548dec847c577d0e97a3' media='all' /> -->
+<!-- <link rel='stylesheet' id='fl-builder-layout-bundle-d4789913969507fdca60fa769a1ff520-css' href='https://youcat.org/wp-content/uploads/bb-plugin/cache/d4789913969507fdca60fa769a1ff520-layout-bundle.css?ver=2.9.4.1-1.5.2.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='borlabs-cookie-css' href='https://youcat.org/wp-content/cache/borlabs-cookie/borlabs-cookie_1_en.css?ver=2.3.5-183' media='all' /> -->
+<!-- <link rel='stylesheet' id='jquery-magnificpopup-css' href='https://youcat.org/wp-content/plugins/bb-plugin/css/jquery.magnificpopup.min.css?ver=2.9.4.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='bootstrap-4-css' href='https://youcat.org/wp-content/themes/bb-theme/css/bootstrap-4.min.css?ver=1.7.19' media='all' /> -->
+<!-- <link rel='stylesheet' id='fl-automator-skin-css' href='https://youcat.org/wp-content/uploads/bb-theme/skin-6909d192721b8.css?ver=1.7.19' media='all' /> -->
+<!-- <link rel='stylesheet' id='fl-child-theme-css' href='https://youcat.org/wp-content/themes/bb-theme-child/style.css?ver=5cfc03e06974548dec847c577d0e97a3' media='all' /> -->
+<!-- <link rel='stylesheet' id='scorg-style-header-1497-css' href='https://youcat.org/wp-content/uploads/scripts-organizer/css/1497-header-compiled.css?ver=1755582117' media='all' /> -->
+<!-- <link rel='stylesheet' id='scorg-style-header-1949-css' href='https://youcat.org/wp-content/uploads/scripts-organizer/css/1949-header-compiled.css?ver=1755582104' media='all' /> -->
+<!-- <link rel='stylesheet' id='scorg-style-header-1742-css' href='https://youcat.org/wp-content/uploads/scripts-organizer/css/1742-header-compiled.css?ver=1755582105' media='all' /> -->
+<!-- <link rel='stylesheet' id='scorg-style-header-1072-css' href='https://youcat.org/wp-content/uploads/scripts-organizer/css/1072-header-compiled.css?ver=1755581909' media='all' /> -->
+<!-- <link rel='stylesheet' id='scorg-style-header-2735-css' href='https://youcat.org/wp-content/uploads/scripts-organizer/css/2735-header-compiled.css?ver=1755582111' media='all' /> -->
+<!-- <link rel='stylesheet' id='scorg-style-header-811-css' href='https://youcat.org/wp-content/uploads/scripts-organizer/css/811-header-compiled.css?ver=1755581993' media='all' /> -->
+<!-- <link rel='stylesheet' id='scorg-style-header-875-css' href='https://youcat.org/wp-content/uploads/scripts-organizer/css/875-header-compiled.css?ver=1755581991' media='all' /> -->
+<!-- <link rel='stylesheet' id='scorg-style-header-806-css' href='https://youcat.org/wp-content/uploads/scripts-organizer/css/806-header-compiled.css?ver=1755581979' media='all' /> -->
+<!-- <link rel='stylesheet' id='pp-animate-css' href='https://youcat.org/wp-content/plugins/bbpowerpack/assets/css/animate.min.css?ver=3.5.1' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//youcat.org/wp-content/cache/wpfc-minified/2m8bnv0y/a8d58.css" media="all"/>
+<script src='//youcat.org/wp-content/cache/wpfc-minified/g2ppx2y9/a8d4k.js' type="text/javascript"></script>
+<!-- <script src="https://youcat.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script> -->
+<!-- <script src="https://youcat.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script> -->
+<!-- <script src="https://youcat.org/wp-content/plugins/svg-support/vendor/DOMPurify/DOMPurify.min.js?ver=2.5.8" id="bodhi-dompurify-library-js"></script> -->
+<script id="bodhi_svg_inline-js-extra">
+var svgSettings = {"skipNested":""};
+</script>
+<script src='//youcat.org/wp-content/cache/wpfc-minified/kb4b5h6j/a8d4k.js' type="text/javascript"></script>
+<!-- <script src="https://youcat.org/wp-content/plugins/svg-support/js/min/svgs-inline-min.js" id="bodhi_svg_inline-js"></script> -->
+<script id="bodhi_svg_inline-js-after">
+cssTarget={"Bodhi":"img.style-svg","ForceInlineSVG":"style-svg"};ForceInlineSVGActive="true";frontSanitizationEnabled="on";
+</script>
+<script id="borlabs-cookie-prioritize-js-extra">
+var borlabsCookiePrioritized = {"domain":"youcat.org","path":"\/","version":"1","bots":"1","optInJS":{"statistics":{"google-analytics":"PHNjcmlwdD4NCndpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdOw0KaWYgKHR5cGVvZiBndGFnICE9PSAnZnVuY3Rpb24nKSB7IGZ1bmN0aW9uIGd0YWcoKXtkYXRhTGF5ZXIucHVzaChhcmd1bWVudHMpO30gfQ0KaWYoJzAnID09PSAnMScpIHsNCglndGFnKCdjb25zZW50JywgJ3VwZGF0ZScsIHsnYW5hbHl0aWNzX3N0b3JhZ2UnOiAnZ3JhbnRlZCd9KTsNCn0gZWxzZSB7DQogICAgKGZ1bmN0aW9uICh3LCBkLCBzLCBpKSB7DQogICAgdmFyIGYgPSBkLmdldEVsZW1lbnRzQnlUYWdOYW1lKHMpWzBdLA0KICAgICAgICBqID0gZC5jcmVhdGVFbGVtZW50KHMpOw0KICAgIGouYXN5bmMgPSB0cnVlOw0KICAgIGouc3JjID0NCiAgICAgICAgImh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL2d0YWcvanM\/aWQ9IiArIGk7DQogICAgZi5wYXJlbnROb2RlLmluc2VydEJlZm9yZShqLCBmKTsNCiAgICB9KSh3aW5kb3csIGRvY3VtZW50LCAic2NyaXB0IiwgIkctUFRGTlhERUZXMiIpOw0KDQogICAgZ3RhZygianMiLCBuZXcgRGF0ZSgpKTsNCiAgICBndGFnKCJjb25maWciLCAiRy1QVEZOWERFRlcyIiwgeyAiYW5vbnltaXplX2lwIjogdHJ1ZSB9KTsNCn0NCjwvc2NyaXB0Pg=="}}};
+</script>
+<script src='//youcat.org/wp-content/cache/wpfc-minified/88hk50pl/a8d4k.js' type="text/javascript"></script>
+<!-- <script src="https://youcat.org/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.3.5" id="borlabs-cookie-prioritize-js"></script> -->
+<link rel="https://api.w.org/" href="https://youcat.org/fr/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://youcat.org/fr/wp-json/wp/v2/credopedia/4869" /><link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://youcat.org/fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fyoucat.org%2Ffr%2Fcredopedia%2Ftous-les-peches-ne-sont-pas-equivalents%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://youcat.org/fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fyoucat.org%2Ffr%2Fcredopedia%2Ftous-les-peches-ne-sont-pas-equivalents%2F&#038;format=xml" />
+<script>
+var bb_powerpack = {
+version: '2.40.9',
+getAjaxUrl: function() { return atob( 'aHR0cHM6Ly95b3VjYXQub3JnL3dwLWFkbWluL2FkbWluLWFqYXgucGhw' ); },
+callback: function() {},
+mapMarkerData: {},
+post_id: '4869',
+search_term: '',
+current_page: 'https://youcat.org/fr/fr/credopedia/not-all-sins-are-the-same/',
+conditionals: {
+is_front_page: false,
+is_home: false,
+is_archive: false,
+current_post_type: '',
+is_tax: false,
+is_author: false,
+current_author: false,
+is_search: false,
+}
+};
+</script>
+<style>
+.h-captcha{position:relative;display:block;margin-bottom:2rem;padding:0;clear:both}.h-captcha[data-size="normal"]{width:302px;height:76px}.h-captcha[data-size="compact"]{width:158px;height:138px}.h-captcha[data-size="invisible"]{display:none}.h-captcha iframe{z-index:1}.h-captcha::before{content:"";display:block;position:absolute;top:0;left:0;background:url(https://youcat.org/wp-content/plugins/hcaptcha-for-forms-and-more/assets/images/hcaptcha-div-logo.svg) no-repeat;border:1px solid #fff0;border-radius:4px;box-sizing:border-box}.h-captcha::after{content:"The hCaptcha loading is delayed until user interaction.";font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,"Helvetica Neue",Arial,sans-serif;font-size:10px;font-weight:500;position:absolute;top:0;bottom:0;left:0;right:0;box-sizing:border-box;color:#bf1722;opacity:0}.h-captcha:not(:has(iframe))::after{animation:hcap-msg-fade-in .3s ease forwards;animation-delay:2s}.h-captcha:has(iframe)::after{animation:none;opacity:0}@keyframes hcap-msg-fade-in{to{opacity:1}}.h-captcha[data-size="normal"]::before{width:302px;height:76px;background-position:93.8% 28%}.h-captcha[data-size="normal"]::after{width:302px;height:76px;display:flex;flex-wrap:wrap;align-content:center;line-height:normal;padding:0 75px 0 10px}.h-captcha[data-size="compact"]::before{width:158px;height:138px;background-position:49.9% 78.8%}.h-captcha[data-size="compact"]::after{width:158px;height:138px;text-align:center;line-height:normal;padding:24px 10px 10px 10px}.h-captcha[data-theme="light"]::before,body.is-light-theme .h-captcha[data-theme="auto"]::before,.h-captcha[data-theme="auto"]::before{background-color:#fafafa;border:1px solid #e0e0e0}.h-captcha[data-theme="dark"]::before,body.is-dark-theme .h-captcha[data-theme="auto"]::before,html.wp-dark-mode-active .h-captcha[data-theme="auto"]::before,html.drdt-dark-mode .h-captcha[data-theme="auto"]::before{background-image:url(https://youcat.org/wp-content/plugins/hcaptcha-for-forms-and-more/assets/images/hcaptcha-div-logo-white.svg);background-repeat:no-repeat;background-color:#333;border:1px solid #f5f5f5}@media (prefers-color-scheme:dark){.h-captcha[data-theme="auto"]::before{background-image:url(https://youcat.org/wp-content/plugins/hcaptcha-for-forms-and-more/assets/images/hcaptcha-div-logo-white.svg);background-repeat:no-repeat;background-color:#333;border:1px solid #f5f5f5}}.h-captcha[data-theme="custom"]::before{background-color:initial}.h-captcha[data-size="invisible"]::before,.h-captcha[data-size="invisible"]::after{display:none}.h-captcha iframe{position:relative}div[style*="z-index: 2147483647"] div[style*="border-width: 11px"][style*="position: absolute"][style*="pointer-events: none"]{border-style:none}
+</style>
+<link rel="alternate" hreflang="en-US" href="https://youcat.org/credopedia/not-all-sins-are-the-same/"/>
+<link rel="alternate" hreflang="de-DE" href="https://youcat.org/de/credopedia/suende-ist-nicht-gleich-suende/"/>
+<link rel="alternate" hreflang="fr-FR" href="https://youcat.org/fr/credopedia/tous-les-peches-ne-sont-pas-equivalents/"/>
+<link rel="alternate" hreflang="pl-PL" href="https://youcat.org/pl/credopedia/not-all-sins-are-the-same/"/>
+<link rel="alternate" hreflang="es-ES" href="https://youcat.org/es/credopedia/no-todo-pecado-es-igual/"/>
+<link rel="alternate" hreflang="pt-PT" href="https://youcat.org/pt/credopedia/nem-todos-os-pecado-sao-iguais/"/>
+<link rel="alternate" hreflang="en" href="https://youcat.org/credopedia/not-all-sins-are-the-same/"/>
+<link rel="alternate" hreflang="de" href="https://youcat.org/de/credopedia/suende-ist-nicht-gleich-suende/"/>
+<link rel="alternate" hreflang="fr" href="https://youcat.org/fr/credopedia/tous-les-peches-ne-sont-pas-equivalents/"/>
+<link rel="alternate" hreflang="pl" href="https://youcat.org/pl/credopedia/not-all-sins-are-the-same/"/>
+<link rel="alternate" hreflang="es" href="https://youcat.org/es/credopedia/no-todo-pecado-es-igual/"/>
+<link rel="alternate" hreflang="pt" href="https://youcat.org/pt/credopedia/nem-todos-os-pecado-sao-iguais/"/>
+<style>img#wpstats{display:none}</style>
+<script>
+window.dataLayer = window.dataLayer || [];
+if (typeof gtag !== 'function') { function gtag(){dataLayer.push(arguments);} }
+if('0' === '1') {
+gtag('consent', 'default', {
+'ad_storage': 'denied',
+'analytics_storage': 'denied'
+});
+gtag("js", new Date());
+gtag("config", "G-PTFNXDEFW2", { "anonymize_ip": true });
+(function (w, d, s, i) {
+var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s);
+j.async = true;
+j.src =
+"https://www.googletagmanager.com/gtag/js?id=" + i;
+f.parentNode.insertBefore(j, f);
+})(window, document, "script", "G-PTFNXDEFW2");
+}
+</script><style>
+div.wpforms-container-full .wpforms-form .h-captcha{position:relative;display:block;margin-bottom:0;padding:0;clear:both}div.wpforms-container-full .wpforms-form .h-captcha[data-size="normal"]{width:302px;height:76px}div.wpforms-container-full .wpforms-form .h-captcha[data-size="compact"]{width:158px;height:138px}div.wpforms-container-full .wpforms-form .h-captcha[data-size="invisible"]{display:none}div.wpforms-container-full .wpforms-form .h-captcha iframe{position:relative}
+</style>
+<link rel="icon" href="https://youcat.org/wp-content/uploads/2023/07/YOUCAT-Logo-fav.svg" sizes="32x32" />
+<link rel="icon" href="https://youcat.org/wp-content/uploads/2023/07/YOUCAT-Logo-fav.svg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://youcat.org/wp-content/uploads/2023/07/YOUCAT-Logo-fav.svg" />
+<meta name="msapplication-TileImage" content="https://youcat.org/wp-content/uploads/2023/07/YOUCAT-Logo-fav.svg" />
+<style id="scorg-style-header-scss-4259">html {
+font-size: 10px;
+}
+@media (min-width: 1920px) {
+html {
+font-size: 0.5208333333vw;
+}
+}
+:root {
+--primary-018: #FFF5DD;
+--primary-035: #FFEDBE;
+--primary-070: #FCDC7D;
+--primary: #F5CE3E;
+--primary-200: #EDC01B;
+--primary-300: #E0B010;
+}
+#yc-newsletter-modal.yc-newsletter-signup {
+background-color: rgba(0, 0, 0, 0.7);
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+height: 100vh;
+}
+#yc-newsletter-modal.yc-newsletter-signup.hidden {
+display: none;
+}
+#yc-newsletter-modal.yc-newsletter-signup .fl-row-content {
+display: grid;
+grid-template-columns: 50% 44%;
+}
+@media (min-width: 1801px) {
+#yc-newsletter-modal.yc-newsletter-signup .fl-row-content {
+grid-template-columns: 1fr 50rem;
+}
+}
+#yc-newsletter-modal.yc-newsletter-signup .fl-row-content::before, #yc-newsletter-modal.yc-newsletter-signup .fl-row-content::after {
+display: none;
+}
+#yc-newsletter-modal.yc-newsletter-signup .fl-row-content .fl-col-group:nth-of-type(1),
+#yc-newsletter-modal.yc-newsletter-signup .fl-row-content .fl-col-group:nth-of-type(2) {
+background-color: #fff;
+padding: 3.2rem;
+}
+#yc-newsletter-modal.yc-newsletter-signup .fl-row-content .fl-col-group:nth-of-type(1) {
+border-radius: 2.4rem 0 0 2.4rem;
+padding-right: 7rem;
+}
+#yc-newsletter-modal.yc-newsletter-signup .fl-row-content .fl-col-group:nth-of-type(2) {
+border-radius: 0 2.4rem 2.4rem 0;
+padding-left: 0;
+}
+#yc-newsletter-modal.yc-newsletter-signup .fl-row-content-wrap {
+height: 100%;
+align-items: center;
+}
+@media (min-width: 1801px) {
+#yc-newsletter-modal.yc-newsletter-signup .fl-row-content-wrap .fl-post-grid,
+#yc-newsletter-modal.yc-newsletter-signup .fl-row-content-wrap .fl-module-button {
+padding: 0;
+}
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-close-modal {
+position: absolute;
+top: 1.6rem;
+right: 3.2rem;
+width: 3.2rem;
+height: 3.2rem;
+border-radius: 100%;
+background-color: rgba(255, 255, 255, 0.5);
+cursor: pointer;
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-close-modal i {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 3.2rem;
+height: 3.2rem;
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-close-modal i::before {
+font-size: 2.4rem;
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column {
+background-color: transparent;
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column ul {
+padding-left: 1.6rem;
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column ul li {
+font-size: 1.8rem;
+line-height: 1.3em;
+margin-top: 1.5rem;
+padding-left: 0.8rem;
+}
+@media (min-width: 992px) {
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column ul li {
+padding-left: 1.2rem;
+}
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column ul li::marker {
+content: "\e908";
+font-family: "youcat-icons";
+font-size: 1.6rem;
+color: #F5CE3E;
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column h2 {
+text-align: left;
+font-size: 2.8rem;
+}
+@media (min-width: 768px) {
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column h2 {
+font-size: 4.4rem;
+margin-bottom: 1.6rem;
+}
+}
+@media (min-width: 1200px) {
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column h2 {
+font-size: 5.6rem;
+}
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column p:first-of-type strong {
+font-size: 1.6rem;
+}
+@media (min-width: 768px) {
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column p:first-of-type strong {
+font-size: 2rem;
+}
+}
+@media (min-width: 1200px) {
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column p:first-of-type strong {
+font-size: 2.4rem;
+}
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column p:last-of-type {
+font-size: 1.6rem;
+}
+@media (min-width: 1200px) {
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column p:last-of-type {
+font-size: 1.8rem;
+}
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column ul {
+padding-block: 1.6rem;
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column ul li {
+font-size: 1.6rem;
+}
+@media (min-width: 1200px) {
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column ul li {
+font-size: 1.8rem;
+}
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column ul li:first-of-type {
+margin-top: 0;
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column ul li::marker {
+font-size: 1.4rem;
+}
+@media (min-width: 1200px) {
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column ul li::marker {
+font-size: 1.6rem;
+}
+}
+@media (min-width: 992px) {
+#yc-newsletter-modal.yc-newsletter-signup #yc-left-column {
+padding: 3.2rem;
+}
+}
+#yc-newsletter-modal.yc-newsletter-signup #yc-right-column {
+border-radius: 0.6rem;
+background: #F5CE3E;
+padding: 2.4rem;
+margin-top: 2.4rem;
+}
+@media (min-width: 768px) {
+#yc-newsletter-modal.yc-newsletter-signup #yc-right-column {
+border-radius: 1.2rem;
+}
+}
+@media (min-width: 992px) {
+#yc-newsletter-modal.yc-newsletter-signup #yc-right-column {
+padding: 3.2rem;
+margin-top: 0;
+}
+}
+#yc-newsletter-modal.yc-newsletter-signup h2 {
+text-align: center;
+color: #1c1c1c;
+}
+#yc-newsletter-modal.yc-newsletter-signup input[type=text], #yc-newsletter-modal.yc-newsletter-signup input[type=password], #yc-newsletter-modal.yc-newsletter-signup input[type=email], #yc-newsletter-modal.yc-newsletter-signup input[type=tel], #yc-newsletter-modal.yc-newsletter-signup input[type=date], #yc-newsletter-modal.yc-newsletter-signup input[type=month], #yc-newsletter-modal.yc-newsletter-signup input[type=week], #yc-newsletter-modal.yc-newsletter-signup input[type=time], #yc-newsletter-modal.yc-newsletter-signup input[type=number], #yc-newsletter-modal.yc-newsletter-signup input[type=search], #yc-newsletter-modal.yc-newsletter-signup input[type=url], #yc-newsletter-modal.yc-newsletter-signup textarea,
+#yc-newsletter-modal.yc-newsletter-signup .mc-select {
+border-radius: 0.4rem;
+background: white;
+margin-top: 1.6rem;
+padding: 1.4rem;
+border: none;
+width: 100%;
+font-size: 1.6rem;
+color: #1c1c1c;
+}
+@media (min-width: 992px) {
+#yc-newsletter-modal.yc-newsletter-signup input[type=text], #yc-newsletter-modal.yc-newsletter-signup input[type=password], #yc-newsletter-modal.yc-newsletter-signup input[type=email], #yc-newsletter-modal.yc-newsletter-signup input[type=tel], #yc-newsletter-modal.yc-newsletter-signup input[type=date], #yc-newsletter-modal.yc-newsletter-signup input[type=month], #yc-newsletter-modal.yc-newsletter-signup input[type=week], #yc-newsletter-modal.yc-newsletter-signup input[type=time], #yc-newsletter-modal.yc-newsletter-signup input[type=number], #yc-newsletter-modal.yc-newsletter-signup input[type=search], #yc-newsletter-modal.yc-newsletter-signup input[type=url], #yc-newsletter-modal.yc-newsletter-signup textarea,
+#yc-newsletter-modal.yc-newsletter-signup .mc-select {
+padding: 1.8rem;
+font-size: 1.8rem;
+}
+}
+#yc-newsletter-modal.yc-newsletter-signup label.checkbox.subfield {
+font-size: 1.2rem;
+font-weight: 400;
+margin-top: 1.6rem;
+color: #1c1c1c;
+}
+#yc-newsletter-modal.yc-newsletter-signup label.checkbox.subfield a {
+font-size: 1.2rem;
+font-weight: 500;
+margin-top: 1.6rem;
+color: #1c1c1c;
+}
+@media (min-width: 768px) {
+#yc-newsletter-modal.yc-newsletter-signup label.checkbox.subfield a {
+font-size: 1.4rem;
+}
+}
+@media (min-width: 768px) {
+#yc-newsletter-modal.yc-newsletter-signup label.checkbox.subfield {
+font-size: 1.4rem;
+}
+}
+#yc-newsletter-modal.yc-newsletter-signup .button,
+#yc-newsletter-modal.yc-newsletter-signup .mc-subscribe {
+background: white;
+width: 100%;
+font-size: 2.4rem;
+font-weight: 700;
+padding: 1.8rem 3.6rem;
+margin-top: 2.4rem;
+}
+#yc-newsletter-modal.yc-newsletter-signup .button:hover,
+#yc-newsletter-modal.yc-newsletter-signup .mc-subscribe:hover {
+background: #FFF5DD;
+}
+</style><style id="scorg-style-header-scss-3660">html {
+font-size: 10px;
+}
+@media (min-width: 1920px) {
+html {
+font-size: 0.5208333333vw;
+}
+}
+:root {
+--primary-018: #FFF5DD;
+--primary-035: #FFEDBE;
+--primary-070: #FCDC7D;
+--primary: #F5CE3E;
+--primary-200: #EDC01B;
+--primary-300: #E0B010;
+}
+.yc-greetings-form-intro {
+background-color: #F5CE3E;
+padding-top: 4.2rem;
+padding-bottom: 3.2rem;
+margin-top: 6.8rem;
+margin-bottom: 3.2rem;
+}
+@media (min-width: 1200px) {
+.yc-greetings-form-intro {
+margin-top: 11.2rem;
+}
+}
+.yc-greetings-form-intro h1 {
+margin-bottom: 1.2rem;
+}
+@media (min-width: 768px) {
+.yc-greetings-form-intro h1 {
+margin-bottom: 1.8rem;
+}
+}
+.yc-greetings-form-intro p {
+font-size: 1.8rem;
+font-weight: 300;
+}
+#greetings-form {
+margin-bottom: 4.8rem;
+}
+@media (min-width: 992px) {
+#greetings-form .fl-row-content {
+max-width: 80rem;
+}
+}
+#greetings-form .wpforms-field {
+padding-block: 1rem;
+}
+#greetings-form .wpforms-container {
+margin-bottom: 0;
+}
+#greetings-form h2 {
+font-size: 2.2rem;
+}
+@media (min-width: 768px) {
+#greetings-form h2 {
+font-size: 2.6rem;
+}
+}
+#greetings-form input[type=text],
+#greetings-form textarea {
+border-radius: 0.5rem;
+padding: 2.1rem 2rem 2rem 2rem;
+}
+#greetings-form input[type=text]::placeholder,
+#greetings-form textarea::placeholder {
+opacity: 1;
+color: #999;
+}
+#greetings-form .wpforms-field-file-upload label {
+position: absolute;
+left: 2rem;
+right: 2rem;
+top: 50%;
+transform: translateY(-50%);
+pointer-events: none;
+color: #999;
+font-weight: 400;
+margin: 0;
+display: flex;
+justify-content: space-between;
+gap: 1rem;
+}
+@media (min-width: 992px) {
+#greetings-form .wpforms-field-file-upload label {
+justify-content: flex-start;
+gap: 2rem;
+}
+}
+#greetings-form .wpforms-field-file-upload label::after {
+content: "\e91b";
+font-family: "youcat-icons";
+display: inline;
+}
+#greetings-form .wpforms-field-file-upload .wpforms-uploader {
+border-radius: 0.5rem;
+border: 0.1rem dashed #cccccc;
+}
+#greetings-form .wpforms-field-file-upload .wpforms-uploader .dz-message {
+display: none;
+}
+#greetings-form .wpforms-field-gdpr-checkbox {
+padding-top: 0;
+}
+#greetings-form .wpforms-field-gdpr-checkbox label {
+color: #999;
+}
+#greetings-form .wpforms-submit-container {
+display: flex;
+justify-content: center;
+margin-top: 0;
+}
+#greetings-form .wpforms-submit-container .wpforms-submit {
+width: 100%;
+height: auto;
+max-width: 36rem;
+padding-top: 1.5rem;
+padding-bottom: 1.4rem;
+background-color: #F5CE3E;
+border-radius: 0.4rem;
+color: #1c1c1c;
+}
+#greetings-form .wpforms-submit-container .wpforms-submit-spinner {
+display: none;
+}
+#greetings-form .wpforms-recaptcha-container {
+margin-bottom: 1.6rem !important;
+}
+.yc-greetings-button-secondary {
+padding-block: 1.8rem;
+}
+.yc-greetings-button-secondary a {
+background: none !important;
+font-size: 0.875em !important;
+}
+.yc-greetings-button-secondary a i {
+font-size: 0.75em !important;
+margin-right: 0.4rem !important;
+}
+.yc-greetings-button-secondary a i::before {
+rotate: 90deg;
+display: inline-block;
+}
+</style><style id="scorg-style-header-scss-3265">html {
+font-size: 10px;
+}
+@media (min-width: 1920px) {
+html {
+font-size: 0.5208333333vw;
+}
+}
+:root {
+--primary-018: #FFF5DD;
+--primary-035: #FFEDBE;
+--primary-070: #FCDC7D;
+--primary: #F5CE3E;
+--primary-200: #EDC01B;
+--primary-300: #E0B010;
+}
+#yc-share-buttons {
+display: flex;
+gap: 1rem;
+}
+#yc-share-buttons .yc-share-button {
+background-color: transparent;
+border: none;
+padding: 0;
+width: 3.2rem;
+height: 3.2rem;
+font-size: 0;
+line-height: 1;
+position: relative;
+}
+#yc-share-buttons .yc-share-button::before {
+border-radius: 0.6rem;
+background-color: transparent;
+color: #a0a0a0;
+font-size: 3.2rem;
+font-family: "youcat-icons" !important;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+#yc-share-buttons .yc-share-button#yc-facebook::before {
+content: "\e90b";
+font-size: 2.9rem;
+}
+#yc-share-buttons .yc-share-button#yc-share::before {
+content: "\e919";
+}
+#yc-share-buttons .yc-share-button#yc-whatsapp::before {
+content: "\e91a";
+}
+#yc-share-buttons .yc-share-button#yc-copy-link::before {
+content: "\e918";
+}
+#yc-share-buttons .yc-share-button#yc-copy-link.yc-copied::after {
+content: "\e917";
+font-family: "youcat-icons" !important;
+position: absolute;
+right: 0;
+bottom: 0;
+transform: translate(30%, 40%);
+font-size: 1.4rem;
+color: limegreen;
+border: 0.2rem solid #FFF;
+border-radius: 50%;
+background-color: #FFF;
+}
+#yc-share-buttons .yc-share-button a {
+font-size: 0;
+}
+.single-credopedia .yc-left-content .fl-col-content,
+.single-news .yc-left-content .fl-col-content {
+position: relative;
+}
+.single-credopedia .yc-left-content .fl-col-content .yc-social-buttons,
+.single-news .yc-left-content .fl-col-content .yc-social-buttons {
+position: absolute;
+width: fit-content;
+height: fit-content;
+top: 0;
+right: 0;
+}
+.single-credopedia #sharing-buttons,
+.single-news #sharing-buttons {
+display: flex;
+align-items: center;
+gap: 1rem;
+}
+.single-credopedia #sharing-buttons h2,
+.single-news #sharing-buttons h2 {
+color: #a0a0a0;
+font-size: 1.4rem;
+font-weight: 700;
+margin-bottom: 0;
+}
+.single-credopedia #yc-share-buttons #yc-share,
+.single-news #yc-share-buttons #yc-share {
+display: none;
+}
+.single-products #product-info .yc-image .fl-col-content {
+position: relative;
+}
+.single-products #product-info .yc-image .fl-col-content .yc-social-buttons {
+position: absolute;
+width: fit-content;
+height: fit-content;
+top: 1.2rem;
+right: 2.4rem;
+}
+@media (min-width: 768px) {
+.single-products #product-info .yc-image .fl-col-content .yc-social-buttons {
+top: 2.4rem;
+right: 4.8rem;
+}
+}
+@media (min-width: 992px) {
+.single-products #product-info .yc-image .fl-col-content .yc-social-buttons {
+top: 1.8rem;
+right: 1.8rem;
+}
+}
+@media (min-width: 1200px) {
+.single-products #product-info .yc-image .fl-col-content .yc-social-buttons {
+top: 2.4rem;
+right: 2.4rem;
+}
+}
+.single-products #product-info .yc-image .fl-col-content #yc-share-buttons {
+display: flex;
+flex-direction: column;
+position: relative;
+}
+.single-products #product-info .yc-image .fl-col-content #yc-share-buttons .yc-share-button:not(#yc-share) {
+opacity: 0;
+position: absolute;
+top: 0;
+transition: all ease-out 0.2s;
+}
+.single-products #product-info .yc-image .fl-col-content #yc-share-buttons .yc-share-button#yc-copy-link.yc-copied::after {
+border: 0.2rem solid #EBEBEB;
+}
+.single-products #product-info .yc-image .fl-col-content #yc-share-buttons .yc-share-button#yc-share {
+position: relative;
+z-index: 4;
+}
+.single-products #product-info .yc-image .fl-col-content #yc-share-buttons .yc-share-button#yc-share::before {
+font-size: 2.4rem;
+}
+.single-products #product-info .yc-image .fl-col-content #yc-share-buttons .yc-share-button#yc-whatsapp {
+z-index: 3;
+}
+.single-products #product-info .yc-image .fl-col-content #yc-share-buttons .yc-share-button#yc-facebook {
+z-index: 2;
+}
+.single-products #product-info .yc-image .fl-col-content #yc-share-buttons .yc-share-button#yc-copy-link {
+z-index: 1;
+}
+.single-products #product-info .yc-image .fl-col-content #yc-share-buttons.yc-open .yc-share-button:not(#yc-share) {
+opacity: 1;
+}
+.single-products #product-info .yc-image .fl-col-content #yc-share-buttons.yc-open .yc-share-button#yc-whatsapp {
+top: 4.2rem;
+}
+.single-products #product-info .yc-image .fl-col-content #yc-share-buttons.yc-open .yc-share-button#yc-facebook {
+top: 8.4rem;
+}
+.single-products #product-info .yc-image .fl-col-content #yc-share-buttons.yc-open .yc-share-button#yc-copy-link {
+top: 12.6rem;
+}
+</style><style id="scorg-style-header-scss-1907">html {
+font-size: 10px;
+}
+@media (min-width: 1920px) {
+html {
+font-size: 0.5208333333vw;
+}
+}
+:root {
+--primary-018: #FFF5DD;
+--primary-035: #FFEDBE;
+--primary-070: #FCDC7D;
+--primary: #F5CE3E;
+--primary-200: #EDC01B;
+--primary-300: #E0B010;
+}
+#archive-featured-book {
+padding-top: 6.8rem;
+}
+#archive-featured-book .fl-row-content-wrap .fl-row-fixed-width {
+max-width: calc(100% - 4.8rem);
+}
+@media (min-width: 768px) {
+#archive-featured-book .fl-row-content-wrap .fl-row-fixed-width {
+max-width: calc(100% - 9.6rem);
+}
+}
+@media (min-width: 992px) {
+#archive-featured-book .fl-row-content-wrap .fl-row-fixed-width {
+max-width: calc(100% - 12.8rem);
+}
+}
+@media (min-width: 1200px) {
+#archive-featured-book .fl-row-content-wrap .fl-row-fixed-width {
+max-width: calc(100% - 25.6rem);
+}
+}
+@media (min-width: 1401px) {
+#archive-featured-book .fl-row-content-wrap .fl-row-fixed-width {
+max-width: calc(100% - 51.2rem);
+}
+}
+@media (min-width: 1801px) {
+#archive-featured-book .fl-row-content-wrap .fl-row-fixed-width {
+max-width: calc(100% - 84rem);
+}
+}
+#archive-featured-book .fl-photo-content,
+#archive-featured-book img {
+min-width: 100%;
+min-height: 100%;
+object-fit: cover;
+}
+@media (min-width: 992px) {
+#archive-featured-book {
+padding-top: 11.2rem;
+}
+}
+#archive-featured-book .fl-row-content-wrap {
+background: #F5CE3E;
+padding-block: 3.2rem;
+}
+#archive-featured-book .fl-row-content-wrap .fl-col-group {
+display: flex;
+flex-direction: row;
+align-items: center;
+gap: 2.4rem;
+}
+#archive-featured-book .fl-row-content-wrap a.fl-button {
+background: white;
+margin-top: 2.4rem;
+}
+#archive-featured-book .fl-row-content-wrap a.fl-button span, #archive-featured-book .fl-row-content-wrap a.fl-button i {
+color: #F5CE3E;
+}
+#archive-featured-book .fl-row-content-wrap p {
+margin: 0;
+color: #f4f4f4;
+}
+#archive-featured-book .fl-row-content-wrap .yc-super-title {
+font-size: 1.6rem;
+font-weight: 700;
+text-transform: uppercase;
+letter-spacing: 0.1em;
+color: #f4f4f4;
+margin-bottom: 0.8rem;
+}
+#archive-featured-book .fl-row-content-wrap h1 {
+margin-bottom: 1.6rem;
+color: #f4f4f4;
+}
+#all-products {
+padding-top: 6.8rem;
+}
+@media (min-width: 768px) {
+#all-products {
+padding-block: 4.8rem;
+}
+}
+#all-products .fl-module:first-child {
+border-top: 0.2rem solid #F5CE3E;
+margin-inline: -2.4rem;
+padding: 3.2rem 2.4rem 0 2.4rem;
+}
+@media (min-width: 768px) {
+#all-products .fl-module:first-child {
+border-top: 0;
+margin-inline: 0;
+padding: inherit;
+}
+}
+#all-products .fl-post-grid {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 2.4rem;
+}
+#all-products .fl-post-grid .fl-photo-content,
+#all-products .fl-post-grid img {
+min-width: 100%;
+min-height: 100%;
+object-fit: cover;
+}
+@media (min-width: 768px) {
+#all-products .fl-post-grid {
+gap: 3.2rem;
+}
+}
+@media (min-width: 992px) {
+#all-products .fl-post-grid {
+grid-template-columns: 1fr 1fr 1fr;
+}
+}
+@media (min-width: 1200px) {
+#all-products .fl-post-grid {
+grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+}
+#all-products .fl-post-grid .fl-post-column {
+width: 100%;
+}
+#all-products .fl-post-grid .fl-post-column:first-child {
+grid-column: 1;
+}
+#all-products .fl-post-grid .fl-post-column .fl-post-grid-post {
+height: auto !important;
+border: none;
+position: relative;
+overflow: visible;
+transition: 0.2s ease-in-out;
+}
+#all-products .fl-post-grid .fl-post-column .fl-post-grid-post img {
+border-radius: 0.2rem;
+filter: drop-shadow(0.4rem 0.4rem 0.8rem rgba(0, 0, 0, 0.3));
+transition: 0.2s ease-in-out;
+}
+#all-products .fl-post-grid .fl-post-column .fl-post-grid-post:hover {
+scale: 1.02;
+}
+#all-products .fl-post-grid .fl-post-column .fl-post-grid-post:hover img {
+filter: drop-shadow(0 0 2rem rgba(0, 0, 0, 0.2));
+}
+#all-products .fl-post-grid .fl-post-column .fl-post-grid-post .yc-tag {
+position: absolute;
+top: -0.8rem;
+left: -0.8rem;
+background: #F3D3D0;
+color: #f4f4f4;
+font-size: 1.2rem;
+font-weight: 700;
+line-height: 1em;
+margin: 0;
+padding: 0.4rem 0.6rem 0.3rem 0.6rem;
+border-radius: 0.4rem;
+z-index: 1;
+}
+@media (min-width: 768px) {
+#all-products .fl-post-grid .fl-post-column .fl-post-grid-post .yc-tag {
+font-size: 1.6rem;
+}
+}
+#yc-product-graphic {
+position: absolute;
+top: 3.2rem;
+z-index: 2;
+}
+</style><script id="scorg-script-header-1912">
+function clamp(val, min, max) {
+return Math.min(Math.max(val, min), max)
+}
+function lerp(a, b, alpha) {
+return a + alpha * (b - a)
+}
+function abs(x) {
+return x >= 0 ? x : -x;
+}
+function sign(val) {
+return val >= 0 ? 1 : -1
+}
+</script></head>
+<body data-rsssl="1" class="wp-singular credopedia-template-default single single-credopedia postid-4869 wp-theme-bb-theme wp-child-theme-bb-theme-child fl-builder-2-9-4-1 fl-themer-1-5-2-1 fl-theme-1-7-19 fl-no-js translatepress-fr_FR fl-theme-builder-header fl-theme-builder-header-header fl-theme-builder-singular fl-theme-builder-singular-credopedia-single fl-theme-builder-footer fl-theme-builder-footer-footer cd-faq cd-sacraments fl-framework-bootstrap-4 fl-preset-default fl-full-width fl-search-active" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<a aria-label="Aller au contenu" class="fl-screen-reader-text" href="#fl-main-content" data-no-translation="" data-trp-gettext="" data-no-translation-aria-label="">Aller au contenu</a><div class="fl-page">
+<header class="fl-builder-content fl-builder-content-827 fl-builder-global-templates-locked" data-post-id="827" data-type="header" data-sticky="1" data-sticky-on="" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="1" data-overlay-bg="default" data-shrink-image-height="50px" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div id="header" class="fl-row fl-row-full-width fl-row-bg-none fl-node-ilwq7c38d9ns fl-row-default-height fl-row-align-center" data-node="ilwq7c38d9ns">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-full-width fl-node-content">
+<div class="fl-col-group fl-node-y6gtpjecx5f7" data-node="y6gtpjecx5f7">
+<div class="fl-col fl-node-1q0pk6r5y834 fl-col-bg-color fl-col-small yc-logo" data-node="1q0pk6r5y834">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-0qyie3lbw9uh" data-node="0qyie3lbw9uh">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-svg">
+<a href="/fr/" target="_self" itemprop="url">
+<img loading="lazy" decoding="async" class="fl-photo-img wp-image-829 size-full" src="https://youcat.org/wp-content/uploads/2023/07/yc-logo.svg" alt="yc-logo" itemprop="image" height="48" width="208" title="yc-logo"  data-no-lazy="1" />
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-ierx2hza5sd7 fl-col-bg-color fl-col-small fl-visible-desktop fl-visible-large yc-main-menu" data-node="ierx2hza5sd7">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-eva4fls0c7ox" data-node="eva4fls0c7ox">
+<div class="fl-module-content fl-node-content">
+<div class="fl-menu fl-menu-responsive-toggle-mobile">
+<button class="fl-menu-mobile-toggle hamburger" aria-label="Menu"><span class="fl-menu-icon svg-container"><svg version="1.1" class="hamburger-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 512 512">
+<rect class="fl-hamburger-menu-top" width="512" height="102"/>
+<rect class="fl-hamburger-menu-middle" y="205" width="512" height="102"/>
+<rect class="fl-hamburger-menu-bottom" y="410" width="512" height="102"/>
+</svg>
+</span></button>	<div class="fl-clear"></div>
+<nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-header" class="menu fl-menu-horizontal fl-toggle-none"><li id="menu-item-2728" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/youcat-foundation/">Fondation YOUCAT</a></li><li id="menu-item-4625" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/fr/credopedia/">Credopedia</a></li><li id="menu-item-1927" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/nouvelles/">Nouvelles</a></li><li id="menu-item-1926" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/produits/">Boutique</a></li><li id="menu-item-2974" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/youcat-digital/">YOUCAT Digital</a></li><li id="menu-item-1924" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/publications/">Publications</a></li></ul></nav></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-owmvfh182grq fl-col-bg-color fl-col-small fl-visible-desktop fl-visible-large yc-actions-menu" data-node="owmvfh182grq">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-f78u6gvaxwrm" data-node="f78u6gvaxwrm">
+<div class="fl-module-content fl-node-content">
+<div class="fl-menu fl-menu-responsive-toggle-mobile">
+<button class="fl-menu-mobile-toggle hamburger" aria-label="Menu"><span class="fl-menu-icon svg-container"><svg version="1.1" class="hamburger-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 512 512">
+<rect class="fl-hamburger-menu-top" width="512" height="102"/>
+<rect class="fl-hamburger-menu-middle" y="205" width="512" height="102"/>
+<rect class="fl-hamburger-menu-bottom" y="410" width="512" height="102"/>
+</svg>
+</span></button>	<div class="fl-clear"></div>
+<nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-header-donate-language-cart" class="menu fl-menu-horizontal fl-toggle-none"><li id="menu-item-1788" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/don/"><span class="icon yc-icon-yc-donate"></span>Votre don</a></li><li id="menu-item-863" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-has-children current-language-menu-item fl-has-submenu"><div class="fl-has-submenu-container"><a href="https://youcat.org/fr/credopedia/tous-les-peches-ne-sont-pas-equivalents/"><span data-no-translation><span class="trp-ls-language-name">FR</span></span></a><span class="fl-menu-toggle"></span></div><ul class="sub-menu">	<li id="menu-item-862" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/credopedia/not-all-sins-are-the-same/"><span data-no-translation><span class="trp-ls-language-name">EN</span></span></a></li>	<li id="menu-item-861" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/de/credopedia/suende-ist-nicht-gleich-suende/"><span data-no-translation><span class="trp-ls-language-name">DE</span></span></a></li>	<li id="menu-item-859" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/pl/credopedia/not-all-sins-are-the-same/"><span data-no-translation><span class="trp-ls-language-name">PL</span></span></a></li>	<li id="menu-item-857" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/pt/credopedia/nem-todos-os-pecado-sao-iguais/"><span data-no-translation><span class="trp-ls-language-name">PT</span></span></a></li>	<li id="menu-item-858" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/es/credopedia/no-todo-pecado-es-igual/"><span data-no-translation><span class="trp-ls-language-name">ES</span></span></a></li></ul></li><li id="menu-item-864" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#"><span class="icon yc-icon-yc-cart"></span></a></li></ul></nav></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="yc-newsletter-modal" class="fl-row fl-row-full-width fl-row-bg-none fl-node-nqsgrf1d9bik fl-row-default-height fl-row-align-center yc-newsletter-signup hidden" data-node="nqsgrf1d9bik">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-dmgyiqsfec32" data-node="dmgyiqsfec32">
+<div id="yc-left-column" class="fl-col fl-node-pb2l91xnv5zh fl-col-bg-color" data-node="pb2l91xnv5zh">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-isxpzu5ro6vt" data-node="isxpzu5ro6vt">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<h2><strong>Rejoignez-nous!</strong></h2>
+<p><strong>Abonnez-vous à notre newsletter et restez informé de toutes les actualités autour de YOUCAT.</strong></p>
+<ul> 	</p>
+<li>Des articles de la fondation YOUCAT.</li>
+<p> 	</p>
+<li class="translation-block"><strong>Offres promotionnelles</strong> et informations sur les nouveaux livres.</li>
+<p> 	</p>
+<li>Des passages de la Bible encourageants.</li>
+<p> 	</p>
+<li class="translation-block"><strong>Nouveaux articles</strong> sur des sujets passionnants.</li>
+<p> 	</p>
+<li><strong>Matériel supplémentaire gratuit.</strong></li>
+<p> 	</p>
+<li class="translation-block"><strong>Des conseils</strong> pour travailler avec nos livres.</li>
+<p> 	</p>
+<li>Des prières et la possibilité de demander des prières pour vous et vos proches.</li>
+<p></ul>
+<p><strong>Nous sommes heureux que tu fasses partie de la communauté YOUCAT.</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col-group fl-node-m8s2wr39pdvi" data-node="m8s2wr39pdvi">
+<div id="yc-right-column" class="fl-col fl-node-l7kn59it2rqh fl-col-bg-color" data-node="l7kn59it2rqh">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-jo6dt3rhn2cs" data-node="jo6dt3rhn2cs">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<h2 style="text-align: center;"><strong>YOUCAT Newsletter</strong></h2>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-html fl-node-9nsy5cvkfwl2" data-node="9nsy5cvkfwl2">
+<div class="fl-module-content fl-node-content">
+<div class="fl-html">
+<form action="https://youcat.us16.list-manage.com/subscribe/post?u=9456a0b431f9cd4ed1bf21863&amp;id=2e0eb241b4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+<div id="mc_embed_signup_scroll" class="mc-signup">
+<div class="mc-field-group-missionary">
+<input placeholder="Prénom" type="text" value="" name="FNAME" class="text-input required mc-input" id="mce-FNAME" required="">
+<input placeholder="Nom de famille" type="text" value="" name="LNAME" class="text-input required mc-input" id="mce-LNAME" required="">
+<input placeholder="Courriel" type="email" value="" name="EMAIL" class="text-input required email mc-input" id="mce-EMAIL" required="">
+<select name="LANGUAGE" class="required REQ_CSS mc-select" id="mce-group[6843]" required="">
+<option value="" selected="" disabled="" hidden="">Langue ...</option>
+<option value="English">Langue : Anglais</option>
+<option value="French">Langue : Français</option>
+<option value="German">Sprache : Deutsch</option>
+<option value="Polish">Język : Polski</option>
+<option value="Portuguese">Langue : Portugais</option>
+<option value="Spanish">Idioma : Español</option>
+</select>
+</div>
+<div class="content__gdpr">
+<label class="checkbox subfield" for="gdpr_27931">
+<input type="checkbox" id="gdpr_27931" name="gdpr[27931]" value="Y" class="required av-checkbox" required="">
+<span>Je souhaite recevoir la newsletter YOUCAT et j'accepte les <a class="mc-link" href="/fr/privacy/">Conditions de protection des données</a>. Vous pouvez vous désabonner de la newsletter à tout moment en cliquant sur le lien en bas de nos e-mails.</span>
+</label>
+</div>
+<div class="clear">
+<input type="submit" value="Rejoignez-nous" name="subscribe" id="mc-embedded-subscribe" class="mc-subscribe">
+</div>
+</div>
+</form></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col-group fl-node-f8hg74ed2lw5" data-node="f8hg74ed2lw5">
+<div class="fl-col fl-node-6emsy9glz184 fl-col-bg-color" data-node="6emsy9glz184">
+<div class="fl-col-content fl-node-content"><div id="yc-close-modal" class="fl-module fl-module-icon fl-node-b16rq4o2c8nj" data-node="b16rq4o2c8nj">
+<div class="fl-module-content fl-node-content">
+<div class="fl-icon-wrap">
+<span class="fl-icon">
+<i class="dashicons dashicons-before dashicons-no" aria-hidden="true"></i>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="mobile-bottomnav" class="fl-row fl-row-full-width fl-row-bg-none fl-node-rm3avpiz48wk fl-row-default-height fl-row-align-center fl-visible-medium fl-visible-mobile" data-node="rm3avpiz48wk">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-k3gzvrs2hoda" data-node="k3gzvrs2hoda">
+<div class="fl-col fl-node-t9vjbkq274h3 fl-col-bg-color fl-col-small" data-node="t9vjbkq274h3">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-icon fl-node-w6xjs7hg15kp" data-node="w6xjs7hg15kp">
+<div class="fl-module-content fl-node-content">
+<div class="fl-icon-wrap">
+<span class="fl-icon">
+<a href="https://youcat.org/fr/?attachment_id=1379" target="_self"  tabindex="-1" aria-hidden="true" aria-labelledby="fl-icon-text-w6xjs7hg15kp">
+<i class="icon yc-icon-yc-home" aria-hidden="true"></i>
+</a>
+</span>
+<div id="fl-icon-text-w6xjs7hg15kp" class="fl-icon-text">
+<a href="https://youcat.org/fr/?attachment_id=1379" target="_self"  class="fl-icon-text-link fl-icon-text-wrap">
+<p>Accueil</p>						</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-q5c9utapmz8v fl-col-bg-color fl-col-small" data-node="q5c9utapmz8v">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-icon fl-node-crg9xwp0vkn1" data-node="crg9xwp0vkn1">
+<div class="fl-module-content fl-node-content">
+<div class="fl-icon-wrap">
+<span class="fl-icon">
+<a href="https://youcat.org/fr/produits/" target="_self"  tabindex="-1" aria-hidden="true" aria-labelledby="fl-icon-text-crg9xwp0vkn1">
+<i class="icon yc-icon-yc-shop" aria-hidden="true"></i>
+</a>
+</span>
+<div id="fl-icon-text-crg9xwp0vkn1" class="fl-icon-text">
+<a href="https://youcat.org/fr/produits/" target="_self"  class="fl-icon-text-link fl-icon-text-wrap">
+<p>Boutique</p>						</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-3kjg60a41lu2 fl-col-bg-color fl-col-small" data-node="3kjg60a41lu2">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-icon fl-node-fw91mz5tiejx" data-node="fw91mz5tiejx">
+<div class="fl-module-content fl-node-content">
+<div class="fl-icon-wrap">
+<span class="fl-icon">
+<a href="https://youcat.org/fr/don/" target="_self"  tabindex="-1" aria-hidden="true" aria-labelledby="fl-icon-text-fw91mz5tiejx">
+<i class="icon yc-icon-yc-donate" aria-hidden="true"></i>
+</a>
+</span>
+<div id="fl-icon-text-fw91mz5tiejx" class="fl-icon-text">
+<a href="https://youcat.org/fr/don/" target="_self"  class="fl-icon-text-link fl-icon-text-wrap">
+<p>Votre don</p>						</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-twnrao7g8yzd fl-col-bg-color fl-col-small" data-node="twnrao7g8yzd">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-xrawtpfk2yn8 yc-mobile-menu" data-node="xrawtpfk2yn8">
+<div class="fl-module-content fl-node-content">
+<div class="fl-menu fl-menu-accordion-collapse fl-menu-responsive-toggle-always fl-menu-responsive-flyout-overlay fl-flyout-left">
+<button class="fl-menu-mobile-toggle hamburger" aria-label="Menu"><span class="fl-menu-icon svg-container"><svg version="1.1" class="hamburger-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 512 512">
+<rect class="fl-hamburger-menu-top" width="512" height="102"/>
+<rect class="fl-hamburger-menu-middle" y="205" width="512" height="102"/>
+<rect class="fl-hamburger-menu-bottom" y="410" width="512" height="102"/>
+</svg>
+</span></button>	<div class="fl-clear"></div>
+<nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-mobile-bottom-navigation" class="menu fl-menu-accordion fl-toggle-arrows"><li id="menu-item-2636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a href="#">Fondation YOUCAT</a><span class="fl-menu-toggle"></span></div><ul class="sub-menu">	<li id="menu-item-2624" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/publications/">YOUCAT Publications</a></li>	<li id="menu-item-2634" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/produits/">Nos livres</a></li>	<li id="menu-item-2635" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/nouvelles/">Nouvelles</a></li>	<li id="menu-item-2626" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/missionary-network/">Missionary Network</a></li>	<li id="menu-item-2637" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/don/">Votre don</a></li>	<li id="menu-item-5345" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/wp-content/uploads/2025/03/20250303_ENG_Buroorganisation_Ausschreibung_YOUCAT.pdf">Job Offer</a></li></ul></li><li id="menu-item-2625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a href="https://youcat.org/fr/youcat-digital/">YOUCAT Digital</a><span class="fl-menu-toggle"></span></div><ul class="sub-menu">	<li id="menu-item-2935" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/docat-app/">DOCAT App</a></li>	<li id="menu-item-2638" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/credopedia/">Credopedia</a></li>	<li id="menu-item-2936" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/materiel-supplementaire/">Matériel bonus gratuit</a></li></ul></li><li id="menu-item-2627" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-has-children current-language-menu-item fl-has-submenu"><div class="fl-has-submenu-container"><a href="https://youcat.org/fr/credopedia/tous-les-peches-ne-sont-pas-equivalents/"><span data-no-translation><span class="trp-ls-language-name">FR</span></span></a><span class="fl-menu-toggle"></span></div><ul class="sub-menu">	<li id="menu-item-2633" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/credopedia/not-all-sins-are-the-same/"><span data-no-translation><span class="trp-ls-language-name">EN</span></span></a></li>	<li id="menu-item-2632" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/de/credopedia/suende-ist-nicht-gleich-suende/"><span data-no-translation><span class="trp-ls-language-name">DE</span></span></a></li>	<li id="menu-item-2630" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/pl/credopedia/not-all-sins-are-the-same/"><span data-no-translation><span class="trp-ls-language-name">PL</span></span></a></li>	<li id="menu-item-2628" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/pt/credopedia/nem-todos-os-pecado-sao-iguais/"><span data-no-translation><span class="trp-ls-language-name">PT</span></span></a></li>	<li id="menu-item-2629" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/es/credopedia/no-todo-pecado-es-igual/"><span data-no-translation><span class="trp-ls-language-name">ES</span></span></a></li></ul></li></ul></nav></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>	<div id="fl-main-content" class="fl-page-content" itemprop="mainContentOfPage" role="main">
+<div class="fl-builder-content fl-builder-content-888 fl-builder-global-templates-locked" data-post-id="888"><div id="hero" class="fl-row fl-row-full-width fl-row-bg-none fl-node-szn4u56q1d73 fl-row-default-height fl-row-align-center yc-breadcrumb-narrow" data-node="szn4u56q1d73">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-full-width fl-node-content">
+<div class="fl-col-group fl-node-v12yj6d5i8ac" data-node="v12yj6d5i8ac">
+<div class="fl-col fl-node-citmyrewk2ls fl-col-bg-color" data-node="citmyrewk2ls">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-e769ydahk4sn fl-visible-mobile" data-node="e769ydahk4sn">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-webp">
+<img loading="lazy" decoding="async" class="fl-photo-img wp-image-4870 size-full" src="https://youcat.org/wp-content/uploads/2024/07/not_all_sins_are_the_same_mobile.webp" alt="not_all_sins_are_the_same_mobile" itemprop="image" height="720" width="1170" title="not_all_sins_are_the_same_mobile" srcset="https://youcat.org/wp-content/uploads/2024/07/not_all_sins_are_the_same_mobile.webp 1170w, https://youcat.org/wp-content/uploads/2024/07/not_all_sins_are_the_same_mobile-300x185.webp 300w, https://youcat.org/wp-content/uploads/2024/07/not_all_sins_are_the_same_mobile-1024x630.webp 1024w, https://youcat.org/wp-content/uploads/2024/07/not_all_sins_are_the_same_mobile-768x473.webp 768w, https://youcat.org/wp-content/uploads/2024/07/not_all_sins_are_the_same_mobile-18x12.webp 18w" sizes="auto, (max-width: 1170px) 100vw, 1170px" />
+</div>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-photo fl-node-or5xedz8072t fl-visible-desktop fl-visible-large fl-visible-medium" data-node="or5xedz8072t">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-jpg">
+<img loading="lazy" decoding="async" class="fl-photo-img wp-image-4876 size-full" src="https://youcat.org/wp-content/uploads/2024/07/chains-19176-scaled-e1721811449440.jpg" alt="chains-19176" itemprop="image" height="802" width="2560" title="chains-19176" srcset="https://youcat.org/wp-content/uploads/2024/07/chains-19176-scaled-e1721811449440.jpg 2560w, https://youcat.org/wp-content/uploads/2024/07/chains-19176-scaled-e1721811449440-300x94.jpg 300w, https://youcat.org/wp-content/uploads/2024/07/chains-19176-scaled-e1721811449440-1024x321.jpg 1024w, https://youcat.org/wp-content/uploads/2024/07/chains-19176-scaled-e1721811449440-768x241.jpg 768w, https://youcat.org/wp-content/uploads/2024/07/chains-19176-scaled-e1721811449440-1536x481.jpg 1536w, https://youcat.org/wp-content/uploads/2024/07/chains-19176-scaled-e1721811449440-2048x642.jpg 2048w, https://youcat.org/wp-content/uploads/2024/07/chains-19176-scaled-e1721811449440-18x6.jpg 18w" sizes="auto, (max-width: 2560px) 100vw, 2560px" />
+</div>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-html fl-node-7x6dhkletaf1 yc-breadcrumb" data-node="7x6dhkletaf1">
+<div class="fl-module-content fl-node-content">
+<div class="fl-html">
+<span><span><a href="https://youcat.org/fr/?attachment_id=1379"><span class="icon yc-icon-yc-home-filled"></span></a></span>  <span><a href="https://youcat.org/fr/credopedia/">Credopedia</a></span>  <span class="breadcrumb_last" aria-current="page">Tous les péchés ne sont pas équivalents </span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="content" class="fl-row fl-row-full-width fl-row-bg-none fl-node-8m1lbj4dsi3u fl-row-default-height fl-row-align-center" data-node="8m1lbj4dsi3u">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-zue5hpg8al1m" data-node="zue5hpg8al1m">
+<div class="fl-col fl-node-70kv1jghmxy6 fl-col-bg-color yc-left-content" data-node="70kv1jghmxy6">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-0qt1352ieb8y yc-super-title" data-node="0qt1352ieb8y">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p>Credopedia</p>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-html fl-node-0a57hb3wfvi9 yc-social-buttons" data-node="0a57hb3wfvi9">
+<div class="fl-module-content fl-node-content">
+<div class="fl-html">
+<section id="sharing-buttons">
+<h2>Partager :</h2>
+<div id="yc-share-buttons">
+<button id="yc-share" class="yc-share-button">
+Partager
+</button>
+<a id="yc-whatsapp" class="yc-share-button" target="_blank" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fyoucat.org%2Ffr%2Fcredopedia%2Ftous-les-peches-ne-sont-pas-equivalents%2F" data-action="share/whatsapp/share">Partager sur WhatsApp</a>
+<a id="yc-facebook" class="yc-share-button fb-share-button" data-href="https://youcat.org/fr/credopedia/tous-les-peches-ne-sont-pas-equivalents/" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fyoucat.org%2Ffr%2Fcredopedia%2Ftous-les-peches-ne-sont-pas-equivalents%2F&amp;src=sdkpreparse">Partager sur Facebook</a>
+<button id="yc-copy-link" class="yc-share-button">
+Copier le lien
+</button>
+</div>
+<script>
+const btn = document.getElementById("yc-copy-link");
+btn.addEventListener("click", function() {
+this.classList.add("yc-copied")
+navigator.clipboard.writeText("https://youcat.org/fr/credopedia/tous-les-peches-ne-sont-pas-equivalents/");
+});
+document.getElementById("yc-share").addEventListener("click", function() {
+document.getElementById("yc-share-buttons").classList.toggle("yc-open");
+});
+</script>
+</section></div>
+</div>
+</div>
+<div class="fl-module fl-module-heading fl-node-3lt2dehas9m6" data-node="3lt2dehas9m6">
+<div class="fl-module-content fl-node-content">
+<h1 class="fl-heading">
+<span class="fl-heading-text">Tous les péchés ne sont pas équivalents </span>
+</h1>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-rahp16dyk3j2 yc-sub-title" data-node="rahp16dyk3j2">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p><em>Clara se demande : qu’est-ce qu’un « péché grave », et pourquoi l’appelle-t-on aussi « péché mortel » ? Quand est-ce que je pèche « légèrement » et quand est-ce que je pèche « gravement » ?</em></p>
+<p><strong>Là où l’amour manque, naissent la jalousie, l’envie, la cupidité – en bref : le péché. Dans le texte qui suit, tu découvriras ce qu’est exactement le péché, mais aussi ce qu'il n’est pas et comment trouver la voie pour s’en éloigner.</strong></p>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-html fl-node-d805f3uke9tc" data-node="d805f3uke9tc">
+<div class="fl-module-content fl-node-content">
+<div class="fl-html">
+<p class="yc-author">
+<span class="yc-reading-time"></span> mins read | <a href="https://www.instagram.com/p/C6Bq6UJqxFv/" target="_blank" style="color: #98071C;">Stani Mičkovicová</a>
+</p>
+<ul class="yc-table-of-contents">
+<li>
+<a href="#cp-root_of_evil">Le péché, à la racine de tous les maux</a>
+</li>
+<li>
+<a href="#cp-kinds_of_sin">Quels sont les différents péchés ?</a>
+</li>
+<li>
+<a href="#cp-venial_sin">Péché véniel versus péché grave</a>
+</li>
+<li>
+<a href="#cp-sins_confess">Quels péchés doit-on confesser ?</a>
+</li>
+<li>
+<a href="#cp-heaven_heart">Le Ciel commence dans ton cœur</a>
+</li>
+</ul>
+<div class="yc-content">
+<h2 id="cp-root_of_evil">Le péché, à la racine de tous les maux</h2>
+<p>Celui qui commet des péchés ne se fait pas seulement du mal à lui-même, mais aussi, inévitablement, aux autres. Le péché, même le plus caché, a toujours une dimension sociale. Là où l’on pèche, ce n’est pas seulement l’homme qui souffre, mais aussi la nature et la planète entière.
+Aussi exagéré que cela puisse paraître, le plus grand danger pour l’humanité, ce ne sont pas les guerres, les maladies ou les catastrophes naturelles. Le plus grand danger est le péché non regretté, car le péché est la racine de tout mal. Il crée le désordre et le malheur, qui peuvent prendre différentes formes. On peut donc en conclure que ce n’est jamais Dieu qui punit les hommes, c’est le péché lui-même qui nous punit. Mon péché et les péchés des autres.</p>
+<h2 id="cp-kinds_of_sin">Quels sont les différents péchés ?</h2>
+<p>Il n’y a pas que les péchés par lesquels nous pensons ou faisons le mal. Il y a aussi ce qu’on appelle les péchés par omission. Un exemple de ce type de péché se trouve dans la parabole du Bon Samaritain. Elle raconte l’histoire de personnes qui passent près d’un blessé mais qui ne font « rien ». Et cette « inaction » est leur péché. Car ils auraient pu et dû faire quelque chose !
+Ensuite, il y a ce que l’on appelle les péchés d’habitude, que l’on commet toujours de nouveau. Ils peuvent même conduire à la dépendance. Ou encore les péchés par pensée, que l’on n’exécute pas, mais auxquels on réfléchit et que l’on commettrait peut-être si l’occasion se présentait.
+Le Catéchisme de l’Église catholique cite également les sept péchés capitaux : l’orgueil, l’avarice, l’envie, la colère, la luxure, la gourmandise, la paresse. On les appelle « péchés capitaux » parce qu’ils mènent à d’autres péchés. Par exemple, quelqu’un se saoule (péché de gourmandise) et, pris par son ivresse, tue une autre personne.</p>
+<h2 id="cp-venial_sin">Péché véniel versus péché grave</h2>
+<p>Tous les péchés ne se valent pas. Le Catéchisme fait la distinction entre péché véniel et péché grave. Les péchés véniels sont ces « plus petits » péchés que nous commettons au quotidien par inattention et qui « affaiblissent » notre amour. Il convient également de les éviter et de les confesser, car ils peuvent devenir une habitude et conduire un jour à un péché grave. Le péché grave est aussi appelé péché mortel. En effet, il entraîne la « mort », il tue la vie divine dans l’âme.</p>
+<h2 id="cp-sins_confess">Quels péchés doit-on confesser ?</h2>
+<p>Un péché mortel ? Le mot parle de lui-même. Qu’est-ce qu’un péché mortel ? Un péché mortel est dirigé contre une personne ou une chose de ce monde – et contre Dieu. En ce sens, un péché grave exige une réparation sur terre – et<span class="s1"> <a href="https://youcat.org/fr/credopedia/le-sacrement-de-la-reconciliation/"><span class="s2">la réconciliation avec Dieu dans le sacrement de la confession</span><span class="s3">.</span></a></span> Tous les péchés graves qui n’ont pas encore été confessés et dont on se souvient doivent être confessés.</p>
+<p>Un péché n’est un péché mortel que si les trois conditions suivantes sont remplies, toutes en même temps :<br />
+<strong style="font-weight: bold;"><span lang="ES">•</span> La conscience :</strong> le pécheur doit être pleinement conscient que son acte est mauvais. La cécité volontaire ou l’ignorance coupable à l’égard des faits n’est pas une excuse valable.<br />
+<strong style="font-weight: bold;"><span lang="ES">• </span>La volonté :</strong> le péché doit être commis avec une pleine intention et conscience, le pécheur sachant qu’il pourrait résister à la tentation.<br />
+<strong style="font-weight: bold;"><span lang="ES">• </span>L’importance :</strong> le péché doit être grave (matière grave). Il s’agit d’une grave transgression de l’ordre divin.</p>
+<h2 id="cp-heaven_heart">Le Ciel commence dans ton cœur</h2>
+<p>Plus tu te rapproches de Dieu, plus tu perçois clairement à quel point tu as besoin de <a href="https://youcat.org/fr/credopedia/la-force-du-pardon/">du pardon</a>. Souviens-toi que, par le pardon, tu peux contribuer à faire du monde un endroit plus beau. Car le ciel commence toujours dans ton cœur lorsque tu dis non au péché. L’état du monde dépend aussi de toi.</p>
+<p>&nbsp;</p>
+<p><a class="fl-button" style="color: #1c1c1c;" href="https://youcat.org/fr/credopedia/examen_de_conscience/"><span class="s2">Lien vers l’examen de conscience</span></a></p>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col-group fl-node-bpg8h73rxdve" data-node="bpg8h73rxdve">
+<div id="yc-digital" class="fl-col fl-node-iyxcvzh01a59 fl-col-bg-color fl-col-small fl-visible-desktop fl-visible-large" data-node="iyxcvzh01a59">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-049u2w8pimax" data-node="049u2w8pimax">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-webp">
+<img loading="lazy" decoding="async" class="fl-photo-img wp-image-1379 size-full" src="https://youcat.org/wp-content/uploads/2023/07/youcat-digital-teaser.webp" alt="youcat-digital-teaser" itemprop="image" height="400" width="556" title="youcat-digital-teaser" srcset="https://youcat.org/wp-content/uploads/2023/07/youcat-digital-teaser.webp 556w, https://youcat.org/wp-content/uploads/2023/07/youcat-digital-teaser-300x216.webp 300w, https://youcat.org/wp-content/uploads/2023/07/youcat-digital-teaser-18x12.webp 18w" sizes="auto, (max-width: 556px) 100vw, 556px" />
+</div>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-8efinp7vqb96" data-node="8efinp7vqb96">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<h2>YOUCAT Digital</h2>
+<p>Découvre ici nos produits numériques qui t'aideront à grandir dans la foi et à devenir toi-même missionnaire.</p>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-button fl-node-9zpj7e4t5rqh yc-button-small" data-node="9zpj7e4t5rqh">
+<div class="fl-module-content fl-node-content">
+<div class="fl-button-wrap fl-button-width-auto fl-button-left fl-button-has-icon">
+<a href="https://youcat.org/fr/youcat-digital/" target="_self" class="fl-button">
+<span class="fl-button-text">Découvrir</span>
+<i class="fl-button-icon fl-button-icon-after icon yc-icon-yc-button-arrow" aria-hidden="true"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="yc-credopedia" class="fl-col fl-node-lxchpyo7801t fl-col-bg-color fl-col-small" data-node="lxchpyo7801t">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-lkh8uc4qej6n" data-node="lkh8uc4qej6n">
+<div class="fl-module-content fl-node-content">
+<h2 class="fl-heading">
+<span class="fl-heading-text">Plus d'articles sur Credopedia :</span>
+</h2>
+</div>
+</div>
+<div class="fl-module fl-module-post-grid fl-node-jhli170xy28v" data-node="jhli170xy28v">
+<div class="fl-module-content fl-node-content">
+<div class="fl-post-grid" itemscope="itemscope" itemtype="https://schema.org/Collection">
+<div class="fl-post-column">
+<div class="fl-post-grid-post fl-post-grid-image-above-title fl-post-columns-post fl-post-align-default post-1144 credopedia type-credopedia status-publish has-post-thumbnail hentry category-faq category-uncategorized" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://youcat.org/fr/credopedia/prieres-catholiques/" content="What are the 3 main catholic prayers?" /><meta itemprop="datePublished" content="2023-07-18" /><meta itemprop="dateModified" content="2024-05-07" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="YOUCAT"></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://youcat.org/fr/author/youcat-253-sm/" /><meta itemprop="name" content="Stani Mickovic" /></div><div itemscope itemprop="image" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://youcat.org/wp-content/uploads/2023/07/youcat-credopedia_what-are-the-3-main-catholic-prayers_mobile.webp" /><meta itemprop="width" content="780" /><meta itemprop="height" content="480" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><a href="https://youcat.org/fr/credopedia/prieres-catholiques/">
+<div class="yc-credopedia">
+<img width="320" height="320" src="https://youcat.org/wp-content/uploads/2023/07/youcat-credopedia_what-are-the-3-main-catholic-prayers_desktop-320x320.webp" class="attachment-thumbnail size-thumbnail" alt="Quelles sont les 3 prières catholiques les plus importantes ?" decoding="async" loading="lazy" />
+<div class="yc-title-wrapper">
+<span class="yc-title">Quelles sont les 3 principales</span><br />
+<span class="yc-title yc-title-highlight">prières ?</span>
+</div>
+</div>
+</a></div>
+</div>
+<div class="fl-post-column">
+<div class="fl-post-grid-post fl-post-align-default post-4948 credopedia type-credopedia status-publish hentry category-faq" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://youcat.org/fr/credopedia/addiction-le-desir-ardent-de-quelque-chose-de-plus/" content="Addiction: A longing for more" /><meta itemprop="datePublished" content="2024-09-02" /><meta itemprop="dateModified" content="2024-09-02" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="YOUCAT"></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://youcat.org/fr/author/youcat-253-sm/" /><meta itemprop="name" content="Stani Mickovic" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><a href="https://youcat.org/fr/credopedia/addiction-le-desir-ardent-de-quelque-chose-de-plus/">
+<div class="yc-credopedia">
+<img width="320" height="320" src="https://youcat.org/wp-content/uploads/2024/09/addiction_a_longing_for_more-320x320.webp" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />
+<div class="yc-title-wrapper">
+<span class="yc-title">L'addiction</span><br />
+<span class="yc-title yc-title-highlight">et le désir</span>
+</div>
+</div>
+</a></div>
+</div>
+<div class="fl-post-column">
+<div class="fl-post-grid-post fl-post-align-default post-4679 credopedia type-credopedia status-publish hentry category-love" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://youcat.org/fr/credopedia/la-force-du-pardon/" content="The power of forgiveness" /><meta itemprop="datePublished" content="2024-05-08" /><meta itemprop="dateModified" content="2024-05-14" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="YOUCAT"></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://youcat.org/fr/author/youcat-253-sm/" /><meta itemprop="name" content="Stani Mickovic" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><a href="https://youcat.org/fr/credopedia/la-force-du-pardon/">
+<div class="yc-credopedia">
+<img width="320" height="320" src="https://youcat.org/wp-content/uploads/2024/05/power_of_forgiveness-320x320.webp" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />
+<div class="yc-title-wrapper">
+<span class="yc-title">La force</span><br />
+<span class="yc-title yc-title-highlight">du pardon</span>
+</div>
+</div>
+</a></div>
+</div>
+<div class="fl-post-column">
+<div class="fl-post-grid-post fl-post-align-default post-4391 credopedia type-credopedia status-publish hentry category-sacraments" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://youcat.org/fr/credopedia/examen_de_conscience/" content="Confession Manual" /><meta itemprop="datePublished" content="2024-03-22" /><meta itemprop="dateModified" content="2024-05-08" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="YOUCAT"></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://youcat.org/fr/author/youcat-253-sm/" /><meta itemprop="name" content="Stani Mickovic" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><a href="https://youcat.org/fr/credopedia/examen_de_conscience/">
+<div class="yc-credopedia">
+<img width="320" height="320" src="https://youcat.org/wp-content/uploads/2024/03/confession_manual_2-320x320.webp" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />
+<div class="yc-title-wrapper">
+<span class="yc-title">Examen de</span><br />
+<span class="yc-title yc-title-highlight">conscience</span>
+</div>
+</div>
+</a></div>
+</div>
+</div>
+<div class="fl-clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="yc-products" class="fl-col fl-node-l81krtu2x3b0 fl-col-bg-color fl-col-small fl-visible-desktop fl-visible-large" data-node="l81krtu2x3b0">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-o4c3lfwqx0p1" data-node="o4c3lfwqx0p1">
+<div class="fl-module-content fl-node-content">
+<h2 class="fl-heading">
+<span class="fl-heading-text">Nos livres</span>
+</h2>
+</div>
+</div>
+<div class="fl-module fl-module-post-grid fl-node-3p1nq7x0brzo" data-node="3p1nq7x0brzo">
+<div class="fl-module-content fl-node-content">
+<div class="fl-post-grid" itemscope="itemscope" itemtype="https://schema.org/Collection">
+<div class="fl-post-column">
+<div class="fl-post-grid-post fl-post-align-default post-2951 products type-products status-publish hentry" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://youcat.org/fr/produits/youcat-365-tag-fur-tag/" content="YOUCAT 365 Tag für Tag" /><meta itemprop="datePublished" content="2023-07-24" /><meta itemprop="dateModified" content="2023-07-25" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="YOUCAT"></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://youcat.org/fr/author/cookie-1314-me/" /><meta itemprop="name" content="Marius Eilhard" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><div class="yc-product">
+<a href="https://youcat.org/fr/produits/youcat-365-tag-fur-tag/">
+<img width="556" height="508" src="https://youcat.org/wp-content/uploads/2023/07/365_tage_kalendar.webp" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://youcat.org/wp-content/uploads/2023/07/365_tage_kalendar.webp 556w, https://youcat.org/wp-content/uploads/2023/07/365_tage_kalendar-300x274.webp 300w, https://youcat.org/wp-content/uploads/2023/07/365_tage_kalendar-13x12.webp 13w" sizes="auto, (max-width: 556px) 100vw, 556px" />
+<h3 class="yc-title">YOUCAT 365 Tag für Tag</h3>
+<p class="yc-description">Inspiration générale</p>
+</a>
+</div></div>
+</div>
+<div class="fl-post-column">
+<div class="fl-post-grid-post fl-post-align-default post-1402 products type-products status-publish hentry" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://youcat.org/fr/produits/catechese-dialogique-2/" content="Dialogical Catechesis" /><meta itemprop="datePublished" content="2023-07-19" /><meta itemprop="dateModified" content="2025-06-20" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="YOUCAT"></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://youcat.org/fr/author/cookie-1314-me/" /><meta itemprop="name" content="Marius Eilhard" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><div class="yc-product">
+<a href="https://youcat.org/fr/produits/catechese-dialogique-2/">
+<img width="556" height="917" src="https://youcat.org/wp-content/uploads/2023/07/Dialogical-Catechesis.webp" class="attachment-full size-full" alt="Dialogical Catechesis" decoding="async" loading="lazy" srcset="https://youcat.org/wp-content/uploads/2023/07/Dialogical-Catechesis.webp 556w, https://youcat.org/wp-content/uploads/2023/07/Dialogical-Catechesis-182x300.webp 182w, https://youcat.org/wp-content/uploads/2023/07/Dialogical-Catechesis-7x12.webp 7w" sizes="auto, (max-width: 556px) 100vw, 556px" />
+<h3 class="yc-title">Dialogical Catechesis</h3>
+<p class="yc-description">An Innovative Concept for Practice</p>
+</a>
+</div></div>
+</div>
+<div class="fl-post-column">
+<div class="fl-post-grid-post fl-post-align-default post-1378 products type-products status-publish hentry" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://youcat.org/fr/produits/youcat-faith-course/" content="YOUCAT Faith Course" /><meta itemprop="datePublished" content="2023-07-19" /><meta itemprop="dateModified" content="2025-07-03" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="YOUCAT"></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://youcat.org/fr/author/cookie-1314-me/" /><meta itemprop="name" content="Marius Eilhard" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><div class="yc-product">
+<a href="https://youcat.org/fr/produits/youcat-faith-course/">
+<img width="556" height="917" src="https://youcat.org/wp-content/uploads/2023/07/Glaubenskurs.webp" class="attachment-full size-full" alt="Cours sur la foi" decoding="async" loading="lazy" srcset="https://youcat.org/wp-content/uploads/2023/07/Glaubenskurs.webp 556w, https://youcat.org/wp-content/uploads/2023/07/Glaubenskurs-182x300.webp 182w, https://youcat.org/wp-content/uploads/2023/07/Glaubenskurs-7x12.webp 7w" sizes="auto, (max-width: 556px) 100vw, 556px" />
+<h3 class="yc-title">YOUCAT Cours de foi</h3>
+<p class="yc-description">Une introduction à la foi catholique</p>
+</a>
+</div></div>
+</div>
+<div class="fl-post-column">
+<div class="fl-post-grid-post fl-post-align-default post-935 products type-products status-publish hentry" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://youcat.org/fr/produits/docat-2/" content="DOCAT" /><meta itemprop="datePublished" content="2023-07-11" /><meta itemprop="dateModified" content="2025-04-17" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="YOUCAT"></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://youcat.org/fr/author/cookie-1314-ss/" /><meta itemprop="name" content="Samuel Schmitt" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div><div class="yc-product">
+<a href="https://youcat.org/fr/produits/docat-2/">
+<img width="556" height="808" src="https://youcat.org/wp-content/uploads/2023/07/docat_fra.webp" class="attachment-full size-full" alt="Docat" decoding="async" loading="lazy" srcset="https://youcat.org/wp-content/uploads/2023/07/docat_fra.webp 556w, https://youcat.org/wp-content/uploads/2023/07/docat_fra-206x300.webp 206w, https://youcat.org/wp-content/uploads/2023/07/docat_fra-8x12.webp 8w" sizes="auto, (max-width: 556px) 100vw, 556px" />
+<h3 class="yc-title">DOCAT</h3>
+<p class="yc-description">Doctrine sociale de l'Église catholique</p>
+</a>
+</div></div>
+</div>
+</div>
+<div class="fl-clear"></div>
+</div>
+</div>
+<div class="fl-module fl-module-button fl-node-mfkt5i9h0duj yc-button" data-node="mfkt5i9h0duj">
+<div class="fl-module-content fl-node-content">
+<div class="fl-button-wrap fl-button-width-auto fl-button-left">
+<a href="https://youcat.org/fr/produits/" target="_self" class="fl-button">
+<span class="fl-button-text">Afficher tous les livres</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><!-- .fl-page-content -->
+<footer class="fl-builder-content fl-builder-content-2005 fl-builder-global-templates-locked" data-post-id="2005" data-type="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div id="footer" class="fl-row fl-row-full-width fl-row-bg-none fl-node-g2kra4yp63nz fl-row-default-height fl-row-align-center" data-node="g2kra4yp63nz">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-full-width fl-node-content">
+<div class="fl-col-group fl-node-htg3kxmj6psd" data-node="htg3kxmj6psd">
+<div class="fl-col fl-node-7ytlnxb0oqd1 fl-col-bg-color fl-col-small yc-logo-column" data-node="7ytlnxb0oqd1">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-6c2qeh9pu8wd yc-logo" data-node="6c2qeh9pu8wd">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-svg">
+<img loading="lazy" decoding="async" class="fl-photo-img wp-image-1772 size-full" src="https://youcat.org/wp-content/uploads/2023/07/yc-logo.svg" alt="Logo YOUCAT" itemprop="image" height="0" width="0" title="yc-logo"  />
+</div>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-f80soyvpei5g" data-node="f80soyvpei5g">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p class="yc-description">Livres et applications pour apprendre à connaître la foi catholique d'une manière simple et attrayante. Le contenu est officiellement vérifié et confirmé par la Congrégation pour la Doctrine de la Foi à Rome.</p>
+<p class="yc-copyright">©2023 YOUCAT Foundation. Tous droits réservés.</p>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-menu fl-node-r7cmydzbp9wf fl-visible-medium fl-visible-mobile yc-menu" data-node="r7cmydzbp9wf">
+<div class="fl-module-content fl-node-content">
+<div class="fl-menu fl-menu-accordion-collapse">
+<div class="fl-clear"></div>
+<nav aria-label="Menu de bas de page Mobile" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-footer-mobile" class="menu fl-menu-accordion fl-toggle-arrows"><li id="menu-item-2093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a href="https://youcat.org/fr/?attachment_id=1379">Fondation YOUCAT</a><span class="fl-menu-toggle"></span></div><ul class="sub-menu">	<li id="menu-item-2094" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/publications/">YOUCAT Publications</a></li>	<li id="menu-item-2095" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/produits/">Nos livres</a></li>	<li id="menu-item-2096" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/nouvelles/">Nouvelles</a></li>	<li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/don/">Votre don</a></li>	<li id="menu-item-2788" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/missionary-network/">Missionary Network</a></li>	<li id="menu-item-2787" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/?attachment_id=1379">JEUNE MISSIO</a></li>	<li id="menu-item-5742" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/wp-content/uploads/2025/07/202502-Ausschreibung-Digital-Content-Creator-.pdf">Job Offer</a></li></ul></li><li id="menu-item-2098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a href="https://youcat.org/fr/youcat-digital/">Matériel numérique</a><span class="fl-menu-toggle"></span></div><ul class="sub-menu">	<li id="menu-item-2783" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/youcat-digital/">YOUCAT Digital</a></li>	<li id="menu-item-2904" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/?attachment_id=1379">YOUCAT Quotidien</a></li>	<li id="menu-item-2905" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/docat-app/">DOCAT App</a></li>	<li id="menu-item-2099" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/credopedia/">Credopedia</a></li>	<li id="menu-item-2101" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/materiel-supplementaire/">Matériel bonus gratuit</a></li></ul></li><li id="menu-item-2102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a href="https://youcat.org/fr/?attachment_id=1379">Informations</a><span class="fl-menu-toggle"></span></div><ul class="sub-menu">	<li id="menu-item-2784" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/contact/">Contact</a></li>	<li id="menu-item-2786" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/shipping-and-payment-conditions/">Expédition</a></li>	<li id="menu-item-2785" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/terms-and-conditions/">Conditions générales</a></li></ul></li></ul></nav></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-5slkz2nepxa8 fl-col-bg-color fl-col-small fl-visible-desktop fl-visible-large yc-menu-wrapper yc-menu-left" data-node="5slkz2nepxa8">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-oqh8w6dbgvsz" data-node="oqh8w6dbgvsz">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<h2>Fondation YOUCAT</h2>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-menu fl-node-417zpgbtl3ok yc-menu" data-node="417zpgbtl3ok">
+<div class="fl-module-content fl-node-content">
+<div class="fl-menu">
+<div class="fl-clear"></div>
+<nav aria-label="Menu de bas de page Fondation YOUCAT" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-footer-youcat-foundation" class="menu fl-menu-vertical fl-toggle-none"><li id="menu-item-2020" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/publications/">YOUCAT Publications</a></li><li id="menu-item-2023" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/produits/">Nos livres</a></li><li id="menu-item-2022" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/nouvelles/">Nouvelles</a></li><li id="menu-item-2773" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/missionary-network/">Missionary Network</a></li><li id="menu-item-2021" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/don/">Votre don</a></li><li id="menu-item-2772" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/?attachment_id=1379">JEUNE MISSIO</a></li><li id="menu-item-5104" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/wp-content/uploads/2025/07/202502-Ausschreibung-Digital-Content-Creator-.pdf">Job Offer</a></li></ul></nav></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-wpvfm215ay4d fl-col-bg-color fl-col-small fl-visible-desktop fl-visible-large yc-menu-wrapper yc-menu-middle" data-node="wpvfm215ay4d">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-bvqils5pnuaj fl-visible-desktop fl-visible-large yc-hide-on-laptop" data-node="bvqils5pnuaj">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<h2>Matériaux numériques</h2>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-menu fl-node-a9g4l8pniw35 fl-visible-desktop fl-visible-large yc-menu" data-node="a9g4l8pniw35">
+<div class="fl-module-content fl-node-content">
+<div class="fl-menu">
+<div class="fl-clear"></div>
+<nav aria-label="Menu de bas de page YOUCAT Digital" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-footer-youcat-digital" class="menu fl-menu-vertical fl-toggle-none"><li id="menu-item-2705" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/youcat-digital/">YOUCAT Digital</a></li><li id="menu-item-2907" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/docat-app/">DOCAT App</a></li><li id="menu-item-2024" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/credopedia/">Credopedia</a></li><li id="menu-item-2026" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/materiel-supplementaire/">Matériel bonus gratuit</a></li></ul></nav></div>
+</div>
+</div>
+<div class="fl-module fl-module-menu fl-node-8ka1cx5nptl4 fl-visible-desktop fl-visible-large yc-menu yc-menu-notebook" data-node="8ka1cx5nptl4">
+<div class="fl-module-content fl-node-content">
+<div class="fl-menu fl-menu-accordion-collapse">
+<div class="fl-clear"></div>
+<nav aria-label="Carnet de notes du menu de bas de page" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-footer-mobile-1" class="menu fl-menu-accordion fl-toggle-arrows"><li id="menu-item-2093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a href="https://youcat.org/fr/?attachment_id=1379">Fondation YOUCAT</a><span class="fl-menu-toggle"></span></div><ul class="sub-menu">	<li id="menu-item-2094" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/publications/">YOUCAT Publications</a></li>	<li id="menu-item-2095" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/produits/">Nos livres</a></li>	<li id="menu-item-2096" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/nouvelles/">Nouvelles</a></li>	<li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/don/">Votre don</a></li>	<li id="menu-item-2788" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/missionary-network/">Missionary Network</a></li>	<li id="menu-item-2787" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/?attachment_id=1379">JEUNE MISSIO</a></li>	<li id="menu-item-5742" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/wp-content/uploads/2025/07/202502-Ausschreibung-Digital-Content-Creator-.pdf">Job Offer</a></li></ul></li><li id="menu-item-2098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a href="https://youcat.org/fr/youcat-digital/">Matériel numérique</a><span class="fl-menu-toggle"></span></div><ul class="sub-menu">	<li id="menu-item-2783" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/youcat-digital/">YOUCAT Digital</a></li>	<li id="menu-item-2904" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/?attachment_id=1379">YOUCAT Quotidien</a></li>	<li id="menu-item-2905" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/docat-app/">DOCAT App</a></li>	<li id="menu-item-2099" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/credopedia/">Credopedia</a></li>	<li id="menu-item-2101" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://youcat.org/fr/materiel-supplementaire/">Matériel bonus gratuit</a></li></ul></li><li id="menu-item-2102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a href="https://youcat.org/fr/?attachment_id=1379">Informations</a><span class="fl-menu-toggle"></span></div><ul class="sub-menu">	<li id="menu-item-2784" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/contact/">Contact</a></li>	<li id="menu-item-2786" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/shipping-and-payment-conditions/">Expédition</a></li>	<li id="menu-item-2785" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/terms-and-conditions/">Conditions générales</a></li></ul></li></ul></nav></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-wr3pf96lodyg fl-col-bg-color fl-col-small fl-visible-desktop fl-visible-large yc-menu-wrapper yc-menu-right" data-node="wr3pf96lodyg">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-vu5opkw8lqi0" data-node="vu5opkw8lqi0">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<h2>Informations</h2>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-menu fl-node-g8j76l9votsw yc-menu" data-node="g8j76l9votsw">
+<div class="fl-module-content fl-node-content">
+<div class="fl-menu">
+<div class="fl-clear"></div>
+<nav aria-label="Infosites du menu de bas de page" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-footer-youcat-information" class="menu fl-menu-vertical fl-toggle-none"><li id="menu-item-2771" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/contact/">Contact</a></li><li id="menu-item-2764" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/shipping-and-payment-conditions/">Expédition</a></li><li id="menu-item-2763" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/terms-and-conditions/">Conditions générales</a></li></ul></nav></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="second-footer" class="fl-row fl-row-full-width fl-row-bg-none fl-node-y5dhq61jgsme fl-row-default-height fl-row-align-center" data-node="y5dhq61jgsme">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-full-width fl-node-content">
+<div class="fl-col-group fl-node-h8rslbftda0p" data-node="h8rslbftda0p">
+<div class="fl-col fl-node-s3ufkxdja8rg fl-col-bg-color fl-col-small yc-language" data-node="s3ufkxdja8rg">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-v0qzl3647ao1" data-node="v0qzl3647ao1">
+<div class="fl-module-content fl-node-content">
+<div class="fl-menu">
+<div class="fl-clear"></div>
+<nav aria-label="Commutateur de langue" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-second-footer-language" class="menu fl-menu-horizontal fl-toggle-arrows"><li id="menu-item-2012" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-has-children current-language-menu-item fl-has-submenu"><div class="fl-has-submenu-container"><a href="https://youcat.org/fr/credopedia/tous-les-peches-ne-sont-pas-equivalents/"><span data-no-translation><span class="trp-ls-language-name">FR</span></span></a><span class="fl-menu-toggle"></span></div><ul class="sub-menu">	<li id="menu-item-2014" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/credopedia/not-all-sins-are-the-same/"><span data-no-translation><span class="trp-ls-language-name">EN</span></span></a></li>	<li id="menu-item-2013" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/de/credopedia/suende-ist-nicht-gleich-suende/"><span data-no-translation><span class="trp-ls-language-name">DE</span></span></a></li>	<li id="menu-item-2017" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/pl/credopedia/not-all-sins-are-the-same/"><span data-no-translation><span class="trp-ls-language-name">PL</span></span></a></li>	<li id="menu-item-2015" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/pt/credopedia/nem-todos-os-pecado-sao-iguais/"><span data-no-translation><span class="trp-ls-language-name">PT</span></span></a></li>	<li id="menu-item-2016" class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher"><a href="https://youcat.org/es/credopedia/no-todo-pecado-es-igual/"><span data-no-translation><span class="trp-ls-language-name">ES</span></span></a></li></ul></li></ul></nav></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-1cu6mngrz34o fl-col-bg-color fl-col-small yc-menu" data-node="1cu6mngrz34o">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-d047upl6b3sy" data-node="d047upl6b3sy">
+<div class="fl-module-content fl-node-content">
+<div class="fl-menu">
+<div class="fl-clear"></div>
+<nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-second-footer" class="menu fl-menu-vertical fl-toggle-none"><li id="menu-item-2740" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/imprint/">Mentions légales</a></li><li id="menu-item-2792" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/privacy/">Vie privée</a></li><li id="menu-item-2766" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/copyright/">Copyright</a></li><li id="menu-item-2765" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://youcat.org/fr/disclaimer/">Clause de non-responsabilité</a></li></ul></nav></div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-9y8wv6pik5hl fl-col-bg-color fl-col-small yc-socials" data-node="9y8wv6pik5hl">
+<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-icon-group fl-node-d3mrzoab41vn" data-node="d3mrzoab41vn">
+<div class="fl-module-content fl-node-content">
+<div class="fl-icon-group">
+<span class="fl-icon">
+<a href="https://www.facebook.com/youcat" target="_blank" rel="noopener" >
+<i class="icon yc-icon-yc-facebook" aria-hidden="true"></i>
+</a>
+</span>
+<span class="fl-icon">
+<a href="https://www.instagram.com/youcat/" target="_blank" rel="noopener" >
+<i class="icon yc-icon-yc-instagram" aria-hidden="true"></i>
+</a>
+</span>
+<span class="fl-icon">
+<a href="https://twitter.com/youcat" target="_blank" rel="noopener" >
+<i class="icon yc-icon-yc-twitter" aria-hidden="true"></i>
+</a>
+</span>
+<span class="fl-icon">
+<a href="https://www.youtube.com/channel/UCpbsesEgn94unsYghuvQQxw" target="_self">
+<i class="icon yc-icon-yc-youtube" aria-hidden="true"></i>
+</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col-group fl-node-z10vfq2w5o47" data-node="z10vfq2w5o47">
+<div class="fl-col fl-node-kq4zh3mgl852 fl-col-bg-color" data-node="kq4zh3mgl852">
+<div class="fl-col-content fl-node-content"><div  class="fl-module fl-module-rich-text fl-rich-text fl-node-i3en2d8m95u7" data-node="i3en2d8m95u7">
+<p><span style="font-size: 10px;">Design &amp; Entwicklung durch <a style="color: #999; font-size: 10px; text-decoration: underline;" title="E-Commerce Agentur – COOKIE Design" href="https://cookie.design" target="_blank" rel="noopener">COOKIE Design</a></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>	</div><!-- .fl-page -->
+<template id="tp-language" data-tp-language="fr_FR"></template><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/fr\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/bb-theme-child\/*","\/wp-content\/themes\/bb-theme\/*","\/fr\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!--googleoff: all--><div data-nosnippet><script id="BorlabsCookieBoxWrap" type="text/template"><div
+id="BorlabsCookieBox"
+class="BorlabsCookie"
+role="dialog"
+aria-labelledby="CookieBoxTextHeadline"
+aria-describedby="CookieBoxTextDescription"
+aria-modal="true"
+>
+<div class="middle-center" style="display: none;">
+<div class="_brlbs-box-wrap _brlbs-box-plus-wrap">
+<div class="_brlbs-box _brlbs-box-plus">
+<div class="cookie-box">
+<div class="container">
+<div class="_brlbs-flex-center">
+<img
+width="32"
+height="32"
+class="cookie-logo"
+src="https://youcat.org/wp-content/uploads/2023/07/YOUCAT-Logo-fav.svg"
+srcset="https://youcat.org/wp-content/uploads/2023/07/YOUCAT-Logo-fav.svg, https://youcat.org/wp-content/uploads/2023/07/YOUCAT-Logo-fav.svg 2x"
+alt="Privacy Preference"
+aria-hidden="true"
+>
+<span role="heading" aria-level="3" class="_brlbs-h3" id="CookieBoxTextHeadline">Privacy Preference</span>
+</div>
+<div class="row">
+<div class="col-md-6 col-12">
+<p id="CookieBoxTextDescription"><span class="_brlbs-paragraph _brlbs-text-description">We need your consent before you can continue on our website.</span> <span class="_brlbs-paragraph _brlbs-text-confirm-age">If you are under 16 and wish to give consent to optional services, you must ask your legal guardians for permission.</span> <span class="_brlbs-paragraph _brlbs-text-technology">We use cookies and other technologies on our website. Some of them are essential, while others help us to improve this website and your experience.</span> <span class="_brlbs-paragraph _brlbs-text-personal-data">Personal data may be processed (e.g. IP addresses), for example for personalized ads and content or ad and content measurement.</span> <span class="_brlbs-paragraph _brlbs-text-more-information">You can find more information about the use of your data in our <a class="_brlbs-cursor" href="https://youcat.org/privacy/">privacy policy</a>.</span> <span class="_brlbs-paragraph _brlbs-text-revoke">You can revoke or adjust your selection at any time under <a class="_brlbs-cursor" href="#" data-cookie-individual>Settings</a>.</span></p>
+</div>
+<div class="col-md-6 col-12">
+<fieldset>
+<legend class="sr-only">Privacy Preference</legend>
+<ul>
+<li>
+<label class="_brlbs-checkbox">
+Essential                                                            <input
+id="checkbox-essential"
+tabindex="0"
+type="checkbox"
+name="cookieGroup[]"
+value="essential"
+checked                                                                 disabled                                                                data-borlabs-cookie-checkbox
+>
+<span class="_brlbs-checkbox-indicator"></span>
+</label>
+<p class="_brlbs-service-group-description">Essential cookies enable basic functions and are necessary for the proper function of the website.</p>
+</li>
+<li>
+<label class="_brlbs-checkbox">
+Statistics                                                            <input
+id="checkbox-statistics"
+tabindex="0"
+type="checkbox"
+name="cookieGroup[]"
+value="statistics"
+checked                                                                                                                                data-borlabs-cookie-checkbox
+>
+<span class="_brlbs-checkbox-indicator"></span>
+</label>
+<p class="_brlbs-service-group-description">Statistics cookies collect information anonymously. This information helps us to understand how our visitors use our website.</p>
+</li>
+<li>
+<label class="_brlbs-checkbox">
+External Media                                                            <input
+id="checkbox-external-media"
+tabindex="0"
+type="checkbox"
+name="cookieGroup[]"
+value="external-media"
+checked                                                                                                                                data-borlabs-cookie-checkbox
+>
+<span class="_brlbs-checkbox-indicator"></span>
+</label>
+<p class="_brlbs-service-group-description">Content from video platforms and social media platforms is blocked by default. If External Media cookies are accepted, access to those contents no longer requires manual consent.</p>
+</li>
+</ul>
+</fieldset>
+</div>
+</div>
+<div class="row  _brlbs-button-area">
+<div class="col-md-6 col-12">
+<p class="_brlbs-accept">
+<a
+href="#"
+tabindex="0"
+role="button"
+class="_brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+data-cookie-accept-all
+>
+Accept all                                    </a>
+</p>
+</div>
+<div class="col-md-6 col-12">
+<p class="_brlbs-accept">
+<a
+href="#"
+tabindex="0"
+role="button"
+id="CookieBoxSaveButton"
+class="_brlbs-btn _brlbs-cursor"
+data-cookie-accept
+>
+Save                                    </a>
+</p>
+</div>
+<div class="col-12">
+<p class="_brlbs-refuse-btn">
+<a
+class="_brlbs-btn _brlbs-cursor"
+href="#"
+tabindex="0"
+role="button"
+data-cookie-refuse
+>
+Accept only essential cookies                                        </a>
+</p>
+</div>
+<div class="col-12">
+<p class="_brlbs-manage-btn">
+<a
+href="#"
+tabindex="0"
+role="button"
+class="_brlbs-cursor _brlbs-btn"
+data-cookie-individual
+>
+Individual Privacy Preferences                                        </a>
+</p>
+</div>
+</div>
+<div class="_brlbs-legal row _brlbs-flex-center">
+<a href="#" class="_brlbs-cursor" tabindex="0" role="button" data-cookie-individual>
+Cookie Details                            </a>
+<span class="_brlbs-separator"></span>
+<a href="https://youcat.org/privacy/" tabindex="0" role="button">
+Privacy Policy                                </a>
+<span class="_brlbs-separator"></span>
+<a href="https://youcat.org/imprint/" tabindex="0" role="button">
+Imprint                                </a>
+</div>
+</div>
+</div>
+<div
+class="cookie-preference"
+aria-hidden="true"
+role="dialog"
+aria-describedby="CookiePrefDescription"
+aria-modal="true"
+>
+<div class="container not-visible">
+<div class="row no-gutters">
+<div class="col-12">
+<div class="row no-gutters align-items-top">
+<div class="col-12">
+<div class="_brlbs-flex-center">
+<img
+width="32"
+height="32"
+class="cookie-logo"
+src="https://youcat.org/wp-content/uploads/2023/07/YOUCAT-Logo-fav.svg"
+srcset="https://youcat.org/wp-content/uploads/2023/07/YOUCAT-Logo-fav.svg, https://youcat.org/wp-content/uploads/2023/07/YOUCAT-Logo-fav.svg 2x"
+alt="Privacy Preference"
+>
+<span role="heading" aria-level="3" class="_brlbs-h3">Privacy Preference</span>
+</div>
+<p id="CookiePrefDescription">
+<span class="_brlbs-paragraph _brlbs-text-confirm-age">If you are under 16 and wish to give consent to optional services, you must ask your legal guardians for permission.</span> <span class="_brlbs-paragraph _brlbs-text-technology">We use cookies and other technologies on our website. Some of them are essential, while others help us to improve this website and your experience.</span> <span class="_brlbs-paragraph _brlbs-text-personal-data">Personal data may be processed (e.g. IP addresses), for example for personalized ads and content or ad and content measurement.</span> <span class="_brlbs-paragraph _brlbs-text-more-information">You can find more information about the use of your data in our <a class="_brlbs-cursor" href="https://youcat.org/privacy/">privacy policy</a>.</span> <span class="_brlbs-paragraph _brlbs-text-description">Here you will find an overview of all cookies used. You can give your consent to whole categories or display further information and select certain cookies.</span>                        </p>
+<div class="row no-gutters align-items-center">
+<div class="col-12 col-sm-10">
+<p class="_brlbs-accept">
+<a
+href="#"
+class="_brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+tabindex="0"
+role="button"
+data-cookie-accept-all
+>
+Accept all                                        </a>
+<a
+href="#"
+id="CookiePrefSave"
+tabindex="0"
+role="button"
+class="_brlbs-btn _brlbs-cursor"
+data-cookie-accept
+>
+Save                                    </a>
+<a
+href="#"
+class="_brlbs-btn _brlbs-refuse-btn _brlbs-cursor"
+tabindex="0"
+role="button"
+data-cookie-refuse
+>
+Accept only essential cookies                                        </a>
+</p>
+</div>
+<div class="col-12 col-sm-2">
+<p class="_brlbs-refuse">
+<a
+href="#"
+class="_brlbs-cursor"
+tabindex="0"
+role="button"
+data-cookie-back
+>
+Back                                    </a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div data-cookie-accordion>
+<fieldset>
+<legend class="sr-only">Privacy Preference</legend>
+<div class="bcac-item">
+<div class="d-flex flex-row">
+<label class="w-75">
+<span role="heading" aria-level="4" class="_brlbs-h4">Essential (1)</span>
+</label>
+<div class="w-25 text-right">
+</div>
+</div>
+<div class="d-block">
+<p>Essential cookies enable basic functions and are necessary for the proper function of the website.</p>
+<p class="text-center">
+<a
+href="#"
+class="_brlbs-cursor d-block"
+tabindex="0"
+role="button"
+data-cookie-accordion-target="essential"
+>
+<span data-cookie-accordion-status="show">
+Show Cookie Information                                                    </span>
+<span data-cookie-accordion-status="hide" class="borlabs-hide">
+Hide Cookie Information                                                    </span>
+</a>
+</p>
+</div>
+<div
+class="borlabs-hide"
+data-cookie-accordion-parent="essential"
+>
+<table>
+<tr>
+<th scope="row">Name</th>
+<td>
+<label>
+Borlabs Cookie                                                            </label>
+</td>
+</tr>
+<tr>
+<th scope="row">Provider</th>
+<td>Owner of this website<span>, </span><a href="https://youcat.org/imprint/">Imprint</a></td>
+</tr>
+<tr>
+<th scope="row">Purpose</th>
+<td>Saves the visitors preferences selected in the Cookie Box of Borlabs Cookie.</td>
+</tr>
+<tr>
+<th scope="row">Cookie Name</th>
+<td>borlabs-cookie</td>
+</tr>
+<tr>
+<th scope="row">Cookie Expiry</th>
+<td>1 Year</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="bcac-item">
+<div class="d-flex flex-row">
+<label class="w-75">
+<span role="heading" aria-level="4" class="_brlbs-h4">Statistics (1)</span>
+</label>
+<div class="w-25 text-right">
+<label class="_brlbs-btn-switch">
+<span class="sr-only">Statistics</span>
+<input
+tabindex="0"
+id="borlabs-cookie-group-statistics"
+type="checkbox"
+name="cookieGroup[]"
+value="statistics"
+checked                                                            data-borlabs-cookie-switch
+/>
+<span class="_brlbs-slider"></span>
+<span
+class="_brlbs-btn-switch-status"
+data-active="On"
+data-inactive="Off">
+</span>
+</label>
+</div>
+</div>
+<div class="d-block">
+<p>Statistics cookies collect information anonymously. This information helps us to understand how our visitors use our website.</p>
+<p class="text-center">
+<a
+href="#"
+class="_brlbs-cursor d-block"
+tabindex="0"
+role="button"
+data-cookie-accordion-target="statistics"
+>
+<span data-cookie-accordion-status="show">
+Show Cookie Information                                                    </span>
+<span data-cookie-accordion-status="hide" class="borlabs-hide">
+Hide Cookie Information                                                    </span>
+</a>
+</p>
+</div>
+<div
+class="borlabs-hide"
+data-cookie-accordion-parent="statistics"
+>
+<table>
+<tr>
+<th scope="row">Accept</th>
+<td>
+<label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+<span class="sr-only">Google Analytics</span>
+<input
+id="borlabs-cookie-google-analytics"
+tabindex="0"
+type="checkbox" data-cookie-group="statistics"
+name="cookies[statistics][]"
+value="google-analytics"
+checked                                                                        data-borlabs-cookie-switch
+/>
+<span class="_brlbs-slider"></span>
+<span
+class="_brlbs-btn-switch-status"
+data-active="On"
+data-inactive="Off"
+aria-hidden="true">
+</span>
+</label>
+</td>
+</tr>
+<tr>
+<th scope="row">Name</th>
+<td>
+<label>
+Google Analytics                                                            </label>
+</td>
+</tr>
+<tr>
+<th scope="row">Provider</th>
+<td>Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland</td>
+</tr>
+<tr>
+<th scope="row">Purpose</th>
+<td>Cookie by Google used for website analytics. Generates statistical data on how the visitor uses the website.</td>
+</tr>
+<tr>
+<th scope="row">Privacy Policy</th>
+<td class="_brlbs-pp-url">
+<a
+href="https://policies.google.com/privacy?hl=en"
+target="_blank"
+rel="nofollow noopener noreferrer"
+>
+https://policies.google.com/privacy?hl=en                                                                </a>
+</td>
+</tr>
+<tr>
+<th scope="row">Cookie Name</th>
+<td>_ga,_gat,_gid</td>
+</tr>
+<tr>
+<th scope="row">Cookie Expiry</th>
+<td>2 Months</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="bcac-item">
+<div class="d-flex flex-row">
+<label class="w-75">
+<span role="heading" aria-level="4" class="_brlbs-h4">External Media (2)</span>
+</label>
+<div class="w-25 text-right">
+<label class="_brlbs-btn-switch">
+<span class="sr-only">External Media</span>
+<input
+tabindex="0"
+id="borlabs-cookie-group-external-media"
+type="checkbox"
+name="cookieGroup[]"
+value="external-media"
+checked                                                            data-borlabs-cookie-switch
+/>
+<span class="_brlbs-slider"></span>
+<span
+class="_brlbs-btn-switch-status"
+data-active="On"
+data-inactive="Off">
+</span>
+</label>
+</div>
+</div>
+<div class="d-block">
+<p>Content from video platforms and social media platforms is blocked by default. If External Media cookies are accepted, access to those contents no longer requires manual consent.</p>
+<p class="text-center">
+<a
+href="#"
+class="_brlbs-cursor d-block"
+tabindex="0"
+role="button"
+data-cookie-accordion-target="external-media"
+>
+<span data-cookie-accordion-status="show">
+Show Cookie Information                                                    </span>
+<span data-cookie-accordion-status="hide" class="borlabs-hide">
+Hide Cookie Information                                                    </span>
+</a>
+</p>
+</div>
+<div
+class="borlabs-hide"
+data-cookie-accordion-parent="external-media"
+>
+<table>
+<tr>
+<th scope="row">Accept</th>
+<td>
+<label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+<span class="sr-only">Custom</span>
+<input
+id="borlabs-cookie-donorbox"
+tabindex="0"
+type="checkbox" data-cookie-group="external-media"
+name="cookies[external-media][]"
+value="donorbox"
+checked                                                                        data-borlabs-cookie-switch
+/>
+<span class="_brlbs-slider"></span>
+<span
+class="_brlbs-btn-switch-status"
+data-active="On"
+data-inactive="Off"
+aria-hidden="true">
+</span>
+</label>
+</td>
+</tr>
+<tr>
+<th scope="row">Name</th>
+<td>
+<label>
+Custom                                                            </label>
+</td>
+</tr>
+<tr>
+<th scope="row">Provider</th>
+<td>donorbox.org</td>
+</tr>
+<tr>
+<th scope="row">Purpose</th>
+<td>Used to unblock Donorbox content.</td>
+</tr>
+<tr>
+<th scope="row">Privacy Policy</th>
+<td class="_brlbs-pp-url">
+<a
+href="https://donorbox.org/privacy"
+target="_blank"
+rel="nofollow noopener noreferrer"
+>
+https://donorbox.org/privacy                                                                </a>
+</td>
+</tr>
+<tr>
+<th scope="row">Host(s)</th>
+<td>donorbox.org</td>
+</tr>
+<tr>
+<th scope="row">Cookie Name</th>
+<td>Donorbox</td>
+</tr>
+<tr>
+<th scope="row">Cookie Expiry</th>
+<td>182</td>
+</tr>
+</table>
+<table>
+<tr>
+<th scope="row">Accept</th>
+<td>
+<label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+<span class="sr-only">YouTube</span>
+<input
+id="borlabs-cookie-youtube"
+tabindex="0"
+type="checkbox" data-cookie-group="external-media"
+name="cookies[external-media][]"
+value="youtube"
+checked                                                                        data-borlabs-cookie-switch
+/>
+<span class="_brlbs-slider"></span>
+<span
+class="_brlbs-btn-switch-status"
+data-active="On"
+data-inactive="Off"
+aria-hidden="true">
+</span>
+</label>
+</td>
+</tr>
+<tr>
+<th scope="row">Name</th>
+<td>
+<label>
+YouTube                                                            </label>
+</td>
+</tr>
+<tr>
+<th scope="row">Provider</th>
+<td>Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland</td>
+</tr>
+<tr>
+<th scope="row">Purpose</th>
+<td>Used to unblock YouTube content.</td>
+</tr>
+<tr>
+<th scope="row">Privacy Policy</th>
+<td class="_brlbs-pp-url">
+<a
+href="https://policies.google.com/privacy?hl=en&#038;gl=en"
+target="_blank"
+rel="nofollow noopener noreferrer"
+>
+https://policies.google.com/privacy?hl=en&#038;gl=en                                                                </a>
+</td>
+</tr>
+<tr>
+<th scope="row">Host(s)</th>
+<td>google.com</td>
+</tr>
+<tr>
+<th scope="row">Cookie Name</th>
+<td>NID</td>
+</tr>
+<tr>
+<th scope="row">Cookie Expiry</th>
+<td>6 Month</td>
+</tr>
+</table>
+</div>
+</div>
+</fieldset>
+</div>
+<div class="d-flex justify-content-between">
+<p class="_brlbs-branding flex-fill">
+<a
+href="https://borlabs.io/borlabs-cookie/"
+target="_blank"
+rel="nofollow noopener noreferrer"
+>
+<img src="https://youcat.org/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-icon-black.svg" alt="Borlabs Cookie" width="16" height="16">
+fourni par le Borlabs Cookie                            </a>
+</p>
+<p class="_brlbs-legal flex-fill">
+<a href="https://youcat.org/privacy/">
+Privacy Policy                            </a>
+<span class="_brlbs-separator"></span>
+<a href="https://youcat.org/imprint/">
+Imprint                            </a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</script><div id="BorlabsCookieBoxWidget"
+class="bottom-left"
+>
+<a
+href="#"
+class="borlabs-cookie-preference"
+target="_blank"
+title="Ouvrir les préférences de Cookie"
+rel="nofollow noopener noreferrer" data-no-translation-title=""
+>
+<svg>
+<use xlink:href="https://youcat.org/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-icon-dynamic.svg#main" />
+</svg>
+</a>
+</div>
+</div><!--googleon: all--><script id="trp-dynamic-translator-js-extra">
+var trp_data = {"trp_custom_ajax_url":"https:\/\/youcat.org\/wp-content\/plugins\/translatepress-multilingual\/includes\/trp-ajax.php","trp_wp_ajax_url":"https:\/\/youcat.org\/wp-admin\/admin-ajax.php","trp_language_to_query":"fr_FR","trp_original_language":"en_US","trp_current_language":"fr_FR","trp_skip_selectors":["[data-no-translation]","[data-no-dynamic-translation]","[data-trp-translate-id-innertext]","script","style","head","trp-span","translate-press","[data-trp-translate-id]","[data-trpgettextoriginal]","[data-trp-post-slug]"],"trp_base_selectors":["data-trp-translate-id","data-trpgettextoriginal","data-trp-post-slug"],"trp_attributes_selectors":{"text":{"accessor":"outertext","attribute":false},"block":{"accessor":"innertext","attribute":false},"image_src":{"selector":"img[src]","accessor":"src","attribute":true},"submit":{"selector":"input[type='submit'],input[type='button'], input[type='reset']","accessor":"value","attribute":true},"placeholder":{"selector":"input[placeholder],textarea[placeholder]","accessor":"placeholder","attribute":true},"title":{"selector":"[title]","accessor":"title","attribute":true},"a_href":{"selector":"a[href]","accessor":"href","attribute":true},"button":{"accessor":"outertext","attribute":false},"option":{"accessor":"innertext","attribute":false},"aria_label":{"selector":"[aria-label]","accessor":"aria-label","attribute":true},"video_src":{"selector":"video[src]","accessor":"src","attribute":true},"video_poster":{"selector":"video[poster]","accessor":"poster","attribute":true},"video_source_src":{"selector":"video source[src]","accessor":"src","attribute":true},"audio_src":{"selector":"audio[src]","accessor":"src","attribute":true},"audio_source_src":{"selector":"audio source[src]","accessor":"src","attribute":true},"picture_image_src":{"selector":"picture image[src]","accessor":"src","attribute":true},"picture_source_srcset":{"selector":"picture source[srcset]","accessor":"srcset","attribute":true},"image_alt":{"selector":"img[alt]","accessor":"alt","attribute":true},"meta_desc":{"selector":"meta[name=\"description\"],meta[property=\"og:title\"],meta[property=\"og:description\"],meta[property=\"og:site_name\"],meta[property=\"og:image:alt\"],meta[name=\"twitter:title\"],meta[name=\"twitter:description\"],meta[name=\"twitter:image:alt\"],meta[name=\"DC.Title\"],meta[name=\"DC.Description\"],meta[property=\"article:section\"],meta[property=\"article:tag\"]","accessor":"content","attribute":true},"page_title":{"selector":"title","accessor":"innertext","attribute":false},"meta_desc_img":{"selector":"meta[property=\"og:image\"],meta[property=\"og:image:secure_url\"],meta[name=\"twitter:image\"]","accessor":"content","attribute":true}},"trp_attributes_accessors":["outertext","innertext","src","value","placeholder","title","href","aria-label","poster","srcset","alt","content"],"gettranslationsnonceregular":"36b133b2d5","showdynamiccontentbeforetranslation":"","skip_strings_from_dynamic_translation":[],"skip_strings_from_dynamic_translation_for_substrings":{"href":["amazon-adsystem","googleads","g.doubleclick"]},"duplicate_detections_allowed":"100","trp_translate_numerals_opt":"yes","trp_no_auto_translation_selectors":["[data-no-auto-translation]"]};
+</script>
+<script src="https://youcat.org/wp-content/plugins/translatepress-multilingual/assets/js/trp-translate-dom-changes.js?ver=3.0.5" id="trp-dynamic-translator-js"></script>
+<script id="site_tracking-js-extra">
+var php_data = {"ac_settings":{"tracking_actid":227064503,"site_tracking_default":1,"site_tracking":1},"user_email":""};
+</script>
+<script src="https://youcat.org/wp-content/plugins/activecampaign-subscription-forms/site_tracking.js?ver=5cfc03e06974548dec847c577d0e97a3" id="site_tracking-js"></script>
+<script src="https://youcat.org/wp-content/plugins/bb-plugin/js/jquery.imagesloaded.min.js?ver=2.9.4.1" id="imagesloaded-js"></script>
+<script src="https://youcat.org/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.9.4.1" id="jquery-throttle-js"></script>
+<script src="https://youcat.org/wp-content/uploads/bb-plugin/cache/8a3d59f2efa2818090208ce27f0a9cbb-layout-bundle.js?ver=2.9.4.1-1.5.2.1" id="fl-builder-layout-bundle-8a3d59f2efa2818090208ce27f0a9cbb-js"></script>
+<script id="jetpack-stats-js-before">
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"241477796\",\"post\":\"4869\",\"tz\":\"0\",\"srv\":\"youcat.org\",\"j\":\"1:15.2\"}") ]);
+_stq.push([ "clickTrackerInit", "241477796", "4869" ]);
+</script>
+<script src="https://stats.wp.com/e-202549.js" id="jetpack-stats-js" defer data-wp-strategy="defer"></script>
+<script src="https://youcat.org/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.9.4.1" id="jquery-magnificpopup-js"></script>
+<script src="https://youcat.org/wp-content/plugins/bb-plugin/js/jquery.fitvids.min.js?ver=1.2" id="jquery-fitvids-js"></script>
+<script src="https://youcat.org/wp-content/themes/bb-theme/js/bootstrap-4.min.js?ver=1.7.19" id="bootstrap-4-js"></script>
+<script id="fl-automator-js-extra">
+var themeopts = {"medium_breakpoint":"1200","mobile_breakpoint":"768","lightbox":"enabled","scrollTopPosition":"800"};
+</script>
+<script src="https://youcat.org/wp-content/themes/bb-theme/js/theme.min.js?ver=1.7.19" id="fl-automator-js"></script>
+<script id="borlabs-cookie-js-extra">
+var borlabsCookieConfig = {"ajaxURL":"https:\/\/youcat.org\/wp-admin\/admin-ajax.php","language":"en","animation":"1","animationDelay":"","animationIn":"_brlbs-fadeInDown","animationOut":"_brlbs-flipOutX","blockContent":"1","boxLayout":"box","boxLayoutAdvanced":"1","automaticCookieDomainAndPath":"","cookieDomain":"youcat.org","cookiePath":"\/","cookieSameSite":"Lax","cookieSecure":"1","cookieLifetime":"182","cookieLifetimeEssentialOnly":"182","crossDomainCookie":[],"cookieBeforeConsent":"","cookiesForBots":"1","cookieVersion":"1","hideCookieBoxOnPages":[],"respectDoNotTrack":"1","reloadAfterConsent":"","reloadAfterOptOut":"1","showCookieBox":"1","cookieBoxIntegration":"javascript","ignorePreSelectStatus":"1","cookies":{"essential":["borlabs-cookie"],"statistics":["google-analytics"],"marketing":[],"external-media":["donorbox","youtube"]}};
+var borlabsCookieCookies = {"essential":{"borlabs-cookie":{"cookieNameList":{"borlabs-cookie":"borlabs-cookie"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"}}},"statistics":{"google-analytics":{"cookieNameList":{"_ga":"_ga","_gat":"_gat","_gid":"_gid"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"1","asyncOptOutCode":"0","trackingId":"G-PTFNXDEFW2","consentMode":"0"},"optInJS":"","optOutJS":""}},"external-media":{"donorbox":{"cookieNameList":{"Donorbox":"Donorbox"},"settings":{"blockCookiesBeforeConsent":"1","prioritize":"0","asyncOptOutCode":"0"},"optInJS":"PHNjcmlwdD53aW5kb3cuQm9ybGFic0Nvb2tpZS51bmJsb2NrQ29udGVudElkKCJkb25vcmJveCIpOzwvc2NyaXB0Pg==","optOutJS":""},"youtube":{"cookieNameList":{"NID":"NID"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInlvdXR1YmUiKTsgfTwvc2NyaXB0Pg==","optOutJS":""}}};
+</script>
+<script src="https://youcat.org/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.3.5" id="borlabs-cookie-js"></script>
+<script id="borlabs-cookie-js-after">
+document.addEventListener("DOMContentLoaded", function (e) {
+var borlabsCookieContentBlocker = {"facebook": {"id": "facebook","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) { if(typeof FB === "object") { FB.XFBML.parse(el.parentElement); } },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"default": {"id": "default","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"googlemaps": {"id": "googlemaps","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"instagram": {"id": "instagram","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) { if (typeof instgrm === "object") { instgrm.Embeds.process(); } },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"openstreetmap": {"id": "openstreetmap","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"twitter": {"id": "twitter","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"vimeo": {"id": "vimeo","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false,"saveThumbnails":false,"autoplay":false,"videoWrapper":false}},"youtube": {"id": "youtube","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false,"changeURLToNoCookie":true,"saveThumbnails":false,"autoplay":false,"thumbnailQuality":"maxresdefault","videoWrapper":false}},"donorbox": {"id": "donorbox","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"unblockAll":"1","executeGlobalCodeBeforeUnblocking":"0"}}};
+var BorlabsCookieInitCheck = function () {
+if (typeof window.BorlabsCookie === "object" && typeof window.jQuery === "function") {
+if (typeof borlabsCookiePrioritized !== "object") {
+borlabsCookiePrioritized = { optInJS: {} };
+}
+window.BorlabsCookie.init(borlabsCookieConfig, borlabsCookieCookies, borlabsCookieContentBlocker, borlabsCookiePrioritized.optInJS);
+} else {
+window.setTimeout(BorlabsCookieInitCheck, 50);
+}
+};
+BorlabsCookieInitCheck();});
+</script>
+<script id="scorg-script-footer-4259">function showModal(event) {
+const showModal = localStorage.getItem('showModal');
+const date = new Date();
+if (event.clientY < 0 && (!showModal || date > new Date(showModal))) {
+//if (`; ${document.cookie}`.split(`; exit-popup=`).pop().split(';').shift() !== 'true' && event.clientY < 0) {
+document.querySelector('#yc-newsletter-modal').style.display = 'block';
+let page = document.querySelector('html, body');
+page.style.height = "100%";
+page.style.overflow = "hidden";
+document.removeEventListener('mouseout', showModal);
+}
+}
+function closeModal() {
+document.querySelector('#yc-newsletter-modal').style.display = 'none';
+let page = document.querySelector('html, body');
+page.style.height = "auto";
+page.style.overflow = "auto";
+const date = new Date();
+date.setTime(date.getTime() + 24 * 60 * 60 * 1000);
+localStorage.removeItem('showModal');
+localStorage.setItem('showModal', date.toUTCString());
+//document.cookie = `exit-popup=true; expires=${date.toUTCString()}`;
+}
+document.addEventListener("DOMContentLoaded", (event) => {
+document.addEventListener('mouseout', showModal);
+document.querySelector('#yc-close-modal').addEventListener('click', closeModal);
+});
+</script><script id="scorg-script-footer-1848">(() => {
+const containerID = "featured-book";
+const animateIDs = [
+"book"
+]
+const animateClasses = [
+"yc-arrow-to-left",
+"yc-arrow-to-right",
+"yc-book-description",
+]
+const triggerElementClass = "yc-arrow-to-left";
+const animationClass = "yc-animate-arrow";
+function animate(element) {
+element.classList.add(animationClass);
+}
+document.addEventListener("DOMContentLoaded", () => {
+var container = document.getElementById(containerID);
+if (container == null) {
+return;
+}
+let animatedObjects =
+animateClasses.map((c) => document.getElementsByClassName(c)[0]).concat(
+animateIDs.map((i) => document.getElementById(i))
+)
+// start animations when higher arrow reaches middle
+let triggerElement = document.getElementsByClassName(triggerElementClass)[0];
+let triggerPoint = window.innerHeight / 4 * 3;
+document.addEventListener("scroll", function eventHandler() {
+let triggerPos = triggerElement.getBoundingClientRect().top;
+if (triggerPos <= triggerPoint) {
+animatedObjects.forEach((e) => animate(e));
+document.removeEventListener("scroll", eventHandler);
+}
+});
+// check immediately in case we reloaded scrolled
+document.dispatchEvent(new CustomEvent("scroll"));
+});
+})();
+</script><script id="scorg-script-footer-922">(() => {
+//get all paragraphs and titles
+const text = Array.from(document.querySelectorAll("#content p, #content h2"));
+//count words by splitting texts on whitespace
+const wordCount = text.reduce((accumulator, currentElement) => accumulator + currentElement.innerHTML.trim().split(/\s+/).length, 0);
+//define words per minute read
+const wordsPerMinute = 200;
+//calculate reading time
+const readingTime = Math.ceil(wordCount / wordsPerMinute);
+//set reading time
+document.querySelector("#content .yc-reading-time").innerHTML = readingTime;
+})();
+</script></body>
+</html><!-- WP Fastest Cache file was created in 1.189 seconds, on 1. December 2025 @ 09:10 --><!-- via php -->

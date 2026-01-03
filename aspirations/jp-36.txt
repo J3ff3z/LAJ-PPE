@@ -1,0 +1,979 @@
+HTTP/2 200 
+date: Sat, 03 Jan 2026 16:32:19 GMT
+server: mw-web.eqiad.main-8f8dcf6c-r48vl
+x-content-type-options: nosniff
+content-language: ja
+accept-ch: 
+last-modified: Sat, 20 Dec 2025 16:32:19 GMT
+content-type: text/html; charset=UTF-8
+age: 602
+accept-ranges: bytes
+x-cache: cp6016 miss, cp6016 hit/1
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front", host;desc="cp6016"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT
+set-cookie: WMF-DP=d3c;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7
+cache-control: private, s-maxage=0, max-age=0, must-revalidate, no-transform
+vary: Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent
+set-cookie: GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
+set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
+set-cookie: WMF-Uniq=pyQL6kciSn06dLnSCxvZ4gLdAAAAAFvdalZnPX3qZJMxmxkaRoEmz4vcCp1rSXDz;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027 00:00:00 GMT
+content-length: 107044
+x-request-id: 65a77e4d-df8a-47c4-9f89-f80b0125c36d
+
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ja" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>天つ罪・国つ罪 - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )jawikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"1c1a8485-3636-49ac-b223-d52b41157caf","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"天つ罪・国つ罪","wgTitle":"天つ罪・国つ罪","wgCurRevisionId":106868537,"wgRevisionId":106868537,"wgArticleId":465669,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["ISBNマジックリンクを使用しているページ","独自研究の除去が必要な記事/2019年8月","参照方法","出典を必要とする記述のある記事/2018年6月","出典を必要とする記述のある記事/2019年3月","すべてのスタブ記事","神道関連のスタブ項目","日本の古代法","犯罪類型","罪","神道と社会","宗教倫理"],"wgPageViewLanguage":"ja","wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgRelevantPageName":"天つ罪・国つ罪","wgRelevantArticleId":465669,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","pageVariantFallbacks":"ja"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgWMEPageLengthBucket":3,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q3541665","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":false,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.PDFLinkIcon":"ready","ext.gadget.RedirectColor":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.NormalizeCharWidth","ext.gadget.suppressEnterAtSummaryBox","ext.gadget.checkSignature","ext.gadget.charinsert","ext.gadget.WikiMiniAtlas","ext.gadget.switcher","ext.gadget.protectionIndicator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ja&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ja&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ja&amp;modules=ext.gadget.PDFLinkIcon%2CRedirectColor&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=ja&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.7">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="天つ罪・国つ罪 - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (ja)">
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">
+<link rel="alternate" type="application/atom+xml" title="Wikipediaの Atom フィード" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-天つ罪・国つ罪 rootpage-天つ罪・国つ罪 skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">コンテンツにスキップ</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="サイト">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="メインメニュー" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="メインメニュー"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">メインメニュー</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">メインメニュー</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">サイドバーに移動</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">非表示</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		案内
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z"><span>メインページ</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所"><span>コミュニティ・ポータル</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る"><span>最近の出来事</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧"><span>新しいページ</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r"><span>最近の更新</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x"><span>おまかせ表示</span></a></li><li id="n-sandbox" class="mw-list-item"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ"><span>練習用ページ</span></a></li><li id="n-commonsupload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード"><span>アップロード (ウィキメディア・コモンズ)</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7"><span>特別ページ</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"  >
+	<div class="vector-menu-heading">
+		ヘルプ
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所"><span>ヘルプ</span></a></li><li id="n-helpdesk" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%A9%E7%94%A8%E6%A1%88%E5%86%85"><span>利用案内</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換"><span>井戸端</span></a></li><li id="n-notice" class="mw-list-item"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ"><span>お知らせ</span></a></li><li id="n-bugreportspage" class="mw-list-item"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告"><span>バグの報告</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先"><span>ウィキペディアに関するお問い合わせ</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-ja.svg" style="width: 7.5em; height: 1.25em;">
+		<img class="mw-logo-tagline" alt="" src="/static/images/mobile/copyright/wikipedia-tagline-ja.svg" width="100" height="14" style="width: 6.25em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%A4%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Wikipedia内を検索 [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>検索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Wikipedia内を検索" aria-label="Wikipedia内を検索" autocapitalize="sentences" spellcheck="false" title="Wikipedia内を検索 [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="特別:検索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">検索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="個人用ツール">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="表示">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="ページのフォントサイズ、幅、色の外観を変更する" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="表示"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">表示</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ja.wikipedia.org&amp;uselang=ja" class=""><span>寄付</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません" class=""><span>アカウント作成</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o" class=""><span>ログイン</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="その他の操作" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="個人用ツール"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">個人用ツール</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="利用者メニュー" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ja.wikipedia.org&amp;uselang=ja"><span>寄付</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>アカウント作成</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>ログイン</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="サイト">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="目次" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目次</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">サイドバーに移動</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">非表示</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">ページ先頭</div>
+			</a>
+		</li>
+		<li id="toc-概要"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#概要">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>概要</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-概要-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>概要サブセクションを切り替えます</span>
+			</button>
+		
+		<ul id="toc-概要-sublist" class="vector-toc-list">
+			<li id="toc-神社等"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#神社等">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.1</span>
+					<span>神社等</span>
+				</div>
+			</a>
+			
+			<ul id="toc-神社等-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-詳細"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#詳細">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>詳細</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-詳細-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>詳細サブセクションを切り替えます</span>
+			</button>
+		
+		<ul id="toc-詳細-sublist" class="vector-toc-list">
+			<li id="toc-天津罪"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#天津罪">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1</span>
+					<span>天津罪</span>
+				</div>
+			</a>
+			
+			<ul id="toc-天津罪-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-国津罪"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#国津罪">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2</span>
+					<span>国津罪</span>
+				</div>
+			</a>
+			
+			<ul id="toc-国津罪-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-現代"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#現代">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>現代</span>
+			</div>
+		</a>
+		
+		<ul id="toc-現代-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-脚注"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#脚注">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>脚注</span>
+			</div>
+		</a>
+		
+		<ul id="toc-脚注-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>参考文献</span>
+			</div>
+		</a>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-関連項目"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#関連項目">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>関連項目</span>
+			</div>
+		</a>
+		
+		<ul id="toc-関連項目-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部リンク"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部リンク">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>外部リンク</span>
+			</div>
+		</a>
+		
+		<ul id="toc-外部リンク-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="目次" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="目次" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="目次の表示・非表示を切り替え"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">目次の表示・非表示を切り替え</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">天つ罪・国つ罪</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="特定の記事の別の言語版に移動します。 利用可能な言語7件"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-7" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">7 個の言語版</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Tsumi" title="英語: Tsumi" lang="en" hreflang="en" data-title="Tsumi" data-language-autonym="English" data-language-local-name="英語" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Tsumi" title="スペイン語: Tsumi" lang="es" hreflang="es" data-title="Tsumi" data-language-autonym="Español" data-language-local-name="スペイン語" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Tsumi" title="フランス語: Tsumi" lang="fr" hreflang="fr" data-title="Tsumi" data-language-autonym="Français" data-language-local-name="フランス語" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Tsumi" title="イタリア語: Tsumi" lang="it" hreflang="it" data-title="Tsumi" data-language-autonym="Italiano" data-language-local-name="イタリア語" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Tsumi" title="ポーランド語: Tsumi" lang="pl" hreflang="pl" data-title="Tsumi" data-language-autonym="Polski" data-language-local-name="ポーランド語" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A6%D1%83%D0%BC%D0%B8" title="ロシア語: Цуми" lang="ru" hreflang="ru" data-title="Цуми" data-language-autonym="Русский" data-language-local-name="ロシア語" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%BD%AA_(%E6%97%A5%E6%9C%AC%E8%A9%9E%E8%AA%9E)" title="中国語: 罪 (日本詞語)" lang="zh" hreflang="zh" data-title="罪 (日本詞語)" data-language-autonym="中文" data-language-local-name="中国語" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3541665#sitelinks-wikipedia" title="言語間リンクを編集" class="wbc-editpage">リンクを編集</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="名前空間">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA" title="コンテンツページを表示 [c]" accesskey="c"><span>ページ</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA" rel="discussion" title="コンテンツページについての議論 [t]" accesskey="t"><span>ノート</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="別の言語に切り替える"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">日本語</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="表示">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA"><span>閲覧</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=edit" title="このページのソースコードを編集する [e]" accesskey="e"><span>編集</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=history" title="このページの過去の版 [h]" accesskey="h"><span>履歴を表示</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="ページツール">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="ツール"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">ツール</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">ツール</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">サイドバーに移動</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">非表示</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="その他の操作" >
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA"><span>閲覧</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=edit" title="このページのソースコードを編集する [e]" accesskey="e"><span>編集</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=history"><span>履歴を表示</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		全般
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j"><span>リンク元</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA" rel="nofollow" title="このページからリンクしているページの最近の更新 [k]" accesskey="k"><span>関連ページの更新状況</span></a></li><li id="t-upload" class="mw-list-item"><a href="//ja.wikipedia.org/wiki/Wikipedia:ファイルのアップロード" title="ファイルをアップロードする [u]" accesskey="u"><span>ファイルをアップロード</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;oldid=106868537" title="このページのこの版への固定リンク"><span>この版への固定リンク</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=info" title="このページについての詳細情報"><span>ページ情報</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;id=106868537&amp;wpFormIdentifier=titleform" title="このページの引用方法"><span>このページを引用</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:UrlShortener&amp;url=https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E5%25A4%25A9%25E3%2581%25A4%25E7%25BD%25AA%25E3%2583%25BB%25E5%259B%25BD%25E3%2581%25A4%25E7%25BD%25AA"><span>短縮URLを取得する</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:QrCode&amp;url=https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E5%25A4%25A9%25E3%2581%25A4%25E7%25BD%25AA%25E3%2583%25BB%25E5%259B%25BD%25E3%2581%25A4%25E7%25BD%25AA"><span>QRコードをダウンロード</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		印刷/書き出し
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA"><span>ブックの新規作成</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:DownloadAsPdf&amp;page=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=show-download-screen"><span>PDF 形式でダウンロード</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p"><span>印刷用バージョン</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		他のプロジェクト
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3541665" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g"><span>ウィキデータ項目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="ページツール">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="表示">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">表示</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">サイドバーに移動</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">非表示</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ja" dir="ltr"><style data-mw-deduplicate="TemplateStyles:r101304250">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%;font-size:90%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}</style><table class="box-独自研究 plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Twemoji12_1f50d.svg/40px-Twemoji12_1f50d.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Twemoji12_1f50d.svg/60px-Twemoji12_1f50d.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Twemoji12_1f50d.svg/120px-Twemoji12_1f50d.svg.png 2x" data-file-width="512" data-file-height="512" /></span></span></div></td><td class="mbox-text"><div class="mbox-text-span"><b>この記事には<a href="/wiki/Wikipedia:%E7%8B%AC%E8%87%AA%E7%A0%94%E7%A9%B6%E3%81%AF%E8%BC%89%E3%81%9B%E3%81%AA%E3%81%84" title="Wikipedia:独自研究は載せない">独自研究</a>が含まれているおそれがあります。</b><span class="hide-when-compact"> 問題箇所を<a href="/wiki/Wikipedia:%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8%83%BD%E6%80%A7" title="Wikipedia:検証可能性">検証</a>し<a href="/wiki/Wikipedia:%E5%87%BA%E5%85%B8%E3%82%92%E6%98%8E%E8%A8%98%E3%81%99%E3%82%8B" title="Wikipedia:出典を明記する">出典を追加</a>して、記事の改善にご協力ください。議論は<a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA" title="ノート:天つ罪・国つ罪">ノート</a>を参照してください。<small>（<span title="2019年8月">2019年8月</span>）</small></span></div></td></tr></tbody></table>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r101304250" /><table class="box-No&#95;footnotes plainlinks metadata ambox ambox-style ambox-No&#95;footnotes" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Circle-icons-dev.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Circle-icons-dev.svg/40px-Circle-icons-dev.svg.png" decoding="async" width="38" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Circle-icons-dev.svg/60px-Circle-icons-dev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Circle-icons-dev.svg/120px-Circle-icons-dev.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span></div></td><td class="mbox-text"><div class="mbox-text-span">この記事には<a href="/wiki/Wikipedia:%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88#参考文献" title="Wikipedia:スタイルマニュアル/レイアウト">参考文献</a>や<a href="/wiki/Wikipedia:%E5%A4%96%E9%83%A8%E3%83%AA%E3%83%B3%E3%82%AF" title="Wikipedia:外部リンク">外部リンク</a>の一覧が含まれていますが、<b><a href="/wiki/Help:%E8%84%9A%E6%B3%A8" title="Help:脚注">脚注</a>によって参照されておらず、情報源が不明瞭です</b>。<span class="hide-when-compact"> 脚注を導入して、記事の<a href="/wiki/Wikipedia:%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8%83%BD%E6%80%A7" title="Wikipedia:検証可能性">信頼性向上</a>にご協力ください。<small>（<span title="2019年8月">2019年8月</span>）</small></span></div></td></tr></tbody></table>
+<p><b>天つ罪・国つ罪</b>（あまつつみ・くにつつみ）とは、<a href="/wiki/%E7%A5%9E%E9%81%93" title="神道">神道</a>における<a href="/wiki/%E5%AE%97%E6%95%99%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%BD%AA" title="宗教における罪">罪</a>の観念で、『<a href="/wiki/%E5%BB%B6%E5%96%9C%E5%BC%8F" title="延喜式">延喜式</a>』巻八「<a href="/wiki/%E7%A5%9D%E8%A9%9E" title="祝詞">祝詞</a>」に収録される<a href="/wiki/%E5%A4%A7%E7%A5%93%E8%A9%9E" title="大祓詞">大祓詞</a>に対句として登場する。古きに倣い<b>天津罪・国津罪</b>とも表記される。
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="概要"><span id=".E6.A6.82.E8.A6.81"></span>概要</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=edit&amp;section=1" title="節を編集: 概要"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>天つ罪・国つ罪は、宗教と政治と法制が密接であった古代日本における「罪」に対する考え方を窺い知るのに重要であるが、<a href="/wiki/%E6%9C%AC%E5%B1%85%E5%AE%A3%E9%95%B7" title="本居宣長">本居宣長</a>以来指摘されているように天つ罪・国つ罪は宗教的に関わりの深い「罪」を挙げたものであり、これらに属しない世俗的な「罪」が存在していた事は『<a href="/wiki/%E5%8F%A4%E4%BA%8B%E8%A8%98" title="古事記">古事記</a>』・『<a href="/wiki/%E6%97%A5%E6%9C%AC%E6%9B%B8%E7%B4%80" title="日本書紀">日本書紀</a>』の中にも記されている。
+</p><p><a href="/wiki/%E6%8A%98%E5%8F%A3%E4%BF%A1%E5%A4%AB" title="折口信夫">折口信夫</a>は、天つ罪は元は「雨障（あまつつみ）」で、梅雨の時期に農民が忌み籠ることを指していたが、それが「天つ罪」とされ、<a href="/wiki/%E6%97%A5%E6%9C%AC%E7%A5%9E%E8%A9%B1" title="日本神話">日本神話</a>における<a href="/wiki/%E3%82%B9%E3%82%B5%E3%83%8E%E3%82%AA" title="スサノオ">スサノオ</a>が<a href="/wiki/%E9%AB%98%E5%A4%A9%E5%8E%9F" title="高天原">高天原</a>で犯した行為（<a href="/wiki/%E5%B2%A9%E6%88%B8%E9%9A%A0%E3%82%8C" class="mw-redirect" title="岩戸隠れ">岩戸隠れ</a>を参照）と解釈されるに至り、それに対応するものとして「国つ罪」が作られたという説を唱えている。
+</p>
+<div class="mw-heading mw-heading3"><h3 id="神社等"><span id=".E7.A5.9E.E7.A4.BE.E7.AD.89"></span>神社等</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=edit&amp;section=2" title="節を編集: 神社等"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><a href="/wiki/%E7%A5%9E%E7%A4%BE%E6%9C%AC%E5%BA%81" title="神社本庁">神社本庁</a>およびその配下の<a href="/wiki/%E7%A5%9E%E7%A4%BE" title="神社">神社</a>で用いられる大祓詞では、天津罪・国津罪の罪名が省略され
+</p>
+<ul><li>「天つ罪 国つ罪 許許太久（ここだく）の罪出でむ」</li></ul>
+<p>と表現される。
+</p>
+<div class="mw-heading mw-heading2"><h2 id="詳細"><span id=".E8.A9.B3.E7.B4.B0"></span>詳細</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=edit&amp;section=3" title="節を編集: 詳細"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>「六月晦大祓（みなづきごもりのおおはらひ）」、別称「中臣の大祓」では、「天の益人（ますひと）らが過ちおかしけむ雑雑（くさぐさ）の罪事（つみごと）は」に続いて、天津罪と国津罪の詳細が述べられる。
+</p><p>大祓詞による天つ罪・国つ罪は以下のものである。なお、大祓詞には罪の名前が書かれているだけで、特に国つ罪についてそれが何を意味するかについては諸説がある。
+</p>
+<div class="mw-heading mw-heading3"><h3 id="天津罪"><span id=".E5.A4.A9.E6.B4.A5.E7.BD.AA"></span>天津罪</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=edit&amp;section=4" title="節を編集: 天津罪"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><a href="/wiki/%E5%A4%A7%E7%A5%93%E8%A9%9E" title="大祓詞">大祓詞</a>では、本文ではスサノヲに触れていないものの、『<a href="/wiki/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA" title="古語拾遺">古語拾遺</a>』<sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>や<a href="/wiki/%E5%90%89%E7%94%B0%E5%85%BC%E5%80%B6" title="吉田兼倶">吉田兼倶</a>による『中臣秡抄』<sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>で説明されるように、『古事記』や『日本書紀』に記す<a href="/wiki/%E3%82%B9%E3%82%B5%E3%83%8E%E3%82%AA" title="スサノオ">スサノオ</a>が高天原で犯した行為であるゆえに、天津罪をわけるとされている。しかし、全て農耕を妨害する人為的な行為であることから、<a href="/w/index.php?title=%E3%82%AF%E3%83%8B&amp;action=edit&amp;redlink=1" class="new" title="クニ (存在しないページ)">クニ</a>成立以前の共同体社会以来の犯罪との説もある。
+</p>
+<ul><li>畔放（あはなち） - 田に張っている水を、畔を壊すことで流出させ、水田灌漑を妨害することとされ、『古事記』・『日本書紀』にスサノオが高天原において<a href="/wiki/%E5%A4%A9%E7%85%A7%E5%A4%A7%E7%A5%9E" title="天照大神">アマテラス</a>の田に対してこれを行ったと記している</li>
+<li>溝埋（みぞうめ） - 田に水を引くために設けた溝を埋めることで水を引けないようにする灌漑妨害で、これも『古事記』・『日本書紀』に記述がある</li>
+<li>樋放（ひはなち） - 田に水を引くために設けた管を壊すことで水を引けないようにする灌漑妨害で、『日本書紀』に記述がある</li>
+<li>頻播（しきまき） - 他の人が種を蒔いた所に重ねて種を蒔いて作物の生長を妨げること（種を蒔く事で耕作権を奪うこととする説もある）で、『日本書紀』に記される</li>
+<li>串刺（くしさし） - 『日本書紀』には、その起源をスサノオが高天原においてアマテラスの田を妬んでこれを行ったと記しているが、その目的は収穫時に他人の田畑に自分の土地であることを示す杭を立てて横領すること、とする他に、他人の田畑に呪いを込めた串を刺すことでその所有者に害を及ぼす（または近寄れないようにした上で横領する）という呪詛説、田の中に多くの串を隠し立てて所有者の足を傷つける傷害説、家畜に串を刺して殺す家畜殺傷説の3説がある</li>
+<li>生剥（いきはぎ） - 馬の皮を生きながら剥ぐこととされ、『日本書紀』にスサノオ命が天照大神が神に献上する服を織っている殿内に<a href="/w/index.php?title=%E5%A4%A9%E6%96%91%E9%A7%92&amp;action=edit&amp;redlink=1" class="new" title="天斑駒 (存在しないページ)">天斑駒</a>（あまのふちこま）を生剥にして投げ入れたとその起源を記していることから、神事（ないしはその準備）の神聖性を侵犯するものとされるが、本来は単に家畜の皮を剥いで殺傷することとの説もある</li>
+<li>逆剥（さかはぎ） - 馬の皮を尻の方から剥ぐこととされ、『古事記』『日本書紀』に生剥と同じ起源を記していることから、これも神事の神聖性を侵犯するものとされるが、本来は単に家畜を殺傷することとの説があるのも同様である</li>
+<li>糞戸（くそへ） - 『古事記』『日本書紀』にはスサノオが高天原においてアマテラスが<a href="/wiki/%E5%A4%A7%E5%98%97%E7%A5%AD" title="大嘗祭">大嘗祭</a>（または<a href="/wiki/%E6%96%B0%E5%98%97%E7%A5%AD" title="新嘗祭">新嘗祭</a>）を斎行する神殿に脱糞したのが起源であると記していることから、これも神事に際して祭場を糞などの汚物で汚すこととされるが、また「くそと」と読み、「と」は祝詞（のりと）の「と」と同じく呪的行為を指すとして、本来は肥料としての糞尿に呪いをかけて作物に害を与える行為であるとの説もある</li></ul>
+<div class="mw-heading mw-heading3"><h3 id="国津罪"><span id=".E5.9B.BD.E6.B4.A5.E7.BD.AA"></span>国津罪</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=edit&amp;section=5" title="節を編集: 国津罪"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>国津罪は血の<a href="/wiki/%E7%A9%A2%E3%82%8C" title="穢れ">穢れ</a>を起こす行為、身体的異常による穢れ、<a href="/wiki/%E5%8F%8D%E7%A4%BE%E4%BC%9A%E7%9A%84" class="mw-redirect mw-disambig" title="反社会的">反社会的</a>な<a href="/wiki/%E6%80%A7%E8%A1%8C%E7%82%BA" title="性行為">性行為</a>や性的関係、<a href="/wiki/%E5%A4%A9%E7%81%BD" class="mw-redirect" title="天災">天災</a>、他者の生命や財産を損なう<a href="/wiki/%E5%91%AA%E3%81%84" title="呪い">呪い</a>を罪として規定している<sup id="cite&#95;ref-Taniguchi&#95;3-0" class="reference"><a href="#cite_note-Taniguchi-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>。<a href="/wiki/%E4%BB%8F%E6%95%99%E4%BC%9D%E6%9D%A5" class="mw-redirect" title="仏教伝来">仏教伝来</a>以前の日本では、穢れと罪と天災は<a href="/wiki/%E5%9B%A0%E6%9E%9C%E8%AB%96" class="mw-redirect" title="因果論">因果論</a>によって不可分の関係にあり、厳密には区別されていなかった<sup id="cite&#95;ref-Taniguchi&#95;3-1" class="reference"><a href="#cite_note-Taniguchi-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>。
+</p>
+<ul><li>生膚断（いきはだたち） - 生きている人の肌に傷をつけることで、所謂<a href="/wiki/%E5%82%B7%E5%AE%B3%E7%BD%AA" title="傷害罪">傷害罪</a>に相当する<sup id="cite&#95;ref-Fuse&#95;4-0" class="reference"><a href="#cite_note-Fuse-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>。</li>
+<li>死膚断（しにはだたち） - 直接的解釈では、死んだ人の肌に傷をつけることで、現在の<a href="/wiki/%E6%AE%BA%E4%BA%BA" title="殺人">殺人</a>又は<a href="/wiki/%E6%AD%BB%E4%BD%93%E6%90%8D%E5%A3%8A%E7%BD%AA" class="mw-redirect" title="死体損壊罪">死体損壊罪</a>に相当し<sup id="cite&#95;ref-Fuse&#95;4-1" class="reference"><a href="#cite_note-Fuse-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>、その目的は何らかの呪的行為にあるとされるが、また前項の<style data-mw-deduplicate="TemplateStyles:r86009555">@media screen{.mw-parser-output .fix-domain{border-bottom:dashed 1px}}</style><span class="fix-domain" title="この記述には信頼できる情報源の提示が求められています。（2018年6月）">生膚断が肌を傷つけられた被害者がまだ生存しているのに対し、被害者を傷つけて死に至らしめる、所謂<a href="/wiki/%E5%82%B7%E5%AE%B3%E8%87%B4%E6%AD%BB%E7%BD%AA" class="mw-redirect" title="傷害致死罪">傷害致死罪</a>に相当するとの説もある</span><sup class="noprint Template-Fact">&#91;<i><a href="/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8" title="Wikipedia:「要出典」をクリックされた方へ"><span title="この記述には信頼できる情報源の提示が求められています。（2018年6月）">要出典</span></a></i>&#93;</sup></li>
+<li>白人（しらひと） - 肌の色が白くなる病気、<a href="/wiki/%E5%B0%8B%E5%B8%B8%E6%80%A7%E7%99%BD%E6%96%91" title="尋常性白斑">白斑</a>（俗に「しらはたけ」ともいう）のこと。別の説では「白癩（びゃくらい」（<a href="/wiki/%E3%83%8F%E3%83%B3%E3%82%BB%E3%83%B3%E7%97%85" title="ハンセン病">ハンセン病</a>の一種）だともいう</li>
+<li>胡久美（こくみ） - 直接には「瘤」のこと。この場合は瘤ができること。別の説では「<a href="/wiki/%E3%81%8F%E3%82%8B%E7%97%85" title="くる病">くる病</a>」のことだともいう</li>
+<li>己（おの）が母犯せる罪 - 実母との相姦（<a href="/wiki/%E8%BF%91%E8%A6%AA%E7%9B%B8%E5%A7%A6" title="近親相姦">近親相姦</a>）</li>
+<li>己が子犯せる罪 - 実子との相姦</li>
+<li>母と子と犯せる罪 - ある女と性交し、その後その娘と相姦すること</li>
+<li>子と母と犯せる罪 - ある女と性交し、その後その母と相姦すること（以上4罪は『古事記』<a href="/wiki/%E4%BB%B2%E5%93%80%E5%A4%A9%E7%9A%87" title="仲哀天皇">仲哀天皇</a>段に「上通下通婚（おやこたわけ）」として総括されており、<a href="/wiki/%E4%BF%AE%E8%BE%9E%E6%8A%80%E6%B3%95" title="修辞技法">修辞技法</a>として分化されているだけで、意味上の相違はないとの説もある）</li>
+<li>畜犯せる罪 - <a href="/wiki/%E7%8D%A3%E5%A7%A6" title="獣姦">獣姦</a>のことで、『古事記』仲哀天皇段には「馬婚（うまたわけ）」、「牛婚（うしたわけ）」、「鶏婚（とりたわけ）」、「犬婚（いぬたわけ）」と細分化されている</li>
+<li>昆虫（はうむし）の災  - 地面を這う昆虫（毒蛇や<a href="/wiki/%E3%83%A0%E3%82%AB%E3%83%87" title="ムカデ">ムカデ</a>、 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r86009555" /><span class="fix-domain" title="この記述には信頼できる情報源の提示が求められています。（2019年3月）"><a href="/wiki/%E3%82%B5%E3%82%BD%E3%83%AA" title="サソリ">サソリ</a></span><sup class="noprint Template-Fact">&#91;<i><a href="/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8" title="Wikipedia:「要出典」をクリックされた方へ"><span title="この記述には信頼できる情報源の提示が求められています。（2019年3月）">要出典</span></a></i>&#93;</sup>など）による災難である</li>
+<li>高つ神の災 - 落雷などの天災とされる</li>
+<li>高つ鳥の災 - <a href="/w/index.php?title=%E5%A4%A7%E6%AE%BF%E7%A5%AD&amp;action=edit&amp;redlink=1" class="new" title="大殿祭 (存在しないページ)">大殿祭</a>（おおとのほがい）の祝詞には「飛ぶ鳥の災」とあり、<a href="/wiki/%E7%8C%9B%E7%A6%BD%E9%A1%9E" title="猛禽類">猛禽類</a>による家屋損傷などの災難とされる</li>
+<li>畜仆し（けものたおし）、蠱物（まじもの）する罪 - 家畜を殺し、その屍体で他人を呪う<a href="/wiki/%E8%A0%B1%E6%AF%92" title="蠱毒">蠱道</a>（こどう）のことである</li></ul>
+<p>また、『<a href="/wiki/%E7%9A%87%E5%A4%AA%E7%A5%9E%E5%AE%AE%E5%84%80%E5%BC%8F%E5%B8%B3" class="mw-redirect" title="皇太神宮儀式帳">皇太神宮儀式帳</a>』には川入・火焼を国つ罪に追加している。
+</p>
+<div class="mw-heading mw-heading2"><h2 id="現代"><span id=".E7.8F.BE.E4.BB.A3"></span>現代</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=edit&amp;section=6" title="節を編集: 現代"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><a href="/wiki/%E5%A4%A7%E6%AD%A3" title="大正">大正</a>3年（<a href="/wiki/1914%E5%B9%B4" title="1914年">1914年</a>）、近親相姦や獣姦といった野蛮な行為が出てくるのは国辱的だとして、天つ罪・国つ罪の罪名の部分は省略されることになった。すなわち、現在の大祓詞で
+</p>
+<ul><li>「天つ罪 国つ罪 許許太久（ここだく）の罪出でむ」</li></ul>
+<p>となっている部分は、本来は
+</p>
+<ul><li>「天つ罪と 畦放 溝埋 樋放 頻蒔 串刺 生剥 逆剥 屎戸 許多の罪を天つ罪と法（の）り別（わ）けて 国つ罪と 生膚断 死膚断 白人 胡久美 おのが母犯せる罪 おのが子犯せる罪 母と子と犯せる罪 子と母と犯せる罪 畜犯せる罪 昆ふ虫の災 高つ神の災 高つ鳥の災 畜仆し蟲物する罪 許多の罪出でむ」</li></ul>
+<p>である。 このことは現在の<a href="/wiki/%E7%A5%9E%E7%A4%BE%E6%9C%AC%E5%BA%81" title="神社本庁">神社本庁</a>およびその配下の<a href="/wiki/%E7%A5%9E%E7%A4%BE" title="神社">神社</a>でもそのまま引き継がれている。
+</p>
+<div class="mw-heading mw-heading2"><h2 id="脚注"><span id=".E8.84.9A.E6.B3.A8"></span>脚注</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=edit&amp;section=7" title="節を編集: 脚注"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite&#95;note-1"><b><a href="#cite_ref-1">^</a></b> <span class="reference-text">『<a rel="nofollow" class="external text" href="https://dl.ndl.go.jp/info:ndljp/pid/3457563/16">古語拾遺</a>』加藤玄智 校訂 岩波書店 p.28 <a rel="nofollow" class="external text" href="https://dl.ndl.go.jp/info:ndljp/pid/3457563/29">p.54</a>（国立国会図書館）</span>
+</li>
+<li id="cite&#95;note-2"><b><a href="#cite_ref-2">^</a></b> <span class="reference-text"><cite style="font-style:normal" class="citation book">西田長男&#32;(1977).&#32;<i>中臣秡・中臣秡抄</i>.&#32;叢文社.&#32;p.&#160;386-7</cite><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%E4%B8%AD%E8%87%A3%E7%A7%A1%E3%83%BB%E4%B8%AD%E8%87%A3%E7%A7%A1%E6%8A%84&amp;rft.aulast=%E8%A5%BF%E7%94%B0%E9%95%B7%E7%94%B7&amp;rft.au=%E8%A5%BF%E7%94%B0%E9%95%B7%E7%94%B7&amp;rft.date=1977&amp;rft.pages=p.%26nbsp%3B386-7&amp;rft.pub=%E5%8F%A2%E6%96%87%E7%A4%BE&amp;rfr&#95;id=info:sid/ja.wikipedia.org:%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA"><span style="display: none;">&#160;</span></span></span>
+</li>
+<li id="cite&#95;note-Taniguchi-3">^ <a href="#cite_ref-Taniguchi_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Taniguchi_3-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text"> <a href="/wiki/%E8%B0%B7%E5%8F%A3%E8%8C%82" title="谷口茂">谷口茂</a>（編｝『宗教における罪悪の諸問題』 山本書店 1991年 <a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/4841401636" class="internal mw-magiclink-isbn">ISBN 4-8414-0163-6</a> pp.232-237.</span>
+</li>
+<li id="cite&#95;note-Fuse-4">^ <a href="#cite_ref-Fuse_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fuse_4-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text"> 布施弥平治『修訂 日本死刑史』 巌南堂書店 1983年 p.92</span>
+</li>
+</ol></div>
+<div class="mw-heading mw-heading2"><h2 id="参考文献"><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span>参考文献</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=edit&amp;section=8" title="節を編集: 参考文献"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r101304250" /><table class="box-参照方法 plainlinks metadata ambox mbox-small-left ambox-content" role="presentation" style="width:auto;"><tbody><tr><td class="mbox-image"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Question_mark_on_a_scroll.svg/40px-Question_mark_on_a_scroll.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Question_mark_on_a_scroll.svg/60px-Question_mark_on_a_scroll.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Question_mark_on_a_scroll.svg/120px-Question_mark_on_a_scroll.svg.png 2x" data-file-width="100" data-file-height="100" /></span></span></td><td class="mbox-text"><div class="mbox-text-span"><b><a href="/wiki/Wikipedia:%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88#参考文献" title="Wikipedia:スタイルマニュアル/レイアウト">出典</a>は列挙するだけでなく、<a href="/wiki/Help:%E8%84%9A%E6%B3%A8" title="Help:脚注">脚注</a>などを用いて<a href="/wiki/Wikipedia:%E5%87%BA%E5%85%B8%E3%82%92%E6%98%8E%E8%A8%98%E3%81%99%E3%82%8B#出典の示し方" title="Wikipedia:出典を明記する">どの記述の情報源であるかを明記</a>してください。</b><span class="hide-when-compact"> 記事の<a href="/wiki/Wikipedia:%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8%83%BD%E6%80%A7" title="Wikipedia:検証可能性">信頼性向上</a>にご協力をお願いいたします。<small>（<span title="2019年8月">2019年8月</span>）</small></span></div></td></tr></tbody></table>
+<ul><li><a href="/w/index.php?title=%E9%9D%92%E6%9C%A8%E7%B4%80%E5%85%83&amp;action=edit&amp;redlink=1" class="new" title="青木紀元 (存在しないページ)">青木紀元</a>『祝詞古伝承の研究』<a href="/wiki/%E5%9B%BD%E6%9B%B8%E5%88%8A%E8%A1%8C%E4%BC%9A" title="国書刊行会">国書刊行会</a>、1985年</li>
+<li><a href="/wiki/%E8%A5%BF%E9%83%B7%E4%BF%A1%E7%B6%B1" title="西郷信綱">西郷信綱</a>「古代的宇宙の一断面図」（『古代人と死』<a href="/wiki/%E5%B9%B3%E5%87%A1%E7%A4%BE%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BC" title="平凡社ライブラリー">平凡社ライブラリー</a>、2008年所収）</li>
+<li>青木紀元『祝詞全評釈』<a href="/wiki/%E5%8F%B3%E6%96%87%E6%9B%B8%E9%99%A2" title="右文書院">右文書院</a>、1995年</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="関連項目"><span id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"></span>関連項目</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=edit&amp;section=9" title="節を編集: 関連項目"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/%E6%97%A5%E6%9C%AC%E6%B3%95%E5%88%B6%E5%8F%B2" title="日本法制史">日本法制史</a></li>
+<li><a href="/wiki/%E5%A4%A9%E6%B4%A5%E7%A5%9E%E3%83%BB%E5%9B%BD%E6%B4%A5%E7%A5%9E" title="天津神・国津神">天津神・国津神</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="外部リンク"><span id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"></span>外部リンク</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=edit&amp;section=10" title="節を編集: 外部リンク"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>『<a rel="nofollow" class="external text" href="https://kotobank.jp/word/%E5%A4%A9%E6%B4%A5%E7%BD%AA%E3%83%BB%E5%9B%BD%E6%B4%A5%E7%BD%AA">天津罪・国津罪</a>』 - <a href="/wiki/%E3%82%B3%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF" title="コトバンク">コトバンク</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r96783592">.mw-parser-output .asbox{position:relative;overflow:hidden}.mw-parser-output .asbox table{background:transparent}.mw-parser-output .asbox p{margin:0}.mw-parser-output .asbox p+p{margin-top:0.25em}.mw-parser-output .asbox{font-size:90%}.mw-parser-output .asbox-note{font-size:90%}.mw-parser-output .asbox .navbar{position:absolute;top:-0.90em;right:1em;display:none}</style><div role="note" class="metadata plainlinks asbox stub"><table role="presentation"><tbody><tr class="noresize"><td><span typeof="mw:File"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Shinto_torii_icon_vermillion.svg" class="mw-file-description"><img alt="スタブアイコン" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Shinto_torii_icon_vermillion.svg/40px-Shinto_torii_icon_vermillion.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Shinto_torii_icon_vermillion.svg/60px-Shinto_torii_icon_vermillion.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Shinto_torii_icon_vermillion.svg/120px-Shinto_torii_icon_vermillion.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span></td><td><p class="asbox-body">この項目は、<a href="/wiki/%E7%A5%9E%E9%81%93" title="神道">神道</a>に関連した<b><a href="/wiki/Wikipedia:%E3%82%B9%E3%82%BF%E3%83%96" title="Wikipedia:スタブ">書きかけの項目</a></b>です。<a class="external text" href="https://ja.wikipedia.org/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;action=edit">この項目を加筆・訂正</a>などしてくださる<a href="/wiki/Category:%E7%A5%9E%E9%81%93%E9%96%A2%E9%80%A3%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E9%A0%85%E7%9B%AE" title="Category:神道関連のスタブ項目">協力者を求めています</a>（<a href="/wiki/Portal:%E7%A5%9E%E9%81%93" title="Portal:神道">ポータル 神道</a>/<a href="/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E7%A5%9E%E9%81%93" title="プロジェクト:神道">ウィキプロジェクト 神道</a>）。</p></td></tr></tbody></table><style data-mw-deduplicate="TemplateStyles:r103358373">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline-block;word-break:keep-all}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" ·\a0 ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" |\a0 ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" -\a0 ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist-slash dd:after,.mw-parser-output .hlist-slash li:after{content:" /\a0 ";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist dd dd:first-child:before,.mw-parser-output .hlist dd dt:first-child:before,.mw-parser-output .hlist dd li:first-child:before,.mw-parser-output .hlist dt dd:first-child:before,.mw-parser-output .hlist dt dt:first-child:before,.mw-parser-output .hlist dt li:first-child:before,.mw-parser-output .hlist li dd:first-child:before,.mw-parser-output .hlist li dt:first-child:before,.mw-parser-output .hlist li li:first-child:before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child:after,.mw-parser-output .hlist dd dt:last-child:after,.mw-parser-output .hlist dd li:last-child:after,.mw-parser-output .hlist dt dd:last-child:after,.mw-parser-output .hlist dt dt:last-child:after,.mw-parser-output .hlist dt li:last-child:after,.mw-parser-output .hlist li dd:last-child:after,.mw-parser-output .hlist li dt:last-child:after,.mw-parser-output .hlist li li:last-child:after{content:")\a0 ";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r104076809">.mw-parser-output .navbar{display:inline;font-size:75%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:110%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:110%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}.mw-parser-output .infobox .navbar{font-size:80%}.mw-parser-output .navbox .navbar{display:block;font-size:80%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist"><ul><li class="nv-view"><a href="/wiki/Template:Shinto-stub" title="Template:Shinto-stub"><span title="参照先のページを表示します。">表示</span></a></li><li class="nv-edit"><a href="/wiki/%E7%89%B9%E5%88%A5:EditPage/Template:Shinto-stub" title="特別:EditPage/Template:Shinto-stub"><span title="参照先のページを編集します。">編集</span></a></li></ul></div></div>
+<div class="navbox" aria-labelledby="神道" style="border-collapse:collapse;padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="background:transparent;color:inherit;min-width:100%;border-spacing:0px;border-collapse:separate"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div style="float:left;width:6em;text-align:left"><div class="noprint plainlinks navbar hlist" style="white-space:nowrap;font-size:60%;font-weight:normal;background-color:transparent;padding:0;color:#000;;border:none;"><ul style="display:inline"><li><a href="/wiki/Template:%E7%A5%9E%E9%81%93_%E6%A8%AA" title="Template:神道 横"><span title="このテンプレートを表示します" style="font-size:125%;;;border:none;">表</span></a></li><li><a href="/wiki/Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E7%A5%9E%E9%81%93_%E6%A8%AA" title="Template‐ノート:神道 横"><span title="このテンプレートのノートを表示します" style="font-size:125%;color:#002bb8;;;border:none;">話</span></a></li><li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template%3A%E7%A5%9E%E9%81%93_%E6%A8%AA&amp;action=edit"><span title="このテンプレートを編集します。保存の前にプレビューを忘れずに。" style="font-size:125%;color:#002bb8;;;border:none;">編</span></a></li><li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template%3A%E7%A5%9E%E9%81%93_%E6%A8%AA&amp;action=history"><span title="このテンプレートの過去の版を表示します" style="font-size:125%;color:#002bb8;;;border:none;">歴</span></a></li></ul></div></div><div id="神道" style="font-size:110%;margin:0 6em"><a href="/wiki/%E7%A5%9E%E9%81%93" title="神道">神道</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">基礎</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A5%9E%E9%81%93" title="神道">神道</a>（<a href="/wiki/%E7%A5%9E%E9%81%93%E3%81%AE%E6%AD%B4%E5%8F%B2" title="神道の歴史">歴史</a>）</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E7%A5%9E%E8%A9%B1" title="日本神話">日本神話</a></li>
+<li><a href="/wiki/%E7%A5%9E_(%E7%A5%9E%E9%81%93)" title="神 (神道)">神</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A5%9E%E3%81%AE%E4%B8%80%E8%A6%A7" title="日本の神の一覧">日本の神の一覧</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><span typeof="mw:File"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Shinto_torii_icon_vermillion.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Shinto_torii_icon_vermillion.svg/120px-Shinto_torii_icon_vermillion.svg.png" decoding="async" width="100" height="100" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Shinto_torii_icon_vermillion.svg/250px-Shinto_torii_icon_vermillion.svg.png 1.5x" data-file-width="128" data-file-height="128" /></a></span></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">資料</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%8F%A4%E4%BA%8B%E8%A8%98" title="古事記">古事記</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E6%9B%B8%E7%B4%80" title="日本書紀">日本書紀</a></li>
+<li><a href="/wiki/%E9%A2%A8%E5%9C%9F%E8%A8%98" title="風土記">風土記</a></li>
+<li><a href="/wiki/%E5%8F%A4%E8%AA%9E%E6%8B%BE%E9%81%BA" title="古語拾遺">古語拾遺</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">神社</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A5%9E%E7%A4%BE" title="神社">神社</a></li>
+<li><a href="/wiki/%E7%A5%9E%E7%A4%BE%E4%B8%80%E8%A6%A7" title="神社一覧">神社一覧</a></li>
+<li><a href="/wiki/%E5%BB%B6%E5%96%9C%E5%BC%8F%E7%A5%9E%E5%90%8D%E5%B8%B3" title="延喜式神名帳">式内社</a></li>
+<li><a href="/wiki/%E4%B8%80%E5%AE%AE" title="一宮">一宮</a></li>
+<li><a href="/wiki/%E8%BF%91%E4%BB%A3%E7%A4%BE%E6%A0%BC%E5%88%B6%E5%BA%A6" title="近代社格制度">近代社格制度</a></li>
+<li><a href="/wiki/%E5%88%A5%E8%A1%A8%E7%A5%9E%E7%A4%BE" title="別表神社">別表神社</a></li>
+<li><a href="/wiki/%E7%A5%9E%E7%A4%BE%E6%9C%AC%E5%BA%81" title="神社本庁">神社本庁</a></li>
+<li><a href="/wiki/%E5%8D%98%E7%AB%8B%E7%A5%9E%E7%A4%BE" class="mw-redirect" title="単立神社">単立神社</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">祭祀と祭礼</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A5%AD%E7%A5%80_(%E7%A5%9E%E9%81%93)" title="祭祀 (神道)">祭祀</a></li>
+<li><a href="/wiki/%E7%A5%9E%E6%A5%BD" title="神楽">神楽</a></li>
+<li><a href="/wiki/%E7%A5%9D%E8%A9%9E" title="祝詞">祝詞</a></li>
+<li><a href="/wiki/%E5%A4%A7%E7%A5%93%E8%A9%9E" title="大祓詞">大祓詞</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">関連用語</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A5%9E%E9%81%93%E7%94%A8%E8%AA%9E%E4%B8%80%E8%A6%A7" title="神道用語一覧">神道用語一覧</a></li>
+<li><a href="/wiki/%E7%A5%9E%E4%BB%8F%E7%BF%92%E5%90%88" title="神仏習合">神仏習合</a></li>
+<li><a href="/wiki/%E5%B1%B1%E5%B2%B3%E4%BF%A1%E4%BB%B0" title="山岳信仰">山岳信仰</a></li>
+<li><a href="/wiki/%E6%B0%91%E4%BF%97%E5%AD%A6" title="民俗学">民俗学</a></li>
+<li><a href="/wiki/%E5%9B%BD%E5%AD%A6" title="国学">国学</a></li>
+<li><a href="/wiki/%E5%9B%BD%E5%AE%B6%E7%A5%9E%E9%81%93" title="国家神道">国家神道</a></li>
+<li><a href="/wiki/%E6%95%99%E6%B4%BE%E7%A5%9E%E9%81%93" title="教派神道">教派神道</a></li>
+<li><a href="/wiki/%E7%A5%9E%E8%81%B7" title="神職">神職</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="3">
+<ul><li><span typeof="mw:File"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Portal.svg" class="mw-file-description" title="ポータル"><img alt="ポータル" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/20px-Portal.svg.png" decoding="async" width="16" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/40px-Portal.svg.png 1.5x" data-file-width="36" data-file-height="32" /></a></span> <a href="/wiki/Portal:%E7%A5%9E%E9%81%93" title="Portal:神道">ポータル</a></li>
+<li><span typeof="mw:File"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Symbol_information_vote.svg" class="mw-file-description" title="プロジェクトページ"><img alt="プロジェクトページ" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Symbol_information_vote.svg/20px-Symbol_information_vote.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Symbol_information_vote.svg/40px-Symbol_information_vote.svg.png 1.5x" data-file-width="180" data-file-height="185" /></a></span> <a href="/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E7%A5%9E%E9%81%93" title="プロジェクト:神道">ウィキプロジェクト</a></li>
+<li><span typeof="mw:File"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Commons-logo.svg" class="mw-file-description" title="コモンズ"><img alt="コモンズ" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span> <a href="https://commons.wikimedia.org/wiki/Category:Shint%C5%8D" class="extiw" title="commons:Category:Shintō">コモンズ</a></li>
+<li><span typeof="mw:File"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Folder_Hexagonal_Icon.svg" class="mw-file-description" title="カテゴリ"><img alt="カテゴリ" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/20px-Folder_Hexagonal_Icon.svg.png" decoding="async" width="16" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/40px-Folder_Hexagonal_Icon.svg.png 1.5x" data-file-width="36" data-file-height="31" /></a></span><a href="/wiki/Category:%E7%A5%9E%E9%81%93" title="Category:神道">カテゴリ</a></li></ul></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐8f8dcf6c‐8lb5g
+Cached time: 20260103004932
+Cache expiry: 83444
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.293 seconds
+Real time usage: 0.365 seconds
+Preprocessor visited node count: 2478/1000000
+Revision size: 10612/2097152 bytes
+Post‐expand include size: 37447/2097152 bytes
+Template argument size: 5745/2097152 bytes
+Highest expansion depth: 23/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 13391/5000000 bytes
+Lua time usage: 0.134/10.000 seconds
+Lua memory usage: 2053749/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  308.281      1 -total
+ 28.54%   87.995      1 Template:Shinto-stub
+ 27.89%   85.976      1 Template:Asbox
+ 24.58%   75.776      1 Template:独自研究
+ 22.16%   68.324      3 Template:Ambox
+ 20.99%   64.703      1 Template:Reflist
+ 12.90%   39.760      1 Template:Cite_book
+ 11.03%   34.012      1 Template:Citation/core
+  7.01%   21.619      2 Template:要出典
+  6.63%   20.436      1 Template:神道_横
+-->
+
+<!-- Saved in parser cache with key jawiki:pcache:465669:|#|:idhash:canonical and timestamp 20260103004932 and revision id 106868537. Rendering was triggered because: page_view
+ -->
+</div><noscript><img src="https://ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=天つ罪・国つ罪&amp;oldid=106868537">https://ja.wikipedia.org/w/index.php?title=天つ罪・国つ罪&amp;oldid=106868537</a>」から取得</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8F%A4%E4%BB%A3%E6%B3%95" title="Category:日本の古代法">日本の古代法</a></li><li><a href="/wiki/Category:%E7%8A%AF%E7%BD%AA%E9%A1%9E%E5%9E%8B" title="Category:犯罪類型">犯罪類型</a></li><li><a href="/wiki/Category:%E7%BD%AA" title="Category:罪">罪</a></li><li><a href="/wiki/Category:%E7%A5%9E%E9%81%93%E3%81%A8%E7%A4%BE%E4%BC%9A" title="Category:神道と社会">神道と社会</a></li><li><a href="/wiki/Category:%E5%AE%97%E6%95%99%E5%80%AB%E7%90%86" title="Category:宗教倫理">宗教倫理</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隠しカテゴリ: <ul><li><a href="/wiki/Category:ISBN%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%83%9A%E3%83%BC%E3%82%B8" title="Category:ISBNマジックリンクを使用しているページ">ISBNマジックリンクを使用しているページ</a></li><li><a href="/wiki/Category:%E7%8B%AC%E8%87%AA%E7%A0%94%E7%A9%B6%E3%81%AE%E9%99%A4%E5%8E%BB%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%AA%E8%A8%98%E4%BA%8B/2019%E5%B9%B48%E6%9C%88" title="Category:独自研究の除去が必要な記事/2019年8月">独自研究の除去が必要な記事/2019年8月</a></li><li><a href="/wiki/Category:%E5%8F%82%E7%85%A7%E6%96%B9%E6%B3%95" title="Category:参照方法">参照方法</a></li><li><a href="/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E8%A8%98%E8%BF%B0%E3%81%AE%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B/2018%E5%B9%B46%E6%9C%88" title="Category:出典を必要とする記述のある記事/2018年6月">出典を必要とする記述のある記事/2018年6月</a></li><li><a href="/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E8%A8%98%E8%BF%B0%E3%81%AE%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B/2019%E5%B9%B43%E6%9C%88" title="Category:出典を必要とする記述のある記事/2019年3月">出典を必要とする記述のある記事/2019年3月</a></li><li><a href="/wiki/Category:%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E8%A8%98%E4%BA%8B" title="Category:すべてのスタブ記事">すべてのスタブ記事</a></li><li><a href="/wiki/Category:%E7%A5%9E%E9%81%93%E9%96%A2%E9%80%A3%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E9%A0%85%E7%9B%AE" title="Category:神道関連のスタブ項目">神道関連のスタブ項目</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 最終更新 2025年10月17日 (金) 14:10 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
+	<li id="footer-info-copyright">テキストは<a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">クリエイティブ・コモンズ 表示-継承ライセンス</a>のもとで利用できます。追加の条件が適用される場合があります。詳細については<a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">利用規約</a>を参照してください。</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ja">プライバシー・ポリシー</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6">ウィキペディアについて</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85">免責事項</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行動規範</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">開発者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ja.wikipedia.org">統計</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookieに関する声明</a></li>
+	<li id="footer-places-mobileview"><a href="//ja.wikipedia.org/w/index.php?title=%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left vector-button-flush-right" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>検索</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Wikipedia内を検索">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="特別:検索">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">検索</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="目次" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="目次の表示・非表示を切り替え"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">目次の表示・非表示を切り替え</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">天つ罪・国つ罪</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>7 個の言語版</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>話題を追加</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8f8dcf6c-r48vl","wgBackendResponseTime":147,"wgPageParseReport":{"limitreport":{"cputime":"0.293","walltime":"0.365","ppvisitednodes":{"value":2478,"limit":1000000},"revisionsize":{"value":10612,"limit":2097152},"postexpandincludesize":{"value":37447,"limit":2097152},"templateargumentsize":{"value":5745,"limit":2097152},"expansiondepth":{"value":23,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":13391,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  308.281      1 -total"," 28.54%   87.995      1 Template:Shinto-stub"," 27.89%   85.976      1 Template:Asbox"," 24.58%   75.776      1 Template:独自研究"," 22.16%   68.324      3 Template:Ambox"," 20.99%   64.703      1 Template:Reflist"," 12.90%   39.760      1 Template:Cite_book"," 11.03%   34.012      1 Template:Citation/core","  7.01%   21.619      2 Template:要出典","  6.63%   20.436      1 Template:神道_横"]},"scribunto":{"limitreport-timeusage":{"value":"0.134","limit":"10.000"},"limitreport-memusage":{"value":2053749,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-8f8dcf6c-8lb5g","timestamp":"20260103004932","ttl":83444,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u5929\u3064\u7f6a\u30fb\u56fd\u3064\u7f6a","url":"https:\/\/ja.wikipedia.org\/wiki\/%E5%A4%A9%E3%81%A4%E7%BD%AA%E3%83%BB%E5%9B%BD%E3%81%A4%E7%BD%AA","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3541665","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3541665","author":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u3078\u306e\u8ca2\u732e\u8005"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-03-02T16:32:09Z","dateModified":"2025-10-17T14:10:52Z"}</script>
+</body>
+</html>

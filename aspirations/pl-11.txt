@@ -1,0 +1,642 @@
+HTTP/2 200 
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+set-cookie: PHPSESSID=1356c3b0f0692c70eaf92894ec7b8865; path=/; secure; HttpOnly; SameSite=Strict
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: Accept-Encoding
+cache-control: no-cache, no-store, must-revalidate
+content-type: text/html; charset=UTF-8
+date: Sat, 03 Jan 2026 16:46:58 GMT
+server: Apache/2.4.65 (Debian)
+
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+	<meta charset="utf-8">
+	<title>grzech – Słownik etymologiczny</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Dydaktyczny słownik etymologiczno-historyczny języka polskiego – Zakład Historii Języka Polskiego i Dialektologii Uniwersytetu Warszawskiego">
+	<meta property="og:description" content="Dydaktyczny słownik etymologiczno-historyczny języka polskiego – Zakład Historii Języka Polskiego i Dialektologii Uniwersytetu Warszawskiego">
+	<meta property="og:title" content="grzech – Słownik etymologiczny">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://slowmniketymologiczny.uw.edu.pl">
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" referrerpolicy="no-referrer">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.15/css/bootstrap-multiselect.css" integrity="sha512-EvvoSMXERW4Pe9LjDN9XDzHd66p8Z49gcrB7LCUplh0GcEHiV816gXGwIhir6PJiwl0ew8GFM2QaIg2TW02B9A==" crossorigin="anonymous" />
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700&amp;subset=latin-ext&display=swap" rel="stylesheet">
+	<link href="/assets/css/main.css?ver=1.0.40" rel="stylesheet">
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.15/js/bootstrap-multiselect.min.js" integrity="sha512-aFvi2oPv3NjnjQv1Y/hmKD7RNMendo4CZ2DwQqMWzoURKxcqAoktj0nNG4LU8m23+Ws9X5uVDD4OXLqpUVXD5Q==" crossorigin="anonymous"></script>
+	<script src="/assets/js/etymologia.min.js?ver=1.0.40"></script>
+
+</head>
+
+<body id="page-entry-view">
+	<div class="wrapper">
+		<nav class="navbar navbar-menubar navbar-inverse">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+						<span class="icon-bar">&zwj;</span>
+						<span class="icon-bar">&zwj;</span>
+						<span class="icon-bar">&zwj;</span>
+					</button>
+					<a href="/" class="navbar-brand"><i class="fa fa-home fa-lg">&zwj;</i></a>
+				</div>
+				<div class="collapse navbar-collapse">
+					<ul class="nav navbar-nav">
+						<li><a href="/entry/all"><i class="fa fa-tags">&zwj;</i> Hasła</a></li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+								<i class="fa fa-list">&zwj;</i> Przeglądaj<span class="caret">&nbsp;</span>
+							</a>
+							<ul class="dropdown-menu">
+								<li><a href="/browse/view/pos">Części mowy</a></li>
+								<li><a href="/browse/view/number">Liczby</a></li>
+								<li><a href="/browse/view/gender">Rodzaje</a></li>
+								<li><a href="/browse/view/inflection">Odmiany współczesne</a></li>
+								<li><a href="/browse/view/old_inflection">Odmiany prasłowiańskie</a></li>
+								<li><a href="/browse/view/transformation">Przekształcenia semantyczne</a></li>
+								<li><a href="/browse/view/change">Procesy</a></li>
+								<li role="separator" class="divider"></li>
+								<li><a href="/browse/dictionaries">Słowniki</a></li>
+							</ul>
+						</li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+								<i class="fa fa-book">&zwj;</i> O projekcie<span class="caret">&nbsp;</span>
+							</a>
+							<ul class="dropdown-menu">
+								<li><a href="/page/view/ebook">E-zeszyt</a></li>
+								<li><a href="/page/view/editors">Wykonawcy</a></li>
+								<li><a href="/page/view/article">Artykuł hasłowy</a></li>
+								<li><a href="/page/view/transcription">Zasady transkrypcji</a></li>
+								<li><a href="/page/view/literature">Literatura przedmiotu</a></li>
+								<li><a href="/page/view/financing">Finansowanie</a></li>
+								<li><a href="/page/view/contact">Kontakt</a></li>
+							</ul>
+						</li>
+					</ul>
+					<ul class="nav navbar-nav navbar-right">
+													<li><a href="/user/login" title="Zaloguj"><i class="fa fa-sign-in-alt">&zwj;</i></a></li>
+											</ul>
+				</div>
+			</div>
+		</nav>
+				<div class="container main-content">
+			
+<h2>
+			grzech	</h2>
+<a href="/browse/entries/pos?v=54">rzeczownik</a>, <a href="/browse/entries/gender?v=87">r.m.</a><br>
+<a href="/browse/entries/old_inflection?v=58">psł. dekl. -o- tematowa</a>&rarr;
+<a href="/browse/entries/inflection?v=76">pol. dekl. m.</a>
+<h3>
+	Etymologia
+	</h3>
+	<ol class="entry-etymology">
+		<li>Język bałtosłowiański</b></li>
+			<li><i class="context" title="bałtosłowiański">bałtosłow.</i>
+			<div class="context">
+								<span class="context" title="&laquo;skrzywienie, odchylenie od czegoś&raquo;">*groi̯-so-</span>
+													<span class="context" title="Wiesław Boryś &laquo;Słownik etymologiczny języka polskiego&raquo; Kraków  2005">
+			[<a href="/browse/entries/dictionary?v=11">SEJPBo</a>]</span>			</div></li>
+		</ol>
+	<ol class="entry-etymology">
+		<li>Język prasłowiański</b></li>
+			<li><i class="context" title="prasłowiański">psł.</i>
+			<div class="context">
+								<span class="context" title="&laquo;błąd, pomyłka, uchybienie&raquo;">*grěxъ</span>
+												</div></li>
+		</ol>
+	<ol class="entry-etymology">
+		<li>Języki słowiańskie</b></li>
+			<li><i class="context" title="czeski">czes.</i>
+			<div class="context">
+								<span class="context" title="">hřich</span>
+												</div></li>
+			<li><i class="context" title="staroczeski">stczes.</i>
+			<div class="context">
+								<span class="context" title="">hřiech</span>
+												</div></li>
+			<li><i class="context" title="dolnołużycki">dłuż.</i>
+			<div class="context">
+								<span class="context" title="">grěch</span>
+												</div></li>
+			<li><i class="context" title="górnołużycki">głuż.</i>
+			<div class="context">
+								<span class="context" title="">hrěch</span>
+												</div></li>
+			<li><i class="context" title="połabski">połab.</i>
+			<div class="context">
+								<span class="context" title="">grex</span>
+												</div></li>
+			<li><i class="context" title="słowacki">słc.</i>
+			<div class="context">
+								<span class="context" title="">hriech</span>
+												</div></li>
+			<li><i class="context" title="rosyjski">ros.</i>
+			<div class="context">
+								<span class="context" title="">grech</span>
+												</div></li>
+			<li><i class="context" title="ukraiński">ukr.</i>
+			<div class="context">
+								<span class="context" title="">hrich</span>
+												</div></li>
+			<li><i class="context" title="bułgarski">bułg.</i>
+			<div class="context">
+								<span class="context" title="">grjach</span>
+												</div></li>
+			<li><i class="context" title="serbski/chorwacki">sch.</i>
+			<div class="context">
+								<span class="context" title="">grȉjeh</span>
+												</div></li>
+			<li><i class="context" title="słoweński">słoweń.</i>
+			<div class="context">
+								<span class="context" title="">gréh</span>
+												</div></li>
+		</ol>
+	<ol class="entry-etymology">
+		<li>Polskie formy gwarowe</b></li>
+			<li><i class="context" title="polski gwarowy">pol.gw.</i>
+			<div class="context">
+								<span class="context" title="">grzych, grzéch</span>
+													<span class="context" title="Mieczysław Karaś i in. (red.) &laquo;Słownik gwar polskich&raquo; Wrocław, Kraków 1982-2016">
+			[<a href="/browse/entries/dictionary?v=27">SGP</a>]</span>			</div></li>
+		</ol>
+	<ol class="entry-etymology">
+		<li>Inne języki indoeuropejskie</b></li>
+			<li><i class="context" title="litewski">lit.</i>
+			<div class="context">
+								<span class="context" title="&laquo;kręty&raquo;">graižùs</span>
+												</div></li>
+			<li><i class="context" title="łotewski">łot.</i>
+			<div class="context">
+								<span class="context" title=""> grēks</span>
+												</div></li>
+			<li><i class="context" title="łotewski">łot.</i>
+			<div class="context">
+								<span class="context" title="&laquo;krzywy, pochyły, ukośny&raquo;">grèizs</span>
+												</div></li>
+		</ol>
+
+
+<h3>
+	Ewolucja formalna
+	</h3>
+<ol class="entry-forms">
+			<li>
+										<i>bałtosłow.</i>
+				*groi̯-so-						</li>
+			<li>
+																<img class="context form-arrow" src="/assets/images/right-arrow.svg" data-html="true" data-placement="top" data-content="&lt;ul class=&#039;list-unstyled fa-ul&#039;&gt;&lt;li&gt;&lt;i class=&#039;fa-li fa fa-arrow-right&#039;&gt;&amp;zwj;&lt;/i&gt;&lt;a href=&#039;/browse/entries/change?v=135&#039;&gt;przejście s &gt; x po i, u, r, k &lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;i class=&#039;fa-li fa fa-arrow-right&#039;&gt;&amp;zwj;&lt;/i&gt;&lt;a href=&#039;/browse/entries/change?v=8&#039;&gt;monoftongizacja dyftongu&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;i class=&#039;fa-li fa fa-arrow-right&#039;&gt;&amp;zwj;&lt;/i&gt;&lt;a href=&#039;/browse/entries/change?v=44&#039;&gt;redukcja samogłoski&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" data-toggle="popover">
+														<i>psł.</i>
+				*grěxъ						</li>
+			<li>
+																<img class="context form-arrow" src="/assets/images/right-arrow.svg" data-html="true" data-placement="top" data-content="&lt;ul class=&#039;list-unstyled fa-ul&#039;&gt;&lt;li&gt;&lt;i class=&#039;fa-li fa fa-arrow-right&#039;&gt;&amp;zwj;&lt;/i&gt;&lt;a href=&#039;/browse/entries/change?v=17&#039;&gt;zanik jeru/jerów w pozycji słabej&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;i class=&#039;fa-li fa fa-arrow-right&#039;&gt;&amp;zwj;&lt;/i&gt;&lt;a href=&#039;/browse/entries/change?v=131&#039;&gt;palatalizacja spółgłoski r’&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;i class=&#039;fa-li fa fa-arrow-right&#039;&gt;&amp;zwj;&lt;/i&gt;&lt;a href=&#039;/browse/entries/change?v=24&#039;&gt;przejście ŕ &gt; ř&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" data-toggle="popover">
+														<i>stpol.</i>
+				gř&#039;ēx						</li>
+			<li>
+																<img class="context form-arrow" src="/assets/images/right-arrow.svg" data-html="true" data-placement="top" data-content="&lt;ul class=&#039;list-unstyled fa-ul&#039;&gt;&lt;li&gt;&lt;i class=&#039;fa-li fa fa-arrow-right&#039;&gt;&amp;zwj;&lt;/i&gt;&lt;a href=&#039;/browse/entries/change?v=41&#039;&gt;zanik iloczasu&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;i class=&#039;fa-li fa fa-arrow-right&#039;&gt;&amp;zwj;&lt;/i&gt;&lt;a href=&#039;/browse/entries/change?v=22&#039;&gt;powstanie samogłoski ścieśnionej&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;i class=&#039;fa-li fa fa-arrow-right&#039;&gt;&amp;zwj;&lt;/i&gt;&lt;a href=&#039;/browse/entries/change?v=136&#039;&gt;dyspalatalizacja spółgłoski miękkiej&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;i class=&#039;fa-li fa fa-arrow-right&#039;&gt;&amp;zwj;&lt;/i&gt;&lt;a href=&#039;/browse/entries/change?v=35&#039;&gt;zanik samogłoski ścieśnionej&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;i class=&#039;fa-li fa fa-arrow-right&#039;&gt;&amp;zwj;&lt;/i&gt;&lt;a href=&#039;/browse/entries/change?v=36&#039;&gt;utożsamienie ř z ž&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" data-toggle="popover">
+														<i>śrpol.</i>
+				gřéx || gřex, gžex						</li>
+	</ol>
+
+<h3>
+	Znaczenia i przykłady użycia
+	</h3>
+<ol class=" entries" data-save="/entry/update">
+			<li data-id="41">
+			&laquoprzekroczenie przepisów, legis violatio, crimen, peccatum, delicatum, vitium, culpa: a) religijno-etycznych; b) prawnych&raquo								<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span>										<span class="comment">SXVI: «świadome i dobrowolne przekroczenie przepisów religijnych, w religii chrześcijańskiej przykazania bożego i kościelnego; też przekroczenie przepisów prawnych i norm etyki świeckiej, jeśli są one zbieżne z nakazami religijnymi», SWil: «nieprawość, przestąpienie przykazania bożego», SW: «czyn potępiany przez religię, uczynek prawu boskiemu przeciwny, nieprawość», SJPDor: «w doktrynach religijnych: świadome i dobrowolne przestąpienie uznanych za moralne zasad postępowania», USJP: «w doktrynach religijnych: złamanie zakazu zagrożone sankcjami nadnaturalnymi (np. karą pośmiertną), wymagające oczyszczenia za pomocą ustalonych przez religię praktyk»</span>
+										<ul class="list-unstyled">
+											<li>
+							<i class="fa fa-quote-right">&zwj;</i>
+															Gdyby ktory rycerz... jemuż ktora wina złodziejska nigdy nie była w sądzie ruszona, z grzecha złodziejskiego alibo łotrowskiego był obwinion, słuszne bądź jemu... włostną przysięgą ot takiego obwinienia się oczyścić.								<i>
+									Sul 44									(około 1450 roku)								</i>
+													<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span>														</li>
+											<li>
+							<i class="fa fa-quote-right">&zwj;</i>
+															A ták jáko wyżej powiedziano jest, iż cożkolwiek nie jest z wiáry, to jest grzech. A grzech nikogo uspráwiedliwić nie może.								<i>
+									RejPos 212 marg.									1557								</i>
+													<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>														</li>
+											<li>
+							<i class="fa fa-quote-right">&zwj;</i>
+															Grzech, przestąpienie przykazania bożego, sercem, słowem i uczynkiem.								<i>
+									HrbstNauk h. 5 b.									1566								</i>
+													<span class="context" title="Samuel Bogumił Linde &laquo;Słownik języka polskiego&raquo; Warszawa 1807-1814">
+			[<a href="/browse/entries/dictionary?v=26">L</a>]</span>														</li>
+											<li>
+							<i class="fa fa-quote-right">&zwj;</i>
+															Grzech powszedni, ciężki, śmiertelny.								<i>
+																		1861								</i>
+													<span class="context" title="Aleksander Zdanowicz i in. &laquo;Słownik języka polskiego&raquo; Wilno 1861">
+			[<a href="/browse/entries/dictionary?v=29">SWil</a>]</span>														</li>
+											<li>
+							<i class="fa fa-quote-right">&zwj;</i>
+															Bijcie się w piersi, posypcie popiołem głowy i z płaczem żałujcie za grzechy.								<i>
+									BełcŚmiały 233									1882								</i>
+													<span class="context" title="Witold Doroszewski (red.) &laquo;Słownik języka polskiego&raquo; Warszawa  1958-1969">
+			[<a href="/browse/entries/dictionary?v=28">SJPDor</a>]</span>														</li>
+											<li>
+							<i class="fa fa-quote-right">&zwj;</i>
+															Grzech pierworodny.								<i>
+																		1900								</i>
+													<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki &laquo;Słownik języka polskiego &raquo; Warszawa 1900-1927">
+			[<a href="/browse/entries/dictionary?v=2">SW</a>]</span>														</li>
+											<li>
+							<i class="fa fa-quote-right">&zwj;</i>
+															Pokuta za grzechy.								<i>
+																		2003								</i>
+													<span class="context" title="Stanisław Dubisz (red.) &laquo;Uniwersalny słownik języka polskiego&raquo; Warszawa 2003">
+			[<a href="/browse/entries/dictionary?v=32">USJP</a>]</span>														</li>
+									</ul>
+					</li>
+			<li data-id="48">
+			&laquowyrażenia przysłówkowe: po grzechu, przez grzech &#039;niestety, na nieszczęście&#039;&raquo								<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span>													<ul class="list-unstyled">
+											<li>
+							<i class="fa fa-quote-right">&zwj;</i>
+															Ale się ja po grzechu tego barzo boję, iżesmy już ten to dar wszytcy stracili.								<i>
+									Gn 172a.									(przed 14oo rokiem)								</i>
+													<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span>														</li>
+									</ul>
+					</li>
+			<li data-id="50">
+			&laquowykroczenie przeciw regułom życia towarzyskiego, społecznego, rozsądku itp.&raquo								<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>										<span class="comment">SW: przen.: «wina, przewinienie, wykroczenie, uchybienie, ułomność, słabostka, wybryk, nadużycie», SJPDor:  «przewinienie, uchybienie, błąd, wada» , USJP: książk. «postępek wykraczający przeciw jakimś nomom postępowania; przewinienie, uchybienie, błąd, wada»</span>
+										<ul class="list-unstyled">
+											<li>
+							<i class="fa fa-quote-right">&zwj;</i>
+															Acz ci tak pilną i uczoną mowę grzech przerwać, a wszakoż zdzierżeć się nie mogę, abym cię tu nie pytał.								<i>
+									OrzQuin O3v									1563								</i>
+													<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>														</li>
+											<li>
+							<i class="fa fa-quote-right">&zwj;</i>
+															Grzechy młodości, dzieciństwa.								<i>
+																		1900								</i>
+													<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki &laquo;Słownik języka polskiego &raquo; Warszawa 1900-1927">
+			[<a href="/browse/entries/dictionary?v=2">SW</a>]</span>														</li>
+											<li>
+							<i class="fa fa-quote-right">&zwj;</i>
+															Popełniłem nawet pewien grzech taktyczny, za dużo na razie powiedziałem.								<i>
+									SzanMost 42									1933								</i>
+													<span class="context" title="Witold Doroszewski (red.) &laquo;Słownik języka polskiego&raquo; Warszawa  1958-1969">
+			[<a href="/browse/entries/dictionary?v=28">SJPDor</a>]</span>														</li>
+											<li>
+							<i class="fa fa-quote-right">&zwj;</i>
+															Grzech towarzyski.								<i>
+																		2003								</i>
+													<span class="context" title="Stanisław Dubisz (red.) &laquo;Uniwersalny słownik języka polskiego&raquo; Warszawa 2003">
+			[<a href="/browse/entries/dictionary?v=32">USJP</a>]</span>														</li>
+									</ul>
+					</li>
+	</ol>	<h3>
+		Zmiany semantyczne
+			</h3>
+
+				<ol class="entry-forms">
+							<li>
+										<a href="/stage/edit/254">«czyn potępiany przez religię, uczynek prawu boskiemu przeciwny, nieprawość»</a>										<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span>				</li>
+							<li>
+											<img class="context form-arrow" src="/assets/images/right-arrow.svg" data-html="true" data-placement="top" data-content="<ul class='list-unstyled fa-ul'><li><i class='fa-li fa fa-arrow-right'>&zwj;</i><a href='/browse/entries/transformation?v=45'>generalizacja znaczenia</a></li></ul>" data-toggle="popover">
+										<a href="/stage/edit/255">«wina, przewinienie, wykroczenie, uchybienie, ułomność, słabostka, wybryk, nadużycie»</a>										<span class="context" title="Witold Doroszewski (red.) &laquo;Słownik języka polskiego&raquo; Warszawa  1958-1969">
+			[<a href="/browse/entries/dictionary?v=28">SJPDor</a>]</span>				</li>
+								</ol>
+		<h3>
+		Związki frazeologiczne			</h3>
+	<ol class="list-unstyled">
+			<li>
+			<b>brzydki jak grzech śmiertelny</b>
+			&laquo;bardzo brzydki&raquo			[<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki&laquo;Słownik języka polskiego &raquo;Warszawa 1900-1927">SW</span>, <span class="context" title="Witold Doroszewski (red.)&laquo;Słownik języka polskiego&raquo;Warszawa  1958-1969">SJPDor</span>]		</li>
+			<li>
+			<b>brzydki jak siedem grzechów głównych</b>
+			&laquo;bardzo brzydki&raquo			[<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki&laquo;Słownik języka polskiego &raquo;Warszawa 1900-1927">SW</span>, <span class="context" title="Witold Doroszewski (red.)&laquo;Słownik języka polskiego&raquo;Warszawa  1958-1969">SJPDor</span>]		</li>
+			<li>
+			<b>co prawda, to nie grzech</b>
+						[<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki&laquo;Słownik języka polskiego &raquo;Warszawa 1900-1927">SW</span>, <span class="context" title="Samuel Bogumił Linde&laquo;Słownik języka polskiego&raquo;Warszawa 1807-1814">L</span>, <span class="context" title="Witold Doroszewski (red.)&laquo;Słownik języka polskiego&raquo;Warszawa  1958-1969">SJPDor</span>, <span class="context" title="Aleksander Zdanowicz i in.&laquo;Słownik języka polskiego&raquo;Wilno 1861">SWil</span>]		</li>
+			<li>
+			<b>grzech grzechem karan bywa</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>grzech nieznany nie bywa karany </b>
+											<span class="context" title="Samuel Bogumił Linde &laquo;Słownik języka polskiego&raquo; Warszawa 1807-1814">
+			[<a href="/browse/entries/dictionary?v=26">L</a>]</span>		</li>
+			<li>
+			<b>grzech pierworodny</b>
+			&laquo;przyczyna leżąca u podstaw zjawisk negatywnych&raquo			[<span class="context" title="Witold Doroszewski (red.)&laquo;Słownik języka polskiego&raquo;Warszawa  1958-1969">SJPDor</span>, <span class="context" title="Stanisław Dubisz (red.)&laquo;Uniwersalny słownik języka polskiego&raquo;Warszawa 2003">USJP</span>]		</li>
+			<li>
+			<b>jest tak gadatliwa, że grzech śmiertelny by powiedziała</b>
+											<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki &laquo;Słownik języka polskiego &raquo; Warszawa 1900-1927">
+			[<a href="/browse/entries/dictionary?v=2">SW</a>]</span>		</li>
+			<li>
+			<b>już go grzechy opuściły</b>
+											<span class="context" title="Aleksander Zdanowicz i in. &laquo;Słownik języka polskiego&raquo; Wilno 1861">
+			[<a href="/browse/entries/dictionary?v=29">SWil</a>]</span>		</li>
+			<li>
+			<b>pot. za jakie, za czyje grzechy?</b>
+			&laquo;w imię czego, z jakiej racji, z jakiego powodu?&raquo								<span class="context" title="Stanisław Dubisz (red.) &laquo;Uniwersalny słownik języka polskiego&raquo; Warszawa 2003">
+			[<a href="/browse/entries/dictionary?v=32">USJP</a>]</span>		</li>
+			<li>
+			<b>przestarz. brzydki jak grzech śmiertelny, jak siedem grzechów (głównych)</b>
+			&laquo;bardzo, szczególnie brzydki&raquo								<span class="context" title="Stanisław Dubisz (red.) &laquo;Uniwersalny słownik języka polskiego&raquo; Warszawa 2003">
+			[<a href="/browse/entries/dictionary?v=32">USJP</a>]</span>		</li>
+			<li>
+			<b>rada by dusza do raju, ale grzechy nie puszczają</b>
+			&laquo;nie jest łatwo realizować jakieś plany, gdyż istnieją okoliczności, które to utrudniają&raquo			[<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki&laquo;Słownik języka polskiego &raquo;Warszawa 1900-1927">SW</span>, <span class="context" title="Witold Doroszewski (red.)&laquo;Słownik języka polskiego&raquo;Warszawa  1958-1969">SJPDor</span>, <span class="context" title="Stanisław Dubisz (red.)&laquo;Uniwersalny słownik języka polskiego&raquo;Warszawa 2003">USJP</span>]		</li>
+			<li>
+			<b>warta grzechu</b>
+			&laquo;o kobiecie pięknej, pociągającej&raquo			[<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki&laquo;Słownik języka polskiego &raquo;Warszawa 1900-1927">SW</span>, <span class="context" title="Witold Doroszewski (red.)&laquo;Słownik języka polskiego&raquo;Warszawa  1958-1969">SJPDor</span>]		</li>
+			<li>
+			<b>wyrażenia przysłówkowe: po grzechu, przez grzech</b>
+			&laquo;niestety, na nieszczęście&raquo								<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span>		</li>
+			<li>
+			<b>żart. warta grzechu </b>
+			&laquo;o kobiecie pięknej, pociągającej&raquo						</li>
+		</ol>
+	<h3>
+		Połączenia wyrazowe			</h3>
+	<ol class="list-unstyled">
+			<li>
+			<b>do grzechu ciągnąć, przywieść, namawiać; pochop, powód, wola</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>grzech Adamowy, bałwochwalstwa, cielesny, ciężki, cudzołóstwa, cudzy, doczesny, główny, lekki, ludzki, mały, nieczysty, niedowiarstwa, nieposłuszeństwa, niesprawiedliwości, pierworodny, powszechny, powszedni, pychy, sodomski, śmiertelny, świata, uczynkowy, ustny </b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>grzech bezecny, brzydki, brzydliwy, ciemny, częsty, diabelski, gruby, haniebny, jadowity, marny, nędzny, niecierpliwy, niewstydliwy, nieznośny, obrzydły, ojcowski, okrutny, plugawy, poczęty, postronny, srogi, stary, straszliwy, straszny, szkaradny, uporny, wyrzucon, ziemski</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>grzech brać, czuć, dopuścić, kryć, leczyć, lekceważyć, mieć, (o)baczyć, oddalać, odkupić, odpędzać, odpuścić, odrzucić, okazać, oskarżyć, pobudzać, poczynać, popełnić, porodzić, przebaczyć, przynieść, rozmnożyć, (u)tłumić, widzieć, wziąć, wygnać, wyznać, zwalczyć</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>grzech czynić, płodzić</b>
+											<span class="context" title="Samuel Bogumił Linde &laquo;Słownik języka polskiego&raquo; Warszawa 1807-1814">
+			[<a href="/browse/entries/dictionary?v=26">L</a>]</span>		</li>
+			<li>
+			<b>grzech dotknie (się), panuje, rozmnaża się, rozkorzenia się </b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>grzech nieczysty, przyrodzony, o pomstę do nieba wołający, śmiertelny</b>
+											<span class="context" title="Samuel Bogumił Linde &laquo;Słownik języka polskiego&raquo; Warszawa 1807-1814">
+			[<a href="/browse/entries/dictionary?v=26">L</a>]</span>		</li>
+			<li>
+			<b>grzech pierworodny, śmiertelny, powszedni, ciężki, nie do odpuszczenia, główny, o pomstę do nieba wołający, przeciw Duchowi Świętemu, nieczysty a. cielesny</b>
+											<span class="context" title="Aleksander Zdanowicz i in. &laquo;Słownik języka polskiego&raquo; Wilno 1861">
+			[<a href="/browse/entries/dictionary?v=29">SWil</a>]</span>		</li>
+			<li>
+			<b>grzech pierworodny, śmiertelny, powszedni, główny</b>
+											<span class="context" title="Witold Doroszewski (red.) &laquo;Słownik języka polskiego&raquo; Warszawa  1958-1969">
+			[<a href="/browse/entries/dictionary?v=28">SJPDor</a>]</span>		</li>
+			<li>
+			<b>grzech pierworodny, śmiertelny, powszedni, myślowy, słowny, uczynkowy, główny, cudzy, przeciw Duchowi Świętemu, o pomstę do Boga wołający, nieczystości </b>
+											<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki &laquo;Słownik języka polskiego &raquo; Warszawa 1900-1927">
+			[<a href="/browse/entries/dictionary?v=2">SW</a>]</span>		</li>
+			<li>
+			<b>grzech popełnić</b>
+						[<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki&laquo;Słownik języka polskiego &raquo;Warszawa 1900-1927">SW</span>, <span class="context" title="Aleksander Zdanowicz i in.&laquo;Słownik języka polskiego&raquo;Wilno 1861">SWil</span>]		</li>
+			<li>
+			<b>grzech przeciw komu, przeciw czemu</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>grzech wielki, powszedni, śmiertelny, nieczysty</b>
+											<span class="context" title="Grzegorz Knapski &laquo;Thesaurus polono-latino-graecus seu promptarium linguae latinae et graece in tres tomas divisum&raquo; Kraków 1643">
+			[<a href="/browse/entries/dictionary?v=25">Kn</a>]</span>		</li>
+			<li>
+			<b>grzech wielki, śmiertelny, powszedni, obrażonego majestatu</b>
+											<span class="context" title="Michał Abraham Trotz &laquo;Nowy dykcjonarz to jest mownik polsko-francusko-niemiecki&raquo; Lipsk 1764">
+			[<a href="/browse/entries/dictionary?v=31">T</a>]</span>		</li>
+			<li>
+			<b>grzech zmazać, okupić</b>
+											<span class="context" title="Witold Doroszewski (red.) &laquo;Słownik języka polskiego&raquo; Warszawa  1958-1969">
+			[<a href="/browse/entries/dictionary?v=28">SJPDor</a>]</span>		</li>
+			<li>
+			<b>grzechem oszpecić, pokalać, (roz)gniewać, zasłużyć; dotkniony, oszpecony, pobrukany, poruszony, strapiony, ściśniony, uwikłany</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>grzechowi służyć, (s)przeciwić się; lubościwy, miłościw</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>grzechu bać się,  dopuścić się, odstąpić, (po)niechać, (po)przestać, przyczyniać, rozmiłować się, uchodzić, umniejszyć, używać</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>grzechu bodziec, brzydkość, ciemność, dopuszczenie, dzień, głębokość, głos, leczenie, lekarz, marność, mnogość, mnóstwo, moc, nieprawość, obaczenie, obrona, obrzydzenie, ohyda, opuszczenie, owoc, pobudka, początek, powód, przeklęcie, przepaść, przyczyńca, rdza, rejestr, rozmnożenie, rozmyślenie, sidła, skrytość, skutek, sposób, sprawca, srogość, uczestnik, uczestnictwo, więzienie, złość, złośliwość </b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>grzechu dopuścić się</b>
+											<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki &laquo;Słownik języka polskiego &raquo; Warszawa 1900-1927">
+			[<a href="/browse/entries/dictionary?v=2">SW</a>]</span>		</li>
+			<li>
+			<b>grzechu odpuszczenie</b>
+						[<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki&laquo;Słownik języka polskiego &raquo;Warszawa 1900-1927">SW</span>, <span class="context" title="Aleksander Zdanowicz i in.&laquo;Słownik języka polskiego&raquo;Wilno 1861">SWil</span>]		</li>
+			<li>
+			<b>grzechu ustrzec się</b>
+						[<span class="context" title="Maria Renata Mayenowa i in. (red.)&laquo;Słownik polszczyzny XVI wieku&raquo;Warszawa  1966-2012">SXVI</span>, <span class="context" title="Michał Abraham Trotz&laquo;Nowy dykcjonarz to jest mownik polsko-francusko-niemiecki&raquo;Lipsk 1764">T</span>]		</li>
+			<li>
+			<b>na grzech gniewać się; obrona, lekarstwo</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>nad grzechem zlutować się; zwycięstwo</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>od grzechu obmywać, oczyścić, odstąpić, odwodzić, odwracać się, uciekać, usprawiedliwić, wstrzymać; nawrócony, wydarty, obrona</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>przeciw grzechowi bojować, walczyć; lekarstwo</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>rel. grzech ciężki a. śmiertelny</b>
+			&laquo;w teologii chrześcijańskiej: całkowite i dobrowolne odwrócenie się od Boga poprzez złamanie jego zakazu w sprawach wielkiej wagi, niosące ze sobą ryzyko wiecznego potępienia&raquo								<span class="context" title="Stanisław Dubisz (red.) &laquo;Uniwersalny słownik języka polskiego&raquo; Warszawa 2003">
+			[<a href="/browse/entries/dictionary?v=32">USJP</a>]</span>		</li>
+			<li>
+			<b>rel. grzech pierworodny</b>
+			&laquo;w religii chrześcijańskiej: grzech Adama i Ewy obciążający dziedzicznie całą ludzkość&raquo								<span class="context" title="Stanisław Dubisz (red.) &laquo;Uniwersalny słownik języka polskiego&raquo; Warszawa 2003">
+			[<a href="/browse/entries/dictionary?v=32">USJP</a>]</span>		</li>
+			<li>
+			<b>rel. grzech powszedni</b>
+			&laquo;w teologii chrześcijańskiej: grzech wyrządzający szkodę stosunkom człowieka z Bogiem i bliźnimi, nieoznaczający jednak opowiedzenia się przeciw Bogu&raquo								<span class="context" title="Stanisław Dubisz (red.) &laquo;Uniwersalny słownik języka polskiego&raquo; Warszawa 2003">
+			[<a href="/browse/entries/dictionary?v=32">USJP</a>]</span>		</li>
+			<li>
+			<b>rel. grzechy główne a. siedem grzechów głównych</b>
+			&laquo;w etyce chrześcijańskiej: siedem skłonności do złego; także: postępki popełnione pod wpływem tych skłonności, prowadzące do całkowitego odwrócenia się od Boga&raquo								<span class="context" title="Stanisław Dubisz (red.) &laquo;Uniwersalny słownik języka polskiego&raquo; Warszawa 2003">
+			[<a href="/browse/entries/dictionary?v=32">USJP</a>]</span>		</li>
+			<li>
+			<b>rel. żal za grzechy</b>
+			&laquo;w religii chrześcijańskiej: skrucha po popełnieniu grzechu, będąca warunkiem jego odpuszczenia&raquo								<span class="context" title="Stanisław Dubisz (red.) &laquo;Uniwersalny słownik języka polskiego&raquo; Warszawa 2003">
+			[<a href="/browse/entries/dictionary?v=32">USJP</a>]</span>		</li>
+			<li>
+			<b>w grzech brnąć, leźć, postępować, wd(aw)ać się, wracać się</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>w grzech popaść</b>
+											<span class="context" title="Aleksander Zdanowicz i in. &laquo;Słownik języka polskiego&raquo; Wilno 1861">
+			[<a href="/browse/entries/dictionary?v=29">SWil</a>]</span>		</li>
+			<li>
+			<b>w grzechu być, zostawać, umrzeć</b>
+											<span class="context" title="Aleksander Zdanowicz i in. &laquo;Słownik języka polskiego&raquo; Wilno 1861">
+			[<a href="/browse/entries/dictionary?v=29">SWil</a>]</span>		</li>
+			<li>
+			<b>w grzechu kochać się, mieszkać, obaczyć się, rodzić się, począć się, żyć, umrzeć</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>w grzechu żyć, pozostawać, umrzeć</b>
+											<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki &laquo;Słownik języka polskiego &raquo; Warszawa 1900-1927">
+			[<a href="/browse/entries/dictionary?v=2">SW</a>]</span>		</li>
+			<li>
+			<b>z grzechem wojować; walka, wojna</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>z grzechu oskarżyć, przestrzegać, upominać, wyjść, obmywać, rozgrzeszać, uzdrowić, wybawić, wyspowiadać, wyswobodzić, wyzwolić</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>z grzechu spowiadać się</b>
+						[<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki&laquo;Słownik języka polskiego &raquo;Warszawa 1900-1927">SW</span>, <span class="context" title="Aleksander Zdanowicz i in.&laquo;Słownik języka polskiego&raquo;Wilno 1861">SWil</span>]		</li>
+			<li>
+			<b>za grzech kajać się, karać, poczytać, pokutować, policzyć, ofiarować, wstydzić się, żałować</b>
+											<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span>		</li>
+			<li>
+			<b>za grzech pokutować</b>
+											<span class="context" title="Aleksander Zdanowicz i in. &laquo;Słownik języka polskiego&raquo; Wilno 1861">
+			[<a href="/browse/entries/dictionary?v=29">SWil</a>]</span>		</li>
+			<li>
+			<b>za grzech pokutować, żałować</b>
+											<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki &laquo;Słownik języka polskiego &raquo; Warszawa 1900-1927">
+			[<a href="/browse/entries/dictionary?v=2">SW</a>]</span>		</li>
+			<li>
+			<b>za grzech żałować</b>
+											<span class="context" title="Witold Doroszewski (red.) &laquo;Słownik języka polskiego&raquo; Warszawa  1958-1969">
+			[<a href="/browse/entries/dictionary?v=28">SJPDor</a>]</span>		</li>
+		</ol>
+	<h3>
+		Przysłowia			</h3>
+	<ol class="list-unstyled">
+			<li>
+			<b>Brzydki, jak śmiertelny grzech.</b>
+											<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki &laquo;Słownik języka polskiego &raquo; Warszawa 1900-1927">
+			[<a href="/browse/entries/dictionary?v=2">SW</a>]</span>		</li>
+			<li>
+			<b>Co prawda, to nie grzech.</b>
+						[<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki&laquo;Słownik języka polskiego &raquo;Warszawa 1900-1927">SW</span>, <span class="context" title="Witold Doroszewski (red.)&laquo;Słownik języka polskiego&raquo;Warszawa  1958-1969">SJPDor</span>]		</li>
+			<li>
+			<b>Niewiadomość grzechu nie czyni.</b>
+											<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki &laquo;Słownik języka polskiego &raquo; Warszawa 1900-1927">
+			[<a href="/browse/entries/dictionary?v=2">SW</a>]</span>		</li>
+			<li>
+			<b>Rada by dusza do raju, ale grzechy nie puszczają.</b>
+						[<span class="context" title="Jan Karłowicz, Adam Antoni Kryński, Władysław Niedźwiedzki&laquo;Słownik języka polskiego &raquo;Warszawa 1900-1927">SW</span>, <span class="context" title="Witold Doroszewski (red.)&laquo;Słownik języka polskiego&raquo;Warszawa  1958-1969">SJPDor</span>]		</li>
+			<li>
+			<b>Rada by dusza do raju, ale grzechy nie puszczają.</b>
+			&laquo;nie jest łatwo realizować jakieś plany, marzenia, ponieważ istnieją okoliczności, które to utrudniają&raquo								<span class="context" title="Stanisław Dubisz (red.) &laquo;Uniwersalny słownik języka polskiego&raquo; Warszawa 2003">
+			[<a href="/browse/entries/dictionary?v=32">USJP</a>]</span>		</li>
+		</ol>
+	<h3>
+		Wyrazy pokrewne
+			</h3>
+	<ul class="comma-list">
+			<li>
+			grzechowy								<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span></li>
+			<li>
+			grzeszać								<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span></li>
+			<li>
+			grzesznica								<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span></li>
+			<li>
+			grzesznie								<span class="context" title="Maria Renata Mayenowa i in. (red.) &laquo;Słownik polszczyzny XVI wieku&raquo; Warszawa  1966-2012">
+			[<a href="/browse/entries/dictionary?v=6">SXVI</a>]</span></li>
+			<li>
+			grzesznik								<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span></li>
+			<li>
+			grzeszny || grzeszni								<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span></li>
+			<li>
+			grzeszyć								<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span></li>
+			<li>
+			rozdrzeszać								<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span></li>
+			<li>
+			rozgrzeszyć || rozdrzeszyć								<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span></li>
+			<li>
+			zgrzeszać								<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span></li>
+			<li>
+			zgrzeszyć								<span class="context" title="Stanisław Urbańczyk (red.) &laquo;Słownik staropolski&raquo; Wrocław-Warszawa-Kraków 1953-2002">
+			[<a href="/browse/entries/dictionary?v=5">SStp</a>]</span></li>
+		</ul>
+
+<h3>Powiązane hasła</h3>
+<ul class="list-unstyled">
+	<li class="comma-list-item">
+	<b>Zobacz także:</b>
+						<a href="/entry/12">błąd</a>
+								<a href="/entry/14">bojaźń</a>
+								<a href="/entry/15">Bóg</a>
+								<a href="/entry/28">czart</a>
+								<a href="/entry/1">dusza</a>
+								<a href="/entry/54">kajać się</a>
+								<a href="/entry/55">kara</a>
+								<span>korzyć się</span>
+								<a href="/entry/79">miłość</a>
+								<a href="/entry/86">modlić się</a>
+								<a href="/entry/87">modły</a>
+								<a href="/entry/96">nadzieja</a>
+								<a href="/entry/101">niewola</a>
+								<a href="/entry/107">piekło</a>
+			</li>
+</ul>
+
+<p class="text-muted small">
+	Autorzy: Piotr Kryśka, Zespół -</p>
+<br>
+
+<script>
+$('[data-toggle="popover"]').popover({
+	trigger: 'click',
+});
+$('img.form-arrow').on('mouseover', function() {
+	$('[data-toggle="popover"]').not(this).popover('hide');
+	$(this).popover('show');
+})
+$('body').on('click', function() {
+	$('[data-toggle="popover"]').popover('hide');
+});
+</script>
+		</div>
+	</div>
+		<footer class="footer-bottom">&copy; 2018-2026 Uniwersytet Warszawski. Wszelkie prawa zastrzeżone. ISBN 978-83-64006-91-3</footer>
+</body>
+
+</html>

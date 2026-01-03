@@ -1,0 +1,1107 @@
+HTTP/1.1 200 OK
+Server: nginx/1.28.0
+Date: Sat, 03 Jan 2026 16:46:40 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/8.1.32
+Cache-Control: private, must-revalidate
+pragma: no-cache
+expires: -1
+
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <meta charset="UTF-8">
+        <title>Czy polityka rodzi się z grzechu? | Fronda.pl</title>
+    <link rel="canonical" href="https://www.fronda.pl/a/Czy-polityka-rodzi-sie-z-grzechu-2,200650.html" />
+    <meta name="description" content="Św. Paweł mówi, że wszelka władza pochodzi od Boga, a kto „przeciwstawia się władzy sprzeciwia się porządkowi Bożemu”. Posłuszeństwo władzy, a nawet obowiązek modlitwy za rządzących nie był w żadnej mierze przyzwoleniem na przedkładanie tej władzy nad posłuszeństwo Bogu i Kościołowi."/>
+    <meta name="keywords" content="fronda, portal poświęcony, informacje z polski, informacje z świata"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/x-icon" href="/favicon.ico">
+        <meta name="theme-color" content="#ff6600">
+        <meta http-equiv="Refresh" content="3600"/>
+        <link rel="preload" href="/assets/fonts/roboto-regular.woff2" as="font"/>
+        <link rel="preload" href="/assets/fonts/roboto-regular.woff" as="font"/>
+        <link rel="preload" href="/assets/fonts/roboto-bold.woff2" as="font"/>
+        <link rel="preload" href="/assets/fonts/roboto-bold.woff" as="font"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="pl_PL"/>
+        <meta property="og:site_name" content="FRONDA.PL"/>
+        <meta property="fb:app_id" content="128886260612021"/>
+        <meta property="og:title" content="Czy polityka rodzi się z grzechu?"/>
+        <meta property="og:description" content="Św. Paweł mówi, że wszelka władza pochodzi od Boga, a kto „przeciwstawia się władzy sprzeciwia się porządkowi Bożemu”. Posłuszeństwo władzy, a nawet obowiązek modlitwy za rządzących nie był w żadnej mierze przyzwoleniem na przedkładanie tej władzy nad posłuszeństwo Bogu i Kościołowi."/>
+        <meta property="og:image" content="https://cdn.fronda.pl/imgcache/750x360/c/uploads/news/kaj-sdlka-hlkjahs-lkdj-fa98980-a0-sdfa-1654773737.webp"/>
+        <meta property="og:image:width" content="750"/>
+        <meta property="og:image:height" content="360"/>
+        <meta property="og:image:alt" content="Fot. via Wikipedia.org, domena publiczna"/>
+        <meta property="og:published_time" content="000000"/>
+        <meta property="og:url" content="https://www.fronda.pl/a/Czy-polityka-rodzi-sie-z-grzechu-2,200650.html"/>
+        <meta property="twitter:card" content="summary_large_image"/>
+        <meta property="twitter:title" content="Czy polityka rodzi się z grzechu?"/>
+        <meta property="twitter:description" content="Św. Paweł mówi, że wszelka władza pochodzi od Boga, a kto „przeciwstawia się władzy sprzeciwia się porządkowi Bożemu”. Posłuszeństwo władzy, a nawet obowiązek modlitwy za rządzących nie był w żadnej mierze przyzwoleniem na przedkładanie tej władzy nad posłuszeństwo Bogu i Kościołowi."/>
+        <meta property="twitter:image" content="https://cdn.fronda.pl/imgcache/750x360/c/uploads/news/kaj-sdlka-hlkjahs-lkdj-fa98980-a0-sdfa-1654773737.webp"/>
+        <meta property="twitter:image:alt" content="Fot. via Wikipedia.org, domena publiczna"/>
+                    <link rel="stylesheet" href="/build/app.bdb01803.css">
+                <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-DKV2G65WNQ"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-DKV2G65WNQ');
+        </script>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2736343821419013" crossorigin="anonymous"></script>
+    </head>
+    <body>
+    <style>
+        @font-face {
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: normal;
+            font-display: swap;
+            src:
+                    url('/assets/fonts/roboto-regular.woff2') format('woff2'),
+                    url('/assets/fonts/roboto-regular.woff') format('woff');
+        }
+
+        @font-face {
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: bold;
+            font-display: swap;
+            src:
+                    url('/assets/fonts/roboto-bold.woff2') format('woff2'),
+                    url('/assets/fonts/roboto-bold.woff') format('woff');
+        }
+    </style>
+    <div class="page">
+        <header>
+    <div class="container">
+        <div class="d-flex flex-row">
+            <div class="ml-2">
+                <div class="logo">
+                    <a href="/" title="Strona glowna"><img src="/images/logo.png" alt="Logo Fronda - portal poświęcony" width="250" height="80"/></a>
+                    <img src="/images/aniol.jpg" alt="Anioł" width="120" height="80"/>
+                </div>
+            </div>
+            <div class="ms-auto align-self-center mr-2">
+                <ul class="nav">
+                    <li style="display:none">
+                        <a href="/szukaj" class="nav-item nav-icon nav-shadow" title="szukaj">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                                <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+                            </svg>
+                        </a>
+                    </li>
+                    <li style="display:none" class="ml-2">
+                        <a href="/blogi" class="nav-item nav-icon nav-shadow" title="blogi">
+                            Blogi
+                        </a>
+                    </li>
+                    <li style="display:none" class="ml-2">
+                        <a href="/forum" class="nav-item nav-icon nav-shadow" title="forum">
+                            Forum
+                        </a>
+                    </li>
+                    <li class="ml-2">
+                        <a href="http://www.warsawhostelcentrum.pl/" class="nav-item" target="_blank" title="Warsaw Hostel Centrum">
+                            <img src="/images/hwc-icon.png" alt="Hostel Centrum Warszawa" width="56" height="56"/>
+                        </a>
+                    </li>
+                    <li class="ml-2">
+                        <a href="http://www.hollandhouse.pl/" class="nav-item" target="_blank" title="Holland House">
+                            <img src="/images/hollandhouse-icon.png" alt="HollandHouse Gdańsk" width="56" height="56"/>
+                        </a>
+                    </li>
+                    <li class="ml-2">
+                        <a href="http://www.fort24.pl/" class="nav-item" target="_blank" title="Fort24">
+                            <img src="/images/fort24-icon.png" alt="Fort24" width="56" height="56"/>
+                        </a>
+                    </li>
+                    <li class="ml-2">
+                        <a href="http://www.latajacyholender.pl/" class="nav-item" target="_blank" title="Latający Holender">
+                            <img src="/images/holender-icon.png" alt="Latający Holender Gdańsk" width="57" height="56"/>
+                        </a>
+                    </li>
+                    <li class="d-none">
+                        <button type="button" class="nav-item nav-icon nav-border-none" name="menu" aria-label="menu">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-three-dots-vertical" viewBox="0 0 16 16">
+                                <path d="M9.5 13a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/>
+                            </svg>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>        <div class="container">
+            <div class="h"></div>
+            <div class="w2g" id="bill_top"></div>
+                <div class="row">
+        <div class="col w750">
+            <article>
+                                <img src="https://cdn.fronda.pl/imgcache/750x360/c/uploads/news/kaj-sdlka-hlkjahs-lkdj-fa98980-a0-sdfa-1654773737.webp" width="750" height="360" alt="Czy polityka rodzi się z grzechu?" class="img-responsive mb-1">
+                <div class="d-flex mb">
+                    <div class="article-date">09.06.2022, 13:19</div>
+                    <div class="img-desc ms-auto"></div>
+                </div>
+                <h1 class="article-title mb">Czy polityka rodzi się z grzechu?</h1>
+                <div class="sm-share mb">
+    <ul>
+        <li>
+            <div class="sm-icon bg-facebook pointer" onclick="fbShare('https%3A%2F%2Fwww.fronda.pl%2Fa%2FCzy-polityka-rodzi-sie-z-grzechu-2%2C200650.html')">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+                    <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+                </svg>
+            </div>
+        </li>
+        <li>
+            <a href="https://twitter.com/intent/tweet?source=webclient&text=Czy%20polityka%20rodzi%20si%C4%99%20z%20grzechu%3F&url=https%3A%2F%2Fwww.fronda.pl%2Fa%2FCzy-polityka-rodzi-sie-z-grzechu-2%2C200650.html" target="_blank" title="Udostępnij na twitter.com">
+            <div class="sm-icon bg-twitter">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+                    <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+                </svg>
+            </div>
+            </a>
+        </li>
+        <li>
+            <a href="mailto:?subject=Polecam artykuł z fronda.pl&body=https://www.fronda.pl/a/Czy-polityka-rodzi-sie-z-grzechu-2,200650.html" title="Wyślij link przez email">
+            <div class="sm-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+                    <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/>
+                </svg>
+            </div>
+            </a>
+        </li>
+    </ul>
+</div>                <div class="ad ad_750x200 mb w2g"  id="art_slot_1"></div>
+
+                <div class="article-lead mb"><strong>Św. Paweł mówi, że wszelka władza pochodzi od Boga, a kto „przeciwstawia się władzy sprzeciwia się porządkowi Bożemu”. Posłuszeństwo władzy, a nawet obowiązek modlitwy za rządzących nie był w żadnej mierze przyzwoleniem na przedkładanie tej władzy nad posłuszeństwo Bogu i Kościołowi.</strong></div>
+
+                <div style="max-width:750px;max-height:422px"><video id="videojs-remote-config-player2" class="video-js vjs-hidden vjs-ex-mcn-video vjs-default-skin" data-attr-category="758-fronda.pl" data-attr-a="true" data-attr-loc="ur" data-attr-h="0" data-attr-player-type="bup" data-attr-nv="true" data-attr-min="true" data-attr-afm="false" data-attr-ratio-mobile-min="0.6" data-attr-l="false"></video></div>
+<script>
+    (function() {
+        const date = new Date();
+        const mcnV = date.getHours().toString() + date.getMonth().toString() + date.getFullYear().toString();
+        const mcnVid = document.createElement('script');
+        mcnVid.type = 'text/javascript';
+        mcnVid.async = true;
+        mcnVid.src = 'https://cdn.mcnn.pl/script/mcn.min.js?'+mcnV;
+
+        const mcnS = document.getElementsByTagName('script')[0];
+        mcnS.parentNode.insertBefore(mcnVid, mcnS);
+        const mcnCss = document.createElement('link');
+        mcnCss.setAttribute('href', 'https://cdn.mcnn.pl/script/mcn.css?'+mcnV);
+        mcnCss.setAttribute('rel', 'stylesheet');
+        mcnS.parentNode.insertBefore(mcnCss, mcnS);
+    })();
+
+</script>
+                				
+                <div class="article-body mb">
+                    <p><strong>Początki chrześcijaństwa</strong></p>
+
+<p>Dla chrześcijan rzeczywistość publiczna, państwowa nigdy nie była obojętna, same narodziny Jezusa Chrystusa zostały przez Ewangelist&oacute;w opisane i umieszczone w kontekście historii narodu izraelskiego i Cesarstwa Rzymskiego. Święty Mateusz przytacza rodow&oacute;d Jezusa od czas&oacute;w obietnicy jakiej B&oacute;g udzielił Abrahamowi, od czas&oacute;w ojca wszystkich wierzących&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn1" target="_self">[1]</a>. Dzięki temu, wydarzenie Wcielenia znajduje sw&oacute;j sens w dziejach szczeg&oacute;lnego wybrania Izraela przez Boga. Kości&oacute;ł jako dopełnienie obietnic zbawczych danych Izraelowi nie trwa więc w pr&oacute;żni, czy też jakieś eklektycznej mieszance świata mitologicznych symboli, ale wpisuje się w ciąg pokoleń konkretnych ludzi wędrujących z Bogiem, a przez to pozostaje w łączności z samym aktem stw&oacute;rczym, ukształtowaniem kosmosu, tej uporządkowanej całości ducha i materii, a także pierwszym człowiekiem - Adamem.</p>
+
+<p>W kontekście historii Cesarstwa narodziny Jezusa umieścił święty Łukasz. Można powiedzieć, że umieścił on życie Jezusa w samym środku historii politycznej świata, określając w ten spos&oacute;b nie tylko realność i faktyczność wydarzeń w Betlejem, ale pokazując związek tych wydarzeń z historią Imperium, a także historią całego świata - przez Imperium w jakiejś mierze reprezentowanego&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn2" target="_self">[2]</a>. R&oacute;wnież wspominani przez Łukasza dostojnicy Izraela powinni być bardziej postrzegani jako &bdquo;osoby polityczne&rdquo; niż jako &bdquo;przedstawiciele dziej&oacute;w zbawienia&rdquo;. Zestawienie tych dw&oacute;ch ewangelicznych opis&oacute;w sprawia, że chrześcijańskie rozumienie Jezusa i wiara w to, że jest on&nbsp;<em>Kyrios Christos</em>&nbsp;skłania do tego by podążać trudną drogą wykluczającą jednoznaczne rozumienie misji Jezusa. Jednoznaczne jest tylko to, że prowadzi on do pojednania wszystkiego w Bogu, ponieważ jest Synem. Jego związek z &bdquo;ludźmi wiary&rdquo;, dziećmi Abrahama wyklucza jedynie doczesne rozumienie celu, jaki stoi przed Jezusem i jego Kościołem.</p>
+
+<p>Wykluczone zostaje wobec tego czysto polityczne uzasadnienie bycia chrześcijaninem, takie kt&oacute;re mogłoby ograniczyć się do zaprowadzenia sprawiedliwych rząd&oacute;w, charytatywnego pomniejszania cierpienia tkwiącego w świecie &ndash; pomniejszania, aż do skutecznego go wyeliminowania; nie m&oacute;wiąc o rewolucyjnych przewrotach. Dziedzictwo grzechu pierworodnego nie może więc być zniesione przez działanie polityczne. Rodow&oacute;d &bdquo;ludzi wiary&rdquo; ciągnący się od Abrahama, istniejący dzięki obietnicy i jej spełnieniu, kt&oacute;re nie może się stać ludzkimi siłami (czy będą to narodziny Izaaka, czy cudowne Zmartwychwstanie i Wniebowstąpienie Jezusa Chrystusa), świadczy, o Tym kt&oacute;ry przychodzi spoza świata ludzi i w sensie ludzkim, a także kosmicznym, jest sprawcą pojednania. R&oacute;wnocześnie &bdquo;sama wiara&rdquo; odrzucająca pracę nad przemianą tego świata mogłaby nas zaprowadzić w stronę innej jednostronności niż upolitycznienie. Jest nią uznanie, że sens historii wyczerpuje się w Jezusie Chrystusie w znaczeniu wykluczającym. Poszukiwanie wtedy sensu wydarzeń doczesnej historii miałoby być poszukiwaniem tego co &bdquo;niedostępne&rdquo;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn3" target="_self">&nbsp;[3]</a>. &bdquo;Sama wiara&rdquo; nie może bowiem uznać choćby przydatności rozumu praktycznego, jest ona oddzielona od poznania rozumowego, jest kwestią decyzji poddania się niepoznawalnemu Bogu&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn4" target="_self">[4]</a>.</p>
+
+<p>Skoro wszystko można zrozumieć tylko w Bogu, w sensie wyłączności ekskluzywnej, to całkowicie niepoznawalny jest zar&oacute;wno &oacute;w B&oacute;g, jak i historia &ndash; dzieje, ale też świat i człowiek&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn5" target="_self">[5]</a>. Niepoznawalność prowadzi do zapoznania możliwości jakiegokolwiek wartościowania, a chrześcijaństwo staje się czystym spirytyzmem, doskonałym uwewnętrznieniem, doświadczaniem boskości w sobie, paraliżem wszelkiego działania, byciem poza światem, przeciwstawieniem temu światu &ndash; tak często reprezentowanemu przez to co przemijające, polityczne. Już analiza rodowodu &bdquo;ludzi wiary&rdquo; poprzedzających Jezusa, kt&oacute;rą znajdujemy u Mateusza skłania do postawienia pytania o sensowność takiej interpretacji. &bdquo;Sama wiara&rdquo; wynikająca z indywidualnej decyzji wyklucza poniekąd &bdquo;rodow&oacute;d&rdquo; będący związkiem nie tylko z samym Bogiem, ale także pomiędzy ludźmi. To B&oacute;g uwierzytelnia istnienie pokoleń &ndash; mają one znaczenie nie tylko poprzez &bdquo;decyzję wiary&rdquo;, ale też poprzez następstwo, niezależny od nich samych związek pomiędzy Abrahamem i Jezusem &ndash; Stworzeniem i Powt&oacute;rnym Przyjściem<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn6" target="_self">&nbsp;[6]</a>. W ten spos&oacute;b samo Pismo Święte odkrywa przed nami poznawalność zamysłu Bożego poczynając od człowieka, poprzez kosmos &ndash; dzieje &ndash; historię, aż po Niego samego. Jak m&oacute;wi święty Paweł &bdquo;jeżeli Chrystus nie zmartwychwstał, daremne jest nasze nauczanie, pr&oacute;żna jest wasza wiara&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn7" target="_self">[7]</a>, bowiem wiara ta opiera się ostatecznie na historycznym wydarzeniu, powiedzielibyśmy na fakcie, a nie tylko na decyzji. Nawet jeśli weźmiemy poprawkę, kt&oacute;ra wynika ze zdania znajdującego w tym samym liście do Koryntian: &bdquo;Teraz widzimy jakby w zwierciadle, niejasno (...) Teraz poznaję po części&rdquo;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn8" target="_self">[8]</a>, to sens fragment&oacute;w świętego Łukasza upewnia nas, że nie chodzi o spirytyzm.</p>
+
+<p>Uparcie pisze on o zapomnianych dziś cesarzach, konsulach, kapłanach, spisach ludności. Właśnie w samym sercu politycznej historii świata narodził się Zbawiciel, Syn Boży, chciany przez Ojca właśnie w tym a nie w innym momencie konkretnych ludzkich dziej&oacute;w. Dlatego też chrześcijanin, żyje w przekonaniu, że Jezus Chrystus jest &bdquo;Panem wszelkiego dziania się&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn9" target="_self">[9]</a>, ale r&oacute;wnocześnie włącza w to &bdquo;dzianie się&rdquo; r&oacute;wnież nasze ludzkie działanie, kt&oacute;re nie traci swojego znaczenia, ani sensu, przez to, że On jest&nbsp;<em>Kyrios Christos</em>. Nie ma więc dualizmu pomiędzy historią duchową i doczesną. To pojednanie wydaje się nam trudne do zrozumienia od czasu grzechu pierworodnego, kt&oacute;ry osłabił wolę w człowieku. Widzimy w tym pojednaniu zagrożenie dla wolności, kt&oacute;re realizowało się poprzez wykorzystywanie władzy duchowej do cel&oacute;w doczesnych, czy to w czasach Cesarstwa, czy epoki reformacji (zasada&nbsp;<em>cuius regio, eius religio)</em>, czy totalitaryzmu (choć w innym sensie). Jednocześnie nowożytność jako jedyne lekarstwo uznała całkowite rozdzielnie porządk&oacute;w doczesnego i świętego, co jednak nie jest rozwiązaniem, ale inną twarzą konsekwencji grzechu pierwszych rodzic&oacute;w. Trudno inaczej określić sytuację świata, w kt&oacute;rym człowiek jest pęknięty i funkcjonuje w dw&oacute;ch rzeczywistościach faktycznie nierozdzielnych, a dodatkowo nieustannie jest zmuszany porzucać jedną przeciw drugiej. Siłą rzeczy jedna z nich podlegać będzie niesprawiedliwej marginalizacji, co ponownie stawia nas wobec fałszywej jedności, dominacji zewnętrznego nad wewnętrznym, bądź odwrotnie &ndash; ostatecznie w obu przypadkach występuje on przeciwko sobie. Jednak dla chrześcijan pierwszych kilkunastu stuleci &bdquo;Święte Cesarstwo Rzymskie&rdquo; nie było wcale sprzecznością, ale raczej zmaganiem o sprawiedliwość, jedność osoby, społeczeństwa i Boga. Wsp&oacute;łczesne komentarze sugerujące taką sprzeczności&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn10" target="_self">[10]</a>&nbsp;uznaliby oni prawdopodobnie za słabość umysłu. B&oacute;g nie jest bowiem Bogiem &bdquo;decyzji wiary&rdquo;, ale całego uniwersum, kt&oacute;re porządkuje. Nie powinny zatem dziwić konsekwentnie używane w tradycji pojęcia narodu, czy to będzie &bdquo;Nar&oacute;d Wybrany&rdquo;, czy zapomniane już dziś sformułowanie &bdquo;nar&oacute;d chrześcijański&rdquo; na określenie społeczności wiernych, ale także na określenie rzeczywistości politycznej opartej na kr&oacute;lowaniu Chrystusa. Jak widać analogie świata duchowego ze światem polityki nie budziły kiedyś zbyt wielkiego niepokoju.</p>
+
+<p>Stosunek świętego Pawła do władzy politycznej&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn11" target="_self">[11]</a>&nbsp;jest dość dobrze znany, posłuszeństwo siłom zwierzchnim pozostaje nakazem niezależnie od tego czy są one chrześcijańskie (co w pierwszym wieku się nie zdarzało), czy też pogańskie i wrogo nastawione do prawdziwej wiary, prawdziwej religii i prawdziwej filozofii &ndash; wszystkie te trzy określenia stosują się oczywiście do chrześcijaństwa. Paweł m&oacute;wi, że wszelka władza pochodzi od Boga, a kto &bdquo;przeciwstawia się władzy sprzeciwia się porządkowi Bożemu&quot;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn12" target="_self">[12]</a>&nbsp;Pamiętajmy, że m&oacute;wi to Apostoł w czasach kiedy bycie chrześcijaninem wiązało się z dużym ryzykiem, czego on sam wielokrotnie doświadczał zanim poni&oacute;sł śmierć męczeńską. Posłuszeństwo władzy, a nawet obowiązek modlitwy&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn13" target="_self">[13]</a>&nbsp;za rządzących nie był w żadnej mierze przyzwoleniem na przedkładanie tej władzy nad posłuszeństwo Bogu i Kościołowi. Władza państwowa bowiem może być zagarnięta przez ludzi niegodnie sprawujących swoje obowiązki co, podkreślał święty Jan w Apokalipsie,&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn14" target="_self">[14]</a>&nbsp;widząc w &oacute;wczesnym sobie Rzymie &bdquo;Bestię wychodzącą z morza&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn15" target="_self">[15]</a>&nbsp;- na podobieństwo Lewiatana. Dlatego też oczywistym było przekonanie, że najlepszą możliwą władzą będzie władza sprawowana przez chrześcijan w państwie chrześcijańskim&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn16" target="_self">[16]</a>, wśr&oacute;d chrześcijańskiego narodu. Orygenes sądził, że władza polityczna, jest jak zmysły człowieka, to znaczy &ndash; nikt nie powie, że źle jest widzieć, czy słyszeć, ale już inną rzecz stanowi jak zostanie wykorzystane to dobro, kt&oacute;rym są zmysły&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn17" target="_self">[17]</a>. Jest to niewątpliwa analogia do konsekwencji grzechu pierworodnego psującego nasze władze jednostkowe jak i społeczne.</p>
+
+<p>Zestawienie passus&oacute;w dw&oacute;ch Apostoł&oacute;w i potraktowanie ich jako wypowiedzi &bdquo;ontologicznych&rdquo; budzi jednak problemy, kt&oacute;re będą zaprzątać myślicieli chrześcijańskich w czasach p&oacute;źniejszych, nawet jeśli wypowiedzi te miały charakter praktyczny (św. Paweł), bądź profetyczny i metaforyczny (św. Jan) i nie stanowiły uporządkowanej teorii o genezie i istocie państwa. Nie spos&oacute;b było uniknąć, razem z rozwojem Kościoła i jego relacji z władzą, pytań o właściwy charakter pochodzenia tejże władzy. Czy pochodzi ona od Boga, czy jej źr&oacute;dłem jest grzech? Można powiedzieć, że B&oacute;g pi&oacute;rami swoich skryb&oacute;w podkreślił w Nowym Testamencie fakt, że wydarzenie zbawcze miało miejsce w okolicznościach politycznych, r&oacute;wnież rozw&oacute;j Kościoła przypisywano określonej opatrznościowej sytuacji jaką był Pok&oacute;j Rzymski pozwalający na głoszenie Dobrej Nowiny w niemal całym znanym świecie. Czy więc można było tę władzę, choć nieprzychylną, a jednak mimo woli sprzyjającą, tak jednoznacznie odrzucić? R&oacute;wnocześnie pytano, czy skoro Cesarstwo istnieje i w dodatku jest źr&oacute;dłem porządku może ono pochodzić całkowicie od złego, kt&oacute;ry tylko burzy i wprowadza zamęt? Pytania te sprawiały, że kwestia grzechu pierworodnego, kt&oacute;rego konsekwencje nowożytność niejako zalegalizowała, była osnową chrześcijańskiego myślenia o polityce. Kamieniem milowym, kt&oacute;ry zaważył o kierunkach chrześcijańskiej filozofii polityki na niemal tysiąc lat był święty Augustyn, kt&oacute;ry prowadząc bujne życie intelektualne, a także jako biskup, kościelne i polityczne na co dzień ścierał się z problematyką genezy władzy.</p>
+
+<p><strong>Św. Augustyn</strong></p>
+
+<p>Od razu trzeba zaznaczyć, że Augustyn nie doprowadził do ostatecznych rozstrzygnięć w sprawie chrześcijańskiej wizji istoty i genezy państwa. To co jest ważne to fakt podjęcia przez niego refleksji o państwie na poziomie bardziej teoretycznym, a nie tylko praktycznym, czy profetycznym. Dla Augustyna istnieją dwie podstawowe przyczyny istnienia państwa, są to natura ludzka oraz skutki grzechu pierworodnego&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn18" target="_self">[18]</a>. Jak pisze: &bdquo;jeśli od mędrca wymagają filozofowie życia społecznego, to my je więcej jeszcze za godne polecenia uważamy&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn19" target="_self">[19]</a>&nbsp;Człowiek nie został stworzony do życia samotnego, ale ze swojej natury gromadzi się z innymi. Właściwą analogią wsp&oacute;lnotowej natury człowieka jest mowa: &bdquo;Każda jednostka ludzka, podobnie jak w mowie każda litera, jest cząstką składową miasta, czy kr&oacute;lestwa, choćby ono nie wiem jak wielkie przestrzenie obejmowało&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn20" target="_self">[20]</a>&nbsp;U podstaw życia społecznego leży przyjaźń&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn21" target="_self">[21]</a>&nbsp;pomiędzy ludźmi, kt&oacute;ra jest wzmacniana przez więź pokrewieństwa. Złączona tymi dwoma siłami powstaje rodzina stanowiąca elementarną formę życia społecznego oraz &bdquo;prototyp&rdquo; państwa, na czele z ojcem rodziny wzorem dobrego władcy. Jak pisze jeden z komentator&oacute;w myśli Augustyna &bdquo;władza ta winna mieć raczej charakter pasterzowania niż zmuszania do posłuszeństwa&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn22" target="_self">[22]</a>&nbsp;dlatego też pierwsza rodzina nie mogła być niczym innym jak &bdquo;przyjacielską społecznością opartą na r&oacute;wności, w kt&oacute;rej konieczne decyzje podejmowane były bez nienaturalnej dominacji jednego z partner&oacute;w nad drugim&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn23" target="_self">[23]</a></p>
+
+<p>Można powiedzieć, że te przekonania Augustyn podzielał wraz z innymi myślicielami epoki antycznej. Jednak znaczna korekta wobec tych pogląd&oacute;w wiąże się w recepcją dogmatu o grzechu pierworodnym. Punkt ten jest także miejscem sporu badaczy co do właściwej interpretacji myśli hippończyka. Augustyn m&oacute;wi bowiem, że państwo, a właściwie struktury polityczne są &bdquo;darem Bożej Opatrzności&rdquo;, kt&oacute;ry jest niezbędny dla skorygowania &bdquo;dezorganizacji życia społecznego&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn24" target="_self">[24]</a>&nbsp;jaka nastąpiła w konsekwencji skażenia ludzkiej natury upadkiem pierwszych rodzic&oacute;w. Po tym wydarzeniu ludzie &bdquo;szukają okazji do bycia lepszymi od innych oraz do znajdowania zadowolenia w rzeczach kosztem innych ludzi&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn25" target="_self">[25]</a>Łączy się z tym żądza dominacji nad innymi. Wyciąga się z tego wniosek, że natura człowieka ma charakter apolityczny i dopiero na skutek buntu Adama i Ewy konieczna stała się interwencja Boga przywracająca prowizoryczny (a nie naturalny przecież) porządek poprzez instytucje polityczne. Zwolennicy tego poglądu argumentują, że gdyby uznać naturalny charakter państwa to zar&oacute;wno niewolnictwo, jak i aspekt przemocy państwowej trzeba by zaakceptować r&oacute;wnież jako naturalny&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn26" target="_self">[26]</a>. Argument ten choć wydaje się mocny to jednak pozostaje w sprzeczności z pewnymi twierdzeniami samego Augustyna, kt&oacute;ry strukturę społeczności niebieskiej, żyjącej z Bogiem nazywa rzeczpospolitą, przyr&oacute;wnując ją do rzeczpospolitej rzymskiej r&oacute;żną od niej jedynie przez &bdquo;wiekuiste kr&oacute;lowanie&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn27" target="_self">[27]</a>&nbsp;Boga. A przecież to państwo niebieskie jest właśnie tym prawdziwym państwem, więc to co polityczne w pewnej mierze sięga samego nieba. Innym argumentem, kt&oacute;ry można wyciągnąć z myśli Augustyna za naturalnym charakterem władzy politycznej jest prawdopodobny rozw&oacute;j społeczeństwa w przypadku, gdyby grzech pierworodny nie został popełniony. Można przypuszczać, że powstające w ten spos&oacute;b społeczeństwo r&oacute;wnież potrzebowałoby organizacji &bdquo;struktur władzy, kt&oacute;ra mocą swojego autorytetu opartego na miłości wskazywałaby i egzekwowała odpowiednie każdemu obowiązki&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn28" target="_self">[28]</a>. Wydaje się bowiem, że nawet brak skażenia grzechem nie rozwiązałby problemu naturalnej nier&oacute;wności w predyspozycjach i talentach, kt&oacute;re należą do urządzenia świata.</p>
+
+<p>Czy jest zatem możliwe wyjście z tej sprzeczności bardziej nawet niż interpretacyjnej to&nbsp;<em>explicite</em>&nbsp;tkwiącej w samym dziele Augustyna? Wydaje się, że podstawową sprawą powinno być rozpatrzenie pojęcia natury i usytuowania w jego ramach struktur władzy. Za stan naturalny &nbsp;należy, jak sądzę uznać stan poprzedzający popełnienie grzechu pierworodnego. To grzech zachwiał naturalnymi relacjami pomiędzy ludźmi, a także pomiędzy ludźmi i światem, a także Bogiem. Gdyby szukać jakieś struktury analogicznej do &bdquo;państwa naturalnego&rdquo; (ale także niebieskiego) to wydaje się, że można by ją znaleźć we wsp&oacute;lnotach religijnych, &bdquo;kt&oacute;re rządząc się ustalonym prawem i podporządkowane autorytetowi, stanowią naturalne przedłużenie wsp&oacute;lnoty rodzinnej&quot;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn29" target="_self">[29]</a>. Czym bowiem innym jeśli nie małymi państwami są olbrzymie opactwa benedyktyńskie rządzące się regułą św. Benedykta od czasu upadku ateńskiej Akademii do dnia dzisiejszego. Nawet jeśli nie podążymy za interpretacją widzącą w konstytucjach zakonnych i wsp&oacute;lnotowych alternatywę dla politycznej struktury państwa to staje się zrozumiałe, że razem z grzechem pierworodnym zmienia się także charakter używania władzy, kt&oacute;rą nazwalibyśmy państwową. W jakiejś mierze unieważnia to pytanie, czy struktura polityczna,&nbsp; niezależnie jak ją zdefiniujemy, jest naturalna, czy nie. To co wcześniej było narzędziem sprawiedliwego wsp&oacute;łistnienia teraz służy powstrzymywaniu ludzkich żądz. Cel jednak, co warto zauważyć, nie zmienia się, jest nim sprawiedliwość, choć zmieniły się warunki działania Bożego ustanowienia jakim jest państwo. Można przypomnieć jeszcze raz przekonanie Orygenesa, kt&oacute;ry m&oacute;wił, że państwo jest dobre podobnie jak wzrok, ale podobnie jak wzrok może być wykorzystane w nienajlepszy spos&oacute;b. Pomimo ubolewania komentator&oacute;w nad niewolnictwem, wydaje się jednak, że Augustyn za wyższą szkodę uważał zniesienie porządku społecznego, kt&oacute;rego istnienie nie jest możliwe bez państwa niż rewolucyjne dążenie do zniesienia niewolnictwa, za kt&oacute;re ludzie sami ponoszą w dużej mierze odpowiedzialność przez sw&oacute;j upadek w grzech&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn30" target="_self">[30]</a>.</p>
+
+<p>Przecenianie interpretacji, kt&oacute;ra widziała u Augustyna przede wszystkim wpływ grzechu pierworodnego na naturę, nie miało dobrego wpływu na rozumienie genezy władzy politycznej, historii i dziej&oacute;w &ndash; stała się ta interpretacja źr&oacute;dłem r&oacute;żnych nowożytnych błędnych przekonań. Według nich gdyby nie grzech pierworodny, ani władza, ani historia nigdy by się nie pojawiły.&nbsp; Grzech pierworodny uznano za tak głębokie zerwaniem z Bogiem, że stan ten wytworzył właściwie nową naturę. W tej perspektywie jedynym uzasadnieniem dla polityki i dziej&oacute;w jest konieczność ujarzmienia przez Boga żądzy człowieka do czasu Powt&oacute;rnego Przyjścia. Radykalne rozumienie znaczenia grzechu pierworodnego sprawia, że zatraca się poczucie łączności przeżywanych dziej&oacute;w z Bogiem i jego kr&oacute;lowaniem. B&oacute;g oddala się w wyobrażeniach od człowieka i zastyga w bezczasowym kr&oacute;lestwie idei. Przekonanie o bezczasowości znajduje swoje&nbsp; uzasadnienie w grzechu jako źr&oacute;dłowym wydarzeniu poruszającym historię. W ten spos&oacute;b to co wcześniej należało co dziej&oacute;w i historii zatrzymuje się i mitologizuje pozostając jednocześnie w oderwaniu od tego co tu i teraz. Wszelkie ludzkie działanie bez oparcia w transcendencji staje się w takiej sytuacji niezrozumiałe. Sceptycyzm ten zatacza coraz to szersze kręgi, aż dotyka prawd objawionych przez Boga, a także samego Boga. Czemu bowiem ma służyć B&oacute;g, kt&oacute;ry nie ma związku z prawdziwym życiem, kt&oacute;rego nie można zrozumieć? W konsekwencji nadzieje zbawcze chrześcijaństwa, pozostając nadziejami ludzkości przeobrażone zostają w świecką mitologię polityczną. Nowożytna polityka lekceważąca historyczność jest więc mitologiką, walczącą o świat, kt&oacute;ry nie jest możliwy (ponieważ nie jest oparty na Bożym porządku), a niszczącą przy okazji ten, kt&oacute;ry istnieje. Zamiast akceptacji historycznie uwarunkowanej &bdquo;natury z grzechem&rdquo; za miarę uznaje ona historycznie ukształtowany mit o doskonałym świecie, ukształtowany przez nowożytnych literat&oacute;w i podlegający ciągłym modyfikacjom, nieustannie jednak w opozycji wobec natury, a nie jak wyznawcy Chrystusa w czasach cesarstwa (rzymskiego, czy chrześcijańskiego), wobec grzechu. Nowożytność na podobieństwo antyku, choć bez antycznego realizmu nie może uwierzyć w Boga obecnego w ludzkich, grzesznych dziejach. Grzech leżący u początku historii i polityki czyni z nich obszary całkowitego profanum. Mit wzięty poważnie sprawia, że historia staje się pozorem wobec prawdy idei, pozorem, kt&oacute;ry można poświęcić dla oczekiwanego spełnienia. Dzieje zbawienia zamiast historią stają się wtedy intelektualnym konstruktem, żądzą panowania nad naturą, jako przyczyną zła w świecie. Zamiast zwalczania grzechu zaczęliśmy zwalczać samą naturę, pielgrzymowanie zaś przestało być właściwym dążeniem ale błądzeniem do celu, kt&oacute;ry co i raz pojawia się w innym miejscu horyzontu.</p>
+
+<p>W takiej sytuacji rzeczywiście pozostaje albo porzucenie wszelkiej aktywności w uznaniu, że nie ma ona żadnego związku z ideałem (nie m&oacute;wiąc już o Bogu), albo walka o nagą władzę, jako jedyne oparcie w świecie, w kt&oacute;rym niczego nie można zrozumieć, ponieważ żaden ideał, mit (nie m&oacute;wiąc już o Bogu) nie może nam powiedzieć nic sensownego o tym co istnieje, jeśli nie znajduje oparcia w mocy. Tak wygląda świat, w kt&oacute;rym życie polityczne upatruje swojego źr&oacute;dła w grzechu. Bezczynność (kt&oacute;ra przejawia się leseferyzmem prawnym, dopuszczaniem kolejnych czyn&oacute;w wcześniej zabronionych) jest uzasadniana niezdolnością człowieka do dobra i bezcelowością ograniczania go choćby przez instytucje władzy. Pr&oacute;by zachowania porządku państwowego &bdquo;z natury&rdquo; postrzega się, jako skażone niegodziwością, więc nie mające sensu. Rozumienie porządku sprowadzone jest do bezczynności nocnego str&oacute;ża, kt&oacute;ry zapobiec ma czyjejkolwiek ingerencji w wewnętrzny chaos moralny, prawny, religijny, a więc i polityczny dzisiejszego państwa. Właśnie osłabianie władzy staje się dla wielu znakiem zbliżenia do apolitycznego stanu przed upadkiem. Bardzo to dalekie od postawy Kościoła pierwszych wiek&oacute;w, kt&oacute;ry modlił się za prześladujących go cesarzy widząc wartość w ładzie państwowym, kt&oacute;ry oni zabezpieczali na mocy natury i woli Boga. Z drugiej strony legalizacja stanu po grzechu pierworodnym każe odrzucić wszelkie nadzieje sprawiedliwego budowania świata na rzecz budowania świata &bdquo;na ludzką miarę&rdquo; poprzez nieograniczony etycznie rozw&oacute;j technologiczny, indywidualizację będącą znakiem wyzwolenia, aż po wyzwolenie z grzechu przez jego zaprzeczenie. Tu też upatrywać trzeba korzeni totalitarnych system&oacute;w, kt&oacute;re chcąc być Kr&oacute;lestwem Bożym na ziemi były faktycznie anty-Kr&oacute;lestwem. Oczywiście dwie te tendencje (leseferyzm i totalitaryzm) przenikają się i trwają r&oacute;wnolegle we wsp&oacute;łczesnym myśleniu o państwie, władzy i polityce. Zwykle odarte oczywiście ze swoich uwarunkowań tkwiących w pewnych interpretacjach nauczania św. Augustyna.</p>
+
+<p>Przedstawiony powyżej spos&oacute;b myślenia nie jest jednak tradycją jedyną. Inna m&oacute;wi, że to nie grzech jest podstawową konstytucją życia politycznego, ale ludzka natura, kt&oacute;ra choć utraciła nieco swojego blasku w dalszym ciągu powinna być właściwym punktem odniesienia dla każdej refleksji i działania.</p>
+
+<p><strong>Uwagi końcowe: Św. Tomasz i nauczanie Kościoła katolickiego</strong></p>
+
+<p>Nauczanie Kościoła katolickiego w sprawie genezy polityki i władzy państwowej można spuentować fragmentem z dziełka&nbsp;<em>O kr&oacute;lowaniu</em>&nbsp;św. Tomasza, kt&oacute;re przytaczają także autorzy&nbsp;<em>Kompendium Nauki Społecznej Kościoła</em>: &bdquo;Jeśli więc jest naturalne dla człowieka, że żyje we wsp&oacute;lnocie, to i konieczne jest, by wśr&oacute;d ludzi był ktoś, kto kr&oacute;luje nad wsp&oacute;lnotą. Skoro bowiem jest wielu ludzi, a każdy troszczy się o to, co mu odpowiada,&nbsp; wsp&oacute;lnota rozproszyłaby się w r&oacute;żne strony, gdyby nie było kogoś, kto troszczy się także o to, co należy do dobra całej wsp&oacute;lnoty. Podobnie i ciało człowieka, bądź jakiegoś zwierzęcia, rozpadłoby się, gdyby nie było w nim og&oacute;lnej siły rządzącej, kt&oacute;ra zmierzałaby do dobra wsp&oacute;lnego wszystkich członk&oacute;w. Mając to na uwadze, Salomon powiada:&nbsp;<em>gdzie nie masz rządcy, lud upadnie</em>&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn31" target="_self">[31]</a>. Dla św. Tomasza, a także w perspektywie nauczania Kościoła właściwym punktem odniesienia myślenia o człowieku jest natura. To znamienne, że Tomasz określając naturę ludzką jako społeczną i polityczną nigdzie nie dodaje: &bdquo;ale przed grzechem pierworodnym&rdquo; lub &bdquo;ale po grzechu pierworodnym&rdquo;. Grzech jako zło nie posiada istnienia ontologicznego, jest jedynie pewnego rodzaju brakiem, trudnością w realizacji natury. To samo dotyczy polityki jako rzeczywistości ustanowionej przez Boga. Jej ustanowienie ma służyć realizacji pierwotnego dobra człowieka, podobnie jak wszystko co zostało stworzone. Chodzi tu o dobro w pełni tego słowa mimo, że z powodu grzechu pierworodnego możliwość jego realizacji pozostaje ułomna. Nigdy jednak nie możemy powiedzieć, że nasze działanie w sferze polityki nie podlega wartościowaniu z perspektywy spraw ostatecznych, że historia polityczna jest pozbawiona łączności z dziejami zbawienia. Nie zaczyna się ona od grzechu pierworodnego, ale od samego stworzenia. Grzech osłabił sens władzy politycznej, a nie go stworzył. Choć to Kain stał się założycielem pierwszego miasta&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn32" target="_self">[32]</a>&nbsp;to jednak z Abla wyprowadzony został, wedle tradycji, Nar&oacute;d Wybrany, ta społeczność Boga, a jednocześnie społeczność polityczna. Stary Testament po prostu opisuje dwie wizje polityki, rozumieli to Ewangeliści osadzający życie Chrystusa w sercu historii politycznej. Pierwsza wywodzi się z rozpaczy grzechu, druga zaś z nadziei natury. Dlatego też chrześcijańskie cesarstwo, czy p&oacute;źniejsza&nbsp;<em>Christianitas</em>&nbsp;były wypełnieniem sensu polityki dla &bdquo;narodu chrześcijańskiego&rdquo;.</p>
+
+<p>Można powiedzieć, że u św. Tomasza znajdujemy pewnego rodzaju &bdquo;obojętność na grzech pierworodny&rdquo;, pewnego rodzaju dystans, kt&oacute;ry pozwala mu relatywizować jego znacznie. Tak pisze on o fundamentach polityki: &bdquo;Widzimy zaś, że niekt&oacute;re zwierzęta mają głos, to tylko człowiek &ndash; należąc do gatunku ponad innymi zwierzętami &ndash; posiada mowę [...] I dlatego słowo jest właściwością ludzi, albowiem w por&oacute;wnaniu z innymi zwierzętami właściwe ludziom jest poznanie tego, co dobre i złe, sprawiedliwe i niesprawiedliwe. Skoro więc słowo zostało dane człowiekowi przez naturę i skoro jest ono przyporządkowane umożliwianiu porozumienia między ludźmi w dziedzinie tego, co pożyteczne i co szkodliwe, sprawiedliwe i niesprawiedliwe i innych podobnych rzeczy, wynika z tego &ndash; zważywszy na to, że natura nic nie czyni na pr&oacute;żno &ndash; iż dla ludzi naturalne jest porozumiewać się między sobą na temat tych rzeczy. Porozumienie co do nich tworzy rodzinę i państwo; człowiek jest więc z natury, zwierzęciem domowym i politycznym&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn33" target="_self">[33]</a>. Opis ten doskonale pasuje do ludzkiej kondycji zar&oacute;wno przed upadkiem, jak i po nim, grzech pierworodny bowiem nie zalicza się do żadnego z przełomowych wydarzeń w dziejach człowieka, takich jak Stworzenie, Wcielenie, Zmartwychwstanie, czy Powt&oacute;rne Przyjście. Znaczenie i sens polityki nie zmieniły się fundamentalnie w chwili upadku, B&oacute;g nie odsunął się od świata, choć świadomość często posuwa nam taką myśl. Obecność Boga nie zależy, na szczęście od naszej świadomości, także ta obecność w historii &ndash; dziejach &ndash; polityce. Optymizm opierający się na rozpoznaniu słabości zła przenikał też myśl Jan Pawła II, kt&oacute;ry pisał: &bdquo;Po zakończeniu wojny, myślałem sobie: Pan B&oacute;g dał hitleryzmowi dwanaście lat egzystencji i po dwunastu latach system ten się zawalił. Widocznie taka była miara, jaką Opatrzność Boża wyznaczyła temu szaleństwu&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn34" target="_self">[34]</a>&nbsp;W ten spos&oacute;b Opatrzność i dzieje, natura i historia okazują swoje oblicza a&nbsp; ludzie włączają się w pomnażanie dobra, bądź dążą do zagłady własnej i zagłady całych narod&oacute;w. Choć nie zawsze mamy możność dokonać ostatecznych sąd&oacute;w o ich czynach. Wypowiedź papieża wydaje się być echem myśli Leibniza: &bdquo;Zdarza się bowiem, że w konkretnym realistycznym układzie ludzkiego bytowania zło w jakimś sensie jawi się jako potrzebne &ndash; jest potrzebne o tyle, o ile daje okazję do dobra&rdquo;&nbsp;<a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftn35" target="_self">[35]</a>. Ostatecznie zaś zło zmierza do własnego unicestwienie, gdyż podkopuje dobro na kt&oacute;rym wyrasta W tym też świetle możliwe jest przezwyciężenie pesymizmu wynikającego z absolutyzowania skutk&oacute;w grzechu pierworodnego i nadawania mu mocy kreującej.</p>
+
+<p>Zmaganie się z niesprawiedliwością i złem na poziomie polityki, władzy, państwa, czy prawa było i jest wcielaniem w życie zasad sprawiedliwości. Z tego wcielania Bożych nakaz&oacute;w, kt&oacute;rych przestrzeganie jest podążaniem za miłością Bożą, będziemy rozliczani w Dniu Ostatecznym. Troska o sprawiedliwość przybliża przyjście Chrystusa, nawet jeśli &bdquo;postrzegamy wszystko jakby w zwierciadle&rdquo; i wiemy, że związek pomiędzy naszym działaniem a Powt&oacute;rnym Przyjściem nie jest mechaniczny, ponieważ zależy od Zwierzchności. Nie można też dać się zwieść pokusie, kt&oacute;ra prześladuje człowieka od upadku w Rajskim Ogrodzie, i kt&oacute;ra m&oacute;wi, że nie bierzemy udziału w budowaniu żadnego Kr&oacute;lestwa, że nie potrafimy rozpoznać Dobra, że polityka w ten czy inny spos&oacute;b jest domeną diabła.</p>
+
+<p><strong>Tomasz Rowiński &ndash;&nbsp;</strong><em>historyk idei, redaktor &bdquo;Christianitas&rdquo; i sekretarz redakcji kwartalnika &bdquo;Fronda&rdquo;. Ostatnio opublikował dwie książki z wywiadami &bdquo;Zaw&oacute;d: egzorcysta. Rozmowy z polskimi egzorcystami&rdquo; (Krak&oacute;w 2011), a także &bdquo;Aniołowie i kosmici. Kości&oacute;ł wobec cywilizacji pozaziemskich&rdquo; (Krak&oacute;w 2011).</em></p>
+
+<hr size="1" />
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref1" target="_self">[1]</a>&nbsp;por. Mt 1, 1-17.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref2" target="_self">[2]</a>&nbsp;por. Łk 1, 5; 2, 1-2; 3, 1-2.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref3" target="_self">[3]</a>&nbsp;por. Karl L&ouml;with,<em>&nbsp;Historia powszechna i dzieje zbawienia,</em>&nbsp;przeł. J&oacute;zef Marzęcki, Wydawnictwo ANTYK, Kęty 2002, s.179.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref4" target="_self">[4]</a>&nbsp;Charakterystycznie rozumie to Karl L&ouml;with &bdquo;Chrześcijańskie pojmowanie historii i czasu nie jest możliwym przedmiotem teoretycznej argumentacji, lecz sprawą wiary&rdquo; - to przykład jednostronności w postrzeganiu misji chrześcijańskiej, tamże, s.180.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref5" target="_self">[5]</a>&nbsp;Zob. tamże.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref6" target="_self">[6]</a>&nbsp;Piękne fragmenty m&oacute;wiące o chrześcijańskim sensie &bdquo;rodowodu&rdquo;, &bdquo;więz&oacute;w krwi&rdquo; można znaleźć u Charlesa Peguy w poemacie&nbsp;<em>Przedsionek tajemnicy drugiej cnoty</em>, przeł. Leon Zaręba, Wydawnictwo Karmelit&oacute;w Bosych, Krak&oacute;w 2007.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref7" target="_self">[7]</a>&nbsp;1 Kor 15, 14.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref8" target="_self">[8]</a>&nbsp;1 Kor 13, 12.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref9" target="_self">[9]</a>&nbsp;Karl L&ouml;with, s.181.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref10" target="_self">[10]</a>&nbsp;Tamże, s.184.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref11" target="_self">[11]</a>&nbsp;Patrz słynny fragment z Listu św. Pawła do Rzymian 13, 1-7.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref12" target="_self">[12]</a>&nbsp;Rz 13, 1-2.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref13" target="_self">[13]</a>&nbsp;Por. Tm 2, 1-2.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref14" target="_self">[14]</a>&nbsp;Przypis do wersu Ap 13,1 w:&nbsp;<em>Pismo Święte Starego i Nowego Testamentu. Biblia Tysiąclecia,&nbsp;</em>wyd. V, Pallotinum, Poznań 2000.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref15" target="_self">[15]</a>&nbsp;Ap 13,1</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref16" target="_self">[16]</a>&nbsp;Por. Orygenes,&nbsp;<em>Przeciw Celsusowi,&nbsp;</em>VIII, 70, 72, 74, przeł. Stanisław Kalinkowski, Akademia Teologii Katolickiej, Warszawa 1986.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref17" target="_self">[17]</a>&nbsp;Por. Orygenes,&nbsp;<em>Komentarz Listu do Rzymian&nbsp;</em>IX, 26 w: Hugo Rahner, Kości&oacute;ł i państwo we wczesnym chrześcijaństwie, przeł. Maria i Jan Radożyccy, Instytut Wydawniczy Pax, Warszawa 1986, s. 43-46.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref18" target="_self">[18]</a>&nbsp;Ks. Stanisław J&oacute;źwiak,&nbsp;<em>Państwo i Kości&oacute;ł w pismach św. Augustyna</em>, Wydawnictwo KUL, Lublin 2004, s. 66.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref19" target="_self">[19]</a>&nbsp;św. Augustyn,&nbsp;<em>Państwo Boże,</em>&nbsp;przeł. Władysław Kubicki, Wydawnictwo ANTYK, Kęty 2002, XIX, 5.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref20" target="_self">[20]</a>&nbsp;Tamże, IV, 3.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref21" target="_self">[21]</a>&nbsp;Tamże, XIX, 3.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref22" target="_self">[22]</a>&nbsp;ks. Stanisław J&oacute;źwiak, s. 67.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref23" target="_self">[23]</a>&nbsp;Tamże, s. 68.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref24" target="_self">[24]</a>&nbsp;Por. Tamże, s. 70-71.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref25" target="_self">[25]</a>&nbsp;Tamże, s. 71; por. Doc. Christ. 1,3.3</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref26" target="_self">[26]</a>&nbsp;ks. Stanisław J&oacute;źwiak, s. 70, przypis 26; o niewolnictwie czytaj szczeg&oacute;lnie s. 170-172.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref27" target="_self">[27]</a>&nbsp;św. Augustyn,&nbsp;<em>Państwo Boże</em>, 2,19.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref28" target="_self">[28]</a>&nbsp;ks. Stanisław J&oacute;źwiak, s. 69.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref29" target="_self">[29]</a>&nbsp;Tamże, s. 70.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref30" target="_self">[30]</a>&nbsp;Patrz przypis 26.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref31" target="_self">[31]</a>&nbsp;św. Tomasz z Akwinu,&nbsp;<em>O kr&oacute;lowaniu &ndash; kr&oacute;lowi Cypru,&nbsp;</em>przeł. Mateusz Matyszkowicz, Ośrodek Myśli Politycznej,&nbsp; Wyższa Szkoła Europejska im. ks. J&oacute;zefa Tischnera, Krak&oacute;w 2006, I.5; por.&nbsp;<em>Kompendium Nauki Społecznej Kościoła</em>, 393, oraz przypis 800;</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref32" target="_self">[32]</a>&nbsp;Rdz 4, 17.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref33" target="_self">[33]</a>&nbsp;św. Tomasz z Akwinu, Sententia Libri Politicorum I, 1 za Jacek Grzybowski, Miecz i Pastorał. Filozoficzny uniwersalizm sporu o charakter władzy. Tomasz z Akwinu i Dante Alighieri, Wydawnictwo ANTYK, Kęty 2006, s. 291.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref34" target="_self">[34]</a>&nbsp;Jan Paweł II,&nbsp;<em>Pamięć i tożsamość. Rozmowy na przełomie tysiącleci</em>, Wydawnictwo Znak , Krak&oacute;w 2005, s. 23.</p>
+
+<p><a href="https://www.fronda.pl/a/czy-polityka-rodzi-sie-z-grzechu,13004.html#_ftnref35" target="_self">[35]</a>&nbsp;Tamże, s.23-24.</p>
+                </div>
+                <div class="article-source mb"><i><small>Tomasz Rowiński/Fronda.pl</small></i></div>
+				<p style="font-weight: bold; color: #FF6600;">Podobał Ci się artykuł? <a href="https://fronda.pl/a/Wesprzyj-Fronde,241688.html">Wesprzyj Frondę &raquo;</a></p>
+            </article>
+
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <div class="sm-share mb">
+    <ul>
+        <li>
+            <div class="sm-icon bg-facebook pointer" onclick="fbShare('https%3A%2F%2Fwww.fronda.pl%2Fa%2FCzy-polityka-rodzi-sie-z-grzechu-2%2C200650.html')">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+                    <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+                </svg>
+            </div>
+        </li>
+        <li>
+            <a href="https://twitter.com/intent/tweet?source=webclient&text=Czy%20polityka%20rodzi%20si%C4%99%20z%20grzechu%3F&url=https%3A%2F%2Fwww.fronda.pl%2Fa%2FCzy-polityka-rodzi-sie-z-grzechu-2%2C200650.html" target="_blank" title="Udostępnij na twitter.com">
+            <div class="sm-icon bg-twitter">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+                    <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+                </svg>
+            </div>
+            </a>
+        </li>
+        <li>
+            <a href="mailto:?subject=Polecam artykuł z fronda.pl&body=https://www.fronda.pl/a/Czy-polityka-rodzi-sie-z-grzechu-2,200650.html" title="Wyślij link przez email">
+            <div class="sm-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+                    <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/>
+                </svg>
+            </div>
+            </a>
+        </li>
+    </ul>
+</div>        </div>
+        <div class="col w336">
+            <aside>
+                <div class="ad ad_336x280 mb w2g"  id="rec_1"></div>
+
+                                    <div class="itemBox itemBox_336">
+    <a href="/a/Kardynal-z-Mjanmy-Religia-jest-kluczowa-w-budowaniu-pokoju,250699.html" title="Kardynał z Mjanmy: Religia jest kluczowa w budowaniu pokoju">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/336x188/c/uploads/news/asdasdasdasdihsaodsadsa-1767447583.jpg" width="336" height="188" alt="Kardynał z Mjanmy: Religia jest kluczowa w budowaniu pokoju" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Kardynał z Mjanmy: Religia jest kluczowa w budowaniu pokoju</div>
+            </a>
+</div>
+                                    <div class="itemBox itemBox_336">
+    <a href="/a/Swiat-reaguje-na-dzialania-USA-Hiszpania-chce-byc-mediatorem-Kolumbia-wysyla-wojska,250698.html" title="Świat reaguje na działania USA. Hiszpania chce być mediatorem, Kolumbia wysyła wojska">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/336x188/c/uploads/news/asdadsadsahudakjsddadas-1767446770.jpg" width="336" height="188" alt="Świat reaguje na działania USA. Hiszpania chce być mediatorem, Kolumbia wysyła wojska" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Świat reaguje na działania USA. Hiszpania chce być mediatorem, Kolumbia wysyła wojska</div>
+            </a>
+</div>
+                                    <div class="itemBox itemBox_336">
+    <a href="/a/Co-dalej-z-Wenezuela-Sekretarz-stanu-zdradzil-plany-USA,250697.html" title="Co dalej z Wenezuelą? Sekretarz stanu zdradził plany USA">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/336x188/c/uploads/news/asdasdasdhoasdlndsadasd-1767444187.jpg" width="336" height="188" alt="Co dalej z Wenezuelą? Sekretarz stanu zdradził plany USA" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Co dalej z Wenezuelą? Sekretarz stanu zdradził plany USA</div>
+            </a>
+</div>
+                                <div class="ad ad_300x600 mb w2g"  id="half_1"></div>
+
+            </aside>
+        </div>
+    </div>
+
+    
+    <div id="wtg-taboola"></div>
+    <div class="row">
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Zima-sparalizowala-infrastrukture-Dworczyk-Obecny-rzad-ma-powazny-problem,250696.html" title="Zima sparaliżowała infrastrukturę. Dworczyk: Obecny rząd ma poważny problem">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdasdhihasodksdasdasdasdsa-1767443089.jpg" width="262" height="147" alt="Zima sparaliżowała infrastrukturę. Dworczyk: Obecny rząd ma poważny problem" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Zima sparaliżowała infrastrukturę. Dworczyk: Obecny rząd ma poważny problem</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Trzymal-krzyz-w-dloni-a-ogien-go-ominal-Niezwykle-swiadectwo-dot-tragedii-w-Szwajcarii,250695.html" title="„Trzymał krzyż w dłoni a ogień go ominął”. Niezwykłe świadectwo dot. tragedii w Szwajcarii">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/screenshot-szwajcaria-crans-montana-1767441233.jpg" width="262" height="147" alt="„Trzymał krzyż w dłoni a ogień go ominął”. Niezwykłe świadectwo dot. tragedii w Szwajcarii" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">„Trzymał krzyż w dłoni a ogień go ominął”. Niezwykłe świadectwo dot. tragedii w Szwajcarii</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Premier-o-wydarzeniach-w-Wenezueli-Bedziemy-reagowac,250694.html" title="Premier o wydarzeniach w Wenezueli: Będziemy reagować">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdsadasydiaoshdsdsdasd-1767440559.jpg" width="262" height="147" alt="Premier o wydarzeniach w Wenezueli: Będziemy reagować" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Premier o wydarzeniach w Wenezueli: Będziemy reagować</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Skandal-w-szkole-w-Kielnie-Nauczycielka-wyrzucila-krzyz-do-kosza,250693.html" title="Skandal w szkole w Kielnie. Nauczycielka wyrzuciła krzyż do kosza">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdashidksaldadsdasds-1767439617.jpg" width="262" height="147" alt="Skandal w szkole w Kielnie. Nauczycielka wyrzuciła krzyż do kosza" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Skandal w szkole w Kielnie. Nauczycielka wyrzuciła krzyż do kosza</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Cud-kwitnacych-w-grudniu-sliw-w-Bra-diecezja-turynska-2,250692.html" title="Cud kwitnących w grudniu śliw w Bra – diecezja turyńska">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdasdksadhlaksdasdasdas-1700731254-1767437922.jpg" width="262" height="147" alt="Cud kwitnących w grudniu śliw w Bra – diecezja turyńska" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Cud kwitnących w grudniu śliw w Bra – diecezja turyńska</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/WIDEO-Wybuch-w-Szwajcarii-To-pokolenie-samo-sie-zaora,250691.html" title="[WIDEO] Wybuch w Szwajcarii. „To pokolenie samo się zaora”">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/screenshot-pozar-facebook-1767436828.jpg" width="262" height="147" alt="[WIDEO] Wybuch w Szwajcarii. „To pokolenie samo się zaora”" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">[WIDEO] Wybuch w Szwajcarii. „To pokolenie samo się zaora”</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Pierwsza-sobota-miesiaca-Maryja-Przybede-z-laskami-12,250690.html" title="Pierwsza sobota miesiąca. Maryja: &quot;Przybędę z łaskami&#039;&#039;">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/sdfsdfidsy8fdsfdsfdfds-1667655369-1685784402-1688194847-1738396630-1765009792-1767435108.jpg" width="262" height="147" alt="Pierwsza sobota miesiąca. Maryja: &quot;Przybędę z łaskami&#039;&#039;" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Pierwsza sobota miesiąca. Maryja: &quot;Przybędę z łaskami&#039;&#039;</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Trump-Maduro-zostal-pojmany-i-wywieziony,250689.html" title="Trump: Maduro został pojmany i wywieziony">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/trump-1741246443-1767433431.jpg" width="262" height="147" alt="Trump: Maduro został pojmany i wywieziony" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Trump: Maduro został pojmany i wywieziony</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Ekspert-Podczas-takich-atakow-proby-zabicia-politykow-i-generalicji-to-standard,250688.html" title="Ekspert: Podczas takich ataków próby zabicia polityków i generalicji to standard">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/jaroslaw-wolski-1663764964-1670531322-1687595838-1767432774.jpg" width="262" height="147" alt="Ekspert: Podczas takich ataków próby zabicia polityków i generalicji to standard" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Ekspert: Podczas takich ataków próby zabicia polityków i generalicji to standard</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Godziny-Maduro-sa-policzone,250687.html" title="„Godziny Maduro są policzone”">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/screenshot-maduro-wenezuela-youtube-1767432031.jpg" width="262" height="147" alt="„Godziny Maduro są policzone”" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">„Godziny Maduro są policzone”</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Rosja-reaguje-na-amerykanski-atak-na-Wenezuele,250686.html" title="Rosja reaguje na amerykański atak na Wenezuelę">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/kreml-moskwa-pixabay-1731914559-1767431432.jpg" width="262" height="147" alt="Rosja reaguje na amerykański atak na Wenezuelę" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Rosja reaguje na amerykański atak na Wenezuelę</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Wenezuelskie-wojska-na-ulicach-Caracas,250685.html" title="Wenezuelskie wojska na ulicach Caracas">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/screenshot-wenezuela-caracas-1767430954.jpg" width="262" height="147" alt="Wenezuelskie wojska na ulicach Caracas" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Wenezuelskie wojska na ulicach Caracas</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Amerykanskie-naloty-na-Wenezuele-Maduro-wprowadza-stan-wyjatkowy,250684.html" title="Amerykańskie naloty na Wenezuelę. Maduro wprowadza stan wyjątkowy">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/screenshot-wenezuela-atak-x-1767429626.jpg" width="262" height="147" alt="Amerykańskie naloty na Wenezuelę. Maduro wprowadza stan wyjątkowy" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Amerykańskie naloty na Wenezuelę. Maduro wprowadza stan wyjątkowy</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Slowo-Boze-na-poranek-Ja-to-ujrzalem-i-daje-swiadectwo-ze-On-jest-Synem-Bozym,250683.html" title="Słowo Boże na poranek. „Ja to ujrzałem i daję świadectwo, że On jest Synem Bożym”">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/uisagda8fgsdf78dsg78fgsd78fg87dfg78sdf8sd-1767428371.jpg" width="262" height="147" alt="Słowo Boże na poranek. „Ja to ujrzałem i daję świadectwo, że On jest Synem Bożym”" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Słowo Boże na poranek. „Ja to ujrzałem i daję świadectwo, że On jest Synem Bożym”</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Bezczelne-slowa-Czarzastego-Marszalek-probuje-obrazic-prezydenta,250682.html" title="Bezczelne słowa Czarzastego. Marszałek próbuje obrazić prezydenta">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdasdahosdsajdadas-1767386013.jpg" width="262" height="147" alt="Bezczelne słowa Czarzastego. Marszałek próbuje obrazić prezydenta" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Bezczelne słowa Czarzastego. Marszałek próbuje obrazić prezydenta</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Ukrainski-wywiad-Rosjanie-przygotowuja-krwawa-prowokacje,250681.html" title="Ukraiński wywiad: Rosjanie przygotowują krwawą prowokację">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdasdsdhadajkdasd-1767382320.jpg" width="262" height="147" alt="Ukraiński wywiad: Rosjanie przygotowują krwawą prowokację" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Ukraiński wywiad: Rosjanie przygotowują krwawą prowokację</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Trudna-noc-przed-kierowcami-Klimczak-Sluzby-w-gotowosci,250680.html" title="Trudna noc przed kierowcami. Klimczak: Służby w gotowości">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdasdhpiakldsdssa-1767380468.jpg" width="262" height="147" alt="Trudna noc przed kierowcami. Klimczak: Służby w gotowości" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Trudna noc przed kierowcami. Klimczak: Służby w gotowości</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Nowy-burmistrz-Nowego-Jorku-wykonal-salut-rzymski,250679.html" title="Nowy burmistrz Nowego Jorku wykonał salut rzymski?">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdasdhduajksddasdsa-1767378964.jpg" width="262" height="147" alt="Nowy burmistrz Nowego Jorku wykonał salut rzymski?" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Nowy burmistrz Nowego Jorku wykonał salut rzymski?</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Tak-wygladal-dworzec-w-Mlawie-Premier-myslal-ze-to-fejk,250678.html" title="Tak wyglądał dworzec w Mławie. Premier myślał, że to… fejk">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdsadsasdlksdasdsa-1767377202.jpg" width="262" height="147" alt="Tak wyglądał dworzec w Mławie. Premier myślał, że to… fejk" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Tak wyglądał dworzec w Mławie. Premier myślał, że to… fejk</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Mamy-do-czynienia-z-kryptodyktatura-Prof-Karski-o-rzadach-Tuska,250677.html" title="„Mamy do czynienia z kryptodyktaturą”. Prof. Karski o rządach Tuska">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdsadipdashidkadsad-1767375033.jpg" width="262" height="147" alt="„Mamy do czynienia z kryptodyktaturą”. Prof. Karski o rządach Tuska" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">„Mamy do czynienia z kryptodyktaturą”. Prof. Karski o rządach Tuska</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Z-Internetu-Tym-razem-Tusk-sam-sie-ogral,250676.html" title="Z Internetu: Tym razem Tusk sam się ograł">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdasdashiodaodsd-1767374045.jpg" width="262" height="147" alt="Z Internetu: Tym razem Tusk sam się ograł" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Z Internetu: Tym razem Tusk sam się ograł</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Eksplozja-w-szwajcarskim-kurorcie-Wsrod-rannych-jest-Polak,250675.html" title="Eksplozja w szwajcarskim kurorcie. Wśród rannych jest Polak">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdsdasdaiohdsdasdasdsa-1767373637.jpg" width="262" height="147" alt="Eksplozja w szwajcarskim kurorcie. Wśród rannych jest Polak" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Eksplozja w szwajcarskim kurorcie. Wśród rannych jest Polak</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Piotr-Semka-dla-Frondy-Pani-arcybiskup-chce-placic,250674.html" title="Piotr Semka dla Frondy: Pani arcybiskup chce płacić">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdasdashioadkasdsa-1767371294.jpg" width="262" height="147" alt="Piotr Semka dla Frondy: Pani arcybiskup chce płacić" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Piotr Semka dla Frondy: Pani arcybiskup chce płacić</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Walka-z-mowa-nienawisci-Minister-Zurek-powola-specjalne-jednostki-w-prokuraturach,250673.html" title="Walka z „mową nienawiści”. Minister Żurek powoła specjalne jednostki w prokuraturach">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdasdsadhiasodaasd-1767369598.jpg" width="262" height="147" alt="Walka z „mową nienawiści”. Minister Żurek powoła specjalne jednostki w prokuraturach" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Walka z „mową nienawiści”. Minister Żurek powoła specjalne jednostki w prokuraturach</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Rzad-Tuska-stawia-na-polskie-firmy-Niesamowite-sa-te-lgarstwa,250672.html" title="Rząd Tuska stawia na polskie firmy? „Niesamowite są te łgarstwa”">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdasdasydhikjasddsa-1767367392.jpg" width="262" height="147" alt="Rząd Tuska stawia na polskie firmy? „Niesamowite są te łgarstwa”" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Rząd Tuska stawia na polskie firmy? „Niesamowite są te łgarstwa”</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Tusk-cieszy-sie-z-sondazu-ktory-zwiastuje-koniec-jego-rzadow,250671.html" title="Tusk cieszy się z sondażu, który… zwiastuje koniec jego rządów">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdasdasdashdjkadas-1767366322.jpg" width="262" height="147" alt="Tusk cieszy się z sondażu, który… zwiastuje koniec jego rządów" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Tusk cieszy się z sondażu, który… zwiastuje koniec jego rządów</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Rzad-probowal-zrzucic-wine-na-kierowcow-Przewoznicy-odpowiadaja,250670.html" title="Rząd próbował zrzucić winę na kierowców. Przewoźnicy odpowiadają">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdasdasdisadhosalkndssda-1767365347.jpg" width="262" height="147" alt="Rząd próbował zrzucić winę na kierowców. Przewoźnicy odpowiadają" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Rząd próbował zrzucić winę na kierowców. Przewoźnicy odpowiadają</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/iMac-w-szkole-i-na-uczelni-dlaczego-nauczyciele-i-wykladowcy-coraz-czesciej-wybieraja-sprzet-Apple-Material-promocyjny,250669.html" title="iMac w szkole i na uczelni – dlaczego nauczyciele i wykładowcy coraz częściej wybierają sprzęt Apple? [Materiał promocyjny]">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/depositphotos-528964518-s-1767360840.jpg" width="262" height="147" alt="iMac w szkole i na uczelni – dlaczego nauczyciele i wykładowcy coraz częściej wybierają sprzęt Apple? [Materiał promocyjny]" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">iMac w szkole i na uczelni – dlaczego nauczyciele i wykładowcy coraz częściej wybierają sprzęt Apple? [Materiał promocyjny]</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Oto-najbardziej-wyludniajace-sie-polskie-miasta,250668.html" title="Oto, najbardziej wyludniające się polskie miasta">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/poznan-1767355125.jpg" width="262" height="147" alt="Oto, najbardziej wyludniające się polskie miasta" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Oto, najbardziej wyludniające się polskie miasta</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Zachodnia-Ukraina-nadal-czci-Bandere,250667.html" title="Zachodnia Ukraina nadal czci Banderę">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/screenshot-x-stepan-bandera-ukraina-1767353373.jpg" width="262" height="147" alt="Zachodnia Ukraina nadal czci Banderę" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Zachodnia Ukraina nadal czci Banderę</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Ludzie-palili-sie-od-stop-do-glow-Wstrzasajace-relacje-swiadkow-sylwestrowej-tragedii,250666.html" title="„Ludzie palili się od stóp do głów”. Wstrząsające relacje świadków sylwestrowej tragedii">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/screenshot-szwajcaria-crans-montana-1767351923.jpg" width="262" height="147" alt="„Ludzie palili się od stóp do głów”. Wstrząsające relacje świadków sylwestrowej tragedii" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">„Ludzie palili się od stóp do głów”. Wstrząsające relacje świadków sylwestrowej tragedii</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Czy-polscy-katolicy-maja-na-kogo-glosowac-Zaskakujace-wyniki-sondazu,250665.html" title="Czy polscy katolicy mają na kogo głosować? Zaskakujące wyniki sondażu">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/screenshot-katedra-poznan-msza-youtube-1765973712-1767349881.jpg" width="262" height="147" alt="Czy polscy katolicy mają na kogo głosować? Zaskakujące wyniki sondażu" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Czy polscy katolicy mają na kogo głosować? Zaskakujące wyniki sondażu</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/87-lat-temu-zmarl-Roman-Dmowski-ojciec-Niepodleglej-Polski,250664.html" title="87 lat temu zmarł Roman Dmowski - ojciec Niepodległej Polski">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/roman-dmowski-1699779641-1767348233.jpg" width="262" height="147" alt="87 lat temu zmarł Roman Dmowski - ojciec Niepodległej Polski" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">87 lat temu zmarł Roman Dmowski - ojciec Niepodległej Polski</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Rosnie-liczba-chrzescijan-w-Izraelu,250663.html" title="Rośnie liczba chrześcijan w Izraelu">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/screenshot-bazylika-narodzenia-panskiego-w-betlejem-youtube-1767346394.jpg" width="262" height="147" alt="Rośnie liczba chrześcijan w Izraelu" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Rośnie liczba chrześcijan w Izraelu</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Lebork-Antyterrorysci-w-akcji-mezczyzna-przetrzymywal-kobiete,250661.html" title="Lębork. Antyterroryści w akcji, mężczyzna przetrzymywał kobietę">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/asdasdsadhisaldknasdsa-1755794383-1767344391.jpg" width="262" height="147" alt="Lębork. Antyterroryści w akcji, mężczyzna przetrzymywał kobietę" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Lębork. Antyterroryści w akcji, mężczyzna przetrzymywał kobietę</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Turysci-na-dwoch-kolkach-Jak-infrastruktura-rowerowa-napedza-lokalna-gospodarke-Material-promocyjny,250662.html" title="Turyści na dwóch kółkach: Jak infrastruktura rowerowa napędza lokalną gospodarkę? [Materiał promocyjny]">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/sabin-chhetri-e6bdmyxtvye-unsplash-1767345095.jpg" width="262" height="147" alt="Turyści na dwóch kółkach: Jak infrastruktura rowerowa napędza lokalną gospodarkę? [Materiał promocyjny]" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Turyści na dwóch kółkach: Jak infrastruktura rowerowa napędza lokalną gospodarkę? [Materiał promocyjny]</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Liliana-Sonik-Wielu-w-Europie-moze-nam-zazdroscic,250660.html" title="Liliana Sonik: Wielu w Europie może nam zazdrościć">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/screenshot-liliana-sonik-youtube-1767342962.jpg" width="262" height="147" alt="Liliana Sonik: Wielu w Europie może nam zazdrościć" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Liliana Sonik: Wielu w Europie może nam zazdrościć</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Stubb-Wspolnie-dopilnujemy-aby-Rosja-nigdy-wiecej-nie-zaatakowala-zadnego-z-sasiadow,250659.html" title="Stubb: Wspólnie dopilnujemy, aby Rosja nigdy więcej nie zaatakowała żadnego z sąsiadów">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/stubb-putin2-1767341064.jpg" width="262" height="147" alt="Stubb: Wspólnie dopilnujemy, aby Rosja nigdy więcej nie zaatakowała żadnego z sąsiadów" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Stubb: Wspólnie dopilnujemy, aby Rosja nigdy więcej nie zaatakowała żadnego z sąsiadów</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/6-milionow-zlotych-w-3-lata-tak-dzialaja-w-Polsce-ukrainskie-cybergangi,250658.html" title="6 milionów złotych w 3 lata - tak działają w Polsce ukraińskie cybergangi">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/klawiatura-1767340387.jpg" width="262" height="147" alt="6 milionów złotych w 3 lata - tak działają w Polsce ukraińskie cybergangi" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">6 milionów złotych w 3 lata - tak działają w Polsce ukraińskie cybergangi</div>
+            </a>
+</div>
+</div>
+                    <div class="col-3"><div class="itemBox itemBox_3">
+    <a href="/a/Kuzmiuk-Tusk-i-Domanski-byli-purpurowi-ze-zlosci,250657.html" title="Kuźmiuk: Tusk i Domański byli purpurowi ze złości">
+        <div class="itemBox-image">
+            <img src="https://cdn.fronda.pl/imgcache/262x147/c/uploads/news/domanski-tusk-yt-kanc-prem-1722843557-1767337867.webp" width="262" height="147" alt="Kuźmiuk: Tusk i Domański byli purpurowi ze złości" class="img-responsive">
+                    </div>
+                    <div class="itemBox-title itemBox-title-truncate mb">Kuźmiuk: Tusk i Domański byli purpurowi ze złości</div>
+            </a>
+</div>
+</div>
+            </div>
+
+            <div class="w2g" id="bill_bottom"></div>
+        </div>
+        <div class="w2g" id="bill_bottom"></div>
+        <footer class="d-flex flex-row">
+    <div class="ml align-self-center">
+        Copyright © 1994-2024 <strong><a href="https://fronda.pl" title="Fronda.pl">Fronda</a></strong> - Portal poświęcony!
+    </div>
+    <div class="align-self-center ms-auto mr">
+        <ul class="nav">
+            <li>
+                <a href="#" class="nav-link">Regulamin</a>
+            </li>
+            <li>
+                <a href="#" class="nav-link">Informacje o cookies</a>
+            </li>
+            <li>
+                <a href="#" class="nav-link">Polityka prywatności</a>
+            </li>
+            <li>
+                <a href="#" class="nav-link">Kontakt</a>
+            </li>
+            <li>
+                <a href="#" class="nav-link">Reklama</a>
+            </li>
+        </ul>
+    </div>
+</footer>    </div>
+                
+                <script type="text/javascript" src="https://lib.wtg-ads.com/lib.min.js" async></script>
+
+<!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+<script type="text/javascript" async=true>
+    (function() {
+        var host = 'fronda.pl';
+        var element = document.createElement('script');
+        var firstScript = document.getElementsByTagName('script')[0];
+        var url = 'https://cmp.inmobi.com'
+            .concat('/choice/', 'ygD-wZGWpjSSJ', '/', host, '/choice.js?tag_version=V3');
+        var uspTries = 0;
+        var uspTriesLimit = 3;
+        element.async = true;
+        element.type = 'text/javascript';
+        element.src = url;
+
+        firstScript.parentNode.insertBefore(element, firstScript);
+
+        function makeStub() {
+            var TCF_LOCATOR_NAME = '__tcfapiLocator';
+            var queue = [];
+            var win = window;
+            var cmpFrame;
+
+            function addFrame() {
+                var doc = win.document;
+                var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+                if (!otherCMP) {
+                    if (doc.body) {
+                        var iframe = doc.createElement('iframe');
+
+                        iframe.style.cssText = 'display:none';
+                        iframe.name = TCF_LOCATOR_NAME;
+                        doc.body.appendChild(iframe);
+                    } else {
+                        setTimeout(addFrame, 5);
+                    }
+                }
+                return !otherCMP;
+            }
+
+            function tcfAPIHandler() {
+                var gdprApplies;
+                var args = arguments;
+
+                if (!args.length) {
+                    return queue;
+                } else if (args[0] === 'setGdprApplies') {
+                    if (
+                        args.length > 3 &&
+                        args[2] === 2 &&
+                        typeof args[3] === 'boolean'
+                    ) {
+                        gdprApplies = args[3];
+                        if (typeof args[2] === 'function') {
+                            args[2]('set', true);
+                        }
+                    }
+                } else if (args[0] === 'ping') {
+                    var retr = {
+                        gdprApplies: gdprApplies,
+                        cmpLoaded: false,
+                        cmpStatus: 'stub'
+                    };
+
+                    if (typeof args[2] === 'function') {
+                        args[2](retr);
+                    }
+                } else {
+                    if(args[0] === 'init' && typeof args[3] === 'object') {
+                        args[3] = Object.assign(args[3], { tag_version: 'V3' });
+                    }
+                    queue.push(args);
+                }
+            }
+
+            function postMessageEventHandler(event) {
+                var msgIsString = typeof event.data === 'string';
+                var json = {};
+
+                try {
+                    if (msgIsString) {
+                        json = JSON.parse(event.data);
+                    } else {
+                        json = event.data;
+                    }
+                } catch (ignore) {}
+
+                var payload = json.__tcfapiCall;
+
+                if (payload) {
+                    window.__tcfapi(
+                        payload.command,
+                        payload.version,
+                        function(retValue, success) {
+                            var returnMsg = {
+                                __tcfapiReturn: {
+                                    returnValue: retValue,
+                                    success: success,
+                                    callId: payload.callId
+                                }
+                            };
+                            if (msgIsString) {
+                                returnMsg = JSON.stringify(returnMsg);
+                            }
+                            if (event && event.source && event.source.postMessage) {
+                                event.source.postMessage(returnMsg, '*');
+                            }
+                        },
+                        payload.parameter
+                    );
+                }
+            }
+
+            while (win) {
+                try {
+                    if (win.frames[TCF_LOCATOR_NAME]) {
+                        cmpFrame = win;
+                        break;
+                    }
+                } catch (ignore) {}
+
+                if (win === window.top) {
+                    break;
+                }
+                win = win.parent;
+            }
+            if (!cmpFrame) {
+                addFrame();
+                win.__tcfapi = tcfAPIHandler;
+                win.addEventListener('message', postMessageEventHandler, false);
+            }
+        };
+
+        makeStub();
+
+        function makeGppStub() {
+            const CMP_ID = 10;
+            const SUPPORTED_APIS = [
+                '2:tcfeuv2',
+                '6:uspv1',
+                '7:usnatv1',
+                '8:usca',
+                '9:usvav1',
+                '10:uscov1',
+                '11:usutv1',
+                '12:usctv1'
+            ];
+
+            window.__gpp_addFrame = function (n) {
+                if (!window.frames[n]) {
+                    if (document.body) {
+                        var i = document.createElement("iframe");
+                        i.style.cssText = "display:none";
+                        i.name = n;
+                        document.body.appendChild(i);
+                    } else {
+                        window.setTimeout(window.__gpp_addFrame, 10, n);
+                    }
+                }
+            };
+            window.__gpp_stub = function () {
+                var b = arguments;
+                __gpp.queue = __gpp.queue || [];
+                __gpp.events = __gpp.events || [];
+
+                if (!b.length || (b.length == 1 && b[0] == "queue")) {
+                    return __gpp.queue;
+                }
+
+                if (b.length == 1 && b[0] == "events") {
+                    return __gpp.events;
+                }
+
+                var cmd = b[0];
+                var clb = b.length > 1 ? b[1] : null;
+                var par = b.length > 2 ? b[2] : null;
+                if (cmd === "ping") {
+                    clb(
+                        {
+                            gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+                            cmpStatus: "stub", // possible values: stub, loading, loaded, error
+                            cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+                            signalStatus: "not ready", // possible values: not ready, ready
+                            supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+                            cmpId: CMP_ID, // IAB assigned CMP ID, may be 0 during stub/loading
+                            sectionList: [],
+                            applicableSections: [-1],
+                            gppString: "",
+                            parsedSections: {},
+                        },
+                        true
+                    );
+                } else if (cmd === "addEventListener") {
+                    if (!("lastId" in __gpp)) {
+                        __gpp.lastId = 0;
+                    }
+                    __gpp.lastId++;
+                    var lnr = __gpp.lastId;
+                    __gpp.events.push({
+                        id: lnr,
+                        callback: clb,
+                        parameter: par,
+                    });
+                    clb(
+                        {
+                            eventName: "listenerRegistered",
+                            listenerId: lnr, // Registered ID of the listener
+                            data: true, // positive signal
+                            pingData: {
+                                gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+                                cmpStatus: "stub", // possible values: stub, loading, loaded, error
+                                cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+                                signalStatus: "not ready", // possible values: not ready, ready
+                                supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+                                cmpId: CMP_ID, // list of supported APIs
+                                sectionList: [],
+                                applicableSections: [-1],
+                                gppString: "",
+                                parsedSections: {},
+                            },
+                        },
+                        true
+                    );
+                } else if (cmd === "removeEventListener") {
+                    var success = false;
+                    for (var i = 0; i < __gpp.events.length; i++) {
+                        if (__gpp.events[i].id == par) {
+                            __gpp.events.splice(i, 1);
+                            success = true;
+                            break;
+                        }
+                    }
+                    clb(
+                        {
+                            eventName: "listenerRemoved",
+                            listenerId: par, // Registered ID of the listener
+                            data: success, // status info
+                            pingData: {
+                                gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+                                cmpStatus: "stub", // possible values: stub, loading, loaded, error
+                                cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+                                signalStatus: "not ready", // possible values: not ready, ready
+                                supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+                                cmpId: CMP_ID, // CMP ID
+                                sectionList: [],
+                                applicableSections: [-1],
+                                gppString: "",
+                                parsedSections: {},
+                            },
+                        },
+                        true
+                    );
+                } else if (cmd === "hasSection") {
+                    clb(false, true);
+                } else if (cmd === "getSection" || cmd === "getField") {
+                    clb(null, true);
+                }
+                //queue all other commands
+                else {
+                    __gpp.queue.push([].slice.apply(b));
+                }
+            };
+            window.__gpp_msghandler = function (event) {
+                var msgIsString = typeof event.data === "string";
+                try {
+                    var json = msgIsString ? JSON.parse(event.data) : event.data;
+                } catch (e) {
+                    var json = null;
+                }
+                if (typeof json === "object" && json !== null && "__gppCall" in json) {
+                    var i = json.__gppCall;
+                    window.__gpp(
+                        i.command,
+                        function (retValue, success) {
+                            var returnMsg = {
+                                __gppReturn: {
+                                    returnValue: retValue,
+                                    success: success,
+                                    callId: i.callId,
+                                },
+                            };
+                            event.source.postMessage(msgIsString ? JSON.stringify(returnMsg) : returnMsg, "*");
+                        },
+                        "parameter" in i ? i.parameter : null,
+                        "version" in i ? i.version : "1.1"
+                    );
+                }
+            };
+            if (!("__gpp" in window) || typeof window.__gpp !== "function") {
+                window.__gpp = window.__gpp_stub;
+                window.addEventListener("message", window.__gpp_msghandler, false);
+                window.__gpp_addFrame("__gppLocator");
+            }
+        };
+
+        makeGppStub();
+
+        var uspStubFunction = function() {
+            var arg = arguments;
+            if (typeof window.__uspapi !== uspStubFunction) {
+                setTimeout(function() {
+                    if (typeof window.__uspapi !== 'undefined') {
+                        window.__uspapi.apply(window.__uspapi, arg);
+                    }
+                }, 500);
+            }
+        };
+
+        var checkIfUspIsReady = function() {
+            uspTries++;
+            if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+                console.warn('USP is not accessible');
+            } else {
+                clearInterval(uspInterval);
+            }
+        };
+
+        if (typeof window.__uspapi === 'undefined') {
+            window.__uspapi = uspStubFunction;
+            var uspInterval = setInterval(checkIfUspIsReady, 6000);
+        }
+    })();
+</script>
+<!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->        <script>
+        function fbShare(url) {
+            var newWindow = window.open('https://www.facebook.com/sharer.php?u=' + url, 'Facebook', 'toolbar=0,menubar=0,scrollbars=0,resizable=0,status=0,location=0,directories=0,width=500,height=500');
+        }
+    </script>
+    </body>
+</html>

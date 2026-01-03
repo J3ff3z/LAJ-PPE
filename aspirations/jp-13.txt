@@ -1,0 +1,1264 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 03 Jan 2026 16:39:12 GMT
+content-type: text/html
+content-length: 101225
+last-modified: Sun, 19 Oct 2025 02:54:23 GMT
+etag: "18b69-6417a158e474a"
+accept-ranges: bytes
+vary: User-Agent
+
+<!doctype html>
+<html lang="ja" dir="ltr">
+<head prefix="og: https://ogp.me/ns#">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>「七つの大罪」をギリシャ神話の神々に当てはめてみた</title>
+<meta name="keywords" content="">
+<meta name="description" content="「七つの大罪」をギリシャ神話の神々に当てはめると、それぞれの神格やエピソードに対応する欲望や弱点が見えてきます。ギリシャ神話の神々は完璧な存在ではなく、人間的な感情や欠点を抱えているため、この視点は神話理解に新しい切り口を与えてくれるのです。このページでは、七つの大罪とギリシャ神話の神々の関係性や性格的特徴、物語の奥深さを理解する上で役立つこのテーマについて、がっつり深掘りしていきます！">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap" rel="stylesheet" class="w_fnt" media="print">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&display=swap" rel="stylesheet" class="w_fnt" media="print">
+<link rel="stylesheet" href="../styles.css?20251019115250">
+<meta property="og:url" content="https://greekmythology.europa-japan.com/cate_characteristics/entry128.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="「七つの大罪」をギリシャ神話の神々に当てはめてみた">
+<meta property="og:description" content="「七つの大罪」をギリシャ神話の神々に当てはめると、それぞれの神格やエピソードに対応する欲望や弱点が見えてきます。ギリシャ神話の神々は完璧な存在ではなく、人間的な感情や欠点を抱えているため、この視点は神話理解に新しい切り口を与えてくれるのです。このページでは、七つの大罪とギリシャ神話の神々の関係性や性格的特徴、物語の奥深さを理解する上で役立つこのテーマについて、がっつり深掘りしていきます！">
+<meta property="og:site_name" content="ギリシャ神話が面白い！">
+<meta property="og:image" content="https://greekmythology.europa-japan.com/img/kizinai_nanatunotaizai_seven_deadly_sins.png">
+<link rel="stylesheet" href="../css/partsstyles.css?20251019115250" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="../css/indexstyles.css?20251019115250" media="print" onload="this.media='all'">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://greekmythology.europa-japan.com/rss.xml" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6593886890617128"
+     crossorigin="anonymous"></script>
+<link rel="shortcut icon" href="../favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon-w180.png" />
+<link rel="icon" href="../favicon.ico">
+</head>
+<body data-color="clr-base clr-main clr-accent clr-topmenu-txt" id="body" data-page="entry" data-column="col2" data-header="" data-main-header="true" data-main="" data-main-footer="" data-menu="" data-rmenu="" data-footer="" data-headerimg-type="" data-headerimg-img="true" data-headerimg-title="true" data-headerimg-desc="true" data-headerimg-item="false" data-headerimg-meta="true" data-headerimg-img-sp="true" data-headerimg-title-sp="true" data-headerimg-desc-sp="true" data-headerimg-item-sp="false" data-headerimg-meta-sp="true" data-topslider="false">
+<div id="wrap">
+<header id="header">
+<div class="container">
+<div id="logo-wrap">
+<div id="logo" class="logo-horizon"><a href="../"><img src="../img/logo.png"  width="690" height="163" alt="ギリシャ神話が面白い！" class="img-header" /></a></div>
+<button id="spmenu-btn" aria-label="menu"><span>menu</span></button>
+</div>
+<div id="spmenu">
+<div id="header-wrap">
+<div id="header-menu">
+<div id="topmenu">
+<ul class="topmenu_ul">
+<li><span><a href="../" ontouchstart>トップページ</a></span></li>
+<li><span><a href="../cate_introduction/" ontouchstart>ギリシャ神話とは</a></span></li>
+<li><span><a href="../cate_characteristics/" ontouchstart>特徴</a></span></li>
+<li><span><a href="../cate_events/" ontouchstart>出来事</a></span></li>
+<li><span><a href="../cate_characters/" ontouchstart>キャラクター</a></span></li>
+<li><span><a href="../cate_episodes/" ontouchstart>エピソード</a></span></li>
+<li><span><a href="../cate_types_of_gods/" ontouchstart>神の種類</a></span></li>
+<li><span><a href="../cate_personality/" ontouchstart>性格</a></span></li>
+<li><span><a href="../cate_abilities/" ontouchstart>能力</a></span></li>
+<li><span><a href="../cate_animals/" ontouchstart>動物</a></span></li>
+<li><span><a href="../cate_plants/" ontouchstart>植物</a></span></li>
+<li><span><a href="../cate_food/" ontouchstart>食べ物</a></span></li>
+<li><span><a href="../cate_tools/" ontouchstart>道具</a></span></li>
+<li><span><a href="../cate_vehicles/" ontouchstart>乗り物</a></span></li>
+<li><span><a href="../cate_weapons_and_armor/" ontouchstart>武器・防具</a></span></li>
+<li><span><a href="../cate_geography/" ontouchstart>地理</a></span></li>
+<li><span><a href="../cate_temples/" ontouchstart>神殿</a></span></li>
+<li><span><a href="../cate_constellations/" ontouchstart>星座</a></span></li>
+<li><span><a href="../cate_planets/" ontouchstart>惑星</a></span></li>
+</ul>
+</div>
+<div class="search">
+<form name="search-form" class="search-form" method="get" action="../search.php">
+<label class="search-keyword"><input type="search" name="keyword" size="20" value="" placeholder="キーワードで探す" required></label>
+<label class="search-submit"><input type="submit" value="検索"></label>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="siteNavi"><ul itemscope itemtype="https://schema.org/BreadcrumbList" class="siteNavi_ul">
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../"><span itemprop="name">トップページ</span></a><meta itemprop="position" content="1" /></li>
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../cate_characteristics/"><span itemprop="name">神話の特徴</span></a><meta itemprop="position" content="2" /></li>
+<li><span>ギリシャ神話と七つの大罪の対比</span></li>
+</ul></div>
+<div id="contents">
+<div class="inner">
+<div id="main-header">
+<div id="headerimg">
+<div class="headerimg-img"><a href="../"><picture id="header-view"><img src="../img/header.jpg" alt="「七つの大罪」をギリシャ神話の神々に当てはめてみた" class="img-header" /></picture></a></div>
+<div class="headerimg-inner">
+<div class="headerimg-txt">
+<h1 class="headerimg-title">ギリシャ神話と七つの大罪</h1>
+<div class="headerimg-desc">「七つの大罪」をギリシャ神話の神々に当てはめると、それぞれの神格やエピソードに対応する欲望や弱点が見えてきます。ギリシャ神話の神々は完璧な存在ではなく、人間的な感情や欠点を抱えているため、この視点は神話理解に新しい切り口を与えてくれるのです。このページでは、七つの大罪とギリシャ神話の神々の関係性や性格的特徴、物語の奥深さを理解する上で役立つこのテーマについて、がっつり深掘りしていきます！</div>
+<div class="headerimg-meta">
+<div class="cat"><a href="../cate_characteristics/">神話の特徴</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<main id="main">
+<section id="text1-section">
+<h2 class="topic topic-01 topic-clGD topic-rounded">七つの大罪をギリシャ神話の神々に当てはめる──欲望と神々の物語</h2>
+<div id="text1" class="txt-body">
+<p><img data-src="../img/kizinai_nanatunotaizai_seven_deadly_sins.png" width="698" height="600" alt="ヒエロニムス・ボスの『七つの大罪と四終』" class="lazyload image-center img-w600 img-photo" /><noscript><img src="../img/kizinai_nanatunotaizai_seven_deadly_sins.png" alt="ヒエロニムス・ボスの『七つの大罪と四終』" class="image-center img-w600 img-photo" /></noscript></p>
+<p style="text-align:center; line-height:1.0;"><em><span style="font-size:14px;">ヒエロニムス・ボスの『七つの大罪と四終』<br><span style="font-size:10px;">─ 出典：<a href="https://commons.wikimedia.org/wiki/File:Boschsevendeadlysins.jpg" rel="noopener" target="_blank">Wikimedia Commons Public Domain</a>より ─</span></span></em></p>
+<p><br></p>
+<p>古代から人の心を縛ってきた「七つの大罪」。これはもともとキリスト教の考え方ですが、ギリシャ神話を読んでみると……あれ？これって「大罪」じゃない？って思うような神々の姿が、びっくりするほど出てくるんです。</p>
+<p><br></p>
+<p><span class="mky_red">神々って、人間の理想を表す存在であると同時に、人間の弱さや欲望をそのまま映し出す鏡</span>でもあったんですね。 <strong>つまり七つの大罪をギリシャ神話にあてはめてみると、「欲望と神々の物語」がぐいぐいとリアルに浮かび上がってくる</strong>んです。</p>
+<p><br></p>
+<div id="index_wrapper">
+<div id="indexlist" class="idx_design5">
+<div id="index_inner">
+<div class="title">このページの目次</div><input type="checkbox" id="index_panel" value="" /><label for="index_panel" id="index_button"><span><span>CLOSE</span></span></label>
+<ol class="ol"><li><span><a href="#i1">傲慢（プライド）とゼウス</a></span>
+<ul class="li">
+<li><span><a href="#i2">神々の頂点に立つ権威</a></span></li>
+<li><span><a href="#i3">人間との関わり方</a></span></li>
+<li><span><a href="#i4">プライドと試練</a></span></li>
+</ul>
+</li>
+<li><span><a href="#i5">嫉妬（エンヴィー）とヘラ</a></span>
+<ul class="li">
+<li><span><a href="#i6">浮気相手への怒り</a></span></li>
+<li><span><a href="#i7">子どもたちへの試練</a></span></li>
+<li><span><a href="#i8">嫉妬の女神としての姿</a></span></li>
+</ul>
+</li>
+<li><span><a href="#i9">色欲（ラスト）とアフロディテ</a></span>
+<ul class="li">
+<li><span><a href="#i10">美の力で動く世界</a></span></li>
+<li><span><a href="#i11">パリスの審判</a></span></li>
+<li><span><a href="#i12">色欲の光と影</a></span></li>
+</ul>
+</li>
+<li><span><a href="#i13">憤怒（ラース）とアレス</a></span>
+<ul class="li">
+<li><span><a href="#i14">戦場の恐怖</a></span></li>
+<li><span><a href="#i15">神々からの評判</a></span></li>
+<li><span><a href="#i16">怒りに支配される姿</a></span></li>
+</ul>
+</li>
+<li><span><a href="#i17">怠惰（スロース）とディオニュソス</a></span>
+<ul class="li">
+<li><span><a href="#i18">酔いと安らぎ</a></span></li>
+<li><span><a href="#i19">陶酔と忘却</a></span></li>
+<li><span><a href="#i20">怠惰の裏にある力</a></span></li>
+</ul>
+</li>
+<li><span><a href="#i21">強欲（グリード）とハデス</a></span>
+<ul class="li">
+<li><span><a href="#i22">地下の富の支配者</a></span></li>
+<li><span><a href="#i23">ペルセポネの奪取</a></span></li>
+<li><span><a href="#i24">強欲と秩序</a></span></li>
+</ul>
+</li>
+<li><span><a href="#i25">暴食（グラトニー）とデメテル</a></span>
+<ul class="li">
+<li><span><a href="#i26">飽くなき実り</a></span></li>
+<li><span><a href="#i27">ペルセポネと食の象徴</a></span></li>
+<li><span><a href="#i28">暴食の光と影</a></span></li>
+</ul>
+</li>
+</ol></div>
+</div>
+</div>
+<p><br></p>
+<center>
+<table style="border-style: none;" border="1">
+<tbody>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<p><br></p>
+<h3 id="i1" class="topic topic-02 topic-clGD topic-rounded">傲慢（プライド）とゼウス</h3>
+<p><img data-src="../img/kizinai_purometeusu_prometheus_bound_rubens.png" width="517" height="600" alt="" class="lazyload image-center img-w500 img-photo" /><noscript><img src="../img/kizinai_purometeusu_prometheus_bound_rubens.png" alt="" class="image-center img-w500 img-photo" /></noscript></p>
+<p style="text-align:center; line-height:1.0;"><em><span style="font-size:14px;"><strong>ゼウスに罰されるプロメテウス</strong><br>岩に縛られ、ゼウスに送られた鷲が彼の肝臓をついばんでいる。肝臓は毎日再生され、再び食べられるという罰が永遠と続く<span style="font-size:10px;">─ 出典：<a href="https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Prometheus_Bound.jpg" rel="noopener" target="_blank">Wikimedia Commons Public Domain</a>より ─</span></span></em></p>
+<p><br></p>
+<p><b>ゼウス</b>といえば、オリュンポスの頂点に立つ最高神。でもその振る舞いを見ていると、どこか<b>傲慢</b>な匂いがただよってきます。天と地を支配し、自分の意志で世界を動かそうとするその態度は、まさに「プライドのかたまり」だったんですね。</p>
+<p><br></p>
+<h4 id="i2" class="topic topic-04 topic-clGD">神々の頂点に立つ権威</h4>
+<p>雷を自在に操り、誰も逆らえない絶対的な支配者──それが<b>ゼウス</b>。その力強さに多くの神や人間がひれ伏しましたが、同時に「恐れられる存在」にもなっていきました。<br><span class="mky_red">傲慢さと威厳って、じつは紙一重</span>なんですよね。<br>ゼウスは常に堂々としていましたが、その裏には「自分の地位を守りたい」という不安もあったのかもしれません。だからこそ、力を見せつけることが必要だった──そんな一面も感じられるんです。</p>
+<p><br></p>
+<h4 id="i3" class="topic topic-04 topic-clGD">人間との関わり方</h4>
+<p><b>ゼウス</b>は地上の人間たちにもよく介入します。英雄を助けたり、罰を下したり。でもその判断はいつも公平だったとは限りません。<br>ときには気分で、あるいは好みで、行動を左右することもあって……そこに<b>人間くさい弱さ</b>がチラッと顔を出すんです。<br>偉大な神でありながら感情に振り回されるその姿は、まるで人間の王様を見ているよう。神話を読む私たちが親しみを感じるのは、そんな部分かもしれませんね。</p>
+<p><br></p>
+<h4 id="i4" class="topic topic-04 topic-clGD">プライドと試練</h4>
+<p><b><a href="../cate_events/entry320.html">プロメテウスに火を盗まれた</a></b>ときのゼウスの怒り方は、それはもう激烈でした。<br>あれは単なる違反行為に怒ったというよりも、「神としての威厳を傷つけられた」という<b>プライドの問題</b>だったんでしょう。<br>罰を下す行為も、ある意味では「自分を保つための自己防衛」。<br>その強烈な自尊心こそが、ゼウスをオリュンポスの頂点に立たせ続けた力だったのかもしれません。</p>
+<p><br></p>
+<div class="accept"><p>つまりゼウスは、神々の王であると同時に、その傲慢さゆえに人間らしさを感じさせる存在だったのです。</p>
+</div>
+<p><br></p>
+<div class="linkcard">
+<a href="../cate_episodes/entry274.html">
+<div class="linkcard-thumbnail"><img class="lazyload" data-src="../img/kizinai_purometeusu_prometheus_bound_rubens.png" width="517" height="600" alt="「神話の残酷な罰エピソード」詳細"><noscript><img src="../img/kizinai_purometeusu_prometheus_bound_rubens.png" alt="「神話の残酷な罰エピソード」詳細"></noscript></div>
+<div class="linkcard-body">
+<p class="linkcard-title">「神話の残酷な罰エピソード」詳細</p>
+<p class="linkcard-excerpt">ギリシャ神話の神々の怒りに触れた人間や英雄が、過酷な罰を受けるエピソードも多く残されています。シーシュポスやプロメテウスの物語はその代表例です。このページでは、罰の内容や象徴する意味、神話における倫理観を理解する上で役立つこのテーマについて、がっつり深掘りしていきます！</p>
+</div>
+</a>
+</div>
+<center>
+<table style="border-style: none;" border="1">
+<tbody>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<p><br></p>
+<h3 id="i5" class="topic topic-02 topic-clGD topic-rounded">嫉妬（エンヴィー）とヘラ</h3>
+<p><img data-src="../img/kizinai_hera_zeusu_io_juno_hera_figino.png" width="694" height="1012" alt="Juno (Hera) by Ambrogio Figino" class="lazyload image-center img-w400 img-photo" /><noscript><img src="../img/kizinai_hera_zeusu_io_juno_hera_figino.png" alt="Juno (Hera) by Ambrogio Figino" class="image-center img-w400 img-photo" /></noscript></p>
+<p style="text-align:center; line-height:1.0;"><em><span style="font-size:14px;"><strong>『イオとゼウス』</strong><br>ゼウスが嫉妬深いヘラからイオを隠すため、イオを白い牝牛に変えた場面を描いた作品。<br><span style="font-size:10px;">─ 出典：<a href="https://en.wikipedia.org/wiki/Hera#/media/File:Figino.jpg" rel="noopener" target="_blank">アンブロージョ・フィジーノ作（16世紀）／Wikimedia Commons Public Domain</a>より ─</span></span></em></p>
+<p><br></p>
+<p><b>ヘラ</b>は結婚と家庭を守る女神で、ゼウスの正妻として知られています。でも、そのゼウスがとにかく浮気性。振り回されるたびに、<b>ヘラの嫉妬</b>が燃え上がり、神話のストーリーは大きく動いていくんです。</p>
+<p><br></p>
+<h4 id="i6" class="topic topic-04 topic-clGD">浮気相手への怒り</h4>
+<p><b>イオ</b>や<b>レト</b>など、ゼウスの浮気相手たちはことごとくヘラの怒りの的に。<br>でもその怒りの裏側には、「正妻としての誇り」と「夫への愛情」が複雑に絡んでいたんですね。<br>残酷に見える行動も、実は「夫を失いたくない」という切実な思いの表れだったのかもしれません。ただの憎しみじゃない、<b>深い感情のゆらぎ</b>がそこにあるんです。</p>
+<p><br></p>
+<h4 id="i7" class="topic topic-04 topic-clGD">子どもたちへの試練</h4>
+<p>なかでも<b>ヘラクレス</b>には特に厳しく当たりました。ゼウスと他の女性のあいだに生まれた子どもだというだけで、彼女の怒りと憎しみの対象に。<br>でもそれは、<b>母性</b>と<b>正妻としてのプライド</b>、どちらも揺さぶられるような感情だったんでしょうね。<br>神としての厳しさと、傷ついた妻としての悲しさが、同時ににじみ出ているエピソードなんです。</p>
+<p><br></p>
+<h4 id="i8" class="topic topic-04 topic-clGD">嫉妬の女神としての姿</h4>
+<p>「嫉妬に支配された女神」として語られることの多い<b>ヘラ</b>。でも同時に、「家庭を守る女神」としても信仰されてきました。<br><span class="mky_red">嫉妬って、時には愛情の裏返し</span>。それが彼女の強さの源にもなっていたんですね。<br>だからこそヘラは、ただ恐ろしい女神ではなく、「家庭と感情のリアル」を象徴する存在として、人々にずっと意識され続けてきたんです。</p>
+<p><br></p>
+<div class="accept"><p>つまりヘラは、嫉妬によって苦しみながらも、それを力に変えて神話世界で大きな存在感を放っていたのです。</p>
+</div>
+<p><br></p>
+<center>
+<table style="border-style: none;" border="1">
+<tbody>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<p><br></p>
+<h3 id="i9" class="topic topic-02 topic-clGD topic-rounded">色欲（ラスト）とアフロディテ</h3>
+<p><img data-src="../img/kizinai_ahurodelite_parisunosinnpann_the_judgement_of_paris_etty.png" width="750" height="468" alt="The Judgement of Paris by William Etty" class="lazyload image-center img-w600 img-photo" /><noscript><img src="../img/kizinai_ahurodelite_parisunosinnpann_the_judgement_of_paris_etty.png" alt="The Judgement of Paris by William Etty" class="image-center img-w600 img-photo" /></noscript></p>
+<p style="text-align:center; line-height:1.0;"><em><span style="font-size:14px;">『パリスの審判』<br>トロイの王子パリスがヘラ、アテナ、アフロディテの中で「最も美しい女神」を選ぶことを求められた神話を再現。最終的にアフロディテが勝利し、スパルタ王妃ヘレネの愛をパリスに約束したことが、トロイア戦争の原因となった。<span style="font-size:10px;">─ 出典：<a href="https://commons.wikimedia.org/wiki/File:Konstantin_Makovsky_-_The_Judgment_of_Paris,_1889.jpg" rel="noopener" target="_blank">コンスタンチン・マコフスキー作/Wikimedia Commons Public Domain</a>より ─</span></span></em></p>
+<p><br></p>
+<p><b>アフロディテ</b>は、愛と美をつかさどる女神。その存在そのものが<b>色欲</b>の象徴と言ってもいいほど、圧倒的な魅力を放っていました。神々も人間も、彼女の美しさには逆らえなかったんです。<br>その力が、数えきれないほどの恋や争いの物語を生み出す火種になっていきました。</p>
+<p><br></p>
+<h4 id="i10" class="topic topic-04 topic-clGD">美の力で動く世界</h4>
+<p>アフロディテが身につけていた<b>「カエストスの帯」</b>──これは、身に着けた者を無敵の魅力で包み込む魔法のアイテムです。<br>この帯ひとつで、神々や英雄たちの心を操るほどの力がありました。<br>つまり「美」という見えない力が、世界の動きを左右していたというわけです。<br>アフロディテの物語は、<b>愛の力が社会や歴史を変えてしまう</b>という真理を、神話の中で見せてくれているんですね。</p>
+<p><br></p>
+<h4 id="i11" class="topic topic-04 topic-clGD">パリスの審判</h4>
+<p>あの有名な<b><a href="../cate_events/entry318.html">トロイア戦争</a></b>のきっかけとなった「パリスの審判」でも、アフロディテは大きな役割を果たします。<br>「世界でいちばん美しい女をあげる」と約束して、審判に勝ったのがアフロディテ。<br>その結果、パリスは<b>ヘレネ</b>を奪い取り、大戦争が勃発することに……。<br>つまり、美と欲望が引き金となって、歴史が大きく動いてしまったんです。</p>
+<p><br></p>
+<h4 id="i12" class="topic topic-04 topic-clGD">色欲の光と影</h4>
+<p>アフロディテの魅力は、人を幸せにする力もあれば、争いや悲劇を呼び込む力でもありました。<br><b>愛と欲望が持つパワーには、いつも光と影の両面がある</b>ということを、彼女の存在は教えてくれます。<br><span class="mky_red">彼女は、愛の甘さと危うさの両方を、まるごと体現する女神だったんですね。</span></p>
+<p><br></p>
+<div class="accept"><p>つまりアフロディテは、美と色欲の象徴として、愛が持つ歓びと危うさを体現していたのです。</p>
+</div>
+<p><br></p>
+<div class="linkcard">
+<a href="../cate_events/entry319.html">
+<div class="linkcard-thumbnail"><img class="lazyload" data-src="../img/kizinai_ahurodelite_parisunosinnpann_the_judgement_of_paris_etty.png" width="750" height="468" alt="「パリスの審判」詳細"><noscript><img src="../img/kizinai_ahurodelite_parisunosinnpann_the_judgement_of_paris_etty.png" alt="「パリスの審判」詳細"></noscript></div>
+<div class="linkcard-body">
+<p class="linkcard-title">「パリスの審判」詳細</p>
+<p class="linkcard-excerpt">この伝承は、トロイア戦争の発端となった重要な出来事です。女神たちの美を競う裁定を迫られたパリスの選択が、戦争の火種となりました。このページでは、審判の経緯や登場する女神たちの象徴性、物語の影響を理解する上で役立つこのテーマについて、がっつり深掘りしていきます！</p>
+</div>
+</a>
+</div>
+<center>
+<table style="border-style: none;" border="1">
+<tbody>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<p><br></p>
+<h3 id="i13" class="topic topic-02 topic-clGD topic-rounded">憤怒（ラース）とアレス</h3>
+<p><img data-src="../img/0_war_aresu_atena.jpg" width="780" height="600" alt="アレスとアテナの戦い（ジャック＝ルイ・ダヴィッド）" class="lazyload image-center img-w600 img-photo" /><noscript><img src="../img/0_war_aresu_atena.jpg" alt="アレスとアテナの戦い（ジャック＝ルイ・ダヴィッド）" class="image-center img-w600 img-photo" /></noscript></p>
+<p style="text-align:center; line-height:1.0;"><em><span style="font-size:14px;"><b>『アレスとアテナの戦い』</b><br>戦の喧噪と憤怒に駆られた軍神アレスが、理性と秩序を体現するアテナに制される場面。力の衝動と抑制のせめぎ合いが、軍神像の本質を際立たせる。</span></em><br><span style="font-size:10px;">出典：<a href="https://commons.wikimedia.org/wiki/File:The_Combat_of_Ares_and_Athena.jpg" rel="noopener" target="_blank">ジャック＝ルイ・ダヴィッド（1748 - 1825）/ Photo by Louvre / Wikimedia Commons Public domain</a>より</span></p>
+<p><br></p>
+<p><b>アレス</b>は戦の神。そしてその存在そのものが<b>憤怒</b>を体現していました。ただ栄光をもたらす戦いの神じゃありません。血と怒り、破壊の象徴として、神話の中で強烈な印象を放っているんです。</p>
+<p><br></p>
+<h4 id="i14" class="topic topic-04 topic-clGD">戦場の恐怖</h4>
+<p>戦場に姿を現した<b>アレス</b>は、兵士たちの心に<b>怒りや狂気</b>を植えつける、恐るべき存在でした。<br>彼がいるだけで戦場はより混乱し、戦いはどこまでも凄惨になっていく。<br>その姿は、勝利の守護者というよりも、<b>混沌と破壊の化身</b>。兵士たちにとっては畏敬と恐怖の入り混じった象徴だったんですね。</p>
+<p><br></p>
+<h4 id="i15" class="topic topic-04 topic-clGD">神々からの評判</h4>
+<p>意外かもしれませんが、<b>アレス</b>はオリュンポスの神々の中であまり人気がなかったんです。<br>あの<b>ゼウス</b>でさえ「手のかかる神」として煙たがるほど。怒りのスイッチが入りやすく、誰にも止められなかったからですね。<br>同じ戦の神でも、<b>アテナ</b>は戦略や知恵を重んじたのに対し、アレスはとにかく力まかせ。<br>その対照的な姿勢が、神々の中での評価を大きく分けた理由でした。</p>
+<p><br></p>
+<h4 id="i16" class="topic topic-04 topic-clGD">怒りに支配される姿</h4>
+<p>でも、アレスの怒りがすべて悪だったわけではありません。<br>破壊の裏側には、「守りたいもののために戦う情熱」も秘められていたんです。<br><b>憤怒はただの暴力ではなく、正義感や忠誠心のかたまり</b>でもある──そんな二面性を持っていたのがアレスなんですね。<br><span class="mky_red">アレスの怒りは、たしかに恐ろしい。でもそれは、破壊と同時に「守るための力」にもなり得る感情だったのです。</span></p>
+<p><br></p>
+<div class="accept"><p>つまりアレスは、怒りに突き動かされながらも、戦いの本質を体現する神だったのです。</p>
+</div>
+<p><br></p>
+<center>
+<table style="border-style: none;" border="1">
+<tbody>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<p><br></p>
+<h3 id="i17" class="topic topic-02 topic-clGD topic-rounded">怠惰（スロース）とディオニュソス</h3>
+<p><img data-src="../img/0_ro-masinnwa_delionyusosu_bakkasu_wainn_kudamono.jpg" width="960" height="1133" alt="カラヴァッジョ『バッカス』の静物的な構図" class="lazyload image-center img-w500 img-photo" /><noscript><img src="../img/0_ro-masinnwa_delionyusosu_bakkasu_wainn_kudamono.jpg" alt="カラヴァッジョ『バッカス』の静物的な構図" class="image-center img-w500 img-photo" /></noscript></p>
+<p style="text-align:center; line-height:1.0;"><em><span style="font-size:14px;"><b>葡萄酒と果物に囲まれたディオニュソス（ローマ名バッカス）</b><br>ディオニュソスが物憂げに身を傾ける姿を描く。快楽への耽溺と日常からの弛緩を暗示し、神の側面としての怠惰を象徴的に示している。</span></em><br><span style="font-size:10px;">出典：<a href="https://commons.wikimedia.org/wiki/File:Caravaggio_-_Bacco_adolescente_-_Google_Art_Project.jpg" rel="noopener" target="_blank"> Photo by Google Arts & Culture / Wikimedia Commons Public domain</a>より</span></p>
+<p><br></p>
+<p><b>ディオニュソス</b>は酒と豊穣の神として知られていますが、その酔いのイメージから<b>怠惰</b>の象徴と見なされることもありました。でも実は、彼の姿ってただの「なまけ者」じゃないんです。もっと深くて、人間の生き方そのものに関わるメッセージが込められているんですよ。</p>
+<p><br></p>
+<h4 id="i18" class="topic topic-04 topic-clGD">酔いと安らぎ</h4>
+<p><b>ワイン</b>──それはディオニュソスから人々への贈り物。日々の労働や悩みから解放してくれる、ひとときの安らぎでした。<br>でもその「ほっとする時間」は、ときに「怠けたい」「何もしたくない」といった気持ちにもつながってしまう。<br>楽しさの中に、ちょっとした危うさも含まれている。ワインって、そんな<b>両面性</b>を持った存在だったんですね。</p>
+<p><br></p>
+<h4 id="i19" class="topic topic-04 topic-clGD">陶酔と忘却</h4>
+<p>ディオニュソスの祭りでは、人々が踊って歌って騒ぎ、日常の自分を忘れることで<b>神と一体になる体験</b>が大切にされました。<br>それは「怠けること」ではなく、「自分を解放すること」。<br>社会の枠や役割を一度手放して、みんなで一緒に心を解き放つ。<br>その時間があるからこそ、人々はまた現実に戻る力を取り戻せたんです。<br><b>陶酔は逃げではなく、再生のための通過点</b>でもあったんですね。</p>
+<p><br></p>
+<h4 id="i20" class="topic topic-04 topic-clGD">怠惰の裏にある力</h4>
+<p>だからディオニュソスの存在は、「だらけてもいいよ」と言ってるわけじゃないんです。<br>むしろ、「休むこと」や「楽しむこと」も、人間が前に進むために欠かせない力だと教えてくれているんです。<br><span class="mky_red">休息や歓びは決してムダじゃない。それは、人を生き直させるためのエネルギーでもあるんです。</span></p>
+<p><br></p>
+<div class="accept"><p>つまりディオニュソスは、怠惰の甘美さとともに、人間が休むことで再び力を取り戻せることを教えていたのです。</p>
+</div>
+<p><br></p>
+<center>
+<table style="border-style: none;" border="1">
+<tbody>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<p><br></p>
+<h3 id="i21" class="topic topic-02 topic-clGD topic-rounded">強欲（グリード）とハデス</h3>
+<p><img data-src="../img/kizinai_hadesu_perusepone_hades_abduction.png" width="994" height="768" alt="ハデスの誘拐" class="lazyload image-center img-w600 img-photo" /><noscript><img src="../img/kizinai_hadesu_perusepone_hades_abduction.png" alt="ハデスの誘拐" class="image-center img-w600 img-photo" /></noscript></p>
+<p style="text-align:center; line-height:1.0;"><em><span style="font-size:14px;">ハデスがペルセポネを誘拐する瞬間を描いた絵画<br><span style="font-size:10px;">─ 出典：<a href="https://commons.wikimedia.org/wiki/File:Hates_abduction.jpg" rel="noopener" target="_blank">Wikimedia Commons Public Domain</a>より ─</span></span></em></p>
+<p><br></p>
+<p><b>ハデス</b>は冥界を司る神。そしてもうひとつ、<b>富と所有</b>の象徴としても語られてきました。地中に眠る金銀財宝はぜんぶ彼のもの──そんなイメージから、人々は彼を「強欲」と結びつけて考えるようになったんです。</p>
+<p><br></p>
+<h4 id="i22" class="topic topic-04 topic-clGD">地下の富の支配者</h4>
+<p>冥界は死者の国であると同時に、<b>鉱物や宝石</b>が眠る豊かな土地でもありました。<br>だから<b>ハデス</b>は、富をひとりじめする存在として畏れられたんですね。<br>地上の人々にとって、地下の世界は見えないからこそ怖くて、でもどこか惹かれる……そんな<b>恐れと憧れ</b>が入り混じった場所だったんです。<br>その中心にいたのが、まさに「富を握る者」ハデスでした。</p>
+<p><br></p>
+<h4 id="i23" class="topic topic-04 topic-clGD">ペルセポネの奪取</h4>
+<p>ハデスが<b>ペルセポネ</b>を冥界に連れ去った話は、彼の<b>強欲さ</b>を象徴するエピソードとして有名です。<br>欲しいと思ったら奪う──それが支配と所有への執着をはっきりと示しているんですね。<br>でもこの物語、ただの略奪劇ではありません。<br>四季のうつろいを説明する神話としても語られていて、<b>奪うことで世界に秩序が生まれる</b>という逆説的な意味も込められていたんです。</p>
+<p><br></p>
+<h4 id="i24" class="topic topic-04 topic-clGD">強欲と秩序</h4>
+<p>ハデスの欲望は、たしかに怖くて重たいものです。<br>でもその「欲」こそが、冥界という<b>もうひとつの世界を守る秩序の力</b>にもなっていました。<br><span class="mky_red">欲望は、ときにただの欲張りじゃなくて、「支配」や「管理」の形をとって、世界を安定させる力にもなるんです。</span><br>そんなところが、ハデスという神の奥深さなんですね。</p>
+<p><br></p>
+<div class="accept"><p>つまりハデスは、強欲の象徴であると同時に、冥界と富を支配する厳格な統治者だったのです。</p>
+</div>
+<p><br></p>
+<center>
+<table style="border-style: none;" border="1">
+<tbody>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<p><br></p>
+<h3 id="i25" class="topic topic-02 topic-clGD topic-rounded">暴食（グラトニー）とデメテル</h3>
+<p><img data-src="../img/0_demeteru_perusepone_mo-gann.jpg" width="535" height="599" alt="デメテルがペルセポネを嘆く場面（エヴリン・ド・モーガン）" class="lazyload image-center img-w500 img-photo" /><noscript><img src="../img/0_demeteru_perusepone_mo-gann.jpg" alt="デメテルがペルセポネを嘆く場面（エヴリン・ド・モーガン）" class="image-center img-w500 img-photo" /></noscript></p>
+<p style="text-align:center; line-height:1.0;"><em><span style="font-size:14px;"><b>冥界へ連れ去られた娘ペルセポネを嘆くデメテル</b><br>古代ギリシャでは豊穣の神の悲しみが大地の不作をもたらし、四季の変化という自然現象の原因と考えられた。</span></em><br><span style="font-size:10px;">出典：<a href="https://commons.wikimedia.org/wiki/File:Evelyn_de_Morgan_-_Demeter_Mourning_for_Persephone,_1906.jpg" rel="noopener" target="_blank">Photo by Evelyn De Morgan / Wikimedia Commons Public domain</a>より</span></p>
+<p><br></p>
+<p><b>デメテル</b>は大地と豊穣をつかさどる女神。その恵みは、人々の命を支える<b>食</b>の源でした。でも、その豊かさがあまりに大きかったせいで、ときに<b>暴食</b>のイメージとも結びついて語られるようになったんです。</p>
+<p><br></p>
+<h4 id="i26" class="topic topic-04 topic-clGD">飽くなき実り</h4>
+<p>たっぷりの収穫は、もちろん人々にとって喜びでした。でも同時に、「もっと食べたい」「もっとほしい」っていう欲望も生まれてきます。<br>満ち足りているはずなのに、もっと求めてしまう……そんな心の動きが、<b>貪欲さ</b>につながっていったんですね。<br>つまり、実りは祝福である一方で、<b>欲望をふくらませる危うさ</b>も持っていたんです。デメテルの恵みは人々を養いながら、その影として「暴食」というテーマも映し出していたんですね。</p>
+<p><br></p>
+<h4 id="i27" class="topic topic-04 topic-clGD">ペルセポネと食の象徴</h4>
+<p>冥界でデメテルの娘<b>ペルセポネ</b>が口にした<b>ザクロの実</b>。これは、ただの果物じゃありませんでした。<br>ひと粒の実が彼女の運命を変え、季節の循環を生み出す神話へとつながっていく……このエピソードは、<b>食べるという行為が持つ重み</b>を象徴しているんです。<br>食はただの栄養じゃなくて、世界の秩序や人の欲望とも深くつながっている──そんなメッセージが込められているんですね。</p>
+<p><br></p>
+<div class="linkcard">
+<a href="../cate_plants/entry6.html">
+<div class="linkcard-thumbnail"><img class="lazyload" data-src="../img/kizinai_zakuro.png" width="800" height="457" alt="「ザクロの伝説」詳細"><noscript><img src="../img/kizinai_zakuro.png" alt="「ザクロの伝説」詳細"></noscript></div>
+<div class="linkcard-body">
+<p class="linkcard-title">「ザクロの伝説」詳細</p>
+<p class="linkcard-excerpt">ザクロは冥界と豊穣を結びつける果実で、ペルセポネーの神話において重要な役割を果たしました。その赤い実は生と死、季節の循環を象徴しています。このページでは、ギリシャ神話におけるザクロの象徴や死生観を理解する上で役立つこのテーマについて、がっつり深掘りしていきます！</p>
+</div>
+</a>
+</div>
+<p><br></p>
+<h4 id="i28" class="topic topic-04 topic-clGD">暴食の光と影</h4>
+<p><b>デメテル</b>の与える実りは、本来ありがたいもの。命を育む力そのものでした。<br>でも、それを食べすぎたり、感謝もせずにむさぼるようになったとき、「暴食」という影が顔を出すんです。<br><span class="mky_red">暴食っていうのは、恵みそのものじゃなくて、「ありがたい」という気持ちを忘れた心が生み出すゆがみ</span>だったんですね。</p>
+<p><br></p>
+<div class="accept"><p>つまりデメテルは、豊穣と暴食の両面を併せ持ち、人間の食欲の本質を映していたのです。</p></div>
+<p><br></p>
+<div class="user2"><b>ハデス</b>の強欲も、<b>デメテル</b>の暴食も、人の心に潜む果てしない欲望を語っているのね。欲望は時に破滅を招き、時に生を支える力にもなるのだわ。<strong>七つの大罪をギリシャ神話に重ね合わせると、人間の欲望がそのまま神々の姿に映し出されている物語だとわかる</strong>というわけ。</div>
+<p><br></p>
+<div id="relNavigate">
+<a class="relNavigate-prev" href="../cate_characteristics/">
+<div class="relNavigate-thumb"><img class="lazyload" data-src="../img/0_zeusu_hera_io.jpg" width="960" height="670" alt="" /><noscript><img src="../img/0_zeusu_hera_io.jpg" alt="" /></noscript></div>
+<div class="relNavigate-body">
+<i class="relNavigate-caption">前のページ</i>
+<div class="relNavigate-title">神話の特徴</div>
+</div>
+</a>
+<a class="relNavigate-next" href="../cate_characteristics/entry129.html">
+<div class="relNavigate-thumb"><img class="lazyload" data-src="../img/kizinai_eziputosinnwa.png" width="640" height="367" alt="" /><noscript><img src="../img/kizinai_eziputosinnwa.png" alt="" /></noscript></div>
+<div class="relNavigate-body">
+<i class="relNavigate-caption">次のページ</i>
+<div class="relNavigate-title">ギリシャ神話とエジプト神話の違い</div>
+</div>
+</a>
+</div>
+</div>
+</section>
+<div class="mainbox"><div id="space2" class="freespace">
+<div class="space-box">
+<div class="space-body"><center>
+<table style="border-style: none;" border="1">
+<tbody>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+<td style="border-style: none;">
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ブラウン＿300 x 250 レクタングル -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="5721189690"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</div>
+</div>
+</div></div>
+</main>
+<div id="main-footer">
+<div class="mainbox">
+<div class="snsbox">
+<div class="sns-title">この記事をシェアする</div>
+<ul class="snslist">
+<li><a href="https://www.facebook.com/share.php?u=https%3a%2f%2fgreekmythology.europa-japan.com%2fcate_characteristics%2fentry128.html" rel="nofollow noopener" target="_blank" class="snsicon-facebook"></a></li>
+<li><a href="https://twitter.com/share?url=https%3a%2f%2fgreekmythology.europa-japan.com%2fcate_characteristics%2fentry128.html&text=%e3%80%8c%e4%b8%83%e3%81%a4%e3%81%ae%e5%a4%a7%e7%bd%aa%e3%80%8d%e3%82%92%e3%82%ae%e3%83%aa%e3%82%b7%e3%83%a3%e7%a5%9e%e8%a9%b1%e3%81%ae%e7%a5%9e%e3%80%85%e3%81%ab%e5%bd%93%e3%81%a6%e3%81%af%e3%82%81%e3%81%a6%e3%81%bf%e3%81%9f" rel="nofollow noopener" target="_blank" class="snsicon-twitter"></a></li>
+<li><a href="https://line.me/R/msg/text/?https%3a%2f%2fgreekmythology.europa-japan.com%2fcate_characteristics%2fentry128.html" rel="nofollow noopener" target="_blank" class="snsicon-line"></a></li>
+<li><a href="https://b.hatena.ne.jp/add?url=https%3a%2f%2fgreekmythology.europa-japan.com%2fcate_characteristics%2fentry128.html&title=%e3%80%8c%e4%b8%83%e3%81%a4%e3%81%ae%e5%a4%a7%e7%bd%aa%e3%80%8d%e3%82%92%e3%82%ae%e3%83%aa%e3%82%b7%e3%83%a3%e7%a5%9e%e8%a9%b1%e3%81%ae%e7%a5%9e%e3%80%85%e3%81%ab%e5%bd%93%e3%81%a6%e3%81%af%e3%82%81%e3%81%a6%e3%81%bf%e3%81%9f" rel="nofollow noopener" target="_blank" class="snsicon-hatena"></a></li>
+</ul>
+</div>
+</div>
+<div id="entrylist">
+<div class="entrylist-title"><h3>関連ページ</h3></div>
+<ul class="entrylist_ul">
+<li>
+<article class="article">
+<div class="article-inner">
+<div class="article-thumb"><a href="../cate_characteristics/entry129.html"><img class="lazyload" data-src="../img/kizinai_eziputosinnwa.png" width="640" height="367" alt="" /><noscript><img src="../img/kizinai_eziputosinnwa.png" alt="" /></noscript></a>
+</div>
+<div class="article-body">
+<div class="article-title"><a href="../cate_characteristics/entry129.html">ギリシャ神話とエジプト神話の違い</a></div>
+<div class="article-desc">ギリシャ神話とエジプト神話は、ともに多神教的ですが、神々の役割や世界観の表現に大きな違いがあります。エジプト神話は死後の世界や永遠性を重視し、ギリシャ神話は人間的な神々の物語性に重点が置かれました。このページでは、両神話の宗教観や文化的背景、神々の描写を理解する上で役立つこのテーマについて、がっつり深掘りしていきます！</div>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="article">
+<div class="article-inner">
+<div class="article-thumb"><a href="../cate_characteristics/entry130.html"><img class="lazyload" data-src="../img/0_kirisutokyou_sannmiittai.jpg" width="500" height="619" alt="ギリシャ神話とキリスト教の違い" /><noscript><img src="../img/0_kirisutokyou_sannmiittai.jpg" alt="ギリシャ神話とキリスト教の違い" /></noscript></a>
+</div>
+<div class="article-body">
+<div class="article-title"><a href="../cate_characteristics/entry130.html">ギリシャ神話とキリスト教の違い</a></div>
+<div class="article-desc">キリスト教は唯一神信仰であるのに対し、ギリシャ神話は多神教であり、神々が人間のように振る舞う点が大きな違いです。倫理観や救済観も異なり、キリスト教が絶対的な善悪を強調するのに対し、ギリシャ神話は曖昧さを含んだ物語が多いのです。このページでは、信仰体系や価値観の違い、文化的影響を理解する上で役立つこのテーマについて、がっつり深掘りしていきます！</div>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="article">
+<div class="article-inner">
+<div class="article-thumb"><a href="../cate_characteristics/entry131.html"><img class="lazyload" data-src="../img/0_kerutosinnwa_megami_mahha_arusuta-.jpg" width="400" height="588" alt="" /><noscript><img src="../img/0_kerutosinnwa_megami_mahha_arusuta-.jpg" alt="" /></noscript></a>
+</div>
+<div class="article-body">
+<div class="article-title"><a href="../cate_characteristics/entry131.html">ギリシャ神話とケルト神話の違い</a></div>
+<div class="article-desc">ケルト神話は自然や妖精的存在との関わりを強く持つ一方、ギリシャ神話は神々と人間の関係や英雄の冒険に焦点が当てられています。両者は神話の舞台や物語構造にも大きな違いが見られます。このページでは、神々の性質や物語のテーマ、文化圏ごとの特徴を理解する上で役立つこのテーマについて、がっつり深掘りしていきます！</div>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="article">
+<div class="article-inner">
+<div class="article-thumb"><a href="../cate_characteristics/entry132.html"><img class="lazyload" data-src="../img/0_zoroasuta-kyou_sinnboru_hularavaharu.jpg" width="960" height="720" alt="" /><noscript><img src="../img/0_zoroasuta-kyou_sinnboru_hularavaharu.jpg" alt="" /></noscript></a>
+</div>
+<div class="article-body">
+<div class="article-title"><a href="../cate_characteristics/entry132.html">ギリシャ神話とゾロアスター教の違い</a></div>
+<div class="article-desc">ゾロアスター教は善悪二元論を軸にした一神教的な要素を持つのに対し、ギリシャ神話は多神教で善悪が相対的に描かれています。宇宙観や神々の役割分担にも大きな違いが存在します。このページでは、宗教思想や倫理観、世界観の相違を理解する上で役立つこのテーマについて、がっつり深掘りしていきます！</div>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="article">
+<div class="article-inner">
+<div class="article-thumb"><a href="../cate_characteristics/entry133.html"><img class="lazyload" data-src="../img/0_ro-masinnwa_zyupita-_tetelisu.jpg" width="500" height="636" alt="" /><noscript><img src="../img/0_ro-masinnwa_zyupita-_tetelisu.jpg" alt="" /></noscript></a>
+</div>
+<div class="article-body">
+<div class="article-title"><a href="../cate_characteristics/entry133.html">ギリシャ神話とローマ神話の違い</a></div>
+<div class="article-desc">ローマ神話はギリシャ神話を多く取り入れつつも、実用的で国家的な色彩が強いのが特徴です。神々の名前も異なり、ゼウスがユピテル、アフロディーテがウェヌスといった形で変化しています。このページでは、両神話の共通点と相違点、文化的発展の違いを理解する上で役立つこのテーマについて、がっつり深掘りしていきます！</div>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="article">
+<div class="article-inner">
+<div class="article-thumb"><a href="../cate_characteristics/entry134.html"><img class="lazyload" data-src="../img/kizinai_hokuousinnwa_o-delinn.png" width="595" height="401" alt="" /><noscript><img src="../img/kizinai_hokuousinnwa_o-delinn.png" alt="" /></noscript></a>
+</div>
+<div class="article-body">
+<div class="article-title"><a href="../cate_characteristics/entry134.html">ギリシャ神話と北欧神話の違い</a></div>
+<div class="article-desc">北欧神話は終末思想や戦闘の世界観を強調し、ギリシャ神話は秩序や調和を重んじる傾向があります。神々の性格や物語の展開にも大きな差異が見られます。このページでは、神話のテーマや英雄像、世界観の比較を理解する上で役立つこのテーマについて、がっつり深掘りしていきます！</div>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="article">
+<div class="article-inner">
+<div class="article-thumb"><a href="../cate_characteristics/entry135.html"><img class="lazyload" data-src="../img/kizinai_koziki_yamato_takeru_by_takahashi_yuichi.png" width="481" height="599" alt="" /><noscript><img src="../img/kizinai_koziki_yamato_takeru_by_takahashi_yuichi.png" alt="" /></noscript></a>
+</div>
+<div class="article-body">
+<div class="article-title"><a href="../cate_characteristics/entry135.html">ギリシャ神話と古事記の違い</a></div>
+<div class="article-desc">『古事記』は日本神話をまとめた歴史的記録であり、神話が国家の正統性を示す役割を持ちました。一方でギリシャ神話は物語や芸術としての発展が強く、歴史的記録よりも伝承に重きが置かれています。このページでは、記録性と物語性、神話の社会的役割を理解する上で役立つこのテーマについて、がっつり深掘りしていきます！</div>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="article">
+<div class="article-inner">
+<div class="article-thumb"><a href="../cate_characteristics/entry136.html"><img class="lazyload" data-src="../img/kizinai_nihonnsinnwa_izanami_izanagi_japanese_islands.png" width="593" height="600" alt="" /><noscript><img src="../img/kizinai_nihonnsinnwa_izanami_izanagi_japanese_islands.png" alt="" /></noscript></a>
+</div>
+<div class="article-body">
+<div class="article-title"><a href="../cate_characteristics/entry136.html">ギリシャ神話と日本神話の違い</a></div>
+<div class="article-desc">日本神話は自然との結びつきが強く、農耕や天皇の起源を説明する要素を含んでいます。対してギリシャ神話は都市国家の文化や哲学に直結し、人間的な神々を通じて世界を解釈しました。このページでは、両者の神々の特徴や社会との関わり、文化的背景を理解する上で役立つこのテーマについて、がっつり深掘りしていきます！</div>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="article">
+<div class="article-inner">
+<div class="article-thumb"><a href="../cate_characteristics/entry137.html"><img class="lazyload" data-src="../img/0_kyuuyakuseisyo_yahaule_zikkai.jpg" width="960" height="791" alt="" /><noscript><img src="../img/0_kyuuyakuseisyo_yahaule_zikkai.jpg" alt="" /></noscript></a>
+</div>
+<div class="article-body">
+<div class="article-title"><a href="../cate_characteristics/entry137.html">ギリシャ神話と旧約聖書の違い</a></div>
+<div class="article-desc">旧約聖書は唯一神による創世と契約を中心に据えるのに対し、ギリシャ神話は多神的で神々の相互関係や葛藤を物語ります。世界観や倫理観、歴史観において大きな相違があります。このページでは、一神教と多神教の違いや人間観、文化的影響を理解する上で役立つこのテーマについて、がっつり深掘りしていきます！</div>
+</div>
+</div>
+</article>
+</li>
+</ul>
+</div>
+</div>
+<aside id="menu">
+<nav class="menuboxlist">
+<div class="menubox">
+<div class="title"><span class="menu-icon"><img class="lazyload" data-src="../img/icon_favorite_multi.png" width="240" height="240" alt="" /><noscript><img src="../img/icon_favorite_multi.png" alt="" /></noscript></span><span>ギリシャ神話の基本</span></div>
+<div class="menulist"><ul class="sitemenu">
+<li class="haschild"><a href="../cate_introduction/"><span>神話の基礎</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_introduction/entry154.html"><span>神話成立の時代背景</span></a></li>
+<li><a href="../cate_introduction/entry149.html"><span>神話のルーツ</span></a></li>
+<li><a href="../cate_introduction/entry145.html"><span>神話は本当にあったのか</span></a></li>
+<li><a href="../cate_introduction/entry150.html"><span>神話が大人向けな理由</span></a></li>
+<li><a href="../cate_introduction/entry153.html"><span>神話で出てくる神の人数</span></a></li>
+<li><a href="../cate_introduction/entry158.html"><span>神話信仰の現在</span></a></li>
+<li><a href="../cate_introduction/entry143.html"><span>神話が難しい理由</span></a></li>
+<li><a href="../cate_introduction/entry144.html"><span>神話は「宗教」なのか</span></a></li>
+<li><a href="../cate_introduction/entry308.html"><span>神話の神々の別名について</span></a></li>
+<li><a href="../cate_introduction/entry146.html"><span>神話を作った人とは</span></a></li>
+<li><a href="../cate_introduction/entry147.html"><span>神話で近親婚が多い理由</span></a></li>
+<li><a href="../cate_introduction/entry148.html"><span>神話における「電気」とは</span></a></li>
+<li><a href="../cate_introduction/entry151.html"><span>神話が現代に与えた影響</span></a></li>
+<li><a href="../cate_introduction/entry155.html"><span>神話と実話の接点とは</span></a></li>
+<li><a href="../cate_introduction/entry157.html"><span>神話キャラで強いのは誰か</span></a></li>
+<li><a href="../cate_introduction/entry159.html"><span>神話に由来する言葉とは</span></a></li>
+</ul>
+</li>
+<li class="haschild"><a href="../cate_characteristics/"><span>神話の特徴</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_characteristics/entry128.html"><span>ギリシャ神話と七つの大罪の対比</span></a></li>
+<li><a href="../cate_characteristics/entry129.html"><span>ギリシャ神話とエジプト神話の違い</span></a></li>
+<li><a href="../cate_characteristics/entry130.html"><span>ギリシャ神話とキリスト教の違い</span></a></li>
+<li><a href="../cate_characteristics/entry131.html"><span>ギリシャ神話とケルト神話の違い</span></a></li>
+<li><a href="../cate_characteristics/entry132.html"><span>ギリシャ神話とゾロアスター教の違い</span></a></li>
+<li><a href="../cate_characteristics/entry133.html"><span>ギリシャ神話とローマ神話の違い</span></a></li>
+<li><a href="../cate_characteristics/entry134.html"><span>ギリシャ神話と北欧神話の違い</span></a></li>
+<li><a href="../cate_characteristics/entry135.html"><span>ギリシャ神話と古事記の違い</span></a></li>
+<li><a href="../cate_characteristics/entry136.html"><span>ギリシャ神話と日本神話の違い</span></a></li>
+<li><a href="../cate_characteristics/entry137.html"><span>ギリシャ神話と旧約聖書の違い</span></a></li>
+</ul>
+</li>
+<li class="haschild"><a href="../cate_events/"><span>神話の出来事</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_events/entry325.html"><span>ギリシャ神話の冒険譚</span></a></li>
+<li><a href="../cate_events/entry326.html"><span>ギリシャ神話の戦争</span></a></li>
+<li><a href="../cate_events/entry312.html"><span>ギリシャ神話版「ラグナロク」とは</span></a></li>
+<li><a href="../cate_events/entry313.html"><span>「7将によるテーバイ攻め」伝説とは</span></a></li>
+<li><a href="../cate_events/entry314.html"><span>「アルゴー船の冒険」伝説とは</span></a></li>
+<li><a href="../cate_events/entry315.html"><span>「カリュドーンの猪狩り」伝説とは</span></a></li>
+<li><a href="../cate_events/entry316.html"><span>「ギガントマキア」伝説とは</span></a></li>
+<li><a href="../cate_events/entry317.html"><span>「ティタノマキア」伝説とは</span></a></li>
+<li><a href="../cate_events/entry318.html"><span>「トロイア戦争」伝説とは</span></a></li>
+<li><a href="../cate_events/entry319.html"><span>「パリスの審判」伝説とは</span></a></li>
+<li><a href="../cate_events/entry320.html"><span>「プロメテウスの火盗み」伝説とは</span></a></li>
+<li><a href="../cate_events/entry321.html"><span>「ヘラクレイダイの帰還」伝説とは</span></a></li>
+<li><a href="../cate_events/entry322.html"><span>「ヘラクレスの12の功業」伝説とは</span></a></li>
+<li><a href="../cate_events/entry323.html"><span>「ペルセウスのメデューサ討伐」伝説とは</span></a></li>
+<li><a href="../cate_events/entry324.html"><span>「不和の林檎」伝説とは</span></a></li>
+</ul>
+</li>
+<li class="haschild"><a href="../cate_episodes/"><span>神話のエピソード</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_episodes/entry278.html"><span>神話の始まり方</span></a></li>
+<li><a href="../cate_episodes/entry275.html"><span>神話の面白いエピソード</span></a></li>
+<li><a href="../cate_episodes/entry271.html"><span>神話の「クズ」エピソード</span></a></li>
+<li><a href="../cate_episodes/entry272.html"><span>神話の「悲劇」エピソード</span></a></li>
+<li><a href="../cate_episodes/entry274.html"><span>神話の残酷な「罰」エピソード</span></a></li>
+<li><a href="../cate_episodes/entry277.html"><span>神話の「卵」に関するエピソード</span></a></li>
+<li><a href="../cate_episodes/entry279.html"><span>神話の「頭痛」エピソード</span></a></li>
+<li><a href="../cate_episodes/entry276.html"><span>神話の「トロイの木馬」エピソード</span></a></li>
+<li><a href="../cate_episodes/entry280.html"><span>ゼウスのエピソード</span></a></li>
+<li><a href="../cate_episodes/entry270.html"><span>アルテミスのエピソード</span></a></li>
+<li><a href="../cate_episodes/entry269.html"><span>アフロディテのエピソード</span></a></li>
+<li><a href="../cate_episodes/entry281.html"><span>ニケのエピソード</span></a></li>
+<li><a href="../cate_episodes/entry282.html"><span>ハデスのエピソード</span></a></li>
+<li><a href="../cate_episodes/entry283.html"><span>ヘラクレスのエピソード</span></a></li>
+<li><a href="../cate_episodes/entry284.html"><span>ヘルメスのエピソード</span></a></li>
+<li><a href="../cate_episodes/entry285.html"><span>ペネロペのエピソード</span></a></li>
+<li><a href="../cate_episodes/entry286.html"><span>ポセイドンのエピソード</span></a></li>
+<li><a href="../cate_episodes/entry287.html"><span>ミノタウロスのエピソード</span></a></li>
+</ul>
+</li>
+</ul></div>
+</div>
+<div class="menubox">
+<div class="title"><span class="menu-icon"><img class="lazyload" data-src="../img/icon_favorite_multi.png" width="240" height="240" alt="" /><noscript><img src="../img/icon_favorite_multi.png" alt="" /></noscript></span><span>ギリシャ神話のキャラ</span></div>
+<div class="menulist"><ul class="sitemenu">
+<li class="haschild"><a href="../cate_characters/"><span>神話のキャラ分類</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_characters/entry310.html"><span>神話の美少年（美男子）</span></a></li>
+<li><a href="../cate_characters/entry311.html"><span>神話に「女性の英雄」はいるのか</span></a></li>
+<li><a href="../cate_characters/entry288.html"><span>神話の「暴食」キャラとは</span></a></li>
+<li><a href="../cate_characters/entry289.html"><span>神話の「ワルキューレ」的キャラとは</span></a></li>
+<li><a href="../cate_characters/entry290.html"><span>神話の「堕天使」キャラとは</span></a></li>
+<li><a href="../cate_characters/entry292.html"><span>神話の「悪魔」的キャラとは</span></a></li>
+<li><a href="../cate_characters/entry293.html"><span>神話の「魔女」的キャラとは</span></a></li>
+<li><a href="../cate_characters/entry294.html"><span>神話の「魔物」キャラとは</span></a></li>
+<li><a href="../cate_characters/entry298.html"><span>神話の「天使」的キャラとは</span></a></li>
+<li><a href="../cate_characters/entry296.html"><span>神話の半人半獣キャラとは</span></a></li>
+<li><a href="../cate_characters/entry297.html"><span>神話の双子キャラとは</span></a></li>
+<li><a href="../cate_characters/entry299.html"><span>神話の巨人キャラとは</span></a></li>
+<li><a href="../cate_characters/entry301.html"><span>神話の神々の「敵」とは</span></a></li>
+<li><a href="../cate_characters/entry302.html"><span>神話のドラゴン（竜）キャラとは</span></a></li>
+<li><a href="../cate_characters/entry303.html"><span>神話の「人間」とは</span></a></li>
+<li><a href="../cate_characters/entry309.html"><span>神話の「人間の美女」とは</span></a></li>
+<li><a href="../cate_characters/entry304.html"><span>神話の「ペット」キャラとは</span></a></li>
+<li><a href="../cate_characters/entry306.html"><span>神話の吟遊詩人とは</span></a></li>
+</ul>
+</li>
+<li class="haschild"><a href="../cate_types_of_gods/"><span>神話の神々</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_types_of_gods/entry305.html"><span>神話の「最高神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry291.html"><span>神話の「悪い神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry13.html"><span>神話の「チャンスの神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry14.html"><span>神話の「ワインの神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry15.html"><span>神話の「伝令の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry16.html"><span>神話の「優しい神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry17.html"><span>神話の「光の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry18.html"><span>神話の「冬の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry19.html"><span>神話の「剣の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry20.html"><span>神話の「創造の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry22.html"><span>神話の「力の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry23.html"><span>神話の「勝利の女神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry24.html"><span>神話の「医療の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry25.html"><span>神話の「原初の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry26.html"><span>神話の「呪いの神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry27.html"><span>神話の「土の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry28.html"><span>神話の「地の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry29.html"><span>神話の「地獄の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry30.html"><span>神話の「夜の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry31.html"><span>神話の「夢の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry32.html"><span>神話の「大地の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry33.html"><span>神話の「天空の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry34.html"><span>神話の「太陽の女神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry35.html"><span>神話の「太陽神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry36.html"><span>神話の「始まりの神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry37.html"><span>神話の「学問の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry38.html"><span>神話の「守りの神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry40.html"><span>神話の「山の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry41.html"><span>神話の「川の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry42.html"><span>神話の「強い神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry43.html"><span>神話の「復讐の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry44.html"><span>神話の「恋愛の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry46.html"><span>神話の「戦いの神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry48.html"><span>神話の「料理の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry49.html"><span>神話の「星の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry50.html"><span>神話の「時間の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry51.html"><span>神話の「最初の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry52.html"><span>神話の「月の女神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry54.html"><span>神話の「木の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry55.html"><span>神話の「森の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry56.html"><span>神話の「正義の女神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry57.html"><span>神話の「死の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry58.html"><span>神話の「毒の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry59.html"><span>神話の「氷の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry60.html"><span>神話の「海の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry61.html"><span>神話の「火の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry63.html"><span>神話の「牧神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry64.html"><span>神話の「猫の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry65.html"><span>神話の「眠りの神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry66.html"><span>神話の「知恵の神・女神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry68.html"><span>神話の「破壊の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry70.html"><span>神話の「美しい神・女神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry73.html"><span>神話の「翼を持つ女神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry74.html"><span>神話の「花の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry75.html"><span>神話の「芸術の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry76.html"><span>神話の「薬の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry77.html"><span>神話の「虹の女神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry78.html"><span>神話の「軍神（武神）」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry79.html"><span>神話の「農耕の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry80.html"><span>神話の「運命の女神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry81.html"><span>神話の「酒の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry82.html"><span>神話の「闇の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry83.html"><span>神話の「雷神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry84.html"><span>神話の「風の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry85.html"><span>神話の「馬の神」とは</span></a></li>
+<li><a href="../cate_types_of_gods/entry86.html"><span>神話の「鳥の神」とは</span></a></li>
+</ul>
+</li>
+<li class="haschild"><a href="../cate_personality/"><span>神話キャラの性格</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_personality/entry180.html"><span>アキレウスの性格</span></a></li>
+<li><a href="../cate_personality/entry181.html"><span>アテナの性格</span></a></li>
+<li><a href="../cate_personality/entry182.html"><span>アフロディテの性格</span></a></li>
+<li><a href="../cate_personality/entry183.html"><span>アポロンの性格</span></a></li>
+<li><a href="../cate_personality/entry184.html"><span>アルテミスの性格</span></a></li>
+<li><a href="../cate_personality/entry185.html"><span>アレスの性格</span></a></li>
+<li><a href="../cate_personality/entry186.html"><span>イカロスの性格</span></a></li>
+<li><a href="../cate_personality/entry187.html"><span>イリスの性格</span></a></li>
+<li><a href="../cate_personality/entry188.html"><span>ウラノスの性格</span></a></li>
+<li><a href="../cate_personality/entry189.html"><span>オリオンの性格</span></a></li>
+<li><a href="../cate_personality/entry190.html"><span>オルフェウスの性格</span></a></li>
+<li><a href="../cate_personality/entry192.html"><span>ガイアの性格</span></a></li>
+<li><a href="../cate_personality/entry193.html"><span>クロノスの性格</span></a></li>
+<li><a href="../cate_personality/entry194.html"><span>グリフォンの性格</span></a></li>
+<li><a href="../cate_personality/entry195.html"><span>ケルベロスの性格</span></a></li>
+<li><a href="../cate_personality/entry196.html"><span>サテュロスの性格</span></a></li>
+<li><a href="../cate_personality/entry197.html"><span>スフィンクスの性格</span></a></li>
+<li><a href="../cate_personality/entry198.html"><span>セイレーンの性格</span></a></li>
+<li><a href="../cate_personality/entry199.html"><span>タルタロスの性格</span></a></li>
+<li><a href="../cate_personality/entry200.html"><span>テセウスの性格</span></a></li>
+<li><a href="../cate_personality/entry201.html"><span>ディオニュソスの性格</span></a></li>
+<li><a href="../cate_personality/entry202.html"><span>ナルキッソスの性格</span></a></li>
+<li><a href="../cate_personality/entry203.html"><span>ニュクスの性格</span></a></li>
+<li><a href="../cate_personality/entry204.html"><span>ネメシスの性格</span></a></li>
+<li><a href="../cate_personality/entry205.html"><span>ハデスの性格</span></a></li>
+<li><a href="../cate_personality/entry206.html"><span>パリスの性格</span></a></li>
+<li><a href="../cate_personality/entry207.html"><span>ヒュアキントスの性格</span></a></li>
+<li><a href="../cate_personality/entry208.html"><span>ヘスティアの性格</span></a></li>
+<li><a href="../cate_personality/entry209.html"><span>ヘパイストスの性格</span></a></li>
+<li><a href="../cate_personality/entry210.html"><span>ヘラクレスの性格</span></a></li>
+<li><a href="../cate_personality/entry211.html"><span>ヘリオスの性格</span></a></li>
+<li><a href="../cate_personality/entry212.html"><span>ヘルメスの性格</span></a></li>
+<li><a href="../cate_personality/entry213.html"><span>ペガサスの性格</span></a></li>
+<li><a href="../cate_personality/entry214.html"><span>ペルセウスの性格</span></a></li>
+<li><a href="../cate_personality/entry215.html"><span>メドゥーサの性格</span></a></li>
+</ul>
+</li>
+<li class="haschild"><a href="../cate_abilities/"><span>神話キャラの能力</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_abilities/entry216.html"><span>アキレウスの能力</span></a></li>
+<li><a href="../cate_abilities/entry217.html"><span>アテナの能力</span></a></li>
+<li><a href="../cate_abilities/entry218.html"><span>アフロディテの能力</span></a></li>
+<li><a href="../cate_abilities/entry219.html"><span>アポロンの能力</span></a></li>
+<li><a href="../cate_abilities/entry220.html"><span>アルテミスの能力</span></a></li>
+<li><a href="../cate_abilities/entry221.html"><span>アレスの能力</span></a></li>
+<li><a href="../cate_abilities/entry222.html"><span>イリスの能力</span></a></li>
+<li><a href="../cate_abilities/entry223.html"><span>ウラノスの能力</span></a></li>
+<li><a href="../cate_abilities/entry224.html"><span>オリオンの能力</span></a></li>
+<li><a href="../cate_abilities/entry225.html"><span>ガイアの能力</span></a></li>
+<li><a href="../cate_abilities/entry226.html"><span>クロノスの能力</span></a></li>
+<li><a href="../cate_abilities/entry228.html"><span>グリフォンの能力</span></a></li>
+<li><a href="../cate_abilities/entry229.html"><span>ケルベロスの能力</span></a></li>
+<li><a href="../cate_abilities/entry231.html"><span>スキュラの能力</span></a></li>
+<li><a href="../cate_abilities/entry232.html"><span>スフィンクスの能力</span></a></li>
+<li><a href="../cate_abilities/entry233.html"><span>セイレーンの能力</span></a></li>
+<li><a href="../cate_abilities/entry234.html"><span>ゼウスの能力</span></a></li>
+<li><a href="../cate_abilities/entry235.html"><span>タルタロスの能力</span></a></li>
+<li><a href="../cate_abilities/entry236.html"><span>テュポーンの能力</span></a></li>
+<li><a href="../cate_abilities/entry237.html"><span>デメテルの能力</span></a></li>
+<li><a href="../cate_abilities/entry238.html"><span>ディオニュソスの能力</span></a></li>
+<li><a href="../cate_abilities/entry239.html"><span>ナルキッソスの能力</span></a></li>
+<li><a href="../cate_abilities/entry240.html"><span>ニュクスの能力</span></a></li>
+<li><a href="../cate_abilities/entry241.html"><span>ハデスの能力</span></a></li>
+<li><a href="../cate_abilities/entry242.html"><span>パリスの能力</span></a></li>
+<li><a href="../cate_abilities/entry243.html"><span>ヒュドラの能力</span></a></li>
+<li><a href="../cate_abilities/entry244.html"><span>ヒュプノスの能力</span></a></li>
+<li><a href="../cate_abilities/entry245.html"><span>ピグマリオンの能力</span></a></li>
+<li><a href="../cate_abilities/entry246.html"><span>ヘパイストスの能力</span></a></li>
+<li><a href="../cate_abilities/entry247.html"><span>ヘラの能力</span></a></li>
+<li><a href="../cate_abilities/entry249.html"><span>ヘラクレスの能力</span></a></li>
+<li><a href="../cate_abilities/entry250.html"><span>ヘリオスの能力</span></a></li>
+<li><a href="../cate_abilities/entry251.html"><span>ヘルメスの能力</span></a></li>
+<li><a href="../cate_abilities/entry252.html"><span>ヘレネの能力</span></a></li>
+<li><a href="../cate_abilities/entry253.html"><span>ペガサスの能力</span></a></li>
+<li><a href="../cate_abilities/entry254.html"><span>ペルセウスの能力</span></a></li>
+<li><a href="../cate_abilities/entry255.html"><span>ポセイドンの能力</span></a></li>
+<li><a href="../cate_abilities/entry256.html"><span>ミノタウロスの能力</span></a></li>
+<li><a href="../cate_abilities/entry257.html"><span>メドゥーサの能力</span></a></li>
+<li><a href="../cate_abilities/entry260.html"><span>ラミアの能力</span></a></li>
+</ul>
+</li>
+</ul></div>
+</div>
+<div class="menubox">
+<div class="title"><span class="menu-icon"><img class="lazyload" data-src="../img/icon_favorite_multi.png" width="240" height="240" alt="" /><noscript><img src="../img/icon_favorite_multi.png" alt="" /></noscript></span><span>ギリシャ神話の文化</span></div>
+<div class="menulist"><ul class="sitemenu">
+<li class="haschild"><a href="../cate_animals/"><span>神話の重要生物</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_animals/entry121.html"><span>事象を象徴する神話生物</span></a></li>
+<li><a href="../cate_animals/entry98.html"><span>神話の「うさぎ」伝説</span></a></li>
+<li><a href="../cate_animals/entry99.html"><span>神話の「クジラ」伝説</span></a></li>
+<li><a href="../cate_animals/entry100.html"><span>神話の「サメ」伝説</span></a></li>
+<li><a href="../cate_animals/entry101.html"><span>神話の「フクロウ」伝説</span></a></li>
+<li><a href="../cate_animals/entry102.html"><span>神話の「ムカデ」伝説</span></a></li>
+<li><a href="../cate_animals/entry103.html"><span>神話の「ヤギ」伝説</span></a></li>
+<li><a href="../cate_animals/entry104.html"><span>神話の「ライオン」伝説</span></a></li>
+<li><a href="../cate_animals/entry105.html"><span>神話の「孔雀」伝説</span></a></li>
+<li><a href="../cate_animals/entry106.html"><span>神話の「牛」伝説</span></a></li>
+<li><a href="../cate_animals/entry107.html"><span>神話の「犬」伝説</span></a></li>
+<li><a href="../cate_animals/entry108.html"><span>神話の「狐」伝説</span></a></li>
+<li><a href="../cate_animals/entry109.html"><span>神話の「狼」伝説</span></a></li>
+<li><a href="../cate_animals/entry110.html"><span>神話の「猫」伝説</span></a></li>
+<li><a href="../cate_animals/entry111.html"><span>神話の「白鳥」伝説</span></a></li>
+<li><a href="../cate_animals/entry112.html"><span>神話の「虫」伝説</span></a></li>
+<li><a href="../cate_animals/entry113.html"><span>神話の「蛇」伝説</span></a></li>
+<li><a href="../cate_animals/entry114.html"><span>神話の「蜘蛛」伝説</span></a></li>
+<li><a href="../cate_animals/entry115.html"><span>神話の「蝶」伝説</span></a></li>
+<li><a href="../cate_animals/entry116.html"><span>神話の「豚」伝説</span></a></li>
+<li><a href="../cate_animals/entry117.html"><span>神話の「馬」伝説</span></a></li>
+<li><a href="../cate_animals/entry118.html"><span>神話の「鳩」伝説</span></a></li>
+<li><a href="../cate_animals/entry119.html"><span>神話の「鷲」伝説</span></a></li>
+<li><a href="../cate_animals/entry120.html"><span>神話の「鹿」伝説</span></a></li>
+</ul>
+</li>
+<li class="haschild"><a href="../cate_plants/"><span>神話の重要植物</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_plants/entry7.html"><span>神話の「果物」伝説</span></a></li>
+<li><a href="../cate_plants/entry4.html"><span>神話の「ぶどう」伝説</span></a></li>
+<li><a href="../cate_plants/entry5.html"><span>神話の「りんご」伝説</span></a></li>
+<li><a href="../cate_plants/entry6.html"><span>神話の「ザクロ」伝説</span></a></li>
+<li><a href="../cate_plants/entry8.html"><span>神話の「薔薇」伝説</span></a></li>
+</ul>
+</li>
+<li class="haschild"><a href="../cate_food/"><span>神話の重要食物</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_food/entry9.html"><span>神話の「パン」伝説</span></a></li>
+<li><a href="../cate_food/entry10.html"><span>神話の「ワイン」伝説</span></a></li>
+<li><a href="../cate_food/entry11.html"><span>神話の「蜂蜜」伝説</span></a></li>
+<li><a href="../cate_food/entry12.html"><span>神話の飲み物「ネクタル」伝説</span></a></li>
+</ul>
+</li>
+<li class="haschild"><a href="../cate_tools/"><span>神話に登場する道具</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_tools/entry123.html"><span>神話の楽器にまつわる伝説</span></a></li>
+<li><a href="../cate_tools/entry122.html"><span>神話の「リラ」にまつわる伝説</span></a></li>
+<li><a href="../cate_tools/entry126.html"><span>神話の「靴」にまつわる伝説</span></a></li>
+<li><a href="../cate_tools/entry127.html"><span>神話の「パンドラの箱」にまつわる伝説</span></a></li>
+</ul>
+</li>
+<li class="haschild"><a href="../cate_weapons_and_armor/"><span>神話に登場する武器</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_weapons_and_armor/entry142.html"><span>神話の武器にまつわる伝説</span></a></li>
+<li><a href="../cate_weapons_and_armor/entry125.html"><span>神話の防具にまつわる伝説</span></a></li>
+<li><a href="../cate_weapons_and_armor/entry138.html"><span>神話の「弓矢」にまつわる伝説</span></a></li>
+<li><a href="../cate_weapons_and_armor/entry139.html"><span>神話の「斧」にまつわる伝説</span></a></li>
+<li><a href="../cate_weapons_and_armor/entry140.html"><span>神話の「槍」にまつわる伝説</span></a></li>
+<li><a href="../cate_weapons_and_armor/entry141.html"><span>神話の「盾」にまつわる伝説</span></a></li>
+</ul>
+</li>
+<li class="haschild"><a href="../cate_vehicles/"><span>神話に登場する乗り物</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_vehicles/entry1.html"><span>神話の「戦車」にまつわる伝説</span></a></li>
+<li><a href="../cate_vehicles/entry2.html"><span>神話の「船」にまつわる伝説</span></a></li>
+<li><a href="../cate_vehicles/entry3.html"><span>神話の「馬車」にまつわる伝説</span></a></li>
+</ul>
+</li>
+</ul></div>
+</div>
+<div class="menubox">
+<div class="title"><span class="menu-icon"><img class="lazyload" data-src="../img/icon_favorite_multi.png" width="240" height="240" alt="" /><noscript><img src="../img/icon_favorite_multi.png" alt="" /></noscript></span><span>ギリシャ神話の地理</span></div>
+<div class="menulist"><ul class="sitemenu">
+<li class="haschild"><a href="../cate_geography/"><span>神話の重要な場所</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_geography/entry97.html"><span>神話の舞台の国とは</span></a></li>
+<li><a href="../cate_geography/entry94.html"><span>神話の「黄泉の国」とは</span></a></li>
+<li><a href="../cate_geography/entry95.html"><span>神話の「ラビリンス（迷宮）」とは</span></a></li>
+<li><a href="../cate_geography/entry96.html"><span>神話の忘却の河「レテ」とは</span></a></li>
+</ul>
+</li>
+<li class="haschild"><a href="../cate_temples/"><span>神話に由来する神殿</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_temples/entry91.html"><span>ゼウス神殿の由来</span></a></li>
+<li><a href="../cate_temples/entry93.html"><span>ヘラ神殿の由来</span></a></li>
+<li><a href="../cate_temples/entry88.html"><span>アポロン神殿の由来</span></a></li>
+<li><a href="../cate_temples/entry92.html"><span>パルテノン神殿の由来</span></a></li>
+<li><a href="../cate_temples/entry89.html"><span>アルテミス神殿の由来</span></a></li>
+<li><a href="../cate_temples/entry90.html"><span>エレクテイオンの由来</span></a></li>
+<li><a href="../cate_temples/entry87.html"><span>アスクレピオス神殿の由来</span></a></li>
+</ul>
+</li>
+<li class="haschild"><a href="../cate_constellations/"><span>神話に由来する星座</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_constellations/entry160.html"><span>神話と星座の関係</span></a></li>
+<li><a href="../cate_constellations/entry162.html"><span>神話にみる「おひつじ座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry161.html"><span>神話にみる「おうし座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry174.html"><span>神話にみる「双子座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry178.html"><span>神話にみる「獅子座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry173.html"><span>神話にみる「乙女座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry175.html"><span>神話にみる「天秤座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry163.html"><span>神話にみる「さそり座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry176.html"><span>神話にみる「射手座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry177.html"><span>神話にみる「山羊座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry165.html"><span>神話にみる「みずがめ座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry164.html"><span>神話にみる「へびつかい座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry179.html"><span>神話にみる「魚座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry166.html"><span>神話にみる「アンドロメダ座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry167.html"><span>神話にみる「オリオン座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry168.html"><span>神話にみる「カシオペヤ座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry169.html"><span>神話にみる「ケフェウス座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry172.html"><span>神話にみる「ペルセウス座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry170.html"><span>神話にみる「ケンタウルス座」の由来</span></a></li>
+<li><a href="../cate_constellations/entry171.html"><span>神話にみる「プレアデス星団」の由来</span></a></li>
+</ul>
+</li>
+<li class="haschild"><a href="../cate_planets/"><span>神話に由来する惑星</span></a>
+<ul class="sitemenu_ul child">
+<li><a href="../cate_planets/entry263.html"><span>各惑星の名前の由来</span></a></li>
+<li><a href="../cate_planets/entry265.html"><span>水星に宿るギリシャ神話</span></a></li>
+<li><a href="../cate_planets/entry268.html"><span>金星に宿るギリシャ神話</span></a></li>
+<li><a href="../cate_planets/entry267.html"><span>火星に宿るギリシャ神話</span></a></li>
+<li><a href="../cate_planets/entry264.html"><span>木星に宿るギリシャ神話</span></a></li>
+<li><a href="../cate_planets/entry261.html"><span>土星に宿るギリシャ神話</span></a></li>
+<li><a href="../cate_planets/entry262.html"><span>天王星に宿るギリシャ神話</span></a></li>
+<li><a href="../cate_planets/entry266.html"><span>海王星に宿るギリシャ神話</span></a></li>
+</ul>
+</li>
+</ul></div>
+</div>
+</nav>
+<div class="menubox"><div class="newentry-title"><h4>最新記事</h4></div>
+<ul class="newentry">
+<li>
+<article class="article">
+<div class="article-inner">
+<div class="article-thumb"><a href="../cate_events/entry326.html"><img class="lazyload" data-src="../img/kizinai_sennsou_telitanomakia_the_battle_between_the_gods_and_the_titans.png" width="783" height="600" alt="ギリシャ神話の戦争"><noscript><img src="../img/kizinai_sennsou_telitanomakia_the_battle_between_the_gods_and_the_titans.png" alt="ギリシャ神話の戦争"></noscript></a></div>
+<div class="article-body">
+<div class="article-title"><a href="../cate_events/entry326.html">ギリシャ神話の戦争</a></div>
+<div class="article-info"><time class="date" datetime="2024-11-12">2024/11/12</time><div class="cat"><a href="../cate_events/">神話の出来事</a></div></div>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="article">
+<div class="article-inner">
+<div class="article-thumb"><a href="../cate_events/entry325.html"><img class="lazyload" data-src="../img/kizinai_odelyusseusu_odysseus_and_polyphemus.png" width="800" height="346" alt="ギリシャ神話の冒険譚"><noscript><img src="../img/kizinai_odelyusseusu_odysseus_and_polyphemus.png" alt="ギリシャ神話の冒険譚"></noscript></a></div>
+<div class="article-body">
+<div class="article-title"><a href="../cate_events/entry325.html">ギリシャ神話の冒険譚</a></div>
+<div class="article-info"><time class="date" datetime="2024-11-12">2024/11/12</time><div class="cat"><a href="../cate_events/">神話の出来事</a></div></div>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="article">
+<div class="article-inner">
+<div class="article-thumb"><a href="../cate_events/entry324.html"><img class="lazyload" data-src="../img/0_parisunosinnpann_erisu_rinngo_heraatenaahurodelite.jpg" width="960" height="609" alt="「不和の林檎」伝説とは"><noscript><img src="../img/0_parisunosinnpann_erisu_rinngo_heraatenaahurodelite.jpg" alt="「不和の林檎」伝説とは"></noscript></a></div>
+<div class="article-body">
+<div class="article-title"><a href="../cate_events/entry324.html">「不和の林檎」伝説とは</a></div>
+<div class="article-info"><time class="date" datetime="2024-11-12">2024/11/12</time><div class="cat"><a href="../cate_events/">神話の出来事</a></div></div>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="article">
+<div class="article-inner">
+<div class="article-thumb"><a href="../cate_events/entry323.html"><img class="lazyload" data-src="../img/kizinai_medolu-sab_medusa_arnold_bocklin.png" width="700" height="698" alt="「ペルセウスのメデューサ討伐」伝説とは"><noscript><img src="../img/kizinai_medolu-sab_medusa_arnold_bocklin.png" alt="「ペルセウスのメデューサ討伐」伝説とは"></noscript></a></div>
+<div class="article-body">
+<div class="article-title"><a href="../cate_events/entry323.html">「ペルセウスのメデューサ討伐」伝説とは</a></div>
+<div class="article-info"><time class="date" datetime="2024-11-12">2024/11/12</time><div class="cat"><a href="../cate_events/">神話の出来事</a></div></div>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="article">
+<div class="article-inner">
+<div class="article-thumb"><a href="../cate_events/entry321.html"><img class="lazyload" data-src="../img/kizinai_herakuresu_hercules_and_cacus.png" width="800" height="993" alt="「ヘラクレイダイの帰還」伝説とは"><noscript><img src="../img/kizinai_herakuresu_hercules_and_cacus.png" alt="「ヘラクレイダイの帰還」伝説とは"></noscript></a></div>
+<div class="article-body">
+<div class="article-title"><a href="../cate_events/entry321.html">「ヘラクレイダイの帰還」伝説とは</a></div>
+<div class="article-info"><time class="date" datetime="2024-11-12">2024/11/12</time><div class="cat"><a href="../cate_events/">神話の出来事</a></div></div>
+</div>
+</div>
+</article>
+</li>
+</ul></div>
+<div id="space4" style="position:sticky;top:1em;" class="freespace">
+<div class="space-box">
+<div class="menubox">
+<div class="adsense-container">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6593886890617128"
+     crossorigin="anonymous"></script>
+<!-- レスポンシブスクエア -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6593886890617128"
+     data-ad-slot="9528906431"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+<div id="pagetop"><a href="#body"></a></div>
+<div id="siteNavi"><ul itemscope itemtype="https://schema.org/BreadcrumbList" class="siteNavi_ul">
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../"><span itemprop="name">トップページ</span></a><meta itemprop="position" content="1" /></li>
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../cate_characteristics/"><span itemprop="name">神話の特徴</span></a><meta itemprop="position" content="2" /></li>
+<li><span>ギリシャ神話と七つの大罪の対比</span></li>
+</ul></div>
+<footer id="footer">
+<div class="inner">
+<nav id="footer-menu">
+<ul class="footer-menu_ul">
+<li><a href="../sitemap.html">サイトマップ</a></li>
+</ul>
+</nav>
+<small id="copy">&copy; 2025 ギリシャ神話が面白い！.<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4DRKJJ09TT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-4DRKJJ09TT');
+</script></small>
+</div>
+</footer>
+</div>
+<script src="../js/siema.min.js"></script>
+<script src="../js/config.js"></script>
+<script src="../js/ResizeSensor.js"></script>
+<script src="../js/ElementQueries.js"></script>
+<script>
+var ele = document.getElementsByClassName('w_fnt');
+for (var i = 0, len = ele.length; i < len; i++) {ele[i].media = 'all';}
+</script>
+<script src="../js/followheader.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.js"></script>
+<script>lazyload();</script>
+</body>
+</html>

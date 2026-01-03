@@ -1,0 +1,592 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 03 Jan 2026 16:38:32 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+vary: accept,content-type,Accept-Encoding
+link: <https://studiopoppo.jp/poppoblog/wp-json/>; rel="https://api.w.org/", <https://studiopoppo.jp/poppoblog/wp-json/wp/v2/posts/42742>; rel="alternate"; title="JSON"; type="application/json", <https://studiopoppo.jp/poppoblog/?p=42742>; rel=shortlink
+cache-control: max-age=1
+expires: Sat, 03 Jan 2026 16:38:32 GMT
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" dir="ltr" lang="ja" prefix="og: https://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" dir="ltr" lang="ja" prefix="og: https://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html dir="ltr" lang="ja" prefix="og: https://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>古今東西、七つの大罪 - ぽっぽブログ</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://studiopoppo.jp/poppoblog/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="https://studiopoppo.jp/poppoblog/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+		<!-- All in One SEO 4.9.2 - aioseo.com -->
+	<meta name="description" content="おっとタイトルで韻を踏んだぞ、風流人・栁澤です。（偶然） 七つの大罪と言えば、キリスト教のカトリックのやつが有" />
+	<meta name="robots" content="max-image-preview:large" />
+	<meta name="author" content="栁澤 蘭丸"/>
+	<meta name="keywords" content="七つの大罪.ネメシス" />
+	<link rel="canonical" href="https://studiopoppo.jp/poppoblog/chat/42742/" />
+	<meta name="generator" content="All in One SEO (AIOSEO) 4.9.2" />
+		<meta property="og:locale" content="ja_JP" />
+		<meta property="og:site_name" content="Studio POPPO公式ブログ「ぽっぽブログ」" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="古今東西、七つの大罪 - ぽっぽブログ" />
+		<meta property="og:description" content="おっとタイトルで韻を踏んだぞ、風流人・栁澤です。（偶然） 七つの大罪と言えば、キリスト教のカトリックのやつが有" />
+		<meta property="og:url" content="https://studiopoppo.jp/poppoblog/chat/42742/" />
+		<meta property="og:image" content="https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/01/e67b58364ab8edab5c94edd0e6a2c653.jpg" />
+		<meta property="og:image:secure_url" content="https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/01/e67b58364ab8edab5c94edd0e6a2c653.jpg" />
+		<meta property="og:image:width" content="270" />
+		<meta property="og:image:height" content="270" />
+		<meta property="article:published_time" content="2018-01-27T03:15:04+00:00" />
+		<meta property="article:modified_time" content="2018-01-26T14:32:18+00:00" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="古今東西、七つの大罪 - ぽっぽブログ" />
+		<meta name="twitter:description" content="おっとタイトルで韻を踏んだぞ、風流人・栁澤です。（偶然） 七つの大罪と言えば、キリスト教のカトリックのやつが有" />
+		<meta name="twitter:image" content="https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/01/e67b58364ab8edab5c94edd0e6a2c653.jpg" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/studiopoppo.jp\/poppoblog\/chat\/42742\/#article","name":"\u53e4\u4eca\u6771\u897f\u3001\u4e03\u3064\u306e\u5927\u7f6a - \u307d\u3063\u307d\u30d6\u30ed\u30b0","headline":"\u53e4\u4eca\u6771\u897f\u3001\u4e03\u3064\u306e\u5927\u7f6a","author":{"@id":"https:\/\/studiopoppo.jp\/poppoblog\/author\/yanagisawaranmaru\/#author"},"publisher":{"@id":"https:\/\/studiopoppo.jp\/poppoblog\/#organization"},"image":{"@type":"ImageObject","url":"https:\/\/studiopoppo.jp\/poppoblog\/wp-content\/uploads\/2018\/01\/e67b58364ab8edab5c94edd0e6a2c653.jpg","width":270,"height":270,"caption":"\u53e4\u4eca\u6771\u897f\u3001\u4e03\u3064\u306e\u5927\u7f6a_\u633f\u7d751"},"datePublished":"2018-01-27T12:15:04+09:00","dateModified":"2018-01-26T23:32:18+09:00","inLanguage":"ja","mainEntityOfPage":{"@id":"https:\/\/studiopoppo.jp\/poppoblog\/chat\/42742\/#webpage"},"isPartOf":{"@id":"https:\/\/studiopoppo.jp\/poppoblog\/chat\/42742\/#webpage"},"articleSection":"\u862d\u4e38\u306e\u9591\u8a71, \u96d1\u8ac7, \u6801\u6fa4\u862d\u4e38, \u6b74\u53f2"},{"@type":"BreadcrumbList","@id":"https:\/\/studiopoppo.jp\/poppoblog\/chat\/42742\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/studiopoppo.jp\/poppoblog#listItem","position":1,"name":"Home","item":"https:\/\/studiopoppo.jp\/poppoblog","nextItem":{"@type":"ListItem","@id":"https:\/\/studiopoppo.jp\/poppoblog\/category\/chat\/#listItem","name":"\u96d1\u8ac7"}},{"@type":"ListItem","@id":"https:\/\/studiopoppo.jp\/poppoblog\/category\/chat\/#listItem","position":2,"name":"\u96d1\u8ac7","item":"https:\/\/studiopoppo.jp\/poppoblog\/category\/chat\/","nextItem":{"@type":"ListItem","@id":"https:\/\/studiopoppo.jp\/poppoblog\/category\/chat\/kanwa-ranmaru\/#listItem","name":"\u862d\u4e38\u306e\u9591\u8a71"},"previousItem":{"@type":"ListItem","@id":"https:\/\/studiopoppo.jp\/poppoblog#listItem","name":"Home"}},{"@type":"ListItem","@id":"https:\/\/studiopoppo.jp\/poppoblog\/category\/chat\/kanwa-ranmaru\/#listItem","position":3,"name":"\u862d\u4e38\u306e\u9591\u8a71","item":"https:\/\/studiopoppo.jp\/poppoblog\/category\/chat\/kanwa-ranmaru\/","nextItem":{"@type":"ListItem","@id":"https:\/\/studiopoppo.jp\/poppoblog\/chat\/42742\/#listItem","name":"\u53e4\u4eca\u6771\u897f\u3001\u4e03\u3064\u306e\u5927\u7f6a"},"previousItem":{"@type":"ListItem","@id":"https:\/\/studiopoppo.jp\/poppoblog\/category\/chat\/#listItem","name":"\u96d1\u8ac7"}},{"@type":"ListItem","@id":"https:\/\/studiopoppo.jp\/poppoblog\/chat\/42742\/#listItem","position":4,"name":"\u53e4\u4eca\u6771\u897f\u3001\u4e03\u3064\u306e\u5927\u7f6a","previousItem":{"@type":"ListItem","@id":"https:\/\/studiopoppo.jp\/poppoblog\/category\/chat\/kanwa-ranmaru\/#listItem","name":"\u862d\u4e38\u306e\u9591\u8a71"}}]},{"@type":"Organization","@id":"https:\/\/studiopoppo.jp\/poppoblog\/#organization","name":"Studio POPPO","description":"Studio POPPO\u304c\u304a\u5c4a\u3051\u3059\u308b\u30d6\u30ed\u30b0","url":"https:\/\/studiopoppo.jp\/poppoblog\/","logo":{"@type":"ImageObject","url":"https:\/\/studiopoppo.jp\/poppoblog\/wp-content\/uploads\/2015\/12\/studio_poppo_icon.jpg","@id":"https:\/\/studiopoppo.jp\/poppoblog\/chat\/42742\/#organizationLogo","width":120,"height":120,"caption":"\u307d\u3063\u307d\u304f\u3093"},"image":{"@id":"https:\/\/studiopoppo.jp\/poppoblog\/chat\/42742\/#organizationLogo"}},{"@type":"Person","@id":"https:\/\/studiopoppo.jp\/poppoblog\/author\/yanagisawaranmaru\/#author","url":"https:\/\/studiopoppo.jp\/poppoblog\/author\/yanagisawaranmaru\/","name":"\u6801\u6fa4 \u862d\u4e38","image":{"@type":"ImageObject","@id":"https:\/\/studiopoppo.jp\/poppoblog\/chat\/42742\/#authorImage","url":"https:\/\/studiopoppo.jp\/poppoblog\/wp-content\/uploads\/2020\/10\/cdc403fac6637ca28ce88f1087046479-96x96.jpg","width":96,"height":96,"caption":"\u6801\u6fa4 \u862d\u4e38"}},{"@type":"WebPage","@id":"https:\/\/studiopoppo.jp\/poppoblog\/chat\/42742\/#webpage","url":"https:\/\/studiopoppo.jp\/poppoblog\/chat\/42742\/","name":"\u53e4\u4eca\u6771\u897f\u3001\u4e03\u3064\u306e\u5927\u7f6a - \u307d\u3063\u307d\u30d6\u30ed\u30b0","description":"\u304a\u3063\u3068\u30bf\u30a4\u30c8\u30eb\u3067\u97fb\u3092\u8e0f\u3093\u3060\u305e\u3001\u98a8\u6d41\u4eba\u30fb\u6801\u6fa4\u3067\u3059\u3002\uff08\u5076\u7136\uff09 \u4e03\u3064\u306e\u5927\u7f6a\u3068\u8a00\u3048\u3070\u3001\u30ad\u30ea\u30b9\u30c8\u6559\u306e\u30ab\u30c8\u30ea\u30c3\u30af\u306e\u3084\u3064\u304c\u6709","inLanguage":"ja","isPartOf":{"@id":"https:\/\/studiopoppo.jp\/poppoblog\/#website"},"breadcrumb":{"@id":"https:\/\/studiopoppo.jp\/poppoblog\/chat\/42742\/#breadcrumblist"},"author":{"@id":"https:\/\/studiopoppo.jp\/poppoblog\/author\/yanagisawaranmaru\/#author"},"creator":{"@id":"https:\/\/studiopoppo.jp\/poppoblog\/author\/yanagisawaranmaru\/#author"},"image":{"@type":"ImageObject","url":"https:\/\/studiopoppo.jp\/poppoblog\/wp-content\/uploads\/2018\/01\/e67b58364ab8edab5c94edd0e6a2c653.jpg","@id":"https:\/\/studiopoppo.jp\/poppoblog\/chat\/42742\/#mainImage","width":270,"height":270,"caption":"\u53e4\u4eca\u6771\u897f\u3001\u4e03\u3064\u306e\u5927\u7f6a_\u633f\u7d751"},"primaryImageOfPage":{"@id":"https:\/\/studiopoppo.jp\/poppoblog\/chat\/42742\/#mainImage"},"datePublished":"2018-01-27T12:15:04+09:00","dateModified":"2018-01-26T23:32:18+09:00"},{"@type":"WebSite","@id":"https:\/\/studiopoppo.jp\/poppoblog\/#website","url":"https:\/\/studiopoppo.jp\/poppoblog\/","name":"\u307d\u3063\u307d\u30d6\u30ed\u30b0","description":"Studio POPPO\u304c\u304a\u5c4a\u3051\u3059\u308b\u30d6\u30ed\u30b0","inLanguage":"ja","publisher":{"@id":"https:\/\/studiopoppo.jp\/poppoblog\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="ぽっぽブログ &raquo; フィード" href="https://studiopoppo.jp/poppoblog/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ぽっぽブログ &raquo; コメントフィード" href="https://studiopoppo.jp/poppoblog/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://studiopoppo.jp/poppoblog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstudiopoppo.jp%2Fpoppoblog%2Fchat%2F42742%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://studiopoppo.jp/poppoblog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstudiopoppo.jp%2Fpoppoblog%2Fchat%2F42742%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='sdm-styles-css' href='https://studiopoppo.jp/poppoblog/wp-content/plugins/simple-download-monitor/css/sdm_wp_styles.css?ver=6.9' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style><style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--blue: #21759b;--wp--preset--color--dark-gray: #444;--wp--preset--color--medium-gray: #9f9f9f;--wp--preset--color--light-gray: #e6e6e6;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='better-recent-comments-css' href='https://studiopoppo.jp/poppoblog/wp-content/plugins/better-recent-comments/assets/css/better-recent-comments.min.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='collapsed-archives-style-css' href='https://studiopoppo.jp/poppoblog/wp-content/plugins/collapsed-archives/style.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css' href='https://studiopoppo.jp/poppoblog/wp-content/themes/twentytwelve/style.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://studiopoppo.jp/poppoblog/wp-content/themes/twentytwelve-child/style.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css' href='https://studiopoppo.jp/poppoblog/wp-content/themes/twentytwelve-child/style.css?ver=20251202' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-block-style-css' href='https://studiopoppo.jp/poppoblog/wp-content/themes/twentytwelve/css/blocks.css?ver=20251031' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css' href='https://studiopoppo.jp/poppoblog/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.css?ver=6.9' type='text/css' media='screen' />
+<script type="text/javascript" src="https://studiopoppo.jp/poppoblog/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://studiopoppo.jp/poppoblog/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="sdm-scripts-js-extra">
+/* <![CDATA[ */
+var sdm_ajax_script = {"ajaxurl":"https://studiopoppo.jp/poppoblog/wp-admin/admin-ajax.php"};
+//# sourceURL=sdm-scripts-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://studiopoppo.jp/poppoblog/wp-content/plugins/simple-download-monitor/js/sdm_wp_scripts.js?ver=6.9" id="sdm-scripts-js"></script>
+<script type="text/javascript" src="https://studiopoppo.jp/poppoblog/wp-content/themes/twentytwelve/js/navigation.js?ver=20250303" id="twentytwelve-navigation-js" defer="defer" data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="https://studiopoppo.jp/poppoblog/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://studiopoppo.jp/poppoblog/wp-json/wp/v2/posts/42742" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://studiopoppo.jp/poppoblog/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<link rel='shortlink' href='https://studiopoppo.jp/poppoblog/?p=42742' />
+	<style>img#wpstats{display:none}</style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ebe6d3; }
+</style>
+	<style type="text/css">.saboxplugin-wrap{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box;border:1px solid #eee;width:100%;clear:both;display:block;overflow:hidden;word-wrap:break-word;position:relative}.saboxplugin-wrap .saboxplugin-gravatar{float:left;padding:0 20px 20px 20px}.saboxplugin-wrap .saboxplugin-gravatar img{max-width:100px;height:auto;border-radius:0;}.saboxplugin-wrap .saboxplugin-authorname{font-size:18px;line-height:1;margin:20px 0 0 20px;display:block}.saboxplugin-wrap .saboxplugin-authorname a{text-decoration:none}.saboxplugin-wrap .saboxplugin-authorname a:focus{outline:0}.saboxplugin-wrap .saboxplugin-desc{display:block;margin:5px 20px}.saboxplugin-wrap .saboxplugin-desc a{text-decoration:underline}.saboxplugin-wrap .saboxplugin-desc p{margin:5px 0 12px}.saboxplugin-wrap .saboxplugin-web{margin:0 20px 15px;text-align:left}.saboxplugin-wrap .sab-web-position{text-align:right}.saboxplugin-wrap .saboxplugin-web a{color:#ccc;text-decoration:none}.saboxplugin-wrap .saboxplugin-socials{position:relative;display:block;background:#fcfcfc;padding:5px;border-top:1px solid #eee}.saboxplugin-wrap .saboxplugin-socials a svg{width:20px;height:20px}.saboxplugin-wrap .saboxplugin-socials a svg .st2{fill:#fff; transform-origin:center center;}.saboxplugin-wrap .saboxplugin-socials a svg .st1{fill:rgba(0,0,0,.3)}.saboxplugin-wrap .saboxplugin-socials a:hover{opacity:.8;-webkit-transition:opacity .4s;-moz-transition:opacity .4s;-o-transition:opacity .4s;transition:opacity .4s;box-shadow:none!important;-webkit-box-shadow:none!important}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color{box-shadow:none;padding:0;border:0;-webkit-transition:opacity .4s;-moz-transition:opacity .4s;-o-transition:opacity .4s;transition:opacity .4s;display:inline-block;color:#fff;font-size:0;text-decoration:inherit;margin:5px;-webkit-border-radius:0;-moz-border-radius:0;-ms-border-radius:0;-o-border-radius:0;border-radius:0;overflow:hidden}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-grey{text-decoration:inherit;box-shadow:none;position:relative;display:-moz-inline-stack;display:inline-block;vertical-align:middle;zoom:1;margin:10px 5px;color:#444;fill:#444}.clearfix:after,.clearfix:before{content:' ';display:table;line-height:0;clear:both}.ie7 .clearfix{zoom:1}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-twitch{border-color:#38245c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-behance{border-color:#003eb0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-deviantart{border-color:#036824}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-digg{border-color:#00327c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-dribbble{border-color:#ba1655}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-facebook{border-color:#1e2e4f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-flickr{border-color:#003576}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-github{border-color:#264874}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-google{border-color:#0b51c5}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-html5{border-color:#902e13}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-instagram{border-color:#1630aa}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-linkedin{border-color:#00344f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-pinterest{border-color:#5b040e}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-reddit{border-color:#992900}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-rss{border-color:#a43b0a}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-sharethis{border-color:#5d8420}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-soundcloud{border-color:#995200}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-spotify{border-color:#0f612c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-stackoverflow{border-color:#a95009}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-steam{border-color:#006388}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-user_email{border-color:#b84e05}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-tumblr{border-color:#10151b}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-twitter{border-color:#0967a0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-vimeo{border-color:#0d7091}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-windows{border-color:#003f71}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-whatsapp{border-color:#003f71}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-wordpress{border-color:#0f3647}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-yahoo{border-color:#14002d}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-youtube{border-color:#900}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-xing{border-color:#000202}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-mixcloud{border-color:#2475a0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-vk{border-color:#243549}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-medium{border-color:#00452c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-quora{border-color:#420e00}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-meetup{border-color:#9b181c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-goodreads{border-color:#000}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-snapchat{border-color:#999700}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-500px{border-color:#00557f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-mastodont{border-color:#185886}.sabox-plus-item{margin-bottom:20px}@media screen and (max-width:480px){.saboxplugin-wrap{text-align:center}.saboxplugin-wrap .saboxplugin-gravatar{float:none;padding:20px 0;text-align:center;margin:0 auto;display:block}.saboxplugin-wrap .saboxplugin-gravatar img{float:none;display:inline-block;display:-moz-inline-stack;vertical-align:middle;zoom:1}.saboxplugin-wrap .saboxplugin-desc{margin:0 10px 20px;text-align:center}.saboxplugin-wrap .saboxplugin-authorname{text-align:center;margin:10px 0 20px}}body .saboxplugin-authorname a,body .saboxplugin-authorname a:hover{box-shadow:none;-webkit-box-shadow:none}a.sab-profile-edit{font-size:16px!important;line-height:1!important}.sab-edit-settings a,a.sab-profile-edit{color:#0073aa!important;box-shadow:none!important;-webkit-box-shadow:none!important}.sab-edit-settings{margin-right:15px;position:absolute;right:0;z-index:2;bottom:10px;line-height:20px}.sab-edit-settings i{margin-left:5px}.saboxplugin-socials{line-height:1!important}.rtl .saboxplugin-wrap .saboxplugin-gravatar{float:right}.rtl .saboxplugin-wrap .saboxplugin-authorname{display:flex;align-items:center}.rtl .saboxplugin-wrap .saboxplugin-authorname .sab-profile-edit{margin-right:10px}.rtl .sab-edit-settings{right:auto;left:0}img.sab-custom-avatar{max-width:75px;}.saboxplugin-wrap {border-color:#333333;}.saboxplugin-wrap .saboxplugin-socials {border-color:#333333;}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color {-webkit-border-radius:50%;-moz-border-radius:50%;-ms-border-radius:50%;-o-border-radius:50%;border-radius:50%;}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color .st1 {display: none;}.saboxplugin-wrap {margin-top:0px; margin-bottom:45px; padding: 0px 0px }.saboxplugin-wrap .saboxplugin-authorname {font-size:18px; line-height:25px;}.saboxplugin-wrap .saboxplugin-desc p, .saboxplugin-wrap .saboxplugin-desc {font-size:14px !important; line-height:21px !important;}.saboxplugin-wrap .saboxplugin-web {font-size:14px;}.saboxplugin-wrap .saboxplugin-socials a svg {width:36px;height:36px;}</style><link rel='stylesheet' id='yarppRelatedCss-css' href='https://studiopoppo.jp/poppoblog/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=5.30.11' type='text/css' media='all' />
+<link rel='stylesheet' id='yarpp-thumbnails-css' href='https://studiopoppo.jp/poppoblog/wp-content/plugins/yet-another-related-posts-plugin/style/styles_thumbnails.css?ver=5.30.11' type='text/css' media='all' />
+<style id='yarpp-thumbnails-inline-css' type='text/css'>
+.yarpp-thumbnails-horizontal .yarpp-thumbnail {width: 130px;height: 170px;margin: 5px;margin-left: 0px;}.yarpp-thumbnail > img, .yarpp-thumbnail-default {width: 120px;height: 120px;margin: 5px;}.yarpp-thumbnails-horizontal .yarpp-thumbnail-title {margin: 7px;margin-top: 0px;width: 120px;}.yarpp-thumbnail-default > img {min-height: 120px;min-width: 120px;}
+/*# sourceURL=yarpp-thumbnails-inline-css */
+</style>
+</head>
+
+<body class="wp-singular post-template-default single single-post postid-42742 single-format-standard custom-background wp-embed-responsive wp-theme-twentytwelve wp-child-theme-twentytwelve-child">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title"><a href="https://studiopoppo.jp/poppoblog/" title="ぽっぽブログ" rel="home">ぽっぽブログ</a></h1>
+			<h2 class="site-description">Studio POPPOがお届けするブログ</h2>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle">メニュー</button>
+			<a class="assistive-text" href="#content" title="コンテンツへスキップ">コンテンツへスキップ</a>
+			<div class="menu-%e3%83%88%e3%83%83%e3%83%97%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc-container"><ul id="menu-%e3%83%88%e3%83%83%e3%83%97%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc" class="nav-menu"><li id="menu-item-11404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11404"><a href="https://studiopoppo.jp/poppoblog/">トップ</a></li>
+<li id="menu-item-11405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11405"><a href="https://studiopoppo.jp/poppoblog/whats-poppoblog/">ぽっぽブログとは</a></li>
+<li id="menu-item-11406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11406"><a href="https://studiopoppo.jp/poppoblog/content-introduction/">コンテンツ紹介</a></li>
+<li id="menu-item-11408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11408"><a href="https://studiopoppo.jp/poppoblog/site-map/">サイトマップ</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+
+								<a href="https://studiopoppo.jp/poppoblog/"><img src="https://studiopoppo.jp/poppoblog/wp-content/uploads/2021/01/2c55d98d22d370232f3148601804bf2f.jpg" class="header-image" width="960" height="250" alt="ぽっぽブログ" /></a>
+						</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	
+	<div id="primary" class="site-content">
+				<div id="content" role="main">
+
+			
+				
+	<article id="post-42742" class="post-42742 post type-post status-publish format-standard has-post-thumbnail hentry category-kanwa-ranmaru category-chat category-yanagisawa-ranmaru tag-719">
+				<header class="entry-header">
+							<!-- the_post_thumbnail(); -->
+
+						<h1 class="entry-title">古今東西、七つの大罪</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<span class="vcard author"><span class="fn" style="display: none;">Studio POPPO</span></span>
+						<p>投稿日：<time class="entry-date date updated" datetime="2018-01-27T12:15:04+09:00">2018年1月27日</time></p>
+									<div class="entry-content">			<div class="execphpwidget"><ul class="sns-button">
+<li><a href="//b.hatena.ne.jp/entry/https://studiopoppo.jp/poppoblog/chat/42742/" target="_blank" rel="noopener"><span class="sns-icn hatebu">はてなブックマーク</span></a></li>
+<li><a href="https://twitter.com/intent/tweet?url=https://studiopoppo.jp/poppoblog/chat/42742/&text=古今東西、七つの大罪&via=StudioPOPPO" target="_blank" rel="noopener"><span class="sns-icn twitter">twitter</span></a></li>
+<li><a href="//line.me/R/msg/text/?古今東西、七つの大罪%0D%0Ahttps://studiopoppo.jp/poppoblog/chat/42742/" target="_blank" rel="noopener"><span class="sns-icn line">line</span></a></li>
+</ul>
+</div>
+		</div>			<p>おっとタイトルで韻を踏んだぞ、風流人・栁澤です。（偶然）</p>
+<p>七つの大罪と言えば、キリスト教のカトリックのやつが有名ですね。ちなみに聖書には七つの大罪は出てこないのでプロテスタント系の学校だった私には縁はなかった言葉です。</p>
+<p>七つの大罪の起源はそもそもはエジプトの修道士のイブグリウスって人の著書に書いてあったもので、「枢悪罪（eight evil thoughts）」…と日本語に訳されている悪事です。最初は8つでした。直訳すると「8つの邪悪な考え」ですね。「枢（かなめ）」って意味を入れたのは分かりやすくするためかな～。<br />
+「暴食」、「色欲」、「強欲」、「憂鬱」、「憤怒」、「怠惰」、「虚飾」、「傲慢」なんですが、どれが無くなったか…いっこすぐ分かりますね。悪事としては見慣れな過ぎる。<b>憂鬱</b>さんです！憂鬱な顔してるだけで大罪ってのはちょっと日常生活に支障をきたします。有名なラノベ「涼宮ハルヒの憂鬱」も途端におかしな感じに。<br />
+というわけで、今広く知れ渡っている「七つの大罪」では、「憂鬱」に関しては言及されていません。憂鬱の何がいけないのかと言うと、憂鬱で何も手につかない→仕事が出来ない　という方程式が成り立つからで、それだと「怠惰」と被る。<br />
+また、「虚飾」は見栄を張るということで、どうして見栄を張りたいのかと言うとまぁ「ここは俺にいいかっこさせろよ！」とか少年漫画ではあるある展開ですが、カトリック的に言うと「つまり威張りたいんでしょ？」というわけで虚飾も傲慢と被る。この二つは合体させて、あと一つ「嫉妬」を新顔として加え、現在一番有名な「七つの大罪」の完成となりました。</p>
+<p>しかし2008年、およそ10年前ですが、ローマ教皇庁は、<b>新しく七つの大罪を定義</b>しました。ええっっっ！？その気になる内容はド直球。<br />
+ 「遺伝子改造」、「人体実験」、「環境汚染」、「社会的不公正」、「貧困」、「過度な裕福さ」、「麻薬中毒」だそうです。現代版だから分かりやすいけど応用が利かないものが多いよーな。あと個人の信心でどうにかできるものですらないような(´・ω・`)何故これにした…。「過度な」ってのが定量的じゃないので、どの程度からアウトなのか分からない。しかし世界の富豪ランキングに載ってしまうようなら、絶対アウトでしょう。カトリック信者の富豪さんはランキング集計前は資産減らしチキンレースみたいなことをしないといけなくなってしまうなぁ。<br />
+正直この新・七つの大罪はあんまし知れ渡っていませんよね…。みんな小耳にはさむ程度のことはあったかもしれないけど。改めて言われなくてもなっていうものもあります。が、聞き捨てならないのが一個混ざってますな…。「<b>貧困</b>」が罪って。踏んだり蹴ったり感満載なんですけど。貧困に陥るやつが悪い、もっと働け！と言う事でしょうか。同情するなら金をくれ案件ですねこれは…。もしくは職を。貧困に陥らせた奴が罪なら名前を「搾取」とかにしたほうが良かったんじゃあ…。んで過度な裕福もダメってことは、んー。マルクスさんが喜びそうだぞー。ビル・ゲイツさんとか大罪人になっちゃうのでしょうかね…。大昔、「魔法」が異端とされて魔女狩りがあったように、現代で「魔法」といえば「お金」と言えるかもしれない。魔法で出来ることもあれば出来ないこともある。でも使えたら便利。お金も、出来ることと出来ないことはあるけど、まあけっこう万能だし、あったら便利。お金は魔法の紙きれですな。魔法とお金にはこんな共通点が！大金持ちは大魔法使いと言い換えることが出来るかもしれない！だからダメということだったりしてー。お金持ってて何が悪いのかはさっぱり分かんないけどね！まあこの新・七つの大罪は誰も気にしていないのでおｋ。</p>
+<p>実はキリスト教以外にも七つの大罪はあります。なんと本題はココからでした(*&#8217;ω&#8217;*)<br />
+ギリシャ神話に出てくる「刑罰の神」ネメシスが定めているんですよ～、刑罰の神だなんて私のドストライクじゃないですか。ついでに「マナーの神」とか「迷惑行為禁止の神」がいたら崇め奉りたい。<br />
+さて「ギリシャ版七つの大罪」はどんなセレクトなんでしょうか？！といっても別に「大罪」とは言っていなくて、「ネメシス的に許せない人間の特徴」です。でもネメシスは刑罰の神なのでネメシスに嫌われたらそれは罪になりますから結局罪です。難しい。</p>
+<p>ではひとつずつ見てみましょう！（順不同）</p>
+<p>まず「<b>高慢</b>」。これはカトリックの「傲慢」と同じ感じですね。威張りくさるなよってことですね。高慢ちきな人を好きな人はあまりいません。ツンデレキャラは緩慢に絶滅の一途を辿っているのに加え、リアルツンデレは可愛くないという説も提唱されていますので、「高慢」をフォローすることはできそうにありません。高慢はよくない！</p>
+<p>次に「<b>癇癪</b>」。癇癪（かんしゃく）とは、ちょっとしたことにも怒りやすい性質のことを言います。短気で、すぐカッとなる人は嫌いとネメシスは思っているのですね。確かにそんな地雷原みたいな人の地雷をよけて歩くの面倒くさいし、距離を置きたいですね。癇癪もよくない！ちなみにこれに相当するカトリックの大罪はありませんね。同じ「怒る」でも「憤怒」の意味は「激しく怒ること」です。度を越して怒るなってことですね。こっちはキッカケについてを、向こうは度合いを問題にしているみたいです。</p>
+<p>次「<b>嫉妬</b>」…ん、これは丸かぶりしていますね。他人に嫉妬する人は、大抵はその嫉妬する対象を害そうとしてしまいがちですから、嫉妬しないのがいいに決まっていますよねぇ。うん。ネメシスは他人に嫉妬する人は嫌いなんですね。</p>
+<p>次に「<b>暴食</b>」。あれ、これも同じですね。意味はもちろん「食べ過ぎること」です。食べ過ぎると太る。太ると（対・一部の愛好家を除いて）見た目がよろしくなくなってしまうことが多い。しかも健康にも悪い。腹八分目は医者いらずといいますので、食べ過ぎるとよくないのは医学的観点、美的観点から言って確かだと思いますよね！そしてネメシスはスレンダー、細マッチョが好きなんですね！多分ですけど！！（ネメシスは女神様）</p>
+<p>次「<b>驕奢</b>」…これは消えてしまった枢悪罪のうちのひとつ「虚飾」とほぼ同じですね。虚しく飾るということは、内情が伴ってないということですから、こんなことしていたら身を滅ぼしますよというわけで、悪いこととされてるんでしょうね。たまの贅沢くらいはいいと思うけど。驕奢ってくらいだからもう、驕りたかぶって、ばら撒く！みたいなやつのことでしょう、うん。そりゃダメです。ネメシスはそんな見栄っ張りは嫌いなようです。</p>
+<p>そして次は「<b>怠惰</b>」です。んーこれもカトリックの七つの大罪と同じですね。怠けたがる人は大抵楽して稼げる悪いことを考えるため…のようです。日本人が勘違いしている方の意味の「小人閑居して不善を成す（つまらない人間は暇を持て余すと悪いことを考える）」に通じるところがあるかもしれません。ちなみに「小人閑居して不善を成す」の本来の意味は、「誰も見ていないところでも立派な人は節度ある行動をしている」と言う意味で、つまらない人物はとにかく働けって言う意味ではないので安心してください、もう全然休んでください。しかし、労働しないもの休むべからずというわけですね。盛大に矛盾しているわけではありません、働かない場合であっても、悪事を考えないように体を動かすなり、旅行するなり、何かしてたほうが良いねって私が勝手に思っただけです！</p>
+<p>トリは「<b>吝嗇（りんしょく）</b>」です。これは平たく言えば「けちんぼ」ですね。身を滅ぼすような贅沢はだめだけど、極度に物やお金を惜しむのもだめだってことみたいです。しかしこれは確かに歴史が証明していること。徳川家康や、黒田官兵衛、前田利家など、有能武将はケチ（倹約上手）でした。しかし、兵士・軍備のために使うお金は惜しまなかったのです！普段の生活は倹約につぐ倹約をしていても、使いどころをきちんとおさえているのが大事なんです～～！でもみんなが大好きな信長は結構パリピで派手好きでしたけどね…秀吉もね。でも、最後に幕府を開いたのは倹約大好きだった家康なのです、結果が全てとするならば、家康is正義。ケチでも使うところには使う人こそが正義、ってことになりますね。ネメシス的には、お金にうるさすぎる人間ってやだなってことなんでしょうか。まあ普通は多少のけちは「節約家なんだな～偉いな～」で済むけど、それ度を超すと「浅ましい」と表現されるようなことになったり、自分のものを惜しむあまりに他人のものに手を出したりしてしまいそうなので、よくない性質であることは確かかもしれませんね。</p>
+<p>というわけで…ギリシャ版七つの大罪（別名：ネメシス的ダメ人間テスト）はこんな感じでした！ケチが大罪だったとはね…。金銭に関する罪は多いですねぇ。持ちすぎてもダメ（過度な裕福、強欲）、失いすぎてもダメ（貧困、虚飾、驕奢）失うのを嫌がってもダメ（吝嗇）。総資産を大罪に触れないレベルに保つのは意外と難しいかもしれない。持ち過ぎで怒られることはなくても、「やばい！このままだと『貧困』に抵触する！めっちゃ節約しないと！あ、今度は『吝嗇』に抵触する…！」みたいな感じになるかもしれないよ…。どうしたらいいんだ…。</p>
+<p>と無意味に頭を悩ませる浄土真宗の蘭丸でした！ではまた！</p>
+<p><img fetchpriority="high" decoding="async" src="https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/01/e67b58364ab8edab5c94edd0e6a2c653.jpg" alt="古今東西、七つの大罪_挿絵1" width="270" height="270" class="alignnone size-full wp-image-42743" srcset="https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/01/e67b58364ab8edab5c94edd0e6a2c653.jpg 270w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/01/e67b58364ab8edab5c94edd0e6a2c653-150x150.jpg 150w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/01/e67b58364ab8edab5c94edd0e6a2c653-120x120.jpg 120w" sizes="(max-width: 270px) 100vw, 270px" /></p>
+<ol>
+<li>仕事を嫌がってゴネる</li>
+<li>おやつを食べてばかりいる</li>
+<li>仕事中に寝る</li>
+<li>仕事中に遊ぶ</li>
+<li>仕事中に歌いだす</li>
+<li>奇行をする</li>
+<li>サイレンススズカ系統を確立させることを人に強要する</li>
+</ol>
+<div align="center"><b>蘭丸の閑話をもっと読む</b><br />
+<span style="font-size: x-large;"><a href="https://studiopoppo.jp/poppoblog/chat/42611/">Prev</a> | <a href="https://studiopoppo.jp/poppoblog/chat/42758/">Next</a></span></div>
+<p><a class="back" href="https://studiopoppo.jp/poppoblog/content-introduction/chat/">雑談記事一覧へ</a></p>
+							<div class="entry-content">			<div class="execphpwidget"><ul class="sns-button">
+<li><a href="//b.hatena.ne.jp/entry/https://studiopoppo.jp/poppoblog/chat/42742/" target="_blank" rel="noopener"><span class="sns-icn hatebu">はてなブックマーク</span></a></li>
+<li><a href="https://twitter.com/intent/tweet?url=https://studiopoppo.jp/poppoblog/chat/42742/&text=古今東西、七つの大罪&via=StudioPOPPO" target="_blank" rel="noopener"><span class="sns-icn twitter">twitter</span></a></li>
+<li><a href="//line.me/R/msg/text/?古今東西、七つの大罪%0D%0Ahttps://studiopoppo.jp/poppoblog/chat/42742/" target="_blank" rel="noopener"><span class="sns-icn line">line</span></a></li>
+</ul>
+</div>
+		</div><div class="entry-content">			<div class="execphpwidget"><script type="text/javascript">
+var microadCompass = microadCompass || {};
+microadCompass.queue = microadCompass.queue || [];
+</script>
+<script type="text/javascript" charset="UTF-8" src="//j.microad.net/js/compass.js" onload="new microadCompass.AdInitializer().initialize();" async></script>
+<div id="6d1cce85f6877d5f85eec117b29ac045" >
+	<script type="text/javascript">
+		microadCompass.queue.push({
+			"spot": "6d1cce85f6877d5f85eec117b29ac045"
+		});
+	</script>
+</div></div>
+		</div><div class="entry-content">			<div class="textwidget"><div class="indent-title-n"><b>Studio POPPOをフォローしませんか？</b></div>
+<div class="box"><a class="twitter-btn" href="https://twitter.com/intent/follow?screen_name=StudioPOPPO" target="_blank" rel="noopener"><i></i><span class="twitter-label">Follow @StudioPOPPO</span></a></div>
+<div class="g-follow box" data-annotation="none" data-height="24" data-href="https://plus.google.com/116655190862523687590" data-rel="publisher"></div>
+</div>
+		</div>						<div class='yarpp yarpp-related yarpp-related-website yarpp-template-thumbnails'>
+<!-- YARPP Thumbnails -->
+<h3>関連記事:</h3>
+<div class="yarpp-thumbnails-horizontal">
+<a class='yarpp-thumbnail' rel='norewrite' href='https://studiopoppo.jp/poppoblog/chat/7355/' title='戦国武将「辞世の句」特集'>
+<img width="120" height="120" src="https://studiopoppo.jp/poppoblog/wp-content/uploads/2015/07/1986057c311668b1cae4f1bb393366b5-120x120.jpg" class="attachment-yarpp-thumbnail size-yarpp-thumbnail wp-post-image" alt="戦国武将「辞世の句」特集_挿絵1" data-pin-nopin="true" decoding="async" loading="lazy" srcset="https://studiopoppo.jp/poppoblog/wp-content/uploads/2015/07/1986057c311668b1cae4f1bb393366b5-120x120.jpg 120w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2015/07/1986057c311668b1cae4f1bb393366b5-150x150.jpg 150w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2015/07/1986057c311668b1cae4f1bb393366b5.jpg 270w" sizes="auto, (max-width: 120px) 100vw, 120px" /><span class="yarpp-thumbnail-title">戦国武将「辞世の句」特集</span></a>
+<a class='yarpp-thumbnail' rel='norewrite' href='https://studiopoppo.jp/poppoblog/chat/45173/' title='幕末の有名人「高杉晋作」が怖かったもの'>
+<img width="120" height="120" src="https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/04/c7a30439f32dd87b62420e820fea3dab-120x120.jpg" class="attachment-yarpp-thumbnail size-yarpp-thumbnail wp-post-image" alt="幕末の有名人「高杉晋作」が怖かったもの_挿絵1" data-pin-nopin="true" decoding="async" loading="lazy" srcset="https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/04/c7a30439f32dd87b62420e820fea3dab-120x120.jpg 120w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/04/c7a30439f32dd87b62420e820fea3dab-150x150.jpg 150w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/04/c7a30439f32dd87b62420e820fea3dab.jpg 270w" sizes="auto, (max-width: 120px) 100vw, 120px" /><span class="yarpp-thumbnail-title">幕末の有名人「高杉晋作」が怖かったもの</span></a>
+<a class='yarpp-thumbnail' rel='norewrite' href='https://studiopoppo.jp/poppoblog/chat/47234/' title='ヤマトタケルもサイコパス説…昔の英雄サイコパスしかいない…'>
+<img width="120" height="120" src="https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/06/5ac01e2eb7efac65b86b65cd0151dd01-120x120.jpg" class="attachment-yarpp-thumbnail size-yarpp-thumbnail wp-post-image" alt="ヤマトタケルもサイコパス説…昔の英雄サイコパスしかいない…_挿絵1" data-pin-nopin="true" decoding="async" loading="lazy" srcset="https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/06/5ac01e2eb7efac65b86b65cd0151dd01-120x120.jpg 120w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/06/5ac01e2eb7efac65b86b65cd0151dd01-150x150.jpg 150w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/06/5ac01e2eb7efac65b86b65cd0151dd01.jpg 270w" sizes="auto, (max-width: 120px) 100vw, 120px" /><span class="yarpp-thumbnail-title">ヤマトタケルもサイコパス説…昔の英雄サイコパスしかいない…</span></a>
+<a class='yarpp-thumbnail' rel='norewrite' href='https://studiopoppo.jp/poppoblog/chat/49154/' title='「残念な偉人」…って言ってるのは本人だけの菅原道真公'>
+<img width="120" height="120" src="https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/09/ba43512845ed76657be80a39daf6887b-120x120.jpg" class="attachment-yarpp-thumbnail size-yarpp-thumbnail wp-post-image" alt="「残念な偉人」…って言ってるのは本人だけの菅原道真公_挿絵1" data-pin-nopin="true" decoding="async" loading="lazy" srcset="https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/09/ba43512845ed76657be80a39daf6887b-120x120.jpg 120w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/09/ba43512845ed76657be80a39daf6887b-150x150.jpg 150w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/09/ba43512845ed76657be80a39daf6887b.jpg 270w" sizes="auto, (max-width: 120px) 100vw, 120px" /><span class="yarpp-thumbnail-title">「残念な偉人」…って言ってるのは本人だけの菅原道真公</span></a>
+<a class='yarpp-thumbnail' rel='norewrite' href='https://studiopoppo.jp/poppoblog/chat/51170/' title='義の武将・上杉謙信にまつわる諸説…本当は好きな女性がいた？等'>
+<img width="120" height="120" src="https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/11/a257703c2394fa9a829efb36dc8db2c0-120x120.jpg" class="attachment-yarpp-thumbnail size-yarpp-thumbnail wp-post-image" alt="義の武将・上杉謙信にまつわる諸説…本当は好きな女性がいた？等_挿絵1" data-pin-nopin="true" decoding="async" loading="lazy" srcset="https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/11/a257703c2394fa9a829efb36dc8db2c0-120x120.jpg 120w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/11/a257703c2394fa9a829efb36dc8db2c0-150x150.jpg 150w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2018/11/a257703c2394fa9a829efb36dc8db2c0.jpg 270w" sizes="auto, (max-width: 120px) 100vw, 120px" /><span class="yarpp-thumbnail-title">義の武将・上杉謙信にまつわる諸説…本当は好きな女性がいた？等</span></a>
+<a class='yarpp-thumbnail' rel='norewrite' href='https://studiopoppo.jp/poppoblog/chat/60146/' title='那須与一の「扇の的」エピソード、顛末がヒドイ'>
+<img width="120" height="120" src="https://studiopoppo.jp/poppoblog/wp-content/uploads/2019/07/db8226a6c9f627296d549750313acce1-120x120.jpg" class="attachment-yarpp-thumbnail size-yarpp-thumbnail wp-post-image" alt="那須与一の「扇の的」エピソード、顛末がヒドイ_挿絵1" data-pin-nopin="true" decoding="async" loading="lazy" srcset="https://studiopoppo.jp/poppoblog/wp-content/uploads/2019/07/db8226a6c9f627296d549750313acce1-120x120.jpg 120w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2019/07/db8226a6c9f627296d549750313acce1-150x150.jpg 150w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2019/07/db8226a6c9f627296d549750313acce1.jpg 270w" sizes="auto, (max-width: 120px) 100vw, 120px" /><span class="yarpp-thumbnail-title">那須与一の「扇の的」エピソード、顛末がヒドイ</span></a>
+</div>
+</div>
+			<div class="saboxplugin-wrap" itemtype="http://schema.org/Person" itemscope itemprop="author"><div class="saboxplugin-tab"><div class="saboxplugin-gravatar"><img alt='栁澤 蘭丸' src='https://studiopoppo.jp/poppoblog/wp-content/uploads/2020/10/cdc403fac6637ca28ce88f1087046479-100x100.jpg' srcset='https://studiopoppo.jp/poppoblog/wp-content/uploads/2020/10/cdc403fac6637ca28ce88f1087046479.jpg 2x' class='avatar avatar-100 photo' height='100' width='100' itemprop="image" decoding='async'/></div><div class="saboxplugin-authorname"><a href="https://studiopoppo.jp/poppoblog/author/yanagisawaranmaru/" class="vcard author" rel="author"><span class="fn">栁澤 蘭丸</span></a></div><div class="saboxplugin-desc"><div itemprop="description"><p>Studio POPPOの変な記事担当です。武田信玄の軍配が欲しくて100円貯金しています。ゾンビが来たら軍配で殴るつもりです。（よくないゲームの影響を受けている）</p>
+</div></div><div class="clearfix"></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+							カテゴリ: <a href="https://studiopoppo.jp/poppoblog/category/chat/kanwa-ranmaru/" rel="category tag">蘭丸の閑話</a>, <a href="https://studiopoppo.jp/poppoblog/category/chat/" rel="category tag">雑談</a>, <a href="https://studiopoppo.jp/poppoblog/category/yanagisawa-ranmaru/" rel="category tag">栁澤蘭丸</a> | タグ: <a href="https://studiopoppo.jp/poppoblog/tag/%e6%ad%b4%e5%8f%b2/" rel="tag">歴史</a>						
+					</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+				<nav class="nav-single">
+					<h3 class="assistive-text">投稿ナビゲーション</h3>
+					<span class="nav-previous"><a href="https://studiopoppo.jp/poppoblog/game-play/40976/" rel="prev"><span class="meta-nav">&larr;</span> ラグランジュポイントのプレイ日記4：レトロゲーム(ファミコン)</a></span>
+					<span class="nav-next"><a href="https://studiopoppo.jp/poppoblog/game-play/42087/" rel="next">更なる研究環境の向上を目指して杖の改良に励む(第60話)：Minecraft <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+				
+<div id="comments" class="comments-area">
+
+	
+	
+	
+</div><!-- #comments .comments-area -->
+
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="execphp-10" class="widget widget_execphp">			<div class="execphpwidget"><script type="text/javascript">
+var microadCompass = microadCompass || {};
+microadCompass.queue = microadCompass.queue || [];
+</script>
+<script type="text/javascript" charset="UTF-8" src="//j.microad.net/js/compass.js" onload="new microadCompass.AdInitializer().initialize();" async></script>
+<div id="5fd0a8ea257e0c1f64cbde7d4812b89b" >
+	<script type="text/javascript">
+		microadCompass.queue.push({
+			"spot": "5fd0a8ea257e0c1f64cbde7d4812b89b"
+		});
+	</script>
+</div>
+</div>
+		</aside><aside id="search-3" class="widget widget_search"><h3 class="widget-title">ブログ内検索</h3><form role="search" method="get" id="searchform" class="searchform" action="https://studiopoppo.jp/poppoblog/">
+				<div>
+					<label class="screen-reader-text" for="s">検索:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="検索" />
+				</div>
+			</form></aside><aside id="text-9" class="widget widget_text"><h3 class="widget-title">新着記事</h3>			<div class="textwidget"><hr class="postlist">
+<div id="newpostwidget" class="postlist-container">
+	<div class="postlist-new"><a href=https://studiopoppo.jp/poppoblog/game-play/129222/><img loading="lazy" decoding="async" width="150" height="150" src="https://studiopoppo.jp/poppoblog/wp-content/uploads/2025/12/be821c9942405dd13b354c294f1c3a09-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="蓬莱学園の冒険！転校生スクランブルのプレイ日記1：レトロゲーム(スーファミ)_挿絵1" srcset="https://studiopoppo.jp/poppoblog/wp-content/uploads/2025/12/be821c9942405dd13b354c294f1c3a09-150x150.png 150w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2025/12/be821c9942405dd13b354c294f1c3a09-120x120.png 120w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></div>
+	<div class="postlist-new-inner"><p class="title"><a href=https://studiopoppo.jp/poppoblog/game-play/129222/>蓬莱学園の冒険！転校生スクランブルのプレイ日記3：レトロゲーム(スーファミ)</a></p><p class="date">2026年1月3日</p></div>
+</div>
+<div id="newpostwidget" class="postlist-container">
+	<div class="postlist-new"><a href=https://studiopoppo.jp/poppoblog/game-play/129195/><img loading="lazy" decoding="async" width="150" height="150" src="https://studiopoppo.jp/poppoblog/wp-content/uploads/2025/11/dd8285ffc16fc11cc2d18eca5372a015-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="ウルティマ 聖者への道のプレイ日記1：レトロゲーム(ファミコン)_挿絵1" srcset="https://studiopoppo.jp/poppoblog/wp-content/uploads/2025/11/dd8285ffc16fc11cc2d18eca5372a015-150x150.png 150w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2025/11/dd8285ffc16fc11cc2d18eca5372a015-120x120.png 120w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></div>
+	<div class="postlist-new-inner"><p class="title"><a href=https://studiopoppo.jp/poppoblog/game-play/129195/>ウルティマ 聖者への道のプレイ日記17：レトロゲーム(ファミコン)</a></p><p class="date">2026年1月2日</p></div>
+</div>
+<div id="newpostwidget" class="postlist-container">
+	<div class="postlist-new"><a href=https://studiopoppo.jp/poppoblog/game-play/129193/><img loading="lazy" decoding="async" width="150" height="150" src="https://studiopoppo.jp/poppoblog/wp-content/uploads/2025/12/be821c9942405dd13b354c294f1c3a09-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="蓬莱学園の冒険！転校生スクランブルのプレイ日記1：レトロゲーム(スーファミ)_挿絵1" srcset="https://studiopoppo.jp/poppoblog/wp-content/uploads/2025/12/be821c9942405dd13b354c294f1c3a09-150x150.png 150w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2025/12/be821c9942405dd13b354c294f1c3a09-120x120.png 120w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></div>
+	<div class="postlist-new-inner"><p class="title"><a href=https://studiopoppo.jp/poppoblog/game-play/129193/>蓬莱学園の冒険！転校生スクランブルのプレイ日記2：レトロゲーム(スーファミ)</a></p><p class="date">2026年1月1日</p></div>
+</div>
+<div id="newpostwidget" class="postlist-container">
+	<div class="postlist-new"><a href=https://studiopoppo.jp/poppoblog/game-play/129095/><img loading="lazy" decoding="async" width="150" height="150" src="https://studiopoppo.jp/poppoblog/wp-content/uploads/2023/12/d00a0973df0071dc6d20ec947515392b-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="今日からバルダーズ・ゲート2だよ！：Baldur&#039;s Gate 2#1_挿絵1" srcset="https://studiopoppo.jp/poppoblog/wp-content/uploads/2023/12/d00a0973df0071dc6d20ec947515392b-150x150.jpg 150w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2023/12/d00a0973df0071dc6d20ec947515392b-120x120.jpg 120w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></div>
+	<div class="postlist-new-inner"><p class="title"><a href=https://studiopoppo.jp/poppoblog/game-play/129095/>ゲイラン・ベールに謝礼を払う：Baldur&#8217;s Gate 2#215</a></p><p class="date">2025年12月31日</p></div>
+</div>
+<div id="newpostwidget" class="postlist-container">
+	<div class="postlist-new"><a href=https://studiopoppo.jp/poppoblog/game-play/129094/><img loading="lazy" decoding="async" width="150" height="150" src="https://studiopoppo.jp/poppoblog/wp-content/uploads/2016/12/6d3f1ceda53be85bafc5ea866b5c9a0b-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="ファミコンゲームランキング_アイキャッチ" srcset="https://studiopoppo.jp/poppoblog/wp-content/uploads/2016/12/6d3f1ceda53be85bafc5ea866b5c9a0b-150x150.jpg 150w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2016/12/6d3f1ceda53be85bafc5ea866b5c9a0b-120x120.jpg 120w, https://studiopoppo.jp/poppoblog/wp-content/uploads/2016/12/6d3f1ceda53be85bafc5ea866b5c9a0b.jpg 270w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></div>
+	<div class="postlist-new-inner"><p class="title"><a href=https://studiopoppo.jp/poppoblog/game-play/129094/>伊達あずさが選ぶ面白かったファミコンゲームランキング2025</a></p><p class="date">2025年12月30日</p></div>
+</div>
+</div>
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">最近のコメント</h3><ul id="recentcomments"><li class="recentcomments"><a href="https://studiopoppo.jp/poppoblog/game-play/128793/#comment-4273">ロマンシング サ・ガ3のプレイ日記50：レトロゲーム(スーファミ)</a> に <span class="comment-author-link">ねこずき</span> より</li><li class="recentcomments"><a href="https://studiopoppo.jp/poppoblog/game-play/61234/#comment-4272">貝獣物語のプレイ日記12：レトロゲーム(ファミコン)</a> に <span class="comment-author-link">ウゾームの書</span> より</li><li class="recentcomments"><a href="https://studiopoppo.jp/poppoblog/game-play/61166/#comment-4271">貝獣物語のプレイ日記10：レトロゲーム(ファミコン)</a> に <span class="comment-author-link">ウゾームの書</span> より</li><li class="recentcomments"><a href="https://studiopoppo.jp/poppoblog/game-play/129095/#comment-4270">ゲイラン・ベールに謝礼を払う：Baldur&#8217;s Gate 2#215</a> に <span class="comment-author-link">万里ヨーヨー</span> より</li><li class="recentcomments"><a href="https://studiopoppo.jp/poppoblog/game-play/129092/#comment-4269">奪われたリトルマン：Baldur&#8217;s Gate 2#214</a> に <span class="comment-author-link">万里ヨーヨー</span> より</li></ul></aside><aside id="text-7" class="widget widget_text"><h3 class="widget-title">コンテンツ</h3>			<div class="textwidget"><a href="https://studiopoppo.jp/poppoblog/content-introduction/chat/">雑談 (721)</a><br>
+<a href="https://studiopoppo.jp/poppoblog/content-introduction/comics/">漫画 (208)</a><br>
+<a href="https://studiopoppo.jp/poppoblog/content-introduction/game-play/">プレイ日記 (2931)</a><br>
+<a href="https://studiopoppo.jp/poppoblog/content-introduction/cinema-study/">映画考察 (66)</a><br>
+<a href="https://studiopoppo.jp/poppoblog/content-introduction/psychology/">心理学 (78)</a><br>
+<a href="https://studiopoppo.jp/poppoblog/content-introduction/entertainment/">エンタメ紹介所 (52)</a><br>
+<a href="https://studiopoppo.jp/poppoblog/content-introduction/business/">ビジネス (15)</a><br>
+<a href="https://studiopoppo.jp/poppoblog/family-computer-list/">ファミコンソフト一覧</a><br>
+<a href="https://studiopoppo.jp/poppoblog/site-map/">サイトマップ</a></p>
+</div>
+		</aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget-title">タグクラウド</h3><div class="tagcloud"><ul class='wp-tag-cloud' role='list'>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/3ds/" class="tag-cloud-link tag-link-112 tag-link-position-1" style="font-size: 10.641509433962pt;" aria-label="3DS (7個の項目)">3DS</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/attackofwhitecat-2/" class="tag-cloud-link tag-link-35 tag-link-position-2" style="font-size: 13.943396226415pt;" aria-label="AttackOfWhiteCat (44個の項目)">AttackOfWhiteCat</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/baldurs-gate/" class="tag-cloud-link tag-link-750 tag-link-position-3" style="font-size: 18.301886792453pt;" aria-label="Baldur&#039;s Gate (437個の項目)">Baldur&#039;s Gate</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/chimeraproduction/" class="tag-cloud-link tag-link-59 tag-link-position-4" style="font-size: 12.578616352201pt;" aria-label="ChimeraProduction (21個の項目)">ChimeraProduction</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/cm/" class="tag-cloud-link tag-link-123 tag-link-position-5" style="font-size: 10.641509433962pt;" aria-label="CM (7個の項目)">CM</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/ds/" class="tag-cloud-link tag-link-737 tag-link-position-6" style="font-size: 8pt;" aria-label="DS (1個の項目)">DS</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/lookingforwords/" class="tag-cloud-link tag-link-587 tag-link-position-7" style="font-size: 11.874213836478pt;" aria-label="LookingForWords (14個の項目)">LookingForWords</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/minecraft/" class="tag-cloud-link tag-link-185 tag-link-position-8" style="font-size: 17.333333333333pt;" aria-label="Minecraft (260個の項目)">Minecraft</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/mysteriousnuts/" class="tag-cloud-link tag-link-343 tag-link-position-9" style="font-size: 11.874213836478pt;" aria-label="MysteriousNuts (14個の項目)">MysteriousNuts</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/pc/" class="tag-cloud-link tag-link-721 tag-link-position-10" style="font-size: 11.081761006289pt;" aria-label="PC (9個の項目)">PC</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/ps2/" class="tag-cloud-link tag-link-278 tag-link-position-11" style="font-size: 8pt;" aria-label="PS2 (1個の項目)">PS2</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/ps4/" class="tag-cloud-link tag-link-733 tag-link-position-12" style="font-size: 9.3207547169811pt;" aria-label="PS4 (3個の項目)">PS4</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/pso2/" class="tag-cloud-link tag-link-322 tag-link-position-13" style="font-size: 12.88679245283pt;" aria-label="PSO2 (25個の項目)">PSO2</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/wordpress/" class="tag-cloud-link tag-link-72 tag-link-position-14" style="font-size: 11.25786163522pt;" aria-label="WordPress (10個の項目)">WordPress</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e3%82%a2%e3%83%8b%e3%83%a1/" class="tag-cloud-link tag-link-198 tag-link-position-15" style="font-size: 12.490566037736pt;" aria-label="アニメ (20個の項目)">アニメ</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e3%82%b2%e3%83%bc%e3%83%a0/" class="tag-cloud-link tag-link-344 tag-link-position-16" style="font-size: 22pt;" aria-label="ゲーム (2,999個の項目)">ゲーム</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e3%82%b9%e3%83%9e%e3%83%9b/" class="tag-cloud-link tag-link-722 tag-link-position-17" style="font-size: 10.641509433962pt;" aria-label="スマホ (7個の項目)">スマホ</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%83%95%e3%82%a1%e3%83%9f%e3%82%b3%e3%83%b3/" class="tag-cloud-link tag-link-746 tag-link-position-18" style="font-size: 20.018867924528pt;" aria-label="スーパーファミコン (1,080個の項目)">スーパーファミコン</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e3%83%87%e3%82%a3%e3%82%b9%e3%82%af%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0/" class="tag-cloud-link tag-link-736 tag-link-position-19" style="font-size: 15.836477987421pt;" aria-label="ディスクシステム (119個の項目)">ディスクシステム</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e3%83%89%e3%83%a9%e3%83%9e/" class="tag-cloud-link tag-link-191 tag-link-position-20" style="font-size: 12.40251572327pt;" aria-label="ドラマ (19個の項目)">ドラマ</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9/" class="tag-cloud-link tag-link-485 tag-link-position-21" style="font-size: 12.314465408805pt;" aria-label="ニュース (18個の項目)">ニュース</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e3%83%90%e3%83%a9%e3%82%a8%e3%83%86%e3%82%a3/" class="tag-cloud-link tag-link-715 tag-link-position-22" style="font-size: 9.7610062893082pt;" aria-label="バラエティ (4個の項目)">バラエティ</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e3%83%95%e3%82%a1%e3%83%9f%e3%82%b3%e3%83%b3/" class="tag-cloud-link tag-link-145 tag-link-position-23" style="font-size: 20.194968553459pt;" aria-label="ファミコン (1,175個の項目)">ファミコン</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e3%83%97%e3%83%ac%e3%82%a4%e6%97%a5%e8%a8%98/" class="tag-cloud-link tag-link-76 tag-link-position-24" style="font-size: 21.955974842767pt;" aria-label="プレイ日記 (2,932個の項目)">プレイ日記</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%a0/" class="tag-cloud-link tag-link-725 tag-link-position-25" style="font-size: 8.7924528301887pt;" aria-label="プログラム (2個の項目)">プログラム</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e3%83%9a%e3%83%83%e3%83%88/" class="tag-cloud-link tag-link-723 tag-link-position-26" style="font-size: 11.081761006289pt;" aria-label="ペット (9個の項目)">ペット</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e5%86%92%e9%99%ba%e5%85%88%e7%94%9f/" class="tag-cloud-link tag-link-106 tag-link-position-27" style="font-size: 13.194968553459pt;" aria-label="冒険先生 (29個の項目)">冒険先生</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e5%9c%b0%e7%90%86/" class="tag-cloud-link tag-link-720 tag-link-position-28" style="font-size: 10.421383647799pt;" aria-label="地理 (6個の項目)">地理</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e5%b9%bb%e6%83%b3%e7%a5%9e%e5%9f%9f/" class="tag-cloud-link tag-link-77 tag-link-position-29" style="font-size: 9.7610062893082pt;" aria-label="幻想神域 (4個の項目)">幻想神域</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e5%bf%83%e7%90%86%e5%ad%a6/" class="tag-cloud-link tag-link-52 tag-link-position-30" style="font-size: 15.176100628931pt;" aria-label="心理学 (84個の項目)">心理学</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e6%89%8b%e7%b6%9a%e3%81%8d/" class="tag-cloud-link tag-link-727 tag-link-position-31" style="font-size: 8.7924528301887pt;" aria-label="手続き (2個の項目)">手続き</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e6%96%87%e7%ab%a0/" class="tag-cloud-link tag-link-726 tag-link-position-32" style="font-size: 8pt;" aria-label="文章 (1個の項目)">文章</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e6%97%a5%e8%a8%98/" class="tag-cloud-link tag-link-713 tag-link-position-33" style="font-size: 16.672955974843pt;" aria-label="日記 (185個の項目)">日記</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e6%9c%ac/" class="tag-cloud-link tag-link-706 tag-link-position-34" style="font-size: 11.874213836478pt;" aria-label="本 (14個の項目)">本</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e6%ad%b4%e5%8f%b2/" class="tag-cloud-link tag-link-719 tag-link-position-35" style="font-size: 15.352201257862pt;" aria-label="歴史 (93個の項目)">歴史</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e6%b3%95%e5%be%8b/" class="tag-cloud-link tag-link-404 tag-link-position-36" style="font-size: 10.11320754717pt;" aria-label="法律 (5個の項目)">法律</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e6%bc%ab%e7%94%bb/" class="tag-cloud-link tag-link-34 tag-link-position-37" style="font-size: 16.981132075472pt;" aria-label="漫画 (216個の項目)">漫画</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e7%94%9f%e7%89%a9/" class="tag-cloud-link tag-link-717 tag-link-position-38" style="font-size: 15.264150943396pt;" aria-label="生物 (88個の項目)">生物</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e7%97%85%e6%b0%97/" class="tag-cloud-link tag-link-132 tag-link-position-39" style="font-size: 12.842767295597pt;" aria-label="病気 (24個の項目)">病気</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e7%a4%be%e4%bc%9a/" class="tag-cloud-link tag-link-735 tag-link-position-40" style="font-size: 13.943396226415pt;" aria-label="社会 (44個の項目)">社会</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e7%a7%91%e5%ad%a6/" class="tag-cloud-link tag-link-240 tag-link-position-41" style="font-size: 10.641509433962pt;" aria-label="科学 (7個の項目)">科学</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e8%80%83%e5%af%9f/" class="tag-cloud-link tag-link-724 tag-link-position-42" style="font-size: 15.132075471698pt;" aria-label="考察 (83個の項目)">考察</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e8%8b%a6%e6%83%85/" class="tag-cloud-link tag-link-751 tag-link-position-43" style="font-size: 8pt;" aria-label="苦情 (1個の項目)">苦情</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e9%9b%91%e5%ad%a6/" class="tag-cloud-link tag-link-714 tag-link-position-44" style="font-size: 17.77358490566pt;" aria-label="雑学 (330個の項目)">雑学</a></li>
+	<li><a href="https://studiopoppo.jp/poppoblog/tag/%e9%9f%b3%e6%a5%bd/" class="tag-cloud-link tag-link-708 tag-link-position-45" style="font-size: 11.566037735849pt;" aria-label="音楽 (12個の項目)">音楽</a></li>
+</ul>
+</div>
+</aside><aside id="collapsed_archives_widget-3" class="widget widget_collapsed_archives_widget"><h3 class="widget-title">アーカイブ</h3><div class="collapsed-archives"><ul><li><input type="checkbox" id="archive-year-2026"><label for="archive-year-2026"></label>	<a href='https://studiopoppo.jp/poppoblog/date/2026/'>2026</a>&nbsp;(3)
+<ul class="year">	<li><a href='https://studiopoppo.jp/poppoblog/date/2026/01/'>1月</a>&nbsp;(3)</li>
+</ul></li><li><input type="checkbox" id="archive-year-2025"><label for="archive-year-2025"></label>	<a href='https://studiopoppo.jp/poppoblog/date/2025/'>2025</a>&nbsp;(365)
+<ul class="year">	<li><a href='https://studiopoppo.jp/poppoblog/date/2025/12/'>12月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2025/11/'>11月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2025/10/'>10月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2025/09/'>9月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2025/08/'>8月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2025/07/'>7月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2025/06/'>6月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2025/05/'>5月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2025/04/'>4月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2025/03/'>3月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2025/02/'>2月</a>&nbsp;(28)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2025/01/'>1月</a>&nbsp;(31)</li>
+</ul></li><li><input type="checkbox" id="archive-year-2024"><label for="archive-year-2024"></label>	<a href='https://studiopoppo.jp/poppoblog/date/2024/'>2024</a>&nbsp;(366)
+<ul class="year">	<li><a href='https://studiopoppo.jp/poppoblog/date/2024/12/'>12月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2024/11/'>11月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2024/10/'>10月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2024/09/'>9月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2024/08/'>8月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2024/07/'>7月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2024/06/'>6月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2024/05/'>5月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2024/04/'>4月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2024/03/'>3月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2024/02/'>2月</a>&nbsp;(29)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2024/01/'>1月</a>&nbsp;(31)</li>
+</ul></li><li><input type="checkbox" id="archive-year-2023"><label for="archive-year-2023"></label>	<a href='https://studiopoppo.jp/poppoblog/date/2023/'>2023</a>&nbsp;(365)
+<ul class="year">	<li><a href='https://studiopoppo.jp/poppoblog/date/2023/12/'>12月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2023/11/'>11月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2023/10/'>10月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2023/09/'>9月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2023/08/'>8月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2023/07/'>7月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2023/06/'>6月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2023/05/'>5月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2023/04/'>4月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2023/03/'>3月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2023/02/'>2月</a>&nbsp;(28)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2023/01/'>1月</a>&nbsp;(31)</li>
+</ul></li><li><input type="checkbox" id="archive-year-2022"><label for="archive-year-2022"></label>	<a href='https://studiopoppo.jp/poppoblog/date/2022/'>2022</a>&nbsp;(365)
+<ul class="year">	<li><a href='https://studiopoppo.jp/poppoblog/date/2022/12/'>12月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2022/11/'>11月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2022/10/'>10月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2022/09/'>9月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2022/08/'>8月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2022/07/'>7月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2022/06/'>6月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2022/05/'>5月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2022/04/'>4月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2022/03/'>3月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2022/02/'>2月</a>&nbsp;(28)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2022/01/'>1月</a>&nbsp;(31)</li>
+</ul></li><li><input type="checkbox" id="archive-year-2021"><label for="archive-year-2021"></label>	<a href='https://studiopoppo.jp/poppoblog/date/2021/'>2021</a>&nbsp;(365)
+<ul class="year">	<li><a href='https://studiopoppo.jp/poppoblog/date/2021/12/'>12月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2021/11/'>11月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2021/10/'>10月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2021/09/'>9月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2021/08/'>8月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2021/07/'>7月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2021/06/'>6月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2021/05/'>5月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2021/04/'>4月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2021/03/'>3月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2021/02/'>2月</a>&nbsp;(28)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2021/01/'>1月</a>&nbsp;(31)</li>
+</ul></li><li><input type="checkbox" id="archive-year-2020"><label for="archive-year-2020"></label>	<a href='https://studiopoppo.jp/poppoblog/date/2020/'>2020</a>&nbsp;(366)
+<ul class="year">	<li><a href='https://studiopoppo.jp/poppoblog/date/2020/12/'>12月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2020/11/'>11月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2020/10/'>10月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2020/09/'>9月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2020/08/'>8月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2020/07/'>7月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2020/06/'>6月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2020/05/'>5月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2020/04/'>4月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2020/03/'>3月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2020/02/'>2月</a>&nbsp;(29)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2020/01/'>1月</a>&nbsp;(31)</li>
+</ul></li><li><input type="checkbox" id="archive-year-2019"><label for="archive-year-2019"></label>	<a href='https://studiopoppo.jp/poppoblog/date/2019/'>2019</a>&nbsp;(365)
+<ul class="year">	<li><a href='https://studiopoppo.jp/poppoblog/date/2019/12/'>12月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2019/11/'>11月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2019/10/'>10月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2019/09/'>9月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2019/08/'>8月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2019/07/'>7月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2019/06/'>6月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2019/05/'>5月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2019/04/'>4月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2019/03/'>3月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2019/02/'>2月</a>&nbsp;(28)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2019/01/'>1月</a>&nbsp;(31)</li>
+</ul></li><li><input type="checkbox" id="archive-year-2018" checked><label for="archive-year-2018"></label>	<a href='https://studiopoppo.jp/poppoblog/date/2018/'>2018</a>&nbsp;(365)
+<ul class="year">	<li><a href='https://studiopoppo.jp/poppoblog/date/2018/12/'>12月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2018/11/'>11月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2018/10/'>10月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2018/09/'>9月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2018/08/'>8月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2018/07/'>7月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2018/06/'>6月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2018/05/'>5月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2018/04/'>4月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2018/03/'>3月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2018/02/'>2月</a>&nbsp;(28)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2018/01/'>1月</a>&nbsp;(31)</li>
+</ul></li><li><input type="checkbox" id="archive-year-2017"><label for="archive-year-2017"></label>	<a href='https://studiopoppo.jp/poppoblog/date/2017/'>2017</a>&nbsp;(365)
+<ul class="year">	<li><a href='https://studiopoppo.jp/poppoblog/date/2017/12/'>12月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2017/11/'>11月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2017/10/'>10月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2017/09/'>9月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2017/08/'>8月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2017/07/'>7月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2017/06/'>6月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2017/05/'>5月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2017/04/'>4月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2017/03/'>3月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2017/02/'>2月</a>&nbsp;(28)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2017/01/'>1月</a>&nbsp;(31)</li>
+</ul></li><li><input type="checkbox" id="archive-year-2016"><label for="archive-year-2016"></label>	<a href='https://studiopoppo.jp/poppoblog/date/2016/'>2016</a>&nbsp;(366)
+<ul class="year">	<li><a href='https://studiopoppo.jp/poppoblog/date/2016/12/'>12月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2016/11/'>11月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2016/10/'>10月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2016/09/'>9月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2016/08/'>8月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2016/07/'>7月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2016/06/'>6月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2016/05/'>5月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2016/04/'>4月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2016/03/'>3月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2016/02/'>2月</a>&nbsp;(29)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2016/01/'>1月</a>&nbsp;(31)</li>
+</ul></li><li><input type="checkbox" id="archive-year-2015"><label for="archive-year-2015"></label>	<a href='https://studiopoppo.jp/poppoblog/date/2015/'>2015</a>&nbsp;(366)
+<ul class="year">	<li><a href='https://studiopoppo.jp/poppoblog/date/2015/12/'>12月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2015/11/'>11月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2015/10/'>10月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2015/09/'>9月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2015/08/'>8月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2015/07/'>7月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2015/06/'>6月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2015/05/'>5月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2015/04/'>4月</a>&nbsp;(30)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2015/03/'>3月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2015/02/'>2月</a>&nbsp;(28)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2015/01/'>1月</a>&nbsp;(31)</li>
+</ul></li><li><input type="checkbox" id="archive-year-2014"><label for="archive-year-2014"></label>	<a href='https://studiopoppo.jp/poppoblog/date/2014/'>2014</a>&nbsp;(50)
+<ul class="year">	<li><a href='https://studiopoppo.jp/poppoblog/date/2014/12/'>12月</a>&nbsp;(31)</li>
+	<li><a href='https://studiopoppo.jp/poppoblog/date/2014/11/'>11月</a>&nbsp;(19)</li>
+</ul></li></ul></div></aside><aside id="text-5" class="widget widget_text"><h3 class="widget-title">ぽっぽブログ QRコード</h3>			<div class="textwidget"><a href="https://studiopoppo.jp/poppoblog/wp-content/uploads/2015/01/studiopoppo_qr_code.png"><img src="https://studiopoppo.jp/poppoblog/wp-content/uploads/2015/01/studiopoppo_qr_code.png" alt="Studio-POPPO-QRコード" width="180" height="180" class="aligncenter size-full wp-image-1128" /></a></div>
+		</aside>		</div><!-- #secondary -->
+	﻿	</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+			<a href="https://studiopoppo.jp/poppoblog/inquiry/">お問い合わせ</a> | <a href="https://studiopoppo.jp/poppoblog/privacy-policy/">プライバシーポリシー</a><br>
+			Copyright (c) Studio POPPO All Rights Reserved.
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/poppoblog/*"},{"not":{"href_matches":["/poppoblog/wp-*.php","/poppoblog/wp-admin/*","/poppoblog/wp-content/uploads/*","/poppoblog/wp-content/*","/poppoblog/wp-content/plugins/*","/poppoblog/wp-content/themes/twentytwelve-child/*","/poppoblog/wp-content/themes/twentytwelve/*","/poppoblog/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script src="https://apis.google.com/js/platform.js" async defer>
+  {lang: 'ja'}
+</script>
+<script type="module"  src="https://studiopoppo.jp/poppoblog/wp-content/plugins/all-in-one-seo-pack/dist/Lite/assets/table-of-contents.95d0dfce.js?ver=4.9.2" id="aioseo/js/src/vue/standalone/blocks/table-of-contents/frontend.js-js"></script>
+<script type="text/javascript" src="https://studiopoppo.jp/poppoblog/wp-content/plugins/easy-fancybox/vendor/purify.min.js?ver=6.9" id="fancybox-purify-js"></script>
+<script type="text/javascript" id="jquery-fancybox-js-extra">
+/* <![CDATA[ */
+var efb_i18n = {"close":"Close","next":"Next","prev":"Previous","startSlideshow":"Start slideshow","toggleSize":"Toggle size"};
+//# sourceURL=jquery-fancybox-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://studiopoppo.jp/poppoblog/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.js?ver=6.9" id="jquery-fancybox-js"></script>
+<script type="text/javascript" id="jquery-fancybox-js-after">
+/* <![CDATA[ */
+var fb_timeout, fb_opts={'autoScale':true,'showCloseButton':true,'margin':20,'pixelRatio':'false','centerOnScroll':false,'enableEscapeButton':true,'overlayShow':true,'hideOnOverlayClick':true,'minVpHeight':320,'disableCoreLightbox':'true','enableBlockControls':'true','fancybox_openBlockControls':'true' };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery([".nolightbox","a.wp-block-file__button","a.pin-it-button","a[href*='pinterest.com\/pin\/create']","a[href*='facebook.com\/share']","a[href*='twitter.com\/share']"].join(',')).addClass('nofancybox');
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+/* IMG */
+						var unlinkedImageBlocks=jQuery(".wp-block-image > img:not(.nofancybox,figure.nofancybox>img)");
+						unlinkedImageBlocks.wrap(function() {
+							var href = jQuery( this ).attr( "src" );
+							return "<a href='" + href + "'></a>";
+						});
+var fb_IMG_select=jQuery('a[href*=".jpg" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".jpg" i]:not(.nofancybox),a[href*=".jpeg" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".jpeg" i]:not(.nofancybox),a[href*=".png" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".png" i]:not(.nofancybox),a[href*=".webp" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".webp" i]:not(.nofancybox)');
+fb_IMG_select.addClass('fancybox image');
+var fb_IMG_sections=jQuery('.gallery,.wp-block-gallery,.tiled-gallery,.wp-block-jetpack-tiled-gallery,.ngg-galleryoverview,.ngg-imagebrowser,.nextgen_pro_blog_gallery,.nextgen_pro_film,.nextgen_pro_horizontal_filmstrip,.ngg-pro-masonry-wrapper,.ngg-pro-mosaic-container,.nextgen_pro_sidescroll,.nextgen_pro_slideshow,.nextgen_pro_thumbnail_grid,.tiled-gallery');
+fb_IMG_sections.each(function(){jQuery(this).find(fb_IMG_select).attr('rel','gallery-'+fb_IMG_sections.index(this));});
+jQuery('a.fancybox,area.fancybox,.fancybox>a').each(function(){jQuery(this).fancybox(jQuery.extend(true,{},fb_opts,{'transition':'elastic','transitionIn':'elastic','easingIn':'easeOutBack','transitionOut':'elastic','easingOut':'easeInBack','opacity':false,'hideOnContentClick':true,'titleShow':false,'titlePosition':'over','titleFromAlt':true,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false,'mouseWheel':'false'}))});
+};};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+
+//# sourceURL=jquery-fancybox-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://studiopoppo.jp/poppoblog/wp-content/plugins/easy-fancybox/vendor/jquery.easing.min.js?ver=1.4.1" id="jquery-easing-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-before">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"79199622\",\"post\":\"42742\",\"tz\":\"9\",\"srv\":\"studiopoppo.jp\",\"j\":\"1:15.3.1\"}") ]);
+_stq.push([ "clickTrackerInit", "79199622", "42742" ]);
+//# sourceURL=jetpack-stats-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stats.wp.com/e-202601.js" id="jetpack-stats-js" defer="defer" data-wp-strategy="defer"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://studiopoppo.jp/poppoblog/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://studiopoppo.jp/poppoblog/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+</body>
+</html>

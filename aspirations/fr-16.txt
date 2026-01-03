@@ -1,0 +1,152 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=604800
+Content-Type: text/html
+Last-Modified: Wed, 02 Jul 2025 20:43:14 GMT
+Accept-Ranges: bytes
+ETag: "1178bcee91ebdb1:0"
+Server: Microsoft-IIS/10.0
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self' https://*.gotquestions.org
+Date: Sat, 03 Jan 2026 16:43:55 GMT
+Content-Length: 14028
+
+<!doctype html>
+<html lang="fr">
+<head>
+<title>Quel est le plus grand péché ?</title>
+<META name="keywords" itemprop="keywords" content="plus grand peche">
+<META name="description" itemprop="description" property="og:description" content="Quel est le plus grand péché ? Y a-t-il un péché plus grand que les autres ?">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="stylesheet" type="text/css" href="https://www.gotquestions.org/style.css">
+<link rel="image_src" itemprop="image" href="https://www.gotquestions.org/images/GQimage.jpg">
+<meta property="og:image" content="https://www.gotquestions.org/images/GQimage.jpg">
+<meta property="og:site_name" content="GotQuestions.org/Francais">
+<meta property="og:type" content="article">
+<link rel="canonical" itemprop="url" href="https://www.gotquestions.org/Francais/plus-grand-peche.html">
+<meta property="og:url" content="https://www.gotquestions.org/Francais/plus-grand-peche.html">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M7EVHFDMSZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-M7EVHFDMSZ');
+</script>
+</head>
+<body data-site-theme="light">
+<div class="fixed-button settings box-shadow"><img src="https://www.gotquestions.org/img/cogwheel.svg" alt="settings icon" onclick="settingsMenu(this)"></div>
+<div class="fixed-button sharebutton box-shadow"><img src="https://www.gotquestions.org/img/share.svg" alt="share icon" onclick="shareMenu(this)"></div>
+<header class="gradient-to-b" style="--color-start: var(--bgcolor-header-start);  --color-end: var(--bgcolor-header-end);">
+<div class="searchbox desktop-show"><div class="search"><div class='gq-ac-placeholder header'></div></div></div>
+<div class="logo-wrap"><a href="https://www.gotquestions.org/Francais" class="logo"><img src="https://www.gotquestions.org/img/logo_2025_INTL.svg" alt="Réponses à des questions bibliques"></a></div>
+<nav>
+<ul>
+<li><a href="Qui-sommes-nous.html">Qui</a></li>
+<li><a href="rechercher.html">Recherche</a></li>
+<li><a href="Confession-de-Foi.html">Foi</a></li>
+<li><a href="questions-Bible.html">Poser</a></li>
+<li><a href="Bonnes-Nouvelles.html">La Bonne Nouvelle</a></li>
+<li><a href="question-semaine.html">Semaine</a></li>
+</ul>
+<ul class="extra-menu modal-menu box-shadow">
+<li class="mobile-show flex-half"><a href="Qui-sommes-nous.html">Qui</a></li>
+<li class="mobile-show flex-half"><a href="rechercher.html">Recherche</a></li>
+<li class="mobile-show flex-half"><a href="Confession-de-Foi.html">Foi</a></li>
+<li class="mobile-show flex-half"><a href="questions-Bible.html">Poser</a></li>
+<li class="mobile-show flex-half"><a href="Bonnes-Nouvelles.html">La Bonne Nouvelle</a></li>
+<li><a href="Questions-tres-importantes.html">Questions très importantes</a></li>
+<li><a href="Questions-frequemment-posees.html">Questions les plus fréquemment posées</a></li>
+<li class="mobile-show donate"><a href="Bonnes-Nouvelles.html">La Bonne Nouvelle</a></li>
+<li class="mobile-show donate"><a href="question-semaine.html">Question de la Semaine</a></li>
+</ul>
+<ul class="settings-menu modal-menu box-shadow">
+<li>
+<div class="toggle-wrap">
+<span>Claire</span><input type="checkbox" checked id="toggle" class="checkbox" onclick="toggleTheme(this)" /><label for="toggle" class="switch"></label><span>Sombre</span>
+</div>
+</li>
+<li><label for="font">Famille de polices</label><select name="font" id="font" onchange="changeFont()"><option value="system-ui">Défaut</option><option value="Arial">Arial</option><option value="Verdana">Verdana</option><option value="Helvetica">Helvetica</option><option value="Tahoma">Tahoma</option><option value="Georgia">Georgia</option><option value="Times New Roman">Times New Roman</option></select></li>
+<li><label for="lineheight">Hauteur de la ligne</label><select name="lineheight" id="lineheight" onchange="changeLineHeight()"><option value="1.4">Défaut</option><option value="1">1.0</option><option value="1.2">1.2</option><option value="1.5">1.5</option><option value="2">2</option></select></li>
+<li><label for="fontsize">Taille de police</label><select name="fontsize" id="fontsize" onchange="changeFontSize()"><option value="1">Défaut</option><option value="1">1.0</option><option value="1.2">1.2</option><option value="1.5">1.5</option><option value="2">2</option></select></li>
+</ul>
+<ul class="final-menu modal-menu box-shadow">
+<li><a href="https://www.facebook.com/sharer.php?u=https://www.gotquestions.org/" class="fb" title="Partager sur Facebook"><img src="https://www.gotquestions.org/img/logo-fb-simple.svg" alt="Facebook icon">Facebook</a></li>
+<li><a href="http://twitter.com/share?url=https://www.gotquestions.org/" class="tw" title="Partager sur Twitter"><img src="https://www.gotquestions.org/img/logo-twitter.svg" alt="Twitter icon">Twitter</a></li>
+<li><a href="https://pinterest.com/pin/create/link/?url=https://www.gotquestions.org/" class="pi" title="Partager sur Pinterest"><img src="https://www.gotquestions.org/img/logo-pinterest.svg" alt="Pinterest icon">Pinterest</a></li>
+<li><a class="SendEmail" href="" title="Partagez cette page par e-mail"><img src="https://www.gotquestions.org/img/letter.svg" alt="Email icon">Email</a></li>
+</ul>
+<img src="https://www.gotquestions.org/img/menu.svg" class="menu-icon" alt="Menu icon" onclick="extraMenu(this)">
+</nav>
+</header>
+<div class="featured gradient-to-tr" style="--color-start: var(--bgcolor-featured-start); --color-end: var(--bgcolor-featured-end)">
+<div class="featured-left">
+<h5>Découvrez comment ...</h5>
+<h4><a href="Vie-Eternelle.html">recevoir la vie éternelle</a></h4>
+<h4><a href="Recevoir-pardon-Dieu.html">recevoir le pardon de Dieu</a></h4>
+</div>
+<div class="featured-right">
+<div class="desktop-hide gq-YT"><a href="https://www.youtube.com/@gotquestions.org-francais" target="_blank"><img src="https://www.gotquestions.org/img/GQ-YT.png"></a></div>
+</div>
+</div>
+<main><div class="breadcrumb-wrapper">
+<span class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://www.gotquestions.org"><span itemprop="name">GotQuestions.org</span></a><meta itemprop="position" content="1"></span> &#62; <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://www.gotquestions.org/Francais"><span itemprop="name">Français</span></a><meta itemprop="position" content="2"></span> &#62; <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://www.gotquestions.org/Francais/Questions-sur-peche.html"><span itemprop="name">Questions sur le péché</span></a><meta itemprop="position" content="3"></span> &#62; plus grand peche</span></div>
+<section class="content-wrap gradient-to-b" style="--color-start: var(--bgcolor-content-start); --color-end: var(--bgcolor-content-end);" ><div class="content">
+<div class="label gradient-to-tr" style="--color-start: #96445a; --color-end: #6f637e;">Question</div>
+<h1><span itemprop="name headline" property="og:title">Quel est le plus grand péché ?</span></h1>
+<div class="actions-wrap"><div class="actions">
+<a href="Printer/plus-grand-peche-PF.html"><img class="questionInteract" src="https://www.gotquestions.org/img/print.svg"></a>
+</div></div>
+<span itemprop="articleBody">
+<div class="label  gradient-to-tr" style="--color-start: #29a699; --color-end: #749c5a;">Réponse</div><br><br>
+Face à l'éternité, aucun péché n'est plus grand qu'un autre : tous nos péchés nous séparent de Dieu et doivent être expiés. Il n'y a pas non plus de « péché relativement plus grave » au sens de péché « mortel » ou « véniel », comme l'enseigne l'Église catholique : tous les péchés sont mortels, en ce sens qu'un seul péché suffit à entraîner la mort spirituelle et la séparation éternelle avec Dieu. En même temps, la Bible dit qu'au jour du jugement, certains péchés seront punis plus sévèrement que d'autres (Matthieu 11.22, 24, Luc 10.12, 14). <br><br>
+Jésus a parlé d'un « plus grand » péché (mais pas « le plus grand ») : en Jean 19.11, il dit à Ponce Pilate que celui qui l'a livré à lui a commis un « plus grand péché », c'est-à-dire que cette personne, qu'il s'agisse de Judas ou de Caïphe, était plus coupable que lui, parce qu'elle l'a livré délibérément après avoir vu ses miracles et entendu son enseignement, qui montraient clairement qu'il était le Messie et le Fils de Dieu. Son péché est donc plus grave que celui de Pilate, qui a agi par ignorance. On peut en conclure que ceux qui rejettent Jésus tout en sachant qu'il est le Fils de Dieu seront punis plus sévèrement que les ignorants : « Si vous étiez aveugles, vous n'auriez pas de péché. Mais en réalité, vous dites : « Nous voyons. » [Ainsi donc,] votre péché reste. » (Jean 9.41) <br><br>
+Ce passage ne dit cependant pas qu'il s'agit là du « plus grand péché » de tous. Proverbes 6.16-19 contient une liste de sept péchés que Dieu déteste et a en horreur : « les yeux hautains, la langue menteuse, les mains qui versent le sang innocent, le cœur qui médite des projets injustes, les pieds qui se dépêchent de courir au mal, le faux témoin qui dit des mensonges et celui qui provoque des conflits entre frères. » Aucun de ces sept péchés n'est considéré comme plus grave que les autres ni identifié comme le plus grand péché. <br><br>
+La Bible ne mentionne pas le plus grand péché, mais elle parle d'un péché impardonnable : l'incroyance. Celui qui meurt sans avoir cru en Christ n'obtiendra pas de pardon. La Bible dit clairement que Dieu, dans son amour pour l'humanité, a pourvu au moyen du salut éternel pour « quiconque croit en lui » (Jean 3.16) : Jésus-Christ, par sa mort sur la croix. Le pardon n'est refusé qu'à ceux qui rejettent ce seul moyen. Jésus a dit : « C'est moi qui suis le chemin, la vérité et la vie. On ne vient au Père qu’en passant par moi » (Jean 14.6), ce qui montre clairement qu'il est le seul chemin vers Dieu et le salut. Le rejeter est un péché impardonnable et donc, en ce sens, le plus grand de tous les péchés. <br><br>
+</span><a href="https://www.gotquestions.org/greatest-sin.html">English</a><br><br>
+<div class="related resources"><h4>Ressources d'Étude</h4>
+<a target="_blank" rel="sponsored noopener" onClick="gtag('event', 'click', {'event_category':'engagement', 'event_label':'amzn'});" href="https://amzn.to/4lbyzRm">Bible d'étude Vie nouvelle Segond 21 par Société biblique de Genève</a><br><br>
+<a target="_blank" rel="sponsored noopener" onClick="gtag('event', 'click', {'event_category':'engagement', 'event_label':'amzn'});" href="https://amzn.to/4evTEmV">Bible d'étude version du Semeur par Excelsis</a><br><br>
+<a target="_blank" rel="sponsored noopener" onClick="gtag('event', 'click', {'event_category':'engagement', 'event_label':'amzn'});" href="https://amzn.to/44JZ1LY">Segond révisée "La Colombe", Bible d'étude de la foi réformée par R.C. Sproul</a>
+</div>
+<hr><br>
+<center><strong class="return">
+<a class="button-link box-shadow" href="https://www.gotquestions.org/Francais">Retour à la page d'accueil en français</a><br><br>
+Quel est le plus grand péché ?</strong></center>
+</div>
+</section>
+</section>
+<section class="subscribe gradient-to-br" style="--color-start: #153c59; --color-end: #1b537c">
+<div class="grid">
+<div class="gradient-to-br box-shadow" style="--color-start: #2c6482; --color-end: #64547b">
+<h5>Abonnez-vous à la</h5>
+<h3>Question de la Semaine</h3>
+<iframe src="qotw.htm" title="Question de la Semaine" frameborder="0" width="100%" height="100%"></iframe>
+</div></div>
+</section>
+<section class="share gradient-to-b" style="--color-start: #073D60; --color-end: #0A3652;">
+<span>Partager cette page</span>
+<a href="https://www.facebook.com/sharer.php?u=https://www.gotquestions.org/" class="fb" title="Partager sur Facebook"><img src="https://www.gotquestions.org/img/logo-fb-simple.svg" alt="Facebook icon"></a>
+<a href="http://twitter.com/share?url=https://www.gotquestions.org/" class="tw" title="Partager sur Twitter"><img src="https://www.gotquestions.org/img/logo-twitter.svg" alt="Twitter icon"></a>
+<a target="_blank" href="https://www.youtube.com/@gotquestions.org-francais"><img src="https://www.gotquestions.org/img/logo-youtube.svg" alt="YouTube icon"></a>
+<a href="https://pinterest.com/pin/create/link/?url=https://www.gotquestions.org/" class="pi" title="Partager sur Pinterest"><img src="https://www.gotquestions.org/img/logo-pinterest.svg" alt="Pinterest icon"></a>
+<a class="SendEmail" href="" title="Partagez cette page par e-mail"><img src="https://www.gotquestions.org/img/letter.svg" alt="Email icon"></a>
+</section>
+</main>
+<footer>
+<div class="grid"><div>
+<div class="logo"></div>
+</div>
+<div class="network">
+</div>
+<div class="apps">
+<a href="https://apps.apple.com/us/app/got-questions/id366553550" target="_blank" rel="noopener" onClick="gtag('event', 'download', {'event_category':'engagement', 'event_label':'ios-app'});"><img src="https://www.gotquestions.org/img/apple-appstore.svg" class="appSource"></a>
+<a href="https://play.google.com/store/apps/details?id=com.gotquestions.gqandapp" target="_blank" rel="noopener" onClick="gtag('event', 'download', {'event_category':'engagement', 'event_label':'android-app'});"><img src="https://www.gotquestions.org/img/google-play.svg" class="appSource"></a>
+</div>
+</div>
+</footer>
+<div class="bottom"><center>&copy; Copyright Got Questions Ministries</center></div>
+<script src="gqscripts2021-FR.js"></script>
+<script async defer src="https://bible-link.globalrize.org/plugin.js" data-language="fr" data-translation="lbs21" data-reference-color="#338BBD" data-excluded-elements="h1"></script>
+</body>
+</html>

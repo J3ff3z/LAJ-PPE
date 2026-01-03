@@ -1,0 +1,930 @@
+HTTP/1.1 200 OK
+Date: Sat, 03 Jan 2026 16:52:55 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Vary: Accept,Accept-Encoding
+Set-Cookie: PHPSESSID=ll08mjlnefuoh2df7ro561e1r9; path=/; secure; HttpOnly
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: upgrade-insecure-requests
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="pl">
+<head>
+	<!-- Meta -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0" />
+	
+		<!-- Meta - END -->
+
+	<!-- SEO -->
+	<title>Co Swinarski dopowiada w &quot;Dziadach&quot; ::: Artykuły ::: Encyklopedia teatru polskiego</title>  
+      <meta name="author" content="Encyklopedia teatru polskiego" >
+<meta name="dcterms.rightsHolder" content="Instytut Teatralny im. Zbigniewa Raszewskiego" >
+<meta name="keywords" content="Encyklopedia teatru, Osoby, Przedstawienia, Teatry, Zespoły, Krytyka, Scenografia, Badania teatralne, Architektura, Wystawy, Książki, Czasopisma" >
+<meta name="description" content="" >
+  <meta property="og:title" content="Co Swinarski dopowiada w &quot;Dziadach&quot;" />
+
+<meta property="og:site_name" content="Encyklopedia teatru polskiego" />
+
+<meta property="og:url" content="https://encyklopediateatru.pl/artykuly/90205/co-swinarski-dopowiada-w-dziadach" />
+
+
+<meta property="og:image" content="https://encyklopediateatru.pl/images/encyklopedia/logo_etp.png" />
+	<!-- SEO - END -->
+
+	<!-- CSS -->
+	  <link rel="stylesheet" href="/encyklopedia/css/reset.css" title="Styles" type="text/css" media="all">
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+  <link rel="stylesheet" href="/js/encyklopedia/jquery/colorbox/example3/colorbox.css">
+      
+    <link rel="stylesheet" href="/encyklopedia/css/grid.css" title="Styles" type="text/css" media="all">
+  <link rel="stylesheet" href="/css/encyklopedia/mainstyle.css?v=4" title="Styles" type="text/css" media="all">
+  <link rel="stylesheet" href="/css/encyklopedia/style.css?v=2" title="Styles" type="text/css" media="all">
+        
+  <link href='//fonts.googleapis.com/css?family=Roboto:300,400,700%7CRoboto+Slab:300,400,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css' media="all">
+  <link type="text/css" href="/lib/encyklopedia/scroll/style/jquery.jscrollpane.css" rel="stylesheet" media="all" />  
+  
+  <link rel="icon" type="image/png" href="/favicon.png" />
+  
+  
+  <link rel="stylesheet" href="/css/encyklopedia/pdfreader.css" title="Styles" type="text/css" media="screen">
+      
+        
+  <meta name="viewport" content="width = device-width, initial-scale = 1, maximum-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-touch-fullscreen" content="yes">
+  <meta charset="UTF-8">
+	<!-- CSS - END -->
+
+
+	<!-- JS -->
+	        <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-3.3.2.js"></script>
+    <script>jQuery.migrateMute = true;</script>
+    
+      <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="/lib/encyklopedia/scroll/script/jquery.jscrollpane.min_new.js"></script>
+    <script type="text/javascript" src="/lib/encyklopedia/scroll/script/jquery.mousewheel.js"></script>
+  <script type="text/javascript" src="/lib/encyklopedia/jplayer/jquery.jplayer.js"></script>
+
+  
+  <script src="/encyklopedia/js/jqmobile.js"></script>
+  
+
+    <script src="/js/encyklopedia/ajax_jozefszajna.js?7"></script>
+  <style>
+    .timeline .badge-jozefszajna{        background: url(../encyklopedia/img/logo_reduty.svg) #FFC562 no-repeat;
+    background-size: 25px!important;
+    background-position: 6px 8px;}
+  </style>
+   
+    <style>
+    .timeline .badge-reduta{        background: url(../encyklopedia/img/logo_reduty.svg) #FFC562 no-repeat;
+    background-size: 25px!important;
+    background-position: 6px 8px;}
+  </style>
+  <script src="/js/encyklopedia/jquery/wookmark.min.js"></script>
+  <script src="/js/encyklopedia/jquery/scrollto.min.js"></script>
+  <script src="/js/encyklopedia/jquery/matchheight.js"></script>
+  <script src="/js/encyklopedia/jquery/colorbox/jquery.colorbox.js"></script>
+  <script src="/js/encyklopedia/jquery/colorbox.js"></script>
+  <script src="/js/encyklopedia/jquery/colorboxiframe.js"></script>
+  <script src="/js/encyklopedia/jquery/waypoints.min.js"></script>
+  <script src="/js/encyklopedia/jquery/sticky.js"></script>
+  <script src="/js/encyklopedia/jquery.js"></script>
+  <script src="/js/encyklopedia/pdfreader/open.js?v=3"></script>
+  <script src="/js/encyklopedia/pdfreader/close.js"></script>
+  <script src="/js/encyklopedia/pdfreader.js"></script>
+  <script src="/js/encyklopedia/search/entry.js"></script>
+  <script src="/js/encyklopedia/search/artist.js"></script>
+  <script src="/js/encyklopedia/search/author.js"></script>
+  <script src="/js/encyklopedia/search/theatre.js"></script>
+  <script src="/js/encyklopedia/search/journal.js"></script>
+  <script src="/js/encyklopedia/search/play.js"></script>
+  <script src="/js/encyklopedia/search/book.js"></script>
+  <script src="/js/encyklopedia/search/full.js"></script>
+  <script src="/js/encyklopedia/search.js"></script>
+  <script src="/js/encyklopedia/journal/loadissues.js"></script>
+  <script src="/js/encyklopedia/journal.js"></script>
+  <script src="/js/encyklopedia/document/copytoclipboard.js"></script>
+  <script src="/js/encyklopedia/document.js"></script>
+  <script src="/js/encyklopedia/desk/addtodesk.js"></script>
+  <script src="/js/encyklopedia/desk/open.js"></script>
+  <script src="/js/encyklopedia/desk/close.js"></script>
+  <script src="/js/encyklopedia/desk/createfolder.js"></script>
+  <script src="/js/encyklopedia/desk/reloadfolders.js"></script>
+  <script src="/js/encyklopedia/desk/deleteitem.js"></script>
+  <script src="/js/encyklopedia/desk/editfolderform.js"></script>
+  <script src="/js/encyklopedia/desk/edititemform.js"></script>
+  <script src="/js/encyklopedia/desk/save.js"></script>
+  <script src="/js/encyklopedia/desk/page.js"></script>
+  <script src="/js/encyklopedia/desk.js"></script>
+  <script src="/js/encyklopedia/player/audio.js"></script>
+  <script src="/js/encyklopedia/player/video.js"></script>
+  <script src="/js/encyklopedia/player.js"></script>
+  <script src="/js/encyklopedia/tiles/open.js"></script>
+  <script src="/js/encyklopedia/tiles/close.js"></script>
+  <script src="/js/encyklopedia/tiles/tile.js"></script>
+  <script src="/js/encyklopedia/tiles.js"></script>
+    
+    <script>
+  // Nagłówek podąża za scrollrem
+  var passed = false;
+  $(window).scroll(function()
+  {
+    var sTop = $(window).scrollTop();
+
+    if (sTop >= $('#header').outerHeight() && passed == false) 
+    {		$('#header').addClass('following');
+        passed = true;}
+
+    if (sTop < $('#header').outerHeight() && passed == true) 
+    {		$('#header').removeClass('following');
+        passed = false;}});
+  </script>
+  	<!-- JS - END -->
+</head>
+
+<body class="">
+    <!-- Google analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-80647355-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZMP32E4PPF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-ZMP32E4PPF');
+  </script>
+      
+  <!-- Skrypt AddThis (do share) -->
+  <!--<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4df13bbd3f97aacc" async="async"></script>-->
+
+  
+
+  
+    <!-- Navigacja mobilna -->
+		<nav id="nav-mobile" class="hidden-desktop">
+			<ul>
+				<li class="close-nav"><a title="Zamknij menu" onclick="javascript:closeNav();">Zamknij menu</a></li>
+				<li>
+					<a href="#">Baza wiedzy</a>
+          <ul>
+            <li><a href="/hasla" title="Hasła">Hasła</a></li>
+            <li><a href="/osoby" title="Osoby">Osoby</a></li>
+            <li><a href="/sztuki" title="Przedstawienia">Przedstawienia</a></li>
+            <li><a href="/autorzy/wszyscy" title="Autorzy">Autorzy</a></li>
+            <li><a href="/teatry-i-zespoly" title="Pozycja w menu">Teatry i zespoły</a></li>
+            <li><a href="/teatr-telewizji" title="Teatr Telewizji">Teatr Telewizji</a></li>
+            <li><a href="/teatr-polskiego-radia" title="Teatr Polskiego Radia">Teatr Polskiego Radia</a></li>
+            <li><a href="/krytyka" title="Krytyka">Krytyka</a></li>
+            <li><a href="/scenografia" title="Scenografia">Scenografia</a></li>
+            <li><a href="/badania-teatralne" title="Badania teatralne">Badania teatralne</a></li>
+            <li><a href="/architektura" title="Architektura">Architektura</a></li>
+            <li><a href="/kalendarium" title="Kalendarium">Kalendarium</a></li>
+            <li><a href="/archiwa-cyfrowe" title="Archiwa cyfrowe">Archiwa cyfrowe</a></li>
+            <li><a href="/teatralia" title="Teatralia">Teatralia</a></li>
+            <li><a href="https://www.google.com/culturalinstitute/collection/theatre-institute-in-warsaw?hl=pl" title="Wystawy" target="_blank">Wystawy</a></li>
+            <li><a href="/niezbednik-rezysera" title="Niezbędnik reżysera">Niezbędnik reżysera</a></li>
+                                                            <li><a href="https://oa.encyklopediateatru.pl/pl" title="Odzyskana Awangarda">Odzyskana Awangarda</a></li>
+                                  </ul>          
+				</li>
+				<li>
+					<a href="#">Zasoby</a>
+          <ul>
+            <li><a href="/artykuly" title="Artykuły">Artykuły</a></li>
+            <li><a href="/przedstawienia-z-opisami" title="Opisy przedstawień">Opisy przedstawień</a></li>
+            <li><a href="/watki-tematyczne" title="Wątki tematyczne">Wątki tematyczne</a></li>
+            <li><a href="http://teatrotekaszkolna.pl/" title="Teatroteka szkolna" target="_blank">Teatroteka szkolna</a></li>
+            <li><a href="/studio-teatralnych-form-eksperymentalnych" title="Studio Teatralnych Form Eksperymentalnych">Studio Teatralnych Form Eksperymentalnych</a></li>
+            <li><a href="http://spacerownikteatralny.pl/" title="Spacerowniki" target="_blank">Spacerowniki</a></li>
+            <li><a href="/streszczenia" title="Streszczenia">Streszczenia</a></li>
+            <li><a href="/zdjecia" title="Zdjęcia">Zdjęcia</a></li>
+            <li><a href="/multimedia" title="Multimedia">Multimedia</a></li>
+            <li><a href="/afisze-i-plakaty" title="Afisze i plakaty">Afisze i plakaty</a></li>
+            <li><a href="/programy-teatralne" title="Programy teatralne">Programy teatralne</a></li>
+                                                                <li><a href="/strona/9/otwarty-dostep" title="Otwarty dostęp">Otwarty dostęp</a></li>
+                                    </ul>
+				</li>
+        <li>
+					<a href="#">Czytelnia</a>
+          <ul>
+            <li><a href="/ksiazki" title="Książki">Książki</a></li>
+            <li><a href="/czasopisma" title="Czasopisma">Czasopisma</a></li>
+                                  </ul>
+				</li>
+        <li><a href="/projekt-etp" class="no-arrow">Projekt ETP</a></li>
+			</ul>
+		</nav>
+		
+		<script>
+			
+			//	Obsługa menu mobilnego
+			
+			function openNav() {
+				
+				var scrlHeight = $('#nav-mobile').prop('scrollHeight');
+				var wHeight = $(window).height();
+
+				$('#nav-mobile').addClass('show');
+				$('.wrapper').bind('touchmove', false);
+				
+				if (scrlHeight <= wHeight) {
+					$('#nav-mobile').bind('touchmove', false);
+				}
+				
+			}			
+			
+			function closeNav() {
+				$('#nav-mobile').removeClass('show');
+				$('.wrapper').unbind('touchmove', false);
+				$('#nav-mobile').unbind('touchmove', false);
+			}
+			
+			$('#nav-mobile').on('swiperight', function() {
+				closeNav();
+			});
+			
+			$('body').on('swipeleft', function() {
+				openNav();
+			});
+			
+			$(window).on("orientationchange",function()	{
+				closeNav();
+			});
+			
+		</script>
+
+<!-- Strona -->
+
+		<div class="wrapper">
+			
+<!-- Nagłówek -->
+	
+			<header id="header">
+				<div class="row">
+					<div class="col-xs-12 col-s-12 col-m-12 col-l-12 col-xl-12">
+						<div id="logo">
+							<a href="/" title="ENCYKLOPEDIA TEATRU POLSKIEGO" class="logo"></a>
+						</div>
+						<div class="nav-mobile-btn hidden-desktop">
+							<a title="Otwórz menu" onclick="javascript:openNav();"></a>
+						</div>
+						<nav class="visible-desktop">
+							<div id="nav-desktop">
+								<ul>
+									<li>
+										<a href="#">Baza wiedzy</a>
+                                        <div class="dropdown">
+                                            <div class="row">
+                                                <div class="col-l-2 col-xl-2 offset-l-2 offset-xl-2">
+                                                    <a href="/hasla" title="Hasła">Hasła</a><br>
+                                                    <a href="/osoby" title="Osoby">Osoby</a><br>
+                                                    <a href="/sztuki" title="Przedstawienia">Przedstawienia</a>
+                                                                                                    </div>
+                                                <div class="col-l-2 col-xl-2">
+                                                
+                                                    <a href="/krytyka" title="Krytycy">Krytycy</a><br>
+                                                    <a href="/scenografia" title="Scenografowie">Scenografowie</a>
+                                                                                                    </div>
+                                                <div class="col-l-2 col-xl-2">
+                                                    <a href="/teatry-i-zespoly" title="Teatry i zespoły">Teatry i zespoły</a><br>
+                                                    <a href="/teatr-telewizji" title="Teatr Telewizji">Teatr Telewizji</a><br>
+                                                    <a href="/teatr-polskiego-radia" title="Teatr Polskiego Radia">Teatr Polskiego Radia</a>
+                                                                                                    </div>
+                                                <div class="col-l-2 col-xl-2">
+                                                    <a href="/architektura" title="Architektura">Architektura</a><br>
+                                                    <a href="/badania-teatralne" title="Badania teatralne">Badania teatralne</a><br>
+                                                    <a href="http://scenografiapolska.pl" title="Scenografia polska" target="_blank">Scenografia polska</a>
+                                                                                                        <br /><a href="https://oa.encyklopediateatru.pl/pl" title="Odzyskana Awangarda">Odzyskana Awangarda</a>
+                                                                                                    </div>
+                                                <div class="col-l-2 col-xl-2">
+                                                    <a href="/archiwa-cyfrowe" title="Archiwa cyfrowe">Archiwa cyfrowe</a><br>
+                                                    <a href="/teatralia" title="Teatralia">Teatralia</a><br>
+                                                    <a href="/kalendarium" title="Kalendarium">Kalendarium</a>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+									</li>
+									<li>
+										<a href="#">Zasoby</a>
+                                        <div class="dropdown">
+                                            <div class="row">
+                                                <div class="col-l-2 col-xl-2 offset-l-5 offset-xl-5">
+                                                    <a href="/artykuly" title="Artykuły">Artykuły</a><br>
+                                                    <a href="/przedstawienia-z-opisami" title="Opisy przedstawień">Opisy przedstawień</a><br>
+                                                    <a href="http://spacerownikteatralny.pl/" title="Spacerowniki" target="_blank">Spacerowniki</a><br>
+                                                    <a href="http://teatrotekaszkolna.pl/" title="Teatroteka szkolna" target="_blank">Teatroteka szkolna</a><br>
+                                                    <a href="/studio-teatralnych-form-eksperymentalnych" title="Studio Teatralnych Form Eksperymentalnych">Studio Teatralnych Form Eksperymentalnych</a><br>
+                                                    <a href="/watki-tematyczne" title="Wątki tematyczne">Wątki tematyczne</a>
+                                                                                                    </div>
+                                                <div class="col-l-2 col-xl-2">
+                                                    <a href="/afisze-i-plakaty" title="Afisze i plakaty">Afisze i plakaty</a><br>
+                                                    <a href="/multimedia" title="Multimedia">Multimedia</a><br>
+                                                    <a href="/programy-teatralne" title="Programy teatralne">Programy teatralne</a><br>
+                                                    <a href="/streszczenia" title="Streszczenia">Streszczenia</a><br>
+                                                    <a href="/zdjecia" title="Zdjęcia">Zdjęcia</a><br>
+                                                    <a href="https://www.google.com/culturalinstitute/collection/theatre-institute-in-warsaw?hl=pl" title="Wystawy" target="_blank">Wystawy</a><br>
+                                                    <a href="/niezbednik-rezysera" title="Niezbędnik reżysera">Niezbędnik reżysera</a>
+                                                                                                    </div>
+                                                                                                <div class="col-l-2 col-xl-2">
+                                                                                                    <a href="/strona/9/otwarty-dostep" title="Otwarty dostęp">Otwarty dostęp</a>
+                                                                                                  </div>
+                                                                                            </div>
+                                        </div>
+										</li>
+										<li>
+											<a href="#">Czytelnia</a>
+											<div class="dropdown">
+												<div class="row">
+													<div class="col-l-2 col-xl-2 offset-l-7 offset-xl-7">
+														<a href="/ksiazki" title="Książki">Książki</a><br>
+                                                        													</div>
+													<div class="col-l-2 col-xl-2">
+														<a href="/czasopisma" title="Czasopisma">Czasopisma</a>
+                                                        													</div>
+												</div>
+											</div>
+										</li>
+									</li>
+                  <li id="workshop-menu-button">
+                                        <a href="/zaloguj-sie" class="no-arrow">Pracownia</a>
+                                      </li>
+                  <li><a href="/projekt-etp" class="no-arrow">Projekt ETP</a></li>
+								</ul>
+							</div>
+						</nav>
+					</div>
+				</div>
+			</header>
+
+      			<div class="decor-bar"></div>
+                  
+
+<div id="title" style="background-image: url('/encyklopedia/img/headline-bar-2.jpg');">
+  <div class="row-full">
+  <div class="title-bar col-xs-12 col-s-12 col-m-12 col-l-12 col-xl-12">
+    <div class="row">
+      <div class="col-xs-12 col-s-12 col-m-12 col-l-7 col-xl-7">
+        <h1>Artykuły</h1>
+      </div>
+      <div class="visible-desktop col-l-5 col-xl-5">
+        <form action="/artykuly" class="search-form">
+          <input type="text" placeholder="Szukaj artykułów" name="search" value="" />
+          <input type="submit" title="Szukaj" />
+        </form>
+      </div>
+    </div>
+  </div>			
+  </div>
+</div>
+<nav id="breadcrumbs" class="visible-desktop">
+  <div class="row">
+    <div class="visible-desktop col-l-12 col-xl-12">
+        <a href="/" title="home" class="Strona główna">Strona główna</a> 
+        <span>:</span> 
+        <a href="/artykuly" title="Artykuły">Artykuły</a> <span>:</span> <a href="/artykuly/90205/co-swinarski-dopowiada-w-dziadach" title="Co Swinarski dopowiada w &quot;Dziadach&quot;">Co Swinarski dopowiada w "Dziadach"</a>
+    </div>
+  </div>
+</nav>
+
+<article id="content">
+  <div class="row">
+    <div class="col-xs-12 col-s-12 col-m-12 col-l-8 col-xl-8">
+      <h2>
+                            Co Swinarski dopowiada w "Dziadach"                  </h2>
+      
+      <div id="sidebar" class="hidden-desktop">
+        
+<div class="social-media visible-desktop">
+  <span class="title">Udostępnij</span>
+  
+    
+  <a href="http://www.facebook.com/share.php?u=https://encyklopediateatru.pl/artykuly/90205/co-swinarski-dopowiada-w-dziadach&title=Co Swinarski dopowiada w &quot;Dziadach&quot;" class="fb" target="_blank"></a>
+  <a href="http://twitter.com/intent/tweet?status=Co Swinarski dopowiada w &quot;Dziadach&quot;+https://encyklopediateatru.pl/artykuly/90205/co-swinarski-dopowiada-w-dziadach" class="tw" target="_blank"></a>
+  
+    </div>
+          
+        <aside class="metric oo">
+          
+          
+          <dl>
+            <dt>Autor</dt>
+            <dd>
+            
+                                              Danuta Szkop                                          </dd>
+          </dl>
+
+                    <dl>
+            <dt>Źródło</dt>
+            <dd>
+                            Dialog Nr 6                          </dd>
+          </dl>
+          
+          <dl>
+            <dt>Data</dt>
+            <dd>1 czerwca 1977</dd>
+          </dl> 
+        </aside>
+      </div>
+
+      <div class="edit">
+        <p class="headline"></p>
+      
+                  <p>Tematem swojej inscenizacji Dziadów uczynił Swinarski świadomość. Jest to świadomość podwójna - ta romantyczna, którą bada Swinarski poprzez tekst Mickiewicza, i ta nasza, współczesna, która służy za narzędzie badania. Nie chodzi więc o to, aby zmuszać nas do myślenia kategoriami Mickiewicza; jest to zresztą niemożliwe. Swinarski patrzy na wiek XIX oczyma człowieka dzisiejszego, poprzez jego sytuację egzystencjalną, bagaż doświadczeń, dokonań, myśli. Nie po to jednak, aby odpowiedzieć na pytanie dotyczące aktualnych jeszcze kategorii myślenia romantycznego.</p><p>Oglądanie romantyzmu z perspektywy współczesności i w konfrontacji z nią pozwala wyciągnąć z romantyzmu konsekwencje, których romantycy nie przewidzieli. Swinarski rekonstruuje światopogląd epoki poszerzony niejako o te konsekwencje, doprowadzony do skrajności, dopowiedziany. A odległość czasowa i znajomość tego wszystkiego, co było już po romantyzmie, umożliwia dystans. Na tym chyba polega "wierność" tekstom Mickiewicza, tyle razy podkreślana w recenzjach i wypowiedziach naszego reżysera.</p><p>1.</p><p>"Dziady" Mickiewicza przenika "wiara we wpływ świata niewidzialnego, niematerialnego na sferę ludzkich myśli i działań". "Dziady" Swinarskiego, zachowując wszystkie atrybuty "niewidzialnego świata", dzieją się w całości na ziemi. Toteż i Bóg w tej inscenizacji oglądany jest z perspektywy człowieka. Przede wszystkim to człowiek wybiera sobie Boga, sam go określa. "Od nas zależy wybór pana, któremu chcemy służyć, po to, aby służba u niego broniła nas przed panowaniem czegoś innego, czego nie wybraliśmy. Bóg nie jest stwarzany, lecz wybierany" - pisze Jung. Widać to wyraźne przekonanie o swoistym determinizmie - człowiek na posiadanie Boga jest skazany. Jak dowodzi Fromm: "Nie ma człowieka bez potrzeby religijnej; potrzeby posiadania układu orientacji i przedmiotu czci. (...) Nie chodzi o to, czy człowiek ma religię, czy nie, ale o to, jaki ma rodzaj religii". Byłby więc Bóg projekcją dążeń, ideałów i obaw człowieka. Tego typu stwierdzenie odnosi się nie tylko do człowieka współczesnego, u którego można obserwować odchodzenie od ideałów chrześcijaństwa. W podobny sposób można interpretować ową wielość postaci bóstwa, jaka występuje w romantyzmie, gdzie kompromitacja zarazem ideałów racjonalizmu i oficjalnej instytucji Kościoła prowadzi do rozmaitych prób przekształcania idei Boga, aby mógł on nadal być obecny w próbach budowy nowego ładu świata. Swinarski obnaża te mechanizmy i jednocześnie uniwersalizuje sam proces.</p><p>"Panem", którego wybieramy, może być Bóg chrześcijański, ale nie tylko - jak świadczą o tym "Dziady". Funkcja, jaką ma on spełniać w ludzkim życiu, jest bowiem bardziej złożona. Wypływa nie tylko z chęci nadania sensu egzystencji i z obawy przed nieznanym. Swinarski pokazuje, że potrzeba Boga może być spowodowana przede wszystkim potrzebą określenia siebie, znalezienia swojego miejsca w świecie. Określić siebie można tylko przez porównanie. Stąd konieczność poszukiwania jakiegoś układu odniesienia - dającego poczucie więzi ze zbiorowością i potwierdzającego indywidualność jednostkowego "ja". Taką funkcję układu odniesienia może spełniać religia - oczywiście rozumiana w swoisty sposób, jak u Fromma: "Przez religię rozumiem każdy system myśli i działań, podzielany przez pewną grupę, który dostarcza jednostce układu orientacji i przedmiotu czci."</p><p>Swinarski pisze w programie: "Bóg w <Dziadach> jest istotą niedookreśloną. Nie wiadomo do końca, czy jest to: proces, rzecz, człowiek, czy idea. Sam proces dochodzenia do tego ideału jest tym, co najważniejsze, co wyznacza naszą, ludzką drogę do doskonałości, albo do Boga, jeśli tak rozumieć doskonałość." Dążenie do zespolenia z absolutem jest zatem dążeniem do doskonałości. Romantycy świetnie to rozumieli. Zawsze spełniali się w dążeniu, rzadko w czynie. Bohater tej literatury nigdy nie jest pełnym, skończonym człowiekiem. Zmienia się stale, staje się. I ciągle jest kimś innym - właśnie dzięki dążeniu do doskonalenia siebie i świata.</p><p>Zawsze jednak poszukiwanie swojego miejsca w świecie jest jednocześnie poszukiwaniem systemu wartości. Także Swinarski charakteryzuje swoich bohaterów właśnie przez ukazanie tych systemów.</p><p>W krakowskiej inscenizacji dokonuje się degradacja pojęcia Boga chrześcijańskiego. Dokonuje się środkami ściśle teatralnymi, bez zmian w tekście Mickiewicza, choć z wyprowadzeniem z tego tekstu nieoczekiwanych konsekwencji. Równolegle biegną więc dwa procesy, skądinąd charakterystyczne dla myśli nowożytnej. Część bohaterów dramatu pomniejsza rolę i znaczenie Boga, który przestał być wartością nadrzędną, zastąpiony przez rozmaite układy ziemskie. Inni dążą do zachowania Boga chrześcijańskiego jako najwyższej instancji, ale Boga takiego, który swym autorytetem patronowałby ziemskim  działaniom. Jak widać, w obu wypadkach podważona zostaje wartość absolutu.</p><p>Można to zjawisko prześledzić na przykładzie dziejów Gustawa i Konrada. Religią Gustawa, jego Bogiem, jest miłość. Swinarski wyraźnie eksponuje ten motyw, pomniejszając jednocześnie znaczenie konfrontacji Gustawa z Księdzem. Ksiądz jest postacią bezbarwną, niepozorną, jego racje nie przekonują nikogo. Osoba Gustawa eksponowana jest natomiast na kilka sposobów. Już samo jego zjawienie się, nagłe wyrośnięcie ponad wiejską gromadę, absolutne milczenie, zwolnione, oszczędne gesty, niemalże nieruchomość - czynią go kimś niezwykłym, monumentalnym. Istotne jest także rozgraniczenie trzech planów gry Gustawa. Jako Widmo zjawia się na stole ofiarnym; początek dialogu z Księdzem to próba rozpoznania tajemniczego Widma, ale także pierwsze określenie się Gustawa, wskazanie od razu na problem główny: cierpienie. Zarazem zaś powiązanie obrzędu części II z częścią IV. Ale głównym planem gry będzie dla Gustawa ołtarz. Tam pozostanie do końca. Wstąpi nań po przedarciu się; przez tłum, prowadząc "przyjaciela" - gałąź jedliny. Zejdzie tylko raz - w scenie rozpoznania.</p><p>Takie rozplanowanie terenu akcji ma doniosłe znaczenie dla wymowy IV części "Dziadów". Ołtarz jest miejscem świętym i ta świętość zostaje nadana miłości Gustawa. A nawet nie tyle miłości - lecz przede wszystkim jego "rozpaczy" i "przestrodze", a więc jego klęsce, dzięki której rozpoznał siebie. Te dwie "godziny" "Dziadów" rozgrywają się wobec odsłoniętego obrazu Matki Boskiej Ostrobramskiej. Przedtem, w czasie "godziny miłości", był on zasłonięty kirem, tak jak podczas całego obrzędu części II. Symboliczne zerwanie zasłony odkrywa tu przełom w świadomości, wywołany przez cierpienie. Nasuwa się także możliwość odwołania do części II "Dziadów". Spośród wszystkich widm, zjawiających się w trakcie obrzędu, tylko dla Dziewicy terenem gry jest ołtarz. Dla Dziewicy, która cierpi po śmierci, bo za życia nie zaznała miłości.</p><p>Uczuciu zostaje nadana sankcja świętości. Mimo cierpień, które niesie ze sobą, miłość nie zostaje tu odrzucona ani skompromitowana. Dzieje się tak w myśl romantycznych teorii poznania świata: nie poprzez rozum, ale właśnie przez uczucie. Gustaw, nieszczęśliwy kochanek, traci wszystko, co uważał za ziemskie szczęście. Zyskuje świadomość i poznanie praw rządzących światem, zdolność widzenia lepszego i szerszego niż ma je racjonalista Ksiądz.</p><p>Swinarski ukazuje jednocześnie całą dwuznaczność ubóstwienia uczucia, zawartą w "Dziadach". Rozgrywa dzieje miłości na ołtarzu, przed obliczem Matki Boskiej, przez co podkreśla, że ta miłość była bluźnierstwem, zdradą Boga chrześcijańskiego. Zestawienie na zasadzie kontrastu działa tu niezwykle silnie.</p><p>Bóg nie zostaje obwiniony o zło świata, tą winą obarcza Gustaw ludzi. Ale jednocześnie to ziemską, śmiertelną kobietę nazywa "niebianką", pocałunek przyrównuje do komunii, Ewangelii przeciwstawia swoje cierpienie, na które nie powinno być miejsca w boskim planie świata. Jest więc miłość nie tylko buntem i poznaniem, jest także herezją. Przez to właśnie, że staje się religią, absolutem, najważniejszym układem odniesienia.</p><p>Takie rozegranie teatralne IV części "Dziadów", które fenomen uczucia i klęskę człowieka wysuwa na plan pierwszy, podkreślając jednocześnie odejście Gustawa od prawd boskich, powoduje określone konsekwencje w dalszych częściach inscenizacji. Konrad, taki, jakim widzi go Swinarski, nie mógłby się narodzić bez Gustawa. Bowiem: "klęska osobista - temat IV części "Dziadów" - wyzwala w człowieku, który w utworze nazywa się Gustaw, wolę, chęć czy marzenie spełnienia się przez idee w innych ludziach. Wydaje mi się, że każda chęć zrealizowania się w społeczeństwie nie może wypływać z niczego innego. Człowiek nadal marzy o spójni, która nie może zaistnieć'' - pisze Swinarski.</p><p>Ale  miłość  nie  może  pozostać  dla  romantyków jedynym układem odniesienia. Najwyższą wartością romantyczną jest nie miłość, lecz wolność.  "Bóg  Konrada  jest wolnością" - mówi Swinarski. Cała Wielka Improwizacja  jest walką  o ocalenie   takiego obrazu Boga, który byłby wolnością, i walką z Bogiem, który nią nie jest.   Milczący, okrutny, mądry Bóg zostawał u Mickiewicza jednak ocalony. Swinarski odrzuca go zupełnie, nie zmieniając przy tym wcale tekstu.</p><p>We   wszystkich   poprzednich   inscenizacjach  "Dziadów"  jako ważny  element scenograficzny pojawiał się zawsze, mniej lub bardziej czytelny, symbol chrześcijańskiego Boga, nawiązujący w jakiś sposób do ikonografii kościelnej. Taki symbol wprowadza i Swinarski. Jest to górujące nad sceną w części III okno barokowego kościoła. Symbol podwójny: zarazem wskazówka scenograficzna, zaznaczająca miejsce akcji w scenach więziennych - i stale czuwające, milcząco obecne spojrzenie bóstwa. Bóg z równym spokojem patronuje szamotaninie Konrada, jak poczynaniom Senatora, śmierci Rollisona, i scenom balu, gdzie wodzirejem jest Belzebub. Ów symbol w poprzednich inscenizacjach pełnił istotną rolę: do niego zwracali się Konrad i ksiądz Piotr w swych bluźnierstwach i modlitwach. U Swinarskiego jest dokładnie odwrotnie. I w scenie Wielkiej Improwizacji, i w scenie Widzenia księdza Piotra aktorzy stoją tyłem do głównej sceny, tyłem do okna kościoła. Słowa padają w pustą przestrzeń ponad głowami widzów.</p><p>Podobnie przedstawia się sprawa duchów złych i dobrych. Mickiewicz dokonał moralitetowego podziału na dobro i zło, obejmując nim nie tylko bohaterów dramatu, ale i cały "świat niewidzialny". Swinarski burzy tę symetrię. Przeprowadza rygorystyczny podział miejsca akcji na trzy plany, przyporządkowane poszczególnym kategoriom bohaterów. Mamy więc "scenę Senatora" i "lożę patriotyczną", a jedynie Konrad i ksiądz Piotr poruszają się po całym podeście i scenie. Duchy, zjawiające się tylko w sytuacjach wyraźnie wyznaczonych przez tekst, mają ludzkie cechy, i odróżnia je jedynie stylizowany kostium. I właśnie przez te duchy zostaje zakłócony podział na stronę dobra i stronę zła. Okno barokowego kościoła świeci nad "sceną Senatora" i tam także pojawia się Anioł Stróż: diabły lęgną się w "loży patriotycznej"; Belzebub stanowić będzie jedność z Konradem w scenie egzorcyzmów.</p><p>Wolność była największą świętością romantyczną. Wolność totalna, obejmująca wszystkie dziedziny ludzkiego bytu. Różnie to dążenie przejawiało się w literaturze; w Polsce oznaczało przede wszystkim wolność ojczyzny. Także dla Konrada jest to sprawa najważniejsza. W jej imieniu wyzwie na pojedynek Boga. Będzie to walka o naród, o ideę "jak pieśń żywą". Ale będzie to tylko bój na słowa. Jedyny romantyczny bój Konrada. "Gdy człowiek nie ma możliwości pełnej realizacji w swoim konkretnym życiu, wówczas sama idea nabiera dla niego wszechpotężnej wartości" - pisze Swinarski. Wtedy idea staje się religią. Nie tylko dla Konrada, także dla księdza Piotra, chociaż każdy z nich inaczej wolność pojmuje i innymi drogami do niej dochodzi.</p><p>Dla Konrada realizacją jego idei jest bunt, świadomość, że wolność trzeba wy-walczyć. Konrad buntuje się, bo uświadamia sobie, że jego Bóg nie jest Bogiem, który spełni ludzkie nadzieje. Przestaje wierzyć i ufać, zaczyna dochodzić prawdy. Lecz jednocześnie nie wyrzeka się Boga, nie potrafi spojrzeć w "puste niebo". Potrzebuje absolutu. Tragizm Konrada polega na konfrontacji wartości, jakimi są Bóg i wolność. Z żadnej nie potrafi zrezygnować, a jeszcze nie znalazł sposobu ich połączenia. To osiągnie dopiero ksiądz Piotr.</p><p>Widzenie księdza Piotra. Najdziwniejsza, najbardziej tajemnicza część "Dziadów drezdeńskich". Swinarski potraktował je jako jeden z etapów dopełnienia losów człowieka, który kiedyś był Gustawem, potem Konradem. Nie chodzi tu oczywiście o identyfikację dwóch odrębnych osób, pozostają one do końca odrębne. Raczej o ciągłość w ewolucji postaw człowieka romantycznego. Po Wielkiej Improwizacji i egzorcyzmach Konrad leży krzyżem na głównym podeście. Obok ksiądz Piotr, w takiej samej pozie. Tworzą jakby jedno ciało. Wstaje tylko ksiądz Piotr. Jest to już inny człowiek. Różny nie tylko od Konrada, ale także od Mickiewiczowskiego pierwowzoru tej postaci (a może od stereotypu interpretacyjnego?). Jego proroctwa zostają przeniesione na ziemię. Ksiądz Piotr jest cichy, skromny, niepozorny. Ale wolność jest dla niego równie ważna jak dla Konrada, ważniejsza nawet niż wiara, choć sam głęboko wierzy w wyroki Opatrzności. Jeśli jednak bunt nie jest drogą do wolności, trzeba szukać dróg innych. Drogą wskazaną przez księdza Piotra jest cierpienie.</p><p>"Nie można usprawiedliwić niezawinionego cierpienia, jeśli się je rozważa z punktu widzenia jednostki. Ale w wymiarach zbiorowości, w wymiarach narodu i ludzkości, a więc w wymiarach czasu i historii, cierpienie nabiera sensu - sensu celowej ofiary, sensu poświęcenia się dla dobra ogólnego. Jest konieczną ceną przyszłej wolności". Bóg chrześcijański staje się dla księdza Piotra Bogiem wolności, znika podstawowa sprzeczność, która była przyczyną buntu Konrada. Sprawa wyzwolenia narodowego zostaje wpisana w szerszy, boski plan świata. Taki przemieniony Konrad wkracza w dalszy etap walki z największym wrogiem - carem.</p><p>Car nie występuje w "Dziadach" bezpośrednio. Jest wrogiem dalekim, wrogiem-mitem. Reprezentuje go Senator. Swinarski przeprowadza jakby analogię między Nowosilcowem a Konradem. Każdy z nich dysponuje określoną religią, każdy znajduje w niej punkt oparcia, determinujący całość postępowania. Oczywiście na tym podobieństwo się kończy. Ich bogowie są całkowicie odmienni. Bogiem Senatora jest "doczesne spełnienie w karierze" (według określenia Swinarskiego). Senator jest nowoczesny, jest produktem oświeceniowego libertynizmu. Walka z Polakami sama przez się nie ma dla niego znaczenia, jest jedynie środkiem do celu, którym byłby sukces w oczach cara. Sen Senatora jest tego najlepszym dowodem. Diabły dręczą Nowosilcowa nie obrazami krzywd, które wyrządził podbitemu narodowi, nie wspomnieniem o umęczonych spiskowcach. Diabły wiedzą, że Senatora przerazić może tylko wizja niełaski.</p><p>Zatem Bóg, religia występuje w "Dziadach" pod bardzo zróżnicowanymi postaciami. Religia nie oznacza tu oczywiście określonego wyznania, "religię tworzy to, w co człowiek wierzy rzeczywiście, co rzeczywiście i czynnie bierze do serca i za pewnik uważa w stosunkach swych życiowych z tym tajemniczym wszechświatem i swoich obowiązków, i swego przeznaczenia: to jest właśnie najważniejsze ze wszystkiego, co się jego tyczy, co jest w nim stworzycielem". Nie odstępując od tekstu Mickiewicza pokazuje się w ten sposób jego uniwersalność, aktualność.</p><p>Dla Swinarskiego jest to aktualność romantycznego problemu wolności i konieczności. Analiza struktury i funkcji religii wykazuje, że niemożliwe jest osiągnięcie wolności absolutnej. Człowiek sam przed nią się broni, tworząc namiastki absolutu, od którego się uzależnia. Ważne jest jedynie, co wybiera w zamian. Swinarski nie czyni człowiekowi zarzutu iż ten nie chce być wolny. Wolność widzi jako ideę, jako cel. "Konrad walczy nie tylko o ideały, walczy także o swoją świadomość i dlatego jego wyzwolenie ma wiele znaczeń. Starałem się w praktyce sprowadzić do wspólnego mianownika wyzwolenie od własnej klątwy i wyzwolenie narodu od jego klątwy". Te słowa reżysera odnoszą się do dramatu Wyspiańskiego. Ale można je chyba odnieść i do Konrada z "Dziadów".</p><p>W romantyzmie Swinarski dostrzegł symptomy kryzysu wartości. Jednym z przejawów tego kryzysu jest niemożność życia bez absolutu i zarazem niemożność stworzenia czegoś, co mogłoby dawny absolut zastąpić. Stąd tak wielka rola Boga chrześcijańskiego w "Dziadach": protest, bluźnierstwa - i próba ocalenia. Ratowanie wartości, która nią być przestała, i degradacja tej wartości w planie teatralnym. I po raz pierwszy tak ostro postawiony problem, prośba, pytanie - niech ów Bóg się odezwie i potwierdzi swoją boskość, niech da znak, że istnieje i czuwa. Milczenie Opatrzności staje się tu symbolem wielkiej przemiany. W życie ludzkie wkracza już bowiem inna wartość, nowy układ odniesienia, jedyny na miarę Boga. Historia.</p><p></p><p></p><p>2.</p><p>Obrzędem jest całe to przedstawienie, obrzędem nieustającym, który już trwa, gdy przychodzimy, aby stać się jego widzami i uczestnikami jednocześnie. Zagarnia cały teatr. Mickiewicz napisał dzieło o strukturze otwartej i Swinarski strukturę tę zachował. Podkreślił ją jeszcze w planie teatralnym, tworząc przedstawienie bez początku i końca, dodał symultaniczność akcji. Obrzęd ludowy trwa jednocześnie z rozgrywaniem III części "Dziadów". Pozwala to zachować swoistą dialektykę myślenia romantycznego: myślenie mityczne i historyczne występują jednocześnie, przenikają się nawzajem, przeciwstawiają się i łączą ze sobą.</p><p>Od samego początku zostajemy wprowadzeni w czas mitu, przywołany przez obrzęd dziadów. Jesteśmy w samym środku magii, metafizyki, przenikania światów i romantycznego gotycyzmu. Swinarski nieomal namacalnie przybliża nam "tajemnicę". Odczytał rytuał nie tylko z tekstu Mickiewicza, ale także ze współczesnej antropologii, etnologii, religioznawstwa. Wydobył całą dzikość, surowość, ekspresję cechującą wiejską gromadę i duchy przybywające na wezwanie Guślarza. Widmo Złego Pana, naturalistycznie przerysowane, budzi grozę widomymi znakami mąk piekielnych. Gromada jest bezwzględna i okrutna w swym osądzie. Tu już nie chodzi o zbiorowe święto, utrwalone w tradycji i przekazywane dla rachowania jej ciągłości. To rzeczywiste obcowanie z tajemnicą. Świat duchów rację bytu osiąga przez odniesienie do spraw ziemskich. Tłum wieśniaków znajduje w tym świecie obraz własnych losów, uczy się życia zgodnego z odwiecznymi prawami moralnymi. U Swinarskiego wieśniaczka w żałobie podaje misę z jadłem zjawom dzieci, nie zwracając uwagi na protesty gromady. Parobcy usiłują pochwycić widmo Dziewicy. To perspektywa ziemska, uogólnienie spraw ludzkich w mitycznym czasie obrzędu. Świat mitu, obrzędu ludowego jest uporządkowany, niezmienny. Sugeruje ciągłość, powtarzalność. I - mimo grozy wypływającej z obcowania z duchami - daje poczucie bezpieczeństwa. Ukazuje i gwarantuje świętość surowych praw. Uczy, co jest dobrem, a co złem. Wyznacza pewien model życia, zgodnego z cyklicznością natury, zgodnego z tradycją odziedziczoną po przodkach. Pamięć o zmarłych jest integralnym składnikiem tego świata, pozwala człowiekowi żyć we wspólnej krainie żywych i umarłych. Wystarczy tylko znać odpowiednie zaklęcie, aby móc manipulować tajemnicą.</p><p>Świat obrzędu jest jednocześnie światem zamkniętym, usytuowanym poza historią. Może być - jak czasem w romantyzmie - ucieczką od historii, z którą człowiek nie umie sobie poradzić. Mickiewicz wiedział jednak, że i w ten świat wdziera się niekiedy coś nieoczekiwanego, coś, czego gromada wiejska przewidzieć ani opanować nie potrafi. Swinarski, wyciągający ostateczne konsekwencje z tekstu  Mickiewicza,  idzie  jeszcze  dalej.</p><p>Pokazuje, jeszcze zanim na stole ofiarnym pojawi się widmo Gustawa, że świat mitu ulega rozbiciu od wewnątrz, że nie można bez reszty zanurzyć się w rytuale. Nie wszyscy uczestnicy obrzędu poddają się władzy Guślarza. Pijany chłop śpi za stołem, swą obecność manifestuje chrapaniem. Inny sięga do misy z jadłem prze-znaczonym na ofiarę. Młodzi wpadają z krzykiem i chichotem, zaczepiają przechodzące kobiety. Świat mitu nie przestaje być światem ludzi żywych. Swoisty konflikt pokoleń zaznacza się już w obrzędzie, a w pełni wystąpi w scenach przejściowych między IV i III częścią "Dziadów", gdzie Swinarski wykorzystał fragmenty części I.</p><p>Gromadę wiejską nadal prowadzi Guślarz, który wzywa wieśniaków - i widzów - słowami I części "Dziadów". Wieśniacy zajmują miejsca (już w sali teatralnej) na przedniej części pomostu, tuż przy scenie głównej. Z tyłu na pomost wbiegają młodzi. Tańczą i śpiewają. Widać wyraźny podział na "stronę młodych" i "stronę starych". "Starzy" - to ludzie mitu, żyjący tradycją, umiejscowieni w świętym, nieruchomym czasie, poza historią. Im to śpiewają "młodzi":</p><p></p><p>"Nie  tęsknij, starcze, powiemy młodzi, </p><p>Tęsknota sercu i myślom szkodzi; </p><p>Przestań narzekać niesłuszny w gniewie, </p><p>Jak było dawniej, nikt o tym nie wie".</p><p></p><p>Młodość nie jest tu jeszcze kategorią kulturową, pozostaje ciągle kategorią biologiczną. Manifestuje się witalizmem, żywiołowością, egoizmem, życiem chwilą. Świat "młodych" jest tu światem beztroskim, trochę cynicznym. Pozwala Swinarskiemu uwypuklić kontrast między postawą młodzieży w tej scenie - i potem, w scenach części III, gdy w życie młodych wkracza historia. Jeszcze tańczą na pomoście, gdy zabawę przerywa przeciągły gwizd, najpierw jeden, potem jest ich coraz więcej. Młodzieńcy zatrzymują się przestraszeni, zaskoczeni. Wybiegają szybko. Na scenę i pomost wkraczają żołnierze. Wprowadzają Gustawa w stroju więziennym, rozstawiają straże przy drzwiach.</p><p>Wkroczenie w czas historyczny, to uświadomienie sobie jego ciągłości i jednokierunkowości. Żyć w czasie historycznym, to podejmować decyzje. I również: to odkrywać mechanizmy, niezależnie od woli człowieka. Historia nie dopuszcza kompromisów, nie pozwala pozostać z boku. Historia wkroczyła w życie więźniów z III części Dziadów zanim jeszcze dokonali oni jakiegokolwiek wyboru. Nie znaczy to jednak, że ich postawy są zdeterminowane i całkowicie jednoznaczne. Nie chodzi tu nawet o problem lojalności lub zdrady. To nie interesuje ani Mickiewicza, ani Swinarskiego. Chodzi o wewnętrzne konflikty bohaterów, o sens cierpienia i możliwość walki, a - w planie uniwersalnym - o rozumność lub absurdalność historii. Przed takimi pytaniami stają Konrad, Rollison, ksiądz Piotr.</p><p>Heroiczna postawa wobec wroga wydaje się czymś oczywistym; dochowują jej wszyscy, choć nie wszyscy znajdują w tym wyższy sens. Toteż bunt Konrada nie dotyczy jego własnej sytuacji; ten bunt wynika z przekonania, że dziejami rządzi Opatrzność - jest zatem protestem przeciw jej niezrozumiałym prawom. Konrad przy pomocy księdza Piotra ocali swą wiarę w sens historii, ale ulegnie pokusie</p><p>Rollison. Dla Mickiewicza jest to grzech popełniony wobec Opatrzności, która cierpienie wpisuje w plan przyszłego zbawienia. Dla Swinarskiego śmierć Rollisona również dowodzi, jak wysoką cenę płaci się za brak wiary w sens dziejów. Ale - inaczej niż u Mickiewicza - nie jest to grzechem, lecz rysem tragicznym egzystencji ludzkiej. Człowiek okazuje się igraszką swego historycznego losu. Los ten został mu narzucony, nie można się z niego wyzwolić. Trzeba nauczyć się w nim żyć. Nauczy się tego Konrad. Przyjmie historię jako swoje posłannictwo. Spróbuje zrealizować wolność w  historii.</p><p>Wizja historii, najpełniej zamanifestowana w Widzeniu księdza Piotra, obecna jest w całym dramacie. Jest to historia zmitologizowana: dzieje niewinnie prześladowanej ofiary, która usiłuje dociec, dlaczego człowiek cierpi i dlaczego prześladowany jest naród. Cierpienie przeplata się z poświęceniem uznanym za środek, cenę przyszłej wolności. Grzechem natomiast jest zwątpienie: to grzech Rollisona i Konrada z Wielkiej Improwizacji. Przewija się bowiem w całym dramacie dążenie do uetycznienia historii. Etyczny sens historii jest warunkiem nieodzownym, by w niej można było żyć. Tę prawdę odkryje ksiądz Piotr. Dopiero on wskaże, że historia może stać się najważniejszym układem odniesienia, jeśli tylko się w nią uwierzy, uzna jej świętość, znajdzie w niej  swoją misję.</p><p>Zmitologizowana mesjanistyczna wersja historii ukazuje dzieje jako przedmiot wiary, nie poddający się racjonalizacji. Jak w pierwotnym obrzędzie, każdy ma tu swoje określone miejsce. Jest to więc zarazem - w pewnym sensie - ucieczka od historii. Dzieje stają się ideą, udzielają sensu ludzkim czynom. Wartością historia może stać się tylko w tej wersji: sakralnej. "Bynajmniej nie uciekając od rzeczywistości, musimy w niej znaleźć nasze wartości. Czy z dala od tego, co sakralne i od wartości absolutnych można znaleźć regułę postępowania?" - pyta Camus. Na to pytanie Swinarski odpowiada przecząco. Pokazuje, jakim przekształceniom trzeba poddać pojęcie dziejów, aby stało się absolutem, wyznaczającym drogę do doskonałości.</p><p>Drogę także dla nas, współczesnych adresatów tego przedstawienia, dla których przeżycie historii również jest ważnym doświadczeniem egzystencjalnym. Za mistycyzmem, tajnymi obrządkami i wizjami proroczymi kryją się także nasze problemy. Problem postawy wobec systemu, w którym się żyje. Problem odpowiedzialności za historię i wobec historii, wobec narodu w teraźniejszości i przyszłości, wobec siebie i zbiorowości.</p><p></p><p>3.</p><p>Relacje między jednostką a zbiorowością stanowiły jeden z czołowych problemów romantyzmu. Ale pytanie o granice wolności autonomicznej jednostki, o jej powinność wobec racji społecznej, o możliwość porozumienia z innymi ludźmi bez konieczności rezygnacji z własnego wewnętrznego świata, problem samotności i próby jej przełamania przez powrót do wspólnoty - wszystkie te kwestie nadal żyją w doświadczeniu i świadomości współczesnego człowieka. Równie są ważne w "Dziadach" Mickiewicza, jak u Swinarskiego.</p><p>Na początku jest uniwersalna wspólnota obrzędu, zjednoczenie w micie. Jednostka, cały jej świat, zostaje wpisany w zbiorowość. Słowa przywołanych przez Guślarza duchów określają normy, według których człowiek żyje we wspólnocie. Ważne jest wpisanie tych norm w mityczny cykl obrzędu, który staje się ich sankcją dodatkową, najwyższą. Nie są to prawdy tworzone na użytek chwili, wypływające z doraźnych potrzeb. Są pierwotne, ustanowione "na początku" przez mitycznych przodków, z którymi gromada jednoczy się w obrzędzie. Dlatego muszą być słuszne, noszą na sobie sakrę dawności.</p><p>Przebieg obrzędu wskazuje, że jest on tylko powtórzeniem. Guślarz używa stałych zaklęć, oczekuje na zjawienie się określonych duchów, można się domyślać, zawsze tych samych. Wie, jakie przestrogi od nich usłyszy. Obcowanie z tajemnicą w aurze niesamowitości jest raczej manipulowaniem tą tajemnicą, traktowaną jako integralny składnik ludzkiego świata. Prawdziwa tajemnica, prawdziwa niesamowitość pojawi się dopiero wraz z milczącym widmem Gustawa. Jego milczenie postawi pod znakiem zapytania dotychczasowy sens obrzędu.</p><p>Obrzęd był dla człowieka. Miał pomagać mu żyć tu, na ziemi. Miał dostarczać poczucia bezpieczeństwa i pewności. Ale ogarniał tylko tę sferę życia, która jest wspólna wszystkim. Nie pozostawiał miejsca na odstępstwa. Dysponował określoną liczbą modelowych sytuacji; zresztą na niezmienności tych sytuacji polegała jego siła i znaczenie.</p><p>W ten uporządkowany, schematyczny świat wkroczy Gustaw i zażąda racji dla swojego cierpienia. Opowie swoje dzieje nie tylko Księdzu, ale także wiejskiej gromadzie. Nie posłucha jednak rytualnych zaklęć, znajdzie się poza konwencją, którą żyje gromada. Świat ludowego obrzędu jest mu bliski, w jego obronie wystąpi w "godzinie przestrogi", do prawd moralnych, głoszonych przez duchy, doda swoją - wysnutą z cierpienia. Mimo to jednak pozostanie wobec gromady obcy. Jego cierpienie jest jedyne, niepowtarzalne. Nie da się uogólnić, sprowadzić do stwierdzenia, że cierpi każdy.</p><p>Gustaw jest poza społecznością, jest samotny. Klęska osobista wyrwała go ze zbiorowości, zburzyła możliwość porozumienia. Gustaw broni własnej wizji świata; wie jednak, że jego wizja nie pokrywa się z normą społeczną. Żąda rzeczy niemożliwej: aby przyznano rację jego indywidualizmowi. Ale zbiorowość, aby to uczynić, musiałaby Gustawa w jakiś sposób zaszeregować. A to właśnie byłoby   przekreśleniem jego indywidualizmu.</p><p>Przez swoje cierpienie i klęskę Gustaw stanie się kimś niezwykłym, wyróżnionym. Tylko z takiego bohatera może się narodzić Konrad. Konrad uzna siebie za ucieleśnienie narodu. Zdawać by się mogło, że znalazł drogę do pojednania ze zbiorowością. Tak jednak nie jest. Konrad podejmuje pewne działania, ale są to działania w sferze myśli i idei, "bój słowa". To proces dokonujący się w świadomości bohatera, pozbawiony zatem wpływu na rzeczywistość, daleki od zbiorowości, w imieniu której się toczy.</p><p>Konrad jest bohaterem samotnym, inaczej jednak niż Gustaw. Samotność Konrada jest wynikiem świadomego wyboru. W inscenizacji Swinarskiego następuje przesunięcie akcentów. Dzięki skreśleniom w tekście Wielkiej Improwizacji zmniejsza się znaczenie woli mocy, pragnienia władzy, potęgi twórczej. Uwyraźnia się natomiast konflikt wewnętrzny. Dla Konrada indywidualizm jest wartością elementarną. Nie znaczy to jednak, że jest on w stanie całkowicie wyrwać się ze zbiorowości. Swinarski - w pasji obnażania do końca myśli autora i dopowiadania prawd przez niego pominiętych - odsłania jakby drugą stronę buntu Konrada. Przez teatralne zderzenie dwóch obrazów - dwóch różnych racji, pokazuje nie samotnego bohatera, który z dala od świata przeżywa metafizyczne problemy, ale także społeczność, naród czy część narodu,  w imieniu  którego  bohater występuje. Poszerza w ten sposób nie tyle problematykę "Dziadów", co naszą perspektywę. Po to właśnie wprowadza gromadę ludową do III części "Dziadów" i umieszcza ją na "scenie Senatora". To zresztą jeszcze jedna dwuznaczność - dlaczego, przy tak ścisłym podziale przestrzeni scenicznej, właśnie lud zostaje umieszczony tam, gdzie wrogowie?</p><p>Sam pomysł, by III część "Dziadów" odegrać przed oczami gromady z obrzędu części II, nie jest niczym nowym. Podobnie było w inscenizacji Dejmka. Ale sposób zachowania się tej gromady, ujęcie jej relacji z Konradem, zderzenie "samotności i wspólnoty" są już własnym pomysłem Swinarskiego. Sens Konradowego boju zostaje w ten sposób podważony, postawiony pod znakiem zapytania. Wielkość staje się podejrzana. Czy jednak chodzi tu rzeczywiście o kompromitację Konrada i tego wszystkiego, czego jest on symbolem? Czytamy przecież w "Dziadach"</p><p>:</p><p>Ciemności kryją ziemią i lud we śnie leży, </p><p>Lecz dlaczego  śpią ludzie,  żaden z nich  nie</p><p>bada. </p><p>Przebudzą się bez czucia, jak bez czucia</p><p>Spali</p><p></p><p>- i słowa te mówi właśnie Konrad, a Swinarski konsekwentnie przekłada je na język teatru. Oto więc mamy lud śpiący na scenie, gdy Konrad wygłasza Wielką Improwizację.</p><p>Romantycy znali owo zderzenie poezji z życiem, mieli świadomość "drugiej strony" patosu i wzniosłości. Nazywało się to ironią romantyczną. Na pozór więc nic nowego Swinarski nie wymyślił. Dopowiedział jedynie i podkreślił to, co już w romantyzmie było. Szokuje nas jedynie, że jest to takie zestawienie. Recenzentom kojarzyło się ono z Żeromskim i całą ogromną i tragiczną problematyką rozbieżności między walką narodową i społeczną. Interpretacja to chyba zbyt jednoznaczna i zbyt uproszczona, chociaż znajdująca w spektaklu przynajmniej częściowe uzasadnienie.</p><p>Przede wszystkim jednak ów lud pogrążony we śnie służy uprzytomnieniu rozbieżności między racją ogólną i jednostkową. Nawet gdy jednostka występuje w imię zbiorowości. Konrad do końca nie zostanie przez lud zaakceptowany. Ale czy wobec tego zrezygnuje ze swego indywidualizmu i samotnej walki? I czy zrezygnować z nich powinien? Ksiądz Piotr nauczył go także tego, że cierpienie w imię narodu musi zostać spełnione do końca. Również w imię tych, którzy się od Konrada odwrócili. Sama zasada takiej walki pośrednio wiąże więc bohatera ze zbiorowością. Ale pełne pojednanie możliwe jest tylko przez wspólnotę idei.</p><p>I takie pojednanie trzeba będzie jeszcze wywalczyć. To zadanie, które reżyser stawia przed bohaterem. Nie tylko przed nim zresztą. Równie dobrze może postawić je przed nami: mieszkańcami świata bez ideałów, bez Boga, diabła i wiary w sens historii. To nam Swinarski proponuje realizację jednostkowej wolności przez uczestnictwo we wspólnocie idei, które stanie się treścią życia.</p><p> "Psychologia i religia", Warszawa 1970.</p><p>"Szkice z psychologii religii", Warszawa 1966.</p><p>Zofia Stefanowska, "Historia i profesja", Warszawa 1962.</p><p>Thomas Carlyle, "Bohaterowie. Cześć dla bohaterów i pierwiastek bohaterstwa w historii", Warszawa 1892.</p>              </div>
+            
+    <aside id="lists">
+    <h2>Więcej informacji</h2>
+
+    
+
+
+    
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+
+
+
+
+<table>
+  <caption>
+    <span class="number">1</span>
+    <h3 class="list-name" id="connected-performances">Spektakle</h3>
+  </caption>
+    <tbody>
+        
+      
+                      <tr>
+          <td class="date">Premiera<br />18 lutego 1973</td>
+          <td class="main">
+            <span class="title">
+              <a href="/przedstawienie/8248/dziady" title="Dziady">Dziady</a>
+            </span>
+                          <span class="description">reż. Swinarski Konrad</span>                      </td>
+        </tr>
+                    </tbody>
+</table>
+    
+
+
+    
+
+    
+
+
+
+    
+
+
+    
+
+    
+
+
+    
+
+
+    
+
+
+    
+      
+    
+     
+    
+      </aside>
+      </div>
+
+    <div id="sidebar" class="visible-desktop col-l-4 col-xl-4 right-sidebar">
+      
+<div class="social-media visible-desktop">
+  <span class="title">Udostępnij</span>
+  
+    
+  <a href="http://www.facebook.com/share.php?u=https://encyklopediateatru.pl/artykuly/90205/co-swinarski-dopowiada-w-dziadach&title=Co Swinarski dopowiada w &quot;Dziadach&quot;" class="fb" target="_blank"></a>
+  <a href="http://twitter.com/intent/tweet?status=Co Swinarski dopowiada w &quot;Dziadach&quot;+https://encyklopediateatru.pl/artykuly/90205/co-swinarski-dopowiada-w-dziadach" class="tw" target="_blank"></a>
+  
+    </div>
+        
+              
+      <aside class="metric mm">
+                  
+                   
+        <dl>
+          <dt>Autor</dt>
+          <dd>
+                                            Danuta Szkop                        
+                      </dd>
+        </dl>
+        
+                <dl>
+          <dt>Źródło</dt>
+          <dd>
+                        Dialog Nr 6                      </dd>
+        </dl>
+                  
+        <dl>
+          <dt>Data</dt>
+          <dd>1 czerwca 1977</dd>
+        </dl> 
+      </aside>
+        
+              
+      
+
+<aside class="index">
+  <h2>Spis treści</h2>
+  <ul>
+            
+            
+    
+        
+    
+        
+        
+        
+      
+        
+         
+         
+        <li><a href="#connected-performances" onclick="$.scrollTo('#connected-performances', 800, {offset: -120}); return false;" title="Spektakle">Spektakle</a></li>
+        
+        
+        
+        
+        
+        
+    
+    
+    
+    
+        
+        
+        
+    
+    
+        
+        
+        
+        
+    
+        
+      </ul>
+</aside>
+        
+      <div class="suggest-change-btn">
+  <a href="#" onclick="$('#suggest-change').fadeIn(); return false;"><span class="bold">Zaproponuj uzupełnienie</span><span>lub zgłoś błąd na stronie</span></a>
+</div>
+    </div>
+
+  </div>
+</article>			
+<!-- Stopka -->
+
+							<div class="gray-bar"></div>
+      
+			
+			
+			<footer id="footer">
+				<div class="row">
+					<div class="footer-copy col-xs-12 col-s-12 col-m-12 col-l-6 col-xl-6">
+						<p><span class="bold">ENCYKLOPEDIA TEATRU POLSKIEGO</span></p>
+						<p>© 2016 Materiały zawarte na stronie są chronione prawem autorskim</p>
+					</div>
+						
+					<div class="col-xs-12 col-s-12 col-m-12 col-l-6 col-xl-6">
+						<ul class="footer-sm">
+							<li><a href="" title="facebook" class="facebook"><span>Facebook</span></a></li>
+							<li><a href="" title="twitter" class="twitter"><span>Twitter</span></a></li>
+							<li><a href="" title="pinterest" class="pinterest"><span>Pinterest</span></a></li>
+						</ul>
+						<ul class="footer-links">
+							<li class="itm first"><a href="/strona/5/polityka-prywatnosci">Polityka prywatności</a></li>
+							<li class="itm"><a href="/strona/6/zasady-uzytkowania">Zasady użytkowania</a></li>
+							<li class="itm"><a href="/kontakt">Kontakt</a></li>
+              <!--<li class="itm last"><a href="http://intotheshadows.pl" title="Opuszczone miejsca w Polsce i podróże po Europie i po świecie" target="_blank" rel="follow"><span>Opuszczone miejsca, podróże po świecie</span></a></li>-->
+						</ul>
+					</div>
+				</div>
+			</footer>
+						
+		</div>
+
+    
+<div class="row-full" id="tiles-layer">
+  <div class="col-xs-12 col-s-12 col-m-12 col-l-12 col-xl-12">
+
+    <div class="desktop alt">
+      <div class="visible-desktop">
+        <div class="tiles-layer">
+
+          <header class="header">
+            <h2>Pracownia</h2>
+            <a href="#" class="close close-tiles">X</a>
+            <div class="user">
+                            Nie jesteś zalogowany. <a href="/zaloguj-sie" title="Zaloguj się">Zaloguj się</a>.
+                          </div>
+          </header>
+
+          <div class="loading"><img src="/images/encyklopedia/icon/gears.svg" alt="Trwa wyszukiwanie"></div>
+            
+          <div class="tiles">
+            <ul>
+              <li><a href="/pracownia" title="Pracownia" data-type="workshop" data-description="Miejsce, w którym można gromadzić zasoby z przeglądanych stron Encyklopedii, grupować w foldery, komentować." class="p1 active">Pracownia</a></li>
+              <li><a href="/notes" title="Notes" data-type="notepad" data-description="Przystępny edytor umożliwiający zapisywanie podręcznych notatek. <br /><span style='color: red'>Element dostępny tylko dla użytkowników zalogowanych.</span>" class="p8 inactive">Notes</a></li>
+              <li><a href="/prezentacje" title="Prezentacje" data-type="presentation" data-description="Narzędzie umożliwiające tworzenie wieloslajdowych prezentacji. <br /><span style='color: red'>Element dostępny tylko dla użytkowników zalogowanych.</span>" class="p2 inactive">Prezentacje</a></li>
+              <li><a href="/artykuly" title="Artykuły" data-type="article" data-description="Dostęp do pełnej wersji tekstowej wszystkich artykułów. <br /><span style='color: red'>Element dostępny tylko dla użytkowników zalogowanych.</span>" class="p3 inactive">Artykuły</a></li>
+              <li><a href="/multimedia" title="Multimedia" data-type="multimedia" data-description="Katalog nagrań, filmów i rejestracji spektakli teatralnych dostępnych w bibliotece Instytutu Teatralnego. <br /><span style='color: red'>Element dostępny tylko dla użytkowników zalogowanych.</span>" class="p4 inactive">Multimedia</a></li>
+              <li><a href="/zdjecia" title="Zdjęcia" data-type="photo" data-description="Zintegrowana przeglądarka zbioru zdjęć. <br /><span style='color: red'>Element dostępny tylko dla użytkowników zalogowanych.</span>" class="p5 inactive">Zdjęcia</a></li>
+              <li><a href="/afisze-i-plakaty" title="Afisze" data-type="poster" data-description="Katalog i przeglądarka afiszy i plakatów ze zbiorów Instytutu Teatralnego. <br /><span style='color: red'>Element dostępny tylko dla użytkowników zalogowanych.</span>" class="p6 inactive">Afisze</a></li>
+              <li><a href="/programy-teatralne" title="Programy" data-type="program" data-description="Zbiór zdigitalizowanych programów teatralnych. <br /><span style='color: red'>Element dostępny tylko dla użytkowników zalogowanych.</span>" class="p7 inactive">Programy</a></li>
+            </ul>
+
+            <div class="instruction">
+              <h3>Kafelki</h3>
+              <p>Nakieruj na kafelki, aby zobaczyć ich opis.</p>
+            </div>
+          </div>
+
+                    <div class="register-help"></div>
+                    <div class="white-fade"></div>
+
+          <script>
+
+            function tilesCenter() {
+              var tilesWidth = 0
+
+              $('.tiles li').each(function(){
+                tilesWidth += $(this).outerWidth(true);
+              });
+
+              $('.tiles').css('margin-left', tilesWidth / -2);
+            }
+
+            function instructonCenter() {
+              var instructionWidth = $('.instruction').outerWidth();
+
+              $('.instruction').css('margin-left', tilesWidth / -2);
+            }
+
+            $(document).ready(function() {
+              tilesCenter();
+            });
+
+            $(window).resize(function() {
+              tilesCenter();
+            });
+
+            $(document).ready(function() {
+
+              $('.tiles .active').click(function() {
+                $('.animate').removeClass('animate');
+                $(this).addClass('animate');
+              });
+
+            });
+
+          </script>
+
+        </div>
+      </div>
+
+      <div class="communicate hidden-desktop">
+        <p>Pracownia dostępna tylko na komputerach stacjonarnych.</p>
+      </div>
+    </div>
+
+    <script>
+      function workshopResize() {
+        var pageHeight = $(window).height();
+        var headerHeight = $('#header').outerHeight();
+        var footerHeight = $('#footer').outerHeight();
+        var loginHeight = $('.login').outerHeight();
+        var communicateHeight = $('.communicate').outerHeight();
+
+        $('.login').css('margin-top', loginHeight / -2);
+        $('.communicate').css('margin-top', communicateHeight / -1.2);
+        $('.desktop').outerHeight(pageHeight - (headerHeight + footerHeight));
+      }
+
+      $(document).ready(function() {
+        workshopResize();
+      });
+
+      $(window).resize(function() {
+        workshopResize();
+      });
+    </script>
+  </div>
+</div>
+
+    
+    
+
+
+
+        <div class="workshop-bar visible-desktop">
+	<ul>
+        <li><a href="/zaloguj-sie" title="Otwórz pracownie" class="p1"></a></li>
+          
+    
+        
+                <li><a href="" title="Dodaj do pracowni" class="p2 add-desk"data-name="Co Swinarski dopowiada w &quot;Dziadach&quot;" data-type="article" data-link="/artykuly/90205/co-swinarski-dopowiada-w-dziadach" data-additionalinfo=""></a></li>
+            <!--<li><a href="/generujpdf/name/co-swinarski-dopowiada-w-quotdziadachquot/url/%2Fartykuly%2F90205%2Fco-swinarski-dopowiada-w-dziadach" title="Zapisz jako pdf" class="p3"></a></li>-->
+      <li><a href="/artykuly/90205/co-swinarski-dopowiada-w-dziadach?drukuj=true" title="Drukuj" class="p4"></a></li>
+    		<li><a href="#" onclick="$('#suggest-change').fadeIn(); return false;" title="Zasugeruj zmianę" class="p5"></a></li>
+    
+    <li><a href="/strona/4/pomoc" onclick="$('#page-help-iframe').attr('src', '/strona/4/pomoc?layeriframe=true'); $('#page-help').fadeIn(); return false;" title="Pomoc" class="p6"></a></li>
+	</ul>
+  <div class="workshop-window" id="suggest-change">
+		<h2>Zasugeruj zmianę</h2>
+    <form action="#">
+      <div id="recaptcha" class="g-recaptcha"
+          data-sitekey="6LcGB1YcAAAAALCBGqOPl54ireq1e_3kCLRMEZZb"
+          data-callback="sendSuggestChange"
+          data-size="invisible"></div>
+      <div class="field">
+        <input type="text" name="mail" id="suggest-change-mail" placeholder="Podaj e-mail" value="" />
+      </div>
+      <div class="field">
+        <input type="text" name="name" id="suggest-change-name" placeholder="Podaj imię i nazwisko" value="" />
+      </div>
+      <div class="field">
+        <textarea name="description" placeholder="Treść proponowanej zmiany" id="suggest-change-description"></textarea>
+      </div>
+         </fieldset>
+               <fieldset>
+              <label style="float: left; width: auto; padding-top: 10px; padding-right: 4px;">Podaj wynik : pięć dodać pięć</label>
+              <input type="text" value="" id="suggest-change-math" name='math' style="width: 30px; text-align: center;" class="math"/>
+            </fieldset>
+      <div class="message"></div>
+      <div>
+        <button type="button" class="submit" onclick="validateSuggestChange();">Wyślij</button>
+        <input type="hidden" name="url" value="https://encyklopediateatru.pl/artykuly/90205/co-swinarski-dopowiada-w-dziadach" />
+        <script>
+          function validateSuggestChange() {
+            var mail = $("#suggest-change-mail").val();
+            var text = $("#suggest-change-description").val();
+            var name = $("#suggest-change-name").val();
+            var math = $("#suggest-change-math").val();
+            var pageTitle = document.title;
+            
+            var errors = 0;
+            if(!text) {
+              $('#suggest-change .message').html("Musisz podać treść");
+              errors++;
+            }
+            
+            if(!math) {
+              $('#suggest-change .math').html("Musisz podać wynik dodawania");
+              errors++;
+            }
+            
+            if(!mail) {
+              $('#suggest-change .message').html("Musisz podać adres e-mail");
+              errors++;
+            }
+            
+            if(!name) {
+              $('#suggest-change .message').html("Musisz podać imię i nazwisko");
+              errors++;
+            }
+            
+            if(!name) {
+              $('#suggest-change .message').html("Musisz podać imię i nazwisko");
+              errors++;
+            }
+            
+            if(errors == 0) {
+              grecaptcha.execute();
+            }
+
+            return false;
+          }
+          
+          function sendSuggestChange(token) {
+            var pageTitle = document.title;
+            $('#suggest-change .submit').attr('disabled', 'disabled').css('opacity', 0.5);
+            $('#suggest-change .message').html('');
+
+            $.ajax( {
+              type: "POST",
+              url: '/zasugeruj-zmiane',
+              data: { data : $('#suggest-change form').serialize(), title: pageTitle, token: token },
+              dataType: "json",
+              success: function( response ) {
+                $('#suggest-change .message').html(response.message);
+                $('#suggest-change .submit').removeAttr('disabled').css('opacity', 1);
+              }
+            });
+          }
+          </script>
+          
+          <input type="button" class="close" onclick="$('#suggest-change').fadeOut(); return false;" value="Zamknij" />
+      </div>	
+    </form>
+	</div>
+</div>
+
+<div id="page-help" style="z-index: 999;">
+  <div class="iframe-container">
+    <a href="#" onclick="$('#page-help').fadeOut(); return false;" class="close">x</a>
+    <iframe id="page-help-iframe"></iframe>
+  </div>
+</div>          
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+          
+        
+    	
+	
+	  	  <style>
+	  #band-cookies {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 20000000;
+    width: 100%;
+    padding: 15px 0;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.1;
+    background-color: #151515;
+    color: #FFF;
+    box-shadow: 0 -3px 3px 0 rgba(0,0,0,.15);
+}
+#band-cookies-close {
+    height: 16px;
+    width: 16px;
+    padding: 8px;
+    position: absolute;
+    right: 7px;
+    top: 50%;
+    margin-top: -16px;
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+    border-radius: 16px;
+    background-color: #000;
+}
+	  </style>
+<div id="cookiesnotify" class="cookiesnotify">
+
+	<div id="band-cookies" style="display: block; background-color: rgb(21, 21, 21); color: rgb(180, 180, 180);">
+		<p>Używamy plików cookies do celów technicznych i analitycznych.
+			<a href="#" id="band-cookies-ok" style="color: rgb(212, 212, 212);"  class="close">Akceptuję</a>
+			<a href="//encyklopediateatru.pl/strona/11/pliki-cookies" id="band-cookies-info" style="color: rgb(212, 212, 212);">Więcej informacji</a>
+		</p>
+		<a href="#" id="band-cookies-close" class="closewindow" style="background-color:#404040;">
+			<svg version="1.1" id="band-cookies-close-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="248.5 248.5 15 15" enable-background="new 248.5 248.5 15 15" xml:space="preserve"><polygon id="x-mark-icon" points="263.5,260.876 258.621,255.999 263.499,251.121 260.876,248.5 256,253.377 251.122,248.5 248.5,251.121 253.378,255.999 248.5,260.878 251.121,263.5 256,258.62 260.879,263.499" style="fill:#b7b7b7;"></polygon></svg>
+		</a>
+	</div>
+
+
+
+        
+</div>
+
+<script>
+$("#cookiesnotify .closewindow").click(function() {$("#cookiesnotify").fadeOut() });
+$("#cookiesnotify .close").click(function() { date = new Date(); date.setTime(date.getTime()+(100000*24*60*60*1000)); document.cookie = 'cookiesnotify=true; expires='+date.toGMTString()+'; path=/; domain=encyklopediateatru.pl'; $("#cookiesnotify").fadeOut(); });
+</script>
+		
+        
+	</body>
+</html>
+
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,1103 @@
+HTTP/2 200 
+date: Sat, 03 Jan 2026 16:28:22 GMT
+server: mw-web.eqiad.main-8f8dcf6c-9thz4
+x-content-type-options: nosniff
+content-language: ja
+accept-ch: 
+last-modified: Sat, 20 Dec 2025 16:28:22 GMT
+content-type: text/html; charset=UTF-8
+age: 598
+accept-ranges: bytes
+x-cache: cp6012 miss, cp6016 hit/2
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front", host;desc="cp6016"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT
+set-cookie: WMF-DP=03c;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7
+cache-control: private, s-maxage=0, max-age=0, must-revalidate, no-transform
+vary: Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent
+set-cookie: GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
+set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
+set-cookie: WMF-Uniq=vO8-Bt8VE5ooJWSrhOicTgLdAAAAAFvdtJD9vde7xmtFvoDVmBgnQvdUBetUiVoE;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027 00:00:00 GMT
+content-length: 151072
+x-request-id: e946175b-ab4c-4264-b548-ae4c2edca165
+
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ja" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>七つの大罪 - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )jawikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"3bae2feb-edcb-4647-b1c1-52a42a5fb6fd","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"七つの大罪","wgTitle":"七つの大罪","wgCurRevisionId":106990891,"wgRevisionId":106990891,"wgArticleId":24748,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["ISBNマジックリンクを使用しているページ","出典を必要とする節のある記事/2014年1月-3月","七つの大罪","カトリックの教義","キリスト教用語","キリスト教関連の思想","名数7","ラテン語の成句","罪","キリスト教倫理"],"wgPageViewLanguage":"ja","wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgRelevantPageName":"七つの大罪","wgRelevantArticleId":24748,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","pageVariantFallbacks":"ja"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgWMEPageLengthBucket":3,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q166502","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":false,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.PDFLinkIcon":"ready","ext.gadget.RedirectColor":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.NormalizeCharWidth","ext.gadget.suppressEnterAtSummaryBox","ext.gadget.checkSignature","ext.gadget.charinsert","ext.gadget.WikiMiniAtlas","ext.gadget.switcher","ext.gadget.protectionIndicator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ja&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ja&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ja&amp;modules=ext.gadget.PDFLinkIcon%2CRedirectColor&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=ja&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.7">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG/1200px-Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1023">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="七つの大罪 - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (ja)">
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">
+<link rel="alternate" type="application/atom+xml" title="Wikipediaの Atom フィード" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-七つの大罪 rootpage-七つの大罪 skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">コンテンツにスキップ</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="サイト">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="メインメニュー" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="メインメニュー"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">メインメニュー</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">メインメニュー</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">サイドバーに移動</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">非表示</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		案内
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z"><span>メインページ</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所"><span>コミュニティ・ポータル</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る"><span>最近の出来事</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧"><span>新しいページ</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r"><span>最近の更新</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x"><span>おまかせ表示</span></a></li><li id="n-sandbox" class="mw-list-item"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ"><span>練習用ページ</span></a></li><li id="n-commonsupload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード"><span>アップロード (ウィキメディア・コモンズ)</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7"><span>特別ページ</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"  >
+	<div class="vector-menu-heading">
+		ヘルプ
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所"><span>ヘルプ</span></a></li><li id="n-helpdesk" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%A9%E7%94%A8%E6%A1%88%E5%86%85"><span>利用案内</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換"><span>井戸端</span></a></li><li id="n-notice" class="mw-list-item"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ"><span>お知らせ</span></a></li><li id="n-bugreportspage" class="mw-list-item"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告"><span>バグの報告</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先"><span>ウィキペディアに関するお問い合わせ</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-ja.svg" style="width: 7.5em; height: 1.25em;">
+		<img class="mw-logo-tagline" alt="" src="/static/images/mobile/copyright/wikipedia-tagline-ja.svg" width="100" height="14" style="width: 6.25em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%A4%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Wikipedia内を検索 [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>検索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Wikipedia内を検索" aria-label="Wikipedia内を検索" autocapitalize="sentences" spellcheck="false" title="Wikipedia内を検索 [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="特別:検索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">検索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="個人用ツール">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="表示">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="ページのフォントサイズ、幅、色の外観を変更する" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="表示"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">表示</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ja.wikipedia.org&amp;uselang=ja" class=""><span>寄付</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません" class=""><span>アカウント作成</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o" class=""><span>ログイン</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="その他の操作" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="個人用ツール"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">個人用ツール</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="利用者メニュー" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ja.wikipedia.org&amp;uselang=ja"><span>寄付</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>アカウント作成</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>ログイン</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="サイト">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="目次" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目次</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">サイドバーに移動</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">非表示</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">ページ先頭</div>
+			</a>
+		</li>
+		<li id="toc-歴史"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#歴史">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>歴史</span>
+			</div>
+		</a>
+		
+		<ul id="toc-歴史-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-カトリック教会の七つの罪源"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#カトリック教会の七つの罪源">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>カトリック教会の七つの罪源</span>
+			</div>
+		</a>
+		
+		<ul id="toc-カトリック教会の七つの罪源-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-七つの大罪の関連付け"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#七つの大罪の関連付け">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>七つの大罪の関連付け</span>
+			</div>
+		</a>
+		
+		<ul id="toc-七つの大罪の関連付け-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-新しい七つの大罪"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#新しい七つの大罪">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>新しい七つの大罪</span>
+			</div>
+		</a>
+		
+		<ul id="toc-新しい七つの大罪-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-七つの社会的罪"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#七つの社会的罪">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>七つの社会的罪</span>
+			</div>
+		</a>
+		
+		<ul id="toc-七つの社会的罪-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-脚注"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#脚注">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>脚注</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-脚注-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>脚注サブセクションを切り替えます</span>
+			</button>
+		
+		<ul id="toc-脚注-sublist" class="vector-toc-list">
+			<li id="toc-注釈"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#注釈">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">6.1</span>
+					<span>注釈</span>
+				</div>
+			</a>
+			
+			<ul id="toc-注釈-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-出典"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#出典">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">6.2</span>
+					<span>出典</span>
+				</div>
+			</a>
+			
+			<ul id="toc-出典-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-参考文献"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考文献">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>参考文献</span>
+			</div>
+		</a>
+		
+		<ul id="toc-参考文献-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-関連項目"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#関連項目">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>関連項目</span>
+			</div>
+		</a>
+		
+		<ul id="toc-関連項目-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="目次" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="目次" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="目次の表示・非表示を切り替え"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">目次の表示・非表示を切り替え</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">七つの大罪</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="特定の記事の別の言語版に移動します。 利用可能な言語72件"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-72" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">72 個の言語版</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Sewe_doodsondes" title="アフリカーンス語: Sewe doodsondes" lang="af" hreflang="af" data-title="Sewe doodsondes" data-language-autonym="Afrikaans" data-language-local-name="アフリカーンス語" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ang mw-list-item"><a href="https://ang.wikipedia.org/wiki/Seofon_d%C4%93adlica_synna" title="古英語: Seofon dēadlica synna" lang="ang" hreflang="ang" data-title="Seofon dēadlica synna" data-language-autonym="Ænglisc" data-language-local-name="古英語" class="interlanguage-link-target"><span>Ænglisc</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D8%A8%D8%B9_%D8%AE%D8%B7%D8%A7%D9%8A%D8%A7_%D8%A7%D9%84%D9%85%D9%85%D9%8A%D8%AA%D8%A9" title="アラビア語: السبع خطايا المميتة" lang="ar" hreflang="ar" data-title="السبع خطايا المميتة" data-language-autonym="العربية" data-language-local-name="アラビア語" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D8%A8%D8%B9_%D8%AE%D8%B7%D8%A7%D9%8A%D8%A7_%D8%A7%D9%84%D9%85%D9%85%D9%8A%D8%AA%D9%87" title="エジプト・アラビア語: السبع خطايا المميته" lang="arz" hreflang="arz" data-title="السبع خطايا المميته" data-language-autonym="مصرى" data-language-local-name="エジプト・アラビア語" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Pecaos_capitales" title="アストゥリアス語: Pecaos capitales" lang="ast" hreflang="ast" data-title="Pecaos capitales" data-language-autonym="Asturianu" data-language-local-name="アストゥリアス語" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Yeddi_%C3%B6l%C3%BCmc%C3%BCl_g%C3%BCnah" title="アゼルバイジャン語: Yeddi ölümcül günah" lang="az" hreflang="az" data-title="Yeddi ölümcül günah" data-language-autonym="Azərbaycanca" data-language-local-name="アゼルバイジャン語" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bat-smg mw-list-item"><a href="https://bat-smg.wikipedia.org/wiki/Sept%C4%ABn%C4%97_sm%C4%97rt%C4%97n%C4%97_griek%C4%81" title="サモギティア語: Septīnė smėrtėnė griekā" lang="sgs" hreflang="sgs" data-title="Septīnė smėrtėnė griekā" data-language-autonym="Žemaitėška" data-language-local-name="サモギティア語" class="interlanguage-link-target"><span>Žemaitėška</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B4%D0%B5%D0%BC%D1%82%D0%B5_%D1%81%D0%BC%D1%8A%D1%80%D1%82%D0%BD%D0%B8_%D0%B3%D1%80%D1%8F%D1%85%D0%B0" title="ブルガリア語: Седемте смъртни гряха" lang="bg" hreflang="bg" data-title="Седемте смъртни гряха" data-language-autonym="Български" data-language-local-name="ブルガリア語" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%A4_%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%95_%E0%A6%AA%E0%A6%BE%E0%A6%AA" title="ベンガル語: সাত মারাত্মক পাপ" lang="bn" hreflang="bn" data-title="সাত মারাত্মক পাপ" data-language-autonym="বাংলা" data-language-local-name="ベンガル語" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Seizh_pec%27hed_kapital" title="ブルトン語: Seizh pec&#039;hed kapital" lang="br" hreflang="br" data-title="Seizh pec&#039;hed kapital" data-language-autonym="Brezhoneg" data-language-local-name="ブルトン語" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Pecat_capital" title="カタロニア語: Pecat capital" lang="ca" hreflang="ca" data-title="Pecat capital" data-language-autonym="Català" data-language-local-name="カタロニア語" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Sedm_hlavn%C3%ADch_h%C5%99%C3%ADch%C5%AF" title="チェコ語: Sedm hlavních hříchů" lang="cs" hreflang="cs" data-title="Sedm hlavních hříchů" data-language-autonym="Čeština" data-language-local-name="チェコ語" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-csb mw-list-item"><a href="https://csb.wikipedia.org/wiki/S%C3%A9tm%C3%AB_n%C3%B4piersz%C3%ABch_grz%C3%A9ch%C3%B3w" title="カシューブ語: Sétmë nôpierszëch grzéchów" lang="csb" hreflang="csb" data-title="Sétmë nôpierszëch grzéchów" data-language-autonym="Kaszëbsczi" data-language-local-name="カシューブ語" class="interlanguage-link-target"><span>Kaszëbsczi</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Y_Saith_Pechod_Marwol" title="ウェールズ語: Y Saith Pechod Marwol" lang="cy" hreflang="cy" data-title="Y Saith Pechod Marwol" data-language-autonym="Cymraeg" data-language-local-name="ウェールズ語" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Syv_d%C3%B8dssynder" title="デンマーク語: Syv dødssynder" lang="da" hreflang="da" data-title="Syv dødssynder" data-language-autonym="Dansk" data-language-local-name="デンマーク語" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de badge-Q70894304 mw-list-item" title=""><a href="https://de.wikipedia.org/wiki/Sieben_Tods%C3%BCnden" title="ドイツ語: Sieben Todsünden" lang="de" hreflang="de" data-title="Sieben Todsünden" data-language-autonym="Deutsch" data-language-local-name="ドイツ語" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%95%CF%80%CF%84%CE%AC_%CE%B8%CE%B1%CE%BD%CE%AC%CF%83%CE%B9%CE%BC%CE%B1_%CE%B1%CE%BC%CE%B1%CF%81%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%B1" title="ギリシャ語: Επτά θανάσιμα αμαρτήματα" lang="el" hreflang="el" data-title="Επτά θανάσιμα αμαρτήματα" data-language-autonym="Ελληνικά" data-language-local-name="ギリシャ語" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-eml mw-list-item"><a href="https://eml.wikipedia.org/wiki/V%C3%ACsi_capit%C3%AAl" title="エミリア・ロマーニャ語: Vìsi capitêl" lang="egl" hreflang="egl" data-title="Vìsi capitêl" data-language-autonym="Emiliàn e rumagnòl" data-language-local-name="エミリア・ロマーニャ語" class="interlanguage-link-target"><span>Emiliàn e rumagnòl</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Seven_deadly_sins" title="英語: Seven deadly sins" lang="en" hreflang="en" data-title="Seven deadly sins" data-language-autonym="English" data-language-local-name="英語" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Sep_gravegaj_pekoj" title="エスペラント語: Sep gravegaj pekoj" lang="eo" hreflang="eo" data-title="Sep gravegaj pekoj" data-language-autonym="Esperanto" data-language-local-name="エスペラント語" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Pecados_capitales" title="スペイン語: Pecados capitales" lang="es" hreflang="es" data-title="Pecados capitales" data-language-autonym="Español" data-language-local-name="スペイン語" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Seitse_surmapattu" title="エストニア語: Seitse surmapattu" lang="et" hreflang="et" data-title="Seitse surmapattu" data-language-autonym="Eesti" data-language-local-name="エストニア語" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Zazpi_bekatu_nagusiak" title="バスク語: Zazpi bekatu nagusiak" lang="eu" hreflang="eu" data-title="Zazpi bekatu nagusiak" data-language-autonym="Euskara" data-language-local-name="バスク語" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%87%D9%81%D8%AA_%DA%AF%D9%86%D8%A7%D9%87_%DA%A9%D8%A8%DB%8C%D8%B1%D9%87" title="ペルシア語: هفت گناه کبیره" lang="fa" hreflang="fa" data-title="هفت گناه کبیره" data-language-autonym="فارسی" data-language-local-name="ペルシア語" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Seitsem%C3%A4n_kuolemansynti%C3%A4" title="フィンランド語: Seitsemän kuolemansyntiä" lang="fi" hreflang="fi" data-title="Seitsemän kuolemansyntiä" data-language-autonym="Suomi" data-language-local-name="フィンランド語" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fo mw-list-item"><a href="https://fo.wikipedia.org/wiki/T%C3%A6r_sjey_dey%C3%B0ssyndirnar" title="フェロー語: Tær sjey deyðssyndirnar" lang="fo" hreflang="fo" data-title="Tær sjey deyðssyndirnar" data-language-autonym="Føroyskt" data-language-local-name="フェロー語" class="interlanguage-link-target"><span>Føroyskt</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/P%C3%A9ch%C3%A9_capital" title="フランス語: Péché capital" lang="fr" hreflang="fr" data-title="Péché capital" data-language-autonym="Français" data-language-local-name="フランス語" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Seacht_bpeaca%C3%AD_marfacha" title="アイルランド語: Seacht bpeacaí marfacha" lang="ga" hreflang="ga" data-title="Seacht bpeacaí marfacha" data-language-autonym="Gaeilge" data-language-local-name="アイルランド語" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gd mw-list-item"><a href="https://gd.wikipedia.org/wiki/Seachd_peacaidhean-b%C3%A0is" title="スコットランド・ゲール語: Seachd peacaidhean-bàis" lang="gd" hreflang="gd" data-title="Seachd peacaidhean-bàis" data-language-autonym="Gàidhlig" data-language-local-name="スコットランド・ゲール語" class="interlanguage-link-target"><span>Gàidhlig</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Pecados_capitais" title="ガリシア語: Pecados capitais" lang="gl" hreflang="gl" data-title="Pecados capitais" data-language-autonym="Galego" data-language-local-name="ガリシア語" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-gu mw-list-item"><a href="https://gu.wikipedia.org/wiki/%E0%AA%B8%E0%AA%BE%E0%AA%A4_%E0%AA%98%E0%AB%8B%E0%AA%B0_%E0%AA%AA%E0%AA%BE%E0%AA%AA_(%E0%AA%96%E0%AB%8D%E0%AA%B0%E0%AA%BF%E0%AA%B8%E0%AB%8D%E0%AA%A4%E0%AB%80_%E0%AA%A7%E0%AA%B0%E0%AB%8D%E0%AA%AE)" title="グジャラート語: સાત ઘોર પાપ (ખ્રિસ્તી ધર્મ)" lang="gu" hreflang="gu" data-title="સાત ઘોર પાપ (ખ્રિસ્તી ધર્મ)" data-language-autonym="ગુજરાતી" data-language-local-name="グジャラート語" class="interlanguage-link-target"><span>ગુજરાતી</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%91%D7%A2%D7%AA_%D7%94%D7%97%D7%98%D7%90%D7%99%D7%9D" title="ヘブライ語: שבעת החטאים" lang="he" hreflang="he" data-title="שבעת החטאים" data-language-autonym="עברית" data-language-local-name="ヘブライ語" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%A4_%E0%A4%98%E0%A4%BE%E0%A4%A4%E0%A4%95_%E0%A4%AA%E0%A4%BE%E0%A4%AA" title="ヒンディー語: सात घातक पाप" lang="hi" hreflang="hi" data-title="सात घातक पाप" data-language-autonym="हिन्दी" data-language-local-name="ヒンディー語" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Sedam_smrtnih_grijeha" title="クロアチア語: Sedam smrtnih grijeha" lang="hr" hreflang="hr" data-title="Sedam smrtnih grijeha" data-language-autonym="Hrvatski" data-language-local-name="クロアチア語" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/H%C3%A9t_f%C5%91b%C5%B1n" title="ハンガリー語: Hét főbűn" lang="hu" hreflang="hu" data-title="Hét főbűn" data-language-autonym="Magyar" data-language-local-name="ハンガリー語" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%85%D5%B8%D5%A9_%D5%B4%D5%A1%D5%B0%D5%A1%D6%81%D5%B8%D6%82_%D5%B4%D5%A5%D5%B2%D6%84%D5%A5%D6%80" title="アルメニア語: Յոթ մահացու մեղքեր" lang="hy" hreflang="hy" data-title="Յոթ մահացու մեղքեր" data-language-autonym="Հայերեն" data-language-local-name="アルメニア語" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Tujuh_dosa_besar" title="インドネシア語: Tujuh dosa besar" lang="id" hreflang="id" data-title="Tujuh dosa besar" data-language-autonym="Bahasa Indonesia" data-language-local-name="インドネシア語" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Vizi_capitali" title="イタリア語: Vizi capitali" lang="it" hreflang="it" data-title="Vizi capitali" data-language-autonym="Italiano" data-language-local-name="イタリア語" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%A8%E1%83%95%E1%83%98%E1%83%93%E1%83%98_%E1%83%9B%E1%83%9D%E1%83%9B%E1%83%90%E1%83%99%E1%83%95%E1%83%93%E1%83%98%E1%83%9C%E1%83%94%E1%83%91%E1%83%94%E1%83%9A%E1%83%98_%E1%83%AA%E1%83%9D%E1%83%93%E1%83%95%E1%83%90" title="ジョージア語: შვიდი მომაკვდინებელი ცოდვა" lang="ka" hreflang="ka" data-title="შვიდი მომაკვდინებელი ცოდვა" data-language-autonym="ქართული" data-language-local-name="ジョージア語" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%8F%E0%B2%B3%E0%B3%81_%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%A3%E0%B2%BE%E0%B2%82%E0%B2%A4%E0%B2%BF%E0%B2%95_%E0%B2%AA%E0%B2%BE%E0%B2%AA%E0%B2%97%E0%B2%B3%E0%B3%81" title="カンナダ語: ಏಳು ಪ್ರಾಣಾಂತಿಕ ಪಾಪಗಳು" lang="kn" hreflang="kn" data-title="ಏಳು ಪ್ರಾಣಾಂತಿಕ ಪಾಪಗಳು" data-language-autonym="ಕನ್ನಡ" data-language-local-name="カンナダ語" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%B9%A0%EC%A3%84%EC%A2%85" title="韓国語: 칠죄종" lang="ko" hreflang="ko" data-title="칠죄종" data-language-autonym="한국어" data-language-local-name="韓国語" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Septem_peccata_mortalia" title="ラテン語: Septem peccata mortalia" lang="la" hreflang="la" data-title="Septem peccata mortalia" data-language-autonym="Latina" data-language-local-name="ラテン語" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Septynios_mirtinos_nuod%C4%97m%C4%97s" title="リトアニア語: Septynios mirtinos nuodėmės" lang="lt" hreflang="lt" data-title="Septynios mirtinos nuodėmės" data-language-autonym="Lietuvių" data-language-local-name="リトアニア語" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Septi%C5%86i_n%C4%81ves_gr%C4%93ki" title="ラトビア語: Septiņi nāves grēki" lang="lv" hreflang="lv" data-title="Septiņi nāves grēki" data-language-autonym="Latviešu" data-language-local-name="ラトビア語" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B4%D1%83%D0%BC_%D1%81%D0%BC%D1%80%D1%82%D0%BD%D0%B8_%D0%B3%D1%80%D0%B5%D0%B2%D0%BE%D0%B2%D0%B8" title="マケドニア語: Седум смртни гревови" lang="mk" hreflang="mk" data-title="Седум смртни гревови" data-language-autonym="Македонски" data-language-local-name="マケドニア語" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Tujuh_maha_dosa" title="マレー語: Tujuh maha dosa" lang="ms" hreflang="ms" data-title="Tujuh maha dosa" data-language-autonym="Bahasa Melayu" data-language-local-name="マレー語" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Hoofdzonde" title="オランダ語: Hoofdzonde" lang="nl" hreflang="nl" data-title="Hoofdzonde" data-language-autonym="Nederlands" data-language-local-name="オランダ語" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Dei_sju_d%C3%B8dssyndene" title="ノルウェー語(ニーノシュク): Dei sju dødssyndene" lang="nn" hreflang="nn" data-title="Dei sju dødssyndene" data-language-autonym="Norsk nynorsk" data-language-local-name="ノルウェー語(ニーノシュク)" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/De_syv_d%C3%B8dssynder" title="ノルウェー語(ブークモール): De syv dødssynder" lang="nb" hreflang="nb" data-title="De syv dødssynder" data-language-autonym="Norsk bokmål" data-language-local-name="ノルウェー語(ブークモール)" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pcd mw-list-item"><a href="https://pcd.wikipedia.org/wiki/S%C3%A8t_p%C3%A9tch%C3%A8s_capitals" title="ピカルディ語: Sèt pétchès capitals" lang="pcd" hreflang="pcd" data-title="Sèt pétchès capitals" data-language-autonym="Picard" data-language-local-name="ピカルディ語" class="interlanguage-link-target"><span>Picard</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Siedem_grzech%C3%B3w_g%C5%82%C3%B3wnych" title="ポーランド語: Siedem grzechów głównych" lang="pl" hreflang="pl" data-title="Siedem grzechów głównych" data-language-autonym="Polski" data-language-local-name="ポーランド語" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Pecado_capital" title="ポルトガル語: Pecado capital" lang="pt" hreflang="pt" data-title="Pecado capital" data-language-autonym="Português" data-language-local-name="ポルトガル語" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/P%C4%83cat_capital" title="ルーマニア語: Păcat capital" lang="ro" hreflang="ro" data-title="Păcat capital" data-language-autonym="Română" data-language-local-name="ルーマニア語" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D1%8C_%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%BD%D1%8B%D1%85_%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2" title="ロシア語: Семь смертных грехов" lang="ru" hreflang="ru" data-title="Семь смертных грехов" data-language-autonym="Русский" data-language-local-name="ロシア語" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Sedam_smrtnih_grehova" title="セルボ・クロアチア語: Sedam smrtnih grehova" lang="sh" hreflang="sh" data-title="Sedam smrtnih grehova" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="セルボ・クロアチア語" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Seven_deadly_sins" title="シンプル英語: Seven deadly sins" lang="en-simple" hreflang="en-simple" data-title="Seven deadly sins" data-language-autonym="Simple English" data-language-local-name="シンプル英語" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Sedem_hlavn%C3%BDch_hriechov" title="スロバキア語: Sedem hlavných hriechov" lang="sk" hreflang="sk" data-title="Sedem hlavných hriechov" data-language-autonym="Slovenčina" data-language-local-name="スロバキア語" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Sedem_smrtnih_grehov" title="スロベニア語: Sedem smrtnih grehov" lang="sl" hreflang="sl" data-title="Sedem smrtnih grehov" data-language-autonym="Slovenščina" data-language-local-name="スロベニア語" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Sedam_smrtnih_grehova" title="セルビア語: Sedam smrtnih grehova" lang="sr" hreflang="sr" data-title="Sedam smrtnih grehova" data-language-autonym="Српски / srpski" data-language-local-name="セルビア語" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/De_sju_d%C3%B6dssynderna" title="スウェーデン語: De sju dödssynderna" lang="sv" hreflang="sv" data-title="De sju dödssynderna" data-language-autonym="Svenska" data-language-local-name="スウェーデン語" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Mizizi_ya_dhambi" title="スワヒリ語: Mizizi ya dhambi" lang="sw" hreflang="sw" data-title="Mizizi ya dhambi" data-language-autonym="Kiswahili" data-language-local-name="スワヒリ語" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%8F%E0%AE%B4%E0%AF%81_%E0%AE%95%E0%AF%8A%E0%AE%9F%E0%AE%BF%E0%AE%AF_%E0%AE%AA%E0%AE%BE%E0%AE%B5%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D" title="タミル語: ஏழு கொடிய பாவங்கள்" lang="ta" hreflang="ta" data-title="ஏழு கொடிய பாவங்கள்" data-language-autonym="தமிழ்" data-language-local-name="タミル語" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%9A%E0%B8%B2%E0%B8%9B%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3" title="タイ語: บาปเจ็ดประการ" lang="th" hreflang="th" data-title="บาปเจ็ดประการ" data-language-autonym="ไทย" data-language-local-name="タイ語" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Pitong_mga_kasalanang_nakamamatay" title="タガログ語: Pitong mga kasalanang nakamamatay" lang="tl" hreflang="tl" data-title="Pitong mga kasalanang nakamamatay" data-language-autonym="Tagalog" data-language-local-name="タガログ語" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Yedi_%C3%B6l%C3%BCmc%C3%BCl_g%C3%BCnah" title="トルコ語: Yedi ölümcül günah" lang="tr" hreflang="tr" data-title="Yedi ölümcül günah" data-language-autonym="Türkçe" data-language-local-name="トルコ語" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%BD%D1%96_%D0%B3%D1%80%D1%96%D1%85%D0%B8" title="ウクライナ語: Смертні гріхи" lang="uk" hreflang="uk" data-title="Смертні гріхи" data-language-autonym="Українська" data-language-local-name="ウクライナ語" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%B3%D8%A7%D8%AA_%D9%85%DB%81%D9%84%DA%A9_%DA%AF%D9%86%D8%A7%DB%81" title="ウルドゥー語: سات مہلک گناہ" lang="ur" hreflang="ur" data-title="سات مہلک گناہ" data-language-autonym="اردو" data-language-local-name="ウルドゥー語" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Yetti_halokatli_gunoh" title="ウズベク語: Yetti halokatli gunoh" lang="uz" hreflang="uz" data-title="Yetti halokatli gunoh" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="ウズベク語" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/B%E1%BA%A3y_m%E1%BB%91i_t%E1%BB%99i_%C4%91%E1%BA%A7u" title="ベトナム語: Bảy mối tội đầu" lang="vi" hreflang="vi" data-title="Bảy mối tội đầu" data-language-autonym="Tiếng Việt" data-language-local-name="ベトナム語" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E4%B8%83%E5%AE%97%E7%BD%AA" title="呉語: 七宗罪" lang="wuu" hreflang="wuu" data-title="七宗罪" data-language-autonym="吴语" data-language-local-name="呉語" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E4%B8%83%E5%AE%97%E7%BD%AA" title="中国語: 七宗罪" lang="zh" hreflang="zh" data-title="七宗罪" data-language-autonym="中文" data-language-local-name="中国語" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E4%B8%83%E7%BD%AA%E5%AE%97" title="広東語: 七罪宗" lang="yue" hreflang="yue" data-title="七罪宗" data-language-autonym="粵語" data-language-local-name="広東語" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q166502#sitelinks-wikipedia" title="言語間リンクを編集" class="wbc-editpage">リンクを編集</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="名前空間">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA" title="コンテンツページを表示 [c]" accesskey="c"><span>ページ</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA" rel="discussion" title="コンテンツページについての議論 [t]" accesskey="t"><span>ノート</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="別の言語に切り替える"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">日本語</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="表示">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA"><span>閲覧</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit" title="このページのソースコードを編集する [e]" accesskey="e"><span>編集</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=history" title="このページの過去の版 [h]" accesskey="h"><span>履歴を表示</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="ページツール">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="ツール"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">ツール</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">ツール</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">サイドバーに移動</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">非表示</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="その他の操作" >
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA"><span>閲覧</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit" title="このページのソースコードを編集する [e]" accesskey="e"><span>編集</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=history"><span>履歴を表示</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		全般
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j"><span>リンク元</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA" rel="nofollow" title="このページからリンクしているページの最近の更新 [k]" accesskey="k"><span>関連ページの更新状況</span></a></li><li id="t-upload" class="mw-list-item"><a href="//ja.wikipedia.org/wiki/Wikipedia:ファイルのアップロード" title="ファイルをアップロードする [u]" accesskey="u"><span>ファイルをアップロード</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;oldid=106990891" title="このページのこの版への固定リンク"><span>この版への固定リンク</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=info" title="このページについての詳細情報"><span>ページ情報</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;id=106990891&amp;wpFormIdentifier=titleform" title="このページの引用方法"><span>このページを引用</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:UrlShortener&amp;url=https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E4%25B8%2583%25E3%2581%25A4%25E3%2581%25AE%25E5%25A4%25A7%25E7%25BD%25AA"><span>短縮URLを取得する</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:QrCode&amp;url=https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E4%25B8%2583%25E3%2581%25A4%25E3%2581%25AE%25E5%25A4%25A7%25E7%25BD%25AA"><span>QRコードをダウンロード</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		印刷/書き出し
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA"><span>ブックの新規作成</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:DownloadAsPdf&amp;page=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=show-download-screen"><span>PDF 形式でダウンロード</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p"><span>印刷用バージョン</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		他のプロジェクト
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:The_Seven_Deadly_Sins" hreflang="en"><span>コモンズ</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q166502" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g"><span>ウィキデータ項目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="ページツール">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="表示">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">表示</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">サイドバーに移動</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">非表示</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ja" dir="ltr"><style data-mw-deduplicate="TemplateStyles:r101346560">.mw-parser-output .hatnote{margin:0.5em 0;padding:3px 2em;background-color:transparent;border-bottom:1px solid #a2a9b1;font-size:90%}html.skin-theme-clientpref-night .mw-parser-output .hatnote>table{color:inherit}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .hatnote>table{color:inherit}}</style><div class="hatnote dablink noprint"><table style="width:100%; background:transparent;">
+<tbody><tr><td class="metadata" style="width:25px;"><span typeof="mw:File"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Disambig_gray.svg" class="mw-file-description" title="曖昧さ回避"><img alt="曖昧さ回避" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/40px-Disambig_gray.svg.png" decoding="async" width="25" height="19" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/60px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></span></td>
+<td>「<b>七つの大罪</b>」のその他の用法については「<a href="/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA_(%E6%9B%96%E6%98%A7%E3%81%95%E5%9B%9E%E9%81%BF)" class="mw-disambig" title="七つの大罪 (曖昧さ回避)">七つの大罪 (曖昧さ回避)</a>」をご覧ください。</td>
+</tr></tbody></table></div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG/330px-Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG" decoding="async" width="300" height="256" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG/500px-Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG/960px-Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG 2x" data-file-width="2863" data-file-height="2441" /></a><figcaption><a href="/wiki/%E3%83%92%E3%82%A8%E3%83%AD%E3%83%8B%E3%83%A0%E3%82%B9%E3%83%BB%E3%83%9C%E3%82%B9" title="ヒエロニムス・ボス">ヒエロニムス・ボス</a>画『<a href="/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%E3%81%A8%E5%9B%9B%E7%B5%82" title="七つの大罪と四終">七つの大罪と四終</a>』。1485年頃。<a href="/wiki/%E3%83%97%E3%83%A9%E3%83%89%E7%BE%8E%E8%A1%93%E9%A4%A8" title="プラド美術館">プラド美術館</a>所蔵。</figcaption></figure>
+<p><b>七つの大罪</b>（ななつのたいざい、<a href="/wiki/%E3%83%A9%E3%83%86%E3%83%B3%E8%AA%9E" title="ラテン語">ラテン語</a>&#58; <span lang="la">septem peccata mortalia</span>、<a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語">英</a>&#58; <span lang="en">seven deadly sins</span>）は、<a href="/wiki/%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99" title="キリスト教">キリスト教</a>の<a href="/wiki/%E8%A5%BF%E6%96%B9%E6%95%99%E4%BC%9A" title="西方教会">西方教会</a>、おもに<a href="/wiki/%E3%82%AB%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E6%95%99%E4%BC%9A" title="カトリック教会">カトリック教会</a>における用語。ラテン語や英語での意味は「七つの死に至る罪」だが、<a href="/wiki/%E5%AE%97%E6%95%99%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%BD%AA" title="宗教における罪">罪</a>そのものというより、人間を罪に導く可能性があると見做されてきた欲望や感情のことを指すもので、日本のカトリック教会では<b>七つの罪源</b>（ななつのざいげん）と訳している<sup id="cite&#95;ref-compendium&#95;1-0" class="reference"><a href="#cite_note-compendium-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>。
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="歴史"><span id=".E6.AD.B4.E5.8F.B2"></span>歴史</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit&amp;section=1" title="節を編集: 歴史"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>七つの大罪（七つの罪源）は、<a href="/wiki/4%E4%B8%96%E7%B4%80" title="4世紀">4世紀</a>の<a href="/wiki/%E3%82%A2%E3%82%A8%E3%82%AE%E3%83%A5%E3%83%97%E3%83%88%E3%82%A5%E3%82%B9" title="アエギュプトゥス">エジプト</a>の修道士<a href="/wiki/%E3%83%9D%E3%83%B3%E3%83%88%E3%82%B9%E3%81%AE%E3%82%A8%E3%82%A6%E3%82%A1%E3%82%B0%E3%83%AA%E3%82%AA%E3%82%B9" title="ポントスのエウァグリオス">エヴァグリオス・ポンティコス</a>の著作『修行論』に八つの「<b>人間一般の想念</b>」として現れたのが起源である。キリスト教の正典である<a href="/wiki/%E8%81%96%E6%9B%B8" title="聖書">聖書</a>の中で七つの罪源について直接に言及されてはいない。<b>八つの想念</b>はエヴァグリオスによると、下記のとおりである<sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>。
+</p>
+<ul><li>「貪食」</li>
+<li>「淫蕩」</li>
+<li>「金銭欲」</li>
+<li>「悲嘆（心痛）」</li>
+<li>「怒り」</li>
+<li>「<span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%A2%E3%82%B1%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2&amp;action=edit&amp;redlink=1" class="new" title="アケーディア (存在しないページ)">アケーディア</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Acedia" class="extiw" title="en:Acedia">英語版</a>）</span></span>（嫌気、霊的怠惰）」</li>
+<li>「虚栄心（自惚れ）」</li>
+<li>「傲慢」</li></ul>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-size: 90%;" role="note">→詳細は「<a href="/wiki/%E3%83%9D%E3%83%B3%E3%83%88%E3%82%B9%E3%81%AE%E3%82%A8%E3%82%A6%E3%82%A1%E3%82%B0%E3%83%AA%E3%82%AA%E3%82%B9#著作『修行論』について" title="ポントスのエウァグリオス">ポントスのエウァグリオス §&#160;著作『修行論』について</a>」を参照</div>
+<p>それを5世紀の初め（420年頃-430年頃）にカッシヌアスが「八つの主要な悪徳」としてラテン語世界へ伝えた。一覧の四番目と五番目が入れ替わり、順序が&lt;1&gt;貪食、&lt;2&gt;淫蕩、&lt;3&gt;金銭欲（強欲）、&lt;4&gt;怒り、&lt;5&gt;悲しみ、&lt;6&gt;倦怠、&lt;7&gt;虚栄、&lt;8&gt;高慢、となった<sup id="cite&#95;ref-matsune&#95;3-0" class="reference"><a href="#cite_note-matsune-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>。
+</p><p>6世紀後半には、<a href="/wiki/%E3%82%B0%E3%83%AC%E3%82%B4%E3%83%AA%E3%82%A6%E3%82%B91%E4%B8%96_(%E3%83%AD%E3%83%BC%E3%83%9E%E6%95%99%E7%9A%87)" title="グレゴリウス1世 (ローマ教皇)">グレゴリウス1世</a>（540年頃-604年）がその内の「高慢」をすべての悪の根として別格扱いとし一覧から外し、高慢から生まれる「七つの主要な悪徳」として次のものを挙げた。&lt;1&gt;虚栄、&lt;2&gt;嫉妬、&lt;3&gt;怒り、&lt;4&gt;悲嘆、&lt;5&gt;強欲、&lt;6&gt;腹の貪食、&lt;7&gt;淫蕩、である。カッシアヌスの伝えた一覧の「怠惰（アケーディア）」は「悲嘆」に含めてまとめられ、新たに「嫉妬」が加わった。順序は「虚栄」が先頭に移動し、次に「嫉妬」が加わり、「貪食」、「淫蕩」が最初から最後に移動した。グレゴリウスの一覧は、精神的なものが前に、身体的、物質的な悪徳が後ろに並んでいるのが特徴である。<sup id="cite&#95;ref-matsune&#95;3-1" class="reference"><a href="#cite_note-matsune-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p><a href="/wiki/13%E4%B8%96%E7%B4%80" title="13世紀">13世紀</a>の<a href="/wiki/%E3%83%88%E3%83%9E%E3%82%B9%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%A3%E3%83%8A%E3%82%B9" title="トマス・アクィナス">トマス・アクィナス</a>（1225年-1274年）も、その著作の中で、キリスト教徒の七つの<a href="/wiki/%E6%9E%A2%E8%A6%81%E5%BE%B3" title="枢要徳">枢要徳</a>と対比する形で七つの「<b>枢要悪</b>」をあげている。&lt;1&gt;虚栄（inanis gloria）&lt;2&gt;嫉妬（invidia）&lt;3&gt;倦怠（acedia）&lt;4&gt;怒り（ira）&lt;5&gt;強欲（avaritia）&lt;6&gt;貪食（gula）&lt;7&gt;淫蕩（luxuria）となっており、グレゴリウスが外した怠惰（アケーディア）が悲嘆に代わって復活している<sup id="cite&#95;ref-matsune&#95;3-2" class="reference"><a href="#cite_note-matsune-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>。
+</p>
+<div class="mw-heading mw-heading2"><h2 id="カトリック教会の七つの罪源"><span id=".E3.82.AB.E3.83.88.E3.83.AA.E3.83.83.E3.82.AF.E6.95.99.E4.BC.9A.E3.81.AE.E4.B8.83.E3.81.A4.E3.81.AE.E7.BD.AA.E6.BA.90"></span>カトリック教会の七つの罪源</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit&amp;section=2" title="節を編集: カトリック教会の七つの罪源"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>現代の『<a href="/wiki/%E3%82%AB%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E6%95%99%E4%BC%9A%E3%81%AE%E3%82%AB%E3%83%86%E3%82%AD%E3%82%BA%E3%83%A0" title="カトリック教会のカテキズム">カトリック教会のカテキズム</a>』では、「七つの罪源」について、<span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%A8%E3%83%8F%E3%83%8D%E3%82%B9%E3%83%BB%E3%82%AB%E3%83%83%E3%82%B7%E3%82%A2%E3%83%8C%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="ヨハネス・カッシアヌス (存在しないページ)">ヨハネス・カッシアヌス</a>（<a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語">英語</a>: <span lang="en"><a href="https://en.wikipedia.org/wiki/Johannes_Cassianus" class="extiw" title="en:Johannes Cassianus">Johannes Cassianus</a></span>）</span>や<a href="/wiki/%E3%82%B0%E3%83%AC%E3%82%B4%E3%83%AA%E3%82%A6%E3%82%B91%E4%B8%96_(%E3%83%AD%E3%83%BC%E3%83%9E%E6%95%99%E7%9A%87)" title="グレゴリウス1世 (ローマ教皇)">グレゴリウス1世</a>以来伝統的に罪の源とみなされてきたものとして言及されている。それは以下の七つである<sup id="cite&#95;ref-Catechism1866&#95;4-0" class="reference"><a href="#cite_note-Catechism1866-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>。
+</p><p>七つの掲載順は、『カトリック教会のカテキズム』のラテン語規範版<sup id="cite&#95;ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>と日本語版（2002年）<sup id="cite&#95;ref-Catechism1866&#95;4-1" class="reference"><a href="#cite_note-Catechism1866-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>で一部異なるが、ここではラテン語規範版および『カトリック教会のカテキズム 要約（コンペンディウム）』日本語版（2010年）<sup id="cite&#95;ref-compendium&#95;1-1" class="reference"><a href="#cite_note-compendium-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>に書かれている順番による。教会のカテキズム 要約（コンペンディウム）』日本語版（2010年）では訳語が異なるものがあるが<sup id="cite&#95;ref-compendium&#95;1-2" class="reference"><a href="#cite_note-compendium-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>、ここではそれを（）内に付記する。
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>日本語</th>
+<th>ラテン語</th>
+<th>英語<sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</th></tr>
+<tr>
+<td><a href="/wiki/%E5%82%B2%E6%85%A2" title="傲慢">傲慢</a></td>
+<td><span lang="la">superbia</span></td>
+<td><span lang="en">pride</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/%E6%AC%B2" title="欲">強欲</a></td>
+<td><span lang="la">avaritia</span></td>
+<td><span lang="en">greed</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/%E5%AB%89%E5%A6%AC" title="嫉妬">嫉妬</a></td>
+<td><span lang="la">invidia</span></td>
+<td><span lang="en">envy<sup id="cite&#95;ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>注 1<span class="cite-bracket">&#93;</span></a></sup></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/%E6%86%A4%E6%80%92" class="mw-redirect" title="憤怒">憤怒</a></td>
+<td><span lang="la">ira</span></td>
+<td><span lang="en">wrath</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/%E6%80%A7%E6%AC%B2" title="性欲">色欲</a></td>
+<td><span lang="la">luxuria</span></td>
+<td><span lang="en">lust</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/%E9%A3%9F%E6%AC%B2" title="食欲">暴食</a></td>
+<td><span lang="la">gula</span></td>
+<td><span lang="en">gluttony</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/%E6%80%A0%E6%83%B0" title="怠惰">怠惰</a></td>
+<td><span lang="la">pigritia/acedia</span></td>
+<td><span lang="en">sloth</span>
+</td></tr></tbody></table>
+<p><a href="/wiki/%E4%B8%AD%E4%B8%96" title="中世">中世</a>のキリスト教の<a href="/wiki/%E4%B8%96%E7%95%8C%E8%A6%B3" title="世界観">世界観</a>が最もよく表されている<a href="/wiki/%E3%83%80%E3%83%B3%E3%83%86%E3%83%BB%E3%82%A2%E3%83%AA%E3%82%AE%E3%82%A8%E3%83%BC%E3%83%AA" title="ダンテ・アリギエーリ">ダンテ・アリギエーリ</a>の叙事詩、『<a href="/wiki/%E7%A5%9E%E6%9B%B2" title="神曲">神曲</a>』煉獄篇においても、<a href="/wiki/%E7%85%89%E7%8D%84" title="煉獄">煉獄</a>山の七つの冠において、死者がこの罪を清めることになっている（<a href="/wiki/%E7%A5%9E%E6%9B%B2#煉獄篇_Purgatorio" title="神曲">煉獄篇</a>を参照）。
+</p>
+<div class="mw-heading mw-heading2"><h2 id="七つの大罪の関連付け"><span id=".E4.B8.83.E3.81.A4.E3.81.AE.E5.A4.A7.E7.BD.AA.E3.81.AE.E9.96.A2.E9.80.A3.E4.BB.98.E3.81.91"></span>七つの大罪の関連付け</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit&amp;section=3" title="節を編集: 七つの大罪の関連付け"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r101304250">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%;font-size:90%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}</style><table class="box-出典の明記 plainlinks metadata ambox mbox-small-left ambox-content ambox-出典の明記" role="presentation" style="width:auto;"><tbody><tr><td class="mbox-image"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/60px-Question_book-4.svg.png" decoding="async" width="50" height="39" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/120px-Question_book-4.svg.png 1.5x" data-file-width="262" data-file-height="204" /></span></span></td><td class="mbox-text"><div class="mbox-text-span"><b>この節は<a href="/wiki/Wikipedia:%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8%83%BD%E6%80%A7" title="Wikipedia:検証可能性">検証可能</a>な<a href="/wiki/Wikipedia:%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E6%83%85%E5%A0%B1%E6%BA%90" title="Wikipedia:信頼できる情報源">参考文献や出典</a>が全く示されていないか、不十分です。</b><span class="hide-when-compact"> <a href="/wiki/Wikipedia:%E5%87%BA%E5%85%B8%E3%82%92%E6%98%8E%E8%A8%98%E3%81%99%E3%82%8B" title="Wikipedia:出典を明記する">出典を追加</a>して記事の信頼性向上にご協力ください。<small>（<a href="/wiki/Template:%E5%87%BA%E5%85%B8%E3%81%AE%E6%98%8E%E8%A8%98/doc" title="Template:出典の明記/doc">このテンプレートの使い方</a>）</small><br /><small><span class="plainlinks">出典検索<a href="/wiki/Template:Find_sources_mainspace" title="Template:Find sources mainspace"><sup>?</sup></a>:&#160;<a rel="nofollow" class="external text" href="//www.google.co.jp/search?hl=ja&amp;as_eq=wikipedia&amp;q=%22%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%22&amp;num=50">"七つの大罪"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.co.jp/search?hl=ja&amp;q=%22%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%22&amp;tbm=nws">ニュース</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.co.jp/search?hl=ja&amp;tbs=bks:1&amp;q=%22%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%22">書籍</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.co.jp/scholar?num=100&amp;hl=ja&amp;q=%22%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%22">スカラー</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://ci.nii.ac.jp/opensearch/search?lang=ja&amp;q=%22%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%22&amp;range=2&amp;count=200&amp;sortorder=1&amp;type=0">CiNii</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstage.jst.go.jp/result/global/-char/ja?globalSearchKey=%22%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%22">J-STAGE</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://ndlsearch.ndl.go.jp/api/openurl?any=%22%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%22">NDL</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://dlib.jp/?q=%22%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%22">dlib.jp</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://jpsearch.go.jp/csearch/jps-cross?csid=jps-cross&amp;keyword=%22%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%22">ジャパンサーチ</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://wikipedialibrary.wmflabs.org/partners/">TWL</a></span></small></span>  <span class="date-container"><i>(<span class="date"><span title="2014年2月">2014年2月</span></span>)</i></span></div></td></tr></tbody></table>
+<p><a href="/wiki/1589%E5%B9%B4" title="1589年">1589年</a>、<a href="/wiki/%E3%83%89%E3%82%A4%E3%83%84" title="ドイツ">ドイツ</a>の<span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%9A%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%93%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88&amp;action=edit&amp;redlink=1" class="new" title="ペーター・ビンスフェルト (存在しないページ)">ペーター・ビンスフェルト</a>（<a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語">英語</a>: <span lang="en"><a href="https://en.wikipedia.org/wiki/Peter_Binsfeld" class="extiw" title="en:Peter Binsfeld">Peter Binsfeld</a></span>）</span>は、罪と<a href="/wiki/%E6%82%AA%E9%AD%94" title="悪魔">悪魔</a>の関係を記した著作を著したが、その中で、七つの大罪も特定の悪魔との関連付けている。このような七つの大罪と悪魔との関連づけは、キリスト教の本質的な部分と無関係だが、通俗的な<a href="/wiki/%E3%82%B0%E3%83%AA%E3%83%A2%E3%83%AF%E3%83%BC%E3%83%AB" title="グリモワール">グリモワール</a>において引用されることとなった。
+</p><p>七つの大罪と悪魔の関連を最初に表現したのは、<a href="/wiki/16%E4%B8%96%E7%B4%80" title="16世紀">16世紀</a>の版画家<a href="/wiki/%E3%83%8F%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%96%E3%83%AB%E3%82%AF%E3%83%9E%E3%82%A4%E3%82%A2%E3%83%BC" title="ハンス・ブルクマイアー">ハンス・ブルクマイアー</a>である。これには、悪魔がそれぞれ自分の名の記された剣を手にしている姿が描かれていた。また、ブルクマイアーは傲慢を表す悪魔に孔雀の羽を与えている<sup id="cite&#95;ref-:0&#95;8-0" class="reference"><a href="#cite_note-:0-8"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>。<a href="/wiki/%E4%B8%AD%E4%B8%96" title="中世">中世</a>には悪魔でなく動物の姿で表しているものも見られる。傲慢のライオン、嫉妬の蛇、憤怒のユニコーン、怠惰の熊、強欲の狐、暴食の豚、欲情の蠍である<sup id="cite&#95;ref-:0&#95;8-1" class="reference"><a href="#cite_note-:0-8"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>。
+</p>
+<table class="wikitable">
+<caption>七つの大罪とそれに比肩する悪魔と幻獣と動物
+</caption>
+<tbody><tr>
+<th>大罪</th>
+<th>対応悪魔</th>
+<th>幻獣</th>
+<th>動物
+</th></tr>
+<tr>
+<td>傲慢</td>
+<td><a href="/wiki/%E3%83%AB%E3%82%B7%E3%83%95%E3%82%A1%E3%83%BC" title="ルシファー">ルシファー</a></td>
+<td></td>
+<td><a href="/wiki/%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3" title="ライオン">ライオン</a>、<a href="/wiki/%E3%82%AF%E3%82%B8%E3%83%A3%E3%82%AF" title="クジャク">孔雀</a><sup id="cite&#95;ref-:0&#95;8-2" class="reference"><a href="#cite_note-:0-8"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td>憤怒</td>
+<td><a href="/wiki/%E3%82%B5%E3%82%BF%E3%83%B3" title="サタン">サタン</a></td>
+<td><a href="/wiki/%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3" title="ユニコーン">ユニコーン</a><sup id="cite&#95;ref-:0&#95;8-3" class="reference"><a href="#cite_note-:0-8"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup></td>
+<td>
+</td></tr>
+<tr>
+<td>嫉妬</td>
+<td><a href="/wiki/%E3%83%AC%E3%83%B4%E3%82%A3%E3%82%A2%E3%82%BF%E3%83%B3" title="レヴィアタン">レヴィアタン</a></td>
+<td></td>
+<td><a href="/wiki/%E3%83%98%E3%83%93" title="ヘビ">蛇</a><sup id="cite&#95;ref-:0&#95;8-4" class="reference"><a href="#cite_note-:0-8"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td>怠惰</td>
+<td><a href="/wiki/%E3%83%99%E3%83%AB%E3%83%95%E3%82%A7%E3%82%B4%E3%83%BC%E3%83%AB" title="ベルフェゴール">ベルフェゴール</a></td>
+<td></td>
+<td><a href="/wiki/%E3%82%AF%E3%83%9E" title="クマ">熊</a><sup id="cite&#95;ref-:0&#95;8-5" class="reference"><a href="#cite_note-:0-8"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td>強欲</td>
+<td><a href="/wiki/%E3%83%9E%E3%83%A2%E3%83%B3" title="マモン">マモン</a></td>
+<td></td>
+<td><a href="/wiki/%E3%82%AD%E3%83%84%E3%83%8D" title="キツネ">狐</a><sup id="cite&#95;ref-:0&#95;8-6" class="reference"><a href="#cite_note-:0-8"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td>暴食</td>
+<td><a href="/wiki/%E3%83%99%E3%83%AB%E3%82%BC%E3%83%96%E3%83%96" title="ベルゼブブ">ベルゼブブ</a></td>
+<td></td>
+<td><a href="/wiki/%E3%83%96%E3%82%BF" title="ブタ">豚</a><sup id="cite&#95;ref-:0&#95;8-7" class="reference"><a href="#cite_note-:0-8"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td>色欲</td>
+<td><a href="/wiki/%E3%82%A2%E3%82%B9%E3%83%A2%E3%83%87%E3%82%A6%E3%82%B9" title="アスモデウス">アスモデウス</a></td>
+<td></td>
+<td><a href="/wiki/%E3%82%B5%E3%82%BD%E3%83%AA" title="サソリ">蠍</a><sup id="cite&#95;ref-:0&#95;8-8" class="reference"><a href="#cite_note-:0-8"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr></tbody></table>
+<p><a href="/wiki/%E3%83%97%E3%83%AB%E3%83%87%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A6%E3%82%B9" title="プルデンティウス">プルデンティウス</a>（348‐405以後）の「<a href="/wiki/%E3%83%97%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%9E%E3%82%AD%E3%82%A2" title="プシュコマキア">プシュコマキア</a>」によれば、七つの大罪は、それぞれ次の<a href="/wiki/%E7%BE%8E%E5%BE%B3" class="mw-redirect" title="美徳">美徳</a>に対応しているという。
+</p>
+<ul><li>暴食⇔<a href="/wiki/%E7%AF%80%E5%88%B6" title="節制">節制</a></li>
+<li>色欲⇔<a href="/wiki/%E7%B4%94%E6%BD%94" title="純潔">純潔</a></li>
+<li>強欲⇔<a href="/wiki/%E6%85%88%E5%96%84" title="慈善">慈善</a>・<a href="/wiki/%E5%AF%9B%E5%AE%B9" title="寛容">寛容</a></li>
+<li>憤怒⇔<a href="/wiki/%E5%BF%8D%E8%80%90" title="忍耐">忍耐</a></li>
+<li>怠惰⇔<a href="/wiki/%E5%8B%A4%E5%8B%89" title="勤勉">勤勉</a></li>
+<li>嫉妬⇔<a href="/wiki/%E6%84%9F%E8%AC%9D" title="感謝">感謝</a>・<a href="/wiki/%E4%BA%BA%E5%BE%B3" class="mw-redirect" title="人徳">人徳</a></li>
+<li>傲慢⇔<a href="/wiki/%E8%AC%99%E8%99%9A" title="謙虚">謙虚</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="新しい七つの大罪"><span id=".E6.96.B0.E3.81.97.E3.81.84.E4.B8.83.E3.81.A4.E3.81.AE.E5.A4.A7.E7.BD.AA"></span>新しい七つの大罪</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit&amp;section=4" title="節を編集: 新しい七つの大罪"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><a href="/wiki/2008%E5%B9%B4" title="2008年">2008年</a>3月、<a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E6%95%99%E7%9A%87%E5%BA%81" title="ローマ教皇庁">ローマ教皇庁</a>は、今までの7つの大罪はやや個人主義的な側面があったため、これまでとは違う種類の大罪もあるということを信者たちに伝え、理解させるために以下のように新しい七つの大罪を発表した<sup id="cite&#95;ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>。
+</p>
+<ul><li><a href="/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E6%94%B9%E9%80%A0" class="mw-redirect" title="遺伝子改造">遺伝子改造</a></li>
+<li><a href="/wiki/%E4%BA%BA%E4%BD%93%E5%AE%9F%E9%A8%93" title="人体実験">人体実験</a></li>
+<li><a href="/wiki/%E7%92%B0%E5%A2%83%E6%B1%9A%E6%9F%93" class="mw-redirect" title="環境汚染">環境汚染</a></li>
+<li>社会的不公正</li>
+<li>人を貧乏にさせる事</li>
+<li>鼻持ちならない程金持ちになる事</li>
+<li><a href="/wiki/%E9%BA%BB%E8%96%AC%E4%B8%AD%E6%AF%92" class="mw-redirect" title="麻薬中毒">麻薬中毒</a></li></ul>
+<p>遺伝子改造などは、<a href="/wiki/%E8%83%9A%E6%80%A7%E5%B9%B9%E7%B4%B0%E8%83%9E" title="胚性幹細胞">胚性幹細胞</a>への牽制とみられる<sup id="cite&#95;ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>。
+</p>
+<div class="mw-heading mw-heading2"><h2 id="七つの社会的罪"><span id=".E4.B8.83.E3.81.A4.E3.81.AE.E7.A4.BE.E4.BC.9A.E7.9A.84.E7.BD.AA"></span>七つの社会的罪</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit&amp;section=5" title="節を編集: 七つの社会的罪"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><a href="/wiki/%E3%83%9E%E3%83%8F%E3%83%88%E3%83%9E%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC" title="マハトマ・ガンディー">マハトマ・ガンディー</a>は<a href="/wiki/1925%E5%B9%B4" title="1925年">1925年</a><a href="/wiki/10%E6%9C%8822%E6%97%A5" title="10月22日">10月22日</a>に雑誌『<span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%A4%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2&amp;action=edit&amp;redlink=1" class="new" title="ヤング・インディア (存在しないページ)">ヤング・インディア</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Young_India" class="extiw" title="en:Young India">英語版</a>）</span></span>』にて、「七つの社会的罪」（Seven Social Sins）として次の七つを指摘した<sup id="cite&#95;ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>。
+</p>
+<ul><li>理念なき政治（Politics without Principle）</li>
+<li>労働なき富（Wealth without Work）</li>
+<li>良心なき快楽（Pleasure without Conscience）</li>
+<li>人格なき学識（Knowledge without Character）</li>
+<li><a href="/wiki/%E9%81%93%E5%BE%B3" title="道徳">道徳</a>なき商業（Commerce without Morality）</li>
+<li>人間性なき科学（Science without Humanity）</li>
+<li><a href="/wiki/%E7%8C%AE%E8%BA%AB" title="献身">献身</a>なき信仰（Worship without Sacrifice）</li></ul>
+<p>「七つの社会的罪」は<a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%89" title="インド">インド</a>の<a href="/w/index.php?title=%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%88&amp;action=edit&amp;redlink=1" class="new" title="ラージ・ガート (存在しないページ)">ラージ・ガート</a>にあるガンディーの<a href="/wiki/%E6%85%B0%E9%9C%8A%E7%A2%91" title="慰霊碑">慰霊碑</a>の外壁にも刻まれている。
+</p>
+<div class="mw-heading mw-heading2"><h2 id="脚注"><span id=".E8.84.9A.E6.B3.A8"></span>脚注</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit&amp;section=6" title="節を編集: 脚注"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="noprint" style="float:right; font-size:90%;">[<a href="/wiki/Help:%E8%84%9A%E6%B3%A8/%E8%AA%AD%E8%80%85%E5%90%91%E3%81%91" title="Help:脚注/読者向け"><span title="この欄の操作法">脚注の使い方</span></a>]</div>
+<div class="mw-heading mw-heading3"><h3 id="注釈"><span id=".E6.B3.A8.E9.87.88"></span>注釈</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit&amp;section=7" title="節を編集: 注釈"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references" data-mw-group="注">
+<li id="cite&#95;note-7"><b><a href="#cite_ref-7">^</a></b> <span class="reference-text">七つの大罪において、その元の言葉はいくつかの日本語に翻訳することができるが、その一例としてenvyが挙げられる。envyは「羨望、嫉妬、羨み、妬み」等と翻訳することができる。それらは心理学領域では<a href="/wiki/%E5%AB%89%E5%A6%AC" title="嫉妬">嫉妬</a>（jealousy）と羨望（envy）という近似した、しかし異なる感情として議論されることがあるが、七つの大罪（七つの罪源）における元々の言葉はenvy（ラテン語のinvidia）一つであり、そうした議論とは無縁である点に注意が必要である。</span>
+</li>
+</ol></div>
+<div class="mw-heading mw-heading3"><h3 id="出典"><span id=".E5.87.BA.E5.85.B8"></span>出典</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit&amp;section=8" title="節を編集: 出典"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite&#95;note-compendium-1">^ <a href="#cite_ref-compendium_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-compendium_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-compendium_1-2"><sup><i><b>c</b></i></sup></a> <span class="reference-text">『カトリック教会のカテキズム 要約（コンペンディウム）』207頁 <a href="/wiki/%E3%82%AB%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E4%B8%AD%E5%A4%AE%E5%8D%94%E8%AD%B0%E4%BC%9A" title="カトリック中央協議会">カトリック中央協議会</a> <a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/9784877501532" class="internal mw-magiclink-isbn">ISBN 978-4877501532</a></span>
+</li>
+<li id="cite&#95;note-2"><b><a href="#cite_ref-2">^</a></b> <span class="reference-text">『中世思想原典集成3 後期ギリシャ教父・ビザンティン思想』p.38</span>
+</li>
+<li id="cite&#95;note-matsune-3">^ <a href="#cite_ref-matsune_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-matsune_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-matsune_3-2"><sup><i><b>c</b></i></sup></a> <span class="reference-text"><a rel="nofollow" class="external text" href="https://jsmp.jpn.org/jsmp_wp/wp-content/uploads/smt/vol48/1-14_matsune.pdf">倦怠と悲しみ－トマス・アクィナスのacediaについて</a>松根伸治、2018年10月10日閲覧。</span>
+</li>
+<li id="cite&#95;note-Catechism1866-4">^ <a href="#cite_ref-Catechism1866_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Catechism1866_4-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text">『<a href="/wiki/%E3%82%AB%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E6%95%99%E4%BC%9A%E3%81%AE%E3%82%AB%E3%83%86%E3%82%AD%E3%82%BA%E3%83%A0" title="カトリック教会のカテキズム">カトリック教会のカテキズム</a>』 #1866（日本語版556 - 557頁） カトリック中央協議会 <a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/9784877501013" class="internal mw-magiclink-isbn">ISBN 978-4877501013</a></span>
+</li>
+<li id="cite&#95;note-5"><b><a href="#cite_ref-5">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vatican.va/archive/catechism_lt/p3s1c1a8_lt.htm#V.">Catechismus Catholicae Ecclesiae_Articulus 8: Peccatum</a> #1866（『カトリック教会のカテキズム』ラテン語規範版） <a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E6%95%99%E7%9A%87%E5%BA%81" title="ローマ教皇庁">ローマ教皇庁</a>公式サイト</span>
+</li>
+<li id="cite&#95;note-6"><b><a href="#cite_ref-6">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vatican.va/archive/ENG0015/__P6D.HTM">Catechism of the Catholic Church_Article 8 SIN_V. The Proliferation of Sin</a> #1866（『カトリック教会のカテキズム』英語版） ローマ教皇庁公式サイト</span>
+</li>
+<li id="cite&#95;note-:0-8">^ <a href="#cite_ref-:0_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:0_8-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:0_8-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-:0_8-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-:0_8-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-:0_8-8"><sup><i><b>i</b></i></sup></a> <span class="reference-text"><cite style="font-style:normal" class="citation book"><a href="/wiki/%E3%83%95%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%82%B2%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BA" title="フレッド・ゲティングズ">フレッド・ゲティングズ</a>&#32;著、大瀧啓裕 訳『悪魔の事典』青土社、1992年6月30日、288-289頁。</cite><span class="Z3988" title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%E6%82%AA%E9%AD%94%E3%81%AE%E4%BA%8B%E5%85%B8&amp;rft.aulast=%5B%5B%E3%83%95%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%82%B2%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BA%5D%5D&amp;rft.au=%5B%5B%E3%83%95%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%82%B2%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%BA%5D%5D&amp;rft.date=1992-06-30&amp;rft.pages=288-289%E9%A0%81&amp;rft.pub=%E9%9D%92%E5%9C%9F%E7%A4%BE&amp;rfr&#95;id=info:sid/ja.wikipedia.org:%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA"><span style="display: none;">&#160;</span></span></span>
+</li>
+<li id="cite&#95;note-9"><b><a href="#cite_ref-9">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="https://gigazine.net/news/20080311_recycle_or_gotohell/">バチカンが新しい「7つの大罪」を発表、リサイクルしない者は地獄行きに</a> Gigazine 2008年03月11日</span>
+</li>
+<li id="cite&#95;note-10"><b><a href="#cite_ref-10">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/earth/earthnews/3335541/Recycle-or-go-to-Hell-warns-Vatican.html/">Recycle or go to Hell, warns Vatican</a>”.&#32;2014年10月30日閲覧。</cite></span>
+</li>
+<li id="cite&#95;note-11"><b><a href="#cite_ref-11">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a rel="nofollow" class="external text" href="https://gigazine.net/news/20110527_seven_social_sins/">ガンジーの言う「九つの社会的罪（Nine Social Sins）」とは?</a>”.&#32;2014年2月2日閲覧。</cite></span>
+</li>
+</ol></div>
+<div class="mw-heading mw-heading2"><h2 id="参考文献"><span id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"></span>参考文献</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit&amp;section=9" title="節を編集: 参考文献"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>『中世思想原典集成3 後期ギリシャ教父・ビザンティン思想』上智大学中世思想研究所、<a href="/wiki/%E5%B9%B3%E5%87%A1%E7%A4%BE" title="平凡社">平凡社</a>、1994年。<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/4582734138" class="internal mw-magiclink-isbn">ISBN 4-582-73413-8</a></li>
+<li><a rel="nofollow" class="external text" href="https://jsmp.jpn.org/jsmp_wp/wp-content/uploads/smt/vol48/1-14_matsune.pdf">倦怠と悲しみ－トマス・アクィナスのacediaについて</a>松根伸治『中世思想研究』第48号、2006年9月25日。</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="関連項目"><span id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"></span>関連項目</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit&amp;section=10" title="節を編集: 関連項目"><span>編集</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r94202605">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox noprint" style="width:22em;">
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 1.5x" data-file-width="1024" data-file-height="1376" /></span></span></div>
+<div class="side-box-text plainlist" style="font-size:100%;">ウィキメディア・コモンズには、<b><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:The_Seven_Deadly_Sins?uselang=ja">七つの大罪</a></span></b>に関連するカテゴリがあります。</div></div>
+</div>
+<ul><li><a href="/wiki/%E5%A4%A7%E7%BD%AA" title="大罪">大罪</a></li>
+<li><a href="/wiki/%E6%82%AA%E9%AD%94" title="悪魔">悪魔</a></li>
+<li><a href="/wiki/%E3%83%A2%E3%83%BC%E3%82%BB%E3%81%AE%E5%8D%81%E6%88%92" title="モーセの十戒">モーセの十戒</a></li>
+<li><a href="/wiki/%E4%B8%83%E5%85%83%E5%BE%B3" title="七元徳">七元徳</a></li>
+<li><a href="/wiki/Category:%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%E3%82%92%E9%A1%8C%E6%9D%90%E3%81%A8%E3%81%97%E3%81%9F%E4%BD%9C%E5%93%81" title="Category:七つの大罪を題材とした作品">Category:七つの大罪を題材とした作品</a></li></ul>
+<div class="navbox" aria-labelledby="七つの大罪" style="border-collapse:collapse;padding:3px"><table class="nowraplinks hlist hlist-pipe mw-collapsible autocollapse navbox-inner" style="background:transparent;color:inherit;min-width:100%;border-spacing:0px;border-collapse:separate"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div style="float:left;width:6em;text-align:left"><div class="noprint plainlinks navbar hlist" style="white-space:nowrap;font-size:60%;font-weight:normal;background-color:transparent;padding:0;color:#000;;border:none;"><ul style="display:inline"><li><a href="/wiki/Template:%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA" title="Template:七つの大罪"><span title="このテンプレートを表示します" style="font-size:125%;;;border:none;">表</span></a></li><li><a href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit&amp;redlink=1" class="new" title="Template‐ノート:七つの大罪 (存在しないページ)"><span title="このテンプレートのノートを表示します" style="font-size:125%;color:#002bb8;;;border:none;">話</span></a></li><li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template%3A%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit"><span title="このテンプレートを編集します。保存の前にプレビューを忘れずに。" style="font-size:125%;color:#002bb8;;;border:none;">編</span></a></li><li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template%3A%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=history"><span title="このテンプレートの過去の版を表示します" style="font-size:125%;color:#002bb8;;;border:none;">歴</span></a></li></ul></div></div><div id="七つの大罪" style="font-size:110%;margin:0 6em"><a class="mw-selflink selflink">七つの大罪</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3">
+<ul><li><b><a href="/wiki/%E8%89%B2%E6%AC%B2" class="mw-redirect" title="色欲">色欲</a></b></li>
+<li><b><a href="/wiki/%E6%9A%B4%E9%A3%9F" class="mw-redirect" title="暴食">暴食</a></b></li>
+<li><b><a href="/wiki/%E5%BC%B7%E6%AC%B2" class="mw-redirect" title="強欲">強欲</a></b></li>
+<li><b><a href="/wiki/%E6%80%A0%E6%83%B0" title="怠惰">怠惰</a></b></li>
+<li><b><a href="/wiki/%E6%86%A4%E6%80%92" class="mw-redirect" title="憤怒">憤怒</a></b></li>
+<li><b><a href="/wiki/%E7%BE%A8%E6%9C%9B" title="羨望">羨望</a></b></li>
+<li><b><a href="/wiki/%E5%82%B2%E6%85%A2" title="傲慢">傲慢</a></b></li></ul></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">罪悪を分類し記述した人達</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/%E3%82%A8%E3%83%B4%E3%82%A1%E3%82%B0%E3%83%AA%E3%82%AA%E3%82%B9%E3%83%BB%E3%83%9D%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B3%E3%82%B9" class="mw-redirect" title="エヴァグリオス・ポンティコス">エヴァグリオス・ポンティコス</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%A8%E3%83%8F%E3%83%8D%E3%83%BB%E3%82%AB%E3%83%83%E3%82%B7%E3%82%A2%E3%83%8C%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="ヨハネ・カッシアヌス (存在しないページ)">ヨハネ・カッシアヌス</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/John_Cassian" class="extiw" title="en:John Cassian">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%82%B0%E3%83%AC%E3%82%B4%E3%83%AA%E3%82%A6%E3%82%B91%E4%B8%96_(%E3%83%AD%E3%83%BC%E3%83%9E%E6%95%99%E7%9A%87)" title="グレゴリウス1世 (ローマ教皇)">グレゴリウス1世</a></li>
+<li><a href="/wiki/%E3%83%80%E3%83%9E%E3%82%B9%E3%82%B3%E3%81%AE%E3%82%A4%E3%82%AA%E3%82%A2%E3%83%B3" title="ダマスコのイオアン">ダマスコのヨハネ</a></li>
+<li><a href="/wiki/%E3%83%88%E3%83%9E%E3%82%B9%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%A3%E3%83%8A%E3%82%B9" title="トマス・アクィナス">トマス・アクィナス</a></li>
+<li><a href="/wiki/%E3%83%80%E3%83%B3%E3%83%86" class="mw-redirect" title="ダンテ">ダンテ</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%9A%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%93%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88&amp;action=edit&amp;redlink=1" class="new" title="ペーター・ビンスフェルト (存在しないページ)">ペーター・ビンスフェルト</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Peter_Binsfeld" class="extiw" title="en:Peter Binsfeld">英語版</a>）</span></span></li>
+</div></td><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><span typeof="mw:File"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Boschsevendeadlysins.jpg" class="mw-file-description" title="絵画『七つの大罪と四終』"><img alt="絵画『七つの大罪と四終』" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Boschsevendeadlysins.jpg/250px-Boschsevendeadlysins.jpg" decoding="async" width="150" height="129" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Boschsevendeadlysins.jpg/330px-Boschsevendeadlysins.jpg 2x" data-file-width="966" data-file-height="830" /></a></span></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">芸術や文化における作品</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>叙事詩『<a href="/wiki/%E7%A5%9E%E6%9B%B2" title="神曲">神曲</a>』(<a href="/wiki/%E7%A5%9E%E6%9B%B2#地獄篇_Inferno" title="神曲">地獄篇</a>、<a href="/wiki/%E7%A5%9E%E6%9B%B2#煉獄篇_Purgatorio" title="神曲">煉獄篇</a>)(<a href="/wiki/%E3%83%80%E3%83%B3%E3%83%86" class="mw-redirect" title="ダンテ">ダンテ</a>)</li>
+<li>絵画『<a href="/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%E3%81%A8%E5%9B%9B%E7%B5%82" title="七つの大罪と四終">七つの大罪と四終</a>』(<a href="/wiki/%E3%83%92%E3%82%A8%E3%83%AD%E3%83%8B%E3%83%A0%E3%82%B9%E3%83%BB%E3%83%9C%E3%82%B9" title="ヒエロニムス・ボス">ヒエロニムス・ボス</a>)</li>
+<li>バレエ『<span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA_(%E3%83%90%E3%83%AC%E3%82%A8%E4%BD%9C%E5%93%81)&amp;action=edit&amp;redlink=1" class="new" title="七つの大罪 (バレエ作品) (存在しないページ)">七つの大罪</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(ballet_chant%C3%A9)" class="extiw" title="en:The Seven Deadly Sins (ballet chanté)">英語版</a>）</span></span>』(<a href="/wiki/%E3%82%AF%E3%83%AB%E3%83%88%E3%83%BB%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%AB" title="クルト・ヴァイル">クルト・ヴァイル</a>)</li>
+<li>映画『<span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA_(%E6%98%A0%E7%94%BB)&amp;action=edit&amp;redlink=1" class="new" title="七つの大罪 (映画) (存在しないページ)">七つの大罪</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(1952_film)" class="extiw" title="en:The Seven Deadly Sins (1952 film)">英語版</a>）</span></span>』</li>
+<li>映画『<a href="/wiki/%E6%96%B0%E3%83%BB%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA" title="新・七つの大罪">新・七つの大罪</a>』</li>
+<li>漫画『<a href="/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA_(%E6%BC%AB%E7%94%BB)" title="七つの大罪 (漫画)">七つの大罪</a>』(<a href="/wiki/%E9%88%B4%E6%9C%A8%E5%A4%AE" title="鈴木央">鈴木央</a>)</li>
+<li>人形劇『<a href="/wiki/%E3%83%9E%E3%83%9A%E3%83%83%E3%83%88%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%BC" title="マペット・ショー">マペット・ショー</a>』「<span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%BB%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="セックス・アンド・バイオレンス (存在しないページ)">セックス・アンド・バイオレンス</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/The_Muppet_Show:_Sex_and_Violence" class="extiw" title="en:The Muppet Show: Sex and Violence">英語版</a>）</span></span>」(<a href="/wiki/%E3%82%B8%E3%83%A0%E3%83%BB%E3%83%98%E3%83%B3%E3%82%BD%E3%83%B3" title="ジム・ヘンソン">ジム・ヘンソン</a>)</li>
+<li>映画『<a href="/wiki/%E3%82%BB%E3%83%96%E3%83%B3_(%E6%98%A0%E7%94%BB)" title="セブン (映画)">セブン</a>』(<a href="/wiki/%E3%83%87%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%E3%83%BB%E3%83%95%E3%82%A3%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC" title="デヴィッド・フィンチャー">デヴィッド・フィンチャー</a>)</li>
+<li>現代美術『<span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E7%8F%BE%E4%BB%A3%E3%81%AE%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;action=edit&amp;redlink=1" class="new" title="現代の七つの大罪 (存在しないページ)">現代の七つの大罪</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_of_Modern_Times" class="extiw" title="en:The Seven Deadly Sins of Modern Times">英語版</a>）</span></span>』(<span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%B9%E3%83%BC%E3%82%B6%E3%83%B3%E3%83%BB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88&amp;action=edit&amp;redlink=1" class="new" title="スーザン・ホワイト (存在しないページ)">スーザン・ホワイト</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Susan_Dorothea_White" class="extiw" title="en:Susan Dorothea White">英語版</a>）</span></span>)</li>
+<li>テレビ番組『<span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%83%8F%E3%82%A6%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A2%E3%83%8C%E3%83%93%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="ハウス・オブ・アヌビス (存在しないページ)">ハウス・オブ・アヌビス</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/House_of_Anubis" class="extiw" title="en:House of Anubis">英語版</a>）</span></span>』(第3シーズン)</li>
+<li>漫画『<a href="/wiki/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB" title="鋼の錬金術師">鋼の錬金術師</a>』(<a href="/wiki/%E8%8D%92%E5%B7%9D%E5%BC%98" title="荒川弘">荒川弘</a>)</li>
+<li>web漫画『<a href="/w/index.php?title=%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF_(%E6%BC%AB%E7%94%BB)&amp;action=edit&amp;redlink=1" class="new" title="ジャック (漫画) (存在しないページ)">ジャック</a>』<a rel="nofollow" class="external autonumber" href="https://jackrabbit.thecomicseries.com/">[1]</a>（David Hopkins）</li>
+<li>アニメ『<a href="/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA_(%E3%83%9B%E3%83%93%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3)" title="七つの大罪 (ホビージャパン)">sin 七つの大罪</a>』（<a href="/wiki/%E3%83%9B%E3%83%93%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3" title="ホビージャパン">ホビージャパン</a>）</li>
+<li>漫画『<a href="/w/index.php?title=%E5%A4%9C%E7%B8%9B%E2%97%86%E5%A4%9C%E6%98%8E%E6%9B%B2&amp;action=edit&amp;redlink=1" class="new" title="夜縛◆夜明曲 (存在しないページ)">夜縛◆夜明曲</a>』<a rel="nofollow" class="external autonumber" href="https://comic-alive.jp/product/yoshibari/">[2]</a>（<a href="/wiki/RAN_(%E6%BC%AB%E7%94%BB%E5%AE%B6)" title="RAN (漫画家)">RAN</a>）</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">関連</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%B8%83%E5%85%83%E5%BE%B3" title="七元徳">七つの美徳</a></li>
+<li><a href="/wiki/%E5%AE%97%E6%95%99%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%BD%AA" title="宗教における罪">宗教における罪</a>(<span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%BD%AA&amp;action=edit&amp;redlink=1" class="new" title="キリスト教における罪 (存在しないページ)">キリスト教における罪</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Christian_views_on_sin" class="extiw" title="en:Christian views on sin">英語版</a>）</span></span>)</li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%8F%A4%E3%81%84%E5%A5%91%E7%B4%84&amp;action=edit&amp;redlink=1" class="new" title="キリスト教における古い契約 (存在しないページ)">キリスト教における古い契約</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Christian_views_on_the_Old_Covenant" class="extiw" title="en:Christian views on the Old Covenant">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a href="/w/index.php?title=%E7%BD%AA%E8%AB%96&amp;action=edit&amp;redlink=1" class="new" title="罪論 (存在しないページ)">罪論</a><span style="font-size: 0.77em; font-weight: normal;" class="noprint">（<a href="https://en.wikipedia.org/wiki/Hamartiology" class="extiw" title="en:Hamartiology">英語版</a>）</span></span></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3">
+<ul><li><a href="/wiki/Category:%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA" title="Category:七つの大罪">カテゴリ</a></li></ul></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="典拠管理データベース&#95;frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=ウィキデータを編集&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q166502#identifiers&amp;#124;class=noprint&amp;#124;ウィキデータを編集" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="典拠管理データベース&#95;frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=ウィキデータを編集&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q166502#identifiers&amp;#124;class=noprint&amp;#124;ウィキデータを編集" style="font-size:110%;margin:0 4em"><a href="/wiki/Help:%E5%85%B8%E6%8B%A0%E7%AE%A1%E7%90%86" title="Help:典拠管理">典拠管理データベース</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q166502#identifiers" title="ウィキデータを編集"><img alt="ウィキデータを編集" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">全般</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://id.worldcat.org/fast/888432">FAST</a></span></li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">国立図書館</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4185605-3">ドイツ</a></span></li><li><span class="uid"><abbr title="Deadly sins"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/sh85036044">アメリカ</a></abbr></span></li><li><span class="uid"><abbr title="Péchés capitaux"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb119750324">フランス</a></abbr></span></li><li><span class="uid"><abbr title="Péchés capitaux"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb119750324">BnF data</a></abbr></span></li><li><span class="uid"><abbr title="Pecados capitales"><a rel="nofollow" class="external text" href="https://datos.bne.es/resource/XX525522">スペイン</a></abbr></span></li><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.nli.org.il/en/authorities/987007543232805171">イスラエル</a></span></li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">その他</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://lux.collections.yale.edu/view/concept/15c9dc18-e40a-44cd-a840-0c36fd304bbd">Yale LUX</a></span></li></ul></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐ff4bf79f8‐96rgs
+Cached time: 20260103001446
+Cache expiry: 85516
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.279 seconds
+Real time usage: 0.467 seconds
+Preprocessor visited node count: 2708/1000000
+Revision size: 12215/2097152 bytes
+Post‐expand include size: 59539/2097152 bytes
+Template argument size: 3985/2097152 bytes
+Highest expansion depth: 23/100
+Expensive parser function count: 15/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 12970/5000000 bytes
+Lua time usage: 0.091/10.000 seconds
+Lua memory usage: 4091253/52428800 bytes
+Number of Wikibase entities loaded: 1/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  280.691      1 -total
+ 24.68%   69.265      2 Template:Reflist
+ 21.55%   60.481      1 Template:出典の明記
+ 18.79%   52.750      1 Template:Ambox
+ 13.05%   36.617      1 Template:Normdaten
+  9.84%   27.627      1 Template:Find_sources_mainspace
+  9.75%   27.364      1 Template:Cite_book
+  8.99%   25.242      1 Template:Commonscat
+  8.77%   24.618      1 Template:Citation/core-ja-jp
+  8.76%   24.597     13 Template:仮リンク
+-->
+
+<!-- Saved in parser cache with key jawiki:pcache:24748:|#|:idhash:canonical and timestamp 20260103001446 and revision id 106990891. Rendering was triggered because: page_view
+ -->
+</div><noscript><img src="https://ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=七つの大罪&amp;oldid=106990891">https://ja.wikipedia.org/w/index.php?title=七つの大罪&amp;oldid=106990891</a>」から取得</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA" title="Category:七つの大罪">七つの大罪</a></li><li><a href="/wiki/Category:%E3%82%AB%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%81%AE%E6%95%99%E7%BE%A9" title="Category:カトリックの教義">カトリックの教義</a></li><li><a href="/wiki/Category:%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99%E7%94%A8%E8%AA%9E" title="Category:キリスト教用語">キリスト教用語</a></li><li><a href="/wiki/Category:%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99%E9%96%A2%E9%80%A3%E3%81%AE%E6%80%9D%E6%83%B3" title="Category:キリスト教関連の思想">キリスト教関連の思想</a></li><li><a href="/wiki/Category:%E5%90%8D%E6%95%B07" title="Category:名数7">名数7</a></li><li><a href="/wiki/Category:%E3%83%A9%E3%83%86%E3%83%B3%E8%AA%9E%E3%81%AE%E6%88%90%E5%8F%A5" title="Category:ラテン語の成句">ラテン語の成句</a></li><li><a href="/wiki/Category:%E7%BD%AA" title="Category:罪">罪</a></li><li><a href="/wiki/Category:%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99%E5%80%AB%E7%90%86" title="Category:キリスト教倫理">キリスト教倫理</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隠しカテゴリ: <ul><li><a href="/wiki/Category:ISBN%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%83%9A%E3%83%BC%E3%82%B8" title="Category:ISBNマジックリンクを使用しているページ">ISBNマジックリンクを使用しているページ</a></li><li><a href="/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E7%AF%80%E3%81%AE%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B/2014%E5%B9%B41%E6%9C%88-3%E6%9C%88" title="Category:出典を必要とする節のある記事/2014年1月-3月">出典を必要とする節のある記事/2014年1月-3月</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 最終更新 2025年10月27日 (月) 03:01 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
+	<li id="footer-info-copyright">テキストは<a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">クリエイティブ・コモンズ 表示-継承ライセンス</a>のもとで利用できます。追加の条件が適用される場合があります。詳細については<a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">利用規約</a>を参照してください。</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ja">プライバシー・ポリシー</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6">ウィキペディアについて</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85">免責事項</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行動規範</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">開発者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ja.wikipedia.org">統計</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookieに関する声明</a></li>
+	<li id="footer-places-mobileview"><a href="//ja.wikipedia.org/w/index.php?title=%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left vector-button-flush-right" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>検索</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Wikipedia内を検索">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="特別:検索">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">検索</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="目次" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="目次の表示・非表示を切り替え"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">目次の表示・非表示を切り替え</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">七つの大罪</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>72 個の言語版</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>話題を追加</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8f8dcf6c-9thz4","wgBackendResponseTime":134,"wgPageParseReport":{"limitreport":{"cputime":"0.279","walltime":"0.467","ppvisitednodes":{"value":2708,"limit":1000000},"revisionsize":{"value":12215,"limit":2097152},"postexpandincludesize":{"value":59539,"limit":2097152},"templateargumentsize":{"value":3985,"limit":2097152},"expansiondepth":{"value":23,"limit":100},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":12970,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00%  280.691      1 -total"," 24.68%   69.265      2 Template:Reflist"," 21.55%   60.481      1 Template:出典の明記"," 18.79%   52.750      1 Template:Ambox"," 13.05%   36.617      1 Template:Normdaten","  9.84%   27.627      1 Template:Find_sources_mainspace","  9.75%   27.364      1 Template:Cite_book","  8.99%   25.242      1 Template:Commonscat","  8.77%   24.618      1 Template:Citation/core-ja-jp","  8.76%   24.597     13 Template:仮リンク"]},"scribunto":{"limitreport-timeusage":{"value":"0.091","limit":"10.000"},"limitreport-memusage":{"value":4091253,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-ff4bf79f8-96rgs","timestamp":"20260103001446","ttl":85516,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u4e03\u3064\u306e\u5927\u7f6a","url":"https:\/\/ja.wikipedia.org\/wiki\/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA","sameAs":"http:\/\/www.wikidata.org\/entity\/Q166502","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q166502","author":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u3078\u306e\u8ca2\u732e\u8005"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-11-08T20:10:55Z","dateModified":"2025-10-27T03:01:07Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/03\/Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG"}</script>
+</body>
+</html>

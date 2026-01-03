@@ -1,0 +1,667 @@
+HTTP/2 200 
+date: Sat, 03 Jan 2026 16:42:52 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+link: <https://kojiki.ys-ray.com/wp-json/>; rel="https://api.w.org/", <https://kojiki.ys-ray.com/wp-json/wp/v2/posts/330>; rel="alternate"; type="application/json", <https://kojiki.ys-ray.com/?p=330>; rel=shortlink
+x-cache-status: HIT
+x-ua-device: pc
+
+<!DOCTYPE html>
+<html lang="ja" class="col2">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="天の岩戸開き,注釈,あはなち,ふちこま,みぞうめ,アマテラス,スサノオ,勝ちさび,大嘗,天の岩屋戸,天の岩戸開き,天石屋戸,新嘗">
+<meta name="description" content="そこで速須佐之男命はやすさのおのみことは天照大御神あまてらすおおみかみに、「私の心は清く明るいから、私の生んだ子は女子だった。これによって言えば、当然私の勝ちだ」と言って、勝ちに乗じて天照大御神の耕作する田の畔（あぜ）を・・・">
+<link rel="canonical" href="https://kojiki.ys-ray.com/1_6_1_kachisabi_1.html" />
+
+		<!-- All in One SEO 4.1.5.3 -->
+		<title>スサノオの勝ちさび、あはなち、みぞうめ～天津罪(1) | 古事記・現代語訳と注釈〜日本神話、神社、古代史、古語</title>
+		<meta name="description" content="そこで速須佐之男命はやすさのおのみことは天照大御神あまてらすおおみかみに、「私の心は清く明るいから、私の生んだ子は女子だった。これによって言えば、当然私の勝ちだ」と言って、勝ちに乗じて天照大御神の耕作する田の畔（あぜ）を・・・" />
+		<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+		<link rel="canonical" href="https://kojiki.ys-ray.com/1_6_1_kachisabi_1.html" />
+		<meta property="og:locale" content="ja_JP" />
+		<meta property="og:site_name" content="古事記・現代語訳と注釈〜日本神話、神社、古代史、古語 |" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="スサノオの勝ちさび、あはなち、みぞうめ～天津罪(1) | 古事記・現代語訳と注釈〜日本神話、神社、古代史、古語" />
+		<meta property="og:description" content="そこで速須佐之男命はやすさのおのみことは天照大御神あまてらすおおみかみに、「私の心は清く明るいから、私の生んだ子は女子だった。これによって言えば、当然私の勝ちだ」と言って、勝ちに乗じて天照大御神の耕作する田の畔（あぜ）を・・・" />
+		<meta property="og:url" content="https://kojiki.ys-ray.com/1_6_1_kachisabi_1.html" />
+		<meta property="article:published_time" content="2017-02-12T11:19:49+00:00" />
+		<meta property="article:modified_time" content="2017-02-17T07:24:27+00:00" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:domain" content="kojiki.ys-ray.com" />
+		<meta name="twitter:title" content="スサノオの勝ちさび、あはなち、みぞうめ～天津罪(1) | 古事記・現代語訳と注釈〜日本神話、神社、古代史、古語" />
+		<meta name="twitter:description" content="そこで速須佐之男命はやすさのおのみことは天照大御神あまてらすおおみかみに、「私の心は清く明るいから、私の生んだ子は女子だった。これによって言えば、当然私の勝ちだ」と言って、勝ちに乗じて天照大御神の耕作する田の畔（あぜ）を・・・" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/kojiki.ys-ray.com\/#website","url":"https:\/\/kojiki.ys-ray.com\/","name":"\u53e4\u4e8b\u8a18\u30fb\u73fe\u4ee3\u8a9e\u8a33\u3068\u6ce8\u91c8\u301c\u65e5\u672c\u795e\u8a71\u3001\u795e\u793e\u3001\u53e4\u4ee3\u53f2\u3001\u53e4\u8a9e","inLanguage":"ja","publisher":{"@id":"https:\/\/kojiki.ys-ray.com\/#organization"}},{"@type":"Organization","@id":"https:\/\/kojiki.ys-ray.com\/#organization","name":"\u53e4\u4e8b\u8a18\u30fb\u73fe\u4ee3\u8a9e\u8a33\u3068\u6ce8\u91c8\u301c\u65e5\u672c\u795e\u8a71\u3001\u795e\u793e\u3001\u53e4\u4ee3\u53f2\u3001\u53e4\u8a9e","url":"https:\/\/kojiki.ys-ray.com\/"},{"@type":"BreadcrumbList","@id":"https:\/\/kojiki.ys-ray.com\/1_6_1_kachisabi_1.html#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/kojiki.ys-ray.com\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/kojiki.ys-ray.com\/","name":"\u30db\u30fc\u30e0","description":"\u5f53\u30b5\u30a4\u30c8\u3067\u306f\u3001\u53e4\u4e8b\u8a18\u306b\u51fa\u3066\u304f\u308b\u795e\u540d\u30fb\u4eba\u540d\u30fb\u5730\u540d\u30fb\u53e4\u8a9e\u306e\u4e00\u3064\u4e00\u3064\u306b\u7740\u76ee\u3057\u306a\u304c\u3089\u8a73\u3057\u304f\u5b66\u3093\u3067\u3044\u304d\u307e\u3059\u3002\u53e4\u3044\u8a00\u8449\u306e\u4e00\u3064\u4e00\u3064\u306e\u4e0a\u306b\u306f\u81a8\u5927\u306a\u6b74\u53f2\u304c\u7a4d\u307f\u91cd\u306a\u3063\u3066\u3044\u3066\u3001\u305d\u308c\u3092\u8aad\u307f\u89e3\u304f\u3053\u3068\u306f\u3001\u53e4\u4ee3\u306e\u3001\u3072\u3044\u3066\u306f\u73fe\u4ee3\u306e\u65e5\u672c\u3084\u65e5\u672c\u4eba\u306b\u3064\u3044\u3066\u7406\u89e3\u3059\u308b\u5927\u304d\u306a\u624b\u304c\u304b\u308a\u3092\u79c1\u305f\u3061\u306b\u3082\u305f\u3089\u3057\u3066\u304f\u308c\u307e\u3059\u3002","url":"https:\/\/kojiki.ys-ray.com\/"}}]},{"@type":"Person","@id":"https:\/\/kojiki.ys-ray.com\/author\/kojikiadmin#author","url":"https:\/\/kojiki.ys-ray.com\/author\/kojikiadmin","name":"kojikiadmin","image":{"@type":"ImageObject","@id":"https:\/\/kojiki.ys-ray.com\/1_6_1_kachisabi_1.html#authorImage","url":"https:\/\/secure.gravatar.com\/avatar\/b0366d73bf935309abec4f9082b0659a?s=96&d=mm&r=g","width":96,"height":96,"caption":"kojikiadmin"}},{"@type":"WebPage","@id":"https:\/\/kojiki.ys-ray.com\/1_6_1_kachisabi_1.html#webpage","url":"https:\/\/kojiki.ys-ray.com\/1_6_1_kachisabi_1.html","name":"\u30b9\u30b5\u30ce\u30aa\u306e\u52dd\u3061\u3055\u3073\u3001\u3042\u306f\u306a\u3061\u3001\u307f\u305e\u3046\u3081\uff5e\u5929\u6d25\u7f6a(1) | \u53e4\u4e8b\u8a18\u30fb\u73fe\u4ee3\u8a9e\u8a33\u3068\u6ce8\u91c8\u301c\u65e5\u672c\u795e\u8a71\u3001\u795e\u793e\u3001\u53e4\u4ee3\u53f2\u3001\u53e4\u8a9e","description":"\u305d\u3053\u3067\u901f\u9808\u4f50\u4e4b\u7537\u547d\u306f\u3084\u3059\u3055\u306e\u304a\u306e\u307f\u3053\u3068\u306f\u5929\u7167\u5927\u5fa1\u795e\u3042\u307e\u3066\u3089\u3059\u304a\u304a\u307f\u304b\u307f\u306b\u3001\u300c\u79c1\u306e\u5fc3\u306f\u6e05\u304f\u660e\u308b\u3044\u304b\u3089\u3001\u79c1\u306e\u751f\u3093\u3060\u5b50\u306f\u5973\u5b50\u3060\u3063\u305f\u3002\u3053\u308c\u306b\u3088\u3063\u3066\u8a00\u3048\u3070\u3001\u5f53\u7136\u79c1\u306e\u52dd\u3061\u3060\u300d\u3068\u8a00\u3063\u3066\u3001\u52dd\u3061\u306b\u4e57\u3058\u3066\u5929\u7167\u5927\u5fa1\u795e\u306e\u8015\u4f5c\u3059\u308b\u7530\u306e\u7554\uff08\u3042\u305c\uff09\u3092\u30fb\u30fb\u30fb","inLanguage":"ja","isPartOf":{"@id":"https:\/\/kojiki.ys-ray.com\/#website"},"breadcrumb":{"@id":"https:\/\/kojiki.ys-ray.com\/1_6_1_kachisabi_1.html#breadcrumblist"},"author":"https:\/\/kojiki.ys-ray.com\/author\/kojikiadmin#author","creator":"https:\/\/kojiki.ys-ray.com\/author\/kojikiadmin#author","datePublished":"2017-02-12T11:19:49+09:00","dateModified":"2017-02-17T07:24:27+09:00"},{"@type":"Article","@id":"https:\/\/kojiki.ys-ray.com\/1_6_1_kachisabi_1.html#article","name":"\u30b9\u30b5\u30ce\u30aa\u306e\u52dd\u3061\u3055\u3073\u3001\u3042\u306f\u306a\u3061\u3001\u307f\u305e\u3046\u3081\uff5e\u5929\u6d25\u7f6a(1) | \u53e4\u4e8b\u8a18\u30fb\u73fe\u4ee3\u8a9e\u8a33\u3068\u6ce8\u91c8\u301c\u65e5\u672c\u795e\u8a71\u3001\u795e\u793e\u3001\u53e4\u4ee3\u53f2\u3001\u53e4\u8a9e","description":"\u305d\u3053\u3067\u901f\u9808\u4f50\u4e4b\u7537\u547d\u306f\u3084\u3059\u3055\u306e\u304a\u306e\u307f\u3053\u3068\u306f\u5929\u7167\u5927\u5fa1\u795e\u3042\u307e\u3066\u3089\u3059\u304a\u304a\u307f\u304b\u307f\u306b\u3001\u300c\u79c1\u306e\u5fc3\u306f\u6e05\u304f\u660e\u308b\u3044\u304b\u3089\u3001\u79c1\u306e\u751f\u3093\u3060\u5b50\u306f\u5973\u5b50\u3060\u3063\u305f\u3002\u3053\u308c\u306b\u3088\u3063\u3066\u8a00\u3048\u3070\u3001\u5f53\u7136\u79c1\u306e\u52dd\u3061\u3060\u300d\u3068\u8a00\u3063\u3066\u3001\u52dd\u3061\u306b\u4e57\u3058\u3066\u5929\u7167\u5927\u5fa1\u795e\u306e\u8015\u4f5c\u3059\u308b\u7530\u306e\u7554\uff08\u3042\u305c\uff09\u3092\u30fb\u30fb\u30fb","inLanguage":"ja","headline":"\u30b9\u30b5\u30ce\u30aa\u306e\u52dd\u3061\u3055\u3073\u3001\u3042\u306f\u306a\u3061\u3001\u307f\u305e\u3046\u3081\uff5e\u5929\u6d25\u7f6a(1)","author":{"@id":"https:\/\/kojiki.ys-ray.com\/author\/kojikiadmin#author"},"publisher":{"@id":"https:\/\/kojiki.ys-ray.com\/#organization"},"datePublished":"2017-02-12T11:19:49+09:00","dateModified":"2017-02-17T07:24:27+09:00","articleSection":"\u5929\u306e\u5ca9\u6238\u958b\u304d, \u6ce8\u91c8, \u3042\u306f\u306a\u3061, \u3075\u3061\u3053\u307e, \u307f\u305e\u3046\u3081, \u30a2\u30de\u30c6\u30e9\u30b9, \u30b9\u30b5\u30ce\u30aa, \u52dd\u3061\u3055\u3073, \u5927\u5617, \u5929\u306e\u5ca9\u5c4b\u6238, \u5929\u306e\u5ca9\u6238\u958b\u304d, \u5929\u77f3\u5c4b\u6238, \u65b0\u5617","mainEntityOfPage":{"@id":"https:\/\/kojiki.ys-ray.com\/1_6_1_kachisabi_1.html#webpage"},"isPartOf":{"@id":"https:\/\/kojiki.ys-ray.com\/1_6_1_kachisabi_1.html#webpage"}}]}
+		</script>
+		<script type="text/javascript" >
+			window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+			ga('create', "UA-55726043-1", 'auto');
+			ga('send', 'pageview');
+		</script>
+		<script async src="https://www.google-analytics.com/analytics.js"></script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="古事記・現代語訳と注釈〜日本神話、神社、古代史、古語 &raquo; フィード" href="https://kojiki.ys-ray.com/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/kojiki.ys-ray.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.12"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://kojiki.ys-ray.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='quads-style-css-css'  href='https://kojiki.ys-ray.com/wp-content/plugins/quick-adsense-reloaded/includes/gutenberg/dist/blocks.style.build.css?ver=2.0.38.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://kojiki.ys-ray.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='page-list-style-css'  href='https://kojiki.ys-ray.com/wp-content/plugins/sitemap/css/page-list.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-base-style-css'  href='https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852/base.css?ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-rwd-style-css'  href='https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852/rwd.css?ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852child/style.css?ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='keni_base-css'  href='https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852child/base.css?ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='keni_rwd-css'  href='https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852child/rwd.css?ver=5.8.12' type='text/css' media='all' />
+<style id='quads-styles-inline-css' type='text/css'>
+
+    .quads-location ins.adsbygoogle {
+        background: transparent !important;
+    }
+    
+    .quads-ad-label { font-size: 12px; text-align: center; color: #333;}
+</style>
+<script type='text/javascript' src='https://kojiki.ys-ray.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://kojiki.ys-ray.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://kojiki.ys-ray.com/wp-json/" /><link rel="alternate" type="application/json" href="https://kojiki.ys-ray.com/wp-json/wp/v2/posts/330" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kojiki.ys-ray.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://kojiki.ys-ray.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.12" />
+<link rel='shortlink' href='https://kojiki.ys-ray.com/?p=330' />
+<link rel="alternate" type="application/json+oembed" href="https://kojiki.ys-ray.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkojiki.ys-ray.com%2F1_6_1_kachisabi_1.html" />
+<link rel="alternate" type="text/xml+oembed" href="https://kojiki.ys-ray.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkojiki.ys-ray.com%2F1_6_1_kachisabi_1.html&#038;format=xml" />
+<script type='text/javascript'>document.cookie = 'quads_browser_width='+screen.width;</script><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><link rel="shortcut icon" type="image/x-icon" href="https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852/favicon.ico">
+<link rel="apple-touch-icon" href="https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852/images/apple-touch-icon.png">
+<link rel="apple-touch-icon-precomposed" href="https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852/images/apple-touch-icon.png">
+<link rel="icon" href="https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852/images/apple-touch-icon.png">
+<!--[if lt IE 9]><script src="https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852/js/html5.js"></script><![endif]-->
+
+
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2360242519052786",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+	<body class="post-template-default single single-post postid-330 single-format-standard">
+	
+	<div class="container">
+		<header id="top" class="site-header ">	
+		<div class="site-header-in">
+			<div class="site-header-conts">
+				<p class="site-title"><a href="https://kojiki.ys-ray.com">古事記・現代語訳と注釈〜日本神話、神社、古代史、古語</a></p>
+			</div>
+		</div>
+		<!--▼グローバルナビ-->
+		<nav class="global-nav">
+			<div class="global-nav-in">
+				<div class="global-nav-panel"><span class="btn-global-nav icon-gn-menu">メニュー</span></div>
+				<ul id="menu">
+				<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1004"><a href="http://kojiki.ys-ray.com">Top</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1029"><a href="https://kojiki.ys-ray.com/%e3%80%8c%e5%8f%a4%e4%ba%8b%e8%a8%98%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3%e3%81%a8%e6%b3%a8%e9%87%88%e3%80%8d%e7%9b%ae%e6%ac%a1">「古事記・現代語訳と注釈」目次</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-1030"><a href="http://kojiki.ys-ray.com">このサイトについて</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1031"><a href="http://kojiki.ys-ray.com/hajimeni.html">はじめに</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1034"><a href="http://kojiki.ys-ray.com/about_this_site_2.html">このサイトについて</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1032"><a href="http://kojiki.ys-ray.com/about_kojiki.html">古事記とは</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1033"><a href="http://kojiki.ys-ray.com/about_this_site/html">古事記の読み方について</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1035"><a href="http://kojiki.ys-ray.com/hanrei.html">凡例</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1036"><a href="http://kojiki.ys-ray.com/manyougana.html">万葉仮名とは</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1037"><a href="http://kojiki.ys-ray.com/sankou_bunken.html">参考文献</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1038"><a href="http://kojiki.ys-ray.com/profile.html">管理人プロフィール</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1014"><a href="https://ssl.form-mailer.jp/fms/30f37ae5311765">お問い合わせ</a></li>
+				</ul>
+			</div>
+		</nav>
+		<!--▲グローバルナビ-->
+		</header>
+<!--▲サイトヘッダー-->
+<div class="main-body">
+<div class="main-body-in">
+
+<nav class="breadcrumbs">
+<ol class="breadcrumbs-in" itemscope itemtype="http://schema.org/BreadcrumbList">
+<li class="bcl-first" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+	<a itemprop="item" href="https://kojiki.ys-ray.com"><span itemprop="name">古事記・現代語訳と注釈〜日本神話、神社、古代史、古語</span> TOP</a>
+	<meta itemprop="position" content="1" />
+</li>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+	<a itemprop="item" href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88"><span itemprop="name">注釈</span></a>
+	<meta itemprop="position" content="2" />
+</li>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+	<a itemprop="item" href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e5%a4%a9%e3%81%ae%e5%b2%a9%e6%88%b8%e9%96%8b%e3%81%8d"><span itemprop="name">天の岩戸開き</span></a>
+	<meta itemprop="position" content="3" />
+</li>
+<li class="bcl-last">スサノオの勝ちさび、あはなち、みぞうめ～天津罪(1)</li>
+</ol>
+</nav>
+	
+	<!--▼メインコンテンツ-->
+	<main>
+	<div class="main-conts">
+
+		<!--記事-->
+		<article id="post-330" class="section-wrap post-330 post type-post status-publish format-standard category-22 category-15 tag-212 tag-206 tag-213 tag-169 tag-173 tag-205 tag-208 tag-211 tag-210 tag-207 tag-209">
+			<div class="section-in">
+
+			<header class="article-header">
+				<h1 class="section-title" itemprop="headline">スサノオの勝ちさび、あはなち、みぞうめ～天津罪(1)</h1>
+
+				                                <div class="post-cat">
+<span class="cat cat022" style="background-color: #666;"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e5%a4%a9%e3%81%ae%e5%b2%a9%e6%88%b8%e9%96%8b%e3%81%8d" style="color: #fff;">天の岩戸開き</a></span>
+<span class="cat cat015" style="background-color: #666;"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88" style="color: #fff;">注釈</a></span>
+
+</div>
+				
+				<!--<div class="sns-wrap">
+         <ul class="sns clearfix">
+         <li class="twitter">
+             <a href="http://twitter.com/intent/tweet?url=https%3A%2F%2Fkojiki.ys-ray.com%2F1_6_1_kachisabi_1.html&text=%E3%82%B9%E3%82%B5%E3%83%8E%E3%82%AA%E3%81%AE%E5%8B%9D%E3%81%A1%E3%81%95%E3%81%B3%E3%80%81%E3%81%82%E3%81%AF%E3%81%AA%E3%81%A1%E3%80%81%E3%81%BF%E3%81%9E%E3%81%86%E3%82%81%EF%BD%9E%E5%A4%A9%E6%B4%A5%E7%BD%AA%281%29+%7C+%E5%8F%A4%E4%BA%8B%E8%A8%98%E3%83%BB%E7%8F%BE%E4%BB%A3%E8%AA%9E%E8%A8%B3%E3%81%A8%E6%B3%A8%E9%87%88%E3%80%9C%E6%97%A5%E6%9C%AC%E7%A5%9E%E8%A9%B1%E3%80%81%E7%A5%9E%E7%A4%BE%E3%80%81%E5%8F%A4%E4%BB%A3%E5%8F%B2%E3%80%81%E5%8F%A4%E8%AA%9E&via=&tw_p=tweetbutton&related="" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-twitter"></i><span class="pc">ツイート</span></a>
+         </li>
+         <li class="facebook">
+             <a href="http://www.facebook.com/sharer.php?src=bm&u=https%3A%2F%2Fkojiki.ys-ray.com%2F1_6_1_kachisabi_1.html&t=%E3%82%B9%E3%82%B5%E3%83%8E%E3%82%AA%E3%81%AE%E5%8B%9D%E3%81%A1%E3%81%95%E3%81%B3%E3%80%81%E3%81%82%E3%81%AF%E3%81%AA%E3%81%A1%E3%80%81%E3%81%BF%E3%81%9E%E3%81%86%E3%82%81%EF%BD%9E%E5%A4%A9%E6%B4%A5%E7%BD%AA%281%29" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-facebook"></i><span class="pc">シェア</span><span class="share-count"></span></a>
+         </li>
+         <li class="googleplus">
+             <a href="https://plus.google.com/share?url=https%3A%2F%2Fkojiki.ys-ray.com%2F1_6_1_kachisabi_1.html" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-google-plus"></i><span class="pc">Google+</span><span class="share-count"></span></a>
+         </li>
+         <li class="hatebu">       
+             <a href="http://b.hatena.ne.jp/add?mode=confirm&url=https%3A%2F%2Fkojiki.ys-ray.com%2F1_6_1_kachisabi_1.html" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><span class="hatena-icon">B!</span><span class="pc">はてブ</span><span class="share-count"></span></a>
+         </li>
+         <li class="pocket">
+             <a class="no-deco" target="_blank" href="http://getpocket.com/edit?url=https%3A%2F%2Fkojiki.ys-ray.com%2F1_6_1_kachisabi_1.html&title=%E3%82%B9%E3%82%B5%E3%83%8E%E3%82%AA%E3%81%AE%E5%8B%9D%E3%81%A1%E3%81%95%E3%81%B3%E3%80%81%E3%81%82%E3%81%AF%E3%81%AA%E3%81%A1%E3%80%81%E3%81%BF%E3%81%9E%E3%81%86%E3%82%81%EF%BD%9E%E5%A4%A9%E6%B4%A5%E7%BD%AA%281%29" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-get-pocket"></i><span class="pc">Pocket</span><span class="share-count"></span></a>
+         </li> 
+         <li class="feedly">
+             <a href="http://feedly.com/i/subscription/feed/https://kojiki.ys-ray.com/feed" rel="nofollow" target="_blank"><i class="fa fa-rss"></i>feedly  </a>
+         </li>
+     </ul>
+ </div>-->
+			</header>
+
+			<div class="article-body">
+			<div class="honbun">
+<p class="gendaigo">
+そこで<ruby>速須佐之男命<rt>はやすさのおのみこと</rt></ruby>は<ruby>天照大御神<rt>あまてらすおおみかみ</rt></ruby>に、「私の心は清く明るいから、私の生んだ子は女子だった。これによって言えば、当然私の勝ちだ」と言って、勝ちに乗じて天照大御神の耕作する田の畔（あぜ）を壊し、灌漑用の溝を埋め、また大御神が新嘗の新穀を食べる御殿に糞をしてまき散らした。<br />　しかし、それでも天照大御神はそれをとがめだてせずに、「糞のようなものは、酔ってへどを吐き散らそうとして、我が弟の命はそうしたのでしょう。また、田の畔を壊して灌漑用の溝を埋めたのは、土地がもったいないと思って、我が弟の命はそうしたのでしょう」と善い方に言い直したものの、なおその悪い行いは止まず、ますますひどくなった。<br />　天照大御神が、神聖な<ruby>機屋<rt>はたや</rt></ruby>にいて、神に献上する御衣を機織り女たちに織らせていたときに、速須佐之男命がその機屋の棟に穴をあけて、<ruby>斑<rt>ぶち</rt></ruby>入りの馬を逆剥ぎにして落とし入れたところ、機織り女はこれを見て驚き、<ruby>梭<rt>ひ</rt></ruby>で女陰を突いて死んでしまった。そして、天照大御神はそれを見て恐れて、天の<ruby>石屋<rt>いわや</rt></ruby>の戸を閉じて中にこもった。
+</p>
+</div>
+<div class="su-spoiler su-spoiler-style-default su-spoiler-icon-plus" data-scroll-offset="0" data-anchor-in-url="no"><div class="su-spoiler-title" tabindex="0" role="button"><span class="su-spoiler-icon"></span>クリックで訓読文</div><div class="su-spoiler-content su-u-clearfix su-u-trim">
+<div class="honbun">
+<p class="kundoku">
+<ruby>爾<rt>ここ</rt></ruby>に<ruby>速須佐之男命<rt>はやすさのをのみこと</rt></ruby>、<ruby>天照大御神<rt>あまてらすおほみかみ</rt></ruby>に<ruby>白<rt>まを</rt></ruby>したまはく、「我が心、<ruby>清明<rt>あか</rt></ruby>き<ruby>故<rt>ゆゑ</rt></ruby>に、<ruby>我<rt>あ</rt></ruby>が生めりし子、<ruby>手弱女<rt>たわやめ</rt></ruby>を得つ。此れに<ruby>因<rt>よ</rt></ruby>りて<ruby>言<rt>まを</rt></ruby>さば、<ruby>自<rt>おのづか</rt></ruby>ら我勝ちぬ」と云ひて、<ruby>勝<rt>かち</rt></ruby><span class="yomi">さび</span>に、天照大御神の<ruby>営田<rt>みつくだ</rt></ruby>の<span class="yomi">あ</span>を離ち其の溝を埋め、<ruby>亦<rt>また</rt></ruby>其の<ruby>大嘗<rt>おほにへ</rt></ruby>聞こし<ruby>看<rt>め</rt></ruby>す殿に<ruby>屎<rt>くそ</rt></ruby>まり散らかしき。<ruby>故<rt>かれ</rt></ruby>、<ruby>然<rt>しか</rt></ruby><ruby>為<rt>す</rt></ruby>れども、天照大御神は<span class="yomi">とがめず</span>て<ruby>告<rt>の</rt></ruby>りたまはく、「屎<ruby>如<rt>な</rt></ruby>すは、<ruby>醉<rt>ゑ</rt></ruby>ひて吐き散らす<span class="yomi">とこそ</span>、我が<span class="yomi">なせ</span>の命、<ruby>如此<rt>かく</rt></ruby>為つらめ。又、田の<span class="yomi">あ</span>離ち溝埋むるは、<ruby>地<rt>ところ</rt></ruby>を<span class="yomi">あたらしとこそ</span>、我が<span class="yomi">なせ</span>の命、如此為つらめ」<span class="yomi">と</span><ruby>詔<rt>の</rt></ruby>り直したまへども、<ruby>猶<rt>なほ</rt></ruby>其の悪しき<ruby>態<rt>わざ</rt></ruby>止まずて<ruby>転<rt>うたて</rt></ruby>あり。天照大御神、<ruby>忌服屋<rt>いみはたや</rt></ruby>に<ruby>坐<rt>ま</rt></ruby>しまして、<ruby>神御衣<rt>かむみそ</rt></ruby>織らしめたまふ時に、其の<ruby>服屋<rt>はたや</rt></ruby>の<ruby>頂<rt>むね</rt></ruby>を<ruby>穿<rt>うが</rt></ruby>ちて、天の<ruby>斑馬<rt>ふちこま</rt></ruby>を<ruby>逆剥<rt>さかは</rt></ruby>ぎに剥ぎて<ruby>墮<rt>おと</rt></ruby>し入るる時に、天の<ruby>衣織女<rt>みそおりめ</rt></ruby>見驚きて、<ruby>梭<rt>ひ</rt></ruby>に<ruby>陰上<rt>ほと</rt></ruby>を衝きて<ruby>死<rt>みうせ</rt></ruby>き。故、<ruby>是<rt>ここ</rt></ruby>に天照大御神、見<ruby>畏<rt>かしこ</rt></ruby>みて、天の<ruby>石屋戸<rt>いはやど</rt></ruby>を<ruby>閇<rt>た</rt></ruby>てて<ruby>刺<rt>さ</rt></ruby>し<span class="yomi">こもり</span>坐しましき。
+</p>
+</div>
+</div></div>
+<div class="su-spoiler su-spoiler-style-default su-spoiler-icon-plus" data-scroll-offset="0" data-anchor-in-url="no"><div class="su-spoiler-title" tabindex="0" role="button"><span class="su-spoiler-icon"></span>クリックで原漢文</div><div class="su-spoiler-content su-u-clearfix su-u-trim">
+<div class="honbun">
+<p class="kanbun">
+爾速須佐之男命、白于天照大御神、我心淸明故、我所生之子得手弱女。因此言者、自我勝云而、於勝<span class="yomi">佐備</span>、<span class="bunchuu">【此二字以音】</span>離天照大御神之營田之<span class="yomi">阿</span>、<span class="bunchuu">【此阿字以音】</span>埋其溝、亦其於聞看大嘗之殿屎<span class="yomi">麻理</span><span class="bunchuu">【此二字以音】</span>散。故雖然爲、天照大御神者<span class="yomi">登賀米受</span>而告、如屎醉而吐散<span class="yomi">登許曾</span>、<span class="bunchuu">【此三字以音】</span>我<span class="yomi">那勢</span>之命、爲如此。又離田之<span class="yomi">阿</span>埋溝者、地矣<span class="yomi">阿多良斯登許曾</span>、<span class="bunchuu">【自阿以下七字以音】</span>我<span class="yomi">那勢</span>之命、爲如此<span class="yomi">登</span><span class="bunchuu">【此一字以音】</span>詔雖直、猶其惡態不止而轉。天照大御神坐忌服屋而、令織神御衣之時、穿其服屋之頂、逆剥天斑馬剥而所墮入時、天衣織女見驚而、於梭衝陰上而死。<span class="bunchuu">【訓陰上云富登】</span>　故於是天照大御神見畏、閇天石屋戸而、刺<span class="yomi">許母理<span><span class="bunchuu">【此三字以音】</span>坐也。
+</p>
+</div>
+</div></div>
+<div class="su-spoiler su-spoiler-style-default su-spoiler-icon-plus" data-scroll-offset="0" data-anchor-in-url="no"><div class="su-spoiler-title" tabindex="0" role="button"><span class="su-spoiler-icon"></span>クリックで言葉</div><div class="su-spoiler-content su-u-clearfix su-u-trim">
+<p class="h3modoki">《言葉》</p>
+<ul class="kotoba">
+<li>【手弱女】たわやめ　なよなよとした女</li>
+<li>【勝佐備】かちさび　「さび」は動詞「さぶ」（〜のようである、〜らしく振る舞う）</li>
+<li>【営田】つくだ　「つく」は「つくる」で耕作するの意</li>
+<li>【阿】あ　あぜ（田と田の境界）のこと</li>
+<li>【溝】みぞ　灌漑用の溝</li>
+<li>【大嘗】おほにへ　毎年秋に新穀を神に供し、また神とともにこれを食べることで収穫に感謝する行事</li>
+<li>【聞看】きこしめす　食べる・飲むの尊敬表現</li>
+<li>【屎麻理】くそまり　「まり」は動詞「まる」（大小便をする）</li>
+<li>【阿多良斯】あたらし　惜しい、もったいない</li>
+<li>【詔雖直】のりなほしたまへども　「詔り直す」は悪いことを良い方に言い直すこと</li>
+<li>【転】うたて　自分の意志と関係なく、物事がどんどん展開するさま</li>
+<li>【忌服屋】いみはたや　「忌」は神聖な、「服屋」は機屋のこと</li>
+<li>【神御衣】かむみそ　神に献上する御衣</li>
+<li>【天斑馬】あめのふちこま　ぶちのある馬</li>
+<li>【逆剥】さかはぎ　動物の皮を尾の方から頭の方へ逆向きに剥ぐこと</li>
+<li>【梭】ひ　横糸を巻いた管を収めた舟形の道具、機織りに用いる</li>
+<li>【見畏】みかしこみて　見て恐れて</li>
+<li>【天石屋戸】あめのいはやと　アマテラスが籠った岩窟もしくは御殿の戸</li>
+<li>【閇】たてる　閉じるの意</li>
+<li>【刺許母理】さしこもり　「さす」は閉ざすの意</li>
+</ul>
+</div></div>
+
+<!-- WP QUADS v. 2.0.38.1  Shortcode Ad -->
+<div class="quads-location quads-ad1" id="quads-ad1" style="float:none;margin:0px 0 0px 0;text-align:center;">
+<div align="center">広告</div>
+<div align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- kjk1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2360242519052786"
+     data-ad-slot="4711227950"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>
+
+<div id="keni_toc"></div>
+<div class="paragraph">
+<p>
+スサノオの心の正邪を決める「うけひ」の結果は、アマテラスの子が五男神で、スサノオの子が三女神というものでした。するとスサノオは、自分の心は清明であるから<strong class="red">女子を生んだ、だから私の勝ちだ</strong>、と<strong>一方的に主張</strong>し、勝ちに乗じて数々の狼藉を働きます。その様子を見て恐れたアマテラスは、ついに天の石屋戸にこもってしまいます。
+</p>
+</div>
+<h2>手弱女</h2>
+<p>
+<strong>手弱女</strong>は、<span class="yomi">たわやめ</span>、と読みます。なよなよとした女、という意味です。対する言葉は丈夫（ますらを）です。</p>
+<p>「たわ」は「しなう」という意味の<strong>「撓む」（たわむ）</strong>から来ていて、「や」は接尾辞、「手弱」は当て字です。</p>
+<p>なお、現在では「たおやめ」と言い、倭名抄にも「手弱女人　太乎夜米（たをやめ）」とありますが、これは後世に変化したもので、もともとは「たわやめ」です。</p>
+<p class="m5-b">景行記の美夜受比売（みやずひめ）の歌に、</p>
+<p class="uta">弱細（ひはぼそ）　<strong>手弱腕（たわやがひな）</strong>を　枕（ま）かむと</p>
+<p class="m5-b">万葉集では、大伴坂上郎女の神を祭る歌、</p>
+<p class="uta"><strong>手弱女</strong>の　おすひ取り懸け　かくだにも　われは祈（こ）ひなむ　君に逢はじかも（三・三七九）</p>
+<p class="m5-b">笠朝臣金村が娘子に誂えて作った（代作した）歌、</p>
+<p class="uta"><strong>手弱女</strong>の　わが身にしあれば　道守の　問はむ答を　言い遣らむ　術を知らにと　立ちて爪づく（四・五四三）</p>
+<p class="m5-b">大伴の坂上家の大嬢が大伴宿禰家持に報（こた）え贈った歌、</p>
+<p class="uta">大夫（ますらを）も　かく恋ひけるを　<strong>手弱女</strong>の　恋ふる情（こころ）に　比（たぐ）ひあらめやも（四・五八二）</p>
+<p>などの例が見られます。上の例に見えるように、歌においては、男性が女性を手弱女と表現することは少なく、<strong>多くは女性が（自分がか弱い女性であることを強調しながら）自身を指す</strong>のに用いられています。
+</p>
+<h2>自我勝</h2>
+<p>
+<strong>自我勝</strong>は、スサノオは、「自分の心は清明であるから女子を生んだ、したがって当然私の勝ちだ」と一方的に主張します。</p>
+<p>子の帰属を決める<a href="1_5_5_noriwake.html" target="_blank">アマテラスの詔り別けの段</a>にも述べましたが、<strong>書紀においては</strong>、本文も一書も、すべて<strong class="red">「男を生む＝スサノオの清明心＝スサノオの勝ち」とルールを決め</strong>てからうけいを行い、スサノオは男神を生み、ルールに基づいて勝ちであると決まります。</p>
+<p>一方、<strong>古事記においては</strong>、勝敗の前提が述べられないままうけいが始まり、アマテラスが五男神三女神の帰属を決めると、スサノオは上のように<strong class="blue">一方的に勝ちを主張</strong>して、そのまま勝ちさびに狼藉の限りを尽くします。</p>
+<p>このことについて、宣長は「手弱女」という表現に着目し、</p>
+<p class="uta">
+凡て益荒男（ますらを）手弱女とは、ただ何となく男女をいふ称（な）には非ず・・・<strong>強きこと弱きことを云ふときの称</strong>なり。
+</p>
+<p>としたうえで、</p>
+<p class="uta">女子を得給ふを以て、御心の清明験（しるし）とする故は・・・<strong>手弱女の男に従て下に在る</strong>が如くなるべき理なればなり、故れ今女子を得給ふは其理に叶ひて、天照大御神に服（まつろ）ひ給ひて、仇敵御心なく、高天原を奪はむの御心なき験となれるなり、故れ此所は唯女子と云はずして、手弱女としも云るも、其意ぞかし。</p>
+<p>
+と解釈しています。つまり、<strong class="red">「手弱女＝敵対心なく服属する＝清明心」</strong>という含意だ、ということのようです。</p>
+
+<!-- WP QUADS v. 2.0.38.1  Shortcode Ad -->
+<div class="quads-location quads-ad2" id="quads-ad2" style="float:none;margin:0px 0 0px 0;text-align:center;">
+<div align="center">広告</div>
+<div align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- kjk2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2360242519052786"
+     data-ad-slot="7664694350"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>
+
+<h2>勝佐備</h2>
+<p>
+<strong>勝佐備</strong>は、勝ちさびの「さび」は<strong>動詞「さぶ」</strong>を連用形にして名詞化したものです。</p>
+<p><P>「さぶ」には大きく二つ意味があって、一つは体言の後に付いて<strong class="blue">「〜のようだ、のようになる、〜らしく振る舞う」</strong>の意で、「勝ちさぶ」は「勝ちらしく振る舞う・勝ちのように振る舞う」という意味になります。他に「繁（しみ）さぶ」「山さぶ」「神（かむ）さぶ」「翁さぶ」「をとめさぶ」「うま人さぶ」などの用例があります。</p>
+<p>
+もう一つは、「荒（さ）ぶ」です。これは<strong class="red">「ある状態から荒れていく」</strong>というのが原義で、そこから「心が荒れる」（→<strong>さぶし（淋）</strong>が派生）、「光や色が褪せる」、「金属が<strong>錆びる</strong>」、さらに派生して「古くなって趣が出る」（<strong>わびさびの「さび」</strong>）などの意味を持つようになりました。万葉集の、</p>
+<p class="uta">ささなみの　国つ御神の　心（うら）<strong>さびて</strong>　荒れたる京（みやこ）　見れば悲しも（一・三三）</p>
+<p>は、国つ神の心がすさんだために荒れ果ててしまった近江の旧都をいたむ歌です。他に、</p>
+<p class="uta">まそ鏡　見飽かぬ君に　後（おく）れてや　朝夕（あしたゆふべ）に　<strong>さび</strong>つつ居らむ（四・五七二）</p>
+<p>は沙彌滿誓（さみまんせい）が、大伴旅人が大宰府から京（みやこ）へ去ってしまってさびしい、と歌ったものです。</p>
+<p>また、「さぶ」は「すさぶ」とも言い、「す」は接頭辞になります。スサノオの名が<strong>「すさぶ神」</strong>であることを表す名であることは、イザナギが三貴子を生んだ段でも触れました。</p>
+<p>
+また、この「さぶ」から派生した語に「さぶし」（淋し）があり、</p>
+<p class="uta">
+家に行きて　如何にか吾がせむ　枕づく　妻屋<strong>さぶしく</strong>　思ほゆべしも（五・七九五）、</p>
+<p class="uta">愛しと　思ふ吾妹（わぎも）を　夢に見て　起きて探るに　無きが<strong>さぶしさ</strong>（十二・二九一四）</p>
+<p>など、万葉集に多くの用例があります。<?php /*（他に十六・三八六三、十七・三九六二、十八・四一〇六、十三・三二二六、十五・三七三四）*/  ?>
+</p>
+<h2>営田</h2>
+<p>
+<strong>営田</strong>は、<span class="yomi">つくだ</span>、と読みます。上の訓読文では記伝に従い、「み」（御）を付けました。倭名抄<?php /*巻一（十一裏）*/  ?>にある「佃　豆久太（つくだ）」のことで、<strong>「作田」（つくりだ）</strong>の転じたものです。「耕作する田」という意味です。山幸彦・海幸彦の段に「下田を営（つく）る」「高田を営る」という表現が出てきます。</p>
+<p>ただし、ここでは天照大御神が自ら耕した田という意味<strong>ではなく</strong>、律令制下の公営田（くえいでん）の意味と同じく、<strong class="blue">「経営する田」</strong>といった意味になります。
+</p>
+<h2>阿</h2>
+<p>
+<strong>阿</strong>は、営田の「あ」とは<strong>「畔」（あ）</strong>で、田と田の境のことです。倭名抄に「畔　田界也　和名久呂（くろ）　一云阿世（あぜ）」とありますが、古くは「あ」と言いました。</p>
+<p>「あを離つ」とは、<strong class="red">畔を壊して田の水を干上がらせる</strong>ことを言い、大祓祝詞では<strong>天つ罪の一つ</strong>に数えられています。書紀本文には「毀其畔　毀、此れを波那豆（はなつ）と云ふ」とあります。
+</p>
+<h2>溝</h2>
+<p>
+<strong>溝</strong>は、倭名抄<?php /*巻一（十七表）*/  ?>に「溝　釋名云田間之水曰溝　和名三曾（みぞ）」（田の間の水を溝という。和名ミゾ）、その隣に「渠　同上」とあり、さらに「　田中渠也　和名太三曾（たみぞ）」とあります。</p>
+<p>「溝を埋める」とは、田に水を引くための<strong class="blue">灌漑用の溝を埋める</strong>ことを言います。この「ミゾウメ」も「アハナチ」と同じく、<strong>天つ罪の一つ</strong>とされています。
+</p>
+<p>（<a href="1_6_1_kachisabi_2.html#atama">1.6.1　須佐之男命の勝さび（２）</a>に続きます。）</p>
+
+			</div><!--article-body-->
+			
+			<div align="center">広告</div>
+<div align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- kjk3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2360242519052786"
+     data-ad-slot="9141427553"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+				
+<h2>PR</h2>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-2360242519052786"
+     data-ad-slot="6282590794"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>				
+
+
+			<!--<div class="sns-wrap">
+         <ul class="sns clearfix">
+         <li class="twitter">
+             <a href="http://twitter.com/intent/tweet?url=https%3A%2F%2Fkojiki.ys-ray.com%2F1_6_1_kachisabi_1.html&text=%E3%82%B9%E3%82%B5%E3%83%8E%E3%82%AA%E3%81%AE%E5%8B%9D%E3%81%A1%E3%81%95%E3%81%B3%E3%80%81%E3%81%82%E3%81%AF%E3%81%AA%E3%81%A1%E3%80%81%E3%81%BF%E3%81%9E%E3%81%86%E3%82%81%EF%BD%9E%E5%A4%A9%E6%B4%A5%E7%BD%AA%281%29+%7C+%E5%8F%A4%E4%BA%8B%E8%A8%98%E3%83%BB%E7%8F%BE%E4%BB%A3%E8%AA%9E%E8%A8%B3%E3%81%A8%E6%B3%A8%E9%87%88%E3%80%9C%E6%97%A5%E6%9C%AC%E7%A5%9E%E8%A9%B1%E3%80%81%E7%A5%9E%E7%A4%BE%E3%80%81%E5%8F%A4%E4%BB%A3%E5%8F%B2%E3%80%81%E5%8F%A4%E8%AA%9E&via=&tw_p=tweetbutton&related="" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-twitter"></i><span class="pc">ツイート</span></a>
+         </li>
+         <li class="facebook">
+             <a href="http://www.facebook.com/sharer.php?src=bm&u=https%3A%2F%2Fkojiki.ys-ray.com%2F1_6_1_kachisabi_1.html&t=%E3%82%B9%E3%82%B5%E3%83%8E%E3%82%AA%E3%81%AE%E5%8B%9D%E3%81%A1%E3%81%95%E3%81%B3%E3%80%81%E3%81%82%E3%81%AF%E3%81%AA%E3%81%A1%E3%80%81%E3%81%BF%E3%81%9E%E3%81%86%E3%82%81%EF%BD%9E%E5%A4%A9%E6%B4%A5%E7%BD%AA%281%29" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-facebook"></i><span class="pc">シェア</span><span class="share-count"></span></a>
+         </li>
+         <li class="googleplus">
+             <a href="https://plus.google.com/share?url=https%3A%2F%2Fkojiki.ys-ray.com%2F1_6_1_kachisabi_1.html" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-google-plus"></i><span class="pc">Google+</span><span class="share-count"></span></a>
+         </li>
+         <li class="hatebu">       
+             <a href="http://b.hatena.ne.jp/add?mode=confirm&url=https%3A%2F%2Fkojiki.ys-ray.com%2F1_6_1_kachisabi_1.html" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><span class="hatena-icon">B!</span><span class="pc">はてブ</span><span class="share-count"></span></a>
+         </li>
+         <li class="pocket">
+             <a class="no-deco" target="_blank" href="http://getpocket.com/edit?url=https%3A%2F%2Fkojiki.ys-ray.com%2F1_6_1_kachisabi_1.html&title=%E3%82%B9%E3%82%B5%E3%83%8E%E3%82%AA%E3%81%AE%E5%8B%9D%E3%81%A1%E3%81%95%E3%81%B3%E3%80%81%E3%81%82%E3%81%AF%E3%81%AA%E3%81%A1%E3%80%81%E3%81%BF%E3%81%9E%E3%81%86%E3%82%81%EF%BD%9E%E5%A4%A9%E6%B4%A5%E7%BD%AA%281%29" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-get-pocket"></i><span class="pc">Pocket</span><span class="share-count"></span></a>
+         </li> 
+         <li class="feedly">
+             <a href="http://feedly.com/i/subscription/feed/https://kojiki.ys-ray.com/feed" rel="nofollow" target="_blank"><i class="fa fa-rss"></i>feedly  </a>
+         </li>
+     </ul>
+ </div>-->
+			
+						<div class="post-tag">
+			<p>タグ : <a href="https://kojiki.ys-ray.com/tag/%e3%81%82%e3%81%af%e3%81%aa%e3%81%a1" rel="tag">あはなち</a>, <a href="https://kojiki.ys-ray.com/tag/%e3%81%b5%e3%81%a1%e3%81%93%e3%81%be" rel="tag">ふちこま</a>, <a href="https://kojiki.ys-ray.com/tag/%e3%81%bf%e3%81%9e%e3%81%86%e3%82%81" rel="tag">みぞうめ</a>, <a href="https://kojiki.ys-ray.com/tag/%e3%82%a2%e3%83%9e%e3%83%86%e3%83%a9%e3%82%b9" rel="tag">アマテラス</a>, <a href="https://kojiki.ys-ray.com/tag/%e3%82%b9%e3%82%b5%e3%83%8e%e3%82%aa" rel="tag">スサノオ</a>, <a href="https://kojiki.ys-ray.com/tag/%e5%8b%9d%e3%81%a1%e3%81%95%e3%81%b3" rel="tag">勝ちさび</a>, <a href="https://kojiki.ys-ray.com/tag/%e5%a4%a7%e5%98%97" rel="tag">大嘗</a>, <a href="https://kojiki.ys-ray.com/tag/%e5%a4%a9%e3%81%ae%e5%b2%a9%e5%b1%8b%e6%88%b8" rel="tag">天の岩屋戸</a>, <a href="https://kojiki.ys-ray.com/tag/%e5%a4%a9%e3%81%ae%e5%b2%a9%e6%88%b8%e9%96%8b%e3%81%8d" rel="tag">天の岩戸開き</a>, <a href="https://kojiki.ys-ray.com/tag/%e5%a4%a9%e7%9f%b3%e5%b1%8b%e6%88%b8" rel="tag">天石屋戸</a>, <a href="https://kojiki.ys-ray.com/tag/%e6%96%b0%e5%98%97" rel="tag">新嘗</a></p>
+			</div>
+						<div class="page-nav-bf cont-nav">
+<p class="page-nav-next">NEXT:「<a href="https://kojiki.ys-ray.com/1_6_1_kachisabi_2.html" rel="next">スサノオのくそまりと屎戸(くそへ)・大嘗・新嘗～天津罪(2)</a>」</p>
+<p class="page-nav-prev">PREV:「<a href="https://kojiki.ys-ray.com/1_5_7_amenohohi_4.html" rel="prev">周芳国造、高市県主、蒲生稲寸ほか～アマツヒコネの系譜(2)</a>」</p>
+			</div>
+			
+			<section id="comments" class="comments-area">
+						</section>
+
+			</div><!--section-in-->
+		</article><!--記事-->
+
+
+	</div><!--main-conts-->
+	</main>
+	<!--▲メインコンテンツ-->
+
+		<!--▼サブコンテンツ-->
+	<aside class="sub-conts sidebar">
+		<section id="text-2" class="section-wrap widget-conts widget_text"><div class="section-in">			<div class="textwidget"></div>
+		</div></section><section id="search-2" class="section-wrap widget-conts widget_search"><div class="section-in"><form method="get" id="searchform" action="https://kojiki.ys-ray.com/">
+	<div class="search-box">
+		<input class="search" type="text" value="" name="s" id="s"><button id="searchsubmit" class="btn-search"><img alt="検索" width="32" height="20" src="https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852/images/icon/icon-btn-search.png"></button>
+	</div>
+</form></div></section><section id="categories-2" class="section-wrap widget-conts widget_categories"><div class="section-in"><h3 class="section-title">カテゴリー</h3>
+			<ul>
+					<li class="cat-item cat-item-2"><a href="https://kojiki.ys-ray.com/category/%e3%81%af%e3%81%98%e3%82%81%e3%81%ab">はじめに</a> (1)
+</li>
+	<li class="cat-item cat-item-9"><a href="https://kojiki.ys-ray.com/category/%e4%b8%87%e8%91%89%e4%bb%ae%e5%90%8d">万葉仮名</a> (1)
+</li>
+	<li class="cat-item cat-item-8"><a href="https://kojiki.ys-ray.com/category/%e5%87%a1%e4%be%8b">凡例</a> (1)
+</li>
+	<li class="cat-item cat-item-11"><a href="https://kojiki.ys-ray.com/category/%e5%8f%82%e8%80%83%e6%96%87%e7%8c%ae">参考文献</a> (1)
+</li>
+	<li class="cat-item cat-item-6"><a href="https://kojiki.ys-ray.com/category/%e5%8f%a4%e4%ba%8b%e8%a8%98">古事記</a> (2)
+</li>
+	<li class="cat-item cat-item-4"><a href="https://kojiki.ys-ray.com/category/%e5%bd%93%e3%82%b5%e3%82%a4%e3%83%88%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6">当サイトについて</a> (1)
+</li>
+	<li class="cat-item cat-item-15"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88">注釈</a> (74)
+<ul class='children'>
+	<li class="cat-item cat-item-18"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e3%82%a4%e3%82%b6%e3%83%8a%e3%82%ae%e3%81%a8%e3%82%a4%e3%82%b6%e3%83%8a%e3%83%9f">イザナギとイザナミ</a> (3)
+</li>
+	<li class="cat-item cat-item-21"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e3%82%b9%e3%82%b5%e3%83%8e%e3%82%aa%e3%81%a8%e3%82%a2%e3%83%9e%e3%83%86%e3%83%a9%e3%82%b9">スサノオとアマテラス</a> (14)
+</li>
+	<li class="cat-item cat-item-23"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e3%82%b9%e3%82%b5%e3%83%8e%e3%82%aa%e3%81%ae%e3%83%a4%e3%83%9e%e3%82%bf%e3%83%8e%e3%82%aa%e3%83%ad%e3%83%81%e9%80%80%e6%b2%bb">スサノオのヤマタノオロチ退治</a> (12)
+</li>
+	<li class="cat-item cat-item-19"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e5%a4%a7%e5%85%ab%e5%b3%b6%e5%9b%bd%e3%81%a8%e7%a5%9e%e3%80%85%e3%81%ae%e8%aa%95%e7%94%9f">大八島国と神々の誕生</a> (14)
+</li>
+	<li class="cat-item cat-item-22"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e5%a4%a9%e3%81%ae%e5%b2%a9%e6%88%b8%e9%96%8b%e3%81%8d">天の岩戸開き</a> (13)
+</li>
+	<li class="cat-item cat-item-16"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e5%a4%a9%e5%9c%b0%e5%88%9d%e7%99%ba">天地初発</a> (7)
+</li>
+	<li class="cat-item cat-item-20"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e9%bb%84%e6%b3%89%e3%81%ae%e5%9b%bd%e3%81%a8%e3%82%a4%e3%82%b6%e3%83%8a%e3%82%ae%e3%81%ae%e7%a6%8a%e3%81%8e">黄泉の国とイザナギの禊ぎ</a> (11)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-299"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">現代語訳</a> (41)
+<ul class='children'>
+	<li class="cat-item cat-item-301"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3/%e3%82%a4%e3%82%b6%e3%83%8a%e3%82%ae%e3%81%a8%e3%82%a4%e3%82%b6%e3%83%8a%e3%83%9f%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">イザナギとイザナミ・現代語訳</a> (3)
+</li>
+	<li class="cat-item cat-item-304"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3/%e3%82%b9%e3%82%b5%e3%83%8e%e3%82%aa%e3%81%a8%e3%82%a2%e3%83%9e%e3%83%86%e3%83%a9%e3%82%b9%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">スサノオとアマテラス・現代語訳</a> (8)
+</li>
+	<li class="cat-item cat-item-306"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3/%e3%82%b9%e3%82%b5%e3%83%8e%e3%82%aa%e3%81%ae%e3%83%a4%e3%83%9e%e3%82%bf%e3%83%8e%e3%82%aa%e3%83%ad%e3%83%81%e9%80%80%e6%b2%bb%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">スサノオのヤマタノオロチ退治・現代語訳</a> (7)
+</li>
+	<li class="cat-item cat-item-302"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3/%e5%a4%a7%e5%85%ab%e5%b3%b6%e5%9b%bd%e3%81%a8%e7%a5%9e%e3%80%85%e3%81%ae%e8%aa%95%e7%94%9f%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">大八島国と神々の誕生・現代語訳</a> (10)
+</li>
+	<li class="cat-item cat-item-305"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3/%e5%a4%a9%e3%81%ae%e5%b2%a9%e6%88%b8%e9%96%8b%e3%81%8d%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">天の岩戸開き・現代語訳</a> (2)
+</li>
+	<li class="cat-item cat-item-300"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3/%e5%a4%a9%e5%9c%b0%e5%88%9d%e7%99%ba%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">天地初発・現代語訳</a> (4)
+</li>
+	<li class="cat-item cat-item-303"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3/%e9%bb%84%e6%b3%89%e3%81%ae%e5%9b%bd%e3%81%a8%e3%82%a4%e3%82%b6%e3%83%8a%e3%82%ae%e3%81%ae%e7%a6%8a%e3%81%8e%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">黄泉の国とイザナギの禊ぎ・現代語訳</a> (7)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://kojiki.ys-ray.com/category/%e7%ae%a1%e7%90%86%e4%ba%ba%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab">管理人プロフィール</a> (1)
+</li>
+			</ul>
+
+			</div></section>
+		<section id="recent-posts-2" class="section-wrap widget-conts widget_recent_entries"><div class="section-in">
+		<h3 class="section-title">最近の投稿</h3>
+		<ul>
+											<li>
+					<a href="https://kojiki.ys-ray.com/1_7_7_susanowo_keifu_zoku_g.html">大国主(ｵｵｸﾆﾇｼ)、葦原醜男、八千矛神、国魂(現代語訳)</a>
+									</li>
+											<li>
+					<a href="https://kojiki.ys-ray.com/1_7_6_susanowo_keifu_g.html">大年神、ウカノミタマ(宇迦之御魂神)～スサノオの子(現代語訳)</a>
+									</li>
+											<li>
+					<a href="https://kojiki.ys-ray.com/1_7_5_suga_g.html">八雲立つ 出雲八重垣 妻籠みに 八重垣作る その八重垣を(現代語訳)</a>
+									</li>
+											<li>
+					<a href="https://kojiki.ys-ray.com/1_7_4_kusanagi_g.html">スサノオのヤマタノオロチ退治。草薙剣(現代語訳)</a>
+									</li>
+											<li>
+					<a href="https://kojiki.ys-ray.com/1_7_3_worochi_g.html">スサノオとクシナダヒメ。テナヅチ・アシナヅチ(現代語訳)</a>
+									</li>
+					</ul>
+
+		</div></section><section id="archives-2" class="section-wrap widget-conts widget_archive"><div class="section-in"><h3 class="section-title">アーカイブ</h3>
+			<ul>
+					<li><a href='https://kojiki.ys-ray.com/2017/02'>2017年2月</a></li>
+			</ul>
+
+			</div></section><section id="meta-2" class="section-wrap widget-conts widget_meta"><div class="section-in"><h3 class="section-title">メタ情報</h3>
+		<ul>
+						<li><a href="https://kojiki.ys-ray.com/wp-login.php">ログイン</a></li>
+			<li><a href="https://kojiki.ys-ray.com/feed">投稿フィード</a></li>
+			<li><a href="https://kojiki.ys-ray.com/comments/feed">コメントフィード</a></li>
+
+			<li><a href="https://ja.wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</div></section><section id="search-3" class="section-wrap widget-conts widget_search"><div class="section-in"><form method="get" id="searchform" action="https://kojiki.ys-ray.com/">
+	<div class="search-box">
+		<input class="search" type="text" value="" name="s" id="s"><button id="searchsubmit" class="btn-search"><img alt="検索" width="32" height="20" src="https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852/images/icon/icon-btn-search.png"></button>
+	</div>
+</form></div></section>
+		<section id="recent-posts-3" class="section-wrap widget-conts widget_recent_entries"><div class="section-in">
+		<h3 class="section-title">最近の投稿</h3>
+		<ul>
+											<li>
+					<a href="https://kojiki.ys-ray.com/1_7_7_susanowo_keifu_zoku_g.html">大国主(ｵｵｸﾆﾇｼ)、葦原醜男、八千矛神、国魂(現代語訳)</a>
+									</li>
+											<li>
+					<a href="https://kojiki.ys-ray.com/1_7_6_susanowo_keifu_g.html">大年神、ウカノミタマ(宇迦之御魂神)～スサノオの子(現代語訳)</a>
+									</li>
+											<li>
+					<a href="https://kojiki.ys-ray.com/1_7_5_suga_g.html">八雲立つ 出雲八重垣 妻籠みに 八重垣作る その八重垣を(現代語訳)</a>
+									</li>
+											<li>
+					<a href="https://kojiki.ys-ray.com/1_7_4_kusanagi_g.html">スサノオのヤマタノオロチ退治。草薙剣(現代語訳)</a>
+									</li>
+											<li>
+					<a href="https://kojiki.ys-ray.com/1_7_3_worochi_g.html">スサノオとクシナダヒメ。テナヅチ・アシナヅチ(現代語訳)</a>
+									</li>
+					</ul>
+
+		</div></section><section id="archives-3" class="section-wrap widget-conts widget_archive"><div class="section-in"><h3 class="section-title">アーカイブ</h3>
+			<ul>
+					<li><a href='https://kojiki.ys-ray.com/2017/02'>2017年2月</a></li>
+			</ul>
+
+			</div></section><section id="categories-3" class="section-wrap widget-conts widget_categories"><div class="section-in"><h3 class="section-title">カテゴリー</h3>
+			<ul>
+					<li class="cat-item cat-item-2"><a href="https://kojiki.ys-ray.com/category/%e3%81%af%e3%81%98%e3%82%81%e3%81%ab">はじめに</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e3%82%a4%e3%82%b6%e3%83%8a%e3%82%ae%e3%81%a8%e3%82%a4%e3%82%b6%e3%83%8a%e3%83%9f">イザナギとイザナミ</a>
+</li>
+	<li class="cat-item cat-item-301"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3/%e3%82%a4%e3%82%b6%e3%83%8a%e3%82%ae%e3%81%a8%e3%82%a4%e3%82%b6%e3%83%8a%e3%83%9f%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">イザナギとイザナミ・現代語訳</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e3%82%b9%e3%82%b5%e3%83%8e%e3%82%aa%e3%81%a8%e3%82%a2%e3%83%9e%e3%83%86%e3%83%a9%e3%82%b9">スサノオとアマテラス</a>
+</li>
+	<li class="cat-item cat-item-304"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3/%e3%82%b9%e3%82%b5%e3%83%8e%e3%82%aa%e3%81%a8%e3%82%a2%e3%83%9e%e3%83%86%e3%83%a9%e3%82%b9%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">スサノオとアマテラス・現代語訳</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e3%82%b9%e3%82%b5%e3%83%8e%e3%82%aa%e3%81%ae%e3%83%a4%e3%83%9e%e3%82%bf%e3%83%8e%e3%82%aa%e3%83%ad%e3%83%81%e9%80%80%e6%b2%bb">スサノオのヤマタノオロチ退治</a>
+</li>
+	<li class="cat-item cat-item-306"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3/%e3%82%b9%e3%82%b5%e3%83%8e%e3%82%aa%e3%81%ae%e3%83%a4%e3%83%9e%e3%82%bf%e3%83%8e%e3%82%aa%e3%83%ad%e3%83%81%e9%80%80%e6%b2%bb%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">スサノオのヤマタノオロチ退治・現代語訳</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://kojiki.ys-ray.com/category/%e4%b8%87%e8%91%89%e4%bb%ae%e5%90%8d">万葉仮名</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://kojiki.ys-ray.com/category/%e5%87%a1%e4%be%8b">凡例</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="https://kojiki.ys-ray.com/category/%e5%8f%82%e8%80%83%e6%96%87%e7%8c%ae">参考文献</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://kojiki.ys-ray.com/category/%e5%8f%a4%e4%ba%8b%e8%a8%98">古事記</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e5%a4%a7%e5%85%ab%e5%b3%b6%e5%9b%bd%e3%81%a8%e7%a5%9e%e3%80%85%e3%81%ae%e8%aa%95%e7%94%9f">大八島国と神々の誕生</a>
+</li>
+	<li class="cat-item cat-item-302"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3/%e5%a4%a7%e5%85%ab%e5%b3%b6%e5%9b%bd%e3%81%a8%e7%a5%9e%e3%80%85%e3%81%ae%e8%aa%95%e7%94%9f%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">大八島国と神々の誕生・現代語訳</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e5%a4%a9%e3%81%ae%e5%b2%a9%e6%88%b8%e9%96%8b%e3%81%8d">天の岩戸開き</a>
+</li>
+	<li class="cat-item cat-item-305"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3/%e5%a4%a9%e3%81%ae%e5%b2%a9%e6%88%b8%e9%96%8b%e3%81%8d%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">天の岩戸開き・現代語訳</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e5%a4%a9%e5%9c%b0%e5%88%9d%e7%99%ba">天地初発</a>
+</li>
+	<li class="cat-item cat-item-300"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3/%e5%a4%a9%e5%9c%b0%e5%88%9d%e7%99%ba%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">天地初発・現代語訳</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://kojiki.ys-ray.com/category/%e5%bd%93%e3%82%b5%e3%82%a4%e3%83%88%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6">当サイトについて</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88">注釈</a>
+</li>
+	<li class="cat-item cat-item-299"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">現代語訳</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://kojiki.ys-ray.com/category/%e7%ae%a1%e7%90%86%e4%ba%ba%e3%83%97%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab">管理人プロフィール</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="https://kojiki.ys-ray.com/category/%e6%b3%a8%e9%87%88/%e9%bb%84%e6%b3%89%e3%81%ae%e5%9b%bd%e3%81%a8%e3%82%a4%e3%82%b6%e3%83%8a%e3%82%ae%e3%81%ae%e7%a6%8a%e3%81%8e">黄泉の国とイザナギの禊ぎ</a>
+</li>
+	<li class="cat-item cat-item-303"><a href="https://kojiki.ys-ray.com/category/%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3/%e9%bb%84%e6%b3%89%e3%81%ae%e5%9b%bd%e3%81%a8%e3%82%a4%e3%82%b6%e3%83%8a%e3%82%ae%e3%81%ae%e7%a6%8a%e3%81%8e%e3%83%bb%e7%8f%be%e4%bb%a3%e8%aa%9e%e8%a8%b3">黄泉の国とイザナギの禊ぎ・現代語訳</a>
+</li>
+			</ul>
+
+			</div></section><section id="meta-3" class="section-wrap widget-conts widget_meta"><div class="section-in"><h3 class="section-title">メタ情報</h3>
+		<ul>
+						<li><a href="https://kojiki.ys-ray.com/wp-login.php">ログイン</a></li>
+			<li><a href="https://kojiki.ys-ray.com/feed">投稿フィード</a></li>
+			<li><a href="https://kojiki.ys-ray.com/comments/feed">コメントフィード</a></li>
+
+			<li><a href="https://ja.wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</div></section>	</aside>
+	<!--▲サブコンテンツ-->
+	
+
+</div>
+</div>
+
+<!--▼サイトフッター-->
+<footer class="site-footer">
+	<div class="site-footer-in">
+	<div class="site-footer-conts">
+		<ul class="site-footer-nav"><li id="menu-item-1043" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1043"><a href="https://kojiki.ys-ray.com">Top</a></li>
+<li id="menu-item-1042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1042"><a href="https://kojiki.ys-ray.com/policy">当サイトについて</a></li>
+<li id="menu-item-1044" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1044"><a href="https://kojiki.ys-ray.com/sitemap">サイトマップ</a></li>
+</ul>
+	</div>
+	</div>
+	<div class="copyright">
+		<p><small>Copyright (C) 2026 古事記・現代語訳と注釈〜日本神話、神社、古代史、古語 <span>All Rights Reserved.</span></small></p>
+	</div>
+</footer>
+<!--▲サイトフッター-->
+
+
+<!--▼ページトップ-->
+<p class="page-top"><a href="#top"><img class="over" src="https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852/images/common/page-top_off.png" width="80" height="80" alt="ページの先頭へ"></a></p>
+<!--▲ページトップ-->
+
+</div><!--container-->
+
+<link rel='stylesheet' id='su-icons-css'  href='https://kojiki.ys-ray.com/wp-content/plugins/shortcodes-ultimate/includes/css/icons.css?ver=1.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='su-shortcodes-css'  href='https://kojiki.ys-ray.com/wp-content/plugins/shortcodes-ultimate/includes/css/shortcodes.css?ver=5.10.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://kojiki.ys-ray.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://kojiki.ys-ray.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/kojiki.ys-ray.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kojiki.ys-ray.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.3' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852/js/socialButton.js?ver=5.8.12' id='my-social-js'></script>
+<script type='text/javascript' src='https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852/js/keni_toc.js?ver=5.8.12' id='my-toc-js'></script>
+<script type='text/javascript' src='https://kojiki.ys-ray.com/wp-content/themes/keni70_wp_corp_blue_201702061852/js/utility.js?ver=5.8.12' id='my-utility-js'></script>
+<script type='text/javascript' src='https://kojiki.ys-ray.com/wp-includes/js/wp-embed.min.js?ver=5.8.12' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://kojiki.ys-ray.com/wp-content/plugins/quick-adsense-reloaded/assets/js/ads.js?ver=2.0.38.1' id='quads-admin-ads-js'></script>
+<script type='text/javascript' id='su-shortcodes-js-extra'>
+/* <![CDATA[ */
+var SUShortcodesL10n = {"noPreview":"\u3053\u306e\u30b7\u30e7\u30fc\u30c8\u30b3\u30fc\u30c9\u306f\u3001\u30e9\u30a4\u30d6\u30d7\u30ec\u30d3\u30e5\u30fc\u3067\u306f\u52d5\u4f5c\u3057\u307e\u305b\u3093\u3002\u30b5\u30a4\u30c8\u4e0a\u306e\u30a8\u30c7\u30a3\u30bf\u306b\u633f\u5165\u3057\u3066\u304f\u3060\u3055\u3044\u3002","magnificPopup":{"close":"\u9589\u3058\u308b (Esc)","loading":"\u8aad\u307f\u8fbc\u307f\u4e2d\u2026","prev":"\u524d (\u5de6\u77e2\u5370\u30ad\u30fc)","next":"\u6b21 (\u53f3\u77e2\u5370\u30ad\u30fc)","counter":"%curr% of %total%","error":"Failed to load content. <a href=\"%url%\" target=\"_blank\"><u>Open link<\/u><\/a>"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kojiki.ys-ray.com/wp-content/plugins/shortcodes-ultimate/includes/js/shortcodes/index.js?ver=5.10.2' id='su-shortcodes-js'></script>
+	
+
+</body>
+</html>

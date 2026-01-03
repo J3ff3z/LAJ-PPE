@@ -1,0 +1,15 @@
+HTTP/2 403 x-datadome-cid: AHrlqAAAAAMAzT6PPEf95x0A_SKBUg== x-dd-b: 2
+x-datadome: protected content-type: text/html;charset=utf-8
+access-control-allow-origin: * pragma: no-cache accept-ch:
+Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Vers
+ion-List,Sec-CH-UA-Model,Sec-CH-Device-Memory access-control-expose-headers:
+x-dd-b, x-set-cookie access-control-allow-credentials: true charset: utf-8
+content-length: 773 cache-control: private, max-age=60 expires: Sat, 03 Jan 2026
+16:45:34 GMT date: Sat, 03 Jan 2026 16:44:34 GMT content-security-policy:
+upgrade-insecure-requests x-arc-ttl: -1 x-arc-request-id:
+0.26851402.1767458674.90a986b3 x-arc-edgecontroller: 1.3.0 set-cookie:
+datadome=UEjAUnI34arUTbOPqYRbfVVzpt_kU_44P5NXwdf~plkJJEHRjzxfNW5QtPbZLYsn6aUUfp0
+6zoT0iBQ~dHM~2cDnBeW253TSHgoqzi0kS_srQl5ojgTt5PxNFBroTMj8; Max-Age=31536000;
+Domain=.liberation.fr; Path=/; Secure; SameSite=Lax
+
+Please enable JS and disable any ad blocker
