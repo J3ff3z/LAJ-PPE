@@ -1,6 +1,12 @@
 #!/usr/bin/bash
 
-LANGUE="fr"
+if [ $# -eq 0 ];
+then
+    echo "indiquez une langue"
+    exit 1
+fi
+
+LANGUE="$1"
 
 SORTIE="tableaux/array-$LANGUE.html"
 ENTREE="URLS/fr.txt"
@@ -18,7 +24,7 @@ echo -e "\
                     <th>Robot.txt</th>
                     <th>Aspirations</th>
                     <th>Dumps initiaux</th>
-                    <th>Dumps UTF-8</th>
+                    <th>Dumps clean</th>
                     <th>Concordancier</th>
                 </tr>
             </thead>
@@ -28,7 +34,7 @@ NB_LIGNE=0
 
 while read -r LINE ; do
     NB_LIGNE=$(expr $NB_LIGNE + 1)
-
+    echo "Working on line $NB_LIGNE"
     ASPIRATION="aspirations/$LANGUE-$NB_LIGNE.txt"
 
     CODE_ET_ENCODAGE=$(curl -s -L -i -o "$ASPIRATION" -w "%{http_code}\n%{content_type}" "$LINE")
@@ -61,10 +67,11 @@ while read -r LINE ; do
 
     CONTEXTE="contextes/$LANGUE-$NB_LIGNE.txt"
     CONCORDANCE="concordances/$LANGUE-$NB_LIGNE.html"
-	
-	CLEAN=$(bash scriptnettoyage1.sh "$DUMP_INITIAL")
-	
-	COUNT=$(bash comptage_occurence_script.sh "$CLEAN")
+
+    CLEAN=$(bash programmes/scriptnettoyage1.sh "$DUMP_INITIAL")
+    CLEAN=${CLEAN:1}
+    NB_MOTS=$(cat "$CLEAN" | wc -w)
+    COUNT=$(bash programmes/comptage_occurence_script.sh "$CLEAN")
 
     if [ -z "$ENCODAGE" ]; then
         if [ -z "$NB_MOTS" ]; then
@@ -101,14 +108,15 @@ while read -r LINE ; do
                 <td>$NB_MOTS</td>
                 <td>$COUNT</td>
                 <td>$ROBOT</td>
-                <th><a href=$ASPIRATION>$LANGUE-$NB_LIGNE.html</th>
-                <th><a href=$DUMP_INITIAL>$LANGUE-$NB_LIGNE.txt</th>
-                <th><a href=$DUMP_UTF8>$LANGUE-$NB_LIGNE-UTF8.txt</th>
-                <th><a href=$CONTEXTE>$LANGUE-$NB_LIGNE.txt</th>
-                <th><a href=$CONCORDANCE>$LANGUE-$NB_LIGNE.txt</th>
+                <th><a href=\"../$ASPIRATION\">$LANGUE-$NB_LIGNE.html</th>
+                <th><a href=\"../$DUMP_INITIAL\">$LANGUE-$NB_LIGNE.txt</th>
+                <th><a href=\"../$DUMP_UTF8\">$LANGUE-$NB_LIGNE-UTF8.txt</th>
+                <th><a href=\"../$CONTEXTE\">$LANGUE-$NB_LIGNE.txt</th>
+                <th><a href=\"../concordancier.html?f=$(basename $CONTEXTE)\">$LANGUE-$NB_LIGNE.txt</th>
             </tr>" >> "$SORTIE"
 done  < "$ENTREE"
 
 echo -e "\
             </tbody>
         </table>" >> "$SORTIE"
+echo "Done"

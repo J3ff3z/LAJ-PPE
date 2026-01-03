@@ -1,0 +1,17 @@
+HTTP/2 403 
+date: Sat, 03 Jan 2026 16:16:21 GMT
+server: Apache
+x-datadome: protected
+accept-ch: Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory
+charset: utf-8
+cache-control: max-age=0, private, no-cache, no-store, must-revalidate
+pragma: no-cache
+x-datadome-cid: AHrlqAAAAAMA4UEtWABz-fcAsLmwKw==
+x-dd-b: 2
+set-cookie: datadome=MJKO30rKKnQ6kmMlgO8GLbO4J9tn9_vGoHk43rF1IJlqY5E9vWKj0T1dloxTnPtBf__WQNxaVyKXJFVG2ptC8zblBZA~bLjz_CAKRk~k9qJOxVANJd4L2Zu1f~wFAndZ; Max-Age=31536000; Domain=.cairn.info; Path=/; Secure; SameSite=None
+content-length: 770
+access-control-allow-origin: *
+content-type: text/html;charset=utf-8
+set-cookie: SERVER_USED=cairnweb4; path=/
+
+<html lang="en"><head><title>cairn.info</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style="margin:0"><p id="cmsg">Please enable JS and disable any ad blocker</p><script data-cfasync="false">var dd={'rt':'c','cid':'AHrlqAAAAAMA4UEtWABz-fcAsLmwKw==','hsh':'9E3A8A2A4B1B6523B8B3953E2C0374','t':'bv','qp':'','s':45004,'e':'4a1e0debaaf5ee785aac5aa964a17e28f07e9303b446c993d979b967a027e100f5e6367e91bf7d5e4cacf703e6b67d2d','host':'geo.captcha-delivery.com','cookie':'MJKO30rKKnQ6kmMlgO8GLbO4J9tn9_vGoHk43rF1IJlqY5E9vWKj0T1dloxTnPtBf__WQNxaVyKXJFVG2ptC8zblBZA~bLjz_CAKRk~k9qJOxVANJd4L2Zu1f~wFAndZ'}</script><script data-cfasync="false" src="https://ct.captcha-delivery.com/c.js"></script></body></html>

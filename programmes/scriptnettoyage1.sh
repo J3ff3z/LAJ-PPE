@@ -35,6 +35,6 @@ grep -viE "^\s*$signes|$signes.*$signes|BUTTON|IFRAME|Search|settings[[:space:]]
 	s|(pre-meta)||g;
 	s|\[[[:space:]]*\]||g;
 	s|\[X\]||g;
-'> "$dossiertest/$(basename $fichier).txt"
+'> "$dossiertest/$(basename $fichier)"
 
-echo  "$dossiertest/$(basename $fichier).txt"
+echo  "$dossiertest/$(basename $fichier)"

@@ -1,0 +1,501 @@
+HTTP/2 200 
+x-pingback: https://adventistemagazine.com/xmlrpc.php
+link: <https://adventistemagazine.com/wp-json/>; rel="https://api.w.org/", <https://adventistemagazine.com/wp-json/wp/v2/posts/24616>; rel="alternate"; title="JSON"; type="application/json", <https://adventistemagazine.com/?p=24616>; rel=shortlink
+vary: Accept-Encoding
+content-type: text/html; charset=UTF-8
+date: Sat, 03 Jan 2026 16:15:52 GMT
+server: Apache
+
+
+	<!doctype html>
+<!--[if lt IE 9]><html class="no-js no-svg ie lt-ie9 lt-ie8 lt-ie7" lang="fr-FR"> <![endif]-->
+<!--[if IE 9]><html class="no-js no-svg ie ie9 lt-ie9 lt-ie8" lang="fr-FR"> <![endif]-->
+<!--[if gt IE 9]><!-->
+	<html
+	class="no-js no-svg" lang="fr-FR"> <!--<![endif]-->
+	<head>
+		<meta charset="UTF-8"/>
+		<meta
+		name="description" content="Le péché est décrit dans la Bible principalement en termes théologiques et relationnels, car il est dirigé contre notre Dieu, le Créateur et le Rédemp...">
+				<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="author" href="https://adventistemagazine.com/wp-content/themes/adventistemagazine/humans.txt"/>
+		<link rel="pingback" href="https://adventistemagazine.com/xmlrpc.php"/>
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>La compréhension biblique de la nature et des définitions du péché &#8211; Adventiste Magazine</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="icon" type="image/png" sizes="32x32" href="https://adventistemagazine.com/wp-content/uploads/2025/09/cropped-Plan-de-travail-1-1-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://adventistemagazine.com/wp-content/uploads/2025/09/cropped-Plan-de-travail-1-1-192x192.png">
+<link rel="icon" type="image/png" sizes="180x180" href="https://adventistemagazine.com/wp-content/uploads/2025/09/cropped-Plan-de-travail-1-1-180x180.png">
+<link rel="icon" type="image/png" sizes="270x270" href="https://adventistemagazine.com/wp-content/uploads/2025/09/cropped-Plan-de-travail-1-1-270x270.png">
+<link rel="apple-touch-icon" href="https://adventistemagazine.com/wp-content/uploads/2025/09/cropped-Plan-de-travail-1-1-180x180.png">
+<link rel="manifest" href="https://adventistemagazine.com/wp-content/uploads/2025/09/cropped-Plan-de-travail-1-1-192x192.png">
+<link rel='dns-prefetch' href='//unpkg.com' />
+<link rel="alternate" type="application/rss+xml" title="Adventiste Magazine &raquo; Flux" href="https://adventistemagazine.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Adventiste Magazine &raquo; Flux des commentaires" href="https://adventistemagazine.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Adventiste Magazine &raquo; La compréhension biblique de la nature et des définitions du péché Flux des commentaires" href="https://adventistemagazine.com/la-comprehension-biblique-de-la-nature-et-des-definitions-du-peche/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://adventistemagazine.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fadventistemagazine.com%2Fla-comprehension-biblique-de-la-nature-et-des-definitions-du-peche%2F&#038;lang=fr" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://adventistemagazine.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fadventistemagazine.com%2Fla-comprehension-biblique-de-la-nature-et-des-definitions-du-peche%2F&#038;format=xml&#038;lang=fr" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style><style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://adventistemagazine.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='adventistemagazine-app-css' href='https://adventistemagazine.com/wp-content/themes/adventistemagazine/styles/app.css?ver=1761132987' type='text/css' media='all' />
+<link rel='stylesheet' id='adventistemagazine-blocks-css' href='https://adventistemagazine.com/wp-content/themes/adventistemagazine/styles/blocks.css?ver=1758221924' type='text/css' media='all' />
+<link rel='stylesheet' id='adventistemagazine-contact-form-7-css' href='https://adventistemagazine.com/wp-content/themes/adventistemagazine/styles/contact-form-7.css?ver=1758221924' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote :where(cite),.wp-block-pullquote :where(footer),.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+/*# sourceURL=/wp-includes/css/dist/block-library/theme.min.css */
+</style>
+<link rel="https://api.w.org/" href="https://adventistemagazine.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://adventistemagazine.com/wp-json/wp/v2/posts/24616" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://adventistemagazine.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<link rel="canonical" href="https://adventistemagazine.com/la-comprehension-biblique-de-la-nature-et-des-definitions-du-peche/" />
+<link rel='shortlink' href='https://adventistemagazine.com/?p=24616' />
+
+	</head>
+</html>
+	</head><body class="wp-singular post-template-default single single-post postid-24616 single-format-standard wp-embed-responsive wp-theme-adventistemagazine flex flex-col" data-template="base.twig">
+
+<a class="skip-link screen-reader-text" href="#content">Aller au contenu</a>
+<header class="header mb-5 md:mb-10 border-t border-b border-gray-200 sticky top-0 bg-white z-50">
+			<div class="container px-5 mx-auto">
+			<div class="wrapper h-[70px] flex items-center justify-between">
+				<h1 class="hdr-logo" role="banner">
+					<a class="hdr-logo-link" href="https://adventistemagazine.com" rel="home">
+													<img src="https://adventistemagazine.com/wp-content/uploads/2025/08/logo3.png" alt="Adventiste Magazine logo" class="site-logo-img w-[200px] lg:w-[300px]"/>
+											</a>
+				</h1>
+				<nav id="nav-main" class="hidden md:block nav-main self-stretch" role="navigation">
+						<ul class="flex h-full items-stretch">
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-25312 flex items-stretch relative group">
+				<a class="flex items-center px-2 hover:text-orange-500 " target="_self" href="https://adventistemagazine.com/">
+					<span class="uppercase font-semibold text-sm">Accueil</span>
+				</a>
+							</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25324 flex items-stretch relative group">
+				<a class="flex items-center px-2 hover:text-orange-500 " target="_self" href="#">
+					<span class="uppercase font-semibold text-sm">Catégories</span>
+				</a>
+									<ul class="dropdown-menu absolute left-0 top-full hidden group-hover:block bg-white shadow-even min-w-[250px] z-10 overflow-hidden rounded-md">
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72679">
+								<a class="block px-4 py-2 hover:text-orange-500 " target="_self" href="https://adventistemagazine.com/category/appel-a-la-priere/">
+									<span class="uppercase font-semibold text-sm">Appel à la prière</span>
+								</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72680">
+								<a class="block px-4 py-2 hover:text-orange-500 " target="_self" href="https://adventistemagazine.com/category/couple/">
+									<span class="uppercase font-semibold text-sm">Couple</span>
+								</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72681">
+								<a class="block px-4 py-2 hover:text-orange-500 " target="_self" href="https://adventistemagazine.com/category/education/">
+									<span class="uppercase font-semibold text-sm">Éducation</span>
+								</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72682">
+								<a class="block px-4 py-2 hover:text-orange-500 " target="_self" href="https://adventistemagazine.com/category/famille/">
+									<span class="uppercase font-semibold text-sm">Famille</span>
+								</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72683">
+								<a class="block px-4 py-2 hover:text-orange-500 " target="_self" href="https://adventistemagazine.com/category/femmes/">
+									<span class="uppercase font-semibold text-sm">Femmes</span>
+								</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72684">
+								<a class="block px-4 py-2 hover:text-orange-500 " target="_self" href="https://adventistemagazine.com/category/jeunesse/">
+									<span class="uppercase font-semibold text-sm">Jeunesse</span>
+								</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-72685">
+								<a class="block px-4 py-2 hover:text-orange-500 " target="_self" href="https://adventistemagazine.com/category/la-bible-repond/">
+									<span class="uppercase font-semibold text-sm">La Bible répond</span>
+								</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-72686">
+								<a class="block px-4 py-2 hover:text-orange-500 " target="_self" href="https://adventistemagazine.com/category/reflexions-spirituelles/">
+									<span class="uppercase font-semibold text-sm">Réflexions Spirituelles</span>
+								</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72687">
+								<a class="block px-4 py-2 hover:text-orange-500 " target="_self" href="https://adventistemagazine.com/category/sante/">
+									<span class="uppercase font-semibold text-sm">Santé</span>
+								</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72688">
+								<a class="block px-4 py-2 hover:text-orange-500 " target="_self" href="https://adventistemagazine.com/category/temoignage/">
+									<span class="uppercase font-semibold text-sm">Témoignage</span>
+								</a>
+							</li>
+											</ul>
+							</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25325 flex items-stretch relative group">
+				<a class="flex items-center px-2 hover:text-orange-500 " target="_blank" href="https://hoperadio.live">
+					<span class="uppercase font-semibold text-sm">Radio</span>
+				</a>
+							</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25326 flex items-stretch relative group">
+				<a class="flex items-center px-2 hover:text-orange-500 " target="_blank" href="https://adventplay.tv/">
+					<span class="uppercase font-semibold text-sm">Vidéo</span>
+				</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72541 flex items-stretch relative group">
+				<a class="flex items-center px-2 hover:text-orange-500 " target="_self" href="https://adventistemagazine.com/contact-2/">
+					<span class="uppercase font-semibold text-sm">Contact</span>
+				</a>
+							</li>
+			</ul>
+				</nav>
+				<div id="icon-group" class="ml-auto md:ml-[0px] flex items-center">
+																																													<a href="https://magazineavventista.com/" class="flex items-center transition-opacity duration-200 hover:opacity-80 mr-2" title="Italiano">
+																			<span class="text-[14px] font-medium text-gray-500 leading-none whitespace-nowrap">IT</span>
+										<img src="https://adventistemagazine.com/wp-content/themes/adventistemagazine/assets/flags/italian-flag.svg" alt="Italian flag" class="w-7 h-6 object-contain"/>
+																	</a>
+																																																													<a href="https://www.instagram.com/espoirmedias/" target="_blank" rel="noopener noreferrer" class="hidden md:inline text-[0px]" title="Instagram">
+																					<img src="https://img.icons8.com/color/96/instagram-new.png" alt="Instagram" class="w-8 h-8"/>
+																			</a>
+																																																					<a href="https://www.tiktok.com/@espoirmedias" target="_blank" rel="noopener noreferrer" class="hidden md:inline text-[0px]" title="Tiktok">
+																					<img src="https://img.icons8.com/color/96/tiktok.png" alt="TikTok" class="w-8 h-8"/>
+																			</a>
+																																																					<a href="https://www.youtube.com/c/ESPOIRM%C3%89DIAS" target="_blank" rel="noopener noreferrer" class="hidden md:inline text-[0px]" title="Youtube">
+																					<img src="https://img.icons8.com/color/96/youtube-play.png" alt="YouTube" class="w-8 h-8"/>
+																			</a>
+																															<a class="text-[0px] cursor-pointer lg:ml-5" data-modal-trigger="search">
+						<ion-icon name="search" class="text-[28px]"></ion-icon>
+					</a>
+				</div>
+				<a class="md:hidden text-[0px] ml-2 cursor-pointer" data-modal-trigger="menu">
+					<ion-icon name="menu" class="text-[34px]"></ion-icon>
+				</a>
+			</div>
+			<div class="modal hidden" data-modal-id="search">
+	<div class="modal-overlay"></div>
+	<div class="modal-content flex flex-col">
+		<div class="flex items-center border border-gray-400 rounded-md w-full px-3 py-3 mb-5">
+			<input id="search" type="text" placeholder="Commencer à taper..." class="flex-1 min-w-0 text-sm outline-0"/>
+			<button class="close-modal text-[26px] flex items-center cursor-pointer">
+				<ion-icon name="close"></ion-icon>
+			</button>
+		</div>
+		<div class="flex-1 flex flex-col gap-5 overflow-y-auto pr-3">
+			<div class="text-center py-8 text-gray-500">
+				<p>Commencez à taper pour rechercher des articles</p>
+			</div>
+		</div>
+	</div>
+</div>
+			<div class="modal hidden" data-modal-id="menu">
+	<div class="modal-overlay"></div>
+	<div class="modal-content">
+		<div class="flex justify-end h-[70px]">
+			<a class="close-modal text-[0px] ml-auto cursor-pointer">
+				<ion-icon name="close" class="text-[34px]"></ion-icon>
+			</a>
+		</div>
+		<div class="flex flex-col gap-3">
+							<a class="text-lg font-semibold uppercase" href="https://adventistemagazine.com/">Accueil</a>
+											<a class="text-lg font-semibold uppercase" href="#">Catégories</a>
+									<a class="text-lg font-semibold uppercase ml-10" href="https://adventistemagazine.com/category/appel-a-la-priere/">Appel à la prière</a>
+									<a class="text-lg font-semibold uppercase ml-10" href="https://adventistemagazine.com/category/couple/">Couple</a>
+									<a class="text-lg font-semibold uppercase ml-10" href="https://adventistemagazine.com/category/education/">Éducation</a>
+									<a class="text-lg font-semibold uppercase ml-10" href="https://adventistemagazine.com/category/famille/">Famille</a>
+									<a class="text-lg font-semibold uppercase ml-10" href="https://adventistemagazine.com/category/femmes/">Femmes</a>
+									<a class="text-lg font-semibold uppercase ml-10" href="https://adventistemagazine.com/category/jeunesse/">Jeunesse</a>
+									<a class="text-lg font-semibold uppercase ml-10" href="https://adventistemagazine.com/category/la-bible-repond/">La Bible répond</a>
+									<a class="text-lg font-semibold uppercase ml-10" href="https://adventistemagazine.com/category/reflexions-spirituelles/">Réflexions Spirituelles</a>
+									<a class="text-lg font-semibold uppercase ml-10" href="https://adventistemagazine.com/category/sante/">Santé</a>
+									<a class="text-lg font-semibold uppercase ml-10" href="https://adventistemagazine.com/category/temoignage/">Témoignage</a>
+											<a class="text-lg font-semibold uppercase" href="https://hoperadio.live">Radio</a>
+											<a class="text-lg font-semibold uppercase" href="https://adventplay.tv/">Vidéo</a>
+											<a class="text-lg font-semibold uppercase" href="https://adventistemagazine.com/contact-2/">Contact</a>
+									</div>
+	</div>
+</div>
+		</div>
+	</header>
+
+<section id="content" role="main" class="content-wrapper container px-5 min-h-screen mx-auto">
+		<div class=" wrapper">
+			<div class="content-wrapper flex mb-10">
+		<article class="post-type-post single max-w-[800px] mx-auto" id="post-24616">
+			<section class="article-content">
+				<h1 class="article-h1 text-3xl/8 font-bold">La compréhension biblique de la nature et des définitions du péché</h1>
+				<p class="blog-author uppercase text-sm text-gray-500">
+					<span>Par</span>
+					<a class="text-gray-600" href="/author/site-partenaire-dinformation/">
+						Site partenaire d'information
+					</a>
+					<span>&bull;</span>
+					<time datetime="">11 août 2024</time>
+				</p>
+									<img class="w-full aspect-video rounded-md object-cover my-5" src="https://adventistemagazine.com/wp-content/uploads/2024/07/peches.jpg">
+								<div class="article-body line-height-2 my-5 text-justify">
+					<p>Le péché est décrit dans la Bible principalement en termes théologiques et relationnels, car il est dirigé contre notre Dieu, le Créateur et le Rédempteur, et il nous détruit, ainsi que nos relations avec ceux qui nous entourent. David l’a exprimé avec éloquence dans sa repentance après avoir bien compris la nature démoralisante de ses actions pécheresses pour lui-même, Bat-Shéba et sa famille : « J’ai péché contre toi [ô Dieu], contre toi seul, j’ai fait ce qui est mal à tes yeux » (Psaume 51.6 ; voir Genèse 39.8).</p>
+<p>&nbsp;</p>
+<p>La terminologie hébraïque colorée et variée du péché révèle sa nature dévastatrice. La richesse du vocabulaire démontre la complexité du péché. Le langage biblique le plus fort pour désigner le péché, la trilogie du péché, se compose des termes suivants : <i>hattah</i> (le terme le plus courant pour désigner le péché dans le sens de manquer la cible, s’écarter du droit chemin ou s’égarer ; le mot grec <i>hamartia</i> exprime le même concept), <i>avon</i> (transgression, quelque chose qui est plié, tordu ou tortueux) et <i>peshah </i>(rébellion, révolte). Dieu pardonne toutes ces variantes de péché et ces fautes mentionnées dans des passages cruciaux desÉcritures hébraïques (voir Exode 34.6 ; Lévitique 16.21 ; Psaume 32.1-2 ; Esaïe 53.5-6,8-12 ; Daniel 9.24). Outre ces trois mots principaux pour désigner le péché, la Bible contient d’autres termes qui décrivent la complexité du péché et de notre nature pécheresse, tels que : le mal, la culpabilité, la méchanceté, la transgression, l’impureté, la tromperie, la malhonnêteté, le mensonge, l’offense, l’abomination, la profanation, la perversion, l’iniquité, l’erreur, l’injustice, l’arrogance, et l’échec.</p>
+<p>&nbsp;</p>
+<p>Selon le récit de la création dans la Genèse, les êtres humains ont été créés (1) en relation avec Dieu, (2) en totale dépendance de lui, (3) pour jouir et cultiver sa présence dans nos vies. Le péché brise ce modèle et détruit le beau dessein originel établi par Dieu pour le bonheur, la prospérité et la croissance de l’humanité.</p>
+<p>&nbsp;</p>
+<p><b>Cinq définitions bibliques du péché</b></p>
+<p>On peut résumer les différents aspects du problème du péché en cinq définitions bibliques du péché :</p>
+<p>&nbsp;</p>
+<ol>
+<li>Le péché, selon Genèse 3, est une relation rompue avec Dieu, une tentative de vivre indépendamment, de manière autonome, de Dieu (du grec <i>autos</i>, « soi », et <i>nomos</i>, « loi », c’est-à-dire être une loi pour soi-même). C’est une vie sans Dieu, sans son autorité et sans sa loi. Il détruit les qualités fondamentales de la vie et dit non à la présence de Dieu dans la vie (c’est ainsi qu’Adam et Ève se sont cachés après avoir péché). Le péché est donc la dé-création, la destruction de la merveilleuse création de Dieu. Le péché renverse les trois fonctions et objectifs fondamentaux de la vie pour lesquels nous avons été créés : il rompt la relation de confiance avec Dieu, il décide de sa propre autorité ce qui est bien ou mal, et il nous éloigne de la présence du Seigneur. Ainsi, le mal sépare de Dieu et nous isole de lui. Le péché naît du rejet de l’autorité de Dieu et du refus de le reconnaître comme Créateur, à qui l’on est et doit rendre des comptes. La loi de Dieu est d’abord violée dans l’esprit, puis dans le comportement. L’idée de Genèse 3 est reprise par Paul dans le Nouveau Testament : « Tout ce qui ne provient pas d’une conviction de foi est péché » (Romains 14.23). La foi est une relation de confiance avec Dieu et la rupture de la foi est un péché (voir Malachie 2.10-11). Dieu a commenté le péché de Moïse de la même manière : « Vous n’avez pas eu assez confiance en moi pour respecter ma sainteté devant les Israélites » (Nombres 20.12). Le péché est donc un manque de confiance dans la bonté de Dieu et dans sa parole, le rejet de son autorité qui firent de nos premiers parents des pécheurs et amenèrent le monde à connaître le mal (a).</li>
+</ol>
+<p>&nbsp;</p>
+<p>La Bible présente d’autres définitions du péché, mais il s’agit en principe d’une élaboration et d’un approfondissement de la description précédente, construite sur la base de la théologie du péché présentée dans le récit de la chute.</p>
+<p>&nbsp;</p>
+<ol start="2">
+<li>La définition la plus connue du péché dans la Bible nous est donnée par l’apôtre Jean (enracinée dans Genèse 3) : « Le péché, c’est la violation de la loi » (1 Jean 3.4 ; le mot grec <i>anomia</i> signifie littéralement « anarchie »), un acte concret de désobéissance. C’est une action extérieure, le résultat visible d’une relation brisée, la conséquence d’une pensée erronée, l’effet d’une foi brisée et le produit d’un manque de confiance. La question de Dieu « Est-ce que tu as mangé du fruit de l’arbre dont je t’avais interdit de manger ? » (Genèse 3.11) révèle que la désobéissance est le résultat d’un manque de respect pour le commandement de Dieu. Ainsi, le péché est un défi, une arrogance, une rébellion contre Dieu et un rejet orgueilleux de sa Parole, de sa volonté et de son autorité. Ce concept a été très bien expliqué par Samuel à Saül, le premier roi d’Israël, après sa désobéissance : « L’obéissance vaut mieux que les sacrifices […]. La révolte est aussi coupable que la divination » (1 Samuel 15.22-23). Vivre dans le péché signifie vivre sans se concentrer sur Dieu et sans faire sa volonté.</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="3">
+<li>Le péché est un état dans lequel naît l’être humain. Cela se reflète déjà dans Genèse 5.1-3, où il est dit qu’Adam a été créé à l’image de Dieu, mais que Seth est né à l’image d’Adam, son père. La différence entre Adam créé à l’image de Dieu (voir Genèse 1) et Seth créé à l’image d’Adam (voir Genèse 5) s’explique par l’événement qui a provoqué ce changement : la chute dans le péché décrite dans Genèse 3. Après le péché d’Adam et d’Ève, notre nature humaine s’est corrompue et leurs descendants sont nés avec une nature pécheresse. David l’affirme clairement : « Depuis ma naissance, je suis coupable ; quand ma mère m’a conçu, j’étais déjà marqué par le péché » (Psaume 51.7). Dans le Psaume 58.3, David parle également de la mauvaise attitude des méchants vis-à-vis de Dieu : « Les méchants sont pervertis dès le ventre de leur mère, les menteurs s’égarent dès leur naissance ». Avant la repentance, tous nos habits sont tachés (voir Esaïe 64.5) ; avant la renaissance, nos cœurs sont tortueux et incurables (voir Jérémie 17.9). Le chemin semble droit à l’homme, mais il conduit à la mort (voir Proverbes 14.12). Nous ne pouvons pas changer notre nature, tout comme le léopard ne peut pas changer de peau et enlever ses taches (voir Jérémie 13.23). Sans exception, nous sommes tous pécheurs (voirEcclésiaste 7.20 ; Romains 3.23 ; 1 Jean 1.8). Nous craignons naturellement Dieu (voir Genèse 3.10) ; nous sommes nés éloignés de lui et morts dans nos péchés (voir Éphésiens 2.1.12,19) (b).</li>
+</ol>
+<p>&nbsp;</p>
+<p>L’apôtre Paul l’explique clairement dans Romains 7.15-20 lorsqu’il déclare que le péché réside dans notre nature humaine. Les êtres humains naissent avec une nature pécheresse et, par conséquent, naissent comme des pécheurs séparés de Dieu et ayant besoin d’être sauvés. En tant que pécheurs, nous aimons et engendrons le péché, et notre nature pécheresse est caractérisée par l’égoïsme, la tendance au mal et l’inclination au péché. La puissance du péché nous rend esclaves (voir Romains 5.6 ; 6.6-7,14 ; 7.25). Ce n’est pas seulement une partie de l’être humain qui a péché, mais toute la personne, de sorte que tout est affecté et corrompu par le péché.</p>
+<p>&nbsp;</p>
+<p>Jacques souligne la même vérité lorsqu’il explique que le péché commence par les désirs intérieurs de notre nature pécheresse, que ces désirs se trouvent en nous et que, lorsqu’ils sont cultivés, ils produisent le péché, la recherche du fruit défendu. Ces mauvais désirs ne sont pas encore des péchés (à moins qu’ils ne soient cultivés), mais lorsqu’on y cède, ils conduisent à de mauvaises actions et à la mort (voir Jacques 1.14-15). Nous sommes coupables lorsque nous jouons et nous associons à ces mauvais désirs.</p>
+<p>&nbsp;</p>
+<ol start="4">
+<li>Le péché est une négligence à faire le bien, une omission à faire ce qui est juste (voir Jacques 4.17). Il implique une attitude d’indifférence. Cette attitude peut également être appelée apathie ou tiédeur (voir Apocalypse 3.15-18). Le christianisme ne consiste pas seulement à ne pas faire de mauvaises choses (voir Jacques 1.27), car la vraie religion consiste à faire ce qui est bien, juste et profitable (voir Michée 6.8 ; Jean 5.29 ; Tite 3.8 ; Jacques 1.27 ; Philippiens 4.5-6). Le christianisme est une religion active. Le Dieu vivant est un Dieu d’action ; il veut donc des disciples proactifs. La connaissance de la vérité et la pratique de bonnes actions devraient toujours aller de pair (voir Galates 5.4 ; Jacques 1.27 ; 1 Pierre 2.9 ; Éphésiens 2.10).</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="5">
+<li>Le péché par excellence est de ne pas croire en Jésus-Christ, qui est la seule solution à notre état de pécheur (voir Jean 16.8-9). L’être humain ne peut pas s’aider lui-même, guérir son problème de péché ni soigner ses propres faiblesses. Le Christ est le seul et unique Sauveur du monde (voir Actes 4.12 ; 16.31 ; Romains 8.1 ; 1 Jean 5.12-13). Rejeter son sacrifice ultime pour nous, sa mort sur la croix, c’est comme se noyer dans l’océan et, lorsque les secours arrivent, refuser l’offre d’une bouée de sauvetage. Le péché est une incrédulité à l’égard de Jésus, un rejet de son action salvatrice en notre faveur, car il est le seul à pouvoir nous délivrer de l’esclavage du péché. Ne pas accepter Jésus comme Sauveur personnel et rester dans le péché est fatal (voir Proverbes 24.16 ; Jean 3.36).</li>
+</ol>
+<p>&nbsp;</p>
+<p>Ce n’est que lorsque nous comprenons la véritable nature du péché que nous pouvons mieux nous comprendre et nous connaître et admirer encore plus ce que Jésus a fait et fait pour nous, en nous et à travers nous. Le fait de réaliser que la solution au problème du péché a nécessité l’incarnation et la mort de Jésus-Christ (voir Genèse 3.15 ; Ésaïe 53.1-6 ; Jean 3.16 ; Romains 6.23 ; 2 Corinthiens 5.21) nous aide à voir la véritable et horrible nature du péché, avec sa gravité et sa profondeur. Dieu a dû quitter sa position au ciel, vivre en tant qu’être humain et passer par d’immenses souffrances et la mort pour nous sauver et nous délivrer de la puissance du péché. Cette solution était extrêmement coûteuse : la vie du Fils de Dieu, Jésus-Christ.</p>
+<p>&nbsp;</p>
+<p><b>Conclusion</b></p>
+<p>Là où le premier Adam a échoué, le second Adam a gagné (voir Romains 5.14-21 ; 1 Corinthiens 15.22,45-49). Ce que les êtres humains ont perdu dans le jardin d’Eden, le Christ est venu le restaurer sur la croix. Notre nouvelle identité véritable peut et doit être façonnée et construite sur la victoire remportée par Jésus-Christ (voir 2 Corinthiens 5.17). Dieu ne nous a pas abandonnés entre les mains de Satan et du péché : l’Esprit de Dieu apporte la victoire lorsque, par la foi, nous nous attachons à Dieu et à sa Parole, car seuls le Saint Esprit et la Parole de Dieu peuvent produire la vraie vie (voir Ézéchiel 36.25-27 ; Romains 8.4,14). La solution au péché implique non seulement le pardon, mais aussi le renouvellement et la restauration de l’image de Dieu, ainsi que la libération de l’esclavage et des dépendances au péché. La vie nouvelle est orientée vers la Parole et l’Esprit (voir Romains 8.2-6 ; Colossiens 3.1-4,10).</p>
+<p>&nbsp;</p>
+<p>Notre nature pécheresse ne change pas et ne disparaît pas à la suite d’une conversion ou d’une repentance. Cependant, notre nature pécheresse, nos tendances ou nos inclinations (héritées ou cultivées) peuvent être contrôlées par la puissance du Saint-Esprit, sa Parole et la grâce de Dieu (voir Romains 7.25 ; 8.1-11). Jusqu’au retour du Seigneur, nous conserverons notre nature pécheresse, et ce n’est qu’à ce moment-là que les croyants seront complètement transformés et recevront un corps incorruptible (voir 1 Corinthiens 15.50-57 ; Philippiens 3.20-21 ; 1 Jean 3.2-5). En attendant, nous pouvons faire pleinement confiance au Christ, qui nous délivre du péché.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ol>
+<li>Ellen G. White définit avec précision le premier péché d’Adam et Ève dans le jardin d’Éden comme « le manque de confiance dans la bonté de Dieu et dans sa parole, le rejet de son autorité qui firent de nos premiers parents des pécheurs et amenèrent le monde à connaître le mal » (<i>Éducation</i>, p. 29). La nature du péché est donc expliquée par le concept d’une relation rompue et d’un état d’esprit hostile à l’égard de Dieu.</li>
+<li>Seul Jésus est né « saint » (Luc 1.35) ; tous les êtres humains sont nés hostiles à Dieu (voir Romains 8.7) et morts dans leur péché (voir Psaume 51.5 ; Éphésiens 2.1-3).</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>De <b>Jiří Moskala</b><br />
+Source : <a title="https://adventistreview.org/magazine-article/of-the-nature-and-definitions-of-sin/" href="https://adventistreview.org/magazine-article/of-the-nature-and-definitions-of-sin/"><u>https://adventistreview.org/magazine-article/of-the-nature-and-definitions-of-sin/</u></a><br />
+Traduction : Tiziana Calà</p>
+
+				</div>
+			</section>
+
+			<!-- comment box -->
+			<section
+				class="comment-box">
+				<!-- comments -->
+				<div class="comments">
+											<h3 class="text-md/6 font-bold">
+							Commentaires
+						</h3>
+						<div class="comments">
+																		</div>
+
+											<!-- comment form -->
+						<div class="comment-form bg-white p-6 rounded-lg border border-gray-200 shadow-even">
+	<h3 class="text-lg font-semibold text-gray-800 mb-4">Ajouter un commentaire</h3>
+	<form class="comment-form space-y-4" method="post" action="https://adventistemagazine.com/wp-comments-post.php">
+					<div class="space-y-4">
+				<label class="block">
+					<span class="text-sm font-medium text-gray-700 mb-1 block">E-mail</span>
+					<input required name="email" type="email" id="email" class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-orange-500 transition-colors">
+				</label>
+				<label class="block">
+					<span class="text-sm font-medium text-gray-700 mb-1 block">Nom</span>
+					<input required name="author" type="text" class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-orange-500 transition-colors">
+				</label>
+			</div>
+				<label class="block">
+			<span class="text-sm font-medium text-gray-700 mb-1 block">Commentaire</span>
+			<textarea class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-orange-500 transition-colors resize-y min-h-[120px]" placeholder="Commencer à écrire..." name="comment" cols="60" rows="3"></textarea>
+		</label>
+		<input name="comment_post_ID" value="24616" type="hidden">
+		<input name="comment_parent" value="0" type="hidden">
+		<div class="flex gap-3 flex-wrap">
+			<button type="submit" name="Submit" class="btn px-4 py-2 bg-orange-600 text-white font-medium rounded-md hover:bg-orange-700 focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2 transition-colors">Envoyer</button>
+		</div>
+		<p class="text-xs text-gray-500 mt-3">Votre commentaire sera modéré par l'équipe du site si nécessaire.</p>
+	</form>
+</div>
+ </p>
+ </p>
+									</section>
+			</article>
+		</div>
+		<!-- /content-wrapper -->
+		</div>
+	</section>
+
+	<footer id="footer" class="bg-[#f9f8ee] py-10">
+		<div class="mx-auto container px-5">
+			<div class="flex flex-col sm:flex-row justify-between gap-5">
+	<div class="sm:w-1/4">
+		<img src="https://adventistemagazine.com/wp-content/uploads/2025/08/adv_mag-1.png" alt="Adventiste Magazine logo" class="site-logo-img w-[150px]"/>
+		<p class="text-sm text-gray-500 py-5">Adventiste Magazine (en français et en italien) est la revue officielle de la Fédération des Églises Adventistes du Septième jour de la Suisse romande et du Tessin, produite par le centre Espoir Médias, au service des croyants adventistes en Suisse et de la francophonie en général.</p>
+	</div>
+	<div class="sm:w-1/4">
+		<p class="font-bold text-xl text-gray-500 mb-2">CATÉGORIES</p>
+		<div class="w-[70px] h-[5px] bg-orange-500"></div>
+		<div class="text-sm text-gray-500 py-5">
+												<a href="https://adventistemagazine.com/category/actualite-en-suisse/" class="hover:text-orange-500">Suisse</a>
+											|
+														<a href="https://adventistemagazine.com/category/actualites-dans-le-monde/" class="hover:text-orange-500">Monde</a>
+											|
+														<a href="https://adventistemagazine.com/category/reflexions-spirituelles/" class="hover:text-orange-500">Réflexions Spirituelles</a>
+											|
+														<a href="https://adventistemagazine.com/category/sante/" class="hover:text-orange-500">Santé</a>
+											|
+														<a href="https://adventistemagazine.com/category/la-bible-repond/" class="hover:text-orange-500">La Bible répond</a>
+											|
+														<a href="https://adventistemagazine.com/category/croyances-fondamentales/" class="hover:text-orange-500">Croyances</a>
+											|
+														<a href="https://adventistemagazine.com/category/famille/" class="hover:text-orange-500">Famille</a>
+											|
+														<a href="https://adventistemagazine.com/category/jeunesse/" class="hover:text-orange-500">Jeunesse</a>
+											|
+														<a href="https://adventistemagazine.com/category/humanitaire/" class="hover:text-orange-500">Humanitaire</a>
+											|
+														<a href="https://adventistemagazine.com/category/temoignage/" class="hover:text-orange-500">Témoignage</a>
+											|
+														<a href="https://adventistemagazine.com/category/evangelisation/" class="hover:text-orange-500">Évangélisation</a>
+														</div>
+	</div>
+	<div class="sm:w-1/4 flex flex-col gap-5">
+					<a class="w-[300px] max-w-full" href="https://espoirmedias.ch/" target="_blank">
+				<img src="https://adventistemagazine.com/wp-content/uploads/2025/10/Logos-footer-EM.png"/>
+			</a>
+					<a class="w-[300px] max-w-full" href="https://www.espoirbible.ch/" target="_self">
+				<img src="https://adventistemagazine.com/wp-content/uploads/2025/10/Logos-footer-EB.png"/>
+			</a>
+					<a class="w-[300px] max-w-full" href="https://hoperadio.live" target="_blank">
+				<img src="https://adventistemagazine.com/wp-content/uploads/2025/10/Logos-footer-HR.png"/>
+			</a>
+					<a class="w-[300px] max-w-full" href="https://adventplay.tv/" target="_blank">
+				<img src="https://adventistemagazine.com/wp-content/uploads/2025/10/Logos-footer-AP.png"/>
+			</a>
+					<a class="w-[300px] max-w-full" href="https://www.adventiste.org/" target="_self">
+				<img src="https://adventistemagazine.com/wp-content/uploads/2025/10/Logos-footer-eglise-adv.png"/>
+			</a>
+			</div>
+</div>
+
+<!-- Copyright Notice -->
+<div class="mt-8 pt-5 border-t border-gray-300">
+	<p class="text-xs text-gray-500 mb-2">
+		Copyright © 2018-2026
+		Les articles publiés dans ADVENTISTE MAGAZINE n'engagent que leurs auteurs.
+	</p>
+	<!-- Footer Links Menu -->
+			<div class="flex flex-wrap gap-4 text-sm">
+							<a href="https://adventistemagazine.com/contact-2/" class="text-gray-500 hover:text-orange-500 transition-colors duration-200 uppercase font-semibold">
+					Contact
+				</a>
+									<span class="text-gray-400">|</span>
+											<a href="https://adventistemagazine.com/qui-sommes-nous/" class="text-gray-500 hover:text-orange-500 transition-colors duration-200 uppercase font-semibold">
+					Qui sommes-nous
+				</a>
+									<span class="text-gray-400">|</span>
+											<a href="https://adventistemagazine.com/politique-de-confidentialite/" class="text-gray-500 hover:text-orange-500 transition-colors duration-200 uppercase font-semibold">
+					Politique de confidentialité
+				</a>
+									</div>
+	</div>  
+ 
+	</p>
+ 
+	</p>
+		</div>
+	</footer>
+	<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/adventistemagazine/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://adventistemagazine.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://adventistemagazine.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://adventistemagazine.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.4" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-02-06 12:02:14+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"fr"},"This contact form is placed in the wrong place.":["Ce formulaire de contact est plac\u00e9 dans un mauvais endroit."],"Error:":["Erreur\u00a0:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+//# sourceURL=contact-form-7-js-translations
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/adventistemagazine.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://adventistemagazine.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.4" id="contact-form-7-js"></script>
+<script type="text/javascript" id="adventistemagazine-main-js-extra">
+/* <![CDATA[ */
+var adventisteSearchData = {"defaultCategory":"Cat\u00e9gorie","defaultAuthor":"Adventiste Magazine","defaultExcerpt":"Extrait de l'article...","writtenBy":"\u00c9crit par","searchInProgress":"Recherche en cours...","searchError":"Erreur lors de la recherche","noResultsFound":"Aucun r\u00e9sultat trouv\u00e9","startTypingToSearch":"Commencez \u00e0 taper pour rechercher des articles","currentLanguage":"fr"};
+var adventisteBlockData = {"siteUrl":"https://adventistemagazine.com","restUrl":"https://adventistemagazine.com/wp-json/","ajaxUrl":"https://adventistemagazine.com/wp-admin/admin-ajax.php"};
+//# sourceURL=adventistemagazine-main-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://adventistemagazine.com/wp-content/themes/adventistemagazine/scripts/index-min.js?ver=1758221925" id="adventistemagazine-main-js"></script>
+<script type="text/javascript" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js" id="ionicons-module-js"></script>
+<script type="text/javascript" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js" id="ionicons-nomodule-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://adventistemagazine.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://adventistemagazine.com/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+
+</body></body></html>
