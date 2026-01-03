@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="web/website.css">
+    <title>LAJ-PPE</title>
+</head>
+<body>
+    <nav aria-label="main navigation">
+        <a class="navbar-item" id="logo" href="/LAJ-PPE/">
+            PPE
+        </a>
+        <div>
+            <a class="navbar-link" href="/LAJ-PPE/">
+                Accueil
+            </a>
+            <a class="navbar-item" href="/LAJ-PPE/tech.html">
+                Démarche technique
+            </a>
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link" href="/LAJ-PPE/result.html">
+                    Résultats
+                </a>
+                <div class="navbar-dropdown">
+                    <a class="navbar-item" href="/LAJ-PPE/result.html?r=fr">
+                        Français
+                    </a>
+                    <a class="navbar-item" href="/LAJ-PPE/result.html?r=jp">
+                        Japonais
+                    </a>
+                    <a class="navbar-item" href="/LAJ-PPE/result.html?r=pl">
+                        Polonais
+                    </a>
+                </div>
+            </div>
+            <a class="navbar-item" href="/LAJ-PPE/analyse.html">
+                Conclusion et analyse
+            </a>
+        </div>
+    </nav>
+
+    <section>
+        <div class="jumbotron ">
+            <div class="message-header">
+                <h1>Division du travail</h1>
+            </div>
+            <div class="message-body">
+                Afin de travailler de manière efficace, nous avons divisé le travail en plusieurs sous-parties. Nous avons, dans un premier temps, 
+                établi une liste complète des tâches devant être réalisées. Pendant qu'une personne poursuivait le travail déjà entamé sur les 
+                tâches de scraping, et notamment les différents problèmes d'encodage et la gestion des fichiers robot.txt, 
+                une autre développait un script de nettoyage des textes, tandis que la dernière s'occupait de la création du site web, tant pour 
+                la partie HTML que pour le CSS. Par la suite, nous avons conjointement complété la page web avec les différents textes descriptifs. 
+                Afin de rendre le site internet plus attrayant, l’ensemble des membres du groupe a cherché les différentes images servant 
+                à illustrer les propos du site. Le concordancier, ainsi que le script servant à trouver les contextes dans lesquels le mot <em>péché</em> 
+                apparaissait dans nos corpus, ont été créés à partir d’un petit script de comptage d’occurence, et c’est à ce moment là que le tableau 
+                des résultats a également été rendu exploitable. Le script de scraping crée en début du mois a été transformé ensuite en script maître, 
+                servant à lancer l’ensemble des autres scripts faisant partie de notre projet. Les nuages de mots ont été créés individuellement, chaque membre du groupe s’occupant de sa 
+                langue de prédilection. Enfin, l’analyse des différents résultats obtenus et les calculs de probabilités ont été le fruit d’une réflexion commune.
+            </div>
+        </div>
+    </section>
+    
+    <section>
+        <div class="jumbotron ">
+            <div class="message-header">
+                <h1>Création de corpus :</h1>
+            </div>
+            <div class="message-body">
+                La première étape qui a été réalisée a été la création de corpus. Afin de ne pas se restreindre qu’au thème de la religion, nous avons cherché 
+                tous les thèmes pouvant nous aider à diversifier nos sites Internet. Nous avons trouvé des sites parlant d’éthique, de théologie (catholique, mais pas uniquement), 
+                d’art, de littérature, de maladie psychique, de culture populaire. 
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="jumbotron ">
+            <div class="message-header">
+                <h1>Scrapping :</h1>
+            </div>
+            <div class="message-body">
+                Le script de scraping, destiné à être le script maître mettant en oeuvre tous les autres scripts du projet, a été créer peu après. 
+                En se basant sur des travaux réalisés précédemment dans le cadre de notre cours, il a été amélioré et rendu plus spécifique aux besoins du projet. 
+                Certains passages superflus (par exemple, la vérification que chaque ligne contient bel et bien une URL) ont été supprimé afin de privilégier 
+                un code court et clair. Nous nous sommes permis cett ommision étant donné que les corpus sur lesquels nous avons travaillés ont été créés par 
+                nous-même, l’étape de vérification n'était donc pas nécessaire. Ce script a eu pour objectif de sélectionner les liens contenus dans les trois corpus, 
+                 les afficher dans un tableau HTML tout en les numérotant et afficher différentes informations à leur sujet, tels que le code requête, l’encodage, 
+                le nombre de mots, ou encore les autorisation robot.txt. Ce tableau nous permet également d’accéder aux différentes pages d’aspirations, de dump, et de concordanciers. 
+                Un problème majeur ayant été rencontré était l’encodage et les différentes manière dont il pouvait être affiché.
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="jumbotron ">
+            <div class="message-header">
+                <h1>Fichiers robot.txt :</h1>
+            </div>
+            <div class="message-body">
+                Afin de traiter les différentes autorisations accordées par les sites faisant partie de nos corpus, nous avons dû développer un script gérant les fichier robot.txt. Pour chaque site, 
+                le nom de domaine 
+                a été récupéré grâce à une commande sed, à laquelle nous avons ajouté l’adresse du fichier robot.txt afin de pouvoir le télécharger grâce à la commande 
+                cURL. La suite du script parcours le bloc ”User-agent”, et y récupère les différentes directives. Celles interdisant l’accès ont été stockées dans un 
+                fichier ”url_blacklist”. De plus, afin de ne pas devoir traiter plusieurs fois le même fichier robot.txt, présent notamment lorsqu’un nom de domaine 
+                est présent plusieurs fois dans nos corpus, un fichier temporaire contenant les noms de domaines déjà traité a été créer, afin d’écarter automatiquement 
+                les fichiers déjà traités.  
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="jumbotron ">
+            <div class="message-header">
+                <h1>PALS :</h1>
+            </div>
+            <div class="message-body">
+                L'objectif des scripts PALS est de mieux comprendre l'environnement sémantique du mot que nous souhaitons étudier. 
+                Dans un premier temps, nous avons développé un script qui transforme les données que nous souhaitons traiter 
+                en données exploitables par les scripts PALS. Cela passe notamment par une étape de tokenisation. Afin de l'effectuer 
+                dans de bonnes conditions, nous avons décidés d'utiliser un environnement virtuel afin d'y télécharger des modules Pythons
+                tels que NLTK. Ces manipulations nous permettent de lancer les scripts PALS, avant de pouvoir analyser leurs résultats. 
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="jumbotron ">
+            <div class="message-header">
+                <h1>Création du site :</h1>
+            </div>
+            <div class="message-body">
+                Lors de la création du site, nous avons décidé d'utiliser du CSS pur, afin de privilégier un rendu épuré et une plus grande liberté de mise en forme. Afin d’éviter 
+                la répétition des balises HTML dans les scripts Bash que nous avons crées, ce qui aurait mené à écrire des script très longs et complexes à lire, nous avons opté 
+                pour une séparation entre la structure du site et ses informations. Les tableaux contenant les informations extraites des sites de nos corpus ont été placés 
+                dans des fichiers HTML distincts, chacun contenant les balises < table >. Par la suite, ces fichiers ont été intégrés de manière dynamique à la page principale. 
+                Cette intégration dynamique a nécessité un script JavaScript, ce qui fait qu'il est donc sensiblement similaire à celui de W3C. 
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="jumbotron ">
+            <div class="message-header">
+                <h1>Nettoyage de texte :</h1>
+            </div>
+            <div class="message-body">
+                Le but du script de nettoyage était de sélectionner les textes précédemment recueillis par le script de scraping, stockés dans le dossier ”dumps-text”, et de 
+                les traiter tout en supprimant les différents éléments superflus (par exemple, les lignes de séparation, ou bien les mots tels que ”publicité,” ”(bouton)”, 
+                ”cliquez ici”), afin de les enregistrer dans un nouveau dossier. Lors du nettoyage des textes, l’une des difficultés les plus notables a été de trouver les 
+                éléments qui devaient être nécessairement supprimés, de sorte à avoir un texte nettoyé, tout en évitant d’effacer des passages issus des sites internet. Des 
+                concessions ont dû être faites, et tous les éléments gênants n’ont pas forcément pu être enlevés, comme par exemple les titres des menus déroulants. En effet, 
+                les mots clés qu’ils contenaient étaient des mots communs et étaient susceptibles de revenir dans le corps des textes. Une autre difficulté rencontrée lors de 
+                la création de ce script, était le fait que les fichiers ne se numérotaient pas dans le même ordre que les fichiers du dossier dumps-text. Ce problème a été 
+                résolu en ajoutant une étape de tri lors de la sélection des fichiers du dossier : (ls dumps-text | sort -t- -k2 -n)  
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="jumbotron ">
+            <div class="message-header">
+                <h1>Contexte et concordancier :</h1>
+            </div>
+            <div class="message-body">
+                Afin d’observer les mots entourant le mot <em>péché</em>, et mieux comprendre les contextes dans lequel il apparait, un premier script de récupération de contexte 
+                a été développé. L’objectif de ce script était d’extraire le mot que nous étudions dans les trois corpus, ainsi que les quelques mots le précédent et le suivant. 
+                Le résultat de cette extraction a été stocké dans un fichier texte. Le concordancier, qui prend la forme d’un tableau HTML, a été créer à la suite de ce script, 
+                et s’est basé sur les fichiers textes qui ont été générés auparavant. Lors de la création du concordancier, un défi notable qui a été rencontré a été la segmentation 
+                des phrases lorsque le mot <em>péché</em> apparaissait plusieurs fois au cours d’une même phrase. Afin de résoudre ce problème, nous avons choisi d’extraire en 
+                premier lieu la phrase complète, puis de traiter l’occurrence suivante en débutant son extraction directement à la suite de la première occurrence. 
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>
