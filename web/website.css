@@ -74,6 +74,10 @@ section#array {
     max-width: 1000px;
 }
 
+section#concordancier {
+    max-width: 1200px;
+}
+
 .message-header h1 {
     font-size: 0.75rem;
     text-transform: uppercase;
@@ -165,3 +169,11 @@ td a:hover {
     border-bottom: 1px solid #000;
 }
 
+#concordancier th:nth-child(2), #concordancier td:nth-child(2) {
+    color: red;
+    width: max-content;
+}
+
+#concordancier th:nth-child(1), #concordancier td:nth-child(1) {
+    text-align: end
+}
