@@ -3,7 +3,7 @@ HTTP/2 200 x-pingback: https://adventistemagazine.com/xmlrpc.php link:
 /adventistemagazine.com/wp-json/wp/v2/posts/24616>; rel="alternate";
 title="JSON"; type="application/json", /adventistemagazine.com/?p=24616>;
 rel=shortlink vary: Accept-Encoding content-type: text/html; charset=UTF-8 date:
-Sat, 03 Jan 2026 16:43:34 GMT server: Apache #Adventiste Magazine » Flux
+Sun, 04 Jan 2026 15:07:18 GMT server: Apache #Adventiste Magazine » Flux
 Adventiste Magazine » Flux des commentaires Adventiste Magazine » La
 compréhension biblique de la nature et des définitions du péché Flux des
 commentaires oEmbed (JSON) oEmbed (XML) JSON

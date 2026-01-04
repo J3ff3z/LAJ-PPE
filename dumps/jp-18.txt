@@ -1,9 +1,10 @@
 HTTP/2 200 content-type: text/html; charset=utf-8 content-length: 394896 date:
 Sat, 03 Jan 2026 16:40:59 GMT x-nextjs-cache: STALE cache-control: s-maxage=60,
 stale-while-revalidate=31535940 x-powered-by: Next.js etag: "81mcl1sgeo6ldk"
-vary: Accept-Encoding x-cache: Miss from cloudfront via: 1.1
-6beaa79c12bdbcf78ace6dc81300f576.cloudfront.net (CloudFront) x-amz-cf-pop:
-CDG55-P3 x-amz-cf-id: g8sIvFfFATCjXmQd-yH_B_arbqVJaprfuxcfwC8BKlZoz7DWKGjP9A==
+vary: Accept-Encoding x-cache: Hit from cloudfront via: 1.1
+02ac1216b838d44469fe3a8da2e75892.cloudfront.net (CloudFront) x-amz-cf-pop:
+CDG55-P3 x-amz-cf-id: Qz4c1N-BsZ-eY0NiRsZ3pAIDHMP4ssnFtoQiEzQEvy79dDdj9Jw4rA==
+age: 80475
 
 IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-FVTJS5B
 

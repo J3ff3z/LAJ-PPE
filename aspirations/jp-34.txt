@@ -1,9 +1,9 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:42:16 GMT
+date: Sun, 04 Jan 2026 15:04:34 GMT
 content-type: text/html; charset=UTF-8
 server: nginx
 x-powered-by: PHP/7.1.33
-set-cookie: xbg_s=fb3aced3e5c171127a73efbd1757de27; path=/; domain=.exblog.jp
+set-cookie: xbg_s=f1c547d27c60e3d4cc10fdd4b781643e; path=/; domain=.exblog.jp
 expires: Thu, 19 Nov 1981 08:52:00 GMT
 cache-control: no-store, no-cache, must-revalidate
 pragma: no-cache
@@ -696,16 +696,16 @@ div.BLOGPARTS > div {
       <td>
         <div class="hs_words" style="font-size: 1em; line-height: 1.3em;">
           <ul style="list-style-type: none; margin: 0; padding: 0;">
-                          <li style="margin: 4px;">1 <a href="https://www.exblog.jp/genre/interest/school/">スクール・セミナー</a></li>
-                          <li style="margin: 4px;">2 <a href="https://www.exblog.jp/genre/education/chinese/">中国語</a></li>
-                          <li style="margin: 4px;">3 <a href="https://www.exblog.jp/genre/society/news/">時事・ニュース</a></li>
-                          <li style="margin: 4px;">4 <a href="https://www.exblog.jp/genre/group/festival/">イベント・祭り</a></li>
-                          <li style="margin: 4px;">5 <a href="https://www.exblog.jp/genre/education/ideological/">哲学・思想</a></li>
-                          <li style="margin: 4px;">6 <a href="https://www.exblog.jp/genre/education/science/">科学</a></li>
-                          <li style="margin: 4px;">7 <a href="https://www.exblog.jp/genre/education/english/">英語</a></li>
-                          <li style="margin: 4px;">8 <a href="https://www.exblog.jp/genre/interest/japanese-chess/">将棋</a></li>
-                          <li style="margin: 4px;">9 <a href="https://www.exblog.jp/genre/health/mental/">メンタル</a></li>
-                          <li style="margin: 4px;">10 <a href="https://www.exblog.jp/genre/society/real-estate/">不動産</a></li>
+                          <li style="margin: 4px;">1 <a href="https://www.exblog.jp/genre/health/nurse/">介護</a></li>
+                          <li style="margin: 4px;">2 <a href="https://www.exblog.jp/genre/interest/spiritual/">スピリチュアル</a></li>
+                          <li style="margin: 4px;">3 <a href="https://www.exblog.jp/genre/society/business/">経営・ビジネス</a></li>
+                          <li style="margin: 4px;">4 <a href="https://www.exblog.jp/genre/society/real-estate/">不動産</a></li>
+                          <li style="margin: 4px;">5 <a href="https://www.exblog.jp/genre/health/mental/">メンタル</a></li>
+                          <li style="margin: 4px;">6 <a href="https://www.exblog.jp/genre/interest/game/">ゲーム</a></li>
+                          <li style="margin: 4px;">7 <a href="https://www.exblog.jp/genre/interest/horse-racing/">競馬・ギャンブル</a></li>
+                          <li style="margin: 4px;">8 <a href="https://www.exblog.jp/genre/society/news/">時事・ニュース</a></li>
+                          <li style="margin: 4px;">9 <a href="https://www.exblog.jp/genre/society/american-stock/">米国株</a></li>
+                          <li style="margin: 4px;">10 <a href="https://www.exblog.jp/genre/group/festival/">イベント・祭り</a></li>
                       </ul>
         </div>
       </td>

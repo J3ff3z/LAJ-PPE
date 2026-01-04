@@ -1,9 +1,9 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:42:52 GMT content-type: text/html;
+HTTP/2 200 date: Sun, 04 Jan 2026 15:05:46 GMT content-type: text/html;
 charset=UTF-8 vary: Accept-Encoding link: /kojiki.ys-ray.com/wp-json/>;
 rel="https://api.w.org/", /kojiki.ys-ray.com/wp-json/wp/v2/posts/330>;
 rel="alternate"; type="application/json", /kojiki.ys-ray.com/?p=330>;
-rel=shortlink x-cache-status: HIT x-ua-device: pc #古事記・現代語訳と注釈〜日本神話、神社、古代史、古語 »
-フィード alternate alternate alternate
+rel=shortlink set-cookie: pv330=1767539146; path=/ x-cache-status: MISS
+x-ua-device: pc #古事記・現代語訳と注釈〜日本神話、神社、古代史、古語 » フィード alternate alternate alternate
 
 古事記・現代語訳と注釈〜日本神話、神社、古代史、古語
 

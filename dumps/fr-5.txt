@@ -1,9 +1,9 @@
-HTTP/1.1 200 OK Date: Sat, 03 Jan 2026 16:43:22 GMT Content-Type: text/html
-Content-Length: 78242 Connection: keep-alive Keep-Alive: timeout=5 Vary:
+HTTP/1.1 200 OK Date: Sun, 04 Jan 2026 15:06:55 GMT Content-Type: text/html
+Content-Length: 78497 Connection: keep-alive Keep-Alive: timeout=5 Vary:
 Accept-Encoding Cache-Control: no-store, no-cache, must-revalidate,
 post-check=0, pre-check=0 X-Powered-By: PHP/5.6.40 Set-Cookie:
-PHPSESSID=uq3128b2585n8d1nm3l0osfag1; path=/ Set-Cookie:
-ISLAMWEB_VISITOR_FONT_SELECT=1; expires=Mon, 02-Feb-2026 16:43:22 GMT;
+PHPSESSID=v30e5coqim2skhrdt3p5derug3; path=/ Set-Cookie:
+ISLAMWEB_VISITOR_FONT_SELECT=1; expires=Tue, 03-Feb-2026 15:06:55 GMT;
 Max-Age=2592000; path=/; domain=.islamweb.net Server: nginx
 
   * English
@@ -129,111 +129,116 @@ Eg: "Quran Recitation"
 
 Le plus lu aujourdhui
 
-  * 14
- Donner des intérêts bancaires à une proche dans le besoin
   * 13
  Validité des jours de jeûne dits jours blancs
-  * 11
- Visite des tombes et invocations à dire à cette occasion
-  * 9
- Les règles du rapport sexuel
   * 8
- La masturbation annule le jeûne
-  * 7
- Saluer une personne occupée à manger
-  * 7
- Fêter les anniversaires
-  * 7
- Rêver de personnes décédées
-  * 7
- Souhaiter de bonnes fêtes aux non-musulmans
+ Donner des intérêts bancaires à une proche dans le besoin
   * 6
- Liquide pré-éjaculatoire et sperme
-  * 6
- Existe-t-il une quelconque preuve dans le Coran qu'il y a une vie sur Mars ?
-  * 6
- Dépenser tout son patrimoine ou en laisser une part pour les héritiers
-  * 6
- Quelle est la priorité : payer la zakat due ou rembourser un crédit usuraire ?
-  * 6
- Invocations qui peuvent aider à sortir dune situation difficile
+ Déflorer une fille hors mariage
   * 5
- Quelles sont les prières que nous faisons en faveur du Prophète ?
+ Les règles du rapport sexuel
   * 5
- Le mouvement du soleil et sa rotation
-  * 5
- Comment se purifier après une sécrétion de Madhy ?
-  * 5
- Chaque nuit il y a une heure durant laquelle Allah exauce
-  * 5
- Il est interdit daffirmer quune personne en particulier ira en Enfer
-  * 5
- Sa femme a eu ses règles au cours de leur rapport sexuel
-  * 5
- Début et fin du temps imparti de la prière de Douha
-  * 5
- Rattraper vingt ans de Ramadan non jeûné
-  * 5
- Lire la Basmala avant la lecture de sourate Al-Tawba
-  * 5
- La récompense du jeûne des trois jours par mois s'obtient en les jeûnant à
-n'importe quel moment du mois
-  * 5
- Que désigne le "Sâmirî" dans le Coran ?
-  * 5
- La roqya légale
-  * 4
- La FIV et les embryons congelés
-  * 4
- Donner une partie de la zakat à son enfant
-  * 4
- La mort, lagonie et...
-  * 4
- Compléter sa prière lorsque lon arrive en retard
-  * 4
- La prière d'Al-Fadjr et celle d'As-Sobh.
-  * 4
- Les signes et symptômes de celui qui est victime de lenvie et de celui qui est
-touché par le mauvais il ainsi que la manière de soigner ces maux.
-  * 4
- Lessuyage des oreilles au cours des ablutions
-  * 4
- Hadiths et invocations relatifs au bâillement et à léternuement
-  * 4
- La femme qui sest purifiée de son état de menstrues après la Salat de l`Asr
-  * 4
- La masturbation nécessite le Ghousl
-  * 4
- Explication du verset : « Des fruits, des palmiers et des vignes, vous retirez
-une boisson enivrante [...] »
-  * 4
- Détails relatifs au Sujûd al-Sahw (prosternation de loubli)
-  * 4
- Sens voulu de la lumière qui apparaît lors de la lecture de la Sourate Al-Kahf
-le vendredi ou la veille du vendredi
-  * 4
- Prière du Chourouq et mari pratiquant la double religion
-  * 4
- Quelle est la meilleure manière de me débarrasser des intérêts usuraires ?
-  * 4
  Rattrapage des prières manquées
   * 4
- Prière du voyageur
+ Femme éprouvée par un mari qui ne se soucie pas de son avis
   * 4
- Le Wali est une exigence pour la légitimité du mariage.
+ Authenticité du hadith : « Celui qui dit cent fois dans la journée : "Lâ ilâha
+ill-Allahu..."»
   * 4
- Histoire des dépôts dans la jurisprudence islamique ?
+ Une femme qui fait une fausse couche pendant le mois de Ramadan peut-elle
+rompre le jeûne ?
   * 4
- Il est permis de tuer toute bête nuisible
+ Les invocations que le Prophète (Salla Allahou Alaihi wa Sallam) aimait faire
+quotidiennement
   * 4
- Qu'en est-il des trois Rois Mages ?
+ Divorcée civilement mais mariée religieusement
   * 4
- Gog et Magog, Yadjoudj wa Madjoudj
+ Les moments où la Salât surérogatoire est interdite
   * 4
- Quelle est la signification du verset « frappez-les »
-  * 4
- La condition de validité d'un jeûne surérogatoire dont l'intention est émise
-durant la journée est de ne pas avoir mangé quoique ce soit avant.
+ Femme assiste aux funérailles
+  * 3
+ Choisir une personne qui rapproche dAllah, exalté soit-Il
+  * 3
+ Les prières surérogatoires après la prière du 'Ichâ'
+  * 3
+ Celui qui jeûne en dehors du mois de Ramadan et qui se masturbe doit-il
+sacquitter de son jeûne ?
+  * 3
+ Faire deux invocations contradictoires
+  * 3
+ Temps de l'invocation (Du'a) de la rupture du jeûne
+  * 3
+ Les hommes qui ne peuvent pas diriger la prière
+  * 3
+ Est-il autorisé d'enlever un grain de beauté du visage de son enfant pour lui
+éviter les moqueries ?
+  * 3
+ La fornication nempêche pas le mariage de continuer
+  * 3
+ Quitter un pays musulman pour un pays non musulman afin daider sa mère
+  * 3
+ Rêver de personnes décédées
+  * 3
+ Lexégèse du verset : « Nous avons créé des os et Nous avons revêtu les os de
+chair »
+  * 2
+ Questions autour de la Zakat et du nisâb
+  * 2
+ Limamat de la femme
+  * 2
+ Comment concilier le hadith « Jamais ne réussira un peuple qui confie la
+gestion de ses affaires à une femme. » avec l'histoire de la reine de Saba ?
+  * 2
+ Une mère peut-elle disposer librement de l'argent de son fils ?
+  * 2
+ Liquide pré-éjaculatoire et sperme
+  * 2
+ Que signifie un noircissement de la peau ?
+  * 2
+ Prénoms interdits en islam ?
+  * 2
+ Prier assis durant un voyage
+  * 2
+ Avis des diverses écoles juridiques concernant le nombre de moutons à sacrifier
+pour la 'Aqîqa
+  * 2
+ Faiblesse de la foi : que faire et quelle est la place de la prière et des
+invocations ?
+  * 2
+ Les termes de la salutation finale de la prière selon les écoles juridiques
+  * 2
+ Se contenter de dire "Salam" quand on salue
+  * 2
+ Que doit faire celui qui est incapable de mémoriser la Fâtiha ?
+  * 2
+ Lâge du monde
+  * 2
+ Les signes et symptômes de celui qui est victime de lenvie et de celui qui est
+touché par le mauvais il ainsi que la manière de soigner ces maux.
+  * 2
+ Coupe de cheveux en dégradé
+  * 2
+ Qui peut servir de tuteur matrimonial à une convertie sans mahram ?
+  * 2
+ Voir les morts
+  * 2
+ Jugement de la prière du Maʼmoum masculin, qui prie seul derrière l'imam
+  * 2
+ Conseils à celui qui a fréquenté des athées et douté de l'existence de Dieu
+  * 2
+ Un homme ne peut pas répudier une femme qui nest pas son épouse
+  * 2
+ La connaissance vient avant les paroles et les actes
+  * 2
+ Partage d'un héritage entre épouses et enfants
+  * 2
+ La masturbation annule le jeûne
+  * 2
+ Devenir des animaux le Jour de la Résurrection
+  * 2
+ Ses rêves prémonitoires l'inquiètent
+  * 2
+ Quelle est l'histiore des deux anges de Hârût et Mârût ?
 
 Islamweb
 

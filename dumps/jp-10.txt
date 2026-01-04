@@ -1,7 +1,7 @@
 HTTP/2 200 content-type: text/html; charset=UTF-8 link: /kotoba.click/wp-json/>;
 rel="https://api.w.org/" link: /kotoba.click/wp-json/wp/v2/posts/2158>;
 rel="alternate"; title="JSON"; type="application/json" link:
-/kotoba.click/?p=2158>; rel=shortlink date: Sat, 03 Jan 2026 16:38:58 GMT
+/kotoba.click/?p=2158>; rel=shortlink date: Sun, 04 Jan 2026 16:16:17 GMT
 server: LiteSpeed alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000,
 h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443";
 ma=2592000, quic=":443"; ma=2592000; v="43,46" #next 知識の書庫 » フィード 知識の書庫 »
@@ -10,7 +10,7 @@ ma=2592000, quic=":443"; ma=2592000; v="43,46" #next 知識の書庫 » フィ�
 kotoba.click logo
 
 知識の書庫
-カテゴリー[カテゴリーを選択___�ーを選択...]
+カテゴリー[カテゴリーを選択___ーを選択...]
 
 七つの大罪（とその意味）
 

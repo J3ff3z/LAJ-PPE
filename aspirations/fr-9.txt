@@ -1,5 +1,5 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:43:32 GMT
+date: Sun, 04 Jan 2026 15:07:13 GMT
 content-type: text/html; charset=UTF-8
 vary: Accept-Encoding
 link: <https://www.centre-al-forqane.be/wp-json/>; rel="https://api.w.org/", <https://www.centre-al-forqane.be/wp-json/wp/v2/posts/529>; rel="alternate"; type="application/json", <https://www.centre-al-forqane.be/?p=529>; rel=shortlink
@@ -326,14 +326,14 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </article>
 </div></section><section id="block-6" class="widget widget_block"><style>.wp-block-kadence-advancedheading.kt-adv-heading41f6b7-3e, .wp-block-kadence-advancedheading.kt-adv-heading41f6b7-3e[data-kb-block="kb-adv-heading41f6b7-3e"]{font-style:normal;}.wp-block-kadence-advancedheading.kt-adv-heading41f6b7-3e mark, .wp-block-kadence-advancedheading.kt-adv-heading41f6b7-3e[data-kb-block="kb-adv-heading41f6b7-3e"] mark{font-style:normal;color:#f76a0c;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}</style>
 <h2 class="kt-adv-heading41f6b7-3e wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading41f6b7-3e">Articles récents</h2>
-</section><section id="block-5" class="widget widget_block widget_recent_entries"><ul class="wp-block-latest-posts__list has-dates wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="https://www.centre-al-forqane.be/comment-lislam-a-reduit-mes-peurs">Comment l’Islam a réduit mes peurs</a><time datetime="2026-01-03T06:29:51+01:00" class="wp-block-latest-posts__post-date">3 janvier 2026</time></li>
+</section><section id="block-5" class="widget widget_block widget_recent_entries"><ul class="wp-block-latest-posts__list has-dates wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="https://www.centre-al-forqane.be/voici-comment-les-medias-sociaux-affectent-notre-estime-de-soi">Voici comment les médias sociaux affectent notre estime de soi</a><time datetime="2026-01-04T06:29:45+01:00" class="wp-block-latest-posts__post-date">4 janvier 2026</time></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://www.centre-al-forqane.be/5-avantages-des-prieres-nawafil">5 avantages des prières Nawafil</a><time datetime="2026-01-04T00:29:49+01:00" class="wp-block-latest-posts__post-date">4 janvier 2026</time></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://www.centre-al-forqane.be/des-parents-en-colere-me-maudissent-toujours">Des parents en colère me maudissent toujours !</a><time datetime="2026-01-03T20:29:37+01:00" class="wp-block-latest-posts__post-date">3 janvier 2026</time></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://www.centre-al-forqane.be/comment-lislam-a-reduit-mes-peurs">Comment l’Islam a réduit mes peurs</a><time datetime="2026-01-03T06:29:51+01:00" class="wp-block-latest-posts__post-date">3 janvier 2026</time></li>
 <li><a class="wp-block-latest-posts__post-title" href="https://www.centre-al-forqane.be/etes-vous-victime-de-violence-spirituelle">Êtes-vous victime de violence spirituelle ?</a><time datetime="2026-01-02T12:29:46+01:00" class="wp-block-latest-posts__post-date">2 janvier 2026</time></li>
 <li><a class="wp-block-latest-posts__post-title" href="https://www.centre-al-forqane.be/comment-commencer-a-changer-ma-vie">Comment commencer à changer ma vie ?</a><time datetime="2026-01-02T10:29:49+01:00" class="wp-block-latest-posts__post-date">2 janvier 2026</time></li>
 <li><a class="wp-block-latest-posts__post-title" href="https://www.centre-al-forqane.be/un-couple-nouvellement-marie-nous-avons-du-mal-avec-lintimite">Un couple nouvellement marié : nous avons du mal avec l&#39;intimité</a><time datetime="2026-01-02T08:29:43+01:00" class="wp-block-latest-posts__post-date">2 janvier 2026</time></li>
 <li><a class="wp-block-latest-posts__post-title" href="https://www.centre-al-forqane.be/comment-la-charia-elimine-les-difficultes-de-la-loi-islamique">Comment la charia élimine les difficultés de la loi islamique</a><time datetime="2026-01-02T04:29:47+01:00" class="wp-block-latest-posts__post-date">2 janvier 2026</time></li>
-<li><a class="wp-block-latest-posts__post-title" href="https://www.centre-al-forqane.be/recompense-du-jeune-a-rajab-quest-ce-qui-est-vraiment-prouve">Récompense du jeûne à Rajab : qu’est-ce qui est vraiment prouvé ?</a><time datetime="2026-01-02T02:29:33+01:00" class="wp-block-latest-posts__post-date">2 janvier 2026</time></li>
-<li><a class="wp-block-latest-posts__post-title" href="https://www.centre-al-forqane.be/quels-que-soient-vos-desirs-profitez-eternellement-de-jannah">Quels que soient vos désirs : profitez éternellement de Jannah</a><time datetime="2026-01-02T00:29:46+01:00" class="wp-block-latest-posts__post-date">2 janvier 2026</time></li>
-<li><a class="wp-block-latest-posts__post-title" href="https://www.centre-al-forqane.be/nouvel-an-sans-alcoolisme">Nouvel An sans alcoolisme</a><time datetime="2026-01-01T20:29:55+01:00" class="wp-block-latest-posts__post-date">1 janvier 2026</time></li>
 </ul></section>	</div>
 </aside><!-- #secondary -->
 	</div>
@@ -407,7 +407,7 @@ var kadenceConfig = {"screenReader":{"expand":"Child menu","expandOf":"Child men
 </body>
 </html>
 
-<!-- Dynamic page generated in 0.357 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2026-01-03 17:43:32 -->
+<!-- Dynamic page generated in 0.235 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2026-01-04 16:07:13 -->
 
 <!-- super cache -->

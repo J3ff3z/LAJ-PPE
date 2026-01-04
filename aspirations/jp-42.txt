@@ -1,8 +1,8 @@
 HTTP/1.1 200 OK
-Date: Sat, 03 Jan 2026 16:42:43 GMT
+Date: Sun, 04 Jan 2026 15:05:26 GMT
 Server: Apache
-Set-Cookie: ks2=0tu7kad2z0ed; expires=Sun, 03-Jan-2027 16:42:43 GMT; Max-Age=31536000; path=/; domain=syosetu.com; secure
-Set-Cookie: nlist1=13vxo.3; expires=Sun, 03-Jan-2027 16:42:43 GMT; Max-Age=31536000; path=/; domain=syosetu.com; secure
+Set-Cookie: ks2=ncd0crmxca91; expires=Mon, 04-Jan-2027 15:05:26 GMT; Max-Age=31536000; path=/; domain=syosetu.com; secure
+Set-Cookie: nlist1=13vxo.3; expires=Mon, 04-Jan-2027 15:05:26 GMT; Max-Age=31536000; path=/; domain=syosetu.com; secure
 Vary: Accept-Encoding
 Connection: close
 Transfer-Encoding: chunked
@@ -129,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="c-menu__item c-menu__item--bookmark">
 <span class="c-bookmark-button c-bookmark-button--disabled">ブックマークに追加</span>
 
-<input type="hidden" class="js-bookmark_url" value="https://syosetu.com/favnovelmain/addajax/favncode/1860972/no/3/?token=63ca897899e8c8de0e7544fc01ec9110">
+<input type="hidden" class="js-bookmark_url" value="https://syosetu.com/favnovelmain/addajax/favncode/1860972/no/3/?token=a6b17e2687f1b3498210eb944b41c123">
 </div>
 
 </nav>
@@ -368,11 +368,11 @@ window.gnshbrequest.applyPassback("1511277", "[data-cptid='1511277']");
 
 <div class="p-reaction" id="nav-reaction">
 <div class="p-reaction__body">
-<div class="js-reactionepisode_change p-reaction__emoticon is-empty js-reaction_emoticon" data-url="https://novelcom.syosetu.com/reactionepisode/registerapi/ncode/1860972/noveldataid/17760883/" data-token="63ca897899e8c8de0e7544fc01ec9110" data-reactionid="1" data-islogin=""><img src="https://images.hinaproject.com/reaction/e5b6cba419310e8ff7bad5ff8a88eca65e495de6.png"><span class="p-reaction__count js-reaction_count" data-count=0>0</span></div>
-<div class="js-reactionepisode_change p-reaction__emoticon is-empty js-reaction_emoticon" data-url="https://novelcom.syosetu.com/reactionepisode/registerapi/ncode/1860972/noveldataid/17760883/" data-token="63ca897899e8c8de0e7544fc01ec9110" data-reactionid="2" data-islogin=""><img src="https://images.hinaproject.com/reaction/2f3a288b45130fcc89e955bbe98ea71b237774d1.png"><span class="p-reaction__count js-reaction_count" data-count=0>0</span></div>
-<div class="js-reactionepisode_change p-reaction__emoticon is-empty js-reaction_emoticon" data-url="https://novelcom.syosetu.com/reactionepisode/registerapi/ncode/1860972/noveldataid/17760883/" data-token="63ca897899e8c8de0e7544fc01ec9110" data-reactionid="3" data-islogin=""><img src="https://images.hinaproject.com/reaction/3b032653deef1009ef57b68d8b7f1dfb68307801.png"><span class="p-reaction__count js-reaction_count" data-count=0>0</span></div>
-<div class="js-reactionepisode_change p-reaction__emoticon is-empty js-reaction_emoticon" data-url="https://novelcom.syosetu.com/reactionepisode/registerapi/ncode/1860972/noveldataid/17760883/" data-token="63ca897899e8c8de0e7544fc01ec9110" data-reactionid="4" data-islogin=""><img src="https://images.hinaproject.com/reaction/796ca9e9cb608ff1f512960062b760354451348f.png"><span class="p-reaction__count js-reaction_count" data-count=0>0</span></div>
-<div class="js-reactionepisode_change p-reaction__emoticon is-empty js-reaction_emoticon" data-url="https://novelcom.syosetu.com/reactionepisode/registerapi/ncode/1860972/noveldataid/17760883/" data-token="63ca897899e8c8de0e7544fc01ec9110" data-reactionid="5" data-islogin=""><img src="https://images.hinaproject.com/reaction/1b5eee95a20344ab557fa31e78d855d6fe7dbe50.png"><span class="p-reaction__count js-reaction_count" data-count=0>0</span></div>
+<div class="js-reactionepisode_change p-reaction__emoticon is-empty js-reaction_emoticon" data-url="https://novelcom.syosetu.com/reactionepisode/registerapi/ncode/1860972/noveldataid/17760883/" data-token="a6b17e2687f1b3498210eb944b41c123" data-reactionid="1" data-islogin=""><img src="https://images.hinaproject.com/reaction/e5b6cba419310e8ff7bad5ff8a88eca65e495de6.png"><span class="p-reaction__count js-reaction_count" data-count=0>0</span></div>
+<div class="js-reactionepisode_change p-reaction__emoticon is-empty js-reaction_emoticon" data-url="https://novelcom.syosetu.com/reactionepisode/registerapi/ncode/1860972/noveldataid/17760883/" data-token="a6b17e2687f1b3498210eb944b41c123" data-reactionid="2" data-islogin=""><img src="https://images.hinaproject.com/reaction/2f3a288b45130fcc89e955bbe98ea71b237774d1.png"><span class="p-reaction__count js-reaction_count" data-count=0>0</span></div>
+<div class="js-reactionepisode_change p-reaction__emoticon is-empty js-reaction_emoticon" data-url="https://novelcom.syosetu.com/reactionepisode/registerapi/ncode/1860972/noveldataid/17760883/" data-token="a6b17e2687f1b3498210eb944b41c123" data-reactionid="3" data-islogin=""><img src="https://images.hinaproject.com/reaction/3b032653deef1009ef57b68d8b7f1dfb68307801.png"><span class="p-reaction__count js-reaction_count" data-count=0>0</span></div>
+<div class="js-reactionepisode_change p-reaction__emoticon is-empty js-reaction_emoticon" data-url="https://novelcom.syosetu.com/reactionepisode/registerapi/ncode/1860972/noveldataid/17760883/" data-token="a6b17e2687f1b3498210eb944b41c123" data-reactionid="4" data-islogin=""><img src="https://images.hinaproject.com/reaction/796ca9e9cb608ff1f512960062b760354451348f.png"><span class="p-reaction__count js-reaction_count" data-count=0>0</span></div>
+<div class="js-reactionepisode_change p-reaction__emoticon is-empty js-reaction_emoticon" data-url="https://novelcom.syosetu.com/reactionepisode/registerapi/ncode/1860972/noveldataid/17760883/" data-token="a6b17e2687f1b3498210eb944b41c123" data-reactionid="5" data-islogin=""><img src="https://images.hinaproject.com/reaction/1b5eee95a20344ab557fa31e78d855d6fe7dbe50.png"><span class="p-reaction__count js-reaction_count" data-count=0>0</span></div>
 
 <div class="js-reaction_popup"></div>
 </div><!-- /.p-reaction__body -->
@@ -461,7 +461,7 @@ selector.fadeOut(1000);
 <div class="p-bookmark-bar__item">
 <span class="c-bookmark-button c-bookmark-button--disabled">ブックマークに追加</span>
 
-<input type="hidden" class="js-bookmark_url" value="https://syosetu.com/favnovelmain/addajax/favncode/1860972/no/3/?token=63ca897899e8c8de0e7544fc01ec9110">
+<input type="hidden" class="js-bookmark_url" value="https://syosetu.com/favnovelmain/addajax/favncode/1860972/no/3/?token=a6b17e2687f1b3498210eb944b41c123">
 </div><!-- /.p-bookmark-bar__item -->
 
 
@@ -522,7 +522,7 @@ window.gnshbrequest.applyPassback("1571585", "[data-cptid='1571585']");
 <a class="c-under-nav__item" href="https://mypage.syosetu.com/1625300/">作者マイページ</a>
 <form class="c-under-nav__item" action="https://ncode.syosetu.com/novelpdf/creatingpdf/ncode/n1158he/" class="js-pdf-form" method="post">
 <input type="submit" value="縦書きPDF" class="c-under-nav__pdflink" data-nolock="true">
-<input type="hidden" name="token" value="63ca897899e8c8de0e7544fc01ec9110">
+<input type="hidden" name="token" value="a6b17e2687f1b3498210eb944b41c123">
 </form>
 <a class="c-under-nav__item" href="https://novelcom.syosetu.com/novelreport/input/ncode/1860972/no/3/">誤字報告</a>
 <a class="c-under-nav__item" href="https://syosetu.com/ihantsuhou/input/ncode/1860972/">情報提供</a>

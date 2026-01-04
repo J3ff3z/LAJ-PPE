@@ -1,6 +1,6 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:42:16 GMT content-type: text/html;
+HTTP/2 200 date: Sun, 04 Jan 2026 15:04:34 GMT content-type: text/html;
 charset=UTF-8 server: nginx x-powered-by: PHP/7.1.33 set-cookie:
-xbg_s=fb3aced3e5c171127a73efbd1757de27; path=/; domain=.exblog.jp expires: Thu,
+xbg_s=f1c547d27c60e3d4cc10fdd4b781643e; path=/; domain=.exblog.jp expires: Thu,
 19 Nov 1981 08:52:00 GMT cache-control: no-store, no-cache, must-revalidate
 pragma: no-cache #RSS Atom エキサイトブログ内 検索
 
@@ -257,16 +257,16 @@ by rinamina at 22:41
 おおお～　ありがとうござ..
 by iroirourouro at 18:02
 その他のジャンル
-  * 1 スクール・セミナー
-  * 2 中国語
-  * 3 時事・ニュース
-  * 4 イベント・祭り
-  * 5 哲学・思想
-  * 6 科学
-  * 7 英語
-  * 8 将棋
-  * 9 メンタル
-  * 10 不動産
+  * 1 介護
+  * 2 スピリチュアル
+  * 3 経営・ビジネス
+  * 4 不動産
+  * 5 メンタル
+  * 6 ゲーム
+  * 7 競馬・ギャンブル
+  * 8 時事・ニュース
+  * 9 米国株
+  * 10 イベント・祭り
 
 ファン
 記事ランキング

@@ -1,18 +1,18 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:43:29 GMT
+date: Sun, 04 Jan 2026 15:07:09 GMT
 content-type: text/html; charset=UTF-8
 server: cloudflare
 x-pingback: https://www.puissancevie.com/xmlrpc.php
 link: <https://www.puissancevie.com/wp-json/>; rel="https://api.w.org/"
 link: <https://www.puissancevie.com/wp-json/wp/v2/posts/11749>; rel="alternate"; title="JSON"; type="application/json"
 link: <https://www.puissancevie.com/?p=11749>; rel=shortlink
-report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=e6thbnplLK%2BEC1K5Xo9J7HAtd5WGZNut0I9TUZMGRNsPTEMJiCntndZWZ28ig8MWog%2Blcjqpq%2B9%2FMOXbb8ZNCVsq6xoEtqwLzxNVnMlqvl48SgY6iOvw2oJE%2FetT4%2F3k"}]}
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=TXMHMY70CismO9p7NMNBvFdWZBkcvu304CbXsxCRF80l6GoE70%2F6OnZqKzZa%2FzUdCRCS90GZ9Kcf%2Bu6%2Bi%2FcgoUN9EzwHgbmEjCo4L473LDXBvXLE2O0ZDFvsABanx%2B5f"}]}
 vary: Accept-Encoding
 strict-transport-security: max-age=16000000
-speculation-rules: "/cdn-cgi/speculation"
 cf-cache-status: DYNAMIC
 nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-cf-ray: 9b83f4894ac83388-CDG
+speculation-rules: "/cdn-cgi/speculation"
+cf-ray: 9b8ba4c67ea9b6b4-CDG
 alt-svc: h3=":443"; ma=86400
 
 <!DOCTYPE html>
@@ -52,7 +52,7 @@ alt-svc: h3=":443"; ma=86400
 <link rel='dns-prefetch' href='//www.googletagmanager.com' />
 <link rel="alternate" type="application/rss+xml" title="Puissance Vie &raquo; Flux" href="https://www.puissancevie.com/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Puissance Vie &raquo; Flux des commentaires" href="https://www.puissancevie.com/comments/feed/" />
-<script id="wpp-js" src="https://www.puissancevie.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.6" data-sampling="0" data-sampling-rate="100" data-api-url="https://www.puissancevie.com/wp-json/wordpress-popular-posts" data-post-id="11749" data-token="a52948c7ec" data-lang="0" data-debug="0"></script>
+<script id="wpp-js" src="https://www.puissancevie.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.6" data-sampling="0" data-sampling-rate="100" data-api-url="https://www.puissancevie.com/wp-json/wordpress-popular-posts" data-post-id="11749" data-token="633833f143" data-lang="0" data-debug="0"></script>
 <link rel="alternate" type="application/rss+xml" title="Puissance Vie &raquo; Que signifie le mot « péché »? Flux des commentaires" href="https://www.puissancevie.com/a-la-une/quest-ce-que-le-peche/feed/" />
 <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.puissancevie.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.puissancevie.com%2Fa-la-une%2Fquest-ce-que-le-peche%2F" />
 <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.puissancevie.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.puissancevie.com%2Fa-la-une%2Fquest-ce-que-le-peche%2F&#038;format=xml" />
@@ -138,7 +138,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <script src="https://www.puissancevie.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script src="https://www.puissancevie.com/wp-content/plugins/featured-video-plus/js/jquery.fitvids.min.js?ver=master-2015-08" id="jquery.fitvids-js"></script>
 <script id="fvp-frontend-js-extra">
-var fvpdata = {"ajaxurl":"https://www.puissancevie.com/wp-admin/admin-ajax.php","nonce":"b18ca7ac3f","fitvids":"1","dynamic":"","overlay":"","opacity":"0.75","color":"b","width":"640"};
+var fvpdata = {"ajaxurl":"https://www.puissancevie.com/wp-admin/admin-ajax.php","nonce":"6faa21cac4","fitvids":"1","dynamic":"","overlay":"","opacity":"0.75","color":"b","width":"640"};
 //# sourceURL=fvp-frontend-js-extra
 </script>
 <script src="https://www.puissancevie.com/wp-content/plugins/featured-video-plus/js/frontend.min.js?ver=2.3.3" id="fvp-frontend-js"></script>
@@ -825,7 +825,7 @@ class="hfeed site" id="page">
 <div class="elementor-element elementor-element-3296054 elementor-widget elementor-widget-text-editor" data-id="3296054" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <h3>Signification</h3>
-<p>« Pécher » signifie littéralement « manquer le but ». Dans la <a href="https://www.puissancevie.com/dieu/bible-cest-quoi/"><span class='tooltipsall tooltip_post_id_14723 classtoolTips14723'>Bible</span></a> c’est faillir en faisant ce qui est mal aux yeux de Dieu. Depuis les 10 commandements jusqu’au <span class='tooltipsall tooltip_post_id_15314 classtoolTips15314'>Nouveau Testament</span>, la Bible nous montre la voie à suivre. Mais y parvient-on ? Est-ce que tu as déjà voulu quelque chose qui ne t’appartiens pas ? Ou désiré sexuellement la femme d’un autre, ou menti, ou volé (même un stylo au patron), ou… pensé que <a href="https://www.puissancevie.com/dieu/ce-que-dieu-est/">Dieu</a> n’existait pas, ne le respectant pas comme ton Créateur ? Oui, nous sommes tous des pécheurs – dès notre naissance. Les petits enfants ne sont pas responsables de leurs actes. Ça ne veut pas dire qu’ils ne pèchent pas. Toi tu pèches et tu es responsable de ce que tu fais. Et tu es même responsable des bonnes choses que tu ne fais pas (<span class='tooltipsall tooltip_post_id_custom_1d52c388438bb1db77d97db472b5619f classtoolTipsCustomShortCodeOnlyForMultiTooltips'>Jacques 4:17</span><script type="text/javascript">jQuery("document").ready(function(){ toolTips('.tooltip_post_id_custom_1d52c388438bb1db77d97db472b5619f',"Qui sait faire le bien et ne le fait pas, pour lui c\'est un péché.",'0'); });</script>).</p>
+<p>« Pécher » signifie littéralement « manquer le but ». Dans la <a href="https://www.puissancevie.com/dieu/bible-cest-quoi/"><span class='tooltipsall tooltip_post_id_14723 classtoolTips14723'>Bible</span></a> c’est faillir en faisant ce qui est mal aux yeux de Dieu. Depuis les 10 commandements jusqu’au <span class='tooltipsall tooltip_post_id_15314 classtoolTips15314'>Nouveau Testament</span>, la Bible nous montre la voie à suivre. Mais y parvient-on ? Est-ce que tu as déjà voulu quelque chose qui ne t’appartiens pas ? Ou désiré sexuellement la femme d’un autre, ou menti, ou volé (même un stylo au patron), ou… pensé que <a href="https://www.puissancevie.com/dieu/ce-que-dieu-est/">Dieu</a> n’existait pas, ne le respectant pas comme ton Créateur ? Oui, nous sommes tous des pécheurs – dès notre naissance. Les petits enfants ne sont pas responsables de leurs actes. Ça ne veut pas dire qu’ils ne pèchent pas. Toi tu pèches et tu es responsable de ce que tu fais. Et tu es même responsable des bonnes choses que tu ne fais pas (<span class='tooltipsall tooltip_post_id_custom_a0599ae0fbba74664b1715ff2c35895b classtoolTipsCustomShortCodeOnlyForMultiTooltips'>Jacques 4:17</span><script type="text/javascript">jQuery("document").ready(function(){ toolTips('.tooltip_post_id_custom_a0599ae0fbba74664b1715ff2c35895b',"Qui sait faire le bien et ne le fait pas, pour lui c\'est un péché.",'0'); });</script>).</p>
 <h3>Mais est-ce vraiment si grave ?</h3>
 <p>Oui, le péché est grave, et il ne fait de bien à personne. Son origine c’est de penser qu’on peut être soi-même son propre dieu. Le péché montre donc une séparation entre toi et Dieu, car il est saint et il ne peut pas voir le mal ! Mais tu sais… Dieu ne nous a pas mis sur la terre pour pécher ! Car la conséquence du péché c’est la mort (<a href="https://www.puissancevie.com/ma-vie/apres-la-mort-tout-est-fini-vraiment/">Après la mort tout est fini&#8230; Vraiment?</a>), et Dieu ne veut pas la mort du pécheur, mais sa conversion et sa vie ! Il a donc quelque chose de meilleur pour toi.</p>
 <h3>Y a-t-il une solution ?</h3>
@@ -1011,7 +1011,7 @@ class="hfeed site" id="page">
 <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /><label for="wp-comment-cookies-consent">Enregistrer mon nom et mon e-mail dans le navigateur pour mon prochain commentaire</label></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Publier un commentaire &raquo;" /> <input type='hidden' name='comment_post_ID' value='11749' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="887bcf4d43" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="200"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="1a686bda6c" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="66"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	
 	
 </div><!-- #comments -->
@@ -1033,49 +1033,49 @@ class="hfeed site" id="page">
 				<div class="elementor-element elementor-element-d35ce92 elementor-grid-2 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-card-shadow-yes elementor-posts__hover-gradient elementor-widget elementor-widget-posts" data-id="d35ce92" data-element_type="widget" data-settings="{&quot;cards_columns&quot;:&quot;2&quot;,&quot;cards_columns_tablet&quot;:&quot;2&quot;,&quot;cards_columns_mobile&quot;:&quot;1&quot;,&quot;cards_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;cards_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;cards_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.cards">
 				<div class="elementor-widget-container">
 							<div class="elementor-posts-container elementor-posts elementor-posts--skin-cards elementor-grid" role="list">
-				<article class="elementor-post elementor-grid-item post-13168 post type-post status-publish format-video has-post-thumbnail hentry category-dieu category-videos category-vivre tag-bible post_format-post-format-video has-post-video" role="listitem">
+				<article class="elementor-post elementor-grid-item post-17180 post type-post status-publish format-video has-post-thumbnail hentry category-dieu category-rencontre category-videos post_format-post-format-video has-post-video" role="listitem">
 			<div class="elementor-post__card">
-				<a class="elementor-post__thumbnail__link" href="https://www.puissancevie.com/videos/est-ce-que-tu-lis-la-bible/" tabindex="-1" ><div class="elementor-post__thumbnail"><img loading="lazy" width="300" height="169" src="https://www.puissancevie.com/wp-content/uploads/2017/05/Est-ce-que-tu-lis-la-Bible--300x169.jpeg" class="attachment-medium size-medium wp-image-14197" alt="" decoding="async" srcset="https://www.puissancevie.com/wp-content/uploads/2017/05/Est-ce-que-tu-lis-la-Bible--300x169.jpeg 300w, https://www.puissancevie.com/wp-content/uploads/2017/05/Est-ce-que-tu-lis-la-Bible--1024x576.jpeg 1024w, https://www.puissancevie.com/wp-content/uploads/2017/05/Est-ce-que-tu-lis-la-Bible--768x432.jpeg 768w, https://www.puissancevie.com/wp-content/uploads/2017/05/Est-ce-que-tu-lis-la-Bible--600x338.jpeg 600w, https://www.puissancevie.com/wp-content/uploads/2017/05/Est-ce-que-tu-lis-la-Bible-.jpeg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></div></a>
+				<a class="elementor-post__thumbnail__link" href="https://www.puissancevie.com/videos/mort-pour-sauver/" tabindex="-1" ><div class="elementor-post__thumbnail"><img loading="lazy" width="300" height="171" src="https://www.puissancevie.com/wp-content/uploads/2025/12/Capture-decran-2025-12-09-a-21.57.06-300x171.png" class="attachment-medium size-medium wp-image-17184" alt="" decoding="async" srcset="https://www.puissancevie.com/wp-content/uploads/2025/12/Capture-decran-2025-12-09-a-21.57.06-300x171.png 300w, https://www.puissancevie.com/wp-content/uploads/2025/12/Capture-decran-2025-12-09-a-21.57.06-1024x583.png 1024w, https://www.puissancevie.com/wp-content/uploads/2025/12/Capture-decran-2025-12-09-a-21.57.06-768x437.png 768w, https://www.puissancevie.com/wp-content/uploads/2025/12/Capture-decran-2025-12-09-a-21.57.06.png 1072w" sizes="(max-width: 300px) 100vw, 300px" /></div></a>
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://www.puissancevie.com/videos/est-ce-que-tu-lis-la-bible/" >
-				Est-ce que tu lis la Bible?			</a>
+			<a href="https://www.puissancevie.com/videos/mort-pour-sauver/" >
+				Mort pour sauver			</a>
 		</h3>
 				<div class="elementor-post__excerpt">
-			<p>La Bible est le livre le plus imprimé au monde. En possèdes-tu une? Si oui, la lis-tu ou prend-elle la poussière, délaissée dans un coin?</p>
+			<p>Certains peuvent être prêts à mourir pour un être aimé&#8230; mais qui donnerait sa vie pour sauver ses ennemis?</p>
 		</div>
 		
-		<a class="elementor-post__read-more" href="https://www.puissancevie.com/videos/est-ce-que-tu-lis-la-bible/" aria-label="En savoir plus sur Est-ce que tu lis la Bible?" tabindex="-1" >
+		<a class="elementor-post__read-more" href="https://www.puissancevie.com/videos/mort-pour-sauver/" aria-label="En savoir plus sur Mort pour sauver" tabindex="-1" >
 			Lire l'article »		</a>
 
 				</div>
 				<div class="elementor-post__meta-data">
 					<span class="elementor-post-author">
-			Timothée		</span>
+			Colin		</span>
 				<span class="elementor-post-avatar">
 			Aucun commentaire		</span>
 				</div>
 					</div>
 		</article>
-				<article class="elementor-post elementor-grid-item post-13081 post type-post status-publish format-video has-post-thumbnail hentry category-dieu category-existence category-videos tag-bible post_format-post-format-video has-post-video" role="listitem">
+				<article class="elementor-post elementor-grid-item post-13351 post type-post status-publish format-standard has-post-thumbnail hentry category-dieu category-illustration category-vivre tag-ciel" role="listitem">
 			<div class="elementor-post__card">
-				<a class="elementor-post__thumbnail__link" href="https://www.puissancevie.com/videos/bible-rencontre-t-tant-doppositions/" tabindex="-1" ><div class="elementor-post__thumbnail"><img loading="lazy" width="300" height="169" src="https://www.puissancevie.com/wp-content/uploads/2016/12/Pourquoi-la-Bible-rencontre-t-elle-autant-doppositions-300x169.jpeg" class="attachment-medium size-medium wp-image-14209" alt="" decoding="async" srcset="https://www.puissancevie.com/wp-content/uploads/2016/12/Pourquoi-la-Bible-rencontre-t-elle-autant-doppositions-300x169.jpeg 300w, https://www.puissancevie.com/wp-content/uploads/2016/12/Pourquoi-la-Bible-rencontre-t-elle-autant-doppositions-1024x576.jpeg 1024w, https://www.puissancevie.com/wp-content/uploads/2016/12/Pourquoi-la-Bible-rencontre-t-elle-autant-doppositions-768x432.jpeg 768w, https://www.puissancevie.com/wp-content/uploads/2016/12/Pourquoi-la-Bible-rencontre-t-elle-autant-doppositions-600x338.jpeg 600w, https://www.puissancevie.com/wp-content/uploads/2016/12/Pourquoi-la-Bible-rencontre-t-elle-autant-doppositions.jpeg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></div></a>
+				<a class="elementor-post__thumbnail__link" href="https://www.puissancevie.com/dieu/vivre/comment-aller-au-ciel-2/" tabindex="-1" ><div class="elementor-post__thumbnail"><img loading="lazy" width="256" height="300" src="https://www.puissancevie.com/wp-content/uploads/2018/08/CommentLireLaBible_01-1-256x300.png" class="attachment-medium size-medium wp-image-14646" alt="" decoding="async" srcset="https://www.puissancevie.com/wp-content/uploads/2018/08/CommentLireLaBible_01-1-256x300.png 256w, https://www.puissancevie.com/wp-content/uploads/2018/08/CommentLireLaBible_01-1.png 383w" sizes="(max-width: 256px) 100vw, 256px" /></div></a>
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://www.puissancevie.com/videos/bible-rencontre-t-tant-doppositions/" >
-				Pourquoi la Bible rencontre-t-elle tant d&rsquo;oppositions?			</a>
+			<a href="https://www.puissancevie.com/dieu/vivre/comment-aller-au-ciel-2/" >
+				Comment lire la Bible?			</a>
 		</h3>
 				<div class="elementor-post__excerpt">
-			<p>Découvre la réponse dans cette vidéo!</p>
+			<p>Lire la Bible, c&rsquo;est compliqué? Voici quelques conseils.</p>
 		</div>
 		
-		<a class="elementor-post__read-more" href="https://www.puissancevie.com/videos/bible-rencontre-t-tant-doppositions/" aria-label="En savoir plus sur Pourquoi la Bible rencontre-t-elle tant d&rsquo;oppositions?" tabindex="-1" >
+		<a class="elementor-post__read-more" href="https://www.puissancevie.com/dieu/vivre/comment-aller-au-ciel-2/" aria-label="En savoir plus sur Comment lire la Bible?" tabindex="-1" >
 			Lire l'article »		</a>
 
 				</div>
 				<div class="elementor-post__meta-data">
 					<span class="elementor-post-author">
-			joas		</span>
+			Colin		</span>
 				<span class="elementor-post-avatar">
 			Aucun commentaire		</span>
 				</div>
@@ -1822,7 +1822,7 @@ var wpcf7 = {
 <script src="https://www.puissancevie.com/wp-content/plugins/tooltips-pro/js/imagesloaded.pkgd.min.js?ver=6.9" id="imagesloadedjs-js"></script>
 <script src="https://www.puissancevie.com/wp-content/plugins/tooltips-pro/js/jdirectory/jquery.directory.js?ver=6.9" id="directoryjs-js"></script>
 <script id="ppress-frontend-script-js-extra">
-var pp_ajax_form = {"ajaxurl":"https://www.puissancevie.com/wp-admin/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"937209705f","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0","is_checkout_autoscroll_enabled":"true"};
+var pp_ajax_form = {"ajaxurl":"https://www.puissancevie.com/wp-admin/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"3a9c767bf8","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0","is_checkout_autoscroll_enabled":"true"};
 //# sourceURL=ppress-frontend-script-js-extra
 </script>
 <script src="https://www.puissancevie.com/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=4.16.8" id="ppress-frontend-script-js"></script>
@@ -1836,7 +1836,7 @@ var astraAddon = {"sticky_active":"1","svgIconClose":"\u003Cspan class=\"ast-ico
 <script src="https://www.puissancevie.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.4" id="elementor-frontend-modules-js"></script>
 <script src="https://www.puissancevie.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
 <script id="elementor-frontend-js-before">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Partager sur Facebook","shareOnTwitter":"Partager sur Twitter","pinIt":"L\u2019\u00e9pingler","download":"T\u00e9l\u00e9charger","downloadImage":"T\u00e9l\u00e9charger une image","fullscreen":"Plein \u00e9cran","zoom":"Zoom","share":"Partager","playVideo":"Lire la vid\u00e9o","previous":"Pr\u00e9c\u00e9dent","next":"Suivant","close":"Fermer","a11yCarouselPrevSlideMessage":"Diapositive pr\u00e9c\u00e9dente","a11yCarouselNextSlideMessage":"Diapositive suivante","a11yCarouselFirstSlideMessage":"Ceci est la premi\u00e8re diapositive","a11yCarouselLastSlideMessage":"Ceci est la derni\u00e8re diapositive","a11yCarouselPaginationBulletMessage":"Aller \u00e0 la diapositive"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Portrait mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Paysage","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablette en mode portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablette en mode paysage","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u00c9cran large","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.33.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true,"e_pro_variables":true},"urls":{"assets":"https:\/\/www.puissancevie.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/www.puissancevie.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/www.puissancevie.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"4efbfa5b52"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":11749,"title":"Que%20signifie%20le%20mot%20%22p%C3%A9ch%C3%A9%22%3F%20-%20Puissance%20Vie","excerpt":"","featuredImage":"https:\/\/www.puissancevie.com\/wp-content\/uploads\/2015\/07\/peche.jpg"}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Partager sur Facebook","shareOnTwitter":"Partager sur Twitter","pinIt":"L\u2019\u00e9pingler","download":"T\u00e9l\u00e9charger","downloadImage":"T\u00e9l\u00e9charger une image","fullscreen":"Plein \u00e9cran","zoom":"Zoom","share":"Partager","playVideo":"Lire la vid\u00e9o","previous":"Pr\u00e9c\u00e9dent","next":"Suivant","close":"Fermer","a11yCarouselPrevSlideMessage":"Diapositive pr\u00e9c\u00e9dente","a11yCarouselNextSlideMessage":"Diapositive suivante","a11yCarouselFirstSlideMessage":"Ceci est la premi\u00e8re diapositive","a11yCarouselLastSlideMessage":"Ceci est la derni\u00e8re diapositive","a11yCarouselPaginationBulletMessage":"Aller \u00e0 la diapositive"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Portrait mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Paysage","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablette en mode portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablette en mode paysage","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u00c9cran large","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.33.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true,"e_pro_variables":true},"urls":{"assets":"https:\/\/www.puissancevie.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/www.puissancevie.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/www.puissancevie.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"e6ebef3d1e"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":11749,"title":"Que%20signifie%20le%20mot%20%22p%C3%A9ch%C3%A9%22%3F%20-%20Puissance%20Vie","excerpt":"","featuredImage":"https:\/\/www.puissancevie.com\/wp-content\/uploads\/2015\/07\/peche.jpg"}};
 //# sourceURL=elementor-frontend-js-before
 </script>
 <script src="https://www.puissancevie.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.33.4" id="elementor-frontend-js"></script>
@@ -1845,7 +1845,7 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 <script defer src="https://www.puissancevie.com/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1763006528" id="akismet-frontend-js"></script>
 <script src="https://www.puissancevie.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.32.2" id="elementor-pro-webpack-runtime-js"></script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.puissancevie.com\/wp-admin\/admin-ajax.php","nonce":"979afb63c8","urls":{"assets":"https:\/\/www.puissancevie.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.puissancevie.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"fr_FR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.puissancevie.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.puissancevie.com\/wp-admin\/admin-ajax.php","nonce":"219a387382","urls":{"assets":"https:\/\/www.puissancevie.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.puissancevie.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"fr_FR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.puissancevie.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 //# sourceURL=elementor-pro-frontend-js-before
 </script>
 <script src="https://www.puissancevie.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.32.2" id="elementor-pro-frontend-js"></script>

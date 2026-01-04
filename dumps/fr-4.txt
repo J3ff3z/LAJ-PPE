@@ -1,4 +1,4 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:43:18 GMT content-type: text/html;
+HTTP/2 200 date: Sun, 04 Jan 2026 15:06:45 GMT content-type: text/html;
 charset=UTF-8 server: cloudflare nel:
 {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} vary:
 Accept-Encoding vary: User-Agent last-modified: jeu, 24 Sep 2009 11:19:51
@@ -6,9 +6,9 @@ x-nginx-cache: HIT FR |
 shttpGETwww.psychologies.com/Moi/Se-connaitre/Comportement/Articles-et-Dossiers/
 Les-7-nouveaux-peches-capitaux access-control-allow-origin: * report-to:
 {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare
-.com/report/v4?s=YADTpexV1P5c%2FTtB2MhXiKiiFzq9lOB0%2FshFUK7DPzKbLhYHckb6OXyxLTD
-%2BsJ04u3acsK7TfqC52RLt2yRgpno2alF6De2ZullcJDUkgwlZtQ14QcihOzVe8JE2w0U%3D"}]}
-cf-cache-status: DYNAMIC cf-ray: 9b83f44ea9c4036b-CDG alt-svc: h3=":443";
+.com/report/v4?s=LoihAU3Ogz6D44oTdjJcTvo0t4OZEkyFP%2BV1qQy01J1tzhixhp3Y6iYQLxyzE
+Km8StRx77hiwUX6wTL2yPHNG%2F6WgnYAC8X0NDqFnR78pwayuH6CXZaKvmWcbA8h9Jg%3D"}]}
+cf-cache-status: DYNAMIC cf-ray: 9b8ba4405c422a03-CDG alt-svc: h3=":443";
 ma=86400 #Psychologies.com » Flux
 
 IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N8FW6BPP
@@ -60,17 +60,17 @@ Nous suivre:
   * Vie pro
   * Voir toute la rubrique
 
-Les personnes qui ne supportent pas ces 7 activités (souvent appréciées) sont
-plus authentiques que les autres
+Les personnes les plus intelligentes ont ces 3 principes de vie qu’elles
+n’abandonnent jamais, d’après les chercheurs
 Actualités
-Les personnes qui ne supportent pas ces 7 activités (souvent appréciées) sont
-plus authentiques que les autres
+Les personnes les plus intelligentes ont ces 3 principes de vie qu’elles
+n’abandonnent jamais, d’après les chercheurs
 
-Ce chercheur d’Harvard est formel : voici les 3 types d’amitié indispensables à
-votre bonheur
+Ces 6 comportements discrets montrent qu’un de vos proches ne va pas bien, mais
+ne veut pas le dire
 Actualités
-Ce chercheur d’Harvard est formel : voici les 3 types d’amitié indispensables à
-votre bonheur
+Ces 6 comportements discrets montrent qu’un de vos proches ne va pas bien, mais
+ne veut pas le dire
   * Epreuves
   * Moi et les autres
   * Problèmes psy
@@ -79,17 +79,17 @@ votre bonheur
   * Tests Intelligence
   * Voir toute la rubrique
 
-Les personnes qui ne supportent pas ces 7 activités (souvent appréciées) sont
-plus authentiques que les autres
+Voici pourquoi viser le bonheur à tout prix ne rend pas heureux selon une psy et
+que faire à la place
 Moi
-Les personnes qui ne supportent pas ces 7 activités (souvent appréciées) sont
-plus authentiques que les autres
+Voici pourquoi viser le bonheur à tout prix ne rend pas heureux selon une psy et
+que faire à la place
 
-Ce chercheur d’Harvard est formel : voici les 3 types d’amitié indispensables à
-votre bonheur
+Les personnes les plus intelligentes ont ces 3 principes de vie qu’elles
+n’abandonnent jamais, d’après les chercheurs
 Moi
-Ce chercheur d’Harvard est formel : voici les 3 types d’amitié indispensables à
-votre bonheur
+Les personnes les plus intelligentes ont ces 3 principes de vie qu’elles
+n’abandonnent jamais, d’après les chercheurs
   * Crises / Divorce
   * Problèmes sexuels
   * Séduction
@@ -100,17 +100,15 @@ votre bonheur
   * Tests Amour
   * Voir toute la rubrique
 
-Pourquoi j’ai arrêté de suivre mon ex sur les réseaux (et ce que ça a vraiment
-changé en moi)
+Infidélité : 5 stratégies discrètes que les femmes utilisent pour savoir si on
+leur cache quelque chose, selon une nouvelle étude
 Couple
-Pourquoi j’ai arrêté de suivre mon ex sur les réseaux (et ce que ça a vraiment
-changé en moi)
+Infidélité : 5 stratégies discrètes que les femmes utilisent pour savoir si on
+leur cache quelque chose, selon une nouvelle étude
 
-Ces 7 signes clairs (mais discrets) révèlent qu'il vous drague, d'après son
-langage corporel
+Ces 4 freins courants empêchent les femmes d'atteindre l'orgasme
 Couple
-Ces 7 signes clairs (mais discrets) révèlent qu'il vous drague, d'après son
-langage corporel
+Ces 4 freins courants empêchent les femmes d'atteindre l'orgasme
   * Ados
   * Enfants
   * Etre parent
@@ -123,17 +121,17 @@ langage corporel
   * Tests Education
   * Voir toute la rubrique
 
-Pour apaiser les tensions familiales, ces 7 deuils invisibles sont parfois
-nécessaires
+Ces 7 attitudes sont typiques des mères toxiques (et ne sont pas celles
+auxquelles on pense toujours)
 Famille
-Pour apaiser les tensions familiales, ces 7 deuils invisibles sont parfois
-nécessaires
+Ces 7 attitudes sont typiques des mères toxiques (et ne sont pas celles
+auxquelles on pense toujours)
 
-Voici le secret pour élever des enfants heureux, selon une spécialiste du
-bonheur et maman de 4 enfants
+Pour apaiser les tensions familiales, ces 7 deuils invisibles sont parfois
+nécessaires
 Famille
-Voici le secret pour élever des enfants heureux, selon une spécialiste du
-bonheur et maman de 4 enfants
+Pour apaiser les tensions familiales, ces 7 deuils invisibles sont parfois
+nécessaires
   * Bien manager
   * Bien-être au travail
   * Carrière
@@ -216,17 +214,15 @@ difficile à trouver
   * Tests Bien-être
   * Voir toute la rubrique
 
-Voici le premier signe d'Alzheimer à ne jamais négliger pour repérer rapidement
-la maladie, alerte une neuropsy
+Pourquoi votre cerveau est fatigué même après une journée “tranquille” ?
 Bien-être
-Voici le premier signe d'Alzheimer à ne jamais négliger pour repérer rapidement
-la maladie, alerte une neuropsy
+Pourquoi votre cerveau est fatigué même après une journée “tranquille” ?
 
-Les personnes qui savent démarrer l'année avec sérénité respectent ces conseils
-issus des neurosciences
+Cette habitude quotidienne jugée banale augmente le risque d’AVC, alertent des
+chercheurs
 Bien-être
-Les personnes qui savent démarrer l'année avec sérénité respectent ces conseils
-issus des neurosciences
+Cette habitude quotidienne jugée banale augmente le risque d’AVC, alertent des
+chercheurs
   * Eco-attitude
   * Les animaux et nous
   * Solidarité

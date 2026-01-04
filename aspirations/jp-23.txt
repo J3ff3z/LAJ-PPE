@@ -4,12 +4,12 @@ age: 0
 cache-control: public,max-age=0,must-revalidate
 cache-status: "Netlify Edge"; fwd=miss
 content-type: text/html; charset=UTF-8
-date: Sat, 03 Jan 2026 16:41:21 GMT
+date: Sun, 04 Jan 2026 15:02:50 GMT
 etag: "4939ff8d7f1095e9d3cb99bbb484e2a2-ssl"
 netlify-vary: country=cn
 server: Netlify
 strict-transport-security: max-age=31536000
-x-nf-request-id: 01KE2BR98SBQX7MAP6WAGWS6TG
+x-nf-request-id: 01KE4RGKEAPP528VR283288BYP
 content-length: 167259
 
 <!DOCTYPE html><html lang="ja" data-astro-cid-gxcatbgd> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width"><title>七つの大罪 シーズン2 | ワーナーブラザース・ディスカバリー・ジャパン</title><meta name="keywords" content=""><meta name="description" content="大食、強欲、色欲、嫉妬、怠惰、憤怒、高慢…7つの欲望や感情に負けた犯罪者たちの結末とは？"><meta property="og:type" content="article"><meta property="og:locale" content="ja_JP"><meta property="og:site_name" content="ワーナーブラザース・ディスカバリー・ジャパン"><meta property="og:title" content="七つの大罪 シーズン2"><meta property="og:description" content="大食、強欲、色欲、嫉妬、怠惰、憤怒、高慢…7つの欲望や感情に負けた犯罪者たちの結末とは？"><meta property="og:url" content="https://www.discoveryjapan.jp/mondotv/seven-deadly-sins-s2/"><meta property="og:image" content="https://images.microcms-assets.io/assets/9ec4dfe3f47b409aa5fea482e9d272af/ecb26390c07d44d1ad2018c342b7ffe5/PB_1_78669_2_6_31976_Ep210_021.jpg?w=1600"><meta name="twitter:card" content="summary_large_image"><link href="/favicon.ico" rel="icon" sizes="48x48"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="canonical" href="https://www.discoveryjapan.jp/mondotv/seven-deadly-sins-s2/"><link rel="sitemap" href="/sitemap-index.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet"><link rel="preconnect" href="https://images.microcms-assets.io"><script>(function(){const GTM_ID = "GTM-KXXH3CC";

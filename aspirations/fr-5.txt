@@ -1,14 +1,14 @@
 HTTP/1.1 200 OK
-Date: Sat, 03 Jan 2026 16:43:22 GMT
+Date: Sun, 04 Jan 2026 15:06:55 GMT
 Content-Type: text/html
-Content-Length: 78242
+Content-Length: 78497
 Connection: keep-alive
 Keep-Alive: timeout=5
 Vary: Accept-Encoding
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 X-Powered-By: PHP/5.6.40
-Set-Cookie: PHPSESSID=uq3128b2585n8d1nm3l0osfag1; path=/
-Set-Cookie: ISLAMWEB_VISITOR_FONT_SELECT=1; expires=Mon, 02-Feb-2026 16:43:22 GMT; Max-Age=2592000; path=/; domain=.islamweb.net
+Set-Cookie: PHPSESSID=v30e5coqim2skhrdt3p5derug3; path=/
+Set-Cookie: ISLAMWEB_VISITOR_FONT_SELECT=1; expires=Tue, 03-Feb-2026 15:06:55 GMT; Max-Age=2592000; path=/; domain=.islamweb.net
 Server: nginx
 
 <!DOCTYPE html>
@@ -285,7 +285,7 @@ Server: nginx
                     </div>
                 </div>
             </div>
-        </div>    <!-- cache ok --><!-- Loaded from Cached copy C:/islamweb_cache2/fr/mainsite/d76b4c9bb852389e2397ff0163bc6b46 -->    <div class="portalpage">
+        </div>    <!-- need recache --><!-- Created Cache file and ready to load from  C:/islamweb_cache2/fr/mainsite/d76b4c9bb852389e2397ff0163bc6b46 -->    <div class="portalpage">
 	
 	<div class="portalheader">
 		<section>
@@ -758,253 +758,253 @@ $(document).ready(function(){//article rating
 				<ul class="iteml01">
                 
 				    					<li>
-						<span>14</span>
-						<h2><a href="/fr/fatwa/417661/Donner-des-intérêts-bancaires-à-une-proche-dans-le-besoin" style="line-height: 22px;">Donner des intérêts bancaires à une proche dans le besoin</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
 						<span>13</span>
 						<h2><a href="/fr/fatwa/468370/Validité-des-jours-de-jeûne-dits-jours-blancs" style="line-height: 22px;">Validité des jours de jeûne dits jours blancs</a></h2>
 						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
 					</li>
                     					<li>
-						<span>11</span>
-						<h2><a href="/fr/fatwa/209206/Visite-des-tombes-et-invocations-à-dire-à-cette-occasion" style="line-height: 22px;">Visite des tombes et invocations à dire à cette occasion</a></h2>
+						<span>8</span>
+						<h2><a href="/fr/fatwa/417661/Donner-des-intérêts-bancaires-à-une-proche-dans-le-besoin" style="line-height: 22px;">Donner des intérêts bancaires à une proche dans le besoin</a></h2>
 						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
 					</li>
                     					<li>
-						<span>9</span>
+						<span>6</span>
+						<h2><a href="/fr/fatwa/472345/Déflorer-une-fille-hors-mariage" style="line-height: 22px;">Déflorer une fille hors mariage</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>5</span>
 						<h2><a href="/fr/fatwa/47783/Les-règles-du-rapport-sexuel" style="line-height: 22px;">Les règles du rapport sexuel</a></h2>
 						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
 					</li>
                     					<li>
-						<span>8</span>
-						<h2><a href="/fr/fatwa/138323/La-masturbation-annule-le-jeûne" style="line-height: 22px;">La masturbation annule le jeûne </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>7</span>
-						<h2><a href="/fr/fatwa/419575/Saluer-une-personne-occupée-à-manger" style="line-height: 22px;">Saluer une personne occupée à manger </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>7</span>
-						<h2><a href="/fr/fatwa/42574/Fêter-les-anniversaires" style="line-height: 22px;">Fêter les anniversaires </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>7</span>
-						<h2><a href="/fr/fatwa/204667/Rêver-de-personnes-décédées" style="line-height: 22px;">Rêver de personnes décédées</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>7</span>
-						<h2><a href="/fr/fatwa/235741/Souhaiter-de-bonnes-fêtes-aux-non-musulmans" style="line-height: 22px;">Souhaiter de bonnes fêtes aux non-musulmans</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>6</span>
-						<h2><a href="/fr/fatwa/81587/Liquide-pré-éjaculatoire-et-sperme" style="line-height: 22px;">Liquide pré-éjaculatoire et sperme</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>6</span>
-						<h2><a href="/fr/fatwa/87037/Existe-t-il-une-quelconque-preuve-dans-le-Coran-quil-y-a-une-vie-sur-Mars-" style="line-height: 22px;">Existe-t-il une quelconque preuve dans le Coran qu'il y a une vie sur Mars ?</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>6</span>
-						<h2><a href="/fr/fatwa/201196/Dépenser-tout-son-patrimoine-ou-en-laisser-une-part-pour-les-héritiers" style="line-height: 22px;">Dépenser tout son patrimoine ou en laisser une part pour les héritiers</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>6</span>
-						<h2><a href="/fr/fatwa/524026/Quelle-est-la-priorité-payer-la-zakat-due-ou-rembourser-un-crédit-usuraire-" style="line-height: 22px;">Quelle est la priorité : payer la zakat due ou rembourser un crédit usuraire ?</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>6</span>
-						<h2><a href="/fr/fatwa/88094/Invocations-qui-peuvent-aider-à-sortir-d’une-situation-difficile" style="line-height: 22px;">Invocations qui peuvent aider à sortir d’une situation difficile </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
 						<span>5</span>
-						<h2><a href="/fr/fatwa/82212/Quelles-sont-les-prières-que-nous-faisons-en-faveur-du-Prophète-" style="line-height: 22px;">Quelles sont les prières que nous faisons en faveur du Prophète ?</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/98600/Le-mouvement-du-soleil-et-sa-rotation" style="line-height: 22px;">Le mouvement du soleil et sa rotation</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/397939/Comment-se-purifier-après-une-sécrétion-de-Madhy-" style="line-height: 22px;">Comment se purifier après une sécrétion de Madhy ?</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/79570/Chaque-nuit-il-y-a-une-heure-durant-laquelle-Allah-exauce" style="line-height: 22px;">Chaque nuit il y a une heure durant laquelle Allah exauce </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/58887/Il-est-interdit-d’affirmer-qu’une-personne-en-particulier-ira-en-Enfer" style="line-height: 22px;">Il est interdit d’affirmer qu’une personne en particulier ira en Enfer</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/90196/Sa-femme-a-eu-ses-règles-au-cours-de-leur-rapport-sexuel" style="line-height: 22px;">Sa femme a eu ses règles au cours de  leur rapport sexuel</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/28916/Début-et-fin-du-temps-imparti-de-la-prière-de-Douha" style="line-height: 22px;">Début et fin du temps imparti de la prière de Douha</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/247267/Rattraper-vingt-ans-de-Ramadan-non-jeûné" style="line-height: 22px;">Rattraper vingt ans de Ramadan non jeûné </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/493243/Lire-la-Basmala-avant-la-lecture-de-sourate-Al-Tawba" style="line-height: 22px;">Lire la Basmala avant la lecture de sourate Al-Tawba</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/51351/La-récompense-du-jeûne-des-trois-jours-par-mois-sobtient-en-les-jeûnant-à-nimporte-quel-moment-du-mois" style="line-height: 22px;">La récompense du jeûne des trois jours par mois s'obtient en les jeûnant à n'importe quel moment du mois</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/313165/Que-désigne-le-Sâmirî-dans-le-Coran-" style="line-height: 22px;">Que désigne le "Sâmirî" dans le Coran ?</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>5</span>
-						<h2><a href="/fr/fatwa/4310/La-roqya-légale" style="line-height: 22px;">La roqya légale</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/98697/La-FIV-et-les-embryons-congelés" style="line-height: 22px;">La FIV et les embryons congelés</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/6515/Donner-une-partie-de-la-zakat-à-son-enfant" style="line-height: 22px;">Donner une partie de la zakat à son enfant</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/76667/La-mort-l’agonie-et" style="line-height: 22px;">La mort, l’agonie et... </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/69306/Compléter-sa-prière-lorsque-l’on-arrive-en-retard" style="line-height: 22px;">Compléter sa prière lorsque l’on arrive en retard</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/74864/La-prière-dAl-Fadjr-et-celle-dAs-Sobh" style="line-height: 22px;">La prière d'Al-Fadjr et celle d'As-Sobh.</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/7151/Les-signes-et-symptômes-de-celui-qui-est-victime-de-l’envie-et-de-celui-qui-est-touché-par-le-mauvais-œil-ainsi-que-la-manière-de-soigner-ces-maux" style="line-height: 22px;">Les signes et symptômes de celui qui est victime de l’envie et de celui qui est touché par le mauvais œil ainsi que la manière de soigner ces maux. </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/87800/L’essuyage-des-oreilles-au-cours-des-ablutions" style="line-height: 22px;">L’essuyage des oreilles au cours des ablutions</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/87729/Hadiths-et-invocations-relatifs-au-bâillement-et-à-l’éternuement" style="line-height: 22px;">Hadiths et invocations relatifs au bâillement et à l’éternuement </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/51702/La-femme-qui-s’est-purifiée-de-son-état-de-menstrues-après-la-Salat-de-lAsr" style="line-height: 22px;">La femme qui s’est purifiée de son état de menstrues après la Salat de l`Asr</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/70251/La-masturbation-nécessite-le-Ghousl" style="line-height: 22px;">La masturbation nécessite le Ghousl </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/284074/Explication-du-verset-«-Des-fruits-des-palmiers-et-des-vignes-vous-retirez-une-boisson-enivrante-»" style="line-height: 22px;">Explication du verset : « Des fruits, des palmiers et des vignes, vous retirez une boisson enivrante [...] » </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/404362/Détails-relatifs-au-Sujûd-al-Sahw-prosternation-de-l’oubli" style="line-height: 22px;">Détails relatifs au Sujûd al-Sahw (prosternation de l’oubli)</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/27666/Sens-voulu-de-la-lumière-qui-apparaît-lors-de-la-lecture-de-la-Sourate-Al-Kahf-le-vendredi-ou-la-veille-du-vendredi" style="line-height: 22px;">Sens voulu de la lumière qui apparaît lors de la lecture de la Sourate Al-Kahf le vendredi ou la veille du vendredi</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/98969/Prière-du-Chourouq-et-mari-pratiquant-la-double-religion" style="line-height: 22px;">Prière du Chourouq et mari pratiquant la double religion </a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/514627/Quelle-est-la-meilleure-manière-de-me-débarrasser-des-intérêts-usuraires-" style="line-height: 22px;">Quelle est la meilleure manière de me débarrasser des intérêts usuraires ?</a></h2>
-						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
-					</li>
-                    					<li>
-						<span>4</span>
 						<h2><a href="/fr/fatwa/89978/Rattrapage-des-prières-manquées" style="line-height: 22px;">Rattrapage des prières manquées</a></h2>
 						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
 					</li>
                     					<li>
 						<span>4</span>
-						<h2><a href="/fr/fatwa/42313/Prière-du-voyageur" style="line-height: 22px;">Prière du voyageur</a></h2>
+						<h2><a href="/fr/fatwa/210862/Femme-éprouvée-par-un-mari-qui-ne-se-soucie-pas-de-son-avis" style="line-height: 22px;">Femme éprouvée par un mari qui ne se soucie pas de son avis</a></h2>
 						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
 					</li>
                     					<li>
 						<span>4</span>
-						<h2><a href="/fr/fatwa/47863/Le-Wali-est-une-exigence-pour-la-légitimité-du-mariage" style="line-height: 22px;">Le Wali est une exigence pour la légitimité du mariage. </a></h2>
+						<h2><a href="/fr/fatwa/297847/Authenticité-du-hadith-«-Celui-qui-dit-cent-fois-dans-la-journée-Lâ-ilâha-ill-Allahu»" style="line-height: 22px;">Authenticité du hadith : « Celui qui dit cent fois dans la journée : "Lâ ilâha ill-Allahu..."» </a></h2>
 						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
 					</li>
                     					<li>
 						<span>4</span>
-						<h2><a href="/fr/fatwa/82134/Histoire-des-dépôts-dans-la-jurisprudence-islamique-" style="line-height: 22px;">Histoire des dépôts dans la jurisprudence islamique ?</a></h2>
+						<h2><a href="/fr/fatwa/101554/Une-femme-qui-fait-une-fausse-couche-pendant-le-mois-de-Ramadan-peut-elle-rompre-le-jeûne-" style="line-height: 22px;">Une femme qui fait une fausse couche pendant le mois de Ramadan peut-elle rompre le jeûne ?</a></h2>
 						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
 					</li>
                     					<li>
 						<span>4</span>
-						<h2><a href="/fr/fatwa/89700/Il-est-permis-de-tuer-toute-bête-nuisible" style="line-height: 22px;">Il est permis de tuer toute bête nuisible</a></h2>
+						<h2><a href="/fr/fatwa/90403/Les-invocations-que-le-Prophète-Salla-Allahou-Alaihi-wa-Sallam-aimait-faire-quotidiennement" style="line-height: 22px;">Les invocations que le Prophète (Salla Allahou Alaihi wa Sallam) aimait faire quotidiennement</a></h2>
 						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
 					</li>
                     					<li>
 						<span>4</span>
-						<h2><a href="/fr/fatwa/372010/Quen-est-il-des-trois-Rois-Mages-" style="line-height: 22px;">Qu'en est-il des trois Rois Mages ?</a></h2>
+						<h2><a href="/fr/fatwa/285649/Divorcée-civilement-mais-mariée-religieusement" style="line-height: 22px;">Divorcée civilement mais mariée religieusement</a></h2>
 						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
 					</li>
                     					<li>
 						<span>4</span>
-						<h2><a href="/fr/fatwa/93131/Gog-et-Magog-Yadjoudj-wa-Madjoudj" style="line-height: 22px;">Gog et Magog, Yadjoudj wa Madjoudj  </a></h2>
+						<h2><a href="/fr/fatwa/87774/Les-moments-où-la-Salât-surérogatoire-est-interdite" style="line-height: 22px;">Les moments où la Salât surérogatoire est interdite</a></h2>
 						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
 					</li>
                     					<li>
 						<span>4</span>
-						<h2><a href="/fr/fatwa/89480/Quelle-est-la-signification-du-verset-«-…-frappez-les-…-»" style="line-height: 22px;">Quelle est la signification du verset « … frappez-les … »</a></h2>
+						<h2><a href="/fr/fatwa/42117/Femme-assiste-aux-funérailles" style="line-height: 22px;">Femme assiste aux funérailles</a></h2>
 						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
 					</li>
                     					<li>
-						<span>4</span>
-						<h2><a href="/fr/fatwa/409477/La-condition-de-validité-dun-jeûne-surérogatoire-dont-lintention-est-émise-durant-la-journée-est-de-ne-pas-avoir-mangé-quoique-ce-soit-avant" style="line-height: 22px;">La condition de validité d'un jeûne surérogatoire dont l'intention est émise durant la journée est de ne pas avoir mangé quoique ce soit avant.</a></h2>
+						<span>3</span>
+						<h2><a href="/fr/fatwa/82012/Choisir-une-personne-qui-rapproche-d’Allah-exalté-soit-Il" style="line-height: 22px;">Choisir une personne qui rapproche d’Allah, exalté soit-Il </a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>3</span>
+						<h2><a href="/fr/fatwa/238669/Les-prières-surérogatoires-après-la-prière-du-Ichâ" style="line-height: 22px;">Les prières surérogatoires après la prière du 'Ichâ'</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>3</span>
+						<h2><a href="/fr/fatwa/120915/Celui-qui-jeûne-en-dehors-du-mois-de-Ramadan-et-qui-se-masturbe-doit-il-s’acquitter-de-son-jeûne-" style="line-height: 22px;">Celui qui jeûne en dehors du mois de Ramadan et qui se masturbe doit-il s’acquitter de son jeûne ?</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>3</span>
+						<h2><a href="/fr/fatwa/88367/Faire-deux-invocations-contradictoires" style="line-height: 22px;">Faire deux invocations contradictoires</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>3</span>
+						<h2><a href="/fr/fatwa/331483/Temps-de-linvocation-Dua-de-la-rupture-du-jeûne" style="line-height: 22px;">Temps de l'invocation (Du'a) de la rupture du jeûne</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>3</span>
+						<h2><a href="/fr/fatwa/98539/Les-hommes-qui-ne-peuvent-pas-diriger-la-prière" style="line-height: 22px;">Les hommes qui ne peuvent pas diriger la prière</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>3</span>
+						<h2><a href="/fr/fatwa/206845/Est-il-autorisé-denlever-un-grain-de-beauté-du-visage-de-son-enfant-pour-lui-éviter-les-moqueries-" style="line-height: 22px;">Est-il autorisé d'enlever un grain de beauté du visage de son enfant pour lui éviter les moqueries ? </a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>3</span>
+						<h2><a href="/fr/fatwa/279679/La-fornication-n’empêche-pas-le-mariage-de-continuer" style="line-height: 22px;">La fornication n’empêche pas le mariage de continuer</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>3</span>
+						<h2><a href="/fr/fatwa/88533/Quitter-un-pays-musulman-pour-un-pays-non-musulman-afin-d’aider-sa-mère" style="line-height: 22px;">Quitter un pays musulman pour un pays non musulman afin d’aider sa mère</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>3</span>
+						<h2><a href="/fr/fatwa/204667/Rêver-de-personnes-décédées" style="line-height: 22px;">Rêver de personnes décédées</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>3</span>
+						<h2><a href="/fr/fatwa/463339/L’exégèse-du-verset-«-Nous-avons-créé-des-os-et-Nous-avons-revêtu-les-os-de-chair-»" style="line-height: 22px;">L’exégèse du verset : « Nous avons créé des os et Nous avons revêtu les os de chair »</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/312415/Questions-autour-de-la-Zakat-et-du-nisâb" style="line-height: 22px;">Questions autour de la Zakat et du nisâb</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/73995/L’imamat-de-la-femme" style="line-height: 22px;">L’imamat de la femme </a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/340177/Comment-concilier-le-hadith-«-Jamais-ne-réussira-un-peuple-qui-confie-la-gestion-de-ses-affaires-à-une-femme-»-avec-lhistoire-de-la-reine-de-Saba-" style="line-height: 22px;">Comment concilier le hadith « Jamais ne réussira un peuple qui confie la gestion de ses affaires à une femme. » avec l'histoire de la reine de Saba ?</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/205315/Une-mère-peut-elle-disposer-librement-de-largent-de-son-fils-" style="line-height: 22px;">Une mère peut-elle disposer librement de l'argent de son fils ?</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/81587/Liquide-pré-éjaculatoire-et-sperme" style="line-height: 22px;">Liquide pré-éjaculatoire et sperme</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/369337/Que-signifie-un-noircissement-de-la-peau-" style="line-height: 22px;">Que signifie un noircissement de la peau ?</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/469654/Prénoms-interdits-en-islam-" style="line-height: 22px;">Prénoms interdits en islam ?</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/135611/Prier-assis-durant-un-voyage" style="line-height: 22px;">Prier assis durant un voyage</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/290020/Avis-des-diverses-écoles-juridiques-concernant-le-nombre-de-moutons-à-sacrifier-pour-la-Aqîqa" style="line-height: 22px;">Avis des diverses écoles juridiques concernant le nombre de moutons à sacrifier pour la 'Aqîqa</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/523972/Faiblesse-de-la-foi-que-faire-et-quelle-est-la-place-de-la-prière-et-des-invocations-" style="line-height: 22px;">Faiblesse de la foi : que faire et quelle est la place de la prière et des invocations ?</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/421957/Les-termes-de-la-salutation-finale-de-la-prière-selon-les-écoles-juridiques" style="line-height: 22px;">Les termes de la salutation finale de la prière selon les écoles juridiques</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/456964/Se-contenter-de-dire-Salam-quand-on-salue" style="line-height: 22px;">Se contenter de dire "Salam" quand on salue</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/114239/Que-doit-faire-celui-qui-est-incapable-de-mémoriser-la-Fâtiha-" style="line-height: 22px;">Que doit faire celui qui est incapable de mémoriser la Fâtiha ?</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/421969/L’âge-du-monde" style="line-height: 22px;">L’âge du monde</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/7151/Les-signes-et-symptômes-de-celui-qui-est-victime-de-l’envie-et-de-celui-qui-est-touché-par-le-mauvais-œil-ainsi-que-la-manière-de-soigner-ces-maux" style="line-height: 22px;">Les signes et symptômes de celui qui est victime de l’envie et de celui qui est touché par le mauvais œil ainsi que la manière de soigner ces maux. </a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/93533/Coupe-de-cheveux-en-dégradé" style="line-height: 22px;">Coupe de cheveux en dégradé </a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/516877/Qui-peut-servir-de-tuteur-matrimonial-à-une-convertie-sans-mahram-" style="line-height: 22px;">Qui peut servir de tuteur matrimonial à une convertie sans mahram ?</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/42281/Voir-les-morts" style="line-height: 22px;">Voir les morts</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/502249/Jugement-de-la-prière-du-Ma700moum-masculin-qui-prie-seul-derrière-limam" style="line-height: 22px;">Jugement de la prière du Ma&#700;moum masculin, qui prie seul derrière l'imam</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/333316/Conseils-à-celui-qui-a-fréquenté-des-athées-et-douté-de-lexistence-de-Dieu" style="line-height: 22px;">Conseils à celui qui a fréquenté des athées et douté de l'existence de Dieu</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/56012/Un-homme-ne-peut-pas-répudier-une-femme-qui-n’est-pas-son-épouse" style="line-height: 22px;">Un homme ne peut pas répudier une femme qui n’est pas son épouse</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/41482/La-connaissance-vient-avant-les-paroles-et-les-actes" style="line-height: 22px;">La connaissance vient avant les paroles et les actes</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/453406/Partage-dun-héritage-entre-épouses-et-enfants" style="line-height: 22px;">Partage d'un héritage entre épouses et enfants</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/138323/La-masturbation-annule-le-jeûne" style="line-height: 22px;">La masturbation annule le jeûne </a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/232051/Devenir-des-animaux-le-Jour-de-la-Résurrection" style="line-height: 22px;">Devenir des animaux le Jour de la Résurrection </a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/353899/Ses-rêves-prémonitoires-linquiètent" style="line-height: 22px;">Ses rêves prémonitoires l'inquiètent</a></h2>
+						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
+					</li>
+                    					<li>
+						<span>2</span>
+						<h2><a href="/fr/fatwa/283726/Quelle-est-lhistiore-des-deux-anges-de-Hârût-et-Mârût-" style="line-height: 22px;">Quelle est l'histiore des deux anges de Hârût et Mârût ?</a></h2>
 						<a href="/fr/fatawa//" style="display:inline-block;line-height: 18px; margin-top: 8px;"></a>
 					</li>
                                         

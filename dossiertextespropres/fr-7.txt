@@ -1,6 +1,18 @@
-HTTP/2 403 date: Sat, 03 Jan 2026 16:43:27 GMT server: Apache x-datadome:
-protected accept-ch:
-Domain=.; Path=/; Secure; SameSite=None content-length: 770
-SERVER_USED=cairnweb3; path=/
+HTTP / 2   403   date :   Sun ,   04   Jan   2026   15 : 07 : 05   GMT   server :   Apache   x - datadome : 
 
-Please enable JS and disable any ad blocker
+protected   accept - ch : 
+
+
+
+
+
+
+
+Domain = . cairn . info ;   Path = / ;   Secure ;   SameSite = None   content - length :   770 
+
+
+SERVER _ USED = cairnweb 3 ;   path = / 
+
+
+
+Please   enable   JS   and   disable   any   ad   blocker 

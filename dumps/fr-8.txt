@@ -1,18 +1,19 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:43:29 GMT content-type: text/html;
+HTTP/2 200 date: Sun, 04 Jan 2026 15:07:09 GMT content-type: text/html;
 charset=UTF-8 server: cloudflare x-pingback:
 https://www.puissancevie.com/xmlrpc.php link: /www.puissancevie.com/wp-json/>;
 rel="https://api.w.org/" link: /www.puissancevie.com/wp-json/wp/v2/posts/11749>;
 rel="alternate"; title="JSON"; type="application/json" link:
 /www.puissancevie.com/?p=11749>; rel=shortlink report-to:
 {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare
-.com/report/v4?s=e6thbnplLK%2BEC1K5Xo9J7HAtd5WGZNut0I9TUZMGRNsPTEMJiCntndZWZ28ig
-8MWog%2Blcjqpq%2B9%2FMOXbb8ZNCVsq6xoEtqwLzxNVnMlqvl48SgY6iOvw2oJE%2FetT4%2F3k"}]
+.com/report/v4?s=TXMHMY70CismO9p7NMNBvFdWZBkcvu304CbXsxCRF80l6GoE70%2F6OnZqKzZa%
+2FzUdCRCS90GZ9Kcf%2Bu6%2Bi%2FcgoUN9EzwHgbmEjCo4L473LDXBvXLE2O0ZDFvsABanx%2B5f"}]
 } vary: Accept-Encoding strict-transport-security: max-age=16000000
-speculation-rules: "/cdn-cgi/speculation" cf-cache-status: DYNAMIC nel:
-{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} cf-ray:
-9b83f4894ac83388-CDG alt-svc: h3=":443"; ma=86400 #Puissance Vie » Flux
-Puissance Vie » Flux des commentaires Puissance Vie » Que signifie le mot
-« péché »? Flux des commentaires oEmbed (JSON) oEmbed (XML) JSON
+cf-cache-status: DYNAMIC nel:
+{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+speculation-rules: "/cdn-cgi/speculation" cf-ray: 9b8ba4c67ea9b6b4-CDG alt-svc:
+h3=":443"; ma=86400 #Puissance Vie » Flux Puissance Vie » Flux des commentaires
+Puissance Vie » Que signifie le mot « péché »? Flux des commentaires oEmbed
+(JSON) oEmbed (XML) JSON
 
 [tr?id=153840743854478&ev=PageView&noscript=1]
 
@@ -152,18 +153,18 @@ _____________________________________________
 
 Articles pouvant aussi t’intéresser
 
-Est-ce que tu lis la Bible?
+Mort pour sauver
 
-La Bible est le livre le plus imprimé au monde. En possèdes-tu une? Si oui, la
-lis-tu ou prend-elle la poussière, délaissée dans un coin?
+Certains peuvent être prêts à mourir pour un être aimé… mais qui donnerait sa
+vie pour sauver ses ennemis?
 Lire l'article »
-Timothée Aucun commentaire
+Colin Aucun commentaire
 
-Pourquoi la Bible rencontre-t-elle tant d’oppositions?
+Comment lire la Bible?
 
-Découvre la réponse dans cette vidéo!
+Lire la Bible, c’est compliqué? Voici quelques conseils.
 Lire l'article »
-joas Aucun commentaire
+Colin Aucun commentaire
 
 Regard sur l’actu
 

@@ -1,13 +1,13 @@
-HTTP/2 200 content-type: text/html; charset=utf-8 content-length: 108716 date:
-Sat, 03 Jan 2026 16:31:55 GMT set-cookie:
-eg_sid=1e887cb3f845eb5ec203a9c9ef9b5ead; domain=eiga.com; path=/; secure;
+HTTP/2 200 content-type: text/html; charset=utf-8 content-length: 108677 date:
+Sun, 04 Jan 2026 15:03:58 GMT set-cookie:
+eg_sid=897ef3d714c7680b322d21a8adccc6b4; domain=eiga.com; path=/; secure;
 httponly; samesite=lax server: nginx cache-control: max-age=1800, public,
 s-maxage=900, stale-while-revalidate=1800 x-cloudfront-cacheable: true
-x-cache-group: public etag: "90e8687f9ff98b3473aaac77cc5852bb" vary:
-Accept-Encoding,X-Device x-cache: Hit from cloudfront via: 1.1
-377eda51088ff7e8ba4d09b212e54946.cloudfront.net (CloudFront) x-amz-cf-pop:
-CDG50-P1 x-amz-cf-id: qjs6u4zmIKriNrULfcq3jL8F9AxzQ_2NvOyYOzzqFGgCwPNCyBkGZg==
-age: 604 #alternate 映画.com 検索
+x-cache-group: public etag: "7224c23983dd16a723cb0e5b448e07f3" vary:
+Accept-Encoding,X-Device x-cache: Miss from cloudfront via: 1.1
+6a29b506c0dc975f5344fdc44215aa70.cloudfront.net (CloudFront) x-amz-cf-pop:
+CDG50-P1 x-amz-cf-id: 5tSXOKPtQjnBaHTptWtOVuTgqEjQvLXnMHHtmNfVIjaaNz2sM9_W4Q==
+#alternate 映画.com 検索
 
 IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K5447T4
 
@@ -387,14 +387,14 @@ miharyi
 注目作品ランキング
 
  1. 1
-新解釈・幕末伝劇場公開日 2025年12月19日
-新解釈・幕末伝
- 2. 2
 映画ラストマン FIRST LOVE劇場公開日 2025年12月24日
 映画ラストマン FIRST LOVE
- 3. 3
+ 2. 2
 アバター　ファイヤー・アンド・アッシュ劇場公開日 2025年12月19日
 アバター ファイヤー・アンド・アッシュ
+ 3. 3
+新解釈・幕末伝劇場公開日 2025年12月19日
+新解釈・幕末伝
  4. 4
 ズートピア2劇場公開日 2025年12月5日
 ズートピア2
@@ -410,25 +410,24 @@ miharyi
   * 先週
 
  1. 1
-鈴木福×あの主演「惡の華」、チ・チャンウク×今田美桜主演「メリーベリーラブ」など“日本発”コンテンツが大充実【ディズニープラス2026年配信作まとめ】2026
-年1月3日 19:00
-鈴木福×あの主演「惡の華」、チ・チャンウク×今田美桜主演「メリーベリーラブ」など“日本発”コンテンツが大充実【ディズニープラス2026年配信作まとめ】
+【7年ぶりSW映画、「トイ・ストーリー5」、アベンジャーズ新作！】2026年、ディズニー新作映画の公開スケジュールまとめ2026年1月4日 18:00
+【7年ぶりSW映画、「トイ・ストーリー5」、アベンジャーズ新作！】2026年、ディズニー新作映画の公開スケジュールまとめ
 
  1. 1
-「名探偵コナン 漆黒の追跡者」今夜放送！コナンと黒ずくめの組織の対決を描く　あらすじ＆声優まとめ2025年12月28日 20:00
-「名探偵コナン 漆黒の追跡者」今夜放送！コナンと黒ずくめの組織の対決を描く あらすじ＆声優まとめ
+【地上波初放送】「アバター　ウェイ・オブ・ウォーター」あらすじ、キャラクター、関連作品、タイトルに込めたメッセージは？2025年12月29日 18:00
+【地上波初放送】「アバター ウェイ・オブ・ウォーター」あらすじ、キャラクター、関連作品、タイトルに込めたメッセージは？
  2. 2
-「007」シリーズ、Netflixで配信へ　ライバルのAmazonと異例の契約2025年12月22日 20:00
-「007」シリーズ、Netflixで配信へ ライバルのAmazonと異例の契約
+【アマプラ1月配信まとめ】「グランメゾン・パリ」「雪風 YUKIKAZE」「バレリーナ」「JUNK WORLD」が見放題配信！2026年1月1日 10:00
+【アマプラ1月配信まとめ】「グランメゾン・パリ」「雪風 YUKIKAZE」「バレリーナ」「JUNK WORLD」が見放題配信！
  3. 3
-竹内まりや「2時間サスペンス THE MOVIE」シリーズに主題歌を提供！　「青池春香の事件チャンネル」共演者、予告編など発表2025年12月24日 07:30
-竹内まりや「2時間サスペンス THE MOVIE」シリーズに主題歌を提供！ 「青池春香の事件チャンネル」共演者、予告編など発表
+「名探偵コナン」快斗＆青子の新ビジュアル披露　新一＆蘭のビジュアルと連動する仕掛けが　歴代OP＆ED映像も一挙公開2026年1月3日 17:30
+「名探偵コナン」快斗＆青子の新ビジュアル披露 新一＆蘭のビジュアルと連動する仕掛けが 歴代OP＆ED映像も一挙公開
  4. 4
-「ホーム・アローン」泥棒コンビが生きているのは医学的に奇跡？　解剖学教授がケビンの罠を真剣分析2025年12月24日 12:00
-「ホーム・アローン」泥棒コンビが生きているのは医学的に奇跡？ 解剖学教授がケビンの罠を真剣分析
+箱根駅伝CMに神谷浩史、小西克幸、花江夏樹、松岡禎丞、森田成一が参加　“たすき目線”でエール送る2026年1月1日 18:00
+箱根駅伝CMに神谷浩史、小西克幸、花江夏樹、松岡禎丞、森田成一が参加 “たすき目線”でエール送る
  5. 5
-木村拓哉主演「マスカレード・ナイト」今夜午後9時から地上波初放送！ あらすじ＆キャストまとめ2025年12月27日 18:00
-木村拓哉主演「マスカレード・ナイト」今夜午後9時から地上波初放送！ あらすじ＆キャストまとめ
+2025年もっとも注目された映画TOP10【映画.comランキング】2025年12月31日 12:00
+2025年もっとも注目された映画TOP10【映画.comランキング】
 
 映画ニュースアクセスランキングをもっと見る
 スクリーニングマスター誘導枠

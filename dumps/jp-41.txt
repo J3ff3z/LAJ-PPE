@@ -1,6 +1,10 @@
-HTTP/2 200 server: nginx date: Sat, 03 Jan 2026 16:42:39 GMT content-type:
-text/html; charset=UTF-8 vary: Accept-Encoding last-modified: Sat, 03 Jan 2026
-15:48:39 GMT cache-control: max-age=0 expires: Sat, 03 Jan 2026 16:42:39 GMT
+HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 15:05:19 GMT content-type:
+text/html; charset=UTF-8 vary: Accept-Encoding x-pingback:
+https://rekishinoeki.org/xmlrpc.php link: /rekishinoeki.org/wp-json/>;
+rel="https://api.w.org/", /rekishinoeki.org/wp-json/wp/v2/posts/986>;
+rel="alternate"; title="JSON"; type="application/json",
+/rekishinoeki.org/?p=986>; rel=shortlink last-modified: Sun, 04 Jan 2026
+15:05:19 GMT cache-control: max-age=0 expires: Sun, 04 Jan 2026 15:05:19 GMT
 vary: Accept-Encoding #日本神話と歴史 » フィード 日本神話と歴史 » コメントフィード 日本神話と歴史 »
 天津罪（あまつつみ）と国津罪（くにつつみ）、神道の罪の違い のコメントのフィード oEmbed (JSON) oEmbed (XML) JSON
 
@@ -277,21 +281,21 @@ SEARCH
 カタカムナとは何か？
 カタカムナ一覧 カタカムナ一覧
 新着記事
-  * 旧正月とは？太陰太陽暦（中国暦）の1月1日
-世界の歴史
-  * 正月料理の意味と定番ランキング、一覧で紹介
+  * 七草粥の由来・歴史、いつ食べるか、春の七草の意味と覚え方
 日本の文化
-  * 正月飾りはいつからいつまで？玄関や神棚で縁起の良い新年を
+  * 松の内はいつからいつまで？松の内にしてはいけないこととすべきこと
 日本の文化
-  * 大元帥法とは？（だいげんすいほう／たいげんのほう）意味と歴史・作法・近現代の論点
-民間伝承・昔話
-  * 渡来人とは？ 古墳時代の渡来人が伝えたもの、渡来人の子孫に多い苗字
-古墳時代
-  * 雄略天皇の治世を支えた「渡来人」、古代国家形成のエンジニアたち
-古墳時代
-  * 第21代雄略天皇（ゆうりゃくてんのう）とは？ ワカタケルとの関係、古墳について
-古墳時代
-  * 日本の旧暦9月「長月（ながつき）」の意味と由来とキャラクター名との関わり
+  * 節句とは？日本の四季を彩る代表的な節句が五節句
+日本の文化
+  * ひな祭り（上巳の節句）三月三日の意味と由来
+日本の文化
+  * 人日の節句とは？一月七日の意味と由来
+日本の文化
+  * 端午の節句とは？五月五日、子どもの日の意味と由来
+日本の文化
+  * 七夕の節句とは？七月七日の意味と由来
+日本の文化
+  * 重陽の節句とは？九月九日の意味と由来
 日本の文化
 
 ブログランキング参加中

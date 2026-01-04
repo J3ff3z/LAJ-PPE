@@ -1,5 +1,5 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:43:18 GMT
+date: Sun, 04 Jan 2026 15:06:45 GMT
 content-type: text/html; charset=UTF-8
 server: cloudflare
 nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
@@ -8,9 +8,9 @@ vary: User-Agent
 last-modified: jeu, 24 Sep 2009 11:19:51
 x-nginx-cache: HIT FR | shttpGETwww.psychologies.com/Moi/Se-connaitre/Comportement/Articles-et-Dossiers/Les-7-nouveaux-peches-capitaux
 access-control-allow-origin: *
-report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YADTpexV1P5c%2FTtB2MhXiKiiFzq9lOB0%2FshFUK7DPzKbLhYHckb6OXyxLTD%2BsJ04u3acsK7TfqC52RLt2yRgpno2alF6De2ZullcJDUkgwlZtQ14QcihOzVe8JE2w0U%3D"}]}
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LoihAU3Ogz6D44oTdjJcTvo0t4OZEkyFP%2BV1qQy01J1tzhixhp3Y6iYQLxyzEKm8StRx77hiwUX6wTL2yPHNG%2F6WgnYAC8X0NDqFnR78pwayuH6CXZaKvmWcbA8h9Jg%3D"}]}
 cf-cache-status: DYNAMIC
-cf-ray: 9b83f44ea9c4036b-CDG
+cf-ray: 9b8ba4405c422a03-CDG
 alt-svc: h3=":443"; ma=86400
 
 <!DOCTYPE html>
@@ -268,7 +268,7 @@ var rw_addon_settings_js = {"addon_uri":"https:\/\/www.psychologies.com\/wp-cont
 <script type="text/javascript">
 /* <![CDATA[ */
 window._hbdbrk=window._hbdbrk||[];window._hbdbrk.push(['_vars', {page_type:'article',pid:3,custom1:'comte-sponville-andre',custom2:'articles-et-dossiers-comportement',custom3:'23844',custom4:'article_simple',custom5:'',}]);
-window.actirisePlugin=window.actirisePlugin||{};window.actirisePlugin.version='3.2.1';window.actirisePlugin.version_lastupdate=new Date(1763044279 * 1000);window.actirisePlugin.adsTxt={active:0,lastUpdate:new Date(1767452329 * 1000)};window.actirisePlugin.presized={active:1,lastUpdate:new Date(1767452374 * 1000)};window.actirisePlugin.cron=false;window.actirisePlugin.fastcmp=false;window.actirisePlugin.autoUpdate=false;window.actirisePlugin.debug=true;
+window.actirisePlugin=window.actirisePlugin||{};window.actirisePlugin.version='3.2.1';window.actirisePlugin.version_lastupdate=new Date(1763044279 * 1000);window.actirisePlugin.adsTxt={active:0,lastUpdate:new Date(1767524355 * 1000)};window.actirisePlugin.presized={active:1,lastUpdate:new Date(1767524403 * 1000)};window.actirisePlugin.cron=false;window.actirisePlugin.fastcmp=false;window.actirisePlugin.autoUpdate=false;window.actirisePlugin.debug=true;
 /* ]]> */
 </script>
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.psychologies.com/wp-content/plugins/rwmaitools/public/js/rwmaitools-public.js?ver=1.9" id="rwmaitools-js" data-rocket-defer defer></script>
@@ -560,22 +560,22 @@ rubrique</span></li>
 </ul>
 <div class="mega-posts">
 <aside class="ed__i-crd-mm"><!-- mm as in MegaMenu -->
-<figure><span data-action="jslink" data-ref="https://www.psychologies.com/moi/se-connaitre/personnes-supportent-pas-7-activites-plus-authentiques-608082" title="Les personnes qui ne supportent pas ces 7 activit&eacute;s (souvent appr&eacute;ci&eacute;es) sont plus authentiques que les autres">
-<img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2025/08/shutterstock_1762107974-1-365x200.jpg" alt="Les personnes qui ne supportent pas ces 7 activit&eacute;s (souvent appr&eacute;ci&eacute;es) sont plus authentiques que les autres" loading="lazy"></span></figure>
+<figure><span data-action="jslink" data-ref="https://www.psychologies.com/moi/se-connaitre/personnes-intelligentes-3-principes-vie-abandonnent-jamais-chercheurs-587608" title="Les personnes les plus intelligentes ont ces 3 principes de vie qu&rsquo;elles n&rsquo;abandonnent jamais, d&rsquo;apr&egrave;s les chercheurs">
+<img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2024/12/shutterstock_2090097226-1-365x200.jpg" alt="Les personnes les plus intelligentes ont ces 3 principes de vie qu&rsquo;elles n&rsquo;abandonnent jamais, d&rsquo;apr&egrave;s les chercheurs" loading="lazy"></span></figure>
 <div class="ed__i-crd-mm__content">
 <div class="ed__i-crd-mm__i"><span class="ed__i-crd-mm__c psy__body-sm" data-action="jslink" data-ref="https://www.psychologies.com/Actualites" title="Actualit&eacute;s">Actualit&eacute;s</span></div>
-<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/moi/se-connaitre/personnes-supportent-pas-7-activites-plus-authentiques-608082" title="Les personnes qui ne supportent pas ces 7 activit&eacute;s (souvent appr&eacute;ci&eacute;es) sont plus authentiques que les autres">Les
-personnes qui ne supportent pas ces 7 activit&eacute;s (souvent
-appr&eacute;ci&eacute;es) sont plus authentiques que les autres</span></div>
+<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/moi/se-connaitre/personnes-intelligentes-3-principes-vie-abandonnent-jamais-chercheurs-587608" title="Les personnes les plus intelligentes ont ces 3 principes de vie qu&rsquo;elles n&rsquo;abandonnent jamais, d&rsquo;apr&egrave;s les chercheurs">Les
+personnes les plus intelligentes ont ces 3 principes de vie
+qu&rsquo;elles n&rsquo;abandonnent jamais, d&rsquo;apr&egrave;s les chercheurs</span></div>
 </aside>
 <aside class="ed__i-crd-mm"><!-- mm as in MegaMenu -->
-<figure><span data-action="jslink" data-ref="https://www.psychologies.com/actualites/societe/chercheur-Harvard-formel-3-types-amitie-indispensables-bonheur-563713" title="Ce chercheur d&rsquo;Harvard est formel : voici les 3 types d&rsquo;amiti&eacute; indispensables &agrave; votre bonheur">
-<img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/09/shutterstock_2042101487-1-365x200.jpg" alt="Ce chercheur d&rsquo;Harvard est formel : voici les 3 types d&rsquo;amiti&eacute; indispensables &agrave; votre bonheur" loading="lazy"></span></figure>
+<figure><span data-action="jslink" data-ref="https://www.psychologies.com/moi/moi-et-les-autres-moi/6-comportements-discrets-proche-va-pas-bien-veut-pas-dire-599272" title="Ces 6 comportements discrets montrent qu&rsquo;un de vos proches ne va pas bien, mais ne veut pas le dire">
+<img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2025/05/shutterstock_1715760970-1-365x200.jpg" alt="Ces 6 comportements discrets montrent qu&rsquo;un de vos proches ne va pas bien, mais ne veut pas le dire" loading="lazy"></span></figure>
 <div class="ed__i-crd-mm__content">
 <div class="ed__i-crd-mm__i"><span class="ed__i-crd-mm__c psy__body-sm" data-action="jslink" data-ref="https://www.psychologies.com/Actualites" title="Actualit&eacute;s">Actualit&eacute;s</span></div>
-<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/actualites/societe/chercheur-Harvard-formel-3-types-amitie-indispensables-bonheur-563713" title="Ce chercheur d&rsquo;Harvard est formel : voici les 3 types d&rsquo;amiti&eacute; indispensables &agrave; votre bonheur">Ce
-chercheur d&rsquo;Harvard est formel : voici les 3 types d&rsquo;amiti&eacute;
-indispensables &agrave; votre bonheur</span></div>
+<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/moi/moi-et-les-autres-moi/6-comportements-discrets-proche-va-pas-bien-veut-pas-dire-599272" title="Ces 6 comportements discrets montrent qu&rsquo;un de vos proches ne va pas bien, mais ne veut pas le dire">Ces
+6 comportements discrets montrent qu&rsquo;un de vos proches ne va pas
+bien, mais ne veut pas le dire</span></div>
 </aside>
 </div>
 </div>
@@ -596,22 +596,22 @@ rubrique</span></li>
 </ul>
 <div class="mega-posts">
 <aside class="ed__i-crd-mm"><!-- mm as in MegaMenu -->
-<figure><span data-action="jslink" data-ref="https://www.psychologies.com/moi/se-connaitre/personnes-supportent-pas-7-activites-plus-authentiques-608082" title="Les personnes qui ne supportent pas ces 7 activit&eacute;s (souvent appr&eacute;ci&eacute;es) sont plus authentiques que les autres">
-<img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2025/08/shutterstock_1762107974-1-365x200.jpg" alt="Les personnes qui ne supportent pas ces 7 activit&eacute;s (souvent appr&eacute;ci&eacute;es) sont plus authentiques que les autres" loading="lazy"></span></figure>
+<figure><span data-action="jslink" data-ref="https://www.psychologies.com/moi/se-connaitre/viser-bonheur-rend-pas-heureux-psy-619529" title="Voici pourquoi viser le bonheur &agrave; tout prix ne rend pas heureux selon une psy et que faire &agrave; la place">
+<img src="https://sf2.psychologies.com/wp-content/uploads/psycho/2026/01/and-just-like-that-sarah-jessica-parker-copyright-max-365x200.webp" alt="Voici pourquoi viser le bonheur &agrave; tout prix ne rend pas heureux selon une psy et que faire &agrave; la place" loading="lazy"></span></figure>
 <div class="ed__i-crd-mm__content">
 <div class="ed__i-crd-mm__i"><span class="ed__i-crd-mm__c psy__body-sm" data-action="jslink" data-ref="https://www.psychologies.com/Moi" title="Moi">Moi</span></div>
-<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/moi/se-connaitre/personnes-supportent-pas-7-activites-plus-authentiques-608082" title="Les personnes qui ne supportent pas ces 7 activit&eacute;s (souvent appr&eacute;ci&eacute;es) sont plus authentiques que les autres">Les
-personnes qui ne supportent pas ces 7 activit&eacute;s (souvent
-appr&eacute;ci&eacute;es) sont plus authentiques que les autres</span></div>
+<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/moi/se-connaitre/viser-bonheur-rend-pas-heureux-psy-619529" title="Voici pourquoi viser le bonheur &agrave; tout prix ne rend pas heureux selon une psy et que faire &agrave; la place">Voici
+pourquoi viser le bonheur &agrave; tout prix ne rend pas heureux selon une
+psy et que faire &agrave; la place</span></div>
 </aside>
 <aside class="ed__i-crd-mm"><!-- mm as in MegaMenu -->
-<figure><span data-action="jslink" data-ref="https://www.psychologies.com/actualites/societe/chercheur-Harvard-formel-3-types-amitie-indispensables-bonheur-563713" title="Ce chercheur d&rsquo;Harvard est formel : voici les 3 types d&rsquo;amiti&eacute; indispensables &agrave; votre bonheur">
-<img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/09/shutterstock_2042101487-1-365x200.jpg" alt="Ce chercheur d&rsquo;Harvard est formel : voici les 3 types d&rsquo;amiti&eacute; indispensables &agrave; votre bonheur" loading="lazy"></span></figure>
+<figure><span data-action="jslink" data-ref="https://www.psychologies.com/moi/se-connaitre/personnes-intelligentes-3-principes-vie-abandonnent-jamais-chercheurs-587608" title="Les personnes les plus intelligentes ont ces 3 principes de vie qu&rsquo;elles n&rsquo;abandonnent jamais, d&rsquo;apr&egrave;s les chercheurs">
+<img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2024/12/shutterstock_2090097226-1-365x200.jpg" alt="Les personnes les plus intelligentes ont ces 3 principes de vie qu&rsquo;elles n&rsquo;abandonnent jamais, d&rsquo;apr&egrave;s les chercheurs" loading="lazy"></span></figure>
 <div class="ed__i-crd-mm__content">
 <div class="ed__i-crd-mm__i"><span class="ed__i-crd-mm__c psy__body-sm" data-action="jslink" data-ref="https://www.psychologies.com/Moi" title="Moi">Moi</span></div>
-<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/actualites/societe/chercheur-Harvard-formel-3-types-amitie-indispensables-bonheur-563713" title="Ce chercheur d&rsquo;Harvard est formel : voici les 3 types d&rsquo;amiti&eacute; indispensables &agrave; votre bonheur">Ce
-chercheur d&rsquo;Harvard est formel : voici les 3 types d&rsquo;amiti&eacute;
-indispensables &agrave; votre bonheur</span></div>
+<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/moi/se-connaitre/personnes-intelligentes-3-principes-vie-abandonnent-jamais-chercheurs-587608" title="Les personnes les plus intelligentes ont ces 3 principes de vie qu&rsquo;elles n&rsquo;abandonnent jamais, d&rsquo;apr&egrave;s les chercheurs">Les
+personnes les plus intelligentes ont ces 3 principes de vie
+qu&rsquo;elles n&rsquo;abandonnent jamais, d&rsquo;apr&egrave;s les chercheurs</span></div>
 </aside>
 </div>
 </div>
@@ -636,22 +636,21 @@ rubrique</span></li>
 </ul>
 <div class="mega-posts">
 <aside class="ed__i-crd-mm"><!-- mm as in MegaMenu -->
-<figure><span data-action="jslink" data-ref="https://www.psychologies.com/couple/crises-divorce/separation/Pourquoi-jai-arrete-de-suivre-mon-ex-sur-les-reseaux-619496" title="Pourquoi j&rsquo;ai arr&ecirc;t&eacute; de suivre mon ex sur les r&eacute;seaux (et ce que &ccedil;a a vraiment chang&eacute; en moi)">
-<img src="https://sf2.psychologies.com/wp-content/uploads/psycho/2026/01/4208911-365x200.webp" alt="Pourquoi j&rsquo;ai arr&ecirc;t&eacute; de suivre mon ex sur les r&eacute;seaux (et ce que &ccedil;a a vraiment chang&eacute; en moi)" loading="lazy"></span></figure>
+<figure><span data-action="jslink" data-ref="https://www.psychologies.com/couple/crises-divorce/infidelite/Infidelite-strategies-discretes-savoir-si-on-leur-cache-quelque-chose-619456" title="Infid&eacute;lit&eacute; : 5 strat&eacute;gies discr&egrave;tes que les femmes utilisent pour savoir si on leur cache quelque chose, selon une nouvelle &eacute;tude">
+<img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2026/01/19026755-365x200.webp" alt="Infid&eacute;lit&eacute; : 5 strat&eacute;gies discr&egrave;tes que les femmes utilisent pour savoir si on leur cache quelque chose, selon une nouvelle &eacute;tude" loading="lazy"></span></figure>
 <div class="ed__i-crd-mm__content">
 <div class="ed__i-crd-mm__i"><span class="ed__i-crd-mm__c psy__body-sm" data-action="jslink" data-ref="https://www.psychologies.com/Couple" title="Couple">Couple</span></div>
-<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/couple/crises-divorce/separation/Pourquoi-jai-arrete-de-suivre-mon-ex-sur-les-reseaux-619496" title="Pourquoi j&rsquo;ai arr&ecirc;t&eacute; de suivre mon ex sur les r&eacute;seaux (et ce que &ccedil;a a vraiment chang&eacute; en moi)">Pourquoi
-j&rsquo;ai arr&ecirc;t&eacute; de suivre mon ex sur les r&eacute;seaux (et ce que &ccedil;a a
-vraiment chang&eacute; en moi)</span></div>
+<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/couple/crises-divorce/infidelite/Infidelite-strategies-discretes-savoir-si-on-leur-cache-quelque-chose-619456" title="Infid&eacute;lit&eacute; : 5 strat&eacute;gies discr&egrave;tes que les femmes utilisent pour savoir si on leur cache quelque chose, selon une nouvelle &eacute;tude">Infid&eacute;lit&eacute;
+: 5 strat&eacute;gies discr&egrave;tes que les femmes utilisent pour savoir si on
+leur cache quelque chose, selon une nouvelle &eacute;tude</span></div>
 </aside>
 <aside class="ed__i-crd-mm"><!-- mm as in MegaMenu -->
-<figure><span data-action="jslink" data-ref="https://www.psychologies.com/couple/seduction/7-signes-clairs-discrets-revelent-drague-langage-corporel-569673" title="Ces 7 signes clairs (mais discrets) r&eacute;v&egrave;lent qu'il vous drague, d'apr&egrave;s son langage corporel">
-<img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/12/shutterstock_2421389987-1-365x200.jpg" alt="Ces 7 signes clairs (mais discrets) r&eacute;v&egrave;lent qu'il vous drague, d'apr&egrave;s son langage corporel" loading="lazy"></span></figure>
+<figure><span data-action="jslink" data-ref="https://www.psychologies.com/couple/sexualite-couple/orgasme/Ces-freins-courants-empechent-les-femmes-datteindre-lorgasme-619447" title="Ces 4 freins courants emp&ecirc;chent les femmes d'atteindre l'orgasme"><img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2026/01/ftv-slash-normal-people-2201-header-sanslogo-1920x1080px-bat.jpg-365x200.webp" alt="Ces 4 freins courants emp&ecirc;chent les femmes d'atteindre l'orgasme" loading="lazy"></span></figure>
 <div class="ed__i-crd-mm__content">
 <div class="ed__i-crd-mm__i"><span class="ed__i-crd-mm__c psy__body-sm" data-action="jslink" data-ref="https://www.psychologies.com/Couple" title="Couple">Couple</span></div>
-<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/couple/seduction/7-signes-clairs-discrets-revelent-drague-langage-corporel-569673" title="Ces 7 signes clairs (mais discrets) r&eacute;v&egrave;lent qu'il vous drague, d'apr&egrave;s son langage corporel">Ces
-7 signes clairs (mais discrets) r&eacute;v&egrave;lent qu'il vous drague, d'apr&egrave;s
-son langage corporel</span></div>
+<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/couple/sexualite-couple/orgasme/Ces-freins-courants-empechent-les-femmes-datteindre-lorgasme-619447" title="Ces 4 freins courants emp&ecirc;chent les femmes d'atteindre l'orgasme">Ces
+4 freins courants emp&ecirc;chent les femmes d'atteindre
+l'orgasme</span></div>
 </aside>
 </div>
 </div>
@@ -678,6 +677,15 @@ rubrique</span></li>
 </ul>
 <div class="mega-posts">
 <aside class="ed__i-crd-mm"><!-- mm as in MegaMenu -->
+<figure><span data-action="jslink" data-ref="https://www.psychologies.com/famille/relations-familiales/attitudes-typiques-meres-toxiques-582905" title="Ces 7 attitudes sont typiques des m&egrave;res toxiques (et ne sont pas celles auxquelles on pense toujours)">
+<img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2024/09/shutterstock_2250293505-1-365x200.jpg" alt="Ces 7 attitudes sont typiques des m&egrave;res toxiques (et ne sont pas celles auxquelles on pense toujours)" loading="lazy"></span></figure>
+<div class="ed__i-crd-mm__content">
+<div class="ed__i-crd-mm__i"><span class="ed__i-crd-mm__c psy__body-sm" data-action="jslink" data-ref="https://www.psychologies.com/Famille" title="Famille">Famille</span></div>
+<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/famille/relations-familiales/attitudes-typiques-meres-toxiques-582905" title="Ces 7 attitudes sont typiques des m&egrave;res toxiques (et ne sont pas celles auxquelles on pense toujours)">Ces
+7 attitudes sont typiques des m&egrave;res toxiques (et ne sont pas celles
+auxquelles on pense toujours)</span></div>
+</aside>
+<aside class="ed__i-crd-mm"><!-- mm as in MegaMenu -->
 <figure><span data-action="jslink" data-ref="https://www.psychologies.com/famille/relations-familiales/apaiser-tensions-familiales-7-deuils-invisibles-588882" title="Pour apaiser les tensions familiales, ces 7 deuils invisibles sont parfois n&eacute;cessaires">
 <img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2025/01/3-2-365x200.jpg" alt="Pour apaiser les tensions familiales, ces 7 deuils invisibles sont parfois n&eacute;cessaires" loading="lazy"></span></figure>
 <div class="ed__i-crd-mm__content">
@@ -685,15 +693,6 @@ rubrique</span></li>
 <span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/famille/relations-familiales/apaiser-tensions-familiales-7-deuils-invisibles-588882" title="Pour apaiser les tensions familiales, ces 7 deuils invisibles sont parfois n&eacute;cessaires">Pour
 apaiser les tensions familiales, ces 7 deuils invisibles sont
 parfois n&eacute;cessaires</span></div>
-</aside>
-<aside class="ed__i-crd-mm"><!-- mm as in MegaMenu -->
-<figure><span data-action="jslink" data-ref="https://www.psychologies.com/famille/secret-elever-enfants-heureux-specialiste-bonheur-maman-619232" title="Voici le secret pour &eacute;lever des enfants heureux, selon une sp&eacute;cialiste du bonheur et maman de 4 enfants">
-<img src="https://sf2.psychologies.com/wp-content/uploads/psycho/2025/12/capture-decran-2025-12-29-a-11.02.22-365x200.png" alt="Voici le secret pour &eacute;lever des enfants heureux, selon une sp&eacute;cialiste du bonheur et maman de 4 enfants" loading="lazy"></span></figure>
-<div class="ed__i-crd-mm__content">
-<div class="ed__i-crd-mm__i"><span class="ed__i-crd-mm__c psy__body-sm" data-action="jslink" data-ref="https://www.psychologies.com/Famille" title="Famille">Famille</span></div>
-<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/famille/secret-elever-enfants-heureux-specialiste-bonheur-maman-619232" title="Voici le secret pour &eacute;lever des enfants heureux, selon une sp&eacute;cialiste du bonheur et maman de 4 enfants">Voici
-le secret pour &eacute;lever des enfants heureux, selon une sp&eacute;cialiste du
-bonheur et maman de 4 enfants</span></div>
 </aside>
 </div>
 </div>
@@ -857,22 +856,22 @@ rubrique</span></li>
 </ul>
 <div class="mega-posts">
 <aside class="ed__i-crd-mm"><!-- mm as in MegaMenu -->
-<figure><span data-action="jslink" data-ref="https://www.psychologies.com/bien-etre/prevention/premier-signe-alzheimer-jamais-neglirer-reperer-maladie-615934" title="Voici le premier signe d'Alzheimer &agrave; ne jamais n&eacute;gliger pour rep&eacute;rer rapidement la maladie, alerte une neuropsy">
-<img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2025/11/shutterstock_2696317749-1-365x200.jpg" alt="Voici le premier signe d'Alzheimer &agrave; ne jamais n&eacute;gliger pour rep&eacute;rer rapidement la maladie, alerte une neuropsy" loading="lazy"></span></figure>
+<figure><span data-action="jslink" data-ref="https://www.psychologies.com/bien-etre/prevention/bien-vieillir/Pourquoi-votre-cerveau-est-fatigue-meme-apres-une-journee-tranquille-619540" title="Pourquoi votre cerveau est fatigu&eacute; m&ecirc;me apr&egrave;s une journ&eacute;e &ldquo;tranquille&rdquo; ?">
+<img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2026/01/2-2-365x200.jpg" alt="Pourquoi votre cerveau est fatigu&eacute; m&ecirc;me apr&egrave;s une journ&eacute;e &ldquo;tranquille&rdquo; ?" loading="lazy"></span></figure>
 <div class="ed__i-crd-mm__content">
 <div class="ed__i-crd-mm__i"><span class="ed__i-crd-mm__c psy__body-sm" data-action="jslink" data-ref="https://www.psychologies.com/Bien-etre" title="Bien-&ecirc;tre">Bien-&ecirc;tre</span></div>
-<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/bien-etre/prevention/premier-signe-alzheimer-jamais-neglirer-reperer-maladie-615934" title="Voici le premier signe d'Alzheimer &agrave; ne jamais n&eacute;gliger pour rep&eacute;rer rapidement la maladie, alerte une neuropsy">Voici
-le premier signe d'Alzheimer &agrave; ne jamais n&eacute;gliger pour rep&eacute;rer
-rapidement la maladie, alerte une neuropsy</span></div>
+<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/bien-etre/prevention/bien-vieillir/Pourquoi-votre-cerveau-est-fatigue-meme-apres-une-journee-tranquille-619540" title="Pourquoi votre cerveau est fatigu&eacute; m&ecirc;me apr&egrave;s une journ&eacute;e &ldquo;tranquille&rdquo; ?">Pourquoi
+votre cerveau est fatigu&eacute; m&ecirc;me apr&egrave;s une journ&eacute;e &ldquo;tranquille&rdquo;
+?</span></div>
 </aside>
 <aside class="ed__i-crd-mm"><!-- mm as in MegaMenu -->
-<figure><span data-action="jslink" data-ref="https://www.psychologies.com/bien-etre/personnes-demarrer-annee-serenite-respectent-conseils-neurosciences-619444" title="Les personnes qui savent d&eacute;marrer l'ann&eacute;e avec s&eacute;r&eacute;nit&eacute; respectent ces conseils issus des neurosciences">
-<img src="https://sf2.psychologies.com/wp-content/uploads/psycho/2026/01/emily-in-paris-copyright-giulia-parmigianinetflix-365x200.webp" alt="Les personnes qui savent d&eacute;marrer l'ann&eacute;e avec s&eacute;r&eacute;nit&eacute; respectent ces conseils issus des neurosciences" loading="lazy"></span></figure>
+<figure><span data-action="jslink" data-ref="https://www.psychologies.com/bien-etre/stress/habitude-quotidienne-augmente-risque-avc-alertent-chercheurs-600405" title="Cette habitude quotidienne jug&eacute;e banale augmente le risque d&rsquo;AVC, alertent des chercheurs">
+<img src="https://sf1.psychologies.com/wp-content/uploads/psycho/2025/06/shutterstock_2534018755-1-365x200.jpg" alt="Cette habitude quotidienne jug&eacute;e banale augmente le risque d&rsquo;AVC, alertent des chercheurs" loading="lazy"></span></figure>
 <div class="ed__i-crd-mm__content">
 <div class="ed__i-crd-mm__i"><span class="ed__i-crd-mm__c psy__body-sm" data-action="jslink" data-ref="https://www.psychologies.com/Bien-etre" title="Bien-&ecirc;tre">Bien-&ecirc;tre</span></div>
-<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/bien-etre/personnes-demarrer-annee-serenite-respectent-conseils-neurosciences-619444" title="Les personnes qui savent d&eacute;marrer l'ann&eacute;e avec s&eacute;r&eacute;nit&eacute; respectent ces conseils issus des neurosciences">Les
-personnes qui savent d&eacute;marrer l'ann&eacute;e avec s&eacute;r&eacute;nit&eacute; respectent ces
-conseils issus des neurosciences</span></div>
+<span class="ed__i-crd-mm__t" data-action="jslink" data-ref="https://www.psychologies.com/bien-etre/stress/habitude-quotidienne-augmente-risque-avc-alertent-chercheurs-600405" title="Cette habitude quotidienne jug&eacute;e banale augmente le risque d&rsquo;AVC, alertent des chercheurs">Cette
+habitude quotidienne jug&eacute;e banale augmente le risque d&rsquo;AVC,
+alertent des chercheurs</span></div>
 </aside>
 </div>
 </div>
@@ -1254,7 +1253,7 @@ Dieu : il ne peut &ecirc;tre pardonn&eacute; que dans la confession.</p>
 </article>
 <aside id="text-22" class="widget-odd widget-first widget-1 sidebar-before-comments ms-item widget widget_text">
 <div class="textwidget">
-<div class="rwm-podcast-player" data-pid="1f0e592f-65d9-633a-a85b-8127620af009"></div>
+<div class="rwm-podcast-player" data-pid="1ecdaafa-f6f0-687e-affe-c74247d13060"></div>
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://platform.edisound.com/player/javascript/init.js" data-rocketid="partner:edisound"  data-rocket-defer defer></script>
 <div id="professor_prebid-root"></div>
 </div>
@@ -1375,7 +1374,7 @@ googletag.cmd.push(function() {
 <div class="media">
 <div class="media-left">
 <div class="media-left-position"><span data-target="_self" title="Cet ami ne veut vous pas du bien si vous remarquez ces 6 comportements toxiques (et vous devriez rapidement couper les ponts)" data-href="https://www.psychologies.com/moi/moi-et-les-autres/ami-6-comportements-toxiques-devriez-rapidement-couper-ponts-558648">
-<img width="142" height="78" src="/rw-placeholder/142/78/image.svg" data-src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_2115593264-1-142x78.jpg" class="lazy-load text-jslink zoom-it wp-post-image" alt="Cet ami ne veut vous pas du bien si vous remarquez ces 6 comportements toxiques (et vous devriez rapidement couper les ponts)" data-ref="https://www.psychologies.com/moi/moi-et-les-autres/ami-6-comportements-toxiques-devriez-rapidement-couper-ponts-558648" data-action="jslink" decoding="async"><noscript><img width="142" height="78" src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_2115593264-1-142x78.jpg" class="text-jslink zoom-it wp-post-image" alt="Cet ami ne veut vous pas du bien si vous remarquez ces 6 comportements toxiques (et vous devriez rapidement couper les ponts)" data-ref="https://www.psychologies.com/moi/moi-et-les-autres/ami-6-comportements-toxiques-devriez-rapidement-couper-ponts-558648" data-action="jslink" decoding="async"></noscript></span></div>
+<img width="142" height="78" src="/rw-placeholder/142/78/image.svg" data-src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_2115593264-1-142x78.jpg" class="lazy-load text-jslink zoom-it wp-post-image" alt="Cet ami ne veut vous pas du bien si vous remarquez ces 6 comportements toxiques (et vous devriez rapidement couper les ponts)" data-ref="https://www.psychologies.com/moi/moi-et-les-autres/ami-6-comportements-toxiques-devriez-rapidement-couper-ponts-558648" data-action="jslink" decoding="async" loading="lazy"><noscript><img width="142" height="78" src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_2115593264-1-142x78.jpg" class="text-jslink zoom-it wp-post-image" alt="Cet ami ne veut vous pas du bien si vous remarquez ces 6 comportements toxiques (et vous devriez rapidement couper les ponts)" data-ref="https://www.psychologies.com/moi/moi-et-les-autres/ami-6-comportements-toxiques-devriez-rapidement-couper-ponts-558648" data-action="jslink" decoding="async" loading="lazy"></noscript></span></div>
 </div>
 <div class="media-body"><a target="_self" title="Cet ami ne veut vous pas du bien si vous remarquez ces 6 comportements toxiques (et vous devriez rapidement couper les ponts)" href="https://www.psychologies.com/moi/moi-et-les-autres/ami-6-comportements-toxiques-devriez-rapidement-couper-ponts-558648">
 <span class="title-item-small">Cet ami ne veut vous pas du bien si
@@ -1387,7 +1386,7 @@ vous remarquez ces 6 comportements toxiques (et...</span></a></div>
 <div class="media">
 <div class="media-left">
 <div class="media-left-position"><span data-target="_self" title="Un certain type d&rsquo;attachement pourrait &ecirc;tre li&eacute; &agrave; des comportements sexuels compulsifs" data-href="https://www.psychologies.com/actualites/Un-certain-type-dattachement-pourrait-etre-lie-a-des-comportements-sexuels-compulsifs">
-<img width="142" height="78" src="/rw-placeholder/142/78/image.svg" data-src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_1707953254-1-142x78.jpg" class="lazy-load text-jslink zoom-it wp-post-image" alt="Un certain type d&rsquo;attachement pourrait &ecirc;tre li&eacute; &agrave; des comportements sexuels compulsifs" data-ref="https://www.psychologies.com/actualites/Un-certain-type-dattachement-pourrait-etre-lie-a-des-comportements-sexuels-compulsifs" data-action="jslink" decoding="async"><noscript><img width="142" height="78" src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_1707953254-1-142x78.jpg" class="text-jslink zoom-it wp-post-image" alt="Un certain type d&rsquo;attachement pourrait &ecirc;tre li&eacute; &agrave; des comportements sexuels compulsifs" data-ref="https://www.psychologies.com/actualites/Un-certain-type-dattachement-pourrait-etre-lie-a-des-comportements-sexuels-compulsifs" data-action="jslink" decoding="async"></noscript></span></div>
+<img width="142" height="78" src="/rw-placeholder/142/78/image.svg" data-src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_1707953254-1-142x78.jpg" class="lazy-load text-jslink zoom-it wp-post-image" alt="Un certain type d&rsquo;attachement pourrait &ecirc;tre li&eacute; &agrave; des comportements sexuels compulsifs" data-ref="https://www.psychologies.com/actualites/Un-certain-type-dattachement-pourrait-etre-lie-a-des-comportements-sexuels-compulsifs" data-action="jslink" decoding="async" loading="lazy"><noscript><img width="142" height="78" src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_1707953254-1-142x78.jpg" class="text-jslink zoom-it wp-post-image" alt="Un certain type d&rsquo;attachement pourrait &ecirc;tre li&eacute; &agrave; des comportements sexuels compulsifs" data-ref="https://www.psychologies.com/actualites/Un-certain-type-dattachement-pourrait-etre-lie-a-des-comportements-sexuels-compulsifs" data-action="jslink" decoding="async" loading="lazy"></noscript></span></div>
 </div>
 <div class="media-body"><a target="_self" title="Un certain type d&rsquo;attachement pourrait &ecirc;tre li&eacute; &agrave; des comportements sexuels compulsifs" href="https://www.psychologies.com/actualites/Un-certain-type-dattachement-pourrait-etre-lie-a-des-comportements-sexuels-compulsifs">
 <span class="title-item-small">Un certain type d&rsquo;attachement
@@ -1400,7 +1399,7 @@ compulsifs</span></a></div>
 <div class="media">
 <div class="media-left">
 <div class="media-left-position"><span data-target="_self" title="5 Questions &agrave; poser &agrave; votre futur(e) partenaire pour une relation r&eacute;ussie" data-href="https://www.psychologies.com/actualites/5-Questions-a-poser-a-votre-future-partenaire-pour-une-relation-reussie">
-<img width="142" height="78" src="/rw-placeholder/142/78/image.svg" data-src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/5-questions-a-poser-a-votre-future-partenaire-pour-une-relation-reussie-142x78.jpg" class="lazy-load text-jslink zoom-it wp-post-image" alt="5 Questions &agrave; poser &agrave; votre futur(e) partenaire pour une relation r&eacute;ussie" data-ref="https://www.psychologies.com/actualites/5-Questions-a-poser-a-votre-future-partenaire-pour-une-relation-reussie" data-action="jslink" decoding="async"><noscript><img width="142" height="78" src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/5-questions-a-poser-a-votre-future-partenaire-pour-une-relation-reussie-142x78.jpg" class="text-jslink zoom-it wp-post-image" alt="5 Questions &agrave; poser &agrave; votre futur(e) partenaire pour une relation r&eacute;ussie" data-ref="https://www.psychologies.com/actualites/5-Questions-a-poser-a-votre-future-partenaire-pour-une-relation-reussie" data-action="jslink" decoding="async"></noscript></span></div>
+<img width="142" height="78" src="/rw-placeholder/142/78/image.svg" data-src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/5-questions-a-poser-a-votre-future-partenaire-pour-une-relation-reussie-142x78.jpg" class="lazy-load text-jslink zoom-it wp-post-image" alt="5 Questions &agrave; poser &agrave; votre futur(e) partenaire pour une relation r&eacute;ussie" data-ref="https://www.psychologies.com/actualites/5-Questions-a-poser-a-votre-future-partenaire-pour-une-relation-reussie" data-action="jslink" decoding="async" loading="lazy"><noscript><img width="142" height="78" src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/5-questions-a-poser-a-votre-future-partenaire-pour-une-relation-reussie-142x78.jpg" class="text-jslink zoom-it wp-post-image" alt="5 Questions &agrave; poser &agrave; votre futur(e) partenaire pour une relation r&eacute;ussie" data-ref="https://www.psychologies.com/actualites/5-Questions-a-poser-a-votre-future-partenaire-pour-une-relation-reussie" data-action="jslink" decoding="async" loading="lazy"></noscript></span></div>
 </div>
 <div class="media-body"><a target="_self" title="5 Questions &agrave; poser &agrave; votre futur(e) partenaire pour une relation r&eacute;ussie" href="https://www.psychologies.com/actualites/5-Questions-a-poser-a-votre-future-partenaire-pour-une-relation-reussie">
 <span class="title-item-small">5 Questions &agrave; poser &agrave; votre futur(e)
@@ -1412,7 +1411,7 @@ partenaire pour une relation r&eacute;ussie</span></a></div>
 <div class="media">
 <div class="media-left">
 <div class="media-left-position"><span data-target="_self" title="Couple : ces 6 forces de caract&egrave;re essentielles pour une relation &eacute;panouie" data-href="https://www.psychologies.com/actualites/Couple-ces-6-forces-de-caracteres-essentielles-pour-une-relation-epanouie">
-<img width="142" height="78" src="/rw-placeholder/142/78/image.svg" data-src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_2212042697-1-142x78.jpg" class="lazy-load text-jslink zoom-it wp-post-image" alt="Couple : ces 6 forces de caract&egrave;re essentielles pour une relation &eacute;panouie" data-ref="https://www.psychologies.com/actualites/Couple-ces-6-forces-de-caracteres-essentielles-pour-une-relation-epanouie" data-action="jslink" decoding="async"><noscript><img width="142" height="78" src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_2212042697-1-142x78.jpg" class="text-jslink zoom-it wp-post-image" alt="Couple : ces 6 forces de caract&egrave;re essentielles pour une relation &eacute;panouie" data-ref="https://www.psychologies.com/actualites/Couple-ces-6-forces-de-caracteres-essentielles-pour-une-relation-epanouie" data-action="jslink" decoding="async"></noscript></span></div>
+<img width="142" height="78" src="/rw-placeholder/142/78/image.svg" data-src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_2212042697-1-142x78.jpg" class="lazy-load text-jslink zoom-it wp-post-image" alt="Couple : ces 6 forces de caract&egrave;re essentielles pour une relation &eacute;panouie" data-ref="https://www.psychologies.com/actualites/Couple-ces-6-forces-de-caracteres-essentielles-pour-une-relation-epanouie" data-action="jslink" decoding="async" loading="lazy"><noscript><img width="142" height="78" src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_2212042697-1-142x78.jpg" class="text-jslink zoom-it wp-post-image" alt="Couple : ces 6 forces de caract&egrave;re essentielles pour une relation &eacute;panouie" data-ref="https://www.psychologies.com/actualites/Couple-ces-6-forces-de-caracteres-essentielles-pour-une-relation-epanouie" data-action="jslink" decoding="async" loading="lazy"></noscript></span></div>
 </div>
 <div class="media-body"><a target="_self" title="Couple : ces 6 forces de caract&egrave;re essentielles pour une relation &eacute;panouie" href="https://www.psychologies.com/actualites/Couple-ces-6-forces-de-caracteres-essentielles-pour-une-relation-epanouie">
 <span class="title-item-small">Couple : ces 6 forces de caract&egrave;re
@@ -1424,7 +1423,7 @@ essentielles pour une relation &eacute;panouie</span></a></div>
 <div class="media">
 <div class="media-left">
 <div class="media-left-position"><span data-target="_self" title="8 signes que votre sant&eacute; mentale est en d&eacute;clin" data-href="https://www.psychologies.com/actualites/8-signes-que-votre-sante-mentale-est-en-declin">
-<img width="142" height="78" src="/rw-placeholder/142/78/image.svg" data-src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_1127191616-1-142x78.jpg" class="lazy-load text-jslink zoom-it wp-post-image" alt="8 signes que votre sant&eacute; mentale est en d&eacute;clin" data-ref="https://www.psychologies.com/actualites/8-signes-que-votre-sante-mentale-est-en-declin" data-action="jslink" decoding="async"><noscript><img width="142" height="78" src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_1127191616-1-142x78.jpg" class="text-jslink zoom-it wp-post-image" alt="8 signes que votre sant&eacute; mentale est en d&eacute;clin" data-ref="https://www.psychologies.com/actualites/8-signes-que-votre-sante-mentale-est-en-declin" data-action="jslink" decoding="async"></noscript></span></div>
+<img width="142" height="78" src="/rw-placeholder/142/78/image.svg" data-src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_1127191616-1-142x78.jpg" class="lazy-load text-jslink zoom-it wp-post-image" alt="8 signes que votre sant&eacute; mentale est en d&eacute;clin" data-ref="https://www.psychologies.com/actualites/8-signes-que-votre-sante-mentale-est-en-declin" data-action="jslink" decoding="async" loading="lazy"><noscript><img width="142" height="78" src="https://sf1.psychologies.com/wp-content/uploads/psycho/2023/03/shutterstock_1127191616-1-142x78.jpg" class="text-jslink zoom-it wp-post-image" alt="8 signes que votre sant&eacute; mentale est en d&eacute;clin" data-ref="https://www.psychologies.com/actualites/8-signes-que-votre-sante-mentale-est-en-declin" data-action="jslink" decoding="async" loading="lazy"></noscript></span></div>
 </div>
 <div class="media-body"><a target="_self" title="8 signes que votre sant&eacute; mentale est en d&eacute;clin" href="https://www.psychologies.com/actualites/8-signes-que-votre-sante-mentale-est-en-declin">
 <span class="title-item-small">8 signes que votre sant&eacute; mentale est
@@ -1774,7 +1773,7 @@ if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_c
 					send_GA( 'top_popular/post', 'Articles et Dossiers', '23844', null, '2009-02-10');
 				}, 5000);
 				</script>
-<script>var rocket_beacon_data = {"ajax_url":"https:\/\/www.psychologies.com\/wp-admin\/admin-ajax.php","nonce":"3280fc9e1f","url":"https:\/\/www.psychologies.com\/Moi\/Se-connaitre\/Comportement\/Articles-et-Dossiers\/Les-7-nouveaux-peches-capitaux","is_mobile":false,"width_threshold":1600,"height_threshold":700,"delay":500,"debug":null,"status":{"atf":true,"lrc":true,"preconnect_external_domain":false},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800}</script><script data-name="wpr-wpr-beacon" src='https://www.psychologies.com/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async></script></body>
+<script>var rocket_beacon_data = {"ajax_url":"https:\/\/www.psychologies.com\/wp-admin\/admin-ajax.php","nonce":"452cee1cb1","url":"https:\/\/www.psychologies.com\/Moi\/Se-connaitre\/Comportement\/Articles-et-Dossiers\/Les-7-nouveaux-peches-capitaux","is_mobile":false,"width_threshold":1600,"height_threshold":700,"delay":500,"debug":null,"status":{"atf":true,"lrc":true,"preconnect_external_domain":false},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800}</script><script data-name="wpr-wpr-beacon" src='https://www.psychologies.com/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async></script></body>
 </html>
 
 <!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->

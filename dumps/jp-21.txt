@@ -1,10 +1,9 @@
-HTTP/2 200 accept-ranges: bytes age: 606 content-type: text/html;charset=utf-8
-date: Sat, 03 Jan 2026 14:29:29 GMT etag:
-W/"dbf765e1e5465905fae101b5f205ea77--gzip" expires: Thu, 01 Jan 1970 00:00:00
-GMT server: Squarespace set-cookie:
-crumb=Ba/NH5JPnDNfMDk2MjljOTJkNTdiMzdjYmQ5MDVkNTNiZWNlNjE4;Secure;Path=/
+HTTP/2 200 accept-ranges: bytes age: 0 content-type: text/html;charset=utf-8
+date: Sun, 04 Jan 2026 15:02:37 GMT etag: W/"dbf765e1e5465905fae101b5f205ea77"
+expires: Thu, 01 Jan 1970 00:00:00 GMT server: Squarespace set-cookie:
+crumb=BZpvHvIQr4ArZTk0MTJhN2I3NjMyOGI1NzYxZTJkM2Y2ZTY0MTg2;Secure;Path=/
 strict-transport-security: max-age=0 vary: Accept-Encoding
-x-content-type-options: nosniff x-contextid: YAGuzNWD/faXLa9cY #RSS Feed
+x-content-type-options: nosniff x-contextid: RZh4ZTjt/gSTMMzGn #RSS Feed
 
 IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W6CP2K
 

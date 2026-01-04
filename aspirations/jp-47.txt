@@ -17,16 +17,16 @@ x-ssexp: other
 content-language: ja
 x-cacheable: YES
 accept-ranges: bytes
-age: 0
-date: Sat, 03 Jan 2026 16:43:00 GMT
-x-served-by: cache-iad-kiad7000064-IAD, cache-iad-kiad7000064-IAD, cache-par-lfpg1960058-PAR
-x-cache: MISS, MISS, MISS
+age: 80583
+date: Sun, 04 Jan 2026 15:06:03 GMT
+x-served-by: cache-iad-kiad7000064-IAD, cache-iad-kiad7000064-IAD, cache-par-lfpg1960091-PAR
+x-cache: MISS, MISS, HIT
 x-cache-hits: 0, 0, 0
-x-timer: S1767458580.287923,VS0,VE356
+x-timer: S1767539163.394661,VS0,VE2
 vary: Accept-Encoding, X-Mobile-App, X-Ssexp, Cookie
-server-timing: beacon;desc="eU4IlpZj_q", b2;desc="-Vf5nzBGtq.1767458580288"
-set-cookie: exp_bucket=v7-63; domain=.fandom.com; path=/; expires=Mon, 03 Jan 2028 16:43:00 GMT;
-set-cookie: exp_bucket_2=v5-10; domain=.fandom.com; path=/; expires=Mon, 03 Jan 2028 16:43:00 GMT;
+server-timing: beacon;desc="DXbsr7Irp9", b2;desc="CDF-z0gdSD.1767539163395"
+set-cookie: exp_bucket=v7-12; domain=.fandom.com; path=/; expires=Tue, 04 Jan 2028 15:06:03 GMT;
+set-cookie: exp_bucket_2=v5-78; domain=.fandom.com; path=/; expires=Tue, 04 Jan 2028 15:06:03 GMT;
 strict-transport-security: max-age=300; includeSubDomains
 server-timing: dc;desc="res", roaa;desc="active", roaadc;desc="res", roaareason;desc="read_closest", roaavariant;desc="none"
 set-cookie: Geo={%22region%22:%22IDF%22%2C%22city%22:%22alfortville%22%2C%22country_name%22:%22france%22%2C%22country%22:%22FR%22%2C%22continent%22:%22EU%22}; path=/; domain=.fandom.com; SameSite=None; Secure;

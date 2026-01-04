@@ -1,13 +1,13 @@
 HTTP/2 200 content-type: text/html; charset=UTF-8 content-security-policy:
-frame-ancestors 'self' etag: W/"lcxi3k" permissions-policy: camera=(),
+frame-ancestors 'self' etag: W/"1vp7xwi" permissions-policy: camera=(),
 geolocation=(), accelerometer=(), payment=(), usb=(), xr-spatial-tracking=()
 referrer-policy: no-referrer-when-downgrade x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN x-sveltekit-page: true x-xss-protection: 1;
-mode=block cache-control: public, max-age=-929 x-akamai-transformed: 9 39232 0
-pmb=mRUM,2 date: Sat, 03 Jan 2026 16:43:24 GMT server-timing: cdn-cache;
-desc=REVALIDATE server-timing: edge; dur=18 server-timing: origin; dur=8
+mode=block cache-control: public, max-age=-921 x-akamai-transformed: 9 38978 0
+pmb=mRUM,2 date: Sun, 04 Jan 2026 15:07:00 GMT server-timing: cdn-cache;
+desc=REVALIDATE server-timing: edge; dur=20 server-timing: origin; dur=5
 strict-transport-security: max-age=15768000 origin: "" server-timing: ak_p;
-desc="1767458604913_1611776014_810636927_2627_7188_4_41_15";dur=1
+desc="1767539220139_1611776005_1700845727_2510_4539_4_37_15";dur=1
 
 Les nouveaux péchés selon le pape François
   * (BUTTON) Contenu
@@ -199,102 +199,103 @@ Et si la solution c’était Mylène Farmer ?
 (BUTTON)
 Sur le même thème (BUTTON) Passer cette liste
 (BUTTON)
-  * Aristophane
-Comment juger équitablement un chien chapardeur ? Aristophane, "Les Guêpes"
-(1ère partie)
-(BUTTON) Indisponible
-Quand les dieux rôdaient sur la Terre
-Aujourd'hui
- •
-35 min
-  * Christophe Colomb arrivant dans le Nouveau Monde
-La matinée des autres - Paradis perdu, terre promise (1ère diffusion :
-06/03/1984)
-(BUTTON) Indisponible
-Les Nuits de France Culture
-Hier
- •
-1h 39min
-  * La Petite Dernière - Hafsia Herzi
-Quand Anas et Hanane font leur coming out
-(BUTTON) Indisponible
-Les Pieds sur terre
-30 déc. 2025
- •
-28 min
-  * La religieuse Irene O' Connor à l'époque de l'enregistrement de Fire Of
-God's Love
-Sister Irene O’ Connor, la Sœur Sourire des antipodes
-(BUTTON) Indisponible
-La BO du monde
-29 déc. 2025
- •
-5 min
-  * A Pékin, des passants déambulent à Noël devant un Père Noël gonflable
-Un Jésuite français à Shanghaï : voyage intérieur dans la Chine contemporaine
-(BUTTON) Indisponible
-Soft Power
-28 déc. 2025
- •
-1h 52min
   * La Messe
-MESSE du dimanche 28 décembre 2025 depuis la Chapelle Notre-Dame de la médaille
+MESSE du dimanche 04 janvier 2026 depuis la Chapelle Notre-Dame de la médaille
 miraculeuse à Paris.
 (BUTTON) Indisponible
 La Messe
-28 déc. 2025
+Aujourd'hui
  •
 53 min
+  * David Lemler
+Le judaïsme : une création toujours recommencée 2/2 La modernité et le
+monothéisme éthique.
+(BUTTON) Indisponible
+Talmudiques
+Aujourd'hui
+ •
+32 min
+  * Philippe Aurouze, aumônier national protestant des prisons
+Derrière les murs : l’Évangile en chemin
+(BUTTON) Indisponible
+Solaé, le rendez-vous protestant
+Aujourd'hui
+ •
+30 min
+  * Quartier de Karaköy (anciennement Galata) à Istanbul.
+Une escale arménienne : Bolis, avec Tigrane Yegavian
+(BUTTON) Indisponible
+Chrétiens d'Orient
+Aujourd'hui
+ •
+23 min
+  * La Création du monde, attribué à Melchior Bocksberger, vers 1530-1587
+(Palais Rohan - Musée des Beaux-Arts, Strasbourg)
+Le mythe de la Création
+(BUTTON) Indisponible
+Questions d'islam
+Aujourd'hui
+ •
+53 min
+  * Illustration du podcast "Les Voix de la Saint-Barthélémy"
+"Les Voix de la Saint-Barthélémy", une enquête sur le massacre tristement
+célèbre de 1572
+(BUTTON) Indisponible
+Les podcasts du week-end
+Aujourd'hui
+ •
+3 min
 
 (BUTTON)
 Dans l'actualité (BUTTON) Passer cette liste
 (BUTTON)
-  * Des civils habitant à l'intérieur d'une base militaire de Caracas fuient,
-samedi 3 janvier, après des frappes américaines.
-Capture de Nicolas Maduro : "C'est une vraie angoisse", témoigne une maîtresse
-de conférence franco-vénézuélienne
+  * Des pompiers se sont rassemblés devant le mémorial de l'incendie de
+Crans-Montana, dimanche 4 janvier, après une messe d'hommage.
+Incendie à Crans-Montana : les pompiers salués lors d'une marche silencieuse et
+d'une messe bouleversantes
 (BUTTON) Indisponible
 L'info de France Inter
-Aujourd'hui
+13 janv.
  •
-3 min
-  * Le référendum est-il un outil permettant de dépasser les blocages politiques
-?
-Référendum : rituel démocratique ou outil démagogique ?
-(BUTTON) Indisponible
-Sans préjuger
-Aujourd'hui
- •
-44 min
-  * Les forces américaines ont mené des frappes sur la capitale vénézuélienne
-Caracas le 3 décembre 2026.
-Venezuela : le président Nicolas Maduro "capturé et exfiltré" après une "attaque
-de grande envergure" des États-Unis
+2 min
+  * Le président vénézuélien Nicolas Maduro escorté par des agents de la DEA à
+Lower Manhattan, New York, le 3 janvier 2026.
+Le président vénézuélien Nicolás Maduro incarcéré dans une prison fédérale de
+Brooklyn
 (BUTTON) Indisponible
 Journal de 12h30
 Aujourd'hui
  •
 15 min
-  * Des militaires gardent le périmètre du palais présidentiel de Miraflores à
-Caracas, au Venezuela, le 3 janvier 2026, après les explosions.
-Capture de Nicolas Maduro : "Nous avons vécu une nuit de terreur", décrit la
-correspondante de Radio France à Caracas
+  * Le secrétaire d'État Marco Rubio et le secrétaire à la Guerre Pete Hegseth
+écoutent Donald Trump lors d'une conférence de presse à Mar-a-Lago, le 3 janvier
+Donald Trump bombarde le Venezuela, Zohran Mamdani est investi maire de New York
 (BUTTON) Indisponible
-Les documents franceinfo
+L'Esprit public
 Aujourd'hui
  •
-3 min
-  * Thomas Snegaroff
-Le grand-face-à-face du samedi 03 janvier 2026
+59 min
+  * Laurent David, vigneron au Château d'Edmus, à Montagne près de Saint-Emilion
+Vignerons en réinvention - Une école pour décrocheurs
 (BUTTON) Indisponible
-Le Grand Face-à-face
+Interception
 Aujourd'hui
  •
-55 min
-  * Le président vénézuélien Nicolas Maduro lors d'une réunion à l'Assemblée
-nationale, à Caracas, le 22 juillet 2025.
-Venezuela : la gauche française dénonce "un nouvel effondrement du droit
-international"
+48 min
+  * Des habitants font la queue devant un magasin à Caracas le 3 janvier 2026,
+après la capture du président vénézuélien Nicolas Maduro par les forces
+américaines.
+Venezuela : la population partagée entre la sidération et l'inquiétude après
+l'opération américaine
+(BUTTON) Indisponible
+Journal de 9h
+Aujourd'hui
+ •
+10 min
+  * Jérôme Marty, président de l’Union française pour une médecine libre (UFLM),
+assure qu'il fera grève pendant 10 jours en janvier.
+Grève des médecins : "La porte de mon cabinet sera fermée du 5 au 15 janvier",
+assure le Jérôme Marty
 (BUTTON) Indisponible
 L'info de France Inter
 Aujourd'hui
