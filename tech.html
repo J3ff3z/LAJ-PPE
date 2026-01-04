@@ -40,21 +40,26 @@
     </nav>
 
     <section>
+        <div class="message-header">
+            <h1>
+                Démarche technique
+            </h1>
+        </div>
         <div class="jumbotron ">
             <div class="message-header">
-                <h1>Division du travail</h1>
+                <h2>Division du travail</h2>
             </div>
             <div class="message-body">
-                Afin de travailler de manière efficace, nous avons divisé le travail en plusieurs sous-parties. Nous avons, dans un premier temps, 
-                établi une liste complète des tâches devant être réalisées. Pendant qu'une personne poursuivait le travail déjà entamé sur les 
-                tâches de scraping, et notamment les différents problèmes d'encodage et la gestion des fichiers robot.txt, 
-                une autre développait un script de nettoyage des textes, tandis que la dernière s'occupait de la création du site web, tant pour 
-                la partie HTML que pour le CSS. Par la suite, nous avons conjointement complété la page web avec les différents textes descriptifs. 
-                Afin de rendre le site internet plus attrayant, l’ensemble des membres du groupe a cherché les différentes images servant 
-                à illustrer les propos du site. Le concordancier, ainsi que le script servant à trouver les contextes dans lesquels le mot <em>péché</em> 
-                apparaissait dans nos corpus, ont été créés à partir d’un petit script de comptage d’occurence, et c’est à ce moment là que le tableau 
-                des résultats a également été rendu exploitable. Le script de scraping crée en début du mois a été transformé ensuite en script maître, 
-                servant à lancer l’ensemble des autres scripts faisant partie de notre projet. Les nuages de mots ont été créés individuellement, chaque membre du groupe s’occupant de sa 
+                Afin de travailler de manière efficace, nous avons divisé le travail en plusieurs sous-parties. Nous avons, dans un premier temps,
+                établi une liste complète des tâches devant être réalisées. Pendant qu'une personne poursuivait le travail déjà entamé sur les
+                tâches de scraping, et notamment les différents problèmes d'encodage et la gestion des fichiers robot.txt,
+                une autre développait un script de nettoyage des textes, tandis que la dernière s'occupait de la création du site web, tant pour
+                la partie HTML que pour le CSS. Par la suite, nous avons conjointement complété la page web avec les différents textes descriptifs.
+                Afin de rendre le site internet plus attrayant, l’ensemble des membres du groupe a cherché les différentes images servant
+                à illustrer les propos du site. Le concordancier, ainsi que le script servant à trouver les contextes dans lesquels le mot <em>péché</em>
+                apparaissait dans nos corpus, ont été créés à partir d’un petit script de comptage d’occurence, et c’est à ce moment là que le tableau
+                des résultats a également été rendu exploitable. Le script de scraping crée en début du mois a été transformé ensuite en script maître,
+                servant à lancer l’ensemble des autres scripts faisant partie de notre projet. Les nuages de mots ont été créés individuellement, chaque membre du groupe s’occupant de sa
                 langue de prédilection. Enfin, l’analyse des différents résultats obtenus et les calculs de probabilités ont été le fruit d’une réflexion commune.
             </div>
         </div>
@@ -63,7 +68,7 @@
     <section>
         <div class="jumbotron ">
             <div class="message-header">
-                <h1>Création de corpus :</h1>
+                <h2>Création de corpus :</h2>
             </div>
             <div class="message-body">
                 La première étape qui a été réalisée a été la création de corpus. Afin de ne pas se restreindre qu’au thème de la religion, nous avons cherché 
@@ -76,7 +81,7 @@
     <section>
         <div class="jumbotron ">
             <div class="message-header">
-                <h1>Scrapping :</h1>
+                <h2>Scrapping :</h2>
             </div>
             <div class="message-body">
                 Le script de scraping, destiné à être le script maître mettant en oeuvre tous les autres scripts du projet, a été créer peu après. 
@@ -94,7 +99,7 @@
     <section>
         <div class="jumbotron ">
             <div class="message-header">
-                <h1>Fichiers robot.txt :</h1>
+                <h2>Fichiers robot.txt :</h2>
             </div>
             <div class="message-body">
                 Afin de traiter les différentes autorisations accordées par les sites faisant partie de nos corpus, nous avons dû développer un script gérant les fichier robot.txt. Pour chaque site, 
@@ -111,7 +116,7 @@
     <section>
         <div class="jumbotron ">
             <div class="message-header">
-                <h1>PALS :</h1>
+                <h2>PALS :</h2>
             </div>
             <div class="message-body">
                 L'objectif des scripts PALS est de mieux comprendre l'environnement sémantique du mot que nous souhaitons étudier. 
@@ -126,7 +131,7 @@
     <section>
         <div class="jumbotron ">
             <div class="message-header">
-                <h1>Création du site :</h1>
+                <h2>Création du site :</h2>
             </div>
             <div class="message-body">
                 Lors de la création du site, nous avons décidé d'utiliser du CSS pur, afin de privilégier un rendu épuré et une plus grande liberté de mise en forme. Afin d’éviter 
@@ -141,7 +146,7 @@
     <section>
         <div class="jumbotron ">
             <div class="message-header">
-                <h1>Nettoyage de texte :</h1>
+                <h2>Nettoyage de texte :</h2>
             </div>
             <div class="message-body">
                 Le but du script de nettoyage était de sélectionner les textes précédemment recueillis par le script de scraping, stockés dans le dossier ”dumps-text”, et de 
@@ -159,7 +164,7 @@
     <section>
         <div class="jumbotron ">
             <div class="message-header">
-                <h1>Contexte et concordancier :</h1>
+                <h2>Contexte et concordancier :</h2>
             </div>
             <div class="message-body">
                 Afin d’observer les mots entourant le mot <em>péché</em>, et mieux comprendre les contextes dans lequel il apparait, un premier script de récupération de contexte 
@@ -175,7 +180,7 @@
     <section>
         <div class="jumbotron ">
             <div class="message-header">
-                <h1>Bigrammes :</h1>
+                <h2>Bigrammes :</h2>
             </div>
             <div class="message-body">
                 La création du script de repérage de bigrammes a nécessité des éléments similaires à ceux utilisés précédemment. Afin de nommer les documents, nous avons utilisé 
@@ -191,7 +196,7 @@
     <section>
         <div class="jumbotron ">
             <div class="message-header">
-                <h1>Nuages de mots :</h1>
+                <h2>Nuages de mots :</h2>
             </div>
             <div class="message-body">
                 Les nuages de mots ont été assez simples à réaliser grâce aux exemples vus en classe. En premier lieu nous avons trouvé une liste de stopwords français trouvable sur 
