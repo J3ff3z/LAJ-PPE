@@ -172,5 +172,37 @@
         </div>
     </section>
 
+    <section>
+        <div class="jumbotron ">
+            <div class="message-header">
+                <h1>Bigrammes :</h1>
+            </div>
+            <div class="message-body">
+                La création du script de repérage de bigrammes a nécessité des éléments similaires à ceux utilisés précédemment. Afin de nommer les documents, nous avons utilisé 
+                la fonction intégrée <em>basename</em>. La page d’exercices présentée en cours a été d’une grande aide, et la structure du script repose principalement sur elle. 
+                Nous avons, par exemple, utilisé les commande citées par le document telles que <em>grep, tr, paste</em>, et nous avons ajouté des élements tels que <em>sed, sort, uniq</em>, 
+                et bien d’autres, mais que nous avons déjà pu appréhender auparavant. Ce repérage nous a permis de voir des paires contextuelles de mots présentes dans nos textes, et 
+                pouvoir affiner davantage notre analyse linguistique grâce à elles.  
+            </div>
+        </div>
+    </section>
+
+
+    <section>
+        <div class="jumbotron ">
+            <div class="message-header">
+                <h1>Nuages de mots :</h1>
+            </div>
+            <div class="message-body">
+                Les nuages de mots ont été assez simples à réaliser grâce aux exemples vus en classe. En premier lieu nous avons trouvé une liste de stopwords français trouvable sur 
+                Github, que nous avons légèrement modifié pour mieux correspondre à nos besoin. Ensuite, grâce à un petit script Python nous avons lancé la création du nuage de mot. 
+                Le nuage de mot polonais a nécessité l’utilisation de Spacy, et plus particulièrement du module ”pl_core_news_sm” qui nous a permis de lématiser les mots, et d’éviter 
+                les répétitions liées aux déclinaisons. Enfin, afin de réaliser le nuage de mot japonais, nous avons également dû utiliser un tokeniser, Janome. Un problème qui a été 
+                rencontré lors de cette étape était de trouver le chemin correct vers la police d’écriture détectée par l’ordinateur (le nom du fichier contenant la police était en japonais). 
+            </div>
+        </div>
+    </section>
+
+
 </body>
 </html>
