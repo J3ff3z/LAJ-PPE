@@ -15,13 +15,13 @@ echo -e "\
         <table class=\"table is-hoverable\">
             <thead>
                 <tr>
-                    <th>Numéro</th>
+                    <th>ID</th>
                     <th>Adresse</th>
-                    <th>CodeHttp</th>
+                    <th>Code</th>
                     <th>UTF8?</th>
-                    <th>NbDeMots</th>
-                    <td>Nombre d'apparition du mot</td>
-                    <th>Robot.txt</th>
+                    <th>Mots</th>
+                    <td>Freq.</td>
+                    <th>Robots</th>
                     <th>Aspirations</th>
                     <th>Dumps initiaux</th>
                     <th>Dumps clean</th>
@@ -46,7 +46,7 @@ while read -r LINE ; do
         echo -e "\
             <tr class=\"is-warning\">
                 <td>$NB_LIGNE</td>
-                <td>$LINE</td>
+                <td><a href=\"$LINE\" title=\"$LINE\">$LINE</td>
                 <td>ERREUR</td>
                 <td>ERREUR</td>
                 <td>ERREUR</td>
@@ -76,21 +76,23 @@ while read -r LINE ; do
 
     if [ -z "$ENCODAGE" ]; then
         if [ -z "$NB_MOTS" ]; then
-            ENCODAGE_OU_PAS='non supporté'
-            echo -e "\
-                <tr class=\"is-warning\">
-                    <td>$NB_LIGNE</td>
-                    <td>$LINE</td>
-                    <td>$CODE</td>
-                    <td>$ENCODAGE_OU_PAS</td>
-                    <td>ERREUR</td>
-                    <td>ERREUR</td>
-                    <td>ERREUR</td>
-                    <td>ERREUR</td>
-                    <td>ERREUR</td>
-                    <td>ERREUR</td>
-                </tr>" >> "$SORTIE"
-            continue
+            if [ -z "$COUNT=" ]; then
+                ENCODAGE_OU_PAS='non supporté'
+                echo -e "\
+                    <tr class=\"is-warning\">
+                        <td>$NB_LIGNE</td>
+                	<td><a href=\"$LINE\" title=\"$LINE\">$LINE</td>
+                        <td>$CODE</td>
+                        <td>$ENCODAGE_OU_PAS</td>
+                        <td>ERREUR</td>
+                        <td>ERREUR</td>
+                        <td>ERREUR</td>
+                        <td>ERREUR</td>
+                        <td>ERREUR</td>
+                        <td>ERREUR</td>
+                    </tr>" >> "$SORTIE"
+                continue
+            fi
         fi
     fi
 
@@ -103,17 +105,17 @@ while read -r LINE ; do
     echo -e "\
             <tr>
                 <td>$NB_LIGNE</td>
-                <td>$LINE</td>
+                <td><a href=\"$LINE\" title=\"$LINE\">$LINE</td>
                 <td>$CODE</td>
                 <td>$ENCODAGE_OU_PAS</td>
                 <td>$NB_MOTS</td>
                 <td>$COUNT</td>
                 <td>$ROBOT</td>
-                <th><a href=\"$ASPIRATION\">$LANGUE-$NB_LIGNE.html</th>
-                <th><a href=\"$DUMP_INITIAL\">$LANGUE-$NB_LIGNE.txt</th>
-                <th><a href=\"$DUMP_UTF8\">$LANGUE-$NB_LIGNE-UTF8.txt</th>
-                <th><a href=\"$CONTEXTE\">$LANGUE-$NB_LIGNE.txt</th>
-                <th><a href=\"concordancier.html?f=$(basename $CONTEXTE)\">$LANGUE-$NB_LIGNE.txt</th>
+                <th><a target="_blank" href=\"$ASPIRATION\"><img src="web/download.png" alt="Download Aspiration"></th>
+                <th><a target="_blank" href=\"$DUMP_INITIAL\"><img src="web/download.png" alt="Download Dump"></th>
+                <th><a target="_blank" href=\"$CLEAN\"><img src="web/download.png" alt="Download Clean"></th>
+                <th><a target="_blank" href=\"$CONTEXTE\"><img src="web/download.png" alt="Download Contexte"></th>
+                <th><a href=\"concordancier.html?f=$(basename $CONTEXTE)\">$LANGUE-$NB_LIGNE</th>
             </tr>" >> "$SORTIE"
 done  < "$ENTREE"
 
