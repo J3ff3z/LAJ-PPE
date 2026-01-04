@@ -1,0 +1,870 @@
+HTTP/2 200 category: articles x-content-type-options: nosniff x-xss-protection:
+1; mode=block access-control-allow-origin: * strict-transport-security:
+max-age=31536000 etag: "668cad2e13e4f793d9c452a657466fd2-gzip" content-type:
+text/html; charset=UTF-8 version: 1.0 server: Microsoft IIS 4.0 cache-control:
+public, max-age=514177 date: Sun, 04 Jan 2026 17:25:17 GMT alt-svc: h3=":443";
+ma=93600
+
+(BUTTON) contenu principal
+(BUTTON) Accueil France Info
+  * Rechercher une actualité Recherche
+  * Direct TV TV
+  * Direct radio Radio
+  * Le live Live
+  * (BUTTON) Services
+  + Newsletters (Nouvelle fenêtre)
+  + Météo (Nouvelle fenêtre)
+  + Jeux (Nouvelle fenêtre)
+  + Scolarité
+  * (BUTTON) Mon espace
+  + S'inscrire
+  + Se connecter
+  + À lire plus tard
+  + Mes commentaires
+  + Mes newsletters
+  + Mes informations
+  + Se déconnecter
+
+  * Accueil
+  * (BUTTON) Menu
+  * Grands formats
+  * Enquêtes
+  * Vrai ou faux
+  * Brandt
+  * Colère des agriculteurs
+  * Budget 2026
+
+France Info France Info (BUTTON)
+Rechercher sur franceinfo
+____________________
+(BUTTON) Annuler la saisie
+  * Accueil
+
+En ce moment
+  * Brandt
+  * Colère des agriculteurs
+  * Budget 2026
+
+  * Grands formats
+  * Enquêtes
+  * Vrai ou faux
+
+Rubriques
+  * L'actu pour les jeunes
+  * Une info transparente
+  * (BUTTON) Monde
+  * (BUTTON) Europe
+  * (BUTTON) Faits-divers
+  * (BUTTON) Politique
+  * (BUTTON) Société
+  * (BUTTON) Environnement
+  * (BUTTON) Sport
+  * (BUTTON) Culture
+  * (BUTTON) Éco / Conso
+  * (BUTTON) Santé
+  * (BUTTON) Sciences & technologies
+  * (BUTTON) Météo Météo
+  * (BUTTON) Jeux Jeux
+  * Dossiers
+
+  * (BUTTON) Services
+
+Recevez l'essentiel de l'actualité et restez à jour avec nos newsletters
+découvrir nos newsletters (Nouvelle fenêtre)
+Continuez votre exploration
+  * France 3 régions (nouvelle fenêtre) France 3 régions
+  * Outremer la 1ère (nouvelle fenêtre) Outremer la 1ère
+  * (BUTTON) france TV france TV
+  * (BUTTON) radio france radio france
+
+(BUTTON) Services Services
+  * Newsletters (nouvelle fenêtre) Newsletters
+  * Météo (nouvelle fenêtre) Météo
+  * Jeux (nouvelle fenêtre) Jeux
+  * Scolarité
+
+(BUTTON) Monde Monde
+voir toute l'actu Monde
+En ce moment
+  * Attaque antisémite en Australie
+  * Guerre en Ukraine
+  * Un an de la chute de Bachar al-Assad
+  * Guerre dans la bande de Gaza
+  * Guerre au Proche-Orient
+  * Voir plus de sujets monde
+
+Rubriques
+  * Afrique
+  * Amériques
+  * Asie-Pacifique
+  * Etats Unis d'Amérique
+  * Russie
+  * Chine
+  * Proche-orient
+  * Brésil
+  * ONU
+  * Otan
+  * Story Killers
+  * Conflit dans le Haut-Karabakh
+  * Guerre entre Israël et le Hamas
+  * Inondations meurtrières en Libye
+  * Séisme au Maroc
+
+(BUTTON) Europe Europe
+voir toute l'actu Europe
+En ce moment
+  * Guerre en Ukraine
+  * Voir plus de sujets europe
+
+Rubriques
+  * Guerre en Ukraine
+  * France
+  * Allemagne
+  * Sommet de l'UE
+  * Royaume-Uni
+  * Espagne
+  * Italie
+  * Belgique
+  * Brexit
+
+(BUTTON) Faits-divers Faits-divers
+voir toute l'actu Faits-divers
+En ce moment
+  * Cambriolage au musée du Louvre
+  * Procès de Frédéric Péchier
+  * Affaire Grégory
+  * Voir plus de sujets faits-divers
+
+Rubriques
+  * Meurtres
+  * Affaires
+  * Enlèvements
+  * Accidents
+  * Police
+  * Terrorisme
+  * Justice – Procès
+  * Evasions
+  * Incendies de forêt
+  * Mort de Nahel à Nanterre
+  * Disparition de Delphine Jubillar
+  * Attaque au couteau à Annecy
+  * Procès de l’attentat de Magnanville
+  * Disparition du petit Emile
+  * Incendie meurtrier à Wintzenheim
+
+(BUTTON) Politique Politique
+voir toute l'actu Politique
+En ce moment
+  * Gouvernement de Sébastien Lecornu
+  * Financement de la campagne 2007 de Sarkozy
+  * Voir plus de sujets politique
+
+Rubriques
+  * Élections municipales 2026
+  * Gouvernement de Gabriel Attal
+  * Assemblée nationale
+  * Sénat
+  * Emmanuel Macron
+  * Réforme des retraites 2023
+  * Les Républicains
+  * Renaissance
+  * Rassemblement national
+  * Parti socialiste
+  * La France insoumise
+  * Les Ecologistes - EELV
+  * Affaires
+  * Election présidentielle
+  * Toutes les élections
+
+(BUTTON) Société Société
+voir toute l'actu Société
+En ce moment
+  * Drogue et narcotrafic
+  * Laïcité
+  * Armée, sécurité et défense
+  * Affaires Sarkozy
+  * Violences sexuelles
+  * Immigration
+  * Voir plus de sujets société
+
+Rubriques
+  * Justice
+  * Drogue
+  * Education
+  * Egalité femmes-hommes
+  * Immigration
+  * Fin de vie
+  * IVG
+  * Maltraitance dans les Ehpad
+  * Droits des femmes
+  * Violences sexuelles
+  * Féminicides
+  * Laïcité
+  * Prisons
+  * Prostitution
+  * PMA
+  * Scolarité
+  * Calendrier des vacances scolaires
+  * Calendrier des jours fériés
+  * Résultats Bac
+  * Résultats Brevet
+  * Résultats Bts
+  * Résultats Cap
+  * Harcèlement scolaire
+  * Guide scolaire des parents
+
+(BUTTON) Environnement Environnement
+voir toute l'actu Environnement
+En ce moment
+  * Qualité de l'eau
+  * Crise climatique
+  * Voir plus de sujets environnement
+
+Rubriques
+  * Biodiversité
+  * Crise climatique
+  * Militants pour l'environnement
+  * Pollution
+  * Energie
+  * Actions écologiques
+  * Transition écologique de l'agriculture
+  * Évènements météorologiques extrêmes
+  * Catastrophes naturelles
+  * Outils de l'Ademe
+  * Outils environnement
+  * Problèmes de santé liés à l'environnement
+  * Le tableau de bord du réchauffement climatique
+  * Nos réponses à vos questions sur le climat
+  * Carte des restrictions d'eau
+  * Tableau de bord des nappes phréatiques
+  * Calculez votre empreinte carbone
+  * Calculez l'impact carbone de vos déplacements
+  * Trouvez des fruits et légumes de saison
+  * Triez mieux vos déchets
+
+(BUTTON) Sport Sport
+voir toute l'actu Sport
+En ce moment
+  * Directs
+  * Voir plus de sujets sport
+
+Rubriques
+  * Foot
+  * Cyclisme
+  * Tennis
+  * Rugby
+  * Formule 1
+  * Basket
+  * Handball
+  * Golf
+  * Jeux olympiques
+  * Jeux paralympiques
+  * Dakar
+  * 6 nations
+  * Roland-Garros
+  * Tour de France
+  * Coupe du monde de foot
+  * Mondiaux d'athlétisme
+  * Coupe du monde de rugby
+
+(BUTTON) Culture Culture
+voir toute l'actu Culture
+En ce moment
+  * Noël et fêtes de fin d'année
+  * Prix littéraires
+  * Voir plus de sujets culture
+
+Rubriques
+  * Musique
+  * Cinéma
+  * Séries
+  * Arts-Expos
+  * Spectacles
+  * Livres
+  * BD
+  * Mode
+  * Patrimoine
+  * Jeux Vidéo
+  * Festival de Cannes 2023
+  * Oscars 2024
+  * Victoires de la musique 2024
+  * Festival du livre de Paris 2024
+  * Les Molières
+  * Fête de la musique 2024
+  * Rock en Seine 2024
+  * Festivals d'été
+
+(BUTTON) Éco / Conso Éco / Conso
+voir toute l'actu Éco / Conso
+En ce moment
+  * Brandt
+  * Colère des agriculteurs
+  * Budget 2026
+  * Dermatose nodulaire
+  * Shein
+  * Réforme des retraites
+  * Voir plus de sujets éco / conso
+
+Rubriques
+  * Inflation
+  * Pouvoir d'achat
+  * Réforme des retraites 2023
+  * Chômage
+  * Crise
+  * Commerce
+  * Déficit
+  * Emploi
+  * Grève
+  * Impôts - Fiscalité
+  * Entreprises
+  * Industrie
+  * Médias
+  * Ménages
+  * Retraite
+  * Auto-entrepreneurs
+  * Aéronautique
+  * Automobile
+  * Transports
+  * Bourse
+  * Budget de la France
+  * Fraude
+  * Soldes d'hiver 2024
+
+(BUTTON) Santé Santé
+voir toute l'actu Santé
+En ce moment
+  * Grippe
+  * Scandale des eaux en bouteille
+  * Voir plus de sujets santé
+
+Rubriques
+  * Maladie
+  * Hôpital
+  * Covid-19
+  * Vaccin contre le Covid-19
+  * Cancer
+  * La crise de l’hôpital public
+  * Biologie - Génétique
+  * Médicament
+  * Alimentation
+  * Lutte contre le tabagisme
+  * Politique de santé
+  * Psycho - Bien-être
+  * Sport et santé
+  * Professions médicales
+  * Le tabou de la santé mentale
+
+(BUTTON) Sciences & technologies Sciences & technologies
+voir toute l'actu Sciences & technologies
+  * Mars
+  * OGM
+  * Météorites en Russie
+  * Astéroïde 2012 DA14
+  * High Tech
+  * Steak in-vitro
+  * Boson de Higgs
+  * Astronomie
+  * Espace
+  * Solar Impulse
+  * Homo naledi
+  * Dinosaures
+
+(BUTTON) Météo Météo
+Météo (Nouvelle fenêtre)
+  * Tsunami
+  * Séisme
+  * Avalanche
+  * Canicule
+  * Cyclone
+  * Intempéries
+  * Neige
+  * Orages
+  * Tempêtes
+  * Tornade
+  * Météo France (nouvelle fenêtre) Météo France
+  * Météo Paris (nouvelle fenêtre) Météo Paris
+  * Météo Lyon (nouvelle fenêtre) Météo Lyon
+  * Météo Marseille (nouvelle fenêtre) Météo Marseille
+  * Actualités météo
+
+(BUTTON) Jeux Jeux
+Jeux (Nouvelle fenêtre)
+  * Sudoku (nouvelle fenêtre) Sudoku
+  * Mots fléchés (nouvelle fenêtre) Mots fléchés
+  * Mots croisés (nouvelle fenêtre) Mots croisés
+  * Mots mystères (nouvelle fenêtre) Mots mystères
+  * Solitaire (nouvelle fenêtre) Solitaire
+  * Alphamo (nouvelle fenêtre) Alphamo
+  * 7 erreurs (nouvelle fenêtre) 7 erreurs
+  * FreeCell (nouvelle fenêtre) FreeCell
+  * Puzzle (nouvelle fenêtre) Puzzle
+
+(BUTTON) france TV france TV
+france TV (Nouvelle fenêtre)
+  * France 2 (nouvelle fenêtre) France 2
+  * France 3 (nouvelle fenêtre) France 3
+  * France 4 (nouvelle fenêtre) France 4
+  * France 5 (nouvelle fenêtre) France 5
+  * Lumni (nouvelle fenêtre) Lumni
+  * Okoo (nouvelle fenêtre) Okoo
+  * France tv & vous (nouvelle fenêtre) France tv & vous
+  * France tv le club (nouvelle fenêtre) France tv le club
+  * France tv lab (nouvelle fenêtre) France tv lab
+  * Les Médiateurs (nouvelle fenêtre) Les Médiateurs
+
+(BUTTON) radio france radio france
+radio france (Nouvelle fenêtre)
+  * France Inter (nouvelle fenêtre) France Inter
+  * ici (nouvelle fenêtre) ici
+  * France Culture (nouvelle fenêtre) France Culture
+  * France Musique (nouvelle fenêtre) France Musique
+  * Fip (nouvelle fenêtre) Fip
+  * Mouv' (nouvelle fenêtre) Mouv'
+  * Maison de la Radio et de la Musique (nouvelle fenêtre) Maison de la Radio et
+de la Musique
+  * La Médiatrice (nouvelle fenêtre) La Médiatrice
+
+Flash info
+(BUTTON) Fermer la notification
+
+lire l'article
+Cet article date de plus d'un an.
+
+"La dissolution, c'est le péché originel" : après la censure du gouvernement, le
+scénario qu'Emmanuel Macron voulait éviter a fini par se réaliser
+
+Le président de la République est revenu, jeudi soir, sur son choix de dissoudre
+l'Assemblée nationale au début de l'été. Il a reconnu une décision "pas
+comprise", sans pour autant esquisser un vrai mea culpa.
+(BUTTON) lire plus tard
+
+Pour sauvegarder cet article, connectez-vous ou créez un compte franceinfo
+
+Sans paiement. Sans abonnement.
+(BUTTON) Fermer la fenêtre d’activation des notifications France Info
+(BUTTON) créer votre compte
+(BUTTON) se connecter
+:
+
+(BUTTON) Fermer la fenêtre de présentation
+
+(BUTTON) précédent (BUTTON) suivant
+(BUTTON) commenter
+(BUTTON) partager
+  * Copier le lien
+  * Facebook
+  * Whatsapp
+  * X
+  * Email
+
+Article rédigé par Margaux Duguet, Laure Cometti
+France Télévisions
+Publié le 07/12/2024 08:16 Mis à jour le 07/12/2024 12:18
+Temps de lecture : 10min
+Emmanuel Macron à Strasbourg, au Palais universitaire, le 23 novembre 2024.
+(SARAH MEYSSONNIER / AFP) Emmanuel Macron à Strasbourg, au Palais universitaire,
+le 23 novembre 2024. (SARAH MEYSSONNIER / AFP)
+
+"Je ne comprends pas qu'Emmanuel Macron ne comprenne pas que les Français ne
+comprennent pas", ironise un député macroniste. L'objet de cette incompréhension
+entre le président de la République et l'opinion se résume en un choix : celui
+de dissoudre de l'Assemblée nationale. Lors de son allocution, jeudi 5 décembre,
+le chef de l'Etat s'est non seulement exprimé sur la censure du gouvernement de
+Michel Barnier, en promettant la nomination d'un nouveau Premier ministre "dans
+les prochains jours", mais il est aussi revenu plusieurs minutes sur sa
+décision, le 9 juin, de recourir à l'article 12 de la Constitution pour
+organiser des élections législatives anticipées.
+
+S'il a défendu une décision "inéluctable" après le résultat des européennes et
+la percée historique du Rassemblement national (RN), Emmanuel Macron a reconnu
+que cette "décision [n'avait] pas été comprise". "Beaucoup me l'ont reprochée,
+et beaucoup continuent de me la reprocher", a-t-il ajouté. "Le chef de l'Etat a
+tenté d'expliquer cette dissolution mais ça ne convainc pas l'opinion. Aux yeux
+d'une grande majorité des Français, c'est lui le responsable de cette
+situation", analyse Mathieu Gallard, directeur d'études chez Ipsos. Selon un
+sondage Odoxa pour Le Figaro, datant du 5 décembre, 46% des Français jugent
+Emmanuel Macron comptable de la situation actuelle, loin devant le RN (11%) et
+le Nouveau Front populaire (10%). De plus, ajoute Mathieu Gallard, "le mea culpa
+du président est extrêmement limité puisqu'il dit que l'opinion ne comprend pas
+ce qu'il a voulu faire. Ce n'est pas le positionnement idéal pour convaincre les
+Français".
+
+"Un échec incroyable"
+
+Dans le camp présidentiel, personne n'imaginait que le chef de l'Etat admette
+une faute stratégique. "Je ne m'attendais pas à ce qu'il fasse un mea culpa,
+sourit le député Ensemble pour la République (EPR) Eric Bothorel. Je l'avais vu
+cet été, et à aucun moment, il n'avait fait la moindre concession pour dire que
+c'était une mauvaise idée. Ce n'est pas hier soir qu'il allait le faire".
+Pourtant, observe Mathieu Gallard, la dissolution "est le péché originel duquel
+découle l'absence totale de majorité et l'instabilité gouvernementale". Emmanuel
+Macron, qui vantait un "temps de clarification indispensable" dans son discours
+de dissolution, se retrouve avec un gouvernement censuré quelques semaines après
+sa nomination et une Assemblée fracturée en trois blocs irréconciliables. Sans
+compter le fait qu'il ne peut dissoudre à nouveau la chambre basse du Parlement
+avant l'été prochain. Une crise politique inédite sous la Ve République.
+
+"C'était stupide d'organiser une élection législative dans la foulée d'une
+élection européenne qu'on perd. En politique, il y a des dynamiques. Or, la
+dynamique lui est tout à fait contraire", juge, dans un documentaire diffusé
+jeudi sur France Télévisions, la présidente du groupe RN, Marine Le Pen. "C'est
+un échec incroyable", cingle, de son côté, Patrick Kanner, patron des sénateurs
+PS, sans compter que "[Michel] Barnier avait été présenté comme un profil qui
+pouvait durer". Résultat : l'ancien commissaire européen est le Premier ministre
+le plus éphémère depuis 1958.
+
+"Personne ne peut dire que la dissolution était une bonne idée, avec 100 députés
+de moins pour nous et tout le bordel", reconnaît aujourd'hui un proche
+d'Emmanuel Macron, qui n'avait pourtant eu de cesse de justifier le choix
+présidentiel pendant tout l'été. Il faut néanmoins rappeler que les macronistes
+avaient été nombreux à critiquer de façon très virulente la décision de leur
+chef. "Emmanuel Macron a modernisé la France, a renforcé l’attractivité de ce
+pays, et il a tout cassé en une seule soirée, par un coup de tête, tout seul",
+juge sévèrement Jean-François Copé sur franceinfo.
+
+"Ce n'est pas une petite faute tactique qu'il a commise. Il a mis le pays à
+terre".
+
+Jean-François Copé
+
+sur franceinfo
+
+Les conséquences vont bien au-delà de la seule image d'un président abîmé. "On
+sent [qu'Emmanuel] Macron est démonétisé", observe un influent député EPR.
+Désormais, la petite musique d'une démission anticipée du chef de l'Etat
+– pourtant de nouveau écartée par le principal intéressé lors de son
+allocution – est agitée non seulement au sein de LFI ou du RN, mais aussi chez
+quelques personnalités plus centristes. "Il y a désormais une majorité de
+Français qui souhaite qu'il démissionne. Ce n'était pas le cas avant la
+dissolution", note Mathieu Gallard.
+
+"On ne perd jamais à demander l'avis des gens"
+
+C'est avant tout pour "redonner le choix" aux Français qu'Emmanuel Macron
+justifiait sa décision en juin, exposant ses troupes à une campagne aussi
+difficile que rapide. Quatre mois plus tard, cet argument reste défendu par une
+partie de ses troupes. "On peut penser que c'était une connerie, une faute
+politique, mais on ne perd jamais à demander l'avis des gens. Les Français sont
+divisés en trois blocs qui ne se parlent pas. C'est l'état de la société",
+constate un conseiller de l'exécutif. "Je veux bien qu'on se retourne vers le
+président, mais c'est le fruit des élections. On est obligés de faire avec ce
+que les Français nous ont donné comme résultat", abonde Eric Bothorel, pour qui
+le résultat des urnes ne peut être imputé à Emmanuel Macron.
+
+"Une fois que la décision de dissoudre est prise, le résultat final n'est pas
+celui du président, mais celui de l'expression libre des Français et des
+Françaises."
+
+Eric Bothorel, député macroniste
+
+à franceinfo
+
+Mais pour le socialiste Patrick Kanner, le résultat des urnes découle en partie
+d'une erreur d'appréciation du chef de l'Etat. Le camp macroniste, forcé de
+faire campagne dans un délai très court, avait misé sur les divisions de ses
+adversaires de gauche. "Emmanuel Macron pensait sérieusement que la campagne
+extrêmement dure faite par Jean-Luc Mélenchon contre Raphaël Glucksmann aux
+européennes ne pouvait pas se traduire par un nouvel accord électoral, or, on
+s'est soudé", avance le patron des sénateurs PS.
+
+En convoquant des élections anticipées, le chef de l'Etat voulait aussi et
+surtout tenter d'éviter une motion de censure qui serait votée à la rentrée.
+"L'équation parlementaire devenait difficilement tenable, les oppositions ayant
+dit plusieurs fois leur volonté de voter une motion de censure à l'automne",
+plaide-t-il lors d'une conférence de presse organisée deux jours après l'annonce
+surprise de la dissolution. "La censure, c'est notre arme anti-impôts",
+prévenait dès avril Olivier Marleix, le président du groupe Les Républicains à
+l'Assemblée dans Les Echos, à propos du futur budget.
+
+Eviter une censure à l'automne, un argument qui n'a pas conquis les électeurs
+
+"La censure était programmée pour le 15 octobre, Olivier Marleix la brandissait
+tous les jours", rappelle aujourd'hui François Patriat, sénateur macroniste de
+Côte-d'Or. "Mieux valait avoir une dissolution décidée qu'une dissolution subie
+à l'automne, et se faire imposer le calendrier", retrace-t-il. "Emmanuel Macron
+pense qu’il faut être en mouvement, à l’initiative, et ne pas subir le coup,
+explique un proche. C'est soit : 'Je dissous et j'essaye d'impulser une
+dynamique', soit 'Je dissous parce que j'y suis forcé'. Son analyse est un peu
+erronée a posteriori, puisque les gens l'ont tenu responsable de la
+bordélisation. Ce qui n'aurait pas forcément été le cas s'il avait subi une
+motion de censure plus tard." En clair, un autre récit aurait été possible aux
+yeux de l'opinion avec un Emmanuel Macron qui n'aurait pas été à la manœuvre.
+
+D'autant que pour Mathieu Gallard, l'argument de la menace d'une censure n'a pas
+imprimé dans l'opinion. "Ce n'est pas convaincant pour les Francais".
+
+"Cette idée d'une motion de censure forcément votée par LR à l'automne, ce n'est
+pas quelque chose que les Français entendaient de façon si claire".
+
+Mathieu Gallard, directeur d'études chez Ipsos
+
+à franceinfo
+
+Depuis 2022, le parti de droite brandissait régulièrement la menace d'une motion
+de censure contre les gouvernements d'Elisabeth Borne puis de Gabriel Attal, ce
+qui ne l'avait pas empêché de soutenir majoritairement l'exécutif lors des
+motions de censure déclenchées notamment par la réforme des retraites.
+
+Dans le camp présidentiel, certains estiment aujourd'hui qu'en cas de statu quo,
+la droite allait forcément finir par voter la censure en raison du contexte
+budgétaire difficile et des révélations successives sur le dérapage des finances
+publiques. "Comme le pot au rose allait être découvert, la motion de censure
+serait passée. Mais ce n'était pas le bon timing, c'était précipité", juge
+l'ancien député MoDem Bruno Millienne.
+
+Avec l'adoption de la motion de censure contre le gouvernement de Michel
+Barnier, le scénario que le président voulait à tout prix éviter a fini par se
+réaliser. "Tout ça pour en arriver là... Je n'ai pas vu l’œuvre de
+clarification", raillait un député du bloc central après le vote mercredi soir.
+Contraint à l'effacement depuis la rentrée, Emmanuel Macron revient sur le
+devant de la scène nationale après la censure de son Premier ministre. Au risque
+de cristalliser, une nouvelle fois, les tensions sur sa personne.
+  * accueil
+  * (BUTTON) lire plus tard
+  * (BUTTON) commenter
+  * (BUTTON) partager
+
+(BUTTON) commenter
+(BUTTON) partager
+  * Copier le lien
+  * Facebook
+  * Whatsapp
+  * X
+  * Email
+
+  *
+  *
+  *
+  *
+  *
+
+À regarder
+(BUTTON) passer cette liste
+(BUTTON) Afficher les liens précédents (BUTTON) Afficher les liens suivants
+  * Grippe : des médecins réquisitionnés en colère (France 2) Grippe : des
+médecins réquisitionnés en colère (France 2)
+Grippe : des médecins réquisitionnés en colère
+• 3 min
+  * Inondations : état d'urgence en Californie (France 2) Inondations : état
+d'urgence en Californie (France 2)
+Inondations : état d'urgence en Californie
+• 3 min
+  * Laurent Vinatier : un espoir de libération ? (France 2) Laurent Vinatier :
+un espoir de libération ? (France 2)
+Laurent Vinatier : un espoir de libération ?
+• 3 min
+  * Au Royaume-Uni, la pub sur la malbouffe bientôt limitée (RADIO FRANCE /
+FRANCEINFO) Au Royaume-Uni, la pub sur la malbouffe bientôt limitée (RADIO
+FRANCE / FRANCEINFO)
+Au Royaume-Uni, la pub sur la malbouffe bientôt limitée
+• 3 min
+  * - (C quoi l'info ?) - (C quoi l'info ?)
+Football : cette année, on n'a pas de Boxing Day
+• 2 min
+  * Royaume-Uni : les homards éviteront-ils l'eau bouillante ? (France 2)
+Royaume-Uni : les homards éviteront-ils l'eau bouillante ? (France 2)
+Royaume-Uni : les homards éviteront-ils l'eau bouillante ?
+• 3 min
+  * Noël : privés de chauffage et d'ascenseur (France 2) Noël : privés de
+chauffage et d'ascenseur (France 2)
+Noël : privés de chauffage et d'ascenseur
+• 2 min
+  * Donald Trump bannit 5 personnalités européennes (France 2) Donald Trump
+bannit 5 personnalités européennes (France 2)
+Donald Trump bannit cinq personnalités européennes
+• 2 min
+  * Les téléfilms de Noël : la magie Hallmark ... (Stéphanie Berlu) Les
+téléfilms de Noël : la magie Hallmark ... (Stéphanie Berlu)
+Les téléfilms de Noël : la magie Hallmark ...
+• 2 min
+  * - (franceinfo) - (franceinfo)
+"S'il joue le dur..." : Washington met la pression militaire sur le Venezuela
+• 2 min
+  * Quartiers prioritaires : les filles se mettent au rugby (CFJ) Quartiers
+prioritaires : les filles se mettent au rugby (CFJ)
+Quartiers prioritaires : les filles se mettent au rugby
+• 3 min
+  * Droits de douane : la Chine cible les produits laitiers (France 2) Droits de
+douane : la Chine cible les produits laitiers (France 2)
+Droits de douane : la Chine cible les produits laitiers
+• 3 min
+  * - (franceinfo) - (franceinfo)
+Brandt : un nouvel espoir de reprise
+• 2 min
+  * Cyberattaque à La Poste : revendiquée par des pirates russes (France 2)
+Cyberattaque à La Poste : revendiquée par des pirates russes (France 2)
+Cyberattaque à La Poste : revendiquée par des pirates russes
+• 2 min
+  * Les virements interbancaires suspendus pendant 4 jours durant les fêtes
+(franceinfotv) Les virements interbancaires suspendus pendant 4 jours durant les
+fêtes (franceinfotv)
+Les virements interbancaires suspendus pendant 4 jours durant les fêtes
+• 2 min
+  * Vol Paris-Ibiza : un avion détourné à Clermont-Ferrand (franceinfotv) Vol
+Paris-Ibiza : un avion détourné à Clermont-Ferrand (franceinfotv)
+Vol Paris-Ibiza : un avion détourné à Clermont-Ferrand
+• 2 min
+  * Des bateaux échouent dans un trou au Royaume-Uni (franceinfotv) Des bateaux
+échouent dans un trou au Royaume-Uni (franceinfotv)
+Des bateaux échouent dans un trou après l'affaissement d'un canal au Royaume-Uni
+• 2 min
+  * Hérault : des habitants piégés par la montée des eaux (France 2) Hérault :
+des habitants piégés par la montée des eaux (France 2)
+Hérault : des habitants piégés par la montée des eaux
+• 2 min
+  * Faute d’avoir été payé, ce pilote mexicain refuse de décoller (RADIO FRANCE
+/ FRANCEINFO) Faute d’avoir été payé, ce pilote mexicain refuse de décoller
+(RADIO FRANCE / FRANCEINFO)
+Faute d’avoir été payé, ce pilote mexicain refuse de décoller
+• 2 min
+  * Téléphones, ordinateurs : un cambriolage à près de 40 millions d'euros
+(France 2) Téléphones, ordinateurs : un cambriolage à près de 40 millions
+d'euros (France 2)
+Téléphones, ordinateurs : un cambriolage à près de 40 millions d'euros
+• 2 min
+  * - (Jon Kopaloff / GETTY IMAGES NORTH AMERICA / Getty Images via AFP) - (Jon
+Kopaloff / GETTY IMAGES NORTH AMERICA / Getty Images via AFP)
+La Femme de ménage, best-seller mondial, sort au cinéma
+• 2 min
+  * Etats-Unis : le barbier du Père Noël (Agathe Mahuet) Etats-Unis : le barbier
+du Père Noël (Agathe Mahuet)
+Etats-Unis : le barbier du Père Noël
+• 2 min
+  * Cocaïne : saisie spectaculaire de la marine française (France 2) Cocaïne :
+saisie spectaculaire de la marine française (France 2)
+Cocaïne : saisie spectaculaire de la marine française
+• 2 min
+  * Explosion d'une maison : un drame évité de justesse (France 2) Explosion
+d'une maison : un drame évité de justesse (France 2)
+Explosion d'une maison : un drame évité de justesse
+• 3 min
+  * Grand Frais : la chaîne de magasins prévoit 1000 embauches (France 2) Grand
+Frais : la chaîne de magasins prévoit 1000 embauches (France 2)
+Grand Frais : la chaîne de magasins prévoit 1000 embauches
+• 2 min
+  * - (franceinfo) - (franceinfo)
+Donald Trump annonce une nouvelle classe de navires de guerre à son nom
+• 2 min
+  * - (franceinfo) - (franceinfo)
+Explosion dans les Yvelines : une mère et ses trois enfants grièvement blessés
+• 2 min
+  * Les raisons du succès de "All I Want for Christmas is you" (Réseaux sociaux)
+Les raisons du succès de "All I Want for Christmas is you" (Réseaux sociaux)
+Les raisons du succès de "All I want for Christmas is you"
+• 3 min
+  * Noël : un Picasso pour 100 euros (France 2) Noël : un Picasso pour 100 euros
+(France 2)
+Noël : un Picasso pour 100 euros
+• 2 min
+  * - (C quoi l'info) - (C quoi l'info)
+Voici comment la France renforce son armée
+• 2 min
+
+  *
+  *
+  *
+  *
+  *
+
+les mots-clés associés à cet article
+  * Emmanuel Macron
+  * Politique
+  * Gouvernement de Michel Barnier
+
+  *
+  *
+  *
+  *
+  *
+
+contenus sponsorisés
+
+Commentaires
+
+(BUTTON) Fermer la fenêtre Commentaires
+
+Connectez-vous ou créez votre espace franceinfo pour commenter.
+
+(BUTTON) se connecter
+
+Pas encore de compte ? S'inscrire
+
+(BUTTON)
+
+Découvrez l’application France Info
+
+Toute l’actu en direct et en continu, où et quand vous voulez.
+  * Sauvegardez vos articles à lire plus tard
+  * Recevez les alertes uniquement sur ce qui vous intéresse
+
+  * Télécharger dans l'App Store Télécharger dans l'App Store
+  * Disponible sur Google Play Disponible sur Google Play
+
+Télécharger l'application (Nouvelle fenêtre)
+
+ 1. Accueil
+ 2. Politique
+ 3. Emmanuel Macron
+
+Abonnement Newsletter
+
+:toute l’actu dès 7h30
+
+Votre adresse e-mail
+____________________
+(BUTTON) s'inscrire
+
+Merci ! Votre inscription est bien prise en compte.
+
+France Télévisions utilise votre adresse e-mail afin de vous adresser des
+newsletters.
+Pour exercer vos droits, contactez-nous.
+Notre politique de confidentialité
+
+Suivez-nous sur les réseaux sociaux :
+  * France Info sur Facebook (Nouvelle fenêtre)
+  * France Info sur X, anciennement Twitter (Nouvelle fenêtre)
+  * France Info sur Instagram (Nouvelle fenêtre)
+  * France Info sur Youtube (Nouvelle fenêtre)
+  * France Info sur Tiktok (Nouvelle fenêtre)
+
+Accueil France Info
+
+Suivez l'actualité en direct :
+  * le live
+  * direct tv
+  * direct radio
+
+Retrouvez aussi
+La météo Les jeux
+
+  * Politique de confidentialité (Nouvelle fenêtre)
+  * CGU et mentions légales
+  * Gérer mes traceurs
+  * Plan du site
+  * Plan du site recherche
+  * Qui sommes-nous ?
+  * Nous contacter
+
+  * Accessibilité (partiellement conforme)
+  * Charte déontologique
+  * Charte du Live
+  * Assistant vocal
+  * Devenir annonceur (Nouvelle fenêtre)
+  * Recrutement (Nouvelle fenêtre)
+
+L’application France Info
+(BUTTON) Fermer la notification
+
+Tout France Info, et bien plus. Sauvegardez vos articles à lire plus tard et
+filtrer l’actualité qui vous intéresse
+Télécharger l’application
+
+Activez les notifications franceinfo et ne manquez rien de l’actualité
+
+Vous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.
+(BUTTON) Fermer la fenêtre d’activation des notifications France Info
+(BUTTON) plus tard
+(BUTTON) activer
+
+[tr?id=882125681855230&ev=PageView&noscript=1]

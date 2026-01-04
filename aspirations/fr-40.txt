@@ -1,0 +1,1186 @@
+HTTP/2 200 
+server: nginx
+date: Sun, 04 Jan 2026 17:26:31 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+x-hacker: Want root?  Visit join.a8c.com/hacker and mention this header.
+host-header: WordPress.com
+vary: accept, content-type, cookie
+x-pingback: https://incisivepolitique.wordpress.com/xmlrpc.php
+link: <https://wp.me/p2Jwid-23>; rel=shortlink
+x-ac: 1.ams _dfw STALE
+alt-svc: h3=":443"; ma=86400
+strict-transport-security: max-age=31536000
+server-timing: a8c-cdn, dc;desc=ams, cache;desc=STALE;dur=2.0
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="fr-FR">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="fr-FR">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="fr-FR">
+<![endif]-->
+<!--[if !(IE 6) & !(IE 7) & !(IE 8)]><!-->
+<html lang="fr-FR">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<title>Le ministre et son péché | Incisive Politique</title>
+
+	<link rel="pingback" href="https://incisivepolitique.wordpress.com/xmlrpc.php" />
+	<!--[if lt IE 9]>
+		<script src="https://s0.wp.com/wp-content/themes/pub/manifest/js/html5.js?m=1315596887i" type="text/javascript"></script>
+	<![endif]-->
+
+	<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//af.pubmine.com' />
+<link rel="alternate" type="application/rss+xml" title="Incisive Politique &raquo; Flux" href="https://incisivepolitique.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Incisive Politique &raquo; Flux des commentaires" href="https://incisivepolitique.wordpress.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Incisive Politique &raquo; Le ministre et son&nbsp;péché Flux des commentaires" href="https://incisivepolitique.wordpress.com/2012/11/30/le-ministre-et-son-peche/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-1' href='/_static/??-eJx9jdsKwjAQRH/IuBal4oP4LWm6jdskm9DdUPx7q4jiBR/PMGcG5mJcZkVWSNWUWD2xwIharAsPBqkMKfc1osCE0Sr2pmTRD1o7kRX8XowU8LV7p696F7N/CslOAZXYm85OsFTfk39fxAMx6QX0jGl5LbVbZKYBRW/eKR2bfdu0u82h3Y5XK4tg5A==&cssminify=yes' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-2-1' href='/wp-content/plugins/gutenberg-core/v22.2.0/build/styles/block-library/style.css?m=1764855221i&cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+.has-text-align-justify{text-align:justify;}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style><style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--albert-sans: 'Albert Sans', sans-serif;--wp--preset--font-family--alegreya: Alegreya, serif;--wp--preset--font-family--arvo: Arvo, serif;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda', serif;--wp--preset--font-family--bricolage-grotesque: 'Bricolage Grotesque', sans-serif;--wp--preset--font-family--cabin: Cabin, sans-serif;--wp--preset--font-family--chivo: Chivo, sans-serif;--wp--preset--font-family--commissioner: Commissioner, sans-serif;--wp--preset--font-family--cormorant: Cormorant, serif;--wp--preset--font-family--courier-prime: 'Courier Prime', monospace;--wp--preset--font-family--crimson-pro: 'Crimson Pro', serif;--wp--preset--font-family--dm-mono: 'DM Mono', monospace;--wp--preset--font-family--dm-sans: 'DM Sans', sans-serif;--wp--preset--font-family--dm-serif-display: 'DM Serif Display', serif;--wp--preset--font-family--domine: Domine, serif;--wp--preset--font-family--eb-garamond: 'EB Garamond', serif;--wp--preset--font-family--epilogue: Epilogue, sans-serif;--wp--preset--font-family--fahkwang: Fahkwang, sans-serif;--wp--preset--font-family--figtree: Figtree, sans-serif;--wp--preset--font-family--fira-sans: 'Fira Sans', sans-serif;--wp--preset--font-family--fjalla-one: 'Fjalla One', sans-serif;--wp--preset--font-family--fraunces: Fraunces, serif;--wp--preset--font-family--gabarito: Gabarito, system-ui;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono', monospace;--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans', sans-serif;--wp--preset--font-family--ibarra-real-nova: 'Ibarra Real Nova', serif;--wp--preset--font-family--instrument-serif: 'Instrument Serif', serif;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--font-family--josefin-sans: 'Josefin Sans', sans-serif;--wp--preset--font-family--jost: Jost, sans-serif;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville', serif;--wp--preset--font-family--libre-franklin: 'Libre Franklin', sans-serif;--wp--preset--font-family--literata: Literata, serif;--wp--preset--font-family--lora: Lora, serif;--wp--preset--font-family--merriweather: Merriweather, serif;--wp--preset--font-family--montserrat: Montserrat, sans-serif;--wp--preset--font-family--newsreader: Newsreader, serif;--wp--preset--font-family--noto-sans-mono: 'Noto Sans Mono', sans-serif;--wp--preset--font-family--nunito: Nunito, sans-serif;--wp--preset--font-family--open-sans: 'Open Sans', sans-serif;--wp--preset--font-family--overpass: Overpass, sans-serif;--wp--preset--font-family--pt-serif: 'PT Serif', serif;--wp--preset--font-family--petrona: Petrona, serif;--wp--preset--font-family--piazzolla: Piazzolla, serif;--wp--preset--font-family--playfair-display: 'Playfair Display', serif;--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans', sans-serif;--wp--preset--font-family--poppins: Poppins, sans-serif;--wp--preset--font-family--raleway: Raleway, sans-serif;--wp--preset--font-family--roboto: Roboto, sans-serif;--wp--preset--font-family--roboto-slab: 'Roboto Slab', serif;--wp--preset--font-family--rubik: Rubik, sans-serif;--wp--preset--font-family--rufina: Rufina, serif;--wp--preset--font-family--sora: Sora, sans-serif;--wp--preset--font-family--source-sans-3: 'Source Sans 3', sans-serif;--wp--preset--font-family--source-serif-4: 'Source Serif 4', serif;--wp--preset--font-family--space-mono: 'Space Mono', monospace;--wp--preset--font-family--syne: Syne, sans-serif;--wp--preset--font-family--texturina: Texturina, serif;--wp--preset--font-family--urbanist: Urbanist, sans-serif;--wp--preset--font-family--work-sans: 'Work Sans', sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-albert-sans-font-family{font-family: var(--wp--preset--font-family--albert-sans) !important;}.has-alegreya-font-family{font-family: var(--wp--preset--font-family--alegreya) !important;}.has-arvo-font-family{font-family: var(--wp--preset--font-family--arvo) !important;}.has-bodoni-moda-font-family{font-family: var(--wp--preset--font-family--bodoni-moda) !important;}.has-bricolage-grotesque-font-family{font-family: var(--wp--preset--font-family--bricolage-grotesque) !important;}.has-cabin-font-family{font-family: var(--wp--preset--font-family--cabin) !important;}.has-chivo-font-family{font-family: var(--wp--preset--font-family--chivo) !important;}.has-commissioner-font-family{font-family: var(--wp--preset--font-family--commissioner) !important;}.has-cormorant-font-family{font-family: var(--wp--preset--font-family--cormorant) !important;}.has-courier-prime-font-family{font-family: var(--wp--preset--font-family--courier-prime) !important;}.has-crimson-pro-font-family{font-family: var(--wp--preset--font-family--crimson-pro) !important;}.has-dm-mono-font-family{font-family: var(--wp--preset--font-family--dm-mono) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-dm-serif-display-font-family{font-family: var(--wp--preset--font-family--dm-serif-display) !important;}.has-domine-font-family{font-family: var(--wp--preset--font-family--domine) !important;}.has-eb-garamond-font-family{font-family: var(--wp--preset--font-family--eb-garamond) !important;}.has-epilogue-font-family{font-family: var(--wp--preset--font-family--epilogue) !important;}.has-fahkwang-font-family{font-family: var(--wp--preset--font-family--fahkwang) !important;}.has-figtree-font-family{font-family: var(--wp--preset--font-family--figtree) !important;}.has-fira-sans-font-family{font-family: var(--wp--preset--font-family--fira-sans) !important;}.has-fjalla-one-font-family{font-family: var(--wp--preset--font-family--fjalla-one) !important;}.has-fraunces-font-family{font-family: var(--wp--preset--font-family--fraunces) !important;}.has-gabarito-font-family{font-family: var(--wp--preset--font-family--gabarito) !important;}.has-ibm-plex-mono-font-family{font-family: var(--wp--preset--font-family--ibm-plex-mono) !important;}.has-ibm-plex-sans-font-family{font-family: var(--wp--preset--font-family--ibm-plex-sans) !important;}.has-ibarra-real-nova-font-family{font-family: var(--wp--preset--font-family--ibarra-real-nova) !important;}.has-instrument-serif-font-family{font-family: var(--wp--preset--font-family--instrument-serif) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-josefin-sans-font-family{font-family: var(--wp--preset--font-family--josefin-sans) !important;}.has-jost-font-family{font-family: var(--wp--preset--font-family--jost) !important;}.has-libre-baskerville-font-family{font-family: var(--wp--preset--font-family--libre-baskerville) !important;}.has-libre-franklin-font-family{font-family: var(--wp--preset--font-family--libre-franklin) !important;}.has-literata-font-family{font-family: var(--wp--preset--font-family--literata) !important;}.has-lora-font-family{font-family: var(--wp--preset--font-family--lora) !important;}.has-merriweather-font-family{font-family: var(--wp--preset--font-family--merriweather) !important;}.has-montserrat-font-family{font-family: var(--wp--preset--font-family--montserrat) !important;}.has-newsreader-font-family{font-family: var(--wp--preset--font-family--newsreader) !important;}.has-noto-sans-mono-font-family{font-family: var(--wp--preset--font-family--noto-sans-mono) !important;}.has-nunito-font-family{font-family: var(--wp--preset--font-family--nunito) !important;}.has-open-sans-font-family{font-family: var(--wp--preset--font-family--open-sans) !important;}.has-overpass-font-family{font-family: var(--wp--preset--font-family--overpass) !important;}.has-pt-serif-font-family{font-family: var(--wp--preset--font-family--pt-serif) !important;}.has-petrona-font-family{font-family: var(--wp--preset--font-family--petrona) !important;}.has-piazzolla-font-family{font-family: var(--wp--preset--font-family--piazzolla) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-plus-jakarta-sans-font-family{font-family: var(--wp--preset--font-family--plus-jakarta-sans) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}.has-raleway-font-family{font-family: var(--wp--preset--font-family--raleway) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-roboto-slab-font-family{font-family: var(--wp--preset--font-family--roboto-slab) !important;}.has-rubik-font-family{font-family: var(--wp--preset--font-family--rubik) !important;}.has-rufina-font-family{font-family: var(--wp--preset--font-family--rufina) !important;}.has-sora-font-family{font-family: var(--wp--preset--font-family--sora) !important;}.has-source-sans-3-font-family{font-family: var(--wp--preset--font-family--source-sans-3) !important;}.has-source-serif-4-font-family{font-family: var(--wp--preset--font-family--source-serif-4) !important;}.has-space-mono-font-family{font-family: var(--wp--preset--font-family--space-mono) !important;}.has-syne-font-family{font-family: var(--wp--preset--font-family--syne) !important;}.has-texturina-font-family{font-family: var(--wp--preset--font-family--texturina) !important;}.has-urbanist-font-family{font-family: var(--wp--preset--font-family--urbanist) !important;}.has-work-sans-font-family{font-family: var(--wp--preset--font-family--work-sans) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-4-1' href='/_static/??-eJx9jksOwjAMRC9EcCsEFQvEUVA+FqTUSRQ77fVxVbEBxMaSZ+bZA0sxPifBJEDNlKndY2LwuaLqVKyAJghDtDghaWzvmXfwG1uKMsa5UpHZ6KTYyMhDQf7HjSjF+qdRaTuxGcAtvb3bjCnkCrZJJisS/RcFXD24FqcAM1ann1VcK/Pnvna50qUfTl3XH8+HYXwBNR1jhQ==&cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='verbum-gutenberg-css-css' href='https://widgets.wp.com/verbum-block-editor/block-editor.css?ver=1738686361' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-6-1' href='/wp-content/themes/pub/manifest/style.css?m=1741693338i&cssminify=yes' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-8-1' href='/_static/??-eJzTLy/QTc7PK0nNK9HPLdUtyClNz8wr1i9KTcrJTwcy0/WTi5G5ekCujj52Temp+bo5+cmJJZn5eSgc3bScxMwikFb7XFtDE1NLExMLc0OTLACohS2q&cssminify=yes' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='print-css-9-1' href='/wp-content/mu-plugins/global-print/global-print.css?m=1465851035i&cssminify=yes' type='text/css' media='print' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+/*# sourceURL=jetpack-global-styles-frontend-style-inline-css */
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-12-1' href='/_static/??-eJyNjcsKAjEMRX/IGtQZBxfip0hMS9sxTYppGfx7H7gRN+7ugcs5sFRHKi1Ig9Jd5R6zGMyhVaTrh8G6QFHfORhYwlvw6P39PbPENZmt4G/ROQuBKWVkxxrVvuBH1lIoz2waILJekF+HUzlupnG3nQ77YZwfuRJIaQ==&cssminify=yes' type='text/css' media='all' />
+<script type="text/javascript" id="jetpack_related-posts-js-extra">
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+//# sourceURL=jetpack_related-posts-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" id="wpcom-actionbar-placeholder-js-extra">
+/* <![CDATA[ */
+var actionbardata = {"siteID":"40401569","postID":"127","siteURL":"https://incisivepolitique.wordpress.com","xhrURL":"https://incisivepolitique.wordpress.com/wp-admin/admin-ajax.php","nonce":"dd4b6dffe1","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","shortlink":"https://wp.me/p2Jwid-23","i18n":{"followedText":"Les nouvelles publications de ce site appara\u00eetront d\u00e9sormais dans votre \u003Ca href=\"https://wordpress.com/reader\"\u003ELecteur\u003C/a\u003E","foldBar":"R\u00e9duire cette barre","unfoldBar":"Agrandir cette barre","shortLinkCopied":"Lien court copi\u00e9 dans le presse-papier"}};
+//# sourceURL=wpcom-actionbar-placeholder-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" id="jetpack-mu-wpcom-settings-js-before">
+/* <![CDATA[ */
+var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s0.wp.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/"};
+//# sourceURL=jetpack-mu-wpcom-settings-js-before
+/* ]]> */
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJxdjVsKwjAQRTdkOkYo7Y+4FMmLkphMhszE6u5tQUT9uhzuC1ZSrqIEFChdUe5LRIYUhIy7vRm4I1wjOrA9Zg8tZCPBK6os/EtDiTgkPsDXbtoyWRS1+nj+ezbX5fO61uaNZ+WyYQ68F10huJ92USzdbvVLOetpHI9aT/OcXlufRnE='></script>
+<script type="text/javascript" id="rlt-proxy-js-after">
+/* <![CDATA[ */
+	rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+//# sourceURL=rlt-proxy-js-after
+/* ]]> */
+</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://incisivepolitique.wordpress.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://incisivepolitique.wordpress.com/2012/11/30/le-ministre-et-son-peche/" />
+<link rel='shortlink' href='https://wp.me/p2Jwid-23' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fincisivepolitique.wordpress.com%2F2012%2F11%2F30%2Fle-ministre-et-son-peche%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fincisivepolitique.wordpress.com%2F2012%2F11%2F30%2Fle-ministre-et-son-peche%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Le ministre et son péché" />
+<meta property="og:url" content="https://incisivepolitique.wordpress.com/2012/11/30/le-ministre-et-son-peche/" />
+<meta property="og:description" content="Daniel Breton a démissionné hier. Il continuera de siéger comme simple député alors que ses responsabilités ministérielles – l’Environnement, le Développement Durable, la Faune et les Parcs – seron…" />
+<meta property="article:published_time" content="2012-11-30T19:37:34+00:00" />
+<meta property="article:modified_time" content="2012-11-30T19:40:35+00:00" />
+<meta property="og:site_name" content="Incisive Politique" />
+<meta property="og:image" content="https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=200&#038;ts=1767458727" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<meta name="twitter:text:title" content="Le ministre et son&nbsp;péché" />
+<meta name="twitter:image" content="https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=240" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=32" sizes="16x16" />
+<link rel="apple-touch-icon" href="https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=114" />
+<link rel='openid.server' href='https://incisivepolitique.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://incisivepolitique.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://incisivepolitique.wordpress.com/osd.xml" title="Incisive Politique" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="description" content="Daniel Breton a démissionné hier. Il continuera de siéger comme simple député alors que ses responsabilités ministérielles – l’Environnement, le Développement Durable, la Faune et les Parcs – seront temporairement attribuées à la Première Ministre Pauline Marois. Les circonstances particulières de ce départ semblent avoir nourries l’imaginaire collectif, donnant lieu à de troublantes théories de&hellip;" />
+<script type="text/javascript">
+/* <![CDATA[ */
+var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 40401569, 'blog_language': 'fr', 'is_wordads': false, 'hosting_type': 0, 'afp_account_id': null, 'afp_host_id': 5038568878849053, 'theme': 'pub/manifest', '_': { 'title': 'Publicité', 'privacy_settings': 'Réglages de confidentialité' }, 'formats': [ 'inline', 'belowpost', 'bottom_sticky', 'sidebar_sticky_right', 'sidebar', 'gutenberg_rectangle', 'gutenberg_leaderboard', 'gutenberg_mobile_leaderboard', 'gutenberg_skyscraper' ] };
+/* ]]> */
+</script>
+		<script type="text/javascript">
+
+			window.doNotSellCallback = function() {
+
+				var linkElements = [
+					'a[href="https://wordpress.com/?ref=footer_blog"]',
+					'a[href="https://wordpress.com/?ref=footer_website"]',
+					'a[href="https://wordpress.com/?ref=vertical_footer"]',
+					'a[href^="https://wordpress.com/?ref=footer_segment_"]',
+				].join(',');
+
+				var dnsLink = document.createElement( 'a' );
+				dnsLink.href = 'https://wordpress.com/fr/advertising-program-optout/';
+				dnsLink.classList.add( 'do-not-sell-link' );
+				dnsLink.rel = 'nofollow';
+				dnsLink.style.marginLeft = '0.5em';
+				dnsLink.textContent = 'Ne pas vendre ni partager mes informations personnelles';
+
+				var creditLinks = document.querySelectorAll( linkElements );
+
+				if ( 0 === creditLinks.length ) {
+					return false;
+				}
+
+				Array.prototype.forEach.call( creditLinks, function( el ) {
+					el.insertAdjacentElement( 'afterend', dnsLink );
+				});
+
+				return true;
+			};
+
+		</script>
+		<script id="cmp-configuration" type="application/configuration">{"gvlVersion":"140","consentLanguage":"FR","locale":"fr","vendorsAll":"BSUAOIRKgQQoJAQI4BAAhAEBiAYACECAAABAACAAAAAAABEAEAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAABAAAIAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAAIAAAgAAgAAAAAABAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA","vendorsLegInterest":"BSUAEAQKgAAoAAAIAAAAgAAACAIACAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAIAAAgAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA","ajaxUrl":"\/wp-admin\/admin-ajax.php","ajaxNonce":"99ae27ec3b","modulePath":"https:\/\/s0.wp.com\/wp-content\/blog-plugins\/wordads-classes\/js\/cmp\/v2\/","gvlPath":"https:\/\/public-api.wordpress.com\/wpcom\/v2\/sites\/40401569\/cmp\/v3\/vendors\/fr\/","_":{"title":"Confidentialit\u00e9 et cookies","intro":"Nous, WordPress.com, et nos partenaires publicitaires conservons et\/ou acc\u00e9dons aux informations sur votre appareil et traitons \u00e9galement vos donn\u00e9es personnelles, comme les identifiants uniques, l\u2019activit\u00e9 de navigation et d\u2019autres informations standard que votre appareil transmet, y compris votre adresse IP. Ces informations sont collect\u00e9es au fil du temps et utilis\u00e9es pour des publicit\u00e9s personnalis\u00e9es, la mesure de performance des publicit\u00e9s, des \u00e9tudes d\u2019audience et le d\u00e9veloppement de services sp\u00e9cifiques \u00e0 notre programme publicitaire. Si cela vous convient, s\u00e9lectionnez \u00ab\u00a0J\u2019accepte\u00a0!\u00a0\u00bb ci-apr\u00e8s. Sinon, vous pouvez obtenir plus d\u2019informations, personnaliser vos pr\u00e9f\u00e9rences en mati\u00e8re de consentement pour 50\u00a0fournisseurs publicitaires ou refuser le consentement en s\u00e9lectionnant \u00ab\u00a0Lire la suite\u00a0\u00bb. Notez que vos pr\u00e9f\u00e9rences s\u2019appliquent \u00e0 tous les sites Web du <a href=\"https:\/\/automattic.com\/cookies\/#user-ads-consent\" target=\"_blank\">r\u00e9seau WordPress.com<\/a>. Si vous changez d\u2019avis ult\u00e9rieurement, vous pouvez mettre \u00e0 jour vos pr\u00e9f\u00e9rences \u00e0 tout moment \u00e0 partir du lien relatif \u00e0 la confidentialit\u00e9 affich\u00e9 sous chaque publicit\u00e9 ou \u00e0 l\u2019aide de l\u2019option Confidentialit\u00e9 dans la barre d\u2019actions situ\u00e9e dans le coin inf\u00e9rieur droit de l\u2019\u00e9cran. Enfin, nos partenaires peuvent traiter certaines de vos donn\u00e9es en fonction d\u2019un int\u00e9r\u00eat l\u00e9gitime plut\u00f4t que sur la base de votre consentement. Vous pouvez toutefois refuser en s\u00e9lectionnant \u00ab\u00a0Lire la suite\u00a0\u00bb et en d\u00e9sactivant l\u2019option relative \u00e0 l\u2019int\u00e9r\u00eat l\u00e9gitime sous tout motif ou partenaire figurant dans la liste.","config":"En savoir plus","accept":"J\u2019accepte","viewPartners":"Voir les partenaires","error":"D\u00e9sol\u00e9, une erreur inattendue s\u2019est produite. Veuillez r\u00e9essayer plus tard."}}</script><script type="text/javascript">
+	window.google_analytics_uacct = "UA-52447-2";
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_setDomainName', 'wordpress.com']);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-2-3' href='/wp-content/mu-plugins/jetpack-plugin/sun/_inc/build/subscriptions/subscriptions.min.css?m=1753981412i&cssminify=yes' type='text/css' media='all' />
+</head>
+
+<body class="wp-singular post-template-default single single-post postid-127 single-format-standard wp-theme-pubmanifest customizer-styles-applied jetpack-reblog-enabled has-marketing-bar has-marketing-bar-theme-manifest">
+
+<div id="site-wrapper">
+	<h1 class="vcard author" id="site-title"><a href="https://incisivepolitique.wordpress.com/" title="Accueil" class="fn">Incisive Politique</a></h1>
+	<nav id="main-nav">
+		<ul id="menu-navigation" class="menu"><li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://incisivepolitique.wordpress.com/chroniques-politiques/" title="Archives">Chroniques politiques</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="https://incisivepolitique.wordpress.com/lectures-politiques/">Lectures Politiques</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://incisivepolitique.wordpress.com/a-propos/">Raison d&rsquo;être</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27"><a href="https://incisivepolitique.wordpress.com/plaidoyers-et-enjeux/">Plaidoyers et enjeux</a>
+<ul class="sub-menu">
+	<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://incisivepolitique.wordpress.com/plaidoyers-et-enjeux/la-crise-des-frais-de-scolarite/">La crise des frais de scolarité</a></li>
+	<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://incisivepolitique.wordpress.com/plaidoyers-et-enjeux/identites/">Identités</a></li>
+	<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://incisivepolitique.wordpress.com/plaidoyers-et-enjeux/la-question-nationale/">La question nationale</a></li>
+</ul>
+</li>
+</ul>	</nav>
+		<div id="header-image">
+		<a href="https://incisivepolitique.wordpress.com/" title="Accueil"><img src="https://incisivepolitique.wordpress.com/wp-content/uploads/2012/09/cropped-timthumb-php.png" width="500" height="160" alt="" /></a>
+	</div>
+		<div id="site-description">
+		Petite chronique &#8211; parfois impertinente, souvent mordante &#8211; sur l&#039;actualité politique québécoise	</div>
+
+<div id="core-content">
+
+
+	
+<div class="post-127 post type-post status-publish format-standard hentry category-environnement category-plq category-pq tag-daniel-breton tag-jean-marc-fournier tag-pauline-marois tag-plq tag-pq tag-yolande-james" id="post-127">
+	<div class="post-content">
+		<h3 class="entry-title">Le ministre et son&nbsp;péché</h3>		<h4 class="vcard author">par <span class="fn">Gabriel Myre</span></h4>
+
+				<div class="entry-content">
+			<p>Daniel Breton a <a href="http://www.lapresse.ca/actualites/quebec-canada/politique-quebecoise/201211/29/01-4598955-daniel-breton-demissionne.php?utm_categorieinterne=trafficdrivers&amp;utm_contenuinterne=cyberpresse_vous_suggere_4598702_article_POS3">démissionné hier</a>. Il continuera de siéger comme simple député alors que ses responsabilités ministérielles – l’Environnement, le Développement Durable, la Faune et les Parcs – seront temporairement attribuées à la Première Ministre Pauline Marois.</p>
+<p>Les circonstances particulières de ce départ semblent avoir nourries l’imaginaire collectif, donnant lieu à de troublantes théories de complot pour salir la réputation d’un ministre un peu trop bouillant pour son propre bien.</p>
+<p>Prenons un peu de recul, vous voulez-bien ?</p>
+<p>Dans la première semaine de son mandat, le ministre Breton était cohérent avec son message électoral : du changement, maintenant.</p>
+<p>Ses sorties peu nuancées lui ont valu l’inquiétude de certains chroniqueurs (notamment, Alain Dubuc) et des attaques répétées par l’opposition officielle. Notons cependant qu’il n’était pas le seul ministre à agir de la sorte (vous vous rappellez des propos de Martine Ouellet, de Marie Malavoy ou de Nicolas Marceau ?).</p>
+<p>Vient par la suite les interventions maladroites du ministre Breton envers le BAPE. Insatisfait de l’organisme depuis longtemps, le ministre Breton l’a, à toutes fins pratiques, décapité.</p>
+<p>Si le congédiement de deux hauts-placés du BAPE est une façon de procéder <a href="http://www.lapresse.ca/le-soleil/opinions/chroniqueurs/201211/16/01-4594825-le-bape-merite-mieux.php?utm_categorieinterne=trafficdrivers&amp;utm_contenuinterne=cyberpresse_lire_aussi_4594901_article_POS4">discutable</a>, il n’en reste pas moins que ceux qui ont été nommés pour prendre la relève jouissent d’une intégrité et d’une compétence indiscutables.</p>
+<p>La charge de l’Opposition Officielle sur la question de l’intégrité du BAPE est, au mieux, <a href="http://www.lapresse.ca/le-droit/opinions/editoriaux/pierre-jury/201211/16/01-4594901-bape-le-menage-etait-attendu.php?utm_categorieinterne=trafficdrivers&amp;utm_contenuinterne=cyberpresse_lire_aussi_4594193_article_POS4">fragile</a>. Dans le contexte particulier du gouvernement péquiste minoritaire, le Parti libéral a obtenu une commission parlementaire sur cette affaire avec l’appui de la CAQ, mais c’est surtout parce qu’on soupçonne le ministre de <a href="http://www.lapresse.ca/actualites/quebec-canada/politique-quebecoise/201211/15/01-4594193-le-plq-veut-la-tete-de-daniel-breton.php?utm_categorieinterne=trafficdrivers&amp;utm_contenuinterne=cyberpresse_lire_aussi_4594243_article_POS2">s’être rendu au BAPE le 24 octobre pour faire les gros yeux à des fonctionnaires une fois les portes fermées.</a></p>
+<p>En réalité, ce dossier pue la partisannerie. Une fois la commission parlementaire <a href="http://www.radio-canada.ca/nouvelles/Politique/2012/11/22/002-environnement-breton-commission.shtml">obtenue</a>, Jean-Marc Fournier et Yolande James ont continué de demander la démission du ministre Breton. Venant de députés qui ont défendu l’intégrité d’un certain ministre de la Famille qui ne s&rsquo;est jamais expliqué après un rapport du Vérificateur-Général, difficile de ne pas y voir deux poids, deux mesures.</p>
+<p>C’est ce qui nous amène aux révélations choc de cette semaine dans les grands médias.</p>
+<p>Utilisant les informations personnelles fournies par le Parti Québécois, la Presse a fait sortir le plumitif (pour les non-juristes, il s’agit d’un registre dans lequel apparaissent toutes les infractions commises par un individu) du ministre Breton.</p>
+<p>Surprise : le plumitif du ministre <a href="http://www.lapresse.ca/actualites/quebec-canada/politique-quebecoise/201211/28/01-4598702-plusieurs-condamnations-pour-le-ministre-daniel-breton.php">était plus chargé</a> que ce à quoi on s’attendait.</p>
+<p>Entendons-nous, sans être très reluisant pour un officier public, ce n’est rien de très grave. Le député François Bonnardel de la CAQ, aurait traité le ministre de «<i>Bougon</i>». Est-ce que ça justifie, en soi, la démission du ministre?</p>
+<p>J’en doute.</p>
+<p>Venant d’un parti qui a déjà eu pour chef <a href="http://www.ledevoir.com/non-classe/90777/cocaine-boisclair-avoue">un homme à la consommation de cocaïne douteuse</a> pendant qu’il siégeait au Conseil des ministres, je ne peux m’empêcher de sourire à l’idée, ironique, que les petites infractions du ministre lui ont coûté sa carrière ministérielle.</p>
+<p>Karel Mayrand, <a href="http://quebec.huffingtonpost.ca/karel-mayrand/daniel-breton-demission_b_2211570.html?utm_hp_ref=fb&amp;src=sp&amp;comm_ref=false">dans le Huffington Post</a>, évoque un complot de l’élite bourgeoise pour empêcher le bon petit militant Breton de représenter le peuple. Allons !</p>
+<p>Soyons sérieux, même si c’était le Parti Libéral qui avait soufflé l’information aux grands médias, le Parti Québécois aurait pu s’en laver les mains assez facilement.</p>
+<p>Encore fallait-il gérer ce «scandale» de manière transparente et intelligente.</p>
+<p>Malheureusement, le ministre a commencé par tout nier en bloc. Au bureau de la Première Ministre, même son de cloche. Comme l’a expliqué Patrick Lagacé dans son <a href="http://blogues.lapresse.ca/lagace/2012/11/29/daniel-breton-demissionne-mechants-journalistes/">billet d’hier</a>, ce n’est qu’en fin de journée que le Parti Québécois a dû revenir sur ses déclarations précédentes pour confirmer la nouvelle.</p>
+<p>Ce petit manque de communication entre la chef et son ministre, ça, c’est inexcusable. Parce que soit la Première Ministre savait et elle a menti, soit elle l’ignorait et elle doit maintenant justifier son ignorance.</p>
+<p>Avec égards, le ministre n’a que lui à blâmer si sa tête a été livrée aux libéraux sur un plateau d’argent.</p>
+<div id="atatags-370373-695947a795f24">
+		<script type="text/javascript">
+			__ATA = window.__ATA || {};
+			__ATA.cmd = window.__ATA.cmd || [];
+			__ATA.cmd.push(function() {
+				__ATA.initVideoSlot('atatags-370373-695947a795f24', {
+					sectionId: '370373',
+					format: 'inread'
+				});
+			});
+		</script>
+	</div><span id="wordads-inline-marker" style="display: none;"></span><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Partager&nbsp;:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-twitter-127"
+				class="share-twitter sd-button share-icon"
+				href="https://incisivepolitique.wordpress.com/2012/11/30/le-ministre-et-son-peche/?share=twitter"
+				target="_blank"
+				aria-labelledby="sharing-twitter-127"
+				>
+				<span id="sharing-twitter-127" hidden>Cliquer pour partager sur X(ouvre dans une nouvelle fenêtre)</span>
+				<span>X</span>
+			</a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-facebook-127"
+				class="share-facebook sd-button share-icon"
+				href="https://incisivepolitique.wordpress.com/2012/11/30/le-ministre-et-son-peche/?share=facebook"
+				target="_blank"
+				aria-labelledby="sharing-facebook-127"
+				>
+				<span id="sharing-facebook-127" hidden>Cliquez pour partager sur Facebook(ouvre dans une nouvelle fenêtre)</span>
+				<span>Facebook</span>
+			</a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-linkedin-127"
+				class="share-linkedin sd-button share-icon"
+				href="https://incisivepolitique.wordpress.com/2012/11/30/le-ministre-et-son-peche/?share=linkedin"
+				target="_blank"
+				aria-labelledby="sharing-linkedin-127"
+				>
+				<span id="sharing-linkedin-127" hidden>Cliquez pour partager sur LinkedIn(ouvre dans une nouvelle fenêtre)</span>
+				<span>LinkedIn</span>
+			</a></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-tumblr-127"
+				class="share-tumblr sd-button share-icon"
+				href="https://incisivepolitique.wordpress.com/2012/11/30/le-ministre-et-son-peche/?share=tumblr"
+				target="_blank"
+				aria-labelledby="sharing-tumblr-127"
+				>
+				<span id="sharing-tumblr-127" hidden>Cliquez pour partager sur Tumblr(ouvre dans une nouvelle fenêtre)</span>
+				<span>Tumblr</span>
+			</a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-40401569-127-695947a7966e4' data-src='//widgets.wp.com/likes/index.html?ver=20260103#blog_id=40401569&amp;post_id=127&amp;origin=incisivepolitique.wordpress.com&amp;obj_id=40401569-127-695947a7966e4' data-name='like-post-frame-40401569-127-695947a7966e4' data-title='Aimer ou rebloguer'><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>J’aime</span></span> <span class='loading'>chargement&hellip;</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Similaire</em></h3>
+</div></div>					</div>
+	</div>
+	<div class="post-meta">
+						<div class="post-date"><span>Publié:</span> <abbr class="published" title="2012-11-30T14:37:34-0500"><a href="https://incisivepolitique.wordpress.com/2012/11/30/">30 novembre 2012</a></abbr></div>
+		<div class="categories"><span>Classé dans&nbsp;:</span> <a href="https://incisivepolitique.wordpress.com/category/environnement/" rel="category tag">Environnement</a>, <a href="https://incisivepolitique.wordpress.com/category/plq/" rel="category tag">PLQ</a>, <a href="https://incisivepolitique.wordpress.com/category/pq/" rel="category tag">PQ</a></div>
+		<span>Étiquettes&nbsp;:</span> <a href="https://incisivepolitique.wordpress.com/tag/daniel-breton/" rel="tag">Daniel Breton</a> : <a href="https://incisivepolitique.wordpress.com/tag/jean-marc-fournier/" rel="tag">Jean-Marc Fournier</a> : <a href="https://incisivepolitique.wordpress.com/tag/pauline-marois/" rel="tag">Pauline Marois</a> : <a href="https://incisivepolitique.wordpress.com/tag/plq/" rel="tag">PLQ</a> : <a href="https://incisivepolitique.wordpress.com/tag/pq/" rel="tag">PQ</a> : <a href="https://incisivepolitique.wordpress.com/tag/yolande-james/" rel="tag">Yolande James</a>	</div>
+</div>
+	<div id="comments">
+	
+	
+					<!-- If comments are open, but there are no comments. -->
+
+		 	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Laisser un commentaire <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2012/11/30/le-ministre-et-son-peche/#respond" style="display:none;">Annuler la réponse.</a></small></h3><form action="https://incisivepolitique.wordpress.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+
+
+<div class="comment-form__verbum transparent"></div><div class="verbum-form-meta"><input type='hidden' name='comment_post_ID' value='127' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+
+			<input type="hidden" name="highlander_comment_nonce" id="highlander_comment_nonce" value="54f3561339" />
+			<input type="hidden" name="verbum_show_subscription_modal" value="" /></div><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="7fedf7813b" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="214"/><script type="text/javascript">
+/* <![CDATA[ */
+document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
+/* ]]> */
+</script>
+</p></form>	</div><!-- #respond -->
+	</div>
+	<div class="navigation">
+		<div class="prev"><a href="https://incisivepolitique.wordpress.com/2012/11/08/la-torpille-liberale/" rel="prev">&laquo; Article précédent</a></div>
+		<div class="next"><a href="https://incisivepolitique.wordpress.com/2013/01/16/la-releve-liberale/" rel="next">Article suivant &raquo;</a></div>
+	</div>
+
+
+</div><!-- #core-content -->
+
+
+</div><!-- #site-wrapper -->
+
+<div id="footer">
+
+	
+<div id="supplementary" class="two">
+
+		<div id="first" class="widget-area" role="complementary">
+		
+		<aside id="recent-posts-2" class="widget widget_recent_entries">
+		<h4 class="widget-title">Articles récents</h4>
+		<ul>
+											<li>
+					<a href="https://incisivepolitique.wordpress.com/2013/06/08/le-sort-sacharne-sur-massimo-lecas/">Le sort s&rsquo;acharne sur Massimo Lecas&nbsp;?</a>
+									</li>
+											<li>
+					<a href="https://incisivepolitique.wordpress.com/2013/02/28/le-sommet-de-leducation-superieure-ou-comment-mettre-un-couvercle-sur-un-volcan-et-se-croiser-les-doigts-pour-que-ca-tienne/">Le Sommet de l’Éducation Supérieure (ou comment mettre un couvercle sur un volcan et se croiser les doigts pour que ça&nbsp;tienne…)</a>
+									</li>
+											<li>
+					<a href="https://incisivepolitique.wordpress.com/2013/01/16/la-releve-liberale/">Premier débat: La relève&nbsp;libérale</a>
+									</li>
+											<li>
+					<a href="https://incisivepolitique.wordpress.com/2012/11/30/le-ministre-et-son-peche/" aria-current="page">Le ministre et son&nbsp;péché</a>
+									</li>
+											<li>
+					<a href="https://incisivepolitique.wordpress.com/2012/11/08/la-torpille-liberale/">La torpille libérale</a>
+									</li>
+					</ul>
+
+		</aside><aside id="archives-2" class="widget widget_archive"><h4 class="widget-title">Archives</h4>
+			<ul>
+					<li><a href='https://incisivepolitique.wordpress.com/2013/06/'>juin 2013</a></li>
+	<li><a href='https://incisivepolitique.wordpress.com/2013/02/'>février 2013</a></li>
+	<li><a href='https://incisivepolitique.wordpress.com/2013/01/'>janvier 2013</a></li>
+	<li><a href='https://incisivepolitique.wordpress.com/2012/11/'>novembre 2012</a></li>
+	<li><a href='https://incisivepolitique.wordpress.com/2012/10/'>octobre 2012</a></li>
+	<li><a href='https://incisivepolitique.wordpress.com/2012/09/'>septembre 2012</a></li>
+			</ul>
+
+			</aside><aside id="nav_menu-2" class="widget widget_nav_menu"><h4 class="widget-title">Navigation</h4><div class="menu-navigation-container"><ul id="menu-navigation-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://incisivepolitique.wordpress.com/chroniques-politiques/" title="Archives">Chroniques politiques</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="https://incisivepolitique.wordpress.com/lectures-politiques/">Lectures Politiques</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://incisivepolitique.wordpress.com/a-propos/">Raison d&rsquo;être</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27"><a href="https://incisivepolitique.wordpress.com/plaidoyers-et-enjeux/">Plaidoyers et enjeux</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://incisivepolitique.wordpress.com/plaidoyers-et-enjeux/la-crise-des-frais-de-scolarite/">La crise des frais de scolarité</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://incisivepolitique.wordpress.com/plaidoyers-et-enjeux/identites/">Identités</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://incisivepolitique.wordpress.com/plaidoyers-et-enjeux/la-question-nationale/">La question nationale</a></li>
+</ul>
+</li>
+</ul></div></aside>	</div>
+	
+		<div id="second" class="widget-area" role="complementary">
+		<aside id="blog_subscription-2" class="widget widget_blog_subscription jetpack_subscription_widget"><h4 class="widget-title"><label for="subscribe-field">Suivre Incisive Politique par courriel</label></h4>
+
+			<div class="wp-block-jetpack-subscriptions__container">
+			<form
+				action="https://subscribe.wordpress.com"
+				method="post"
+				accept-charset="utf-8"
+				data-blog="40401569"
+				data-post_access_level="everybody"
+				id="subscribe-blog"
+			>
+				<p>Entrez votre adresse mail pour suivre ce blog et recevoir des notifications de nouveaux articles par mail.</p>
+				<p id="subscribe-email">
+					<label
+						id="subscribe-field-label"
+						for="subscribe-field"
+						class="screen-reader-text"
+					>
+						Adresse e-mail :					</label>
+
+					<input
+							type="email"
+							name="email"
+							autocomplete="email"
+							
+							style="width: 95%; padding: 1px 10px"
+							placeholder="Adresse e-mail"
+							value=""
+							id="subscribe-field"
+							required
+						/>				</p>
+
+				<p id="subscribe-submit"
+									>
+					<input type="hidden" name="action" value="subscribe"/>
+					<input type="hidden" name="blog_id" value="40401569"/>
+					<input type="hidden" name="source" value="https://incisivepolitique.wordpress.com/2012/11/30/le-ministre-et-son-peche/"/>
+					<input type="hidden" name="sub-type" value="widget"/>
+					<input type="hidden" name="redirect_fragment" value="subscribe-blog"/>
+					<input type="hidden" id="_wpnonce" name="_wpnonce" value="9cf8e8ec1f" />					<button type="submit"
+													class="wp-block-button__link"
+																	>
+						Suivre					</button>
+				</p>
+			</form>
+							<div class="wp-block-jetpack-subscriptions__subscount">
+					Rejoignez les 6 autres abonnés				</div>
+						</div>
+			
+</aside><aside id="blog-stats-2" class="widget widget_blog-stats"><h4 class="widget-title">Blog Stats</h4>		<ul>
+			<li>1&nbsp;258 hits</li>
+		</ul>
+		</aside>	</div>
+	
+</div>
+	<!-- Search Field -->
+	<div class="footer-content">
+		<form method="get" id="searchform" action="https://incisivepolitique.wordpress.com/">
+			<div id="search">
+				<input type="text" value="" name="s" id="s" />
+				<input type="submit" id="searchsubmit" value="Recherche" />
+			</div>
+		</form>
+		<p>
+			<a href="https://wordpress.com/?ref=footer_website" rel="nofollow">Créez un site Web ou un blog gratuitement sur WordPress.com.</a>
+					</p>
+	</div>
+</div><!-- #footer -->
+
+<!--  -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/files/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/pub/manifest/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="//0.gravatar.com/js/hovercards/hovercards.min.js?ver=202601924dcd77a86c6f1d3698ec27fc5da92b28585ddad3ee636c0397cf312193b2a1" id="grofiles-cards-js"></script>
+<script type="text/javascript" id="wpgroho-js-extra">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+//# sourceURL=wpgroho-js-extra
+/* ]]> */
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240i'></script>
+
+	<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init(
+					'body',
+					'#wp-admin-bar-my-account',
+					{
+						i18n: {
+							'Edit your profile →': 'Modifier votre profil →',
+							'View profile →': 'Afficher le profil →',
+							'Contact': 'Contact',
+							'Send money': 'Envoyer de l’argent',
+							'Sorry, we are unable to load this Gravatar profile.': 'Toutes nos excuses, nous ne parvenons pas à charger ce profil Gravatar.',
+							'Gravatar not found.': 'Gravatar not found.',
+							'Too Many Requests.': 'Trop de requêtes.',
+							'Internal Server Error.': 'Erreur de serveur interne.',
+							'Is this you?': 'C\'est bien vous ?',
+							'Claim your free profile.': 'Claim your free profile.',
+							'Email': 'E-mail',
+							'Home Phone': 'Téléphone fixe',
+							'Work Phone': 'Téléphone professionnel',
+							'Cell Phone': 'Cell Phone',
+							'Contact Form': 'Formulaire de contact',
+							'Calendar': 'Calendrier',
+						},
+					}
+				);
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+
+		<div style="display:none">
+	</div>
+		<!-- CCPA [start] -->
+		<script type="text/javascript">
+			( function () {
+
+				var setupPrivacy = function() {
+
+					// Minimal Mozilla Cookie library
+					// https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie/Simple_document.cookie_framework
+					var cookieLib = window.cookieLib = {getItem:function(e){return e&&decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(e).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null},setItem:function(e,o,n,t,r,i){if(!e||/^(?:expires|max\-age|path|domain|secure)$/i.test(e))return!1;var c="";if(n)switch(n.constructor){case Number:c=n===1/0?"; expires=Fri, 31 Dec 9999 23:59:59 GMT":"; max-age="+n;break;case String:c="; expires="+n;break;case Date:c="; expires="+n.toUTCString()}return"rootDomain"!==r&&".rootDomain"!==r||(r=(".rootDomain"===r?".":"")+document.location.hostname.split(".").slice(-2).join(".")),document.cookie=encodeURIComponent(e)+"="+encodeURIComponent(o)+c+(r?"; domain="+r:"")+(t?"; path="+t:"")+(i?"; secure":""),!0}};
+
+					// Implement IAB USP API.
+					window.__uspapi = function( command, version, callback ) {
+
+						// Validate callback.
+						if ( typeof callback !== 'function' ) {
+							return;
+						}
+
+						// Validate the given command.
+						if ( command !== 'getUSPData' || version !== 1 ) {
+							callback( null, false );
+							return;
+						}
+
+						// Check for GPC. If set, override any stored cookie.
+						if ( navigator.globalPrivacyControl ) {
+							callback( { version: 1, uspString: '1YYN' }, true );
+							return;
+						}
+
+						// Check for cookie.
+						var consent = cookieLib.getItem( 'usprivacy' );
+
+						// Invalid cookie.
+						if ( null === consent ) {
+							callback( null, false );
+							return;
+						}
+
+						// Everything checks out. Fire the provided callback with the consent data.
+						callback( { version: 1, uspString: consent }, true );
+					};
+
+					// Initialization.
+					document.addEventListener( 'DOMContentLoaded', function() {
+
+						// Internal functions.
+						var setDefaultOptInCookie = function() {
+							var value = '1YNN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 365 * 24 * 60 * 60, '/', domain );
+						};
+
+						var setDefaultOptOutCookie = function() {
+							var value = '1YYN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 24 * 60 * 60, '/', domain );
+						};
+
+						var setDefaultNotApplicableCookie = function() {
+							var value = '1---';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 24 * 60 * 60, '/', domain );
+						};
+
+						var setCcpaAppliesCookie = function( applies ) {
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'ccpa_applies', applies, 24 * 60 * 60, '/', domain );
+						}
+
+						var maybeCallDoNotSellCallback = function() {
+							if ( 'function' === typeof window.doNotSellCallback ) {
+								return window.doNotSellCallback();
+							}
+
+							return false;
+						}
+
+						// Look for usprivacy cookie first.
+						var usprivacyCookie = cookieLib.getItem( 'usprivacy' );
+
+						// Found a usprivacy cookie.
+						if ( null !== usprivacyCookie ) {
+
+							// If the cookie indicates that CCPA does not apply, then bail.
+							if ( '1---' === usprivacyCookie ) {
+								return;
+							}
+
+							// CCPA applies, so call our callback to add Do Not Sell link to the page.
+							maybeCallDoNotSellCallback();
+
+							// We're all done, no more processing needed.
+							return;
+						}
+
+						// We don't have a usprivacy cookie, so check to see if we have a CCPA applies cookie.
+						var ccpaCookie = cookieLib.getItem( 'ccpa_applies' );
+
+						// No CCPA applies cookie found, so we'll need to geolocate if this visitor is from California.
+						// This needs to happen client side because we do not have region geo data in our $SERVER headers,
+						// only country data -- therefore we can't vary cache on the region.
+						if ( null === ccpaCookie ) {
+
+							var request = new XMLHttpRequest();
+							request.open( 'GET', 'https://public-api.wordpress.com/geo/', true );
+
+							request.onreadystatechange = function () {
+								if ( 4 === this.readyState ) {
+									if ( 200 === this.status ) {
+
+										// Got a geo response. Parse out the region data.
+										var data = JSON.parse( this.response );
+										var region      = data.region ? data.region.toLowerCase() : '';
+										var ccpa_applies = ['california', 'colorado', 'connecticut', 'delaware', 'indiana', 'iowa', 'montana', 'new jersey', 'oregon', 'tennessee', 'texas', 'utah', 'virginia'].indexOf( region ) > -1;
+										// Set CCPA applies cookie. This keeps us from having to make a geo request too frequently.
+										setCcpaAppliesCookie( ccpa_applies );
+
+										// Check if CCPA applies to set the proper usprivacy cookie.
+										if ( ccpa_applies ) {
+											if ( maybeCallDoNotSellCallback() ) {
+												// Do Not Sell link added, so set default opt-in.
+												setDefaultOptInCookie();
+											} else {
+												// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+												setDefaultOptOutCookie();
+											}
+										} else {
+											// CCPA does not apply.
+											setDefaultNotApplicableCookie();
+										}
+									} else {
+										// Could not geo, so let's assume for now that CCPA applies to be safe.
+										setCcpaAppliesCookie( true );
+										if ( maybeCallDoNotSellCallback() ) {
+											// Do Not Sell link added, so set default opt-in.
+											setDefaultOptInCookie();
+										} else {
+											// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+											setDefaultOptOutCookie();
+										}
+									}
+								}
+							};
+
+							// Send the geo request.
+							request.send();
+						} else {
+							// We found a CCPA applies cookie.
+							if ( ccpaCookie === 'true' ) {
+								if ( maybeCallDoNotSellCallback() ) {
+									// Do Not Sell link added, so set default opt-in.
+									setDefaultOptInCookie();
+								} else {
+									// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+									setDefaultOptOutCookie();
+								}
+							} else {
+								// CCPA does not apply.
+								setDefaultNotApplicableCookie();
+							}
+						}
+					} );
+				};
+
+				// Kickoff initialization.
+				if ( window.defQueue && defQueue.isLOHP && defQueue.isLOHP === 2020 ) {
+					defQueue.items.push( setupPrivacy );
+				} else {
+					setupPrivacy();
+				}
+
+			} )();
+		</script>
+
+		<!-- CCPA [end] -->
+				<div id="actionbar" dir="ltr" style="display: none;"
+			class="actnbr-pub-manifest actnbr-has-follow actnbr-has-actions">
+		<ul>
+								<li class="actnbr-btn actnbr-hidden">
+						<a class="actnbr-action actnbr-actn-comment" href="https://incisivepolitique.wordpress.com/2012/11/30/le-ministre-et-son-peche/#respond">
+							<svg class="gridicon gridicons-comment" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M12 16l-5 5v-5H5c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h14c1.1 0 2 .9 2 2v9c0 1.1-.9 2-2 2h-7z"/></g></svg>							<span>Commentaire						</span>
+						</a>
+					</li>
+									<li class="actnbr-btn actnbr-hidden">
+						<a class="actnbr-action actnbr-actn-reblog" href="">
+							<svg class="gridicon gridicons-reblog" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M22.086 9.914L20 7.828V18c0 1.105-.895 2-2 2h-7v-2h7V7.828l-2.086 2.086L14.5 8.5 19 4l4.5 4.5-1.414 1.414zM6 16.172V6h7V4H6c-1.105 0-2 .895-2 2v10.172l-2.086-2.086L.5 15.5 5 20l4.5-4.5-1.414-1.414L6 16.172z"/></g></svg><span>Rebloguer</span>
+						</a>
+					</li>
+									<li class="actnbr-btn actnbr-hidden">
+								<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path clip-rule="evenodd" d="m4 4.5h12v6.5h1.5v-6.5-1.5h-1.5-12-1.5v1.5 10.5c0 1.1046.89543 2 2 2h7v-1.5h-7c-.27614 0-.5-.2239-.5-.5zm10.5 2h-9v1.5h9zm-5 3h-4v1.5h4zm3.5 1.5h-1v1h1zm-1-1.5h-1.5v1.5 1 1.5h1.5 1 1.5v-1.5-1-1.5h-1.5zm-2.5 2.5h-4v1.5h4zm6.5 1.25h1.5v2.25h2.25v1.5h-2.25v2.25h-1.5v-2.25h-2.25v-1.5h2.25z"  fill-rule="evenodd"></path></svg>
+			<span>S&#039;abonner</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill-rule="evenodd" clip-rule="evenodd" d="M16 4.5H4V15C4 15.2761 4.22386 15.5 4.5 15.5H11.5V17H4.5C3.39543 17 2.5 16.1046 2.5 15V4.5V3H4H16H17.5V4.5V12.5H16V4.5ZM5.5 6.5H14.5V8H5.5V6.5ZM5.5 9.5H9.5V11H5.5V9.5ZM12 11H13V12H12V11ZM10.5 9.5H12H13H14.5V11V12V13.5H13H12H10.5V12V11V9.5ZM5.5 12H9.5V13.5H5.5V12Z" fill="#008A20"></path><path class="following-icon-tick" d="M13.5 16L15.5 18L19 14.5" stroke="#008A20" stroke-width="1.5"></path></svg>
+			<span>Abonné</span>
+		</a>
+							<div class="actnbr-popover tip tip-top-left actnbr-notice" id="follow-bubble">
+							<div class="tip-arrow"></div>
+							<div class="tip-inner actnbr-follow-bubble">
+															<ul>
+											<li class="actnbr-sitename">
+			<a href="https://incisivepolitique.wordpress.com">
+				<img loading='lazy' alt='' src='https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=50&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' srcset='https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=50&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 1x, https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=75&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 1.5x, https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=100&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 2x, https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=150&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 3x, https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=200&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 4x' class='avatar avatar-50' height='50' width='50' />				Incisive Politique			</a>
+		</li>
+										<div class="actnbr-message no-display"></div>
+									<form method="post" action="https://subscribe.wordpress.com" accept-charset="utf-8" style="display: none;">
+																				<div>
+										<input type="email" name="email" placeholder="Saisissez votre adresse e-mail" class="actnbr-email-field" aria-label="Saisissez votre adresse e-mail" />
+										</div>
+										<input type="hidden" name="action" value="subscribe" />
+										<input type="hidden" name="blog_id" value="40401569" />
+										<input type="hidden" name="source" value="https://incisivepolitique.wordpress.com/2012/11/30/le-ministre-et-son-peche/" />
+										<input type="hidden" name="sub-type" value="actionbar-follow" />
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="9cf8e8ec1f" />										<div class="actnbr-button-wrap">
+											<button type="submit" value="M’inscrire">
+												M’inscrire											</button>
+										</div>
+									</form>
+									<li class="actnbr-login-nudge">
+										<div>
+											Vous disposez déjà dʼun compte WordPress ? <a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fincisivepolitique.wordpress.com%2F2012%2F11%2F30%2Fle-ministre-et-son-peche%2F&#038;signup_flow=account">Connectez-vous maintenant.</a>										</div>
+									</li>
+								</ul>
+															</div>
+						</div>
+					</li>
+									<li class="actnbr-btn actnbr-hidden no-display" onclick="javascript:__tcfapi( 'showUi' );">
+						<a class="actnbr-action actnbr-actn-privacy" href="#">
+							<svg class="gridicon gridicons-info-outline" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M13 9h-2V7h2v2zm0 2h-2v6h2v-6zm-1-7c-4.41 0-8 3.59-8 8s3.59 8 8 8 8-3.59 8-8-3.59-8-8-8m0-2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2z"/></g></svg>							<span>Confidentialité						</span>
+						</a>
+					</li>
+							<li class="actnbr-ellipsis actnbr-hidden">
+				<svg class="gridicon gridicons-ellipsis" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"/></g></svg>				<div class="actnbr-popover tip tip-top-left actnbr-more">
+					<div class="tip-arrow"></div>
+					<div class="tip-inner">
+						<ul>
+								<li class="actnbr-sitename">
+			<a href="https://incisivepolitique.wordpress.com">
+				<img loading='lazy' alt='' src='https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=50&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' srcset='https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=50&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 1x, https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=75&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 1.5x, https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=100&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 2x, https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=150&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 3x, https://secure.gravatar.com/blavatar/67dd1e8d40bb9763e705a8817b3ee91f6e535e3d1d27a6c125da4c919587dd29?s=200&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 4x' class='avatar avatar-50' height='50' width='50' />				Incisive Politique			</a>
+		</li>
+								<li class="actnbr-folded-follow">
+										<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path clip-rule="evenodd" d="m4 4.5h12v6.5h1.5v-6.5-1.5h-1.5-12-1.5v1.5 10.5c0 1.1046.89543 2 2 2h7v-1.5h-7c-.27614 0-.5-.2239-.5-.5zm10.5 2h-9v1.5h9zm-5 3h-4v1.5h4zm3.5 1.5h-1v1h1zm-1-1.5h-1.5v1.5 1 1.5h1.5 1 1.5v-1.5-1-1.5h-1.5zm-2.5 2.5h-4v1.5h4zm6.5 1.25h1.5v2.25h2.25v1.5h-2.25v2.25h-1.5v-2.25h-2.25v-1.5h2.25z"  fill-rule="evenodd"></path></svg>
+			<span>S&#039;abonner</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill-rule="evenodd" clip-rule="evenodd" d="M16 4.5H4V15C4 15.2761 4.22386 15.5 4.5 15.5H11.5V17H4.5C3.39543 17 2.5 16.1046 2.5 15V4.5V3H4H16H17.5V4.5V12.5H16V4.5ZM5.5 6.5H14.5V8H5.5V6.5ZM5.5 9.5H9.5V11H5.5V9.5ZM12 11H13V12H12V11ZM10.5 9.5H12H13H14.5V11V12V13.5H13H12H10.5V12V11V9.5ZM5.5 12H9.5V13.5H5.5V12Z" fill="#008A20"></path><path class="following-icon-tick" d="M13.5 16L15.5 18L19 14.5" stroke="#008A20" stroke-width="1.5"></path></svg>
+			<span>Abonné</span>
+		</a>
+								</li>
+														<li class="actnbr-signup"><a href="https://wordpress.com/start/">S’inscrire</a></li>
+							<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fincisivepolitique.wordpress.com%2F2012%2F11%2F30%2Fle-ministre-et-son-peche%2F&#038;signup_flow=account">Connexion</a></li>
+																<li class="actnbr-shortlink">
+										<a href="https://wp.me/p2Jwid-23">
+											<span class="actnbr-shortlink__text">Copier lien court</span>
+											<span class="actnbr-shortlink__icon"><svg class="gridicon gridicons-checkmark" height="16" width="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M9 19.414l-6.707-6.707 1.414-1.414L9 16.586 20.293 5.293l1.414 1.414"/></g></svg></span>
+										</a>
+									</li>
+																<li class="flb-report">
+									<a href="https://wordpress.com/abuse/?report_url=https://incisivepolitique.wordpress.com/2012/11/30/le-ministre-et-son-peche/" target="_blank" rel="noopener noreferrer">
+										Signaler ce contenu									</a>
+								</li>
+															<li class="actnbr-reader">
+									<a href="https://wordpress.com/reader/blogs/40401569/posts/127">
+										Voir la publication dans le Lecteur									</a>
+								</li>
+															<li class="actnbr-subs">
+									<a href="https://subscribe.wordpress.com/">Gérer les abonnements</a>
+								</li>
+																<li class="actnbr-fold"><a href="">Réduire cette barre</a></li>
+														</ul>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	
+<script>
+window.addEventListener( "DOMContentLoaded", function( event ) {
+	var link = document.createElement( "link" );
+	link.href = "/wp-content/mu-plugins/actionbar/actionbar.css?v=20250116";
+	link.type = "text/css";
+	link.rel = "stylesheet";
+	document.head.appendChild( link );
+
+	var script = document.createElement( "script" );
+	script.src = "/wp-content/mu-plugins/actionbar/actionbar.js?v=20250204";
+	document.body.appendChild( script );
+} );
+</script>
+
+	
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https://incisivepolitique.wordpress.com/2012/11/30/le-ministre-et-son-peche/":127};
+	</script>
+				
+	<script type="text/javascript">
+		(function () {
+			var wpcom_reblog = {
+				source: 'toolbar',
+
+				toggle_reblog_box_flair: function (obj_id, post_id) {
+
+					// Go to site selector. This will redirect to their blog if they only have one.
+					const postEndpoint = `https://wordpress.com/post`;
+
+					// Ideally we would use the permalink here, but fortunately this will be replaced with the 
+					// post permalink in the editor.
+					const originalURL = `${ document.location.href }?page_id=${ post_id }`; 
+					
+					const url =
+						postEndpoint +
+						'?url=' +
+						encodeURIComponent( originalURL ) +
+						'&is_post_share=true' +
+						'&v=5';
+
+					const redirect = function () {
+						if (
+							! window.open( url, '_blank' )
+						) {
+							location.href = url;
+						}
+					};
+
+					if ( /Firefox/.test( navigator.userAgent ) ) {
+						setTimeout( redirect, 0 );
+					} else {
+						redirect();
+					}
+				},
+			};
+
+			window.wpcom_reblog = wpcom_reblog;
+		})();
+	</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??/wp-content/blog-plugins/wordads-classes/js/watl-v2.js,/wp-content/mu-plugins/likes/queuehandler.js?m=1760446017j'></script>
+<script type="text/javascript" src="/wp-content/plugins/gutenberg-core/v22.2.0/build/scripts/hooks/index.min.js?m=1764855221i&amp;ver=1764773745495" id="wp-hooks-js"></script>
+<script type="text/javascript" src="/wp-content/plugins/gutenberg-core/v22.2.0/build/scripts/i18n/index.min.js?m=1764855221i&amp;ver=1764773747362" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" id="verbum-settings-js-before">
+/* <![CDATA[ */
+window.VerbumComments = {"Log in or provide your name and email to leave a reply.":"Connectez-vous ou indiquez votre nom et votre adresse e-mail pour laisser une r\u00e9ponse.","Log in or provide your name and email to leave a comment.":"Connectez-vous ou indiquez votre nom et votre adresse e-mail pour laisser un commentaire.","Receive web and mobile notifications for posts on this site.":"Recevez les notifications Web et mobiles relatives aux articles publi\u00e9s sur ce site.","Name":"Nom","Email (address never made public)":"Adresse e-mail (adresse strictement confidentielle)","Website (optional)":"Site Web (facultatif)","Leave a reply. (log in optional)":"Laissez une r\u00e9ponse. (connexion facultative)","Leave a comment. (log in optional)":"Laissez un commentaire. (connexion facultative)","Log in to leave a reply.":"Connectez-vous pour laisser une r\u00e9ponse.","Log in to leave a comment.":"Connectez-vous pour laisser un commentaire.","Logged in via %s":"Connect\u00e9(e) via %s","Log out":"D\u00e9connexion","Email":"E-mail","(Address never made public)":"(adresse strictement confidentielle)","Instantly":"Imm\u00e9diatement","Daily":"Quotidiennement","Reply":"R\u00e9ponse","Comment":"Commentaire","WordPress":"WordPress","Weekly":"Hebdomadairement","Notify me of new posts":"Me notifier lors de nouvelles publications","Email me new posts":"Recevoir les nouvelles publications par e-mail","Email me new comments":"M\u2019envoyer les nouveaux commentaires par e-mail","Cancel":"Annuler","Write a comment...":"\u00c9crire un commentaire...","Write a reply...":"\u00c9crire une r\u00e9ponse\u2026","Website":"Site web","Optional":"Facultatif","We'll keep you in the loop!":"Nous vous tiendrons au courant\u00a0!","Loading your comment...":"Chargement de votre commentaire\u2026","Discover more from":"En savoir plus sur Incisive Politique","Subscribe now to keep reading and get access to the full archive.":"Abonnez-vous pour continuer \u00e0 lire et acc\u00e9der aux archives compl\u00e8tes.","Continue reading":"Lire la suite","Never miss a beat!":"Ne manquez rien\u00a0!","Interested in getting blog post updates? Simply click the button below to stay in the loop!":"Vous souhaitez \u00eatre au courant de la publication de nouveaux articles sur le blog\u00a0? Cliquez tout simplement sur le bouton ci-dessous pour rester au fait\u00a0!","Enter your email address":"Saisissez votre adresse e-mail","Subscribe":"S'abonner","Comment sent successfully":"Commentaire envoy\u00e9 avec succ\u00e8s","Save my name, email, and website in this browser for the next time I comment.":"Enregistrer mon nom, mon e-mail et mon site Web dans le navigateur pour mon prochain commentaire.","hovercardi18n":{"Edit your profile \u2192":"Modifier votre profil \u2192","View profile \u2192":"Afficher le profil \u2192","Contact":"Contact","Send money":"Envoyer de l\u2019argent","Profile not found.":"Profil introuvable.","Too Many Requests.":"Trop de requ\u00eates.","Internal Server Error.":"Erreur de serveur interne.","Sorry, we are unable to load this Gravatar profile.":"Toutes nos excuses, nous ne parvenons pas \u00e0 charger ce profil Gravatar."},"siteId":40401569,"postId":127,"mustLogIn":false,"requireNameEmail":true,"commentRegistration":false,"connectURL":"https://incisivepolitique.wordpress.com/public.api/connect/?action=request\u0026from_comments=yes","logoutURL":"https://incisivepolitique.wordpress.com/wp-login.php?action=logout\u0026_wpnonce=52dd47dd5e","homeURL":"https://incisivepolitique.wordpress.com/","subscribeToBlog":true,"subscribeToComment":true,"isJetpackCommentsLoggedIn":false,"jetpackUsername":"","jetpackUserId":0,"jetpackSignature":"","jetpackAvatar":"https://0.gravatar.com/avatar/?s=96\u0026amp;d=identicon\u0026amp;r=G","enableBlocks":true,"enableSubscriptionModal":true,"currentLocale":"fr","isJetpackComments":false,"allowedBlocks":["core/paragraph","core/list","core/code","core/list-item","core/quote","core/image","core/embed","core/quote","core/code"],"embedNonce":"5ac986e7da","verbumBundleUrl":"/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-mu-wpcom/src/features/verbum-comments/dist/index.js","isRTL":false,"vbeCacheBuster":1738686361,"iframeUniqueId":0,"colorScheme":false}
+//# sourceURL=verbum-settings-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/verbum-comments/assets/dynamic-loader.js?m=1755011788i&amp;minify=false&amp;ver=adc3e7b923a66edb437b" id="verbum-dynamic-loader-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="sharing-js-js-extra">
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+//# sourceURL=sharing-js-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" id="jetpack-script-data-js-before">
+/* <![CDATA[ */
+window.JetpackScriptData = {"site":{"host":"wpcom","is_wpcom_platform":true}};
+//# sourceURL=jetpack-script-data-js-before
+/* ]]> */
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJyNUNFuwjAM/KGlZgM2XtA+Bblx6FISJ4odKv5+oSvVxMO0J1t39t3ZMGXj2YZKTmAUsClGx2qKy+HWRc/dKC/QhmxibQT0IQ0mhzp4FphSISQxNqDIIhAzXN/upesrU3DPArGu66PTjPZiGjTl5rwQIJUf3OnqmFIBrJoiqnq7bt0tVaCvPtAKii0+qyFU/MMYL16iU7PtNnBq56/AuczD9I/Qv7LOEj855AuLaz+h29x6HpYnfsbj68f7/rA/7Hab8Ru02ouA'></script>
+<script type="text/javascript" id="sharing-js-js-after">
+/* <![CDATA[ */
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-linkedin' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-linkedin' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-tumblr' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-tumblr' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+						return false;
+					}
+				} );
+			} )();
+//# sourceURL=sharing-js-js-after
+/* ]]> */
+</script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/","ext":".png","svgUrl":"https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/","svgExt":".svg","source":{"concatemoji":"/wp-includes/js/wp-emoji-release.min.js?m=1764078722i&ver=6.9-RC2-61304"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+	<iframe src='https://widgets.wp.com/likes/master.html?ver=20260103#ver=20260103&#038;lang=fr' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars' role="dialog" aria-hidden="true" tabindex="-1"><div class="likes-text"><span>%d</span></div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+	<script src="//stats.wp.com/w.js?68" defer></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'40401569','blog_tz':'-5','user_lang':'fr','blog_lang':'fr','user_id':'0'}]);
+		// Prevent sending pageview tracking from WP-Admin pages.
+		_stq.push(['view', {'blog':'40401569','v':'wpcom','tz':'-5','user_id':'0','post':'127','subd':'incisivepolitique'}]);
+		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdTdvUG14Q2VDQTR4LlUsLi82dU1mai9BMlY0cFZwMXpXJVBJUXIubTZXV18lMlBmbHc0eVZwQ2NlSmFHJVBbaV1kVEhhNDksJlR2a3BOJXBxaU5xX3VjbXc1b1NXSnc1MV9VSndCK1N8dVErb0JQT0sxdXZXVnQuNHhhelplK2ZZSWFROHNsfDVdSC9ZM3I5UFYuQV89U19uMDM1QzNQQUFtSEw9fF9qWGN4MmVDbSVjX1hXLjRTK2ExdVgwWHM3XzFaZSVPUjF5aXE4T1gzVGNXbjk1MkZoV35Ma2xjYlFQJVN+LW5EMDhKJjdiYzkvK19PNEc4aVIvWHl0MUNJNlFpWUl1aCxBXT0yLlp8WlZ6NDAwQ252ZjQ4LHFTWX5oYXM0aFJXTGRFVVVhUGo5M098RDNrfkRqVVt4M29QeWR0UG8wc1dDXW0ubGUyNHBIWG1+cDZIMnpRK19DUEs9emtOZTV+ZFpnWQ=='}]);
+_stq.push([ 'clickTrackerInit', '40401569', '127' ]);
+</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
+<meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="America/Montreal" data-custom-props="{&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/manifest&quot;,&quot;wptheme_is_block&quot;:&quot;0&quot;}"  >
+		<script defer src="/wp-content/js/bilmur.min.js?i=17&amp;m=202601"></script> 	<div id="marketingbar" class="marketing-bar noskim  "><div class="marketing-bar-text">Concevoir un site comme celui-ci avec WordPress.com</div><a class="marketing-bar-button" href="https://wordpress.com/start/fr?ref=marketing_bar">Commencer</a><a class="marketing-bar-link" tabindex="-1" aria-label="Créer un nouveau site sur WordPress.com" href="https://wordpress.com/start/fr?ref=marketing_bar"></a></div>		<script type="text/javascript">
+			window._tkq = window._tkq || [];
+
+			window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_impression', {"is_current_user_blog_owner":false} ] );
+
+			document.querySelectorAll( '#marketingbar > a' ).forEach( link => {
+				link.addEventListener( 'click', ( e ) => {
+					window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_cta_click', {"is_current_user_blog_owner":false} ] );
+				} );
+			});
+		</script>
+<script type='disabled' id='wp-enqueue-dynamic-script:verbum:translations:1'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2024-09-26 16:44:49+0000","generator":"GlotPress/4.0.1","domain":"messages","locale_data":{"messages":{"100":["100"],"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"fr"},"Enlarge on click":[],"Styles copied to clipboard.":[],"Enlarge":[],"Shadow name\u0004Deep":[],"Shadow name\u0004Natural":[],"file name\u0004unnamed":[],"noun\u0004Upload":[],"verb\u0004Upload":[],"%d result found":[],"Density option for DataView layout\u0004Compact":[],"Image cropped and rotated.":[],"Image rotated.":[],"Image cropped.":[],"Shuffle styles":[],"Lock removal":[],"Lock movement":[],"Lock editing":[],"Select the features you want to lock":[],"Post featured image updated.":[],"Title text":[],"Displays more controls.":[],"Drag and drop a video, upload, or choose from your library.":[],"Drag and drop an image, upload, or choose from your library.":[],"Drag and drop an audio file, upload, or choose from your library.":[],"Drag and drop an image or video, upload, or choose from your library.":[],"%d block moved.":[],"Starter content":[],"sidebar button label\u0004Settings":[],"noun, sidebar\u0004Document":[],"noun, breadcrumb\u0004Document":[],"View comment\u0004Comment":[],"Add comment button\u0004Comment":[],"Cancel comment button\u0004Cancel":[],"Mark comment as resolved\u0004Resolve":[],"Delete comment\u0004Delete":[],"Edit comment\u0004Edit":[],"verb\u0004Update":[],"settings landmark area\u0004Settings":[],"field\u0004Show %s":[],"verb\u0004Filter":[],"Indicates these doutone filters are created by the user.\u0004Custom":[],"Indicates these duotone filters come from WordPress.\u0004Default":[],"Indicates these duotone filters come from the theme.\u0004Theme":[],"input control\u0004Show %s":[],"Border color picker. The currently selected color has a value of \"%s\".":[],"Border color picker. The currently selected color is called \"%1$s\" and has a value of \"%2$s\".":[],"Border color and style picker. The currently selected color has a value of \"%s\".":[],"Border color and style picker. The currently selected color has a value of \"%1$s\". The currently selected style is \"%2$s\".":[],"Border color and style picker. The currently selected color is called \"%1$s\" and has a value of \"%2$s\".":[],"Border color and style picker. The currently selected color is called \"%1$s\" and has a value of \"%2$s\". The currently selected style is \"%3$s\".":[],"Show a large initial letter.":[],"Change design":[],"action: convert blocks to grid\u0004Grid":[],"action: convert blocks to stack\u0004Stack":[],"action: convert blocks to row\u0004Row":[],"action: convert blocks to group\u0004Group":[],"spacing\u0004%1$s %2$s":[],"Link information":[],"Manage link":[],"font\u0004%1$s %2$s":[],"You are currently in Design mode.":[],"You are currently in Write mode.":[],"block keyword\u0004blog":[],"Comments":[],"Drop pattern.":[],"Layout type":[],"block keyword\u0004categories":["catégories"],"Unlock content locked blocks\u0004Unlock":["Déverrouiller"],"verb\u0004View":[],"Hidden":[],"Select AM or PM":[],"Formats":[],"Show":[],"Add image":[],"Empty %s; start writing to edit its value":[],"Unlock content locked blocks\u0004Modify":[],"Attributes connected to custom fields or other dynamic data.":[],"Invalid source":[],"Drag and drop patterns into the canvas.":[],"Content width":[],"Embed caption text":[],"Only one image can be used as a background image.":[],"block description\u0004An organized collection of items displayed in a specific order.":[],"block description\u0004An individual item within a list.":[],"Adjective: e.g. \"Comments are open\"\u0004Open":[],"Properties":[],"Minimum":[],"font source\u0004Custom":[],"font source\u0004Theme":[],"Reverse order":[],"List style":[],"La Mancha":[],"%s Embed":[],"%s items selected":[],"Select an item":[],"date order\u0004dmy":[],"Block with fixed width in flex layout\u0004Fixed":[],"Block with expanding width in flex layout\u0004Grow":[],"Intrinsic block width in flex layout\u0004Fit":[],"Background size, position and repeat options.":[],"font weight\u0004Extra Black":[],"font style\u0004Oblique":[],"Grid items are placed automatically depending on their order.":[],"Grid items can be manually placed in any position on the grid.":[],"Grid item position":[],"Format":["Format"],"pattern (singular)\u0004Not synced":[],"Blur":[],"Outset":["Extérieur"],"pattern (singular)\u0004Synced":["Synchronisée"],"https://www.w3.org/WAI/tutorials/images/decision-tree/":["https://www.w3.org/WAI/tutorials/images/decision-tree/"],"block toolbar button label and description\u0004These blocks are connected.":["Ces blocs sont connectés."],"block toolbar button label and description\u0004This block is connected.":["Ce bloc est connecté."],"Attributes":["Attributs"],"Background image width":["Largeur de l’image d’arrière-plan"],"Size option for background image control\u0004Tile":["Tuile"],"Size option for background image control\u0004Contain":["Contenir"],"Size option for background image control\u0004Cover":["Couvrir"],"No background image selected":["Aucune image d’arrière-plan n’est sélectionnée"],"Background image: %s":["Image d’arrière-plan : %s"],"Image has a fixed width.":["L’image a une largeur fixe."],"Blocks can't be inserted into other blocks with bindings":["Les blocs ne peuvent pas être insérés dans d‘autres blocs avec des liaisons"],"Open":["Ouvert"],"Embed a Bluesky post.":["Intégrer une publication Bluesky."],"Selected blocks are grouped.":["Les blocs choisis sont regroupés."],"Generic label for pattern inserter button\u0004Add pattern":["Ajouter une composition"],"Create a group block from the selected multiple blocks.":["Créer un groupe de blocs à partir des plusieurs blocs choisis."],"Disable":["Désactiver"],"Enable":["Activer"],"1 minute":["1 minute"],"Font library\u0004Library":[],"Justify text":["Justifier le texte"],"This block allows overrides. Changing the name can cause problems with content entered into instances of this pattern.":[],"Add background image":["Ajouter une image d’arrière-plan"],"Rows":["Rangées"],"Overrides":["Remplacements"],"Search commands and settings":[],"Remove citation":["Retirer la citation"],"Collapse all other items.":["Replier tous les autres éléments."],"Non breaking space":["Espace insécable"],"This block is locked.":["Ce bloc est verrouillé."],"Grid placement":["Placement de la grille"],"Lowercase letter A\u0004a":["a"],"Uppercase letter A\u0004A":["A"],"Connected to dynamic data":["Connecté aux données dynamiques"],"Connected to %s":["Connecté à %s"],"Drop shadows":["Ombres portées"],"Select parent block (%s)":["Sélectionner le bloc parent (%s)"],"heading levels\u0004All":["Tous"],"font categories\u0004All":["Tous"],"authors\u0004All":["Tous"],"categories\u0004All":["Toutes"],"Alternative text for an image. Block toolbar label, a low character count is preferred.\u0004Alternative text":[],"Upload to Media Library":["Téléverser vers la médiathèque"],"Focal point":["Point central"],"Be careful!":["Faites attention !"],"%s.":["%s."],"%s styles.":["Styles : %s."],"%s settings.":["Réglages %s."],"%s element.":["%s élément.","%s éléments."],"%s block.":["%s bloc.","%s blocs."],", ":[],"Disable enlarge on click":[],"Scales the image with a lightbox effect":["Redimensionne l’image avec un effet de visionneuse"],"Scale the image with a lightbox effect.":["Redimensionner l’image avec un effet de visionneuse."],"Link to attachment page":["Lien vers la page du fichier joint"],"Link to image file":["Lien vers le fichier image"],"screen sizes\u0004All":["Toutes"],"Locked":["Verrouillé"],"No transforms.":["Aucune transformation."],"patterns\u0004Not synced":["Non synchronisée"],"patterns\u0004Synced":["Synchronisée"],"Manage the inclusion of blocks added automatically by plugins.":["Gère l’inclusion de blocs ajoutés automatiquement par des extensions."],"Grid span":[],"Row span":[],"Column span":[],"Drop shadow":["Ombre portée"],"Repeat":["Répéter"],"Link copied to clipboard.":["Lien copié dans le presse-papiers."],"Manual":["Manuel"],"Select all":["Tout sélectionner"],"header landmark area\u0004Header":["Entête"],"Left and right sides":["Côtés gauche et droit"],"Top and bottom sides":["Côtés haut et bas"],"Right side":["Côté droit"],"Left side":["Côté gauche"],"Bottom side":["Côté bas"],"Top side":["Côté haut"],"Unfiltered":["Non filtré"],"action label\u0004Duplicate":["Dupliquer"],"Is":["Est"],"Inserter":["Outil d’insertion"],"Interface":["Interface"],"Caption text":["Texte de légende"],"Restore":["Restaurer"],"block title\u0004Form":["Formulaire"],"block keyword\u0004button":["bouton"],"block keyword\u0004submit":["envoyer"],"block keyword\u0004message":["message"],"block keyword\u0004notification":["notification"],"block keyword\u0004input":["entrée"],"Large viewport largest dimension (lvmax)":["Dimension maximale de la grande zone d’affichage (lvmax)"],"Small viewport largest dimension (svmax)":["Dimension maximale de la petite zone d’affichage (svmax)"],"Dynamic viewport largest dimension (dvmax)":["Dimension maximale de la zone d’affichage dynamique (dvmax)"],"Dynamic viewport smallest dimension (dvmin)":["Dimension minimale de la zone d’affichage dynamique (dvmin)"],"Dynamic viewport width or height (dvb)":["Largeur ou hauteur de la zone d’affichage dynamique (dvb)"],"Dynamic viewport width or height (dvi)":["Largeur ou hauteur de la zone d’affichage dynamique (dvi)"],"Dynamic viewport height (dvh)":["Hauteur de la zone d’affichage dynamique (dvh)"],"Dynamic viewport width (dvw)":["Largeur de la zone d’affichage dynamique (dvw)"],"Large viewport smallest dimension (lvmin)":["Dimension minimale de la grande zone d’affichage (lvmin)"],"Large viewport width or height (lvb)":[],"Large viewport width or height (lvi)":[],"Large viewport height (lvh)":[],"Large viewport width (lvw)":[],"Small viewport smallest dimension (svmin)":[],"Small viewport width or height (svb)":[],"Viewport smallest size in the block direction (svb)":[],"Small viewport width or height (svi)":[],"Viewport smallest size in the inline direction (svi)":[],"Small viewport height (svh)":[],"Small viewport width (svw)":[],"No color selected":["Aucune couleur sélectionnée"],"Value":["Valeur"],"Required":["Nécessaire"],"Method":["Méthode"],"Email":["E-mail"],"No results":["aucun résultat"],"Multiple blocks selected":[],"Block name changed to: \"%s\".":[],"Block name reset to: \"%s\".":[],"https://wordpress.org/patterns/":["https://wordpress.org/patterns/"],"Patterns are available from the <Link>WordPress.org Pattern Directory</Link>, bundled in the active theme, or created by users on this site. Only patterns created on this site can be synced.":[],"Source":["Source"],"Theme & Plugins":["Thèmes et extensions"],"Pattern Directory":["Répertoire des compositions"],"Mark as nofollow":["Marquer en nofollow"],"Fonts":["Polices"],"font style\u0004Normal":["Normal"],"font weight\u0004Normal":["Normal"],"Notice":["Notification"],"Error notice":["Notification d’erreur"],"Information notice":["Notification d’information"],"Warning notice":["Notification d’avertissement"],"Block: Paragraph":["Bloc : paragraphe"],"Image settings\u0004Settings":["Réglages"],"Drop to upload":["Déposer pour téléverser"],"Background image":["Image d’arrière-plan"],"Only images can be used as a background image.":[],"No results found":["Aucun résultat trouvé"],"%d category button displayed.":["%d bouton de catégorie affiché.","%d boutons de catégorie affichés."],"Ungroup":["Dégrouper"],"block title\u0004Date":["Date"],"block title\u0004Content":["Contenu"],"block title\u0004Author":["Auteur/autrice"],"block keyword\u0004toggle":["permuter"],"Post overview\u0004Outline":[],"Select text across multiple blocks.":[],"block keyword\u0004reusable":["réutilisable"],"Last page":["Dernière page"],"paging\u0004%1$s of %2$s":["%1$s sur %2$s"],"Previous page":["Page précédente"],"First page":["Première page"],"%s item":["%s élément","%s éléments"],"Continue":["Continuer"],"Name for applying graphical effects\u0004Filters":[],"My patterns":["Mes compositions"],"block keyword\u0004references":["références"],"My pattern":[],"Initial %d result loaded. Type to filter all available results. Use up and down arrow keys to navigate.":[],"Lowercase Roman numerals":["Chiffres romains minuscules"],"Uppercase Roman numerals":["Chiffres romains majuscules"],"Lowercase letters":["Lettres minuscules"],"Uppercase letters":["Lettres majuscules"],"Numbers":[],"Image is contained without distortion.":[],"Image covers the space evenly.":[],"Image size option for resolution control\u0004Full Size":[],"Image size option for resolution control\u0004Large":[],"Image size option for resolution control\u0004Medium":[],"Image size option for resolution control\u0004Thumbnail":[],"Scale":[],"Scale down the content to fit the space if it is too big. Content that is too small will have additional padding.":[],"Scale option for dimensions control\u0004Scale down":[],"Do not adjust the sizing of the content. Content that is too large will be clipped, and content that is too small will have additional padding.":[],"Scale option for dimensions control\u0004None":[],"Fill the space by clipping what doesn't fit.":[],"Scale option for dimensions control\u0004Cover":[],"Fit the content to the space without clipping.":[],"Scale option for dimensions control\u0004Contain":[],"Fill the space by stretching the content.":[],"Scale option for dimensions control\u0004Fill":[],"Aspect ratio option for dimensions control\u0004Custom":[],"Aspect ratio option for dimensions control\u0004Original":[],"Additional link settings\u0004Advanced":[],"Position: %s":[],"The block will stick to the scrollable area of the parent %s block.":[],"block title\u0004Title":[],"Parent":[],"Pending":[],"Focal point top position":[],"Focal point left position":[],"Suggestions":[],"Horizontal & vertical":[],"Right to left":["Droite à gauche"],"Left to right":["Gauche à droite"],"Text direction":["Orientation du texte"],"A valid language attribute, like \"en\" or \"fr\".":["Un attribut de langue valide, comme « en » ou bien « fr »."],"Language":["Langue"],"%d pattern found":[],"Activate":["Activer"],"Add after":["Ajouter après"],"Add before":["Ajouter avant"],"block keyword\u0004list":[],"block keyword\u0004disclosure":["divulgation"],"https://wordpress.org/documentation/article/embeds/":[],"https://wordpress.org/documentation/article/page-jumps/":[],"Leave empty if decorative.":[],"Alternative text":["Texte alternatif"],"Resolution":["Résolution"],"Name for the value of the CSS position property\u0004Fixed":[],"Name for the value of the CSS position property\u0004Sticky":[],"Minimum column width":["Largeur minimale de la colonne"],"Example:":["Exemple :"],"Image inserted.":["Image insérée."],"Image uploaded and inserted.":["Image téléversée et insérée."],"Insert":["Insérer"],"External images can be removed by the external provider without warning and could even have legal compliance issues related to privacy legislation.":[],"This image cannot be uploaded to your Media Library, but it can still be inserted as an external image.":[],"Insert external image":["Insérer une image externe"],"Scrollable section":["Section défilante"],"Aspect ratio":[],"Openverse":["Openverse"],"There is an error with your CSS structure.":["Il y a une erreur avec votre structure CSS."],"Shadow":["Ombre"],"Border & Shadow":[],"Center":[],"Align text":["Aligner texte"],"Append to %1$s block at position %2$d, Level %3$d":[],"%s block inserted":[],"Report %s":["Signaler %s"],"Copy styles":["Copier les styles"],"Stretch items":["Étirer les éléments"],"Block vertical alignment setting\u0004Space between":["Espace entre"],"Block vertical alignment setting\u0004Stretch to fill":["Étirer pour remplir"],"Currently selected position: %s":[],"Position":["Position"],"The block will not move when the page is scrolled.":["Le bloc ne bougera pas lors du défilement de la page."],"The block will stick to the top of the window instead of scrolling.":["Le bloc sera épinglé en haut de la fenêtre au lieu de défiler."],"Sticky":["Épinglé"],"Paste styles":["Coller les styles"],"Pasted styles to %d blocks.":[],"Pasted styles to %s.":[],"Unable to paste styles. Block styles couldn't be found within the copied content.":["Impossible de coller les styles. Les styles de bloc sont introuvables dans le contenu copié."],"Unable to paste styles. Please allow browser clipboard permissions before continuing.":[],"Unable to paste styles. This feature is only available on secure (https) sites in supporting browsers.":[],"Tilde":["Tilde"],"Clear Unknown Formatting":[],"CSS":["CSS"],"Additional CSS":["CSS additionnel"],"Specify a fixed height.":[],"block keyword\u0004page":["page"],"Media List":["Liste de médias"],"Go to parent Navigation block":[],"Fixed":[],"Fit contents.":[],"Specify a fixed width.":[],"Stretch to fill available space.":[],"Extra Extra Large":[],": %s":[],"Words:":["Mots :"],"Decrement":[],"Increment":[],"Remove caption":[],"Caption":["Légende"],"Pattern":["Composition"],"Not available for aligned text.":["Non disponible pour le texte aligné."],"Arrow option for Next/Previous link\u0004Arrow":["Flèche"],"Arrow option for Next/Previous link\u0004None":["Aucun"],"Format tools":[],"handle":[],"Nested blocks will fill the width of this container. Toggle to constrain.":[],"You are currently in zoom-out mode.":[],"XXL":["XXL"],"%1$s. Selected":["%1$s. sélectionné"],"%1$s. Selected. There is %2$d event":["%1$s. sélectionné. Il y a %2$d évènement","%1$s. sélectionnés. Il y a %2$d événements"],"View next month":["Voir le mois suivant"],"View previous month":["Voir le mois précédent"],"The Queen of Hearts.":["La reine de cœur."],"The Mad Hatter.":["Le Chapelier fou."],"The Cheshire Cat.":["Le chat du Cheshire."],"The White Rabbit.":["Le lapin blanc."],"Alice.":["Alice."],"Inner blocks use content width":[],"Font":["Police de caractère"],"Constrained":["Contraint"],"Spacing control":[],"Custom (%s)":["Personnalisé (%s)"],"All sides":["Tous les côtés"],"H6":["H6"],"H5":["H5"],"H4":["H4"],"H3":["H3"],"H2":["H2"],"H1":["H1"],"Move %1$d blocks from position %2$d left by one place":["Déplacer les %1$d blocs de la position %2$d de une place vers la gauche."],"Move %1$d blocks from position %2$d down by one place":["Déplacer les %1$d blocs de la position %2$d d’une place vers le bas."],"Set the width of the main content area.":["Définir la largeur de la zone de contenu principale."],"Border color and style picker":["Sélecteur de couleur et style de bordure"],"Blocks cannot be moved right as they are already are at the rightmost position":[],"Blocks cannot be moved left as they are already are at the leftmost position":[],"All blocks are selected, and cannot be moved":["Tous les blocs sont sélectionnés et ne peuvent pas être déplacés"],"Hover":["Survol"],"short date format without the year\u0004M j":[],"Apply to all blocks inside":["Appliquer à tous les blocs à l’intérieur"],"Unset":["Non défini"],"Embed a podcast player from Pocket Casts.":[],"Nested blocks use content width with options for full and wide widths.":[],"Now":["Maintenant"],"Parents":["Parents"],"block title\u0004Comments":["Commentaires"],"All options reset":["Réinitialiser toutes les options"],"All options are currently hidden":["Toutes les options sont actuellement cachées"],"%s is now visible":["%s est à présent visible"],"%s hidden and reset to default":["%s caché et réinitialisé à sa valeur par défaut"],"%s reset to default":["%s réinitialisé à sa valeur par défaut"],"Suffix":["Suffixe"],"Prefix":["Préfixe"],"Response":["Réponse"],"Bottom border":["Bordure inférieure"],"Right border":["Bordure droite"],"Left border":["Bordure gauche"],"Top border":["Bordure supérieure"],"Border color picker.":["Sélecteur de couleur de bordure."],"Border color and style picker.":["Sélecteur de couleur et style de bordure."],"Link sides":["Lier les côtés"],"Unlink sides":["Dissocier les côtés"],"Quote citation":[],"Stack":["Empiler"],"Use featured image":["Utiliser l’image mise en avant"],"Week":["Semaine"],"Delete selection.":["Supprimer la sélection."],"Transform to %s":["Transformer en %s"],"single horizontal line\u0004Row":["Ligne"],"Select parent block: %s":[],"Alignment option\u0004None":["Aucun"],"block title\u0004No results":["Aucun résultat"],"block title\u0004List item":["Élément de liste"],"Custom color picker. The currently selected color is called \"%1$s\" and has a value of \"%2$s\".":["Sélecteur de couleurs personnalisées. La couleur actuellement sélectionnée se nomme « %1$s » et a une valeur de « %2$s »."],"Invalid":["Non valide"],"long date format\u0004F j, Y":["j F Y"],"medium date format\u0004M j, Y":["j F Y"],"Lock":["Verrouiller"],"Unlock":["Déverrouiller"],"Lock all":["Tout verrouiller"],"Lock %s":["Verrouiller « %s »"],"%s blocks deselected.":["%s blocs désélectionnés."],"%s deselected.":["%s désélectionné."],"Select the size of the source image.":["Sélectionnez la taille de l’image source."],"font weight\u0004Black":["Noir"],"font weight\u0004Extra Bold":["Extra gras"],"font weight\u0004Bold":["Gras"],"font weight\u0004Semi Bold":["Demi gras"],"font weight\u0004Medium":["Moyenne"],"font weight\u0004Regular":["Normal"],"font weight\u0004Light":["Léger"],"font weight\u0004Extra Light":["Extra léger"],"font weight\u0004Thin":["Fin"],"font style\u0004Italic":["Italique"],"font style\u0004Regular":["Normal"],"Transparent text may be hard for people to read.":["Le texte transparent peut être difficile à lire pour les internautes."],"preview":["aperçu"],"Close Block Inserter":[],"Link is empty":["Le lien est vide"],"Button label to reveal tool panel options\u0004%s options":["Les options de %s"],"Set custom size":["Définir la taille personnalisée"],"Use size preset":["Utiliser la taille prédéfinie"],"Color options":["Options de couleur"],"Done":["Terminé"],"Color format":["Format de couleur"],"Hex color":["Couleur hexadécimale"],"Icon":["Icône"],"Delete":["Supprimer"],"Font size name\u0004Extra Large":["Extra large"],"block title\u0004Pagination":["Pagination"],"Actions":["Actions"],"Rename":["Renommer"],"Aa":["Aa"],"Arrow option for Comments Pagination Next/Previous blocks\u0004Arrow":["Flèches"],"Arrow option for Comments Pagination Next/Previous blocks\u0004None":["Aucune"],"Indicates this palette is created by the user.\u0004Custom":["Personnalisée"],"Indicates this palette comes from WordPress.\u0004Default":["Par défaut"],"Indicates this palette comes from the theme.\u0004Theme":["Thème"],"Add default block":["Ajouter un bloc par défaut"],"styles":["styles"],"block title\u0004Pattern":["Composition"],"%s applied.":["%s appliqué."],"%s removed.":["%s retiré."],"Embed Wolfram notebook content.":["Intégrer le contenu d’un notebook Wolfram."],"Displays more block tools":["Affiche plus d’outils de bloc"],"Create a two-tone color effect without losing your original image.":["Créer un effet sur deux tons sans perdre votre image d’origine."],"Explore all patterns":["Explorez toutes les compositions"],"Orientation":["Orientation"],"Allow to wrap to multiple lines":["Autoriser le regroupement de lignes multiples"],"block style label\u0004Plain":["Uni"],"Elements":["Éléments"],"Submenus":["Sous-menus"],"Display":["Afficher"],"Embed Pinterest pins, boards, and profiles.":["Intégrez des épingles, des tableaux et des profils Pinterest."],"bookmark":["marque-page"],"Highlight":["Mettre en évidence"],"Create page: <mark>%s</mark>":[],"Palette":["Palette"],"Block spacing":["Espacement des blocs"],"Max %s wide":["Max %s de largeur"],"label before the title of the previous post\u0004Previous:":["Précédent :"],"label before the title of the next post\u0004Next:":["Suivant :"],"block title\u0004Submenu":["Sous-menu"],"Colors":["Couleurs"],"Hide and reset %s":["Masquer et réinitialiser %s"],"Reset %s":["Réinitialiser %s"],"Minimum height":["Hauteur minimale"],"Size of a UI element\u0004Extra Large":["Extra large"],"Size of a UI element\u0004Large":["Grand"],"Size of a UI element\u0004Medium":["Moyenne"],"Size of a UI element\u0004Small":["Petite"],"Size of a UI element\u0004None":["Aucune"],"Arrow option for Query Pagination Next/Previous blocks\u0004Arrow":["Flèche"],"Arrow option for Query Pagination Next/Previous blocks\u0004None":["Aucun"],"Arrow":["Flèche"],"Preload value\u0004None":["Aucun"],"Row":["Ligne"],"noun; Audio block parameter\u0004Preload":["Préchargement"],"Media item link option\u0004None":["Aucun"],"Currently selected font appearance: %s":["Apparence de la police actuellement sélectionnée : %s"],"Currently selected font style: %s":["Style de la police actuellement sélectionnée : %s"],"Currently selected font weight: %s":["Graisse de la police actuellement sélectionnée : %s"],"No selected font appearance":["Aucune apparence de police sélectionnée."],"Justification":["Justification"],"Duotone name\u0004Midnight":["Minuit"],"Gradient name\u0004Midnight":["Minuit"],"Gradient name\u0004Electric grass":["Herbe électrique"],"Gradient name\u0004Pale ocean":["Océan pâle"],"Gradient name\u0004Luminous dusk":["Crépuscule lumineux"],"Gradient name\u0004Blush bordeaux":["Bordeaux rougissant"],"Gradient name\u0004Blush light purple":["Violet clair rougissant"],"Gradient name\u0004Cool to warm spectrum":["Spectre froid vers chaud"],"Gradient name\u0004Very light gray to cyan bluish gray":["Gris très clair vers gris-cyan bleuissant"],"Gradient name\u0004Luminous vivid orange to vivid red":["Orange vif lumineux vers rouge lumineux"],"Gradient name\u0004Luminous vivid amber to luminous vivid orange":["Ambre vif lumineux vers orange vif lumineux"],"Gradient name\u0004Light green cyan to vivid green cyan":["Vert-cyan clair vers vert-cyan vif"],"Gradient name\u0004Vivid cyan blue to vivid purple":["Bleu-cyan vif vers violet vif"],"Color name\u0004Vivid purple":["Violet vif"],"Color name\u0004Vivid cyan blue":["Bleu cyan vif"],"Color name\u0004Pale cyan blue":["Bleu cyan pâle"],"Color name\u0004Vivid green cyan":["Cyan vert vif"],"Color name\u0004Light green cyan":["Vert clair cyan"],"Color name\u0004Luminous vivid amber":["Ambre vif lumineux"],"Color name\u0004Luminous vivid orange":["Orange vif lumineux"],"Color name\u0004Vivid red":["Rouge vif"],"Color name\u0004Pale pink":["Rose pâle"],"Color name\u0004White":["Blanc"],"Color name\u0004Cyan bluish gray":["Gris bleuâtre cyan"],"Color name\u0004Black":["Noir"],"Font size name\u0004Large":["Grande"],"Font size name\u0004Medium":["Moyenne"],"Font size name\u0004Small":["Petite"],"Reset all":["Tout réinitialiser"],"Currently selected font size: %s":["Taille de la police actuellement sélectionnée : %s"],"Currently selected: %s":["Actuellement sélectionné : %s"],"Image scaling options\u0004Scale":["Redimensionner"],"Scale option for Image dimension control\u0004Fill":["Remplir"],"Scale option for Image dimension control\u0004Contain":["Contenir"],"Scale option for Image dimension control\u0004Cover":["Recouvrir"],"If uploading to a gallery all files need to be image formats":["Si vous téléversez vers une galerie, tous les fichiers doivent être dans un format d‘image."],"Flow":["Flux"],"Flex":["Flex"],"Style":["Style"],"Radius":["Rayon"],"Link radii":[],"Unlink radii":[],"Bottom right":["En bas à droite"],"Bottom left":["En bas à gauche"],"Top right":["En haut à droite"],"Top left":["En haut à gauche"],"block keyword\u0004link":["lien"],"No preview available.":["Aucun aperçu disponible."],"%d block is hidden.":["%d bloc est masqué.","%d blocs sont masqués."],"block keyword\u0004movie":["vidéo"],"block keyword\u0004summary":["sommaire"],"block keyword\u0004description":["description"],"block keyword\u0004divider":["Séparateur"],"block keyword\u0004hr":["hr"],"block keyword\u0004find":["trouver"],"block keyword\u0004atom":["atom"],"block keyword\u0004cite":["citation"],"block keyword\u0004blockquote":["bloc de citation"],"block keyword\u0004text":["texte"],"block description\u0004Start with the basic building block of all narrative.":["Commencer par la pierre angulaire de tout récit."],"block keyword\u0004pagination":["pagination"],"block keyword\u0004navigation":["navigation"],"block keyword\u0004menu":["menu"],"block keyword\u0004video":["vidéo"],"block keyword\u0004image":["image"],"block keyword\u0004form":["formulaire"],"block keyword\u0004login":["connexion"],"block keyword\u0004numbered list":["liste numérotée"],"block keyword\u0004ordered list":["liste ordonnée"],"block keyword\u0004bullet list":["liste à puces"],"block style label\u0004Rounded":["Arrondis"],"block style label\u0004Default":["Par défaut"],"block keyword\u0004picture":["visuel"],"block keyword\u0004photo":["photo"],"block keyword\u0004img":["img"],"block description\u0004Insert an image to make a visual statement.":["Insère une image pour illustrer vos propos."],"block keyword\u0004embed":["embed"],"block keyword\u0004title":["titre"],"block keyword\u0004section":["section"],"block keyword\u0004row":["ligne"],"block keyword\u0004wrapper":["conteneur"],"block keyword\u0004container":["contenant"],"block keyword\u0004images":["images"],"block keyword\u0004download":["téléchargement"],"block keyword\u0004document":["document"],"block keyword\u0004archive":["archive"],"block keyword\u0004posts":["articles"],"block style label\u0004Outline":["Contour"],"block style label\u0004Fill":["Plein"],"block keyword\u0004podcast":["podcast"],"block keyword\u0004sound":["son"],"block keyword\u0004music":["musique"],"Letter spacing":["Espacement des lettres"],"Points (pt)":["Points (pt)"],"Picas (pc)":["Picas (pc)"],"Inches (in)":["Pouces (in)"],"Millimeters (mm)":["Millimètres (mm)"],"Centimeters (cm)":["Centimètres (cm)"],"x-height of the font (ex)":["x-height de la police (ex)"],"Width of the zero (0) character (ch)":["Largeur du caractère (ch) zéro (0)"],"Viewport largest dimension (vmax)":["Plus grande taille de la largeur d’écran (vmax)"],"Viewport smallest dimension (vmin)":["Plus petite taille de la largeur d’écran (vmin)"],"Percent (%)":["Pourcentage (%)"],"Margin":["Marges externes"],"Apply duotone filter":["Appliquer un filtre duotone"],"Duotone":["Duotone"],"Highlights":["Accentuations"],"Shadows":["Ombres"],"Duotone: %s":["Duotone : %s"],"Duotone code: %s":["Code de duotone : %s"],"Editor styles":["Styles de l’éditeur"],"Patterns list":["Liste des compositions"],"Use left and right arrow keys to move through blocks":["Utilisez les flèches gauche et droite du clavier pour vous déplacer dans les blocs"],"Customize the width for all elements that are assigned to the center or wide columns.":["Personnalisez la largeur de tous les éléments assignés aux colonnes centrales ou larges."],"Layout":["Mise en page"],"Dotted":["Pointillé"],"Dashed":["Tiret"],"Widget types":["Types de widget"],"Add citation":["Ajouter une citation"],"Add caption":["Ajouter une légende"],"Type / to choose a block":["Saisir / pour choisir un bloc"],"%1$s. There is %2$d event":[],"Relative to root font size (rem)\u0004rems":["rems"],"Relative to parent font size (em)\u0004ems":["ems"],"Border width":["Largeur de bordure"],"Border":["Bordure"],"Generic label for block inserter button\u0004Block Inserter":[],"Grid":["Grille"],"Area":["Zone"],"label for previous post link\u0004Previous":["Précédent"],"label for next post link\u0004Next":["Suivant"],"Indent":["Indenter"],"Outdent":["Désindenter"],"Ordered":["Trié"],"Unordered":["Non trié"],"Space between items":["Espace entre les éléments"],"Add text over image":["Ajouter du texte au-dessus de l’image"],"Drag":["Glisser"],"Add an anchor":["Ajouter une ancre"],"Align":["Alignement"],"block title\u0004Video":["Vidéo"],"block title\u0004Spacer":["Espacement"],"block title\u0004Separator":["Séparateur"],"block title\u0004Group":["Groupe"],"block title\u0004Search":["Recherche"],"block title\u0004More":["Lire la suite"],"block title\u0004Unsupported":["Non pris en charge"],"block title\u0004List":["Liste"],"block title\u0004Navigation":["Navigation"],"block title\u0004File":["Fichier"],"block title\u0004Cover":["Bannière"],"block title\u0004Column":["Colonne"],"block title\u0004Columns":["Colonnes"],"block title\u0004Code":["Code"],"block title\u0004Calendar":["Calendrier"],"block title\u0004Buttons":["Boutons"],"block title\u0004Button":["Bouton"],"block title\u0004Audio":["Audio"],"block title\u0004Gallery":["Galerie"],"block title\u0004Quote":["Citation"],"block title\u0004Heading":["Titre"],"block title\u0004Image":["Image"],"block title\u0004Paragraph":["Paragraphe"],"Editor canvas":["Cadre de l’éditeur"],"Select unit":["Sélectionner une unité"],"text direction\u0004ltr":["ltr"],"Block vertical alignment setting\u0004Align bottom":["Aligner en bas"],"Block vertical alignment setting\u0004Align middle":["Aligner au milieu"],"Block vertical alignment setting\u0004Align top":["Aligner en haut"],"Capitalize":["Passer en majuscules"],"Lowercase":["Minuscules"],"Uppercase":["Majuscules"],"List text":["Texte de la liste"],"Vertical":["Vertical"],"Horizontal":["Horizontal"],"Image caption text":["Texte de la légende de l’image"],"Font weight":["Graisse de la police"],"Font style":["Style de police"],"Themes":["Thèmes"],"Keyword":["Mot-clé"],"Filters":["Filtres"],"Viewport height (vh)":["Hauteur de la fenêtre (vh)"],"Viewport width (vw)":["Largeur de la fenêtre (vw)"],"Relative to root font size (rem)":["Par rapport à la taille de police racine (rem)"],"Relative to parent font size (em)":["Par rapport à la taille de police parente (em)"],"Pixels (px)":["Pixels (px)"],"Percentage (%)":["Pourcentage (%)"],"Keyboard input":["Saisie au clavier"],"Letter case":["Casse"],"Decoration":["Décoration"],"Close search":["Fermer la recherche"],"Only":["Uniquement"],"Exclude":["Exclure"],"Appearance":["Apparence"],"Kind":["Enfant"],"Label":["Libellé"],"Captions":["Légendes"],"Filter patterns":["Filtrer les compositions"],"link color":["Couleur du lien"],"Radial":["Radial"],"Linear":["Linéaire"],"Create: <mark>%s</mark>":["Créer : <mark>%s</mark>"],"Anonymous":["Anonyme"],"Characters":["Caractères"],"Block pattern \"%s\" inserted.":["Composition de bloc « %s » insérée."],"Description":["Description"],"Base":["Base"],"Author":["Auteur"],"Media preview":["Aperçu du média"],"Coordinated Universal Time":["Temps universel coordonné"],"Image uploaded.":["Image téléversée."],"Could not edit image. %s":["Impossible de modifier l’image. %s"],"Original":["Original"],"Move the selected block(s) down.":["Déplacer le ou les blocs sélectionnés vers le bas."],"Move the selected block(s) up.":["Déplacer le ou les blocs sélectionnés vers le haut."],"Browse all":["Tout parcourir"],"Browse all. This will open the main inserter panel in the editor toolbar.":["Tout parcourir : cela ouvrira l’outil d’insertion principal dans la barre d’outils de l’éditeur."],"Reset search":["Réinitialiser la recherche"],"Name":["Nom"],"Crop":["Recadrer"],"Rotate":["Pivoter"],"Zoom":["Zoomer"],"Portrait":["Portrait"],"Landscape":["Paysage"],"Aspect Ratio":["Rapport hauteur/largeur"],"Box Control":["Contrôle de la boîte"],"Mixed":["Mixte"],"Right":["Droite"],"Left":["Gauche"],"Bottom":["Bas"],"Top":["Haut"],"A tip for using the block editor":["Une astuce pour utiliser l’éditeur de blocs"],"%d block added.":["Bloc %d ajouté.","Blocs %d ajoutés."],"Spacing":["Espacement"],"Padding":["Marge interne"],"Design":["Conception"],"Text":["Texte"],"Widget areas":["Zone de widgets"],"Moved %d block to clipboard.":["%d bloc déplacé dans le presse-papier.","%d blocs déplacés dans le presse-papier."],"Copied %d block to clipboard.":["%d bloc copié dans le presse-papier.","%d blocs copiés dans le presse-papier."],"Moved \"%s\" to clipboard.":[" « %s » déplacé dans le presse-papier."],"Copied \"%s\" to clipboard.":["« %s » copié dans le presse-papier."],"Block navigation structure":["Structure du bloc de navigation"],"Block %1$d of %2$d, Level %3$d.":[],"Notifications":["Notifications"],"Offset":["Décalage"],"Posts":["Articles"],"Pages":["Pages"],"Uncategorized":["Non classé"],"Search results":["Résultats de recherche"],"White":["Blanc"],"Black":["Noir"],"Superscript":["Exposant"],"Subscript":["Indice"],"Patterns":["Compositions"],"patterns\u0004All":[],"Typography":["Typographie"],"Line height":["Hauteur de ligne"],"Content":["Contenu"],"Menu Location":["Emplacement du menu"],"Menu":["Menu"],"Home":["Accueil"],"Current media URL:":["URL du média actuel :"],"Move %1$s block from position %2$d left to position %3$d":["Déplacer le bloc %1$s de la position %2$d à la position %3$d à gauche"],"Move %1$s block from position %2$d down to position %3$d":["Déplacer le bloc %1$s de la position %2$d à la position %3$d en bas"],"User":["Compte"],"Post Type":["Type de publication"],"Site":["Site"],"Block patterns":[],"Type":["Type"],"Block %1$s is at the beginning of the content and can’t be moved left":["Le bloc %1$s est au début du contenu et ne peut être déplacé à gauche"],"Block %1$s is at the beginning of the content and can’t be moved up":["Le bloc %1$s est au début du contenu et ne peut pas être déplacé plus haut"],"Block %1$s is at the end of the content and can’t be moved left":["Le bloc %1$s est à la fin du contenu et ne peut pas être déplacé à gauche"],"Block %1$s is at the end of the content and can’t be moved down":["Le bloc %1$s est à la fin du contenu et ne peut pas être déplacé plus bas"],"Creating":["Création"],"An unknown error occurred during creation. Please try again.":["Une erreur inconnue est survenue durant la création. Veuillez réessayer."],"Change a block's type by pressing the block icon on the toolbar.":["Changer un type de bloc en cliquant sur l’icône de bloc sur la barre d’outils."],"Drag files into the editor to automatically insert media blocks.":["Déplacez les fichiers dans l’éditeur pour automatiquement insérer des blocs de média."],"Outdent a list by pressing <kbd>backspace</kbd> at the beginning of a line.":["Désindenter une liste en appuyant sur la touche <kbd>retour arrière</kbd> en début de ligne."],"Indent a list by pressing <kbd>space</kbd> at the beginning of a line.":["Indenter une liste en appuyant sur la touche <kbd>espace</kbd> en début de ligne."],"Solid":["Solide"],"Mobile":["Mobile"],"block keyword\u0004links":["liens"],"text color":["Couleur du texte"],"Embed a TikTok video.":["Embarquer une vidéo TikTok."],"survey":["enquête"],"social":["social"],"Global Styles":["Styles globaux"],"Angle":["Angle"],"Choose":["Choisir"],"Theme":["Thème"],"Empty":["Vide"],"Search results for \"%s\"":["Résultats de recherche pour « %s »"],"Multiple selected blocks":["Multiples blocs sélectionnés"],"Buttons":["Boutons"],"Background":["Arrière-plan"],"Image size":["Taille de l’image"],"Help":["Aide"],"Next":["Suivant"],"Previous":["Précédent"],"Finish":["Terminer"],"Remove Control Point":["Retirer le point de contrôle"],"Use your left or right arrow keys or drag and drop with the mouse to change the gradient position. Press the button to change the color or remove the control point.":["Utiliser les touches gauche ou droite ou glisser puis déposez avec la souris pour changer la position du dégradé. Appuyez sur le bouton pour changer la couleur ou retirer le point de contrôle."],"Gradient control point at position %1$s%% with color code %2$s.":["Point de contrôle du dégradé à la position %1$s avec le code couleur %2$s."],"Open Media Library":["Ouvrir la médiathèque"],"The media file has been replaced":["Le fichier média a été remplacé."],"Replace":["Remplacer"],"You are probably offline.":["Vous êtes probablement hors ligne."],"Justify items right":["Justifier les éléments à droite"],"Justify items center":["Justifier les éléments au centre"],"Justify items left":["Justifier les éléments à gauche"],"Change items justification":["Modifier la justification des éléments"],"inserter":["Outil d’insertion"],"podcast":["podcast"],"Menu Item":["Élément de menu"],"Navigation":["Navigation"],"(Note: many devices and browsers do not display this text.)":["(note : plusieurs appareils et navigateurs n’afficheront pas ce texte)"],"Describe the role of this image on the page.":["Décrivez le rôle de cette image sur la page."],"Search or type URL":[],"Press ENTER to add this link":["Appuyer sur entrée pour ajouter ce lien"],"Currently selected link settings":["Réglages du lien actuellement sélectionné"],"Generic label for block inserter button\u0004Add block":["Ajouter un bloc"],"directly add the only allowed block\u0004Add %s":["Ajouter %s"],"%s block added":["Bloc %s ajouté"],"Extra Large":["Très grand"],"Template":["Modèle"],"Gradient: %s":["Dégradé : %s"],"Gradient code: %s":["Code de dégradé : %s"],"Media upload failed. If this is a photo or a large image, please scale it down and try again.":["Le téléversement du média a échoué. S’il s’agit d’une photo ou d’une grande image, veuillez la redimensionner puis réessayer."],"Gradient":["Dégradé"],"Midnight":["Minuit"],"Electric grass":["Herbe électrique"],"Pale ocean":["Océan pâle"],"Luminous dusk":["Crépuscule lumineux"],"Blush bordeaux":["Bordeaux rougissant"],"Blush light purple":["Violet clair rougissant"],"Cool to warm spectrum":["Spectre froid vers chaud"],"Very light gray to cyan bluish gray":["Gris très clair vers gris-cyan bleuissant"],"Luminous vivid orange to vivid red":["Orange vif lumineux vers rouge lumineux"],"Luminous vivid amber to luminous vivid orange":["Ambre vif lumineux vers orange vif"],"Light green cyan to vivid green cyan":["Vert-cyan clair vers vert-cyan vif"],"Vivid cyan blue to vivid purple":["Bleu-cyan vif vers violet vif"],"Version":["Version"],"Dimensions":["Dimensions"],"In quoting others, we cite ourselves.":["En citant les autres, nous nous citons nous-mêmes."],"Mont Blanc appears—still, snowy, and serene.":["Luire, ô lac, dans ton beau miroir !"],"In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing.":["Dans un village de la Manche dont je ne veux pas me rappeler le nom, il n’y a pas longtemps que vivait un de ces hidalgos qui ont lance au râtelier, vieille rondache, maigre haridelle et limier de chasse."],"Templates":["Modèles"],"Add":["Ajouter"],"Link rel":["Attribut « Rel » du lien"],"Border radius":["Rayon de bordure"],"Start value":["Valeur de départ"],"While writing, you can press <kbd>/</kbd> to quickly insert new blocks.":["Tandis que vous écrivez, vous pouvez utiliser la touche <kbd>/</kbd> pour insérer rapidement de nouveaux blocs."],"Color":["Couleur"],"Vivid purple":["Violet éclatant"],"Custom":["Personnalisé"],"Draft":["Brouillon"],"Learn more about anchors":["En savoir plus sur les ancres"],"Enter a word or two — without spaces — to make a unique web address just for this block, called an “anchor”. Then, you’ll be able to link directly to this section of your page.":[],"Skip":["Passer"],"Title attribute":["Attribut du titre"],"Open in new tab":["Ouvrir dans un nouvel onglet"],"Move right":["Déplacer à droite"],"Move left":["Déplacer à gauche"],"Links":["Liens"],"menu":["menu"],"Learn more about embeds":["En apprendre plus à propos des contenus embarqués"],"Paste a link to the content you want to display on your site.":["Collez un lien vers le contenu que vous souhaitez afficher sur votre site."],"Ungrouping blocks from within a grouping block back into individual blocks within the Editor\u0004Ungroup":[],"verb\u0004Group":["Grouper"],"Separate multiple classes with spaces.":["Dans le cas de plusieurs classes, séparez-les avec des espaces."],"Inline code":["Code en ligne"],"This color combination may be hard for people to read.":["Cette combinaison de couleurs risque d’être difficile à lire."],"Group":["Groupe"],"Describe the purpose of the image.":[],"Add a block":["Ajouter un bloc"],"Block vertical alignment setting label\u0004Change vertical alignment":["Modifier l’alignement vertical"],"Change block type or style":[],"Embedded content from %s can't be previewed in the editor.":["Les contenus embarqués depuis %s ne peuvent être prévisualisés dans l’éditeur."],"block style\u0004Default":["Par défaut"],"Back":["Retour"],"Taxonomy":["Taxonomie"],"Default":["Par défaut"],"Search":["Recherche"],"Sorry, this content could not be embedded.":["Désolé, ce contenu ne peut pas être embarqué."],"Embed Amazon Kindle content.":["Contenu embarqué Amazon Kindle."],"ebook":["e-book"],"Embed Crowdsignal (formerly Polldaddy) content.":["Contenu embarqué Crowdsignal (anciennement Polldaddy)."],"Calendar":["Calendrier"],"Underline":["Souligner"],"Word count type. Do not translate!\u0004words":["mots"],"button label\u0004Convert to link":["Convertir en lien"],"button label\u0004Try again":["Réessayer"],"Link CSS class":[],"To edit this block, you need permission to upload media.":["Pour modifier ce bloc, vous devez avoir le droit de téléverser des médias."],"Block tools":["Outils du bloc"],"This image has an empty alt attribute":["Cette image a un attribut alt vide"],"This image has an empty alt attribute; its file name is %s":["Cette image a un attribut alt vide ; le nom du fichier est %s"],"Link inserted.":["Lien inséré."],"Warning: the link has been inserted but may have errors. Please test it.":["Avertissement : le lien a été inséré mais peut contenir des erreurs. Veuillez le tester."],"%s block selected.":["%s bloc sélectionné.","%s blocs sélectionnés."],"Thumbnail":["Miniature"],"Full Size":["Pleine taille"],"Link selected.":["Lien sélectionné."],"Align text right":["Aligner le texte à droite"],"Align text center":["Aligner le texte au centre"],"Align text left":["Aligner le texte à gauche"],"Empty block; start writing or type forward slash to choose a block":["Bloc vide ; commencez à écrire ou saisissez une barre oblique pour choisir un bloc"],"Annotation":["Annotation"],"blocks\u0004Most used":["Les plus utilisés"],"imperative verb\u0004Resolve":["Résoudre"],"font size name\u0004Huge":["Énorme"],"font size name\u0004Large":["Grand"],"font size name\u0004Medium":["Moyen"],"font size name\u0004Small":["Petit"],"font size name\u0004Normal":["Normal"],"button label\u0004Embed":["Intégrer"],"block title\u0004Embed":["Contenu embarqué"],"block title\u0004Classic":["Classique"],"Link edited.":["Lien modifié."],"Link removed.":["Lien retiré."],"media":["média"],"Media":["Média"],"Navigate to the nearest toolbar.":["Naviguer vers la barre d’outils la plus proche."],"Resize for smaller devices":["Redimensionner pour les petits appareils"],"This embed may not preserve its aspect ratio when the browser is resized.":["Ce contenu intégré pourrait perdre son ratio si le navigateur est redimensionné."],"This embed will preserve its aspect ratio when the browser is resized.":["Ce contenu intégré conservera son ratio si le navigateur est redimensionné."],"Embed an Animoto video.":["Intégrer une vidéo Animoto."],"Embed a Vimeo video.":["Intégrer une vidéo Vimeo."],"Embed Flickr content.":["Intégrer un contenu Flickr."],"Embed Spotify content.":["Intégrer un contenu Spotify."],"Embed SoundCloud content.":["Intégrer un contenu SoundCloud."],"Embed a WordPress post.":["Intégrer une publication WordPress."],"Embed an Instagram post.":["Intégrer une publication Instagram."],"Embed a Facebook post.":["Intégrer une publication Facebook."],"Embed a WordPress.tv video.":["Intégrer une vidéo WordPress.tv."],"Embed a VideoPress video.":["Intégrer une vidéo VideoPress."],"Embed a Tumblr post.":["Intégrer une publication Tumblr."],"Embed a TED video.":["Intégrer une vidéo TED."],"Embed Speaker Deck content.":["Intégrer un contenu Speaker Deck."],"Embed a YouTube video.":["Intégrer une vidéo YouTube."],"Embed SmugMug content.":["Intégrer un contenu SmugMug."],"Embed Scribd content.":["Intégrer un contenu Scribd."],"Embed Screencast content.":["Intégrer un contenu Screencast."],"Embed ReverbNation content.":["Intégrer un contenu ReverbNation."],"Embed a Reddit thread.":["Intégrer un fil de discussion Reddit."],"Embed Mixcloud content.":["Intégrer un contenu Mixcloud."],"Embed a tweet.":["Intégrer un tweet."],"Embed Kickstarter content.":["Intégrer un contenu Kickstarter."],"Embed Issuu content.":["Intégrer un contenu Issuu."],"Embed Imgur content.":["Intégrer un contenu Imgur."],"Embed a Dailymotion video.":["Intégrer une vidéo Dailymotion."],"Embed CollegeHumor content.":["Intégrer un contenu CollegeHumor."],"Embed Cloudup content.":["Intégrer un contenu Cloudup."],"noun\u0004View":["Vue"],"editor button\u0004Left to right":["De gauche à droite"],"Paste or type URL":["Collez ou saisissez l’URL"],"Insert from URL":["Insérer à partir d’une URL"],"Styles":["Styles"],"General":["Général"],"Options":["Options"],"(opens in a new tab)":["(ouvre un nouvel onglet)"],"Minutes":["Minutes"],"Hours":["Heures"],"Time":["Heure"],"Year":["Année"],"Day":["Jour"],"December":["Décembre"],"November":["Novembre"],"October":["Octobre"],"September":["Septembre"],"August":["Août"],"July":["Juillet"],"June":["Juin"],"May":["Mai"],"April":["Avril"],"March":["Mars"],"February":["Février"],"January":["Janvier"],"Month":["Mois"],"Date":["Date"],"Cover":["Bannière"],"Huge":["Énorme"],"Medium":["Moyen"],"Normal":["Normale"],"Paste URL or type to search":["Copier l’URL ou saisir une recherche"],"Terms":["Termes"],"Block contains unexpected or invalid content.":[],"Resolved":[],"Resolve Block":["Résoudre les problèmes de ce bloc"],"Convert to HTML":["Convertir en HTML"],"This block can only be used once.":["Ce bloc ne peut être utilisé qu’une fois."],"View":["Voir"],"HTML":["HTML"],"Media settings":["Réglages des médias"],"Overlay":["Calque de superposition"],"Backtick":["Retour arrière"],"Period":["Période"],"Comma":["Virgule"],"Change type of %d block":["Modifier le type de %d bloc","Modifier le type de %d blocs"],"Current":["Actuel"],"After Conversion":["Après conversion"],"Change alignment":["Modifier l’alignement"],"Change text alignment":["Modifier l’alignement du texte"],"%d block":["%d bloc","%d blocs"],"Title":["Titre"],"Convert to Classic Block":["Convertir en bloc Classique"],"Create":["Créer"],"Move %1$d blocks from position %2$d right by one place":[],"Move %1$d blocks from position %2$d up by one place":[],"Move %1$s block from position %2$d right to position %3$d":["Déplacer le bloc %1$s de la position %2$d vers la position %3$d"],"Move %1$s block from position %2$d up to position %3$d":["Déplacer le bloc %1$s de la position %2$d vers la position %3$d"],"Insert a new block before the selected block(s).":["Insérer un nouveau block avant le ou les blocs sélectionnés."],"Remove the selected block(s).":["Retirer le ou les blocs sélectionnés."],"Duplicate the selected block(s).":["Dupliquer le ou les blocs sélectionnés."],"Clear selection.":["Effacer la sélection."],"Select all text when typing. Press again to select all blocks.":["Sélectionner tout le texte lors de la saisie. Appuyez à nouveau pour sélectionner tous les blocs."],"Insert a new block after the selected block(s).":["Insérer un nouveau bloc après le ou les blocs sélectionnés."],"Learn more":["En savoir plus"],"XL":["XL"],"L":["L"],"M":["M"],"S":["S"],"Small":["Petite"],"Edit URL":["Modifier l’URL"],"The response is not a valid JSON response.":["La réponse n’est pas une réponse JSON valide."],"Auto":["Auto"],"Preload":["Préchargement"],"Support":["Support"],"Cyan bluish gray":["Gris bleuté cyan"],"Vivid cyan blue":["Bleu cyan vif"],"Pale cyan blue":["Bleu cyan pâle"],"Vivid green cyan":["Cyan vert vif"],"Light green cyan":["Vert clair cyan"],"Luminous vivid amber":["Ambre lumineux et vif"],"Luminous vivid orange":["Orange vif lumineux"],"Vivid red":["Rouge vif"],"Pale pink":["Rose pâle"],"Inline image":["Image en ligne"],"Available block types":["Types de bloc disponibles"],"Transform to":["Transformer en"],"Large":["Large"],"Link to":["Lier vers"],"File":["Fichier"],"Column":["Colonne"],"Loop":["Boucle"],"Autosaving":["Enregistrement automatique"],"block description\u0004Add a block that displays content pulled from other sites, like Twitter or YouTube.":["Ajoute un bloc affichant du contenu récupéré d’autres sites, comme Twitter ou YouTube."],"No results found.":["Aucun résultat trouvé."],"Showing large initial letter.":["Affichage de la lettrine."],"Color code: %s":["Code couleur : %s"],"OK":["OK"],"Link settings":["Réglages de lien"],"Unlink":["Supprimer le lien"],"Pagination":["Pagination"],"Next page":[],"Height":["Hauteur"],"Width":["Largeur"],"Media Library":["Médiathèque"],"Advanced":["Avancé"],"Scheduled":["Planifié"],"Plugins":["Extensions"],"Custom Size":["Taille personnalisée"],"term\u0004%s removed":["%s supprimé"],"imperative verb\u0004Preview":["Prévisualiser"],"Words":["Mots"],"Private":["Privé"],"Term":["Terme"],"Tag":["Étiquette"],"Saving":["Enregistrement"],"Visibility:":["Visibilité : "],"Copy link":[],"Schedule":["Planifier"],"Update":["Mettre à jour"],"Copy":["Copier"],"Suggestion:":["Suggestion :"],"Chat":["Discussion"],"Status":["État"],"Set as featured image":[],"no title":["aucun titre"],"Order":["Ordre"],"No blocks found.":["Aucun bloc trouvé."],"%d result found.":["%d résultat trouvé.","%d résultats trouvés."],"Saved":["Enregistré"],"Embeds":["Contenus embarqués"],"Blocks":["Blocs"],"Search for a block":["Rechercher un bloc"],"Add block":["Ajouter un bloc"],"Add %s":["Ajouter : %s"],"Attempt recovery":[],"Undo":["Défaire"],"Redo":["Rétablir"],"More options":["Plus d’options"],"Edit visually":["Modifier visuellement"],"Duplicate":["Dupliquer"],"Blocks cannot be moved down as they are already at the bottom":["Les blocs ne peuvent pas être déplacés vers le bas car ils sont déjà tout en bas."],"Blocks cannot be moved up as they are already at the top":["Les blocs ne peuvent pas être déplacés vers le haut car ils sont déjà tout en haut."],"Block %1$s is at the beginning of the content and can’t be moved right":["Le bloc %1$s est au début du contenu et ne peut être déplacé à droite"],"Block %1$s is at the end of the content and can’t be moved right":["Le bloc %1$s est à la fin du contenu et ne peut pas être déplacé à droite"],"Block %s is the only block, and cannot be moved":["Le bloc « %s » est le seul bloc et ne peut pas être déplacé"],"Move down":["Déplacer vers le bas"],"Move up":["Déplacer vers le haut"],"Edit as HTML":["Modifier en HTML"],"Convert to Blocks":["Convertir en blocs"],"Block: %s":["Bloc : %s"],"This block has encountered an error and cannot be previewed.":["Ce bloc a rencontré une erreur et ne peut pas être prévisualisé."],"Remove":["Retirer"],"Find original":["Trouver l’original"],"Copied!":["Copié !"],"Visibility":["Visibilité"],"Block":["Bloc","%d Blocs"],"Document":["Document"],"Tools":["Outils"],"Editor":["Éditeur"],"Settings":["Réglages"],"Reset":["Réinitialiser "],"Off":["Désactivé"],"Drop files to upload":["Glisser les fichier à téléverser"],"PM":["après-midi"],"AM":["matin"],"An unknown error occurred.":["Une erreur inconnue est survenue."],"No results.":["Aucun résultat."],"%d result found, use up and down arrow keys to navigate.":["%d résultat trouvé, vous pouvez naviguer avec les touches haut et bas.","%d résultats trouvés, vous pouvez naviguer avec les touches haut et bas."],"URL":["URL"],"Submit":["Envoyer"],"Close":["Fermer"],"Edit link":["Modifier le lien"],"Link":["Lien"],"Strikethrough":["Barrer"],"Italic":["Italique"],"Bold":["Gras"],"Remove link":["Retirer le lien"],"Category":["Catégorie"],"Select":["Sélectionner"],"Video":["Vidéo"],"Write":[],"Separator":["Séparateur"],"Quote":["Citation"],"Paragraph":["Paragraphe"],"Font size":["Taille de police"],"Drop cap":["Lettrine"],"Read more":["Lire la suite"],"Indent list item":["Indenter l’élément de la liste"],"Outdent list item":["Désindenter l’élément de la liste"],"Convert to ordered list":["Convertir en liste ordonnée"],"Convert to unordered list":["Convertir en liste non-ordonnée"],"List":["Liste"],"photo":["photo"],"Size":["Taille"],"Image":["Image"],"Preview":["Aperçu"],"Heading":["Titre"],"None":["Aucun"],"Gallery":["Galerie"],"More":["En savoir plus"],"Classic":["Classique"],"video":["vidéo"],"audio":["son"],"music":["musique"],"image":["image"],"blog":["blog"],"post":["contenu"],"Embedded content from %s":["Contenu embarqué depuis %s"],"Enter URL to embed here…":["Saisir l’URL à embarquer…"],"%s URL":["%s URL"],"Text alignment":[],"Fixed background":["Arrière-plan fixe"],"Edit image":["Modifier l’image"],"Columns":["Colonnes"],"Code":["Code"],"Categories":["Catégories"],"Button":["Bouton"],"Apply":["Appliquer"],"Reusable blocks":["Bloc réutilisable"],"Cancel":["Annuler"],"Edit":["Modifier"],"Audio":["Son"],"Additional CSS class(es)":["Classe(s) CSS additionnelle(s)"],"HTML anchor":["Ancre HTML"],"This color combination may be hard for people to read. Try using a brighter background color and/or a darker %s.":["Cette combinaison de couleurs peut être difficile à lire pour certaines personnes. Essayer une couleur d’arrière-plan plus claire et/ou une couleur de %s plus foncée."],"This color combination may be hard for people to read. Try using a darker background color and/or a brighter %s.":["Cette combinaison de couleurs est difficilement lisible. Essayez d’utiliser une couleur d’arrière-plan plus sombre et/ou un %s plus clair."],"Clear":["Effacer"],"Custom color picker.":["Sélecteur de couleur personnalisée"],"Full width":["Pleine largeur"],"Wide width":["Grande largeur"],"Widgets":["Widgets"],"Align right":["Aligner à droite"],"Align center":["Aligner au centre"],"Align left":["Aligner à gauche"],"https://github.com/WordPress/gutenberg":["https://github.com/WordPress/gutenberg"],"Gutenberg":["Gutenberg"],"Authors":["Auteur·e"],"Slug":["Identifiant"],"Comment":["Commentaire"],"Publish":["Publier"],"Metadata":["Métadonnée"],"Save":["Enregistrer"],"Revisions":["Révisions"],"%s ago":["Il y a %s"],"%s from now":["Dans %s"]}}} );
+</script>
+
+<script>
+(function() {
+	'use strict';
+
+	const fetches = {};
+	const promises = {};
+	const urls = {
+		'wp-polyfill': '/wp-includes/js/dist/vendor/wp-polyfill.min.js?m=1764669441i&ver=3.15.0',
+		'verbum': '/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/verbum-comments/verbum-comments.js?m=1765400473i&minify=false&ver=87a45c8962a448c74c1e'
+	};
+	const loaders = {
+		'verbum': () => {
+			fetchExternalScript('wp-polyfill');
+			fetchExternalScript('verbum');
+			promises['wp-polyfill'] = promises['wp-polyfill'] || loadWPScript('wp-polyfill');
+			promises['verbum'] = promises['verbum'] || promises['wp-polyfill'].then( () => loadWPScript('verbum') );
+			return promises['verbum'];
+		},
+		
+	};
+	const scriptExtras = {
+		'verbum': { translations: 1, before: 0, after: 0 },
+		
+	};
+
+	window.WP_Enqueue_Dynamic_Script = {
+		loadScript: (handle) => {
+			if (!loaders[handle]) {
+				console.error('WP_Enqueue_Dynamic_Script: unregistered script `' + handle + '`.');
+			}
+			return loaders[handle]();
+		}
+	};
+
+	function fetchExternalScript(handle) {
+		if (!urls[handle]) {
+			return Promise.resolve();
+		}
+
+		fetches[handle] = fetches[handle] || fetch(urls[handle], { mode: 'no-cors' });
+		return fetches[handle];
+	}
+
+	function runExtraScript(handle, type, index) {
+		const id = 'wp-enqueue-dynamic-script:' + handle + ':' + type + ':' + (index + 1);
+		const template = document.getElementById(id);
+		if (!template) {
+			return Promise.reject();
+		}
+
+		const script = document.createElement( 'script' );
+		script.innerHTML = template.innerHTML;
+		document.body.appendChild( script );
+		return Promise.resolve();
+	}
+
+	function loadExternalScript(handle) {
+		if (!urls[handle]) {
+			return Promise.resolve();
+		}
+
+		return fetches[handle].then(() => {
+			return new Promise((resolve, reject) => {
+				const script = document.createElement('script');
+				script.onload = () => resolve();
+				script.onerror = (e) => reject(e);
+				script.src = urls[handle];
+				document.body.appendChild(script);
+			});
+		});
+	}
+
+	function loadExtra(handle, pos) {
+		const count = (scriptExtras[handle] && scriptExtras[handle][pos]) || 0;
+		let promise = Promise.resolve();
+
+		for (let i = 0; i < count; i++) {
+			promise = promise.then(() => runExtraScript(handle, pos, i));
+		}
+
+		return promise;
+	}
+
+	function loadWPScript(handle) {
+		// Core loads scripts in this order. See: https://github.com/WordPress/WordPress/blob/a59eb9d39c4fcba834b70c9e8dfd64feeec10ba6/wp-includes/class-wp-scripts.php#L428.
+		return loadExtra(handle, 'translations')
+			.then(() => loadExtra(handle, 'before'))
+			.then(() => loadExternalScript(handle))
+			.then(() => loadExtra(handle, 'after'));
+	}
+} )();
+</script>
+
+</body>
+</html>

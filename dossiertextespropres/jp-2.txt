@@ -1,8 +1,8 @@
 
 
-HTTP / 2   200   date :   Sun ,   04   Jan   2026   16 : 57 : 39   GMT   server : 
+HTTP / 2   200   date :   Sat ,   03   Jan   2026   16 : 37 : 35   GMT   server : 
 
-" endpoints " :   [ {   " url " : 
+" max _ age " :   604800 ,   " endpoints " :   [ {   " url " : 
 
 Feb   2026   12 : 00 : 00   GMT   set - cookie : 
 
@@ -14,11 +14,7 @@ GeoIP = FR : IDF : Maisons - Alfort : : : v 4 ;   Path = / ;   secure ;   Domain
 
 set - cookie : 
 
-WMF - Uniq = yAMkkSZ 0 W 5 aNjDiDix 76 IgLeAAAAAFvdYPdiTNmOQQco 4 WNy 6 v 40 FavJMyeQrk 0 Y ; Domain 
-
 = . ; Path = / ; HttpOnly ; secure ; SameSite = None ; Expires = Mon ,   04   Jan   2027 
-
-00 : 00 : 00   GMT   server - timing : 
 
 
 

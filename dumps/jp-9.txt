@@ -1,23 +1,23 @@
-HTTP/2 200 date: Sun, 04 Jan 2026 16:58:24 GMT content-type: text/html;
+HTTP/2 200 date: Sun, 04 Jan 2026 17:16:20 GMT content-type: text/html;
 charset=utf-8 content-length: 62164 server: nginx x-frame-options: SAMEORIGIN
 x-xss-protection: 0 x-content-type-options: nosniff
 x-permitted-cross-domain-policies: none referrer-policy:
 strict-origin-when-cross-origin link: ; rel=preload; as=style; nopush vary:
 Accept etag: W/"19590eb8a970b7b1897673db75505a5d" cache-control: max-age=0,
 private, must-revalidate set-cookie:
-tl_uuid=%7B%22id%22%3A%222f8f73971968b2b4f340bfa39ad02584%22%2C%22created_at%22%
+tl_uuid=%7B%22id%22%3A%22d6eaaf11f30bc2b263ba913466c9eac7%22%2C%22created_at%22%
 3A%222026-01-05%22%2C%22last_visited_at%22%3A%222026-01-05%22%2C%22active%22%3Af
-alse%7D; path=/; expires=Thu, 04 Jan 2046 16:58:24 GMT; SameSite=Lax; secure
+alse%7D; path=/; expires=Thu, 04 Jan 2046 17:16:20 GMT; SameSite=Lax; secure
 set-cookie:
-tl_optimize_pattern=2_733fe7b3a7b23d1d4dd381133acc3953be57ce060ce544618c2b863159
-131dc1; path=/; expires=Sun, 04 Jan 2026 17:28:24 GMT; SameSite=Lax; secure
+tl_optimize_pattern=7_ab1246bf746ca3e67f6e263375ab538bb892ccb9c19497becf54d0f22b
+060447; path=/; expires=Sun, 04 Jan 2026 17:46:20 GMT; SameSite=Lax; secure
 set-cookie:
-_tl_media_web_session=CKeoBgczkCax291h2m8S305obgOBkKytW9t%2BCP0MHM7%2BgWJebhxgdK
-ImaANYkVh%2FfzS4i%2BllgIjvEgRNsCZNeYTMWRCr%2FVrmi9pJwg2WXh6xvsxK1gy1PZoJzZLf2VRs
-kO3Dmbmkqp3dI3RlceU6gJkiuIKxAKuSEy6tOVykAmmSV3CcvmnEEP1ssKqKa759NpBR2C8%2BrAEXSw
-NMbEWEuTQFSFbVrxydqzzI--U3TYnnQzPvhk1JKJ--g91pwmjY9fMiJa6bbyB1ng%3D%3D; path=/;
-expires=Sun, 04 Jan 2026 17:13:24 GMT; secure; httponly; SameSite=Lax
-x-request-id: 177bfabd-36c3-4bd4-9526-2819bb569e06 x-runtime: 0.020612
+_tl_media_web_session=gKN2Er7uKFEJkVkkd10pferpwDZK%2FATDQQgUfgXcXYANLoRIr5P6OqbK
+Pe1kz2l4UlsqGEtJt%2FfOLSsNCjU0ZDc%2FttSNOKmoagoeufRt41Jr%2F2h6d4pdtKCTwz11BvSym9
+%2Fsvca%2FZilboTrlXhZdtozddOP68PLqDe%2BKi0vBt9p0isx1vbN3E7By709vuPCytSe7ZT%2F6%2
+Bjwr1vnNpB%2BcBPnfQYFuQ5Whu3DW--K4RPpLRvlRou6LLD--g8KwwvEyXXdeV1yOatYfPw%3D%3D;
+path=/; expires=Sun, 04 Jan 2026 17:31:20 GMT; secure; httponly; SameSite=Lax
+x-request-id: a97437ad-bd04-4520-ad43-4425402baa1c x-runtime: 0.270563
 strict-transport-security: max-age=63072000; includeSubDomains
 
   * TAG

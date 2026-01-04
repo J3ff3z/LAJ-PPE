@@ -22,3 +22,5 @@ fi
 python3 "programmes/tokenizer_$LANGUE.py"
 python3 "programmes/cooccurrents.py" "$CHEMIN/dump-$LANGUE.txt" --target "$MOT_CIBLE" --match-mode regex > "$CHEMIN"dump-"$LANGUE".tsv 2> /dev/null
 python3 "programmes/cooccurrents.py" "$CHEMIN/contextes-$LANGUE.txt" --target "$MOT_CIBLE" --match-mode regex > "$CHEMIN"contextes-"$LANGUE".tsv 2> /dev/null
+
+deactivate

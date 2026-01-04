@@ -3,10 +3,10 @@ W/"1ae99-CYtALGDfQbJU4T+wfcGt5RUX/gA" server-timing: data; dur=131, rendering;
 dur=11, total; dur=145.157229; desc="Total Response Time"
 x-envoy-upstream-service-time: 199 x-envoy-decorator-operation:
 public-web.blog.svc.cluster.local:8080/* x-is-default-ttl: false x-cdn-ttl:
-86400.000 accept-ranges: bytes age: 1 date: Sun, 04 Jan 2026 15:04:18 GMT
-x-timer: S1767539057.505784,VS0,VE1602 vary:
-Origin,Accept-Encoding,X-User-Agent,X-Loading server-timing: MISS-CLUSTER,
-fastly;desc="Edge time";dur=1602 timing-allow-origin: * x-content-type-options:
+86400.000 accept-ranges: bytes age: 8260 date: Sun, 04 Jan 2026 17:21:57 GMT
+x-timer: S1767547317.146842,VS0,VE3 vary:
+Origin,Accept-Encoding,X-User-Agent,X-Loading server-timing: HIT-CLUSTER,
+fastly;desc="Edge time";dur=3 timing-allow-origin: * x-content-type-options:
 nosniff content-security-policy: upgrade-insecure-requests x-user-agent: desktop
 x-loading: ?0 origin-trial:
 AgkzE0SdPqccfaG9xo/nbroJVd9BqLU0uZCCQbV46yVUMHh4r8RDCAWLKP8BgMPiXpQLpE/b2F9w+bJK

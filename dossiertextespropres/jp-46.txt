@@ -1,40 +1,68 @@
-HTTP / 2   200   server :   nginx   date :   Sun ,   04   Jan   2026   15 : 05 : 55   GMT   content - type : 
 
 
-/ christianpress . jp / wp - json / > ;   rel = " https : / / api . w . org / " , 
+HTTP / 2   200   server :   nginx   date :   Sun ,   04   Jan   2026   17 : 23 : 33   GMT   content - type : 
 
-/ christianpress . jp / wp - json / wp / v 2 / posts / 6745 > ;   rel = " alternate " ;   title = "  " ; 
+/ / wp - json / > ;   rel = " 
 
-type = " application / json " ,   / christianpress . jp / ? p = 6745 > ;   rel = shortlink 
+/ / wp - json / wp / v 2 / posts / 6745 > ;   rel = " alternate " ;   title = " " ; 
 
+type = " application / json " ,   / / ? p = 6745 > ;   rel = shortlink 
+
+link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preload ;   as = style ;   nopush 
 
 link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preload ;   as = style ;   nopush 
 
 link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preload ;   as = style ;   nopush 
 
+link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preload ;   as = style ;   nopush 
 
+link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preload ;   as = style ;   nopush 
 
-( XML ) 
+link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preload ;   as = style ;   nopush 
+
+link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preload ;   as = style ;   nopush 
+
+link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preload ;   as = style ;   nopush 
+
+link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preload ;   as = style ;   nopush 
+
+link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preload ;   as = style ;   nopush 
+
+link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preload ;   as = style ;   nopush 
+
+link :   ;   rel = preload ;   as = script ;   nopush   link :   ;   rel = preload ;   as = script ;   nopush 
+
+link :   ;   rel = preload ;   as = script ;   nopush   link :   ;   rel = preload ;   as = script ;   nopush 
+
+link :   ;   rel = preload ;   as = script ;   nopush   link :   ;   rel = preload ;   as = script ;   nopush 
+
+link :   ;   rel = preload ;   as = script ;   nopush   link :   ;   rel = preload ;   as = script ;   nopush 
+
+link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preload ;   as = style ;   nopush 
+
+link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preload ;   as = script ;   nopush 
+
+link :   ;   rel = preload ;   as = script ;   nopush   link :   ;   rel = preload ;   as = script ;   nopush 
+
+link :   ;   rel = preload ;   as = script ;   nopush   link :   ;   rel = preload ;   as = script ;   nopush 
+
+link :   ;   rel = preload ;   as = script ;   nopush   link :   ;   rel = preload ;   as = script ;   nopush 
+
+link :   ;   rel = preload ;   as = script ;   nopush   link :   ;   rel = preload ;   as = script ;   nopush 
+
+link :   ;   rel = preload ;   as = script ;   nopush   link :   ;   rel = preload ;   as = script ;   nopush 
+
+link :   ;   rel = preload ;   as = script ;   nopush   link :   ;   rel = preload ;   as = script ;   nopush 
+
+link :   ;   rel = preload ;   as = script ;   nopush   link :   ;   rel = preload ;   as = script ;   nopush 
+
+link :   ;   rel = preload ;   as = script ;   nopush   link :   ;   rel = preload ;   as = script ;   nopush 
+
+コメント フィード       
 
 
 
 クリプレ （ クリスチャン プレス ）   クリプレ （ クリスチャン プレス ） 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -50,13 +78,7 @@ link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preloa
 
 
 
-
-
-
-
-
-
-   ログイン 状態 を 保存 
+  ログイン 状態 を 保存 
 
 
 
@@ -65,7 +87,6 @@ link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preloa
 
 
 パスワード を 忘れ た 場合 
-
 
 
 
@@ -84,8 +105,6 @@ link :   ;   rel = preload ;   as = style ;   nopush   link :   ;   rel = preloa
 
 
 社会 ・ 教育 
-
-
 
 
 
@@ -185,8 +204,6 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-
-
 守田   早生 里 
 
 
@@ -199,10 +216,9 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-
 【 連載 小説 】 月 の 都 （ ３９ ） 下田 ひとみ   前 の 記事   ８ 月 の キリスト教 テレビ ・ ラジオ 案内 「 喜び へ の 扉 」 「 光 の 泉 」   次 の 記事 
 
-[ INS :   : INS ] 
+
 
 
 
@@ -214,23 +230,11 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-2023 . 07 . 29 
 
 
 
-処理 汚染水 の 海洋 放出 に 反対 　 日韓 の 聖 公会 が 連名 で 声明 
 
-
-
-社会 ・ 教育 
-
-
-
-2022 . 09 . 09 
-
-
-
-【 訃報 】 　 福井 達 雨 さん （ 止揚 学園 創立者 ） 
+コンゴ の 人々 や 子ども たち に 愛 の 贈り物 を 届けよう ！ 　 ハンガーゼロ 「 クリスマス 募金 ２０２２ 」 受付 開始 　 
 
 
 
@@ -238,23 +242,11 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-2024 . 12 . 03 
 
 
 
-クリスチャン トゥデイ 裁判 　 控訴審 判決 受け た 報告会 が 声明 「 注意 喚起 を 促し 続ける 」 
 
-
-
-宣教 ・ 教会 ・ 神学 
-
-
-
-2018 . 04 . 23 
-
-
-
-日本 ナザレン 神学校 、 二人 の 卒業生 と 一人 の 新入生 
+映画 『 福田 村 事件 』 の 森 達也 監督 が 講演 　 「 集団 化 」 に 抗い 一 人称 単数 で 語る 重要性 
 
 
 
@@ -262,11 +254,11 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-2024 . 09 . 28 
 
 
 
-袴田 巌 さん 「 再審 無罪 」 受け 日本 カトリック 司教 協議会 会長 が 談話 
+
+沖縄 「 慰霊 の 日 」 に カトリック 正平 協 が 談話 　 「 軍事 同盟 に 頼ら ない 自立 し た 外交 を 」 
 
 
 
@@ -274,16 +266,39 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-2018 . 07 . 15 
 
 
 
-２０１８ 年 ７ 月 豪雨 　 岡山 と 広島 の 諸教 会 が ボランティア 募集 
+
+バチカン 、 教皇 フランシスコ １１ 月 訪日 を 正式 発表 
+
+
+
+社会 ・ 教育 
+
+
+
+
+
+
+
+８ 月 の キリスト教 テレビ ・ ラジオ 案内 「 ＦＥＢＣ 」 
+
+
+
+社会 ・ 教育 
+
+
+
+
+
+
+
+沖縄 「 慰霊 の 日 」 に あたり 声明 　 カトリック 正平 協 が 「 軍拡 」 危惧 
 
 
 
 関連 
-
 
 
 
@@ -294,7 +309,6 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 最新 記事 と 各種 お知らせ を お 届け し ます 
-
 
 
 
@@ -314,7 +328,7 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-2025 . 12 . 29 
+
 
 
 
@@ -322,7 +336,7 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-2025 . 12 . 24 
+
 
 
 
@@ -330,7 +344,7 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-2025 . 12 . 24 
+
 
 
 
@@ -338,7 +352,7 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-2025 . 12 . 24 
+
 
 
 
@@ -346,7 +360,7 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-2025 . 12 . 24 
+
 
 
 
@@ -354,7 +368,7 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-2025 . 12 . 24 
+
 
 
 
@@ -362,7 +376,7 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-2025 . 12 . 24 
+
 
 
 
@@ -370,7 +384,7 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-2025 . 12 . 24 
+
 
 
 
@@ -378,7 +392,7 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-2025 . 12 . 24 
+
 
 
 
@@ -386,7 +400,7 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-2025 . 12 . 20 
+
 
 
 
@@ -410,53 +424,8 @@ YOKOHAMA 」 が ３ 日 から ３ 日間 、 かながわ 県民 センター 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Copyright   ©   2024 
 
 
 
-
-
 ( 検索 )    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

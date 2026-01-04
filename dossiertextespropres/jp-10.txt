@@ -4,7 +4,7 @@ rel = "   link :   / / wp - json / wp / v 2 / posts / 2158 > ;
 
 rel = " alternate " ;   title = " " ;   type = " application / json "   link : 
 
-/ / ? p = 2158 > ;   rel = shortlink   date :   Sun ,   04   Jan   2026   16 : 58 : 32   GMT 
+/ / ? p = 2158 > ;   rel = shortlink   date :   Sun ,   04   Jan   2026   17 : 16 : 29   GMT 
 
 ma = 2592000 ,   quic = " : 443 " ;   ma = 2592000 ;   v = " 4 3 , 4 6 "   # next   知識 の 書庫   »   フィード   知識 の 書庫   » 
 

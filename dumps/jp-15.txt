@@ -1,12 +1,12 @@
 HTTP/2 200 content-type: text/html; charset=utf-8 date: Sun, 04 Jan 2026
-16:46:08 GMT x-frame-options: sameorigin x-request-id:
-30a4b4da-a779-4190-aba5-afacd756e60d server: nginx cache-control: no-store
-set-cookie: dis_session_r=89d6e4b0c8799d9def9edd337adde1abf3aa04cd; path=/;
-expires=Sun, 04-Jan-2026 17:46:08 GMT; secure; HttpOnly x-content-type-options:
+17:16:12 GMT x-frame-options: sameorigin x-request-id:
+f3dac931-a382-4300-9d02-e14a9874d657 server: nginx cache-control: no-store
+set-cookie: dis_session_r=ff27db57084b9a3409adcf0df07d0c30d025eb1c; path=/;
+expires=Sun, 04-Jan-2026 18:16:12 GMT; secure; HttpOnly x-content-type-options:
 nosniff vary: Accept-Encoding,Accept-Encoding x-cache: Hit from cloudfront via:
-1.1 8bdbe34841dae048e23c3b85d9dccfca.cloudfront.net (CloudFront) x-amz-cf-pop:
-CDG50-P4 x-amz-cf-id: SS0pAIcHWYpCalbp4SZH_U1IY315cmQIGS0X841I0OizYvLXGP_lKA==
-age: 503 #prev
+1.1 9d1195da2196f119f0b70fe9bda25e10.cloudfront.net (CloudFront) x-amz-cf-pop:
+CDG50-P4 x-amz-cf-id: G8Mln3vTYQOd7aDptNTzsWM7jDttIs2NpsbdMTr9a5sY6ix84gvrMQ==
+age: 60 #prev
 
 IFRAME: //www.googletagmanager.com/ns.html?id=GTM-5CGN6D
 
@@ -227,26 +227,26 @@ AI技術ガチ勢の【AI×小説】プロンプト論
 
 ネクスト掲載小説
 
-パワー系メイドと品質管理が異世界で役立つって本当ですか？
+装翼のドラグーン　～高校生からはじめる！　移動都市でSF傭兵生活～
 
-チートなしで異世界を切り開くのはパワー系メイドと、品質管理の知識？
+地に多脚都市、空に宇宙生物。荒廃した未来を高校生傭兵が駆け抜ける。
 
-パワー系メイドと品質管理が異世界で役立つって本当ですか？
+装翼のドラグーン　～高校生からはじめる！　移動都市でSF傭兵生活～
 
-クガ
+天酒之瓢
 
-異世界ファンタジー 連載中 58話 2026年1月3日更新
+SF 連載中 21話 2025年7月9日更新
 
-1/12（月）まで無料拡大中
-花影
+18話分無料
+努力無双の転生エクソシスト
 
-「──君のすべてを暴きたい」
+血統なし才能なし、ただし最強の悪魔祓い
 
-花影
+努力無双の転生エクソシスト
 
-ミヤサトイツキ
+ファンタスティック小説家
 
-恋愛 完結済 80話 2025年10月15日更新
+現代ファンタジー 連載中 577話 2026年1月4日更新
 
 20話分無料
 

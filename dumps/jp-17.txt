@@ -1,9 +1,9 @@
 HTTP/2 200 date: Sat, 03 Jan 2026 16:40:48 GMT server:
 mw-web.eqiad.main-8f8dcf6c-k2pgh x-content-type-options: nosniff
 content-language: ja accept-ch: last-modified: Sat, 27 Dec 2025 03:35:53 GMT
-content-type: text/html; charset=UTF-8 age: 80468 accept-ranges: bytes x-cache:
-cp6010 hit, cp6016 miss x-cache-status: hit-local server-timing:
-cache;desc="hit-local", host;desc="cp6016" strict-transport-security:
+content-type: text/html; charset=UTF-8 age: 88725 accept-ranges: bytes x-cache:
+cp6010 hit, cp6016 hit/2 x-cache-status: hit-front server-timing:
+cache;desc="hit-front", host;desc="cp6016" strict-transport-security:
 max-age=106384710; includeSubDomains; preload report-to: { "group": "wm_nel",
 "max_age": 604800, "endpoints": [{ "url":
 "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_
@@ -20,10 +20,10 @@ Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
 GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
 set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
 set-cookie:
-WMF-Uniq=jCKn1hFCD7CcNo9mjxUAnQLeAAAAAFvdxwCm_fsNEAKgwexyBaSBUbX2ys_SIYw7;Domain
+WMF-Uniq=og21VZalUVAxu1ficqQpJwLeAAAAAFvdeWTcFxBRCD0N1-oZYNuXgdKmknoDLNXQ;Domain
 =.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027
-00:00:00 GMT x-request-id: 6cad4f15-f60d-4cc0-9432-14892ace1411 #編集 Wikipedia
-(ja) Wikipediaの Atom フィード
+00:00:00 GMT content-length: 266806 x-request-id:
+7e469565-a0b8-4d7b-bf31-a346c02f4855 #編集 Wikipedia (ja) Wikipediaの Atom フィード
 
 コンテンツにスキップ
 

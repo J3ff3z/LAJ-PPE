@@ -1,0 +1,524 @@
+HTTP/2 200 
+server: nginx
+date: Sun, 04 Jan 2026 17:27:39 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+vary: Accept-Encoding,Cookie,User-Agent
+link: <https://www.rybnik-kamien.katowice.opoka.org.pl/wp-json/>; rel="https://api.w.org/", <https://www.rybnik-kamien.katowice.opoka.org.pl/wp-json/wp/v2/pages/351>; rel="alternate"; type="application/json", <https://www.rybnik-kamien.katowice.opoka.org.pl/?p=351>; rel=shortlink
+
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KMFGSB6');</script>
+<!-- End Google Tag Manager -->
+<title>O grzechu&#8230; inaczej &#8211; Parafia pw. św. Brata Alberta w Rybniku &#8211; Kamieniu</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Parafia pw. św. Brata Alberta w Rybniku - Kamieniu &raquo; Kanał z wpisami" href="https://www.rybnik-kamien.katowice.opoka.org.pl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Parafia pw. św. Brata Alberta w Rybniku - Kamieniu &raquo; Kanał z komentarzami" href="https://www.rybnik-kamien.katowice.opoka.org.pl/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.rybnik-kamien.katowice.opoka.org.pl\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.7"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.rybnik-kamien.katowice.opoka.org.pl/wp-includes/css/dist/block-library/style.min.css?ver=6.5.7' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='faith-style-css' href='https://www.rybnik-kamien.katowice.opoka.org.pl/wp-content/themes/faith/style.css?ver=6.5.7' type='text/css' media='all' />
+<style id='faith-style-inline-css' type='text/css'>
+
+		/* Custom Link:hover Color */
+		a:hover,
+		a:focus,
+		.ilovewp-post .post-meta .entry-date a:hover,
+		.ilovewp-post .post-meta .entry-date a:focus,
+		h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
+		h1 a:focus, h2 a:focus, h3 a:focus, h4 a:focus, h5 a:focus, h6 a:focus,
+		.ilovewp-posts-archive .title-post a:hover,
+		.ilovewp-posts-archive .title-post a:focus,
+		.ilovewp-posts-archive .post-meta a:hover,
+		.ilovewp-posts-archive .post-meta a:focus,
+		.ilovewp-post .post-meta .entry-date a:hover,
+		.ilovewp-post .post-meta .entry-date a:focus {
+			color: #b1481b;
+		}
+	
+</style>
+<link rel='stylesheet' id='dashicons-css' href='https://www.rybnik-kamien.katowice.opoka.org.pl/wp-includes/css/dashicons.min.css?ver=6.5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css' href='https://www.rybnik-kamien.katowice.opoka.org.pl/wp-content/themes/faith/genericons/genericons.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='faith-webfonts-css' href='//fonts.googleapis.com/css?family=Lato%3A400%2C400i%2C700%2C700i&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='photonic-slider-css' href='https://www.rybnik-kamien.katowice.opoka.org.pl/wp-content/plugins/photonic/include/ext/splide/splide.min.css?ver=20250528-61405' type='text/css' media='all' />
+<link rel='stylesheet' id='photonic-lightbox-css' href='https://www.rybnik-kamien.katowice.opoka.org.pl/wp-content/plugins/photonic/include/ext/fancybox3/fancybox3.min.css?ver=20250528-61405' type='text/css' media='all' />
+<link rel='stylesheet' id='photonic-css' href='https://www.rybnik-kamien.katowice.opoka.org.pl/wp-content/plugins/photonic/include/css/front-end/core/photonic.min.css?ver=20250528-61405' type='text/css' media='all' />
+<style id='photonic-inline-css' type='text/css'>
+/* Retrieved from saved CSS */
+.photonic-panel { background:  rgb(17,17,17)  !important;
+
+	border-top: none;
+	border-right: none;
+	border-bottom: none;
+	border-left: none;
+ }
+.photonic-random-layout .photonic-thumb { padding: 2px}
+.photonic-masonry-layout .photonic-thumb, .photonic-masonry-horizontal-layout .photonic-thumb { padding: 2px}
+.photonic-mosaic-layout .photonic-thumb { padding: 2px}
+
+</style>
+<script type="text/javascript" src="https://www.rybnik-kamien.katowice.opoka.org.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.rybnik-kamien.katowice.opoka.org.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.rybnik-kamien.katowice.opoka.org.pl/wp-content/themes/faith/js/jquery.slicknav.min.js?ver=1" id="jquery-slicknav-js"></script>
+<script type="text/javascript" src="https://www.rybnik-kamien.katowice.opoka.org.pl/wp-content/themes/faith/js/superfish.min.js?ver=1" id="jquery-superfish-js"></script>
+<script type="text/javascript" src="https://www.rybnik-kamien.katowice.opoka.org.pl/wp-content/themes/faith/js/jquery.flexslider.js?ver=1" id="jquery-flexslider-js"></script>
+<link rel="https://api.w.org/" href="https://www.rybnik-kamien.katowice.opoka.org.pl/wp-json/" /><link rel="alternate" type="application/json" href="https://www.rybnik-kamien.katowice.opoka.org.pl/wp-json/wp/v2/pages/351" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.rybnik-kamien.katowice.opoka.org.pl/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.7" />
+<link rel="canonical" href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-grzechu-inaczej/" />
+<link rel='shortlink' href='https://www.rybnik-kamien.katowice.opoka.org.pl/?p=351' />
+<link rel="alternate" type="application/json+oembed" href="https://www.rybnik-kamien.katowice.opoka.org.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rybnik-kamien.katowice.opoka.org.pl%2Fokiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli%2Fo-grzechu-inaczej%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.rybnik-kamien.katowice.opoka.org.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rybnik-kamien.katowice.opoka.org.pl%2Fokiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli%2Fo-grzechu-inaczej%2F&#038;format=xml" />
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-3370668-1', 'auto');
+			ga('set', 'anonymizeIp', true);
+			ga('send', 'pageview');
+		</script>
+
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f9f3d4; }
+</style>
+	
+</head>
+
+<body class="page-template-default page page-id-351 page-child parent-pageid-341 custom-background wp-custom-logo comments-closed ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMFGSB6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="container">
+
+	<a class="skip-link screen-reader-text" href="#site-main">Skip to content</a>
+	<header class="site-header clearfix" role="banner">
+	
+		<div class="wrapper wrapper-header clearfix">
+
+			<div class="site-branding clearfix">
+				<a href="https://www.rybnik-kamien.katowice.opoka.org.pl/" class="custom-logo-link" rel="home"><img width="150" height="158" src="https://www.rybnik-kamien.katowice.opoka.org.pl/wp-content/uploads/2019/09/Logo-Parafialne_Czarne-e1569700837389.png" class="custom-logo" alt="Parafia pw. św. Brata Alberta w Rybniku &#8211; Kamieniu" decoding="async" /></a>				<p class="site-title"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/" rel="home">Parafia pw. św. Brata Alberta w Rybniku &#8211; Kamieniu</a></p>
+				<p class="site-description"></p>
+			</div><!-- .site-branding --><!-- ws fix
+	
+	        	        --><div id="site-header-navigation">
+	
+		        <div class="navbar-header">
+
+					<div id="menu-main-slick" class="menu-menu-glowne-container"><ul id="menu-slide-in" class="menu"><li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/intencje-mszalne/">Intencje mszalne</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/ogloszenia/">Ogłoszenia parafialne</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/informacje-o-parafii/">Informacje o parafii</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/sakramenty/">Sakramenty</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/historia-parafii/">Historia parafii</a></li>
+<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-has-children menu-item-344"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/">Okiem proboszcza – teksty, notatki z kazań, wypisy, myśli…</a>
+<ul class="sub-menu">
+	<li id="menu-item-1102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1102"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/ikona-przyjazni-medytacja/">IKONA PRZYJAŹNI – medytacja</a></li>
+	<li id="menu-item-3852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3852"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/swiadectwo-2/">Święty Albert – świadectwo</a></li>
+	<li id="menu-item-1110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1110"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/trojca-swieta-rublowa-medytacja/">Trójca Święta Rublowa  medytacja</a></li>
+	<li id="menu-item-1121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1121"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/sw-benedykt-inspiracje/">Św. Benedykt – inspiracje</a></li>
+	<li id="menu-item-1149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1149"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/ikona-swietej-rodziny-medytacja/">IKONA ŚWIĘTEJ RODZINY ? medytacja</a></li>
+	<li id="menu-item-1167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1167"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/pomagaj-nam-nieustannie-medytacja/">Pomagaj nam nieustannie!  -medytacja</a></li>
+</ul>
+</li>
+<li id="menu-item-968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-968"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/parafialny-kanal-youtube/">Parafialny kanał YouTube</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/galeria/">Galeria</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/patron-parafii/">Patron parafii</a></li>
+<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/wspolnoty-parafialne/">Wspólnoty parafialne</a></li>
+<li id="menu-item-1287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1287"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/nabozenstwa/">NABOŻEŃSTWA</a></li>
+<li id="menu-item-4064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4064"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/standardy-ochrony-maloletnich-zespol-ds-prewencji/">STANDARDY OCHRONY MAŁOLETNICH – ZESPÓŁ ds. PREWENCJI</a></li>
+</ul></div>
+		        </div><!-- .navbar-header -->
+
+									<div id="site-header-search">
+						<div id="search-2" class="widget widget_search"><p class="widget-title">Szukaj</p><form role="search" method="get" class="search-form" action="https://www.rybnik-kamien.katowice.opoka.org.pl/">
+				<label>
+					<span class="screen-reader-text">Szukaj:</span>
+					<input type="search" class="search-field" placeholder="Szukaj &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Szukaj" />
+			</form></div>					</div><!-- #site-header-search -->
+				
+				<nav id="menu-main" role="navigation">
+					<ul id="menu-main-menu" class="navbar-nav dropdown sf-menu clearfix"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/intencje-mszalne/">Intencje mszalne</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/ogloszenia/">Ogłoszenia parafialne</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/informacje-o-parafii/">Informacje o parafii</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/sakramenty/">Sakramenty</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/historia-parafii/">Historia parafii</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-has-children menu-item-344"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/">Okiem proboszcza – teksty, notatki z kazań, wypisy, myśli…</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1102"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/ikona-przyjazni-medytacja/">IKONA PRZYJAŹNI – medytacja</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3852"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/swiadectwo-2/">Święty Albert – świadectwo</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1110"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/trojca-swieta-rublowa-medytacja/">Trójca Święta Rublowa  medytacja</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1121"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/sw-benedykt-inspiracje/">Św. Benedykt – inspiracje</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1149"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/ikona-swietej-rodziny-medytacja/">IKONA ŚWIĘTEJ RODZINY ? medytacja</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1167"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/pomagaj-nam-nieustannie-medytacja/">Pomagaj nam nieustannie!  -medytacja</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-968"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/parafialny-kanal-youtube/">Parafialny kanał YouTube</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/galeria/">Galeria</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/patron-parafii/">Patron parafii</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/wspolnoty-parafialne/">Wspólnoty parafialne</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1287"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/nabozenstwa/">NABOŻEŃSTWA</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4064"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/standardy-ochrony-maloletnich-zespol-ds-prewencji/">STANDARDY OCHRONY MAŁOLETNICH – ZESPÓŁ ds. PREWENCJI</a></li>
+</ul>				</nav><!-- #menu-main -->
+			
+			</div><!-- #site-header-navigation -->
+						
+		</div><!-- .wrapper .wrapper-header .clearfix -->
+
+	</header><!-- .site-header -->
+		<div id="ilovewp-hero" class="ilovewp-hero-withimage">
+		<div class="ilovewp-hero-wrapper" style="background-image: url(https://www.rybnik-kamien.katowice.opoka.org.pl/wp-content/uploads/2020/03/rain-floor-water-wet-69927-1880x600.jpeg);">
+		</div><!-- .ilovewp-hero-wrapper -->
+	</div><!-- #ilovewp-hero -->
+	
+	<div id="site-main" class="page-has-frame page-has-image">
+
+		<div class="wrapper wrapper-main clearfix">
+		
+			<div class="wrapper-frame clearfix">
+			
+				<main id="site-content" class="site-main" role="main">
+				
+										
+					<div class="site-content-wrapper clearfix">
+
+						
+<article id="post-351" class="post-351 page type-page status-publish has-post-thumbnail hentry">
+
+	<header class="ilovewp-page-intro ilovewp-page-inner">
+		<h1 class="title-page">O grzechu&#8230; inaczej</h1>
+	</header><!-- .ilovewp-page-intro -->
+
+	<div class="post-single clearfix">
+
+		
+<p>Biblijnymi
+wzorami wiary NIE SĄ ludzie bezbłędni i perfekcyjni, lecz tacy,
+którzy pogrążeni byli w CIĘŻKIM GRZECHU i dopiero z jego DNA
+zaczęli dążyć do Boga. Spotykamy tu Abrahama, który wyparł się
+w Egipcie swojej żony przedstawiając ją jako siostrę po to, by
+móc z tego faktu czerpać korzyści. Mamy tu Mojżesza, który
+uwolnił lud Izraela z egipskiej niewoli, a przecież to MORDERCA –
+ w złości zabił jednego z Egipcjan. Dopiero jako „przegrany”
+został powołany przez Boga do służby. Mamy Dawida! Dawid był
+człowiekiem szlachetnym – mógł uwolnić się od śmiertelnego
+wroga, jakim był dla niego Saul, jednak nie zrobił tego. Był
+człowiekiem głębokiej wiary – jego psalmy do dzisiaj odmawiamy i
+śpiewamy! A JEDNOCZEŚNIE – jakiż to był – za przeproszeniem –
+„świntuch”. Pamiętamy „numer” z Batszebą, pamiętamy, jak
+potraktował jej męża – dla zatuszowania sprawy wystawił go na
+pewną śmierć.     A popatrzmy na św. Piotra! Przecież on nie
+rozumiał Jezusa do tego stopnia, że Jezus nazwał go SZATANEM i
+kazał odstąpić od siebie. W końcu Piotr zaparł się Jezusa.
+Popatrzmy na św. Pawła, który najpierw był Szawłem i z wielką
+gorliwością tępił chrześcijan…</p>
+
+
+
+<p>Te
+wszystkie postacie musiały przejść najpierw przez otchłań
+własnych win i bezsilności, aby móc czerpać swoją nadzieję
+wyłącznie od Boga. Ci ludzie musieli pozwolić Bogu, by to ON ich
+przemienił. Ten Piotr musiał doświadczyć, że nie może ręczyć
+za siebie, nawet jeśli coś obieca – bo przecież zapewniał –
+„nie zaprę się ciebie!”. Piotr po tym wszystkim gorzko zapłakał
+i pojął, że to nie ON jako osoba może stanowić OPOKĘ, lecz
+WIARA, której musi się kurczowo trzymać. Paweł ogarnięty
+niemocą, zupełnie bezradny, doświadcza na własnej skórze, że to
+sam CHRYSTUS nim kieruje i go przemienia. Nawet PO nawróceniu nie
+staje się człowiekiem w pełni uzdrowionym – pisze               
+   o poniżającym go ościeniu, o jakimś wysłanniku szatana, który
+bije go pięściami, aby nie wpadł w pychę. A JEDNAK Paweł żyje
+dalej i ewangelizuje. I jest pewien, że wystarczy mu łaski Bożej –
+te wyraźne słowa! – „moc bowiem w słabości się doskonali”
+– „gdy jestem słaby, wtedy jestem mocny!”. Paweł uwolnił się
+od pokusy dochodzenia do Boga o własnych siłach.</p>
+
+
+
+<p>Co
+to wszystko znaczy i o co w tym chodzi?</p>
+
+
+
+<p>Nie
+chodzi o to, że warto grzeszyć, bo tak można spotkać Pana Boga.
+Chodzi o to, że grzech i słabość – jeśli się pojawią –
+TRZEBA MĄDRZE PRZEŻYĆ I WYKORZYSTAĆ! Że to może być początek
+wielkiej przyjaźni                 z Bogiem! Chodzi o to, byśmy nie
+walczyli SAMI – sami to możemy jedynie wpaść w nerwicę! –
+walczyć Bożą mocą, Bożą mądrością – trochę tak, jak mały
+chłopiec, który w zagrożeniu straszy starszym bratem –
+„Poczekaj, jak przyjdzie mój brat, to ci pokaże!” Chodzi o to,
+byśmy po grzechu i w słabości NIE UCIEKALI przed Bogiem – im
+jest gorzej, tym bardziej trzeba szarpać Pana Boga. Ośmielę się
+stwierdzić, że Bóg wkracza do akcji dopiero wtedy, kiedy człowiek
+mówi, że SAM SOBIE NIE PORADZI!. Żeby nas grzech nie przywalił,
+nie zniszczył, nie złamał……. „Bo nie dalej jak w Popielec
+postanowiłem…. Że już nigdy, że już będę…. A tu znowu to
+samo. I już mi się nigdy nie uda i taki już zostanę”. Hmmm…..
+Być może się uda, a być może COŚ ci już do końca życia
+zostanie – jakaś wada, jakaś słabość, jakiś problem, jakiś
+oścień…. Ty musisz żyć DALEJ, bo Bóg chce, abyś ŻYŁ.
+Człowiek nawet codziennie może być na dnie – ale na tym dnie
+codziennie musi odnajdywać Pana Boga!</p>
+
+
+
+<p>FARYZEUSZ
+I CELNIK</p>
+
+
+
+<p>Celnik
+– czyli poborca podatków – w czasach Jezusa uważany za
+wyjątkowego grzesznika – BO krwiopijca, kolaborant władz
+rzymskich – zatem ktoś pogardzany, znienawidzony, odrażający! A
+jednak to ON!&#8230; po modlitwie, o której słyszeliśmy w przypowieści
+Jezusa – wyszedł ze świątyni USPRAWIEDLIWIONY! A MODLIŁO SIĘ
+DWÓCH – CELNIK I FARYZEUSZ! Co sprawiło, że modlitwa faryzeusza
+nie podobała się Bogu? I… KIEDY my sami jesteśmy na DRODZE DO
+FARYZEIZMU?</p>
+
+
+
+<p>Otóż
+faryzeusz miał kłopot ze wzrokiem – zamiast patrzeć PRZED SIEBIE
+i szukać Boga, spoglądał w prawo,             w lewo… i pewnie
+jeszcze do tyłu… &#8211; PO CO? – by znaleźć GORSZEGO od siebie. To
+tak przyjemnie znaleźć gorszego od siebie! 
+</p>
+
+
+
+<p>Zatem
+do faryzeizmu prowadzi PORÓWNYWANIE SIĘ z innymi. WSZELKIE
+porównywanie się prowadzi do duchowej porażki. Bo każdy jest
+NIEPORÓWNYWALNY, jedyny w swoim rodzaju. I taką też – jedyną w
+swoim rodzaju – jest moja relacja z Bogiem. Dla celnika ważny jest
+tylko Bóg, ważna jest ta chwila modlitwy…. On pewnie nawet nie
+wie, kto jeszcze jest w świątyni! Tylko ON i BÓG!</p>
+
+
+
+<p>Co
+jeszcze pachnie, albo lepiej powiedzieć „zalatuje” faryzeizmem?</p>
+
+
+
+<p>Ten
+faryzeusz – tak naprawdę – WYMAGA od siebie! Przez Prawo jest
+zobowiązany do poszczenia raz w roku, w dniu pokuty. Tymczasem on
+pości – UWAGA!  &#8211; dwa razy w tygodniu! – po to, by zadośćuczynić
+za grzechy tylu niewiernych. Według Prawa powinien płacić
+dziesięcinę, czyli podatek świątynny…. Z pszenicy, moszczu i
+oliwy.       A on dobrowolnie daje dziesięcinę ze wszystkich swoich
+zakupów. Zatem ten faryzeusz to człowiek zaangażowany, gorliwy,
+oddany. I nie to jest tu problemem! Pan Jezus wcale nie krytykuje tej
+jego gorliwości. Problem leży w tym, że on to wszystko Panu Bogu
+powyliczał, że się tym przechwala. To nie jest człowiek pobożny,
+to jest KOLEKCJONER, dumny ze swojej kolekcji. To człowiek dla
+którego Bóg jest głównym księgowym, który ma wszystko odnotować
+            i w właściwym czasie wręczyć dyplom i puchar…     i
+to jeszcze tak, żeby to wszyscy to widzieli. Właściwie, gdyby nie
+ten faryzeusz to nie wiadomo, jak Bóg by sobie radził… Faryzeusz
+tu      i teraz niewiele od Boga oczekuje – chyba tylko tego, by te
+jego ZASŁUGI odnotował…</p>
+
+
+
+<p>A
+celnik, świadomy własnej grzeszności i słabości, pokornie prosi
+Boga o litość – tylko tyle i AŻ TYLE! 
+</p>
+
+
+
+<p>Zatem
+DRUGA „furtka” do faryzeizmu to ten błysk w oku i duma ze swej
+„pobożnościowej kolekcji” – „proszę księdza….. ja
+wszystkie pielgrzymki…. Nie opuszczę…. I wszystkie części
+różańca…. a te nowenny, jedną kończę, drugą zaczynam…,  a
+Radio Maryja to mam cały czas włączone, dzień   i noc!” Mówi
+nam Pan Jezus, że to wszystko może nie wystarczyć. Najważniejszy
+jest bowiem wewnętrzny motyw – robię coś, by być BLIŻEJ Boga.</p>
+
+
+
+<p>Czasami
+nawet mam wrażenie, że my zbyt wiele mówimy i myślimy o tej
+„WIECZNEJ NAGRODZIE” w niebie! Człowiek niczego nie powinien
+robić DLA NAGRODY! A wszystko powinien robić  z miłości do Boga i
+z pragnienia zobaczenia Go TWARZĄ W TWARZ!</p>
+
+
+
+<p>(DJ)</p>
+
+		
+	</div><!-- .post-single -->
+
+</article><!-- #post-351 -->						
+												
+					</div><!-- .site-content-wrapper .clearfix -->
+					
+									
+				</main><!-- #site-content -->
+				
+				
+<aside id="site-aside" role="complementary">
+
+	<div class="site-aside-wrapper clearfix">
+	
+		<div class="widget widget-ilovewp-related-pages"><div class="related-pages-wrapper clearfix"><p class="widget-title"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/">Okiem proboszcza &#8211; teksty, notatki z kazań, wypisy, myśli&#8230;</a></p><ul class="ilovewp-related-pages clearfix"><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/swiadectwo-2/">Święty Albert - świadectwo</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-adoracji/">O... adoracji</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/zwyczajny-diament/">Zwyczajny... diament</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-zalobie/">O... żałobie</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/jakoimy/">JAKOiMY</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/chandra/">Chandra</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-walce-duchowej/">O... walce duchowej</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/ojciec-wzruszyl-sie-medytacja/">Ojciec wzruszył się... - medytacja</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/rekolekcje-ii/">Rekolekcje II</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/rekolekcje/">Rekolekcje</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/jak-sie-dobrze-wyspowiadac/">Jak się dobrze wyspowiadać?</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/odkamieniacz/">Odkamieniacz</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/ikona-przyjazni-medytacja/">IKONA PRZYJAŹNI - medytacja</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/trojca-swieta-rublowa-medytacja/">Trójca Święta Rublowa  medytacja</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/rodzina-daje-sile/">Rodzina daje SIŁĘ</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-pompejance-modlitwa-jak-wulkan/">O pompejance. - MODLITWA  JAK WULKAN</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/sw-benedykt-inspiracje/">Św. Benedykt - inspiracje</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-eucharystii/">O Eucharystii...</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page current-menu-item"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-grzechu-inaczej/">O grzechu... inaczej</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-kosciele/">O Kościele...</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-malzenstwie-biblijnie/">O małżeństwie... biblijnie</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-milczeniu-boga/">O milczeniu Boga...</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-obrazach-boga/">O obrazach Boga...</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-spowiedzi/">O spowiedzi...</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-tym-ile-jestem-wart/">O tym, ile jestem wart...</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/pytania-sw-brata-alberta/">Pytania... św. Brata Alberta</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/teskniace-serce-boga/">Tęskniące Serce Boga</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/zranione-wnetrza/">Zranione wnętrza</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/ikona-swietej-rodziny-medytacja/">IKONA ŚWIĘTEJ RODZINY ? medytacja</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-depresji/">O... depresji</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/pomagaj-nam-nieustannie-medytacja/">Pomagaj nam nieustannie!  -medytacja</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/droga-krzyzowa/">Droga Krzyżowa</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/szkola-modlitwy/">SZKOŁA MODLITWY</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/biblia-czasem-placze/">Biblia... czasem płacze</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-sakramencie-chorych/">O... sakramencie chorych</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-bierzmowaniu/">O... bierzmowaniu</a></li><!-- .ilovewp-related-page --><li class="ilovewp-related-page"><a href="https://www.rybnik-kamien.katowice.opoka.org.pl/okiem-proboszcza-teksty-notatki-z-kazan-wypisy-mysli/o-chrzcie/">O... chrzcie</a></li><!-- .ilovewp-related-page --></ul><!-- .ilovewp-related-pages -->
+	</div><!-- .related-pages-wrapper .clearfix --></div><!-- .widget .widget-ilovewp-related-pages -->
+				
+	</div><!-- .site-aside-wrapper .clearfix -->
+
+</aside><!-- #site-aside -->			
+			</div><!-- .wrapper-frame -->
+		
+		</div><!-- .wrapper .wrapper-main -->
+
+	</div><!-- #site-main -->
+
+
+	<footer class="site-footer" role="contentinfo">
+	
+		
+
+<div class="wrapper wrapper-footer">
+			
+	<div id="site-tertiary" class="pre-footer" role="complementary">
+	
+		<div class="ilovewp-columns ilovewp-columns-5 clearfix">
+		
+			<div class="ilovewp-column ilovewp-column-1">
+			
+				<div class="ilovewp-column-wrapper clearfix">
+				
+											<div id="custom_html-2" class="widget_text widget widget_custom_html"><p class="widget-title">Kancelaria</p><div class="textwidget custom-html-widget">poniedziałek 8.00-9.00<br/>
+wtorek 8.00-9.00<br/>
+czwartek 15.00-16.00<br/>
+piątek 15.00-16.00</div></div>									
+				</div><!-- .ilovewp-column-wrapper -->
+			
+			</div><!-- .ilovewp-column .ilovewp-column-1 -->
+			
+			<div class="ilovewp-column ilovewp-column-2">
+			
+				<div class="ilovewp-column-wrapper clearfix">
+				
+											<div id="custom_html-3" class="widget_text widget widget_custom_html"><p class="widget-title">Kontakt</p><div class="textwidget custom-html-widget">ul. Robotnicza 95<br/>
+44-213 Rybnik-Kamień<br/>
+tel. 32 42 19 218<br/>
+tel. kom.  690 274 078<br/></div></div>									
+				</div><!-- .ilovewp-column-wrapper -->
+			
+			</div><!-- .ilovewp-column .ilovewp-column-2 -->
+			
+			<div class="ilovewp-column ilovewp-column-3">
+			
+				<div class="ilovewp-column-wrapper clearfix">
+				
+									
+				</div><!-- .ilovewp-column-wrapper -->
+			
+			</div><!-- .ilovewp-column .ilovewp-column-3 -->
+			
+			<div class="ilovewp-column ilovewp-column-4">
+			
+				<div class="ilovewp-column-wrapper clearfix">
+				
+											<div id="search-3" class="widget widget_search"><p class="widget-title">Szukaj na stronie</p><form role="search" method="get" class="search-form" action="https://www.rybnik-kamien.katowice.opoka.org.pl/">
+				<label>
+					<span class="screen-reader-text">Szukaj:</span>
+					<input type="search" class="search-field" placeholder="Szukaj &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Szukaj" />
+			</form></div>									
+				</div><!-- .ilovewp-column-wrapper -->
+			
+			</div><!-- .ilovewp-column .ilovewp-column-4 -->
+
+			<div class="ilovewp-column ilovewp-column-5">
+			
+				<div class="ilovewp-column-wrapper clearfix">
+				
+									
+				</div><!-- .ilovewp-column-wrapper -->
+			
+			</div><!-- .ilovewp-column .ilovewp-column-5 -->
+		
+		</div><!-- .ilovewp-columns .ilovewp-columns-5 -->
+	
+	</div><!-- #site-tertiary -->
+
+</div><!-- .wrapper .wrapper-footer -->
+
+		
+		<div class="wrapper wrapper-copy">
+						<p class="copy">Copyright &copy; 2026 Parafia pw. św. Brata Alberta w Rybniku &#8211; Kamieniu. All Rights Reserved.</p>
+			<p class="copy-ilovewp"><span class="theme-credit">Theme by<a href="http://www.ilovewp.com/" rel="nofollow external designer noopener" class="footer-logo-ilovewp"><img src="https://www.rybnik-kamien.katowice.opoka.org.pl/wp-content/themes/faith/images/ilovewp-logo-white.png" width="51" height="11" alt="Church WordPress Themes" /></a></span></p>
+		</div><!-- .wrapper .wrapper-copy -->
+	
+	</footer><!-- .site-footer -->
+
+</div><!-- end #container -->
+
+<script type="text/javascript" id="faith-scripts-js-extra">
+/* <![CDATA[ */
+var faithStrings = {"slicknav_menu_home":"HOME"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.rybnik-kamien.katowice.opoka.org.pl/wp-content/themes/faith/js/faith.js?ver=20160820" id="faith-scripts-js"></script>
+
+</body>
+</html>
+<!-- Dynamic page generated in 0.120 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2026-01-04 18:27:39 -->
+
+<!-- super cache -->

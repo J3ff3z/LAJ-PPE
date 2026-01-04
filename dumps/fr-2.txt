@@ -1,7 +1,7 @@
 HTTP/2 200 date: Sun, 04 Jan 2026 11:12:51 GMT server: ATS/9.2.11
 x-content-type-options: nosniff content-language: fr accept-ch: last-modified:
-Sat, 03 Jan 2026 04:40:57 GMT content-type: text/html; charset=UTF-8 age: 14022
-accept-ranges: bytes x-cache: cp6009 miss, cp6016 hit/1 x-cache-status:
+Sat, 03 Jan 2026 04:40:57 GMT content-type: text/html; charset=UTF-8 age: 22281
+accept-ranges: bytes x-cache: cp6009 miss, cp6016 hit/3 x-cache-status:
 hit-front server-timing: cache;desc="hit-front", host;desc="cp6016"
 strict-transport-security: max-age=106384710; includeSubDomains; preload
 report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url":
@@ -19,10 +19,10 @@ Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
 GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
 set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
 set-cookie:
-WMF-Uniq=StOyca_0E_n8vwGrPEAvCALeAAAAAFvd1nIuwKKzxqOGxRWIYbZERiTtNKSIXqqT;Domain
+WMF-Uniq=egrP6leSpRPhtwYWKMWQkALeAAAAAFvdG4ILDA2qKMT180h8pzqJn02wJRl9UFfZ;Domain
 =.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027
 00:00:00 GMT content-length: 158649 x-request-id:
-cca86871-4f7a-4f06-866a-3c715fba834f #Modifier Wikipédia (fr) Flux Atom de
+6520791f-609a-48c2-84b0-b4c3eb154936 #Modifier Wikipédia (fr) Flux Atom de
 Wikipédia
 
 Aller au contenu

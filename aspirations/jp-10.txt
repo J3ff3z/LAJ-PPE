@@ -3,7 +3,7 @@ content-type: text/html; charset=UTF-8
 link: <https://kotoba.click/wp-json/>; rel="https://api.w.org/"
 link: <https://kotoba.click/wp-json/wp/v2/posts/2158>; rel="alternate"; title="JSON"; type="application/json"
 link: <https://kotoba.click/?p=2158>; rel=shortlink
-date: Sun, 04 Jan 2026 16:58:32 GMT
+date: Sun, 04 Jan 2026 17:16:29 GMT
 server: LiteSpeed
 alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
 

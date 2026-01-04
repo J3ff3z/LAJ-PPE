@@ -1,6 +1,6 @@
 
 
-HTTP / 2   200   date :   Sat ,   03   Jan   2026   16 : 28 : 22   GMT   server : 
+HTTP / 2   200   date :   Sun ,   04   Jan   2026   14 : 57 : 14   GMT   server : 
 
 " max _ age " :   604800 ,   " endpoints " :   [ {   " url " : 
 
@@ -14,9 +14,9 @@ GeoIP = FR : IDF : Maisons - Alfort : : : v 4 ;   Path = / ;   secure ;   Domain
 
 set - cookie : 
 
-WMF - Uniq = U 5 kVSK 2 z 0 oFp 97 Z 0 J 9 kNNQLeAAAAAFvdeTastr 8 n 2 ZlE 2 HThxZqYMq 4 wBfFaLzE 6 ; Domain 
-
 = . ; Path = / ; HttpOnly ; secure ; SameSite = None ; Expires = Mon ,   04   Jan   2027 
+
+Wikipedia   ( ja )   Wikipedia の   Atom   フィード 
 
 
 

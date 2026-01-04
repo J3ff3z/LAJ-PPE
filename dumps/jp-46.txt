@@ -1,14 +1,37 @@
-HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 15:05:55 GMT content-type:
-text/html; charset=UTF-8 content-length: 103175 vary: Accept-Encoding link:
+HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 17:23:33 GMT content-type:
+text/html; charset=UTF-8 content-length: 103007 vary: Accept-Encoding link:
 /christianpress.jp/wp-json/>; rel="https://api.w.org/",
 /christianpress.jp/wp-json/wp/v2/posts/6745>; rel="alternate"; title="JSON";
 type="application/json", /christianpress.jp/?p=6745>; rel=shortlink
 x-mod-pagespeed: Powered By XPageSpeed link: ; rel=preload; as=script; nopush
 link: ; rel=preload; as=style; nopush link: ; rel=preload; as=style; nopush
 link: ; rel=preload; as=style; nopush link: ; rel=preload; as=style; nopush
-vary: Accept-Encoding cache-control: s-maxage=10 accept-ranges: bytes
-#クリプレ（クリスチャンプレス） » フィード クリプレ（クリスチャンプレス） » コメントフィード JSON oEmbed (JSON) oEmbed
-(XML)
+link: ; rel=preload; as=style; nopush link: ; rel=preload; as=style; nopush
+link: ; rel=preload; as=style; nopush link: ; rel=preload; as=style; nopush
+link: ; rel=preload; as=style; nopush link: ; rel=preload; as=style; nopush
+link: ; rel=preload; as=style; nopush link: ; rel=preload; as=style; nopush
+link: ; rel=preload; as=style; nopush link: ; rel=preload; as=style; nopush
+link: ; rel=preload; as=style; nopush link: ; rel=preload; as=style; nopush
+link: ; rel=preload; as=style; nopush link: ; rel=preload; as=style; nopush
+link: ; rel=preload; as=style; nopush link: ; rel=preload; as=style; nopush
+link: ; rel=preload; as=style; nopush link: ; rel=preload; as=style; nopush
+link: ; rel=preload; as=script; nopush link: ; rel=preload; as=script; nopush
+link: ; rel=preload; as=script; nopush link: ; rel=preload; as=script; nopush
+link: ; rel=preload; as=script; nopush link: ; rel=preload; as=script; nopush
+link: ; rel=preload; as=script; nopush link: ; rel=preload; as=script; nopush
+link: ; rel=preload; as=style; nopush link: ; rel=preload; as=style; nopush
+link: ; rel=preload; as=style; nopush link: ; rel=preload; as=script; nopush
+link: ; rel=preload; as=script; nopush link: ; rel=preload; as=script; nopush
+link: ; rel=preload; as=script; nopush link: ; rel=preload; as=script; nopush
+link: ; rel=preload; as=script; nopush link: ; rel=preload; as=script; nopush
+link: ; rel=preload; as=script; nopush link: ; rel=preload; as=script; nopush
+link: ; rel=preload; as=script; nopush link: ; rel=preload; as=script; nopush
+link: ; rel=preload; as=script; nopush link: ; rel=preload; as=script; nopush
+link: ; rel=preload; as=script; nopush link: ; rel=preload; as=script; nopush
+link: ; rel=preload; as=script; nopush link: ; rel=preload; as=script; nopush
+link: ; rel=preload; as=script; nopush vary: Accept-Encoding cache-control:
+s-maxage=10 accept-ranges: bytes #クリプレ（クリスチャンプレス） » フィード クリプレ（クリスチャンプレス） »
+コメントフィード JSON oEmbed (JSON) oEmbed (XML)
 
 クリプレ（クリスチャンプレス） クリプレ（クリスチャンプレス）
 
@@ -122,39 +145,39 @@ YOKOHAMA」が３日から３日間、かながわ県民センターで開催さ
 
 社会・教育
 
-2023.07.29
+2022.12.04
 
-処理汚染水の海洋放出に反対　日韓の聖公会が連名で声明
-
-社会・教育
-
-2022.09.09
-
-【訃報】　福井達雨さん（止揚学園創立者）
+コンゴの人々や子どもたちに愛の贈り物を届けよう！　ハンガーゼロ「クリスマス募金２０２２」受付開始　
 
 社会・教育
 
-2024.12.03
+2023.08.04
 
-クリスチャントゥデイ裁判　控訴審判決受けた報告会が声明「注意喚起を促し続ける」
-
-宣教・教会・神学
-
-2018.04.23
-
-日本ナザレン神学校、二人の卒業生と一人の新入生
+映画『福田村事件』の森達也監督が講演　「集団化」に抗い一人称単数で語る重要性
 
 社会・教育
 
-2024.09.28
+2022.06.24
 
-袴田巌さん「再審無罪」受け日本カトリック司教協議会会長が談話
+沖縄「慰霊の日」にカトリック正平協が談話　「軍事同盟に頼らない自立した外交を」
 
 社会・教育
 
-2018.07.15
+2019.09.13
 
-２０１８年７月豪雨　岡山と広島の諸教会がボランティア募集
+バチカン、教皇フランシスコ１１月訪日を正式発表
+
+社会・教育
+
+2018.08.01
+
+８月のキリスト教テレビ・ラジオ案内「ＦＥＢＣ」
+
+社会・教育
+
+2024.06.27
+
+沖縄「慰霊の日」にあたり声明　カトリック正平協が「軍拡」危惧
 
 関連
 

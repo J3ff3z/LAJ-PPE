@@ -1,0 +1,640 @@
+HTTP/2 200 
+date: Sun, 04 Jan 2026 17:30:23 GMT
+content-type: text/html; charset=UTF-8
+server: OVHcloud
+x-powered-by: PHP/5.4
+x-ua-compatible: IE=edge
+link: <https://bibliotekajogi3.pl/index.php?rest_route=/>; rel="https://api.w.org/", <https://bibliotekajogi3.pl/?p=2369>; rel=shortlink
+vary: Accept-Encoding
+
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>Grzech &#8211; Biblioteka Jogi</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Biblioteka Jogi &raquo; Kanał z wpisami" href="https://bibliotekajogi3.pl/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Biblioteka Jogi &raquo; Kanał z komentarzami" href="https://bibliotekajogi3.pl/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="Biblioteka Jogi &raquo; Grzech Kanał z komentarzami" href="https://bibliotekajogi3.pl/?feed=rss2&#038;page_id=2369" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bibliotekajogi3.pl\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.24"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='pc_google_analytics-frontend-css'  href='https://bibliotekajogi3.pl/wp-content/plugins/pc-google-analytics/assets/css/frontend.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='scrollup-css-css'  href='https://bibliotekajogi3.pl/wp-content/plugins/smooth-scroll-up/css/scrollup.css?ver=5.0.24' type='text/css' media='all' />
+<style id='scrollup-css-inline-css' type='text/css'>
+a.scrollup-image {background-image: url("../img/scrollup.png") !important; }
+</style>
+<link rel='stylesheet' id='generate-style-grid-css'  href='https://bibliotekajogi3.pl/wp-content/themes/generatepress/css/unsemantic-grid.min.css?ver=2.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-style-css'  href='https://bibliotekajogi3.pl/wp-content/themes/generatepress/style.min.css?ver=2.3.2' type='text/css' media='all' />
+<style id='generate-style-inline-css' type='text/css'>
+.inside-header {padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; }.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content {padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; }.ignore-x-spacing {margin-right: -20px; margin-bottom: 20px; margin-left: -20px; }.ignore-xy-spacing {margin-top: -20px; margin-right: -20px; margin-bottom: 20px; margin-left: -20px; }.main-navigation .main-nav ul li a,			.menu-toggle {padding-left: 15px; padding-right: 15px; line-height: 40px; }.nav-float-right .main-navigation .main-nav ul li a {line-height: 40px; }.main-navigation .main-nav ul ul li a {padding-left: 15px; padding-right: 15px; padding-top: 5px; padding-bottom: 5px; }.main-navigation ul ul {top: 40px; }.navigation-search {height: 40px; line-height: 0px; }.navigation-search input {height: 40px; line-height: 0px; }.widget-area .widget {padding-top: 40px; padding-right: 20px; padding-bottom: 40px; padding-left: 20px; }.footer-widgets {padding-top: 40px; padding-right: 0px; padding-bottom: 40px; padding-left: 0px; }.site-info {padding-top: 20px; padding-right: 0px; padding-bottom: 20px; padding-left: 0px; }.right-sidebar.separate-containers .site-main {margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; }.left-sidebar.separate-containers .site-main {margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; }.both-sidebars.separate-containers .site-main {margin: 0px; padding: 0px; }.both-right.separate-containers .site-main {margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; }.separate-containers .site-main {margin-top: 0px; margin-bottom: 0px; padding: 0px; }.separate-containers .page-header-image, .separate-containers .page-header-content, .separate-containers .page-header-image-single, .separate-containers .page-header-content-single {margin-top: 0px; }.both-left.separate-containers .site-main {margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; }.separate-containers .inside-right-sidebar, .inside-left-sidebar {margin-top: 0px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px; }.separate-containers .widget, .separate-containers .hentry, .separate-containers .page-header, .widget-area .main-navigation {margin-bottom: 0px; }.both-left.separate-containers .inside-left-sidebar {margin-right: 0px; padding-right: 0px; }.both-left.separate-containers .inside-right-sidebar {margin-left: 0px; padding-left: 0px; }.both-right.separate-containers .inside-left-sidebar {margin-right: 0px; padding-right: 0px; }.both-right.separate-containers .inside-right-sidebar {margin-left: 0px; padding-left: 0px; }
+body, button, input, select, textarea {font-family: Tahoma, Geneva, sans-serif; font-weight: normal; text-transform: none; font-size: 15px; }.main-title {font-family: inherit; font-weight: 500; text-transform: none; font-size: 37px; }.site-description {font-family: inherit; font-weight: normal; text-transform: none; font-size: 11px; }.main-navigation a, .menu-toggle {font-family: inherit; font-weight: 500; text-transform: none; font-size: 16px; }.main-navigation .main-nav ul ul li a {font-size: 15px; }.widget-title {font-family: inherit; font-weight: 300; text-transform: none; font-size: 20px; }.sidebar .widget, .footer-widgets .widget {font-size: 15px; }h1 {font-family: inherit; font-weight: 300; text-transform: none; font-size: 36px; }h2 {font-family: inherit; font-weight: 300; text-transform: none; font-size: 30px; }h3 {font-family: inherit; font-weight: 300; text-transform: none; font-size: 25px; }
+.separate-containers .post-image, .separate-containers .inside-article .page-header-image-single, .separate-containers .inside-article .page-header-image, .separate-containers .inside-article .page-header-content-single, .no-sidebar .inside-article .page-header-image-single, .no-sidebar .inside-article .page-header-image, article .inside-article .page-header-post-image { margin: -20px -20px 20px -20px }.nav-above-header {padding-top: 40px}.stickynav.nav-below-header .site-header {margin-bottom: 40px}@media screen and (min-width: 1250px) { body.stickynav.nav-below-header #site-navigation, body.nav-above-header #site-navigation, body.stickynav.nav-above-header #site-navigation { left: 50%; width: 100%; max-width: 1250px; margin-left: -625px; } }@media screen and (min-width: 768px) and (max-width: 1249px){ body.stickynav.nav-below-header #site-navigation, body.nav-above-header #site-navigation, body.stickynav.nav-above-header #site-navigation { width: 100%; } }
+body{background-color:#ffffff;color:#222222;}a, a:visited{color:#1e73be;}a:hover, a:focus, a:active{color:#222222;}body .grid-container{max-width:1250px;}body, button, input, select, textarea {font-family: Tahoma, Geneva, sans-serif; font-weight: normal; text-transform: none; font-size: 15px; }.main-title {font-family: inherit; font-weight: 500; text-transform: none; font-size: 37px; }.site-description {font-family: inherit; font-weight: normal; text-transform: none; font-size: 11px; }.main-navigation a, .menu-toggle {font-family: inherit; font-weight: 500; text-transform: none; font-size: 16px; }.main-navigation .main-nav ul ul li a {font-size: 15px; }.widget-title {font-family: inherit; font-weight: 300; text-transform: none; font-size: 20px; }.sidebar .widget, .footer-widgets .widget {font-size: 15px; }h1 {font-family: inherit; font-weight: 300; text-transform: none; font-size: 36px; }h2 {font-family: inherit; font-weight: 300; text-transform: none; font-size: 30px; }h3 {font-family: inherit; font-weight: 300; text-transform: none; font-size: 25px; }.site-header{background-color:#ffffff;color:#222222;}.main-title a,.main-title a:hover,.main-title a:visited{color:#222222;}.site-description{color:#999999;}.main-navigation,.main-navigation ul ul{background-color:#1e72bd;}.main-navigation .main-nav ul li a,.menu-toggle{color:#FFFFFF;}.main-navigation .main-nav ul li:hover > a,.main-navigation .main-nav ul li:focus > a, .main-navigation .main-nav ul li.sfHover > a{color:#ffffff;background-color:#4f8bc6;}button.menu-toggle:hover,button.menu-toggle:focus,.main-navigation .mobile-bar-items a,.main-navigation .mobile-bar-items a:hover,.main-navigation .mobile-bar-items a:focus{color:#FFFFFF;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#4f8bc6;}.main-navigation .main-nav ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul li[class*="current-menu-"].sfHover > a{color:#ffffff;background-color:#4f8bc6;}.navigation-search input[type="search"],.navigation-search input[type="search"]:active{color:#4f8bc6;background-color:#4f8bc6;}.navigation-search input[type="search"]:focus{color:#ffffff;background-color:#4f8bc6;}.main-navigation ul ul{background-color:#4f8bc6;}.main-navigation .main-nav ul ul li a{color:#ffffff;}.main-navigation .main-nav ul ul li:hover > a,.main-navigation .main-nav ul ul li:focus > a,.main-navigation .main-nav ul ul li.sfHover > a{color:#06529e;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#06529e;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul ul li[class*="current-menu-"].sfHover > a{color:#06529e;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{color:#3a3a3a;background-color:#FFFFFF;}.entry-title a,.entry-title a:visited{color:#1E72BD;}.entry-title a:hover{color:#222222;}.entry-meta{color:#888888;}.entry-meta a,.entry-meta a:visited{color:#666666;}.entry-meta a:hover{color:#1E72BD;}.sidebar .widget{color:#3a3a3a;background-color:#FFFFFF;}.sidebar .widget a,.sidebar .widget a:visited{color:#686868;}.sidebar .widget a:hover{color:#1e72bd;}.sidebar .widget .widget-title{color:#000000;}.footer-widgets{color:#222222;background-color:#ffffff;}.footer-widgets .widget-title{color:#222222;}.site-info{color:#ffffff;background-color:#1e72bd;}.site-info a,.site-info a:visited{color:#ffffff;}.site-info a:hover{color:#f5f5f5;}.footer-bar .widget_nav_menu .current-menu-item a{color:#f5f5f5;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:#666666;background-color:#FAFAFA;border-color:#CCCCCC;}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:#666666;background-color:#FFFFFF;border-color:#BFBFBF;}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.button:visited,a.wp-block-button__link:not(.has-background){color:#FFFFFF;background-color:#666666;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#FFFFFF;background-color:#606060;}.inside-header {padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; }.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content {padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; }.ignore-x-spacing {margin-right: -20px; margin-bottom: 20px; margin-left: -20px; }.ignore-xy-spacing {margin-top: -20px; margin-right: -20px; margin-bottom: 20px; margin-left: -20px; }.main-navigation .main-nav ul li a,			.menu-toggle {padding-left: 15px; padding-right: 15px; line-height: 40px; }.nav-float-right .main-navigation .main-nav ul li a {line-height: 40px; }.main-navigation .main-nav ul ul li a {padding-left: 15px; padding-right: 15px; padding-top: 5px; padding-bottom: 5px; }.main-navigation ul ul {top: 40px; }.navigation-search {height: 40px; line-height: 0px; }.navigation-search input {height: 40px; line-height: 0px; }.widget-area .widget {padding-top: 40px; padding-right: 20px; padding-bottom: 40px; padding-left: 20px; }.footer-widgets {padding-top: 40px; padding-right: 0px; padding-bottom: 40px; padding-left: 0px; }.site-info {padding-top: 20px; padding-right: 0px; padding-bottom: 20px; padding-left: 0px; }.right-sidebar.separate-containers .site-main {margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; }.left-sidebar.separate-containers .site-main {margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; }.both-sidebars.separate-containers .site-main {margin: 0px; padding: 0px; }.both-right.separate-containers .site-main {margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; }.separate-containers .site-main {margin-top: 0px; margin-bottom: 0px; padding: 0px; }.separate-containers .page-header-image, .separate-containers .page-header-content, .separate-containers .page-header-image-single, .separate-containers .page-header-content-single {margin-top: 0px; }.both-left.separate-containers .site-main {margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; }.separate-containers .inside-right-sidebar, .inside-left-sidebar {margin-top: 0px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px; }.separate-containers .widget, .separate-containers .hentry, .separate-containers .page-header, .widget-area .main-navigation {margin-bottom: 0px; }.both-left.separate-containers .inside-left-sidebar {margin-right: 0px; padding-right: 0px; }.both-left.separate-containers .inside-right-sidebar {margin-left: 0px; padding-left: 0px; }.both-right.separate-containers .inside-left-sidebar {margin-right: 0px; padding-right: 0px; }.both-right.separate-containers .inside-right-sidebar {margin-left: 0px; padding-left: 0px; }@media (max-width: 768px){.main-navigation .menu-toggle,.main-navigation .mobile-bar-items,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav{display:none;}[class*="nav-float-"] .site-header .inside-header > *{float:none;clear:both;}}@font-face {font-family: "GeneratePress";src:  url("https://bibliotekajogi3.pl/wp-content/themes/generatepress/fonts/generatepress.eot");src:  url("https://bibliotekajogi3.pl/wp-content/themes/generatepress/fonts/generatepress.eot#iefix") format("embedded-opentype"),  url("https://bibliotekajogi3.pl/wp-content/themes/generatepress/fonts/generatepress.woff2") format("woff2"),  url("https://bibliotekajogi3.pl/wp-content/themes/generatepress/fonts/generatepress.woff") format("woff"),  url("https://bibliotekajogi3.pl/wp-content/themes/generatepress/fonts/generatepress.ttf") format("truetype"),  url("https://bibliotekajogi3.pl/wp-content/themes/generatepress/fonts/generatepress.svg#GeneratePress") format("svg");font-weight: normal;font-style: normal;}
+</style>
+<link rel='stylesheet' id='generate-mobile-style-css'  href='https://bibliotekajogi3.pl/wp-content/themes/generatepress/css/mobile.min.css?ver=2.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-child-css'  href='https://bibliotekajogi3.pl/wp-content/themes/mantle/style.css?ver=1481270856' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://bibliotekajogi3.pl/wp-content/themes/generatepress/css/font-awesome.min.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dry_awp_theme_style-css'  href='https://bibliotekajogi3.pl/wp-content/plugins/advanced-wp-columns/assets/css/awp-columns.css?ver=5.0.24' type='text/css' media='all' />
+<style id='dry_awp_theme_style-inline-css' type='text/css'>
+@media screen and (max-width: 1024px) {	.csColumn {		clear: both !important;		float: none !important;		text-align: center !important;		margin-left:  10% !important;		margin-right: 10% !important;		width: 80% !important;	}	.csColumnGap {		display: none !important;	}}
+</style>
+<script type='text/javascript' src='https://bibliotekajogi3.pl/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://bibliotekajogi3.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://bibliotekajogi3.pl/wp-content/plugins/pc-google-analytics/assets/js/frontend.min.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='https://bibliotekajogi3.pl/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bibliotekajogi3.pl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bibliotekajogi3.pl/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.24" />
+<link rel="canonical" href="https://bibliotekajogi3.pl/?page_id=2369" />
+<link rel='shortlink' href='https://bibliotekajogi3.pl/?p=2369' />
+<link rel="alternate" type="application/json+oembed" href="https://bibliotekajogi3.pl/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fbibliotekajogi3.pl%2F%3Fpage_id%3D2369" />
+<link rel="alternate" type="text/xml+oembed" href="https://bibliotekajogi3.pl/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fbibliotekajogi3.pl%2F%3Fpage_id%3D2369&#038;format=xml" />
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		ga('create', 'UA-74883120-1', 'auto');
+		ga('send', 'pageview');
+		
+		</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+<script type='text/javascript' src='https://bibliotekajogi3.pl/wp-content/plugins/wp-spamshield/js/jscripts.php'></script> 
+</head>
+
+<body class="page-template-default page page-id-2369 page-child parent-pageid-1479 wp-custom-logo wp-embed-responsive left-sidebar nav-left-sidebar contained-header separate-containers active-footer-widgets-0 header-aligned-center dropdown-hover" itemtype="https://schema.org/WebPage" itemscope>
+	<a class="screen-reader-text skip-link" href="#content" title="Przeskocz do treści">Przeskocz do treści</a>		<header id="masthead" class="site-header grid-container grid-parent" itemtype="https://schema.org/WPHeader" itemscope>
+			<div class="inside-header grid-container grid-parent">
+				<div class="site-logo">
+				<a href="https://bibliotekajogi3.pl/" title="Biblioteka Jogi" rel="home">
+					<img  class="header-image" alt="Biblioteka Jogi" src="https://bibliotekajogi3.pl/wp-content/uploads/2015/08/bibiloteka_jogi-header.bmp" title="Biblioteka Jogi" />
+				</a>
+			</div>			</div><!-- .inside-header -->
+		</header><!-- #masthead -->
+		
+	<div id="page" class="hfeed site grid-container container grid-parent">
+		<div id="content" class="site-content">
+			
+	<div id="primary" class="content-area grid-parent mobile-grid-100 push-20 grid-80 tablet-push-20 tablet-grid-80">
+		<main id="main" class="site-main">
+			
+<article id="post-2369" class="post-2369 page type-page status-publish" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+		
+			<header class="entry-header">
+				<h1 class="entry-title" itemprop="headline">Grzech</h1>			</header><!-- .entry-header -->
+
+		
+		<div class="entry-content" itemprop="text">
+			<h3>Tadeusz Głodowski</h3>
+<p style="text-align: justify;">Spotkało się kilka osób z różnych wyznań. W toku rozmowy wspomniano o różnym stopniowaniu ciężkości grzechu. Adwentysta powiedział – z pewnym wahaniem, dobierając ostrożnie słów, aby trafić nimi do słuchaczy – że w obliczu Boga każdy grzech, nawet według naszej oceny najmniejszy, jest ciężki. Podnieciło to duchownego jednego z wielkich liczebnie wyznań chrześcijańskich; zaoponował stanowczo, twierdząc, że jest to nie do przyjęcia, bo wszak co innego zbrodnie ludobójców, a co innego drobne uchybienia szarego człowieka przeciw moralności.</p>
+<p style="text-align: justify;">Wywiązała się z tego dyskusja, nie – raczej pojedynek słowny, w którym duchowny „większościowy” tryumfował dając co raz to inne argumenty w obronie znanej skali grzechów, od minimalnego powszedniego poprzez ciężkie aż do śmiertelnych. Przemawiał z niezachwianą pewnością, usiłował przy tym zachować powściągliwość, lecz – pomimo starań – spojrzenie jego, ton mowy i całe zachowanie wyrażało niemal naganę.</p>
+<p style="text-align: justify;">Ale tryumf był tylko jego złudzeniem osobistym, natknął się bowiem na coś, czego nie chciał, a może i nie mógł w ogóle rozważyć, toteż właściwie nie dyskutował, tylko przekonywał, że nie ma i nie może być innego stanowiska poza tym, które reprezentuje. Adwentysta zaczął również argumentować, lecz rychło powstrzymał się, zmienił ton na bardzo cichy i łagodny, a w treści słów ograniczył się do twierdzenia, że wszystkie grzechy pochodzą z pychy. Przeciwnik jego zgodził się co do pychy jako źródła grzechów, ale pozostał przy swej utylitarnej skali stopniowania. Spór, jak zwykle, nie dał wyników, bo przecież żadna ze stron nie mogła ustąpić. Obecni ludzie różnych wyznań nie wtrącali się, zachowując milczenie. Znaleźli też zaraz inny temat do rozładowania nastroju dysharmonii.</p>
+<p style="text-align: justify;">Rozważaliśmy to potem w gronie przyjaciół:</p>
+<p style="text-align: justify;">&#8211; Postawą wyzbytą pychy zwyciężył adwentysta – powiedziała zdecydowanie jedna z obecnych pań na tamtym spotkaniu – jego oponent jakoś nie spostrzegł niemego wyrzutu, że to pycha skłania go do szermierki tonem niemal karcącym. Według mnie przeciwnik adwentysty nie podjął rękawicy pokory i zadawał ciosy taką bronią, która wcale nie dosięga podstaw zwalczanego twierdzenia.</p>
+<p style="text-align: justify;">&#8211; Tak zdarzyło się w tym starciu. Uczuciowo można – w tym wypadku – sympatyzować z adwentystą, ale czy należy przyznać rację jego twierdzeniu?</p>
+<p style="text-align: justify;">Rozważyliśmy to wspólnie i do takiego doszliśmy wniosku. Obaj teolodzy, bo tak trzeba ich nazwać, mają rację. Racja teologa „większościowego” jest oparta na zasadzie korzyści społecznej; jest w jej założeniu ukryte przypuszczenie, że Bóg mierzy czyny ludzkie miarą sprawiedliwości społecznej. Racja adwentysty jest już jakby ponadludzka; jego Bóg wymaga o wiele więcej od człowieka i nawet czyn obojętny społecznie uznaje za skazę duszy.</p>
+<p style="text-align: justify;">Jest jednak trzecie stanowisko – nieteologiczne, według którego grzechem jest wszystko, co zatrzymuje człowieka w rozwoju duchowym. Stanowisko to nie potrzebuje powoływania się na nakazy i zakazy Istoty Najwyższej. Skala ciężkości grzechów na pozór nie istnieje, ale każdy grzech ma swój ciężar gatunkowy, jednak nie uniwersalnie lecz tylko w związku z człowiekiem, który go popełnia. Weźmy jako przykład jadanie mięsa zwierząt. Dla jaskiniowca-ludożercy jadanie tylko mięsa zwierzyny z powstrzymaniem się od zjadania ludzi będzie oznaczało pewien postęp rozwojowy, natomiast dla prawowiernego buddysty, uznającego za bliźnich również zwierzęta, byłoby ciężkim grzechem zjedzenie kotleta. Byłoby to nie „obrażanie” Boga osobowego, którego buddysta bynajmniej nie czci w postaci znanej chrześcijaństwu, lecz naruszenie Prawa kosmicznego przez cofnięcie swej własnej osoby z osiągniętego już poziomu rozwoju duchowego na niższy.</p>
+<p style="text-align: justify;">Ten sam czyn może mieć bardzo odmienne skutki w życiu poszczególnych ludzi. Świadomość własnej wartości potrzebna jest niewolnikowi, żeby zdobył odwagę walczenia o godność człowieka dla siebie i swych bliskich. Ta sama świadomość przeradza się w wysubtelniony egoizm, który może zaważyć nawet na szczerości prac naukowych. Na wyższym poziomie i na najwyższych zaciąży niszcząco najlżejsze poczucie własnej szlachetniejszej odrębności.</p>
+<p style="text-align: justify;">Jak balast działa odwrotnie proporcjonalnie do masy ciała, z którym jest związany, podobnie grzech działa odwrotnie proporcjonalnie do masy egoizmu. Pudełko zapałek nie obciąży dodatkowo wyczuwalnie okrętu, ale może ściągnąć na ziemię spod nieba lekki balon. Zadowolenie z własnych osiągnięć wydźwignie człowieka poniżanego, ale to samo uczucie zatrzyma w rozwoju duchowym świętego.</p>
+<p style="text-align: justify;">
+		</div><!-- .entry-content -->
+
+			</div><!-- .inside-article -->
+</article><!-- #post-## -->
+
+					<div class="comments-area">
+						<div id="comments">
+
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Dodaj komentarz <small><a rel="nofollow" id="cancel-comment-reply-link" href="/?page_id=2369#respond" style="display:none;">Anuluj pisanie odpowiedzi</a></small></h3>			<form action="https://bibliotekajogi3.pl/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<p class="comment-form-comment"><label for="comment" class="screen-reader-text">Komentarz</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p><label for="author" class="screen-reader-text">Podpis</label><input placeholder="Podpis *" id="author" name="author" type="text" value="" size="30" />
+<label for="email" class="screen-reader-text">E-mail</label><input placeholder="E-mail *" id="email" name="email" type="email" value="" size="30" />
+<label for="url" class="screen-reader-text">Strona internetowa</label><input placeholder="Strona internetowa" id="url" name="url" type="url" value="" size="30" />
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Opublikuj komentarz" /> <input type='hidden' name='comment_post_ID' value='2369' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+<noscript><input type="hidden" name="JS04X7" value="NS1" /></noscript>
+<noscript><p><strong>Currently you have JavaScript disabled. In order to post comments, please make sure JavaScript and Cookies are enabled, and reload the page.</strong> <a href="http://enable-javascript.com/" rel="nofollow external" >Click here for instructions on how to enable JavaScript in your browser.</a></p></noscript>
+			</form>
+			</div><!-- #respond -->
+	
+</div><!-- #comments -->
+					</div>
+
+						</main><!-- #main -->
+	</div><!-- #primary -->
+
+	<div id="left-sidebar" class="widget-area grid-20 tablet-grid-20 mobile-grid-100 grid-parent sidebar pull-80 tablet-pull-80" itemtype="https://schema.org/WPSideBar" itemscope>
+	<div class="inside-left-sidebar">
+		<div class="gen-sidebar-nav">		<nav id="site-navigation" class="main-navigation grid-container grid-parent" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+			<div class="inside-navigation grid-container grid-parent">
+								<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+										<span class="mobile-menu">Menu</span>
+				</button>
+				<div id="primary-menu" class="main-nav"><ul id="menu-menu-1" class=" menu sf-menu"><li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-65"><a href="https://bibliotekajogi3.pl/">Strona główna<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="https://bibliotekajogi3.pl/?page_id=104">O nas</a></li>
+	<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="https://bibliotekajogi3.pl/?page_id=108">Kontakt</a></li>
+	<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="https://bibliotekajogi3.pl/?page_id=106">Linki</a></li>
+	<li id="menu-item-1008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1008"><a href="https://bibliotekajogi3.pl/?page_id=988">Galeria zdjęć</a></li>
+	<li id="menu-item-1741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1741"><a href="https://bibliotekajogi3.pl/?page_id=1739">Aktualności</a></li>
+</ul>
+</li>
+<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current_page_ancestor menu-item-has-children menu-item-75"><a href="https://bibliotekajogi3.pl/?page_id=10">Tadeusz Głodowski<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="https://bibliotekajogi3.pl/?page_id=116">O autorze</a></li>
+	<li id="menu-item-1497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1497"><a href="https://bibliotekajogi3.pl/?page_id=1482">Wspomnienia autobiograficzne<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1700"><a href="https://bibliotekajogi3.pl/?page_id=1652">Józef Głodowski (1860-1910)</a></li>
+		<li id="menu-item-1699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1699"><a href="https://bibliotekajogi3.pl/?page_id=1676">Tadeusz Głodowski – autobiografia 1895-1908</a></li>
+		<li id="menu-item-1698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1698"><a href="https://bibliotekajogi3.pl/?page_id=1684">Wielkie odkrycie 1899</a></li>
+		<li id="menu-item-1697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1697"><a href="https://bibliotekajogi3.pl/?page_id=1686">Na opak 1904</a></li>
+		<li id="menu-item-1696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1696"><a href="https://bibliotekajogi3.pl/?page_id=1688">Na daleki wschód 1904</a></li>
+		<li id="menu-item-1695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1695"><a href="https://bibliotekajogi3.pl/?page_id=1690">Autohipnoza w lesie 1909</a></li>
+		<li id="menu-item-1694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1694"><a href="https://bibliotekajogi3.pl/?page_id=1692">Stan „bezosobowy” 1945</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1498" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1498"><a href="https://bibliotekajogi3.pl/?page_id=1479">Eseje<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://bibliotekajogi3.pl/?page_id=147">Kilka uwag o ćwiczeniach medytacyjnych</a></li>
+		<li id="menu-item-233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a href="https://bibliotekajogi3.pl/?page_id=204">Spokój wszędzie dookoła</a></li>
+		<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="https://bibliotekajogi3.pl/?page_id=206">Reinkarnacja</a></li>
+		<li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https://bibliotekajogi3.pl/?page_id=208">Co nazywam ezoteryzmem</a></li>
+		<li id="menu-item-230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="https://bibliotekajogi3.pl/?page_id=210">Słowo o niewysłowionym</a></li>
+		<li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a href="https://bibliotekajogi3.pl/?page_id=212">Religia jest sprawą doświadczenia wewnętrznego</a></li>
+		<li id="menu-item-228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a href="https://bibliotekajogi3.pl/?page_id=214">Ida i pingala</a></li>
+		<li id="menu-item-226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a href="https://bibliotekajogi3.pl/?page_id=218">O możliwości współdziałania osób poszukujących prawdy ostatecznej</a></li>
+		<li id="menu-item-225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a href="https://bibliotekajogi3.pl/?page_id=220">Nasze nabożeństwo</a></li>
+		<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="https://bibliotekajogi3.pl/?page_id=202">Dlaczego właśnie &#8222;Ariaństwo&#8221;?</a></li>
+		<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="https://bibliotekajogi3.pl/?page_id=197">Maja</a></li>
+		<li id="menu-item-2294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2294"><a href="https://bibliotekajogi3.pl/?page_id=2288">Sekciarstwo z przodu i z boku</a></li>
+		<li id="menu-item-2304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2304"><a href="https://bibliotekajogi3.pl/?page_id=2297">Zabawa</a></li>
+		<li id="menu-item-2303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2303"><a href="https://bibliotekajogi3.pl/?page_id=2299">Wyobraźnia a rzeczywistość</a></li>
+		<li id="menu-item-2312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2312"><a href="https://bibliotekajogi3.pl/?page_id=2308">Adwaity nie można odziać w uniform</a></li>
+		<li id="menu-item-2322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2322"><a href="https://bibliotekajogi3.pl/?page_id=2314">Dzen (uwagi na temat Satori)</a></li>
+		<li id="menu-item-2329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2329"><a href="https://bibliotekajogi3.pl/?page_id=2323">Promienie i kolce sławy</a></li>
+		<li id="menu-item-2375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2375"><a href="https://bibliotekajogi3.pl/?page_id=2366">Wielki Spływ</a></li>
+		<li id="menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2369 current_page_item menu-item-2374"><a href="https://bibliotekajogi3.pl/?page_id=2369">Grzech</a></li>
+		<li id="menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2373"><a href="https://bibliotekajogi3.pl/?page_id=2371">Czym Joga (nie) jest</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1496"><a href="https://bibliotekajogi3.pl/?page_id=1484">Listy<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="https://bibliotekajogi3.pl/?page_id=216">List do Kazimierza Tokarskiego</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1495"><a href="https://bibliotekajogi3.pl/?page_id=1489">Tłumaczenia<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224"><a href="https://bibliotekajogi3.pl/?page_id=222">Medytacja o Sobie</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-68"><a href="https://bibliotekajogi3.pl/?page_id=23">Leon Cyboran<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1583"><a href="https://bibliotekajogi3.pl/?page_id=1577">Noty biograficzne<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440"><a href="https://bibliotekajogi3.pl/?page_id=371">Życiorys</a></li>
+		<li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a href="https://bibliotekajogi3.pl/?page_id=374">Epitafium – Wojciech Chudy</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1582"><a href="https://bibliotekajogi3.pl/?page_id=1579">Artykuły<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-438"><a href="https://bibliotekajogi3.pl/?page_id=377">Filozofia jogi. Próba nowej interpretacji</a></li>
+		<li id="menu-item-437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-437"><a href="https://bibliotekajogi3.pl/?page_id=380">Podstawy jogi klasycznej</a></li>
+		<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="https://bibliotekajogi3.pl/?page_id=96">Podstawy jogi klasycznej – audio</a></li>
+		<li id="menu-item-436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436"><a href="https://bibliotekajogi3.pl/?page_id=384">Joga klasyczna. Filozofia i praktyka 1</a></li>
+		<li id="menu-item-435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a href="https://bibliotekajogi3.pl/?page_id=387">Joga klasyczna. Filozofia i praktyka 2</a></li>
+		<li id="menu-item-434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-434"><a href="https://bibliotekajogi3.pl/?page_id=391">Miejsce &#8222;Jogasutr&#8221;</a></li>
+		<li id="menu-item-432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-432"><a href="https://bibliotekajogi3.pl/?page_id=415">Filozofia indyjska na wydziałach filozoficznych katolickich uczelni w Polsce</a></li>
+		<li id="menu-item-430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="https://bibliotekajogi3.pl/?page_id=421">Philosophical Sanskrit</a></li>
+		<li id="menu-item-429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-429"><a href="https://bibliotekajogi3.pl/?page_id=424">Główne pojęcia filozofii indyjskiej</a></li>
+		<li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-431"><a href="https://bibliotekajogi3.pl/?page_id=418">Definicje pojęć filozoficznych</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1636"><a href="https://bibliotekajogi3.pl/?page_id=1629">Tłumaczenia<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1635"><a href="https://bibliotekajogi3.pl/?page_id=1631">Swami Śiwananda „Co to jest manas?”</a></li>
+	</ul>
+</li>
+	<li id="menu-item-433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-433"><a href="https://bibliotekajogi3.pl/?page_id=394">Aharama – omówienie</a></li>
+	<li id="menu-item-1080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1080"><a href="https://bibliotekajogi3.pl/?page_id=1072">Aforyzmy</a></li>
+	<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="https://bibliotekajogi3.pl/?page_id=124">Bibliografia</a></li>
+</ul>
+</li>
+<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-74"><a href="https://bibliotekajogi3.pl/?page_id=34">Swami Wiwekananda<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="https://bibliotekajogi3.pl/?page_id=240">O autorze</a></li>
+	<li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-245"><a href="https://bibliotekajogi3.pl/?page_id=244">Dźńana-joga 1<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-599"><a href="https://bibliotekajogi3.pl/?page_id=582">O niezbędności religii</a></li>
+		<li id="menu-item-598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="https://bibliotekajogi3.pl/?page_id=585">O rzeczywistej naturze człowieka</a></li>
+		<li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-597"><a href="https://bibliotekajogi3.pl/?page_id=588">Maja i złudzenie</a></li>
+		<li id="menu-item-596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-596"><a href="https://bibliotekajogi3.pl/?page_id=590">Maja i rozwój pojęć o Bogu</a></li>
+		<li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://bibliotekajogi3.pl/?page_id=592">Maja i wolność</a></li>
+	</ul>
+</li>
+	<li id="menu-item-273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-273"><a href="https://bibliotekajogi3.pl/?page_id=250">Dźńana-joga 2<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-618"><a href="https://bibliotekajogi3.pl/?page_id=600">Absolut i przejawienie</a></li>
+		<li id="menu-item-617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-617"><a href="https://bibliotekajogi3.pl/?page_id=603">Bóg we wszystkim</a></li>
+		<li id="menu-item-616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-616"><a href="https://bibliotekajogi3.pl/?page_id=605">Urzeczywistnienie</a></li>
+		<li id="menu-item-615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-615"><a href="https://bibliotekajogi3.pl/?page_id=607">Jednia w różnorodności</a></li>
+		<li id="menu-item-614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-614"><a href="https://bibliotekajogi3.pl/?page_id=609">Wolność duszy</a></li>
+	</ul>
+</li>
+	<li id="menu-item-272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-272"><a href="https://bibliotekajogi3.pl/?page_id=253">Dźńana-joga 3<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-636"><a href="https://bibliotekajogi3.pl/?page_id=619">Makrokosmos</a></li>
+		<li id="menu-item-635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-635"><a href="https://bibliotekajogi3.pl/?page_id=622">Mikrokosmos</a></li>
+		<li id="menu-item-634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-634"><a href="https://bibliotekajogi3.pl/?page_id=624">Nieśmiertelność</a></li>
+		<li id="menu-item-633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-633"><a href="https://bibliotekajogi3.pl/?page_id=626">Atman</a></li>
+		<li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="https://bibliotekajogi3.pl/?page_id=629">Atman w niewoli i wolny</a></li>
+	</ul>
+</li>
+	<li id="menu-item-270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-270"><a href="https://bibliotekajogi3.pl/?page_id=259">Radźa-joga<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-668"><a href="https://bibliotekajogi3.pl/?page_id=638">Rozdział I – Pierwsze kroki</a></li>
+		<li id="menu-item-667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-667"><a href="https://bibliotekajogi3.pl/?page_id=640">Rozdział II – Prana</a></li>
+		<li id="menu-item-666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-666"><a href="https://bibliotekajogi3.pl/?page_id=642">Rozdział III – Prana psychiczna</a></li>
+		<li id="menu-item-665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-665"><a href="https://bibliotekajogi3.pl/?page_id=644">Rozdział IV – Władanie praną psychiczną</a></li>
+		<li id="menu-item-664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-664"><a href="https://bibliotekajogi3.pl/?page_id=646">Rozdział V – Pratjahara i dharana</a></li>
+		<li id="menu-item-663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-663"><a href="https://bibliotekajogi3.pl/?page_id=648">Rozdział VI – Dhjana i samadhi</a></li>
+		<li id="menu-item-662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-662"><a href="https://bibliotekajogi3.pl/?page_id=650">Aneks A – Streszczenie radźa-jogi w wolnym przekładzie z Kurma-purany</a></li>
+		<li id="menu-item-661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-661"><a href="https://bibliotekajogi3.pl/?page_id=652">Aneks B – Wstęp poprzedzający komentarze Wiwekanandy do Aforyzmów Patandźalego o Jodze</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1922"><a href="https://bibliotekajogi3.pl/?page_id=1907">Karma-joga<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1921"><a href="https://bibliotekajogi3.pl/?page_id=1909">Wpływ karmy na charakter</a></li>
+		<li id="menu-item-1920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1920"><a href="https://bibliotekajogi3.pl/?page_id=1913">Każdy może być wielki tam, gdzie się znajdzie</a></li>
+		<li id="menu-item-1919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1919"><a href="https://bibliotekajogi3.pl/?page_id=1916">Co to jest obowiązek</a></li>
+		<li id="menu-item-1937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1937"><a href="https://bibliotekajogi3.pl/?page_id=1926">Pomagając innym pomagamy sobie</a></li>
+		<li id="menu-item-1936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1936"><a href="https://bibliotekajogi3.pl/?page_id=1932">Bezosobowość jest zupełnym wyrzeczeniem</a></li>
+		<li id="menu-item-1950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1950"><a href="https://bibliotekajogi3.pl/?page_id=1942">Wolność</a></li>
+		<li id="menu-item-1949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1949"><a href="https://bibliotekajogi3.pl/?page_id=1945">Ideał karma-jogi</a></li>
+	</ul>
+</li>
+	<li id="menu-item-271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271"><a href="https://bibliotekajogi3.pl/?page_id=256">Joga przez poznanie</a></li>
+	<li id="menu-item-269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-269"><a href="https://bibliotekajogi3.pl/?page_id=262">Wedanta w praktyce<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="https://bibliotekajogi3.pl/?page_id=669">Wedanta w praktyce 1</a></li>
+		<li id="menu-item-681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-681"><a href="https://bibliotekajogi3.pl/?page_id=672">Wedanta w praktyce 2</a></li>
+		<li id="menu-item-680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-680"><a href="https://bibliotekajogi3.pl/?page_id=674">Wedanta w praktyce 3</a></li>
+		<li id="menu-item-679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-679"><a href="https://bibliotekajogi3.pl/?page_id=676">Wedanta w praktyce 4</a></li>
+	</ul>
+</li>
+	<li id="menu-item-268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-268"><a href="https://bibliotekajogi3.pl/?page_id=265">Jak urzeczywistnić religię uniwersalną</a></li>
+</ul>
+</li>
+<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-72"><a href="https://bibliotekajogi3.pl/?page_id=32">Ramana Maharishi<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="https://bibliotekajogi3.pl/?page_id=443">Kilka słów wprowadzenia…</a></li>
+	<li id="menu-item-478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-478"><a href="https://bibliotekajogi3.pl/?page_id=448">Dziewięć  Strof  Zbłąkanych</a></li>
+	<li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-477"><a href="https://bibliotekajogi3.pl/?page_id=452">Wspomnienia sadhu o Ramanie Maharishim<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476"><a href="https://bibliotekajogi3.pl/?page_id=459">Wspomnienia sadhu – część 1</a></li>
+		<li id="menu-item-475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a href="https://bibliotekajogi3.pl/?page_id=462">Wspomnienia sadhu – część 2</a></li>
+		<li id="menu-item-479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-479"><a href="https://bibliotekajogi3.pl/?page_id=465">Wspomnienia sadhu – część 3</a></li>
+		<li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a href="https://bibliotekajogi3.pl/?page_id=468">Epilog i słownik terminów</a></li>
+	</ul>
+</li>
+	<li id="menu-item-528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-528"><a href="https://bibliotekajogi3.pl/?page_id=484">Adwajta-bodha-dipika<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="https://bibliotekajogi3.pl/?page_id=493">Rozdział 1 – Adhyāropa – O nałożeniu</a></li>
+		<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526"><a href="https://bibliotekajogi3.pl/?page_id=498">Rozdział 2 – Apavāda – O usunięciu nałożenia</a></li>
+		<li id="menu-item-525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525"><a href="https://bibliotekajogi3.pl/?page_id=501">Rozdział 3 – Sādhana – O środkach prowadzących do osiągnięcia (celu)</a></li>
+		<li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a href="https://bibliotekajogi3.pl/?page_id=504">Rozdział 4 – Śravaṇa – O słuchaniu</a></li>
+		<li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href="https://bibliotekajogi3.pl/?page_id=507">Rozdział 5 – Manana – O myśleniu</a></li>
+		<li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522"><a href="https://bibliotekajogi3.pl/?page_id=510">Rozdział 6 – Vāsanā-kṣaya – O usunięciu wasan / skłonności</a></li>
+		<li id="menu-item-521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521"><a href="https://bibliotekajogi3.pl/?page_id=514">Rozdział 7 – Sākṣāt-kāra – O urzeczywistnieniu</a></li>
+		<li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="https://bibliotekajogi3.pl/?page_id=517">Rozdział 8 – Mano-naśa – O zniszczeniu umysłu</a></li>
+	</ul>
+</li>
+	<li id="menu-item-570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-570"><a href="https://bibliotekajogi3.pl/?page_id=538">Ramana Arunaćala<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-569"><a href="https://bibliotekajogi3.pl/?page_id=542">Rozdział 1 – Ramana Arunaćala</a></li>
+		<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="https://bibliotekajogi3.pl/?page_id=545">Rozdział 2 – Człowiek, który był Ramaną</a></li>
+		<li id="menu-item-567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-567"><a href="https://bibliotekajogi3.pl/?page_id=549">Rozdział 3 – Prosta ścieżka</a></li>
+		<li id="menu-item-566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-566"><a href="https://bibliotekajogi3.pl/?page_id=552">Rozdział 4 – Arunaćala Ramana</a></li>
+		<li id="menu-item-565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-565"><a href="https://bibliotekajogi3.pl/?page_id=555">Rozdział 5 – Pisma</a></li>
+		<li id="menu-item-564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-564"><a href="https://bibliotekajogi3.pl/?page_id=557">Rozdział 6 – Pokrewieństwo z buddyzmem</a></li>
+		<li id="menu-item-563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-563"><a href="https://bibliotekajogi3.pl/?page_id=560">Rozdział 7 – Ramana sad-guru</a></li>
+	</ul>
+</li>
+	<li id="menu-item-536" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-536"><a href="https://bibliotekajogi3.pl/?page_id=530">Kim jestem? – Nān Yār?</a></li>
+	<li id="menu-item-579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-579"><a href="https://bibliotekajogi3.pl/?page_id=571">Wićara-sangraham – Poszukiwanie siebie</a></li>
+	<li id="menu-item-578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-578"><a href="https://bibliotekajogi3.pl/?page_id=575">W dniach wielkiego spokoju<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-717"><a href="https://bibliotekajogi3.pl/?page_id=694">Rozdziały 1 – 10</a></li>
+		<li id="menu-item-716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-716"><a href="https://bibliotekajogi3.pl/?page_id=700">Rozdziały 11 – 20</a></li>
+		<li id="menu-item-715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-715"><a href="https://bibliotekajogi3.pl/?page_id=703">Rozdziały 21 – 30</a></li>
+		<li id="menu-item-714" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-714"><a href="https://bibliotekajogi3.pl/?page_id=705">Rozdziały 31 – 35</a></li>
+		<li id="menu-item-713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-713"><a href="https://bibliotekajogi3.pl/?page_id=707">Rozdziały 36 – 40</a></li>
+		<li id="menu-item-712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-712"><a href="https://bibliotekajogi3.pl/?page_id=709">Rozdziały 41 – 51</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1845"><a href="https://bibliotekajogi3.pl/?page_id=1833">Rozmowy ze Śri Ramaną Maharishim<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1844"><a href="https://bibliotekajogi3.pl/?page_id=1839">Rozmowy z Maharishim – tom 1</a></li>
+		<li id="menu-item-1861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1861"><a href="https://bibliotekajogi3.pl/?page_id=1858">Rozmowy z Maharishim – tom 2</a></li>
+	</ul>
+</li>
+	<li id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="https://bibliotekajogi3.pl/?page_id=128">David Godman – filmy</a></li>
+</ul>
+</li>
+<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-67"><a href="https://bibliotekajogi3.pl/?page_id=13">Gopinath Kaviraj<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-2006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2006"><a href="https://bibliotekajogi3.pl/?page_id=2002">O autorze (GK)</a></li>
+	<li id="menu-item-330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href="https://bibliotekajogi3.pl/?page_id=278">Doktryna iluminacji w filozofii indyjskiej</a></li>
+	<li id="menu-item-329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329"><a href="https://bibliotekajogi3.pl/?page_id=281">Teizm w starożytnych Indiach</a></li>
+	<li id="menu-item-328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-328"><a href="https://bibliotekajogi3.pl/?page_id=285">Punkt widzenia filozofii njaji-wajśesziki</a></li>
+	<li id="menu-item-327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-327"><a href="https://bibliotekajogi3.pl/?page_id=288">Zagadnienie przyczynowości</a></li>
+	<li id="menu-item-326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-326"><a href="https://bibliotekajogi3.pl/?page_id=291">O stopniach jogi</a></li>
+	<li id="menu-item-325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-325"><a href="https://bibliotekajogi3.pl/?page_id=294">Kajwalja i jej miejsce w dualistycznej kulturze tantrycznej</a></li>
+	<li id="menu-item-324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="https://bibliotekajogi3.pl/?page_id=297">Nirmana-kaja</a></li>
+	<li id="menu-item-323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-323"><a href="https://bibliotekajogi3.pl/?page_id=300">Niektóre aspekty filozofii wira-śiwaitów</a></li>
+	<li id="menu-item-322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322"><a href="https://bibliotekajogi3.pl/?page_id=303">Uwagi o filozofii paśupatów</a></li>
+	<li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="https://bibliotekajogi3.pl/?page_id=306">Filozofia śaktów</a></li>
+	<li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="https://bibliotekajogi3.pl/?page_id=309">Filozofia Tripura-tantry</a></li>
+	<li id="menu-item-319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-319"><a href="https://bibliotekajogi3.pl/?page_id=312">System ćakr według Gorakszanathy</a></li>
+	<li id="menu-item-318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-318"><a href="https://bibliotekajogi3.pl/?page_id=315">Kult dziewicy – Kumari-pudźa</a></li>
+	<li id="menu-item-1063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1063"><a href="https://bibliotekajogi3.pl/?page_id=1061">Jogini-hrydaja i komentarz do niej – dipika</a></li>
+	<li id="menu-item-2021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021"><a href="https://bibliotekajogi3.pl/?page_id=2013">Mistyczne znaczenie „evam”</a></li>
+	<li id="menu-item-2050" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2050"><a href="https://bibliotekajogi3.pl/?page_id=2046">Koncepcja czasu</a></li>
+	<li id="menu-item-2056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2056"><a href="https://bibliotekajogi3.pl/?page_id=2052">Wiara w Boga</a></li>
+	<li id="menu-item-2073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2073"><a href="https://bibliotekajogi3.pl/?page_id=2067">Filozofia nathów</a></li>
+	<li id="menu-item-2144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2144"><a href="https://bibliotekajogi3.pl/?page_id=2141">Matka</a></li>
+</ul>
+</li>
+<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-66"><a href="https://bibliotekajogi3.pl/?page_id=36">Chandradhar Sharma<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="https://bibliotekajogi3.pl/?page_id=331">O autorze (ChSh)</a></li>
+	<li id="menu-item-365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="https://bibliotekajogi3.pl/?page_id=336">1 Wedy i upaniszady</a></li>
+	<li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="https://bibliotekajogi3.pl/?page_id=339">2 Bhagawadgita</a></li>
+	<li id="menu-item-363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-363"><a href="https://bibliotekajogi3.pl/?page_id=342">3 Materializm</a></li>
+	<li id="menu-item-362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="https://bibliotekajogi3.pl/?page_id=345">4 Dźinizm</a></li>
+	<li id="menu-item-361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-361"><a href="https://bibliotekajogi3.pl/?page_id=348">5 Wczesny buddyzm</a></li>
+	<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="https://bibliotekajogi3.pl/?page_id=351">6. Śunja-wada</a></li>
+	<li id="menu-item-1519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1519"><a href="https://bibliotekajogi3.pl/?page_id=1517">7. Widźńana-wada</a></li>
+	<li id="menu-item-1525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1525"><a href="https://bibliotekajogi3.pl/?page_id=1523">8. Swatantra-widźńana-wada</a></li>
+	<li id="menu-item-1724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1724"><a href="https://bibliotekajogi3.pl/?page_id=1714">9. Sankhja</a></li>
+	<li id="menu-item-1723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1723"><a href="https://bibliotekajogi3.pl/?page_id=1718">10. Joga</a></li>
+	<li id="menu-item-2212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2212"><a href="https://bibliotekajogi3.pl/?page_id=2209">11. Wajśeszika</a></li>
+	<li id="menu-item-359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-359"><a href="https://bibliotekajogi3.pl/?page_id=354">12. Njaja</a></li>
+	<li id="menu-item-2239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2239"><a href="https://bibliotekajogi3.pl/?page_id=2236">13. Purwa-mimansa</a></li>
+	<li id="menu-item-2243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2243"><a href="https://bibliotekajogi3.pl/?page_id=2240">14. Wedanta przed Śankarą</a></li>
+	<li id="menu-item-2251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2251"><a href="https://bibliotekajogi3.pl/?page_id=2248">15. Wedanta Śankary</a></li>
+	<li id="menu-item-2252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2252"><a href="https://bibliotekajogi3.pl/?page_id=2245">16. Wedanta po Śankarze</a></li>
+	<li id="menu-item-2264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2264"><a href="https://bibliotekajogi3.pl/?page_id=2261">17. Buddyzm i wedanta</a></li>
+	<li id="menu-item-2277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href="https://bibliotekajogi3.pl/?page_id=2267">18. Wedanta Ramanudźy</a></li>
+	<li id="menu-item-2276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href="https://bibliotekajogi3.pl/?page_id=2269">19. Inne szkoły wedanty</a></li>
+	<li id="menu-item-2275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2275"><a href="https://bibliotekajogi3.pl/?page_id=2271">20. Szkoły śiwaickie i śaktyjskie</a></li>
+</ul>
+</li>
+<li id="menu-item-1570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1570"><a href="https://bibliotekajogi3.pl/?page_id=1569">Banamali Lahiry<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://bibliotekajogi3.pl/?page_id=180">Szukanie Prawdy</a></li>
+	<li id="menu-item-187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="https://bibliotekajogi3.pl/?page_id=185">Czas, Przestrzeń i Człowiek</a></li>
+</ul>
+</li>
+<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-69"><a href="https://bibliotekajogi3.pl/?page_id=30">Mahabharata<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://bibliotekajogi3.pl/?page_id=151">Mahabharata – wprowadzenie</a></li>
+	<li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-160"><a href="https://bibliotekajogi3.pl/?page_id=158">Moksza-dharma-parwan 168</a></li>
+	<li id="menu-item-742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-742"><a href="https://bibliotekajogi3.pl/?page_id=740">Moksza-dharma-parwan 169</a></li>
+	<li id="menu-item-750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750"><a href="https://bibliotekajogi3.pl/?page_id=747">Moksza-dharma-parwan 170</a></li>
+	<li id="menu-item-828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-828"><a href="https://bibliotekajogi3.pl/?page_id=778">Moksza-dharma-parwan 171</a></li>
+	<li id="menu-item-830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-830"><a href="https://bibliotekajogi3.pl/?page_id=781">Moksza-dharma-parwan 172</a></li>
+	<li id="menu-item-827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="https://bibliotekajogi3.pl/?page_id=783">Moksza-dharma-parwan 173</a></li>
+	<li id="menu-item-826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="https://bibliotekajogi3.pl/?page_id=785">Moksza-dharma-parwan 174</a></li>
+	<li id="menu-item-825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-825"><a href="https://bibliotekajogi3.pl/?page_id=787">Moksza-dharma-parwan 175</a></li>
+	<li id="menu-item-824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a href="https://bibliotekajogi3.pl/?page_id=789">Moksza-dharma-parwan 176</a></li>
+	<li id="menu-item-823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-823"><a href="https://bibliotekajogi3.pl/?page_id=791">Moksza-dharma-parwan 177</a></li>
+	<li id="menu-item-822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-822"><a href="https://bibliotekajogi3.pl/?page_id=793">Moksza-dharma-parwan 178</a></li>
+	<li id="menu-item-821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-821"><a href="https://bibliotekajogi3.pl/?page_id=795">Moksza-dharma-parwan 179</a></li>
+	<li id="menu-item-820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-820"><a href="https://bibliotekajogi3.pl/?page_id=797">Moksza-dharma-parwan 180</a></li>
+	<li id="menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-819"><a href="https://bibliotekajogi3.pl/?page_id=799">Moksza-dharma-parwan 181</a></li>
+	<li id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818"><a href="https://bibliotekajogi3.pl/?page_id=801">Moksza-dharma-parwan 182</a></li>
+	<li id="menu-item-817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-817"><a href="https://bibliotekajogi3.pl/?page_id=803">Moksza-dharma-parwan 183</a></li>
+	<li id="menu-item-816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-816"><a href="https://bibliotekajogi3.pl/?page_id=805">Moksza-dharma-parwan 184</a></li>
+	<li id="menu-item-815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-815"><a href="https://bibliotekajogi3.pl/?page_id=807">Moksza-dharma-parwan 185</a></li>
+	<li id="menu-item-814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-814"><a href="https://bibliotekajogi3.pl/?page_id=809">Moksza-dharma-parwan 186</a></li>
+	<li id="menu-item-813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-813"><a href="https://bibliotekajogi3.pl/?page_id=811">Moksza-dharma-parwan 187</a></li>
+	<li id="menu-item-1406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1406"><a href="https://bibliotekajogi3.pl/?page_id=1391">Moksza-dharma-parwan 188</a></li>
+	<li id="menu-item-1405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1405"><a href="https://bibliotekajogi3.pl/?page_id=1394">Moksza-dharma-parwan 189</a></li>
+	<li id="menu-item-1404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1404"><a href="https://bibliotekajogi3.pl/?page_id=1396">Moksza-dharma-parwan 190</a></li>
+	<li id="menu-item-1403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1403"><a href="https://bibliotekajogi3.pl/?page_id=1398">Moksza-dharma-parwan 191</a></li>
+	<li id="menu-item-1402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1402"><a href="https://bibliotekajogi3.pl/?page_id=1400">Moksza-dharma-parwan 192</a></li>
+	<li id="menu-item-1732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1732"><a href="https://bibliotekajogi3.pl/?page_id=1727">Moksza-dharma-parwan 193</a></li>
+	<li id="menu-item-1789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1789"><a href="https://bibliotekajogi3.pl/?page_id=1778">Moksza-dharma-parwan 194</a></li>
+	<li id="menu-item-1788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1788"><a href="https://bibliotekajogi3.pl/?page_id=1780">Moksza-dharma-parwan 195</a></li>
+	<li id="menu-item-1787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1787"><a href="https://bibliotekajogi3.pl/?page_id=1782">Moksza-dharma-parwan 196</a></li>
+	<li id="menu-item-1786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1786"><a href="https://bibliotekajogi3.pl/?page_id=1784">Moksza-dharma-parwan 197</a></li>
+	<li id="menu-item-1881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1881"><a href="https://bibliotekajogi3.pl/?page_id=1876">Moksza-dharma-parwan 198</a></li>
+	<li id="menu-item-1889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1889"><a href="https://bibliotekajogi3.pl/?page_id=1883">Moksza-dharma-parwan 199</a></li>
+	<li id="menu-item-1898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1898"><a href="https://bibliotekajogi3.pl/?page_id=1895">Moksza-dharma-parwan 200</a></li>
+	<li id="menu-item-1955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1955"><a href="https://bibliotekajogi3.pl/?page_id=1953">Moksza-dharma-parwan 201</a></li>
+	<li id="menu-item-1964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1964"><a href="https://bibliotekajogi3.pl/?page_id=1962">Moksza-dharma-parwan 202</a></li>
+	<li id="menu-item-1967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1967"><a href="https://bibliotekajogi3.pl/?page_id=1966">Moksza-dharma-parwan 203</a></li>
+	<li id="menu-item-1977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1977"><a href="https://bibliotekajogi3.pl/?page_id=1976">Moksza-dharma-parwan 204</a></li>
+	<li id="menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1985"><a href="https://bibliotekajogi3.pl/?page_id=1981">Moksza-dharma-parwan 205</a></li>
+	<li id="menu-item-1997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1997"><a href="https://bibliotekajogi3.pl/?page_id=1988">Moksza-dharma-parwan 206</a></li>
+	<li id="menu-item-1996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1996"><a href="https://bibliotekajogi3.pl/?page_id=1992">Moksza-dharma-parwan 207</a></li>
+	<li id="menu-item-2043" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2043"><a href="https://bibliotekajogi3.pl/?page_id=2036">Moksza-dharma-parwan 208</a></li>
+	<li id="menu-item-2080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2080"><a href="https://bibliotekajogi3.pl/?page_id=2078">Moksza-dharma-parwan 209</a></li>
+	<li id="menu-item-2083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2083"><a href="https://bibliotekajogi3.pl/?page_id=2081">Moksza-dharma-parwan 210</a></li>
+	<li id="menu-item-2088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2088"><a href="https://bibliotekajogi3.pl/?page_id=2086">Moksza-dharma-parwan 211</a></li>
+	<li id="menu-item-2095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2095"><a href="https://bibliotekajogi3.pl/?page_id=2090">Moksza-dharma-parwan 212</a></li>
+	<li id="menu-item-2098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2098"><a href="https://bibliotekajogi3.pl/?page_id=2096">Moksza-dharma-parwan 213</a></li>
+	<li id="menu-item-2111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2111"><a href="https://bibliotekajogi3.pl/?page_id=2100">Moksza-dharma-parwan 214</a></li>
+	<li id="menu-item-2110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2110"><a href="https://bibliotekajogi3.pl/?page_id=2102">Moksza-dharma-parwan 215</a></li>
+	<li id="menu-item-2109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2109"><a href="https://bibliotekajogi3.pl/?page_id=2105">Moksza-dharma-parwan 216</a></li>
+	<li id="menu-item-2125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2125"><a href="https://bibliotekajogi3.pl/?page_id=2117">Moksza-dharma-parwan 217</a></li>
+	<li id="menu-item-2124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2124"><a href="https://bibliotekajogi3.pl/?page_id=2119">Moksza-dharma-parwan 218</a></li>
+	<li id="menu-item-2123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2123"><a href="https://bibliotekajogi3.pl/?page_id=2121">Moksza-dharma-parwan 219</a></li>
+	<li id="menu-item-2132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2132"><a href="https://bibliotekajogi3.pl/?page_id=2128">Moksza-dharma-parwan 220</a></li>
+	<li id="menu-item-2159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2159"><a href="https://bibliotekajogi3.pl/?page_id=2153">Moksza-dharma-parwan 221</a></li>
+	<li id="menu-item-2162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2162"><a href="https://bibliotekajogi3.pl/?page_id=2160">Moksza-dharma-parwan 222</a></li>
+	<li id="menu-item-2168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2168"><a href="https://bibliotekajogi3.pl/?page_id=2164">Moksza-dharma-parwan 223</a></li>
+	<li id="menu-item-2174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2174"><a href="https://bibliotekajogi3.pl/?page_id=2172">Moksza-dharma-parwan 224</a></li>
+	<li id="menu-item-2185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2185"><a href="https://bibliotekajogi3.pl/?page_id=2177">Moksza-dharma-parwan 225</a></li>
+	<li id="menu-item-2184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2184"><a href="https://bibliotekajogi3.pl/?page_id=2179">Moksza-dharma-parwan 226</a></li>
+	<li id="menu-item-2205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2205"><a href="https://bibliotekajogi3.pl/?page_id=2186">Moksza-dharma-parwan 227</a></li>
+	<li id="menu-item-2204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2204"><a href="https://bibliotekajogi3.pl/?page_id=2188">Moksza-dharma-parwan 228</a></li>
+	<li id="menu-item-2203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2203"><a href="https://bibliotekajogi3.pl/?page_id=2192">Moksza-dharma-parwan 229</a></li>
+	<li id="menu-item-2202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2202"><a href="https://bibliotekajogi3.pl/?page_id=2194">Moksza-dharma-parwan 230</a></li>
+	<li id="menu-item-2201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2201"><a href="https://bibliotekajogi3.pl/?page_id=2199">Moksza-dharma-parwan 231</a></li>
+	<li id="menu-item-2341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2341"><a href="https://bibliotekajogi3.pl/?page_id=2331">Moksza-dharma-parwan 232</a></li>
+	<li id="menu-item-2340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2340"><a href="https://bibliotekajogi3.pl/?page_id=2334">Moksza-dharma-parwan 233</a></li>
+	<li id="menu-item-2339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2339"><a href="https://bibliotekajogi3.pl/?page_id=2336">Moksza-dharma-parwan 234</a></li>
+	<li id="menu-item-2364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2364"><a href="https://bibliotekajogi3.pl/?page_id=2347">Moksza-dharma-parwan 235</a></li>
+	<li id="menu-item-2360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2360"><a href="https://bibliotekajogi3.pl/?page_id=2350">Moksza-dharma-parwan 236</a></li>
+	<li id="menu-item-2363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2363"><a href="https://bibliotekajogi3.pl/?page_id=2353">Moksza-dharma-parwan 237</a></li>
+	<li id="menu-item-2362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2362"><a href="https://bibliotekajogi3.pl/?page_id=2355">Moksza-dharma-parwan 238</a></li>
+	<li id="menu-item-2361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2361"><a href="https://bibliotekajogi3.pl/?page_id=2358">Moksza-dharma-parwan 239</a></li>
+	<li id="menu-item-2413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2413"><a href="https://bibliotekajogi3.pl/?page_id=2379">Moksza-dharma-parwan 240</a></li>
+	<li id="menu-item-2412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2412"><a href="https://bibliotekajogi3.pl/?page_id=2381">Moksza-dharma-parwan 241</a></li>
+	<li id="menu-item-2411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2411"><a href="https://bibliotekajogi3.pl/?page_id=2384">Moksza-dharma-parwan 242</a></li>
+	<li id="menu-item-2410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2410"><a href="https://bibliotekajogi3.pl/?page_id=2386">Moksza-dharma-parwan 243</a></li>
+	<li id="menu-item-2409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2409"><a href="https://bibliotekajogi3.pl/?page_id=2388">Moksza-dharma-parwan 244</a></li>
+	<li id="menu-item-2408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2408"><a href="https://bibliotekajogi3.pl/?page_id=2390">Moksza-dharma-parwan 245</a></li>
+	<li id="menu-item-2407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2407"><a href="https://bibliotekajogi3.pl/?page_id=2392">Moksza-dharma-parwan 246</a></li>
+	<li id="menu-item-2406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2406"><a href="https://bibliotekajogi3.pl/?page_id=2394">Moksza-dharma-parwan 247</a></li>
+	<li id="menu-item-2405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2405"><a href="https://bibliotekajogi3.pl/?page_id=2397">Moksza-dharma-parwan 248</a></li>
+	<li id="menu-item-2404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2404"><a href="https://bibliotekajogi3.pl/?page_id=2399">Moksza-dharma-parwan 249</a></li>
+	<li id="menu-item-2403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2403"><a href="https://bibliotekajogi3.pl/?page_id=2401">Moksza-dharma-parwan 250</a></li>
+</ul>
+</li>
+<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="https://bibliotekajogi3.pl/?page_id=38">Tłumaczenia z sanskrytu<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1041"><a href="https://bibliotekajogi3.pl/?page_id=1039">Wiweka-ćudamani<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="https://bibliotekajogi3.pl/?page_id=171">Wiweka-ćudamani – wstęp</a></li>
+		<li id="menu-item-1343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1343"><a href="https://bibliotekajogi3.pl/?page_id=1336">Wiweka-ćudamani – Śankara</a></li>
+		<li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="https://bibliotekajogi3.pl/?page_id=178">Wiweka-ćudamani (fragmenty) – tłum. T. Głodowski</a></li>
+	</ul>
+</li>
+	<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="https://bibliotekajogi3.pl/?page_id=165">Bhakti-sutry – Narada</a></li>
+	<li id="menu-item-1296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1296"><a href="https://bibliotekajogi3.pl/?page_id=1286">Sannjasa Upaniszad</a></li>
+</ul>
+</li>
+<li id="menu-item-1591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1591"><a href="https://bibliotekajogi3.pl/?page_id=1590">Biblioteka Polsko-Indyjska<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1601"><a href="https://bibliotekajogi3.pl/?page_id=1593">Historia</a></li>
+	<li id="menu-item-1600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1600"><a href="https://bibliotekajogi3.pl/?page_id=1595">Książki</a></li>
+	<li id="menu-item-1599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1599"><a href="https://bibliotekajogi3.pl/?page_id=1597">Spis publikacji</a></li>
+</ul>
+</li>
+<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-71"><a href="https://bibliotekajogi3.pl/?page_id=42">Poezja<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081"><a href="https://bibliotekajogi3.pl/?page_id=1070">Roman Rostworowski</a></li>
+	<li id="menu-item-1079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1079"><a href="https://bibliotekajogi3.pl/?page_id=1074">Lao-Tse – TAO</a></li>
+	<li id="menu-item-1078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1078"><a href="https://bibliotekajogi3.pl/?page_id=1076">Wiersze mistyczne<span role="presentation" class="dropdown-menu-toggle"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1177"><a href="https://bibliotekajogi3.pl/?page_id=1133">Kazimierz Chmielowiec</a></li>
+		<li id="menu-item-1176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1176"><a href="https://bibliotekajogi3.pl/?page_id=1135">Stanisław Farnowski</a></li>
+		<li id="menu-item-1175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1175"><a href="https://bibliotekajogi3.pl/?page_id=1137">Gerard Głuchowski</a></li>
+		<li id="menu-item-1174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1174"><a href="https://bibliotekajogi3.pl/?page_id=1139">Eugeniusz Jewtuszenko</a></li>
+		<li id="menu-item-1173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1173"><a href="https://bibliotekajogi3.pl/?page_id=1141">Maria Konopnicka</a></li>
+		<li id="menu-item-1172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1172"><a href="https://bibliotekajogi3.pl/?page_id=1143">Zygmunt Krasiński</a></li>
+		<li id="menu-item-1171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1171"><a href="https://bibliotekajogi3.pl/?page_id=1145">Maurice Lheyet-Gaboka</a></li>
+		<li id="menu-item-1170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1170"><a href="https://bibliotekajogi3.pl/?page_id=1147">Adam Mickiewicz</a></li>
+		<li id="menu-item-1169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1169"><a href="https://bibliotekajogi3.pl/?page_id=1149">Cyprian Kamil Norwid</a></li>
+		<li id="menu-item-1168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1168"><a href="https://bibliotekajogi3.pl/?page_id=1151">Bułat Okudżawa</a></li>
+		<li id="menu-item-1167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1167"><a href="https://bibliotekajogi3.pl/?page_id=1153">Konrad Rudnicki</a></li>
+		<li id="menu-item-1166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1166"><a href="https://bibliotekajogi3.pl/?page_id=1155">Kazimierz Wierzyński</a></li>
+		<li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1165"><a href="https://bibliotekajogi3.pl/?page_id=1157">J. Znamierowski</a></li>
+		<li id="menu-item-1164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1164"><a href="https://bibliotekajogi3.pl/?page_id=1159">Jak święty Franciszek…</a></li>
+		<li id="menu-item-1163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1163"><a href="https://bibliotekajogi3.pl/?page_id=1161">Czy to jest rozkosz…</a></li>
+		<li id="menu-item-1831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1831"><a href="https://bibliotekajogi3.pl/?page_id=1827">Jan Kochanowski</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1621"><a href="https://bibliotekajogi3.pl/?page_id=1620">Bibliografia</a></li>
+<li id="menu-item-1105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1105"><a href="https://bibliotekajogi3.pl/?page_id=1103">Ekscerpty</a></li>
+</ul></div>			</div><!-- .inside-navigation -->
+		</nav><!-- #site-navigation -->
+		</div><aside id="search-4" class="widget inner-padding widget_search"><form method="get" class="search-form" action="https://bibliotekajogi3.pl/">
+	<label>
+		<span class="screen-reader-text">Szukaj:</span>
+		<input type="search" class="search-field" placeholder="Szukaj &hellip;" value="" name="s" title="Szukaj:">
+	</label>
+	<input type="submit" class="search-submit" value="Szukaj">
+</form>
+</aside><aside id="nav_menu-5" class="widget inner-padding widget_nav_menu"><div class="menu-social-container"><ul id="menu-social" class="menu"><li id="menu-item-87" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87"><a href="https://soundcloud.com/biblioteka-jogi">Soundcloud</a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88"><a href="https://www.youtube.com/channel/UCPYdi5YCTF7CTcTypGHdHrw?view_as=subscriber">YouTube</a></li>
+</ul></div></aside>	</div><!-- .inside-left-sidebar -->
+</div><!-- #secondary -->
+
+	</div><!-- #content -->
+</div><!-- #page -->
+
+
+<div class="site-footer grid-container grid-parent">
+			<footer class="site-info" itemtype="https://schema.org/WPFooter" itemscope>
+			<div class="inside-site-info grid-container grid-parent">
+								<div class="copyright-bar">
+					<span class="copyright">&copy; 2026 Biblioteka Jogi</span> &bull; Powered by <a href="https://generatepress.com" itemprop="url">GeneratePress</a>				</div>
+			</div>
+		</footer><!-- .site-info -->
+		</div><!-- .site-footer -->
+
+<script> var $nocnflct = jQuery.noConflict();
+			$nocnflct(function () {
+			    $nocnflct.scrollUp({
+				scrollName: 'scrollUp', // Element ID
+				scrollClass: 'scrollUp scrollup-image scrollup-center', // Element Class
+				scrollDistance: 300, // Distance from top/bottom before showing element (px)
+				scrollFrom: 'top', // top or bottom
+				scrollSpeed: 300, // Speed back to top (ms )
+				easingType: 'linear', // Scroll to top easing (see http://easings.net/)
+				animation: 'none', // Fade, slide, none
+				animationInSpeed: 200, // Animation in speed (ms )
+				animationOutSpeed: 200, // Animation out speed (ms )
+				scrollText: '', // Text for element, can contain HTML
+				scrollTitle: false, // Set a custom link title if required. Defaults to scrollText
+				scrollImg: false, // Set true to use image
+				activeOverlay: false, // Set CSS color to display scrollUp active point
+				zIndex: 2147483647 // Z-Index for the overlay
+			    });
+			});</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+r3f5x9JS=escape(document['referrer']);
+hf4N='93cd7d1e62845d0ff2431a422af4ee6b';
+hf4V='7575b1982bc6d6387357ab702a06f093';
+cm4S="form[action='https://bibliotekajogi3.pl/wp-comments-post.php']";
+jQuery(document).ready(function($){var e="#commentform, .comment-respond form, .comment-form, "+cm4S+", #lostpasswordform, #registerform, #loginform, #login_form, #wpss_contact_form";$(e).submit(function(){$("<input>").attr("type","hidden").attr("name","r3f5x9JS").attr("value",r3f5x9JS).appendTo(e);$("<input>").attr("type","hidden").attr("name",hf4N).attr("value",hf4V).appendTo(e);return true;});$("#comment").attr({minlength:"15",maxlength:"15360"})});
+/* ]]> */
+</script> 
+	<script>
+		var target, nav, clone;
+		nav = document.getElementById( 'site-navigation' );
+		if ( nav ) {
+			clone = nav.cloneNode( true );
+			clone.className += ' sidebar-nav-mobile';
+			clone.setAttribute( 'aria-label', 'Mobile Menu' );
+			target = document.getElementById( 'masthead' );
+			if ( target ) {
+				target.insertAdjacentHTML( 'afterend', clone.outerHTML );
+			} else {
+				document.body.insertAdjacentHTML( 'afterbegin', clone.outerHTML )
+			}
+		}
+	</script>
+	<script type='text/javascript' src='https://bibliotekajogi3.pl/wp-content/plugins/smooth-scroll-up/js/jquery.scrollUp.min.js?ver=5.0.24'></script>
+<script type='text/javascript' src='https://bibliotekajogi3.pl/wp-content/themes/mantle/js/scripts.js?ver=2.3.2'></script>
+<!--[if lte IE 11]>
+<script type='text/javascript' src='https://bibliotekajogi3.pl/wp-content/themes/generatepress/js/classList.min.js?ver=2.3.2'></script>
+<![endif]-->
+<script type='text/javascript' src='https://bibliotekajogi3.pl/wp-content/themes/generatepress/js/menu.min.js?ver=2.3.2'></script>
+<script type='text/javascript' src='https://bibliotekajogi3.pl/wp-content/themes/generatepress/js/a11y.min.js?ver=2.3.2'></script>
+<script type='text/javascript' src='https://bibliotekajogi3.pl/wp-includes/js/comment-reply.min.js?ver=5.0.24'></script>
+<script type='text/javascript' src='https://bibliotekajogi3.pl/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.9'></script>
+<script type='text/javascript' src='https://bibliotekajogi3.pl/wp-content/plugins/wp-spamshield/js/jscripts-ftr-min.js'></script>
+<script type='text/javascript' src='https://bibliotekajogi3.pl/wp-includes/js/wp-embed.min.js?ver=5.0.24'></script>
+
+</body>
+</html>

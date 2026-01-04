@@ -1,10 +1,10 @@
 HTTP/2 200 
 server: nginx
-date: Sun, 04 Jan 2026 16:54:26 GMT
+date: Sun, 04 Jan 2026 17:17:07 GMT
 content-type: text/html; charset=UTF-8
 vary: Accept-Encoding
 link: <https://npc-web.com/wp-json/>; rel="https://api.w.org/", <https://npc-web.com/wp-json/wp/v2/pages/4008>; rel="alternate"; title="JSON"; type="application/json", <https://npc-web.com/?p=4008>; rel=shortlink
-set-cookie: pvc_visits[0]=1767632065b4008; expires=Mon, 05 Jan 2026 16:54:25 GMT; Max-Age=86400; path=/; secure; SameSite=LAX
+set-cookie: pvc_visits[0]=1767633427b4008; expires=Mon, 05 Jan 2026 17:17:07 GMT; Max-Age=86400; path=/; secure; SameSite=LAX
 content-security-policy: frame-ancestors 'self' https://sites.google.com https://*.google.com https://*.googleusercontent.com
 
 <!doctype html>

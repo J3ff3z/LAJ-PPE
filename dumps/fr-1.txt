@@ -1,13 +1,13 @@
-HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 15:06:23 GMT content-type:
+HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 17:20:52 GMT content-type:
 text/html; charset=UTF-8 vary: Accept-Encoding last-modified: Sat, 03 Jan 2026
 21:48:00 GMT x-frame-options: SAMEORIGIN x-content-type-options: nosniff
 x-xss-protection: 1; mode=block strict-transport-security: max-age=31536000;
 includeSubDomains referrer-policy: no-referrer-when-downgrade x-cacheable:
 :perhaps: cache-control: public, max-age=60, stale-while-revalidate=120,
-stale-if-error=1800 x-varnish: 129237004 age: 0 via: 1.1 varnish (Varnish/7.1)
-accept-ranges: bytes x-varnutype: 5 x-cache: MISS x-cachettl: 120s set-cookie:
-WEBMO-VNU=4|aVqB8|aVqB8; path=/; HttpOnly; SameSite=Strict #JePense.org » Flux
-oEmbed (JSON) oEmbed (XML) JSON
+stale-if-error=1800 x-varnish: 172295235 168592167 age: 193 via: 1.1 varnish
+(Varnish/7.1) accept-ranges: bytes x-varnutype: 5 x-cache: HIT content-length:
+220643 set-cookie: WEBMO-VNU=4|aVqiO|aVqiO; path=/; HttpOnly; SameSite=Strict
+#JePense.org » Flux oEmbed (JSON) oEmbed (XML) JSON
 
 Appuyez sur “Entrée” pour passer au contenu
 

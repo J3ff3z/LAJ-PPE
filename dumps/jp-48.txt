@@ -1,12 +1,12 @@
-HTTP/2 200 server: nginx/1.26.0 date: Sun, 04 Jan 2026 15:06:15 GMT
+HTTP/2 200 server: nginx/1.26.0 date: Sun, 04 Jan 2026 17:23:50 GMT
 content-type: text/html; charset=UTF-8 vary: Accept-Encoding x-powered-by:
 PHP/8.0.30 x-vc-enabled: true x-vc-ttl: link: /serai.jp/wp-json/>;
 rel="https://api.w.org/", /serai.jp/wp-json/wp/v2/posts/1034423>;
 rel="alternate"; type="application/json", /serai.jp/?p=1034423>; rel=shortlink
-x-varnish: 236654977 via: 1.1 varnish (Varnish/6.0) x-varnish: 942504794 age: 0
-via: 1.1 varnish (Varnish/6.0) x-cache-varnish: MISS vary: x-cache: MISS
-accept-ranges: bytes strict-transport-security: max-age=300 #alternate alternate
-alternate
+x-varnish: 235954093 236233980 via: 1.1 varnish (Varnish/6.0) x-varnish:
+944779204 age: 647 via: 1.1 varnish (Varnish/6.0) x-cache-varnish: MISS vary:
+x-cache: MISS accept-ranges: bytes strict-transport-security: max-age=300
+#alternate alternate alternate
 
 IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TTG8S7T
 
@@ -235,19 +235,19 @@ NEW
 旅行 古墳を歩けば、古代史がわかる！６世紀～７世紀中頃・前方後…
 2026/01/03
 No.
-趣味･教養 弟を主人公にしただけで新鮮な物語に昇華。大河ドラマ『豊臣…
-2025/12/21
-No.
 NEW
 趣味･教養 豊臣秀吉と秀長の姉・ともとは？ 関白・秀次の母がたどった…
 2026/01/03
 No.
 NEW
-趣味･教養 兄・秀吉の命で離縁し、家康の正室に。旭姫（あさひ）の波乱…
+趣味･教養 ついに始まった令和の太閤記＝『豊臣兄弟！』。仲野太賀×池…
 2026/01/04
 No.
+趣味･教養 弟を主人公にしただけで新鮮な物語に昇華。大河ドラマ『豊臣…
+2025/12/21
+No.
 NEW
-趣味･教養 ついに始まった令和の太閤＝『豊臣兄弟！』。仲野太賀×池松…
+趣味･教養 兄・秀吉の命で離縁し、家康の正室に。旭姫（あさひ）の波乱…
 2026/01/04
 No.
 
@@ -279,7 +279,7 @@ NEW
 薬師寺では造花法会。豊臣秀長の病気平癒祈…
 2026/01/04
 NEW
-ついに始まった令和の太閤＝『豊臣兄弟！』…
+ついに始まった令和の太閤記＝『豊臣兄弟！…
 2026/01/04
 NEW
 大河ドラマ『豊臣兄弟！』主人公・豊臣秀長…

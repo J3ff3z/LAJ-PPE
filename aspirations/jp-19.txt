@@ -1,7 +1,7 @@
 HTTP/2 200 
-date: Sun, 04 Jan 2026 15:02:24 GMT
+date: Sun, 04 Jan 2026 17:20:04 GMT
 content-type: text/html; charset=utf-8
-x-cache: MISS from ctms3-www21.ctms.iri-ct.jp
+x-cache: MISS from ctms3-www22.ctms.iri-ct.jp
 vary: Accept-Encoding,User-Agent
 x-xss-protection: 1; mode=block
 x-content-type-options: nosniff
@@ -665,10 +665,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-inread'); });
         <h4 class="title">これから格ゲーを始める人におすすめのコントローラーは？パッド・アケコン・レバーレスそれぞれの魅力をまるっと紹介【年末年始特集】<time class="date" datetime="2026-01-02T11:00:03+09:00">2026.1.2 Fri 11:00</time></h4>
       </article>
     </a></li>
-    <li class="item item--cate-game item--cate-game-switch item--subcate-switch rank">
-    <a class="link" href="/article/2025/12/30/175696.html">
+    <li class="item item--cate-game item--cate-game-PS5 item--subcate-PS5 rank">
+    <a class="link" href="/article/2026/01/02/175749.html">
       <article class="ranking-content">
-        <h4 class="title">もう入力した？『ポケモンZA』で「おおきいリザードン（オヤブン）」をもらえる“あいことば”公開中<time class="date" datetime="2025-12-30T17:00:04+09:00">2025.12.30 Tue 17:00</time></h4>
+        <h4 class="title">『原神』今後登場する新キャラ5人のシルエットが一挙公開！「ファルカ」や「ニコ・リヤン」らしき姿も<time class="date" datetime="2026-01-02T15:24:01+09:00">2026.1.2 Fri 15:24</time></h4>
       </article>
     </a></li>
     <li class="item item--cate-game item--cate-game-news item--subcate-news rank">
@@ -678,21 +678,21 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-inread'); });
       </article>
     </a></li>
     <li class="item item--cate-game item--cate-game-switch item--subcate-switch rank">
-    <a class="link" href="/article/2026/01/04/175771.html">
+    <a class="link" href="/article/2025/12/30/175696.html">
       <article class="ranking-content">
-        <h4 class="title">『ポケモンZA』カナリィやムクたちの“名前の由来”を考察！花言葉を重ねると意外な裏側が見えてくるかも<time class="date" datetime="2026-01-04T08:30:03+09:00">2026.1.4 Sun 8:30</time></h4>
-      </article>
-    </a></li>
-    <li class="item item--cate-game item--cate-game-PS5 item--subcate-PS5 rank">
-    <a class="link" href="/article/2026/01/02/175749.html">
-      <article class="ranking-content">
-        <h4 class="title">『原神』今後登場する新キャラ5人のシルエットが一挙公開！「ファルカ」や「ニコ・リヤン」らしき姿も<time class="date" datetime="2026-01-02T15:24:01+09:00">2026.1.2 Fri 15:24</time></h4>
+        <h4 class="title">もう入力した？『ポケモンZA』で「おおきいリザードン（オヤブン）」をもらえる“あいことば”公開中<time class="date" datetime="2025-12-30T17:00:04+09:00">2025.12.30 Tue 17:00</time></h4>
       </article>
     </a></li>
     <li class="item item--cate-game item--cate-game-special item--subcate-special rank">
     <a class="link" href="/article/2026/01/04/175775.html">
       <article class="ranking-content">
         <h4 class="title">『勝利の女神：NIKKE』放送版とこんなに違う!? “無修正版”新ニケ、新コスの違いが刺激的─2026年も、戦場に銃声を響かせつつ背中で魅せるガンガールRPG【フォトレポ】<time class="date" datetime="2026-01-04T19:00:03+09:00">2026.1.4 Sun 19:00</time></h4>
+      </article>
+    </a></li>
+    <li class="item item--cate-game item--cate-game-special item--subcate-special rank">
+    <a class="link" href="/article/2026/01/04/175772.html">
+      <article class="ranking-content">
+        <h4 class="title">“タイパ重視”は意外と影響少なめ？「レベル上げ」は“好き”が“嫌い”を上回る─しかし、最多数は第三勢力【アンケ結果】<time class="date" datetime="2026-01-04T11:00:04+09:00">2026.1.4 Sun 11:00</time></h4>
       </article>
     </a></li>
     <li class="item item--cate-game item--cate-game-news item--subcate-news rank">
@@ -742,7 +742,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-right2'); });
 </script>
 </div>
 </div>
-<script type="text/x-handlebars-template" id="box-pickup-list-695a8100c4aa1">
+<script type="text/x-handlebars-template" id="box-pickup-list-695aa14423683">
 {{#*inline &quot;li&quot;}}
 &lt;li class=&quot;item&quot;&gt;
   &lt;a class=&quot;link&quot; href=&quot;{{link}}&quot; target=&quot;{{target}}&quot; rel=&quot;{{rel}}&quot;&gt;
@@ -787,7 +787,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-right2'); });
 </script>
 <section class="sidebox sidebox-pickup future"
         data-link-label="トピックス" data-max-link="8"
-        data-template-id="box-pickup-list-695a8100c4aa1" data-image-path="/p/lbFMwnfpRYNMM098lpn4JTkJZgdVBQQDAgEA"
+        data-template-id="box-pickup-list-695aa14423683" data-image-path="/p/lbFMwnfpRYNMM098lpn4JTkJZgdVBQQDAgEA"
         data-no-image="" data-with-image="yes"
         data-highlight-image-path="/p/yFIzVel2FK9SeCSMtovYejkIJAfnBQQDAgEA"
         data-with-subtext="yes"></section>
@@ -833,7 +833,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-right2'); });
   <a class="more" href="/article/"><span class="circle-arrow">最新ニュースをもっと見る</span></a>
 </section>
 
-<script type="text/x-handlebars-template" id="box-pickup-list-695a8100e6d93">
+<script type="text/x-handlebars-template" id="box-pickup-list-695aa1447c853">
 {{#*inline &quot;li&quot;}}
 &lt;li class=&quot;item&quot;&gt;
   &lt;a class=&quot;link&quot; href=&quot;{{link}}&quot; target=&quot;{{target}}&quot; rel=&quot;{{rel}}&quot;&gt;
@@ -861,7 +861,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-right2'); });
 </script>
 <section class="sidebox sidebox-pickup osusume"
         data-link-label="おすすめ記事" data-max-link="15"
-        data-template-id="box-pickup-list-695a8100e6d93" data-image-path="/p/-o8hUiIkCj_ci7ffBUQ5xjkJUgdcBQQDAgEA"
+        data-template-id="box-pickup-list-695aa1447c853" data-image-path="/p/-o8hUiIkCj_ci7ffBUQ5xjkJUgdcBQQDAgEA"
         data-no-image="" data-with-image="yes"
         data-highlight-image-path=""
         data-with-subtext="yes"></section>

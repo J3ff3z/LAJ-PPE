@@ -1,0 +1,628 @@
+HTTP/1.1 200 OK
+Date: Sun, 04 Jan 2026 17:35:40 GMT
+Server: Apache/2.4.29
+X-Pingback: https://werbalnik.pl/xmlrpc.php
+Link: <https://werbalnik.pl/wp-json/>; rel="https://api.w.org/", <https://werbalnik.pl/wp-json/wp/v2/posts/568>; rel="alternate"; title="JSON"; type="application/json", <https://werbalnik.pl/?p=568>; rel=shortlink
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+<!doctype html>
+<html lang="pl-PL">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=10.0, user-scalable=yes">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<title>Grzechy Konrada z trzeciej części „Dziadów” &#8211; Werbalnik</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//translate.google.com' />
+<link rel="alternate" type="application/rss+xml" title="Werbalnik &raquo; Kanał z wpisami" href="https://werbalnik.pl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Werbalnik &raquo; Kanał z komentarzami" href="https://werbalnik.pl/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Werbalnik &raquo; Grzechy Konrada z trzeciej części „Dziadów” Kanał z komentarzami" href="https://werbalnik.pl/grzechy-konrada-z-trzeciej-czesci-dziadow/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://werbalnik.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwerbalnik.pl%2Fgrzechy-konrada-z-trzeciej-czesci-dziadow%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://werbalnik.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwerbalnik.pl%2Fgrzechy-konrada-z-trzeciej-czesci-dziadow%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style><style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='google-language-translator-css' href='https://werbalnik.pl/wp-content/plugins/google-language-translator/css/style.css?ver=6.0.19' type='text/css' media='' />
+<link rel='stylesheet' id='glt-toolbar-styles-css' href='https://werbalnik.pl/wp-content/plugins/google-language-translator/css/toolbar.css?ver=6.0.19' type='text/css' media='' />
+<link rel='stylesheet' id='font-awesome-css' href='https://werbalnik.pl/wp-content/themes/customify/assets/fonts/font-awesome/css/font-awesome.min.css?ver=5.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='customify-style-css' href='https://werbalnik.pl/wp-content/themes/customify/style.min.css?ver=0.4.2' type='text/css' media='all' />
+<style id='customify-style-inline-css' type='text/css'>
+.customify-container, .layout-contained, .site-framed .site, .site-boxed .site { max-width: 2000px; } .main-layout-content .entry-content > .alignwide { width: calc( 2000px - 4em ); max-width: 100vw;  }#blog-posts .posts-layout .entry-media {border-radius: 50px;}.header-top .header--row-inner,body:not(.fl-builder-edit) .button,body:not(.fl-builder-edit) button:not(.menu-mobile-toggle, .components-button, .customize-partial-edit-shortcut-button),body:not(.fl-builder-edit) input[type="button"]:not(.ed_button),button.button,input[type="button"]:not(.ed_button, .components-button, .customize-partial-edit-shortcut-button),input[type="reset"]:not(.components-button, .customize-partial-edit-shortcut-button),input[type="submit"]:not(.components-button, .customize-partial-edit-shortcut-button),.pagination .nav-links > *:hover,.pagination .nav-links span,.nav-menu-desktop.style-full-height .primary-menu-ul > li.current-menu-item > a,.nav-menu-desktop.style-full-height .primary-menu-ul > li.current-menu-ancestor > a,.nav-menu-desktop.style-full-height .primary-menu-ul > li > a:hover,.posts-layout .readmore-button:hover{    background-color: #235787;}.posts-layout .readmore-button {color: #235787;}.pagination .nav-links > *:hover,.pagination .nav-links span,.entry-single .tags-links a:hover,.entry-single .cat-links a:hover,.posts-layout .readmore-button,.posts-layout .readmore-button:hover{    border-color: #235787;}.customify-builder-btn{    background-color: #c3512f;}body{    color: #686868;}abbr, acronym {    border-bottom-color: #686868;}a                {                    color: #1e4b75;}a:hover,a:focus,.link-meta:hover, .link-meta a:hover{    color: #111111;}h2 + h3,.comments-area h2 + .comments-title,.h2 + h3,.comments-area .h2 + .comments-title,.page-breadcrumb {    border-top-color: #eaecee;}blockquote,.site-content .widget-area .menu li.current-menu-item > a:before{    border-left-color: #eaecee;}@media screen and (min-width: 64em) {    .comment-list .children li.comment {        border-left-color: #eaecee;    }    .comment-list .children li.comment:after {        background-color: #eaecee;    }}.page-titlebar, .page-breadcrumb,.posts-layout .entry-inner {    border-bottom-color: #eaecee;}.header-search-form .search-field,.entry-content .page-links a,.header-search-modal,.pagination .nav-links > *,.entry-footer .tags-links a, .entry-footer .cat-links a,.search .content-area article,.site-content .widget-area .menu li.current-menu-item > a,.posts-layout .entry-inner,.post-navigation .nav-links,article.comment .comment-meta,.widget-area .widget_pages li a, .widget-area .widget_categories li a, .widget-area .widget_archive li a, .widget-area .widget_meta li a, .widget-area .widget_nav_menu li a, .widget-area .widget_product_categories li a, .widget-area .widget_recent_entries li a, .widget-area .widget_rss li a,.widget-area .widget_recent_comments li{    border-color: #eaecee;}.header-search-modal::before {    border-top-color: #eaecee;    border-left-color: #eaecee;}@media screen and (min-width: 48em) {    .content-sidebar.sidebar_vertical_border .content-area {        border-right-color: #eaecee;    }    .sidebar-content.sidebar_vertical_border .content-area {        border-left-color: #eaecee;    }    .sidebar-sidebar-content.sidebar_vertical_border .sidebar-primary {        border-right-color: #eaecee;    }    .sidebar-sidebar-content.sidebar_vertical_border .sidebar-secondary {        border-right-color: #eaecee;    }    .content-sidebar-sidebar.sidebar_vertical_border .sidebar-primary {        border-left-color: #eaecee;    }    .content-sidebar-sidebar.sidebar_vertical_border .sidebar-secondary {        border-left-color: #eaecee;    }    .sidebar-content-sidebar.sidebar_vertical_border .content-area {        border-left-color: #eaecee;        border-right-color: #eaecee;    }    .sidebar-content-sidebar.sidebar_vertical_border .content-area {        border-left-color: #eaecee;        border-right-color: #eaecee;    }}article.comment .comment-post-author {background: #6d6d6d;}.pagination .nav-links > *,.link-meta,.link-meta a,.color-meta,.entry-single .tags-links:before,.entry-single .cats-links:before{    color: #6d6d6d;}h1, h2, h3, h4, h5, h6 { color: #2b2b2b;}.site-content .widget-title { color: #444444;}#page-cover {background-image: url("https://werbalnik.pl/wp-content/themes/customify/assets/images/default-cover.jpg");}.header-search_icon-item .header-search-modal  {border-style: solid;} .header-search_icon-item .search-field  {border-style: solid;} .dark-mode .header-search_box-item .search-form-fields, .header-search_box-item .search-form-fields  {border-style: solid;} body  {background-color: #FFFFFF;} .site-content .content-area  {background-color: #FFFFFF;} /* CSS for desktop */#blog-posts .posts-layout .entry .entry-media:not(.no-ratio) {padding-top: %;}#page-cover .page-cover-inner {min-height: 300px;}.header--row.header-top .customify-grid, .header--row.header-top .style-full-height .primary-menu-ul > li > a {min-height: 33px;}.header--row.header-main .customify-grid, .header--row.header-main .style-full-height .primary-menu-ul > li > a {min-height: 90px;}.header--row.header-bottom .customify-grid, .header--row.header-bottom .style-full-height .primary-menu-ul > li > a {min-height: 55px;}.header--row .builder-first--nav-icon {text-align: right;}.header-search_icon-item .search-submit {margin-left: -40px;}.header-search_box-item .search-submit{margin-left: -40px;} .header-search_box-item .woo_bootster_search .search-submit{margin-left: -40px;} .header-search_box-item .header-search-form button.search-submit{margin-left:-40px;}.header--row .builder-first--primary-menu {text-align: right;}/* CSS for tablet */@media screen and (max-width: 1024px) { #page-cover .page-cover-inner {min-height: 250px;}.header--row .builder-first--nav-icon {text-align: right;}.header-search_icon-item .search-submit {margin-left: -40px;}.header-search_box-item .search-submit{margin-left: -40px;} .header-search_box-item .woo_bootster_search .search-submit{margin-left: -40px;} .header-search_box-item .header-search-form button.search-submit{margin-left:-40px;} }/* CSS for mobile */@media screen and (max-width: 568px) { #page-cover .page-cover-inner {min-height: 200px;}.header--row.header-top .customify-grid, .header--row.header-top .style-full-height .primary-menu-ul > li > a {min-height: 33px;}.header--row .builder-first--nav-icon {text-align: right;}.header-search_icon-item .search-submit {margin-left: -40px;}.header-search_box-item .search-submit{margin-left: -40px;} .header-search_box-item .woo_bootster_search .search-submit{margin-left: -40px;} .header-search_box-item .header-search-form button.search-submit{margin-left:-40px;} }
+/*# sourceURL=customify-style-inline-css */
+</style>
+<script type="text/javascript" src="https://werbalnik.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://werbalnik.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://werbalnik.pl/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://werbalnik.pl/wp-json/wp/v2/posts/568" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://werbalnik.pl/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<link rel="canonical" href="https://werbalnik.pl/grzechy-konrada-z-trzeciej-czesci-dziadow/" />
+<link rel='shortlink' href='https://werbalnik.pl/?p=568' />
+<style>p.hello{font-size:12px;color:darkgray;}#google_language_translator,#flags{text-align:left;}#google_language_translator{clear:both;}#flags{width:165px;}#flags a{display:inline-block;margin-right:2px;}#google_language_translator{width:auto!important;}div.skiptranslate.goog-te-gadget{display:inline!important;}.goog-tooltip{display: none!important;}.goog-tooltip:hover{display: none!important;}.goog-text-highlight{background-color:transparent!important;border:none!important;box-shadow:none!important;}#google_language_translator select.goog-te-combo{color:#32373c;}#google_language_translator{color:transparent;}body{top:0px!important;}#goog-gt-{display:none!important;}#glt-translate-trigger > span{color:#ffffff;}#glt-translate-trigger{background:#f89406;}</style><link rel="pingback" href="https://werbalnik.pl/xmlrpc.php"></head>
+
+<body class="wp-singular post-template-default single single-post postid-568 single-format-standard wp-custom-logo wp-theme-customify content-sidebar main-layout-content-sidebar sidebar_vertical_border site-full-width menu_sidebar_slide_left">
+<div id="page" class="site box-shadow">
+	<a class="skip-link screen-reader-text" href="#site-content">Przejdź do treści</a>
+	<a class="close is-size-medium  close-panel close-sidebar-panel" href="#">
+        <span class="hamburger hamburger--squeeze is-active">
+            <span class="hamburger-box">
+              <span class="hamburger-inner"><span class="screen-reader-text">Menu</span></span>
+            </span>
+        </span>
+        <span class="screen-reader-text">Zamknij</span>
+        </a><header id="masthead" class="site-header header-v2"><div id="masthead-inner" class="site-header-inner">							<div  class="header-main header--row layout-full-contained"  id="cb-row--header-main"  data-row-id="main"  data-show-on="desktop mobile">
+								<div class="header--row-inner header-main-inner light-mode">
+									<div class="customify-container">
+										<div class="customify-grid  cb-row--desktop hide-on-mobile hide-on-tablet customify-grid-middle"><div class="row-v2 row-v2-main no-center no-right"><div class="col-v2 col-v2-left"><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo" >		<div class="site-branding logo-top">
+						<a href="https://werbalnik.pl/" class="logo-link" rel="home" itemprop="url">
+				<img class="site-img-logo" src="https://werbalnik.pl/wp-content/uploads/2019/04/werbalnik-logo.png" alt="Werbalnik">
+							</a>
+					</div><!-- .site-branding -->
+		</div><div class="item--inner builder-item--primary-menu has_menu" data-section="header_menu_primary" data-item-id="primary-menu" ><nav  id="site-navigation-main-desktop" class="site-navigation primary-menu primary-menu-main nav-menu-desktop primary-menu-desktop style-plain"></nav></div></div></div></div><div class="cb-row--mobile hide-on-desktop customify-grid customify-grid-middle"><div class="row-v2 row-v2-main no-center no-right"><div class="col-v2 col-v2-left"><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo" >		<div class="site-branding logo-top">
+						<a href="https://werbalnik.pl/" class="logo-link" rel="home" itemprop="url">
+				<img class="site-img-logo" src="https://werbalnik.pl/wp-content/uploads/2019/04/werbalnik-logo.png" alt="Werbalnik">
+							</a>
+					</div><!-- .site-branding -->
+		</div></div></div></div>									</div>
+								</div>
+							</div>
+							<div id="header-menu-sidebar" class="header-menu-sidebar menu-sidebar-panel dark-mode"><div id="header-menu-sidebar-bg" class="header-menu-sidebar-bg"><div id="header-menu-sidebar-inner" class="header-menu-sidebar-inner"><div class="builder-item-sidebar mobile-item--search_box"><div class="item--inner" data-item-id="search_box" data-section="search_box"><div class="header-search_box-item item--search_box">		<form role="search" class="header-search-form " action="https://werbalnik.pl/">
+			<div class="search-form-fields">
+				<span class="screen-reader-text">Szukaj:</span>
+				
+				<input type="search" class="search-field" placeholder="Szukaj ..." value="" name="s" title="Szukaj:" />
+
+							</div>
+			<button type="submit" class="search-submit" aria-label="Submit Search">
+				<svg aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+					<path fill="currentColor" fill-rule="evenodd" d="M12.514 14.906a8.264 8.264 0 0 1-4.322 1.21C3.668 16.116 0 12.513 0 8.07 0 3.626 3.668.023 8.192.023c4.525 0 8.193 3.603 8.193 8.047 0 2.033-.769 3.89-2.035 5.307l4.999 5.552-1.775 1.597-5.06-5.62zm-4.322-.843c3.37 0 6.102-2.684 6.102-5.993 0-3.31-2.732-5.994-6.102-5.994S2.09 4.76 2.09 8.07c0 3.31 2.732 5.993 6.102 5.993z"></path>
+				</svg>
+			</button>
+		</form>
+		</div></div></div><div class="builder-item-sidebar mobile-item--primary-menu mobile-item--menu "><div class="item--inner" data-item-id="primary-menu" data-section="header_menu_primary"><nav  id="site-navigation-sidebar-mobile" class="site-navigation primary-menu primary-menu-sidebar nav-menu-mobile primary-menu-mobile style-plain"></nav></div></div></div></div></div></div></header>	<div id="site-content" class="site-content">
+		<div class="customify-container">
+			<div class="customify-grid">
+				<main id="main" class="content-area customify-col-9_sm-12">
+						<div class="content-inner">
+				<article id="post-568" class="entry entry-single post-568 post type-post status-publish format-standard hentry category-dziady-czesc-iii">
+			<h1 class="entry-title entry--item h2">Grzechy Konrada z trzeciej części „Dziadów”</h1>			<div class="entry-meta entry--item text-uppercase text-xsmall link-meta">
+				<span class="meta-item posted-on"><a href="https://werbalnik.pl/grzechy-konrada-z-trzeciej-czesci-dziadow/" rel="bookmark"><i class="fa fa-clock-o" aria-hidden="true"></i> <time class="entry-date published" datetime="2013-06-12T08:34:10+02:00">12 czerwca 2013</time></a></span><span class="sep"></span><span class="meta-item meta-cat"><a href="https://werbalnik.pl/category/autorzy/adam-mickiewicz/dziady-czesc-iii/" rel="tag"><i class="fa fa-folder-open-o" aria-hidden="true"></i> Dziady część III</a></span>			</div><!-- .entry-meta -->
+					<div class="entry-content entry--item">
+			<p> </p>
+<p style="margin-bottom: 0cm; font-variant: small-caps;" align="CENTER"> </p>
+<p> </p>
+<p style="margin-bottom: 0cm;">   Na sam przód rzuca się jego pycha. Usiłował on bowiem równać z Bogiem. Do tego obraził Najwyższego. Bluźnił i chciał Króla Niebios uznać jedynie za cara.</p>
+<p> </p>
+<p>  <span id="more-568"></span>  </p>
+<p style="margin-bottom: 0cm;"> </p>
+<p> </p>
+<p style="margin-bottom: 0cm;">  Innym grzechem, tym razem także wobec ludzkości, było zniewalanie tych jednostek, które nie chciały mu ulec, nie podporządkowały się jego woli. Pragnąc ukarać takich śmiercią, zabawiał się właśnie we Wszechmogącego.</p>
+<p> </p>
+<p> </p>
+<p style="margin-bottom: 0cm;"> </p>
+<p> </p>
+<p style="margin-bottom: 0cm;">  W stosunku do Boga pojawiło się jeszcze jedno przewinięcie. Śmiał próbować Go zastraszać groźbami, a nawet dopuścił się próby szantażowania Pana Wszechrzeczy.</p>
+<p> </p>
+		</div><!-- .entry-content -->
+		<div class="entry-post-navigation entry--item">
+	<nav class="navigation post-navigation" aria-label="Wpisy">
+		<h2 class="screen-reader-text">Nawigacja wpisu</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://werbalnik.pl/dwunasty-dzien-szostego-miesiaca-2013-roku-na-swiecie-i-w-kraju/" rel="prev"><span class="meta-nav text-uppercase text-xsmall color-meta" aria-hidden="true">Poprzedni</span> <span class="screen-reader-text">Poprzedni wpis:</span> <span class="post-title text-large">Dwunasty dzień szóstego miesiąca 2013 roku &#8211; na świecie i w kraju</span></a></div><div class="nav-next"><a href="https://werbalnik.pl/pokrotce-o-grzechach-konrada-z-iii-czesci-dziadow/" rel="next"><span class="meta-nav text-uppercase text-xsmall color-meta" aria-hidden="true">Następny</span> <span class="screen-reader-text">Następny wpis:</span> <span class="post-title text-large">Pokrótce o grzechach Konrada z III części &#8222;Dziadów&#8221;</span></a></div></div>
+	</nav></div>		</article>
+			</div><!-- #.content-inner -->
+              			</main><!-- #main -->
+			<aside id="sidebar-primary" class="sidebar-primary customify-col-3_sm-12">
+	<div class="sidebar-primary-inner sidebar-inner widget-area">
+		<section id="search-1" class="widget widget_search"><h4 class="widget-title">Search Form</h4>
+		<form role="search" class="sidebar-search-form" action="https://werbalnik.pl/">
+            <label>
+                <span class="screen-reader-text">Szukaj:</span>
+                <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Szukaj:" />
+            </label>
+            <button type="submit" class="search-submit" >
+                <svg aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+                    <path id="svg-search" fill="currentColor" fill-rule="evenodd" d="M12.514 14.906a8.264 8.264 0 0 1-4.322 1.21C3.668 16.116 0 12.513 0 8.07 0 3.626 3.668.023 8.192.023c4.525 0 8.193 3.603 8.193 8.047 0 2.033-.769 3.89-2.035 5.307l4.999 5.552-1.775 1.597-5.06-5.62zm-4.322-.843c3.37 0 6.102-2.684 6.102-5.993 0-3.31-2.732-5.994-6.102-5.994S2.09 4.76 2.09 8.07c0 3.31 2.732 5.993 6.102 5.993z"></path>
+                </svg>
+            </button>
+        </form></section><section id="imienniczek-3" class="widget imienniczek"><h4 class="widget-title"></h4><script type="text/javascript" src="https://imienniczek.pl/widget/js" ></script></section><section id="categories-4" class="widget widget_categories"><h4 class="widget-title">Kategorie</h4>
+			<ul>
+					<li class="cat-item cat-item-4"><a href="https://werbalnik.pl/category/autorzy/" >Autorzy</a>
+<ul class='children'>
+	<li class="cat-item cat-item-11"><a href="https://werbalnik.pl/category/autorzy/adam-mickiewicz/" >Adam Mickiewicz</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-17"><a href="https://werbalnik.pl/category/autorzy/adam-mickiewicz/dziady-czesc-iii/" >Dziady część III</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="https://werbalnik.pl/category/autorzy/adam-mickiewicz/grazyna/" >Grażyna</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://werbalnik.pl/category/autorzy/adam-mickiewicz/inne/" >Inne</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://werbalnik.pl/category/autorzy/adam-mickiewicz/konrad-wallenrod/" >Konrad Wallenrod</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://werbalnik.pl/category/autorzy/adam-mickiewicz/pan-tadeusz/" >Pan Tadeusz</a>
+</li>
+	<li class="cat-item cat-item-66"><a href="https://werbalnik.pl/category/autorzy/adam-mickiewicz/romantycznosc/" >Romantyczność</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://werbalnik.pl/category/autorzy/adam-mickiewicz/switez/" >Świteź</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://werbalnik.pl/category/autorzy/adam-mickiewicz/switezianka/" >Świtezianka</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://werbalnik.pl/category/autorzy/aleksander-kaminski/" >Aleksander Kamiński</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-6"><a href="https://werbalnik.pl/category/autorzy/aleksander-kaminski/kamienie-na-szaniec/" >Kamienie na szaniec</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://werbalnik.pl/category/autorzy/anonim-inni-biblijni/" >Anonim / Inni / Biblijni</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-145"><a href="https://werbalnik.pl/category/autorzy/anonim-inni-biblijni/piesn-o-rolandzie/" >Pieśń o Rolandzie</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://werbalnik.pl/category/autorzy/antoine-de-saint-exupery/" >Antoine De Saint-Exupéry</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-10"><a href="https://werbalnik.pl/category/autorzy/antoine-de-saint-exupery/maly-ksiaze/" >Mały Książę</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-68"><a href="https://werbalnik.pl/category/autorzy/boleslaw-lesmian/" >Bolesław Leśmian</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-69"><a href="https://werbalnik.pl/category/autorzy/boleslaw-lesmian/biografia-boleslawa-lesmiana/" >Biografia i twórczość Bolesława Leśmiana</a>
+</li>
+	<li class="cat-item cat-item-75"><a href="https://werbalnik.pl/category/autorzy/boleslaw-lesmian/dziewczyna/" >Dziewczyna</a>
+</li>
+	<li class="cat-item cat-item-73"><a href="https://werbalnik.pl/category/autorzy/boleslaw-lesmian/urszula-kochanowska/" >Urszula Kochanowska</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://werbalnik.pl/category/autorzy/boleslaw-prus/" >Bolesław Prus</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-21"><a href="https://werbalnik.pl/category/autorzy/boleslaw-prus/anielka/" >Anielka</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="https://werbalnik.pl/category/autorzy/boleslaw-prus/antek/" >Antek</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-131"><a href="https://werbalnik.pl/category/autorzy/carlo-collodi/" >Carlo Collodi</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-132"><a href="https://werbalnik.pl/category/autorzy/carlo-collodi/pinokio/" >Pinokio</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-64"><a href="https://werbalnik.pl/category/autorzy/czeslaw-milosz/" >Czesław Miłosz</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-65"><a href="https://werbalnik.pl/category/autorzy/czeslaw-milosz/biografia-i-tworczosc-czeslaw-milosz/" >Biografia i twórczość</a>
+</li>
+	<li class="cat-item cat-item-67"><a href="https://werbalnik.pl/category/autorzy/czeslaw-milosz/piosenka-o-koncu-swiata/" >Piosenka o końcu świata</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-162"><a href="https://werbalnik.pl/category/autorzy/daniel-defoe/" >Daniel Defoe</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-163"><a href="https://werbalnik.pl/category/autorzy/daniel-defoe/przypadki-robinsona-kruzoe-robinson-crusoe/" >Przypadki Robinsona Kruzoe / Robinson Crusoe</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-133"><a href="https://werbalnik.pl/category/autorzy/eliza-orzeszkowa/" >Eliza Orzeszkowa</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-134"><a href="https://werbalnik.pl/category/autorzy/eliza-orzeszkowa/a-b-c/" >A… B… C…</a>
+</li>
+	<li class="cat-item cat-item-139"><a href="https://werbalnik.pl/category/autorzy/eliza-orzeszkowa/dobra-pani/" >Dobra pani</a>
+</li>
+	<li class="cat-item cat-item-137"><a href="https://werbalnik.pl/category/autorzy/eliza-orzeszkowa/gloria-victis/" >Gloria victis</a>
+</li>
+	<li class="cat-item cat-item-138"><a href="https://werbalnik.pl/category/autorzy/eliza-orzeszkowa/panna-antonina/" >Panna Antonina</a>
+</li>
+	<li class="cat-item cat-item-140"><a href="https://werbalnik.pl/category/autorzy/eliza-orzeszkowa/tadeusz/" >Tadeusz</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-114"><a href="https://werbalnik.pl/category/autorzy/eric-emmanuel-schmitt/" >Éric-Emmanuel Schmitt</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-121"><a href="https://werbalnik.pl/category/autorzy/eric-emmanuel-schmitt/dziecko-noego/" >Dziecko Noego</a>
+</li>
+	<li class="cat-item cat-item-115"><a href="https://werbalnik.pl/category/autorzy/eric-emmanuel-schmitt/oskar-i-pani-roza/" >Oskar i pani Róża</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-22"><a href="https://werbalnik.pl/category/autorzy/george-gordon-byron/" >George Gordon Byron</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-23"><a href="https://werbalnik.pl/category/autorzy/george-gordon-byron/biografia/" >Biografia</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-167"><a href="https://werbalnik.pl/category/autorzy/andersen-hans-christian/" >Hans Christian Andersen</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-168"><a href="https://werbalnik.pl/category/autorzy/andersen-hans-christian/brzydkie-kaczatko/" >Brzydkie kaczątko</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-24"><a href="https://werbalnik.pl/category/autorzy/henryk-sienkiewicz/" >Henryk Sienkiewicz</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-26"><a href="https://werbalnik.pl/category/autorzy/henryk-sienkiewicz/janko-muzykant/" >Janko Muzykant</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="https://werbalnik.pl/category/autorzy/henryk-sienkiewicz/latarnik/" >Latarnik</a>
+</li>
+	<li class="cat-item cat-item-159"><a href="https://werbalnik.pl/category/autorzy/henryk-sienkiewicz/szkice-weglem/" >Szkice węglem</a>
+</li>
+	<li class="cat-item cat-item-156"><a href="https://werbalnik.pl/category/autorzy/henryk-sienkiewicz/w-pustyni-i-w-puszczy/" >W pustyni i w puszczy</a>
+</li>
+	<li class="cat-item cat-item-127"><a href="https://werbalnik.pl/category/autorzy/henryk-sienkiewicz/z-pamietnika-poznanskiego-nauczyciela/" >Z pamiętnika poznańskiego nauczyciela</a>
+</li>
+	<li class="cat-item cat-item-161"><a href="https://werbalnik.pl/category/autorzy/henryk-sienkiewicz/za-chlebem/" >Za chlebem</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-27"><a href="https://werbalnik.pl/category/autorzy/irena-jurgielewiczowa/" >Irena Jurgielewiczowa</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-28"><a href="https://werbalnik.pl/category/autorzy/irena-jurgielewiczowa/ten-obcy/" >Ten obcy</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-129"><a href="https://werbalnik.pl/category/autorzy/jan-brzechwa/" >Jan Brzechwa</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-130"><a href="https://werbalnik.pl/category/autorzy/jan-brzechwa/akademia-pana-kleksa/" >Akademia Pana Kleksa</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-107"><a href="https://werbalnik.pl/category/autorzy/jan-kochanowski/" >Jan Kochanowski</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-108"><a href="https://werbalnik.pl/category/autorzy/jan-kochanowski/inne-jan-kochanowski/" >Inne</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-29"><a href="https://werbalnik.pl/category/autorzy/jaroslaw-iwaszkiewicz/" >Jarosław Iwaszkiewicz</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-31"><a href="https://werbalnik.pl/category/autorzy/jaroslaw-iwaszkiewicz/biografia-i-tworczosc/" >Biografia i twórczość</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="https://werbalnik.pl/category/autorzy/jaroslaw-iwaszkiewicz/ikar/" >Ikar</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-125"><a href="https://werbalnik.pl/category/autorzy/juliusz-slowacki/" >Juliusz Słowacki</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-126"><a href="https://werbalnik.pl/category/autorzy/juliusz-slowacki/kordian/" >Kordian</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-105"><a href="https://werbalnik.pl/category/autorzy/leon-kruczkowski/" >Leon Kruczkowski</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-106"><a href="https://werbalnik.pl/category/autorzy/leon-kruczkowski/niemcy/" >Niemcy</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-154"><a href="https://werbalnik.pl/category/autorzy/lucy-maud-montgomery/" >Lucy Maud Montgomery</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-160"><a href="https://werbalnik.pl/category/autorzy/lucy-maud-montgomery/ania-z-avonlea/" >Ania z Avonlea</a>
+</li>
+	<li class="cat-item cat-item-155"><a href="https://werbalnik.pl/category/autorzy/lucy-maud-montgomery/ania-z-zielonego-wzgorza/" >Ania z Zielonego Wzgórza</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-150"><a href="https://werbalnik.pl/category/autorzy/mark-twain/" >Mark Twain</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-151"><a href="https://werbalnik.pl/category/autorzy/mark-twain/przygody-tomka-sawyera/" >Przygody Tomka Sawyera</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-169"><a href="https://werbalnik.pl/category/autorzy/roman-pisarski/" >Roman Pisarski</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-170"><a href="https://werbalnik.pl/category/autorzy/roman-pisarski/o-psie-ktory-jezdzil-koleja/" >O psie, który jeździł koleją</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-32"><a href="https://werbalnik.pl/category/autorzy/stefan-zeromski/" >Stefan Żeromski</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-33"><a href="https://werbalnik.pl/category/autorzy/stefan-zeromski/biografia-i-tworczosc-stefan-zeromski/" >Biografia i twórczość</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="https://werbalnik.pl/category/autorzy/stefan-zeromski/inne-tematy/" >Inne tematy</a>
+</li>
+	<li class="cat-item cat-item-122"><a href="https://werbalnik.pl/category/autorzy/stefan-zeromski/ludzie-bezdomni/" >Ludzie bezdomni</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="https://werbalnik.pl/category/autorzy/stefan-zeromski/przedwiosnie/" >Przedwiośnie</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="https://werbalnik.pl/category/autorzy/stefan-zeromski/silaczka/" >Siłaczka</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="https://werbalnik.pl/category/autorzy/stefan-zeromski/syzyfowe-prace/" >Syzyfowe prace</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-141"><a href="https://werbalnik.pl/category/autorzy/william-szekspir-shakespeare/" >William Szekspir / Shakespeare</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-142"><a href="https://werbalnik.pl/category/autorzy/william-szekspir-shakespeare/romeo-i-julia/" >Romeo i Julia</a>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-42"><a href="https://werbalnik.pl/category/bajki/" >Bajki</a>
+<ul class='children'>
+	<li class="cat-item cat-item-44"><a href="https://werbalnik.pl/category/bajki/bajki-dla-dzieci/" >Bajki dla dzieci</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="https://werbalnik.pl/category/bajki/bajki-nadeslane/" >Bajki nadesłane</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-47"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/" >Bogactwo słownictwa</a>
+<ul class='children'>
+	<li class="cat-item cat-item-48"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/cwiczenie-ze-slownictwem/" >Ćwiczenie ze słownictwem</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-49"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/cwiczenie-ze-slownictwem/zabawy-ze-slowami-na-a/" >Zabawy ze słowami na A</a>
+</li>
+	<li class="cat-item cat-item-50"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/cwiczenie-ze-slownictwem/zabawy-ze-slowami-na-b/" >Zabawy ze słowami na B</a>
+</li>
+	<li class="cat-item cat-item-62"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/cwiczenie-ze-slownictwem/zabawy-ze-slowami-na-c/" >Zabawy ze słowami na C</a>
+</li>
+	<li class="cat-item cat-item-113"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/cwiczenie-ze-slownictwem/zabawy-ze-slowami-na-d/" >Zabawy ze słowami na D</a>
+</li>
+	<li class="cat-item cat-item-143"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/cwiczenie-ze-slownictwem/zabawy-ze-slowami-na-g/" >Zabawy ze słowami na G</a>
+</li>
+	<li class="cat-item cat-item-153"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/cwiczenie-ze-slownictwem/zabawy-ze-slowami-na-h/" >Zabawy ze słowami na H</a>
+</li>
+	<li class="cat-item cat-item-116"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/cwiczenie-ze-slownictwem/zabawy-ze-slowami-na-i/" >Zabawy ze słowami na I</a>
+</li>
+	<li class="cat-item cat-item-117"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/cwiczenie-ze-slownictwem/zabawy-ze-slowami-na-p/" >Zabawy ze słowami na P</a>
+</li>
+	<li class="cat-item cat-item-144"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/cwiczenie-ze-slownictwem/zabawy-ze-slowami-na-s/" >Zabawy ze słowami na S</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-70"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/" >Początkowe klasy SP &#8211; dla nauczycieli</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-71"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-a/" >Słówka dla dzieci na A</a>
+</li>
+	<li class="cat-item cat-item-72"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-b/" >Słówka dla dzieci na B</a>
+</li>
+	<li class="cat-item cat-item-76"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-c/" >Słówka dla dzieci na C</a>
+</li>
+	<li class="cat-item cat-item-78"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-d/" >Słówka dla dzieci na D</a>
+</li>
+	<li class="cat-item cat-item-79"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-e/" >Słówka dla dzieci na E</a>
+</li>
+	<li class="cat-item cat-item-80"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-f/" >Słówka dla dzieci na F</a>
+</li>
+	<li class="cat-item cat-item-81"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-g/" >Słówka dla dzieci na G</a>
+</li>
+	<li class="cat-item cat-item-84"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-j/" >Słówka dla dzieci na J</a>
+</li>
+	<li class="cat-item cat-item-74"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-k/" >Słówka dla dzieci na K</a>
+</li>
+	<li class="cat-item cat-item-85"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-l/" >Słówka dla dzieci na L</a>
+</li>
+	<li class="cat-item cat-item-88"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-m/" >Słówka dla dzieci na M</a>
+</li>
+	<li class="cat-item cat-item-89"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-n/" >Słówka dla dzieci na N</a>
+</li>
+	<li class="cat-item cat-item-90"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-o/" >Słówka dla dzieci na O</a>
+</li>
+	<li class="cat-item cat-item-77"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-p/" >Słówka dla dzieci na P</a>
+</li>
+	<li class="cat-item cat-item-92"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-r/" >Słówka dla dzieci na R</a>
+</li>
+	<li class="cat-item cat-item-93"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-s/" >Słówka dla dzieci na S</a>
+</li>
+	<li class="cat-item cat-item-94"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowa-dla-dzieci-na-s/" >Słówka dla dzieci na Ś</a>
+</li>
+	<li class="cat-item cat-item-95"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-t/" >Słówka dla dzieci na T</a>
+</li>
+	<li class="cat-item cat-item-96"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-u/" >Słówka dla dzieci na U</a>
+</li>
+	<li class="cat-item cat-item-97"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-w/" >Słówka dla dzieci na W</a>
+</li>
+	<li class="cat-item cat-item-101"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowa-dl-dzieci-na-z/" >Słówka dla dzieci na Ż</a>
+</li>
+	<li class="cat-item cat-item-99"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-z/" >Słówka dla dzieci na Z</a>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-38"><a href="https://werbalnik.pl/category/epoki-literackie/" >Epoki literackie</a>
+<ul class='children'>
+	<li class="cat-item cat-item-39"><a href="https://werbalnik.pl/category/epoki-literackie/pozytywizm/" >Pozytywizm</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-40"><a href="https://werbalnik.pl/category/epoki-literackie/pozytywizm/pozytywizm-w-europie/" >Pozytywizm w Europie</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="https://werbalnik.pl/category/epoki-literackie/pozytywizm/pozytywizm-w-polsce/" >Pozytywizm w Polsce</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-102"><a href="https://werbalnik.pl/category/epoki-literackie/renesans/" >Renesans</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-103"><a href="https://werbalnik.pl/category/epoki-literackie/renesans/renesans-w-europie/" >Renesans w Europie</a>
+</li>
+	<li class="cat-item cat-item-104"><a href="https://werbalnik.pl/category/epoki-literackie/renesans/renesans-w-polsce/" >Renesans w Polsce</a>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-54"><a href="https://werbalnik.pl/category/informator/" >Informator</a>
+<ul class='children'>
+	<li class="cat-item cat-item-56"><a href="https://werbalnik.pl/category/informator/istotne-wiesci/" >Istotne wieści</a>
+</li>
+	<li class="cat-item cat-item-55"><a href="https://werbalnik.pl/category/informator/nowosci-werbalnika/" >Nowości Werbalnika</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-157"><a href="https://werbalnik.pl/category/inne-prace/" >Inne prace</a>
+<ul class='children'>
+	<li class="cat-item cat-item-158"><a href="https://werbalnik.pl/category/inne-prace/zwiazane-z-jezykiem-polskim/" >Związane z językiem polskim</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-51"><a href="https://werbalnik.pl/category/inne-tematyki/" >Inne tematyki</a>
+<ul class='children'>
+	<li class="cat-item cat-item-52"><a href="https://werbalnik.pl/category/inne-tematyki/dowolne-prace/" >Dowolne prace</a>
+</li>
+	<li class="cat-item cat-item-53"><a href="https://werbalnik.pl/category/inne-tematyki/religijne-i-tradycyjne/" >Religijne i tradycyjne</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-601"><a href="https://werbalnik.pl/category/kalendarz/" >Kalendarz</a>
+</li>
+	<li class="cat-item cat-item-118"><a href="https://werbalnik.pl/category/logopedia/" >Logopedia</a>
+<ul class='children'>
+	<li class="cat-item cat-item-119"><a href="https://werbalnik.pl/category/logopedia/zbior-nr-1/" >Zbiór nr 1</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-124"><a href="https://werbalnik.pl/category/logopedia/zbior-nr-1/cwiczenia-z-dwuznakami-sz-cz/" >Ćwiczenia z dwuznakami: SZ, CZ</a>
+</li>
+	<li class="cat-item cat-item-152"><a href="https://werbalnik.pl/category/logopedia/zbior-nr-1/cwiczenia-z-dwuznakiem-ch/" >Ćwiczenia z dwuznakiem CH</a>
+</li>
+	<li class="cat-item cat-item-123"><a href="https://werbalnik.pl/category/logopedia/zbior-nr-1/cwiczenia-z-dwuznakiem-cz/" >Ćwiczenia z dwuznakiem CZ</a>
+</li>
+	<li class="cat-item cat-item-128"><a href="https://werbalnik.pl/category/logopedia/zbior-nr-1/cwiczenia-z-dwuznakiem-rz/" >Ćwiczenia z dwuznakiem RZ</a>
+</li>
+	<li class="cat-item cat-item-120"><a href="https://werbalnik.pl/category/logopedia/zbior-nr-1/cwiczenie-z-dwuznakiem-sz/" >Ćwiczenia z dwuznakiem SZ</a>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-135"><a href="https://werbalnik.pl/category/mnozymy-szczescie/" >Mnożymy szczęście</a>
+<ul class='children'>
+	<li class="cat-item cat-item-136"><a href="https://werbalnik.pl/category/mnozymy-szczescie/pomocni-w-spoleczenstwie/" >Pomocni w społeczeństwie</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-171"><a href="https://werbalnik.pl/category/ogloszenia/" >Ogłoszenia</a>
+<ul class='children'>
+	<li class="cat-item cat-item-173"><a href="https://werbalnik.pl/category/ogloszenia/sp-83-lodz/" >SP 83 Łódź</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-146"><a href="https://werbalnik.pl/category/ortografia/" >Ortografia</a>
+<ul class='children'>
+	<li class="cat-item cat-item-147"><a href="https://werbalnik.pl/category/ortografia/dyktanda/" >Dyktanda</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-148"><a href="https://werbalnik.pl/category/ortografia/dyktanda/dyktanda-do-podyktowania/" >Dyktowane</a>
+</li>
+	<li class="cat-item cat-item-149"><a href="https://werbalnik.pl/category/ortografia/dyktanda/uzupelniane/" >Uzupełniane</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-166"><a href="https://werbalnik.pl/category/ortografia/to-nie-blad/" >To nie błąd!</a>
+</li>
+	<li class="cat-item cat-item-165"><a href="https://werbalnik.pl/category/ortografia/zasady-pisowni/" >Zasady pisowni</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-109"><a href="https://werbalnik.pl/category/rymujemy/" >Rymujemy</a>
+<ul class='children'>
+	<li class="cat-item cat-item-110"><a href="https://werbalnik.pl/category/rymujemy/tworzymy-rymy/" >Tworzymy rymy</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-111"><a href="https://werbalnik.pl/category/rymujemy/tworzymy-rymy/cwiczymy/" >ćwiczymy</a>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://werbalnik.pl/category/werbalnik/" >Werbalnik</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="https://werbalnik.pl/category/wypowiedzi/" >Wypowiedzi</a>
+<ul class='children'>
+	<li class="cat-item cat-item-46"><a href="https://werbalnik.pl/category/wypowiedzi/jak-napisac-podstawy/" >Jak napisać &#8211; podstawy</a>
+</li>
+	<li class="cat-item cat-item-598"><a href="https://werbalnik.pl/category/wypowiedzi/jak-cwiczyc-tworzenie-poprzez-zabawe/" >Jak tworzyć poprzez zabawę</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-599"><a href="https://werbalnik.pl/category/wypowiedzi/jak-cwiczyc-tworzenie-poprzez-zabawe/gra-w-kosci/" >Gra w kości</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-164"><a href="https://werbalnik.pl/category/wypowiedzi/jak-zapamietac-wypowiedzi-dane/" >Jak zapamiętać wypowiedzi / dane</a>
+</li>
+</ul>
+</li>
+			</ul>
+
+			</section>
+		<section id="recent-posts-5" class="widget widget_recent_entries">
+		<h4 class="widget-title">Ostatnie wpisy</h4>
+		<ul>
+											<li>
+					<a href="https://werbalnik.pl/zabawa-w-tworzenie-opowiadan/">Zabawa w tworzenie opowiadań</a>
+									</li>
+											<li>
+					<a href="https://werbalnik.pl/zyczenia-z-okazji-wielkanocy-2019-roku/">Życzenia z okazji Wielkanocy 2019 roku</a>
+									</li>
+											<li>
+					<a href="https://werbalnik.pl/pragniemy-wiecej-i-lepiej-mamy-mniej-i-gorzej-szkolnictwo-i-finanse-2/">&#8222;Pragniemy więcej i lepiej, mamy mniej i gorzej&#8221; &#8211; szkolnictwo i finanse</a>
+									</li>
+											<li>
+					<a href="https://werbalnik.pl/pragniemy-wiecej-i-lepiej-mamy-mniej-i-gorzej-szkolnictwo-i-finanse/">Pragniemy więcej i lepiej, mamy mniej i gorzej – szkolnictwo i finanse</a>
+									</li>
+											<li>
+					<a href="https://werbalnik.pl/2019-rok/">2019 rok</a>
+									</li>
+					</ul>
+
+		</section>	</div>
+</aside><!-- #sidebar-primary -->
+		</div><!-- #.customify-grid -->
+	</div><!-- #.customify-container -->
+</div><!-- #content -->
+<footer class="site-footer" id="site-footer">							<div  class="footer-bottom footer--row layout-full-contained"  id="cb-row--footer-bottom"  data-row-id="bottom"  data-show-on="desktop">
+								<div class="footer--row-inner footer-bottom-inner dark-mode">
+									<div class="customify-container">
+										<div class="customify-grid  customify-grid-top"><div class="customify-col-12_md-12_sm-12_xs-12 builder-item builder-first--footer_copyright" data-push-left="_sm-0"><div class="item--inner builder-item--footer_copyright" data-section="footer_copyright" data-item-id="footer_copyright" ><div class="builder-footer-copyright-item footer-copyright"><p>Prawa autorskie &copy; 2013 &#8211; 2026 Werbalnik &#8211; Wspierany przez  <a rel="nofollow" href="https://pressmaximum.com/customify">Customify</a>.</p>
+</div></div></div></div>									</div>
+								</div>
+							</div>
+							</footer></div><!-- #page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/customify/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<div id="glt-translate-trigger"><span class="notranslate">Translate &raquo;</span></div><div id="glt-toolbar"></div><div id="flags" style="display:none" class="size18"><ul id="sortable" class="ui-sortable"><li id="English"><a href="#" title="English" class="nturl notranslate en flag English"></a></li></ul></div><div id='glt-footer'><div id="google_language_translator" class="default-language-en"></div></div><script>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages:'en', autoDisplay: false}, 'google_language_translator');}</script><script type="text/javascript" src="https://werbalnik.pl/wp-content/plugins/google-language-translator/js/scripts.js?ver=6.0.19" id="scripts-js"></script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit" id="scripts-google-js"></script>
+<script type="text/javascript" id="customify-themejs-js-extra">
+/* <![CDATA[ */
+var Customify_JS = {"is_rtl":"","css_media_queries":{"all":"%s","desktop":"%s","tablet":"@media screen and (max-width: 1024px) { %s }","mobile":"@media screen and (max-width: 568px) { %s }"},"sidebar_menu_no_duplicator":"0"};
+//# sourceURL=customify-themejs-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://werbalnik.pl/wp-content/themes/customify/assets/js/theme.min.js?ver=0.4.2" id="customify-themejs-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://werbalnik.pl/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://werbalnik.pl/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+
+</body>
+</html>

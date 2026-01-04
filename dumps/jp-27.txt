@@ -1,25 +1,25 @@
 HTTP/2 200 content-type: text/html; charset=UTF-8 date: Sun, 04 Jan 2026
-15:03:41 GMT cross-origin-opener-policy: same-origin-allow-popups
+17:21:19 GMT cross-origin-opener-policy: same-origin-allow-popups
 cross-origin-embedder-policy: unsafe-none set-cookie:
-AWSALB=5XRbDLm0tG7mLjCbCgntZ+pL7XxuebcOmZQ9GcogdgXuqEr7GiVe/ZT7kduPpQsAGPOB/a2iY
-CUSJzTC5n2qPwhFtX6M7loQ5UN2kg1sdHNclO52H8UmfJEbzhhQ; Expires=Sun, 11 Jan 2026
-15:03:40 GMT; Path=/ set-cookie:
-AWSALBCORS=5XRbDLm0tG7mLjCbCgntZ+pL7XxuebcOmZQ9GcogdgXuqEr7GiVe/ZT7kduPpQsAGPOB/
-a2iYCUSJzTC5n2qPwhFtX6M7loQ5UN2kg1sdHNclO52H8UmfJEbzhhQ; Expires=Sun, 11 Jan
-2026 15:03:40 GMT; Path=/; SameSite=None; Secure set-cookie:
-fuelcid=S%3A5zwbEAMyiRsXv-6mL1XgCmB8721T5NJgc5-hJDgDqDlmQnxZHO5Xrqe07wXBsHUTtOak
-6T8v7g_9Mdf4bNd3FF3VGPTvSCn2pclK7h3pEL2HDAgOa9ka280SpGXu8uxyTk_ODRZ8guTOorQ9Jmo4
-bGpUxcvRZQQj_VbA1kudxqTYiUiaNFlZh0WYlQ93aKheAFuy-U3UYqq52dQWnQg9jFgVFO_aHC2AA9Xr
-sCxnZj8FMfwQyeO5GrgngNQHW2BGHldpPTTGfiLk1uEiZyVgI0qTjHrcF3VbaFEM-A1NydfDAB4peF-o
-Fmxs3mhQ6zDdUaOByfH_FLWkfsQgQJR1aSlyKtJKFH7gYSo_9Y_kKeV_fvic8wkvL2k1jmbqLNGVzZet
-07NIwBYPzA9ndN1pa_wXjkEQdhz4dw8JaOUXd257u_wfYsx-Nz2TB6rFIqDJAQxPa25PAAnPZ-OkWHdA
-MqwqukUm4IDjpH5AVgIhD37i9yKG8mcB3A5Kz1kzAD03ys8%3D; expires=Sun, 04-Jan-2026
-17:03:41 GMT; Max-Age=7200; path=/ server: Apache cache-control: max-age=60,
+AWSALB=ph1Fz7QnNBgBFF0CUKYPY2YDYz07z/6JMCKoja0VZgaCOFFGFnjewzu/4mQyh46likohcL6TK
+zBorS0FDt3e+SiG89tNQWmELlUdshl9mnEQDab4l4t90b9crhQY; Expires=Sun, 11 Jan 2026
+17:21:19 GMT; Path=/ set-cookie:
+AWSALBCORS=ph1Fz7QnNBgBFF0CUKYPY2YDYz07z/6JMCKoja0VZgaCOFFGFnjewzu/4mQyh46likohc
+L6TKzBorS0FDt3e+SiG89tNQWmELlUdshl9mnEQDab4l4t90b9crhQY; Expires=Sun, 11 Jan
+2026 17:21:19 GMT; Path=/; SameSite=None; Secure set-cookie:
+fuelcid=S%3AE35JGHuZ1DA9v9kbPUdI7jFylfrVEvT57j9lc-ATgeDms4kL8AwQi4O5uK9HkUTpEfGh
+DfoourjGUr1KKCMrXD3y9co-oVBjCmj8btYTrxlydUoePqJsZX2BAZ49FwtchYu5JU5QcOogqDdTSqie
+vIQtXqiuTG8nvVWeNMLWVBptnhvVs32eNbzYz25jWJYFm8JeHN73vyAfGWUCQAczILGqfgDQpbApzU-f
+E5KhIGHHR_pqZEfiBJrcMjtgBj6bkPm0uQGgoKd3yxusgpPo91uqRu267xh8Hn8HAGSDHf2awquSksRs
+l8Kscpo5TbH8yGV5Nw0ol1guZnqO6MamDwN-WaZZgX4LEHStxfvKDHMaGVaBt4U0_HzlrOQ8l-mZK9Xf
+0ZALIzEOaEfLITmVwA-YV-73ldIeaO74eQnL9oWwqYg4XXnb_C-dpxaAxVpift5R6VNW1ky-kCjFzepd
+ggaq36xB9P0Z-DD-xu2Ki7VbOlio8E76q8Cda7SOeMFXI28%3D; expires=Sun, 04-Jan-2026
+19:21:19 GMT; Max-Age=7200; path=/ server: Apache cache-control: max-age=60,
 stale-while-revalidate=30 vary:
 CloudFront-Is-Desktop-Viewer,CloudFront-Is-Mobile-Viewer,Accept-Encoding
 x-cache: Miss from cloudfront via: 1.1
-b8fdbe0731ea973153de1009ba25feaa.cloudfront.net (CloudFront) x-amz-cf-pop:
-CDG50-P3 x-amz-cf-id: Tjk2l2oMISCbJPlzqMjM4uBpqucXNcX7XE_siUpdtyHcn5DcANXS7A==
+c420c087f7cab31cec047685621eab8e.cloudfront.net (CloudFront) x-amz-cf-pop:
+CDG50-P3 x-amz-cf-id: rjEIoB72XOXhxOsXvEWUEhp8ga-wi0aKCFTNyuFnogLrn_JkGIXPBA==
 
 IFRAME:
 https://www.googletagmanager.com/ns.html?id=GTM-MJKZ7HV&gtm_auth=MnjaupTKJqE322o
@@ -46,8 +46,8 @@ https://www.googletagmanager.com/ns.html?id=GTM-MJKZ7HV&gtm_auth=MnjaupTKJqE322o
   + テレビ
   + 芸能人
   + ＳＮＳ
-  + お仕事
   + アイドル
+  + お仕事
   + エンタメ
   + 北海道
   + ミュージック
@@ -115,33 +115,33 @@ akiya_b
 
 求人情報一覧へ
 
-2交替シートベルトの部品製造/土日休み/月25万～
+ドーナツやワッフル生地などの製造工
 
 NEW
 
-株式会社平山
-  * pin icon
-愛知県
-  * human icon
-派遣社員：時給1,350円～1,687円
-
-【仕事内容】職種 製造・技術(電気・電子・機械) > 組立・加工 仕事内容 <株式会社平山での正社員採用(無期雇用派遣)となります> 未経験OK
-軽い自動車部品の組付けなど <軽作業!!> 自動車部品(シートベルト)製造<ベルトの巻き取り装置の組付け> 軽作業でとても働きやすい職場です!
-フォロー体制が整っているので、 困ったことがあったらなんでも相談できますよ( 工場見学で...
-
-介護職/軽作業や事務等からも転職OK
-
-NEW
-
-介護付有料老人ホーム さわやかあかしの里
+丸中製菓株式会社
   * pin icon
 兵庫県
   * human icon
-正社員：月給24万2,561円～40万円
+正社員：月給18万3,000円～
 
-【仕事内容】<職種> 介護職 <アピールポイント> <無資格OK>40代・50代も歓迎!夜間巡回は1回のみ <無資格・未経験OK> 要介護度平均1.9
-要支援の方も多く、比較的元気な方の対応が中心! 無資格や未経験の方も、スタートしやすい環境 <夜間は巡回1回のみ/医療体制が万全!>
-全室見守りセンサーを導入しており、夜間の巡回は1回のみ! その他の巡視に関しては、タブレット上で確認...
+【仕事内容】洋菓子の<製造>職務経験・資格不問!基本土日祝休み&年間休日125日! ドーナツ生地やワッフル生地などの製造作業
+(生産予定を確認し、レシピに沿って生地づくりを行います) 大手スーパーやコンビニで見かける キングドーナツやワッフル、カップケーキなどを作る
+<丸中製菓株式会社>で一緒に働きませんか? 今回募集するのは<製造>! ご応募にあたり職務経験は一切不問! 資格についても問い...
+
+事務所の清掃スタッフ
+
+NEW
+
+南信ビルサービス株式会社
+  * pin icon
+東京都
+  * human icon
+アルバイト・パート：時給1,600円
+
+【仕事内容】大田区南馬込 稼げる朝活”始めよう!短時間の清掃ワーク 経験不問/シニア・中高年活躍中 事務所共用部の清掃をお願いします。
+勤務は直行直帰!用具は現場に置いてあるので余計な荷物はいりません。 具体的には 通路・階段の掃き掃除 エレベーターのボタン拭き ゴミ出し など
+使用するのはモップや雑巾、掃除機など、身近な用具がほとんど。 毎日の暮らしで培った技術がここでは立派な「プロの...
 Sponsored by
 
 おすすめニュース
@@ -193,11 +193,11 @@ Sponsored by
 よろず～ニュース編集部 よろず～ニュース編集部
   * 日本の難関大学→イギリス名門大学院のイケメン俳優が結婚「これからも一人の芸術家として」
 よろず～ニュース編集部 よろず～ニュース編集部
+  * ハモネプ優勝の人気アーティストが結婚「今後の人生を二人で支え合いながら」
+よろず～ニュース編集部 よろず～ニュース編集部
   * 岡田紗佳のノースリ黒チャイナ服＆網タイツに「スタイルがすごっ」「役満ですね」の声
 よろず～ニュース編集部 よろず～ニュース編集部
   * ラインくっきり！元NHKフリー女子アナの美スタイル泥だらけショット「スタイル抜群」「泥も滴るいい女 」の声
-よろず～ニュース編集部 よろず～ニュース編集部
-  * ハモネプ優勝の人気アーティストが結婚「今後の人生を二人で支え合いながら」
 よろず～ニュース編集部 よろず～ニュース編集部
 
 ６位以降を見る

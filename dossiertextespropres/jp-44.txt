@@ -1,24 +1,16 @@
 
 
-dur = 8 ,   total ;   dur =  ;   desc = " Total   Response Time " 
+dur = 8 ,   total ;   dur = ;   desc = " Total   Response Time " 
 
+  accept - ranges :   bytes   age :   8262   date :   Sun ,   04   Jan   2026   17 : 23 : 20   GMT 
 
-
-   accept - ranges :   bytes   age :   1   date :   Sun ,   04   Jan   2026   15 : 05 : 39   GMT 
-
-x - timer :   S  , VS 0 , VE 1604   vary : 
-
-
-
-
+x - timer :   , VS 0 , VE 2   vary : 
 
 AgkzE 0 SdPqccfaG 9 xo / nbroJVd 9 BqLU 0 uZCCQbV 46 yVUMHh 4 r 8 RDCAWLKP 8 BgMPiXpQLpE / b 2 F 9 w + bJK 
 
 wTj 9 Zg 8 AAAB 1 eyJvcmlnaW 4 iOiJodHRwczovL 2 FtZWJsby 5 qcDo 0 NDMiLCJmZWF 0 dXJlIjoiU 2 VuZEZ 1 
 
 bGxVc 2 VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV 4 cGlyeSI 6 MTY 4 NDg 4 NjM 5 OSwiaXNTdWJkb 21 haW 4 i 
-
-
 
 
 
@@ -41,12 +33,6 @@ Ameba   ホームピグアメブロ
 
 
 昔 から ＆ 日頃 から 気 に なっ てる 事 を 徒然 なる まま に だらだら と 書き綴っ た エッセイ 風 blog です 。 
-
-
-
-
-
-
 
 
 
@@ -86,13 +72,11 @@ Ameba   ホームピグアメブロ
 
 冬 に なる と 、 ファー を オシャレ な 小道具 に 使っ た ファッション が 増え て 、 見 て い て 辛く なり ます (>_<) 。 
 
-
 動物 に 恐怖 と 苦痛 の 極み を 与え ながら 、 血しぶき と 悲鳴 の 中 で 剥ぎ取ら れ た 毛皮 は 、 この世 で １番 可哀相 な 動物 の 屍 に しか 見え ませ ん 。 
 
 欧米 で は 、 既に リアル ファー を 止める ムーブメント が 起き て い ます 。 
 
 しかし 、 日本 で は 、 まだ 冬 の ファッション アイテム と し て もてはやさ れ て い ます 。 
-
 
 「 国 つ 罪 」 は 、 世の中 に 汚れ を 生じ 、 天変 地異 を   引き起こす 原因 に なる 罪 です 。 
 
@@ -130,16 +114,4 @@ Ameba   ホームピグアメブロ
 
 
 
-
-
-
 Copyright   ©   CyberAgent ,   Inc .   All   Rights   Reserved .   CyberAgent 
-
-
-
-
-
-
-
-
-

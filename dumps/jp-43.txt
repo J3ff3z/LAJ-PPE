@@ -1,10 +1,7 @@
-HTTP/1.1 200 OK Date: Sun, 04 Jan 2026 15:05:31 GMT Server: Apache/2.4.41
-(Ubuntu) Vary: Accept-Encoding,Cookie Link: /mag.japaaan.com/wp-json/>;
-rel="https://api.w.org/" Link: /mag.japaaan.com/wp-json/wp/v2/posts/82737>;
-rel="alternate"; title="JSON"; type="application/json" Link:
-/mag.japaaan.com/?p=82737>; rel=shortlink Transfer-Encoding: chunked
-Content-Type: text/html; charset=UTF-8 #Japaaan » フィード JSON oEmbed (JSON) oEmbed
-(XML)
+HTTP/1.1 200 OK Date: Sun, 04 Jan 2026 17:23:14 GMT Server: Apache/2.4.41
+(Ubuntu) Vary: Accept-Encoding,Cookie Cache-Control: max-age=3, must-revalidate
+Transfer-Encoding: chunked Content-Type: text/html; charset=UTF-8 #Japaaan »
+フィード JSON oEmbed (JSON) oEmbed (XML)
 
 IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KGVD5T7
 

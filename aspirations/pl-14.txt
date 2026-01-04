@@ -1,0 +1,2620 @@
+HTTP/2 200 
+date: Sun, 04 Jan 2026 17:28:33 GMT
+content-type: text/html; charset=UTF-8
+server: OVHcloud
+x-powered-by: PHP/7.4
+vary: Accept-Encoding,Cookie
+set-cookie: tpg_post_views=%7B%2222091%22%3A1767547713%7D; expires=Mon, 05-Jan-2026 17:28:33 GMT; Max-Age=86400; path=/; secure
+link: <https://www.dabrowa-gornicza.pl/wp-json/>; rel="https://api.w.org/"
+link: <https://www.dabrowa-gornicza.pl/wp-json/wp/v2/news/22091>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://www.dabrowa-gornicza.pl/?p=22091>; rel=shortlink
+
+<!doctype html>
+<html lang="pl">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Grzechy w sztuce - Dąbrowa Górnicza</title>
+	<style>a {
+        outline-width: 0
+    }
+
+    button {
+        font-family: Ubuntu, sans-serif
+    }
+
+    #menubar .main-logo-link {
+        float: left;
+        position: relative;
+        z-index: 2
+    }
+
+    #menubar ul li img {
+        width: auto;
+        height: auto;
+        max-height: 3rem
+    }
+
+    .main-search {
+        z-index: 3
+    }
+
+    @media screen and (max-width: 768px) {
+        html #top-container #menubar ul li a .menu-icon img {
+            max-width: 2.2rem;
+            height: auto;
+            max-height: 2rem
+        }
+    }
+
+    #main-box #left {
+        background-image: none
+    }
+
+    #main-box #right .description-small {
+        max-width: 72%
+    }
+
+    .one-plus-four .left .photo-box {
+        background-image: none
+    }
+
+    .one-plus-four a {
+        color: inherit
+    }
+
+    .one-plus-four .right #box-display .col .a-container {
+        background-size: 100%;
+        background-repeat: no-repeat
+    }
+
+    @media screen and (max-width: 768px) {
+        #main-box #right .description-small {
+            max-width: none
+        }
+    }
+
+    #search-form + .error {
+        display: none
+    }
+
+    #footer-menu .inner-container.footer #link-box .lang-selector ul li {
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0
+    }
+
+    #footer-menu .inner-container.footer #link-box .lang-selector ul li a {
+        display: block;
+        width: 5.5rem;
+        font-size: inherit;
+        line-height: inherit;
+        font-weight: inherit;
+        color: inherit
+    }
+
+    .inner-container ul {
+        position: relative !important
+    }
+
+    ul.sub-menu {
+        display: none !important;
+        flex-direction: column !important;
+        position: absolute !important;
+        left: -25px;
+        background: #41ac35;
+        z-index: 999
+    }
+
+    ul.sub-menu li {
+        border-bottom: 1px solid #fff;
+        margin-right: 0 !important;
+        padding-left: 25px;
+        padding-right: 1rem
+    }
+
+    button::-moz-focus-inner {
+        padding: 0;
+        border: 0
+    }
+
+    #menubar ul li:nth-child(3) img {
+        max-height: 4rem
+    }
+
+    html:not(.impaired) #menubar ul li:nth-child(3) a {
+        color: #ffcb04 !important
+    }
+
+    .u-vh {
+        border: 0;
+        clip: rect(0 0 0 0);
+        -webkit-clip-path: inset(50%);
+        clip-path: inset(50%);
+        height: 1px;
+        margin: -1px;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+        white-space: nowrap
+    }
+
+    @media (min-width: 1024px) {
+        .inner-container #menubar ul {
+            padding-right: 50px
+        }
+
+        .inner-container #menubar #search {
+            bottom: 10px
+        }
+    }
+
+    #toolbar button {
+        border: none;
+        background-color: transparent
+    }
+
+    .m-vh-menu a {
+        position: fixed;
+        top: 0;
+        left: 0;
+        color: #fff;
+        padding: 20px;
+        background-color: #32841F;;
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 1.8rem
+    }
+
+    .m-shortcut {
+        max-width: 800px;
+        width: 100%;
+        margin: 0 auto;
+        padding: 30px;
+        background-color: #eee;
+        position: absolute;
+        top: 0;
+        left: 50%;
+        -webkit-transform: translateX(-50%) translateY(-120%);
+        transform: translateX(-50%) translateY(-120%);
+        z-index: 100;
+        -webkit-box-shadow: 10px 10px 10px rgba(0, 0, 0, .2);
+        box-shadow: 10px 10px 10px rgba(0, 0, 0, .2)
+    }
+
+    .m-shortcut__description {
+        font-size: 3rem;
+        font-weight: 700
+    }
+
+    .m-shortcut__list {
+        padding-top: 60px;
+        width: 100%;
+        padding-inline-start: 0
+    }
+
+    .m-shortcut__item {
+        text-align: left;
+        font-size: 1.7rem;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        padding-bottom: 15px;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between
+    }
+
+    .m-shortcut__item span:nth-child(1) {
+        padding-right: 20px
+    }
+
+    .pop-up-visit {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, .3);
+        z-index: 10000000;
+        display: none
+    }
+
+    .pop-up-visit__wrapper {
+        overflow-y: auto;
+        position: fixed;
+        top: 30px;
+        left: 50%;
+        width: calc(100vw - 60px);
+        max-width: 700px;
+        height: 88vh;
+        max-height: 489px;
+        margin: 0 auto;
+        transform: translateX(-50%);
+        background-color: #fff
+    }
+
+    .pop-up-visit__top {
+        height: 43%;
+        background-size: cover;
+        border-bottom: 3px solid #b9cd31
+    }
+
+    .pop-up-visit__close {
+        position: absolute;
+        top: 0;
+        right: 0;
+        height: 50px;
+        width: 50px;
+        font-size: 24px;
+        color: #fff;
+        z-index: 100000;
+        background-color: rgba(0, 0, 0, .7);
+        border: 0
+    }
+
+    .pop-up-visit__bottom {
+        padding: 30px
+    }
+
+    .pop-up-visit__content h2 {
+        margin: 0;
+        text-align: center;
+        font-size: 24px
+    }
+
+    .pop-up-visit__content p {
+        margin: 0;
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 52px;
+        line-height: 1.2
+    }
+
+    .pop-up-visit__link {
+        width: 80%;
+        max-width: 228px;
+        background-color: #00a837;
+        text-transform: uppercase;
+        font-size: 16px;
+        color: #fff;
+        display: flex;
+        justify-content: space-between;
+        margin: 0 auto;
+        height: 50px;
+        align-items: center;
+        padding: 0 15px 0 22px;
+        text-decoration: none;
+        font-family: sans-serif
+    }
+
+    .pop-up-visit__link::after {
+        content: "";
+        background-image: url(../images/icons/calendar.svg);
+        width: 20px;
+        height: 20px
+    }
+
+    .pop-up-visit__big-link {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0
+    }
+
+    @media (min-width: 768px) {
+        .pop-up-visit__wrapper {
+            top: 40px
+        }
+    }
+
+    @media (orientation: landscape) and (max-width: 1023px) {
+        .pop-up-visit__top {
+            height: 28%
+        }
+    }
+
+    @media (min-width: 1024px) {
+        .pop-up-visit__wrapper {
+            max-height: 660px
+        }
+
+        .pop-up-visit__content h2 {
+            font-size: 30px
+        }
+
+        .pop-up-visit__content p {
+            font-size: 20px;
+            margin-top: 40px
+        }
+    }
+
+    @media (min-width: 1366px) {
+        .pop-up-visit__content h2 {
+            font-size: 36px
+        }
+
+        .pop-up-visit__top {
+            height: 40%;
+            max-height: 260px
+        }
+
+        .pop-up-visit__content p {
+            font-size: 24px
+        }
+
+        .pop-up-visit__bottom {
+            padding: 63px 60px 73px
+        }
+    }
+
+    @media (min-width: 1600px) {
+        .pop-up-visit__wrapper {
+            top: 83px
+        }
+
+        .pop-up-visit__top {
+            height: 260px
+        }
+    }
+
+    .left, .right {
+        width: 48.78%
+    }
+
+    .inner-container {
+        max-width: 1230px;
+        width: 100%;
+        padding: 0;
+        margin: 0 auto
+    }
+
+    h1 {
+        text-transform: uppercase;
+        font-size: 3.4rem;
+        line-height: 4.2rem;
+        color: #464549
+    }
+
+    h2 {
+        color: #464549
+    }
+
+    p {
+        font-size: 1.6rem;
+        line-height: 2.4rem;
+        font-weight: lighter;
+        color: #5b5a5e
+    }
+
+    .dropdown .dropdown-selected {
+        display: none
+    }
+
+    .dropdown ul {
+        display: flex;
+        justify-content: space-around;
+        list-style: none;
+        padding: 0 2rem;
+        margin-bottom: 1.9rem;
+        margin-top: 0
+    }
+
+    .dropdown ul li {
+        display: inline-block;
+        line-height: 4rem
+    }
+
+    .dropdown ul li a {
+        color: #32841F;;
+        font-size: 1.5rem;
+        font-weight: lighter
+    }
+
+    #footer-menu .inner-container.footer ul {
+        list-style: none;
+        display: inline-block;
+        margin-top: 0;
+        vertical-align: top;
+        padding: 0;
+        margin: 0
+    }
+
+    #footer-menu .inner-container.footer ul:last-child {
+        margin-right: 10rem
+    }
+
+    #footer-menu .inner-container.footer ul li a {
+        font-size: 1.6rem;
+        color: #fff;
+        font-weight: 400;
+        line-height: 2.4rem
+    }
+
+    #footer-menu .inner-container.footer #link-box .lang-selector ul {
+        display: none;
+        position: absolute;
+        z-index: 10;
+        left: 0;
+        margin: 0;
+    }
+
+    #footer-menu .inner-container.footer #link-box .lang-selector ul li {
+        width: 7rem;
+        height: 3.6rem;
+        background-color: #fff;
+        border-radius: 1.8rem;
+        border-top: .1rem solid #dadadb
+    }
+
+    #footer-menu .inner-container.footer #link-box .lang-selector ul li:first-child {
+        border-radius: 0;
+        border-top: .1rem solid #a6a6a2
+    }
+
+    #footer-menu .inner-container.footer #link-box .lang-selector ul li:last-child {
+        border-radius: 0 0 1.8rem 1.8rem
+    }
+
+    .left-arrow, .right-arrow {
+        -webkit-touch-callout: none
+    }
+
+    #main-box {
+        padding-top: 2rem;
+        height: 72.2rem;
+        width: 100%;
+        display: flex;
+        justify-content: space-between
+    }
+
+    #main-box #left {
+        width: 67.19%;
+        height: 100%;
+        background-image: url(../images/photos/singer.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        position: relative;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        margin-right: 0
+    }
+
+    #main-box #right {
+        width: 32.13%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between
+    }
+
+    #main-box #right .small-box {
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        position: relative;
+        flex: 1;
+        margin-bottom: 1rem;
+        background-size: cover;
+        background-position: center center
+    }
+
+    #main-box #right .small-box:last-child {
+        margin-bottom: 0
+    }
+
+    #main-box #right a {
+        display: flex;
+        justify-content: flex-end;
+        flex-direction: column
+    }
+
+    #main-box a {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        background-color: rgba(255, 255, 255, 0)
+    }
+
+    .description-big {
+        background-color: #fff;
+        padding: 4rem;
+        width: 65.12%;
+        box-sizing: border-box;
+        left: 17.44%;
+        position: absolute;
+        bottom: 0
+    }
+
+    .description-big h1 {
+        padding: 0;
+        margin: 0;
+        text-transform: uppercase;
+        font-size: 3.4rem;
+        font-weight: 700
+    }
+
+    .description-big p {
+        padding: 0;
+        margin: 0;
+        margin-top: 1.5rem;
+        font-size: 1.6rem;
+        line-height: 2.4rem;
+        font-weight: lighter
+    }
+
+    .description-small {
+        background-color: #fff;
+        padding: 5px 15px;
+        display: inline-block
+    }
+
+    .description-small h2 {
+        padding: 0;
+        margin: 0;
+        text-transform: uppercase;
+        font-size: 18px;
+        font-weight: 700
+    }
+
+    .description-small p {
+        margin-top: 8px;
+        margin-bottom: .3rem;
+        font-size: 12px;
+        line-height: 1.7rem
+    }
+
+    html {
+        font-size: 62.5%
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Ubuntu, sans-serif;
+        text-align: center;
+        font-size: 10px
+    }
+
+    body #container {
+        max-width: 1600px;
+        width: 100%;
+        display: inline-block;
+        background: url(../images/backgrounds/site.jpg) 0 18rem repeat-y;
+        position: relative
+    }
+
+    body #container .inner-container {
+        text-align: left;
+        max-width: 1230px;
+        width: 100%;
+        height: 100%;
+        position: relative;
+        box-sizing: border-box
+    }
+
+    .mobile-menu {
+        display: none
+    }
+
+    a {
+        text-decoration: none
+    }
+
+    @media (max-width: 1024px) {
+        html {
+            font-size: 50%
+        }
+
+        #footer-menu .inner-container.footer ul {
+            margin-left: 5rem
+        }
+    }
+
+    @media (max-width: 1290px) {
+        .inner-container {
+            padding-left: 3rem;
+            padding-right: 3rem;
+            box-sizing: border-box
+        }
+
+        #search {
+            margin-right: 0
+        }
+    }
+
+    .white-bg {
+        background-color: #fff;
+        width: 100%
+    }
+
+    #menubar {
+        min-height: 6rem;
+        text-align: right;
+        padding: 2rem 0
+    }
+
+    #menubar .main-logo {
+        float: left;
+        width: 18.6rem;
+        height: 6.1rem
+    }
+
+    #menubar ul {
+        list-style: none;
+        padding: 0;
+        padding-right: 0;
+        margin: 0;
+        min-height: 5rem;
+        position: relative;
+        top: .3rem
+    }
+
+    #menubar ul li {
+        text-transform: uppercase;
+        font-size: 1.1rem;
+        font-weight: 700;
+        display: inline-block;
+        text-align: center;
+        line-height: 3rem;
+        margin-left: 2rem
+    }
+
+    #menubar ul li .menu-icon {
+        min-height: 2rem
+    }
+
+    #menubar ul li img {
+        display: block;
+        margin: 0 auto
+    }
+
+    #menubar ul li a {
+        color: #000;
+        text-decoration: none;
+        display: block;
+        width: 100%;
+        height: 100%
+    }
+
+    #top-container {
+        position: relative
+    }
+
+    #nav-bar {
+        background: url(../images/greenbar.png) center 0 no-repeat;
+        min-height: 5rem;
+        position: relative;
+        background-size: cover
+    }
+
+    #nav-bar ul {
+        padding-left: 0;
+        list-style: none;
+        display: inline-block;
+        margin: 0
+    }
+
+    #nav-bar ul li {
+        display: inline-block;
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 1.6rem;
+        font-weight: 700;
+        margin-right: 1rem;
+        line-height: 5rem
+    }
+
+    #nav-bar ul li a {
+        color: #fff;
+        text-decoration: none
+    }
+
+    #nav-bar .menu-calendar {
+        background-color: #eae100
+    }
+
+    #nav-bar .menu-calendar a {
+        color: #000;
+        padding: 0 10px
+    }
+
+    #search {
+        background: url(../images/icons/search.svg) center center no-repeat;
+        height: 5rem;
+        width: 5rem;
+        position: absolute;
+        right: 0;
+        bottom: 0
+    }
+
+    @media (min-width: 768px) {
+        #search {
+            right: -30px;
+            bottom: 30px
+        }
+    }
+
+    #search p {
+        display: none
+    }
+
+    .main-search {
+        width: 100%;
+        height: 19.5rem;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: #a2a2a4;
+        line-height: 5rem;
+        text-align: center;
+        display: none;
+        opacity: 0
+    }
+
+    .main-search .column-container {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        height: 100%;
+        justify-content: center;
+        position: relative;
+        margin-top: -1%
+    }
+
+    .main-search .column-container form {
+        display: inline-block;
+        background-color: #fff;
+        width: 100%;
+        font-family: Ubuntu, sans-serif;
+        position: relative;
+        text-align: left
+    }
+
+    .main-search .column-container form input {
+        line-height: 5rem;
+        border: none;
+        width: 70%;
+        padding-left: 3rem;
+        font-family: Ubuntu, sans-serif;
+        font-size: 1.3rem
+    }
+
+    .main-search .column-container form input::-webkit-input-placeholder {
+        color: #464549;
+        font-family: Ubuntu, sans-serif;
+        font-size: 1.3rem
+    }
+
+    .main-search .column-container form input::-moz-placeholder {
+        color: #464549;
+        font-family: Ubuntu, sans-serif;
+        font-size: 1.3rem
+    }
+
+    .main-search .column-container form input:-ms-input-placeholder {
+        color: #464549;
+        font-family: Ubuntu, sans-serif;
+        font-size: 1.3rem
+    }
+
+    .main-search .column-container form input:-moz-placeholder {
+        color: #464549;
+        font-family: Ubuntu, sans-serif;
+        font-size: 1.3rem
+    }
+
+    .main-search .column-container #search-submit-button {
+        display: inline-block;
+        background-color: #a2a2a4;
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 1.4rem;
+        font-weight: 700;
+        padding: 1rem 5rem;
+        position: absolute;
+        right: 1.2rem;
+        top: 1rem;
+        line-height: 1.4rem
+    }
+
+    .main-search .column-container #close-search {
+        align-self: flex-end;
+        background: url(../images/icons/close-white.svg) center center no-repeat;
+        background-size: 2.5rem 2.5rem;
+        height: 5rem;
+        width: 2.5rem
+    }
+
+    .main-search .column-container .error {
+        display: none
+    }
+
+    .one-plus-four {
+        max-width: 1230px;
+        width: 100%;
+        padding: 0;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 6rem
+    }
+
+    .one-plus-four a {
+        background-color: rgba(255, 255, 255, 0);
+        display: flex;
+        justify-content: flex-end;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        color: #464549
+    }
+
+    .one-plus-four .left {
+        width: 48.78%;
+        text-align: center
+    }
+
+    .one-plus-four .left h1 {
+        width: 95.83%;
+        display: inline-block;
+        text-align: left;
+        color: #fff;
+        font-size: 2.4rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        padding-left: 2.5rem;
+        height: 4rem;
+        line-height: 4rem;
+        margin-bottom: 2rem;
+        margin-top: 0;
+        background: -webkit-linear-gradient(left, #3d9f26, rgba(255, 255, 255, 0) 75%);
+        background: -o-linear-gradient(left, #3d9f26, rgba(255, 255, 255, 0) 75%);
+        background: -moz-linear-gradient(left, #3d9f26, rgba(255, 255, 255, 0) 75%);
+        background: linear-gradient(left, #3d9f26, rgba(255, 255, 255, 0) 75%)
+    }
+
+    .one-plus-four .left .photo-box {
+        width: 100%;
+        height: 62rem;
+        display: flex;
+        align-items: flex-end;
+        background: url(../images/photos/weekend.jpg) center 0 no-repeat
+    }
+
+    .one-plus-four .right {
+        width: 48.78%;
+        text-align: center
+    }
+
+    .one-plus-four .right #box-display {
+        width: 100%;
+        height: 62rem;
+        display: flex;
+        justify-content: space-between
+    }
+
+    .one-plus-four .right #box-display .col {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 47.5%
+    }
+
+    .one-plus-four .right #box-display .col .a-container {
+        height: 47.5%;
+        display: flex;
+        justify-content: flex-end;
+        background-size: cover
+    }
+
+    @media (max-width: 768px) {
+        html {
+            font-size: 62.5%;
+            height: 100%
+        }
+
+        html body {
+            height: 100%
+        }
+
+        html body #container {
+            overflow-x: hidden;
+            position: relative
+        }
+
+        html .mobile-menu {
+            height: 10rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #fff;
+            position: relative;
+            z-index: 100000
+        }
+
+        html .mobile-menu a {
+            margin-left: 2rem
+        }
+
+        html .mobile-menu a img {
+            height: 4.5rem
+        }
+
+        html .mobile-menu .mobile-menu-click {
+            width: 3rem;
+            height: 2.5rem;
+            margin-right: 2rem
+        }
+
+        html #top-container {
+            position: absolute;
+            top: -70rem;
+            z-index: 100000;
+            width: 100%
+        }
+
+        html #top-container #toolbar {
+            height: initial
+        }
+
+        html #top-container #toolbar li {
+            display: block;
+            background-color: #fff;
+            border-bottom: .25rem solid #ededed
+        }
+
+        html #top-container #toolbar li .menu-icon {
+            display: inline-block;
+            width: 5rem;
+            text-align: center;
+            margin-left: -1.5rem
+        }
+
+        html #top-container #toolbar li .menu-icon img {
+            display: inline-block
+        }
+
+        html #top-container #toolbar li .menu-icon #bip-ico {
+            margin-right: 0
+        }
+
+        html #top-container #menubar {
+            height: initial;
+            padding: 0
+        }
+
+        html #top-container #menubar .main-logo {
+            display: none
+        }
+
+        html #top-container #menubar ul {
+            height: initial;
+            float: none;
+            margin-right: 0;
+            margin-top: 0;
+            top: 0
+        }
+
+        html #top-container #menubar ul li {
+            display: initial;
+            line-height: 3.4rem;
+            margin-left: 0;
+            text-align: left;
+            font-size: 1.3rem;
+            padding-right: 0
+        }
+
+        html #top-container #menubar ul li a {
+            background-color: #fff;
+            border-bottom: .1rem solid #ededed
+        }
+
+        html #top-container #menubar ul li a .menu-icon {
+            display: inline-block;
+            width: 5rem;
+            text-align: center
+        }
+
+        html #top-container #menubar ul li a .menu-icon img {
+            display: inline-block;
+            height: 2rem;
+            margin-right: 1rem;
+            position: relative;
+            top: .5rem;
+            margin-left: 1.5rem
+        }
+
+        html #top-container #nav-bar {
+            background: 0 0;
+            height: 280px
+        }
+
+        html #top-container #nav-bar ul {
+            width: 100%;
+            display: initial;
+            padding: 0
+        }
+
+        html #top-container #nav-bar ul li {
+            display: block;
+            background-color: #32841F;;
+            margin-right: 0;
+            padding: 0 1.5rem;
+            line-height: 3.4rem;
+            font-size: 1.3rem;
+            border-bottom: .1rem solid #ededed
+        }
+
+        html #top-container #nav-bar ul li.menu-calendar a {
+            color: #bef44a;
+            padding: 0
+        }
+
+        html .main-search {
+            position: fixed;
+            z-index: 1000;
+            height: 100%
+        }
+
+        html .main-search #search-form {
+            background: 0 0;
+            text-align: center
+        }
+
+        html .main-search #search-form #search-input {
+            width: 100%;
+            box-sizing: border-box
+        }
+
+        html .main-search #search-form #search-submit-button {
+            position: relative;
+            background-color: #fff;
+            color: #a2a2a4;
+            right: 0
+        }
+
+        html #main-box {
+            height: 36rem
+        }
+
+        html #main-box #left {
+            width: 100%;
+            position: relative
+        }
+
+        html #main-box #left .main-photo {
+            display: none
+        }
+
+        html #main-box #left .description-big {
+            padding: 2rem;
+            width: 82%;
+            left: 9%
+        }
+
+        html #main-box #left .description-big h1 {
+            font-size: 2.1rem;
+            line-height: 2.4rem
+        }
+
+        html #main-box #left .description-big p {
+            font-size: 1.1rem;
+            line-height: 1.4rem
+        }
+
+        html #main-box #right {
+            display: none
+        }
+
+        html .one-plus-four {
+            flex-direction: column
+        }
+
+        html .one-plus-four .left {
+            width: 85.62%;
+            margin-left: 7.19%;
+            margin-right: 7.19%;
+            box-sizing: border-box
+        }
+
+        html .one-plus-four .right {
+            width: initial
+        }
+
+        html .one-plus-four .right #box-display {
+            flex-direction: column;
+            width: initial;
+            height: initial
+        }
+
+        html .one-plus-four .right #box-display .col {
+            width: initial
+        }
+
+        html .one-plus-four .right #box-display .col .a-container {
+            margin: 3.6% 7.19%
+        }
+
+        html .one-plus-four .right #box-display .col .a-container:first-child {
+            margin-top: 7.19%
+        }
+    }
+
+    @media (max-width: 768px) {
+        html body .inner-container {
+            padding-left: 0;
+            padding-right: 0
+        }
+
+        html body .arrows {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: space-between;
+            z-index: 20
+        }
+
+        html body .arrows .left-arrow, html body .arrows .right-arrow {
+            height: 100%;
+            width: 5%;
+            background-size: 100% auto
+        }
+
+        html body .arrows .left-arrow {
+            background: url(../images/icons/thin-arrow-left.svg) left center no-repeat;
+            margin-left: 2rem
+        }
+
+        html body .arrows .right-arrow {
+            background: url(../images/icons/thin-arrow-right.svg) right center no-repeat;
+            margin-right: 2rem
+        }
+
+        html body .dropdown {
+            font-size: 1.5rem;
+            position: relative;
+            z-index: 50;
+            height: 3.6rem;
+            line-height: 3.6rem;
+            border: .1rem solid #adadaf;
+            border-radius: 1.8rem;
+            background-color: #fff
+        }
+
+        html body .dropdown .dropdown-selected {
+            display: block;
+            background: url(../images/icons/down-arrow-grey.svg) center right no-repeat;
+            background-size: 1.1rem .7rem;
+            margin: 0 2rem
+        }
+
+        html body .dropdown ul {
+            position: absolute;
+            display: none;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+            left: -.1rem
+        }
+
+        html body .dropdown ul li {
+            display: block;
+            height: 3.6rem;
+            line-height: 3.6rem;
+            width: 100%;
+            background-color: #fff;
+            border-top: .1rem solid #dadadb;
+            border-left: .1rem solid #adadaf;
+            border-right: .1rem solid #adadaf
+        }
+
+        html body .dropdown ul li:first-child {
+            border-top: .1rem solid #a6a6a2
+        }
+
+        html body .dropdown ul li:last-child {
+            border-radius: 0 0 1.8rem 1.8rem;
+            border-bottom: .1rem solid #adadaf
+        }
+
+        html body .dropdown ul li a {
+            display: block;
+            margin: 0 2rem;
+            color: #000
+        }
+
+        html body #aktualnosci .dropdown {
+            margin-left: 7.19%;
+            margin-right: 7.19%
+        }
+    }
+
+    @media (max-width: 768px) {
+        .one-plus-four .right #box-display .col .a-container {
+            height: 42rem
+        }
+    }
+
+    @media (max-width: 480px) {
+        .one-plus-four .right #box-display .col .a-container {
+            height: 30rem
+        }
+    }
+
+    @media (max-width: 320px) {
+        .one-plus-four .right #box-display .col .a-container {
+            height: 25rem
+        }
+    }
+
+    #toolbar-container {
+        border-bottom: .1rem solid #ededed
+    }
+
+    #toolbar {
+        padding-left: 0;
+        font-size: 0;
+        min-height: 3.4rem;
+        list-style: none;
+        margin-top: 0;
+        margin-bottom: 0
+    }
+
+    #toolbar a {
+        color: #000;
+        display: block;
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        margin: 0
+    }
+
+    #toolbar li {
+        font-size: 1.3rem;
+        display: inline-block;
+        border-left: .1rem solid #ededed;
+        padding: 0 1.5rem;
+        white-space: nowrap;
+        line-height: 3.4rem
+    }
+
+    #toolbar li .menu-icon {
+        display: inline-block
+    }
+
+    #toolbar li:last-child {
+        border-right: .1rem solid #ededed
+    }
+
+    #toolbar #contrast-ico {
+        margin-right: .5rem;
+        position: relative;
+        top: .2rem;
+        height: 1.7rem
+    }
+
+    #toolbar #wheelchair-ico {
+        margin-right: .5rem;
+        position: relative;
+        top: .4rem;
+        height: 1.8rem
+    }
+
+    #toolbar .decrease-size {
+        display: inline-block
+    }
+
+    #toolbar .decrease-size #minus-ico {
+        display: inline-block;
+        height: 1.5rem;
+        width: 1.5rem;
+        margin-left: .5rem;
+        margin-right: .3rem;
+        position: relative;
+        top: .3rem
+    }
+
+    #toolbar .increase-size {
+        display: inline-block
+    }
+
+    #toolbar .increase-size #plus-ico {
+        display: inline-block;
+        height: 1.5rem;
+        width: 1.5rem;
+        margin-left: .3rem;
+        position: relative;
+        top: .3rem
+    }
+
+    #toolbar .reset-size {
+        display: inline-block
+    }
+
+    #toolbar .reset-size #a {
+        text-align: center;
+        height: 2.2rem;
+        width: 2.2rem;
+        line-height: 2.2rem;
+        border-radius: 1.1rem;
+        background-color: #ededed
+    }
+
+    #toolbar #bip-ico {
+        height: 1.8rem;
+        margin-right: .5rem;
+        position: relative;
+        top: .4rem
+    }</style>	<link rel="apple-touch-icon" sizes="180x180" href="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/favicon/apple-touch-icon.png?ver=1698148733">
+	<link rel="icon" type="image/png" href="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/favicon/favicon-32x32.png?ver=1698148733" sizes="32x32">
+	<link rel="icon" type="image/png" href="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/favicon/favicon-16x16.png?ver=1698148733" sizes="16x16">
+	<link rel="manifest" href="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/favicon/manifest.json">
+	<link rel="mask-icon" href="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/favicon/safari-pinned-tab.svg?ver=1698148733" color="#ffffff">
+	<link rel="shortcut icon" href="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/favicon/favicon.ico?ver=1698148733">
+	<meta name="theme-color" content="#ffffff">
+	<!--[if lt IE 9]>
+	<script src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/js-libraries/html5.js"></script>
+	<![endif]-->
+	<script type="text/javascript">
+		var _baseUrl = 'https://www.dabrowa-gornicza.pl';
+		var _themeUrl = 'https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza';
+	</script>
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v26.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://www.dabrowa-gornicza.pl/aktualnosci/grzechy-w-sztuce/" />
+	<meta property="og:locale" content="pl_PL" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Grzechy w sztuce - Dąbrowa Górnicza" />
+	<meta property="og:description" content="Co traktujemy jako grzech? Czym dla nas jest moralność? O co zabiegamy? Co budzi nasze pożądanie, gniew czy zazdrość? Artystyczne wypowiedzi na te tematy można..." />
+	<meta property="og:url" content="https://www.dabrowa-gornicza.pl/aktualnosci/grzechy-w-sztuce/" />
+	<meta property="og:site_name" content="Dąbrowa Górnicza" />
+	<meta property="og:image" content="https://www.dabrowa-gornicza.pl/wp-content/uploads/2019/01/20180320-115-pl-dg-centrum-pkz-10-siedem-grzechow-glownych.jpg" />
+	<meta property="og:image:width" content="1088" />
+	<meta property="og:image:height" content="725" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Szacowany czas czytania" />
+	<meta name="twitter:data1" content="2 minuty" />
+	<meta name="twitter:label2" content="Written by" />
+	<meta name="twitter:data2" content="pkedzior" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.dabrowa-gornicza.pl/aktualnosci/grzechy-w-sztuce/","url":"https://www.dabrowa-gornicza.pl/aktualnosci/grzechy-w-sztuce/","name":"Grzechy w sztuce - Dąbrowa Górnicza","isPartOf":{"@id":"https://www.dabrowa-gornicza.pl/#website"},"primaryImageOfPage":{"@id":"https://www.dabrowa-gornicza.pl/aktualnosci/grzechy-w-sztuce/#primaryimage"},"image":{"@id":"https://www.dabrowa-gornicza.pl/aktualnosci/grzechy-w-sztuce/#primaryimage"},"thumbnailUrl":"https://www.dabrowa-gornicza.pl/wp-content/uploads/2019/01/20180320-115-pl-dg-centrum-pkz-10-siedem-grzechow-glownych.jpg","datePublished":"2019-01-19T06:50:37+00:00","breadcrumb":{"@id":"https://www.dabrowa-gornicza.pl/aktualnosci/grzechy-w-sztuce/#breadcrumb"},"inLanguage":"pl-PL","potentialAction":[{"@type":"ReadAction","target":["https://www.dabrowa-gornicza.pl/aktualnosci/grzechy-w-sztuce/"]}]},{"@type":"ImageObject","inLanguage":"pl-PL","@id":"https://www.dabrowa-gornicza.pl/aktualnosci/grzechy-w-sztuce/#primaryimage","url":"https://www.dabrowa-gornicza.pl/wp-content/uploads/2019/01/20180320-115-pl-dg-centrum-pkz-10-siedem-grzechow-glownych.jpg","contentUrl":"https://www.dabrowa-gornicza.pl/wp-content/uploads/2019/01/20180320-115-pl-dg-centrum-pkz-10-siedem-grzechow-glownych.jpg","width":1088,"height":725},{"@type":"BreadcrumbList","@id":"https://www.dabrowa-gornicza.pl/aktualnosci/grzechy-w-sztuce/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Strona główna","item":"https://www.dabrowa-gornicza.pl/"},{"@type":"ListItem","position":2,"name":"Aktualności","item":"https://www.dabrowa-gornicza.pl/aktualnosci/"},{"@type":"ListItem","position":3,"name":"Grzechy w sztuce"}]},{"@type":"WebSite","@id":"https://www.dabrowa-gornicza.pl/#website","url":"https://www.dabrowa-gornicza.pl/","name":"Dąbrowa Górnicza","description":"Portal Miejski","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dabrowa-gornicza.pl/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"pl-PL"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//unpkg.com' />
+<link href='https://fonts.gstatic.com' crossorigin='anonymous' rel='preconnect' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.dabrowa-gornicza.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dabrowa-gornicza.pl%2Faktualnosci%2Fgrzechy-w-sztuce%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.dabrowa-gornicza.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dabrowa-gornicza.pl%2Faktualnosci%2Fgrzechy-w-sztuce%2F&#038;format=xml" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.10.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+		<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+					<!-- No tracking code set -->
+				<!-- / Google Analytics by MonsterInsights -->
+		<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{
+  --wp-block-synced-color:#7a00df;
+  --wp-block-synced-color--rgb:122, 0, 223;
+  --wp-bound-block-color:var(--wp-block-synced-color);
+  --wp-editor-canvas-background:#ddd;
+  --wp-admin-theme-color:#007cba;
+  --wp-admin-theme-color--rgb:0, 124, 186;
+  --wp-admin-theme-color-darker-10:#006ba1;
+  --wp-admin-theme-color-darker-10--rgb:0, 107, 160.5;
+  --wp-admin-theme-color-darker-20:#005a87;
+  --wp-admin-theme-color-darker-20--rgb:0, 90, 135;
+  --wp-admin-border-width-focus:2px;
+}
+@media (min-resolution:192dpi){
+  :root{
+    --wp-admin-border-width-focus:1.5px;
+  }
+}
+.wp-element-button{
+  cursor:pointer;
+}
+
+:root .has-very-light-gray-background-color{
+  background-color:#eee;
+}
+:root .has-very-dark-gray-background-color{
+  background-color:#313131;
+}
+:root .has-very-light-gray-color{
+  color:#eee;
+}
+:root .has-very-dark-gray-color{
+  color:#313131;
+}
+:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{
+  background:linear-gradient(135deg, #00d084, #0693e3);
+}
+:root .has-purple-crush-gradient-background{
+  background:linear-gradient(135deg, #34e2e4, #4721fb 50%, #ab1dfe);
+}
+:root .has-hazy-dawn-gradient-background{
+  background:linear-gradient(135deg, #faaca8, #dad0ec);
+}
+:root .has-subdued-olive-gradient-background{
+  background:linear-gradient(135deg, #fafae1, #67a671);
+}
+:root .has-atomic-cream-gradient-background{
+  background:linear-gradient(135deg, #fdd79a, #004a59);
+}
+:root .has-nightshade-gradient-background{
+  background:linear-gradient(135deg, #330968, #31cdcf);
+}
+:root .has-midnight-gradient-background{
+  background:linear-gradient(135deg, #020381, #2874fc);
+}
+:root{
+  --wp--preset--font-size--normal:16px;
+  --wp--preset--font-size--huge:42px;
+}
+
+.has-regular-font-size{
+  font-size:1em;
+}
+
+.has-larger-font-size{
+  font-size:2.625em;
+}
+
+.has-normal-font-size{
+  font-size:var(--wp--preset--font-size--normal);
+}
+
+.has-huge-font-size{
+  font-size:var(--wp--preset--font-size--huge);
+}
+
+.has-text-align-center{
+  text-align:center;
+}
+
+.has-text-align-left{
+  text-align:left;
+}
+
+.has-text-align-right{
+  text-align:right;
+}
+
+.has-fit-text{
+  white-space:nowrap !important;
+}
+
+#end-resizable-editor-section{
+  display:none;
+}
+
+.aligncenter{
+  clear:both;
+}
+
+.items-justified-left{
+  justify-content:flex-start;
+}
+
+.items-justified-center{
+  justify-content:center;
+}
+
+.items-justified-right{
+  justify-content:flex-end;
+}
+
+.items-justified-space-between{
+  justify-content:space-between;
+}
+
+.screen-reader-text{
+  border:0;
+  clip-path:inset(50%);
+  height:1px;
+  margin:-1px;
+  overflow:hidden;
+  padding:0;
+  position:absolute;
+  width:1px;
+  word-wrap:normal !important;
+}
+
+.screen-reader-text:focus{
+  background-color:#ddd;
+  clip-path:none;
+  color:#444;
+  display:block;
+  font-size:1em;
+  height:auto;
+  left:5px;
+  line-height:normal;
+  padding:15px 23px 14px;
+  text-decoration:none;
+  top:5px;
+  width:auto;
+  z-index:100000;
+}
+html :where(.has-border-color){
+  border-style:solid;
+}
+
+html :where([style*=border-top-color]){
+  border-top-style:solid;
+}
+
+html :where([style*=border-right-color]){
+  border-right-style:solid;
+}
+
+html :where([style*=border-bottom-color]){
+  border-bottom-style:solid;
+}
+
+html :where([style*=border-left-color]){
+  border-left-style:solid;
+}
+
+html :where([style*=border-width]){
+  border-style:solid;
+}
+
+html :where([style*=border-top-width]){
+  border-top-style:solid;
+}
+
+html :where([style*=border-right-width]){
+  border-right-style:solid;
+}
+
+html :where([style*=border-bottom-width]){
+  border-bottom-style:solid;
+}
+
+html :where([style*=border-left-width]){
+  border-left-style:solid;
+}
+html :where(img[class*=wp-image-]){
+  height:auto;
+  max-width:100%;
+}
+:where(figure){
+  margin:0 0 1em;
+}
+
+html :where(.is-position-sticky){
+  --wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height, 0px);
+}
+
+@media screen and (max-width:600px){
+  html :where(.is-position-sticky){
+    --wp-admin--admin-bar--position-offset:0px;
+  }
+}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style><style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<style id='core-block-supports-inline-css' type='text/css'>
+/**
+ * Core styles: block-supports
+ */
+
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/**
+ * These rules are needed for backwards compatibility.
+ * They should match the button element rules in the base theme.json file.
+ */
+.wp-block-button__link {
+	color: #ffffff;
+	background-color: #32373c;
+	border-radius: 9999px; /* 100% causes an oval, but any explicit but really high value retains the pill shape. */
+
+	/* This needs a low specificity so it won't override the rules from the button element if defined in theme.json. */
+	box-shadow: none;
+	text-decoration: none;
+
+	/* The extra 2px are added to size solids the same as the outline versions.*/
+	padding: calc(0.667em + 2px) calc(1.333em + 2px);
+
+	font-size: 1.125em;
+}
+
+.wp-block-file__button {
+	background: #32373c;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+/*# sourceURL=/wp-includes/css/classic-themes.css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.dabrowa-gornicza.pl/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsm_ac-font-awesome-front-css' href='https://www.dabrowa-gornicza.pl/wp-content/plugins/responsive-accordion-and-collapse/css/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsm_ac_bootstrap-front-css' href='https://www.dabrowa-gornicza.pl/wp-content/plugins/responsive-accordion-and-collapse/css/bootstrap-front.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rt-fontawsome-css' href='https://www.dabrowa-gornicza.pl/wp-content/plugins/the-post-grid/assets/vendor/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rt-tpg-css' href='https://www.dabrowa-gornicza.pl/wp-content/plugins/the-post-grid/assets/css/thepostgrid.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='leaflet-maps-css-css' href='https://unpkg.com/leaflet@1.7.1/dist/leaflet.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/css/magnific-popup.css' type='text/css' media='all' />
+<link rel='stylesheet' id='main-style-css' href='https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/style.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-includes/js/jquery/jquery.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-includes/js/jquery/jquery-migrate.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="ajax-js-extra">
+/* <![CDATA[ */
+var params = {"ajaxurl":"https://www.dabrowa-gornicza.pl/wp-admin/admin-ajax.php","posts":"{\"post_type\":\"dgm_aktualnosci\",\"order\":\"ASC\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"all\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"posts_per_page\":8,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false}","current_page":"1","max_page":"765","posts_per_page":"4","orderby":"date","post_type":"dgm_aktualnosci","id":"22091"};
+//# sourceURL=ajax-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/js/ajax.js" id="ajax-js"></script>
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/js-libraries/jquery-ui.min.js" id="jquery-ui-custom-js"></script>
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/js-libraries/jquery.bxslider.min.js" id="bx-slider-js"></script>
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/js-libraries/jquery.magnific-popup.min.js" id="magnific-popup-js"></script>
+<link rel="https://api.w.org/" href="https://www.dabrowa-gornicza.pl/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.dabrowa-gornicza.pl/wp-json/wp/v2/news/22091" /><link rel='shortlink' href='https://www.dabrowa-gornicza.pl/?p=22091' />
+<!-- start Simple Custom CSS and JS -->
+<script type="text/javascript">
+
+(function () {
+  function paragraphize(root = document) {
+    // Tylko panele FAQ, TYLKO gdy nie ma już <p>
+    root.querySelectorAll('.wpsm_panel-body').forEach(function (el) {
+      if (el.querySelector('p')) return;
+
+      let html = el.innerHTML.trim();
+      if (!html) return;
+
+      // Normalizacja końców linii
+      html = html.replace(/\r\n/g, '\n');
+
+      // Podwójne nowe linie => nowy akapit
+      html = html.replace(/\n{2,}/g, '</p><p>');
+
+      // Pojedyncze nowe linie => <br>
+      html = html.replace(/\n/g, '<br>');
+
+      el.innerHTML = '<p>' + html + '</p>';
+    });
+  }
+
+  function cleanLists(root = document) {
+    const lists = root.querySelectorAll('.wpsm_panel-body ul, .wpsm_panel-body ol');
+
+    lists.forEach(list => {
+      // <br> jako bezpośrednie dzieci listy (między <li>)
+      list.querySelectorAll(':scope > br').forEach(br => br.remove());
+
+      // puste węzły tekstowe bezpośrednio w <ul>/<ol>
+      Array.from(list.childNodes).forEach(n => {
+        if (n.nodeType === 3 && n.nodeValue.trim() === '') list.removeChild(n);
+      });
+
+      // porządki w każdym <li>
+      list.querySelectorAll('li').forEach(li => {
+        // leading <br>
+        while (li.firstChild && li.firstChild.nodeType === 1 && li.firstChild.tagName === 'BR') {
+          li.removeChild(li.firstChild);
+        }
+        // trailing <br>
+        while (li.lastChild && li.lastChild.nodeType === 1 && li.lastChild.tagName === 'BR') {
+          li.removeChild(li.lastChild);
+        }
+        // trailing białe znaki
+        while (li.lastChild && li.lastChild.nodeType === 3 && li.lastChild.nodeValue.trim() === '') {
+          li.removeChild(li.lastChild);
+        }
+        // puste <p> w li
+        li.querySelectorAll('p').forEach(p => {
+          const txt = p.innerHTML.replace(/ |\u00A0/g, '').replace(/<br\s*\/?>/gi, '').trim();
+          if (!txt) p.remove();
+        });
+      });
+    });
+
+    // puste <p> w panelu (po akapityzacji)
+    root.querySelectorAll('.wpsm_panel-body p').forEach(p => {
+      const txt = p.innerHTML.replace(/ |\u00A0/g, '').replace(/<br\s*\/?>/gi, '').trim();
+      if (!txt) p.remove();
+    });
+  }
+
+  function runAll(scope = document) {
+    paragraphize(scope);   // najpierw zamień surowy tekst na <p>/<br>
+    cleanLists(scope);     // potem sprzątnij <br> w listach i puste <p>
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    runAll();
+
+    // Obserwuj akordeony (po otwarciu/ładowaniu nowych paneli)
+    const obs = new MutationObserver(muts => {
+      for (const m of muts) {
+        if (m.type === 'childList') {
+          m.addedNodes.forEach(node => {
+            if (!(node instanceof Element)) return;
+            if (
+              node.matches?.('.wpsm_panel-body') ||
+              node.closest?.('.wpsm_panel-body') ||
+              node.querySelector?.('.wpsm_panel-body')
+            ) {
+              const scope = node.matches?.('.wpsm_panel-body') ? node :
+                            node.closest?.('.wpsm_panel-body') || node;
+              runAll(scope);
+            }
+          });
+        }
+      }
+    });
+    obs.observe(document.body, { childList: true, subtree: true });
+  });
+})();
+
+</script>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.rt-detail {text-align: center; color: #000;}
+.rt-detail a {color: #000;}
+.tpg-shortcode-main-wrapper .isotope1 .rt-detail .tpg-excerpt, .tpg-shortcode-main-wrapper .layout1 .rt-detail .tpg-excerpt {
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.wpsm_panel-body a {text-decoration: underline!important;}
+
+/* Mniejsze odstępy list w treści akordeonu */
+.wpsm_panel-body ul,
+.wpsm_panel-body ol {
+  margin: 0 0 .75rem 1.25rem !important; /* dół + wcięcie */
+  padding: 0 !important;
+  list-style-position: outside !important;
+}
+
+.wpsm_panel-body li {
+  margin: .2em 0 !important;   /* pionowy odstęp między <li> */
+  line-height: 1.5 !important; /* ciaśniej niż 1.6–1.8 z motywu */
+}
+
+.fa-laptop:before {display: none!important;}
+#wpsm_accordion_190653 .ac_title_class {padding-left: 0!important;}
+#wpsm_accordion_190653 .wpsm_panel-body {padding-left: 25px!important;}</style>
+<!-- end Simple Custom CSS and JS -->
+        <style>
+            :root {
+                --tpg-primary-color: #0d6efd;
+                --tpg-secondary-color: #0654c4;
+                --tpg-primary-light: #c4d0ff
+            }
+
+                    </style>
+			<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//mutombo.dg.pl/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '3']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+
+</head>
+
+<body class="wp-singular dgm_aktualnosci-template-default single single-dgm_aktualnosci postid-22091 wp-theme-dabrowa-gornicza rttpg rttpg-7.8.8 radius-frontend rttpg-body-wrap rttpg-flaticon">
+	<div id="fb-root"></div>
+	<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v10.0" nonce="ztEIiSam"></script>
+	<div id="container" >
+
+		
+		<div class=" m-vh-menu" id="accessibility-menu">
+
+			<a class="u-vh m-vh-menu__nav" href="#nav-bar" tabindex="1">
+				Przejdź do menu głównego
+			</a>
+			<a class="u-vh m-vh-menu__search" href="#search" tabindex="1">
+				Przejdź do wyszukiwarki
+			</a>
+							<a class="u-vh m-vh-menu__content" href="#artykul" tabindex="1">
+					Przejdź do treści
+				</a>
+			
+		</div>
+
+		<div class="white-bg">
+			<div class="mobile-menu">
+				<a href="https://www.dabrowa-gornicza.pl/" title="Dąbrowa Górnicza">
+					<img src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/dg-logo.png" alt="Dąbrowa Górnicza Logo">
+				</a>
+				<img src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/icons/hamburger.svg" class="mobile-menu-click" alt="Ikona hamburger menu">
+			</div>
+
+			<div id="top-container">
+				<div id="toolbar-container">
+					<div class="inner-container">
+						<ul id="toolbar">
+							<li>
+								<a href="#">
+									<span class="u-vh">Wersja dla niedowidzących</span>
+									<img src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/icons/blind.svg" id="contrast-ico" alt="" />Wersja dla niedowidzących
+								</a>
+							</li>
+																						<li>
+									<a href="https://www.dabrowa-gornicza.pl/dostepnosc/">
+										<img src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/icons/accessibility.svg" id="wheelchair-ico" alt="" /> Wersja dla niepełnosprawnych									</a>
+								</li>
+														<li class="font-size">
+								<span id="font-size-text">Wielkość czcionki</span>
+
+								<button class="decrease-size">
+									<!-- <img src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/icons/font_minus.svg" id="minus-ico" /> -->
+									<svg aria-label="zmniejsz rozmiar czcionki" role="img" version="1.0" id="minus-ico" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="62px" height="62px" viewBox="0 0 62 62" style="enable-background:new 0 0 62 62;" xml:space="preserve">
+										<g>
+											<circle cx="31" cy="31" r="29" fill="transparent" stroke-width="3.5" stroke="black" />
+											<rect x="17.75" y="29" width="26.5" height="4" stroke="black" />
+										</g>
+									</svg>
+									<span class="u-vh">Zmniejsz rozmiar czcionki</span>
+								</button>
+								<button class="reset-size">
+									<span id="a" aria-hidden="true">A</span>
+								</button>
+								<button class="increase-size">
+									<!-- <img src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/icons/font_plus.svg" id="plus-ico" /> -->
+									<svg aria-label="zwiększ rozmiar czcionki" role="img" version="1.0" id="plus-ico" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="62px" height="62px" viewBox="0 0 62 62" style="enable-background:new 0 0 62 62;" xml:space="preserve">
+										<g>
+											<circle cx="31" cy="31" r="29" fill="transparent" stroke-width="3.5" stroke="black" />
+											<polygon points="33,17.75 29,17.75 29,29 17.75,29 17.75,33 29,33 29,44.25 33,44.25 33,33 44.25,33 44.25,29 33,29" stroke="black" />
+										</g>
+									</svg>
+									<span class="u-vh">Zwiększ rozmiar czcionki</span>
+								</button>
+							</li>
+																						<li>
+									<a href="http://www.bip.dabrowa-gornicza.pl" target="_blank">
+										<div class="menu-icon">
+											<img src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/icons/bip.svg" id="bip-ico" alt="Ikona BIP" />
+										</div>
+										BIP
+									</a>
+								</li>
+								<li class="ue-link">
+									<a href="https://www.dabrowa-gornicza.pl/o-miescie/projekty-wspolfinansowane/dofinansowanie-unijne/"><img src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/icons/ue-flag.png" alt="flaga UE" /></a>
+								</li>
+								<li>
+									<button type="button" id="shortcut-btn">
+
+										Skróty klawiszowe
+
+									</button>
+
+								</li>
+														<li id="gtranslate_desktop">
+								<div class="gtranslate_wrapper" id="gt-wrapper-62001799"></div>							</li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="inner-container">
+					<div id="menubar">
+						<a class="main-logo-link" href="https://www.dabrowa-gornicza.pl/" title="Dąbrowa Górnicza"><img class="main-logo" src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/dg-logo.png" alt="Logo Dąbrowa Górnicza" /></a>
+																			<ul>
+																	<li>
+										<a href="/aktualnosci/sprzedaz-nieruchomosci/" >
+											<div class="menu-icon">
+												<img src="https://www.dabrowa-gornicza.pl/wp-content/uploads/2023/09/380809522-1349901295881722-8858867115559143692-zielony.png" alt="" />
+											</div>
+											Sprzedaż nieruchomości										</a>
+									</li>
+																	<li>
+										<a href="https://www.dabrowa-gornicza.pl/o-miescie/ekologia_/powietrze-2/"  target="_blank" >
+											<div class="menu-icon">
+												<img src="https://www.dabrowa-gornicza.pl/wp-content/uploads/2017/12/jakosc-powietrza.png" alt="" />
+											</div>
+											Walczymy ze smogiem										</a>
+									</li>
+																	<li>
+										<a href="https://urzad24.inpost.pl/umdabrowagornicza"  target="_blank" >
+											<div class="menu-icon">
+												<img src="https://www.dabrowa-gornicza.pl/wp-content/uploads/2020/12/inpost-logo.svg" alt="" />
+											</div>
+											InPostUrząd24										</a>
+									</li>
+																	<li>
+										<a href="/przeglad-dabrowski/" >
+											<div class="menu-icon">
+												<img src="https://www.dabrowa-gornicza.pl/wp-content/uploads/2017/12/pd-icon.png" alt="" />
+											</div>
+											Przegląd dąbrowski										</a>
+									</li>
+																	<li>
+										<a href="https://naprawmyto.pl/dabrowagornicza"  target="_blank" >
+											<div class="menu-icon">
+												<img src="https://www.dabrowa-gornicza.pl/wp-content/uploads/2017/12/naprawmy-to.png" alt="" />
+											</div>
+											Naprawmyto.pl										</a>
+									</li>
+																	<li>
+										<a href="https://www.dabrowa-gornicza.pl/bezpieczenstwo/"  target="_blank" >
+											<div class="menu-icon">
+												<img src="https://www.dabrowa-gornicza.pl/wp-content/uploads/2025/03/uwaga-ok-www.jpg" alt="" />
+											</div>
+											Bezpieczeństwo										</a>
+									</li>
+																<button id="search" tabindex="0">
+									<p>Szukaj w serwisie...</p>
+								</button>
+							</ul>
+											</div>
+				</div>
+
+				<nav id="nav-bar">
+					<div class="inner-container">
+						<ul><li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9"><a href="https://www.dabrowa-gornicza.pl/aktualnosci/">Aktualności</a>
+<ul class="sub-menu">
+	<li id="menu-item-55112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55112"><a href="https://www.dabrowa-gornicza.pl/aktualnosci-kategorie/wiadomosci/">Wiadomości</a></li>
+	<li id="menu-item-55113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55113"><a href="https://www.dabrowa-gornicza.pl/aktualnosci-kategorie/sport/">Rekreacja</a></li>
+	<li id="menu-item-55114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55114"><a href="https://www.dabrowa-gornicza.pl/aktualnosci-kategorie/kultura/">Kultura</a></li>
+	<li id="menu-item-68138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68138"><a target="_blank" href="https://edukacja.dg.pl/">Edukacja</a></li>
+	<li id="menu-item-55115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55115"><a href="https://www.dabrowa-gornicza.pl/aktualnosci-kategorie/biznes/">Biznes</a></li>
+	<li id="menu-item-55116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55116"><a href="https://www.dabrowa-gornicza.pl/aktualnosci-kategorie/komunikaty/">Komunikaty</a></li>
+	<li id="menu-item-55117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55117"><a href="https://www.dabrowa-gornicza.pl/aktualnosci-kategorie/nieruchomosci/">Nieruchomości</a></li>
+	<li id="menu-item-55118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55118"><a href="https://www.dabrowa-gornicza.pl/aktualnosci-kategorie/bezpieczenstwo/">Bezpieczeństwo</a></li>
+</ul>
+</li>
+<li id="menu-item-81535" class="ukraine menu-item menu-item-type-custom menu-item-object-custom menu-item-81535"><a href="https://www.dabrowa-gornicza.pl/aktualnosci/sprzedaz-nieruchomosci/">Nieruchomości</a></li>
+<li id="menu-item-50231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50231"><a href="https://www.dabrowa-gornicza.pl/o-miescie/">O mieście</a></li>
+<li id="menu-item-186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="https://www.dabrowa-gornicza.pl/dla-mieszkancow/">Dla mieszkańców</a></li>
+<li id="menu-item-46977" class="menu-calendar menu-item menu-item-type-custom menu-item-object-custom menu-item-46977"><a href="https://www.dabrowa-gornicza.pl/przerwa-techniczna/">Umów wizytę</a></li>
+<li id="menu-item-49755" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49755"><a href="https://www.dabrowa-gornicza.com/">Dla biznesu</a></li>
+<li id="menu-item-50588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50588"><a href="https://www.dabrowa-gornicza.pl/dolacz-do-nas/">Dołącz do nas</a></li>
+<li style="position:relative;" class="menu-item menu-item-gtranslate"><div style="position:absolute;white-space:nowrap;" id="gtranslate_menu_wrapper_66815"></div></li></ul>
+					</div>
+
+				</nav>
+
+			</div>
+
+			<div class="main-search">
+				<div class="column-container">
+					
+<form id="search-form" action="https://www.dabrowa-gornicza.pl/" method="get">
+    <label for="search-input" class="sr-only">Szukaj w  seriwsie</label>
+	<input type="text" id="search-input" name="s" placeholder="Szukaj w serwisie..." value="" tabindex="0">
+	<button id="search-submit-button" tabindex="0">Szukaj</button>
+</form>
+<button id="close-search" tabindex="0"></button>
+
+<div class="error">Wpisz conajmniej 3 litery.</div>				</div>
+			</div>
+
+
+			<div class="m-shortcut ">
+
+				<p class="m-shortcut__description">
+
+					Dostępne skróty klawiszowe:
+
+				</p>
+
+				<ul class="m-shortcut__list">
+
+					<li class="m-shortcut__item">
+
+						<span> Tab</span>
+						<span>Przejście do następnego elementu możliwego do kliknięcia.
+						</span>
+
+					</li>
+					<li class="m-shortcut__item">
+
+						<span> Shift + Tab</span>
+						<span>Przejście do poprzedniego elementu możliwego do kliknięcia.
+
+						</span>
+
+					</li>
+
+					<li class="m-shortcut__item">
+
+						<span> Enter</span>
+						<span> Wykonanie domyślnej akcji.
+
+						</span>
+
+					</li>
+
+					<li class="m-shortcut__item">
+
+						<span> ALT + 1</span>
+						<span>Przejście do menu głównego.
+
+						</span>
+
+					</li>
+
+					<li class="m-shortcut__item">
+
+						<span> ALT + 2</span>
+						<span>Przejście do treści.
+
+						</span>
+
+					</li>
+					<li class="m-shortcut__item">
+
+						<span> Ctrl + Alt + +</span>
+						<span>Powiększenie rozmiaru czcionki.
+
+						</span>
+
+					</li>
+
+					<li class="m-shortcut__item">
+
+						<span> Ctrl + Alt + -</span>
+						<span>Pomniejszenie rozmiaru czcionki.
+
+						</span>
+
+					</li>
+
+					<li class="m-shortcut__item">
+
+						<span> Ctrl + Alt + 0</span>
+						<span>Przywrócenie domyślnego rozmiaru czcionki.
+
+
+						</span>
+
+					</li>
+
+					<li class="m-shortcut__item">
+
+						<span> Ctrl + Alt + C</span>
+						<span>Włączenie/wyłączenie trybu kontrastowego.
+
+
+						</span>
+
+					</li>
+
+					<li class="m-shortcut__item">
+
+						<span> Ctrl + Alt + H</span>
+						<span>Przejście do strony głównej.
+
+
+						</span>
+
+					</li>
+
+
+				</ul>
+
+			</div>
+
+
+		</div>
+
+				
+<div id="artykul">
+
+    <div class="inner-container">
+        
+	<div class="bread-crumbs"><span><span><a href="https://www.dabrowa-gornicza.pl/">Strona główna</a></span> &gt; <span><a href="https://www.dabrowa-gornicza.pl/aktualnosci/">Aktualności</a></span> &gt; <span class="breadcrumb_last" aria-current="page">Grzechy w sztuce</span></span></div>
+    </div>
+
+        <div class="top-photo article-top-photo"
+        style="background-image: url(https://www.dabrowa-gornicza.pl/wp-content/uploads/2019/01/20180320-115-pl-dg-centrum-pkz-10-siedem-grzechow-glownych.jpg);"></div>
+    
+    <div class="inner-container top-margin white-background">
+
+        <div class="text-container">
+                        <div class="date">19 stycznia 2019</div>
+                        <div class="title__wrapper">
+            <h1>Grzechy w sztuce</h1>
+            <a class="print-btn" href="javascript:window.print()"><span></span> Drukuj</a>            </div> 
+            <p><span style="color: #000000;"><strong>Co traktujemy jako grzech? Czym dla nas jest moralność? O co zabiegamy? Co budzi nasze pożądanie, gniew czy zazdrość?</strong> Artystyczne wypowiedzi na te tematy można przedstawić w konkursie <strong>„Siedem grzechów głównych”.</strong></span></p>
+<blockquote><p><span style="color: #000000;">Konkurs odbywa się w czterech kategoriach: <strong>malarstwo, poezja, grafika warsztatowa oraz grafika komputerowa</strong>. Zadaniem uczestników ostatniej kategorii będzie zaprojektowanie plakatu konkursu.</span></p></blockquote>
+<p><span style="color: #000000;">Siedem grzechów głównych: <strong>pycha, chciwość, nieczystość, zazdrość, nieumiarkowanie w jedzeniu i piciu, gniew oraz lenistwo</strong>, to problematyka często i różnorodnie podejmowane w sztuce. Wywołując je, organizatorzy próbują podjąć dyskusję na temat postaw i zjawisk moralnych, społecznych, etycznych, religijnych i kulturowych. W konkursie można zaprezentować artystyczne przemyślenia dotyczące jednego, kilku lub wszystkich grzechów, a także zobrazować ich przyczyny czy konsekwencje.</span></p>
+<blockquote><p><span style="color: #000000;">Uczestnicy będą oceniani w kilku grupach wiekowych, od dzieci po dorosłych. Prace można składać <strong>do 11 marca</strong>. Zwycięzców poznamy 18 marca. Uroczyste <strong>wręczenie nagród oraz otwarcie wystawy pokonkursowej odbędzie się 10 kwietnia w Pałacu Kultury Zagłębia.</strong></span></p></blockquote>
+<p><span style="color: #000000;">W tym roku konkurs „<strong>Siedem grzechów głównych” będzie miał swoją 11. odsłonę</strong>. W 2018r., w ramach jubileuszowej edycji, napłynęły aż <strong>273 wiersze oraz 564 prace plastyczne z całej Polski</strong>, m.in. z Będzina, Dąbrowy Górniczej, Elbląga, Gdańska, Gorzowa Wielkopolskiego, Jaworzna, Kielc, Krakowa, Łodzi, Mysłowic, Myszkowa, Nowego Targu, Piły, Poznania, Rzeszowa, Szczecina, Warszawy, Wejherowa, Zamościa, Zduńskiej Woli. Łącznie rozdano 36 nagród, 70 wyróżnień oraz GRAND PRIX konkursu.<br />
+</span></p>
+<p><span style="color: #000000;">Głównym organizatorem konkursu jest <strong>Pałac Kultury Zagłębia</strong>, a jego pomysłodawcą oraz koordynatorem jest <strong>Sylwia Nowak.</strong></span></p>
+<p><span style="color: #000000;">Wydarzenie odbywa się pod honorowym patronatem Marcina Bazylaka, prezydenta Dąbrowy Górniczej, biskupa diecezji sosnowieckiej oraz Polskiego Komitetu Międzynarodowego Stowarzyszenia Wychowania przez Sztukę InSEA.</span></p>
+<p><span style="color: #000000;">Współorganizatorami konkursu są: Bazylika NMP Królowej Anielskiej, Wydział Katechetyczny Diecezji Sosnowieckiej, Miejska Biblioteka Publiczna w Dąbrowie Górniczej.</span></p>
+<p><a href="http://palac.art.pl/pl/aktualnosci/siedem-grzechow-glownych-wez-udzial-w-xi-edycji-konkursu" target="_blank" rel="noopener"><span style="color: #000000;"><span style="color: #008000;"><strong>Szczegółowe informacje, regulamin i karty zgłoszeniowe</strong></span></span></a></p>
+        </div>
+
+        
+                            </div>
+
+</div>		
+<div class="social-buttons-container">
+	<div class="social-buttons">
+		<div class="facebook">
+			<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dabrowa-gornicza.pl%2Faktualnosci%2Fgrzechy-w-sztuce%2F" target="_blank"></a>
+		</div>
+		<div class="divider"></div>
+		<div class="twitter">
+			<a href="https://twitter.com/share?text=Grzechy+w+sztuce&amp;url=https%3A%2F%2Fwww.dabrowa-gornicza.pl%2Faktualnosci%2Fgrzechy-w-sztuce%2F" target="_blank"></a>
+		</div>
+		<div class="divider"></div>
+		<div class="google-plus">
+			<a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.dabrowa-gornicza.pl%2Faktualnosci%2Fgrzechy-w-sztuce%2F" target="_blank"></a>
+		</div>
+	</div>
+</div>		<div id="allPost">
+<div class="inner-container top-margin details-page">
+
+	<div class="title-and-menu-row">
+		<div class="left">
+			<h1>Czytaj więcej</h1>
+		</div>
+	</div>
+
+	<div class="one-by-four top-margin" style="flex-wrap:wrap">
+
+				<div class="one-by-four-content">
+									<div class="one-by-four-content-img"
+				 style="background-image: url(https://www.dabrowa-gornicza.pl/wp-content/uploads/2025/12/weekend-w-miescie-banner-285x185.png);">
+							</div>
+						<div class="one-by-four-content-description">
+																<h3>Kultura</h3>
+												<h2>Weekend w mieście (2-4 stycznia)</h2>
+							</div>
+			<a title="Weekend w mieście (2-4 stycznia)"
+			   href="https://www.dabrowa-gornicza.pl/aktualnosci/weekend-w-miescie-2-4-stycznia/"></a>
+		</div>
+				<div class="one-by-four-content">
+									<div class="one-by-four-content-img"
+				 style="background-image: url(https://www.dabrowa-gornicza.pl/wp-content/uploads/2026/01/newborn-baby-990691-1280-1-285x185.jpg);">
+							</div>
+						<div class="one-by-four-content-description">
+																<h3>Wiadomości</h3>
+												<h2>Taki w liczbach był 2025 r.</h2>
+							</div>
+			<a title="Taki w liczbach był 2025 r."
+			   href="https://www.dabrowa-gornicza.pl/aktualnosci/taki-w-liczbach-byl-2025-r/"></a>
+		</div>
+				<div class="one-by-four-content">
+									<div class="one-by-four-content-img"
+				 style="background-image: url(https://www.dabrowa-gornicza.pl/wp-content/uploads/2025/12/z25051587vurzad-miejski-w-dabrowie-gorniczej-3-285x185.jpg);">
+							</div>
+						<div class="one-by-four-content-description">
+																<h3>Nieruchomości</h3>
+												<h2>Wykazy nieruchomości przeznaczonych do sprzedaży</h2>
+							</div>
+			<a title="Wykazy nieruchomości przeznaczonych do sprzedaży"
+			   href="https://www.dabrowa-gornicza.pl/aktualnosci/wykazy-nieruchomosci-przeznaczonych-do-sprzedazy-23/"></a>
+		</div>
+				<div class="one-by-four-content">
+									<div class="one-by-four-content-img"
+				 style="background-image: url(https://www.dabrowa-gornicza.pl/wp-content/uploads/2025/12/mbp-13-01-285x185.jpg);">
+							</div>
+						<div class="one-by-four-content-description">
+																<h3>Kultura</h3>
+												<h2>Do biblioteki nie tylko po książki, ale też po bliskość  </h2>
+							</div>
+			<a title="Do biblioteki nie tylko po książki, ale też po bliskość  "
+			   href="https://www.dabrowa-gornicza.pl/aktualnosci/do-biblioteki-nie-tylko-po-ksiazki-ale-tez-po-bliskosc/"></a>
+		</div>
+				
+	</div>
+</div>
+
+</div>
+		<button id='btnMore'>Więcej</button>
+
+<footer id="footer-menu">
+	<div class="inner-container footer">
+
+		<div class="left">
+			<img class="logo" src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/dg-logo-white.png" alt="Logo Dąbrowa Górnicza" />
+			<ul><li id="menu-item-211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211"><a href="https://www.dabrowa-gornicza.pl/aktualnosci/">Aktualności</a></li>
+<li id="menu-item-50232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50232"><a href="https://www.dabrowa-gornicza.pl/o-miescie/">O mieście</a></li>
+<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a href="https://www.dabrowa-gornicza.pl/dla-mieszkancow/">Dla mieszkańców</a></li>
+<li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="https://www.dabrowa-gornicza.pl/dla-biznesu/">Dla biznesu</a></li>
+<li id="menu-item-172200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172200"><a href="https://www.dabrowa-gornicza.pl/deklaracja-dostepnosci/">Deklaracja dostępności</a></li>
+</ul>
+			<ul><li id="menu-item-216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-216"><a href="https://www.dabrowa-gornicza.pl/galerie/">Galerie</a></li>
+<li id="menu-item-217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217"><a href="https://www.dabrowa-gornicza.pl/wideo/">Wideo</a></li>
+<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="https://www.dabrowa-gornicza.pl/kontakt/">Kontakt</a></li>
+<li id="menu-item-30632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30632"><a href="https://www.dabrowa-gornicza.pl/polityka-prywatnosci-strony-internetowej-miasta-dabrowa-gornicza/">Polityka prywatności</a></li>
+<li id="menu-item-34509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34509"><a href="https://www.dabrowa-gornicza.pl/mapa-sieci-hot-spot/">Mapa punktów Hot Spot</a></li>
+<li id="menu-item-100118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100118"><a href="https://www.dabrowa-gornicza.pl/cyberbezpieczenstwo/">Cyberbezpieczeństwo</a></li>
+</ul>		</div>
+
+		<div class="right">
+										<div id="punkt-informacyjny">
+					<span class="header">Punkt informacyjny</span>
+																			</div>
+			
+			<div id="link-box">
+
+
+
+				<div class="row">
+
+												<a href="https://twitter.com/DG_dlaAktywnych" title="Link do mediów społecznościowych" target="_blank" rel="noopener noreferref">
+
+								<div class="footer__media twitter">
+									<img src="https://www.dabrowa-gornicza.pl/wp-content/uploads/2020/06/twitter.svg" alt="Logo twitter" class="footer__media-img">
+								</div>
+
+							</a>
+
+												<a href="https://www.youtube.com/channel/UCmVI-FtK8zycYh5kAVvgVKA" title="Link do mediów społecznościowych" target="_blank" rel="noopener noreferref">
+
+								<div class="footer__media youtube">
+									<img src="https://www.dabrowa-gornicza.pl/wp-content/uploads/2020/06/youtube.svg" alt="Logo youtube" class="footer__media-img">
+								</div>
+
+							</a>
+
+												<a href="https://www.facebook.com/MiastoDabrowaGornicza/" title="Link do mediów społecznościowych" target="_blank" rel="noopener noreferref">
+
+								<div class="footer__media facebook">
+									<img src="https://www.dabrowa-gornicza.pl/wp-content/uploads/2020/06/facebook.svg" alt="Logo facebook" class="footer__media-img">
+								</div>
+
+							</a>
+
+												<a href="https://www.instagram.com/dg_dlaaktywnych/" title="Link do mediów społecznościowych" target="_blank" rel="noopener noreferref">
+
+								<div class="footer__media instagram">
+									<img src="https://www.dabrowa-gornicza.pl/wp-content/uploads/2020/06/instagram.svg" alt="Logo instagram" class="footer__media-img">
+								</div>
+
+							</a>
+
+												<a href="https://www.linkedin.com/company/urząd-miejski-dąbrowa-górnicza/" title="Link do mediów społecznościowych" target="_blank" rel="noopener noreferref">
+
+								<div class="footer__media linkedin">
+									<img src="https://www.dabrowa-gornicza.pl/wp-content/uploads/2020/06/linkedin.svg" alt="Logo linkedin" class="footer__media-img">
+								</div>
+
+							</a>
+
+					
+				</div>
+
+				<a class="row" title="Facebook Prezydenta Miasta" href="https://www.facebook.com/marcinbazylakofficial/" target="_blank" rel="noopener">
+
+					<div class="footer__app">
+
+						<p class="footer__app-title">
+
+							Facebook Prezydenta Miasta
+
+						</p>
+
+						<div class="fb footer__fb"></div>
+
+					</div>
+
+				</a>
+
+				<a href="https://play.google.com/store/apps/details?id=pl.amistad.treespot.dabrowagornicza" class="row footer__app-link" rel="noopener" target="_blank">
+
+					<div class=" footer__app">
+
+						<p class="footer__app-title">
+
+							Aplikacja miejska
+						</p>
+
+						<img src="https://www.dabrowa-gornicza.pl/wp-content/uploads/2020/06/play.svg" class="footer__app-img" alt="Aplikacja miejska">
+
+					</div>
+
+				</a>
+
+
+				<div class="row">
+
+																<div class="lang-selector">
+							<div class="selected-language">PL</div>
+							<ul>
+																											<li><a href="http://dabrowa-gornicza.com/en/" target="_blank">EN</a></li>
+																																				<li><a href="http://dabrowa-gornicza.com/de/" target="_blank">DE</a></li>
+																																				<li><a href="http://dabrowa-gornicza.com/fr/" target="_blank">FR</a></li>
+																																				<li><a href="http://dabrowa-gornicza.com/zh/" target="_blank">CN</a></li>
+																								</ul>
+						</div>
+					
+										
+						<a href="http://www.bip.dabrowa-gornicza.pl" target="_blank">
+							<img class="bip" alt="Logo bip" src="/wp-content/themes/dabrowa-gornicza/images/icons/bip.svg"/>
+						</a>
+
+					
+				</div>
+
+
+			</div>
+		</div>
+	</div>
+
+	
+		<div class="pop-up-visit pop-up--subpage">
+
+			<div class="pop-up-visit__wrapper">
+
+				<div class="pop-up-visit__top" style="background-image: url(https://www.dabrowa-gornicza.pl/wp-content/uploads/2020/08/pop-up-bg.jpg);">
+
+					<button class="pop-up-visit__close" tabindex="2">
+						<span class="u-vh">Zamknij informację o rezerwacji wizyty w Urzędzie</span>
+						&#10005;
+					</button>
+
+				</div>
+
+				<div class="pop-up-visit__bottom">
+
+
+					<div class="pop-up-visit__content">
+
+						<h2>Planujesz wizytę w urzędzie?</h2>
+<p>Nie stój w kolejce &#8211; umów się,<br />
+używając <strong>kalendarza online!</strong></p>
+					</div>
+
+					<a href="https://kalendarz.dg.pl/qmaticwebbooking/index.html#/" title="Zarezerwuj wizytę w urzędzie miasta" target="_blank" class="pop-up-visit__link" tabindex="1">
+
+						<span class="pop-up-visit__link-text">
+							Rezerwuj wizytę						</span>
+
+
+
+					</a>
+
+				</div>
+
+				<a href="https://kalendarz.dg.pl/qmaticwebbooking/index.html#/" target="_blank" class="pop-up-visit__big-link">
+				</a>
+
+			</div>
+
+		</div>
+
+	
+</footer>
+
+	<div id="logo-carousel">
+		<div class="inner-container carousel">
+<!--			<div class="left-arrow"></div>-->
+			<div class="left-arrow">
+                <img class="left-arrow-image" src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/icons/left-arrow.svg" alt="zobacz poprzednie"/>
+            </div>
+			<div class="slider-container">
+                <button class="pause">Stop</button>
+                <button class="resume d-none">Play</button>
+				<div class="carousel-images">
+				</div>
+			</div>
+<!--			<div class="right-arrow"></div>-->
+            <div class="right-arrow">
+                <img class="right-arrow-image" src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/icons/right-arrow.svg" alt="zobacz dalej""/>
+            </div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		var lcLogos = [ {
+					lclogo: "https://www.dabrowa-gornicza.pl/wp-content/uploads/2020/04/logotyp-pionowy-2-gornoslasko-zaglebiowskiej-metropolii-1-74x95.png",
+					lclink: "https://metropoliagzm.pl/"
+				}
+				,   {
+					lclogo: "https://www.dabrowa-gornicza.pl/wp-content/uploads/2017/12/dbp.png",
+					lclink: "https://twojadabrowa.pl"
+				}
+				,   {
+					lclogo: "https://www.dabrowa-gornicza.pl/wp-content/uploads/2017/12/b4.png",
+					lclink: "http://www.paih.gov.pl/pl"
+				}
+				,   {
+					lclogo: "https://www.dabrowa-gornicza.pl/wp-content/uploads/2017/12/b7.png",
+					lclink: "https://scp-slask.pl/"
+				}
+				,   {
+					lclogo: "https://www.dabrowa-gornicza.pl/wp-content/uploads/2017/12/wdm-dfop-95x95.jpg",
+					lclink: "http://ngo.dabrowa-gornicza.pl/"
+				}
+				,   {
+					lclogo: "https://www.dabrowa-gornicza.pl/wp-content/uploads/2017/12/arl.png",
+					lclink: "http://www.arl.org.pl/"
+				}
+				,   {
+					lclogo: "https://www.dabrowa-gornicza.pl/wp-content/uploads/2017/12/dks.png",
+					lclink: "http://konsultacje.idabrowa.pl/"
+				}
+				,   {
+					lclogo: "https://www.dabrowa-gornicza.pl/wp-content/uploads/2020/04/investuj-w-dg-1-170x52.jpg",
+					lclink: "http://dabrowa-gornicza.com/"
+				}
+				,   {
+					lclogo: "https://www.dabrowa-gornicza.pl/wp-content/uploads/2017/12/cao-163x95.png",
+					lclink: "http://ngo.dabrowa-gornicza.pl"
+				}
+				,   {
+					lclogo: "https://www.dabrowa-gornicza.pl/wp-content/uploads/2019/01/fundusze-154x95.jpg",
+					lclink: "https://www.dabrowa-gornicza.pl/zielona-i-urocza/"
+				}
+				,   {
+					lclogo: "https://www.dabrowa-gornicza.pl/wp-content/uploads/2019/01/rp-170x69.jpg",
+					lclink: "https://www.dabrowa-gornicza.pl/zielona-i-urocza/"
+				}
+				,   {
+					lclogo: "https://www.dabrowa-gornicza.pl/wp-content/uploads/2019/01/slaskie-170x67.jpg",
+					lclink: "https://www.dabrowa-gornicza.pl/zielona-i-urocza/"
+				}
+				,   {
+					lclogo: "https://www.dabrowa-gornicza.pl/wp-content/uploads/2019/01/ue-170x70.jpg",
+					lclink: "https://www.dabrowa-gornicza.pl/zielona-i-urocza/"
+				}
+				,   {
+					lclogo: "https://www.dabrowa-gornicza.pl/wp-content/uploads/2020/12/thumbnail-logo-erecruitment-170x40.png",
+					lclink: "https://przyjaznarekrutacja.pl/"
+				}
+				 		];
+	</script>
+
+<!-- <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
+<div class="o-footer__ue">
+	<div class="o-footer__ue-wrapper">
+<!--		--><!--		--><!--		-->    <img src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/images/FE_logo.png" alt="Logotyp"/>
+	</div>
+</div>
+<div id="copyright-note">
+	2026 Dąbrowa Górnicza
+	<div class="created-by">
+	</div>
+</div>
+</div>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/dabrowa-gornicza/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Matomo --><script>
+(function () {
+function initTracking() {
+var _paq = window._paq = window._paq || [];
+_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);_paq.push(['alwaysUseSendBeacon']);_paq.push(['setTrackerUrl', "\/\/www.dabrowa-gornicza.pl\/wp-content\/plugins\/matomo\/app\/matomo.php"]);_paq.push(['setSiteId', '1']);var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.src="\/\/www.dabrowa-gornicza.pl\/wp-content\/uploads\/matomo\/matomo.js"; s.parentNode.insertBefore(g,s);
+}
+if (document.prerendering) {
+	document.addEventListener('prerenderingchange', initTracking, {once: true});
+} else {
+	initTracking();
+}
+})();
+</script>
+<!-- End Matomo Code --><script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-includes/js/dist/hooks.js" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-includes/js/dist/i18n.js" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-content/plugins/contact-form-7/includes/swv/js/index.js" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-12-11 12:03:49+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);","lang":"pl"},"This contact form is placed in the wrong place.":["Ten formularz kontaktowy zosta\u0142 umieszczony w niew\u0142a\u015bciwym miejscu."],"Error:":["B\u0142\u0105d:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+//# sourceURL=contact-form-7-js-translations
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/www.dabrowa-gornicza.pl\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+//# sourceURL=contact-form-7-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-content/plugins/contact-form-7/includes/js/index.js" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-content/plugins/responsive-accordion-and-collapse/js/accordion-custom.js" id="call_ac-custom-js-front-js"></script>
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-content/plugins/responsive-accordion-and-collapse/js/accordion.js" id="call_ac-js-front-js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js" id="leaflet-maps-js"></script>
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/js/site.js" id="main-scripts-js"></script>
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-content/themes/dabrowa-gornicza/js/custom.js" id="custom-scripts-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6Lfe528aAAAAACH6dmJWErV-XIJ1ppECmM00rLap&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-includes/js/dist/vendor/wp-polyfill.js" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-before">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {
+    "sitekey": "6Lfe528aAAAAACH6dmJWErV-XIJ1ppECmM00rLap",
+    "actions": {
+        "homepage": "homepage",
+        "contactform": "contactform"
+    }
+};
+//# sourceURL=wpcf7-recaptcha-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.dabrowa-gornicza.pl/wp-content/plugins/contact-form-7/modules/recaptcha/index.js" id="wpcf7-recaptcha-js"></script>
+<script type="text/javascript" id="gt_widget_script_62001799-js-before">
+/* <![CDATA[ */
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['62001799'] = {"default_language":"pl","languages":["en","de","pl","uk"],"url_structure":"none","native_language_names":1,"flag_style":"2d","flag_size":16,"wrapper_selector":"#gt-wrapper-62001799","alt_flags":[],"switcher_open_direction":"bottom","switcher_horizontal_position":"inline","switcher_text_color":"#ffffff","switcher_arrow_color":"#ffffff","switcher_border_color":"#ccc","switcher_background_color":"#cccccc","switcher_background_shadow_color":"#cccccc","switcher_background_hover_color":"#7eb711","dropdown_text_color":"#000","dropdown_hover_color":"#fff","dropdown_background_color":"#eee","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+//# sourceURL=gt_widget_script_62001799-js-before
+/* ]]> */
+</script><script src="https://www.dabrowa-gornicza.pl/wp-content/plugins/gtranslate/js/dwf.js" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/aktualnosci/grzechy-w-sztuce/" data-gt-orig-domain="www.dabrowa-gornicza.pl" data-gt-widget-id="62001799" defer></script><script type="text/javascript" id="gt_widget_script_15951989-js-before">
+/* <![CDATA[ */
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['15951989'] = {"default_language":"pl","languages":["en","de","pl","uk"],"url_structure":"none","native_language_names":1,"flag_style":"2d","flag_size":16,"wrapper_selector":"#gtranslate_menu_wrapper_66815","alt_flags":[],"switcher_open_direction":"bottom","switcher_horizontal_position":"inline","switcher_text_color":"#ffffff","switcher_arrow_color":"#ffffff","switcher_border_color":"#ccc","switcher_background_color":"#cccccc","switcher_background_shadow_color":"#cccccc","switcher_background_hover_color":"#7eb711","dropdown_text_color":"#000","dropdown_hover_color":"#fff","dropdown_background_color":"#eee","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+//# sourceURL=gt_widget_script_15951989-js-before
+/* ]]> */
+</script><script src="https://www.dabrowa-gornicza.pl/wp-content/plugins/gtranslate/js/dwf.js" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/aktualnosci/grzechy-w-sztuce/" data-gt-orig-domain="www.dabrowa-gornicza.pl" data-gt-widget-id="15951989" defer></script><script>
+	window.lazyLoadOptions = {};
+	window.addEventListener(
+		"LazyLoad::Initialized",
+		function(event) {
+			window.lazyLoadInstance = event.detail.instance;
+		},
+		false
+	);
+
+  const o = {'minSize': '50%', 'plusSize': '125%'}
+  const h = document.documentElement, b = document.body, s = JSON.parse(localStorage.getItem('fsize'));
+  if (s !== null) {
+    h.style.fontSize = o[s];
+    b.classList.add(s)
+  } else {
+    if (b.classList.contains('plusSize')) {
+      b.classList.remove('plusSize')
+    } else if (b.classList.contains('minSize')) {
+      b.classList.remove('minSize')
+    }
+    h.style.fontSize = '62.5%';
+  }
+
+
+</script>
+<script async src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.3.1/dist/lazyload.min.js"></script>
+<script>
+  window.addEventListener('load', () => {
+    lazyLoadInstance.update();
+  })
+</script>
+</body>
+
+</html>
+
+<!-- Dynamic page generated in 0.293 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2026-01-04 18:28:33 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

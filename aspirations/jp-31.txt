@@ -8,11 +8,11 @@ x-envoy-decorator-operation: public-web.blog.svc.cluster.local:8080/*
 x-is-default-ttl: false
 x-cdn-ttl: 86400.000
 accept-ranges: bytes
-age: 1
-date: Sun, 04 Jan 2026 15:04:18 GMT
-x-timer: S1767539057.505784,VS0,VE1602
+age: 8260
+date: Sun, 04 Jan 2026 17:21:57 GMT
+x-timer: S1767547317.146842,VS0,VE3
 vary: Origin,Accept-Encoding,X-User-Agent,X-Loading
-server-timing: MISS-CLUSTER, fastly;desc="Edge time";dur=1602
+server-timing: HIT-CLUSTER, fastly;desc="Edge time";dur=3
 timing-allow-origin: *
 x-content-type-options: nosniff
 content-security-policy: upgrade-insecure-requests

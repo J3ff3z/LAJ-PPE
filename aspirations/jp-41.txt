@@ -1,13 +1,11 @@
 HTTP/2 200 
 server: nginx
-date: Sun, 04 Jan 2026 15:05:19 GMT
+date: Sun, 04 Jan 2026 17:23:01 GMT
 content-type: text/html; charset=UTF-8
 vary: Accept-Encoding
-x-pingback: https://rekishinoeki.org/xmlrpc.php
-link: <https://rekishinoeki.org/wp-json/>; rel="https://api.w.org/", <https://rekishinoeki.org/wp-json/wp/v2/posts/986>; rel="alternate"; title="JSON"; type="application/json", <https://rekishinoeki.org/?p=986>; rel=shortlink
 last-modified: Sun, 04 Jan 2026 15:05:19 GMT
 cache-control: max-age=0
-expires: Sun, 04 Jan 2026 15:05:19 GMT
+expires: Sun, 04 Jan 2026 17:23:01 GMT
 vary: Accept-Encoding
 
 <!DOCTYPE html>
@@ -1455,4 +1453,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </html><style>
 
 </style>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1767539119 -->

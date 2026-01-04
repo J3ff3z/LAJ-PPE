@@ -1,0 +1,372 @@
+HTTP/2 200 
+server: nginx
+date: Sun, 04 Jan 2026 17:29:55 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+cache-control: private, must-revalidate
+link: <https://kronos.org.pl/wp-json/>; rel="https://api.w.org/"
+link: <https://kronos.org.pl/?p=6239>; rel=shortlink
+last-modified: Sun, 04 Jan 2026 18:29:55 GMT
+wpo-cache-status: saving to cache
+expires: Sun, 01 Feb 2026 17:29:52 GMT
+vary: Accept-Encoding
+
+<!DOCTYPE html>
+<!--if lt IE 7html.no-js.ie6.oldie(lang='pl')
+-->
+<!--if IE 7html.no-js.ie7.oldie(lang='pl')
+-->
+<!--if IE 8html.no-js.ie8.oldie(lang='pl')
+-->
+<!--if IE 9html.no-js.ie9(lang='en')
+-->
+<!-- [if gt IE 9] <!-->
+<html  lang="pl-PL">
+  <!-- <![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+    <link href="https://kronos.org.pl/wp-content/themes/kronos/css/style.css" rel="stylesheet">
+    <link href="https://kronos.org.pl/wp-content/themes/kronos/css/font-awesome.css" rel="stylesheet">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v26.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Zbawienie przez grzech - KRONOS - metafizyka, kultura, religia</title>
+	<meta name="description" content="Hebrajski tytuł tej napisanej w 1937 roku rozprawy, Micwa ha-baa be-aweira, tłumaczony zazwyczaj jako Zbawienie przez grzech lub Świętość grzechu, oznacza" />
+	<link rel="canonical" href="https://kronos.org.pl/ksiazki/zbawienie-przez-grzech/" />
+	<meta property="og:locale" content="pl_PL" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Zbawienie przez grzech - KRONOS - metafizyka, kultura, religia" />
+	<meta property="og:description" content="Hebrajski tytuł tej napisanej w 1937 roku rozprawy, Micwa ha-baa be-aweira, tłumaczony zazwyczaj jako Zbawienie przez grzech lub Świętość grzechu, oznacza" />
+	<meta property="og:url" content="https://kronos.org.pl/ksiazki/zbawienie-przez-grzech/" />
+	<meta property="og:site_name" content="KRONOS - metafizyka, kultura, religia" />
+	<meta property="article:publisher" content="https://pl-pl.facebook.com/KRONOS-kwartalnik-226191654064747/" />
+	<meta property="article:modified_time" content="2025-09-03T06:12:04+00:00" />
+	<meta property="og:image" content="https://kronos.org.pl/wp-content/uploads/Scholem_okladka.jpg" />
+	<meta property="og:image:width" content="800" />
+	<meta property="og:image:height" content="1215" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://kronos.org.pl/ksiazki/zbawienie-przez-grzech/","url":"https://kronos.org.pl/ksiazki/zbawienie-przez-grzech/","name":"Zbawienie przez grzech - KRONOS - metafizyka, kultura, religia","isPartOf":{"@id":"https://kronos.org.pl/#website"},"primaryImageOfPage":{"@id":"https://kronos.org.pl/ksiazki/zbawienie-przez-grzech/#primaryimage"},"image":{"@id":"https://kronos.org.pl/ksiazki/zbawienie-przez-grzech/#primaryimage"},"thumbnailUrl":"https://kronos.org.pl/wp-content/uploads/Scholem_okladka.jpg","datePublished":"2025-08-31T19:39:15+00:00","dateModified":"2025-09-03T06:12:04+00:00","description":"Hebrajski tytuł tej napisanej w 1937 roku rozprawy, Micwa ha-baa be-aweira, tłumaczony zazwyczaj jako Zbawienie przez grzech lub Świętość grzechu, oznacza","breadcrumb":{"@id":"https://kronos.org.pl/ksiazki/zbawienie-przez-grzech/#breadcrumb"},"inLanguage":"pl-PL","potentialAction":[{"@type":"ReadAction","target":["https://kronos.org.pl/ksiazki/zbawienie-przez-grzech/"]}]},{"@type":"ImageObject","inLanguage":"pl-PL","@id":"https://kronos.org.pl/ksiazki/zbawienie-przez-grzech/#primaryimage","url":"https://kronos.org.pl/wp-content/uploads/Scholem_okladka.jpg","contentUrl":"https://kronos.org.pl/wp-content/uploads/Scholem_okladka.jpg","width":800,"height":1215},{"@type":"BreadcrumbList","@id":"https://kronos.org.pl/ksiazki/zbawienie-przez-grzech/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Strona główna","item":"https://kronos.org.pl/"},{"@type":"ListItem","position":2,"name":"Książki","item":"https://kronos.org.pl/ksiazki/"},{"@type":"ListItem","position":3,"name":"Zbawienie przez grzech"}]},{"@type":"WebSite","@id":"https://kronos.org.pl/#website","url":"https://kronos.org.pl/","name":"KRONOS - metafizyka, kultura, religia","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://kronos.org.pl/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"pl-PL"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+		<style>
+			.lazyload,
+			.lazyloading {
+				max-width: 100%;
+			}
+		</style>
+		<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpo_min-header-0-css' href='https://kronos.org.pl/wp-content/cache/wpo-minify/1764533223/assets/wpo-minify-header-242a36b2.min.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://kronos.org.pl/wp-content/cache/wpo-minify/1764533223/assets/wpo-minify-header-1d83226c.min.js" id="wpo_min-header-0-js"></script>
+<link rel="https://api.w.org/" href="https://kronos.org.pl/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kronos.org.pl/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<link rel='shortlink' href='https://kronos.org.pl/?p=6239' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://kronos.org.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkronos.org.pl%2Fksiazki%2Fzbawienie-przez-grzech%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://kronos.org.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkronos.org.pl%2Fksiazki%2Fzbawienie-przez-grzech%2F&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//kronos.org.pl/?wordfence_lh=1&hid=D48A131959B3EEBBF6A4DEE6AF39BF87');
+</script>		<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+				<style>
+			.no-js img.lazyload {
+				display: none;
+			}
+
+			figure.wp-block-image img.lazyloading {
+				min-width: 150px;
+			}
+
+			.lazyload,
+			.lazyloading {
+				--smush-placeholder-width: 100px;
+				--smush-placeholder-aspect-ratio: 1/1;
+				width: var(--smush-image-width, var(--smush-placeholder-width)) !important;
+				aspect-ratio: var(--smush-image-aspect-ratio, var(--smush-placeholder-aspect-ratio)) !important;
+			}
+
+						.lazyload, .lazyloading {
+				opacity: 0;
+			}
+
+			.lazyloaded {
+				opacity: 1;
+				transition: opacity 400ms;
+				transition-delay: 0ms;
+			}
+
+					</style>
+		  </head>
+  <body>
+    <!-- topbar-->
+    <div class="topbar">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <!-- logo-->
+            
+            <nav id="kmenu" class="topbar-menu">
+                <div class="logo">
+                    <a href="https://kronos.org.pl" title=""><img data-src="https://kronos.org.pl/wp-content/themes/kronos/img/logo.png" alt="Kronos" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 123px; --smush-placeholder-aspect-ratio: 123/38;"></a>                </div>
+              <div id="head-mobile"></div>
+              <div class="button"></div>
+              <ul class="menu">
+                    <li><a href="https://kronos.org.pl/wesprzyj-nas/"><img data-src="//kronos.org.pl/wp-content/themes/kronos/img/icon-04.png" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 32px; --smush-placeholder-aspect-ratio: 32/32;"><span>Wesprzyj</span></a></li>
+<li><a href="/numery/"><img data-src="//kronos.org.pl/wp-content/themes/kronos/img/icon-01.png" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 32px; --smush-placeholder-aspect-ratio: 32/32;"><span>Numery</span></a></li>
+<li><a href="/ksiazki/"><img data-src="//kronos.org.pl/wp-content/themes/kronos/img/icon-02.png" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 32px; --smush-placeholder-aspect-ratio: 32/32;"><span>Książki</span></a></li>
+<li><a href="https://kronos.org.pl/video/"><img data-src="//kronos.org.pl/wp-content/uploads/2017/11/telewizor_icon.png" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 32px; --smush-placeholder-aspect-ratio: 32/32;"><span>video<span></a></li>
+<li><a href="https://kronos.org.pl/fundacja-augusta-hr-cieszkowskiego/"><img data-src="//kronos.org.pl/wp-content/themes/kronos/img/icon-03.png" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 32px; --smush-placeholder-aspect-ratio: 32/32;"><span>Fundacja</span></a></li>
+<li><a href="https://kronos.org.pl/kontakt/"><img data-src="//kronos.org.pl/wp-content/themes/kronos/img/icon-05.png" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 32px; --smush-placeholder-aspect-ratio: 32/32;"><span>Kontakt</span></a></li>
+                  
+              </ul>
+            </nav>
+           
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <!-- subbar-->
+            <div data-subbar class="subbar">
+              <!-- subbar-nav-->
+              <div class="subbar-nav"><img data-src="https://kronos.org.pl/wp-content/themes/kronos/img/icon_szukaj.png" alt="" data-subbarbtn="#search" class="btn-fa lazyload" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 32px; --smush-placeholder-aspect-ratio: 32/32;"><img data-src="https://kronos.org.pl/wp-content/themes/kronos/img/icon_newsletter.png" alt="" data-subbarbtn="#newsletter" class="btn-fa lazyload" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 32px; --smush-placeholder-aspect-ratio: 32/32;"><img data-src="https://kronos.org.pl/wp-content/themes/kronos/img/icon_social.png" alt="" data-subbarbtn="#share" class="btn-fa lazyload" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 32px; --smush-placeholder-aspect-ratio: 32/32;"><a href="/english/" class="btn-fa"><img data-src="https://kronos.org.pl/wp-content/themes/kronos/img/icon_eng.png" alt="" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 32px; --smush-placeholder-aspect-ratio: 32/32;"></a>
+                
+              </div>
+              <!-- subbar-content-->
+              <div class="subbar-content">
+                <div data-subbarcontent="#search" class="item">
+                  <form action="/" class="subbar-form search">
+                    <input type="text" name="s" placeholder="Szukaj w serwisie">
+                    <button class="btn-search">Szukaj</button>
+                  </form>
+                </div>
+                <div data-subbarcontent="#newsletter" class="item">
+                    
+<div class="wpcf7 no-js" id="wpcf7-f2856-o1" lang="pl-PL" dir="ltr" data-wpcf7-id="2856">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/ksiazki/zbawienie-przez-grzech/#wpcf7-f2856-o1" method="post" class="wpcf7-form init subbar-form newsletter" aria-label="Formularz kontaktowy" novalidate="novalidate" data-status="init">
+<fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="2856" /><input type="hidden" name="_wpcf7_version" value="6.1.4" /><input type="hidden" name="_wpcf7_locale" value="pl_PL" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2856-o1" /><input type="hidden" name="_wpcf7_container_post" value="0" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" /><input type="hidden" name="_wpcf7cf_hidden_group_fields" value="[]" /><input type="hidden" name="_wpcf7cf_hidden_groups" value="[]" /><input type="hidden" name="_wpcf7cf_visible_groups" value="[]" /><input type="hidden" name="_wpcf7cf_repeaters" value="[]" /><input type="hidden" name="_wpcf7cf_steps" value="{}" /><input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:2856,&quot;conditions&quot;:[],&quot;settings&quot;:{&quot;animation&quot;:&quot;yes&quot;,&quot;animation_intime&quot;:200,&quot;animation_outtime&quot;:200,&quot;conditions_ui&quot;:&quot;normal&quot;,&quot;notice_dismissed&quot;:false,&quot;notice_dismissed_update-cf7-5.8.7&quot;:true,&quot;notice_dismissed_rollback-cf7-5.8.7&quot;:true}}" /><input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</fieldset>
+<p><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Podaj adres Email" value="" type="email" name="your-email" /></span><button class="btn-search">Wyślij</button>
+</p><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+                    
+                </div>
+                <div data-subbarcontent="#share" class="item">
+                  <div class="share">
+                      <a href="https://plus.google.com/share?url=https%3A%2F%2Fkronos.org.pl%2Fksiazki%2Fzbawienie-przez-grzech%2F" class="fa fa-google-plus"></a>
+                      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkronos.org.pl%2Fksiazki%2Fzbawienie-przez-grzech%2F" class="fa fa-facebook"></a>
+                      <a href="https://twitter.com/home?status=https%3A%2F%2Fkronos.org.pl%2Fksiazki%2Fzbawienie-przez-grzech%2F" class="fa fa-twitter"></a></div>
+                </div>
+                <div data-subbarcontent="#language" class="item">English</div>
+              </div>
+            </div>
+            <!-- \.subbar-->
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+              
+            <div class="topbar-breadcrumb">
+              <ul class="breadcrumb" typeof="BreadcrumbList" vocab="http://schema.org/">
+                    <!-- Breadcrumb NavXT 5.5.2 -->
+<li class="home"><span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="KRONOS - metafizyka, kultura, religia." href="https://kronos.org.pl" class="home"><span property="name">KRONOS - metafizyka, kultura, religia</span></a><meta property="position" content="1"></span></li>
+<li><span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Książki." href="https://kronos.org.pl/ksiazki/" class="post post-ksiazki-archive"><span property="name">Książki</span></a><meta property="position" content="2"></span></li>
+<li class="current_item"><span property="itemListElement" typeof="ListItem"><span property="name">Zbawienie przez grzech</span><meta property="position" content="3"></span></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+<section class="section-mix">
+                      <div class="container">
+                        <div class="row">
+                          <div class="col-md-12">
+                            <header ><h1 class="k-h"><span>Zbawienie przez grzech</span></h1>
+                            </header>
+                          </div>
+                        </div>
+                      </div>
+                    </section><section class="section-booklist">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="book-article">
+              <div class="cover"><a href="https://kronos.org.pl/ksiazki/zbawienie-przez-grzech/" title="Zbawienie przez grzech"><img data-src="https://kronos.org.pl/wp-content/uploads/Scholem_okladka-450x683.jpg" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 450px; --smush-placeholder-aspect-ratio: 450/683;"></a></div>
+              <div class="info">
+                <div class="table-contents">
+                   przekład Paweł Chról, Piotr Prokopowicz, Andrzej Serafin<br />
+posłowie Andrzej Serafin<br />
+Fundacja Augusta hr. Cieszkowskiego<br />
+Warszawa 2025<br />
+<br />
+cena 70 (<a href="https://liber.pl/pl/products/zbawienie-przez-grzech-526456.html" target="_blank" rel="noopener">zamów</a>)<br />
+<br />
+<a href="https://kronos.org.pl/wp-content/uploads/Scholem_spis_tresci.jpg" target="_blank" rel="noopener">spis treści</a>  
+                </div>
+                
+
+                <div class="number-contents">
+                  <div class="header"><b></b></div>
+                  <div class="item"></div>
+                  <div class="more">Zbawienie przez grzech</div>                  <div class="project-cover">Gershom Scholem</div>           
+                </div>
+              </div>
+              <div class="description auto-height">Hebrajski tytuł tej napisanej w 1937 roku rozprawy, <em>Micwa ha-baa be-aweira</em>, tłumaczony zazwyczaj jako <em>Zbawienie przez grzech</em> lub Świętość grzechu, oznacza przykazanie świata przyszłego wypełnione przez przekroczenie. Świat przyszły to świat mesjański, podniesiony z upadku, zbawiony, a przekroczenie dawnych przykazań, będące nakazem nowego prawa, micwą tego, co nadchodzi, jest w świetle dawnego prawa grzechem. Transgresja dawnego prawa (grzech) jest przejściem ku prawu nowemu (zbawieniem).<br />
+<br />
+Nic nie jest bardziej błędne niż myśl, że prawda jest prosta. Nie dajmy się zwieść temu pochopnemu i nazbyt wyświechtanemu powiedzeniu. „Prosta” może być czasami prawda, która się jeszcze nie znalazła w tyglu historii i wciąż walczy o swoje zachowanie, prawda abstrakcyjna. Prawda może być prosta w momencie jej pierwszego objawienia. Ta prawda jest prosta, ponieważ jej uwikłania i sprzeczności nie ujawniły się jeszcze wystarczająco jasno.</div>            </div>
+<div class="book-pagination">
+                <div class="clearfix">
+                  <div class="prev"><a href="https://kronos.org.pl/ksiazki/polskie-spory-o-marksizm/" class="p-link"><img data-src="https://kronos.org.pl/wp-content/uploads/Marksizm_okladka-138x138.jpg" alt="" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 138px; --smush-placeholder-aspect-ratio: 138/138;"></a></div>
+                  <div class="all"></div>
+                  <div class="next"><a href="https://kronos.org.pl/ksiazki/nowoczesnosc-platona/" class="p-link"><img data-src="https://kronos.org.pl/wp-content/uploads/Nowoczesnosc-Platona-okladka-138x138.jpg" alt="" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 138px; --smush-placeholder-aspect-ratio: 138/138;"></a></div>
+                </div>
+                <div class="clearfix">
+                  <div class="prev"><a href="https://kronos.org.pl/ksiazki/polskie-spory-o-marksizm/"  class="k-link k-link-small before">Poprzednia książka</a></div>                 
+                  <div class="all"><a href="https://kronos.org.pl/ksiazki/"  class="k-link k-link-small bottom">Wszystkie książki</a></div>
+                 <div class="next"><a href="https://kronos.org.pl/ksiazki/nowoczesnosc-platona/"  class="k-link k-link-small after">Następna książka</a></div>
+                </div>
+              </div>            
+          </div>
+        </div>
+      </div>
+    </section>
+<!--
+<article id="post-6239" class="post-6239 ksiazki type-ksiazki status-publish has-post-thumbnail hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">Zbawienie przez grzech</h1>	</header> .entry-header 
+
+
+	<div class="entry-content">
+		Hebrajski tytuł tej napisanej w 1937 roku rozprawy, <em>Micwa ha-baa be-aweira</em>, tłumaczony zazwyczaj jako <em>Zbawienie przez grzech</em> lub Świętość grzechu, oznacza przykazanie świata przyszłego wypełnione przez przekroczenie. Świat przyszły to świat mesjański, podniesiony z upadku, zbawiony, a przekroczenie dawnych przykazań, będące nakazem nowego prawa, micwą tego, co nadchodzi, jest w świetle dawnego prawa grzechem. Transgresja dawnego prawa (grzech) jest przejściem ku prawu nowemu (zbawieniem).
+
+Nic nie jest bardziej błędne niż myśl, że prawda jest prosta. Nie dajmy się zwieść temu pochopnemu i nazbyt wyświechtanemu powiedzeniu. „Prosta” może być czasami prawda, która się jeszcze nie znalazła w tyglu historii i wciąż walczy o swoje zachowanie, prawda abstrakcyjna. Prawda może być prosta w momencie jej pierwszego objawienia. Ta prawda jest prosta, ponieważ jej uwikłania i sprzeczności nie ujawniły się jeszcze wystarczająco jasno.	</div> .entry-content 
+
+</article> #post-## -->
+
+<footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4"><div
+			
+			class="so-widget-sow-editor so-widget-sow-editor-base"
+			
+		>NUMERY
+<div class="siteorigin-widget-tinymce textwidget">
+	<p><span style="color: #dedede;"><a href="https://kronos.org.pl/numery/kronos-1-52-2020/" style="color: #dedede;">2020</a>  <a href="http://kronos.org.pl/numery/kronos-1-282014/" style="color: #dedede;">2014</a></span><br />
+<span style="color: #dedede;"><a href="https://kronos.org.pl/numery/kronos-1-48-2019/" style="color: #dedede;">2019</a>  <a href="http://kronos.org.pl/numery/kronos-1-242013/" style="color: #dedede;">2013</a></span><br />
+<span style="color: #dedede;"><a href="http://kronos.org.pl/numery/kronos-1-442018" style="color: #dedede;">2018</a>  <a href="http://kronos.org.pl/numery/kronos-1-202012/" style="color: #dedede;">2012</a></span><br />
+<span style="color: #dedede;"><a href="http://kronos.org.pl/numery/kronos-1-402017/" style="color: #dedede;">2017</a>  <a href="http://kronos.org.pl/numery/kronos-1-362016/" style="color: #dedede;"></a><a href="http://kronos.org.pl/numery/kronos-1-162011/" style="color: #dedede;">2011</a>   </span><br />
+<span style="color: #dedede;"><a href="https://kronos.org.pl/numery/kronos-1-362016/" style="color: #dedede;">2016</a>  <a href="http://kronos.org.pl/numery/kronos-1-122010/" style="color: #dedede;">2010</a></span><br />
+<span style="color: #dedede;"><a href="http://kronos.org.pl/numery/kronos-1-322015/" style="color: #dedede;">2015</a>  <a href="http://kronos.org.pl/numery/kronos-1-2-92009/" style="color: #dedede;">2009<br />
+</a><a href="http://kronos.org.pl/kronos-program-telewizyjny/" style="color: #dedede;">program telewizyjny</a></span><br />
+<span style="color: #dedede;"><a href="http://kronos.org.pl/najwazniejsze-pytania-filozofii/" style="color: #dedede;">najważniejsze pytania filozofii</a><br />
+</span></p>
+</div>
+</div></div>
+          <div class="col-md-4">KSIĄŻKI<div class="menu-footer_menu_2-container"><ul id="menu-footer_menu_2" ><li id="menu-item-3240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3240"><a href="https://kronos.org.pl/nasze-serie-wydawnicze/">Nasze serie wydawnicze</a></li>
+<li id="menu-item-2876" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2876"><a href="http://kronos.org.pl/nasze-serie-wydawnicze/#bp">Biblioteka Platońska</a></li>
+<li id="menu-item-2877" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2877"><a href="/nasze-serie-wydawnicze/#bkk">Biblioteka Kwartalnika Kronos</a></li>
+<li id="menu-item-2878" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2878"><a href="/nasze-serie-wydawnicze/#kfn">Klasycy Filozofii Niemieckiej / Komentarze</a></li>
+<li id="menu-item-3231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3231"><a href="/nasze-serie-wydawnicze/#kpn">Klasycy Polskiej Nowoczesności</a></li>
+<li id="menu-item-3232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3232"><a href="/nasze-serie-wydawnicze/#kft">Kronos. Filozofia Techniki</a></li>
+</ul></div></div>
+          <div class="col-md-4"><div class="menu-footer_menu_3-container"><ul id="menu-footer_menu_3" ><li id="menu-item-3234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3234"><a href="https://kronos.org.pl/kontakt/">Kontakt</a></li>
+<li id="menu-item-3248" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3248"><a href="https://kronos.org.pl/aktualnosci/">Aktualności</a></li>
+<li id="menu-item-2880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2880"><a href="https://kronos.org.pl/fundacja-augusta-hr-cieszkowskiego/">Fundacja Augusta hr. Cieszkowskiego</a></li>
+<li id="menu-item-2881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2881"><a href="https://kronos.org.pl/redakcja/">Redakcja kwartalnika Kronos</a></li>
+<li id="menu-item-3238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3238"><a href="https://kronos.org.pl/zasady-skladania-do-publikacji-i-recenzowania-artykulow/">Zasady składania do publikacji i recenzowania artykułów</a></li>
+<li id="menu-item-3241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3241"><a href="https://kronos.org.pl/english/">Kronos – Philosophical Journal</a></li>
+<li id="menu-item-3242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3242"><a href="https://kronos.org.pl/english/submission-guidelines-and-style-sheet-for-manuscripts/">Submission Guidelines &#038; Style Sheet for Manuscripts</a></li>
+<li id="menu-item-3296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3296"><a>PROJEKT STRONY:<br />Marta Pokorska</a></li>
+</ul></div></div>
+        </div>
+      </div>
+    </footer>
+    <!-- Scripts-->
+    <script src="https://kronos.org.pl/wp-content/themes/kronos/js/jquery-1.12.4.js"></script>
+    <script src="https://kronos.org.pl/wp-content/themes/kronos/js/owl.carousel.js"></script>
+    <script src="https://kronos.org.pl/wp-content/themes/kronos/js/isotope.pkgd.min.js"></script>
+    <script src="https://kronos.org.pl/wp-content/themes/kronos/js/freewall.js"></script>    
+    <script src="https://kronos.org.pl/wp-content/themes/kronos/js/main.js"></script>
+<script>
+      $(function () {
+          $(".free-wall").each(function () {
+              var wall = new Freewall(this);
+              wall.reset({
+                  selector: '.brick',
+                  cellW: 320,
+                  cellH: 320,
+                  fixSize: 0,
+                  gutterY: 20,
+                  gutterX: 20,
+                  onResize: function () {
+                      wall.fitWidth();
+                  }
+              })
+              wall.fitWidth();
+          });
+          $(window).trigger("resize");
+      });
+    </script>    
+    <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/kronos\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://kronos.org.pl/wp-content/cache/wpo-minify/1764533223/assets/wpo-minify-footer-6fa90d04.min.js" id="wpo_min-footer-0-js"></script>
+<script type="text/javascript" id="wpo_min-footer-1-js-extra">
+/* <![CDATA[ */
+var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/kronos.org.pl\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://kronos.org.pl/wp-content/cache/wpo-minify/1764533223/assets/wpo-minify-footer-ae700f2d.min.js" id="wpo_min-footer-1-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6Ld6DPEaAAAAAAIvOVr9cWQqypcGxAN472E2gUgx&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://kronos.org.pl/wp-content/cache/wpo-minify/1764533223/assets/wpo-minify-footer-52c30684.min.js" id="wpo_min-footer-3-js"></script>
+<script type="text/javascript" src="https://kronos.org.pl/wp-content/cache/wpo-minify/1764533223/assets/wpo-minify-footer-724e07ce.min.js" id="wpo_min-footer-4-js"></script>
+<script type="text/javascript" src="https://kronos.org.pl/wp-content/cache/wpo-minify/1764533223/assets/wpo-minify-footer-76a907ec.min.js" id="wpo_min-footer-5-js"></script>
+  </body>
+</html>

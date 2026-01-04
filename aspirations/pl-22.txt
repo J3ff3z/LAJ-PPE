@@ -1,0 +1,1338 @@
+HTTP/2 200 
+cache-control: public, max-age=0,public
+expires: Sun, 04 Jan 2026 17:28:59 GMT
+content-type: text/html; charset=UTF-8
+accept-ranges: bytes
+content-length: 128223
+date: Sun, 04 Jan 2026 17:28:59 GMT
+server: LiteSpeed
+retry-after: 3
+vary: User-Agent,Accept-Encoding
+x-powered-by: WP Rocket/3.15.9
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+
+<!doctype HTML>
+<html class="no-js" lang="pl-PL">
+
+<head><meta charset="utf-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.v="1.2.5.1",this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],this.interceptedClickListeners=[],this._interceptClickListeners(this),window.addEventListener("pageshow",e=>{this.persisted=e.persisted,this.everythingLoaded&&this._triggerLastFunctions()}),document.addEventListener("DOMContentLoaded",()=>{this._preconnect3rdParties()}),this.delayedScripts={normal:[],async:[],defer:[]},this.trash=[],this.allJQueries=[]}_addUserInteractionListener(e){if(document.hidden){e._triggerListener();return}this.triggerEvents.forEach(t=>window.addEventListener(t,e.userEventHandler,{passive:!0})),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler)}_removeUserInteractionListener(){this.triggerEvents.forEach(e=>window.removeEventListener(e,this.userEventHandler,{passive:!0})),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){"HTML"!==e.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._disableOtherEventListeners(e.target,!0),this._renameDOMAttribute(e.target,"onclick","rocket-onclick"),this._pendingClickStarted())}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._disableOtherEventListeners(e.target,!1),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this._pendingClickFinished()}_onTouchEnd(){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._disableOtherEventListeners(e.target,!1),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation(),this._pendingClickFinished()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach(e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))})}_interceptClickListeners(e){EventTarget.prototype.addEventListenerBase=EventTarget.prototype.addEventListener,EventTarget.prototype.addEventListener=function(t,i,r){"click"!==t||e.windowLoaded||i===e.clickHandler||e.interceptedClickListeners.push({target:this,func:i,options:r}),(this||window).addEventListenerBase(t,i,r)}}_disableOtherEventListeners(e,t){this.interceptedClickListeners.forEach(i=>{i.target===e&&(t?e.removeEventListener("click",i.func,i.options):e.addEventListener("click",i.func,i.options))}),e.parentNode!==document.documentElement&&this._disableOtherEventListeners(e.parentNode,t)}_waitForPendingClicks(){return new Promise(e=>{this._isClickPending?this._pendingClickFinished=e:e()})}_pendingClickStarted(){this._isClickPending=!0}_pendingClickFinished(){this._isClickPending=!1}_renameDOMAttribute(e,t,i){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(i,event.target.getAttribute(t)),event.target.removeAttribute(t))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let e=[];document.querySelectorAll("script[type=rocketlazyloadscript][data-rocket-src]").forEach(t=>{let i=t.getAttribute("data-rocket-src");if(i&&0!==i.indexOf("data:")){0===i.indexOf("//")&&(i=location.protocol+i);try{let r=new URL(i).origin;r!==location.origin&&e.push({src:r,crossOrigin:t.crossOrigin||"module"===t.getAttribute("data-rocket-type")})}catch(n){}}}),e=[...new Map(e.map(e=>[JSON.stringify(e),e])).values()],this._batchInjectResourceHints(e,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(this),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._pendingWebpackRequests(this),await this._triggerWindowLoad()}catch(e){console.error(e)}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this._waitForPendingClicks().then(()=>{this._replayClicks()}),this._emptyTrash()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach(e=>{e.hasAttribute("data-rocket-src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)})}async _transformScript(e){if(await this._littleBreath(),!0===e.noModule&&"noModule"in HTMLScriptElement.prototype){e.setAttribute("data-rocket-status","skipped");return}return new Promise(t=>{let i;function r(){(i||e).setAttribute("data-rocket-status","executed"),t()}try{if(navigator.userAgent.indexOf("Firefox/")>0||""===navigator.vendor)i=document.createElement("script"),[...e.attributes].forEach(e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),"data-rocket-src"===t&&(t="src"),i.setAttribute(t,e.nodeValue))}),e.text&&(i.text=e.text),i.hasAttribute("src")?(i.addEventListener("load",r),i.addEventListener("error",function(){i.setAttribute("data-rocket-status","failed"),t()}),setTimeout(()=>{i.isConnected||t()},1)):(i.text=e.text,r()),e.parentNode.replaceChild(i,e);else{let n=e.getAttribute("data-rocket-type"),s=e.getAttribute("data-rocket-src");n?(e.type=n,e.removeAttribute("data-rocket-type")):e.removeAttribute("type"),e.addEventListener("load",r),e.addEventListener("error",function(){e.setAttribute("data-rocket-status","failed"),t()}),s?(e.removeAttribute("data-rocket-src"),e.src=s):e.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(e.text)))}}catch(a){e.setAttribute("data-rocket-status","failed"),t()}})}async _loadScriptsFromList(e){let t=e.shift();return t&&t.isConnected?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(e,t){var i=document.createDocumentFragment();e.forEach(e=>{let r=e.getAttribute&&e.getAttribute("data-rocket-src")||e.src;if(r){let n=document.createElement("link");n.href=r,n.rel=t,"preconnect"!==t&&(n.as="script"),e.getAttribute&&"module"===e.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),e.crossOrigin&&(n.crossOrigin=e.crossOrigin),e.integrity&&(n.integrity=e.integrity),i.appendChild(n),this.trash.push(n)}}),document.head.appendChild(i)}_delayEventListeners(e){let t={};function i(i,r){return t[r].eventsToRewrite.indexOf(i)>=0&&!e.everythingLoaded?"rocket-"+i:i}function r(e,r){var n;!t[n=e]&&(t[n]={originalFunctions:{add:n.addEventListener,remove:n.removeEventListener},eventsToRewrite:[]},n.addEventListener=function(){arguments[0]=i(arguments[0],n),t[n].originalFunctions.add.apply(n,arguments)},n.removeEventListener=function(){arguments[0]=i(arguments[0],n),t[n].originalFunctions.remove.apply(n,arguments)}),t[e].eventsToRewrite.push(r)}function n(t,i){let r=t[i];t[i]=null,Object.defineProperty(t,i,{get:()=>r||function(){},set(n){e.everythingLoaded?r=n:t["rocket"+i]=r=n}})}r(document,"DOMContentLoaded"),r(window,"DOMContentLoaded"),r(window,"load"),r(window,"pageshow"),r(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t;function i(t){return e.everythingLoaded?t:t.split(" ").map(e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e).join(" ")}function r(r){if(r&&r.fn&&!e.allJQueries.includes(r)){r.fn.ready=r.fn.init.prototype.ready=function(t){return e.domReadyFired?t.bind(document)(r):document.addEventListener("rocket-DOMContentLoaded",()=>t.bind(document)(r)),r([])};let n=r.fn.on;r.fn.on=r.fn.init.prototype.on=function(){return this[0]===window&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(e=>{let t=arguments[0][e];delete arguments[0][e],arguments[0][i(e)]=t})),n.apply(this,arguments),this},e.allJQueries.push(r)}t=r}r(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>t,set(e){r(e)}})}async _pendingWebpackRequests(e){let t=document.querySelector("script[data-webpack]");async function i(){return new Promise(e=>{t.addEventListener("load",e),t.addEventListener("error",e)})}t&&(await i(),await e._requestAnimFrame(),await e._pendingWebpackRequests(e))}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}async _triggerWindowLoad(){await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach(e=>e(window).trigger("rocket-jquery-load")),await this._littleBreath();let e=new Event("rocket-pageshow");e.persisted=this.persisted,window.dispatchEvent(e),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted}),this.windowLoaded=!0}_triggerLastFunctions(){document.onreadystatechange&&document.onreadystatechange(),window.onload&&window.onload(),window.onpageshow&&window.onpageshow({persisted:this.persisted})}_handleDocumentWrite(){let e=new Map;document.write=document.writeln=function(t){let i=document.currentScript;i||console.error("WPRocket unable to document.write this: "+t);let r=document.createRange(),n=i.parentElement,s=e.get(i);void 0===s&&(s=i.nextSibling,e.set(i,s));let a=document.createDocumentFragment();r.setStart(a,0),a.appendChild(r.createContextualFragment(t)),n.insertBefore(a,s)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise(e=>setTimeout(e)):new Promise(e=>requestAnimationFrame(e))}_emptyTrash(){this.trash.forEach(e=>e.remove())}static run(){let e=new RocketLazyLoadScripts;e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();</script>
+	
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+	<title> &raquo; 4 kulturowe grzechy główne, czyli dlaczego komunikacja międzykulturowa w biznesie ma znaczenie</title>
+
+	<script type="rocketlazyloadscript">
+		document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, '') + ' js';
+	</script>
+
+	<link rel="apple-touch-icon" sizes="180x180" href="https://prooptima.pl/wp-content/themes/prooptima/assets/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://prooptima.pl/wp-content/themes/prooptima/assets/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://prooptima.pl/wp-content/themes/prooptima/assets/favicon/favicon-16x16.png">
+	<link rel="manifest" href="https://prooptima.pl/wp-content/themes/prooptima/assets/favicon/site.webmanifest">
+	<link rel="mask-icon" href="https://prooptima.pl/wp-content/themes/prooptima/assets/favicon/safari-pinned-tab.svg" color="#a1270c">
+	<link rel="shortcut icon" href="https://prooptima.pl/wp-content/themes/prooptima/assets/favicon/favicon.ico">
+	<meta name="msapplication-TileColor" content="#a1270c">
+	<meta name="msapplication-config" content="https://prooptima.pl/wp-content/themes/prooptima/assets/favicon/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="google-site-verification" content="PJQJ4FFnPjsJ3U5vkvs42qVmGaxQp5JZ4jzF_B8EGAA" />
+	<!-- Google Tag Manager -->
+	<script type="rocketlazyloadscript">
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-NCFTSH');
+	</script>
+	<!-- End Google Tag Manager -->
+
+	<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+		_linkedin_partner_id = "310210";
+		window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+		window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+	</script>
+	<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+		(function() {
+			var s = document.getElementsByTagName("script")[0];
+			var b = document.createElement("script");
+			b.type = "text/javascript";
+			b.async = true;
+			b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+			s.parentNode.insertBefore(b, s);
+		})();
+	</script>
+	<noscript>
+		<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=310210&fmt=gif" />
+	</noscript>
+	<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Prooptima",
+      "image": [
+        "https://prooptima.pl/wp-content/themes/prooptima/assets/images/logo-prooptima.svg"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "al. Daszyńskiego 12/13",
+        "addressLocality": "Kraków",
+        "postalCode": "31-534",
+        "addressCountry": "PL"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 50.060504,
+        "longitude": 19.953875
+      },
+      "url": "https://prooptima.pl/",
+      "telephone": "+48 12 397 79 51",
+      "email": "biuro@prooptima.pl",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+    </script>
+
+	<meta name='robots' content='max-image-preview:large' />
+<script type="rocketlazyloadscript" data-minify="1" id="cookieyes" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-content/cache/min/1/client_data/f0a90a91f65972764d2bad65/script.js?ver=1760443263" defer></script><link rel='dns-prefetch' href='//cdn.elementor.com' />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link data-minify="1" rel='stylesheet' id='woocommerce-layout-css' href='https://prooptima.pl/wp-content/cache/min/1/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=1760443263' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='woocommerce-smallscreen-css' href='https://prooptima.pl/wp-content/cache/min/1/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=1760443263' type='text/css' media='only screen and (max-width: 768px)' />
+<link data-minify="1" rel='stylesheet' id='woocommerce-general-css' href='https://prooptima.pl/wp-content/cache/background-css/prooptima.pl/wp-content/cache/min/1/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=1760443263&wpr_t=1767105840' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+/*# sourceURL=woocommerce-inline-inline-css */
+</style>
+<link data-minify="1" rel='stylesheet' id='ea11y-widget-fonts-css' href='https://prooptima.pl/wp-content/cache/min/1/wp-content/plugins/pojo-accessibility/assets/build/fonts.css?ver=1762420365' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='ea11y-skip-link-css' href='https://prooptima.pl/wp-content/cache/min/1/wp-content/plugins/pojo-accessibility/assets/build/skip-link.css?ver=1762420365' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='aos-css' href='https://prooptima.pl/wp-content/cache/min/1/wp-content/themes/prooptima/vendor/aos/dist/aos.css?ver=1760443263' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='fancybox-css' href='https://prooptima.pl/wp-content/cache/min/1/wp-content/themes/prooptima/vendor/@fancyapps/ui/dist/fancybox/fancybox.css?ver=1760443263' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='main-css' href='https://prooptima.pl/wp-content/cache/min/1/wp-content/themes/prooptima/css/main.css?ver=1760443263' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='wpdreams-asl-basic-css' href='https://prooptima.pl/wp-content/cache/min/1/wp-content/plugins/ajax-search-lite/css/style.basic.css?ver=1760443263' type='text/css' media='all' />
+<style id='wpdreams-asl-basic-inline-css' type='text/css'>
+
+					div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label {
+						font-size: 0px !important;
+						color: rgba(0, 0, 0, 0);
+					}
+					div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label:after {
+						font-size: 11px !important;
+						position: absolute;
+						top: 0;
+						left: 0;
+						z-index: 1;
+					}
+					.asl_w_container {
+						width: 100%;
+						margin: 0px 0px 0px 0px;
+						min-width: 200px;
+					}
+					div[id*='ajaxsearchlite'].asl_m {
+						width: 100%;
+					}
+					div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
+						font-weight: bold;
+						color: rgba(217, 49, 43, 1);
+						background-color: rgba(238, 238, 238, 1);
+					}
+					div[id*='ajaxsearchliteres'].wpdreams_asl_results .results img.asl_image {
+						width: 70px;
+						height: 70px;
+						object-fit: cover;
+					}
+					div[id*='ajaxsearchlite'].asl_r .results {
+						max-height: none;
+					}
+					div[id*='ajaxsearchlite'].asl_r {
+						position: absolute;
+					}
+				
+						.asl_m, .asl_m .probox {
+							background-color: rgba(243, 243, 243, 1) !important;
+							background-image: none !important;
+							-webkit-background-image: none !important;
+							-ms-background-image: none !important;
+						}
+					
+						.asl_m .probox svg {
+							fill: rgb(80, 93, 104) !important;
+						}
+						.asl_m .probox .innericon {
+							background-color: rgb(255, 255, 255) !important;
+							background-image: none !important;
+							-webkit-background-image: none !important;
+							-ms-background-image: none !important;
+						}
+					
+						div.asl_r.asl_w.vertical .results .item::after {
+							display: block;
+							position: absolute;
+							bottom: 0;
+							content: '';
+							height: 1px;
+							width: 100%;
+							background: #D8D8D8;
+						}
+						div.asl_r.asl_w.vertical .results .item.asl_last_item::after {
+							display: none;
+						}
+					
+/*# sourceURL=wpdreams-asl-basic-inline-css */
+</style>
+<link data-minify="1" rel='stylesheet' id='wpdreams-asl-instance-css' href='https://prooptima.pl/wp-content/cache/min/1/wp-content/plugins/ajax-search-lite/css/style-simple-grey.css?ver=1760443263' type='text/css' media='all' />
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.4.2" id="wc-jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_view_cart":"Zobacz koszyk","cart_url":"https://prooptima.pl","is_cart":"","cart_redirect_after_add":"no"};
+//# sourceURL=wc-add-to-cart-js-extra
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.4.2" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.4.2" id="wc-js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_password_show":"Poka\u017c has\u0142o","i18n_password_hide":"Ukryj has\u0142o"};
+//# sourceURL=woocommerce-js-extra
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.4.2" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+<link rel="canonical" href="https://prooptima.pl/wiedza/artykuly/4-kulturowe-grzechy-glowne-czyli-dlaczego-komunikacja-miedzykulturowa-w-biznesie-ma-znaczenie/" />
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Dodaj swój kod CSS tutaj.
+                     
+Na przykład:
+.przyklad {
+    color: red;
+}
+
+Sprawdź poniższą stronę, jeśli chcesz poszerzyć swoją wiedzę nt. CSS:
+http://www.w3schools.com/css/css_syntax.asp
+
+Koniec komentarza */ 
+
+.c-archive-filters--dictonary .c-archive-filters__list-item {
+	margin: 0;
+}
+
+.c-archive-filters--dictonary .c-archive-filters__title {
+    margin: 0 0 20px;
+}
+.c-archive-filters--dictonary .c-archive-filters__wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.c-archive-filters--dictonary .c-archive-filters__list {
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.c-archive-filters--dictonary .c-archive-filters__sublist {
+    display: flex;
+    flex-direction: row;
+    order: 99;
+	margin-top: 10px;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.c-archive-filters--dictonary .c-archive-filters__sublist .c-archive-filters__list-item {
+	margin: 0;
+}
+
+.c-archive-loop.c-archive-loop--dictonary .c-post-tile {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color: #fff;
+    padding: 10px 15px;
+}
+.c-archive-loop.c-archive-loop--dictonary .c-post-tile__photo,
+.c-archive-loop.c-archive-loop--dictonary .c-post-tile__meta {
+    display: none;
+}
+
+.dictonary-post .c-post-banner__photo {
+    display: none;
+}
+.dictonary-post .c-post-banner__wrap {
+    justify-content: center;
+    min-height: unset;
+}
+.dictonary-post .c-archive-filters {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+
+.dictonary-post .c-training-similar {
+	display: none;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500" media="print" onload="this.media='all'" />
+		<noscript>
+			<link href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500" rel="stylesheet" type="text/css" />
+		</noscript>
+
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+					<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+				<link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+								<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans&display=swap" media="all" />
+						<style type="text/css" id="wp-custom-css">
+			._hj_feedback_container ._hj-G09L\+__MinimizedWidgetMiddle__container {
+	top: 60% !important;
+}
+
+.c-archive-heading__breadcrumbs { margin-bottom:10px
+}
+
+.c-top-bar__search-form {
+    position: relative;
+}
+.c-top-bar__search-inner #rlvlive {
+    left: 0 !important;
+    position: absolute
+}
+
+.c-top-bar__search-form .relevanssi-live-search-results {
+    left: 0 !important;
+    border-radius: 0;
+    top: 51px !important;
+}
+
+.c-search__search-form {
+    position: relative;
+}
+
+.c-search__search-form #rlvlive2 {
+    left: 0 !important;
+    position: absolute
+}
+
+.c-search__search-form .relevanssi-live-search-results {
+    left: 0 !important;
+    border-radius: 0;
+    top: 51px !important;
+}
+
+.probox, div.asl_w .probox {
+    height: 48px !important;
+}
+
+#ajaxsearchlite1 .probox .proinput input, div.asl_w .probox .proinput input, 
+.probox .proinput input, div.asl_w .probox .proinput input {
+    color: #000000 !important;
+    font-size: 14px;
+    height: 48px !important;
+}
+
+
+#ajaxsearchlite1 .probox .proinput input, div.asl_w .probox .proinput input::placeholder,
+.probox .proinput input, div.asl_w .probox .proinput input::placeholder {
+    color: #000000 !important;
+}
+
+div.asl_m .proinput input.autocomplete {
+   opacity: 0.5; 
+    
+}
+
+div.asl_w .probox .proinput input.autocomplete {
+    margin-top: -48px !important;
+    font-size: 14px !important;
+}
+
+.asl_w .probox, div.asl_w .probox {
+    height: 48px !important;
+}
+
+div.asl_w .probox .promagnifier {
+    height: 48px !important;
+}       
+
+.asl_w .proclose {
+    height: 48px !important;
+}
+
+.asl_w .proloading {
+    margin-top: 6px !important;
+    margin-right: 5px !important;
+}
+
+.asl_w .proclose svg {
+    background: transparent !important; 
+    box-shadow: none !important;
+}
+
+.wpdreams_asl_results {
+    box-shadow: 10px 10px 34px rgba(0, 0, 0, .1) !important;
+    background-color: #fff !important;
+}
+
+.wpdreams_asl_results results {
+    padding-right: 5px;
+}
+div[id*="ajaxsearchlite"].asl_m {
+	width:70%;
+	margin:0 auto;
+}		</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link data-minify="1" rel='stylesheet' id='wc-blocks-integration-css-css' href='https://prooptima.pl/wp-content/cache/min/1/wp-content/plugins/custom-payment-gateways-woocommerce/build/style-index.css?ver=1760443263' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='wc-blocks-style-css' href='https://prooptima.pl/wp-content/cache/min/1/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=1760443263' type='text/css' media='all' />
+<style id="wpr-lazyload-bg-container"></style><style id="wpr-lazyload-bg-exclusion"></style>
+<noscript>
+<style id="wpr-lazyload-bg-nostyle">.woocommerce .blockUI.blockOverlay::before{--wpr-bg-a1a3b7fd-d5a4-43d4-a9bd-c54caee255f2: url('https://prooptima.pl/wp-content/plugins/woocommerce/assets/images/icons/loader.svg');}.woocommerce .loader::before{--wpr-bg-2bf40822-7efa-4f4f-9dff-d329b88de263: url('https://prooptima.pl/wp-content/plugins/woocommerce/assets/images/icons/loader.svg');}</style>
+</noscript>
+<script type="application/javascript">const rocket_pairs = [{"selector":".woocommerce .blockUI.blockOverlay","style":".woocommerce .blockUI.blockOverlay::before{--wpr-bg-a1a3b7fd-d5a4-43d4-a9bd-c54caee255f2: url('https:\/\/prooptima.pl\/wp-content\/plugins\/woocommerce\/assets\/images\/icons\/loader.svg');}","hash":"a1a3b7fd-d5a4-43d4-a9bd-c54caee255f2","url":"https:\/\/prooptima.pl\/wp-content\/plugins\/woocommerce\/assets\/images\/icons\/loader.svg"},{"selector":".woocommerce .loader","style":".woocommerce .loader::before{--wpr-bg-2bf40822-7efa-4f4f-9dff-d329b88de263: url('https:\/\/prooptima.pl\/wp-content\/plugins\/woocommerce\/assets\/images\/icons\/loader.svg');}","hash":"2bf40822-7efa-4f4f-9dff-d329b88de263","url":"https:\/\/prooptima.pl\/wp-content\/plugins\/woocommerce\/assets\/images\/icons\/loader.svg"}]; const rocket_excluded_pairs = [];</script></head>
+
+
+<body class="wp-singular post-template-default single single-post postid-940 single-format-standard wp-theme-prooptima theme-prooptima woocommerce-no-js ally-default">
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCFTSH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<header class="c-top-bar">
+
+	<div class="c-top-bar__search" data-search>
+		<div class="c-top-bar__search-outer">
+			<div class="o-container">
+
+				<div class="c-top-bar__search-inner">
+<!--                    <form class="o-inline-form c-top-bar__search-form" action="--><!--">-->
+<!--                        <input class="o-inline-form__input c-top-bar__search-input" type="search" name="s" placeholder="--><!--" data-rlvlive="true" data-rlvparentel="#rlvlive" data-rlvconfig="default">-->
+<!--                        <button type="submit" class="o-inline-form__btn c-top-bar__search-btn" href="#">--><!--</button>-->
+<!--                        <div id="rlvlive"></div>-->
+<!--                    </form>-->
+                  <div class="asl_w_container asl_w_container_1" data-id="1" data-instance="1">
+	<div id='ajaxsearchlite1'
+		data-id="1"
+		data-instance="1"
+		class="asl_w asl_m asl_m_1 asl_m_1_1">
+		<div class="probox">
+
+	
+	<div class='prosettings' style='display:none;' data-opened=0>
+				<div class='innericon'>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22" height="22" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+					<polygon transform = "rotate(90 256 256)" points="142.332,104.886 197.48,50 402.5,256 197.48,462 142.332,407.113 292.727,256 "/>
+				</svg>
+		</div>
+	</div>
+
+	
+	
+	<div class='proinput'>
+		<form role="search" action='#' autocomplete="off"
+				aria-label="Search form">
+			<input aria-label="Search input"
+					type='search' class='orig'
+					tabindex="0"
+					name='phrase'
+					placeholder='Wyszukaj...'
+					value=''
+					autocomplete="off"/>
+			<input aria-label="Search autocomplete"
+					type='text'
+					class='autocomplete'
+					tabindex="-1"
+					name='phrase'
+					value=''
+					autocomplete="off" disabled/>
+			<input type='submit' value="Start search" style='width:0; height: 0; visibility: hidden;'>
+		</form>
+	</div>
+
+	
+	
+	<button class='promagnifier' tabindex="0" aria-label="Search magnifier">
+				<span class='innericon' style="display:block;">
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22" height="22" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+					<path d="M460.355,421.59L353.844,315.078c20.041-27.553,31.885-61.437,31.885-98.037
+						C385.729,124.934,310.793,50,218.686,50C126.58,50,51.645,124.934,51.645,217.041c0,92.106,74.936,167.041,167.041,167.041
+						c34.912,0,67.352-10.773,94.184-29.158L419.945,462L460.355,421.59z M100.631,217.041c0-65.096,52.959-118.056,118.055-118.056
+						c65.098,0,118.057,52.959,118.057,118.056c0,65.096-52.959,118.056-118.057,118.056C153.59,335.097,100.631,282.137,100.631,217.041
+						z"/>
+				</svg>
+		</span>
+	</button>
+
+	
+	
+	<div class='proloading'>
+
+		<div class="asl_loader"><div class="asl_loader-inner asl_simple-circle"></div></div>
+
+			</div>
+
+			<div class='proclose'>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+				y="0px"
+				width="12" height="12" viewBox="0 0 512 512" enable-background="new 0 0 512 512"
+				xml:space="preserve">
+				<polygon points="438.393,374.595 319.757,255.977 438.378,137.348 374.595,73.607 255.995,192.225 137.375,73.622 73.607,137.352 192.246,255.983 73.622,374.625 137.352,438.393 256.002,319.734 374.652,438.378 "/>
+			</svg>
+		</div>
+	
+	
+</div>	</div>
+	<div class='asl_data_container' style="display:none !important;">
+		<div class="asl_init_data wpdreams_asl_data_ct"
+	style="display:none !important;"
+	id="asl_init_id_1"
+	data-asl-id="1"
+	data-asl-instance="1"
+	data-settings="{&quot;homeurl&quot;:&quot;https:\/\/prooptima.pl\/&quot;,&quot;resultstype&quot;:&quot;vertical&quot;,&quot;resultsposition&quot;:&quot;hover&quot;,&quot;itemscount&quot;:4,&quot;charcount&quot;:0,&quot;highlight&quot;:false,&quot;highlightWholewords&quot;:true,&quot;singleHighlight&quot;:false,&quot;scrollToResults&quot;:{&quot;enabled&quot;:false,&quot;offset&quot;:0},&quot;resultareaclickable&quot;:1,&quot;autocomplete&quot;:{&quot;enabled&quot;:true,&quot;lang&quot;:&quot;en&quot;,&quot;trigger_charcount&quot;:0},&quot;mobile&quot;:{&quot;menu_selector&quot;:&quot;#menu-toggle&quot;},&quot;trigger&quot;:{&quot;click&quot;:&quot;results_page&quot;,&quot;click_location&quot;:&quot;same&quot;,&quot;update_href&quot;:false,&quot;return&quot;:&quot;results_page&quot;,&quot;return_location&quot;:&quot;same&quot;,&quot;facet&quot;:true,&quot;type&quot;:true,&quot;redirect_url&quot;:&quot;?s={phrase}&quot;,&quot;delay&quot;:300},&quot;animations&quot;:{&quot;pc&quot;:{&quot;settings&quot;:{&quot;anim&quot;:&quot;fadedrop&quot;,&quot;dur&quot;:300},&quot;results&quot;:{&quot;anim&quot;:&quot;fadedrop&quot;,&quot;dur&quot;:300},&quot;items&quot;:&quot;voidanim&quot;},&quot;mob&quot;:{&quot;settings&quot;:{&quot;anim&quot;:&quot;fadedrop&quot;,&quot;dur&quot;:300},&quot;results&quot;:{&quot;anim&quot;:&quot;fadedrop&quot;,&quot;dur&quot;:300},&quot;items&quot;:&quot;voidanim&quot;}},&quot;autop&quot;:{&quot;state&quot;:true,&quot;phrase&quot;:&quot;&quot;,&quot;count&quot;:&quot;1&quot;},&quot;resPage&quot;:{&quot;useAjax&quot;:false,&quot;selector&quot;:&quot;#main&quot;,&quot;trigger_type&quot;:true,&quot;trigger_facet&quot;:true,&quot;trigger_magnifier&quot;:false,&quot;trigger_return&quot;:false},&quot;resultsSnapTo&quot;:&quot;left&quot;,&quot;results&quot;:{&quot;width&quot;:&quot;auto&quot;,&quot;width_tablet&quot;:&quot;auto&quot;,&quot;width_phone&quot;:&quot;auto&quot;},&quot;settingsimagepos&quot;:&quot;right&quot;,&quot;closeOnDocClick&quot;:true,&quot;overridewpdefault&quot;:true,&quot;override_method&quot;:&quot;get&quot;}"></div>
+	<div id="asl_hidden_data">
+		<svg style="position:absolute" height="0" width="0">
+			<filter id="aslblur">
+				<feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+			</filter>
+		</svg>
+		<svg style="position:absolute" height="0" width="0">
+			<filter id="no_aslblur"></filter>
+		</svg>
+	</div>
+	</div>
+
+	<div id='ajaxsearchliteres1'
+	class='vertical wpdreams_asl_results asl_w asl_r asl_r_1 asl_r_1_1'>
+
+	
+	<div class="results">
+
+		
+		<div class="resdrg">
+		</div>
+
+		
+	</div>
+
+	
+	
+</div>
+
+	<div id='__original__ajaxsearchlitesettings1'
+		data-id="1"
+		class="searchsettings wpdreams_asl_settings asl_w asl_s asl_s_1">
+		<form name='options'
+		aria-label="Search settings form"
+		autocomplete = 'off'>
+
+	
+	
+	<input type="hidden" name="filters_changed" style="display:none;" value="0">
+	<input type="hidden" name="filters_initial" style="display:none;" value="1">
+
+	<div class="asl_option_inner hiddend">
+		<input type='hidden' name='qtranslate_lang' id='qtranslate_lang'
+				value='0'/>
+	</div>
+
+	
+	
+	<fieldset class="asl_sett_scroll">
+		<legend style="display: none;">Generic selectors</legend>
+		<div class="asl_option" tabindex="0">
+			<div class="asl_option_inner">
+				<input type="checkbox" value="exact"
+						aria-label="Exact matches only"
+						name="asl_gen[]" />
+				<div class="asl_option_checkbox"></div>
+			</div>
+			<div class="asl_option_label">
+				Exact matches only			</div>
+		</div>
+		<div class="asl_option" tabindex="0">
+			<div class="asl_option_inner">
+				<input type="checkbox" value="title"
+						aria-label="Search in title"
+						name="asl_gen[]"  checked="checked"/>
+				<div class="asl_option_checkbox"></div>
+			</div>
+			<div class="asl_option_label">
+				Search in title			</div>
+		</div>
+		<div class="asl_option" tabindex="0">
+			<div class="asl_option_inner">
+				<input type="checkbox" value="content"
+						aria-label="Search in content"
+						name="asl_gen[]"  checked="checked"/>
+				<div class="asl_option_checkbox"></div>
+			</div>
+			<div class="asl_option_label">
+				Search in content			</div>
+		</div>
+		<div class="asl_option_inner hiddend">
+			<input type="checkbox" value="excerpt"
+					aria-label="Search in excerpt"
+					name="asl_gen[]"  checked="checked"/>
+			<div class="asl_option_checkbox"></div>
+		</div>
+	</fieldset>
+	<fieldset class="asl_sett_scroll">
+		<legend style="display: none;">Post Type Selectors</legend>
+					<div class="asl_option_inner hiddend">
+				<input type="checkbox" value="post"
+						aria-label="Hidden option, ignore please"
+						name="customset[]" checked="checked"/>
+			</div>
+						<div class="asl_option_inner hiddend">
+				<input type="checkbox" value="page"
+						aria-label="Hidden option, ignore please"
+						name="customset[]" checked="checked"/>
+			</div>
+						<div class="asl_option_inner hiddend">
+				<input type="checkbox" value="training"
+						aria-label="Hidden option, ignore please"
+						name="customset[]" checked="checked"/>
+			</div>
+						<div class="asl_option_inner hiddend">
+				<input type="checkbox" value="service"
+						aria-label="Hidden option, ignore please"
+						name="customset[]" checked="checked"/>
+			</div>
+						<div class="asl_option_inner hiddend">
+				<input type="checkbox" value="testimonial"
+						aria-label="Hidden option, ignore please"
+						name="customset[]" checked="checked"/>
+			</div>
+				</fieldset>
+	</form>
+	</div>
+</div>
+                    <a class="c-top-bar__search-close" href="#" data-search-trigger><svg width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg" class="close">
+<rect x="25.5212" y="0.772217" width="1.5" height="35" transform="rotate(45 25.5212 0.772217)" fill="#000"></rect>
+<rect x="26.2283" y="25.521" width="1.5" height="35" transform="rotate(135 26.2283 25.521)" fill="#000"></rect>
+</svg></a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="c-top-bar__top">
+		<div class="o-container o-container--wide">
+			<div class="c-top-bar__top-wrap">
+
+									<ul id="menu-menu-gorne" class="c-top-bar__top-nav"><li id="menu-item-1433" class="u-show@lg menu-item menu-item-type-post_type menu-item-object-page menu-item-1433"><a href="https://prooptima.pl/kalendarz-wydarzen/">Kalendarz wydarzeń</a></li>
+<li id="menu-item-4547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4547"><a href="tel:+48%2012%20397%2079%2051">+48 12 397 79 51</a></li>
+<li id="menu-item-1434" class="u-show@lg menu-item menu-item-type-custom menu-item-object-custom menu-item-1434"><a href="mailto:biuro@prooptima.pl">biuro@prooptima.pl</a></li>
+<li id="menu-item-1435" class="u-hide@lg featured menu-item menu-item-type-post_type menu-item-object-page menu-item-1435"><a href="https://prooptima.pl/bezplatna-konsultacja/">Bezpłatna konsultacja</a></li>
+</ul>				
+				<div class="c-top-bar__top-social">
+					
+
+
+	<div class="o-social">
+		
+			
+							<a href="https://www.facebook.com/prooptima/" class="o-social__link o-social__link--facebook" target="_blank">
+					<svg width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10.1073 3.22903L8.27523 3.22984C6.83878 3.22984 6.56068 3.91212 6.56068 4.9134V7.12114H9.98654L9.98533 10.5792H6.56068V19.4528H2.98737V10.5792H0V7.12114H2.98737V4.57115C2.98737 1.61159 4.79617 0 7.43767 0L10.1075 0.00424527L10.1073 3.22903Z" fill="#5B5B5B"/>
+</svg>
+				</a>
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+							<a href="https://pl.linkedin.com/company/prooptima" class="o-social__link o-social__link--linkedin" target="_blank">
+					<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 310 310" xml:space="preserve">
+<g id="XMLID_801_">
+	<path id="XMLID_802_" d="M72.16,99.73H9.927c-2.762,0-5,2.239-5,5v199.928c0,2.762,2.238,5,5,5H72.16c2.762,0,5-2.238,5-5V104.73
+		C77.16,101.969,74.922,99.73,72.16,99.73z"/>
+	<path id="XMLID_803_" d="M41.066,0.341C18.422,0.341,0,18.743,0,41.362C0,63.991,18.422,82.4,41.066,82.4
+		c22.626,0,41.033-18.41,41.033-41.038C82.1,18.743,63.692,0.341,41.066,0.341z"/>
+	<path id="XMLID_804_" d="M230.454,94.761c-24.995,0-43.472,10.745-54.679,22.954V104.73c0-2.761-2.238-5-5-5h-59.599
+		c-2.762,0-5,2.239-5,5v199.928c0,2.762,2.238,5,5,5h62.097c2.762,0,5-2.238,5-5v-98.918c0-33.333,9.054-46.319,32.29-46.319
+		c25.306,0,27.317,20.818,27.317,48.034v97.204c0,2.762,2.238,5,5,5H305c2.762,0,5-2.238,5-5V194.995
+		C310,145.43,300.549,94.761,230.454,94.761z"/>
+</g>
+</svg>				</a>
+			
+			</div>
+
+				</div>
+
+				<a class="c-top-bar__top-search-btn" href="#" data-search-trigger><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M15.8047 14.862L11.2547 10.312C12.136 9.22334 12.6667 7.84 12.6667 6.33334C12.6667 2.84134 9.82531 0 6.33331 0C2.84131 0 0 2.84131 0 6.33331C0 9.82531 2.84134 12.6667 6.33334 12.6667C7.84 12.6667 9.22334 12.136 10.312 11.2547L14.862 15.8047C14.992 15.9347 15.1627 16 15.3333 16C15.504 16 15.6747 15.9347 15.8047 15.8047C16.0653 15.544 16.0653 15.1227 15.8047 14.862ZM6.33334 11.3333C3.576 11.3333 1.33334 9.09066 1.33334 6.33331C1.33334 3.57597 3.576 1.33331 6.33334 1.33331C9.09069 1.33331 11.3333 3.57597 11.3333 6.33331C11.3333 9.09066 9.09066 11.3333 6.33334 11.3333Z" fill="#404040"/>
+</svg>
+</a>
+
+			</div>
+		</div>
+
+	</div>
+
+	<div class="c-top-bar__bottom">
+
+		<div class="o-container o-container--wide">
+
+			<div class="o-grid o-grid--justify o-grid--middle o-grid--nowrap c-top-bar__grid">
+
+				<div class="o-grid__col o-grid__col--auto c-top-bar__logo-col">
+					<a href="https://prooptima.pl/" class="c-top-bar__logo">
+						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="u-show@md" data-lazy-src="https://prooptima.pl/wp-content/themes/prooptima/assets/images/logo-prooptima.svg?v=2"><noscript><img src="https://prooptima.pl/wp-content/themes/prooptima/assets/images/logo-prooptima.svg?v=2" class="u-show@md"></noscript>
+						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="u-hide@md" data-lazy-src="https://prooptima.pl/wp-content/themes/prooptima/assets/images/logo-shape-red.svg?v=2"><noscript><img src="https://prooptima.pl/wp-content/themes/prooptima/assets/images/logo-shape-red.svg?v=2" class="u-hide@md"></noscript>
+					</a>
+				</div>
+
+				<div class="o-grid__col o-grid__col--shrink">
+											<ul id="menu-menu-gorne-1" class="c-top-bar__top-nav u-hide@lg"><li class="u-show@lg menu-item menu-item-type-post_type menu-item-object-page menu-item-1433"><a href="https://prooptima.pl/kalendarz-wydarzen/">Kalendarz wydarzeń</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4547"><a href="tel:+48%2012%20397%2079%2051">+48 12 397 79 51</a></li>
+<li class="u-show@lg menu-item menu-item-type-custom menu-item-object-custom menu-item-1434"><a href="mailto:biuro@prooptima.pl">biuro@prooptima.pl</a></li>
+<li class="u-hide@lg featured menu-item menu-item-type-post_type menu-item-object-page menu-item-1435"><a href="https://prooptima.pl/bezplatna-konsultacja/">Bezpłatna konsultacja</a></li>
+</ul>									</div>
+
+				<div class="o-grid__col o-grid__col--shrink u-hide@lg">
+					<a class="c-top-bar__top-search-btn" href="#" data-search-trigger><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M15.8047 14.862L11.2547 10.312C12.136 9.22334 12.6667 7.84 12.6667 6.33334C12.6667 2.84134 9.82531 0 6.33331 0C2.84131 0 0 2.84131 0 6.33331C0 9.82531 2.84134 12.6667 6.33334 12.6667C7.84 12.6667 9.22334 12.136 10.312 11.2547L14.862 15.8047C14.992 15.9347 15.1627 16 15.3333 16C15.504 16 15.6747 15.9347 15.8047 15.8047C16.0653 15.544 16.0653 15.1227 15.8047 14.862ZM6.33334 11.3333C3.576 11.3333 1.33334 9.09066 1.33334 6.33331C1.33334 3.57597 3.576 1.33331 6.33334 1.33331C9.09069 1.33331 11.3333 3.57597 11.3333 6.33331C11.3333 9.09066 9.09066 11.3333 6.33334 11.3333Z" fill="#404040"/>
+</svg>
+</a>
+
+				</div>
+
+				<div class="o-grid__col o-grid__col--shrink">
+					<div class="c-nav__wrapper" data-mobile-menu>
+
+						<a class="c-burger" data-mobile-menu-trigger></a>
+
+													<ul id="menu-menu-glowne" class="c-nav"><li id="menu-item-1361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1361 c-nav__item"><a href="#" class="c-nav__link">O&nbsp;nas</a>
+<ul class="sub-menu">
+	<li id="menu-item-2029" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2029 c-nav__item"><a href="https://prooptima.pl/kim-jestesmy/" class="c-nav__link">Kim jesteśmy</a></li>
+	<li id="menu-item-2166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2166 c-nav__item"><a href="https://prooptima.pl/dlaczego-my/" class="c-nav__link">Dlaczego my?</a></li>
+	<li id="menu-item-2165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2165 c-nav__item"><a href="https://prooptima.pl/w-czym-mozemy-pomoc/" class="c-nav__link">W&nbsp;czym możemy pomóc</a></li>
+	<li id="menu-item-1367" class="menu-item menu-item-type-post_type_archive menu-item-object-testimonial menu-item-1367 c-nav__item"><a href="https://prooptima.pl/opinie/" class="c-nav__link">Opinie</a></li>
+	<li id="menu-item-1362" class="menu-item menu-item-type-post_type_archive menu-item-object-expert menu-item-1362 c-nav__item"><a href="https://prooptima.pl/eksperci/" class="c-nav__link">Zespół</a></li>
+	<li id="menu-item-6516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6516 c-nav__item"><a href="https://prooptima.pl/oswiadczenie-o-dostepnosci/" class="c-nav__link">Oświadczenie o&nbsp;dostępności</a></li>
+	<li id="menu-item-2167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2167 c-nav__item"><a href="https://prooptima.pl/specjalizacja/" class="c-nav__link">Specjalizacja</a></li>
+</ul>
+</li>
+<li id="menu-item-1366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1366 c-nav__item"><a href="#" class="c-nav__link">Klienci</a>
+<ul class="sub-menu">
+	<li id="menu-item-1365" class="menu-item menu-item-type-post_type_archive menu-item-object-client menu-item-1365 c-nav__item"><a href="https://prooptima.pl/klienci/" class="c-nav__link">Nasi klienci</a></li>
+	<li id="menu-item-1364" class="menu-item menu-item-type-post_type_archive menu-item-object-case-study menu-item-1364 c-nav__item"><a href="https://prooptima.pl/case-studies/" class="c-nav__link">Case Studies</a></li>
+	<li id="menu-item-1363" class="menu-item menu-item-type-post_type_archive menu-item-object-testimonial menu-item-1363 c-nav__item"><a href="https://prooptima.pl/opinie/" class="c-nav__link">Opinie</a></li>
+</ul>
+</li>
+<li id="menu-item-770" class="mega-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-770 c-nav__item"><a href="#" class="c-nav__link">Oferta</a>
+<ul class="sub-menu">
+	<li id="menu-item-4071" class="menu-item menu-item-type-taxonomy menu-item-object-training-category menu-item-has-children menu-item-4071 c-nav__item"><a href="https://prooptima.pl/szkolenia/programy-rozwojowe/" class="c-nav__link">Programy rozwojowe</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1360" class="menu-item menu-item-type-post_type menu-item-object-training menu-item-1360 c-nav__item"><a href="https://prooptima.pl/szkolenia/programy-rozwojowe/akademia-menedzera/" class="c-nav__link">Akademia menedżera – cykl szkoleniowo wdrożeniowy</a></li>
+		<li id="menu-item-4076" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-4076 c-nav__item"><a href="https://prooptima.pl/uslugi/doradztwo/doradztwo-organizacyjne/sukcesja-przywodztwa-w-firmie/" class="c-nav__link">Sukcesja przywództwa</a></li>
+		<li id="menu-item-1359" class="menu-item menu-item-type-post_type menu-item-object-training menu-item-1359 c-nav__item"><a href="https://prooptima.pl/szkolenia/programy-rozwojowe/ipr-indywidualny-program-rozwojowy/" class="c-nav__link">IPR – Indywidualny Program Rozwojowy</a></li>
+		<li id="menu-item-4075" class="menu-item menu-item-type-taxonomy menu-item-object-training-category menu-item-4075 c-nav__item"><a href="https://prooptima.pl/szkolenia/programy-rozwojowe/" class="c-nav__link">więcej</a></li>
+	</ul>
+</li>
+	<li id="menu-item-772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-772 c-nav__item prooptima"><a href="https://prooptima.pl/szkolenia/" class="c-nav__link">Szkolenia</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1384" class="menu-item menu-item-type-taxonomy menu-item-object-training-category menu-item-1384 c-nav__item"><a href="https://prooptima.pl/szkolenia/lider/" class="c-nav__link">Lider</a></li>
+		<li id="menu-item-1918" class="menu-item menu-item-type-taxonomy menu-item-object-training-category menu-item-1918 c-nav__item"><a href="https://prooptima.pl/szkolenia/zespol/" class="c-nav__link">Zespół</a></li>
+		<li id="menu-item-1385" class="menu-item menu-item-type-taxonomy menu-item-object-training-category menu-item-1385 c-nav__item"><a href="https://prooptima.pl/szkolenia/efektywnosc-osobista/" class="c-nav__link">Osobiste</a></li>
+		<li id="menu-item-1383" class="menu-item menu-item-type-taxonomy menu-item-object-training-category menu-item-1383 c-nav__item"><a href="https://prooptima.pl/szkolenia/customer-experience/" class="c-nav__link">Customer Experience</a></li>
+		<li id="menu-item-3236" class="more-link menu-item menu-item-type-post_type_archive menu-item-object-training menu-item-3236 c-nav__item"><a href="https://prooptima.pl/szkolenia/" class="c-nav__link">więcej</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4072" class="menu-item menu-item-type-taxonomy menu-item-object-service-category menu-item-has-children menu-item-4072 c-nav__item"><a href="https://prooptima.pl/uslugi/doradztwo/" class="c-nav__link">Doradztwo</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5696" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-5696 c-nav__item"><a href="https://prooptima.pl/uslugi/doradztwo/doradztwo-organizacyjne/strategia-firmy/" class="c-nav__link">Strategia firmy</a></li>
+		<li id="menu-item-3232" class="menu-item menu-item-type-taxonomy menu-item-object-service-category menu-item-3232 c-nav__item"><a href="https://prooptima.pl/uslugi/doradztwo/doradztwo-hr/" class="c-nav__link">Doradztwo HR</a></li>
+		<li id="menu-item-1440" class="menu-item menu-item-type-taxonomy menu-item-object-service-category menu-item-1440 c-nav__item"><a href="https://prooptima.pl/uslugi/badania/badania-wnetrza-organizacji/" class="c-nav__link">Badania wnętrza organizacji</a></li>
+		<li id="menu-item-3233" class="menu-item menu-item-type-taxonomy menu-item-object-service-category menu-item-3233 c-nav__item"><a href="https://prooptima.pl/uslugi/badania/badania-klientow/" class="c-nav__link">Badania klientów</a></li>
+		<li id="menu-item-5703" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-5703 c-nav__item"><a href="https://prooptima.pl/uslugi/doradztwo/uslugi-rozwojowe/shadowing/" class="c-nav__link">Shadowing</a></li>
+		<li id="menu-item-5704" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-5704 c-nav__item"><a href="https://prooptima.pl/uslugi/doradztwo/uslugi-rozwojowe/coaching/" class="c-nav__link">Coaching</a></li>
+		<li id="menu-item-3235" class="more-link menu-item menu-item-type-taxonomy menu-item-object-service-category menu-item-3235 c-nav__item"><a href="https://prooptima.pl/uslugi/doradztwo/" class="c-nav__link">więcej</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1441" class="menu-item menu-item-type-taxonomy menu-item-object-service-category menu-item-has-children menu-item-1441 c-nav__item"><a href="https://prooptima.pl/uslugi/badania/badania-klientow/" class="c-nav__link">Badania CX</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1447" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1447 c-nav__item"><a href="https://prooptima.pl/uslugi/badania/badania-klientow/nps-wskaznik-polecen-net-promoter-score/" class="c-nav__link">Badanie NPS – Wskaźnik poleceń Net Promoter Score</a></li>
+		<li id="menu-item-3231" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-3231 c-nav__item"><a href="https://prooptima.pl/uslugi/badania/mapowanie-podrozy-klienta-status-quo-customer-journey-map-as-is/" class="c-nav__link">Customer Journey Map „as IS” czyli mapa podróży klienta</a></li>
+		<li id="menu-item-1915" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1915 c-nav__item"><a href="https://prooptima.pl/uslugi/badania/badania-wnetrza-organizacji/badanie-spojnosci-obslugi-autorskie-badanie-przesiewowe-prooptima/" class="c-nav__link">Badanie Spójności CX</a></li>
+		<li id="menu-item-1390" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1390 c-nav__item"><a href="https://prooptima.pl/uslugi/badania/badania-wnetrza-organizacji/zbadaj-dojrzalosc-cxowa-twojej-organizacji-cem-maturity/" class="c-nav__link">Dojrzałość CXowa – CEM maturity</a></li>
+		<li id="menu-item-1916" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1916 c-nav__item"><a href="https://prooptima.pl/uslugi/badania/badania-wnetrza-organizacji/liderzy-od-nich-zalezy-sukces-w-customer-experience-management/" class="c-nav__link">Ocena potencjału menedżerów w&nbsp;CEM</a></li>
+		<li id="menu-item-1439" class="more-link menu-item menu-item-type-taxonomy menu-item-object-service-category menu-item-1439 c-nav__item"><a href="https://prooptima.pl/uslugi/badania/badania-klientow/" class="c-nav__link">więcej</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4073" class="menu-item menu-item-type-post_type_archive menu-item-object-training menu-item-has-children menu-item-4073 c-nav__item"><a href="https://prooptima.pl/szkolenia/" class="c-nav__link">Edukacja</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1443" class="menu-item menu-item-type-taxonomy menu-item-object-training-category menu-item-1443 c-nav__item"><a href="https://prooptima.pl/szkolenia/customer-experience/" class="c-nav__link">Szkolenia dedykowane CX</a></li>
+		<li id="menu-item-1444" class="menu-item menu-item-type-taxonomy menu-item-object-training-category menu-item-1444 c-nav__item"><a href="https://prooptima.pl/szkolenia/otwarte/" class="c-nav__link">Szkolenia otwarte CX</a></li>
+		<li id="menu-item-1344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1344 c-nav__item"><a href="https://prooptima.pl/wiedza/webinary/" class="c-nav__link">Webinary</a></li>
+		<li id="menu-item-1445" class="more-link menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1445 c-nav__item"><a href="https://prooptima.pl/wiedza/artykuly/customer-experience/" class="c-nav__link">więcej</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1954" class="menu-item menu-item-type-taxonomy menu-item-object-service-category menu-item-has-children menu-item-1954 c-nav__item"><a href="https://prooptima.pl/uslugi/wdrozenia/" class="c-nav__link">Wdrożenia CX</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4074" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-4074 c-nav__item"><a href="https://prooptima.pl/uslugi/badania/mapowanie-podrozy-klienta-status-quo-customer-journey-map-as-is/" class="c-nav__link">Mapowanie podróży klienta</a></li>
+		<li id="menu-item-2034" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-2034 c-nav__item"><a href="https://prooptima.pl/uslugi/doradztwo/doradztwo-hr/employee-experience/" class="c-nav__link">Employee Experience</a></li>
+		<li id="menu-item-1955" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1955 c-nav__item cem"><a href="https://prooptima.pl/uslugi/wdrozenia/rewitalizacja-standardow-obslugi-klienta/" class="c-nav__link">Rewitalizacja standardów obsługi</a></li>
+		<li id="menu-item-4077" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-4077 c-nav__item"><a href="https://prooptima.pl/uslugi/wdrozenia/customer-experience-management/" class="c-nav__link">Customer Experience Management</a></li>
+		<li id="menu-item-3234" class="more-link menu-item menu-item-type-taxonomy menu-item-object-service-category menu-item-3234 c-nav__item"><a href="https://prooptima.pl/uslugi/wdrozenia/" class="c-nav__link">więcej</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-474" class="menu-item menu-item-type-post_type_archive menu-item-object-training menu-item-474 c-nav__item"><a href="https://prooptima.pl/szkolenia/" class="c-nav__link">Szkolenia</a></li>
+<li id="menu-item-1429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1429 c-nav__item"><a href="https://prooptima.pl/sklep/" class="c-nav__link">Sklep</a></li>
+<li id="menu-item-475" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-475 c-nav__item"><a href="https://prooptima.pl/wiedza/" class="c-nav__link">Wiedza</a>
+<ul class="sub-menu">
+	<li id="menu-item-3197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3197 c-nav__item"><a href="https://prooptima.pl/wiedza/artykuly/" class="c-nav__link">Artykuły</a></li>
+	<li id="menu-item-5271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5271 c-nav__item"><a href="https://prooptima.pl/wiedza/slownik-pojec/" class="c-nav__link">Słownik pojęć</a></li>
+	<li id="menu-item-3196" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3196 c-nav__item"><a href="https://prooptima.pl/wiedza/webinary/" class="c-nav__link">Webinary</a></li>
+	<li id="menu-item-4078" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4078 c-nav__item"><a href="https://prooptima.pl/wiedza/do-pobrania/" class="c-nav__link">Do&nbsp;pobrania</a></li>
+</ul>
+</li>
+<li id="menu-item-798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798 c-nav__item"><a href="https://prooptima.pl/kontakt/" class="c-nav__link">Kontakt</a></li>
+<li id="menu-item-802" class="featured menu-item menu-item-type-post_type menu-item-object-page menu-item-802 c-nav__item"><a href="https://prooptima.pl/bezplatna-konsultacja/" class="c-nav__link">Bezpłatna konsultacja</a></li>
+<li id="menu-item-6665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6665 c-nav__item"><a href="https://prooptima.pl/dlaczego-my/certyfikaty-i-licencje/" class="c-nav__link">certyfikaty i&nbsp;licencje</a></li>
+</ul>						
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+</header>
+	<main class="o-wrapper">
+
+<div class="c-fixed-nav">
+	<a href="https://prooptima.pl/wiedza/" class="o-inline-svg  o-btn o-btn--hollow c-fixed-nav__back-btn" onclick="window.goBack()"><svg width="12" height="21" viewBox="0 0 12 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.416994 5.94777L1.3103 6.84605L5.28535 2.8487L5.28534 20.5835L6.54868 20.5835L6.54868 2.8487L10.5237 6.84605L11.417 5.94777L5.91697 0.416821L0.416994 5.94777Z" fill="#1D2A52"/>
+</svg>
+</a>
+
+				<div class="c-fixed-nav__menu-wrap">
+			<a href="#" class="o-btn o-btn--hollow o-inline-svg c-fixed-nav__btn">spis treści</a>
+
+			<div class="c-fixed-nav__menu">
+									<div class="c-fixed-nav__menu-item">
+						<a href="#grzech-i-moc-blednych-zalozen">Grzech I. Moc błędnych założeń</a>
+					</div>
+
+									<div class="c-fixed-nav__menu-item">
+						<a href="#grzech-ii-bardziej-obcy-niz-swoj-roznice-kulturowe">Grzech II. Bardziej obcy, niż swój: różnice kulturowe</a>
+					</div>
+
+									<div class="c-fixed-nav__menu-item">
+						<a href="#grzech-iii-zatrzasniete-okna">Grzech III. Zatrzaśnięte okna</a>
+					</div>
+
+									<div class="c-fixed-nav__menu-item">
+						<a href="#grzech-iv-w-petli-czasu">Grzech IV. W&nbsp;pętli czasu</a>
+					</div>
+
+									<div class="c-fixed-nav__menu-item">
+						<a href="#relatywizm-kulturowy">Relatywizm Kulturowy</a>
+					</div>
+
+							</div>
+
+		</div>
+	
+	
+</div>
+<section class="o-section c-post-banner">
+	<div class="o-container o-container--wide">
+
+		<div class="c-post-banner__wrap">
+
+			<div class="c-post-banner__content">
+
+				<div class="c-post-banner__breadcrumbs"></div>
+				<h1 class="o-title c-post-banner__title">4 kulturowe grzechy główne, czyli dlaczego komunikacja międzykulturowa w&nbsp;biznesie ma&nbsp;znaczenie</h1>
+
+								
+				<div class="c-post-banner__excerpt">
+									</div>
+
+				
+										
+					
+						<div class="c-post-banner__author">
+							<a href="https://prooptima.pl/wiedza/author/prooptima/" class="c-post-banner__author-img o-img-box"><img width="1194" height="720" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201194%20720'%3E%3C/svg%3E" data-lazy-src="https://prooptima.pl/wp-content/uploads/2023/10/logo-proopt.svg"><noscript><img width="1194" height="720" src="https://prooptima.pl/wp-content/uploads/2023/10/logo-proopt.svg"></noscript></a>
+							<a href="https://prooptima.pl/wiedza/author/prooptima/" class="c-post-banner__author-name">ProOptima</a>
+						</div>
+
+					
+				
+
+
+				<div class="c-post-banner__share o-social">
+					<a target="_blank" class="o-social__link" href="https://www.facebook.com/sharer/sharer.php?u=https://prooptima.pl/wiedza/artykuly/4-kulturowe-grzechy-glowne-czyli-dlaczego-komunikacja-miedzykulturowa-w-biznesie-ma-znaczenie/"><svg width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10.1073 3.22903L8.27523 3.22984C6.83878 3.22984 6.56068 3.91212 6.56068 4.9134V7.12114H9.98654L9.98533 10.5792H6.56068V19.4528H2.98737V10.5792H0V7.12114H2.98737V4.57115C2.98737 1.61159 4.79617 0 7.43767 0L10.1075 0.00424527L10.1073 3.22903Z" fill="#5B5B5B"/>
+</svg>
+</a>
+					<a target="_blank" class="o-social__link" href="https://twitter.com/intent/tweet?text=https://prooptima.pl/wiedza/artykuly/4-kulturowe-grzechy-glowne-czyli-dlaczego-komunikacja-miedzykulturowa-w-biznesie-ma-znaczenie/"><svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/>
+</svg>
+</a>
+					<a target="_blank" class="o-social__link" href="https://www.linkedin.com/sharing/share-offsite/?url=https://prooptima.pl/wiedza/artykuly/4-kulturowe-grzechy-glowne-czyli-dlaczego-komunikacja-miedzykulturowa-w-biznesie-ma-znaczenie/"><?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 310 310" xml:space="preserve">
+<g id="XMLID_801_">
+	<path id="XMLID_802_" d="M72.16,99.73H9.927c-2.762,0-5,2.239-5,5v199.928c0,2.762,2.238,5,5,5H72.16c2.762,0,5-2.238,5-5V104.73
+		C77.16,101.969,74.922,99.73,72.16,99.73z"/>
+	<path id="XMLID_803_" d="M41.066,0.341C18.422,0.341,0,18.743,0,41.362C0,63.991,18.422,82.4,41.066,82.4
+		c22.626,0,41.033-18.41,41.033-41.038C82.1,18.743,63.692,0.341,41.066,0.341z"/>
+	<path id="XMLID_804_" d="M230.454,94.761c-24.995,0-43.472,10.745-54.679,22.954V104.73c0-2.761-2.238-5-5-5h-59.599
+		c-2.762,0-5,2.239-5,5v199.928c0,2.762,2.238,5,5,5h62.097c2.762,0,5-2.238,5-5v-98.918c0-33.333,9.054-46.319,32.29-46.319
+		c25.306,0,27.317,20.818,27.317,48.034v97.204c0,2.762,2.238,5,5,5H305c2.762,0,5-2.238,5-5V194.995
+		C310,145.43,300.549,94.761,230.454,94.761z"/>
+</g>
+</svg></a>
+				</div>
+
+
+			</div>
+
+			<div class="c-post-banner__photo">
+				<div class="u-stretch-right  o-img-box">
+					<img width="900" height="599" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20599'%3E%3C/svg%3E" class="attachment-xlarge size-xlarge wp-post-image" alt="4 kulturowe grzechy główne, czyli dlaczego komunikacja międzykulturowa w biznesie ma znaczenie" decoding="async" fetchpriority="high" data-lazy-srcset="https://prooptima.pl/wp-content/uploads/2023/11/xbusiness-people-different-cultures-and-races-talking_rKMbyLC4o.png.pagespeed.ic_.J70-nbCRh8.webp 900w, https://prooptima.pl/wp-content/uploads/2023/11/xbusiness-people-different-cultures-and-races-talking_rKMbyLC4o.png.pagespeed.ic_.J70-nbCRh8-300x200.webp 300w, https://prooptima.pl/wp-content/uploads/2023/11/xbusiness-people-different-cultures-and-races-talking_rKMbyLC4o.png.pagespeed.ic_.J70-nbCRh8-768x511.webp 768w, https://prooptima.pl/wp-content/uploads/2023/11/xbusiness-people-different-cultures-and-races-talking_rKMbyLC4o.png.pagespeed.ic_.J70-nbCRh8-600x399.webp 600w" data-lazy-sizes="(max-width: 900px) 100vw, 900px" data-lazy-src="https://prooptima.pl/wp-content/uploads/2023/11/xbusiness-people-different-cultures-and-races-talking_rKMbyLC4o.png.pagespeed.ic_.J70-nbCRh8.webp" /><noscript><img width="900" height="599" src="https://prooptima.pl/wp-content/uploads/2023/11/xbusiness-people-different-cultures-and-races-talking_rKMbyLC4o.png.pagespeed.ic_.J70-nbCRh8.webp" class="attachment-xlarge size-xlarge wp-post-image" alt="4 kulturowe grzechy główne, czyli dlaczego komunikacja międzykulturowa w biznesie ma znaczenie" decoding="async" fetchpriority="high" srcset="https://prooptima.pl/wp-content/uploads/2023/11/xbusiness-people-different-cultures-and-races-talking_rKMbyLC4o.png.pagespeed.ic_.J70-nbCRh8.webp 900w, https://prooptima.pl/wp-content/uploads/2023/11/xbusiness-people-different-cultures-and-races-talking_rKMbyLC4o.png.pagespeed.ic_.J70-nbCRh8-300x200.webp 300w, https://prooptima.pl/wp-content/uploads/2023/11/xbusiness-people-different-cultures-and-races-talking_rKMbyLC4o.png.pagespeed.ic_.J70-nbCRh8-768x511.webp 768w, https://prooptima.pl/wp-content/uploads/2023/11/xbusiness-people-different-cultures-and-races-talking_rKMbyLC4o.png.pagespeed.ic_.J70-nbCRh8-600x399.webp 600w" sizes="(max-width: 900px) 100vw, 900px" /></noscript>				</div>
+			</div>
+
+		</div>
+
+	</div>
+</section>
+
+  
+    <section class="c-post-text-section">
+	<div class="o-container o-container--narrow">
+
+		<div class="c-post-text-section__content">
+									<p data-pm-slice="1 1 []">Wyobraźmy sobie następującą sytuację: nasze przedsiębiorstwo produkujące plastikowe elementy wykończenia wnętrz samochodów, otrzymało próbne zlecenie z niemieckiej fabryki w Hamburgu. Moment idealny. Od dłuższego czasu zastanawialiśmy się nad dywersyfikacją produkcji i rozpoczęciem działalności na nowym rynku zbytu. Po tygodniach <a href="https://prooptima.pl/szkolenia/efektywnosc-osobista/negocjacje-normy-formy-i-techniki/" target="_blank" rel="noopener noreferrer">negocjacji</a> udało się porozumieć w sprawie ceny, harmonogramu działań i łańcucha dostaw. Niespodziewane trudności pojawiły się podczas uzgadniania charakterystyki elementów.</p>
+<p>Istota komunikacji międzykulturowej odgrywa kluczową rolę w&nbsp;zrozumieniu różnic kulturowych i&nbsp;negocjacji, co&nbsp;wpływa na&nbsp;efektywność interakcji międzynarodowych.</p>
+<p>Największym zaskoczeniem nie było to, że <a href="https://prooptima.pl/wiedza/artykuly/customer-experience/klient-trudny-czy-wymagajacy/" target="_blank" rel="noopener noreferrer">klient</a> miał szczegółowe i wyraźnie sprecyzowane żądania, lecz sposób w jaki je komunikował. Z każdym kolejnym spotkaniem, rozmową telefoniczną, czy otrzymanym e-mailem, oczekiwania rosły, pojawiły się nakazy, a w końcu również bezpośrednio wyrażane pretensje. Nasi doświadczeni projektanci oddelegowani do współpracy z hamburską fabryką z oburzeniem zauważyli, że zaczęto ich pouczać, zaś niemiecki zleceniodawca zawsze wiedział wszystko lepiej. Ostatecznie, świetnie zapowiadający się biznes zakończono na jednym, z trudem zrealizowanym zleceniu.</p>
+<p>Cała historia, prócz nieistotnych detali wydarzyła się naprawdę kilka lat temu. Pomimo negatywnego doświadczenia, fabryka nie dała za wygraną. Właściciele podjęli trud sukcesywnego inwestowania w zespół niemałych środków finansowych i pozyskiwania specjalistycznego know-how. Wszystko po to, aby nauczyć się funkcjonować w trudnym, międzynarodowym środowisku biznesowym. Z powodzeniem. Dzisiaj przedsiębiorstwo przetwarza dla niemieckich i austriackich partnerów kilkanaście tysięcy ton plastiku rocznie. Przytoczona powyżej historia jest też idealnym przykładem na to, jak różnice kulturowe mogą zdecydowanie utrudnić, a niekiedy wręcz zaprzepaścić, świetnie rokującą współpracę. Błędy popełnione przez pracowników polskiej firmy w realizacji zagranicznego kontraktu, towarzyszą większości przedsiębiorstw otwierających się na rynki zewnętrzne. Pojawiają się w efekcie tego, co określić można jako cztery kulturowe grzechy główne we współpracy z zagranicznymi podmiotami.</p>
+<h2>Znaczenie komunikacji międzykulturowej w&nbsp;biznesie</h2>
+<p><a href="https://prooptima.pl/wiedza/artykuly/co-zyskujesz-dzieki-szkoleniom-z-komunikacji-miedzykulturowej-w-biznesie/" target="_blank" rel="noopener noreferrer">Komunikacja międzykulturowa w&nbsp;biznesie</a> jest kluczowym elementem, który&nbsp;umożliwia skuteczną współpracę z&nbsp;zagranicznymi partnerami biznesowymi. Różnice kulturowe mogą być przyczyną niepowodzenia przedsięwzięcia biznesowego, jeśli nie&nbsp;są&nbsp;odpowiednio zrozumiane i&nbsp;uwzględnione. Przykładem może być sytuacja, w&nbsp;której&nbsp;polska firma nie&nbsp;dostosowała swojego stylu komunikacji do&nbsp;oczekiwań niemieckiego klienta, co&nbsp;doprowadziło do&nbsp;nieporozumień i&nbsp;frustracji po&nbsp;obu stronach. Aby uniknąć takich problemów, konieczne jest zrozumienie specyfiki kulturowej partnerów biznesowych. Komunikacja międzykulturowa w&nbsp;biznesie pozwala na&nbsp;budowanie zaufania, unikanie nieporozumień i&nbsp;błędów, które mogą wynikać z&nbsp;różnic kulturowych. Dzięki temu możliwe jest osiągnięcie sukcesu na&nbsp;międzynarodowych rynkach.</p>
+<h3>Skuteczna współpraca z&nbsp;zagranicznymi partnerami biznesowymi</h3>
+<p>Skuteczna współpraca z&nbsp;zagranicznymi partnerami biznesowymi opiera się na&nbsp;umiejętności komunikacji międzykulturowej. Zrozumienie specyfiki kulturowej partnerów biznesowych jest kluczowe, aby uniknąć nieporozumień i&nbsp;błędów, które mogą wynikać z&nbsp;różnic kulturowych. Na&nbsp;przykład, w&nbsp;kulturach wysokiego kontekstu, takich jak japońska, komunikacja jest bardziej subtelna i&nbsp;opiera się na&nbsp;kontekście, podczas gdy&nbsp;w&nbsp;kulturach niskiego kontekstu, takich jak amerykańska, komunikacja jest bardziej bezpośrednia. Aby skutecznie współpracować z&nbsp;zagranicznymi partnerami, warto inwestować w&nbsp;szkolenia z&nbsp;zakresu komunikacji międzykulturowej, które pomogą zrozumieć i&nbsp;dostosować się do&nbsp;różnych stylów komunikacji. Dzięki temu możliwe jest budowanie trwałych i&nbsp;owocnych relacji biznesowych.</p>
+		</div>
+
+	</div>
+</section>
+  
+    <section class="c-post-text-section">
+	<div class="o-container o-container--narrow">
+
+		<div class="c-post-text-section__content">
+			<a class="o-scroll-anchor o-scroll-anchor--inline" id="grzech-i-moc-blednych-zalozen"></a>							<h2 class="o-title">Grzech I. Moc błędnych założeń</h2>
+						<p data-pm-slice="1 1 []">Dorastanie w znanym środowisku, w kulturze z którą obcujemy na co dzień, wytwarza przekonanie, że to w jaki sposób myślimy my, jest jedynym, właściwym wszystkim ludziom na ziemi sposobem postrzegania otaczającej rzeczywistości. Takie błędne <a href="https://prooptima.pl/wiedza/webinary/customer-experience-webinary/dojechac-do-celu-czyli-jak-wykorzystywac-mapy-podrozy-klientow-by-osiagac-zalozone-cele-cx-ex/" target="_blank" rel="noopener noreferrer">założenie</a> jest szczególnie bliskie społeczeństwom, które pozostają relatywnie homogeniczne. Polacy są tego najlepszym przykładem. W zasadzie nie sposób odnaleźć w Europie drugiego, tak jednorodnego społeczeństwa, którego 96% populacji, czyli licząc pobieżnie blisko 37 mln ludzi, deklaruje posługiwanie się tym samym językiem polskim, przynależność do jednej słowiańskiej grupy etnicznej oraz wyznawaniem podobnych wartości. Jednorodność rodzi w tym przypadku istotne następstwa.</p>
+<p>Konieczność poznawania odmiennych kultur i&nbsp;zwyczajów panujących w&nbsp;biznesie jest kluczowa dla efektywnej komunikacji. Zrozumienie i&nbsp;akceptacja innych zachowań są&nbsp;istotne dla uniknięcia niepowodzeń w&nbsp;przedsięwzięciach biznesowych.</p>
+<p>Brak codziennego konfrontowania się z odmiennościami potęguje wrażenie, że nasz „punkt widzenia” jest w zasadniczy sposób podzielany przez innych. W rzeczywistości każdy, kto wyjechał za granicę nawet na krótko, zdał sobie (czasami bardzo boleśnie) sprawę z faktu, że punkt widzenia zależy od miejsca zamieszkania i kultury narodowej. Często okazuje się, że ludzie poza granicami naszego kraju pochodzenia nie tylko myślą inaczej, ale działają z odmienną dynamiką i <a href="https://prooptima.pl/wiedza/slownik-pojec/human-resources-hr/z-hr/zaangazowanie-w-prace/" target="_blank" rel="noopener noreferrer">zaangażowaniem</a>, podchodzą do życia z odrębną filozofią, a wartości, które są dla nich ważne, mogą znacznie odbiegać od naszego kodeksu moralnego. Podobnie w biznesie, utarty schemat działania w Polsce, w Niemczech i innych krajach europejskich wzbudzać może zdziwienie i niezrozumienie. To, co wydaje się oczywiste dla polskiego przedsiębiorcy przyzwyczajonego do pełnej samodzielności i scentralizowanego sposobu <a href="https://prooptima.pl/wiedza/artykuly/zarzadzanie-czasem-dlaczego-szkolenia-nie-dzialaja/" target="_blank" rel="noopener noreferrer">zarządzania</a>, we współpracy z firmami zagranicznymi odbierane bywa z jednej strony jako anachroniczna apodyktyczność i przestarzały model kierowania, a z drugiej zaś jako nowatorskie i zbyt fantazyjne podejście do biznesu. Z pozoru wykluczające się skrajności, które w zależności od rejonu świata, dostrzegają w nas partnerzy handlowi.</p>
+<p>Na pierwsze błędne założenie tożsamego myślenia, nakładają się dwa inne, z czego jedno ma szczególne znaczenie w biznesie. Nazwijmy je roboczo błędami skali i podejścia. <a href="https://prooptima.pl/wiedza/webinary/diversity-and-inclusion-di-czyli-roznorodnosc-i-wlaczanie-czy-i-jak-wdrazac-takie-podejscie-w-polskich-organizacjach/" target="_blank" rel="noopener noreferrer">Błąd</a> skali dotyczy przeświadczenia, że nawet jeśli mieszkańcy innych krajów różnią się od nas w sposobie myślenia, to jednak muszą się dostosowywać do zachodnich standardów biznesowych. Jakby bowiem nie patrząc, to świat zachodni (czyli kraje europejskie oraz USA, Kanada oraz kilka pomniejszych gospodarek narodowych), nadaje tempo wymianie gospodarczej. Chociaż tego rodzaju osąd nie znajduje już potwierdzenia w rzeczywistości, wywołuje wrażenie, że szeroko rozumiany Zachód ze swoim punktem widzenia oraz standardami działania jest ogólnie przyjmowaną i podzielaną przez Obcych spoza kręgu tej cywilizacji perspektywą. Jednakże zachodni sposób myślenia jest typowy zaledwie dla nieco ponad 10% ludności świata i sprawdza się (jeśli w ogóle) tylko w obrębie kulturowo zbliżonych do siebie narodów. W efekcie, podejmowanie ryzyka rozpoczęcia działalności biznesowej w „egzotycznym” rejonie świata, dajmy na to w Azji Południowo-Wschodniej czy Afryce Subsaharyjskiej, obarczone jest na wstępie kolejnym błędnym założeniem. Twoja perspektywa mieszkańca świata zachodniego, to mocno zawężona skala, która raczej utrudnia, niż ułatwia „robienie biznesów”.</p>
+<p><strong>Błąd podejścia</strong> odnosi się z kolei do sposobu prowadzenia działalności biznesowej. Mowa tutaj o wielkim podziale kultur świata biznesu. Wszyscy funkcjonujemy w warunkach kapitalizmu rynkowego w jego różnych odmianach. Przywykliśmy zakładać, że do sukcesu gospodarczego wystarczają kapitał, dobry pomysł, nisza rynkowa i odrobina szczęścia. Niestety rzadko zdajemy sobie sprawę, że podejście do kapitalizmu zależy często od zaplecza kulturowego, które rzutuje na sposób prowadzenia biznesu i ostateczny sukces. Kultury biznesu dzielimy na dwa, do pewnego stopnia opozycyjne obozy – kultury protransakcyjne, nazywane też krajami sprzedaży pośredniej i kultury propartnerskie, czyli takie, w których niezbędne jest nawiązanie bezpośrednich relacji z klientami lub kontrahentami. W pierwszym przypadku rozpoczęcie działalności na obcym rynku wiąże się z niewielkimi barierami. Ludzie chętnie i w ekspresowym tempie podejmują oraz realizują tematy biznesowe. Liczy się pieniądz. Spoglądając na mapę świata, takie podejście kultywują np. Amerykanie, Kanadyjczycy, Szwedzi, Holendrzy czy Duńczycy. W drugim przypadku równie istotne co zyski, pozostają relacje z ludźmi. Dbanie o pozytywne stosunki, myślenie o korzyściach dla wielu stron, poznawanie siebie nawzajem zmierzające do zbudowania trwałego zaufania – to tylko kilka elementów niezbędnych do wejścia na rynki sprzedaży bezpośredniej(a takich na świecie znacznie więcej). Partnerskie podejście do biznesu jest typowe dla Hindusów, Irańczyków, Rosjan czy (w skali europejskiej) Włochów, Greków, Portugalczyków i do pewnego stopnia, Francuzów. Przyswojenie kulturowych różnic w podejściu do biznesu, pomaga uniknąć nieporozumień już na poziomie planowania działalności w danym kraju. Pozwala też zaoszczędzić sporo nerwów oraz pieniędzy.</p>
+		</div>
+
+	</div>
+</section>
+  
+    <section class="c-post-text-section">
+	<div class="o-container o-container--narrow">
+
+		<div class="c-post-text-section__content">
+			<a class="o-scroll-anchor o-scroll-anchor--inline" id="grzech-ii-bardziej-obcy-niz-swoj-roznice-kulturowe"></a>							<h2 class="o-title">Grzech II. Bardziej obcy, niż swój: różnice kulturowe</h2>
+						<p data-pm-slice="1 1 []">Większość polskich przedsiębiorców woli stabilną pozycję na rodzimym rynku i niewielkie przychody, aniżeli wizję dochodowego ale ryzykownego biznesu poza granicami kraju. Globalny sukces i rozpoznawalność marki nie stanowią szczególnej pokusy dla przedsiębiorców. W efekcie tego z ponad 2 mln polskich firm, niespełna 8% to eksporterzy (średnia krajowa niższa od europejskiej o 26%!). Ciekawa jest lektura powodów dla których przedsiębiorcy obawiają się podejmowania ryzyka poza Polską. Prócz standardowych barier językowych, braku zaplecza technologicznego i trudności biurokratycznych, zaskakująco często pojawia się coś, co jest specyfiką krajów Europy Środkowowschodniej – tzw. ekonomia podejrzeń. Polscy przedsiębiorcy nauczeni własnym lub zasłyszanym doświadczeniem, z założenia pozostają bardziej nieufni wobec obcych, niż pozostali przedsiębiorcy unijni. Nie byłoby w tym nic szczególnego (zawsze ufamy bardziej swoim), gdyby nie fakt, że wielu właścicieli firm rezygnuje z ekspansji, gdyż dochodzą do wniosku, że ryzyko i … wstyd z bycia oszukanym przez obcego, biorą górę nad biznesowym rozsądkiem. Ekonomia podejrzeń prowokuje jeden z najgroźniejszych, kulturowych grzechów głównych, tworzących bariery w dążeniu do rozwoju własnego przedsiębiorstwa. Grzech zaniechania, nie zrobienia czegoś, co mogło przynieść korzyści, a czego nie zrobiliśmy ze strachu.</p>
+<p>W kontekście umiędzynarodowienia działalności, zrozumienie lokalnych kultur i&nbsp;zwyczajów panujących jest kluczowe dla efektywnej współpracy oraz&nbsp;unikania niepowodzeń w&nbsp;projektach biznesowych.</p>
+		</div>
+
+	</div>
+</section>
+  
+    <section class="c-post-text-section">
+	<div class="o-container o-container--narrow">
+
+		<div class="c-post-text-section__content">
+			<a class="o-scroll-anchor o-scroll-anchor--inline" id="grzech-iii-zatrzasniete-okna"></a>							<h2 class="o-title">Grzech III. Zatrzaśnięte okna</h2>
+						<p data-pm-slice="1 1 []">Kiedy jednak udaje się pokonać rodzące się podejrzenia, zmienić podejście, przybrać odpowiednią skalę w myśleniu i ograniczyć bolesną moc błędnych założeń, pojawiają się nowe wyzwania. Dochodzi bowiem do bezpośredniego kontaktu – pierwszej rozmowy lub wymiany wiadomości. A te mogą być różnie definiowane, przekazywane, odbierane i odczuwane. To, jak przebiega bezpośrednia komunikacja z zagranicznymi partnerami biznesowymi, wpływa wprost na całe przedsięwzięcie. Wszystkie kultury lokują w określonym miejscu skali kontekstowości. Istnieją kultury niskiego i wysokiego kontekstu (w odniesieniu do naszej rodzimej kultury). Przedstawiciele Kultur niskiego kontekstu w bezpośrednim kontakcie zwracają uwagę na stosunkowo niewiele elementów kontaktu – słowa, gest, tony, i to w takiej dokładnie kolejności. <a href="https://prooptima.pl/wiedza/artykuly/lider-artykuly/co-to-jest-feedback-praktyczne-porady-i-metody-udzielania-informacji-zwrotnej/" target="_blank" rel="noopener noreferrer">Informacje zwrotne</a> przekazują dosadnie, bezpośrednio, często nawet brutalnie szczerze (jeśli myślisz, że powiedzenie komuś w oczy „myślę, że jesteś gruby”, to <a href="https://prooptima.pl/wiedza/artykuly/jak-motywowac-pracownikow-do-pozadanych-zachowan-sposoby-i-metody/" target="_blank" rel="noopener noreferrer">zachowanie</a> karygodne, oznacza, że nie spotkałeś jeszcze nikogo z kultury prawdziwie nisko kontekstowej). Przedstawiciele nisko kontekstowych kultur biznesu patrzą na świat przez ledwie uchylone okno, w którym widać trzy, być może cztery przesłanki na podstawie których budują i odbierają komunikaty. Ludzie z kultur wysokiego kontekstu, i to może być dla Ciebie zaskoczeniem, gdyż Polacy w skali europejskiej należą do takich kultur, akt komunikacji realizują przez okno szeroko otwarte. W relacjach społecznych, biznesowych czy prywatnych, komunikaty budują na podstawie wielu przesłanek. Do odpowiednio dobranych słów, gestów i tonów, dochodzą postury, poglądy, status społeczny i zawodowy rozmówców, aktualne emocje oraz chwila i miejsce, w których dochodzi do kontaktu. Odmienności w tym względzie powodują, że biznesmeni przyzwyczajeni do określonego sposobu prowadzenia negocjacji handlowych, częściej są skorzy do zatrzaskiwania swoich „komunikacyjnych okien”, aniżeli dbania o to, by pozostały otwarte.</p>
+		</div>
+
+	</div>
+</section>
+  
+    <section class="c-post-text-section">
+	<div class="o-container o-container--narrow">
+
+		<div class="c-post-text-section__content">
+			<a class="o-scroll-anchor o-scroll-anchor--inline" id="grzech-iv-w-petli-czasu"></a>							<h2 class="o-title">Grzech IV. W&nbsp;pętli czasu</h2>
+						<p data-pm-slice="1 1 []">Stosunek do czasu jest kwestią relatywną, zależną od wielu czynników. Aby uwypuklić różnice w postrzeganiu czasu między kulturami świata, stawia się często jaskrawe granice. Fachowo mówi się o dwóch typach kultur – mono,- i polichronicznych, co w pierwszym przypadku ma oznaczać, że ludzie dostosowują swój dobowy rytm życia do ściśle wyznaczanych godzin spotkań lub zaplanowanych aktywności, a w drugim, że czas w niewielkim stopniu wpływa na aktywności, jest dodatkiem mającym ograniczony wpływ na ludzi. Jest to jednak daleko idące uproszczenie i ujawnia tylko część prawdy o związku czasu i kultury. W biznesowym sensie kultury polichroniczne traktują ustalenia oraz harmonogramy jako sugestie brane pod uwagę lub nie. W skrajnie monochronicznych kulturach anglosaskich, funkcjonuje wyrażenie, które na stałe wpisało się w korporacyjne życie firm na całym niemal świecie i ukazuje różnice. Termin „deathline” rozumiany jako graniczny, ostateczny termin zakończenia jakiegoś działania lub projektu, przetłumaczyć można w języku polskim jako „linia śmierci”. W domyśle albo coś skończymy określonego dnia albo czeka nas już tylko śmierć. Takie zerojedynkowe podejście do kwestii czasu, wpływa na filozofię życia i bycia. Czas w kulturach monochronicznych <a href="https://prooptima.pl/wiedza/webinary/badanie-spojnosci-obslugi-28-11-2019-o-1100/" target="_blank" rel="noopener noreferrer">powoduje</a>, że staje się wartością przeliczaną na wymierne korzyści, najczęściej na pieniądz. A tam gdzie pieniądz, tam stres i jego skutki. W kulturach polichronicznych prowadzenie działalności biznesowej opiera się bardziej na spontaniczności, podporządkowaniu terminów, harmonogramów i wszelkich „deatline&#8217;ów” człowiekowi. Wyobraź sobie z jakimi trudnościami spotkasz się Ty, przedsiębiorca z kraju monochronicznego w kulturze, gdzie czas, to jedynie sugestia, jedna z wielu zmiennych. I wcale nie musisz szukać takich krajów poza Europą.</p>
+		</div>
+
+	</div>
+</section>
+  
+    <section class="c-post-text-section">
+	<div class="o-container o-container--narrow">
+
+		<div class="c-post-text-section__content">
+			<a class="o-scroll-anchor o-scroll-anchor--inline" id="relatywizm-kulturowy"></a>							<h2 class="o-title">Relatywizm Kulturowy</h2>
+						<h2 data-pm-slice="1 1 []">Dostosowanie strategii biznesowej do&nbsp;różnych kultur</h2>
+<p>Dostosowanie strategii biznesowej do&nbsp;różnych kultur jest nieodzowne w&nbsp;międzynarodowym środowisku biznesowym. Komunikacja międzykulturowa w&nbsp;biznesie pozwala zrozumieć specyfikę kulturową partnerów biznesowych i&nbsp;dostosować strategię biznesową do&nbsp;ich potrzeb. Na&nbsp;przykład, w&nbsp;kulturach propartnerskich, takich jak indyjska, budowanie relacji i&nbsp;zaufania jest kluczowe przed&nbsp;rozpoczęciem współpracy biznesowej. Z&nbsp;kolei w&nbsp;kulturach protransakcyjnych, takich jak amerykańska, szybkie i&nbsp;efektywne zawieranie transakcji jest priorytetem. Aby skutecznie działać na&nbsp;różnych rynkach, konieczne jest dostosowanie strategii biznesowej do&nbsp;lokalnych zwyczajów i&nbsp;oczekiwań. Inwestowanie w&nbsp;zrozumienie różnorodności kulturowej i&nbsp;elastyczne podejście do&nbsp;strategii biznesowej może przynieść znaczące korzyści i&nbsp;zwiększyć szanse na&nbsp;sukces w&nbsp;międzynarodowym środowisku biznesowym.</p>
+<h3>Relatywizm Kulturowy</h3>
+<p data-pm-slice="1 1 []">Prowadzenie biznesu bez&nbsp;znajomości różnic kulturowych jest możliwe. Tyle tylko, że&nbsp;skazujemy się na&nbsp;przypadek w&nbsp;działaniu. Można mieć szczęście i&nbsp;liczyć na&nbsp;fart. Są&nbsp;tacy przedsiębiorcy, którzy&nbsp;mają go&nbsp;od&nbsp;lat w&nbsp;nadmiarze. Uda się raz, drugi, może trzeci. W&nbsp;końcu jednak pojawiają się bariery, wymagające zrozumienia i&nbsp;rozwiązania. Aby robić to&nbsp;sprawnie, niezbędne jest to, co&nbsp;fachowo nazywa się relatywizmem kulturowym, czyli wystrzeganiem oceniania i&nbsp;wartościowania innych kultur. Chodzi o&nbsp;patrzenie na&nbsp;naszych partnerów biznesowych w&nbsp;taki sposób, aby poznać ich punkt widzenia. Zrozumienie innej kultury wymaga otwartości i&nbsp;rezygnacji z&nbsp;własnych przyzwyczajeń, co&nbsp;jest niezbędne do&nbsp;skutecznej współpracy w&nbsp;różnorodnym środowisku biznesowym.</p>
+<p>Takiej właśnie postawy nauczyli się pracownicy fabryki plastiku, o&nbsp;której&nbsp;mowa na&nbsp;wstępie. Robili to&nbsp;metodą prób i&nbsp;błędów oraz&nbsp;podejmując współpracę ze&nbsp;specjalistami, którzy&nbsp;pomogli im&nbsp;przepracować zdobywaną na&nbsp;bieżąco wiedzę. Ich ewoluujące z&nbsp;czasem podejście do&nbsp;zagranicznych partnerów, stało się składnikiem przepisu na&nbsp;międzynarodowy sukces.</p>
+		</div>
+
+	</div>
+</section>
+  
+
+
+	<section class="o-section o-section--white c-training-similar">
+
+		<div class="o-container o-container--wide">
+
+			<h2 class="o-section-title o-section-title--small u-text-center c-post-similar__title">
+				Zobacz podobne wpisy			</h2>
+
+			<div class="o-grid o-grid--center o-grid--spacing-y">
+
+				
+										
+					<div class="o-grid__col o-grid__col--6@md o-grid__col--4@lg o-grid__col--flex">
+						<div class="c-post-tile">
+
+	<a href="https://prooptima.pl/wiedza/artykuly/spowiedz-headhuntera-najwieksze-bledy-jakie-popelnilem/" class="c-post-tile__photo o-img-box o-img-link">
+		<img width="768" height="358" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20358'%3E%3C/svg%3E" class="attachment-medium_large size-medium_large wp-post-image" alt="Spowiedź headhuntera — największe błędy, jakie popełniłem!" decoding="async" data-lazy-srcset="https://prooptima.pl/wp-content/uploads/2023/11/xspowiedz.png.pagespeed.ic_.U7q9ZcpG3n-768x358.webp 768w, https://prooptima.pl/wp-content/uploads/2023/11/xspowiedz.png.pagespeed.ic_.U7q9ZcpG3n-300x140.webp 300w, https://prooptima.pl/wp-content/uploads/2023/11/xspowiedz.png.pagespeed.ic_.U7q9ZcpG3n-600x280.webp 600w, https://prooptima.pl/wp-content/uploads/2023/11/xspowiedz.png.pagespeed.ic_.U7q9ZcpG3n.webp 800w" data-lazy-sizes="(max-width: 768px) 100vw, 768px" data-lazy-src="https://prooptima.pl/wp-content/uploads/2023/11/xspowiedz.png.pagespeed.ic_.U7q9ZcpG3n-768x358.webp" /><noscript><img width="768" height="358" src="https://prooptima.pl/wp-content/uploads/2023/11/xspowiedz.png.pagespeed.ic_.U7q9ZcpG3n-768x358.webp" class="attachment-medium_large size-medium_large wp-post-image" alt="Spowiedź headhuntera — największe błędy, jakie popełniłem!" decoding="async" srcset="https://prooptima.pl/wp-content/uploads/2023/11/xspowiedz.png.pagespeed.ic_.U7q9ZcpG3n-768x358.webp 768w, https://prooptima.pl/wp-content/uploads/2023/11/xspowiedz.png.pagespeed.ic_.U7q9ZcpG3n-300x140.webp 300w, https://prooptima.pl/wp-content/uploads/2023/11/xspowiedz.png.pagespeed.ic_.U7q9ZcpG3n-600x280.webp 600w, https://prooptima.pl/wp-content/uploads/2023/11/xspowiedz.png.pagespeed.ic_.U7q9ZcpG3n.webp 800w" sizes="(max-width: 768px) 100vw, 768px" /></noscript>	</a>
+
+	<p class="c-post-tile__meta">04 lis 2023</p>
+
+	<h3 class="o-title c-post-tile__title"><a href="https://prooptima.pl/wiedza/artykuly/spowiedz-headhuntera-najwieksze-bledy-jakie-popelnilem/">Spowiedź headhuntera —&nbsp;największe błędy, jakie popełniłem!</a></h3>
+
+</div>					</div>
+
+				
+										
+					<div class="o-grid__col o-grid__col--6@md o-grid__col--4@lg o-grid__col--flex">
+						<div class="c-post-tile">
+
+	<a href="https://prooptima.pl/wiedza/artykuly/jak-ksztaltowac-u-dziecka-poczucie-wlasnej-wartosci-wiare-w-siebie-i-samoakceptacje/" class="c-post-tile__photo o-img-box o-img-link">
+		<img width="768" height="512" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20512'%3E%3C/svg%3E" class="attachment-medium_large size-medium_large wp-post-image" alt="Jak kształtować u dziecka poczucie własnej wartości, wiarę w siebie i samoakceptację?" decoding="async" data-lazy-srcset="https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-768x512.jpg 768w, https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-300x200.jpg 300w, https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-1024x682.jpg 1024w, https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-1536x1024.jpg 1536w, https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-2048x1365.jpg 2048w, https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-1280x853.jpg 1280w, https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-600x400.jpg 600w" data-lazy-sizes="(max-width: 768px) 100vw, 768px" data-lazy-src="https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-768x512.jpg" /><noscript><img width="768" height="512" src="https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-768x512.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Jak kształtować u dziecka poczucie własnej wartości, wiarę w siebie i samoakceptację?" decoding="async" srcset="https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-768x512.jpg 768w, https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-300x200.jpg 300w, https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-1024x682.jpg 1024w, https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-1536x1024.jpg 1536w, https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-2048x1365.jpg 2048w, https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-1280x853.jpg 1280w, https://prooptima.pl/wp-content/uploads/2023/10/s3x-7498-640-scaled-1-600x400.jpg 600w" sizes="(max-width: 768px) 100vw, 768px" /></noscript>	</a>
+
+	<p class="c-post-tile__meta">31 paź 2023</p>
+
+	<h3 class="o-title c-post-tile__title"><a href="https://prooptima.pl/wiedza/artykuly/jak-ksztaltowac-u-dziecka-poczucie-wlasnej-wartosci-wiare-w-siebie-i-samoakceptacje/">Jak kształtować u&nbsp;dziecka poczucie własnej wartości, wiarę w&nbsp;siebie i&nbsp;samoakceptację?</a></h3>
+
+</div>					</div>
+
+				
+										
+					<div class="o-grid__col o-grid__col--6@md o-grid__col--4@lg o-grid__col--flex">
+						<div class="c-post-tile">
+
+	<a href="https://prooptima.pl/wiedza/artykuly/lider-artykuly/dlaczego-profesjonalizacja-oznacza-sukces/" class="c-post-tile__photo o-img-box o-img-link">
+		<img width="768" height="546" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20546'%3E%3C/svg%3E" class="attachment-medium_large size-medium_large wp-post-image" alt="Dlaczego profesjonalizacja oznacza sukces" decoding="async" data-lazy-srcset="https://prooptima.pl/wp-content/uploads/2024/10/Dlaczego-profesjonalizacja-oznacza-sukces-768x546.jpg 768w, https://prooptima.pl/wp-content/uploads/2024/10/Dlaczego-profesjonalizacja-oznacza-sukces-300x213.jpg 300w, https://prooptima.pl/wp-content/uploads/2024/10/Dlaczego-profesjonalizacja-oznacza-sukces-1024x728.jpg 1024w, https://prooptima.pl/wp-content/uploads/2024/10/Dlaczego-profesjonalizacja-oznacza-sukces-600x427.jpg 600w, https://prooptima.pl/wp-content/uploads/2024/10/Dlaczego-profesjonalizacja-oznacza-sukces.jpg 1280w" data-lazy-sizes="(max-width: 768px) 100vw, 768px" data-lazy-src="https://prooptima.pl/wp-content/uploads/2024/10/Dlaczego-profesjonalizacja-oznacza-sukces-768x546.jpg" /><noscript><img width="768" height="546" src="https://prooptima.pl/wp-content/uploads/2024/10/Dlaczego-profesjonalizacja-oznacza-sukces-768x546.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Dlaczego profesjonalizacja oznacza sukces" decoding="async" srcset="https://prooptima.pl/wp-content/uploads/2024/10/Dlaczego-profesjonalizacja-oznacza-sukces-768x546.jpg 768w, https://prooptima.pl/wp-content/uploads/2024/10/Dlaczego-profesjonalizacja-oznacza-sukces-300x213.jpg 300w, https://prooptima.pl/wp-content/uploads/2024/10/Dlaczego-profesjonalizacja-oznacza-sukces-1024x728.jpg 1024w, https://prooptima.pl/wp-content/uploads/2024/10/Dlaczego-profesjonalizacja-oznacza-sukces-600x427.jpg 600w, https://prooptima.pl/wp-content/uploads/2024/10/Dlaczego-profesjonalizacja-oznacza-sukces.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></noscript>	</a>
+
+	<p class="c-post-tile__meta">01 paź 2024</p>
+
+	<h3 class="o-title c-post-tile__title"><a href="https://prooptima.pl/wiedza/artykuly/lider-artykuly/dlaczego-profesjonalizacja-oznacza-sukces/">Dlaczego profesjonalizacja oznacza sukces ?</a></h3>
+
+</div>					</div>
+
+				
+			</div>
+		</div>
+
+	</section>
+
+	
+
+
+<section class="o-section o-section--white c-newsletter">
+	<div class="o-container" data-aos="fade-up">
+
+		<div class="c-newsletter__wrap">
+			<h4 class="c-newsletter__label">zapisz się do&nbsp;newslettera</h4>
+			<h3 class="o-title c-newsletter__title">Chcesz <b>wiedzieć więcej</b>?</h3>
+
+			<form class="c-newsletter__form" action="#">
+				<div class="c-newsletter__form-inner">
+					<input type="email" name="email" placeholder="Podaj swój email" class="c-newsletter__form-input" required>
+					<button type="submit" class="c-newsletter__form-btn">Zapisz się</button>
+				</div>
+							</form>
+
+		</div>
+
+	</div>
+</section>
+</main>
+
+
+<footer class="c-footer">
+
+	<div class="c-footer__top">
+
+		<div class="o-container">
+
+			<div class="o-grid">
+				<div class="o-grid__col o-grid__col--4@md o-grid__col--3@lg">
+				</div>
+				<div class="o-grid__col o-grid__col--8@md o-grid__col--9@lg">
+					<div class="c-footer__top-line"></div>
+				</div>
+			</div>
+
+			<div class="o-grid">
+				<div class="o-grid__col o-grid__col--4@md o-grid__col--3@lg">
+
+					<a href="https://prooptima.pl/" class="c-footer__logo">
+						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://prooptima.pl/wp-content/themes/prooptima/assets/images/logo-prooptima.svg?v=2"><noscript><img src="https://prooptima.pl/wp-content/themes/prooptima/assets/images/logo-prooptima.svg?v=2"></noscript>
+					</a>
+
+											<div class="c-footer__contact">
+							<p><a href="mailto:info@prooptima.pl">info@prooptima.pl</a><br />
+<a href="tel:+48 12 397 79 51">+48 12 397 79 51</a></p>
+<p>31-534 Kraków<br />
+al. Daszyńskiego 12/13</p>
+						</div>
+					
+
+				</div>
+				<div class="o-grid__col o-grid__col--8@md o-grid__col--9@lg">
+
+									</div>
+			</div>
+
+		</div>
+	</div>
+
+	<div class="c-footer__copy">
+		<div class="o-container">
+
+			<div class="o-grid o-grid--middle">
+
+				<div class="o-grid__col o-grid__col--4@md o-grid__col--3@lg">
+					<div class="c-footer__social">
+						
+
+
+	<div class="o-social">
+		
+			
+							<a href="https://www.facebook.com/prooptima/" class="o-social__link o-social__link--facebook" target="_blank">
+					<svg width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10.1073 3.22903L8.27523 3.22984C6.83878 3.22984 6.56068 3.91212 6.56068 4.9134V7.12114H9.98654L9.98533 10.5792H6.56068V19.4528H2.98737V10.5792H0V7.12114H2.98737V4.57115C2.98737 1.61159 4.79617 0 7.43767 0L10.1075 0.00424527L10.1073 3.22903Z" fill="#5B5B5B"/>
+</svg>
+				</a>
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+							<a href="https://pl.linkedin.com/company/prooptima" class="o-social__link o-social__link--linkedin" target="_blank">
+					<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 310 310" xml:space="preserve">
+<g id="XMLID_801_">
+	<path id="XMLID_802_" d="M72.16,99.73H9.927c-2.762,0-5,2.239-5,5v199.928c0,2.762,2.238,5,5,5H72.16c2.762,0,5-2.238,5-5V104.73
+		C77.16,101.969,74.922,99.73,72.16,99.73z"/>
+	<path id="XMLID_803_" d="M41.066,0.341C18.422,0.341,0,18.743,0,41.362C0,63.991,18.422,82.4,41.066,82.4
+		c22.626,0,41.033-18.41,41.033-41.038C82.1,18.743,63.692,0.341,41.066,0.341z"/>
+	<path id="XMLID_804_" d="M230.454,94.761c-24.995,0-43.472,10.745-54.679,22.954V104.73c0-2.761-2.238-5-5-5h-59.599
+		c-2.762,0-5,2.239-5,5v199.928c0,2.762,2.238,5,5,5h62.097c2.762,0,5-2.238,5-5v-98.918c0-33.333,9.054-46.319,32.29-46.319
+		c25.306,0,27.317,20.818,27.317,48.034v97.204c0,2.762,2.238,5,5,5H305c2.762,0,5-2.238,5-5V194.995
+		C310,145.43,300.549,94.761,230.454,94.761z"/>
+</g>
+</svg>				</a>
+			
+			</div>
+
+					</div>
+				</div>
+
+				<div class="o-grid__col o-grid__col--8@md o-grid__col--9@lg">
+
+					<div class="c-footer__copy-links">
+
+						
+																														<p><a href="https://prooptima.pl/polityka-prywatnosci/" class="o-link "  >Polityka prywatności</a></p>
+																																<p><a href="https://prooptima.pl/regulamin-swiadczenia-uslug-droga-elektroniczna/" class="o-link "  >Regulamin Świadczenia Usług Drogą Elektroniczną</a></p>
+																					
+						<p><a href="https://www.hauerpower.com" title="hauerpower" target="_blank">©</a> 2025 prooptima</p>
+
+					</div>
+
+				</div>
+
+
+			</div>
+
+		</div>
+	</div>
+
+</footer>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/prooptima/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script type="rocketlazyloadscript">
+				const registerAllyAction = () => {
+					if ( ! window?.elementorAppConfig?.hasPro || ! window?.elementorFrontend?.utils?.urlActions ) {
+						return;
+					}
+
+					elementorFrontend.utils.urlActions.addAction( 'allyWidget:open', () => {
+						if ( window?.ea11yWidget?.widget?.open ) {
+							window.ea11yWidget.widget.open();
+						}
+					} );
+				};
+
+				const waitingLimit = 30;
+				let retryCounter = 0;
+
+				const waitForElementorPro = () => {
+					return new Promise( ( resolve ) => {
+						const intervalId = setInterval( () => {
+							if ( retryCounter === waitingLimit ) {
+								resolve( null );
+							}
+
+							retryCounter++;
+
+							if ( window.elementorFrontend && window?.elementorFrontend?.utils?.urlActions ) {
+								clearInterval( intervalId );
+								resolve( window.elementorFrontend );
+							}
+								}, 100 ); // Check every 100 milliseconds for availability of elementorFrontend
+					});
+				};
+
+				waitForElementorPro().then( () => { registerAllyAction(); });
+			</script>
+				<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-content/cache/min/1/wp-content/plugins/custom-payment-gateways-woocommerce/includes/js/alg-wc-custom-payment-gateways.js?ver=1760443263" id="alg-wc-custom-payment-gateways-js" defer></script>
+<script type="text/javascript" id="ea11y-widget-js-extra">
+/* <![CDATA[ */
+var ea11yWidget = {"iconSettings":{"style":{"icon":"person","size":"medium","color":"#2563eb"},"position":{"desktop":{"hidden":false,"enableExactPosition":false,"exactPosition":{"horizontal":{"direction":"right","value":10,"unit":"px"},"vertical":{"direction":"bottom","value":10,"unit":"px"}},"position":"bottom-right"},"mobile":{"hidden":false,"enableExactPosition":false,"exactPosition":{"horizontal":{"direction":"right","value":10,"unit":"px"},"vertical":{"direction":"bottom","value":10,"unit":"px"}},"position":"bottom-right"}}},"toolsSettings":{"bigger-text":{"enabled":true},"bigger-line-height":{"enabled":true},"text-align":{"enabled":true},"readable-font":{"enabled":true},"grayscale":{"enabled":true},"contrast":{"enabled":true},"page-structure":{"enabled":true},"sitemap":{"enabled":false,"url":"https://prooptima.pl/wp-sitemap.xml"},"reading-mask":{"enabled":true},"hide-images":{"enabled":true},"pause-animations":{"enabled":true},"highlight-links":{"enabled":true},"focus-outline":{"enabled":true},"screen-reader":{"enabled":false},"remove-elementor-label":{"enabled":false}},"accessibilityStatementURL":"","analytics":{"enabled":false,"url":null}};
+//# sourceURL=ea11y-widget-js-extra
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://cdn.elementor.com/a11y/widget.js?api_key=ea11y-485bc9ff-5ea4-453e-bf34-46779df479aa&amp;ver=3.9.1" id="ea11y-widget-js"referrerPolicy="origin" defer></script>
+<script type="text/javascript" id="rocket_lazyload_css-js-extra">
+/* <![CDATA[ */
+var rocket_lazyload_css_data = {"threshold":"300"};
+//# sourceURL=rocket_lazyload_css-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket_lazyload_css-js-after">
+/* <![CDATA[ */
+!function o(n,c,a){function s(t,e){if(!c[t]){if(!n[t]){var r="function"==typeof require&&require;if(!e&&r)return r(t,!0);if(u)return u(t,!0);throw(r=new Error("Cannot find module '"+t+"'")).code="MODULE_NOT_FOUND",r}r=c[t]={exports:{}},n[t][0].call(r.exports,function(e){return s(n[t][1][e]||e)},r,r.exports,o,n,c,a)}return c[t].exports}for(var u="function"==typeof require&&require,e=0;e<a.length;e++)s(a[e]);return s}({1:[function(e,t,r){"use strict";!function(){const r="undefined"==typeof rocket_pairs?[]:rocket_pairs,e="undefined"==typeof rocket_excluded_pairs?[]:rocket_excluded_pairs;e.map(t=>{var e=t.selector;const r=document.querySelectorAll(e);r.forEach(e=>{e.setAttribute("data-rocket-lazy-bg-".concat(t.hash),"excluded")})});const o=document.querySelector("#wpr-lazyload-bg-container");var t=rocket_lazyload_css_data.threshold||300;const n=new IntersectionObserver(e=>{e.forEach(t=>{if(t.isIntersecting){const e=r.filter(e=>t.target.matches(e.selector));e.map(t=>{var e;t&&((e=document.createElement("style")).textContent=t.style,o.insertAdjacentElement("afterend",e),t.elements.forEach(e=>{n.unobserve(e),e.setAttribute("data-rocket-lazy-bg-".concat(t.hash),"loaded")}))})}})},{rootMargin:t+"px"});function c(){0<(0<arguments.length&&void 0!==arguments[0]?arguments[0]:[]).length&&r.forEach(t=>{try{const e=document.querySelectorAll(t.selector);e.forEach(e=>{"loaded"!==e.getAttribute("data-rocket-lazy-bg-".concat(t.hash))&&"excluded"!==e.getAttribute("data-rocket-lazy-bg-".concat(t.hash))&&(n.observe(e),(t.elements||(t.elements=[])).push(e))})}catch(e){console.error(e)}})}c();const a=function(){const o=window.MutationObserver;return function(e,t){if(e&&1===e.nodeType){const r=new o(t);return r.observe(e,{attributes:!0,childList:!0,subtree:!0}),r}}}();t=document.querySelector("body"),a(t,c)}()},{}]},{},[1]);
+//# sourceMappingURL=lazyload-css.min.js.map
+
+//# sourceURL=rocket_lazyload_css-js-after
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-content/themes/prooptima/vendor/jquery-match-height/dist/jquery.matchHeight-min.js?ver=6.9" id="match-height-js" defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-content/cache/min/1/wp-content/themes/prooptima/vendor/aos/dist/aos.js?ver=1760443263" id="aos-js" defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-content/cache/min/1/wp-content/themes/prooptima/vendor/@fancyapps/ui/dist/fancybox/fancybox.umd.js?ver=1760443263" id="fancybox-js" defer></script>
+<script type="text/javascript" id="main-js-extra">
+/* <![CDATA[ */
+var wp_params = {"ajax_url":"https://prooptima.pl/wp-admin/admin-ajax.php","posts":"{\"name\":\"4-kulturowe-grzechy-glowne-czyli-dlaczego-komunikacja-miedzykulturowa-w-biznesie-ma-znaczenie\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"all\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"posts_per_page\":-1,\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"nopaging\":true,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","current_page":"1","max_page":"0"};
+//# sourceURL=main-js-extra
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-content/cache/min/1/wp-content/themes/prooptima/js/app.js?ver=1760443263" id="main-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="wd-asl-ajaxsearchlite-js-before">
+/* <![CDATA[ */
+window.ASL = typeof window.ASL !== 'undefined' ? window.ASL : {}; window.ASL.wp_rocket_exception = "DOMContentLoaded"; window.ASL.ajaxurl = "https:\/\/prooptima.pl\/wp-admin\/admin-ajax.php"; window.ASL.backend_ajaxurl = "https:\/\/prooptima.pl\/wp-admin\/admin-ajax.php"; window.ASL.asl_url = "https:\/\/prooptima.pl\/wp-content\/plugins\/ajax-search-lite\/"; window.ASL.detect_ajax = 1; window.ASL.media_query = 4780; window.ASL.version = 4780; window.ASL.pageHTML = ""; window.ASL.additional_scripts = []; window.ASL.script_async_load = false; window.ASL.init_only_in_viewport = true; window.ASL.font_url = "https:\/\/prooptima.pl\/wp-content\/plugins\/ajax-search-lite\/css\/fonts\/icons2.woff2"; window.ASL.highlight = {"enabled":false,"data":[]}; window.ASL.analytics = {"method":0,"tracking_id":"","string":"?ajax_search={asl_term}","event":{"focus":{"active":true,"action":"focus","category":"ASL","label":"Input focus","value":"1"},"search_start":{"active":false,"action":"search_start","category":"ASL","label":"Phrase: {phrase}","value":"1"},"search_end":{"active":true,"action":"search_end","category":"ASL","label":"{phrase} | {results_count}","value":"1"},"magnifier":{"active":true,"action":"magnifier","category":"ASL","label":"Magnifier clicked","value":"1"},"return":{"active":true,"action":"return","category":"ASL","label":"Return button pressed","value":"1"},"facet_change":{"active":false,"action":"facet_change","category":"ASL","label":"{option_label} | {option_value}","value":"1"},"result_click":{"active":true,"action":"result_click","category":"ASL","label":"{result_title} | {result_url}","value":"1"}}};
+window.ASL_INSTANCES = [];window.ASL_INSTANCES[1] = {"homeurl":"https:\/\/prooptima.pl\/","resultstype":"vertical","resultsposition":"hover","itemscount":4,"charcount":0,"highlight":false,"highlightWholewords":true,"singleHighlight":false,"scrollToResults":{"enabled":false,"offset":0},"resultareaclickable":1,"autocomplete":{"enabled":true,"lang":"en","trigger_charcount":0},"mobile":{"menu_selector":"#menu-toggle"},"trigger":{"click":"results_page","click_location":"same","update_href":false,"return":"results_page","return_location":"same","facet":true,"type":true,"redirect_url":"?s={phrase}","delay":300},"animations":{"pc":{"settings":{"anim":"fadedrop","dur":300},"results":{"anim":"fadedrop","dur":300},"items":"voidanim"},"mob":{"settings":{"anim":"fadedrop","dur":300},"results":{"anim":"fadedrop","dur":300},"items":"voidanim"}},"autop":{"state":true,"phrase":"","count":"1"},"resPage":{"useAjax":false,"selector":"#main","trigger_type":true,"trigger_facet":true,"trigger_magnifier":false,"trigger_return":false},"resultsSnapTo":"left","results":{"width":"auto","width_tablet":"auto","width_phone":"auto"},"settingsimagepos":"right","closeOnDocClick":true,"overridewpdefault":true,"override_method":"get"};
+//# sourceURL=wd-asl-ajaxsearchlite-js-before
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-content/plugins/ajax-search-lite/js/min/plugin/merged/asl.min.js?ver=4780" id="wd-asl-ajaxsearchlite-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.4.2" id="sourcebuster-js-js" defer></script>
+<script type="text/javascript" id="wc-order-attribution-js-extra">
+/* <![CDATA[ */
+var wc_order_attribution = {"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"base64":false,"ajaxurl":"https://prooptima.pl/wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+//# sourceURL=wc-order-attribution-js-extra
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://prooptima.pl/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.4.2" id="wc-order-attribution-js" defer></script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://prooptima.pl/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+</body>
+
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1767102240 -->

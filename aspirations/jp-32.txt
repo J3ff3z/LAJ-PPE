@@ -2,22 +2,22 @@ HTTP/2 103
 link: <https://cdn.shopify.com>; rel=preconnect, <https://cdn.shopify.com>; crossorigin; rel=preconnect, <//kurand.jp/cdn/shop/t/38/assets/theme-HkRQwCcq.css>; as=style; rel=preload
 
 HTTP/2 200 
-date: Sun, 04 Jan 2026 15:04:21 GMT
+date: Sun, 04 Jan 2026 17:22:01 GMT
 content-type: text/html; charset=utf-8
-cf-ray: 9b8ba0bd7c81790a-CDG
+cf-ray: 9b8c6a61c990d09f-CDG
 x-sorting-hat-podid: 54
 x-sorting-hat-shopid: 7599095863
 x-storefront-renderer-rendered: 1
-set-cookie: localization=JP; path=/; expires=Mon, 04 Jan 2027 15:04:21 GMT; SameSite=Lax
-set-cookie: cart_currency=JPY; path=/; expires=Sun, 18 Jan 2026 15:04:21 GMT; SameSite=Lax
-set-cookie: _shopify_y=4bbded02-962c-4386-876c-99d5d64d4fa6; domain=kurand.jp; path=/; expires=Mon, 04 Jan 2027 21:04:21 GMT; SameSite=Lax
-set-cookie: _shopify_s=25a6c940-73f9-4597-8a54-2258d082ea52; domain=kurand.jp; path=/; expires=Sun, 04 Jan 2026 15:34:21 GMT; SameSite=Lax
-set-cookie: _shopify_essential=:AZuJibKSAAEADrFPeqP7pXm2swTYXgsNFDM8L5a20SNsmgWW2054RuXKpyeTE3SXzFdirF27NjDeOx7Jds7C7o84amkImiXwkj88mzlwWY7Iyb94X7Ka_v14xuJGEBfrYNIdnR8-A5cxWvStna8vi_9pTo9U-SjdDV-VJ5ewHgf3or6q0c7X_b7Q2fdIwxI-h1It8P1lLYL-uNp091WLeyBII3aEgiWb4UGTeytmovAAO9LPDGWEohf76-M13FV0uxClpzxWl0wgT6RtQmGmKGW6b-z5ICHxpD7jGf8LQXC4q68puSjOPdKAFrniKTDHcNCBOAe2dMFMLz0:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
-set-cookie: _shopify_analytics=:AZuJibSGAAEAbzcXpi9s7eWXJgR_V--zuUIfVFSJHrOH19DPRlSspLSgXWy77_nvyDQmRsrfk3IPYgEkR8-9cijTdIrz:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: localization=JP; path=/; expires=Mon, 04 Jan 2027 17:22:01 GMT; SameSite=Lax
+set-cookie: cart_currency=JPY; path=/; expires=Sun, 18 Jan 2026 17:22:01 GMT; SameSite=Lax
+set-cookie: _shopify_y=2a34f53a-10db-4f69-a89b-95b1b72ddcde; domain=kurand.jp; path=/; expires=Mon, 04 Jan 2027 23:22:01 GMT; SameSite=Lax
+set-cookie: _shopify_s=b097c9f4-7a22-415f-8aee-129952166418; domain=kurand.jp; path=/; expires=Sun, 04 Jan 2026 17:52:01 GMT; SameSite=Lax
+set-cookie: _shopify_essential=:AZuKB7k7AAEAU7B8wMBvEMa-UQ4UHDn8xKrSRROGFOTVMEiz51T-pkAzo42JMG35V8KidECsnm0eYQ09QFjHQsYCL8kOgcMAogDboTkONXGUXuscfzGjSt0u5F7bKCbfx2dN5t-vDSHAs55BsY6K1pUQFBT83AC7F-g0Dj46bXRSS3l99q_H019qz8F_QQ7wlqvSo5pc-jRf66EpDd1PVFZLiW1-W59ueUuoCzEQWxbRavdu1TgAAerO9BmKARUSybGB1uoOPvsAjDWAnM38tlygmZUPSFUFq5KCeanWa9vUa3Zc5iIl2sDdquCPDa6H4yMhBzKkWzOXwAI:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+set-cookie: _shopify_analytics=:AZuKB7sdAAEAqvVqzP6Af8qMIe5hOuP0bcQFztK42nb9d8kJN069XsoQ4e3BbLgALdZNQRH630qb4nwcOXNKVtyeYOEA:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
 link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//kurand.jp/cdn/shop/t/38/assets/theme-HkRQwCcq.css>; as="style"; rel="preload"
 speculation-rules: "/cdn/shopifycloud/storefront/assets/storefront/storefronts.specrules-dd5621a1.json"
-etag: W/"page_cache:7599095863:PageDetailsController:5a9aa591f9cb5bdbece1108074073eec"
-shopify-complexity-score: 5080
+etag: W/"page_cache:7599095863:PageDetailsController:692e5f552c5284820681300ec07360c5"
+shopify-complexity-score: 4900
 x-frame-options: DENY
 content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
 access-control-allow-origin: *
@@ -29,18 +29,18 @@ vary: accept-encoding
 alt-svc: h3=":443"; ma=86400
 content-language: ja-JP
 powered-by: Shopify
-server-timing: processing;dur=512;desc="gc:38", db;dur=140, db_async;dur=33.815, parse;dur=5, render;dur=249, asn;desc="5410", edge;desc="CDG", country;desc="FR", theme;desc="121898074167", pageType;desc="page", servedBy;desc="rgmk", requestID;desc="6483747c-a72f-4962-a9e7-c5eaae6d76b4-1767539061", _y;desc="4bbded02-962c-4386-876c-99d5d64d4fa6", _s;desc="25a6c940-73f9-4597-8a54-2258d082ea52", _cmp;desc="3.AMPS_FRIDF_f_f_I4lStiasSb6b3-oBLnTwew"
+server-timing: processing;dur=494;desc="gc:79", db;dur=137, db_async;dur=28.86, parse;dur=5, render;dur=206, asn;desc="5410", edge;desc="CDG", country;desc="FR", theme;desc="121898074167", pageType;desc="page", servedBy;desc="x5bs", requestID;desc="0042a412-c269-4ac1-a1fe-da2d40695d8f-1767547320", _y;desc="2a34f53a-10db-4f69-a89b-95b1b72ddcde", _s;desc="b097c9f4-7a22-415f-8aee-129952166418", _cmp;desc="3.AMPS_FRIDF_f_f_3fmmgTDOT8q*DJobUrNtPg"
 x-dc: gcp-europe-west1,gcp-europe-west1,gcp-europe-west1
-x-request-id: 6483747c-a72f-4962-a9e7-c5eaae6d76b4-1767539061
+x-request-id: 0042a412-c269-4ac1-a1fe-da2d40695d8f-1767547320
 cf-cache-status: DYNAMIC
-report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=8xKdCdsUHEJ4J0jav4eJea6dPviWhXi6X9qVrTvVzwrZnSDksKJYblVKN4%2FF7f49Av7dcmSjkQZPPZIouhuCbJnr80IHI%2B%2FQCiqugMaJDjCEHpFe86JvhOrpmEg6e9VQu2txuegwzQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=201I2lmDYtaUgsEK%2FDJP%2F2IWwKMeUUcpI%2F01kPnroMsiYL9Go7D3cP39cpc1Cv4GdT1qsOjQ4sNofdIj6wOJDK1VlEasaE4FxWP1c0E1gKEzVGtncv224X%2B6NO5n2A2APJTlkhA6Bg%3D%3D"}],"group":"cf-nel","max_age":604800}
 nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
 x-xss-protection: 1; mode=block
 x-content-type-options: nosniff
 x-permitted-cross-domain-policies: none
 x-download-options: noopen
 server: cloudflare
-server-timing: cfRequestDuration;dur=562.999964
+server-timing: cfRequestDuration;dur=526.000261
 server-timing: ipv6, earlyhints
 
 <!doctype html>
@@ -258,7 +258,7 @@ await import("//kurand.jp/cdn/shopifycloud/shop-js/modules/v2/chunk.common_BaQ0H
     window.addEventListener('load', asyncLoad, false);
   }
 })();</script>
-<script id="__st">var __st={"a":7599095863,"offset":32400,"reqid":"6483747c-a72f-4962-a9e7-c5eaae6d76b4-1767539061","pageurl":"kurand.jp\/pages\/taizai-amao","s":"pages-89474498615","u":"1eca63c3babc","p":"page","rtyp":"page","rid":89474498615};</script>
+<script id="__st">var __st={"a":7599095863,"offset":32400,"reqid":"0042a412-c269-4ac1-a1fe-da2d40695d8f-1767547320","pageurl":"kurand.jp\/pages\/taizai-amao","s":"pages-89474498615","u":"1fa09ee09106","p":"page","rtyp":"page","rid":89474498615};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script id="form-persister">!function(){'use strict';const t='contact',e='new_comment',n=[[t,t],['blogs',e],['comments',e],[t,'customer']],o='password',r='form_key',c=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response',o],s=()=>{try{return window.sessionStorage}catch{return}},i='__shopify_v',u=t=>t.elements[r],a=function(){const t=[...n].map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(',');var e;return e=t,()=>e?[...document.querySelectorAll(e)].map((t=>t.form)):[]}();function m(t){const e=u(t);a().includes(t)&&(!e||!e.value)&&function(t){try{if(!s())return;!function(t){const e=s();if(!e)return;const n=u(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){u(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:r})),t.elements[r].value=e}(t,e),function(t,e){const n=s();if(!n)return;const r=[...t.querySelectorAll(`input[type='${o}']`)].map((({name:t})=>t)),u=[...c,...r],a={};for(const[o,c]of new FormData(t).entries())u.includes(o)||(a[o]=c);n.setItem(e,JSON.stringify({[i]:1,action:t.action,data:a}))}(t,e)}catch(e){console.error('failed to persist form',e)}}(t)}const f=t=>{if('true'===t.dataset.persistBound)return;const e=function(t,e){const n=function(t){return'function'==typeof t.submit?t.submit:HTMLFormElement.prototype.submit}(t).bind(t);return function(){let t;return()=>{t||(t=!0,(()=>{try{e(),n()}catch(t){(t=>{console.error('form submit failed',t)})(t)}})(),setTimeout((()=>t=!1),250))}}()}(t,(()=>{m(t)}));!function(t,e){if('function'==typeof t.submit&&'function'==typeof e)try{t.submit=e}catch{}}(t,e),t.addEventListener('submit',(t=>{t.preventDefault(),e()})),t.dataset.persistBound='true'};!function(){function t(t){const e=(t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form})(t);e&&m(e)}document.addEventListener('submit',t),document.addEventListener('DOMContentLoaded',(()=>{const e=a();for(const t of e)f(t);var n;n=document.body,new window.MutationObserver((t=>{for(const e of t)if('childList'===e.type&&e.addedNodes.length)for(const t of e.addedNodes)1===t.nodeType&&'FORM'===t.tagName&&a().includes(t)&&f(t)})).observe(n,{childList:!0,subtree:!0,attributes:!1}),document.removeEventListener('submit',t)}))}()}();</script>
 <script integrity="sha256-4kQ18oKyAcykRKYeNunJcIwy7WH5gtpwJnB7kiuLZ1E=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//kurand.jp/cdn/shopifycloud/storefront/assets/storefront/load_feature-a0a9edcb.js" crossorigin="anonymous"></script>
@@ -346,7 +346,11 @@ await import("//kurand.jp/cdn/shopifycloud/shop-js/modules/v2/chunk.common_BaQ0H
     
 
     <script src='https://cdn.shopify.com/shopifycloud/app-bridge-ui-experimental.js' defer></script>
-  <!-- BEGIN app block: shopify://apps/lai-product-reviews/blocks/appBlockEmbed/cad3c6c6-329e-4416-ba74-b79359b5b6e1 -->
+  <!-- BEGIN app block: shopify://apps/also-bought/blocks/app-embed-block/b94b27b4-738d-4d92-9e60-43c22d1da3f2 --><script>
+    window.codeblackbelt = window.codeblackbelt || {};
+    window.codeblackbelt.shop = window.codeblackbelt.shop || 'customer-kurand.myshopify.com';
+    </script><script src="//cdn.codeblackbelt.com/widgets/also-bought/bootstrap.min.js?version=2026010502+0900" async></script>
+<!-- END app block --><!-- BEGIN app block: shopify://apps/lai-product-reviews/blocks/appBlockEmbed/cad3c6c6-329e-4416-ba74-b79359b5b6e1 -->
 <script>
     function getUrlParameterExt(sParam) {
         let sPageURL = window.location.search.substring(1);
@@ -570,10 +574,6 @@ await import("//kurand.jp/cdn/shopifycloud/shop-js/modules/v2/chunk.common_BaQ0H
 
 <!-- END app snippet -->
 
-<!-- END app block --><!-- BEGIN app block: shopify://apps/also-bought/blocks/app-embed-block/b94b27b4-738d-4d92-9e60-43c22d1da3f2 --><script>
-    window.codeblackbelt = window.codeblackbelt || {};
-    window.codeblackbelt.shop = window.codeblackbelt.shop || 'customer-kurand.myshopify.com';
-    </script><script src="//cdn.codeblackbelt.com/widgets/also-bought/bootstrap.min.js?version=2026010500+0900" async></script>
 <!-- END app block --><!-- BEGIN app block: shopify://apps/helium-customer-fields/blocks/app-embed/bab58598-3e6a-4377-aaaa-97189b15f131 -->
 
 
@@ -825,7 +825,7 @@ await import("//kurand.jp/cdn/shopifycloud/shop-js/modules/v2/chunk.common_BaQ0H
   {
   
   "domain": "customer-kurand.myshopify.com",
-  "servicesToken": "1767539061:a056ef03517c8e97874f5f0155782c2b395ec34daaac7f2ee5221937be4f3f24",
+  "servicesToken": "1767547320:470d8e5ce31e783629529b18f5499f0b00a5f3dd225527ab39522dc4d78dfa19",
   "baseApiUrl": "https:\/\/app.customerfields.com",
   "captchaSiteKey": "6LfP0zwrAAAAAEst407hBAEr26YuHc4hhgg69Csr",
   "captchaEnabled": true,
@@ -2170,7 +2170,7 @@ if(enable_qv){const qv_buttons=document.querySelectorAll('.ecom-product-quickvie
   window.ShopifyAnalytics = window.ShopifyAnalytics || {};
   window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
   window.ShopifyAnalytics.meta.currency = 'JPY';
-  var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":89474498615,"requestId":"6483747c-a72f-4962-a9e7-c5eaae6d76b4-1767539061"}};
+  var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":89474498615,"requestId":"0042a412-c269-4ac1-a1fe-da2d40695d8f-1767547320"}};
   for (var attr in meta) {
     window.ShopifyAnalytics.meta[attr] = meta[attr];
   }
@@ -2316,7 +2316,7 @@ if(enable_qv){const qv_buttons=document.querySelectorAll('.ecom-product-quickvie
       try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
       document.write = originalDocumentWrite;
 
-      window.ShopifyAnalytics.lib.page(null,{"pageType":"page","resourceType":"page","resourceId":89474498615,"requestId":"6483747c-a72f-4962-a9e7-c5eaae6d76b4-1767539061","shopifyEmitted":true});
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"page","resourceType":"page","resourceId":89474498615,"requestId":"0042a412-c269-4ac1-a1fe-da2d40695d8f-1767547320","shopifyEmitted":true});
 
       var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
       var token = match? match[1]: undefined;
@@ -3227,7 +3227,7 @@ if(enable_qv){const qv_buttons=document.querySelectorAll('.ecom-product-quickvie
       "first_available_variant": {"id":40653582204983,"title":"1本","option1":"1本","option2":null,"option3":null,"sku":"ippongacha_6952253423671","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"【1本酒ガチャ】隠れた名品、実はめちゃくちゃうまい酒 - 1本","public_title":"1本","options":["1本"],"price":270000,"weight":0,"compare_at_price":null,"inventory_management":null,"barcode":"","requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}},
       "compare_at_price": 0,
       "review_rate": "4.5",
-      "review_count": 189,
+      "review_count": 190,
       "review": null,
       "deadline": ""
     }
@@ -3350,7 +3350,7 @@ if(enable_qv){const qv_buttons=document.querySelectorAll('.ecom-product-quickvie
       "first_available_variant": {"id":40653574963255,"title":"1本","option1":"1本","option2":null,"option3":null,"sku":"ippongacha_6952251228215","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"【1本酒ガチャ】わたしの時間のデザート果実酒 - 1本","public_title":"1本","options":["1本"],"price":210000,"weight":0,"compare_at_price":null,"inventory_management":null,"barcode":"","requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}},
       "compare_at_price": 0,
       "review_rate": "4.5",
-      "review_count": 189,
+      "review_count": 190,
       "review": null,
       "deadline": ""
     }
@@ -3473,7 +3473,7 @@ if(enable_qv){const qv_buttons=document.querySelectorAll('.ecom-product-quickvie
       "first_available_variant": {"id":40653576503351,"title":"1本","option1":"1本","option2":null,"option3":null,"sku":"ippongacha_6952251621431","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"【1本酒ガチャ】食事にも合う果物のお酒集めました。 - 1本","public_title":"1本","options":["1本"],"price":270000,"weight":0,"compare_at_price":null,"inventory_management":null,"barcode":"","requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}},
       "compare_at_price": 0,
       "review_rate": "4.5",
-      "review_count": 189,
+      "review_count": 190,
       "review": null,
       "deadline": ""
     }
@@ -3596,7 +3596,7 @@ if(enable_qv){const qv_buttons=document.querySelectorAll('.ecom-product-quickvie
       "first_available_variant": {"id":40650178330679,"title":"1本","option1":"1本","option2":null,"option3":null,"sku":"ippongacha_6950952697911","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"【1本酒ガチャ】真夜中のちょっと大人なご褒美酒 - 1本","public_title":"1本","options":["1本"],"price":270000,"weight":0,"compare_at_price":null,"inventory_management":null,"barcode":"","requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}},
       "compare_at_price": 0,
       "review_rate": "4.5",
-      "review_count": 189,
+      "review_count": 190,
       "review": null,
       "deadline": ""
     }
@@ -3719,7 +3719,7 @@ if(enable_qv){const qv_buttons=document.querySelectorAll('.ecom-product-quickvie
       "first_available_variant": {"id":40710095667255,"title":"1本","option1":"1本","option2":null,"option3":null,"sku":"ippongacha_6967117578295","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"【1本酒ガチャ】あなたの知らない焼酎の世界 - 1本","public_title":"1本","options":["1本"],"price":270000,"weight":0,"compare_at_price":null,"inventory_management":null,"barcode":"","requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}},
       "compare_at_price": 0,
       "review_rate": "4.5",
-      "review_count": 189,
+      "review_count": 190,
       "review": null,
       "deadline": ""
     }
@@ -3842,7 +3842,7 @@ if(enable_qv){const qv_buttons=document.querySelectorAll('.ecom-product-quickvie
       "first_available_variant": {"id":40710090162231,"title":"1本","option1":"1本","option2":null,"option3":null,"sku":"ippongacha_6967117152311","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"【1本酒ガチャ】ヒミツにしたい名作ワイン - 1本","public_title":"1本","options":["1本"],"price":370000,"weight":0,"compare_at_price":null,"inventory_management":null,"barcode":"","requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}},
       "compare_at_price": 0,
       "review_rate": "4.5",
-      "review_count": 189,
+      "review_count": 190,
       "review": null,
       "deadline": ""
     }
@@ -3965,7 +3965,7 @@ if(enable_qv){const qv_buttons=document.querySelectorAll('.ecom-product-quickvie
       "first_available_variant": {"id":41715220676663,"title":"1本","option1":"1本","option2":null,"option3":null,"sku":"ippongacha_7291689336887","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"隠れた名品、こんな梅酒があったのか【1本酒ガチャ】 - 1本","public_title":"1本","options":["1本"],"price":249000,"weight":0,"compare_at_price":null,"inventory_management":null,"barcode":"","requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}},
       "compare_at_price": 0,
       "review_rate": "4.5",
-      "review_count": 189,
+      "review_count": 190,
       "review": null,
       "deadline": ""
     }
@@ -4088,7 +4088,7 @@ if(enable_qv){const qv_buttons=document.querySelectorAll('.ecom-product-quickvie
       "first_available_variant": {"id":41715309150263,"title":"1本","option1":"1本","option2":null,"option3":null,"sku":"ippongacha_7291709063223","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"季節を味わう、絶品果実酒【1本酒ガチャ】 - 1本","public_title":"1本","options":["1本"],"price":219000,"weight":0,"compare_at_price":null,"inventory_management":null,"barcode":"","requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}},
       "compare_at_price": 0,
       "review_rate": "4.5",
-      "review_count": 189,
+      "review_count": 190,
       "review": null,
       "deadline": ""
     }
@@ -4211,7 +4211,7 @@ if(enable_qv){const qv_buttons=document.querySelectorAll('.ecom-product-quickvie
       "first_available_variant": {"id":41715320487991,"title":"1本","option1":"1本","option2":null,"option3":null,"sku":"ippongacha_7291711815735","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"美味しすぎて秘密にしたい、ご褒美デザートリキュール【1本酒ガチャ】 - 1本","public_title":"1本","options":["1本"],"price":219000,"weight":0,"compare_at_price":null,"inventory_management":null,"barcode":"","requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}},
       "compare_at_price": 0,
       "review_rate": "4.5",
-      "review_count": 189,
+      "review_count": 190,
       "review": null,
       "deadline": ""
     }
@@ -4334,7 +4334,7 @@ if(enable_qv){const qv_buttons=document.querySelectorAll('.ecom-product-quickvie
       "first_available_variant": {"id":41715365543991,"title":"1本","option1":"1本","option2":null,"option3":null,"sku":"ippongacha_7291723415607","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"晩ご飯のおともに、料理を引き立てる最強の相棒【1本酒ガチャ】 - 1本","public_title":"1本","options":["1本"],"price":249000,"weight":0,"compare_at_price":null,"inventory_management":null,"barcode":"","requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}},
       "compare_at_price": 0,
       "review_rate": "4.5",
-      "review_count": 189,
+      "review_count": 190,
       "review": null,
       "deadline": ""
     }

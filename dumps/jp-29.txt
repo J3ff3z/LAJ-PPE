@@ -1,13 +1,13 @@
 HTTP/2 200 content-type: text/html; charset=utf-8 content-length: 108677 date:
-Sun, 04 Jan 2026 15:03:58 GMT set-cookie:
-eg_sid=897ef3d714c7680b322d21a8adccc6b4; domain=eiga.com; path=/; secure;
+Sun, 04 Jan 2026 17:10:44 GMT set-cookie:
+eg_sid=9a823acea996d2a075b8fe68d8f8a45a; domain=eiga.com; path=/; secure;
 httponly; samesite=lax server: nginx cache-control: max-age=1800, public,
 s-maxage=900, stale-while-revalidate=1800 x-cloudfront-cacheable: true
-x-cache-group: public etag: "7224c23983dd16a723cb0e5b448e07f3" vary:
-Accept-Encoding,X-Device x-cache: Miss from cloudfront via: 1.1
-6a29b506c0dc975f5344fdc44215aa70.cloudfront.net (CloudFront) x-amz-cf-pop:
-CDG50-P1 x-amz-cf-id: 5tSXOKPtQjnBaHTptWtOVuTgqEjQvLXnMHHtmNfVIjaaNz2sM9_W4Q==
-#alternate 映画.com 検索
+x-cache-group: public etag: "e29b2198773e1f546ab0400a2f50eb68" vary:
+Accept-Encoding,X-Device x-cache: Hit from cloudfront via: 1.1
+575cacb0734545eaea94b948deff0e06.cloudfront.net (CloudFront) x-amz-cf-pop:
+CDG50-P1 x-amz-cf-id: KDNO9_QyrRZHqUgbibLtZNPLdwzhFBy9EqEJh08n29uH_I8Xzh9VXg==
+age: 655 #alternate 映画.com 検索
 
 IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K5447T4
 

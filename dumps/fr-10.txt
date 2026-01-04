@@ -1,281 +1,395 @@
-HTTP/2 200 x-pingback: https://adventistemagazine.com/xmlrpc.php link:
-/adventistemagazine.com/wp-json/>; rel="https://api.w.org/",
-/adventistemagazine.com/wp-json/wp/v2/posts/24616>; rel="alternate";
-title="JSON"; type="application/json", /adventistemagazine.com/?p=24616>;
-rel=shortlink vary: Accept-Encoding content-type: text/html; charset=UTF-8 date:
-Sun, 04 Jan 2026 15:07:18 GMT server: Apache #Adventiste Magazine » Flux
-Adventiste Magazine » Flux des commentaires Adventiste Magazine » La
-compréhension biblique de la nature et des définitions du péché Flux des
-commentaires oEmbed (JSON) oEmbed (XML) JSON
+HTTP/2 200 date: Sun, 04 Jan 2026 15:23:09 GMT cache-control: public,
+s-maxage=86400, stale-if-error=3600, stale-while-revalidate=86400, max-age=0
+link: /eglise.catholique.fr/wp-json/>; rel="https://api.w.org/",
+/eglise.catholique.fr/wp-json/wp/v2/posts/372314>; rel="alternate";
+type="application/json", /eglise.catholique.fr/?p=372314>; rel=shortlink
+strict-transport-security: max-age=500; x-frame-options: SAMEORIGIN expires:
+Sun, 04 Jan 2026 15:23:09 GMT vary: Accept-Encoding x-ua-compatible: IE=edge
+x-content-type-options: nosniff x-xss-protection: 1; mode=block content-type:
+text/html; charset=UTF-8 age: 7290 accept-ranges: bytes x-cache: cached
+x-cache-age: 7290.739 x-cache-hits: 3 x-cache-ttl: 79109.261 content-length:
+122836 #alternate alternate alternate
 
-Aller au contenu
+  * Accès direct au contenu
+  * Accès direct à la recherche
+  * Accès direct au menu
 
-Adventiste Magazine logo
+logo Église catholique en France, édité par la Conférence des évêques de France
 
-  * Accueil
-  * Catégories
-  + Appel à la prière
-  + Couple
-  + Éducation
+(BUTTON) Menu ____________________ Rechercher
+
+Menu
+(BUTTON) Close
+  * Conférence des évêques de France
+  +
+  o Mieux connaître la Conférence des évêques de France
+  o Conseil permanent
+  o Secrétariat général
+  o Conseils et commissions
+  o Pôles
+  o Autres services et instances
+  o Tribunal pénal canonique national
+  o Les assemblées plénières
+  o Rejoindre la CEF
+  o Guide de l’Église
+  o Statistiques de l’Eglise catholique en France et dans le monde
+  o Liste des diocèses
+  o Carte des diocèses
+  o Liste des provinces ecclésiastiques
+  o Liste des évêques de France
+  o Publications officielles
+  o Textes et déclarations
+  o Nominations
+  o Lutter contre la pédophilie
+  o Publications de la CEF
+  o Soutenir l’Église
+  # Denier de l’Église
+  # Léguer à l’Église
+  # Donation à l’Église
+  # Assurance-vie et transmission de votre patrimoine
+  * Approfondir sa foi
+  +
+  o Connaître et aimer Dieu
+  o Dieu créateur
+  o Jésus, le Dieu vivant
+  o Anthropologie
+  o L’Église
+  o Lire la Bible
+  o Prier
+  o Vivre sa foi à tous les âges
+  o Devenir chrétien
+  o Transmettre la foi
+  o Quelle est ma vocation ?
+  o Témoigner
+  o L’unité des chrétiens
+  o Relations avec le judaïsme
+  o Dialoguer avec les autres croyants
+  o Célébrer
+  o Les sacrements
+  o Les grandes fêtes chrétiennes
+  o Dimanche
+  o Les pèlerinages
+  o Musique et art sacré
+  o Pistes d’homélie du P. J. Fournier
+  o Commentaires de MN. Thabut
+  o Voir aussi :
+  o Textes de la messe du jour
+  o Horaires des messes
+  * S’engager dans la société
+  +
+  o Culture
+  o Dialoguer avec les autres croyants
+  o Droits de l’Homme
+  o Écologie intégrale
+  o Économie
+  o Église en périphérie
+  o Église et bioéthique
+  o L’Église et l’Europe
+  o Famille
+  o Innovation et technologies
+  o Jeunes en Église
+  o Justice et prisons
+  o Laïcité
+  o Lutter contre la pédophilie
+  o Migrants
+  o Monde rural
+  o Politique
+  o Santé et handicap
+  o Solidarité
+  o Tourisme et loisirs
+  o Vie internationale et missionnaire
+  * Actualité de l’Église
+  +
+  o Actualités
+  o Cette année :
+  # Synode 2021-2024
+  # États généraux du Patrimoine religieux
+  # Réouverture de Notre-Dame de Paris en décembre 2024
+  # Jubilé 2025
+  o Dossiers
+  o Fil info des diocèses
+  o Agenda
+  o Lettre d’information
+  o Flux RSS du site
+  * Vatican
+  +
+  o Actualités
+  o Tout savoir sur les papes : rôle, élection, succession
+  o Saint-Siège et Vatican
+  o Les écrits
+  o Statistiques de l’Église dans le monde
+  o Messages du pape François
+
+Glossaire
+Annuaire
+médias
+
+Ste Angèle de Foligno
+
+Les textes de la messe
+Accueil » ... » Célébrer » Les sacrements » La pénitence et la réconciliation »
+Pénitence et réconciliation en questions
+
+Pénitence et réconciliation en questions
+
+Facebook
+Twitter
+Linkedin
+WhatsApp
+
+Qu’est-ce que la réconciliation ?
+
+La vie n’est possible que si nous savons pardonner, nous réconcilier avec nous
+mêmes, avec les autres et avec Dieu. Le sacrement de la réconciliation nous
+invite à reconnaître que l’amour de Dieu nous permet de dépasser les conflits.
+
+Source: Site internet du diocèse de Belfort
+
+Pourquoi se confesser ?
+
+Au sujet du sacrement de réconciliation, nous sommes souvent partagés entre la
+conception d’autrefois et les idées actuelles. Jadis, la confession était très
+importante pour rester en état de grâce car le péché mortel entraînait le
+châtiment éternel de l’enfer. Cette perspective entraînait l’inquiétude et
+parfois le scrupule. Actuellement la confession apparaît à beaucoup comme une
+routine inutile. Pour comprendre pourquoi il faut se confesser, il faut d’abord
+avoir une juste conception du péché.
+Or actuellement, le mot péché n’est pas très bien vu; il évoque le moraliste qui
+donne des leçons. On hésite a appeler quelque chose « péché ». La notion de
+péché semble s’opposer au respect de la liberté humaine et à l’épanouissement de
+la personnalité. Le sentiment de culpabilité apparaît comme le résultat maladif
+de tabous inconscients.. L’Évangile ne parle pas souvent du péché, mais plutôt
+du pardon. Il aborde le péché à partir de l’initiative divine qui vient
+manifester sa miséricorde. Jésus appelle à la conversion pour accueillir la
+Bonne nouvelle du Royaume (Mc 1,15). Jésus va au devant des pécheurs, car il
+n’est pas venu pour les biens portants, mais pour les malades. Il pardonne au
+paralytique (Mc 2,5), à la femme pécheresse (Luc 7,48), à la femme adultère (Jn
+8,11), à Zachée (Luc 19,9-10) et sur la croix à ses bourreaux (Luc 23,34).
+Il montre la miséricorde divine par les paraboles de la brebis perdue et du fils
+prodigue (Luc 15). Ce qui montre le mieux dans l’Évangile la gravité du péché,
+c’est que Jésus affirme à la Cène que son sang est versé pour le pardon des
+péchés (Mt 26/28). C’est un aspect de l’Évangile que l’on oubli souvent. Le
+péché est, un manque d’amour de Dieu qui atteint la relation entre l’homme et
+Dieu. On se reconnaît pécheur non pas en se regardant, mais en regardant l’amour
+de Dieu pour nous. On se demande parfois pourquoi confesser ses péchés à un
+prêtre. L’essentiel n’est il pas de demander à Dieu son pardon ? Ne pouvons-nous
+pas nous confesser directement à Dieu ? En fait Jésus a voulu donner à son
+Église la mission de pardonner les péchés.
+Il a promis à Pierre et aux apôtres le pouvoir de  » lier et de délier « (Mt
+16,19) càd, de condamner ou d’absoudre. Après sa résurrection, lors qu’il est
+apparu à ses disciples, qu’il leur a donné l’Esprit Saint et qu’il leur a dit :
+« Recevez le Saint Esprit. Ceux à qui vous remettrez les péchés, ils leur seront
+remis ; ceux à qui vous les retiendrez, ils leur seront retenus. » (Jean 20,
+22-23) Jésus leur a donné la mission de pardonner. Le symbole central du
+sacrement du pardon est la rencontre entre le prêtre et le pénitent qui exprime
+la rencontre personnelle du pécheur avec Dieu.
+
+Source: Site internet du diocèse de Nanterre
+
+Comment se confesser ?
+
+On commence habituellement a préparer sa confession en faisant son examen de
+conscience et la liste de ses péchés, mais il y a quelque chose à faire avant.
+Il faut d’ abord se mettre devant la Parole de Dieu en lisant un passage de la
+Bible. L’écoute de la Parole en nous révélant la miséricorde de Dieu nous
+dévoile en même temps notre propre péché. Il y a des manières diverses de faire
+son examen de conscience.
+On peut chercher ce que le Seigneur nous demande le plus actuellement, ce qui
+nous paraît le plus important à ses yeux… Se préparer à la confession, ce n’est
+seulement faire son examen de conscience. Il y a quelque chose de plus important
+que l’on néglige parfois. C’est de les regretter avec humilité en comprenant
+qu’ils ont offensé Dieu, qu’ils sont un manque d’amour de Dieu, c’est avoir la
+« contrition » C’est enfin être décidé à prendre les moyens pour ne plus
+retomber dans le péché, c.à.d. prendre des résolutions concrètes.
+On est parfois découragé de se confesser en pensant que l’on recommencera les
+mêmes péchés. Il est certain que la confession ne nous transforme pas
+complètement. Mais le sacrement du pardon nous met dans l’humilité devant Dieu
+qui nous aime malgré notre faiblesse et cette rencontre est essentielle.
+Parfois, on ne voit pas en quoi consistent nos péchés, on ne sait pas quoi dire.
+On n’a parfois l’impression que l’on n’a pas de péchés. Cependant, si nous ne
+voyons pas nos péchés, nos voisins, eux, les connaissent. St Jean dit  » Si nous
+disons que nous n’avons pas péché, la vérité n’est pas en nous  » (1 Jn 1,8-10).
+Si on a l’impression de n’avoir rien a dire, c’est le signe qu’il y a quelque
+chose à changer dans sa vie. Il arrive que l’on se confesse rarement par ce
+qu’on n’en éprouve pas le besoin. Si on comprend bien ce qu’est ce sacrement…
+Notre participation ne repose pas seulement sur un besoin ressenti, mais sur la
+conviction de son importance pour notre relation avec Dieu.
+Le sacrement de réconciliation répond à un besoin. Il nous procure la paix du
+cœur, allège notre conscience sur la quelle pèse parfois une forte culpabilité.
+Cet aveu est parfois pénible, humiliant, mais il nous libère d’un poids, c’est
+une libération. De plus en nous faisant formuler nos péchés, il nous aide à voir
+plus clair en nous, à faire la vérité sur nous-mêmes. Le sacrement de
+réconciliation nous donne aussi une force pour nous guérir de nos faiblesses et
+apporte un élan à notre vie chrétienne. On éprouve la paix et la joie après
+s’être confessé.
+
+Source: Site internet du diocèse de Nanterre
+
+Qu’est-ce que le péché ?
+
+Aujourd’hui dans le langage courant, le péché fait sourire quand on l’associe à
+la gourmandise ou il fait peur quand on l’associe au « péché mortel ». Le péché
+de l’homme est en fait tout manquement à l’amour.
+Le Dieu que nous adorons s’est révélé en Jésus-Christ comme le Dieu d’amour. La
+loi du Christ est la loi d’amour : « Comme le Père m’a aimé, moi aussi je vous
+ai aimés ; comme je vous ai aimés, aimez-vous les uns les autres » dit Jésus
+dans son discours après la Cène. Déjà, dans l’Ancien Testament, on pouvait lire
+: « Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme, de
+toutes tes forces et de tout ton esprit ; tu aimeras ton prochain comme
+toi-même. »
+Le péché est toujours un manquement à l’amour :
+• Soit à l’amour que nous vient de Dieu : refus d’accueillir cet amour,
+d’écouter sa parole et d’y conformer notre vie ;
+• Soit à l’amour envers notre prochain et envers nous-même. Ces manquement à
+l’amour vont être plus précisément des manquements à la foi envers Dieu, à la
+charité envers notre prochain et à l’espérance envers nous-mêmes et ils pourront
+se décliner de mille façons, en pensée, en parole, par action et par omission.
+Le chapitre 15 de l’Evangile selon Saint Luc, en particulier la parabole du fils
+prodigue, illustre fort bien tout à la fois notre péché et la miséricorde de
+Dieu.R : Le péché n’est ni une faute ni une erreur. Il s’agit d’un manque
+d’amour conscient et volontaire. Cette rupture blesse son auteur, son entourage
+et sa relation à Dieu. C’est la Parole de Dieu qui éclaire la conscience du
+baptisé et lui révèle ainsi son besoin impérieux de bénéficier de la miséricorde
+de Dieu.
+
+Source: Site internet du diocèse de Paris
+
+Comment reçoit-on le sacrement de Pénitence et de Réconciliation ?
+
+Celui qui veut obtenir la réconciliation avec Dieu et avec l’Église doit dire au
+prêtre tous les péchés graves qu’il n’a pas encore confessés et dont il se
+souvient, après avoir examiné soigneusement sa conscience. Il est aussi
+recommandé de confesser ses péchés moins graves : péchés véniels.
+Le confesseur propose une pénitence pour réparer les dommages causés par les
+péchés et rétablir une manière de vivre propre aux disciples du Christ.
+
+Source : Le petit guide de la Foi Catholique, Mgr André Vingt-trois, Editions Le
+Sénevé / Cerp
+
+Qu’apporte le sacrement de la Pénitence ?
+
+Le sacrement de la Pénitence nous réconcilie avec Dieu et nous fait rentrer dans
+la pleine communion avec Lui. Il nous réconcilie aussi avec l’Église et avec nos
+frères. Il nous donne la paix et la sérénité et fait grandir nos forces
+spirituelles pour vivre en chrétiens.
+
+Source : Le petit guide de la Foi Catholique, Mgr André Vingt-trois, Editions Le
+Sénevé / Cerp
+
+Facebook
+Twitter
+Linkedin
+WhatsApp
+
+La réconciliation en questions
+
+  * Qu’est-ce que le sacrement de pénitence et de réconciliation ?
+  * Pourquoi me confesser : je n’ai rien à dire / je dis toujours la même chose
+?
+  * Comment se préparer à recevoir ce sacrement ?
+  * Comment se déroule le sacrement de réconciliation ?
+  * Qu’est-ce que le péché ?
+  * Pourquoi se confesser à un prêtre et pas directement à Dieu ?
+  * Quelle différence entre confession, réconciliation et pénitence ?
+  * Contrition, absolution, de quoi parlons-nous ?
+  * Quand se confesser ?
+
+En 2025, nous sommes en année liturgique C
+
+  * logo Vatican Saint-Siège
+
+Vatican
+  * logo AELF
+
+Association épiscopale liturgique pour les pays francophones
+  * logo Mutuelle Saint-Martin
+
+Mutuelle Saint-Martin
+  * logo Mutuelle Saint-Christophe
+
+Mutuelle Saint-Christophe
+  * logo KTO
+
+KTO, télévision et radio catholiques
+  * logo COMECE
+
+COMECE
+  * logo CCEE
+
+Consilium Conferentiarium Episcoporum Europae
+  * logo CNISF
+
+Conférence nationale des instituts séculiers de France
+  * logo CORREF
+
+Conférence des religieux et religieuses de France
+
+Église catholique en France
+
+  * Conférence des évêques de France
+  + Mieux connaître la Conférence des évêques de France
+  + Guide de l’Eglise
+  + Textes et déclarations
+  + Nominations
+  + Publications
+  + Lutter contre la pédophilie
+  * Approfondir sa foi
+  + Connaître et aimer Dieu
+  + Vivre sa foi
+  + Célébrer
+  * S’engager dans la société
+  + Économie
+  + L’Église et l’Europe
   + Famille
-  + Femmes
-  + Jeunesse
-  + La Bible répond
-  + Réflexions Spirituelles
-  + Santé
-  + Témoignage
-  * Radio
-  * Vidéo
-  * Contact
+  + Laïcité
+  + Eglise et medias
+  + Patrimoine
+  + Santé et handicap
+  + Science et Ethique
+  * Actualité de l’Église
+  + Dossiers
+  + Lettre d’information
+  * À propos
+  + Travailler pour l’Église catholique – La Conférence des évêques de France
+recrute
+  * Espace Presse et influenceurs
+  * Flux RSS
+  + Mentions légales
+  + Politique de cookies
+  + Contactez-nous
 
-IT Italian flag Instagram TikTok YouTube
-____________________ (BUTTON)
+© Église catholique en France
+Édité par la Conférence des évêques de France
+Suivre @Eglisecatho
 
-Commencez à taper pour rechercher des articles
-Accueil Catégories Appel à la prière Couple Éducation Famille Femmes Jeunesse La
-Bible répond Réflexions Spirituelles Santé Témoignage Radio Vidéo Contact
+Gérer le consentement
+Ce site utilise des cookies pour mesurer son audience et vous proposer des
+contenus enrichis (vidéos, réseaux sociaux, etc.).
+Vous pouvez les accepter, les refuser ou choisir ceux que vous souhaitez
+activer.
+Nécessaires [ ] Nécessaires Toujours activé
+Cookies nécessaires au bon fonctionnement du site.
+Préférences [ ] Préférences
+Le stockage ou l’accès technique est nécessaire dans la finalité d’intérêt
+légitime de stocker des préférences qui ne sont pas demandées par l’abonné ou la
+personne utilisant le service.
+Statistiques [ ] Statistiques
+Les services de mesure d'audience génèrent des statistiques de fréquentation
+utiles à l'amélioration du site. Le stockage ou l’accès technique qui est
+utilisé exclusivement dans des finalités statistiques anonymes. En l’absence
+d’une assignation à comparaître, d’une conformité volontaire de la part de votre
+fournisseur d’accès à internet ou d’enregistrements supplémentaires provenant
+d’une tierce partie, les informations stockées ou extraites à cette seule fin ne
+peuvent généralement pas être utilisées pour vous identifier.
+Marketing [ ] Marketing
+Les vidéos et réseaux sociaux fournissent des contenus enrichis intégrés au
+site.
+Gérer les options Gérer les services Gérer les fournisseurs En savoir plus sur
+ces finalités
+(BUTTON) Accepter les cookies (BUTTON) Refuser (BUTTON) Personnaliser (BUTTON)
+Enregistrer Personnaliser
+{title} {title} {title}
 
-La compréhension biblique de la nature et des définitions du péché
+(BUTTON) Gérer le consentement
 
-Par Site partenaire d'information • 11 août 2024
-[peches.jpg]
-
-Le péché est décrit dans la Bible principalement en termes théologiques et
-relationnels, car il est dirigé contre notre Dieu, le Créateur et le Rédempteur,
-et il nous détruit, ainsi que nos relations avec ceux qui nous entourent. David
-l’a exprimé avec éloquence dans sa repentance après avoir bien compris la nature
-démoralisante de ses actions pécheresses pour lui-même, Bat-Shéba et sa famille
-: « J’ai péché contre toi [ô Dieu], contre toi seul, j’ai fait ce qui est mal à
-tes yeux » (Psaume 51.6 ; voir Genèse 39.8).
-
-
-La terminologie hébraïque colorée et variée du péché révèle sa nature
-dévastatrice. La richesse du vocabulaire démontre la complexité du péché. Le
-langage biblique le plus fort pour désigner le péché, la trilogie du péché, se
-compose des termes suivants : hattah (le terme le plus courant pour désigner le
-péché dans le sens de manquer la cible, s’écarter du droit chemin ou s’égarer ;
-le mot grec hamartia exprime le même concept), avon (transgression, quelque
-chose qui est plié, tordu ou tortueux) et peshah (rébellion, révolte). Dieu
-pardonne toutes ces variantes de péché et ces fautes mentionnées dans des
-passages cruciaux desÉcritures hébraïques (voir Exode 34.6 ; Lévitique 16.21 ;
-Psaume 32.1-2 ; Esaïe 53.5-6,8-12 ; Daniel 9.24). Outre ces trois mots
-principaux pour désigner le péché, la Bible contient d’autres termes qui
-décrivent la complexité du péché et de notre nature pécheresse, tels que : le
-mal, la culpabilité, la méchanceté, la transgression, l’impureté, la tromperie,
-la malhonnêteté, le mensonge, l’offense, l’abomination, la profanation, la
-perversion, l’iniquité, l’erreur, l’injustice, l’arrogance, et l’échec.
-
-
-Selon le récit de la création dans la Genèse, les êtres humains ont été créés
-(1) en relation avec Dieu, (2) en totale dépendance de lui, (3) pour jouir et
-cultiver sa présence dans nos vies. Le péché brise ce modèle et détruit le beau
-dessein originel établi par Dieu pour le bonheur, la prospérité et la croissance
-de l’humanité.
-
-
-Cinq définitions bibliques du péché
-
-On peut résumer les différents aspects du problème du péché en cinq définitions
-bibliques du péché :
-
-
- 1. Le péché, selon Genèse 3, est une relation rompue avec Dieu, une tentative
-de vivre indépendamment, de manière autonome, de Dieu (du grec autos, « soi »,
-et nomos, « loi », c’est-à-dire être une loi pour soi-même). C’est une vie sans
-Dieu, sans son autorité et sans sa loi. Il détruit les qualités fondamentales de
-la vie et dit non à la présence de Dieu dans la vie (c’est ainsi qu’Adam et Ève
-se sont cachés après avoir péché). Le péché est donc la dé-création, la
-destruction de la merveilleuse création de Dieu. Le péché renverse les trois
-fonctions et objectifs fondamentaux de la vie pour lesquels nous avons été créés
-: il rompt la relation de confiance avec Dieu, il décide de sa propre autorité
-ce qui est bien ou mal, et il nous éloigne de la présence du Seigneur. Ainsi, le
-mal sépare de Dieu et nous isole de lui. Le péché naît du rejet de l’autorité de
-Dieu et du refus de le reconnaître comme Créateur, à qui l’on est et doit rendre
-des comptes. La loi de Dieu est d’abord violée dans l’esprit, puis dans le
-comportement. L’idée de Genèse 3 est reprise par Paul dans le Nouveau Testament
-: « Tout ce qui ne provient pas d’une conviction de foi est péché » (Romains
-14.23). La foi est une relation de confiance avec Dieu et la rupture de la foi
-est un péché (voir Malachie 2.10-11). Dieu a commenté le péché de Moïse de la
-même manière : « Vous n’avez pas eu assez confiance en moi pour respecter ma
-sainteté devant les Israélites » (Nombres 20.12). Le péché est donc un manque de
-confiance dans la bonté de Dieu et dans sa parole, le rejet de son autorité qui
-firent de nos premiers parents des pécheurs et amenèrent le monde à connaître le
-mal (a).
-
-
-La Bible présente d’autres définitions du péché, mais il s’agit en principe
-d’une élaboration et d’un approfondissement de la description précédente,
-construite sur la base de la théologie du péché présentée dans le récit de la
-chute.
-
-
- 2. La définition la plus connue du péché dans la Bible nous est donnée par
-l’apôtre Jean (enracinée dans Genèse 3) : « Le péché, c’est la violation de la
-loi » (1 Jean 3.4 ; le mot grec anomia signifie littéralement « anarchie »), un
-acte concret de désobéissance. C’est une action extérieure, le résultat visible
-d’une relation brisée, la conséquence d’une pensée erronée, l’effet d’une foi
-brisée et le produit d’un manque de confiance. La question de Dieu « Est-ce que
-tu as mangé du fruit de l’arbre dont je t’avais interdit de manger ? » (Genèse
-3.11) révèle que la désobéissance est le résultat d’un manque de respect pour le
-commandement de Dieu. Ainsi, le péché est un défi, une arrogance, une rébellion
-contre Dieu et un rejet orgueilleux de sa Parole, de sa volonté et de son
-autorité. Ce concept a été très bien expliqué par Samuel à Saül, le premier roi
-d’Israël, après sa désobéissance : « L’obéissance vaut mieux que les sacrifices
-[…]. La révolte est aussi coupable que la divination » (1 Samuel 15.22-23).
-Vivre dans le péché signifie vivre sans se concentrer sur Dieu et sans faire sa
-volonté.
-
-
- 3. Le péché est un état dans lequel naît l’être humain. Cela se reflète déjà
-dans Genèse 5.1-3, où il est dit qu’Adam a été créé à l’image de Dieu, mais que
-Seth est né à l’image d’Adam, son père. La différence entre Adam créé à l’image
-de Dieu (voir Genèse 1) et Seth créé à l’image d’Adam (voir Genèse 5) s’explique
-par l’événement qui a provoqué ce changement : la chute dans le péché décrite
-dans Genèse 3. Après le péché d’Adam et d’Ève, notre nature humaine s’est
-corrompue et leurs descendants sont nés avec une nature pécheresse. David
-l’affirme clairement : « Depuis ma naissance, je suis coupable ; quand ma mère
-m’a conçu, j’étais déjà marqué par le péché » (Psaume 51.7). Dans le Psaume
-58.3, David parle également de la mauvaise attitude des méchants vis-à-vis de
-Dieu : « Les méchants sont pervertis dès le ventre de leur mère, les menteurs
-s’égarent dès leur naissance ». Avant la repentance, tous nos habits sont tachés
-(voir Esaïe 64.5) ; avant la renaissance, nos cœurs sont tortueux et incurables
-(voir Jérémie 17.9). Le chemin semble droit à l’homme, mais il conduit à la mort
-(voir Proverbes 14.12). Nous ne pouvons pas changer notre nature, tout comme le
-léopard ne peut pas changer de peau et enlever ses taches (voir Jérémie 13.23).
-Sans exception, nous sommes tous pécheurs (voirEcclésiaste 7.20 ; Romains 3.23 ;
-1 Jean 1.8). Nous craignons naturellement Dieu (voir Genèse 3.10) ; nous sommes
-nés éloignés de lui et morts dans nos péchés (voir Éphésiens 2.1.12,19) (b).
-
-
-L’apôtre Paul l’explique clairement dans Romains 7.15-20 lorsqu’il déclare que
-le péché réside dans notre nature humaine. Les êtres humains naissent avec une
-nature pécheresse et, par conséquent, naissent comme des pécheurs séparés de
-Dieu et ayant besoin d’être sauvés. En tant que pécheurs, nous aimons et
-engendrons le péché, et notre nature pécheresse est caractérisée par l’égoïsme,
-la tendance au mal et l’inclination au péché. La puissance du péché nous rend
-esclaves (voir Romains 5.6 ; 6.6-7,14 ; 7.25). Ce n’est pas seulement une partie
-de l’être humain qui a péché, mais toute la personne, de sorte que tout est
-affecté et corrompu par le péché.
-
-
-Jacques souligne la même vérité lorsqu’il explique que le péché commence par les
-désirs intérieurs de notre nature pécheresse, que ces désirs se trouvent en nous
-et que, lorsqu’ils sont cultivés, ils produisent le péché, la recherche du fruit
-défendu. Ces mauvais désirs ne sont pas encore des péchés (à moins qu’ils ne
-soient cultivés), mais lorsqu’on y cède, ils conduisent à de mauvaises actions
-et à la mort (voir Jacques 1.14-15). Nous sommes coupables lorsque nous jouons
-et nous associons à ces mauvais désirs.
-
-
- 4. Le péché est une négligence à faire le bien, une omission à faire ce qui est
-juste (voir Jacques 4.17). Il implique une attitude d’indifférence. Cette
-attitude peut également être appelée apathie ou tiédeur (voir Apocalypse
-3.15-18). Le christianisme ne consiste pas seulement à ne pas faire de mauvaises
-choses (voir Jacques 1.27), car la vraie religion consiste à faire ce qui est
-bien, juste et profitable (voir Michée 6.8 ; Jean 5.29 ; Tite 3.8 ; Jacques 1.27
-; Philippiens 4.5-6). Le christianisme est une religion active. Le Dieu vivant
-est un Dieu d’action ; il veut donc des disciples proactifs. La connaissance de
-la vérité et la pratique de bonnes actions devraient toujours aller de pair
-(voir Galates 5.4 ; Jacques 1.27 ; 1 Pierre 2.9 ; Éphésiens 2.10).
-
-
- 5. Le péché par excellence est de ne pas croire en Jésus-Christ, qui est la
-seule solution à notre état de pécheur (voir Jean 16.8-9). L’être humain ne peut
-pas s’aider lui-même, guérir son problème de péché ni soigner ses propres
-faiblesses. Le Christ est le seul et unique Sauveur du monde (voir Actes 4.12 ;
-16.31 ; Romains 8.1 ; 1 Jean 5.12-13). Rejeter son sacrifice ultime pour nous,
-sa mort sur la croix, c’est comme se noyer dans l’océan et, lorsque les secours
-arrivent, refuser l’offre d’une bouée de sauvetage. Le péché est une
-incrédulité à l’égard de Jésus, un rejet de son action salvatrice en notre
-faveur, car il est le seul à pouvoir nous délivrer de l’esclavage du péché. Ne
-pas accepter Jésus comme Sauveur personnel et rester dans le péché est fatal
-(voir Proverbes 24.16 ; Jean 3.36).
-
-
-Ce n’est que lorsque nous comprenons la véritable nature du péché que nous
-pouvons mieux nous comprendre et nous connaître et admirer encore plus ce que
-Jésus a fait et fait pour nous, en nous et à travers nous. Le fait de réaliser
-que la solution au problème du péché a nécessité l’incarnation et la mort de
-Jésus-Christ (voir Genèse 3.15 ; Ésaïe 53.1-6 ; Jean 3.16 ; Romains 6.23 ; 2
-Corinthiens 5.21) nous aide à voir la véritable et horrible nature du péché,
-avec sa gravité et sa profondeur. Dieu a dû quitter sa position au ciel, vivre
-en tant qu’être humain et passer par d’immenses souffrances et la mort pour nous
-sauver et nous délivrer de la puissance du péché. Cette solution était
-extrêmement coûteuse : la vie du Fils de Dieu, Jésus-Christ.
-
-
-Conclusion
-
-Là où le premier Adam a échoué, le second Adam a gagné (voir Romains 5.14-21 ; 1
-Corinthiens 15.22,45-49). Ce que les êtres humains ont perdu dans le jardin
-d’Eden, le Christ est venu le restaurer sur la croix. Notre nouvelle identité
-véritable peut et doit être façonnée et construite sur la victoire remportée par
-Jésus-Christ (voir 2 Corinthiens 5.17). Dieu ne nous a pas abandonnés entre les
-mains de Satan et du péché : l’Esprit de Dieu apporte la victoire lorsque, par
-la foi, nous nous attachons à Dieu et à sa Parole, car seuls le Saint Esprit et
-la Parole de Dieu peuvent produire la vraie vie (voir Ézéchiel 36.25-27 ;
-Romains 8.4,14). La solution au péché implique non seulement le pardon, mais
-aussi le renouvellement et la restauration de l’image de Dieu, ainsi que la
-libération de l’esclavage et des dépendances au péché. La vie nouvelle est
-orientée vers la Parole et l’Esprit (voir Romains 8.2-6 ; Colossiens 3.1-4,10).
-
-
-Notre nature pécheresse ne change pas et ne disparaît pas à la suite d’une
-conversion ou d’une repentance. Cependant, notre nature pécheresse, nos
-tendances ou nos inclinations (héritées ou cultivées) peuvent être contrôlées
-par la puissance du Saint-Esprit, sa Parole et la grâce de Dieu (voir Romains
-7.25 ; 8.1-11). Jusqu’au retour du Seigneur, nous conserverons notre nature
-pécheresse, et ce n’est qu’à ce moment-là que les croyants seront complètement
-transformés et recevront un corps incorruptible (voir 1 Corinthiens 15.50-57 ;
-Philippiens 3.20-21 ; 1 Jean 3.2-5). En attendant, nous pouvons faire pleinement
-confiance au Christ, qui nous délivre du péché.
-
-
-
- 1. Ellen G. White définit avec précision le premier péché d’Adam et Ève dans le
-jardin d’Éden comme « le manque de confiance dans la bonté de Dieu et dans sa
-parole, le rejet de son autorité qui firent de nos premiers parents des pécheurs
-et amenèrent le monde à connaître le mal » (Éducation, p. 29). La nature du
-péché est donc expliquée par le concept d’une relation rompue et d’un état
-d’esprit hostile à l’égard de Dieu.
- 2. Seul Jésus est né « saint » (Luc 1.35) ; tous les êtres humains sont nés
-hostiles à Dieu (voir Romains 8.7) et morts dans leur péché (voir Psaume 51.5 ;
-Éphésiens 2.1-3).
-
-
-
-De Jiří Moskala
-Source :
-https://adventistreview.org/magazine-article/of-the-nature-and-definitions-of-si
-n/
-Traduction : Tiziana Calà
-
-Commentaires
-
-Ajouter un commentaire
-
-E-mail ____________________ Nom ____________________
-Commentaire
-____________________________________________________________
-____________________________________________________________
-____________________________________________________________
-(BUTTON) Envoyer
-
-Votre commentaire sera modéré par l'équipe du site si nécessaire.
-
-Adventiste Magazine logo
-
-Adventiste Magazine (en français et en italien) est la revue officielle de la
-Fédération des Églises Adventistes du Septième jour de la Suisse romande et du
-Tessin, produite par le centre Espoir Médias, au service des croyants
-adventistes en Suisse et de la francophonie en général.
-
-CATÉGORIES
-Suisse | Monde | Réflexions Spirituelles | Santé | La Bible répond | Croyances |
-Famille | Jeunesse | Humanitaire | Témoignage | Évangélisation
-[Logos-footer-EM.png] [Logos-footer-EB.png] [Logos-footer-HR.png]
-[Logos-footer-AP.png] [Logos-footer-eglise-adv.png]
-
-Copyright © 2018-2026 Les articles publiés dans ADVENTISTE MAGAZINE n'engagent
-que leurs auteurs.
-Contact | Qui sommes-nous | Politique de confidentialité
+335IST24QN5SS6PB425H

@@ -1,0 +1,199 @@
+HTTP/2 200 date: Sun, 04 Jan 2026 17:35:24 GMT server:
+mw-web.eqiad.main-8f8dcf6c-q2l9h x-content-type-options: nosniff
+content-language: pl accept-ch: content-security-policy-report-only: script-src
+'unsafe-eval' blob: 'self' meta.wikimedia.org *.wikimedia.org *.wikipedia.org
+*.wikinews.org *.wiktionary.org *.wikibooks.org *.wikiversity.org
+*.wikisource.org wikisource.org *.wikiquote.org *.wikidata.org
+*.wikifunctions.org *.wikivoyage.org *.mediawiki.org 'unsafe-inline'
+auth.wikimedia.org; default-src 'self' data: blob: upload.wikimedia.org
+https://commons.wikimedia.org meta.wikimedia.org *.wikimedia.org *.wikipedia.org
+*.wikinews.org *.wiktionary.org *.wikibooks.org *.wikiversity.org
+*.wikisource.org wikisource.org *.wikiquote.org *.wikidata.org
+*.wikifunctions.org *.wikivoyage.org *.mediawiki.org wikimedia.org
+en.wikipedia.org en.wikibooks.org en.wikinews.org en.wikiquote.org
+en.wikiversity.org en.wikivoyage.org en.wiktionary.org www.mediawiki.org
+api.wikimedia.org commons.wikimedia.org foundation.wikimedia.org
+incubator.wikimedia.org species.wikimedia.org wikimania.wikimedia.org
+www.wikidata.org www.wikifunctions.org auth.wikimedia.org; style-src 'self'
+data: blob: upload.wikimedia.org https://commons.wikimedia.org
+meta.wikimedia.org *.wikimedia.org *.wikipedia.org *.wikinews.org
+*.wiktionary.org *.wikibooks.org *.wikiversity.org *.wikisource.org
+wikisource.org *.wikiquote.org *.wikidata.org *.wikifunctions.org
+*.wikivoyage.org *.mediawiki.org wikimedia.org 'unsafe-inline'; object-src
+'none'; report-uri /w/api.php?action=cspreport&format=json&reportonly=1
+last-modified: Sun, 21 Dec 2025 17:35:24 GMT content-type: text/html;
+charset=UTF-8 age: 2 accept-ranges: bytes x-cache: cp6016 miss, cp6016 miss
+x-cache-status: miss server-timing: cache;desc="miss", host;desc="cp6016"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url":
+"https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_
+error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] } nel: { "report_to":
+"wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=04-Jan-2026;Path=/;HttpOnly;secure;Expires=Thu, 05
+Feb 2026 12:00:00 GMT set-cookie:
+WMF-Last-Access-Global=04-Jan-2026;Path=/;Domain=.wikisource.org;HttpOnly;secure
+;Expires=Thu, 05 Feb 2026 12:00:00 GMT set-cookie:
+WMF-DP=fc9;Path=/;HttpOnly;secure;Expires=Mon, 05 Jan 2026 00:00:00 GMT
+x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7 cache-control: private,
+s-maxage=0, max-age=0, must-revalidate, no-transform vary:
+Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
+GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure;
+Domain=.wikisource.org set-cookie:
+NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600 set-cookie:
+WMF-Uniq=g2qc0nrbJJ-hmaHdVHXG2ALeAAAAAFvdlSKhi2xXrY9Ww6mdWU7P_dqj3vPpv9Dz;Domain
+=.wikisource.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027
+00:00:00 GMT x-request-id: 58ac70cb-3dbf-4916-ad8c-ed4a01d3756e #Edytuj
+Wikiźródła (pl) Kanał Atom Wikiźródeł
+
+Przejdź do zawartości
+
+[ ] Menu główne
+Menu główne
+(BUTTON) przypnij (BUTTON) ukryj
+Nawigacja
+  * Strona główna
+  * Indeks tekstów
+  * Losowy tekst
+
+Dla skrybów
+  * Ostatnie zmiany
+  * Losowy indeks
+  * Zasady
+  * Pomoc
+  * Skryptorium
+  * Ogłoszenia
+  * Proofread
+
+Wikiźródła
+Szukaj
+____________________
+(BUTTON) Szukaj
+
+[ ] Wygląd
+
+  * Przekaż darowiznę
+  * Utwórz konto
+  * Zaloguj się
+
+[ ] Narzędzia osobiste
+  * Przekaż darowiznę
+  * Utwórz konto
+  * Zaloguj się
+
+Listy śp. Adama Mickiewicza do Pani Konstancyi/List III
+
+[ ] Dodaj języki
+
+Dodaj linki
+
+  * Tekst
+  * Źródło
+  * Dyskusja
+
+[ ] polski
+
+  * Czytaj
+  * Edytuj
+  * Wyświetl historię
+
+[ ] Narzędzia
+Narzędzia
+(BUTTON) przypnij (BUTTON) ukryj
+Działania
+  * Czytaj
+  * Edytuj
+  * Wyświetl historię
+
+Ogólne
+  * Linkujące
+  * Zmiany w linkowanych
+  * Prześlij plik
+  * Link do tej wersji
+  * Informacje o tej stronie
+  * Cytowanie tego artykułu
+  * Zobacz skrócony adres URL
+  * Pobierz kod QR
+
+Drukuj lub eksportuj
+  * Wersja do druku
+  * Pobierz jako EPUB
+  * Pobierz jako MOBI
+  * Pobierz jako PDF
+  * Inne formaty
+
+W innych projektach
+
+Wygląd
+(BUTTON) przypnij (BUTTON) ukryj
+Pobierz
+Z Wikiźródeł, wolnej biblioteki
+< Listy śp. Adama Mickiewicza do Pani Konstancyi
+<<< Dane tekstu >>>
+Autor Adam Mickiewicz
+Tytuł Listy śp. Adama Mickiewicza do Pani Konstancyi
+Wydawca Komis Ludwika Merzbacha
+Data wyd. 1863
+Miejsce wyd. Poznań
+Źródło Skany na Commons
+Inne Cały tekst
+Pobierz jako: EPUB   • PDF   • MOBI
+Indeks stron
+›››
+Listy śp. Adama Mickiewicza do Pani Konstancyi - List III
+[9]
+
+                                  LIST TRZECI.
+  ___________________________________________________________________________
+
+Piszę do kochanéj Pani z nowego mieszkania i to też tylko nowego mam do
+doniesienia. Skąd inąd położenie moje i osób mnie otaczających zawsze toż samo i
+nie prędko się zmieni. Doniosłem już zdaje mi się o moich teraźniejszych
+zatrudnieniach służbowych, które są raczéj nudne niż trudne. Ja się wcale
+nieskarzę na nie, ale słyszę, że wielu uważa podobną służbę za lichą i
+poniżającą. Bo chociaż tak długo w emigracyi biedujemy, humory i nałogi pańskie,
+a ztąd i sposób widzenia pański kwitną zawsze u nas. Nawet mój syn starszy
+urodzony na emigracyi, zaczyna nudzić się w szkole i powiada, że chce gdzieś
+indziéj przenieść się, tym tonem jakim pomnę w Litwie wielcy panowie zapowiadali
+projekt jechania do dóbr w innym powiecie położonych. Widzę tedy, że państwo
+jest to nasz grzech pierworodny i zaczynam być pobłażającym dla tych, którzy tę
+chorobę odziedziczyli razem z wioskami lub magazynami, ale w emigracyi zawsze mi
+się to dziwno widziwidzi. Spodziewam się, że mi odpiszesz i dasz wiedzieć o
+sobie.
+ A cóż się stało z projektami podróży, która na ten rok przypaść miała?
+ U mnie w domu zdrowi, czekamy córki naszéj Maryni na połowę kwietnia z powrotem
+do domu. Ja lato całe będę musiał w Paryżu przesiedzieć, gdzie mnie obowiązek
+wiąże.
+ Serdecznie pozdrawiam i ręce całuję.
+ A. Mickiewicz.
+ 1 Marca 1853.
+
+Tekst jest własnością publiczną (public domain). Szczegóły licencji na stronie
+autora: Adam Mickiewicz.
+Źródło:
+„https://pl.wikisource.org/w/index.php?title=Listy_śp._Adama_Mickiewicza_do_Pani
+_Konstancyi/List_III&oldid=3264939”
+Kategoria:
+  * Listy śp. Adama Mickiewicza do Pani Konstancyi
+
+  * Tę stronę ostatnio edytowano 3 gru 2022, 21:17.
+  * Tekst udostępniany na licencji Creative Commons: uznanie autorstwa, na tych
+samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń. Zobacz
+szczegółowe informacje o warunkach korzystania.
+
+  * Privacy policy
+  * O Wikiźródłach
+  * Informacje prawne
+  * Powszechne Zasady Postępowania
+  * Dla deweloperów
+  * Statystyki
+  * Oświadczenie o ciasteczkach
+  * Wersja mobilna
+
+  * Wikimedia Foundation
+  * Powered by MediaWiki
+
+(BUTTON) Szukaj
+____________________
+(BUTTON) Szukaj
+Listy śp. Adama Mickiewicza do Pani Konstancyi/List III
+(BUTTON) Dodaj języki Dodaj temat

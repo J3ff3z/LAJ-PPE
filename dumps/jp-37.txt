@@ -1,10 +1,10 @@
-HTTP/2 200 content-type: text/html; charset=utf-8 content-length: 344465 date:
-Sun, 04 Jan 2026 15:04:51 GMT x-envoy-upstream-service-time: 337 vary:
+HTTP/2 200 content-type: text/html; charset=utf-8 content-length: 344670 date:
+Sun, 04 Jan 2026 17:22:33 GMT x-envoy-upstream-service-time: 210 vary:
 Accept-Encoding cache-control: no-cache="Set-Cookie" x-xss-protection: 1;
 mode=block x-frame-options: SAMEORIGIN x-content-type-options: nosniff
 strict-transport-security: max-age=31536000 content-security-policy: script-src
-'sha256-qe1DmRz98ChwpYqTq6a1BlLvZJ2hot0L8Yq8G7+zHDo='
-'nonce-XmoPDYNf9VCaMaackL0hyg==' 'self' 'unsafe-inline' https://note.com
+'sha256-XG8oe9IdFEervjnBLFff5h+ch87msLwzx2kSb7FomCw='
+'nonce-s0z0JqJtxEyIO2btytu2Qg==' 'self' 'unsafe-inline' https://note.com
 https://d291vdycu0ht11.cloudfront.net https://d2l930y2yx77uc.cloudfront.net
 https://cdn.st-note.com https://www.googletagmanager.com
 https://www.google-analytics.com https://www.googleanalytics.com
@@ -29,10 +29,10 @@ https://*.hubspotfeedback.com https://feedback.hubapi.com
 https://static.ads-twitter.com https://static.paypay.ne.jp
 https://static-fe.payments-amazon.com https://embed.bsky.app/static/embed.js
 https://sdk.immedio.io; object-src 'none'; base-uri 'self' etag:
-"54191-QzfUVkFJGG/NSSMEYatz5BW3pHc" accept-ranges: none x-cache: Miss from
-cloudfront via: 1.1 cb27836192ea77ef11844dc965ecf350.cloudfront.net (CloudFront)
+"5425e-h2pyV56/g3dX3XDycdJCJAZjOtQ" accept-ranges: none x-cache: Miss from
+cloudfront via: 1.1 a28484674ba426e000be2ae849e78a26.cloudfront.net (CloudFront)
 x-amz-cf-pop: CDG52-P6 x-amz-cf-id:
-kM0yq61xMZs21rp1436QV0K9FIOi7eEYs34Or1Vs-LecuUV0FO6FWQ==
+Yd3N03UnEbtBdEaLk9TNcHBc14LxKqd0E8fOWCr_neyJLW4o2y_jug==
 
 (BUTTON)
 ログイン

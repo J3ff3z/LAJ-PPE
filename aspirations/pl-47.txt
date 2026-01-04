@@ -1,0 +1,3633 @@
+HTTP/2 200 
+date: Sun, 04 Jan 2026 17:33:54 GMT
+content-type: text/html; charset=UTF-8
+x-powered-by: PHP/8.3.26
+x-dns-prefetch-control: on
+link: <https://stacja7.pl/wp-json/>; rel="https://api.w.org/"
+link: <https://stacja7.pl/wp-json/wp/v2/posts/144037>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://stacja7.pl/?p=144037>; rel=shortlink
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+x-litespeed-cache: hit
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UrBBu%2BRiWoMeMpRksKXNHNzAdnzVenrzo3lm2h6dUJ%2FJYXh%2FG%2B98tMlRn4s5z%2Bf%2Fs6otFQwOVEzAolMzDM2mrz1mz4fec366tJzxt99M52wQiaErHDM%3D"}]}
+vary: Accept-Encoding,User-Agent,User-Agent
+server: cloudflare
+alt-svc: h3=":443"; ma=86400
+x-turbo-charged-by: LiteSpeed
+cf-cache-status: DYNAMIC
+cf-ray: 9b8c7bcf9a02d482-CDG
+
+<!doctype html>
+<html lang="pl-PL">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="preload" href="https://stacja7.pl/wp-content/themes/st7/assets/fonts/OpenSans-VariableFont_wdth,wght.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="https://stacja7.pl/wp-content/themes/st7/assets/fonts/OpenSans-Italic-VariableFont_wdth,wght.woff2" as="font" type="font/woff2" crossorigin>
+
+	<meta property="fb:pages" content="373033009440101" />
+	<link type="application/rss+xml" rel="alternate" title="Popfiction | Popkultura oczami katolików" href="https://www.spreaker.com/show/3315388/episodes/feed">
+
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-36323103-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-36323103-1');
+	</script>
+<!-- <script async src="//www.instagram.com/embed.js"></script> -->
+
+	<title>Biblia na maturze? Podpowiadamy, jakie motywy biblijne mogą Ci się przydać podczas egzaminu z języka polskiego - Stacja7.pl</title>
+<script>
+			const adsEvent = new Event("runAds");
+			window.addEventListener(
+				"runAds",
+				(e) => {
+					
+window.Inpl = window.Inpl||{};window.Inpl.host="stacja7.pl";window.Inpl.WebTr={};if(!window.disallowInsets){Inpl.WebTr.adtracker={};Inpl.WebTr.adtracker.src='https://js.iplsc.com/inpl.uanc/1.3.205/inpl.uanc.js';Inpl.WebTr.adtracker.onload=0;Inpl.WebTr.adtracker.crossorigin=0;window.addEventListener(Inpl.WebTr.adtracker.onload ? 'load' : 'DOMContentLoaded', function(event){var s ='scr'+'ipt',r = document.createElement(s),e=document.getElementsByTagName(s)[0];if(Inpl.WebTr.adtracker.crossorigin){r.setAttribute('crossorigin','anonymous')};r.async=1;r.src=Inpl.WebTr.adtracker.src;e.parentNode.insertBefore(r,e);});
+}/* Wygenerowano dla default/stacja7.pl - 23.10.2024 18:31:19 */
+					window.document.dispatchEvent(new Event("DOMContentLoaded", {
+					  bubbles: true,
+					  cancelable: true
+					}));
+
+				}
+			)
+		</script><script>
+
+
+			function setCookie(cname, cvalue, exdays) {
+				var d = new Date();
+				d.setTime(d.getTime() + (exdays*24*60*60*1000));
+				var expires = "expires="+ d.toUTCString();
+				document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+			}
+
+			function getCookie(cname) {
+				var name = cname + "=";
+				var decodedCookie = decodeURIComponent(document.cookie);
+				var ca = decodedCookie.split(";");
+				for(var i = 0; i <ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == " ") {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
+				}
+				return "";
+			}
+
+
+		</script>
+<!-- The SEO Framework: stworzone przez Sybre Waaijer -->
+<meta name="robots" content="max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+<link rel="canonical" href="https://stacja7.pl/biblia/biblia-na-maturze-podpowiadamy-jakie-motywy-biblijne-moga-ci-sie-przydac-podczas-egzaminu-z-jezyka-polskiego/" />
+<meta name="description" content="Biblia to najważniejsza księga religijna chrześcijan, ale także źródło wiedzy historycznej. Warto tuż przed maturą przypomnieć sobie wszystkie motywy i…" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="pl_PL" />
+<meta property="og:site_name" content="Stacja7.pl" />
+<meta property="og:title" content="Biblia na maturze? Podpowiadamy, jakie motywy biblijne mogą Ci się przydać podczas egzaminu z języka polskiego" />
+<meta property="og:description" content="Biblia to najważniejsza księga religijna chrześcijan, ale także źródło wiedzy historycznej. Warto tuż przed maturą przypomnieć sobie wszystkie motywy i przesłania płynące z Pisma Świętego." />
+<meta property="og:url" content="https://stacja7.pl/biblia/biblia-na-maturze-podpowiadamy-jakie-motywy-biblijne-moga-ci-sie-przydac-podczas-egzaminu-z-jezyka-polskiego/" />
+<meta property="og:image" content="https://stacja7.pl/wp-content/uploads/2021/04/Projekt-bez-tytulu-68.jpg" />
+<meta property="og:image:width" content="1100" />
+<meta property="og:image:height" content="434" />
+<meta property="og:image:alt" content="motywy biblijne na maturze" />
+<meta property="article:published_time" content="2021-05-01T09:50:00+00:00" />
+<meta property="article:modified_time" content="2024-04-15T15:07:21+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Biblia na maturze? Podpowiadamy, jakie motywy biblijne mogą Ci się przydać podczas egzaminu z języka polskiego" />
+<meta name="twitter:description" content="Biblia to najważniejsza księga religijna chrześcijan, ale także źródło wiedzy historycznej. Warto tuż przed maturą przypomnieć sobie wszystkie motywy i przesłania płynące z Pisma Świętego." />
+<meta name="twitter:image" content="https://stacja7.pl/wp-content/uploads/2021/04/Projekt-bez-tytulu-68.jpg" />
+<meta name="twitter:image:alt" content="motywy biblijne na maturze" />
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://stacja7.pl/#/schema/WebSite","url":"https://stacja7.pl/","name":"Stacja7.pl","description":"Złap pociąg do wiary!","inLanguage":"pl-PL","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://stacja7.pl/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@type":"Organization","@id":"https://stacja7.pl/#/schema/Organization","name":"Stacja7.pl","url":"https://stacja7.pl/","logo":{"@type":"ImageObject","url":"https://stacja7.pl/wp-content/uploads/2025/10/cropped-st7fav.png","contentUrl":"https://stacja7.pl/wp-content/uploads/2025/10/cropped-st7fav.png","width":512,"height":512,"contentSize":"7734"}}},{"@type":"WebPage","@id":"https://stacja7.pl/biblia/biblia-na-maturze-podpowiadamy-jakie-motywy-biblijne-moga-ci-sie-przydac-podczas-egzaminu-z-jezyka-polskiego/","url":"https://stacja7.pl/biblia/biblia-na-maturze-podpowiadamy-jakie-motywy-biblijne-moga-ci-sie-przydac-podczas-egzaminu-z-jezyka-polskiego/","name":"Biblia na maturze? Podpowiadamy, jakie motywy biblijne mogą Ci się przydać podczas egzaminu z języka polskiego - Stacja7.pl","description":"Biblia to najważniejsza księga religijna chrześcijan, ale także źródło wiedzy historycznej. Warto tuż przed maturą przypomnieć sobie wszystkie motywy i…","inLanguage":"pl-PL","isPartOf":{"@id":"https://stacja7.pl/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://stacja7.pl/#/schema/BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":"https://stacja7.pl/","name":"Stacja7.pl"},{"@type":"ListItem","position":2,"item":"https://stacja7.pl/kategoria/biblia/","name":"Kategoria: BIBLIA"},{"@type":"ListItem","position":3,"name":"Biblia na maturze? Podpowiadamy, jakie motywy biblijne mogą Ci się przydać podczas egzaminu z języka polskiego"}]},"potentialAction":{"@type":"ReadAction","target":"https://stacja7.pl/biblia/biblia-na-maturze-podpowiadamy-jakie-motywy-biblijne-moga-ci-sie-przydac-podczas-egzaminu-z-jezyka-polskiego/"},"datePublished":"2021-05-01T09:50:00+00:00","dateModified":"2024-04-15T15:07:21+00:00","author":{"@type":"Person","@id":"https://stacja7.pl/#/schema/Person/1a60caf44a1d356279ad49dab07f54ae","name":"Katarzyna Wysocka"}}]}</script>
+<!-- / The SEO Framework: stworzone przez Sybre Waaijer | 27.48ms meta | 11.41ms boot -->
+
+<link rel="alternate" type="application/rss+xml" title="Stacja7.pl &raquo; Kanał z wpisami" href="https://stacja7.pl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Stacja7.pl &raquo; Kanał z komentarzami" href="https://stacja7.pl/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://stacja7.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstacja7.pl%2Fbiblia%2Fbiblia-na-maturze-podpowiadamy-jakie-motywy-biblijne-moga-ci-sie-przydac-podczas-egzaminu-z-jezyka-polskiego%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://stacja7.pl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstacja7.pl%2Fbiblia%2Fbiblia-na-maturze-podpowiadamy-jakie-motywy-biblijne-moga-ci-sie-przydac-podczas-egzaminu-z-jezyka-polskiego%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+
+<link rel='stylesheet' id='wp-block-library-css' href='https://stacja7.pl/wp-includes/css/dist/block-library/style.min.css?ver=6.9' media='all' />
+<style id='wp-block-heading-inline-css'>
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://stacja7.pl/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id='wp-block-embed-inline-css'>
+.wp-block-embed.alignleft,.wp-block-embed.alignright,.wp-block[data-align=left]>[data-type="core/embed"],.wp-block[data-align=right]>[data-type="core/embed"]{max-width:360px;width:100%}.wp-block-embed.alignleft .wp-block-embed__wrapper,.wp-block-embed.alignright .wp-block-embed__wrapper,.wp-block[data-align=left]>[data-type="core/embed"] .wp-block-embed__wrapper,.wp-block[data-align=right]>[data-type="core/embed"] .wp-block-embed__wrapper{min-width:280px}.wp-block-cover .wp-block-embed{min-height:240px;min-width:320px}.wp-block-embed{overflow-wrap:break-word}.wp-block-embed :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-embed iframe{max-width:100%}.wp-block-embed__wrapper{position:relative}.wp-embed-responsive .wp-has-aspect-ratio .wp-block-embed__wrapper:before{content:"";display:block;padding-top:50%}.wp-embed-responsive .wp-has-aspect-ratio iframe{bottom:0;height:100%;left:0;position:absolute;right:0;top:0;width:100%}.wp-embed-responsive .wp-embed-aspect-21-9 .wp-block-embed__wrapper:before{padding-top:42.85%}.wp-embed-responsive .wp-embed-aspect-18-9 .wp-block-embed__wrapper:before{padding-top:50%}.wp-embed-responsive .wp-embed-aspect-16-9 .wp-block-embed__wrapper:before{padding-top:56.25%}.wp-embed-responsive .wp-embed-aspect-4-3 .wp-block-embed__wrapper:before{padding-top:75%}.wp-embed-responsive .wp-embed-aspect-1-1 .wp-block-embed__wrapper:before{padding-top:100%}.wp-embed-responsive .wp-embed-aspect-9-16 .wp-block-embed__wrapper:before{padding-top:177.77%}.wp-embed-responsive .wp-embed-aspect-1-2 .wp-block-embed__wrapper:before{padding-top:200%}
+/*# sourceURL=https://stacja7.pl/wp-includes/blocks/embed/style.min.css */
+</style>
+<style id='wp-block-paragraph-inline-css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://stacja7.pl/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://stacja7.pl/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4' media='all' />
+<link rel='stylesheet' id='cf7-extension-front-style-css' href='https://stacja7.pl/wp-content/plugins/extensions-for-cf7/assets/css/cf7-extension-front-style.css?ver=3.4.0' media='all' />
+<link rel='stylesheet' id='gn-frontend-gnfollow-style-css' href='https://stacja7.pl/wp-content/plugins/gn-publisher/assets/css/gn-frontend-gnfollow.min.css?ver=1.5.25' media='all' />
+<link rel='stylesheet' id='pgc-simply-gallery-plugin-lightbox-style-css' href='https://stacja7.pl/wp-content/plugins/simply-gallery-block/plugins/pgc_sgb_lightbox.min.style.css?ver=3.3.2' media='all' />
+<link rel='stylesheet' id='st7-app-css' href='https://stacja7.pl/wp-content/themes/st7/assets/css/app.css?ver=2.0.126' media='all' />
+<style id='st7-app-inline-css'>
+.label.label-11-lat-pontyfikatu-franciszka { background-color: ; color:  }.label.label-19-rocznica-wyboru-benedykta-xvi { background-color: #44d5f2; color: #ffffff }.label.label-1921-2023 { background-color: #000000; color: #ffffff }.label.label-1956-2024 { background-color: #000000; color: #ffffff }.label.label-20-rocznica-smierci-sw-jana-pawla-ii { background-color: #44d5f2; color: #ffffff }.label.label-druga-rocznica-beatyfikacji-kard-wyszynskiego-i-matki-czackiej { background-color: #44d5f2; color: #ffffff }.label.label-rocznica-smierci-benedykta-xvi { background-color: #44d5f2; color: #ffffff }.label.label-46-rocznica-wyboru-jana-pawla-ii { background-color: #44d5f2; color: #ffffff }.label.label-4-rocznica-smierci-ks-pawlukiewicza { background-color: #44d5f2; color: #ffffff }.label.label-80-rocznica-wybuchu-powstania-warszawskiego { background-color: #44d5f2; color: #ffffff }.label.label-81-rocznica-powstania-w-getcie-warszawskim { background-color: #44d5f2; color: #ffffff }.label.label-86-rocznica-wybuchu-ii-wojny-swiatowej { background-color: #44d5f2; color: #ffffff }.label.label-adhortacja-dilexi-te { background-color: #44d5f2; color: #ffffff }.label.label-analiza { background-color: #44d5f2; color: #ffffff }.label.label-artykul-aktualizowany { background-color: #dd3333; color: #ffffff }.label.label-beatyfikacja-rodziny-ulmow { background-color: #44d5f2; color: #ffffff }.label.label-boze-narodzenie { background-color: #44d5f2; color: #ffffff }.label.label-catolico { background-color: #44d5f2; color: #ffffff }.label.label-co-z-rupnikiem-debata-catolico { background-color: #44d5f2; color: #ffffff }.label.label-debata { background-color: #44d5f2; color: #ffffff }.label.label-duszpasterstwo-akademickie { background-color: #44d5f2; color: #ffffff }.label.label-dzien-kobiet { background-color: #44d5f2; color: #ffffff }.label.label-dzien-meczenstwa-duchowienstwa-polskiego { background-color: #44d5f2; color: #ffffff }.label.label-dzien-ojca { background-color: #44d5f2; color: #ffffff }.label.label-dzien-swietosci-zycia { background-color: #44d5f2; color: #ffffff }.label.label-dzien-zycia-konsekrowanego { background-color: #44d5f2; color: #ffffff }.label.label-dzis-rocznica-zamachu-na-wtc { background-color: #44d5f2; color: #ffffff }.label.label-felietony { background-color: #44d5f2; color: #ffffff }.label.label-fiducia-supplicans { background-color: #44d5f2; color: #ffffff }.label.label-franciszek-udzielil-wywiadu { background-color: #44d5f2; color: #ffffff }.label.label-historia { background-color: #38e1f4; color: #ffffff }.label.label-jutro-konsystorz { background-color: #44d5f2; color: #ffffff }.label.label-jutro-swieto { background-color: #44d5f2; color: #ffffff }.label.label-juz-dzis { background-color: #44d5f2; color: #ffffff }.label.label-kardynal-nominat-juz-w-rzymie { background-color: #44d5f2; color: #ffffff }.label.label-kazanie-na-boze-cialo { background-color: #e5000d; color: #ffffff }.label.label-ks-tadeusz-isakowicz-zaleski-1956-2024 { background-color: #44d5f2; color: #ffffff }.label.label-leon-xiv-w-turcji-i-libanie { background-color: #44d5f2; color: #ffffff }.label.label-list-apostolski { background-color: #44d5f2; color: #ffffff }.label.label-list-do-redakcji { background-color: #44d5f2; color: #ffffff }.label.label-niedziela-palmowa { background-color: #44d5f2; color: #ffffff }.label.label-niedziela-zmartwychwstania-panskiego { background-color: #44d5f2; color: #ffffff }.label.label-nowe { background-color: #dd0000; color: #ffffff }.label.label-nowosc { background-color: #44d5f2; color: #ffffff }.label.label-nowosc-na-dobroci-pl { background-color: #44d5f2; color: #ffffff }.label.label-nowy-biskup-sosnowiecki { background-color: #44d5f2; color: #ffffff }.label.label-opinia { background-color: #44d5f2; color: #ffffff }.label.label-papiez-ws-ukrainy { background-color: #44d5f2; color: #ffffff }.label.label-pielgrzymki { background-color: #44d5f2; color: #ffffff }.label.label-pierwszy-wywiad-nowego-przewodniczecego-kep { background-color: #44d5f2; color: #ffffff }.label.label-pilne { background-color: #dd0000; color: #ffffff }.label.label-pogrzeb-ks-isakowicza-zaleskiego { background-color: #44d5f2; color: #ffffff }.label.label-polecamy { background-color: #44d5f2; color: #ffffff }.label.label-popularne { background-color: #44d5f2; color: #ffffff }.label.label-powstanie-warszawskie { background-color: #44d5f2; color: #ffffff }.label.label-pozegnanie-wandy-poltawskiej { background-color: #44d5f2; color: #ffffff }.label.label-premiera { background-color: #e92cdd; color: #ffffff }.label.label-przed-synodem { background-color: #44d5f2; color: #ffffff }.label.label-pytania-do-eksperta { background-color: #44d5f2; color: #ffffff }.label.label-recenzja { background-color: #44d5f2; color: #ffffff }.label.label-relacja-na-zywo { background-color: #44d5f2; color: #ffffff }.label.label-religia-w-szkole { background-color: #44d5f2; color: #ffffff }.label.label-reportaz { background-color: #44d5f2; color: #ffffff }.label.label-reportaz-z-misji { background-color: #44d5f2; color: #ffffff }.label.label-rocznica-objawien { background-color: #44d5f2; color: #ffffff }.label.label-rocznica-poswiecenia-bazyliki-na-lateranie { background-color: #44d5f2; color: #ffffff }.label.label-rocznica-smierci { background-color: #44d5f2; color: #ffffff }.label.label-rocznica-wyboru-jana-pawla-ii { background-color: #44d5f2; color: #ffffff }.label.label-rok-jubileuszowy-2025 { background-color: #44d5f2; color: #ffffff }.label.label-rozmowy-stacji7 { background-color: #44d5f2; color: #ffffff }.label.label-rozpoczyna-sie-synod { background-color: #44d5f2; color: #ffffff }.label.label-rozwazanie-drogi-krzyzowej { background-color: #44d5f2; color: #ffffff }.label.label-sejm-glosuje-nad-aborcja { background-color: #44d5f2; color: #ffffff }.label.label-small-talk-7 { background-color: #44d5f2; color: #ffffff }.label.label-sonda { background-color: ; color:  }.label.label-specjalnie-dla-stacji7 { background-color: #44d5f2; color: #ffffff }.label.label-spor-o-slowa-papieza { background-color: #44d5f2; color: #ffffff }.label.label-spowiedz-dzieci { background-color: #44d5f2; color: #ffffff }.label.label-sprawdzamy { background-color: #44d5f2; color: #ffffff }.label.label-stacja-wakacje { background-color: #44d5f2; color: #ffffff }.label.label-styl-zycia { background-color: #dbc500; color: #ffffff }.label.label-swiatowe-dni-mlodziezy { background-color: #44d5f2; color: #ffffff }.label.label-swiatowy-dzien-ubogich { background-color: #44d5f2; color: #ffffff }.label.label-swiatowy-dzien-walki-z-depresja { background-color: #44d5f2; color: #ffffff }.label.label-swiatowy-dzien-zdrowia-psychicznego { background-color: #44d5f2; color: #ffffff }.label.label-swieto-milosierdzia-bozego { background-color: #44d5f2; color: #ffffff }.label.label-swieto-podwyzszenia-krzyza-swietego { background-color: #44d5f2; color: #ffffff }.label.label-swieto-wojska-polskiego { background-color: #44d5f2; color: #ffffff }.label.label-td { background-color: #44d5f2; color: #ffffff }.label.label-temat-tygodnia { background-color: #44d5f2; color: #ffffff }.label.label-trwa-synod { background-color: #44d5f2; color: #ffffff }.label.label-twoja-biblia { background-color: #44d5f2; color: #ffffff }.label.label-w-niedziele-rozpoczyna-sie-tydzien-sw-krzysztofa { background-color: #44d5f2; color: #ffffff }.label.label-tylko-u-nas { background-color: #44d5f2; color: #ffffff }.label.label-w-niedziele-dzien-papieski { background-color: #44d5f2; color: #ffffff }.label.label-wakacje { background-color: #44d5f2; color: #ffffff }.label.label-wasze-swiadectwa { background-color: #44d5f2; color: #ffffff }.label.label-wazne { background-color: #dd0000; color: #ffffff }.label.label-wielka-sobota { background-color: #44d5f2; color: #ffffff }.label.label-wielki-czwartek { background-color: #44d5f2; color: #ffffff }.label.label-wojna-w-izraelu { background-color: #44d5f2; color: #ffffff }.label.label-wspomnienie-sw-jana-pawla-ii { background-color: #44d5f2; color: #ffffff }.label.label-wybory-w-episkopacie { background-color: #44d5f2; color: #ffffff }.label.label-wydarzenie-ze-stacja7 { background-color: #44d5f2; color: #ffffff }.label.label-wywiad-stacji7 { background-color: #44d5f2; color: #ffffff }.label.label-wywiady-stacji7 { background-color: ; color:  }.label.label-zapraszamy { background-color: #44d5f2; color: #ffffff }
+/*# sourceURL=st7-app-inline-css */
+</style>
+<link rel='stylesheet' id='hero-section-style-it-css' href='https://stacja7.pl/wp-content/themes/st7/assets/css/offer.css?ver=1754569496' media='all' />
+<script src="https://stacja7.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<link rel="https://api.w.org/" href="https://stacja7.pl/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://stacja7.pl/wp-json/wp/v2/posts/144037" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://stacja7.pl/xmlrpc.php?rsd" />
+  <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+  <script>
+          window.OneSignalDeferred = window.OneSignalDeferred || [];
+          OneSignalDeferred.push(async function(OneSignal) {
+            await OneSignal.init({
+              appId: "cba8634b-113b-466b-a89c-85121b4d42ea",
+              serviceWorkerOverrideForTypical: true,
+              path: "https://stacja7.pl/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/",
+              serviceWorkerParam: { scope: "/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/push/onesignal/" },
+              serviceWorkerPath: "OneSignalSDKWorker.js",
+            });
+          });
+
+          // Unregister the legacy OneSignal service worker to prevent scope conflicts
+          if (navigator.serviceWorker) {
+            navigator.serviceWorker.getRegistrations().then((registrations) => {
+              // Iterate through all registered service workers
+              registrations.forEach((registration) => {
+                // Check the script URL to identify the specific service worker
+                if (registration.active && registration.active.scriptURL.includes('OneSignalSDKWorker.js.php')) {
+                  // Unregister the service worker
+                  registration.unregister().then((success) => {
+                    if (success) {
+                      console.log('OneSignalSW: Successfully unregistered:', registration.active.scriptURL);
+                    } else {
+                      console.log('OneSignalSW: Failed to unregister:', registration.active.scriptURL);
+                    }
+                  });
+                }
+              });
+            }).catch((error) => {
+              console.error('Error fetching service worker registrations:', error);
+            });
+        }
+        </script>
+<noscript><style>.simply-gallery-amp{ display: block !important; }</style></noscript><noscript><style>.sgb-preloader{ display: none !important; }</style></noscript><link rel="icon" href="https://stacja7.pl/wp-content/uploads/2025/10/cropped-st7fav-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://stacja7.pl/wp-content/uploads/2025/10/cropped-st7fav-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://stacja7.pl/wp-content/uploads/2025/10/cropped-st7fav-180x180.png" />
+<meta name="msapplication-TileImage" content="https://stacja7.pl/wp-content/uploads/2025/10/cropped-st7fav-270x270.png" />
+		<style id="wp-custom-css">
+			.kontakt_column {
+   margin-bottom: 0px;
+}
+.st7-ad-wrapper > div { position: sticky; top: 0; }
+
+div.grwf2-wrapper.wf2-embedded { z-index: 1 !important; }
+
+/*
+#st7-page-header {
+	margin-bottom: 20px;
+}
+*/
+
+.col-lg-9 .st7-featured-alt-category {
+	margin-top: 50px;
+}
+
+/* style formularza do świadectw 2023 */
+
+.wpcf7 input[type="text"],
+.wpcf7 input[type="email"],
+.wpcf7 textarea
+{
+    background-color: white;
+    color: #000;
+		border: 1px solid #b5b5b5;
+		border-radius: 10px;
+	  width: 100%;
+		padding: 5px;
+		font-family: 'Open Sans', sans-serif;
+}
+
+#cf7-testimony-wrapper{
+	border: 2px solid #44d5f3;
+	padding: 8%;
+	border-radius: 10px;
+	background-color: #fafdfe;
+}
+
+#cf7-testimony-wrapper label {
+	font-family: 'Oswald', sans-serif;
+}
+
+.cf7-testimony-button {
+    padding: 5px 50px;
+    background-color: #44d5f3;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 10px;
+}
+ 
+
+/* end style formularza do świadectw 2023 */
+
+
+#wpcf7-f256179-p256288-o1 {
+	background-color: aliceblue;
+	padding: 5%;
+	width: 60%;
+}
+
+
+.wpcf7-list-item-label {
+	font-size: 12px;
+}
+
+.wpcf7-list-item {
+	line-height: 16px;
+}
+
+
+
+
+#wpcf7-f256179-p256288-o1 label {
+   margin-bottom: 15px;
+
+}
+
+
+#wpcf7-f256179-p256288-o1 .wpcf7-submit {
+	background-color: #44d5f2 !important;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+
+/*form nawykowniki*/
+
+#wpcf7-f259434-p259416-o1 {
+	background-color: aliceblue;
+	padding: 5%;
+	width: 60%;
+}
+
+
+.wpcf7-list-item-label {
+	font-size: 12px;
+}
+
+.wpcf7-list-item {
+	line-height: 16px;
+}
+
+
+
+
+#wpcf7-f259434-p259416-o1 label {
+   margin-bottom: 15px;
+
+}
+
+
+#wpcf7-f259434-p259416-o1 .wpcf7-submit {
+	background-color: #44d5f2 !important;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+
+
+
+
+/*form nawykowniki end*/
+
+/*form walentynki*/
+
+#wpcf7-f263624-p263799-o1 {
+	background-color: #e889f4;
+	padding: 5%;
+	width: 60%;
+	
+}
+
+
+.wpcf7-list-item-label {
+	font-size: 12px;
+}
+
+.wpcf7-list-item {
+	line-height: 16px;
+}
+
+
+
+
+#wpcf7-f263624-p263799-o1 label {
+   margin-bottom: 15px;
+
+}
+
+
+#wpcf7-f263624-p263799-o1 .wpcf7-submit {
+	background-color: #000 !important;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	color: #fff !important;
+}
+
+
+
+
+
+/*form walentynki end*/
+
+
+
+/*form dk*/
+
+#wpcf7-f265273-p238445-o1 {
+	background-color: #e889f4;
+	padding: 5%;
+	width: 60%;
+	
+}
+
+
+.wpcf7-list-item-label {
+	font-size: 12px;
+}
+
+.wpcf7-list-item {
+	line-height: 16px;
+}
+
+
+
+
+#wpcf7-f265273-p238445-o1 label {
+   margin-bottom: 15px;
+
+}
+
+
+#wpcf7-f265273-p238445-o1 .wpcf7-submit {
+	background-color: #000 !important;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	color: #fff !important;
+}
+
+
+
+
+
+/*form dk end*/
+
+
+
+
+
+.page-id-263684 .s7-quote-wrap {
+
+	background-image: url(
+https://stacja7.pl/wp-content/uploads/2025/02/tlo-cytaty.jpg);
+
+}
+
+
+.page-id-263684 .s7-quote-title {
+	display:none;
+}
+
+.siglum-link { color: inherit; text-decoration: underline; }
+
+/*
+a.st7-logo:after {
+    width: 15px;
+    background: #202020;
+    position: absolute;
+    left: 0;
+    top: -25px;
+    height: 100px;
+    content: '';
+    transform: rotateZ(45deg);
+    box-shadow: 7px -20px 10px #0000004a;
+}
+
+.st7-logo {
+	overflow: hidden;
+}
+*/
+
+.st7-db-logo {
+
+    display: flex;
+    align-items: center;
+    margin-left: 16px;
+
+}
+
+
+@media (max-width: 768px) {
+  
+	 .st7-db-logo {
+		 
+		 display: none;
+		 
+	}
+
+	
+}
+
+/* szablon znikac*/
+
+/*s1*/
+
+
+
+.book-section {
+  display: grid;
+  grid-template-rows: 60px auto auto;
+  gap: 20px;
+  padding-right: 5%;
+	padding-left: 5%;
+	padding-top: 5%;
+	padding-bottom: 10%;
+  background: url("https://stacja7.pl/wp-content/uploads/2025/09/zniknac-hero-101-long33-scaled.jpg");
+	background-position: top center;
+	background-size: cover;
+  
+	
+}
+
+/* Wiersz 1 */
+.row-top {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; /* button zawsze przy prawej krawędzi */
+}
+
+/* Button jako link */
+.btn {
+  display: inline-block; 
+  width: auto;           
+  padding: 10px 20px;
+  background-color: #dbb26d;
+  border: none;
+  color: #1e2337;
+  font-size: 16px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background 0.3s;
+	border-radius: 50px;
+}
+.btn:hover {
+  background-color: #fff;
+}
+
+/* Wiersze 2 i 3 */
+.row-middle,
+.row-bottom {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 50px;
+}
+
+/* Kontener na 2 nakładające się grafiki */
+.image-stack {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+	top: 18%;
+}
+.image-stack img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+.image-stack .img-base {
+  position: relative;
+  z-index: 1;
+}
+.image-stack .img-overlay {
+  position: absolute;
+  top: -20px;
+  left: 20px;
+  z-index: 2;
+}
+
+/* Tekst w wierszu 3 */
+.row-bottom .col-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+	
+}
+
+
+.row-bottom .col-right p {
+
+color: #fff;
+
+	
+}
+
+
+.row-bottom .col-right p span {
+
+color: #dbb26d;
+
+	
+}
+
+
+
+.row-bottom {
+	margin-top: 25%;
+}
+
+.row-bottom .col-left h1 {
+	text-align: right;
+	color: #fff;
+}
+
+
+
+
+/* Responsywność */
+@media (max-width: 768px) {
+  .row-middle,
+  .row-bottom {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+  .row-bottom .col-right {
+    align-items: center;
+  }
+  .row-top {
+    justify-content: center; /* na mobile przycisk wyśrodkowany */
+  }
+	
+	
+.row-bottom .col-left h1 {
+	text-align: center;
+
+}
+		
+	
+}
+
+/*s1 end */
+
+
+/*s2*/
+
+.quotes {
+  background: url("https://stacja7.pl/wp-content/uploads/2025/09/group-217@2x-scaled.png") center/cover no-repeat;
+	/*background-color: #ddab65;*/
+  padding-right: 5%;
+	padding-left: 5%;
+	padding-top: 15%;
+	padding-bottom: 10%;
+  text-align: center;
+  position: relative;
+}
+
+.quotes-image {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.quotes-image img {
+  max-width: 100px;
+  height: auto;
+}
+
+.quote-slide {
+  display: none;
+  max-width: 800px;
+  margin: 0 auto;
+  opacity: 0;
+  transition: opacity 0.8s ease-in-out;
+}
+.quote-slide.active {
+  display: block;
+  opacity: 1;
+}
+
+blockquote {
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #1e2337;
+  line-height: 1.6;
+  margin: 0;
+}
+.quote-author {
+  margin-top: 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #333;
+}
+
+/* Kropki */
+.dots {
+  margin-top: 30px;
+}
+.dot {
+  height: 12px;
+  width: 12px;
+  margin: 0 5px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.dot.active {
+  background-color: #1e2337;
+}
+
+
+
+@media (max-width: 768px) {
+
+.quotes {
+	padding-top: 20%;
+
+}
+
+}
+
+
+/*s2 end*/
+
+
+/* s3 start */
+
+.section-3 {
+background: 
+    linear-gradient(
+      to bottom,
+      #332e34 0%,
+      #2d2d41 33%,
+      #212c52 75%,
+      #0d1f5e 100%
+    );
+  padding: 60px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+}
+
+/* Ogólny grid */
+.section-3 .row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 40px;
+}
+
+/* Wiersz 1 */
+.section-3 .row-1 h2 {
+	color: #fff;
+  margin-bottom: 20px;
+}
+.section-3 .row-1 ul {
+  margin: 20px 0;
+  padding-left: 20px;
+}
+
+.section-3 .row-1 ul li {
+	color: #fff;
+	
+}
+
+.section-3 .row-1 p {
+  color: #fff;
+
+}
+.section-3 .row-1 .keywords {
+  margin: 20px 0;
+  color: #dbb26d;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.section-3 .row-1 .btn {
+  margin-top: 20px;
+}
+
+/* Wiersze 2 i 3 – z tłem */
+.section-3 .row-2,
+.section-3 .row-3 {
+  background: #718494; /* ciemne tło na całą szerokość */
+  padding: 0px 10%;
+  color: #fff;
+}
+
+.section-3 .row-2 h2,
+.section-3 .row-3 h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+.section-3 .row-2 .subtitle,
+.section-3 .row-3 .subtitle {
+  font-size: 1.2rem;
+  color: #eccb92;
+  margin-bottom: 20px;
+}
+.section-3 .row-2 .text-light,
+.section-3 .row-3 .text-light {
+  color: #fff;
+}
+
+/* Responsywność */
+@media (max-width: 768px) {
+  .section-3 .row {
+    grid-template-columns: 1fr;
+    text-align: center;
+		gap: 20px;
+  }
+
+  /* Button wyśrodkowany */
+  .section-3 .btn {
+    margin: 20px auto 0;
+  }
+
+  /* Większy padding dla listy w 1 wierszu */
+  .section-3 .row-1 ul {
+    padding-left: 40px; /* było 20px, dajemy więcej */
+    text-align: left;   /* żeby lista wyglądała naturalnie */
+    display: inline-block; /* wyrównanie środka */
+  }
+
+  /* Reverse w 3 wierszu: tekst nad grafiką */
+  .section-3 .row-3 {
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+    gap: 20px;
+  }
+	
+.section-3 .row-2,
+.section-3 .row-3 {	
+	   padding-bottom: 5%;
+	   padding-top: 5%;
+	
+	}
+	
+}
+
+
+/* s3 end */
+
+
+/* s4 start */
+
+.section-4 {
+  background: #fff;
+  color: #2e2727;
+  padding: 5% 15%;
+}
+
+.section-4 .row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 70px;
+}
+
+.section-4 .col-left h1 {
+  font-size: 3rem;      /* duży nagłówek */
+  font-weight: bold;
+  text-align: right;    /* wyrównanie do prawej */
+  margin: 0;
+  line-height: 1.2;
+}
+
+.section-4 .col-right p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Responsywność */
+@media (max-width: 768px) {
+  .section-4 {
+    padding: 8% 10%;
+  }
+
+  .section-4 .row {
+    grid-template-columns: 1fr;
+    text-align: center;
+		gap: 20px;
+  }
+
+  .section-4 .col-left h1 {
+    text-align: center; /* na mobile wyśrodkujemy */
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+	
+	
+}
+
+/* s4 end */
+
+/* s5 start */
+
+.section-5 {
+  background: #fff;
+  padding: 40px 15%;
+}
+
+.section-5 .row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: start; /* tylko wysokość dopasowana */
+  gap: 40px;
+}
+
+.section-5 .col {
+  background: #232b52;
+  padding: 10%;
+  color: #fff;
+  text-align: left;
+}
+
+.section-5 .col h3 {
+  color: #dbb26d;
+  font-size: 1.4rem;
+  margin-bottom: 15px;
+}
+
+.section-5 .col p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Responsywność */
+@media (max-width: 992px) {
+  .section-5 .row {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  .section-5 {
+    padding: 30px 10%;
+  }
+}
+
+
+/* s5 end */
+
+
+/* s6 start */
+
+.section-6 {
+  background: #fff;
+  padding: 2% 20%;
+}
+
+.section-6 .row {
+  display: grid;
+  grid-template-columns: 250px 1fr;
+  align-items: center;
+  padding: 20px 0;
+  border-bottom: 1px solid #dbb26d;
+  gap: 20px;
+}
+
+.section-6 .col-left h2 {
+  color: #dbb26d;
+  font-size: 2rem;
+  margin: 0;
+}
+
+.section-6 .col-right h3 {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin: 0 0 8px;
+  color: #2e2727;
+}
+
+.section-6 .col-right p {
+  font-size: 16px;
+  margin: 0;
+  color: #2e2727;
+}
+
+/* Responsywność */
+@media (max-width: 768px) {
+  .section-6 {
+    padding: 5% 10%;
+  }
+
+  .section-6 .row {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .section-6 .col-left h2 {
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+  }
+
+  .section-6 .col-right h3 {
+    font-size: 1rem;
+  }
+
+  .section-6 .col-right p {
+    font-size: 16px;
+  }
+}
+
+
+/* s6 end */
+
+
+/* s7 start */
+
+.section-7 {
+  background: url("https://stacja7.pl/wp-content/uploads/2025/09/union-7@2x-scaled.png") center/cover no-repeat;
+  padding: 8% 15%;
+  color: #fff;
+}
+
+.section-7 .row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 70px;
+}
+
+.section-7 .col-left h1 {
+  line-height: 1.3;
+  margin: 0;
+  text-align: right;
+  color: #fff;
+}
+
+.section-7 .col-right p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 15px;
+  color: #2e2727;
+}
+
+
+.section-7 .col-right span {
+  font-size: 1.4rem;
+  line-height: 1.6;
+  margin-bottom: 15px;
+  color: #fff;
+}
+
+
+/* Responsywność */
+@media (max-width: 768px) {
+  .section-7 {
+    padding-left: 10%;
+		padding-right: 10%;
+		padding-bottom: 8%;
+		padding-top: 25%;
+    text-align: center;
+  }
+
+  .section-7 .row {
+    grid-template-columns: 1fr;
+  }
+
+  .section-7 .col-left h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+	
+	.section-7 .row {
+      gap: 20px;
+}
+	
+	
+}
+
+
+
+
+
+/*s7 end */
+
+
+/* s8 start */
+
+.section-8 {
+  background-color: #362e2e;
+  padding: 10% 15%;
+  text-align: center;
+}
+
+.section-8 p {
+  color: #dbb26d;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+.section-8 .btn {
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: #dbb26d;
+  color: #2e2727;
+  font-weight: bold;
+  border-radius: 25px;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.section-8 .btn:hover {
+  background-color: #c29c57;
+}
+
+/* Responsywność */
+@media (max-width: 768px) {
+  .section-8 {
+    padding: 15% 10%;
+  }
+
+  .section-8 p {
+    font-size: 1rem;
+  }
+}
+
+
+/* s8 end */
+
+/* s9 start */
+
+.section-9 {
+  background: #fff;
+  padding-right:15%;
+	padding-left:15%;
+	padding-top:8%;
+	padding-bottom:1%;
+  color: #2e2727;
+	margin-bottom: 10%;
+}
+
+
+.section-9 a {
+	margin-bottom: 15px;
+}
+
+.section-9 .row {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 70px;
+  align-items: start;
+}
+
+.section-9 .col-left h1 {
+  font-weight: bold;
+  margin-bottom: 30px;
+  color: #2e2727;
+	text-align: right;
+}
+
+.section-9 .btn {
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: #dbb26d;
+  color: #2e2727;
+  font-weight: bold;
+  border-radius: 25px;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.section-9 .btn:hover {
+  background-color: #c29c57;
+}
+
+.section-9 .col-right p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.section-9 .col-right ul {
+  margin: 20px 0;
+  padding-left: 20px;
+}
+
+.section-9 .col-right li {
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+/* Responsywność */
+@media (max-width: 768px) {
+  .section-9 {
+    padding: 10% 10%;
+  }
+
+  .section-9 .row {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .section-9 .col-left h1 {
+    margin-bottom: 20px;
+  }
+
+  .section-9 .col-right ul {
+    text-align: left;
+    display: inline-block;
+  }
+		
+	.section-9 .row {
+  gap: 40px;
+}
+	
+	
+.section-9 .col-left h1 {	
+	text-align: center;
+	
+	}
+	
+}
+
+
+
+
+/*s9 end */
+
+
+/* s10 start */
+
+
+
+
+.section-10 {
+  position: relative;
+  background: url("https://stacja7.pl/wp-content/uploads/2025/09/group-230@2x.png") top/cover no-repeat;
+  padding: 12% 15% 8%;
+  color: #fff;
+  
+}
+
+/* Wiersz 1 - grafika */
+.section-10 .image-wrapper {
+  position: absolute;
+  top: -120px; /* przesunięcie w górę */
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+}
+.section-10 .image-wrapper img {
+  max-width: 500px;
+  width: 100%;
+  height: auto;
+}
+
+/* Wiersz 2 - grid */
+.section-10 .row {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 70px;
+  align-items: start;
+  margin-top: 50px; /* odstęp na grafikę */
+}
+
+.section-10 .col-left h1 {
+  font-size: 2.8rem;
+  font-weight: bold;
+  margin: 0;
+  line-height: 1.3;
+  color: #fff;
+	text-align: right;
+}
+
+.section-10 .col-right p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.section-10 .col-right ul {
+  list-style: disc;
+  margin: 0;
+  padding-left: 20px;
+  color: #fff;
+}
+.section-10 .col-right li {
+  margin-bottom: 10px;
+}
+
+/* Responsywność */
+@media (max-width: 768px) {
+  .section-10 {
+    padding: 20% 10% 10%;
+  }
+
+  .section-10 .image-wrapper {
+    top: 60px;
+		width: 60%;
+  }
+  .section-10 .image-wrapper img {
+    max-width: 300px;
+  }
+
+  .section-10 .row {
+    grid-template-columns: 1fr;
+    text-align: center;
+    margin-top: 200px;
+  }
+
+  .section-10 .col-left h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .section-10 .col-right ul {
+    text-align: left;
+    display: inline-block;
+  }
+	
+	.section-10 .row {
+    gap: 40px;
+	
+	}
+	
+.section-10 .col-left h1 {	
+	    text-align: center;
+	}
+	
+}
+
+
+
+/* s10 end */
+
+
+/* s11 start */
+
+.section-11 {
+  background: url("https://stacja7.pl/wp-content/uploads/2025/09/rectangle-201@2x-scaled.png") center/cover no-repeat;
+  padding: 2% 15%;
+  color: #2e2727;
+}
+
+.section-11 .row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 60px;
+}
+
+.section-11 .col-left img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.section-11 .col-right h2 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #2e2727;
+}
+
+.section-11 .col-right h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #2e2727;
+}
+
+.section-11 .col-right p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.section-11 .col-right .price {
+  font-size: 1.3rem;
+  margin: 20px 0;
+}
+
+.section-11 .btn {
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: #dbb26d;
+  color: #2e2727;
+  font-weight: bold;
+  border-radius: 25px;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.section-11 .btn:hover {
+  background-color: #c29c57;
+}
+
+
+.last-4 {
+	padding-bottom: 0;
+}
+
+.small-11 {
+	font-size: 14px;
+}
+
+/* Responsywność */
+@media (max-width: 768px) {
+  .section-11 {
+    padding: 15% 10%;
+  }
+
+  .section-11 .row {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .section-11 .col-right {
+    margin-top: 30px;
+  }
+}
+
+
+
+
+
+
+
+/* s11 end */
+
+/* s12 start */
+
+.section-12 {
+  background: #fff;
+  padding: 4% 15%;
+}
+
+.section-12 .row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #707070;
+  margin-bottom: 40px;
+}
+
+.section-12 .col {
+  text-align: center;
+}
+
+.section-12 .col img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.section-12 .col h3 {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #2e2727;
+  margin-bottom: 10px;
+  line-height: 1.4;
+}
+
+.section-12 .col .price {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #b1925e;
+  margin-bottom: 15px;
+}
+
+.section-12 .btn {
+  display: inline-block;
+  padding: 10px 25px;
+  background-color: #dbb26d;
+  color: #2e2727;
+  font-weight: bold;
+  border-radius: 25px;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.section-12 .btn:hover {
+  background-color: #c29c57;
+}
+
+/* Responsywność */
+@media (max-width: 992px) {
+  .section-12 .row {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .section-12 {
+    padding: 5% 10%;
+  }
+
+  .section-12 .row {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+
+
+
+.last-8 {
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.price del {
+	color: #2e2727;
+}
+
+
+/*s12 end */
+
+
+.page-template-znikac .st7-nav {
+	display: none;
+}
+
+/* s video start */
+
+.section-video {
+  background: #dbb26d;
+  padding: 5% 25%;
+  text-align: center;
+}
+
+.section-video h2 {
+  color: #2e2727;
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+/* Responsywne video */
+.section-video .video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* proporcje 16:9 */
+  height: 0;
+  overflow: hidden;
+}
+
+.section-video .video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Responsywność */
+@media (max-width: 768px) {
+  .section-video {
+    padding: 5% 5%;
+  }
+
+  .section-video h2 {
+    font-size: 1.5rem;
+  }
+}
+
+
+
+
+
+
+/* s video end */
+
+
+
+
+/* sekcja znikac koniec*/
+
+
+/* IT offer page */
+
+.page-template-IT-offer {
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+.page-template-IT-offer h2, .page-template-IT-offer h1 {
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+/* s1 — HERO z wideo + miękkie przejście */
+
+/* Sekcja HERO z tłem wideo */
+.hero-video-section {
+  --next-bg: #ffffff;            /* kolor tła kolejnej sekcji (możesz podmienić) */
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;            /* overlay/maska w obrębie sekcji */
+  color: #212529;
+  min-height: clamp(320px, 60vh, 720px);
+}
+
+/* Wrap trzyma wideo i overlay pod treścią */
+.hero-video-wrap {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+
+  /* Nowocześnie: maska wygaszająca wideo przy dolnej krawędzi */
+  -webkit-mask-image: linear-gradient(to bottom, #000 70%, transparent 100%);
+  mask-image: linear-gradient(to bottom, #000 70%, transparent 100%);
+}
+
+/* Wideo jako tło – wypełnia sekcję, przycinane do krawędzi */
+.hero-video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;             /* ważne: zachowuje proporcje, wypełnia obszar */
+  object-position: center;
+  filter: none;                  /* ewentualnie rozjaśnij/przyciemnij przez overlay */
+}
+
+/* Overlay dla kontrastu (delikatne zaciemnienie + gradient jak na screenie) */
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(to bottom, rgba(255,255,255,0.0) 0%, rgba(255,255,255,0.6) 100%),
+    rgba(255,255,255,0.35);
+  mix-blend-mode: normal;
+  pointer-events: none;
+}
+
+/* Dodatkowy fallback: miękkie przejście przez pseudo-element (nad wideo, pod treścią) */
+.hero-video-section::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;                  /* minimalne „wsunięcie”, żeby nie było szpary */
+  height: clamp(80px, 14vh, 220px);
+  background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, var(--next-bg) 100%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Warstwa z treścią */
+.hero-inner {
+  position: relative;            /* nad wideo i gradientem */
+  z-index: 2;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: clamp(24px, 6vw, 64px) 20px;
+	padding-top: 5%;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+/* Typografia jak na screenie: duży, ciężki tytuł i mniejszy podtytuł */
+.hero-title {
+  margin: 0 0 8px;
+  font-weight: 800;
+  line-height: 1.05;
+  font-size: clamp(36px, 8vw, 120px);
+  color: #212529;
+  letter-spacing: -0.02em;
+}
+
+.hero-subtitle {
+  margin: 0;
+  font-size: clamp(14px, 2.6vw, 36px);
+  font-weight: 700;
+  color: #212529;
+  opacity: 0.95;
+	font-style: italic;
+}
+
+
+
+@media (min-width: 1800px) {
+
+.hero-inner {
+	padding-top: 10%;
+  
+}
+
+
+}
+
+
+
+/* Drobna poprawka dla bardzo jasnych filmów: ciemniejszy overlay na mobile */
+@media (max-width: 640px) {
+  .hero-overlay {
+    background:
+      linear-gradient(to bottom, rgba(255,255,255,0.0) 0%, rgba(255,255,255,0.75) 100%),
+      rgba(255,255,255,0.45);
+  }
+  /* delikatnie większe wygaszenie przy mniejszej wysokości */
+  .hero-video-section::after {
+    height: clamp(60px, 12vh, 160px);
+  }
+	
+	
+}
+
+/* Preferencja "reduce motion": zatrzymaj wideo */
+@media (prefers-reduced-motion: reduce) {
+  .hero-video { display: none; }
+  .hero-video-wrap { -webkit-mask-image: none; mask-image: none; }
+  .hero-video-section { background: #e9f3ff; } /* fallback tła gdy wideo wyłączone */
+}
+
+/* s1 end */
+
+
+
+/* s2 — dwie kolumny 2/3 + 1/3 */
+
+.two-col-section {
+  color: #212529;
+  background: #ffffff;           /* pasuje do --next-bg z sekcji s1 */
+}
+
+.two-col-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px 20px;
+  display: grid;
+  grid-template-columns: 2fr 1fr; /* 2/3 i 1/3 */
+  gap: 48px;
+}
+
+.two-col-section .two-col-text {
+  padding-right: 20%;
+}
+
+/*
+.two-col-text h2,
+.two-col-aside h2 {
+  margin: 0 0 16px;
+  font-size: 28px;
+  line-height: 1.2;
+  color: #212529;
+  font-weight: 700;
+} */
+
+.two-col-copy p {
+  margin: 0 0 14px;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #212529;
+}
+
+/* Lista z niebieskimi strzałkami (PNG) */
+.arrow-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.arrow-list li {
+  position: relative;
+  padding-left: 26px;            /* rezerwacja miejsca na ikonę */
+  margin: 10px 0;
+}
+
+.arrow-list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 6px;
+  width: 14px;
+  height: 14px;
+  background-image: url("https://stacja7.pl/wp-content/uploads/2025/11/path-118.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+/* Linki w liście */
+.arrow-list a {
+  text-decoration: none;
+  color: #212529;
+}
+
+.arrow-list a:hover,
+.arrow-list a:focus {
+  text-decoration: underline;
+}
+
+
+.arrow-list a.is-active {
+  color: #0c509e;          /* niebieski */
+  font-weight: 700;
+  text-decoration: none;
+}
+.arrow-list a.is-active:hover { text-decoration: underline; }
+
+
+
+
+
+/* Responsywność: układ jednokolumnowy na wąskich ekranach */
+@media (max-width: 900px) {
+  .two-col-container {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+
+  .two-col-section .two-col-text {
+    padding-right: 0;
+  }
+	
+	.hero-inner {
+		padding-top: 30%;
+	}
+	
+	
+}
+
+
+/* s3 start */
+
+.logos-section {
+  color: #212529;
+  background: #fff;
+  padding: clamp(24px, 6vw, 26px) 20px;
+  font-family: 'Montserrat', sans-serif; /* tylko w obrębie tej sekcji */
+}
+
+.logos-container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+.logos-title {
+  margin: 0 0 24px;
+  font-size: 28px;
+  line-height: 1.2;
+  color: #212529;
+  font-weight: 700;          /* jak poprzednie h2 */
+  text-align: left;          /* zgodnie ze screenem */
+}
+
+/* Wiersz karuzeli */
+.logo-row {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 5%;
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 7%, #000 93%, transparent);
+  mask-image: linear-gradient(to right, transparent, #000 7%, #000 93%, transparent);
+}
+
+/* Tor – jedziemy JS-em, więc bez animacji CSS */
+.logo-track {
+  display: flex;
+  align-items: stretch;
+  flex-wrap: nowrap;                 /* NIC się nie zawija */
+  gap: clamp(28px, 6vw, 72px);
+  transform: translate3d(0,0,0);     /* startowa pozycja */
+  will-change: transform;            /* płynność */
+  animation: none !important;        /* wyłączamy animacje kluczowe */
+}
+
+/* Element: logo + podpis (całość klikalna) */
+.logo-item {
+  flex: 0 0 auto;                    /* krytyczne dla bezszwowego pomiaru */
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-decoration: none;
+  min-width: clamp(120px, 16vw, 180px);
+  row-gap: 8px;
+  color: #212529;
+}
+
+.logo-item img {
+  height: clamp(76px, 7vw, 150px);
+  width: auto;
+  display: block;
+  opacity: 0.99;
+
+}
+
+.logo-item:hover img {
+  opacity: 1;
+  /* filter: grayscale(0%) contrast(100%);
+  transform: translateY(-1px); */
+}
+
+.logo-item .logo-name,
+.logo-name {
+  font-size: clamp(12px, 1.8vw, 14px);
+  line-height: 1.3;
+  text-align: center;
+  text-decoration: none;
+  color: #0c509e;
+}
+
+.logo-name {
+	font-style: italic;
+}
+
+
+
+/* Mobile tweaks */
+@media (max-width: 720px) {
+  .logos-title { margin-bottom: 16px; }
+  .logo-track { gap: clamp(18px, 4vw, 28px); }
+  .logo-item { min-width: 120px; }
+}
+
+/* Tryb oszczędzania ruchu – po stronie CSS wyłączamy animacje; ruch zatrzymuje JS */
+@media (prefers-reduced-motion: reduce) {
+  .logo-track { animation: none !important; }
+}
+
+/* s3 end */
+
+
+/* s4 start */
+
+/* s4 — Opinie klientów (slider, wyśrodkowana sekcja) */
+.testimonials-section {
+ padding: clamp(26px, 7vw, 22px) 0;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.testimonials-wrap {
+  width: min(1400px, 92vw);
+  margin: 0 auto;
+  position: relative;
+}
+
+.testimonials-card {
+  width: 100%;
+  background: #5a90fe;
+  color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 10px 28px rgba(0,0,0,.14);
+  overflow: hidden;
+}
+
+.ts-inner {
+  display: grid;
+  grid-template-columns: 1fr 2fr;           /* lewy panel / prawy slider */
+  gap: clamp(24px, 3.5vw, 40px);
+  padding: clamp(28px, 5vw, 56px);
+}
+
+/* Lewy panel */
+.ts-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+	padding-left: 130px;
+}
+
+.ts-quote-mark { font-size: clamp(44px, 7vw, 80px); line-height: 1; font-weight: 800; opacity: .9; }
+.ts-title { margin: 0; font-size: clamp(22px, 3.2vw, 32px); line-height: 1.2; font-weight: 700; color: #fff; }
+
+/* Prawy panel (slider) */
+.ts-right { overflow: hidden; }
+
+.ts-slider { width: 100%; overflow: hidden; }
+.ts-track  { display: flex; will-change: transform; transition: transform .55s ease; }
+
+/* >>> KLUCZ: każdy slajd ma dokładnie 100% szerokości toru (prawego panelu) */
+.ts-slide {
+  flex: 0 0 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-right: clamp(6px, 1.2vw, 12px);
+}
+
+/* Treści */
+.ts-text {
+  margin: 0 0 16px;
+  font-size: clamp(14px, 1.7vw, 16px);
+  line-height: 1.8;
+  color: #fff;
+}
+
+.ts-author { margin: 0; font-size: 16px; line-height: 1.3; color: #fff; }
+.ts-org { font-size: 12px; letter-spacing: .02em; text-transform: uppercase; opacity: .9; }
+
+.ts-author {
+	font-weight: 900;
+}
+
+
+
+
+/* Strzałki */
+.ts-arrow {
+  position: absolute; top: 50%; transform: translateY(-50%);
+  width: 40px; height: 40px; border-radius: 999px; border: 0;
+  background: rgba(255,255,255,.22); color: #fff; display: grid; place-items: center;
+  cursor: pointer; transition: background .2s ease, transform .2s ease; z-index: 2;
+}
+.ts-arrow:hover { background: rgba(255,255,255,.3); transform: translateY(-50%) scale(1.04); }
+.ts-prev { left: 12px; }
+.ts-next { right: 12px; }
+
+/* Responsywność */
+@media (max-width: 900px) {
+  .testimonials-wrap { width: min(1200px, 96vw); }
+  .ts-inner { grid-template-columns: 1fr; }
+	
+	.ts-left {
+	    padding-left:0px;
+	
+	}
+}
+
+@media (prefers-reduced-motion: reduce) { .ts-track { transition: none; } }
+
+
+
+/* s4 end */
+
+/* s5 start */
+
+/* s5 — Kontakt / CTA: 2 kolumny, obraz po prawej (większe paddingi L/R) */
+.contact-cta-section {
+  /* duży oddech: góra/dół + BOKI */
+  padding: clamp(48px, 8vw, 96px) clamp(36px, 10vw, 140px);
+  font-family: 'Montserrat', sans-serif;
+  color: #212529;
+  background: #fff;
+}
+
+.contact-cta-wrap {
+  /* wrapper NIE ogranicza szerokości na sztywno,
+     bo szerokie paddingi robimy na .contact-cta-section powyżej */
+  max-width: 1200px;     /* szerokość treści */
+  width: 100%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;   /* tekst / obraz */
+  gap: clamp(24px, 6vw, 64px);
+  align-items: center;
+  box-sizing: border-box;
+}
+
+/* Lewa kolumna */
+.cta-title {
+  margin: 0 0 14px;
+  font-weight: 800;
+  line-height: 1.1;
+  font-size: clamp(28px, 5vw, 42px);
+  color: #212529;
+  letter-spacing: -0.01em;
+}
+
+.cta-lead {
+  margin: 0 0 10px;
+  font-size: clamp(16px, 2.2vw, 18px);
+  line-height: 1.7;
+  color: #212529;
+  opacity: .95;
+}
+
+.cta-text {
+  margin: 0 0 22px;
+  font-size: 16px;
+  line-height: 1.8;
+  color: #212529;
+  max-width: 60ch;
+}
+
+.cta-person { margin-top: 12px; }
+
+.cta-name { margin: 0 0 2px; font-weight: 800; font-size: 16px; color: #212529; }
+.cta-role { margin: 0 0 8px; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; opacity: .75; }
+
+
+.cta-contact {
+	font-weight: 800;
+}
+
+
+
+.cta-contact a {
+  color: #212529;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(33,37,41,.25);
+  padding-bottom: 2px;
+}
+.cta-contact a:hover { border-bottom-color: rgba(33,37,41,.6); }
+
+/* Prawa kolumna: obraz „as is” (Twoje koło z pliku) */
+.cta-right { display: grid; place-items: center; }
+.cta-image { width: clamp(220px, 34vw, 300px); height: auto; display: block; }
+
+/* Mobile: jedna kolumna + nieco mniejsze boki */
+@media (max-width: 900px) {
+  .contact-cta-section { padding: clamp(36px, 7vw, 64px) clamp(20px, 8vw, 72px); }
+  .contact-cta-wrap { grid-template-columns: 1fr; gap: clamp(20px, 5vw, 36px); }
+  .cta-text { max-width: none; }
+  .cta-image { width: clamp(200px, 60vw, 300px); }
+}
+
+
+/* s5 end */
+
+/* Domyślnie: logotypy czarno-białe */
+.logos-section .logo-item img {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  transition: filter 0.3s ease, -webkit-filter 0.3s ease;
+}
+
+/* Po najechaniu: wraca kolor */
+.logos-section .logo-item:hover img {
+  filter: grayscale(0%);
+  -webkit-filter: grayscale(0%);
+}
+
+/*
+#logos-section {
+	padding-left: 5%;
+}
+*/
+.quote {
+	margin-bottom: 25px;
+}
+
+
+.quote img {
+	width: 85px;
+}
+
+
+
+/* IT offer end */
+
+
+/* podstrona wdrożenia */
+
+ /*s3 */
+.cases-section {
+  width: 100%;
+  background: #49586a;
+  padding: clamp(36px, 6vw, 72px) clamp(24px, 6vw, 72px); /* góra/dół i boki */
+  font-family: 'Montserrat', sans-serif;
+}
+
+.cases-title {
+  margin: 0 0 clamp(18px, 3vw, 28px);
+  font-size: clamp(22px, 3.2vw, 32px);
+  line-height: 1.2;
+  font-weight: 700;
+  color: #fff; /* tytuł biały */
+}
+
+
+.cases-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(16px, 3vw, 28px);
+}
+
+.case-item { /* miejsce na przyszłe modyfikacje */ }
+
+
+.case-link {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+}
+
+
+.case-thumb {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;           /* prostokąt 16:9 */
+  overflow: hidden;
+  background: rgba(255,255,255,.08);
+  border-radius: 6px;              /* delikatnie, można usunąć */
+}
+
+.case-thumb img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  transform: scale(1);
+  transition: transform .25s ease, filter .25s ease;
+}
+
+/* Podpis pod grafiką */
+.case-caption {
+  display: block;
+  margin-top: 10px;
+  font-size: 15px;
+  line-height: 1.45;
+  color: #fff;
+  opacity: .95;
+}
+
+
+.case-link:hover .case-thumb img,
+.case-link:focus-visible .case-thumb img { transform: scale(1.03); }
+
+.case-link:hover .case-caption,
+.case-link:focus-visible .case-caption { text-decoration: underline; }
+
+/* Responsywność */
+@media (max-width: 1024px) {
+  .cases-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 640px) {
+  .cases-grid { grid-template-columns: 1fr; }
+}
+
+/* s3 end */
+
+
+/* s4 start */
+
+
+.contact-promo-section {
+  background: #ffffff;
+  color: #212529;
+  padding: 40px 0;                 /* oddech góra/dół sekcji */
+  font-family: 'Montserrat', sans-serif;
+}
+
+.contact-promo-wrap {
+  width: min(820px, 92vw);         /* wąski, czytelny środek */
+  margin: 0 auto;
+  text-align: center;
+}
+
+.contact-promo-image {
+  display: block;
+  width: clamp(140px, 24vw, 200px);
+  height: auto;
+  margin: 0 auto;
+}
+
+/* ~20px odstępu POD grafiką */
+.contact-promo-image + .contact-promo-title {
+  margin-top: 20px;
+}
+
+.contact-promo-title {
+  margin: 0;                     
+  font-weight: 700;
+  line-height: 1.2;
+  font-size: clamp(22px, 3.2vw, 32px);
+  color: #212529;
+}
+
+/* ~20px odstępu pod H2 */
+.contact-promo-title + .contact-promo-strong {
+  margin-top: 20px;
+}
+
+.contact-promo-strong {
+  margin: 0;                     
+  font-size: 16px;
+  line-height: 1.7;
+  font-weight: 900;
+  color: #212529;
+}
+
+.contact-promo-plain {
+  margin: 0;                     
+  font-size: 16px;
+  line-height: 1.7;
+  font-weight: 400;
+  color: #212529;
+}
+
+
+.contact-promo-plain + .contact-promo-lines {
+  margin-top: 20px;
+}
+
+
+.contact-promo-lines {
+  margin: 0;
+  padding: 0;
+}
+
+.contact-promo-lines p {
+  margin: 0;                       /* brak odstępów między liniami */
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #212529;
+}
+
+
+@media (max-width: 480px) {
+  .contact-promo-section { padding: 32px 0; }
+}
+
+
+
+/* s4 end */
+
+
+
+/* podstrona wdrożenia end */
+
+/* footer */
+.st7-footer-support {
+    margin-top: 110px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.st7-footer-support-title {
+    font-weight: 700;
+    margin-bottom: 6px;
+    color: #00bcd4; /* lub kolor linków z footeru */
+}
+
+.st7-footer-support-account {
+    font-size: 13px;
+}
+
+
+@media (max-width: 991px) {
+    .st7-footer-support {
+    margin-top: 30px;
+		margin-bottom: 30px;	
+	}
+}
+/* footer end */
+		</style>
+		
+</head>
+
+<body class="wp-singular post-template-default single single-post postid-144037 single-format-standard wp-embed-responsive wp-theme-st7">
+		<header id="st7-page-header" class="st7-page-header">
+		<div class="container-fluid st-7-nav-limit">
+			<div class="st7-nav">
+				<a href="https://stacja7.pl/" class="st7-logo">
+
+
+					<svg style="filter: drop-shadow(0 0 3px rgba(0, 0, 0, 0.5))" enable-background="new 0 0 249.7 65.87" version="1.1" viewBox="0 0 249.7 65.87" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+						<path class="st0" d="m21.55 21.3c2.93 0 6.84 1.26 9.12 3.86l4.79-5.49c-3.12-3.3-7.96-5.12-12.99-5.12-8.24 0-12.57 5.35-12.57 9.77 0 6.05 5.86 8.15 10.19 9.63 2.7 0.93 4.65 1.77 4.65 3.26 0 1.21-1.02 2.56-3.68 2.56-4.14 0-8.33-1.86-10.57-4.7l-4.79 5.63c2.89 3.54 8.47 5.91 14.8 5.91 7.87 0 12.61-4.84 12.61-10.47s-5.91-7.91-10.33-9.36c-2.61-0.93-4.61-1.77-4.61-3.12 0.03-1.24 1.24-2.36 3.38-2.36z"/>
+						<polygon class="st0" points="63.22 22 64.76 15.02 39.39 15.02 37.81 22 46.52 22 41.25 46.07 49.26 46.07 54.52 22"/>
+						<path class="st0" d="m106.34 39.55c-4.84 0-7.87-3.35-7.87-7.54 0-5.73 4.24-10.43 9.63-10.43 3.44 0 6.14 1.86 7.03 4.98l7.73-2.51c-1.63-4.84-6-9.54-14.38-9.54-9.96 0-18.34 7.17-18.34 18.01 0 8.66 6.98 14.1 15.73 14.1 4.14 0 9.73-1.49 13.45-6.56l-6.24-4.1c-1.39 2.1-4.23 3.59-6.74 3.59z"/>
+						<path class="st0" d="m147.73 15.02h-8.13l-5.99 19.97c-0.96 2.62-2.41 4.09-5.01 3.93-1.86-0.12-2.94-0.87-4.23-2.17l-4.61 5.72c2.04 2.42 5.69 3.67 9.13 3.89 6.78 0.43 10.63-2.87 12.79-10.42l6.05-20.92z"/>
+						<path class="st0" d="m160.33 15.02-20.88 31.05h8.95l3.42-5.37 11.42 0.02 1.04 5.36h8.56l-4.88-31.05h-7.63zm-4.18 19.09 5.32-8.41 1.1 8.38-6.42 0.03z"/>
+						<path class="st0" d="m75.21 15.02-20.88 31.05h8.95l3.42-5.37 11.42 0.02 1.04 5.36h8.56l-4.88-31.05h-7.63zm-4.18 19.09 5.32-8.41 1.1 8.38-6.42 0.03z"/>
+						<path class="st0" d="m216.79 26.78h-8.84v19.28h5.37v-5.5h3.46c4.69 0 7.25-3.09 7.25-6.84 0-3.78-2.56-6.94-7.24-6.94zm-0.72 9.22h-2.74v-4.69h2.74c1.44 0 2.5 0.94 2.5 2.37 0 1.41-1.07 2.32-2.5 2.32z"/>
+						<polygon class="st0" points="231.67 41.24 231.67 26.78 226.29 26.78 226.29 46.06 240.77 46.06 240.77 41.24"/>
+						<polygon class="st0" points="174.93 33.48 188.87 33.48 176.12 56.63 185.08 56.63 197.81 33.48 197.81 26.79 174.93 26.79"/>
+						<rect class="st0" x="198.05" y="40.74" width="5.32" height="5.32"/>
+					</svg>
+				</a>
+				<div class="st7-tv">
+
+					<a href="https://kreacja.stacja7.pl/">
+						<svg version="1.1" class="st7-kreacja" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+							 viewBox="0 0 249.7 122.55" style="enable-background:new 0 0 249.7 122.55;" xml:space="preserve">
+
+						<path class="st0" d="M60.3,47.99h8.64c0,1.9,1.62,3.94,4.85,3.94c2.67,0,4.71-1.12,4.71-3.02c0-1.41-1.12-2.11-3.58-2.74l-4.36-1.05
+							c-8.43-2.25-9.56-6.96-9.56-10.4c0-5.06,5.27-9.77,12.86-9.77c5.97,0,13,2.95,12.93,10.68h-8.79c0-2.18-1.83-3.37-4.01-3.37
+							c-2.11,0-3.79,1.05-3.79,2.74c0,1.55,1.41,2.32,3.23,2.81l5.41,1.41c7.87,2.11,8.86,7.03,8.86,9.7c0,6.89-7.03,10.26-13.77,10.26
+							C67.05,59.16,60.37,55.23,60.3,47.99z"/>
+						<path class="st0" d="M108.04,32.88h-6.96v25.65h-9.21V32.88H85.9v-7.1h5.97V13.76h9.21v12.02h6.96V32.88z"/>
+						<path class="st0" d="M141.16,25.78v32.75h-9.21v-4.08c-2.32,3.23-6.89,4.71-10.54,4.71c-8.43,0-16.09-6.54-16.09-17.08
+							c0-10.54,7.66-17.08,16.09-17.08c3.8,0,8.22,1.41,10.54,4.71v-3.94H141.16z M131.67,42.08c0-5.06-4.22-8.43-8.5-8.43
+							c-4.64,0-8.5,3.58-8.5,8.43c0,4.78,3.87,8.5,8.5,8.5C127.67,50.59,131.67,47.07,131.67,42.08z"/>
+						<path class="st0" d="M142.3,42.01c0-10.4,8.43-17.08,17.99-17.08c5.97,0,10.75,2.81,13.85,7.03l-6.89,4.85
+							c-1.48-2.04-4.22-3.3-6.89-3.3c-5.2,0-8.72,3.72-8.72,8.5c0,4.85,3.51,8.58,8.72,8.58c2.67,0,5.41-1.27,6.89-3.3l6.89,4.85
+							c-3.09,4.29-7.87,7.03-13.85,7.03C150.74,59.16,142.3,52.42,142.3,42.01z"/>
+						<path class="st1" d="M175.96,19.07c0-3.09,2.74-5.48,5.9-5.48c3.23,0,5.76,2.39,5.76,5.48c0,3.09-2.53,5.55-5.76,5.55
+							C178.7,24.63,175.96,22.17,175.96,19.07z"/>
+						<path class="st0" d="M223.47,25.78v32.75h-9.21v-4.08c-2.32,3.23-6.89,4.71-10.54,4.71c-8.43,0-16.09-6.54-16.09-17.08
+							c0-10.54,7.66-17.08,16.09-17.08c3.79,0,8.22,1.41,10.54,4.71v-3.94H223.47z M213.98,42.08c0-5.06-4.22-8.43-8.5-8.43
+							c-4.64,0-8.5,3.58-8.5,8.43c0,4.78,3.87,8.5,8.5,8.5C209.98,50.59,213.98,47.07,213.98,42.08z"/>
+						<path class="st0" d="M75.77,60.56l-2.11,8.79c-1.97-1.05-3.58-1.2-4.71-1.2c-4.71,0-7.94,4.36-7.94,13.71V93.1h-9.21V60.35h9.14
+							v6.96c1.83-5.48,5.55-7.8,9.63-7.8C72.33,59.5,74.3,59.79,75.77,60.56z"/>
+						<path class="st0" d="M106.15,79.68H81.41c0.98,3.79,4.08,5.9,8.5,5.9c3.3,0,6.61-1.33,8.57-3.65l5.41,5.41
+							c-3.09,4.15-8.86,6.4-14.62,6.4c-10.05,0-17.43-6.89-17.43-17.01c0-10.61,8.01-17.22,17.43-17.22c9.35,0,17.01,6.61,17.01,16.66
+							C106.29,77.07,106.22,78.2,106.15,79.68z M97.08,73.7c-0.28-3.87-3.51-6.19-7.66-6.19c-3.73,0-7.03,1.76-8.01,6.19H97.08z"/>
+						<path class="st0" d="M141.17,60.35V93.1h-9.21v-4.08c-2.32,3.23-6.89,4.71-10.54,4.71c-8.43,0-16.09-6.54-16.09-17.08
+							c0-10.54,7.66-17.08,16.09-17.08c3.8,0,8.22,1.41,10.54,4.71v-3.94H141.17z M131.68,76.65c0-5.06-4.22-8.43-8.5-8.43
+							c-4.64,0-8.5,3.58-8.5,8.43c0,4.78,3.87,8.5,8.5,8.5C127.67,85.16,131.68,81.64,131.68,76.65z"/>
+						<path class="st0" d="M142.31,76.58c0-10.4,8.43-17.08,17.99-17.08c5.97,0,10.75,2.81,13.85,7.03l-6.89,4.85
+							c-1.48-2.04-4.22-3.3-6.89-3.3c-5.2,0-8.72,3.72-8.72,8.5c0,4.85,3.51,8.58,8.72,8.58c2.67,0,5.41-1.27,6.89-3.3l6.89,4.85
+							c-3.09,4.29-7.87,7.03-13.85,7.03C150.74,93.73,142.31,86.98,142.31,76.58z"/>
+						<path class="st0" d="M167.01,100.62h4.01c3.65,0,5.2-3.02,5.2-6.75V60.35h9.21v33.59c0,9.63-4.85,15.25-14.13,15.25h-4.29V100.62z"
+							/>
+						<path class="st0" d="M223.48,60.35V93.1h-9.21v-4.08c-2.32,3.23-6.89,4.71-10.54,4.71c-8.43,0-16.09-6.54-16.09-17.08
+							c0-10.54,7.66-17.08,16.09-17.08c3.79,0,8.22,1.41,10.54,4.71v-3.94H223.48z M213.99,76.65c0-5.06-4.22-8.43-8.5-8.43
+							c-4.64,0-8.5,3.58-8.5,8.43c0,4.78,3.87,8.5,8.5,8.5C209.99,85.16,213.99,81.64,213.99,76.65z"/>
+						<polygon class="st0" points="38.3,74.76 51.09,60.35 39.28,60.35 30.99,70.33 30.99,48.38 21.78,48.38 21.78,93.1 30.99,93.1 
+							30.99,78.9 42.51,93.1 53.97,93.1 "/>
+						</svg>
+					</a><span>Nasze projekty</span>
+				</div>
+				
+				<div class="st7-db-logo">
+				
+				<a href="https://bit.ly/3HFT2PE">
+				
+				<img src="https://stacja7.pl/wp-content/uploads/2025/07/dobroci-white.png" alt="dobroci.pl" width="60" height="auto">
+				
+				
+				
+				</a>
+				</div>
+				
+				<div class="st7-nav-menu">
+				
+									
+						<label class="toggle" for="myToggle"><span class="st7-dark-label">Tryb ciemny</span>
+						    <input class="toggle__input" name="" type="checkbox" id="myToggle">
+						    <div class="toggle__fill"></div>
+						</label>
+
+<a href="https://www.youtube.com/@Stacja7pl" target="_blank" class="d-none d-lg-inline-block"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="
+height: 24px;
+    fill: #44d5f2;
+    margin-right: 15px;
+    margin-left: 5px;
+    border-left: 1px solid #44d5f245;
+    padding-left: 15px;
+"><path d="M549.7 124.1c-6.3-23.7-24.8-42.3-48.3-48.6C458.8 64 288 64 288 64S117.2 64 74.6 75.5c-23.5 6.3-42 24.9-48.3 48.6-11.4 42.9-11.4 132.3-11.4 132.3s0 89.4 11.4 132.3c6.3 23.7 24.8 41.5 48.3 47.8C117.2 448 288 448 288 448s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zm-317.5 213.5V175.2l142.7 81.2-142.7 81.2z"></path></svg></a>
+
+
+<a href="https://www.tiktok.com/@stacja7.pl" target="_blank" class="d-none d-lg-inline-block"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" style="
+    height: 20px;
+    fill: #44d5f2;
+    margin-top: -4px;
+    margin-right: 10px;
+    border-right: 1px solid #44d5f245;
+    padding-right: 15px;"><path d="M448 209.9a210.1 210.1 0 0 1 -122.8-39.3V349.4A162.6 162.6 0 1 1 185 188.3V278.2a74.6 74.6 0 1 0 52.2 71.2V0l88 0a121.2 121.2 0 0 0 1.9 22.2h0A122.2 122.2 0 0 0 381 102.4a121.4 121.4 0 0 0 67 20.1z"/></svg></a>
+
+
+					<a href="#" id="st7-search">
+						<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M23.822 20.88l-6.353-6.354c.93-1.465 1.467-3.2 1.467-5.059.001-5.219-4.247-9.467-9.468-9.467s-9.468 4.248-9.468 9.468c0 5.221 4.247 9.469 9.468 9.469 1.768 0 3.421-.487 4.839-1.333l6.396 6.396 3.119-3.12zm-20.294-11.412c0-3.273 2.665-5.938 5.939-5.938 3.275 0 5.94 2.664 5.94 5.938 0 3.275-2.665 5.939-5.94 5.939-3.274 0-5.939-2.664-5.939-5.939z"/></svg>
+					</a>
+
+
+					<a href="#" id="st7-burger">
+						<div></div><div></div><div></div>
+					</a>
+				</div>
+			</div>
+		</div>
+	</header>
+
+
+
+
+<div class="container container-limit">
+	<div class="row">
+
+		<div class="col">
+			<div class="st7-article-vertical-ad">
+				<!-- /94685324/S7_F_Desktop_pion_lewy -->
+				<div style="margin: 0 0 0 auto; display: block; width: 160px;">
+					<div class="ad-label">Reklama</div>
+					<div id="ad-view-skyscraper"></div>
+					<div id="ad-skyscraper" style="display:none;"></div>
+					
+					<!-- <div id='st7-ad-skyscraper' style='width: 160px; height: 600px;' class="st7-ad-wrapper"> -->
+
+					<!-- </div> -->
+				</div>
+			</div>
+		</div>
+		<div class="col col-article">
+			<div class="st7-single-article">
+
+				<div class="st7-single-article-content">
+	<div class="row st7-single-article-header">
+		<div class="col-12 text-center">
+			<div class="st7-single-article-header-inner">
+
+
+	<div class=" st7-single-article-featured-img">
+		<img src="https://stacja7.pl/wp-content/uploads/2021/04/Projekt-bez-tytulu-68-768x303.jpg" class="d-lg-block" width="750" height="296">
+				<span class="st7-single-article-featured-img-caption">Unsplash</span>
+			</div>
+
+
+					
+				<time class="st7-single-article-date">1 maja 2021</time>
+				
+				<h1>Biblia na maturze? Podpowiadamy, jakie motywy biblijne mogą Ci się przydać podczas egzaminu z języka polskiego</h1>
+									<div class="st7-single-article-excerpt">
+						<p class="lead">Matura tuż, tuż. Kiedy podczas egzaminu zabraknie Ci lektur i motywów do odwołania, przypomnij sobie o najchętniej czytanej książce na świecie - o Biblii, która bogata jest w motywy literackie i historie pełne uniwersalnych wartości…</p>
+					</div>
+				
+
+								
+
+
+				
+			</div>
+
+			<div class="st7-single-article-author-wrapper">
+			
+			
+							<div class="st7-single-article-author text-start">
+											<a href="https://stacja7.pl"><img src="https://stacja7.pl/wp-content/themes/st7/assets/img/s7.png" loading="lazy"/></a>
+										<div class="d-flex justify-content-between">
+						<span><a href="https://stacja7.pl">Redakcja portalu</a></span>
+						<a href="https://stacja7.pl/kategoria/biblia/" class="st7-article-cat-name">BIBLIA</a>					</div>
+											<div class="st7-single-article-author-published">&nbsp;</div>
+														</div>
+						</div>
+
+		</div>
+	</div>
+
+					
+<p>Biblia to najważniejsza księga religijna chrześcijan, ale także źródło wiedzy historycznej. Warto tuż przed maturą przypomnieć sobie wszystkie motywy i przesłania płynące z Pisma Świętego. Przedstawiamy kompendium wiedzy o Biblii, która także może stać się tematem przewodnim na maturze! Przygotuj się, a na pewno nic Cię nie zaskoczy.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading"><strong>O Biblii słów kilka w teorii&nbsp;</strong></h3>
+
+
+
+<p>Biblia &#8211; pochodzi od greckiego słowa <em>bibliós </em>&#8211; ‘łodyga papirusu’, <em>biblía </em>&#8211; ‘książki’. Pismo Święte jest zbiorem ksiąg judaizmu i chrześcijaństwa. Składa się ono ze Starego Testamentu (46 ksiąg) oraz Nowego Testamentu (27 ksiąg). W Starym Testamencie pierwsze pięć ksiąg tworzy tzw. “Pięcioksiąg” &#8211; “Torę”, która jest najważniejszą księgą Judaizmu.&nbsp;</p>
+
+
+
+<p>Biblia powstawała co najmniej przez 1400 lat. Co oznacza, że przed ten czas ewoluowała, a gatunki które się w niej pojawiały zmieniały się na przestrzeni tych lat. W Piśmie Świętym można znaleźć epickie opisy (np. stworzenia świata), Modlitwy (np. modlitwy Mojżesza), Psalmy &#8211; pieśni o wzniosłym charakterze klasyfikowane do liryki (Księga Psalmów), Ewangelię &#8211; epicką opowieść o życiu Chrystusa, kazanie &#8211; kaznodziejskie słowa skierowane przez Jezusa nakłaniające do zmiany postępowania, przypowieści (parabole) &#8211; proste historie, które Jezus opowiadał zebranym tłumom, przekazując życiowe prawdy. Należy także pamiętać, że poza funkcją księgi religijnej Biblia spełniała także funkcję kroniki, kodeksu karnego, a także źródła historycznego.</p><div class="st7-ad-container" >
+					<div class="ad-label">Reklama</div>
+					<div class="st7-ad-banner-wrapper">
+						<div id="ad-view-gora_srodek"></div>
+						<div id="ad-gora_srodek" style="display:none;"></div>
+					</div>
+				</div>
+			
+
+
+
+<p><strong>ZOBACZ>>> <a href="https://stacja7.pl/biblia/jak-czytac-psalmy-wskazowki/">Jak czytać psalmy? Wskazówki</a></strong></p>
+
+
+
+<h3 class="wp-block-heading"><strong>Motywy biblijne&nbsp;</strong></h3>
+
+
+
+<p>Na maturze obowiązuje znajomość podstawowych motywów literackich. Rozprawka, którą na końcu należy napisać, najczęściej właśnie do nich się odwołuje. Przedstawiamy 10 motywów, które możesz odnaleźć w Biblii i wykorzystać w swojej maturalnej pracy.&nbsp;</p><div class="st7-mobile-latest-posts splide">
+						<h5>Przeczytaj również</h5>
+						<div class="splide__track">
+							<ul class="splide__list"><li class="splide__slide">
+							<a href="https://stacja7.pl/z-kraju/koniec-z-jezykowymi-pulapkami-nowe-zasady-ortografii-od-1-stycznia-2026-pelna-lista-zmian/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2026/01/SZABLON-artykuly-2026-01-02T092032.335-596x440.jpg" width="596" height="440" loading="lazy">
+								<span>Koniec z językowymi pułapkami? Nowe zasady ortografii od 1 stycznia 2026 [pełna lista zmian]</span>
+							</a>			
+						</li><li class="splide__slide">
+							<a href="https://stacja7.pl/ze-swiata/duze-zainteresowanie-biblia-w-chinach-co-roku-wzrasta-tam-liczba-chrzescijan/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2024/06/biblia-3-596x440.jpg" width="596" height="440" loading="lazy">
+								<span>Duże zainteresowanie Biblią w Chinach. Co roku wzrasta tam liczba chrześcijan</span>
+							</a>			
+						</li><li class="splide__slide">
+							<a href="https://stacja7.pl/muzyka/gdy-sliczna-panna-w-przepieknym-wykonaniu-sanah-tego-trzeba-posluchac-wideo/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2024/07/sanah-1-596x440.jpg" width="596" height="440" loading="lazy">
+								<span>&#8222;Gdy śliczna Panna&#8221; w przepięknym wykonaniu Sanah. Tego trzeba posłuchać! [WIDEO]</span>
+							</a>			
+						</li><li class="splide__slide">
+							<a href="https://stacja7.pl/z-kraju/palila-sie-bozonarodzeniowa-szopka-na-pomorzu-prawdopodobna-przyczyna-byly-fajerwerki/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2025/12/pozar-szopki-596x440.jpg" width="596" height="440" loading="lazy">
+								<span>Paliła się bożonarodzeniowa szopka na Pomorzu. Prawdopodobną przyczyną były fajerwerki</span>
+							</a>			
+						</li><li class="splide__slide">
+							<a href="https://stacja7.pl/ludzie/brigitte-bardot-nosze-w-sobie-wiare-i-jestem-z-tego-dumna/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2025/12/brigitte-bardot-596x440.jpg" width="596" height="440" loading="lazy">
+								<span>Brigitte Bardot: &#8222;Noszę w sobie wiarę i jestem z tego dumna&#8221;</span>
+							</a>			
+						</li><li class="splide__slide">
+							<a href="https://stacja7.pl/z-kraju/misiek-koterski-spedza-urodziny-w-niezwyklym-towarzystwie-rys-wskaze-ci-dobra-droge/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2025/12/kard-grzegorz-rys-michal-koterski-596x440.jpg" width="596" height="440" loading="lazy">
+								<span>Misiek Koterski spędza urodziny w niezwykłym towarzystwie. &#8222;Ryś wskaże Ci dobrą drogę&#8221;</span>
+							</a>			
+						</li><li class="splide__slide">
+							<a href="https://stacja7.pl/plukanie-sieci/gore-gwiazda-jezusowi-w-wykonaniu-malej-armii-janosika-to-nagranie-podbija-internet-wideo/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2025/12/mala-armia-janosika-596x440.jpg" width="596" height="440" loading="lazy">
+								<span>&#8222;Gore gwiazda Jezusowi&#8221; w wykonaniu Małej Armii Janosika! To nagranie podbija Internet [WIDEO]</span>
+							</a>			
+						</li><li class="splide__slide">
+							<a href="https://stacja7.pl/z-kraju/skandal-w-kosciele-w-oswiecimiu-zlodziej-okradl-szopke-bozonarodzeniowa/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2025/12/szopka-w-kosciele-596x440.jpg" width="596" height="440" loading="lazy">
+								<span>Skandal w kościele w Oświęcimiu. Złodziej okradł szopkę bożonarodzeniową</span>
+							</a>			
+						</li><li class="splide__slide">
+							<a href="https://stacja7.pl/jutro-niedziela/jutro-swieto-sw-szczepana/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2022/12/Jutro-Swieto_swSzczepana-596x440.jpg" width="596" height="440" loading="lazy">
+								<span>Jutro Święto &#8211; Św. Szczepana</span>
+							</a>			
+						</li><li class="splide__slide">
+							<a href="https://stacja7.pl/jutro-niedziela/jutro-swieto-boze-narodzenie/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2022/12/Boze-Narodzenie-Msza-w-dzien-596x440.jpg" width="596" height="440" loading="lazy">
+								<span>Jutro Święto &#8211; Boże Narodzenie</span>
+							</a>			
+						</li><li class="splide__slide">
+							<a href="https://stacja7.pl/z-kraju/wigilia-po-raz-pierwszy-wolna-od-pracy-historyczna-zmiana/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2025/12/wigilia-596x440.jpg" width="596" height="440" loading="lazy">
+								<span>Wigilia po raz pierwszy wolna od pracy. Historyczna zmiana</span>
+							</a>			
+						</li><li class="splide__slide">
+							<a href="https://stacja7.pl/z-kraju/ingres-kard-rysia-w-telewizji-sprawdz-gdzie-obejrzec-transmisje/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2025/12/kard-Rys-596x440.png" width="596" height="440" loading="lazy">
+								<span>&#8222;Bądź pozdrowiony krakowski Kościele, pełen łaski&#8221; ingres kard. Rysia do katedry wawelskiej! [TRANSMISJA i RELACJA]</span>
+							</a>			
+						</li><li class="splide__slide">
+							<a href="https://stacja7.pl/z-kraju/nie-zyje-mlody-ksiadz-mial-45-lat-w-ostatnich-latach-chorowal/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2025/12/SZABLON-artykuly-2025-12-17T134919.452-596x440.jpg" width="596" height="440" loading="lazy">
+								<span>Nie żyje młody ksiądz. Miał 45 lat. &#8222;W ostatnich latach chorował&#8221;</span>
+							</a>			
+						</li><li class="splide__slide">
+							<a href="https://stacja7.pl/wiara/inny-adwent-od-dzis-odliczamy-do-swiat/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2025/12/SZABLON-artykuly-2025-12-17T123733.414-596x440.jpg" width="596" height="440" loading="lazy">
+								<span>Inny Adwent. Od 17 grudnia odliczamy do świąt</span>
+							</a>			
+						</li><li class="splide__slide">
+							<a href="https://stacja7.pl/ze-swiata/uplynnila-sie-krew-sw-januarego-w-neapolu-znow-powtorzyl-sie-cud/">
+								<img decoding="async" src="https://stacja7.pl/wp-content/uploads/2020/12/january-1024x576-1-596x440.jpg" width="596" height="440" loading="lazy">
+								<span>Upłynniła się krew św. Januarego! W Neapolu znów powtórzył się cud</span>
+							</a>			
+						</li></ul></div></div>
+
+
+
+<h3 class="wp-block-heading">1. <strong>Motyw kary&nbsp;</strong></h3>
+
+
+
+<p><strong>Wygnanie z Raju</strong>&nbsp;</p><div class="st7-ad-container" >
+					<div class="ad-label">Reklama</div>
+					<div class="st7-ad-banner-wrapper">
+						<div id="ad-view-banner"></div>
+						<div id="ad-banner" style="display:none;"></div>
+					</div>
+				</div>
+			
+
+
+
+<p>Kara jest nieodłącznym elementem grzechu. Adam i Ewa w ogrodzie Eden mieli pełnię szczęścia, mogli korzystać ze wszystkich dóbr Raju. Nie mogli jedynie jeść owoców z Drzewa Poznania Dobra i Zła. Ewa skuszona przez szatana, skosztowała owocu i dała go także Adamowi. Zanim się obejrzeli, stali się nadzy, a ich rzeczywistość odmieniła się na zawsze. Bóg musiał ukarać człowieka za nieposłuszeństwo. Karą, jaką ponoszą kobiety jest ból rodzenia dzieci, a karą mężczyzny uprawianie ziemi w trudzie i znoju, zdobywając pożywienie dla całej rodziny. Najdotkliwszą karą dla całego rodzaju ludzkiego jest śmierć.&nbsp;&nbsp;</p>
+
+
+
+<p><strong>Historia Sodomy i Gomory&nbsp;</strong></p>
+
+
+
+<p>Sodoma i Gomora weszła do kultury jako synonim grzechu i zła. Bóg widząc, co działo się w Sodomie i Gomorze, aby zakończyć tę ludzką niegodziwość, został zmuszony do wymierzenia kary na mieszkańcach miasta. To swego rodzaju biblijny obraz sądu Bożego oraz kary za nieprawe postępowanie. Abraham był bardzo zaniepokojony, kiedy Bóg poinformował go, że zamierza zniszczyć Sodomę i Gomorę. Wówczas Prorok rozpoczął negocjacje, a jeśli znajdzie się w mieście choćby 10 sprawiedliwych, którzy swoim dobrym postępowaniem wynagrodziliby całe zło, to czy Bóg zachowa miasto? Jahwe wysłał do Sodomy swoich aniołów, którzy znaleźli tylko jednego sprawiedliwego Lota. Niesprawiedliwi mieszkańcy miasta ponieśli karę, zaś Lot ze swoją rodziną zostali ocaleni.</p><div class="st7-ad-container" >
+					<div class="ad-label">Reklama</div>
+					<div class="st7-ad-banner-wrapper">
+						<div id="ad-view-banner_2"></div>
+						<div id="ad-banner_2" style="display:none;"></div>
+					</div>
+				</div>
+			
+
+
+
+<h3 class="wp-block-heading">2. <strong>Motyw miłości</strong></h3>
+
+
+
+<p><strong>Pieśń nad Pieśniami&nbsp;</strong></p>
+
+
+
+<p>Pieśń nad Pieśniami jest swego rodzaju alegorią miłości Boga do człowieka. Ale w pierwszej interpretacji to jeden z najpiękniejszych opisów miłości międzyludzkiej. To jednak taka miłość, która swój początek, swoje źródło zawiera w samym Stwórcy. Pieśń nad Pieśniami wzbogaca także rolę kobiety, która często w Biblii ograniczona jest do prowadzenia domu, i rodzenia potomstwa. Tutaj staje się ona częścią prawdziwej miłości, jest jej głosem, a Umiłowany podąża za nią. Księga Starego Testamentu zwraca uwagę na najważniejszą rolę małżeństwa, które buduje prawdziwą jedność i równość kobiety i mężczyzny.</p>
+
+
+
+<p><strong>Ewangelia źródłem Miłości</strong></p>
+
+
+
+<p>Ewangelia jest tak naprawdę najważniejszym motywem miłości Boga do człowieka. Mimo, że już na pierwszych kartach Pisma Świętego można dostrzec niewysłowioną miłość Jahwe do ludu wybranego, tak w Ewangelii ta miłość staje się dopełniona. Miłość, jaką jest Jezus Chrystus, w imię miłości wydała się na śmierć krzyżową, by zbawić ludzkość. Pomimo niewysłowionego cierpienia, bólu i żalu Jezus wytrwał, by zwyciężyć śmierć, by człowiek znów mógł mieć nadzieję na życie wieczne. “Nie ma większej miłości niż ta, gdy ktoś życie oddaje za przyjaciół swoich” (J, 15,13).</p>
+
+
+
+<p><strong>PRZECZYTAJ>>> <a href="https://stacja7.pl/biblia/chrystus-i-zacheusz-opowiesc-o-milosierdziu-boga-i-czlowieka/">Chrystus i Zacheusz. Opowieść o miłosierdziu Boga i człowieka</a></strong></p>
+
+
+
+<h3 class="wp-block-heading">3. <strong>Motyw Ojca&nbsp;</strong></h3>
+
+
+
+<p><strong>Bóg Ojciec</strong></p>
+
+
+
+<p>Bóg w Biblii nie jest przedstawiony tylko jako Stworzyciel, którego rola w kształtowaniu świata sprowadziła się tylko do stworzenia. Bóg w Piśmie Świętym przedstawia się jako dobry, kochający Ojciec, który dla swoich dzieci skłonny jest nawet do największym poświęceń. Bóg jest także Bogiem wymagającym, który wymaga od swoich dzieci posłuszeństwa. Jezus zwraca się do Boga “Ojcze” i spełnia rolę, która została mu powierzona.&nbsp;</p>
+
+
+
+<p><strong>Przypowieść o Synu Marnotrawnym&nbsp;</strong></p>
+
+
+
+<p>Przypowieść o Synu Marnotrawnym jest przede wszystkim opowieścią o ojcowskiej miłości. Syn zażądał od ojca swojej części majątku i postanowił opuścić rodzinny dom. Jednak nie był rozsądnym przedsiębiorcą, a cały swój dorobek roztrwonił, żyjąc bardzo rozrzutnie. To w pewnym momencie doprowadziło go do skrajnego ubóstwa. Syn został zmuszony do podjęcia haniebnej pracy &#8211; dostał się do gospodarstwa, gdzie pasł świnie, a w zamian za to mógł spożywać z nimi pożywienie. Wtedy pożałował on swoich czynów i postanowił wrócić do ojca mając nadzieje na wybaczenie. Kiedy syn wrócił do domu, zastał ojca, który na niego czekał. Ojciec rozradowany uściskał syna i kazał na jego cześć wyprawić ucztę.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">4. <strong>Motyw miłosierdzia&nbsp;</strong></h3>
+
+
+
+<p><strong>Przypowieść o miłosiernym samarytaninie&nbsp;</strong></p>
+
+
+
+<p>Pewien człowiek udał się w podróż do Jerycha. Po drodze został napadnięty przez zbójów, którzy go okradli i pobili. Nie mając sił nawet się podnieść, leżał na ziemi. Przechodzili tamtędy: kapłan, lewita, których nie zainteresował los ledwo żyjącego mężczyzny. Zainteresował się nim dopiero Samarytanin, który zbliżył się do niego, opatrzył mu rany. Następnie zabrał go do siebie i tam się nim dalej opiekował. Ta przypowieść uświadamia człowieka, że miarą człowieka nie jest jego pochodzenie, czy status społeczny, ale&nbsp; miłość do bliźniego.&nbsp;</p>
+
+
+
+<p><strong>Jezus okazuje miłosierdzie cudzołożnicy&nbsp;</strong></p>
+
+
+
+<p>Kiedy faryzeusze zebrali się, aby wydać sąd na cudzołożnicy, zobaczyli Jezusa i zapytali Go: W prawie Mojżesz powiedział, że nierządnice powinniśmy kamienować. A Ty co powiesz? Jezus milczał i zaczął rysować palcem po ziemi. Po chwili odpowiedział: <em>Kto z was jest bez grzechu, niech pierwszy rzuci na nią kamieniem. </em>Wtedy wszyscy zebrani odeszli od cudzołożnicy i została ona sama z Jezusem. Wtedy Chrystus powiedział do niej: <em>Niewiasto, nikt Cię nie potępił?</em> Ona odpowiedziała: <em>Nikt Panie</em>. Jezus wtedy rzekł:<em> I ja cię nie potępię. Idź, a nie grzesz więcej. </em>Te słowa są wyrazem największego miłosierdzia Jezusa, który nikogo nie potępia, daje szansę i wspiera niezależnie od życiowych wyborów i sytuacji.<em> </em>Jezus nie był sędzią, ale miłosiernym Ojcem. Swoim miłosierdziem i okazaną miłością skłania cudzołożnicę do zmiany postępowania i skruchy (J 7:53-8:11).</p>
+
+
+
+<h3 class="wp-block-heading">5. <strong>Motyw wędrówki</strong></h3>
+
+
+
+<p><strong>Wędrówka Izraelitów do Ziemi obiecanej</strong></p>
+
+
+
+<p>Motyw wędrówki szczególnie przypomina o podróży Izraelitów do ziemi obiecanej. Przez symboliczne 40 lat mieli oni szukać miejsca swojego osiedlenia, obiecanego przez Boga. Izraelici w swojej drodze z Egiptu napotkali wiele przeszkód, które skutecznie pokonywali dzięki łasce Bożej. Jedną z nich był pościg rydwanów rzymskich, które miały zablokować drogę Izraelitom. Wówczas Bóg rozstąpił Morze Czerwone, by naród wybrany mógł bezpiecznie uciec i udać się w dalszą wędrówkę. W jej trakcie Bóg w cudowny sposób wybawiał Izraelitów od groźby śmierci z pragnienia lub głodu, jak również od przegranej podczas ataku Amalekitów.</p>
+
+
+
+<p><strong>Wjazd Jezusa do Jerozolimy</strong></p>
+
+
+
+<p>Tuż przed męką, Chrystus wjechał na ośle do Jerozolimy. Wiedział, że właśnie tam ma dopełnić się Pismo. Motyw wędrówki w Biblii kojarzy się ze zmianą, z dążeniem do celów, z wypełnianiem misji. Tak też było w przypadku Jezusa, który do Jerozolimy udał się na śmierć krzyżową. Chrystus w tej scenie triumfuje swoją pokorę &#8211; nie wjeżdża na koniu, ale na skromnym osiołku. Towarzyszył mu tłum, który pod jego stopy rzucał gałązki drzew i wykrzykiwał “Hosanna Synowi Dawida” (<a class="siglum-link" href="https://twojabiblia.pl/czytaj/Mt/21/">Mt 21,9</a>).</p>
+
+
+
+<h3 class="wp-block-heading">6. <strong>Motyw cierpienia</strong></h3>
+
+
+
+<p><strong>Historia Hioba&nbsp;</strong></p>
+
+
+
+<p>Biblijna historia o Hiobie mówi o sensie cierpienia. Hiob był człowiekiem sprawiedliwym, bogobojnym, a jego wiara była niezłomna. Bóg wiedząc to, pozwolił szatanowi wystawić Hioba na próbę. Szatan twierdził, że Hiob wysławia Boga, bo ma za co dziękować, bo wszystko mu się w życiu układa. Właśnie dlatego na próbę odebrano mu cały majątek, jego ciało pokrył trąd i zabrano mu wszystkie jego dzieci. Szatan miał nadzieję, że Hiob przestanie chwalić boga. Ten zaś z pokorą przyjął swoje cierpienie i cały czas widział w nim sens i Boży plan. Bóg widząc wierność Hioba, zwrócił mu zdrowie, majątek i wynagrodził pokorę w licznym potomstwie.</p>
+
+
+
+<p><strong>Cierpienie Jezusa</strong></p>
+
+
+
+<p>Pytania o sens cierpienia z pewnością powinny zaprowadzić myśli na krzyż. Chrystus, który cierpiał dla wybawienia grzechów każdego człowieka. Jak baranek na rzeź prowadzony, pokornie oddał się w ręce oprawców, kierując się swoją największą miłością, jaką darzy każdego człowieka. Mimo, że okropnie bał się w ogrodzie Oliwnym do tego stopnia, że na jego ciele pojawił się pot z krwi. Przyjął kielich od Ojca i wziął na siebie grzechy każdego człowieka.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">7. <strong>Motyw władzy&nbsp;</strong></h3>
+
+
+
+<p><strong>Władza Heroda</strong></p>
+
+
+
+<p>Do czego może doprowadzić pożądanie władzy? Do tego, że opanuje ona całe życie, że sprowadzi je tylko do pożądania. Tak było w przypadku Heroda, który kiedy od Mędrców ze Wschodu dowiedział się o narodzinach Jezusa Chrystusa &#8211; o tym,&nbsp; że idzie silniejszy od niego, postanowił zabić wszystkich niewinnych, malutkich chłopców. Tak bardzo obawiał się o swoją władzę, tak bardzo chciał rządzić i mieć poważanie, być najważniejszym, że posunął się do tak haniebnych czynów. Ta biblijna historia w kulturze nazywana jest “rzezią niewiniątek”.</p>
+
+
+
+<p><strong>Władza Jezusa</strong>&nbsp;</p>
+
+
+
+<p>Przykładem wzorowego władcy jest Jezus Chrystus, którego teologicznym tytułem jest “Chrystus Król”. Uznanie Jezusa za króla jest w chrześcijaństwie naturalną konsekwencją uznania go za Mesjasza, ponieważ w głoszonym przez proroków i w wypatrywanym w Izraelu mesjaszu oczekiwano królewskiego pochodzenia. Jezus jest królem, który troszczy się o każdego człowieka, który dba o swój naród. Najważniejszą biblijną przesłanką do uznania tego tytułu jest scena przesłuchania Jezusa przez Piłata opisana w Ewangelii Jana, a w której Jezus sam siebie przedstawia jako króla. Jezus zapytany przez Piłata: <em>Czy jesteś królem?,</em> Odpowiedział: <em>Tak, jestem królem. Ja się na to narodziłem i na to przyszedłem na świat, aby dać świadectwo prawdzie. Każdy, kto jest z prawdy, słucha mojego głosu&nbsp;</em>(<a class="siglum-link" href="https://twojabiblia.pl/czytaj/J/18/">J 18, 33-30</a>).</p>
+
+
+
+<h3 class="wp-block-heading">8. <strong>Motyw zbrodni&nbsp;</strong></h3>
+
+
+
+<p><strong>Historia Kaina i Abla</strong></p>
+
+
+
+<p>Kain i Abel byli synami Adama i Ewy. Oboje składali ofiary Bogu, z tego co udało im się zgromadzić. Ofiara Abla bardziej spodobała się Bogu. Wtedy Kain kierując się zazdrością, zamordował swojego brata. Bóg wtedy zapytał Kaina, gdzie jest Abel. Mężczyzna zaś odpowiedział, że nie jest stróżem swojego brata. Wtedy Bóg rzekł, że krew Abla woła do niego z ziemi i że za karę Kain zostanie wygnany na wschód, a jego losem stanie się wieczne tułactwo. Jednakże Bóg w swoim miłosierdziu zadbał o to, aby Kainowi nie stała się krzywda i naznaczył jego czoło, by odstraszało oprawców. Zagroził także klątwą wszystkim tym, którzy zechcieliby podnieść rękę na Kaina.&nbsp;</p>
+
+
+
+<p><strong>Zbrodnia Judasza&nbsp;</strong></p>
+
+
+
+<p>Mimo, że Judasz nie był bezpośrednim oprawcą Jezusa, najbardziej znacznie przyczynił się, do Jego wydania na śmierć krzyżową. Zdrada stała się prawdziwą zbrodnią, która zaważyła o losie całej ludzkości. Judasz wydał na śmierć swojego ukochanego Nauczyciela i Mistrza. Motywem jego zbrodni stały się pieniądze, które w życiu Judasza leżały w jego naturze jako byłego celnika. 30 srebrników &#8211; taką zapłatę otrzymał za największą zbrodnię w dziejach. Judasz po zdradliwym pocałunku, kiedy zobaczył umęczonego Jezusa, zrozumiał, że wydał sprawiedliwego. Wtedy chciał odkupić swoje winy, oddać srebrniki. Było jednak za późno, Pismo wypełniało się krok po kroku, a Judasz opanowany przez wyrzuty sumienia, popełnił samobójstwo.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">9. <strong>Motyw stworzeń nadprzyrodzonych&nbsp;</strong></h3>
+
+
+
+<p><strong>Zwiastowanie Maryi&nbsp;</strong></p>
+
+
+
+<p>Aniołowie w Biblii dostąpili zaszczytu przepowiadania najważniejszych, zbawczych wydarzeń dla człowieka. Archanioł Gabriel przyszedł na Ziemię, by zwiastować Maryi radosną nowinę. Ogłosił jej, że została wybrana na Matkę Syna Bożego. Archanioł Gabriel ukazał się jako tajemnicza postać, której na początku Maryja się wystraszyła. Po chwili, kiedy Anioł przemówił zrozumiała, że ma do czynienia ze stworzeniem boskim, które przyszło zwiastować jej prawdziwy cud &#8211; że została wybrana spośród niewiast, na Matkę Jezusa Chrystusa. Na te słowa Maryja przelękła się jeszcze bardziej, gdyż nie miała męża. Anioł wyjaśnił jej, że to Duch Święty zstąpi na nią &#8211; dzięki Niemu pocznie ona Syna, zachowując swoją niewinność.&nbsp;</p>
+
+
+
+<p><strong>Anioł Zmartwychwstania&nbsp;</strong></p>
+
+
+
+<p>Aniołowie byli tym, którzy odsunęli kamień od Grobu Pańskiego. Byli także tymi, którzy zwiastowali uczniom i kobietom wiadomość o zmartwychwstaniu. Kiedy kobiety zobaczyły odsunięty kamień, bardzo się przestraszyły. Weszły do Grobu, a tam zobaczyły tylko płótna oraz młodzieńca ubranego w białe szaty. Polecił on kobietom udać się do uczniów i przekazać im wiadomość o zmartwychwstaniu.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">10. <strong>Motyw przyjaźni&nbsp;</strong></h3>
+
+
+
+<p><strong>Człowiek jako przyjaciel Jezusa&nbsp;</strong></p>
+
+
+
+<p>Pan Jezus podał prawdziwą definicję przyjaciela: <em>Większej miłości nikt nie ma nad tę, jak gdy kto życie swoje kładzie za przyjaciół swoich. Jesteście przyjaciółmi moimi, jeśli czynić będziecie, co wam przykazuję. </em>Jezus jest prawdziwym przyjacielem. Oddał on swoje życie za przyjaciół swoich, którzy niczym sobie na takie poświęcenie nie zasłużyli. To przyjaźń bezinteresowna, oparta na miłości bliźniego. Chrystus oczekuje jedynie zaufania. Nie chce, aby człowiek był sługą, ale aby stał się prawdziwym przyjacielem, a ta przyjaźń, aby ukształtowana była na mocnych fundamentach zbudowanych na Słowie Bożym.&nbsp;</p>
+
+
+
+<p><strong>Marta, Maria i Łazarz&nbsp;</strong></p>
+
+
+
+<p>W Betanii Jezus odwiedzał Martę, Marię i Łazarza. Oni właśnie byli prawdziwymi przyjaciółmi Jezusa. Dom rodziny pachniał przyjaźnią, wzajemnym wsparciem i dobrem. Marta, Maria i Łazarz razem tworzą dom przyjaciół, a jednocześnie każde z osobna kryło w sobie jedyne, niepowtarzalne historie przyjaźni z Jezusem. Przyjaźń Jezusa z tą wyjątkową trójką nie znała granic. Kiedy Jezus przybył do Betanii, ujrzał Marię i Martę w rozpaczy po śmierci swego brata. Chrystus nie zawahał się i już po chwili wskrzesił Łazarza, który o własnych siłach wyszedł z grobu. Jezus wiedział, czym jest prawdziwa przyjaźń, do granic możliwości.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-stacja-7-pl wp-block-embed-stacja-7-pl"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="DhDI9uk4bq"><a href="https://stacja7.pl/modlitwa/modlitwa-maturzysty/">Modlitwa maturzysty</a></blockquote><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8222;Modlitwa maturzysty&#8221; &#8212; Stacja7.pl" src="https://stacja7.pl/modlitwa/modlitwa-maturzysty/embed/#?secret=ObCRq5Cixm#?secret=DhDI9uk4bq" data-secret="DhDI9uk4bq" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+</p>				</div>
+
+									<div class="st7-single-article-author-desc d-none">
+						<img src="https://stacja7.pl/wp-content/themes/st7/assets/img/s7.png" loading="lazy"/>
+						<div>
+							<h6>Redakcja portalu</h6>
+														<a href="https://stacja7.pl/autor/redakcja/" class="archive-link">Zobacz inne artykuły tego autora</a>
+						</div>
+					</div>
+				
+				
+<!-- 				<div class="st7-article-banner">
+
+					<div class="ad-label">Reklama</div>
+					<div id='st7-ad-banner_2' style='width: 750px; height: 200px;' class="st7-ad-wrapper">
+					</div>
+				</div>
+ -->
+ 				<div class="st7-ad-container" >
+					<div class="ad-label">Reklama</div>
+					<div class="st7-ad-banner-wrapper">
+						<div id="ad-view-banner_3"></div>
+						<div id="ad-banner_3" style="display:none;"></div>
+					</div>
+				</div>
+
+
+				
+
+				<section class="container text-center py-5 mb-5">
+					<a href="https://patronite.pl/stacja7?utm_source=strona&utm_medium=sg">
+						<img width="1000" height="1000" src="https://stacja7.pl/wp-content/themes/st7/assets/img/patronite_ostat_1000x1000.jpg" class="d-lg-none" style="height:auto"/>
+						<img width="1500" height="440" src="https://stacja7.pl/wp-content/themes/st7/assets/img/patronite_ostat_1500x440.jpg" class="d-none d-lg-block" style="height:auto"/>
+					</a>
+				</section>
+
+<!-- 				<section class="container text-center py-5 st7-newsletter mb-5">
+					<h3>Najciekawsze artykuły</h3>
+					<h4>co tydzień w Twojej skrzynce mailowej</h4>
+					<form action="https://app.getresponse.com/add_subscriber.html" accept-charset="utf-8" method="post" target="_blank">
+						<div class="input-group mb-3">
+							<input type="email" name="email" class="form-control" placeholder="Adres e-mail" aria-label="Adres e-mail" aria-describedby="button-addon2" required>
+							<input type="hidden" name="campaign_token" value="nbFcL" />
+							<button class="btn btn-primary" type="submit" id="button-addon2">Zapisz się</button>
+						</div>
+					</form>
+					<p>Raz w tygodniu otrzymasz przegląd najważniejszych artykułów ze Stacji7</p>
+				</section> -->
+
+
+
+			</div>
+		</div>
+
+
+		<div class="col">
+			<div class="st7-article-side">
+				<h4 class="mb-4">ARTYKUŁY POWIĄZANE</h4>
+				<div class="st7-post-square-wrapper"><div class="st7-post-square">
+			<a href="https://stacja7.pl/z-kraju/koniec-z-jezykowymi-pulapkami-nowe-zasady-ortografii-od-1-stycznia-2026-pelna-lista-zmian/">
+				<img src="https://stacja7.pl/wp-content/uploads/2026/01/SZABLON-artykuly-2026-01-02T092032.335-150x150.jpg" loading="lazy" width="266" height="230" />
+			</a>
+			<div>
+				<a href="https://stacja7.pl/z-kraju/koniec-z-jezykowymi-pulapkami-nowe-zasady-ortografii-od-1-stycznia-2026-pelna-lista-zmian/">Koniec z językowymi pułapkami? Nowe zasady ortografii od 1 stycznia 2026 [pełna lista zmian]</a>
+			</div>
+		</div><div class="st7-post-square">
+			<a href="https://stacja7.pl/ze-swiata/duze-zainteresowanie-biblia-w-chinach-co-roku-wzrasta-tam-liczba-chrzescijan/">
+				<img src="https://stacja7.pl/wp-content/uploads/2024/06/biblia-3-150x150.jpg" loading="lazy" width="266" height="230" />
+			</a>
+			<div>
+				<a href="https://stacja7.pl/ze-swiata/duze-zainteresowanie-biblia-w-chinach-co-roku-wzrasta-tam-liczba-chrzescijan/">Duże zainteresowanie Biblią w Chinach. Co roku wzrasta tam liczba chrześcijan</a>
+			</div>
+		</div><div class="st7-post-square">
+			<a href="https://stacja7.pl/muzyka/gdy-sliczna-panna-w-przepieknym-wykonaniu-sanah-tego-trzeba-posluchac-wideo/">
+				<img src="https://stacja7.pl/wp-content/uploads/2024/07/sanah-1-150x150.jpg" loading="lazy" width="266" height="230" />
+			</a>
+			<div>
+				<a href="https://stacja7.pl/muzyka/gdy-sliczna-panna-w-przepieknym-wykonaniu-sanah-tego-trzeba-posluchac-wideo/">&#8222;Gdy śliczna Panna&#8221; w przepięknym wykonaniu Sanah. Tego trzeba posłuchać! [WIDEO]</a>
+			</div>
+		</div><div class="st7-post-square">
+			<a href="https://stacja7.pl/z-kraju/palila-sie-bozonarodzeniowa-szopka-na-pomorzu-prawdopodobna-przyczyna-byly-fajerwerki/">
+				<img src="https://stacja7.pl/wp-content/uploads/2025/12/pozar-szopki-150x150.jpg" loading="lazy" width="266" height="230" />
+			</a>
+			<div>
+				<a href="https://stacja7.pl/z-kraju/palila-sie-bozonarodzeniowa-szopka-na-pomorzu-prawdopodobna-przyczyna-byly-fajerwerki/">Paliła się bożonarodzeniowa szopka na Pomorzu. Prawdopodobną przyczyną były fajerwerki</a>
+			</div>
+		</div><div class="st7-post-square">
+			<a href="https://stacja7.pl/ludzie/brigitte-bardot-nosze-w-sobie-wiare-i-jestem-z-tego-dumna/">
+				<img src="https://stacja7.pl/wp-content/uploads/2025/12/brigitte-bardot-150x150.jpg" loading="lazy" width="266" height="230" />
+			</a>
+			<div>
+				<a href="https://stacja7.pl/ludzie/brigitte-bardot-nosze-w-sobie-wiare-i-jestem-z-tego-dumna/">Brigitte Bardot: &#8222;Noszę w sobie wiarę i jestem z tego dumna&#8221;</a>
+			</div>
+		</div></div>
+			</div>
+		</div>
+	</div>
+
+	<div class="row st7-article-footer">
+		<div class="col-lg-12">
+
+				<div class="st7-products">
+					<h4>SKLEP DOBROCI</h4>
+					<div class="ad-label">Reklama</div>
+					<!-- <h4>BALLADY I ROMANSE</h4> -->
+					<div class="row text-center">
+							<div class="splide">
+		<div class="splide__track">
+			<ul class="splide__list text-center">
+									<li class="splide__slide">
+						<a href="https://dobroci.pl/produkt/przedsprzedaz-modlitewnik-dla-kobiet_2-52-tygodnie-ze-sw-teresa-z-avili/?utm_source=stacja7-produkty&utm_medium=przedsprzedaz-modlit" class="d-block st7-shop-product" target="_blank">
+							<span class="st7-shop-img"><img src="https://dobroci.pl/wp-content/uploads/2025/11/kobiecy_modlitewnik2_ksiazka_dobroci-300x300.png.webp" width="180" height="180" loading="lazy"></span>
+							<span class="st7-shop-btn">Zamów</span>
+							<strong class="st7-shop-title">Modlitewnik dla kobiet_2. 52 tygodnie ze św. Teresą z Avili.</strong>
+							<span class="st7-shop-price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">49,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></del> <span class="screen-reader-text">Pierwotna cena wynosiła: 49,90&nbsp;&#122;&#322;.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount">39,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></ins><span class="screen-reader-text">Aktualna cena wynosi: 39,90&nbsp;&#122;&#322;.</span></span>
+						</a>			
+					</li>
+									<li class="splide__slide">
+						<a href="https://dobroci.pl/produkt/komandor-podporucznik-prawdziwa-historia-polskiego-oficera-ktory-uratowal-setki-istnien-i-stworzyl-orla-straz/?utm_source=stacja7-produkty&utm_medium=komandor-podporuczni" class="d-block st7-shop-product" target="_blank">
+							<span class="st7-shop-img"><img src="https://dobroci.pl/wp-content/uploads/2025/12/komandor_ksiazka_dobroci-300x300.png.webp" width="180" height="180" loading="lazy"></span>
+							<span class="st7-shop-btn">Zamów</span>
+							<strong class="st7-shop-title">KOMANDOR Podporucznik. Prawdziwa historia polskiego oficera, który uratował setki istnień i stworzył Orlą Straż</strong>
+							<span class="st7-shop-price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">49,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></del> <span class="screen-reader-text">Pierwotna cena wynosiła: 49,90&nbsp;&#122;&#322;.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount">39,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></ins><span class="screen-reader-text">Aktualna cena wynosi: 39,90&nbsp;&#122;&#322;.</span></span>
+						</a>			
+					</li>
+									<li class="splide__slide">
+						<a href="https://dobroci.pl/produkt/przedsprzedaz-nigdy-sie-nie-balam-prawdziwa-historia-ksieznej-niezlomnej-ballali-radziwill/?utm_source=stacja7-produkty&utm_medium=przedsprzedaz-nigdy-" class="d-block st7-shop-product" target="_blank">
+							<span class="st7-shop-img"><img src="https://dobroci.pl/wp-content/uploads/2025/06/Bez-nazwy-500-x-500-px-14-300x300.jpg.webp" width="180" height="180" loading="lazy"></span>
+							<span class="st7-shop-btn">Zamów</span>
+							<strong class="st7-shop-title">Nigdy się nie bałam. Prawdziwa historia księżnej niezłomnej Ballali Radziwiłł</strong>
+							<span class="st7-shop-price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">49,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></del> <span class="screen-reader-text">Pierwotna cena wynosiła: 49,90&nbsp;&#122;&#322;.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount">44,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></ins><span class="screen-reader-text">Aktualna cena wynosi: 44,90&nbsp;&#122;&#322;.</span></span>
+						</a>			
+					</li>
+									<li class="splide__slide">
+						<a href="https://dobroci.pl/produkt/zniknac-bez-slowa-weronika-kostrzewa-ks-tomasz-trzaska/?utm_source=stacja7-produkty&utm_medium=zniknac-bez-slowa-we" class="d-block st7-shop-product" target="_blank">
+							<span class="st7-shop-img"><img src="https://dobroci.pl/wp-content/uploads/2025/06/Bez-nazwy-500-x-500-px-22-300x300.jpg.webp" width="180" height="180" loading="lazy"></span>
+							<span class="st7-shop-btn">Zamów</span>
+							<strong class="st7-shop-title">ZNIKNĄĆ BEZ SŁOWA - Weronika Kostrzewa, ks. Tomasz Trzaska</strong>
+							<span class="st7-shop-price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">49,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></del> <span class="screen-reader-text">Pierwotna cena wynosiła: 49,90&nbsp;&#122;&#322;.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount">39,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></ins><span class="screen-reader-text">Aktualna cena wynosi: 39,90&nbsp;&#122;&#322;.</span></span>
+						</a>			
+					</li>
+									<li class="splide__slide">
+						<a href="https://dobroci.pl/produkt/ebook-dom-ktory-nazywa-sie-polska/?utm_source=stacja7-produkty&utm_medium=ebook-dom-ktory-nazy" class="d-block st7-shop-product" target="_blank">
+							<span class="st7-shop-img"><img src="https://dobroci.pl/wp-content/uploads/2025/11/Mockupy-2-300x300.png.webp" width="180" height="180" loading="lazy"></span>
+							<span class="st7-shop-btn">Zamów</span>
+							<strong class="st7-shop-title">EBOOK Dom, który nazywa się Polska</strong>
+							<span class="st7-shop-price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">24,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></del> <span class="screen-reader-text">Pierwotna cena wynosiła: 24,90&nbsp;&#122;&#322;.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount">19,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></ins><span class="screen-reader-text">Aktualna cena wynosi: 19,90&nbsp;&#122;&#322;.</span></span>
+						</a>			
+					</li>
+									<li class="splide__slide">
+						<a href="https://dobroci.pl/produkt/przedsprzedaz-uzdrow-mnie-sila-modlitwy-ojca-pio-pomoz-mi-boze/?utm_source=stacja7-produkty&utm_medium=przedsprzedaz-uzdrow" class="d-block st7-shop-product" target="_blank">
+							<span class="st7-shop-img"><img src="https://dobroci.pl/wp-content/uploads/2024/09/Mockupy-300x300.png.webp" width="180" height="180" loading="lazy"></span>
+							<span class="st7-shop-btn">Zamów</span>
+							<strong class="st7-shop-title">UZDRÓW MNIE. Siłą modlitwy Ojca Pio - pomóż mi Boże + zakładka GRATIS</strong>
+							<span class="st7-shop-price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">39,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></del> <span class="screen-reader-text">Pierwotna cena wynosiła: 39,90&nbsp;&#122;&#322;.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount">23,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></ins><span class="screen-reader-text">Aktualna cena wynosi: 23,90&nbsp;&#122;&#322;.</span></span>
+						</a>			
+					</li>
+									<li class="splide__slide">
+						<a href="https://dobroci.pl/produkt/przedsprzedaz-uwielbiam/?utm_source=stacja7-produkty&utm_medium=przedsprzedaz-uwielb" class="d-block st7-shop-product" target="_blank">
+							<span class="st7-shop-img"><img src="https://dobroci.pl/wp-content/uploads/2025/06/Bez-nazwy-500-x-500-px-3-300x300.jpg.webp" width="180" height="180" loading="lazy"></span>
+							<span class="st7-shop-btn">Zamów</span>
+							<strong class="st7-shop-title">"Uwielbiam"</strong>
+							<span class="st7-shop-price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">39,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></del> <span class="screen-reader-text">Pierwotna cena wynosiła: 39,90&nbsp;&#122;&#322;.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount">14,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></ins><span class="screen-reader-text">Aktualna cena wynosi: 14,90&nbsp;&#122;&#322;.</span></span>
+						</a>			
+					</li>
+									<li class="splide__slide">
+						<a href="https://dobroci.pl/produkt/przedsprzedaz-druga-pierwsza-anna-hazuka/?utm_source=stacja7-produkty&utm_medium=przedsprzedaz-druga-" class="d-block st7-shop-product" target="_blank">
+							<span class="st7-shop-img"><img src="https://dobroci.pl/wp-content/uploads/2025/05/pierwsza-druga-pakiet_dobroci-300x300.png.webp" width="180" height="180" loading="lazy"></span>
+							<span class="st7-shop-btn">Zamów</span>
+							<strong class="st7-shop-title">PAKIET Anna Hazuka: "Druga" + "Pierwsza"</strong>
+							<span class="st7-shop-price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">99,80&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></del> <span class="screen-reader-text">Pierwotna cena wynosiła: 99,80&nbsp;&#122;&#322;.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount">71,82&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></ins><span class="screen-reader-text">Aktualna cena wynosi: 71,82&nbsp;&#122;&#322;.</span></span>
+						</a>			
+					</li>
+									<li class="splide__slide">
+						<a href="https://dobroci.pl/produkt/przedsprzedaz-pokrzep-mnie/?utm_source=stacja7-produkty&utm_medium=przedsprzedaz-pokrze" class="d-block st7-shop-product" target="_blank">
+							<span class="st7-shop-img"><img src="https://dobroci.pl/wp-content/uploads/2024/05/pokrzep_mnie_ksiazka_dobroci-miekka-300x300.png.webp" width="180" height="180" loading="lazy"></span>
+							<span class="st7-shop-btn">Zamów</span>
+							<strong class="st7-shop-title">"Pokrzep mnie" o. Łukasz Buksa OFM</strong>
+							<span class="st7-shop-price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">49,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></del> <span class="screen-reader-text">Pierwotna cena wynosiła: 49,90&nbsp;&#122;&#322;.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount">12,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></ins><span class="screen-reader-text">Aktualna cena wynosi: 12,90&nbsp;&#122;&#322;.</span></span>
+						</a>			
+					</li>
+									<li class="splide__slide">
+						<a href="https://dobroci.pl/produkt/konklawe-tajemnice-wyborow-papieskich-ks-przemyslaw-sliwinski/?utm_source=stacja7-produkty&utm_medium=konklawe-tajemnice-w" class="d-block st7-shop-product" target="_blank">
+							<span class="st7-shop-img"><img src="https://dobroci.pl/wp-content/uploads/2025/06/Bez-nazwy-500-x-500-px-7-300x300.jpg.webp" width="180" height="180" loading="lazy"></span>
+							<span class="st7-shop-btn">Zamów</span>
+							<strong class="st7-shop-title">"Konklawe. Tajemnice wyborów papieskich" - ks. Przemysław Śliwiński</strong>
+							<span class="st7-shop-price"><del><span class="woocommerce-Price-amount amount">59,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></del> <ins><span class="woocommerce-Price-amount amount">29,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></ins></span>
+						</a>			
+					</li>
+									<li class="splide__slide">
+						<a href="https://dobroci.pl/produkt/modlitewnik-dla-dwojga-dzien-po-dniu-z-ks-piotrem-pawlukiewiczem/?utm_source=stacja7-produkty&utm_medium=modlitewnik-dla-dwoj" class="d-block st7-shop-product" target="_blank">
+							<span class="st7-shop-img"><img src="https://dobroci.pl/wp-content/uploads/2025/06/Bez-nazwy-500-x-500-px-20-300x300.jpg.webp" width="180" height="180" loading="lazy"></span>
+							<span class="st7-shop-btn">Zamów</span>
+							<strong class="st7-shop-title">Modlitewnik dla dwojga. Dzień po dniu z ks. Piotrem Pawlukiewiczem</strong>
+							<span class="st7-shop-price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">49,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></del> <span class="screen-reader-text">Pierwotna cena wynosiła: 49,90&nbsp;&#122;&#322;.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount">35,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></ins><span class="screen-reader-text">Aktualna cena wynosi: 35,90&nbsp;&#122;&#322;.</span></span>
+						</a>			
+					</li>
+									<li class="splide__slide">
+						<a href="https://dobroci.pl/produkt/jutro-niedziela-rok-a/?utm_source=stacja7-produkty&utm_medium=jutro-niedziela-rok-" class="d-block st7-shop-product" target="_blank">
+							<span class="st7-shop-img"><img src="https://dobroci.pl/wp-content/uploads/2019/12/jutro-niedziela-mockup-300x300.jpg" width="180" height="180" loading="lazy"></span>
+							<span class="st7-shop-btn">Zamów</span>
+							<strong class="st7-shop-title">Jutro Niedziela - Rok A</strong>
+							<span class="st7-shop-price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">79,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></del> <span class="screen-reader-text">Pierwotna cena wynosiła: 79,90&nbsp;&#122;&#322;.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount">69,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></ins><span class="screen-reader-text">Aktualna cena wynosi: 69,90&nbsp;&#122;&#322;.</span></span>
+						</a>			
+					</li>
+									<li class="splide__slide">
+						<a href="https://dobroci.pl/produkt/ebook-nigdy-sie-nie-balam-prawdziwa-historia-ksieznej-niezlomnej-ballali-radziwill/?utm_source=stacja7-produkty&utm_medium=ebook-nigdy-sie-nie-" class="d-block st7-shop-product" target="_blank">
+							<span class="st7-shop-img"><img src="https://dobroci.pl/wp-content/uploads/2025/10/nigdy-sie-nie-balam-ebook_dobroci-300x300.png.webp" width="180" height="180" loading="lazy"></span>
+							<span class="st7-shop-btn">Zamów</span>
+							<strong class="st7-shop-title">EBOOK Nigdy się nie bałam. Prawdziwa historia księżnej niezłomnej Ballali Radziwiłł</strong>
+							<span class="st7-shop-price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">39,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></del> <span class="screen-reader-text">Pierwotna cena wynosiła: 39,90&nbsp;&#122;&#322;.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount">29,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></ins><span class="screen-reader-text">Aktualna cena wynosi: 29,90&nbsp;&#122;&#322;.</span></span>
+						</a>			
+					</li>
+									<li class="splide__slide">
+						<a href="https://dobroci.pl/produkt/ebook-zniknac-bez-slowa-weronika-kostrzewa-ks-tomasz-trzaska/?utm_source=stacja7-produkty&utm_medium=ebook-zniknac-bez-sl" class="d-block st7-shop-product" target="_blank">
+							<span class="st7-shop-img"><img src="https://dobroci.pl/wp-content/uploads/2025/09/zniknac-ebook_dobroci-300x300.png.webp" width="180" height="180" loading="lazy"></span>
+							<span class="st7-shop-btn">Zamów</span>
+							<strong class="st7-shop-title">EBOOK "ZNIKNĄĆ BEZ SŁOWA" - Weronika Kostrzewa, ks. Tomasz Trzaska</strong>
+							<span class="st7-shop-price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount">39,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></del> <span class="screen-reader-text">Pierwotna cena wynosiła: 39,90&nbsp;&#122;&#322;.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount">24,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></span></ins><span class="screen-reader-text">Aktualna cena wynosi: 24,90&nbsp;&#122;&#322;.</span></span>
+						</a>			
+					</li>
+										</ul>
+		</div>
+	</div>
+					</div>
+				</div>
+
+				<div class="d-none d-md-flex mb-3">
+					<h4>PRZECZYTAJ RÓWNIEŻ</h4>
+				</div>
+				<div class="row row-cols-2 row-cols-md-4 d-none d-md-flex">
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/zwatykanu/leon-xiv-z-niepokojem-sledzi-sytuacje-w-wenezueli-modle-sie-i-zachecam-was-do-modlitwy/">
+								<img src="https://stacja7.pl/wp-content/uploads/2025/10/formatka-17-1-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2025/10/formatka-17-1-298x220.jpg 1x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/zwatykanu/leon-xiv-z-niepokojem-sledzi-sytuacje-w-wenezueli-modle-sie-i-zachecam-was-do-modlitwy/">Leon XIV z niepokojem śledzi sytuację w Wenezueli. &#8222;Modlę się i zachęcam was do modlitwy&#8221;</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/zwatykanu/leon-xiv-niech-radosc-bozego-narodzenia-dodaje-nam-odwagi/">
+								<img src="https://stacja7.pl/wp-content/uploads/2026/01/leon-xiv-vatican-media-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2026/01/leon-xiv-vatican-media-298x220.jpg 1x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/zwatykanu/leon-xiv-niech-radosc-bozego-narodzenia-dodaje-nam-odwagi/">Leon XIV: &#8222;Niech radość Bożego Narodzenia dodaje nam odwagi&#8221;</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/z-kraju/prezbiterium-kaplicy-matki-bozej-odzyskalo-dawny-blask-jasnogorskie-kurdybany-odnowione/">
+								<img src="https://stacja7.pl/wp-content/uploads/2026/01/formatka-3-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2026/01/formatka-3-298x220.jpg 1x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/z-kraju/prezbiterium-kaplicy-matki-bozej-odzyskalo-dawny-blask-jasnogorskie-kurdybany-odnowione/">Prezbiterium Kaplicy Matki Bożej odzyskało dawny blask. Jasnogórskie kurdybany odnowione</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/z-kraju/inicjatywa-koleda-2026-gest-solidarnosci-ze-skrzywdzonymi-w-kosciele/">
+								<img src="https://stacja7.pl/wp-content/uploads/2026/01/formatka-2-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2026/01/formatka-2-298x220.jpg 1x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/z-kraju/inicjatywa-koleda-2026-gest-solidarnosci-ze-skrzywdzonymi-w-kosciele/">Inicjatywa „Kolęda 2026”. Gest solidarności ze skrzywdzonymi w Kościele</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/ze-swiata/kardynalowie-podroze-i-nowa-encyklika-10-najwazniejszych-wydarzen-w-kosciele-w-2026-roku/">
+								<img src="https://stacja7.pl/wp-content/uploads/2025/10/watykan-papiez-leon-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2025/10/watykan-papiez-leon-298x220.jpg 1x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/ze-swiata/kardynalowie-podroze-i-nowa-encyklika-10-najwazniejszych-wydarzen-w-kosciele-w-2026-roku/">Kardynałowie, podróże i nowa encyklika. 10 najważniejszych wydarzeń w Kościele w 2026 roku</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/ze-swiata/historyczny-rekord-tylu-pielgrzymow-nie-bylo-tu-jeszcze-nigdy/">
+								<img src="https://stacja7.pl/wp-content/uploads/2021/02/polski-szlak-camino-de-santiago-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2021/02/polski-szlak-camino-de-santiago-298x220.jpg 1x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/ze-swiata/historyczny-rekord-tylu-pielgrzymow-nie-bylo-tu-jeszcze-nigdy/">Historyczny rekord. Tylu pielgrzymów nie było tu jeszcze nigdy</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/zwatykanu/tragiczny-pozar-w-szwajcarii-leon-xiv-reaguje-modle-sie-za-ofiary-i-ich-rodziny/">
+								<img src="https://stacja7.pl/wp-content/uploads/2025/09/formatka-2025-09-12T134941.565-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2025/09/formatka-2025-09-12T134941.565-298x220.jpg 1x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/zwatykanu/tragiczny-pozar-w-szwajcarii-leon-xiv-reaguje-modle-sie-za-ofiary-i-ich-rodziny/">Tragiczny pożar w Szwajcarii. Leon XIV reaguje: „Modlę się za ofiary i ich rodziny”</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/ze-swiata/noc-sylwestrowa-zmienila-sie-w-koszmar-szwajcaria-w-zalobie-po-tragedii-w-crans-montana/">
+								<img src="https://stacja7.pl/wp-content/uploads/2026/01/SZABLON-artykuly-2026-01-02T113139.188-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2026/01/SZABLON-artykuly-2026-01-02T113139.188-298x220.jpg 1x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/ze-swiata/noc-sylwestrowa-zmienila-sie-w-koszmar-szwajcaria-w-zalobie-po-tragedii-w-crans-montana/">Noc sylwestrowa zmieniła się w koszmar. Szwajcaria w żałobie po tragedii w Crans-Montana</a>
+							</div>
+						</div>
+														</div>
+
+				<h5 class="d-md-none mb-3">PRZECZYTAJ RÓWNIEŻ</h5>
+				<div class="row row-cols-2 row-cols-md-4 d-md-none">
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/zwatykanu/leon-xiv-z-niepokojem-sledzi-sytuacje-w-wenezueli-modle-sie-i-zachecam-was-do-modlitwy/">
+								<img src="https://stacja7.pl/wp-content/uploads/2025/10/formatka-17-1-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2025/10/formatka-17-1-298x220.jpg 1x, https://stacja7.pl/wp-content/uploads/2025/10/formatka-17-1-596x440.jpg 2x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/zwatykanu/leon-xiv-z-niepokojem-sledzi-sytuacje-w-wenezueli-modle-sie-i-zachecam-was-do-modlitwy/">Leon XIV z niepokojem śledzi sytuację w Wenezueli. &#8222;Modlę się i zachęcam was do modlitwy&#8221;</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/zwatykanu/leon-xiv-niech-radosc-bozego-narodzenia-dodaje-nam-odwagi/">
+								<img src="https://stacja7.pl/wp-content/uploads/2026/01/leon-xiv-vatican-media-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2026/01/leon-xiv-vatican-media-298x220.jpg 1x, https://stacja7.pl/wp-content/uploads/2026/01/leon-xiv-vatican-media-596x440.jpg 2x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/zwatykanu/leon-xiv-niech-radosc-bozego-narodzenia-dodaje-nam-odwagi/">Leon XIV: &#8222;Niech radość Bożego Narodzenia dodaje nam odwagi&#8221;</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/z-kraju/prezbiterium-kaplicy-matki-bozej-odzyskalo-dawny-blask-jasnogorskie-kurdybany-odnowione/">
+								<img src="https://stacja7.pl/wp-content/uploads/2026/01/formatka-3-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2026/01/formatka-3-298x220.jpg 1x, https://stacja7.pl/wp-content/uploads/2026/01/formatka-3-596x440.jpg 2x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/z-kraju/prezbiterium-kaplicy-matki-bozej-odzyskalo-dawny-blask-jasnogorskie-kurdybany-odnowione/">Prezbiterium Kaplicy Matki Bożej odzyskało dawny blask. Jasnogórskie kurdybany odnowione</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/z-kraju/inicjatywa-koleda-2026-gest-solidarnosci-ze-skrzywdzonymi-w-kosciele/">
+								<img src="https://stacja7.pl/wp-content/uploads/2026/01/formatka-2-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2026/01/formatka-2-298x220.jpg 1x, https://stacja7.pl/wp-content/uploads/2026/01/formatka-2-596x440.jpg 2x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/z-kraju/inicjatywa-koleda-2026-gest-solidarnosci-ze-skrzywdzonymi-w-kosciele/">Inicjatywa „Kolęda 2026”. Gest solidarności ze skrzywdzonymi w Kościele</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/ze-swiata/kardynalowie-podroze-i-nowa-encyklika-10-najwazniejszych-wydarzen-w-kosciele-w-2026-roku/">
+								<img src="https://stacja7.pl/wp-content/uploads/2025/10/watykan-papiez-leon-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2025/10/watykan-papiez-leon-298x220.jpg 1x, https://stacja7.pl/wp-content/uploads/2025/10/watykan-papiez-leon-596x440.jpg 2x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/ze-swiata/kardynalowie-podroze-i-nowa-encyklika-10-najwazniejszych-wydarzen-w-kosciele-w-2026-roku/">Kardynałowie, podróże i nowa encyklika. 10 najważniejszych wydarzeń w Kościele w 2026 roku</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/ze-swiata/historyczny-rekord-tylu-pielgrzymow-nie-bylo-tu-jeszcze-nigdy/">
+								<img src="https://stacja7.pl/wp-content/uploads/2021/02/polski-szlak-camino-de-santiago-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2021/02/polski-szlak-camino-de-santiago-298x220.jpg 1x, https://stacja7.pl/wp-content/uploads/2021/02/polski-szlak-camino-de-santiago-596x440.jpg 2x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/ze-swiata/historyczny-rekord-tylu-pielgrzymow-nie-bylo-tu-jeszcze-nigdy/">Historyczny rekord. Tylu pielgrzymów nie było tu jeszcze nigdy</a>
+							</div>
+						</div>
+														</div>
+
+<!--  				<div class="st7-ad-container" >
+					<div class="ad-label">Reklama</div>
+					<div class="st7-ad-banner-wrapper">
+						<div id="ad-view-banner_3"></div>
+						<div id="ad-banner_3" style="display:none;"></div>
+					</div>
+				</div>
+
+ -->
+				<h5 class="d-md-none mb-3">WIARA I MODLITWA</h5>
+				<div class="row row-cols-2 row-cols-md-4 d-md-none">
+														</div>
+
+			</div>
+		</div>
+
+
+
+
+
+	</div>
+
+
+<section id="st7-overlay-nav" class="st7-overlay-nav" style="display: none;">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="st7-overlay-nav-additional">
+									
+						
+						<form action="https://stacja7.pl/" method="get" role="search">
+							<input type="text" class="st7-overlay-menu-search" placeholder="szukaj" name="s"/>
+						</form>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-6">
+					<div class="menu-kolumna-pierwsza-container"><ul id="menu-kolumna-pierwsza" class="st7-overlay-menu-1"><li id="menu-item-138317" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138317"><a href="https://stacja7.pl/kategoria/z-kraju/">z kraju</a></li>
+<li id="menu-item-138318" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138318"><a href="https://stacja7.pl/kategoria/ze-swiata/">ze świata</a></li>
+<li id="menu-item-138319" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138319"><a href="https://stacja7.pl/kategoria/zwatykanu/">z watykanu</a></li>
+<li id="menu-item-138320" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138320"><a href="https://stacja7.pl/kategoria/modlitwa/">modlitwa</a></li>
+</ul></div>					<div class="st7-overlay-menu-social">
+						<a href="https://pl-pl.facebook.com/stacja7pl/">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>
+						</a>
+						<a href="https://twitter.com/Stacja7pl">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+							  <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+							</svg>
+						</a>
+						<a href="https://www.instagram.com/stacja7pl/?hl=pl">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+							  <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"/>
+							</svg>
+
+						</a>
+						<a href="/cdn-cgi/l/email-protection#f1839495909a929b90b1828590929b90c6df819d">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 12.713l-11.985-9.713h23.97l-11.985 9.713zm0 2.574l-12-9.725v15.438h24v-15.438l-12 9.725z"/></svg>
+						</a>
+					</div>
+				</div>
+				<div class="col-6 col-lg-3">
+					<h3>MAGAZYN</h3>
+					<div class="menu-kolumna-druga-container"><ul id="menu-kolumna-druga" class="st7-overlay-menu-2"><li id="menu-item-138321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138321"><a href="https://stacja7.pl/kategoria/jutro-niedziela/">jutro niedziela</a></li>
+<li id="menu-item-138322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138322"><a href="https://stacja7.pl/kategoria/wiara/">wiara</a></li>
+<li id="menu-item-138323" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138323"><a href="https://stacja7.pl/kategoria/swieci/">święci</a></li>
+<li id="menu-item-138324" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138324"><a href="https://stacja7.pl/kategoria/maryja/">Maryja</a></li>
+<li id="menu-item-147288" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-147288"><a href="https://stacja7.pl/wydania/">archiwum wydań</a></li>
+</ul></div>				</div>
+				<div class="col-6 col-lg-3">
+					<h3>STACJA7</h3>
+					<div class="menu-kolumna-trzecia-container"><ul id="menu-kolumna-trzecia" class="st7-overlay-menu-3"><li id="menu-item-138329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138329"><a href="https://dobroci.pl/">sklep dobroci.pl</a></li>
+<li id="menu-item-138330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138330"><a href="https://kreacja.stacja7.pl">stacja kreacja</a></li>
+<li id="menu-item-138333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138333"><a href="https://akademia.stacja7.pl">akademia dziennikarstwa</a></li>
+<li id="menu-item-138961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138961"><a href="https://stacja7.pl/praca/">praca</a></li>
+<li id="menu-item-139136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139136"><a href="https://stacja7.pl/zespol/">zespół</a></li>
+<li id="menu-item-139139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139139"><a href="https://stacja7.pl/kontakt/">kontakt</a></li>
+<li id="menu-item-208669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-208669"><a href="https://twojabiblia.pl/">twojabiblia.pl</a></li>
+</ul></div>				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="st7-page-nav">
+		<a href="https://stacja7.pl/"><img src="https://stacja7.pl/wp-content/themes/st7/assets/img/icon1.png" height="50" width="50"></a>
+		<a href="#" id="st7-back-top" class="back-to-top"><img src="https://stacja7.pl/wp-content/themes/st7/assets/img/icon2.png" height="50" width="50"></a>
+		<a href="#" id="st7-share" class="st7-share"><img src="https://stacja7.pl/wp-content/themes/st7/assets/img/icon3.png" height="50" width="50"></a>
+	</section>
+<section class="st7-donate">
+		<a href="https://kreacja.stacja7.pl/">Zatrudnij nas - StacjaKreacja</a>
+</section>
+
+<section class="st7-footer py-5">
+	<div class="st7-footer-before"></div>
+	<div class="container">
+	<div class="row justify-content-center">
+		<div class="col-lg-6">
+			<div class="row align-items-start">
+				<!-- lewa część: logo + social -->
+				<div class="col-md-7">
+					<a href="https://stacja7.pl/">
+						<svg enable-background="new 0 0 249.7 65.87" version="1.1" viewBox="0 0 249.7 65.87" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+							<path class="st0" d="m21.55 21.3c2.93 0 6.84 1.26 9.12 3.86l4.79-5.49c-3.12-3.3-7.96-5.12-12.99-5.12-8.24 0-12.57 5.35-12.57 9.77 0 6.05 5.86 8.15 10.19 9.63 2.7 0.93 4.65 1.77 4.65 3.26 0 1.21-1.02 2.56-3.68 2.56-4.14 0-8.33-1.86-10.57-4.7l-4.79 5.63c2.89 3.54 8.47 5.91 14.8 5.91 7.87 0 12.61-4.84 12.61-10.47s-5.91-7.91-10.33-9.36c-2.61-0.93-4.61-1.77-4.61-3.12 0.03-1.24 1.24-2.36 3.38-2.36z"/>
+							<polygon class="st0" points="63.22 22 64.76 15.02 39.39 15.02 37.81 22 46.52 22 41.25 46.07 49.26 46.07 54.52 22"/>
+							<path class="st0" d="m106.34 39.55c-4.84 0-7.87-3.35-7.87-7.54 0-5.73 4.24-10.43 9.63-10.43 3.44 0 6.14 1.86 7.03 4.98l7.73-2.51c-1.63-4.84-6-9.54-14.38-9.54-9.96 0-18.34 7.17-18.34 18.01 0 8.66 6.98 14.1 15.73 14.1 4.14 0 9.73-1.49 13.45-6.56l-6.24-4.1c-1.39 2.1-4.23 3.59-6.74 3.59z"/>
+							<path class="st0" d="m147.73 15.02h-8.13l-5.99 19.97c-0.96 2.62-2.41 4.09-5.01 3.93-1.86-0.12-2.94-0.87-4.23-2.17l-4.61 5.72c2.04 2.42 5.69 3.67 9.13 3.89 6.78 0.43 10.63-2.87 12.79-10.42l6.05-20.92z"/>
+							<path class="st0" d="m160.33 15.02-20.88 31.05h8.95l3.42-5.37 11.42 0.02 1.04 5.36h8.56l-4.88-31.05h-7.63zm-4.18 19.09 5.32-8.41 1.1 8.38-6.42 0.03z"/>
+							<path class="st0" d="m75.21 15.02-20.88 31.05h8.95l3.42-5.37 11.42 0.02 1.04 5.36h8.56l-4.88-31.05h-7.63zm-4.18 19.09 5.32-8.41 1.1 8.38-6.42 0.03z"/>
+							<path class="st0" d="m216.79 26.78h-8.84v19.28h5.37v-5.5h3.46c4.69 0 7.25-3.09 7.25-6.84 0-3.78-2.56-6.94-7.24-6.94zm-0.72 9.22h-2.74v-4.69h2.74c1.44 0 2.5 0.94 2.5 2.37 0 1.41-1.07 2.32-2.5 2.32z"/>
+							<polygon class="st0" points="231.67 41.24 231.67 26.78 226.29 26.78 226.29 46.06 240.77 46.06 240.77 41.24"/>
+							<polygon class="st0" points="174.93 33.48 188.87 33.48 176.12 56.63 185.08 56.63 197.81 33.48 197.81 26.79 174.93 26.79"/>
+							<rect class="st0" x="198.05" y="40.74" width="5.32" height="5.32"/>
+						</svg>
+					</a>
+					<div class="st7-footer-social-heading">Dołącz do społeczności <strong>Stacja7.pl</strong></div>
+					<div class="st7-overlay-menu-social">
+						<a href="https://pl-pl.facebook.com/stacja7pl/">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>
+						</a>
+						<a href="https://twitter.com/Stacja7pl">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+							  <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+							</svg>
+						</a>
+						<a href="https://www.instagram.com/stacja7pl/?hl=pl">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+							  <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"/>
+							</svg>
+
+						</a>
+						<a href="/cdn-cgi/l/email-protection#394b5c5d58525a5358794a4d585a53580e174955">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 12.713l-11.985-9.713h23.97l-11.985 9.713zm0 2.574l-12-9.725v15.438h24v-15.438l-12 9.725z"/></svg>
+						</a>
+					</div>
+				</div>
+
+				<!-- prawa część: Wesprzyj nas + numer rachunku -->
+				<div class="col-md-5">
+					<div class="st7-footer-support">
+						<div class="st7-footer-support-title">
+							Wesprzyj nas &gt;&gt;
+						</div>
+						<div class="st7-footer-support-account">
+							numer rachunku:<br>
+							NEST BANK<br>
+							60 1870 1045 2083 1081 4235 0001
+						</div>
+					</div>
+				</div>
+			</div><!-- /.row -->
+		</div>
+
+		<div class="col-lg-4">
+			<div class="row st7-footer-address">
+				<div class="col-lg-6 mb-4 d-none d-lg-block">
+					<span>Nasze projekty</span>
+				</div>
+				<div class="col-lg-6 mb-4 d-none d-lg-block">
+					<a href="https://kreacja.stacja7.pl" class="st7-footer-productions">
+						<svg version="1.1" class="st7-kreacja" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+							 viewBox="0 0 249.7 122.55" style="enable-background:new 0 0 249.7 122.55;" xml:space="preserve">
+
+						<path class="st0" d="M60.3,47.99h8.64c0,1.9,1.62,3.94,4.85,3.94c2.67,0,4.71-1.12,4.71-3.02c0-1.41-1.12-2.11-3.58-2.74l-4.36-1.05
+							c-8.43-2.25-9.56-6.96-9.56-10.4c0-5.06,5.27-9.77,12.86-9.77c5.97,0,13,2.95,12.93,10.68h-8.79c0-2.18-1.83-3.37-4.01-3.37
+							c-2.11,0-3.79,1.05-3.79,2.74c0,1.55,1.41,2.32,3.23,2.81l5.41,1.41c7.87,2.11,8.86,7.03,8.86,9.7c0,6.89-7.03,10.26-13.77,10.26
+							C67.05,59.16,60.37,55.23,60.3,47.99z"/>
+						<path class="st0" d="M108.04,32.88h-6.96v25.65h-9.21V32.88H85.9v-7.1h5.97V13.76h9.21v12.02h6.96V32.88z"/>
+						<path class="st0" d="M141.16,25.78v32.75h-9.21v-4.08c-2.32,3.23-6.89,4.71-10.54,4.71c-8.43,0-16.09-6.54-16.09-17.08
+							c0-10.54,7.66-17.08,16.09-17.08c3.8,0,8.22,1.41,10.54,4.71v-3.94H141.16z M131.67,42.08c0-5.06-4.22-8.43-8.5-8.43
+							c-4.64,0-8.5,3.58-8.5,8.43c0,4.78,3.87,8.5,8.5,8.5C127.67,50.59,131.67,47.07,131.67,42.08z"/>
+						<path class="st0" d="M142.3,42.01c0-10.4,8.43-17.08,17.99-17.08c5.97,0,10.75,2.81,13.85,7.03l-6.89,4.85
+							c-1.48-2.04-4.22-3.3-6.89-3.3c-5.2,0-8.72,3.72-8.72,8.5c0,4.85,3.51,8.58,8.72,8.58c2.67,0,5.41-1.27,6.89-3.3l6.89,4.85
+							c-3.09,4.29-7.87,7.03-13.85,7.03C150.74,59.16,142.3,52.42,142.3,42.01z"/>
+						<path class="st1" d="M175.96,19.07c0-3.09,2.74-5.48,5.9-5.48c3.23,0,5.76,2.39,5.76,5.48c0,3.09-2.53,5.55-5.76,5.55
+							C178.7,24.63,175.96,22.17,175.96,19.07z"/>
+						<path class="st0" d="M223.47,25.78v32.75h-9.21v-4.08c-2.32,3.23-6.89,4.71-10.54,4.71c-8.43,0-16.09-6.54-16.09-17.08
+							c0-10.54,7.66-17.08,16.09-17.08c3.79,0,8.22,1.41,10.54,4.71v-3.94H223.47z M213.98,42.08c0-5.06-4.22-8.43-8.5-8.43
+							c-4.64,0-8.5,3.58-8.5,8.43c0,4.78,3.87,8.5,8.5,8.5C209.98,50.59,213.98,47.07,213.98,42.08z"/>
+						<path class="st0" d="M75.77,60.56l-2.11,8.79c-1.97-1.05-3.58-1.2-4.71-1.2c-4.71,0-7.94,4.36-7.94,13.71V93.1h-9.21V60.35h9.14
+							v6.96c1.83-5.48,5.55-7.8,9.63-7.8C72.33,59.5,74.3,59.79,75.77,60.56z"/>
+						<path class="st0" d="M106.15,79.68H81.41c0.98,3.79,4.08,5.9,8.5,5.9c3.3,0,6.61-1.33,8.57-3.65l5.41,5.41
+							c-3.09,4.15-8.86,6.4-14.62,6.4c-10.05,0-17.43-6.89-17.43-17.01c0-10.61,8.01-17.22,17.43-17.22c9.35,0,17.01,6.61,17.01,16.66
+							C106.29,77.07,106.22,78.2,106.15,79.68z M97.08,73.7c-0.28-3.87-3.51-6.19-7.66-6.19c-3.73,0-7.03,1.76-8.01,6.19H97.08z"/>
+						<path class="st0" d="M141.17,60.35V93.1h-9.21v-4.08c-2.32,3.23-6.89,4.71-10.54,4.71c-8.43,0-16.09-6.54-16.09-17.08
+							c0-10.54,7.66-17.08,16.09-17.08c3.8,0,8.22,1.41,10.54,4.71v-3.94H141.17z M131.68,76.65c0-5.06-4.22-8.43-8.5-8.43
+							c-4.64,0-8.5,3.58-8.5,8.43c0,4.78,3.87,8.5,8.5,8.5C127.67,85.16,131.68,81.64,131.68,76.65z"/>
+						<path class="st0" d="M142.31,76.58c0-10.4,8.43-17.08,17.99-17.08c5.97,0,10.75,2.81,13.85,7.03l-6.89,4.85
+							c-1.48-2.04-4.22-3.3-6.89-3.3c-5.2,0-8.72,3.72-8.72,8.5c0,4.85,3.51,8.58,8.72,8.58c2.67,0,5.41-1.27,6.89-3.3l6.89,4.85
+							c-3.09,4.29-7.87,7.03-13.85,7.03C150.74,93.73,142.31,86.98,142.31,76.58z"/>
+						<path class="st0" d="M167.01,100.62h4.01c3.65,0,5.2-3.02,5.2-6.75V60.35h9.21v33.59c0,9.63-4.85,15.25-14.13,15.25h-4.29V100.62z"
+							/>
+						<path class="st0" d="M223.48,60.35V93.1h-9.21v-4.08c-2.32,3.23-6.89,4.71-10.54,4.71c-8.43,0-16.09-6.54-16.09-17.08
+							c0-10.54,7.66-17.08,16.09-17.08c3.79,0,8.22,1.41,10.54,4.71v-3.94H223.48z M213.99,76.65c0-5.06-4.22-8.43-8.5-8.43
+							c-4.64,0-8.5,3.58-8.5,8.43c0,4.78,3.87,8.5,8.5,8.5C209.99,85.16,213.99,81.64,213.99,76.65z"/>
+						<polygon class="st0" points="38.3,74.76 51.09,60.35 39.28,60.35 30.99,70.33 30.99,48.38 21.78,48.38 21.78,93.1 30.99,93.1 
+							30.99,78.9 42.51,93.1 53.97,93.1 "/>
+						</svg>
+					</a>
+				</div>
+				<div class="col-lg-12 mb-4">
+					<strong>Redaktor naczelna</strong><br/>
+					<a href="https://stacja7.pl/autor/aneta-liberacka/">Aneta Liberacka</a>
+				</div>
+				<div class="col-lg-6 mb-4">
+					<strong>Portal Stacja7.pl</strong><br/>
+					<a href="/cdn-cgi/l/email-protection#22504746434941484362515643414843150c524e"><span class="__cf_email__" data-cfemail="77051213161c141d1637040316141d164059071b">[email&#160;protected]</span></a><br/>
+					ul. Ostatnia 1C/B17<br/>
+					31-444 Kraków<br/>
+				</div>
+				<div class="col-lg-6 mb-4">
+<!-- 					<strong>Wydawnictwo Stacja7</strong><br/>
+					wydawnictwo@stacja7.pl<br/>
+					511 827 700<br/>
+					ul. Długa 48/38<br/>
+					31-147 Kraków<br/> -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row justify-content-center mb-5 st7-footer-links d-none d-lg-flex">
+		<div class="col-lg-3">
+			<div>
+				<h4>Wydawnictwo<br/>
+				Stacja7<br/></h4>
+				<a href="https://dobroci.pl/wydawnictwo-s7/">Zobacz nasze książki >></a>
+			</div>
+		</div>
+		<div class="col-lg-3">
+			<div>
+				<h4>Sklep<br/>
+				Stacji7<br/></h4>
+				<a href="https://dobroci.pl/">Dobroci.pl >></a>
+			</div>
+		</div>
+		<div class="col-lg-3">
+			<div>
+				<h4>Zamów stronę<br/>
+				www<br/></h4>
+				<a href="https://kreacja.stacja7.pl/">Nasze realizacje >></a>
+			</div>
+		</div>
+		<div class="col-lg-3">
+			<div>
+				<h4>Serwis<br/>
+				Stacji7<br/></h4>
+				<a href="/cdn-cgi/l/email-protection#751411181c1b35060114161f14425b0519">Zgłoś problem >></a>
+			</div>
+		</div>
+	</div>
+	<div class="row justify-content-center">
+		<div class="col-lg-2 st7-copyright">
+			copyright <a href="https://stacja7.pl/">Stacja7.pl</a>
+		</div>
+		<div class="col-lg-8">
+			<div class="menu-stopka-container"><ul id="menu-stopka" class="st7-footer-nav"><li id="menu-item-138633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138633"><a href="https://stacja7.pl/polityka-prywatnosci/">Polityka prywatności</a></li>
+<li id="menu-item-138928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138928"><a href="https://stacja7.pl/praca/">Praca</a></li>
+<li id="menu-item-138634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138634"><a href="https://stacja7.pl/regulamin/">Regulamin</a></li>
+<li id="menu-item-138635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138635"><a href="https://stacja7.pl/regulamin-blogownii/">Regulamin blogowni</a></li>
+<li id="menu-item-138962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138962"><a href="https://stacja7.pl/zespol/">Zespół</a></li>
+<li id="menu-item-139135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139135"><a href="https://stacja7.pl/kontakt/">Kontakt</a></li>
+</ul></div>		</div>
+	</div>
+</div>
+</section>
+
+	<section id="st7-overlay-search" style="display: none;">
+		<form role="search" method="get" class="search-form" action="https://stacja7.pl/">
+               <label>
+                    <span class="screen-reader-text">Szukaj:</span>
+                    <input type="search" class="search-field" placeholder="szukaj..." value="" name="s" />
+                </label>
+				<button type="submit"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M23.822 20.88l-6.353-6.354c.93-1.465 1.467-3.2 1.467-5.059.001-5.219-4.247-9.467-9.468-9.467s-9.468 4.248-9.468 9.468c0 5.221 4.247 9.469 9.468 9.469 1.768 0 3.421-.487 4.839-1.333l6.396 6.396 3.119-3.12zm-20.294-11.412c0-3.273 2.665-5.938 5.939-5.938 3.275 0 5.94 2.664 5.94 5.938 0 3.275-2.665 5.939-5.94 5.939-3.274 0-5.939-2.664-5.939-5.939z"></path></svg></button>
+            </form>
+	</section>
+
+	<section id="st7-cookie-consent">
+	<div class="inner">
+		<div class="scrollable cookies-info">
+			<h4>Drogi Użytkowniku,</h4>
+
+			<p>Poniżej znajdują się podstawowe informacje dotyczące przetwarzania danych podanych przez Ciebie podczas korzystania z naszych usług. Klikając przycisk „Przejdź do serwisu” wyrażasz zgodę na przetwarzanie Twoich danych przez naszych partnerów reklamowych w celach opisanych poniżej.</p>
+
+			<p>Możesz także zdecydować, czy wyrazić zgodę w „Ustawieniach prywatności”. Bez dokonania zmiany w „Ustawieniach prywatności” Twoje dane będą przetwarzane również przez nas na podstawie prawnie uzasadnionego interesu administratora danych lub przez naszych partnerów (jeśli wybrali taką podstawę przetwarzania Twoich danych), we wskazanych poniżej celach. Przetwarzanie to nie wymaga Twojej zgody, ale w każdej chwili możesz się jej sprzeciwić.</p>
+
+			<h5>Korzystanie z plików cookie i innych technologii</h5>
+
+			<p>Zarówno my, jak i nasi partnerzy używamy plików cookie i innych powiązanych technologii, które zbierają informacje o odwiedzanych stronach internetowych, lokalizacji urządzenia i służą do:</p>
+
+			<ul>
+				<li>zapewnienia bezpieczeństwa podczas korzystania z naszych stron,</li>
+				<li>ulepszania świadczonych przez nas usług poprzez wykorzystywanie danych do celów analitycznych i statystycznych,</li>
+				<li>poznania Twoich preferencji na podstawie sposobu, w jaki korzystasz z naszych usług,</li>
+				<li>wyświetlania spersonalizowanych reklam, które odpowiadają Twoim zainteresowaniom.</li>
+			</ul>
+
+			<p>
+			Możesz określić zakres korzystania z plików cookies w ustawieniach swojej przeglądarki. Bez zmiany ustawień wyrażasz zgodę na zapisywanie informacji zawartych w plikach cookies, a następnie zapisanie ich w pamięci Twojego urządzenia, a my oraz nasi partnerzy mamy dostęp do tych informacji. Więcej szczegółów znajdziesz w Polityce Cookies.</p>
+
+			<h5>Jak wykorzystujemy Twoje informacje</h5>
+
+			<p>W ramach świadczonych przez nas usług staramy się wyświetlać reklamy dopasowane do Twoich zainteresowań, które dotyczą naszych produktów oraz produktów klientów korzystających z naszych usług reklamowych (marketing bezpośredni). W tym celu wykorzystujemy informacje zapisane w plikach cookies, które otrzymujemy podczas korzystania z naszych witryn.</p>
+
+			<p>Informacje o aktywności użytkowników w naszych serwisach mogą być również wykorzystywane do personalizowania treści i dostosowania ich do oczekiwanych preferencji użytkowników. Odbywa się to poprzez przypisanie użytkowników do określonych kategorii treści dostępnych w danym serwisie na podstawie ich aktywności w serwisie.</p>
+
+			<p>Nasze działania podejmujemy zgodnie z obowiązującymi przepisami prawa w ramach tzw. prawnie uzasadnionego interesu administratora danych, gdyż zależy nam na tym, aby wszystkie nasze usługi były jak najlepiej dopasowane do potrzeb użytkownika. Podstawowe zasady korzystania z naszych usług określa niniejszy regulamin.</p>
+
+			<p>Administratorem Twoich danych osobowych jest Stacja7 Sp. z o.o. z siedzibą w Krakowie przy ulicy Ostatniej 1C/B17. Możesz skontaktować się z nami za pośrednictwem tej strony internetowej i sprzeciwić się tego typu działaniom w dowolnym momencie.</p>
+
+			<h5>Wykorzystanie Twoich informacji przez naszych partnerów</h5>
+
+			<p>Podobne działania w celach marketingowych podejmują również nasi partnerzy, którym udostępniamy miejsce reklamowe w naszych serwisach. Naszymi partnerami są dostawcy technologii reklamowych, sieci reklamowe, domy mediowe, agencje interaktywne i reklamodawcy.</p>
+
+			<p>Nasi partnerzy zbierają i wykorzystują informacje, które określają, w jaki sposób korzystasz z naszych usług. Dzięki temu mogą wyświetlać reklamy najbardziej adekwatne do pozyskanych informacji i udostępniać je innym podmiotom wyświetlającym lub zlecającym reklamy w Internecie.</p>
+
+			<p>Cele przetwarzania Twoich danych przez naszych partnerów są następujące:</p>
+			<ul>
+				<li>przechowywania informacji na urządzeniach lub uzyskiwania do nich dostępu,</li>
+				<li>wybór reklam podstawowych,</li>
+				<li>wybór reklam spersonalizowanych,</li>
+				<li>tworzenie profilu reklam spersonalizowanych,</li>
+				<li>tworzenia profilu spersonalizowanych treści,</li>
+				<li>dobieranie spersonalizowanych treści,</li>
+				<li>mierzenie skuteczności reklam,</li>
+				<li>mierzenie wydajności treści,</li>
+				<li>prowadzenie badań rynku w celu generowania opinii odbiorców,</li>
+				<li>opracowywanie i ulepszanie produktów,</li>
+				<li>zapewnienie bezpieczeństwa, zapobieganie oszustwom i usuwanie błędów,</li>
+				<li>technicznego dostarczania reklam lub treści.</li>
+			</ul>
+
+			<p>W ramach specjalnych funkcji i funkcjonalności nasi partnerzy mogą podejmować następujące działania:</p>
+
+			<ul>
+				<li>dopasowywanie i łączenie źródeł danych offline,</li>
+				<li>łączenie różnych urządzeń,</li>
+				<li>korzystanie z dokładnych danych geolokalizacyjnych,</li>
+				<li>odbieranie i wykorzystywanie do identyfikacji automatycznie przesyłanych charakterystyk urządzeń.</li>
+			</ul>
+
+			<p>Do podjęcia powyższych działań nasi partnerzy wymagają Twojej zgody, którą możesz wyrazić klikając przycisk „Przejdź do serwisu”. Każda zgoda jest Twoją dobrowolną decyzją, jednak jej nieudzielenie może wpłynąć na Twój komfort korzystania z naszych usług. Reklamy niedopasowane do zainteresowań użytkownika są nie tylko nieatrakcyjne, ale i irytujące dla odbiorcy. Niektórzy z naszych partnerów wskazują również na swój prawnie uzasadniony interes polegający na przetwarzaniu podanych przez Ciebie danych, w tym w celach analitycznych pozwalających na ocenę skuteczności działań marketingowych.</p>
+
+		</div>
+
+		<div class="scrollable cookies-settings">
+			<h4>Ustawienia prywatności</h4>
+
+			<p>Poniżej możesz dostosować swoje ustawienia dotyczące przetwarzania danych, które podajesz podczas korzystania z naszych usług i korzystania z nich w poniższych celach. Informacje przetwarzane za pomocą plików cookies lub innych podobnych technologii dotyczą aktywności użytkownika na odwiedzanych stronach internetowych, historii odwiedzin oraz informacji o lokalizacji urządzenia.</p>
+
+			<p>Możesz określić swoje preferencje dotyczące wykorzystania informacji zawartych w marketingowych plikach cookies przez naszych <a href="https://stacja7.pl/207828-2/">Zaufanych Partnerów</a> (wycofanie zgody na przetwarzanie informacji zapisanych w plikach cookies).</p>
+
+			<div class="toggle-wrapper">
+				<p>Niezbędne pliki cookie <span>(wymagane)</span></p>
+				<label class="toggle" for="st7-cookie-toggle1">
+				    <input class="toggle__input" checked name="" type="checkbox" disabled id="st7-cookie-toggle1"/>
+				    <span class="toggle__fill"></span>
+				</label>
+			</div>
+			<div class="toggle-wrapper">
+				<p>Funkcjonalne pliki cookie <span>(wymagane)</span></p>
+				<label class="toggle" for="st7-cookie-toggle2">
+				    <input class="toggle__input" checked name="" type="checkbox" disabled id="st7-cookie-toggle2"/>
+				    <span class="toggle__fill"></span>
+				</label>
+			</div>
+			<div class="toggle-wrapper">
+				<p>Marketingowe pliki cookie, pozwalające na dostarczanie treści reklamowych przez <a href="#">Zaufanych Partnerów</a> </p>
+				<label class="toggle" for="st7-cookie-toggle3">
+				    <input class="toggle__input" checked name="" type="checkbox" id="st7-cookie-toggle3"/>
+				    <span class="toggle__fill"></span>
+				</label>
+			</div>
+
+			<p>Szczegółową specyfikację wykorzystywanych przez nas plików cookies oraz <a href="https://stacja7.pl/207828-2/">listę Zaufanych Partnerów</a> znajdziesz w naszej <a href="https://stacja7.pl/polityka-prywatnosci/">Polityce Prywatności</a>.</p>
+		</div>
+
+		<div class="button-holder">
+			<button class="btn button-accept">Przejdź do serwisu</button>
+			<button class="btn button-settings">Ustawienia prywatności</button>
+			<button class="btn button-back">Powrót</button>
+		</div>			
+	</div>
+</section>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/st7/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script>
+				var cookieConsentWindow = document.getElementById("st7-cookie-consent");
+			window.rodo_status = "1";
+			adsConsent = getCookie("st7-ads-consent");
+			if(adsConsent == "") {
+				cookieConsentWindow.classList.add("open");
+			} else if(adsConsent == 1) {
+				window.rodo_status = "1";
+				window.dispatchEvent(adsEvent);
+			} else if(adsConsent == 0) {
+				window.rodo_status = "4";
+				window.dispatchEvent(adsEvent);
+			}
+			
+			var rodoAPI = {
+				getStatus: function() {
+					return window.rodo_status;
+				},
+				onFinish: function (callback) {
+					callback();
+				}
+			};
+		</script><script src="https://stacja7.pl/wp-content/plugins/contact-form-7-pipedrive-integration/resources/compiled/theme/js/app.js?id=1dc194e3c5334b505e74" id="cf7-pipedrive-theme-js"></script>
+<script src="https://stacja7.pl/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script src="https://stacja7.pl/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script src="https://stacja7.pl/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.4" id="swv-js"></script>
+<script id="contact-form-7-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-12-11 12:03:49+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);","lang":"pl"},"This contact form is placed in the wrong place.":["Ten formularz kontaktowy zosta\u0142 umieszczony w niew\u0142a\u015bciwym miejscu."],"Error:":["B\u0142\u0105d:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+//# sourceURL=contact-form-7-js-translations
+</script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/stacja7.pl\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script src="https://stacja7.pl/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.4" id="contact-form-7-js"></script>
+<script id="extcf7-conditional-field-script-js-extra">
+var extcf7_conditional_settings = {"animitation_status":"on","animitation_in_time":"250","animitation_out_time":"250","elementor_editor_mode":"false"};
+//# sourceURL=extcf7-conditional-field-script-js-extra
+</script>
+<script src="https://stacja7.pl/wp-content/plugins/extensions-for-cf7/assets/js/conditional-field.js?ver=3.4.0" id="extcf7-conditional-field-script-js"></script>
+<script id="extcf7-redirect-script-js-extra">
+var extcf7_redirection_settings = {"redirection_delay":"200"};
+//# sourceURL=extcf7-redirect-script-js-extra
+</script>
+<script src="https://stacja7.pl/wp-content/plugins/extensions-for-cf7/assets/js/redirect.js?ver=3.4.0" id="extcf7-redirect-script-js"></script>
+<script src="https://stacja7.pl/wp-content/plugins/extensions-for-cf7/assets/js/frontend.js?ver=3.4.0" id="extcf7-frontend-js-js"></script>
+<script id="pgc-simply-gallery-plugin-lightbox-script-js-extra">
+var PGC_SGB_LIGHTBOX = {"lightboxPreset":null,"postType":"post","lightboxSettigs":""};
+//# sourceURL=pgc-simply-gallery-plugin-lightbox-script-js-extra
+</script>
+<script src="https://stacja7.pl/wp-content/plugins/simply-gallery-block/plugins/pgc_sgb_lightbox.min.js?ver=3.3.2" id="pgc-simply-gallery-plugin-lightbox-script-js"></script>
+<script src="https://stacja7.pl/wp-content/plugins/extensions-for-cf7/assets/js/signature.min.js?ver=3.4.0" id="extcf7_signature-js"></script>
+<script src="https://stacja7.pl/wp-content/plugins/extensions-for-cf7/assets/js/signature-active.js?ver=3.4.0" id="extcf7_signature-active-js"></script>
+<script src="https://stacja7.pl/wp-content/themes/st7/assets/js/main.js?ver=2.0.126" id="st7-main-js"></script>
+<script src="https://stacja7.pl/wp-includes/js/wp-embed.min.js?ver=6.9" id="wp-embed-js" defer data-wp-strategy="defer"></script>
+<script async src="//www.instagram.com/embed.js"></script>
+<!-- <script src="https://v.24liveblog.com/24.js"></script> -->
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 7.7 on 2026-01-04 13:16:41 -->

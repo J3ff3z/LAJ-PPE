@@ -1,6 +1,6 @@
 HTTP/2 200 
 server: nginx
-date: Sun, 04 Jan 2026 15:02:59 GMT
+date: Sun, 04 Jan 2026 17:20:35 GMT
 content-type: text/html; charset=UTF-8
 expires: Thu, 19 Nov 1981 08:52:00 GMT
 cache-control: no-store, no-cache, must-revalidate
@@ -1267,10 +1267,20 @@ microadCompass.queue = microadCompass.queue || [];
     </a>
 </li>
                                                         <li class="c-headline-item ranking">
+<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767529934">
+                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/9c3bdd929ca6cf61c3e3788992dc9a1d695a635b5ad9b5_77873383_84bdceeb72b0d623257750920694b79591af3bf8.jpg" loading="lazy" alt="『魔女の旅々』新作劇場版アニメーション制作決定、特報公開！" width="1280" height="864"></div></div>
+        <div class="c-headline-meta">
+            <div class="c-headline-info">第<strong>2</strong>位</div>
+            <div class="c-headline-text">『魔女の旅々』新作劇場版アニメーション制作決定、特報公開！</div>
+            <div class="c-headline-date">2026-01-04 22:10</div>
+            <div class="c-label c-label--anime">アニメ</div>        </div>
+    </a>
+</li>
+                                                        <li class="c-headline-item ranking">
 <a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1766970402">
                 <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/48caccd8252de0ed19b39ae13437452a6951d841a9e5a7_63572145_58b20668fbcac144e263c8a48fdd2b1087570acd.jpg" loading="lazy" alt="『ダーウィン事変』うめざわしゅん＆種﨑敦美＆神戸光歩インタビュー" width="1280" height="864"></div></div>
         <div class="c-headline-meta">
-            <div class="c-headline-info">第<strong>2</strong>位</div>
+            <div class="c-headline-info">第<strong>3</strong>位</div>
             <div class="c-headline-text">『ダーウィン事変』うめざわしゅん＆種﨑敦美＆神戸光歩インタビュー</div>
             <div class="c-headline-date">2026-01-04 16:00</div>
             <div class="c-label c-label--anime">アニメ</div>        </div>
@@ -1280,7 +1290,7 @@ microadCompass.queue = microadCompass.queue || [];
 <a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767421485">
                 <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/e3990e792233fcfd9e2565efa1a787506958c78bb4d086_73527383_3bc0527128ab6fbfd99bf8165d7323ff623f43c3.jpg" loading="lazy" alt="『シーヴィス』第2クールOP＆ED映像（ノンクレ）解禁！追加声優に鳥海浩輔ら4名発表" width="1280" height="864"></div></div>
         <div class="c-headline-meta">
-            <div class="c-headline-info">第<strong>3</strong>位</div>
+            <div class="c-headline-info">第<strong>4</strong>位</div>
             <div class="c-headline-text">『シーヴィス』第2クールOP＆ED映像（ノンクレ）解禁！追加声優に鳥海浩輔ら4名発表</div>
             <div class="c-headline-date">2026-01-04 10:00</div>
             <div class="c-label c-label--anime">アニメ</div>        </div>
@@ -1290,19 +1300,9 @@ microadCompass.queue = microadCompass.queue || [];
 <a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767426354">
                 <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/c9b561284bb711e73821e46af0c10ece6958d1e0f3e486_95980487_b059f54c10f9f7ab14c22b3683b78c5f01ec89da.jpg" loading="lazy" alt="『ダーウィン事変』第1話「HUMANZEE」先行場面カット＆あらすじ" width="1000" height="675"></div></div>
         <div class="c-headline-meta">
-            <div class="c-headline-info">第<strong>4</strong>位</div>
+            <div class="c-headline-info">第<strong>5</strong>位</div>
             <div class="c-headline-text">『ダーウィン事変』第1話「HUMANZEE」先行場面カット＆あらすじ</div>
             <div class="c-headline-date">2026-01-04 18:00</div>
-            <div class="c-label c-label--anime">アニメ</div>        </div>
-    </a>
-</li>
-                                                        <li class="c-headline-item ranking">
-<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767440375">
-                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/ff1ee44b5bc404b1a60c9e5dd7fe971969590602bf1dc3_66072178_61a19a19edcbd8b03c5b6e59b2d265301ff5dbed.jpg" loading="lazy" alt="『コウペンちゃん』第40話で花守ゆみり＆豊崎愛生がゲストキャラを担当！" width="1280" height="864"></div></div>
-        <div class="c-headline-meta">
-            <div class="c-headline-info">第<strong>5</strong>位</div>
-            <div class="c-headline-text">『コウペンちゃん』第40話で花守ゆみり＆豊崎愛生がゲストキャラを担当！</div>
-            <div class="c-headline-date">2026-01-04 08:30</div>
             <div class="c-label c-label--anime">アニメ</div>        </div>
     </a>
 </li>
@@ -1596,25 +1596,25 @@ microadCompass.queue = microadCompass.queue || [];
             <div class="c-label c-label--book">マンガ・ラノベ</div>          </div></a>
       </li>
           
-      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1766541081" id="times_ranking">
-          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/4bf1636c8bcb0be833c10f88db655c5b694b4775756870_14986731_3f456aec8595315939e9c21d1729b271b63ccdb0.png" loading="lazy" alt="【今年の注目作はこれ！】2026年放送・配信予定のアニメまとめ！" width="1280" height="864"></div></div>
-          <div class="c-headline-meta">
-            <div class="c-headline-info">
-              <div class="c-headline-ranking"><strong>4</strong>位</div>
-            </div>
-            <div class="c-headline-text">【今年の注目作はこれ！】2026年放送・配信予定のアニメまとめ！</div>
-            <div class="c-headline-date">2026/01/01 15:00</div>
-            <div class="c-label c-label--anime">アニメ</div>          </div></a>
-      </li>
-          
       <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1764923995" id="times_ranking">
           <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/c3e965db1a1316571978d3acc1e483d26951eb2fcad850_51044715_a08dc31ce06369be757b5028ab537aed5a103dfb.png" loading="lazy" alt="今期・2026冬アニメ おすすめランキングまとめ！結果発表！" width="642" height="434"></div></div>
           <div class="c-headline-meta">
             <div class="c-headline-info">
-              <div class="c-headline-ranking"><strong>5</strong>位</div>
+              <div class="c-headline-ranking"><strong>4</strong>位</div>
             </div>
             <div class="c-headline-text">今期・2026冬アニメ おすすめランキングまとめ！結果発表！</div>
             <div class="c-headline-date">2025/12/29 12:00</div>
+            <div class="c-label c-label--anime">アニメ</div>          </div></a>
+      </li>
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1766541081" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/4bf1636c8bcb0be833c10f88db655c5b694b4775756870_14986731_3f456aec8595315939e9c21d1729b271b63ccdb0.png" loading="lazy" alt="【今年の注目作はこれ！】2026年放送・配信予定のアニメまとめ！" width="1280" height="864"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>5</strong>位</div>
+            </div>
+            <div class="c-headline-text">【今年の注目作はこれ！】2026年放送・配信予定のアニメまとめ！</div>
+            <div class="c-headline-date">2026/01/01 15:00</div>
             <div class="c-label c-label--anime">アニメ</div>          </div></a>
       </li>
           
@@ -1651,25 +1651,25 @@ microadCompass.queue = microadCompass.queue || [];
             <div class="c-label c-label--anime">アニメ</div>          </div></a>
       </li>
           
-      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1736409333" id="times_ranking">
-          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/01/b9dcfe163fd339a3ccd373ef793f3def6788a8239344f1_20389002_97bd01e7b9103c72202eea6df987f4791ba178f3.png" loading="lazy" alt="『呪術廻戦』キャラクター一覧・情報まとめ【死滅回游編 2026年1月放送】" width="1280" height="864"></div></div>
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1655345898" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2022/10/b636a1026eaca3470803983d4525cfd2638ee99ce9c6d1_38221553_be1f80ca039223aba31f6ac249702475f36ca5bb.jpg" loading="lazy" alt="【2025年版】面白い神アニメおすすめランキング【35選】｜ジャンル別人気作品をピックアップ" width="1280" height="864"></div></div>
           <div class="c-headline-meta">
             <div class="c-headline-info">
               <div class="c-headline-ranking"><strong>9</strong>位</div>
             </div>
-            <div class="c-headline-text">『呪術廻戦』キャラクター一覧・情報まとめ【死滅回游編 2026年1月放送】</div>
-            <div class="c-headline-date">2025/01/16 18:00</div>
+            <div class="c-headline-text">【2025年版】面白い神アニメおすすめランキング【35選】｜ジャンル別人気作品をピックアップ</div>
+            <div class="c-headline-date">2024/06/25 00:00</div>
             <div class="c-label c-label--anime">アニメ</div>          </div></a>
       </li>
           
-      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1632474803" id="times_ranking">
-          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2023/06/7abbcebcec214c7ed7816851c91a1766687075557c1743_71366936_4020709f52ab4c301fbca1d5c5eae9c5ea14509c.jpg" loading="lazy" alt="『鬼滅の刃』十二鬼月（上弦の鬼、下弦の鬼）メンバーを一覧で紹介＆解説（登場鬼の情報まとめ）" width="1280" height="864"></div></div>
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1736409333" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/01/b9dcfe163fd339a3ccd373ef793f3def6788a8239344f1_20389002_97bd01e7b9103c72202eea6df987f4791ba178f3.png" loading="lazy" alt="『呪術廻戦』キャラクター一覧・情報まとめ【死滅回游編 2026年1月放送】" width="1280" height="864"></div></div>
           <div class="c-headline-meta">
             <div class="c-headline-info">
               <div class="c-headline-ranking"><strong>10</strong>位</div>
             </div>
-            <div class="c-headline-text">『鬼滅の刃』十二鬼月（上弦の鬼、下弦の鬼）メンバーを一覧で紹介＆解説（登場鬼の情報まとめ）</div>
-            <div class="c-headline-date">2023/06/20 00:00</div>
+            <div class="c-headline-text">『呪術廻戦』キャラクター一覧・情報まとめ【死滅回游編 2026年1月放送】</div>
+            <div class="c-headline-date">2025/01/16 18:00</div>
             <div class="c-label c-label--anime">アニメ</div>          </div></a>
       </li>
         </ul>
@@ -2338,5 +2338,5 @@ var Gianism = {"admin":""};
           </body>
 </html>
 
-<!-- page cached by KUSANAGI. Cache created : 14:50:34(GMT). Expire : 15:05:34(GMT). -->
+<!-- page cached by KUSANAGI. Cache created : 17:09:34(GMT). Expire : 17:24:34(GMT). -->
 <!-- CacheID : b80a5a8848d1ee543e769b77fdef7bbc -->

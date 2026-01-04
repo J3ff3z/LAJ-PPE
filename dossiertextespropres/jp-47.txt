@@ -1,60 +1,32 @@
 
-last - modified :   Fri ,   02   Jan   2026   16 : 43 : 00   GMT   link :   / api 2 . amplitude . com / > ; 
 
-rel = preconnect ;   crossorigin = anonymous   link : 
+      
 
-/ services . fandom . com / icbm / api / config ? app = fandomnoads & compact = true > ;   rel = preload ; 
+;   default - src   ' self '   data :   blob :   
 
+  https :   ' self '   data :   blob : 
 
+      
 
+;   style - src   ' self '   data :   blob :   
 
+  https :   ' self '   data :   blob : 
 
-internal - soap . gamepedia .com   www. fandom .com   www. wikia .com   www. wikia . org 
+      
 
-www. gamepedia . com ;   default - src   ' self '   data :   blob :   https : / / images . wikia . com 
+/ / > ;   rel = preconnect ;   crossorigin = anonymous   link : 
 
-https : / / static . wikia . nocookie .net   https :   ' self '   data :   blob : 
+/ / icbm / api / config ? app = fandomnoads & compact = true > ;   rel = preload ; 
 
+2026   17 : 12 : 51   GMT   nel : 
 
-internal - soap . gamepedia .com   www. fandom .com   www. wikia .com   www. wikia . org 
+domain = . ;   path = / ;   expires = Tue ,   04   Jan   2028   17 : 23 : 40   GMT ;   set - cookie : 
 
-www. gamepedia . com ;   style - src   ' self '   data :   blob :   https : / / images . wikia . com 
-
-https : / / static . wikia . nocookie .net   https :   ' self '   data :   blob : 
-
-
-internal - soap . gamepedia .com   www. fandom .com   www. wikia .com   www. wikia . org 
-
-
-
-
-
-report - to : 
-
-
-ttps : / / services . fandom . com / browser - errors / report " } ] }   nel : 
-
-
-
-
-
-
-
-
-
-
-
-includeSubDomains   server - timing :   dc ; desc = " res " ,   roaa ; desc = " active " , 
-
-roaadc ; desc = " res " ,   roaareason ; desc = " read _ closest " ,   roaavariant ; desc = " none " 
-
-set - cookie : 
+server - timing :   dc ; desc = " res " ,   roaa ; desc = " active " ,   roaadc ; desc = " res " , 
 
 Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville % 22 % 2 C % 22 country _ name % 22 : 
 
 % 22 france % 22 % 2 C % 22 country % 22 : % 22 FR % 22 % 2 C % 22 continent % 22 : % 22 EU % 22 } ;   path = / ; 
-
-
 
 フィード 
 
@@ -70,15 +42,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
 
 
-
-
-
-
-
-
-
-
-
     o   旅人 
 
     o   アンバー 
@@ -89,8 +52,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   キャラクター の 比較 
 
-
-
     o   パイモン 
 
     o   キャサリン 
@@ -98,7 +59,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   無名 の 神 
 
     o   注目 の NPC 
-
 
     o   七 神 
 
@@ -113,9 +73,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   スメール 教令 院 
 
     o   ファデュイ 
-
-
-
 
     o   キャラ 実戦 紹介 
 
@@ -133,8 +90,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   バージョン 予告 PV 
 
-
-
     o   モンド 
 
     o   璃月 
@@ -151,7 +106,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   カーンルイア 
 
-
     o   年表 
 
     o   漫画 
@@ -164,7 +118,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   コミックス 
 
-
     o   魔神 任務 
 
     o   伝説 任務 
@@ -176,7 +129,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   デート イベント 
 
     o   イベント 任務 
-
 
     o   バージョン 情報 
 
@@ -196,19 +148,13 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   イベント 履歴 
 
-
     o   秘境 
-
-
-
-
 
     o   地 脈 の 花芽 
 
     o   探索 
 
     o   深 境 螺旋 
-
 
     o   普通 の 敵 
 
@@ -219,7 +165,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   週 BOSS 
 
     o   野生 生物 
-
 
     o   ギフト パック ショップ 
 
@@ -235,8 +180,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   釣り 協会 
 
-
-
     o   片手 剣 
 
     o   長柄 武器 
@@ -249,11 +192,9 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   武器 強化 素材 
 
-
     o   聖 遺物 セット 一覧 
 
     o   聖 遺物 経験 
-
 
     o   キャラ 経験値 素材 
 
@@ -267,7 +208,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   武器 突破 素材 
 
-
     o   地域 の 特産 
 
     o   食材 
@@ -278,7 +218,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   栽培 素材 
 
-
     o   食べ物 
 
     o   薬剤 
@@ -287,12 +226,7 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   変転 の 塵 
 
-
-
     o   天然 樹脂 
-
-
-
 
     o   名刺 の 飾り 紋 
 
@@ -308,8 +242,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   調度品 
 
-
-
     o   ステータス 
 
     o   元素 
@@ -319,7 +251,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   天賦 
 
     o   命 ノ 星座 
-
 
     o   冒険 ランク 
 
@@ -337,7 +268,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   七 聖 召喚 
 
-
     o   七 天神 像 
 
     o   神 の 瞳 
@@ -349,7 +279,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   マップ 
 
     o   釣り 
-
 
     o   祈願 
 
@@ -363,7 +292,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   キャラクター 服装 
 
-
     o   調理 
 
     o   食材 加工 
@@ -373,7 +301,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   合成 
 
     o   製作 
-
 
     o   アカウント 
 
@@ -394,7 +321,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   チュートリアル 
 
     o   展望 
-
 
     o   原 神 
 
@@ -416,11 +342,7 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
 
 
-
 ログイン 
-
-
-
 
 
 
@@ -436,18 +358,9 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
 原 神   Wiki 
 
-14,465 
+14,466 
 
 ページ 
-
-
-
-
-
-
-
-
-
 
 
 
@@ -461,8 +374,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   キャラクター の 比較 
 
-
-
     o   パイモン 
 
     o   キャサリン 
@@ -470,7 +381,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   無名 の 神 
 
     o   注目 の NPC 
-
 
     o   七 神 
 
@@ -485,9 +395,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   スメール 教令 院 
 
     o   ファデュイ 
-
-
-
 
     o   キャラ 実戦 紹介 
 
@@ -505,8 +412,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   バージョン 予告 PV 
 
-
-
     o   モンド 
 
     o   璃月 
@@ -523,7 +428,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   カーンルイア 
 
-
     o   年表 
 
     o   漫画 
@@ -536,7 +440,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   コミックス 
 
-
     o   魔神 任務 
 
     o   伝説 任務 
@@ -548,7 +451,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   デート イベント 
 
     o   イベント 任務 
-
 
     o   バージョン 情報 
 
@@ -568,19 +470,13 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   イベント 履歴 
 
-
     o   秘境 
-
-
-
-
 
     o   地 脈 の 花芽 
 
     o   探索 
 
     o   深 境 螺旋 
-
 
     o   普通 の 敵 
 
@@ -591,7 +487,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   週 BOSS 
 
     o   野生 生物 
-
 
     o   ギフト パック ショップ 
 
@@ -607,8 +502,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   釣り 協会 
 
-
-
     o   片手 剣 
 
     o   長柄 武器 
@@ -621,11 +514,9 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   武器 強化 素材 
 
-
     o   聖 遺物 セット 一覧 
 
     o   聖 遺物 経験 
-
 
     o   キャラ 経験値 素材 
 
@@ -639,7 +530,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   武器 突破 素材 
 
-
     o   地域 の 特産 
 
     o   食材 
@@ -650,7 +540,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   栽培 素材 
 
-
     o   食べ物 
 
     o   薬剤 
@@ -659,12 +548,7 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   変転 の 塵 
 
-
-
     o   天然 樹脂 
-
-
-
 
     o   名刺 の 飾り 紋 
 
@@ -680,8 +564,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   調度品 
 
-
-
     o   ステータス 
 
     o   元素 
@@ -691,7 +573,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   天賦 
 
     o   命 ノ 星座 
-
 
     o   冒険 ランク 
 
@@ -709,7 +590,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   七 聖 召喚 
 
-
     o   七 天神 像 
 
     o   神 の 瞳 
@@ -721,7 +601,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   マップ 
 
     o   釣り 
-
 
     o   祈願 
 
@@ -735,7 +614,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   キャラクター 服装 
 
-
     o   調理 
 
     o   食材 加工 
@@ -745,7 +623,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
     o   合成 
 
     o   製作 
-
 
     o   アカウント 
 
@@ -767,7 +644,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
     o   展望 
 
-
     o   原 神 
 
     o   miHoYo 
@@ -780,27 +656,13 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
 
 
-
 分類 :   天賦 、 神里 綾華 の 天賦 、 固有 天賦 1 、 
 
 および   6 ページ 
 
 
 
-
-
-
-
-
-
 日本語 
-
-
-
-
-
-
-
 
 
 
@@ -809,11 +671,6 @@ Geo = { % 22 region % 22 : % 22 IDF % 22 % 2 C % 22 city % 22 : % 22 alfortville
 
 
 編集 
-
-
-
-
-
 
 
 
@@ -853,20 +710,15 @@ Talent   Amatsumi   Kunitsumi   Sanctification
 
 
 
-
-
 神 里流 ・ 氷華 を 発動 し た 後 の 6 秒間 、 神里 綾華 の 通常 攻撃 と 重 撃 の ダメージ + 30 % 。 
 
 効用 
 
 
 
-
-
-
 天 つ 罪 ・ 国 つ 罪 の 鎮 詞 は 、 神里 綾華 の 突破 段階 1 の 固有 。 
 
- 
+
 
 
 
@@ -876,11 +728,7 @@ Talent   Amatsumi   Kunitsumi   Sanctification
 
 
 
-
-
-
-
-プレビュー  
+プレビュー 
 
 
 
@@ -888,7 +736,7 @@ Talent   Amatsumi   Kunitsumi   Sanctification
 
 ( プレビュー 設定 ) 
 
-Media : Amatsumi   Kunitsumi   Sanctification   Preview . mp 4 
+Media : Amatsumi   Kunitsumi   Sanctification   
 
 Amatsumi   Kunitsumi   Sanctification   Preview   Amatsumi   Kunitsumi   Sanctification 
 
@@ -896,7 +744,7 @@ Preview
 
 
 
-その 他 の 言語  
+その 他 の 言語 
 
 
 
@@ -932,7 +780,6 @@ Osvyashcheniye   amatsumi   kunitsumi
 
 ベトナム語   Lời   Phán   Amatsumi   Kunitsumi 
 
-
 インドネシア 語   Amatsumi   Kunitsumi   Sanctification 
 
 ポルトガル語   Amatsutsumi   Kunitsutsumi   Chinshi 
@@ -949,17 +796,17 @@ Osvyashcheniye   amatsumi   kunitsumi
 
 
 
-変更 履歴  
+変更 履歴 
 
 
 
-Ver . 2 . 0 で リリース 
+で リリース 
 
 [ 新しい 履歴 の 作成 ] 
 
 
 
-ナビゲーション  
+ナビゲーション 
 
 
 
@@ -1059,27 +906,13 @@ Constellation   Dance   of   Suigetsu
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 言語 
 
 English   Español   Français   Português   do   Brasil   Русский   ไทย   Tiếng   Việt 
 
 
 
-
 広告 
-
 
 
 
@@ -1091,15 +924,7 @@ English   Español   Français   Português   do   Brasil   Русский   ไ
 
 
 
-
-
-
-
-
-
 フォロー する 
-
-
 
 
 
@@ -1111,28 +936,13 @@ English   Español   Français   Português   do   Brasil   Русский   ไ
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 コミュニティ 
 
 
 
 
 
-
-
-
 広告 に つい て 
-
 
 
 
@@ -1148,8 +958,4 @@ Fandom アプリ
 
 
 
-
-
-
 原 神   Wiki は ゲーム ジャンル の Fandom コミュニティ です 。 
-

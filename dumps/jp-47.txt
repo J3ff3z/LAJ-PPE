@@ -1,9 +1,7 @@
-HTTP/2 200 accept-ch: x-datacenter: RES x-content-type-options: nosniff
-last-modified: Fri, 02 Jan 2026 16:43:00 GMT link: /api2.amplitude.com/>;
-rel=preconnect; crossorigin=anonymous link:
-/services.fandom.com/icbm/api/config?app=fandomnoads&compact=true>; rel=preload;
-as=fetch; crossorigin=anonymous x-envoy-upstream-service-time: 167 x-mobile-app:
-0 content-security-policy-report-only: script-src 'unsafe-eval' blob: 'self'
+HTTP/2 200 x-mobile-app: 0 x-ssexp: other report-to:
+{"group":"nel","max_age":604800,"include_subdomains":true,"endpoints":[{"url":"h
+ttps://services.fandom.com/browser-errors/report"}]} content-language: ja
+content-security-policy-report-only: script-src 'unsafe-eval' blob: 'self'
 https: 'self' data: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'
 internal-soap.wikia.com internal-soap.fandom.com internal-soap.wikia.org
 internal-soap.gamepedia.com www.fandom.com www.wikia.com www.wikia.org
@@ -17,24 +15,25 @@ internal-soap.wikia.com internal-soap.fandom.com internal-soap.wikia.org
 internal-soap.gamepedia.com www.fandom.com www.wikia.com www.wikia.org
 www.gamepedia.com 'unsafe-inline'; img-src * data: blob:; object-src 'none';
 report-uri https://services.fandom.com/csp-logger/csp/ucp; worker-src 'self'
-blob: content-type: text/html; charset=UTF-8 content-security-policy:
-upgrade-insecure-requests x-request-id: 6890de93fcef0504e5d6d3c72344ead5
-report-to:
-{"group":"nel","max_age":604800,"include_subdomains":true,"endpoints":[{"url":"h
-ttps://services.fandom.com/browser-errors/report"}]} nel:
+blob: x-content-type-options: nosniff x-datacenter: RES content-type: text/html;
+charset=UTF-8 x-request-id: bcbccbd456a2ede525fb3c8ac5f5bd6c link:
+/api2.amplitude.com/>; rel=preconnect; crossorigin=anonymous link:
+/services.fandom.com/icbm/api/config?app=fandomnoads&compact=true>; rel=preload;
+as=fetch; crossorigin=anonymous x-envoy-upstream-service-time: 841 accept-ch:
+content-security-policy: upgrade-insecure-requests last-modified: Sat, 03 Jan
+2026 17:12:51 GMT nel:
 {"report_to":"nel","max_age":604800,"include_subdomains":true,"failure_fraction"
-:0.01} x-ssexp: other content-language: ja x-cacheable: YES accept-ranges: bytes
-age: 80583 date: Sun, 04 Jan 2026 15:06:03 GMT x-served-by:
-cache-iad-kiad7000064-IAD, cache-iad-kiad7000064-IAD, cache-par-lfpg1960091-PAR
-x-cache: MISS, MISS, HIT x-cache-hits: 0, 0, 0 x-timer:
-S1767539163.394661,VS0,VE2 vary: Accept-Encoding, X-Mobile-App, X-Ssexp, Cookie
-server-timing: beacon;desc="DXbsr7Irp9", b2;desc="CDF-z0gdSD.1767539163395"
-set-cookie: exp_bucket=v7-12; domain=.fandom.com; path=/; expires=Tue, 04 Jan
-2028 15:06:03 GMT; set-cookie: exp_bucket_2=v5-78; domain=.fandom.com; path=/;
-expires=Tue, 04 Jan 2028 15:06:03 GMT; strict-transport-security: max-age=300;
-includeSubDomains server-timing: dc;desc="res", roaa;desc="active",
-roaadc;desc="res", roaareason;desc="read_closest", roaavariant;desc="none"
-set-cookie:
+:0.01} x-cacheable: YES accept-ranges: bytes age: 649 date: Sun, 04 Jan 2026
+17:23:40 GMT x-served-by: cache-iad-kiad7000064-IAD, cache-iad-kiad7000064-IAD,
+cache-par-lfpg1960024-PAR x-cache: MISS, MISS, HIT x-cache-hits: 0, 0, 0
+x-timer: S1767547421.737441,VS0,VE9 vary: Accept-Encoding, X-Mobile-App,
+X-Ssexp, Cookie server-timing: beacon;desc="41kw6NJoEF",
+b2;desc="tVDp4BnYuh.1767547420737" set-cookie: exp_bucket=v7-18;
+domain=.fandom.com; path=/; expires=Tue, 04 Jan 2028 17:23:40 GMT; set-cookie:
+exp_bucket_2=v5-77; domain=.fandom.com; path=/; expires=Tue, 04 Jan 2028
+17:23:40 GMT; strict-transport-security: max-age=300; includeSubDomains
+server-timing: dc;desc="res", roaa;desc="active", roaadc;desc="res",
+roaareason;desc="read_closest", roaavariant;desc="none" set-cookie:
 Geo={%22region%22:%22IDF%22%2C%22city%22:%22alfortville%22%2C%22country_name%22:
 %22france%22%2C%22country%22:%22FR%22%2C%22continent%22:%22EU%22}; path=/;
 domain=.fandom.com; SameSite=None; Secure; cache-control: private, s-maxage=0,
@@ -254,7 +253,7 @@ max-age=0, must-revalidate content-length: 294294 #編集 原神 Wiki (ja) 原�
 
 原神 Wiki
 原神 Wiki
-14,465
+14,466
 ページ
 
   * 探索

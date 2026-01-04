@@ -1,0 +1,237 @@
+HTTP/2 200 date: Sun, 04 Jan 2026 17:35:37 GMT server:
+mw-web.eqiad.canary-76d7c99c78-kw9hw x-content-type-options: nosniff
+content-language: pl accept-ch: last-modified: Sun, 04 Jan 2026 01:20:08 GMT
+content-type: text/html; charset=UTF-8 age: 2 accept-ranges: bytes x-cache:
+cp6015 miss, cp6016 miss x-cache-status: miss server-timing: cache;desc="miss",
+host;desc="cp6016" strict-transport-security: max-age=106384710;
+includeSubDomains; preload report-to: { "group": "wm_nel", "max_age": 604800,
+"endpoints": [{ "url":
+"https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_
+error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] } nel: { "report_to":
+"wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=04-Jan-2026;Path=/;HttpOnly;secure;Expires=Thu, 05
+Feb 2026 12:00:00 GMT set-cookie:
+WMF-Last-Access-Global=04-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;
+Expires=Thu, 05 Feb 2026 12:00:00 GMT set-cookie:
+WMF-DP=9ce;Path=/;HttpOnly;secure;Expires=Mon, 05 Jan 2026 00:00:00 GMT
+x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7 cache-control: private,
+s-maxage=0, max-age=0, must-revalidate, no-transform vary:
+Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
+GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
+set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
+set-cookie:
+WMF-Uniq=eM4ms_BogQRDohrhPakKyALeAAAAAFvdkoVmrVGsXQCJShwTNCy14iDsHtrjM3bx;Domain
+=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027
+00:00:00 GMT x-request-id: fcdf854a-5722-4a06-8f85-5e50b7ee4398 #Edytuj
+Wikipedia (pl) Kanał Atom Wikipedii
+
+Przejdź do zawartości
+
+[ ] Menu główne
+Menu główne
+(BUTTON) przypnij (BUTTON) ukryj
+Nawigacja
+  * Strona główna
+  * Losuj artykuł
+  * Kategorie artykułów
+  * Najlepsze artykuły
+  * Częste pytania (FAQ)
+
+Dla czytelników
+  * O Wikipedii
+  * Kontakt
+
+Dla wikipedystów
+  * Pierwsze kroki
+  * Portal wikipedystów
+  * Ogłoszenia
+  * Zasady
+  * Pomoc
+  * Strony specjalne
+  * Ostatnie zmiany
+
+Wikipedia wolna encyklopedia
+Szukaj
+____________________
+(BUTTON) Szukaj
+
+[ ] Wygląd
+
+  * Wspomóż Wikipedię
+  * Utwórz konto
+  * Zaloguj się
+
+[ ] Narzędzia osobiste
+  * Wspomóż Wikipedię
+  * Utwórz konto
+  * Zaloguj się
+
+Spis treści
+
+(BUTTON) przypnij (BUTTON) ukryj
+  * Początek
+  * 1 Zobacz też
+  * 2 Przypisy
+
+[ ] Przełącz stan spisu treści
+
+Wielka improwizacja
+
+[ ] Dodaj języki
+
+Dodaj linki
+
+  * Artykuł
+  * Dyskusja
+
+[ ] polski
+
+  * Czytaj
+  * Edytuj
+  * Edytuj kod źródłowy
+  * Wyświetl historię
+
+[ ] Narzędzia
+Narzędzia
+(BUTTON) przypnij (BUTTON) ukryj
+Działania
+  * Czytaj
+  * Edytuj
+  * Edytuj kod źródłowy
+  * Wyświetl historię
+
+Ogólne
+  * Linkujące
+  * Zmiany w linkowanych
+  * Prześlij plik
+  * Link do tej wersji
+  * Informacje o tej stronie
+  * Cytowanie tego artykułu
+  * Zobacz skrócony adres URL
+  * Pobierz kod QR
+
+Drukuj lub eksportuj
+  * Utwórz książkę
+  * Pobierz jako PDF
+  * Wersja do druku
+
+W innych projektach
+  * Element Wikidanych
+
+Wygląd
+(BUTTON) przypnij (BUTTON) ukryj
+Z Wikipedii, wolnej encyklopedii
+[250px-Ekspozycja_%22Cela_Konrada%22_w_Wilnie.JPG] Ekspozycja, wyobrażająca
+celę Konrada w byłym klasztorze bazylianów w Wilnie
+
+Wielka improwizacja – monolog Konrada w III części dramatu Dziady (1832) Adama
+Mickiewicza.
+
+Monolog Konrada ma miejsce w celi klasztoru bazylianów w Wilnie, zmienionego w
+więzienie carskie. Stanowi kwintesencję poety-wieszcza i poezji romantycznej,
+jednocześnie zarysowując kryzys romantycznej koncepcji poezji. Ukazuje
+sprzeczność: bohater chce się zbratać z rodakami, lecz jednocześnie domaga się
+od Boga władzy Jemu równej nad narodem, której to chce użyć dla uszczęśliwienia
+narodu i człowieka. Jego cechy to „arystokratyzm ducha”, samotność,
+niezrozumienie, poczucie misji. Zawarty jest tu wątek prometejski. W
+następującym po Improwizacji Widzeniu Księdza Piotra poeta zarysowuje natomiast
+program mesjanistycznej koncepcji dziejów Polski.
+
+Konrad porównuje się z Bogiem. Zdolność tworzenia uważa za przesłankę, by się z
+nim zmierzyć. Doprowadza go to do bluźnierstwa i (w pojęciu kanonów wiary
+chrześcijańskiej) grzechu pychy zakończonych klęską. Jednocześnie Konrad ubolewa
+nad ciężką dolą własnego narodu i dąży do ulżenia tej doli. Właśnie ten konflikt
+wewnętrzny (wewnętrzna i głęboka potrzeba niesienia pomocy zniewolonemu narodowi
+wobec obojętności Boga) jest przykładem idei prometejskiej^[potrzebny przypis].
+
+Autor utożsamia się z opinią bohatera o narodzie polskim. Monolog zawiera także
+komentarz na temat upadku powstania listopadowego. Jest to pierwszy utwór
+romantyczny ukazujący kryzys postawy wieszczej, która przegrywa w zetknięciu z
+rzeczywistością. Jest jednocześnie czołowym przykładem polskiej poezji
+romantycznej^[potrzebny przypis]. Napisany łącznie z całością Dziadów cz. III w
+Dreźnie, wkrótce po i pod wpływem klęski Powstania listopadowego, był
+odpowiedzią na zarzuty stawiane mu przez byłych powstańców o nieobecności
+Mickiewicza w kraju w miesiącach walki zbrojnej. Znana była gorzka uwaga
+generała Małachowskiego, który miał mu ironicznie powiedzieć, że wszyscy
+powstańcy powinni polec, by tylko Mickiewicz pozostał i mógł to opisywać w
+wierszach^[1]. Stąd pierwsze słowa Konrada w Improwizacji mówią o samotności
+poety i nieszczęściu twórcy, który dla ludzi głos i język trudzi. Konrad zarzuca
+stwórcy, że ten swej władzy dla dobra ludzi, narodu nie chce lub nie potrafi
+użyć. Zarzuca mu obojętność przez wielokrotnie powtarzane oskarżenie
+„milczysz”. W ostatnich słowach monologu wyczerpany Konrad zda się oskarżać Boga
+o największą ze zbrodni: o bycie carem, synonimem tyrana. Słowo car
+wypowiedziane jest w ostatnim wersie przez diabła, gdy Konrad pada wycieńczony
+walką z Bogiem. W czasie Wielkiej Improwizacji o Konrada walczą dobre i złe
+duchy, co sugeruje, że jego klęska nie jest ostateczna^[potrzebny przypis].
+
+Zobacz też
+
+[edytuj | edytuj kod]
+Zobacz w Wikiźródłach tekst
+Wielka improwizacja
+  * Comte de Lautréamont
+  * Teodycea
+
+Przypisy
+
+[edytuj | edytuj kod]
+ 1. ↑ M. Dernałowicz, Kronika życia i twórczości Mickiewicza, Warszawa 1966; s.
+36.
+
+  * p
+  * d
+  * e
+
+Dziady (cykl dramatów)
+Dramaty
+  * Dziady część II (1822)
+  * Dziady część IV (1822)
+  * Dziady część III (1832)
+  * Dziady część I (1860)
+
+Ważne fragmenty
+  * Upiór
+  * Wielka improwizacja
+  * Do przyjaciół Moskali
+
+   Postacie
+  * Gustaw/Konrad
+
+  * Wikiprojekt:Literatura
+
+Źródło:
+„https://pl.wikipedia.org/w/index.php?title=Wielka_improwizacja&oldid=78023768
+”
+Kategorie:
+  * Polskie utwory poetyckie
+  * Dziady
+  * Powstanie listopadowe w literaturze
+
+Ukryta kategoria:
+  * Artykuły z brakującymi przypisami od 2023-10
+
+  * Tę stronę ostatnio edytowano 11 lis 2025, 17:21.
+  * Tekst udostępniany na licencji Creative Commons: uznanie autorstwa, na tych
+samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń. Zobacz
+szczegółowe informacje o warunkach korzystania.
+
+  * Polityka prywatności
+  * O Wikipedii
+  * Korzystasz z Wikipedii tylko na własną odpowiedzialność
+  * Kontakty prawne i dotyczące bezpieczeństwa
+  * Powszechne Zasady Postępowania
+  * Dla deweloperów
+  * Statystyki
+  * Oświadczenie o ciasteczkach
+  * Wersja mobilna
+
+  * Wikimedia Foundation
+  * Powered by MediaWiki
+
+(BUTTON) Szukaj
+____________________
+(BUTTON) Szukaj
+
+[ ] Przełącz stan spisu treści
+Wielka improwizacja
+(BUTTON) Dodaj języki Dodaj temat

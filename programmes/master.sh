@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/bashIl a du mal avec l
 
 if [ $# -eq 0 ];
 then
@@ -162,7 +162,10 @@ while read -r LINE ; do
             </tr>" >> "$SORTIE"
 done  < "$ENTREE"
 
+bash programmes/pals.sh "$LANGUE"
+
 echo -e "\
             </tbody>
         </table>" >> "$SORTIE"
 echo "Done"
+

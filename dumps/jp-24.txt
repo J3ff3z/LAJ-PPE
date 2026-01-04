@@ -1,4 +1,4 @@
-HTTP/2 403 date: Sun, 04 Jan 2026 15:02:55 GMT content-type: text/html;
+HTTP/2 403 date: Sun, 04 Jan 2026 17:20:33 GMT content-type: text/html;
 charset=UTF-8 content-length: 9023 accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch,
 Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model,
 Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform,
@@ -15,16 +15,16 @@ accelerometer=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=
 (),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microph
 one=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),syn
 c-xhr=(),usb=() referrer-policy: same-origin server-timing:
-chlray;desc="9b8b9ea4ce48d085" x-content-type-options: nosniff x-frame-options:
+chlray;desc="9b8c683f9c42f82e" x-content-type-options: nosniff x-frame-options:
 SAMEORIGIN cache-control: private, max-age=0, no-store, no-cache,
 must-revalidate, post-check=0, pre-check=0 expires: Thu, 01 Jan 1970 00:00:01
 GMT report-to:
-{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=D1a5kgJpKFsus
-llj7a%2BtqgvqE6u75zy7Rv4PYUgua5d8xXLoNp4%2FPH6bUjsE6cGLgjE%2Bv359kdEifolL4pg16qd
-ljAmFP1VXJ34I3tiMJncE1xjzcRkpUnb9yriJRjSC1A9SyRjM7fnoV9nUWw%3D%3D"}],"group":"cf
--nel","max_age":604800} nel:
+{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Ue18y%2FHzeGL
+wZ6amMOAsjLy%2BAc5GdaLWqzDKZDDLwhzGKO6F0wPGbme0aFJtfiapcoIXy78gP9ELfLY0r%2FNUBIK
+4mA7FZoG%2BfbANsoyBDK%2BGP3AT%2FrgfEKEUQSS5Dmbw4CT7EAjey5Aodt1WGQ%3D%3D"}],"grou
+p":"cf-nel","max_age":604800} nel:
 {"success_fraction":0,"report_to":"cf-nel","max_age":604800} server: cloudflare
-cf-ray: 9b8b9ea4ce48d085-CDG alt-svc: h3=":443"; ma=86400
-REFRESH(360 sec): file://localhost/tmp/lynxXXXXyMB2rC/L847119-498TMP.html
+cf-ray: 9b8c683f9c42f82e-CDG alt-svc: h3=":443"; ma=86400
+REFRESH(360 sec): file://localhost/tmp/lynxXXXXd2bmTN/L1326042-5932TMP.html
 
 Enable JavaScript and cookies to continue
