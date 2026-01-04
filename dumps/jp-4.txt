@@ -1,10 +1,10 @@
-HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 16:26:29 GMT content-type:
+HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 16:57:48 GMT content-type:
 text/html; charset=UTF-8 vary: Accept-Encoding vary:
 accept,content-type,Accept-Encoding link: /studiopoppo.jp/poppoblog/wp-json/>;
 rel="https://api.w.org/", /studiopoppo.jp/poppoblog/wp-json/wp/v2/posts/42742>;
 rel="alternate"; title="JSON"; type="application/json",
 /studiopoppo.jp/poppoblog/?p=42742>; rel=shortlink cache-control: max-age=1
-expires: Sun, 04 Jan 2026 16:26:29 GMT #ぽっぽブログ » フィード ぽっぽブログ » コメントフィード oEmbed
+expires: Sun, 04 Jan 2026 16:57:49 GMT #ぽっぽブログ » フィード ぽっぽブログ » コメントフィード oEmbed
 (JSON) oEmbed (XML) JSON
 
 ぽっぽブログ

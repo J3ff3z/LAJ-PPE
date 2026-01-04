@@ -1,11 +1,11 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:37:35 GMT server:
-mw-web.eqiad.main-8f8dcf6c-nl5gg x-content-type-options: nosniff
-content-language: ja accept-ch: last-modified: Sat, 20 Dec 2025 16:37:35 GMT
-content-type: text/html; charset=UTF-8 age: 85723 accept-ranges: bytes x-cache:
-cp6014 hit, cp6016 hit/7 x-cache-status: hit-front server-timing:
-cache;desc="hit-front", host;desc="cp6016" strict-transport-security:
-max-age=106384710; includeSubDomains; preload report-to: { "group": "wm_nel",
-"max_age": 604800, "endpoints": [{ "url":
+HTTP/2 200 date: Sun, 04 Jan 2026 16:57:39 GMT server:
+mw-web.eqiad.main-8f8dcf6c-r6lxf x-content-type-options: nosniff
+content-language: ja accept-ch: last-modified: Sun, 21 Dec 2025 16:57:39 GMT
+content-type: text/html; charset=UTF-8 age: 0 accept-ranges: bytes x-cache:
+cp6014 miss, cp6016 miss x-cache-status: miss server-timing: cache;desc="miss",
+host;desc="cp6016" strict-transport-security: max-age=106384710;
+includeSubDomains; preload report-to: { "group": "wm_nel", "max_age": 604800,
+"endpoints": [{ "url":
 "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_
 error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] } nel: { "report_to":
 "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
@@ -20,10 +20,12 @@ Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
 GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
 set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
 set-cookie:
-WMF-Uniq=M3L4uJITkJ_rZacTcuMtZQLeAAAAAFvd_40d85dcNHdpMbw2RzROP6ezHhawe7K9;Domain
+WMF-Uniq=yAMkkSZ0W5aNjDiDix76IgLeAAAAAFvdYPdiTNmOQQco4WNy6v40FavJMyeQrk0Y;Domain
 =.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027
-00:00:00 GMT content-length: 104236 x-request-id:
-f4bc6984-1bdd-4ae9-9bf9-1518c23471bb #編集 Wikipedia (ja) Wikipediaの Atom フィード
+00:00:00 GMT server-timing:
+WMF-Uniq;fy25-26-we-4-2-hcaptcha-editing=control-2;fy25-26-we-1-1-19-mobile-sect
+ion-dead-end-phase-2=control; x-request-id: a59a2aa3-96fe-44e8-88ba-c1e097d1bc47
+#編集 Wikipedia (ja) Wikipediaの Atom フィード
 
 コンテンツにスキップ
 

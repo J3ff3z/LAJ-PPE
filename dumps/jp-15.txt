@@ -1,12 +1,12 @@
 HTTP/2 200 content-type: text/html; charset=utf-8 date: Sun, 04 Jan 2026
-16:16:00 GMT x-frame-options: sameorigin x-request-id:
-5eb433c7-01bb-465d-91f8-4ce776d85fb4 server: nginx cache-control: no-store
-set-cookie: dis_session_r=3f22d28bb6444462fcd2afa15942342df83dbd2b; path=/;
-expires=Sun, 04-Jan-2026 17:16:00 GMT; secure; HttpOnly x-content-type-options:
+16:46:08 GMT x-frame-options: sameorigin x-request-id:
+30a4b4da-a779-4190-aba5-afacd756e60d server: nginx cache-control: no-store
+set-cookie: dis_session_r=89d6e4b0c8799d9def9edd337adde1abf3aa04cd; path=/;
+expires=Sun, 04-Jan-2026 17:46:08 GMT; secure; HttpOnly x-content-type-options:
 nosniff vary: Accept-Encoding,Accept-Encoding x-cache: Hit from cloudfront via:
-1.1 460f6d75d64f3504ddfd9f9086562c16.cloudfront.net (CloudFront) x-amz-cf-pop:
-CDG50-P4 x-amz-cf-id: kAxejFWx5P5YJeHOAHCGI09yYsuTXYnuFIO2TUI6N8CFk5Im3iwM_Q==
-age: 58 #prev
+1.1 8bdbe34841dae048e23c3b85d9dccfca.cloudfront.net (CloudFront) x-amz-cf-pop:
+CDG50-P4 x-amz-cf-id: SS0pAIcHWYpCalbp4SZH_U1IY315cmQIGS0X841I0OizYvLXGP_lKA==
+age: 503 #prev
 
 IFRAME: //www.googletagmanager.com/ns.html?id=GTM-5CGN6D
 
@@ -215,7 +215,7 @@ AI技術ガチ勢の【AI×小説】プロンプト論
 
 生成AI 技術ガチ勢が語る【生成AI×小説】論／那須なすか
 
-★395 創作論・評論 連載中 3話 2025年11月1日更新
+★398 創作論・評論 連載中 3話 2025年11月1日更新
 
 立てよゲルマンの民！ボリシェヴィキを打倒せよ！
 
@@ -227,28 +227,28 @@ AI技術ガチ勢の【AI×小説】プロンプト論
 
 ネクスト掲載小説
 
-お前の作る飯が食いたいんだけど。
+パワー系メイドと品質管理が異世界で役立つって本当ですか？
 
-今日、焼き鯖とひじき煮、大根の味噌汁だけど食う？白飯付きで五百円な。
+チートなしで異世界を切り開くのはパワー系メイドと、品質管理の知識？
 
-お前の作る飯が食いたいんだけど。
+パワー系メイドと品質管理が異世界で役立つって本当ですか？
 
-宇部 松清
+クガ
 
-恋愛 連載中 35話 2026年1月4日更新
+異世界ファンタジー 連載中 58話 2026年1月3日更新
 
-32話分無料
-低級守護霊下剋上
+1/12（月）まで無料拡大中
+花影
 
-私と一緒にランクアップしませんか？
+「──君のすべてを暴きたい」
 
-低級守護霊下剋上
+花影
 
-平尾隆之
+ミヤサトイツキ
 
-ホラー 連載中 24話 2026年1月3日更新
+恋愛 完結済 80話 2025年10月15日更新
 
-21話分無料
+20話分無料
 
 トップページマイページ閲覧履歴新着小説
 

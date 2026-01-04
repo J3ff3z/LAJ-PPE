@@ -1,11 +1,11 @@
 HTTP/2 200 date: Sun, 04 Jan 2026 14:59:55 GMT server:
 mw-web.eqiad.main-8f8dcf6c-4hdnt x-content-type-options: nosniff
 content-language: ja accept-ch: last-modified: Sun, 04 Jan 2026 07:11:40 GMT
-content-type: text/html; charset=UTF-8 age: 0 accept-ranges: bytes x-cache:
-cp6014 miss, cp6016 miss x-cache-status: miss server-timing: cache;desc="miss",
-host;desc="cp6016" strict-transport-security: max-age=106384710;
-includeSubDomains; preload report-to: { "group": "wm_nel", "max_age": 604800,
-"endpoints": [{ "url":
+content-type: text/html; charset=UTF-8 age: 6885 accept-ranges: bytes x-cache:
+cp6014 miss, cp6016 hit/2 x-cache-status: hit-front server-timing:
+cache;desc="hit-front", host;desc="cp6016" strict-transport-security:
+max-age=106384710; includeSubDomains; preload report-to: { "group": "wm_nel",
+"max_age": 604800, "endpoints": [{ "url":
 "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_
 error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] } nel: { "report_to":
 "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
@@ -20,10 +20,10 @@ Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
 GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
 set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
 set-cookie:
-WMF-Uniq=wnVm4Ks5DvY4oQjaHIhrTwLeAAAAAFvdUs5HU7OLPyA9lhuxY7oPT5OqiUqvym9v;Domain
+WMF-Uniq=g6WmmKKsbDF0remWLVb_OALeAAAAAFvdrFtVCc8WWaHYAzNEw8IxyssfaskOdJbo;Domain
 =.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027
-00:00:00 GMT x-request-id: 960c4f54-a430-4386-a70f-60cc769625a1 #Wikipedia (ja)
-Wikipediaの Atom フィード
+00:00:00 GMT content-length: 1181211 x-request-id:
+49be3055-1e38-42da-80e2-8843fa3269b4 #Wikipedia (ja) Wikipediaの Atom フィード
 
 コンテンツにスキップ
 

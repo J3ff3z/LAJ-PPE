@@ -1,12 +1,12 @@
 HTTP/2 200 content-type: text/html; charset=utf-8 date: Sun, 04 Jan 2026
-16:16:00 GMT x-frame-options: sameorigin x-request-id:
-5eb433c7-01bb-465d-91f8-4ce776d85fb4 server: nginx cache-control: no-store
-set-cookie: dis_session_r=3f22d28bb6444462fcd2afa15942342df83dbd2b; path=/;
-expires=Sun, 04-Jan-2026 17:16:00 GMT; secure; HttpOnly x-content-type-options:
-nosniff vary: Accept-Encoding,Accept-Encoding x-cache: Hit from cloudfront via:
-1.1 c31719efcd399888dbbc5773eb6999da.cloudfront.net (CloudFront) x-amz-cf-pop:
-CDG50-P4 x-amz-cf-id: F-s61rgVNXOrpBPWdA4gnCwOR3NQMIn8YVDuI8eFd9vxooMlscO6Dg==
-age: 545 #prev
+16:58:16 GMT x-frame-options: sameorigin x-request-id:
+f2449ac7-d903-43b6-88b4-7ed955e5388a server: nginx cache-control: no-store
+set-cookie: dis_session_r=40021245d81adecd53ec17d597b5967a9e71072c; path=/;
+expires=Sun, 04-Jan-2026 17:58:16 GMT; secure; HttpOnly x-content-type-options:
+nosniff vary: Accept-Encoding,Accept-Encoding x-cache: Miss from cloudfront via:
+1.1 052bddbe6dac84a0b9a4036f72bff9d8.cloudfront.net (CloudFront) x-amz-cf-pop:
+CDG50-P4 x-amz-cf-id: L5vCeu78u8xc19Ru3WT_fy4Sj5CemBP5N0kySIh_kfdFkutAyILfTQ==
+#prev
 
 IFRAME: //www.googletagmanager.com/ns.html?id=GTM-5CGN6D
 
@@ -215,7 +215,7 @@ AI技術ガチ勢の【AI×小説】プロンプト論
 
 生成AI 技術ガチ勢が語る【生成AI×小説】論／那須なすか
 
-★395 創作論・評論 連載中 3話 2025年11月1日更新
+★398 創作論・評論 連載中 3話 2025年11月1日更新
 
 立てよゲルマンの民！ボリシェヴィキを打倒せよ！
 
@@ -227,28 +227,28 @@ AI技術ガチ勢の【AI×小説】プロンプト論
 
 ネクスト掲載小説
 
-お前の作る飯が食いたいんだけど。
+ド田舎出身の芋令嬢、なぜか公爵に溺愛される
 
-今日、焼き鯖とひじき煮、大根の味噌汁だけど食う？白飯付きで五百円な。
+「きみに一目惚れしたんだ」（腹黒な）公爵様の溺愛が止まりません！
 
-お前の作る飯が食いたいんだけど。
+ド田舎出身の芋令嬢、なぜか公爵に溺愛される
 
-宇部 松清
+千堂みくま@9/17芋令嬢comic２巻
 
-恋愛 連載中 35話 2026年1月4日更新
+恋愛 完結済 111話 2025年12月29日更新
 
-32話分無料
-低級守護霊下剋上
+79話分無料
+魔法術学校の【受付】——実は最強の処刑人
 
-私と一緒にランクアップしませんか？
+その受付の正体は、【最強】
 
-低級守護霊下剋上
+魔法術学校の【受付】——実は最強の処刑人
 
-平尾隆之
+君川優樹
 
-ホラー 連載中 24話 2026年1月3日更新
+異世界ファンタジー 連載中 150話 2025年12月23日更新
 
-21話分無料
+24話分無料
 
 トップページマイページ閲覧履歴新着小説
 

@@ -25,6 +25,7 @@ echo -e "\
                     <th>Aspirations</th>
                     <th>Dumps initiaux</th>
                     <th>Dumps clean</th>
+		    <th>Bigrammes</th>
                     <th>Contexte</th>
                     <th>Concordancier</th>
                 </tr>
@@ -53,6 +54,7 @@ while read -r LINE ; do
                 <td>ERREUR</td>
                 <td>ERREUR</td>
                 <td>ERREUR</td>
+                <td>ERREUR</td>
             </tr>" >> "$SORTIE"
         continue
     fi
@@ -74,6 +76,7 @@ while read -r LINE ; do
                 <td>ERREUR</td>
                 <td>ERREUR</td>
                 <td>ERREUR</td>
+                <td>ERREUR</td>
             </tr>" >> "$SORTIE"
         continue
     fi
@@ -89,9 +92,10 @@ while read -r LINE ; do
     CONCORDANCE="concordances/$LANGUE-$NB_LIGNE.html"
 
     CLEAN=$(bash programmes/scriptnettoyage1.sh "$DUMP_INITIAL")
-    CLEAN=${CLEAN:1}
     NB_MOTS=$(cat "$CLEAN" | wc -w)
     COUNT=$(bash programmes/comptage_occurence_script.sh "$CLEAN")
+    BIGRAMMES=$(bash programmes/scriptbigrammes.sh "$CLEAN")
+
 
     if [ -z "$ENCODAGE" ]; then
         if [ -z "$NB_MOTS" ]; then
@@ -105,6 +109,7 @@ while read -r LINE ; do
                     <td>ERREUR</td>
                     <td>ERREUR</td>
                     <td>$ROBOTS</td>
+                    <td>ERREUR</td>
                     <td>ERREUR</td>
                     <td>ERREUR</td>
                     <td>ERREUR</td>
@@ -134,11 +139,10 @@ while read -r LINE ; do
                 <td>ERREUR</td>
                 <td>ERREUR</td>
                 <td>ERREUR</td>
+                <td>ERREUR</td>
             </tr>" >> "$SORTIE"
             continue
     fi
-
-
 
     echo -e "\
             <tr>
@@ -149,10 +153,11 @@ while read -r LINE ; do
                 <td>$NB_MOTS</td>
                 <td>$COUNT</td>
                 <td>$ROBOTS</td>
-                <th><a target="_blank" href=\"$ASPIRATION\"><img src="web/download.png" alt="Download Aspiration"></th>
-                <th><a target="_blank" href=\"$DUMP_INITIAL\"><img src="web/download.png" alt="Download Dump"></th>
-                <th><a target="_blank" href=\"$CLEAN\"><img src="web/download.png" alt="Download Clean"></th>
-                <th><a target="_blank" href=\"$CONTEXTE\"><img src="web/download.png" alt="Download Contexte"></th>
+                <th><a target="_blank" href=\"$ASPIRATION\"><img src=\"web/download.png\" alt=\"Download Aspiration\"></th>
+                <th><a target="_blank" href=\"$DUMP_INITIAL\"><img src=\"web/download.png\" alt=\"Download Dump\"></th>
+                <th><a target="_blank" href=\"$CLEAN\"><img src=\"web/download.png\" alt=\"Download Clean\"></th>
+                <th><a target="_blank" href=\"$BIGRAMMES\"><img src=\"web/download.png\" alt=\"Download Bigrammes\"></th>
+                <th><a target="_blank" href=\"$CONTEXTE\"><img src=\"web/download.png\" alt=\"Download Contexte\"></th>
                 <th><a href=\"concordancier.html?f=$(basename $CONTEXTE)\">$LANGUE-$NB_LIGNE</th>
             </tr>" >> "$SORTIE"
 done  < "$ENTREE"

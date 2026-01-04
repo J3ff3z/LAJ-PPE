@@ -15,15 +15,8 @@ numerotation=1
 
 signes="[+\*#_\-]"
 
-if [[ $(basename $fichier) == jp* ]]; then
-    iconv -f UTF-8 -t UTF-8 -c "$fichier" -o "$fichier"
-    source venv/bin/activate
-    content=$(cat "$fichier" | python programmes/tokenize_japanese.py)
-    deactivate
-fi
-
-echo
-echo "$content" | grep -viE "^\s*$signes|$signes.*$signes|BUTTON|IFRAME|Search|settings[[:space:]]+icon|share[[:space:]]+icon|Refresh|Reklama|logo|Resources|Home|Menu|Strona[[:space:]]+główna|go!|^[-— =+]+$" \
+content=$(echo
+cat "$fichier" | grep -viE "^\s*$signes|$signes.*$signes|BUTTON|IFRAME|Search|settings[[:space:]]+icon|share[[:space:]]+icon|Refresh|Reklama|logo|Resources|Home|Menu|Strona[[:space:]]+główna|go!|^[-— =+]+$" \
 | sed -E '
 	s|https?://[^[:space:]]+||g;
 	s|[a-zA-Z0-9-]+(\.[a-zA-Z0-9]+)+||g;
@@ -41,6 +34,16 @@ echo "$content" | grep -viE "^\s*$signes|$signes.*$signes|BUTTON|IFRAME|Search|s
 	s|(pre-meta)||g;
 	s|\[[[:space:]]*\]||g;
 	s|\[X\]||g;
-'> "$dossiertest/$(basename $fichier)"
+')
+
+
+if [[ $(basename $fichier) == jp* ]]; then
+    iconv -f UTF-8 -t UTF-8 -c "$fichier" -o "$fichier"
+    source venv/bin/activate
+    content=$(echo "$content" | python programmes/tokenize_japanese.py)
+    deactivate
+fi
+
+echo "$content" > "$dossiertest/$(basename $fichier)"
 
 echo  "$dossiertest/$(basename $fichier)"
