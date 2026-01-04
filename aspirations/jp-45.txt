@@ -1,5 +1,5 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:42:52 GMT
+date: Sun, 04 Jan 2026 17:23:25 GMT
 content-type: text/html; charset=UTF-8
 vary: Accept-Encoding
 link: <https://kojiki.ys-ray.com/wp-json/>; rel="https://api.w.org/", <https://kojiki.ys-ray.com/wp-json/wp/v2/posts/330>; rel="alternate"; type="application/json", <https://kojiki.ys-ray.com/?p=330>; rel=shortlink

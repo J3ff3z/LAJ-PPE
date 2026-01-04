@@ -1,11 +1,13 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:35:35 GMT server:
-"max_age": 604800, "endpoints": [{ "url":
+
+HTTP/2 200 date: Sun, 04 Jan 2026 17:27:30 GMT server:
+"endpoints": [{ "url":
 Feb 2026 12:00:00 GMT set-cookie:
-Expires=Wed, 04 Feb 2026 12:00:00 GMT set-cookie:
-WMF-DP=495;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+Expires=Thu, 05 Feb 2026 12:00:00 GMT set-cookie:
+WMF-DP=8dd;Path=/;HttpOnly;secure;Expires=Mon, 05 Jan 2026 00:00:00 GMT
 GeoIP=FR:IDF:Maisons-Alfort:::v4; Path=/; secure; Domain=.
 set-cookie:
-=.;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027
+=.;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027
+Wikipedia (pl) Kanał Atom Wikipedii
 
 Przejdź do zawartości
 

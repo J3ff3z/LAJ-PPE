@@ -1,341 +1,613 @@
-HTTP/2 200 content-type: text/html; charset=utf-8 server: openresty
-x-arc-pb-request-id: 5332867c-27a6-4292-8323-565f96a8f2c6 x-arc-pb-edge: 0 etag:
-W/"463af-4OrSxhC9X9msojtx/ykHe3eraNM" x-arc-pb-mx-id: 00000000 last-modified:
-Sat, 03 Jan 2026 16:24:59 GMT cache-control: private, max-age=60 expires: Sat,
-03 Jan 2026 16:46:19 GMT date: Sat, 03 Jan 2026 16:45:19 GMT
-content-security-policy: upgrade-insecure-requests strict-transport-security:
-max-age=31536000 x-arc-ttl: 604800 x-arc-request-id:
-0.18851402.1767458719.14942e3c
+HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 17:26:49 GMT content-type:
+text/html; charset=UTF-8 strict-transport-security: max-age=31536000 vary:
+Accept-Encoding x-hacker: Want root? Visit join.a8c.com/hacker and mention this
+header. host-header: WordPress.com x-pingback:
+https://observatoiredumensonge.com/xmlrpc.php link: /wp.me/p2qpcs-chT>;
+rel=shortlink vary: accept, content-type, cookie x-ac: 5.ams _dca STALE alt-svc:
+h3=":443"; ma=86400 server-timing: a8c-cdn, dc;desc=ams,
+cache;desc=STALE;dur=1.0 #Observatoire du MENSONGE » Flux Observatoire du
+MENSONGE » Flux des commentaires Observatoire du MENSONGE » Les 7 péchés
+capitaux en politique Flux des commentaires alternate alternate Observatoire du
+MENSONGE WordPress.com
+
+Observatoire du MENSONGE
+
+(BUTTON)
+(BUTTON)
+  * Accueil
+
+nous soutenir
+
+Les 7 péchés capitaux en politique
+
+By
+Observatoire du MENSONGE
+
+dans
+Alexandre Goldfarb, Observatoire du MENSONGE
+21 Mai 2017
+
+De plus en plus la politique baigne dans les péchés! Pendant que le peuple se
+noie !
+
+Les 7 péchés capitaux en politique
+
+Par Alexandre Goldfarb
+
+Qui peut encore croire à ces politiques juste bons à cracher dans la soupe pour
+ensuite la manger?
+  *
+  +
+  o L’Orgueil, c’est le plus grand des vices et le premier péché capital du
+politique, celui qui nourrit le mieux les dirigeants politiques et qui surtout
+les empêche d’être clairvoyants. L’Orgueil nuit gravement aux politiciens et
+encore plus à leurs électeurs. L’Orgueil empêche le politicien de reconnaître
+ses erreurs et d’évoluer. C’est souvent cet orgueil qui le tue politiquement.
+Des exemples récents avec Sarkozy, Juppé et Fillon qui chacun à sa manière a
+refusé d’entendre le bruit qui montait du peuple pour faire comme si de rien
+n’était et se retrouver éliminés ensuite.
+FIFI en flag : à 7 minutes
+
+IFRAME: https://www.youtube.com/embed/mXZhSgm9IsE?feature=oembed
+
+  * L’Envie, c’est le péché de la convoitise qui suit immédiatement l’Orgueil et
+pousse des gens au départ normaux à vouloir absolument être élus quitte à se
+renier, à trahir et à étouffer les autres. On a de bons exemples avec Macron,
+Edouard Philippe, Bayrou…
+
+Souvenirs souvenirs de l’Envie (2016) :
+
+IFRAME: https://www.youtube.com/embed/ngixUB0YgHA?feature=oembed
+
+IFRAME: https://www.youtube.com/embed/gsYlwumwx24?feature=oembed
+
+  *
+  +
+  o L’Avarice, c’est le péché classique par excellence du politique qui ne veut
+rien lâcher ni donner mais veut tout recevoir et Rousseau recommande dans
+L’Émile de ne pas imiter l’avare : « ne faites donc pas comme l’avare, qui perd
+beaucoup pour ne vouloir rien perdre ».
+Coluche est toujours d’actualité
+
+IFRAME: https://www.youtube.com/embed/zSmbM3aa3hs?feature=oembed
+
+  * La Colère, elle est en psychologie considérée comme une émotion secondaire
+à une blessure physique ou psychique, un manque, une frustration. Côté
+frustration en politique, cela fonctionne très bien…
+
+La Colère des Potes du PS:
+
+IFRAME: https://www.youtube.com/embed/A6G4Wimqg5M?feature=oembed
+
+  *
+  + La Luxure, c’est le péché de vouloir être élu à n’importe quel prix. Le
+politique veut faire l’amour avec les médias au détriment des électeurs et
+souvent le résultat est catastrophique sauf pour Macron actuellement qui comme
+Jésus marche sur l’eau pourtant sale de la politique. Souvent celui qui pratique
+ce péché commence par déclarer « je n’ai aucune ambition personnelle » comme
+Bayrou en est l’exemple. Il faut traduire par « donnes-moi vite un poste ».
+
+Macron incarne bien la Luxure mais la vidéo qui le montrait a été censurée !!!
+  *
+  + La Paresse, c’est un péché classique du politique qui se repose sur ses
+conseillers alors quand, comme Sarkozy ou Fillon, il les choisit mal, on
+constate le résultat catastrophique. D’ailleurs Sarkozy me semble être le grand
+champion dans cette catégorie quand on voit ce que deviennent ses poulains: NKM
+a trahi, Darmanin a trahi, Le Maire a trahi et d’autres encore.
+
+Et toujours irrésistible malgré les années, Coluche!
+
+IFRAME: https://www.youtube.com/embed/M-OpqsgZq2s?feature=oembed
+
+  * La Gourmandise, c’est le péché qui s’oppose à la modération en politique et
+quand un politique veut être élu, alors il est prêt à toutes les gourmandises…
+
+Eh oui encore un élu des Républicains spécialiste en trahison par gourmandise…
+
+IFRAME: https://www.youtube.com/embed/VgmQrdmZMmI?feature=oembed
+
+Idem pour NKM
 
 IFRAME:
-https://www.googletagmanager.com/ns.html?id=GTM-5QNLTGR&gtm_auth=XWh1NlOe7Udt_V-
-KXeCUVQ&gtm_preview=env-2&gtm_cookies_win=x
+https://www.youtube.com/embed/1CQbvtEhVvU?version=3&rel=1&showsearch=0&showinfo=
+1&iv_load_policy=1&fs=1&hl=fr&autohide=2&wmode=transparent
 
-  * Aller au contenu principal
+Au nom des veaux, les 7 péchés capitaux vont bien aux politiques et à cette
+caste qui a détruit notre France.
+“A là je vais au bar©“
 
-(BUTTON) AccessibilitéNouveau
-(BUTTON) Menu
-Accueil - Le Parisien
-(BUTTON) Journal
-(BUTTON) Se connecter
-(BUTTON) S'abonner
-(BUTTON) Défiler les accès rapides vers la gauche
-  * À la une
-  * En continu
-  * (BUTTON) Paris & Île-de-France
-  * Faits divers
-  * Politique
-  * International
-  * Économie
-  * Société
-  * Sports
-  * Culture
-  * Étudiant
-  * Vidéos
-  * Guide d'achat
-  * Jardin
+« La vérité est une délicieuse plante qui ne pousse pas toujours comme on
+voudrait »©.
 
-(BUTTON) Défiler les accès rapides vers la droite
-____________________Ville, code postal...
-  * 75 · Paris
-  * 91 · Essonne
-  * 92 · Hauts-de-Seine
-  * 93 · Seine-Saint-Denis
-  * 94 · Val-de-Marne
-  * 95 · Val-d'Oise
-  * 77 · Seine-et-Marne
-  * 78 · Yvelines
-  * 60 · Oise
-  * Transports
+« Macron, c’est la politique pour les amnésiques »©
 
-Toutes les actualités locales
-(BUTTON) Fermer le menu latéral
-____________________Rechercher sur Le Parisien
-  * À la une
-  * En continu
-  * Paris & Île-de-France
-  + Paris
-  + Essonne
-  + Hauts-de-Seine
-  + Seine-Saint-Denis
-  + Val-d'Oise
-  + Val-de-Marne
-  + Seine-et-Marne
-  + Yvelines
-  + Oise
-  + Transports IDF
-  * Faits divers
-  * Politique
-  + Emmanuel Macron
-  + Sébastien Lecornu
-  + Élections
-  + Municipales 2026
-  + Résultats municipales 2026
-  * International
-  + États-Unis
-  + Guerre au Proche-Orient
-  + Iran
-  + Guerre en Ukraine
-  + Syrie
-  * Sports
-  + Football
-  + CAN 2025
-  + PSG
-  + Ligue 1
-  + Ligue des champions
-  + Rugby
-  + Basket
-  + Tennis
-  + Cyclisme
-  + Handball
-  + Formule 1
-  + Hippisme
-  + MMA
-  + Jeux olympiques
-  * Culture & loisirs
-  + Cinéma
-  + Séries
-  + Livres
-  + Télévision & médias
-  + Musique
-  + Sorties IDF & Oise
-  * Immobilier
-  * Économie
-  + Pouvoir d'achat
-  + Retraites
-  + Consommation
-  + Emploi
-  + Impôts
-  + Entreprises & start-up
-  + Vie de bureau
-  + Automobile
-  * Futurs
-  + Environnement
-  + Climat
-  + High-tech
-  + Sciences
-  * Société
-  + Famille
-  + Religions
-  + Intime
-  + Sentinelles
-  + Bien manger
-  * Santé
-  * Météo
-  * En région
-  + Aube
-  + Calvados
-  + Charente-Maritime
-  + Eure
-  + Eure-et-Loir
-  + Finistère
-  + Haute-Garonne
-  + Loiret
-  + Marne
-  + Puy-de-Dôme
-  + Pyrénées-Orientales
-  + Seine-Maritime
-  * Le Parisien Week-end
-  * Le Parisien Étudiant
-  + Parcoursup 2026
-  + Enseignement supérieur
-  + Lycée
-  + Collège
-  + Guide des métiers
-  + Vie étudiante
-  + Jobs Stages
-  + Agenda sorties
-  * Le Parisien Jardin
-  * Le Parisien Jeux
-  * Guide d'achat
-  * Boutique
+Alexandre Goldfarb
 
-  * Vidéos
-  + Biclou
-  + Food-checking
-  + Le Touriste
-  * Podcasts
-  + Code source
-  + Crime story
-  + Le Sacre
-  * Newsletters
-  * Journal
+Président fondateur de l‘Observatoire du MENSONGE
 
-  * Annonces
-  + Annonces immobilières
-  + Avis de décès
-  + Annonces légales
-  + Marchés publics
-  + Enchères publiques
-  * Services
-  + Cours d'anglais
-  + Nos applications
-  + Comparateurs
-  + Jeux Concours
-  + Billetterie
-  + Annonces immobilières
-  * Contacter la rédaction
+Décidément l’histoire se répète avec les Socialistes qui retrouvent sans
+sourciller le ton et les idées qui ont fait tant de mal à la France.
+Certes l’ennemi a changé entretemps mais pas la finalité.
+Sur la France s’abat comme Un air de Vichy
+Les supporters de Macron crient « on a gagné! »
+Les Français pourront dire « on va payer! »
 
-(BUTTON) AccessibilitéNouveau
-Politique,Politique - Newsletter
+A lire aussi : Les 10 commandants en politique
 
-Péché de jeunesse
+Pastureau la passation
+https://youtu.be/Nq44KsdrTlU
 
-Par Didier Micoine
-Le 23 avril 2019 à 16h06, modifié le 23 avril 2019 à 16h16
-Péché de jeunesse
-(BUTTON) Réagir (BUTTON) Enregistrer
-(BUTTON) Partager
+  SUIVEZ ! PARTAGEZ !
 
-A un mois des élections européennes, voilà encore une polémique de plus pour La
-République en Marche. Alors que sa campagne peine à décoller, la tête de liste
-des Marcheurs, Nathalie Loiseau, est rattrapée par son passé. Mediapart révèle
-qu'elle a figuré sur une liste d'extrême droite lorsqu'elle était étudiante à
-Sciences Po. Bien sûr, on peut toujours plaider l'erreur de jeunesse et puis on
-n'est pas forcément sérieux quand on a vingt ans (encore qu'à Sciences Po...)
-Mais quand même, cela fait désordre pour la candidate du parti présidentiel qui
-a fait de la bataille contre le Rassemblement national et le populisme le
-marqueur de sa campagne! Et prétendre pour sa défense avoir «oublié cet épisode
-» et qu'elle n'avait pas alors «perçu» la couleur politique du syndicat étudiant
-qui présentait cette liste, ce n'est tout simplement pas crédible. Aujourd'hui,
-ses adversaires peuvent ironiser sur ce passage par l'extrême droite « à l'insu
-de son plein gré ». Ils auraient tort de se gêner.
-Journal du jour
-3 janvier 2026
-Lire le journal
-(BUTTON) Voir tous les commentaires
-Politique - Newsletter
-Campagne masquée
-Le mandat de trop
-On vote et on passe à la suite ?
-Second tour, la patate chaude
-Les frondeurs, aux urnes !
-La pression des blouses blanches
-Petit à petit, Philippe fait son nid
-Un monde d’après à la rentrée ?
+Vous pouvez participer au moins en commentant nos articles: pour cela il vous
+suffit d’aller dans « laisser votre commentaire » en bas de chaque article…
 
-Guide Shopping Le Parisien
-  * Action fait mieux que les soldes avant les soldes : des petits prix à saisir
-dans tous les rayons
-  * Cet aspirateur robot idéal si vous avez un animal de compagnie est à moins
-de 100 euros sur Amazon
-  * Ces écouteurs Xiaomi à moins de 40 euros sur Amazon sont la meilleure
-alternative aux AirPods Apple
-  * La célèbre CC crème Erborian qui fait le buzz sur les réseaux sociaux est
-affichée en réduction à -31% sur Amazon
-  * Sélection shopping
+LOGO OBS
 
-Annonces immobilières
-Appartement 2 pièces 41 m²
-120000€
-Saint-Denis (97490)
-Maison 7 pièces 150 m²
-174500€
-Aniche (59580)
-Maison 6 pièces 116 m²
-267000€
-Le Coudray-sur-Thelle (60430)
-Appartement 3 pièces 76 m²
-580000€
-Montreuil (93100)
-Maison 4 pièces 93 m²
-213000€
-Fougères (35300)
+Image
 
-Entretien d’extérieurs
-  * Entretien pelouse
-  * Abattage d’arbre
-  * Paysagiste
-  * Entretien du jardin
-  * Aménagement terrasse
-  * Entretien arbres
-  * Aménagement allée de jardin
-  * Pose de véranda
-  * Installation de portail
-  * Pose de pergola
-  * Pose de store banne
-  * Montage d’abri de jardin
+Un grand merci à vous tous qui faites le succès de l’Observatoire du MENSONGE
+présent dans 178 pays et suivi par + 200.000 LECTEURS ! + 50 auteurs pour des
+tribunes libres vraiment libres
+
+Copyright obligatoire en cas de citation ou de transmission de cet article, vous
+      pouvez le copier: Alexandre Goldfarb pour Observatoiredumensonge ou
+               http://atomic-temporary-35846072.wpcomstaging.com
+Pour tous les mots ou phrases qui sont suivis de ce signe © vous devez également
+                     citer le copyright ci-dessus défini.
+
+                                  COMMENTAIRES
+
+Avertissement: Tous les commentaires sont de la responsabilité de leurs auteurs
+  respectifs et ne sauraient engager la responsabilité de L’Observatoire du
+MENSONGE et le site se réserve le droit de ne pas publier un ou des commentaires
+                     sans avoir à justifier sa décision.
+Evitez de mettre des liens car votre commentaire sera supprimé par le système.
+
+Pour soutenir Observatoire du MENSONGE , abonnez-vous annuellement au tarif
+unique de 2 € par mois***, choisissez votre moyen de paiement sécurisé
+ci-dessous :
+
+https://www.paypal.com/sdk/js?client-id=ATt5WV3q4QGI9NbtAQ8snVYH_yV8yArvQzTjDpeX
+YQOoTUGDBy3W2stJB6vN52gVlRS-glqR91M3p0Ol&vault=true&intent=subscription
+paypal.Buttons({ style: { shape: ‘rect’, color: ‘gold’, layout: ‘vertical’,
+label: ‘subscribe’ }, createSubscription: function(data, actions) { return
+actions.subscription.create({ /* Creates the subscription */ plan_id:
+‘P-34V44521A0311820XMCFTOOI’ }); }, onApprove: function(data, actions) {
+alert(data.subscriptionID); // You can add optional success message for the
+subscriber here }
+}).render(‘#paypal-button-container-P-34V44521A0311820XMCFTOOI’); // Renders the
+PayPal button
+
+Autre moyen de paiement proposé :
+
+Abonnement 2€ par mois*** et sécurisé par STRIPEEnvoi du formulaire
+
+*** En cadeau , vous recevrez chaque samedi, pendant la durée de votre
+abonnement, Semaine du MENSONGE, et ce gratuitement (Valeur du cadeau = 18€)
+
+♦ ♦ ♦ ♦ ♦
+
+Vous pouvez aussi vous abonner en un seul paiement, au prix exceptionnel et
+préférentiel de 20€ (au lieu de 24€) et recevoir chaque samedi Semaine du
+MENSONGE, en choisissant votre mode de paiement ci-dessous :
+
+Abonnement avec STRIPEEnvoi du formulaire
+[logo_paypal.gif]
+
+Abonnement annuel
+
+Soutenir Observatoire du MENSONGE
+
+20,00 €
+
+Partagez !
+
+  * Cliquer pour envoyer un lien par e-mail à un ami(ouvre dans une nouvelle
+fenêtre) E-mail
+  * Cliquer pour imprimer(ouvre dans une nouvelle fenêtre) Imprimer
   *
-  * Voir
+  * Tweet
+  *
+  * Cliquez pour partager sur minds(ouvre dans une nouvelle fenêtre) minds
+  * Cliquez pour partager sur Reddit(ouvre dans une nouvelle fenêtre) Reddit
+  * [pinit_fg_en_rect_gray_20.png]
+  * Partager sur Tumblr
+  * Pocket
+  * Cliquer pour partager sur Bluesky(ouvre dans une nouvelle fenêtre) Bluesky
+  * Cliquez pour partager sur WhatsApp(ouvre dans une nouvelle fenêtre) WhatsApp
+  * Cliquez pour partager sur Telegram(ouvre dans une nouvelle fenêtre) Telegram
+  * Cliquez pour partager sur VK(ouvre dans une nouvelle fenêtre) VK
+  *
 
-Services
-  * Mots fléchés, sudoku
-  * Citations et proverbes
-  * Billetterie
-  * Annonces immobilières
-  * Blog de vin
-  * Avis de décès
-  * Annonces légales
-  * Marchés publics
-  * Tous les services
-  * Voir
+J’aime chargement…
+Alexandre Goldfarb, desinformation, France, les 7 péchés capitaux, Les 7 péchés
+capitaux en politique, medias, mensonge, Observatoire du MENSONGE, politique,
+veaux
 
-Profitez des avantages de l’offre numérique
-  * L’intégralité des articles et vidéos
-  * L’info locale qui vous concerne
-  * Le journal numérique dès 22h30 la veille de sa parution
-  * Une navigation sans publicité
-  * Des offres privilèges avec le Club Le Parisien
+Read Next:
 
-Je m'abonne
-(BUTTON) Voir les liens rapides
+A LA QUEUE LEU LEU CHEZ MACRON
+  ___________________________________________________________________________
 
-Toute l'actualité politique
+Minute du MENSONGE
 
-  * Emmanuel Macron
-  * Sébastien Lecornu
-  * Bruno Retailleau
-  * Élisabeth Borne
-  * Gérald Darmanin
-  * Rachida Dati
-  * Manuel Valls
-  * François Bayrou
+21 réponses à « Les 7 péchés capitaux en politique »
 
-Élections
+ 1. Avatar de zodiac
+zodiac
+26 avril 2018
+Faudrait aussi penser à réformer l’ IENA ! Qu’Est-ce qu’ils ou elles apprennent
+? Les « 7 vertus cardinales » !!! []
+J’aimeJ’aime
+Réponse
+ 1. Avatar de Boris Kouglof
+Boris Kouglof
+27 avril 2018
+Intéressant de constater de visu que Zodiac c’est Negelman : même écriture, même
+ponctuation, même propagande !
+J’aimeJ’aime
+Réponse
+ 2. Avatar de Negelman
+Negelman
+8 décembre 2017
+Faut leur faire passer des « tests psycho » !!! *
+J’aimeJ’aime
+Réponse
+ 3. Avatar de La France ne marche plus! – "La politique est une poubelle qu’il
+faudrait vider plus souvent"©
+La France ne marche plus! – "La politique est une poubelle qu’il faudrait vider
+plus souvent"©
+27 septembre 2017
+[…] Les sept pêchés capitaux en politique […]
+J’aimeJ’aime
+Réponse
+ 4. Avatar de Negelman
+Negelman
+23 Mai 2017
+En Suède , là bas ils rigolent bien car, on ne badine pas avec la
+« transparence » , c’est sérieux et tu peux te retrouver sur la sellette pour
+avoir acheté du « chocolat » avec des « deniers publiques » !
+En outre, là bas …si un député veut un attaché , il passe une « annonce
+publique » dans le journal au lieu d’embaucher les « fils » et « filles » de la
+« noblesse politicienne » ….. justice ?!*
+Nos « illustres » sont très attachés aux « privilèges » et à la « TV » , on nous
+bassine avec les « rois solaires » , les marquis et même on parle des
+« courtisanes » et très rarement des « révolutionnaires » …meilleur façon
+d’étouffer la « révolte et la contestation » dans l’œuf !*
+J’aimeJ’aime
+Réponse
+ 5. Avatar de Negelman
+Negelman
+23 Mai 2017
+Pour la « luxure » , on a un « exemple planétaire » avec D. S. K et ces
+« parties fines » au Carlton accompagné d’un « haut fonctionnaire de la police
+du Nord  » et un « patron » du groupe EIFFAGE (rien que ça ?!) et, il as failli
+devenir le « président de la république  » ?
+J’aimeJ’aime
+Réponse
+ 6. Avatar de Negelman
+Negelman
+23 Mai 2017
+L’orgueil du capitaine BLIGH a mené la mutinerie à bord du BOUNTY en « 1789 »
+…c’était l’enfer à bord et puis une fois à terre en dans une « sécurité
+relative » , c’était l’enfer sur terre sur l’ ile de PITCAIRN .
+J’aimeJ’aime
+Réponse
+ 7. Avatar de Habana 25
+Habana 25
+21 Mai 2017
+Ce post est un véritable régal avec des vidéos bien choisies et très drôles.
+J’aimeJ’aime
+Réponse
+ 1. Avatar de Negelman
+Negelman
+23 Mai 2017
+Attention tout de même à ne pas trop ingurgiter …
+J’aimeJ’aime
+Réponse
+ 8. Avatar de Santiago
+Santiago
+21 Mai 2017
+Il existe bien d’autres « capitaux » :
+Bêtise – traitrise – couardise – avidité – …bref , tout les défauts de la terre
+habitent ces hommes et femmes qui se dises intelligents , une chose est sûre
+aucun parmi toute cette bande ne connait le mot ….modestie ou encore humilité
+!!!
+Bonne fin de semaine à vous tous.
+J’aimeJ’aime
+Réponse
+ 1. Avatar de Christian
+Christian
+21 Mai 2017
+Santiago, vous avez mentionné ces deux mots magiques: modestie et humilité. Ces
+qualités humaines peuvent faire paraître mou ou indolent, car elles font de la
+personne un être en apparence sans colonne vertébrale. Cependant, on ne peut
+déceler chez elles l’existence de ces péchés capitaux; et cela ne leur enlève
+pas la capacité de prendre des décisions importantes et bien éclairées en plus
+d’en assumer les résultats avec sérénité.
+J’aimeJ’aime
+Réponse
+ 1. Avatar de Negelman
+Negelman
+23 Mai 2017
+Je suis pas d’accord avec vous . On peut déceler les « péchés capitaux » en
+« deux mots » , « tests psychologiques » !
+J’aimeJ’aime
+Réponse
+ 9. Avatar de JOSEPHINE
+JOSEPHINE
+21 Mai 2017
+Jamais tous ces politiques ne se sont autant révélés être ce qu’ils étaient
+vraiment derrière l’ étiquette de leur parti. Soit rien de bien reluisant ! Leur
+course folle pour l’obtention d’un poste juteux leur permettant de retrouver
+leurs privilèges, au détriment des nôtres, ne leur a pas donné le temps d’avoir
+HONTE. Bouffés par l’orgueil, le plus grand des vices, la fierté est un
+sentiment qu’ils laissent aux Français d’ EN BAS !
+Ils se sont tous tirés dans les pattes avant de se ROULER une PELLE devant le
+tableau du Déshonneur !
+Merci Alexandre pour avoir approché ceux qui ont gagné cette élection pour
+accélérer la destruction de la FRANCE.
+Si Georges Duhamel a écrit que « Chaque civilisation a les ordures qu’elle
+mérite », je pense qu’aujourd’hui nous pouvons dire que les électeurs de Macron
+vont découvrir sous peu les ordures qu’ils méritent.
+Bien fait pour leurs gueules ! La mienne peut se regarder dans la glace.
+J’aimeJ’aime
+Réponse
+10. Avatar de Jean Fabert
+Jean Fabert
+21 Mai 2017
+Merci pour cette trouvaille que j’ai adorée et partagée.
+J’aimeJ’aime
+Réponse
+ 1. Avatar de Pour une opposition constructive
+Pour une opposition constructive
+21 Mai 2017
+Merci Jean et bonne semaine, Alexandre
+J’aimeJ’aime
+Réponse
+11. Avatar de Marie Tardon
+Marie Tardon
+21 Mai 2017
+Bon le classement qui place l’orgueil en premier car c’est vraiment par orgueil
+que tous ces politicards trahissent et renoncent à faire ce qu’il faut. Les
+vidéos sont bien choisies.
+J’aimeJ’aime
+Réponse
+ 1. Avatar de Pour une opposition constructive
+Pour une opposition constructive
+21 Mai 2017
+Merci Marie, bonne semaine Alexandre
+J’aimeJ’aime
+Réponse
+12. Avatar de Patricia Duchillet
+Patricia Duchillet
+21 Mai 2017
+Quelle belle idée que je viens de transmettre à tout mon carnet d’adresse.
+J’aimeJ’aime
+Réponse
+ 1. Avatar de Pour une opposition constructive
+Pour une opposition constructive
+21 Mai 2017
+Merci c’est sympa Patricia, bonne semaine Alexandre
+J’aimeJ’aime
+Réponse
+13. Avatar de Mimi Pensons
+Mimi Pensons
+21 Mai 2017
+Franchement excellent et drôle les vidéos: un grand merci pour ce moment! Bravo
+Alexandre.
+J’aimeJ’aime
+Réponse
+ 1. Avatar de Pour une opposition constructive
+Pour une opposition constructive
+21 Mai 2017
+Merci Mimi et bonne semaine Alexandre (Bonjour à René)
+J’aimeJ’aime
+Réponse
 
-  * Municipales 2026
-  * Élections municipales 2026 à Paris
-  * Élections municipales 2026 à Marseille
-  * Élections municipales 2026 à Lyon
-  * Présidentielle 2027
-  * Résultats élections
+Ecrire ci-dessous votre commentaire, vous pouvez utiliser un pseudo. Annuler la
+réponse.
 
-L'actualité par parti
+Δ
+_____________________________________________
+_____________________________________________
+_____________________________________________
+_____________________________________________
+_____________________________________________
+_____________________________________________
+_____________________________________________
+_____________________________________________
 
-  * LR
-  * Laurent Wauquiez
-  * LFI
-  * Jean-Luc Mélenchon
-  * Manuel Bompard
-  * Éric Coquerel
-  * Manon Aubry
-  * Rima Hassan
+Recherche
 
-  * Renaissance
-  * Gabriel Attal
-  * RN
-  * Jordan Bardella
-  * Marine Le Pen
+Recherche
+____________________ (BUTTON) Recherche
+  ___________________________________________________________________________
 
-  * Horizons
-  * Édouard Philippe
-  * Les Écologistes
-  * Marine Tondelier
-  * David Belliard
-  * PCF
-  * Fabien Roussel
-  * Ian Brossat
-  * PS
-  * Olivier Faure
+TOP 9
 
-Centre Français d’Exploitation du Droit de Copie
-Archives
-20262025202420232022202120202019201820172016
-Réveillon 2026
-Codes de réduction
-Résultats élections
+Les pendules à l'heure... Les pendules à l'heure…
+« Macron, le Président qui aura réussi à tout rater » « Macron, le Président qui
+aura réussi à tout rater »
+CONFIDENTIAL CONFIDENTIAL
+Meilleurs voeux pour 2026 Meilleurs voeux pour 2026
+👎👎 Un monde d’empaffés 👎👎 Un monde d’empaffés
+Bonne année 2026 ! Bonne année 2026 !
+Misère et tristesse Misère et tristesse
+A à Z ! A à Z !
+L'idéologie règne sans partage !!! L'idéologie règne sans partage !!!
+  ___________________________________________________________________________
 
-© Le Parisien
-Nous écrireQui sommes nous ?Nos chartesCGUPolitique de confidentialitéGestion
-des cookiesEspace proEspace presse
-Accessibilité numérique : partiellement conforme
+N’hésitez plus ! Soutenez-nous avec un abonnement à 2 € par mois
+et c’est 100% sécurisé
+Cliquer ICIEnvoi du formulaire
+  ___________________________________________________________________________
+
+Abonnez-vous
+Gratuitement :
+
+Saisissez votre adresse e-mail… ____________________
+
+(BUTTON) →
+
+Brigitte Bardot vient de partir pour un monde meilleur, celle qui
+resplendissait, incarnait une belle image de la France nous manquera ! Adieu BB
+!
+  ___________________________________________________________________________
+
+Catégories
+
+  * A LA UNE
+  * ACTUALITÉS
+  * Alex Blingbling
+  * Alexandre Goldfarb
+  * Amargeddon
+  * édition
+  * Bernard Bruyneel
+  * BEST OF
+  * Bld VOLTAIRE
+  * Breizh-info
+  * Claude Janvier
+  * Claude Picard
+  * CONFIDENTIAL
+  * Daniel Desurvire
+  * David Rosen
+  * DESINFORMATION
+  * Dupont-Aignan
+  * EDITO
+  * Edmond II Dantès
+  * Edouard Pic
+  * Ella Kelian
+  * ENQUÊTE EXCLUSIVE
+  * FABLE
+  * Général Roland Dubois
+  * Gérard Coutant
+  * Gérard-André Elles
+  * Henri de Gramond
+  * Hervé Azoulay
+  * HOLLYLAND©
+  * International
+  * Isabelle Nizard
+  * Ivan Rioufol
+  * Jacques Myard
+  * Jean de Lafoutaise
+  * Jean-Jacques Badine
+  * Jeanne Moulin d'Arc
+  * JM Pieri
+  * L'édito de Jean Contourn
+  * La Bajon
+  * La Revue du Mois
+  * Laristo du Web
+  * Le Citoyen Lambda
+  * LE REDOUTABLE
+  * LETTRE OUVERTE
+  * LIBRE COURS
+  * Luciano Lombardi
+  * Marianne Cheremetieff
+  * Mathilde Revenu
+  * Max Tango
+  * Maxime Tandonnet
+  * Mel Cara
+  * Mensonges & Propagande
+  * Mickey M.
+  * MINURNE
+  * Minute du MENSONGE
+  * Nanouche
+  * Observatoire du MENSONGE
+  * OJIM
+  * Pamela Geller
+  * PAMPHLET
+  * Pierre Arrault
+  * Pierre Galliez
+  * révélations
+  * Rik Zak
+  * RIPOSTE
+  * Riposte Laïque
+  * RIPOSTE MEDIATIQUE
+  * Robert Coignard
+  * Sam Suffi
+  * Sandra Freyburger
+  * SCOOP
+  * Tintin Lahurlette
+  * TRIBUNE LIBRE
+  * TRUMP
+  * TV-MENSONGE
+  * V comme Vérité
+  * VIDÉO
+  * Yvan Raphanel
+  ___________________________________________________________________________
+
+Nous soutenir
+
+Translate our website into your language by clicking here.
+
+Traduire le site dans la langue de votre choix et cliquer ICI
+
+N’hésitez plus ! Soutenez-nous avec un abonnement à 2 € par mois
+et c’est 100% sécurisé
+Cliquer ICIEnvoi du formulaire
+
+👎👎 Un monde d’empaffés 👎👎 Un monde d’empaffés
+A à Z ! A à Z !
+« Macron, le Président qui aura réussi à tout rater » « Macron, le Président qui
+aura réussi à tout rater »
+
+  * YouTube
+  * Facebook
+  * Twitter
+  * Bluesky
+
+tous droits réservés
+
+En savoir plus sur Observatoire du MENSONGE
+
+Abonnez-vous pour poursuivre la lecture et avoir accès à l’ensemble des
+archives.
+
+Saisissez votre adresse e-mail… ____________________
+
+(BUTTON) Abonnez-vous
+
+Poursuivre la lecture
+
+
+Chargement des commentaires…
+
+Écrire un commentaire...
+____________________________________________________________
+____________________________________________________________
+____________________________________________________________
+____________________________________________________________
+
+E-mail (requis) ____________________
+
+Nom (requis) ____________________
+
+Site web ____________________
+
+Laisser un commentaire
+
+  * Commentaire
+  * Rebloguer
+  * S'abonner Abonné
+  + Observatoire du MENSONGE
+Rejoignez 1 995 autres abonnés
+____________________
+(M’inscrire) M’inscrire
+  + Vous disposez déjà dʼun compte WordPress ? Connectez-vous maintenant.
+  * Confidentialité
+  *
+  + Observatoire du MENSONGE
+  + S'abonner Abonné
+  + S’inscrire
+  + Connexion
+  + Copier lien court
+  + Signaler ce contenu
+  + Voir la publication dans le Lecteur
+  + Gérer les abonnements
+  + Réduire cette barre
+
+IFRAME: likes-master
+
+%d

@@ -1,16 +1,16 @@
-HTTP/2 200 server: nginx date: Sat, 03 Jan 2026 16:39:19 GMT content-type:
+HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 17:17:07 GMT content-type:
 text/html; charset=UTF-8 vary: Accept-Encoding link: /npc-web.com/wp-json/>;
 rel="https://api.w.org/", /npc-web.com/wp-json/wp/v2/pages/4008>;
 rel="alternate"; title="JSON"; type="application/json", /npc-web.com/?p=4008>;
-rel=shortlink set-cookie: pvc_visits[0]=1767544759b4008; expires=Sun, 04 Jan
-2026 16:39:19 GMT; Max-Age=86400; path=/; secure; SameSite=LAX
+rel=shortlink set-cookie: pvc_visits[0]=1767633427b4008; expires=Mon, 05 Jan
+2026 17:17:07 GMT; Max-Age=86400; path=/; secure; SameSite=LAX
 content-security-policy: frame-ancestors 'self' https://sites.google.com
 https://*.google.com https://*.googleusercontent.com #AIと語る-世界のむかし話 » フィード
 AIと語る-世界のむかし話 » コメントフィード oEmbed (JSON) oEmbed (XML) JSON
 
 コンテンツへスキップ
 
-  * 2026年1月4日
+  * 2026年1月5日
   *
 
   *
@@ -32,6 +32,7 @@ AIと語る-世界のむかし話
   * アフリカのむかし話
   * アメリカの昔話
   * アラビアの伝承
+  * アラビアンナイト
   * アンデルセン童話
   * イギリスの昔話
   * イスラム教神話
@@ -256,11 +257,11 @@ ____________________ (BUTTON) 検索
 
 最近の投稿
 
+  * アリババを救った女・モルジアナとは何者か｜語られなかった真の英雄
   * スカジ（Skaði）とは？冬と狩猟を司る北欧神話の女神
   * 七福神はなぜごちゃまぜ？日本人の信仰が生んだ“福のドリームチーム”を徹底解説
   * ウィリアム・テルの伝説は本当？由来と史実との関係を徹底解説｜スイス独立の英雄
   * 世界の正月に訪れる神や怪物たち｜新年に交わる神話と風習まとめ
-  * 羽付き（羽根つき）とは？起源・意味・正月文化としての楽しみ方を完全解説
 
 童話・昔話ランキング
 童話・昔話ランキング
@@ -294,6 +295,7 @@ ____________________ (BUTTON) 検索
   * アフリカのむかし話
   * アメリカの昔話
   * アラビアの伝承
+  * アラビアンナイト
   * アンデルセン童話
   * イギリスの昔話
   * イスラム教神話

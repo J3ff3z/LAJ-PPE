@@ -1,6 +1,6 @@
 HTTP/1.1 200 OK
 Server: nginx/1.24.0 (Ubuntu)
-Date: Sat, 03 Jan 2026 16:53:13 GMT
+Date: Sun, 04 Jan 2026 17:35:52 GMT
 Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -82,7 +82,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 <script src="https://sensualnosc.bn.org.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script src="https://sensualnosc.bn.org.pl/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
 <script id="czr-init-js-extra">
-var CZRParams = {"assetsPath":"https:\/\/sensualnosc.bn.org.pl\/wp-content\/themes\/customizr\/assets\/front\/","mainScriptUrl":"https:\/\/sensualnosc.bn.org.pl\/wp-content\/themes\/customizr\/assets\/front\/js\/tc-scripts.min.js?4.4.22","deferFontAwesome":"1","fontAwesomeUrl":"https:\/\/sensualnosc.bn.org.pl\/wp-content\/themes\/customizr\/assets\/shared\/fonts\/fa\/css\/fontawesome-all.min.css?4.4.22","_disabled":[],"centerSliderImg":"1","isLightBoxEnabled":"1","SmoothScroll":{"Enabled":true,"Options":{"touchpadSupport":false}},"isAnchorScrollEnabled":"","anchorSmoothScrollExclude":{"simple":["[class*=edd]",".carousel-control","[data-toggle=\"modal\"]","[data-toggle=\"dropdown\"]","[data-toggle=\"czr-dropdown\"]","[data-toggle=\"tooltip\"]","[data-toggle=\"popover\"]","[data-toggle=\"collapse\"]","[data-toggle=\"czr-collapse\"]","[data-toggle=\"tab\"]","[data-toggle=\"pill\"]","[data-toggle=\"czr-pill\"]","[class*=upme]","[class*=um-]"],"deep":{"classes":[],"ids":[]}},"timerOnScrollAllBrowsers":"1","centerAllImg":"1","HasComments":"","LoadModernizr":"1","stickyHeader":"","extLinksStyle":"","extLinksTargetExt":"","extLinksSkipSelectors":{"classes":["btn","button"],"ids":[]},"dropcapEnabled":"","dropcapWhere":{"post":"","page":""},"dropcapMinWords":"","dropcapSkipSelectors":{"tags":["IMG","IFRAME","H1","H2","H3","H4","H5","H6","BLOCKQUOTE","UL","OL"],"classes":["btn"],"id":[]},"imgSmartLoadEnabled":"1","imgSmartLoadOpts":{"parentSelectors":["[class*=grid-container], .article-container",".__before_main_wrapper",".widget-front",".post-related-articles",".tc-singular-thumbnail-wrapper",".sek-module-inner"],"opts":{"excludeImg":[".tc-holder-img"]}},"imgSmartLoadsForSliders":"1","pluginCompats":[],"isWPMobile":"","menuStickyUserSettings":{"desktop":"stick_up","mobile":"stick_up"},"adminAjaxUrl":"https:\/\/sensualnosc.bn.org.pl\/wp-admin\/admin-ajax.php","ajaxUrl":"https:\/\/sensualnosc.bn.org.pl\/?czrajax=1","frontNonce":{"id":"CZRFrontNonce","handle":"e16b94e9be"},"isDevMode":"","isModernStyle":"1","i18n":{"Permanently dismiss":"Permanently dismiss"},"frontNotifications":{"welcome":{"enabled":false,"content":"","dismissAction":"dismiss_welcome_note_front"}},"preloadGfonts":"1","googleFonts":"Source+Sans+Pro","version":"4.4.22"};
+var CZRParams = {"assetsPath":"https:\/\/sensualnosc.bn.org.pl\/wp-content\/themes\/customizr\/assets\/front\/","mainScriptUrl":"https:\/\/sensualnosc.bn.org.pl\/wp-content\/themes\/customizr\/assets\/front\/js\/tc-scripts.min.js?4.4.22","deferFontAwesome":"1","fontAwesomeUrl":"https:\/\/sensualnosc.bn.org.pl\/wp-content\/themes\/customizr\/assets\/shared\/fonts\/fa\/css\/fontawesome-all.min.css?4.4.22","_disabled":[],"centerSliderImg":"1","isLightBoxEnabled":"1","SmoothScroll":{"Enabled":true,"Options":{"touchpadSupport":false}},"isAnchorScrollEnabled":"","anchorSmoothScrollExclude":{"simple":["[class*=edd]",".carousel-control","[data-toggle=\"modal\"]","[data-toggle=\"dropdown\"]","[data-toggle=\"czr-dropdown\"]","[data-toggle=\"tooltip\"]","[data-toggle=\"popover\"]","[data-toggle=\"collapse\"]","[data-toggle=\"czr-collapse\"]","[data-toggle=\"tab\"]","[data-toggle=\"pill\"]","[data-toggle=\"czr-pill\"]","[class*=upme]","[class*=um-]"],"deep":{"classes":[],"ids":[]}},"timerOnScrollAllBrowsers":"1","centerAllImg":"1","HasComments":"","LoadModernizr":"1","stickyHeader":"","extLinksStyle":"","extLinksTargetExt":"","extLinksSkipSelectors":{"classes":["btn","button"],"ids":[]},"dropcapEnabled":"","dropcapWhere":{"post":"","page":""},"dropcapMinWords":"","dropcapSkipSelectors":{"tags":["IMG","IFRAME","H1","H2","H3","H4","H5","H6","BLOCKQUOTE","UL","OL"],"classes":["btn"],"id":[]},"imgSmartLoadEnabled":"1","imgSmartLoadOpts":{"parentSelectors":["[class*=grid-container], .article-container",".__before_main_wrapper",".widget-front",".post-related-articles",".tc-singular-thumbnail-wrapper",".sek-module-inner"],"opts":{"excludeImg":[".tc-holder-img"]}},"imgSmartLoadsForSliders":"1","pluginCompats":[],"isWPMobile":"","menuStickyUserSettings":{"desktop":"stick_up","mobile":"stick_up"},"adminAjaxUrl":"https:\/\/sensualnosc.bn.org.pl\/wp-admin\/admin-ajax.php","ajaxUrl":"https:\/\/sensualnosc.bn.org.pl\/?czrajax=1","frontNonce":{"id":"CZRFrontNonce","handle":"89b328f71f"},"isDevMode":"","isModernStyle":"1","i18n":{"Permanently dismiss":"Permanently dismiss"},"frontNotifications":{"welcome":{"enabled":false,"content":"","dismissAction":"dismiss_welcome_note_front"}},"preloadGfonts":"1","googleFonts":"Source+Sans+Pro","version":"4.4.22"};
 </script>
 <script src="https://sensualnosc.bn.org.pl/wp-content/themes/customizr/assets/front/js/tc-init.min.js?ver=4.4.22" id="czr-init-js"></script>
 <script src="https://sensualnosc.bn.org.pl/wp-content/themes/customizr/assets/front/js/libs/modernizr.min.js?ver=4.4.22" id="modernizr-js"></script>
@@ -295,9 +295,9 @@ body {
       <div class="czr-search-expand-inner"><div class="search-form__container " >
   <form action="https://sensualnosc.bn.org.pl/" method="get" class="czr-form search-form">
     <div class="form-group czr-focus">
-            <label for="s-695949504448e" id="lsearch-695949504448e">
+            <label for="s-695aa4ced2c87" id="lsearch-695aa4ced2c87">
         <span class="screen-reader-text">Szukaj</span>
-        <input id="s-695949504448e" class="form-control czr-search-field" name="s" type="search" value="" aria-describedby="lsearch-695949504448e" placeholder="Szukaj &hellip;">
+        <input id="s-695aa4ced2c87" class="form-control czr-search-field" name="s" type="search" value="" aria-describedby="lsearch-695aa4ced2c87" placeholder="Szukaj &hellip;">
       </label>
       <button type="submit" class="button"><i class="icn-search"></i><span class="screen-reader-text">Szukaj &hellip;</span></button>
     </div>
@@ -329,9 +329,9 @@ body {
       <div class="czr-search-expand-inner"><div class="search-form__container " >
   <form action="https://sensualnosc.bn.org.pl/" method="get" class="czr-form search-form">
     <div class="form-group czr-focus">
-            <label for="s-69594950447ae" id="lsearch-69594950447ae">
+            <label for="s-695aa4ced2fbf" id="lsearch-695aa4ced2fbf">
         <span class="screen-reader-text">Szukaj</span>
-        <input id="s-69594950447ae" class="form-control czr-search-field" name="s" type="search" value="" aria-describedby="lsearch-69594950447ae" placeholder="Szukaj &hellip;">
+        <input id="s-695aa4ced2fbf" class="form-control czr-search-field" name="s" type="search" value="" aria-describedby="lsearch-695aa4ced2fbf" placeholder="Szukaj &hellip;">
       </label>
       <button type="submit" class="button"><i class="icn-search"></i><span class="screen-reader-text">Szukaj &hellip;</span></button>
     </div>
@@ -343,9 +343,9 @@ body {
   <div class="search-form__container " >
   <form action="https://sensualnosc.bn.org.pl/" method="get" class="czr-form search-form">
     <div class="form-group czr-focus">
-            <label for="s-69594950448cb" id="lsearch-69594950448cb">
+            <label for="s-695aa4ced30e3" id="lsearch-695aa4ced30e3">
         <span class="screen-reader-text">Szukaj</span>
-        <input id="s-69594950448cb" class="form-control czr-search-field" name="s" type="search" value="" aria-describedby="lsearch-69594950448cb" placeholder="Szukaj &hellip;">
+        <input id="s-695aa4ced30e3" class="form-control czr-search-field" name="s" type="search" value="" aria-describedby="lsearch-695aa4ced30e3" placeholder="Szukaj &hellip;">
       </label>
       <button type="submit" class="button"><i class="icn-search"></i><span class="screen-reader-text">Szukaj &hellip;</span></button>
     </div>

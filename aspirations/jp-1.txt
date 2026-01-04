@@ -1,37 +1,38 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:28:22 GMT
-server: mw-web.eqiad.main-8f8dcf6c-9thz4
+date: Sun, 04 Jan 2026 14:57:14 GMT
+server: mw-web.eqiad.main-8f8dcf6c-9zkgl
 x-content-type-options: nosniff
 content-language: ja
 accept-ch: 
-last-modified: Sat, 20 Dec 2025 16:28:22 GMT
+last-modified: Sun, 21 Dec 2025 14:57:14 GMT
 content-type: text/html; charset=UTF-8
-age: 598
+age: 8290
 accept-ranges: bytes
-x-cache: cp6012 miss, cp6016 hit/2
+x-cache: cp6012 miss, cp6016 hit/1
 x-cache-status: hit-front
 server-timing: cache;desc="hit-front", host;desc="cp6016"
 strict-transport-security: max-age=106384710; includeSubDomains; preload
 report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
 nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
-set-cookie: WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT
-set-cookie: WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT
-set-cookie: WMF-DP=03c;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+set-cookie: WMF-Last-Access=04-Jan-2026;Path=/;HttpOnly;secure;Expires=Thu, 05 Feb 2026 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=04-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Thu, 05 Feb 2026 12:00:00 GMT
+set-cookie: WMF-DP=8af;Path=/;HttpOnly;secure;Expires=Mon, 05 Jan 2026 00:00:00 GMT
 x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7
 cache-control: private, s-maxage=0, max-age=0, must-revalidate, no-transform
 vary: Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent
 set-cookie: GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
 set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
-set-cookie: WMF-Uniq=vO8-Bt8VE5ooJWSrhOicTgLdAAAAAFvdtJD9vde7xmtFvoDVmBgnQvdUBetUiVoE;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027 00:00:00 GMT
-content-length: 151072
-x-request-id: e946175b-ab4c-4264-b548-ae4c2edca165
+set-cookie: WMF-Uniq=ZnvnuDSYcwP-6DHCpNeTggLeAAAAAFvd5dLJxx0PBUlEAlkjQE5vUu2_Yz7O_iz2;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027 00:00:00 GMT
+server-timing: WMF-Uniq;fy25-26-we-4-2-hcaptcha-editing=control;
+content-length: 151273
+x-request-id: a2f46555-a01f-4bd7-b0e9-ae33e15ee4e4
 
 <!DOCTYPE html>
 <html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ja" dir="ltr">
 <head>
 <meta charset="UTF-8">
 <title>七つの大罪 - Wikipedia</title>
-<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )jawikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"3bae2feb-edcb-4647-b1c1-52a42a5fb6fd","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"七つの大罪","wgTitle":"七つの大罪","wgCurRevisionId":106990891,"wgRevisionId":106990891,"wgArticleId":24748,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["ISBNマジックリンクを使用しているページ","出典を必要とする節のある記事/2014年1月-3月","七つの大罪","カトリックの教義","キリスト教用語","キリスト教関連の思想","名数7","ラテン語の成句","罪","キリスト教倫理"],"wgPageViewLanguage":"ja","wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgRelevantPageName":"七つの大罪","wgRelevantArticleId":24748,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","pageVariantFallbacks":"ja"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgWMEPageLengthBucket":3,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q166502","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":false,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )jawikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"428a9916-7289-450e-a4ad-eaefc3b1f7ae","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"七つの大罪","wgTitle":"七つの大罪","wgCurRevisionId":106990891,"wgRevisionId":106990891,"wgArticleId":24748,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["ISBNマジックリンクを使用しているページ","出典を必要とする節のある記事/2014年1月-3月","七つの大罪","カトリックの教義","キリスト教用語","キリスト教関連の思想","名数7","ラテン語の成句","罪","キリスト教倫理"],"wgPageViewLanguage":"ja","wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgRelevantPageName":"七つの大罪","wgRelevantArticleId":24748,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":"fancy captcha","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","pageVariantFallbacks":"ja"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgWMEPageLengthBucket":3,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q166502","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":false,"wgMetricsPlatformUserExperiments":{"active_experiments":["fy25-26-we-4-2-hcaptcha-editing"],"overrides":[],"enrolled":["fy25-26-we-4-2-hcaptcha-editing"],"assigned":{"fy25-26-we-4-2-hcaptcha-editing":"control"},"subject_ids":{"fy25-26-we-4-2-hcaptcha-editing":"awaiting"},"sampling_units":{"fy25-26-we-4-2-hcaptcha-editing":"edge-unique"},"coordinator":{"fy25-26-we-4-2-hcaptcha-editing":"xLab"}}};
 RLSTATE={"ext.gadget.PDFLinkIcon":"ready","ext.gadget.RedirectColor":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.NormalizeCharWidth","ext.gadget.suppressEnterAtSummaryBox","ext.gadget.checkSignature","ext.gadget.charinsert","ext.gadget.WikiMiniAtlas","ext.gadget.switcher","ext.gadget.protectionIndicator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 }];});});</script>
@@ -63,7 +64,7 @@ RLSTATE={"ext.gadget.PDFLinkIcon":"ready","ext.gadget.RedirectColor":"ready","ex
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <link rel="dns-prefetch" href="auth.wikimedia.org">
 </head>
-<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-七つの大罪 rootpage-七つの大罪 skin-vector-2022 action-view">
+<body class="xlab-experiment-fy25-26-we-4-2-hcaptcha-editing xlab-experiment-fy25-26-we-4-2-hcaptcha-editing-control skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-七つの大罪 rootpage-七つの大罪 skin-vector-2022 action-view">
 <div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">コンテンツにスキップ</a>
 <div class="vector-header-container">
 	<header class="vector-header mw-header no-font-mode-scale">
@@ -924,13 +925,13 @@ RLSTATE={"ext.gadget.PDFLinkIcon":"ready","ext.gadget.RedirectColor":"ready","ex
 <div role="navigation" class="navbox authority-control" aria-labelledby="典拠管理データベース&#95;frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=ウィキデータを編集&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q166502#identifiers&amp;#124;class=noprint&amp;#124;ウィキデータを編集" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="典拠管理データベース&#95;frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=ウィキデータを編集&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q166502#identifiers&amp;#124;class=noprint&amp;#124;ウィキデータを編集" style="font-size:110%;margin:0 4em"><a href="/wiki/Help:%E5%85%B8%E6%8B%A0%E7%AE%A1%E7%90%86" title="Help:典拠管理">典拠管理データベース</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q166502#identifiers" title="ウィキデータを編集"><img alt="ウィキデータを編集" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">全般</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://id.worldcat.org/fast/888432">FAST</a></span></li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">国立図書館</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4185605-3">ドイツ</a></span></li><li><span class="uid"><abbr title="Deadly sins"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/sh85036044">アメリカ</a></abbr></span></li><li><span class="uid"><abbr title="Péchés capitaux"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb119750324">フランス</a></abbr></span></li><li><span class="uid"><abbr title="Péchés capitaux"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb119750324">BnF data</a></abbr></span></li><li><span class="uid"><abbr title="Pecados capitales"><a rel="nofollow" class="external text" href="https://datos.bne.es/resource/XX525522">スペイン</a></abbr></span></li><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.nli.org.il/en/authorities/987007543232805171">イスラエル</a></span></li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">その他</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://lux.collections.yale.edu/view/concept/15c9dc18-e40a-44cd-a840-0c36fd304bbd">Yale LUX</a></span></li></ul></div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.codfw.main‐ff4bf79f8‐96rgs
-Cached time: 20260103001446
-Cache expiry: 85516
+Parsed by mw‐web.codfw.main‐ff4bf79f8‐jrhk2
+Cached time: 20260104004703
+Cache expiry: 83590
 Reduced expiry: true
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 0.279 seconds
-Real time usage: 0.467 seconds
+CPU time usage: 0.295 seconds
+Real time usage: 0.470 seconds
 Preprocessor visited node count: 2708/1000000
 Revision size: 12215/2097152 bytes
 Post‐expand include size: 59539/2097152 bytes
@@ -939,25 +940,25 @@ Highest expansion depth: 23/100
 Expensive parser function count: 15/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 12970/5000000 bytes
-Lua time usage: 0.091/10.000 seconds
+Lua time usage: 0.098/10.000 seconds
 Lua memory usage: 4091253/52428800 bytes
 Number of Wikibase entities loaded: 1/500
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  280.691      1 -total
- 24.68%   69.265      2 Template:Reflist
- 21.55%   60.481      1 Template:出典の明記
- 18.79%   52.750      1 Template:Ambox
- 13.05%   36.617      1 Template:Normdaten
-  9.84%   27.627      1 Template:Find_sources_mainspace
-  9.75%   27.364      1 Template:Cite_book
-  8.99%   25.242      1 Template:Commonscat
-  8.77%   24.618      1 Template:Citation/core-ja-jp
-  8.76%   24.597     13 Template:仮リンク
+100.00%  285.361      1 -total
+ 25.52%   72.815      2 Template:Reflist
+ 24.24%   69.161      1 Template:出典の明記
+ 21.05%   60.055      1 Template:Ambox
+ 12.15%   34.660      1 Template:Normdaten
+ 10.97%   31.294      1 Template:Find_sources_mainspace
+ 10.17%   29.014      1 Template:Cite_book
+  8.99%   25.651      1 Template:Citation/core-ja-jp
+  8.42%   24.015      1 Template:Commonscat
+  8.03%   22.908      1 Template:Sister
 -->
 
-<!-- Saved in parser cache with key jawiki:pcache:24748:|#|:idhash:canonical and timestamp 20260103001446 and revision id 106990891. Rendering was triggered because: page_view
+<!-- Saved in parser cache with key jawiki:pcache:24748:|#|:idhash:canonical and timestamp 20260104004703 and revision id 106990891. Rendering was triggered because: page_view
  -->
 </div><noscript><img src="https://ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
 <div class="printfooter" data-nosnippet="">「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=七つの大罪&amp;oldid=106990891">https://ja.wikipedia.org/w/index.php?title=七つの大罪&amp;oldid=106990891</a>」から取得</div></div>
@@ -1097,7 +1098,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		
 	</ul>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8f8dcf6c-9thz4","wgBackendResponseTime":134,"wgPageParseReport":{"limitreport":{"cputime":"0.279","walltime":"0.467","ppvisitednodes":{"value":2708,"limit":1000000},"revisionsize":{"value":12215,"limit":2097152},"postexpandincludesize":{"value":59539,"limit":2097152},"templateargumentsize":{"value":3985,"limit":2097152},"expansiondepth":{"value":23,"limit":100},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":12970,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00%  280.691      1 -total"," 24.68%   69.265      2 Template:Reflist"," 21.55%   60.481      1 Template:出典の明記"," 18.79%   52.750      1 Template:Ambox"," 13.05%   36.617      1 Template:Normdaten","  9.84%   27.627      1 Template:Find_sources_mainspace","  9.75%   27.364      1 Template:Cite_book","  8.99%   25.242      1 Template:Commonscat","  8.77%   24.618      1 Template:Citation/core-ja-jp","  8.76%   24.597     13 Template:仮リンク"]},"scribunto":{"limitreport-timeusage":{"value":"0.091","limit":"10.000"},"limitreport-memusage":{"value":4091253,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-ff4bf79f8-96rgs","timestamp":"20260103001446","ttl":85516,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8f8dcf6c-9zkgl","wgBackendResponseTime":124,"wgPageParseReport":{"limitreport":{"cputime":"0.295","walltime":"0.470","ppvisitednodes":{"value":2708,"limit":1000000},"revisionsize":{"value":12215,"limit":2097152},"postexpandincludesize":{"value":59539,"limit":2097152},"templateargumentsize":{"value":3985,"limit":2097152},"expansiondepth":{"value":23,"limit":100},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":12970,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00%  285.361      1 -total"," 25.52%   72.815      2 Template:Reflist"," 24.24%   69.161      1 Template:出典の明記"," 21.05%   60.055      1 Template:Ambox"," 12.15%   34.660      1 Template:Normdaten"," 10.97%   31.294      1 Template:Find_sources_mainspace"," 10.17%   29.014      1 Template:Cite_book","  8.99%   25.651      1 Template:Citation/core-ja-jp","  8.42%   24.015      1 Template:Commonscat","  8.03%   22.908      1 Template:Sister"]},"scribunto":{"limitreport-timeusage":{"value":"0.098","limit":"10.000"},"limitreport-memusage":{"value":4091253,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-ff4bf79f8-jrhk2","timestamp":"20260104004703","ttl":83590,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u4e03\u3064\u306e\u5927\u7f6a","url":"https:\/\/ja.wikipedia.org\/wiki\/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA","sameAs":"http:\/\/www.wikidata.org\/entity\/Q166502","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q166502","author":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u3078\u306e\u8ca2\u732e\u8005"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-11-08T20:10:55Z","dateModified":"2025-10-27T03:01:07Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/03\/Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG"}</script>
 </body>
 </html>

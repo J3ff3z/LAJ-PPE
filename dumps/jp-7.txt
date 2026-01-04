@@ -1,11 +1,10 @@
-HTTP/2 200 content-type: text/html; charset=utf-8 content-length: 334307 date:
-Sat, 03 Jan 2026 16:38:44 GMT x-envoy-upstream-service-time: 226 vary:
-Accept-Encoding vary: User-Agent cache-control: no-cache="Set-Cookie"
-x-xss-protection: 1; mode=block x-frame-options: SAMEORIGIN
-x-content-type-options: nosniff strict-transport-security: max-age=31536000
-content-security-policy: script-src
-'sha256-Puqj/tApvr5I3LAINhTkGXVTQBxVLq3lC6tgCErasRE='
-'nonce-SC/OnYSuwVHWfS6BIQqY5Q==' 'self' 'unsafe-inline' https://note.com
+HTTP/2 200 content-type: text/html; charset=utf-8 content-length: 334293 date:
+Sun, 04 Jan 2026 17:16:03 GMT x-envoy-upstream-service-time: 235 vary:
+Accept-Encoding cache-control: no-cache="Set-Cookie" x-xss-protection: 1;
+mode=block x-frame-options: SAMEORIGIN x-content-type-options: nosniff
+strict-transport-security: max-age=31536000 content-security-policy: script-src
+'sha256-01/K60dyEnAaUX8uLo/Bb+j/z8q1i6+bPkFTxUhFWpM='
+'nonce-i188dIjlm4nG1qPmjxjvEA==' 'self' 'unsafe-inline' https://note.com
 https://d291vdycu0ht11.cloudfront.net https://d2l930y2yx77uc.cloudfront.net
 https://cdn.st-note.com https://www.googletagmanager.com
 https://www.google-analytics.com https://www.googleanalytics.com
@@ -30,10 +29,10 @@ https://*.hubspotfeedback.com https://feedback.hubapi.com
 https://static.ads-twitter.com https://static.paypay.ne.jp
 https://static-fe.payments-amazon.com https://embed.bsky.app/static/embed.js
 https://sdk.immedio.io; object-src 'none'; base-uri 'self' etag:
-"519e3-1Xf7/FttX/6QFhPwrLb5WW4uJEk" accept-ranges: none x-cache: Miss from
-cloudfront via: 1.1 541b3521516c2ab2d19244b7072c9f9a.cloudfront.net (CloudFront)
+"519d5-1NVOQf48FpVCQlJ012e+JdliCJI" accept-ranges: none x-cache: Miss from
+cloudfront via: 1.1 2f66f74411c5a2447c09372eb79e674e.cloudfront.net (CloudFront)
 x-amz-cf-pop: CDG52-P6 x-amz-cf-id:
-rutplWPsj149cn4e629wXJo1lJi01ZQwr6IhZPzvkYpbI6YVn-LPIA==
+Ux2cVOTamVNoTYG82PGar3uRajhwLUe73AeZWTbWXXfWkUUSo4wD7g==
 
 (BUTTON)
 ログイン

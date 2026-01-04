@@ -1,19 +1,19 @@
 HTTP/2 200 content-type: text/html; charset=utf-8 cache-control: max-age=5 etag:
-W/"16378-MhjjtBac14ACeODWoCfmLHXHvCI" server-timing: data; dur=57, rendering;
-dur=7, total; dur=65.986312; desc="Total Response Time"
-x-envoy-upstream-service-time: 66 x-envoy-decorator-operation:
+W/"16381-MokVYkNuR0aJaoZVCSIvOoDGzZ8" server-timing: data; dur=177, rendering;
+dur=8, total; dur=186.11785999999998; desc="Total Response Time"
+x-envoy-upstream-service-time: 191 x-envoy-decorator-operation:
 public-web.blog.svc.cluster.local:8080/* x-is-default-ttl: false x-cdn-ttl:
-86400.000 accept-ranges: bytes age: 596 date: Sat, 03 Jan 2026 16:42:49 GMT
-x-timer: S1767458570.643015,VS0,VE1 vary:
+86400.000 accept-ranges: bytes age: 8262 date: Sun, 04 Jan 2026 17:23:20 GMT
+x-timer: S1767547401.941379,VS0,VE2 vary:
 Origin,Accept-Encoding,X-User-Agent,X-Loading server-timing: HIT-CLUSTER,
-fastly;desc="Edge time";dur=1 timing-allow-origin: * x-content-type-options:
+fastly;desc="Edge time";dur=2 timing-allow-origin: * x-content-type-options:
 nosniff content-security-policy: upgrade-insecure-requests x-user-agent: desktop
 x-loading: ?0 origin-trial:
 AgkzE0SdPqccfaG9xo/nbroJVd9BqLU0uZCCQbV46yVUMHh4r8RDCAWLKP8BgMPiXpQLpE/b2F9w+bJK
 wTj9Zg8AAAB1eyJvcmlnaW4iOiJodHRwczovL2FtZWJsby5qcDo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1
 bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4i
 OnRydWV9 accept-ch: Sec-CH-UA-Full permissions-policy: ch-ua-full=*
-content-length: 91000 #RSS alternate alternate alternate
+content-length: 91009 #RSS alternate alternate alternate
 
 天つ罪 | なずなず日記
 

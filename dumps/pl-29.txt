@@ -3,7 +3,7 @@ must-revalidate x-ua-compatible: IE=edge x-pingback:
 https://www.ipri.pl/xmlrpc.php link: /www.ipri.pl/wp-json/>;
 rel="https://api.w.org/", /www.ipri.pl/wp-json/wp/v2/pages/278>;
 rel="alternate"; title="JSON"; type="application/json", /www.ipri.pl/?p=278>;
-rel=shortlink hummingbird-cache: Served date: Sat, 03 Jan 2026 16:47:58 GMT
+rel=shortlink hummingbird-cache: Served date: Sun, 04 Jan 2026 17:29:33 GMT
 server: LiteSpeed retry-after: 3 vary: User-Agent alt-svc: h3=":443";
 ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000,
 h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000;

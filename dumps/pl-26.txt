@@ -1,9 +1,9 @@
 HTTP/1.1 200 OK Cache-Control: max-age=604800 Content-Type: text/html
-Last-Modified: Mon, 30 Jun 2025 05:26:38 GMT Accept-Ranges: bytes ETag:
-"7a7dd58d7fe9db1:0" Server: Microsoft-IIS/10.0 Referrer-Policy:
+Last-Modified: Mon, 30 Jun 2025 05:24:55 GMT Accept-Ranges: bytes ETag:
+"802d2507fe9db1:0" Server: Microsoft-IIS/10.0 Referrer-Policy:
 strict-origin-when-cross-origin X-Frame-Options: SAMEORIGIN
 Content-Security-Policy: frame-ancestors 'self' https://*.gotquestions.org Date:
-Sat, 03 Jan 2026 16:47:47 GMT Content-Length: 14208
+Sun, 04 Jan 2026 17:29:19 GMT Content-Length: 14208
 
 settings icon
 

@@ -1,19 +1,19 @@
 HTTP/2 200 content-type: text/html; charset=utf-8 cache-control: max-age=5 etag:
-W/"1ae94-R47FarhjzMKigT9D8O2/jdL1NYE" server-timing: data; dur=62, rendering;
-dur=6, total; dur=69.764855; desc="Total Response Time"
-x-envoy-upstream-service-time: 74 x-envoy-decorator-operation:
+W/"1ae99-CYtALGDfQbJU4T+wfcGt5RUX/gA" server-timing: data; dur=131, rendering;
+dur=11, total; dur=145.157229; desc="Total Response Time"
+x-envoy-upstream-service-time: 199 x-envoy-decorator-operation:
 public-web.blog.svc.cluster.local:8080/* x-is-default-ttl: false x-cdn-ttl:
-86400.000 accept-ranges: bytes age: 602 date: Sat, 03 Jan 2026 16:42:07 GMT
-x-timer: S1767458527.086888,VS0,VE1 vary:
+86400.000 accept-ranges: bytes age: 8260 date: Sun, 04 Jan 2026 17:21:57 GMT
+x-timer: S1767547317.146842,VS0,VE3 vary:
 Origin,Accept-Encoding,X-User-Agent,X-Loading server-timing: HIT-CLUSTER,
-fastly;desc="Edge time";dur=1 timing-allow-origin: * x-content-type-options:
+fastly;desc="Edge time";dur=3 timing-allow-origin: * x-content-type-options:
 nosniff content-security-policy: upgrade-insecure-requests x-user-agent: desktop
 x-loading: ?0 origin-trial:
 AgkzE0SdPqccfaG9xo/nbroJVd9BqLU0uZCCQbV46yVUMHh4r8RDCAWLKP8BgMPiXpQLpE/b2F9w+bJK
 wTj9Zg8AAAB1eyJvcmlnaW4iOiJodHRwczovL2FtZWJsby5qcDo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1
 bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4i
 OnRydWV9 accept-ch: Sec-CH-UA-Full permissions-policy: ch-ua-full=*
-content-length: 110228 #RSS alternate alternate alternate
+content-length: 110233 #RSS alternate alternate alternate
 
 「七つの大罪」（1952年作品）感想 | 深層昭和帯
 

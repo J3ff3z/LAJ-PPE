@@ -1,10 +1,11 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:47:53 GMT
+date: Sun, 04 Jan 2026 17:29:27 GMT
 content-type: text/html; charset=UTF-8
 vary: Accept-Encoding
 cache-control: public, s-maxage=60
-last-modified: Sat, 03 Jan 2026 16:47:53 +0000
+last-modified: Sun, 04 Jan 2026 17:29:27 +0000
 x-frame-options: sameorigin
+vary: Accept-Encoding
 x-cache: MISS
 accept-ranges: bytes
 strict-transport-security: max-age=31536000
@@ -35,7 +36,7 @@ strict-transport-security: max-age=31536000
                 <link type="application/rss+xml" rel="alternate" href="https://deon.pl/rss/82" />
         <meta name="i18n.locale" content="pl">
     <meta name="i18n.domain" content="deon">
-    <meta name="csrf-token" content="2nSGkv372SqJUJo42gVlvvO2KkAlsadRxd9tnwGb" />
+    <meta name="csrf-token" content="UaCL73G5HX7T9RokSyHV09Lv6jmyCiGX08lVWEPG" />
     <link rel="stylesheet" href="/themes/deon/css/app.css?id=7cba316f609e82381ba6">
     <link rel="icon" href="/themes/deon/images/favicon.png">
 
@@ -270,9 +271,9 @@ strict-transport-security: max-age=31536000
             <button type="button" class="widget-weather__city" v-on:click="toggle">Warszawa</button>
             
             <div class="widget-weather__icon">
-                <i class="wi wi-13n"></i>
+                <i class="wi wi-02n"></i>
             </div>
-            <div class="widget-weather__temperature"><span class="widget-weather__temperature-value">-1</span>&deg;</div>
+            <div class="widget-weather__temperature"><span class="widget-weather__temperature-value">-3</span>&deg;</div>
             <div class="widget-weather__cities" :class="{'is-active': opened}">
                 <ul>
                                                                         <li>
@@ -904,9 +905,9 @@ strict-transport-security: max-age=31536000
             <button type="button" class="widget-weather__city" v-on:click="toggle">Warszawa</button>
             
             <div class="widget-weather__icon">
-                <i class="wi wi-13n"></i>
+                <i class="wi wi-02n"></i>
             </div>
-            <div class="widget-weather__temperature"><span class="widget-weather__temperature-value">-1</span>&deg;</div>
+            <div class="widget-weather__temperature"><span class="widget-weather__temperature-value">-3</span>&deg;</div>
             <div class="widget-weather__cities" :class="{'is-active': opened}">
                 <ul>
                                                                         <li>
@@ -1427,10 +1428,7 @@ strict-transport-security: max-age=31536000
                         </div>
 
                         <div class="articles-single__description">
-                            <p class="lead">Wątki religijne i metafizyczne pojawiają się często w doświadczeniach osób cierpiących psychicznie. Ich zmagania i problemy wyglądają jednak inaczej w przypadku na przykład dylematów egzystencjalnych czy kryzysów światopoglądowych, inaczej zaś w przypadku chorób, a raczej wypadałoby mówić - zaburzeń psychicznych.</p> <p>Z urojeniami o treści religijnej spotykamy się w schizofrenii, w depresji endogennej mamy do czynienia z urojeniami potępienia, winy i kary, a z myślami obsesyjnymi o treści religijnej - w nerwicy natręctw. Swoistym przypadkiem granicznym jest tzw. opętanie: z punktu widzenia klasyfikacji psychiatrycznej rozumiane jako zespół psychopatologiczny z kategorii zaburzeń dysocjacyjnych, z punktu widzenia teologicznego - stan zniewolenia przez szatana.</p><div class="content-banner"><h6 style="text-align: center;"><span style="color: #999999;">DEON.PL POLECA</span></h6>
-<p><a href="https://wydawnictwowam.pl/promocja/35563?utm_source=DEON&amp;utm_medium=banner&amp;utm_campaign=E-booki%2C+nowy+rok+2+-+DEON+graficzna"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://static.deon.pl/storage/image/core_files/2025/12/31/4eae1cf385a8bc7bb5f7eb1d27e54f30/png/deon/preview/e-booki_2000x2000.webp" alt="" width="460" height="460"></a></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p></div> <div>Rozumienie własnego cierpienia w kategoriach religijnych, postrzeganie walki z chorobą jako walki duchowej nie jest bez znaczenia nie tylko dla wiary, ale i dla zdrowia. Osoby z urojeniami i (bądź) halucynacjami o treści religijnej mają tendencję do zachowań agresywnych czy też samobójczych. Osoby wierzące, które mają urojenia o treści religijnej, często biorą Biblię dosłownie i powołując się na jej autorytet, ranią się po to, aby ze swego ciała wypędzić grzech, pokonać w nim zło, zwyciężyć szatana. Urojenia o treści religijnej mają także wpływ na niechętne szukanie przez ludzi cierpiących na schizofrenię pomocy lekarskiej i korzystanie z lekarstw. Przypisywanie swego stanu wpływom "nadprzyrodzonym" wiąże się bowiem z oporem wobec farmakoterapii i kontaktów ze służbą zdrowia.</div> <div>Jak pokazują badania, pacjenci cierpiący na urojenia o treści religijnej przeżywają swoją chorobę gorzej niż pacjenci cierpiący na schizofrenię, ale bez tego typu urojeń. Przejawia się to w gorszym funkcjonowaniu społecznym i występowaniu większej ilości halucynacji przez dłuższy czas. Badania na populacji osób cierpiących na urojenia paranoidalne (prześladowcze) pokazują, że przypisywanie ich występowania wpływom istot nadprzyrodzonych ma miejsce częściej wśród chrześcijan niż muzułmanów czy buddystów.</div> <div>Zauważono również, że praktyki religijne są ściśle powiązane z występowaniem urojeń o treści religijnej, ale bycie osobą wierzącą nie jest koniecznym i jedynym warunkiem rozwoju tego typu urojeń. Najczęściej jednak to osoby religijne mają urojenia prześladowcze (odnoszące się do szatana bądź demonów), wielkościowe (związane z przekonaniem, że jest się Bogiem, Jezusem czy aniołem) lub deprecjacyjne (dotyczące przeświadczenia o własnym grzechu i niemożliwości jego przebaczenia).</div> <div>   </div> <h3>Schizofreniczna metafizyka</h3> <div>Antoni Kępiński w <i>Schizofrenii</i> pisze: "świat schizofrenika wypełnia się tym, co nie stanowi zwykłej aparycji świata: tajemniczymi siłami, niewidzialnymi promieniami, śledzącymi oczyma, głosami rozkazującymi i potępiającymi, niezwykłymi postaciami - duchów, aniołów, diabłów, umarłych". Świat takiego człowieka jest "terenem walki przeciwstawnych mocy, zwykle o charakterze moralnym - dobra i zła, piękna i brzydoty, mądrości i głupoty.</div> <div>Działanie na odległość może być bierne lub czynne. W pierwszym wypadku na chorego działają różne siły, w drugim on działa nimi na otoczenie. Pod zwykłym obrazem świata kryje się inny «prawdziwy». Chory jakby odkrył istotę rzeczywistości - kantowskie <i>Ding an sich</i>. Ludzie znają - w przekonaniu chorego - tylko jej pozory".</div> <div>Metafizyczną tematykę "walki duchowej" pacjenta schizofrenicznego można umiejscowić w kontekście trzech głównych "bitew": ontologicznej, eschatologicznej i charyzmatycznej. Bitwa ontologiczna jest zmaganiem o zrozumienie istoty bytu, koncepcji człowieka i wszechświata. Bitwa eschatologiczna dotyczy końca świata i własnego zbawienia. Bitwa charyzmatyczna związana jest z przekonaniem o własnej wyjątkowości i misji, która ma często charakter iście mesjański.</div> <div>Jak zauważa Kępiński, w percepcji chorego na schizofrenię wszystko wypełnia Boska lub szatańska substancja. świat przenikają tajemnicze energie, promienie, siły dobre i złe, fale wchodzące w ludzkie myśli i kierujące postępowaniem człowieka. Świat jest terenem walki szatana z Bogiem w obliczu apokalipsy, jaka ma wkrótce nastąpić. Religijne motywy katastroficznego obrazu nie idą jednak w parze ze światopoglądem z okresu przedchorobowego. Dość często się zdarza - pisze Kępiński - że ludzie głęboko religijni i tak wychowywani mają świecki obraz katastrofy świata, a przeciwnie, całkiem obojętni dla spraw religijnych przeżywają apokaliptyczne wizje o tematyce religijno-metafizycznej.</div> <div>Chory psychicznie walczy, zmaga się, objawia mu się Bóg, święci, bohaterowie przeszłości, wielcy przodkowie, duchy zmarłych krewnych, współcześni wielcy ludzie. Rozmawia z nimi, czeka na ich znak, rozkazy, jest ślepym narzędziem w ich rękach. Wie, że walczą o niego złe siły, próbują go zniewolić, zawładnąć jego myślami i postępowaniem. Jednak czy jego wróg to wyłącznie jego symptomy? Treści urojeniowe pozostają w ścisłym związku z klimatem duchowym epoki i w dużej mierze są jego symbolicznym wyrazem, akcenty religijne, mistyczne są wciąż obecne w doświadczeniach halucynacyjnych, towarzyszących chorobom psychicznym. Czy w takim razie chory psychicznie walczy duchowo, czy może raczej jest duchowo obezwładniony i stąd jego walkę traktujemy jako oznakę i przejaw choroby?</div> <div>Walka duchowa ma różne oblicza. By właściwie odpowiedzieć na powyższe pytania, trzeba wpierw nakreślić jej kontekst i napotykanego w niej "wroga". Spróbujmy zobaczyć, jak wygląda walka duchowa w rozwoju choroby psychicznej i "poza" nią. Choroba psychiczna stanowi bowiem zasłonę, jak i odsłonę dla zmagań o charakterze duchowym człowieka chorego, ale niepozbawionego przez to własnej duszy, nietracącego <i>ipso facto</i> łaski i wiary.</div> <div> </div> <h3>Przypadek Małgorzaty</h3> <div>Przez trzydzieści lat Małgorzata żyła w przekonaniu, że opętał ją szatan. Myśl, że upodobniła się do niego, naszła ją, gdy miała trzydzieści lat. Ze względu na ciężką depresję posłano ją do szpitala. W trakcie leczenia przeczytała powieść Johna Steinbecka <i>Na wschód od Edenu</i>. Znalazła w niej fragment, w którym - jak twierdzi - odnalazła opis samej siebie. Steinbeck przedstawiał potwory przychodzące na świat w ludzkich rodzinach. Jedne miały zniekształcone ciała, inne przychodziły ze zniekształconymi duszami.</div> <div>Było to dla niej olśnienie. "Nagle zdałam sobie sprawę, że to, o czym czytam, jest prawdą". Małgorzata wzięła samą siebie za istotę ze zdeformowaną duszą. Jednak u siebie dostrzegła coś więcej.</div> <div>W swojej duszy widziała nie tylko brak życia pochodzący od Boga, ale jego unieważnienie. Pogrążając się w pustej przestrzeni własnej duszy, uświadomiła sobie, że brak życia duchowego, myśl o "śmierci własnej" duszy, nie oddaje jeszcze tego, co przeżywa. Była przekonana, że jest zła, że jest złem, które pojawiło się na świecie. Zaczęła przyglądać się całemu swemu życiu i widziała oznaki tego procesu. To, co dotąd uważała za drobne przewinienia w stosunku do najbliższych i przyjaciół, było w rzeczywistości mackami złego.</div> <div>"Wszystko widziałam w diabolicznym świetle". Zaczęła intensywnie myśleć o Holokauście, który miał miejsce w czasach jej dzieciństwa i który zawsze ją intrygował. Stwierdziła, że to ona była jego przyczyną. Problem nie leżał w tym, że była złą osobą. Mówiła: "Żyję poza Boską opatrznością", "Nie jestem w pełni człowiekiem". Powoli przyzwyczajała się do zmierzenia się z przekonaniem, jakie miała o sobie, że "przez trzydzieści lat była diabłem w ludzkiej skórze". Przez trzydzieści lat większość czasu spędziła "przykuta do łóżka". I choć jest to metafora, prawdą jest, że były to rzeczywiste "łańcuchy" psychiczne. Myśl o własnej śmierci wydawała jej się jedynym rozwiązaniem. Ponieważ była zakładniczką szatana, nie miała w sobie życia.</div> <div>Dzisiaj Małgorzata żyje na przedmieściach Bostonu, w domu dla pensjonariuszy zmagających się z chorobą psychiczną; wciąż miewa ataki depresji, ale diabeł zniknął nagle z jej życia pięć lat temu. Psychiatrzy podawali jej w trakcie choroby wiele antypsychotycznych leków, ale żaden nie przyniósł takiej poprawy jak risperdal. Niedługo po tym, jak go zażyła, nagle zadała sobie pytanie: "A co stało się z szatanem?". W momentach remisji, kiedy jest w dołku z powodu depresji, wciąż powraca do niej myśl, że jest złą osobą. Nie ocenia się już jednak w kategoriach mieszkańca piekła stąpającego po ziemi. "Teraz mogę pomyśleć o sobie jako o grzeszniku, ale to już zupełnie inna rzecz. Bez względu na to, jak źle się ze mną dzieje, wiem, że Bóg mnie nie opuścił, że otacza mnie swoim światłem".</div> <div>Uwolniona od "przekleństwa" bycia osobą potępioną, żyjącą poza dobrem i światłem, Małgorzata wróciła do społeczeństwa. Zaangażowała się w pracę na rzecz praw obywatelskich ludzi chorych psychicznie, jest aktywną parafianką w swojej wspólnocie kościelnej, napisała wiele artykułów na temat duchowości i choroby psychicznej. Wciąż cierpi z powodu głębokiego i chronicznego bólu, który opisuje jako fizyczny, ale rozumie jako duchowo-psychiczny, bólu, który jest czasami tak dotkliwy, że uniemożliwia jej normalne funkcjonowanie.</div> <div>Bierze lekarstwa przeciwdepresyjne, aby złagodzić owo cierpienie, ale odkryła, że najlepszym lekiem pomagającym rozpocząć dzień jest zabawa z matematyką. Odkąd zniknął z jej życia szatan, "oczarowały" ją rachunki. Rano wykonuje różne kalkulacje. "Nie potrafię tego wyjaśnić, ale kiedy tak obliczam różne rzeczy, ból przechodzi. Jestem uzależniona od liczenia" - mówi. Matematyka i modlitwa są dla niej sprzymierzeńcami w doświadczeniu ulgi. Polega na obu i chociaż jest osobą o raczej tradycjonalistycznej wierze, czasami nie jest pewna, czy matematyka i modlitwa nie jest tym samym. W jednym i drugim zapomina o sobie, otwiera się na coś poza nią samą. Bóg przecież różnie może się objawiać dla naszego dobra.</div> <div>Niewątpliwie "cud" sprawił risperdal, ale czy odbył za nią duchową walkę? Małgorzata postrzega swoją chorobę w kategoriach duchowych i medycznych. W przeciwieństwie do większości osób w ostrej psychozie zdaje sobie sprawę, że religia mogła odegrać jakąś rolę w nadaniu treści jej urojeniom.</div> <div>Jej rodzice nie byli religijni, więc wpływ ten nie miał miejsca w dzieciństwie. Będąc na studiach, zaczęła się głębiej interesować wiarą i, jak wspomina, właśnie wtedy religia stała się jej "obsesją". "Ciągle myślałam o grzechu, nie ma w tym niczego złego tak długo, jak długo pamięta się o Bożym przebaczeniu. Wydaje mi się, że o tym zapomniałam i stąd wzięła się ta cała sprawa z szatanem"6. Jej duchowa walka nadal trwa, ale jakże odmienne ma teraz oblicze... Nie jest to walka osoby, którą się nie jest, z istotą, która jest i zagraża. Małgorzata walczy heroicznie pomimo nachodzących ją ciemności. Nie z wymyślonym demonem, ale o Boga. W jej duszy panuje jednak spokój. Diabeł już nie straszy, "schizofreniczna pustka" wypełniona jest przebaczeniem.</div> <div> </div> <h3>Przezwyciężyć urojony heroizm</h3> <div>Chociaż w zachodnim modelu medycznym wiara w demony, a szczególnie w ich wpływ na cierpienie człowieka, jest traktowana jako sygnał bądź oznaka choroby ("religijne urojenie"), przypisywanie swego stanu zdrowia oddziaływaniom demonicznym można znaleźć w różnych kategoriach diagnostycznych, a nie tylko w psychozach. Tego typu atrybucje nie mogą być więc traktowane jako zwykłe urojenia. Stanowią one raczej część złożonego systemu atrybucji pacjenta, jego myślenia o chorobie, która musi uwzględniać czynniki kulturowe i religijne. Gdzie jest w tym wszystkim miejsce na autentyczną walkę duchową?</div> <div>Z badań empirycznych wynika, że osoby z problemami psychicznymi często wolą zwracać się o pomoc bardziej do księdza niż do psychiatry, a około 80% pacjentów (medycznych i z zaburzeniami psychicznymi) zgłasza swoje problemy natury duchowej. Prawdopodobnie co drugi chory psychicznie nie podejmuje leczenia psychiatrycznego, a spośród nich co piąty zwraca się do księdza. Najczęściej postępują tak kobiety, mieszkańcy wsi oraz osoby głęboko religijne, unikające psychiatrycznej służby zdrowia z obawy przed dewaluowaniem ich wiary przez lekarzy (psychiatrów, psychologów, psychoterapeutów).</div> <div>Jednocześnie - jak wynika z badań - około 10% pacjentów z zaburzeniami psychicznymi wierzy, że hospitalizacja psychiatryczna to kara za grzechy, a 19% uważa, że pokuta jest niezbędnym warunkiem powrotu do zdrowia. Bardzo duży procent pacjentów z rozpoznaniem schizofrenii, którzy są osobami wierzącymi, jest przekonanych, że ich choroba jest dziełem złego ducha (szatana), i około dwóch trzecich z nich szuka ratunku (pomocy) w egzorcyzmach czy innych praktykach związanych z uwolnieniem.</div> <div>Niektórzy czują subiektywną poprawę po takich rytuałach, pozostając w kontakcie z lekarzem i dalej zażywając lekarstwa, ale nie widać u nich zaniku symptomów choroby. Inni, korzystając z "duchowych środków", mają nawroty psychozy, zwłaszcza kiedy z "pobudek religijnych" widzą w egzorcyzmie jedyny ratunek dla siebie i odrzucają kontakt z lekarzem, bądź ich bliscy zabraniają im tego, wierząc, że ich cierpienie ma podłoże duchowe i tylko kontakt z księdzem ma znaczenie.</div> <div>W świetle tych danych rola właściwego kierownictwa duchowego staje się fundamentalnym wyzwaniem. To, jak dojrzale zareaguje na wyzwania duszpasterz oraz w jakim stopniu będzie umiał odróżnić treści religijne w chorobie psychicznej od przeżycia religijnego (naturalnego bądź patologicznego), może w zasadniczy sposób zadecydować o dalszych losach takich osób. Musimy bowiem pamiętać, że osoby cierpiące na zaburzenia psychiczne (włącznie z tymi najcięższymi) mają swoje duchowe potrzeby, a w religii często szukają dla siebie ratunku.</div> <div>To, że religijność może ulec zniekształceniu w trakcie choroby, nie jest jeszcze dowodem na to, że wiara tych osób jest kompletnie "zdegenerowana" i wynika z zaburzonego myślenia. Badania nad wpływem religijności na schizofrenię najczęściej koncentrują się na ostrej (psychotycznej) jej fazie, w której osoba jest zagubiona. To nie jest jednak całe jej życie. Musi o tym pamiętać zarówno lekarz, jak i sam pacjent. Poczucie opuszczenia ze strony Boga w chorobie nie oznacza, że "powróci" On, pod warunkiem iż osoba będzie zdrowa.</div> <div>Niech dowodem tego będą poniższe słowa, które są również świadectwem udanej walki duchowej w schizofrenii: "Siostra zakonna zawsze mi mówiła, że Ewangelie przynoszą nam zupełnie nowe spojrzenie na życie, zmieniają perspektywę patrzenia o 180 stopni, ale nigdy tego nie rozumiałam. Pewnego dnia, już w trakcie choroby, stanęło mi przed oczyma całe moje życie. Okropnie było mi wstyd, miałam tyle pretensji do samej siebie za wszystkie głupie rzeczy, jakie w życiu zrobiłam, czułam się okropnie, dotknęłam dna i wtedy sobie powiedziałam: «Przecież Bóg mnie kocha, dla Niego coś znaczę, nawet jeśli jestem schizofreniczką, na zasiłku społecznym, jestem osobą, jestem Jego dzieckiem, mam swoją godność»".</div> <div>Walka duchowa w chorobie psychicznej nie jest przeciwko komuś, jest walką o siebie, o to, aby nie zapomnieć o Bogu, kiedy naprawdę w życiu jest ciemno, a "pustkę" wewnątrz chce się zapełnić namiastką bliskości.</div> <p><strong><span style="font-size: 11px;">Jacek Prusak SJ</span></strong> <span style="font-size: 11px;">(ur. 22 marca 1971) jezuita, psychoterapeuta, publicysta. Wstąpił do zakonu w 1992, po dwuletnim okresie formacji w Seminarium Diecezjalnym w Przemyślu. Przyjął święcenia kapłańskie 29 czerwca 2000.. Absolwent teologii na Papieskim Wydziale Teologicznym "Bobolanum" w Warszawie oraz tzw. clinical social work (pracy socjalnej) ze specjalnością kliniczną w Boston College (USA). Obronił doktorat z psychologii klinicznej w Instytucie Psychologii UJ. Konsultant w Klinice Psychiatrii Dorosłych i Zakładzie Terapii Rodzin CM UJ. Członek redakcji "Tygodnika Powszechnego" (od 2007). Współpracownik kwartalnika "Życie Duchowe" (były zastępca redaktora naczelnego) oraz miesięcznika katolickiego "List". W 2010 wydał książkę "Poznaj siebie, spotkasz Boga".</span></p> <div class="content-banner"><p style="text-align: center;"><span style="color: #999999;"><sup>DEON.PL POLECA<br></sup></span></p>
+                            <p class="lead">Wątki religijne i metafizyczne pojawiają się często w doświadczeniach osób cierpiących psychicznie. Ich zmagania i problemy wyglądają jednak inaczej w przypadku na przykład dylematów egzystencjalnych czy kryzysów światopoglądowych, inaczej zaś w przypadku chorób, a raczej wypadałoby mówić - zaburzeń psychicznych.</p> <p>Z urojeniami o treści religijnej spotykamy się w schizofrenii, w depresji endogennej mamy do czynienia z urojeniami potępienia, winy i kary, a z myślami obsesyjnymi o treści religijnej - w nerwicy natręctw. Swoistym przypadkiem granicznym jest tzw. opętanie: z punktu widzenia klasyfikacji psychiatrycznej rozumiane jako zespół psychopatologiczny z kategorii zaburzeń dysocjacyjnych, z punktu widzenia teologicznego - stan zniewolenia przez szatana.</p> <div>Rozumienie własnego cierpienia w kategoriach religijnych, postrzeganie walki z chorobą jako walki duchowej nie jest bez znaczenia nie tylko dla wiary, ale i dla zdrowia. Osoby z urojeniami i (bądź) halucynacjami o treści religijnej mają tendencję do zachowań agresywnych czy też samobójczych. Osoby wierzące, które mają urojenia o treści religijnej, często biorą Biblię dosłownie i powołując się na jej autorytet, ranią się po to, aby ze swego ciała wypędzić grzech, pokonać w nim zło, zwyciężyć szatana. Urojenia o treści religijnej mają także wpływ na niechętne szukanie przez ludzi cierpiących na schizofrenię pomocy lekarskiej i korzystanie z lekarstw. Przypisywanie swego stanu wpływom "nadprzyrodzonym" wiąże się bowiem z oporem wobec farmakoterapii i kontaktów ze służbą zdrowia.</div> <div>Jak pokazują badania, pacjenci cierpiący na urojenia o treści religijnej przeżywają swoją chorobę gorzej niż pacjenci cierpiący na schizofrenię, ale bez tego typu urojeń. Przejawia się to w gorszym funkcjonowaniu społecznym i występowaniu większej ilości halucynacji przez dłuższy czas. Badania na populacji osób cierpiących na urojenia paranoidalne (prześladowcze) pokazują, że przypisywanie ich występowania wpływom istot nadprzyrodzonych ma miejsce częściej wśród chrześcijan niż muzułmanów czy buddystów.</div> <div>Zauważono również, że praktyki religijne są ściśle powiązane z występowaniem urojeń o treści religijnej, ale bycie osobą wierzącą nie jest koniecznym i jedynym warunkiem rozwoju tego typu urojeń. Najczęściej jednak to osoby religijne mają urojenia prześladowcze (odnoszące się do szatana bądź demonów), wielkościowe (związane z przekonaniem, że jest się Bogiem, Jezusem czy aniołem) lub deprecjacyjne (dotyczące przeświadczenia o własnym grzechu i niemożliwości jego przebaczenia).</div> <div>   </div> <h3>Schizofreniczna metafizyka</h3> <div>Antoni Kępiński w <i>Schizofrenii</i> pisze: "świat schizofrenika wypełnia się tym, co nie stanowi zwykłej aparycji świata: tajemniczymi siłami, niewidzialnymi promieniami, śledzącymi oczyma, głosami rozkazującymi i potępiającymi, niezwykłymi postaciami - duchów, aniołów, diabłów, umarłych". Świat takiego człowieka jest "terenem walki przeciwstawnych mocy, zwykle o charakterze moralnym - dobra i zła, piękna i brzydoty, mądrości i głupoty.</div> <div>Działanie na odległość może być bierne lub czynne. W pierwszym wypadku na chorego działają różne siły, w drugim on działa nimi na otoczenie. Pod zwykłym obrazem świata kryje się inny «prawdziwy». Chory jakby odkrył istotę rzeczywistości - kantowskie <i>Ding an sich</i>. Ludzie znają - w przekonaniu chorego - tylko jej pozory".</div> <div>Metafizyczną tematykę "walki duchowej" pacjenta schizofrenicznego można umiejscowić w kontekście trzech głównych "bitew": ontologicznej, eschatologicznej i charyzmatycznej. Bitwa ontologiczna jest zmaganiem o zrozumienie istoty bytu, koncepcji człowieka i wszechświata. Bitwa eschatologiczna dotyczy końca świata i własnego zbawienia. Bitwa charyzmatyczna związana jest z przekonaniem o własnej wyjątkowości i misji, która ma często charakter iście mesjański.</div> <div>Jak zauważa Kępiński, w percepcji chorego na schizofrenię wszystko wypełnia Boska lub szatańska substancja. świat przenikają tajemnicze energie, promienie, siły dobre i złe, fale wchodzące w ludzkie myśli i kierujące postępowaniem człowieka. Świat jest terenem walki szatana z Bogiem w obliczu apokalipsy, jaka ma wkrótce nastąpić. Religijne motywy katastroficznego obrazu nie idą jednak w parze ze światopoglądem z okresu przedchorobowego. Dość często się zdarza - pisze Kępiński - że ludzie głęboko religijni i tak wychowywani mają świecki obraz katastrofy świata, a przeciwnie, całkiem obojętni dla spraw religijnych przeżywają apokaliptyczne wizje o tematyce religijno-metafizycznej.</div> <div>Chory psychicznie walczy, zmaga się, objawia mu się Bóg, święci, bohaterowie przeszłości, wielcy przodkowie, duchy zmarłych krewnych, współcześni wielcy ludzie. Rozmawia z nimi, czeka na ich znak, rozkazy, jest ślepym narzędziem w ich rękach. Wie, że walczą o niego złe siły, próbują go zniewolić, zawładnąć jego myślami i postępowaniem. Jednak czy jego wróg to wyłącznie jego symptomy? Treści urojeniowe pozostają w ścisłym związku z klimatem duchowym epoki i w dużej mierze są jego symbolicznym wyrazem, akcenty religijne, mistyczne są wciąż obecne w doświadczeniach halucynacyjnych, towarzyszących chorobom psychicznym. Czy w takim razie chory psychicznie walczy duchowo, czy może raczej jest duchowo obezwładniony i stąd jego walkę traktujemy jako oznakę i przejaw choroby?</div> <div>Walka duchowa ma różne oblicza. By właściwie odpowiedzieć na powyższe pytania, trzeba wpierw nakreślić jej kontekst i napotykanego w niej "wroga". Spróbujmy zobaczyć, jak wygląda walka duchowa w rozwoju choroby psychicznej i "poza" nią. Choroba psychiczna stanowi bowiem zasłonę, jak i odsłonę dla zmagań o charakterze duchowym człowieka chorego, ale niepozbawionego przez to własnej duszy, nietracącego <i>ipso facto</i> łaski i wiary.</div> <div> </div> <h3>Przypadek Małgorzaty</h3> <div>Przez trzydzieści lat Małgorzata żyła w przekonaniu, że opętał ją szatan. Myśl, że upodobniła się do niego, naszła ją, gdy miała trzydzieści lat. Ze względu na ciężką depresję posłano ją do szpitala. W trakcie leczenia przeczytała powieść Johna Steinbecka <i>Na wschód od Edenu</i>. Znalazła w niej fragment, w którym - jak twierdzi - odnalazła opis samej siebie. Steinbeck przedstawiał potwory przychodzące na świat w ludzkich rodzinach. Jedne miały zniekształcone ciała, inne przychodziły ze zniekształconymi duszami.</div> <div>Było to dla niej olśnienie. "Nagle zdałam sobie sprawę, że to, o czym czytam, jest prawdą". Małgorzata wzięła samą siebie za istotę ze zdeformowaną duszą. Jednak u siebie dostrzegła coś więcej.</div> <div>W swojej duszy widziała nie tylko brak życia pochodzący od Boga, ale jego unieważnienie. Pogrążając się w pustej przestrzeni własnej duszy, uświadomiła sobie, że brak życia duchowego, myśl o "śmierci własnej" duszy, nie oddaje jeszcze tego, co przeżywa. Była przekonana, że jest zła, że jest złem, które pojawiło się na świecie. Zaczęła przyglądać się całemu swemu życiu i widziała oznaki tego procesu. To, co dotąd uważała za drobne przewinienia w stosunku do najbliższych i przyjaciół, było w rzeczywistości mackami złego.</div> <div>"Wszystko widziałam w diabolicznym świetle". Zaczęła intensywnie myśleć o Holokauście, który miał miejsce w czasach jej dzieciństwa i który zawsze ją intrygował. Stwierdziła, że to ona była jego przyczyną. Problem nie leżał w tym, że była złą osobą. Mówiła: "Żyję poza Boską opatrznością", "Nie jestem w pełni człowiekiem". Powoli przyzwyczajała się do zmierzenia się z przekonaniem, jakie miała o sobie, że "przez trzydzieści lat była diabłem w ludzkiej skórze". Przez trzydzieści lat większość czasu spędziła "przykuta do łóżka". I choć jest to metafora, prawdą jest, że były to rzeczywiste "łańcuchy" psychiczne. Myśl o własnej śmierci wydawała jej się jedynym rozwiązaniem. Ponieważ była zakładniczką szatana, nie miała w sobie życia.</div> <div>Dzisiaj Małgorzata żyje na przedmieściach Bostonu, w domu dla pensjonariuszy zmagających się z chorobą psychiczną; wciąż miewa ataki depresji, ale diabeł zniknął nagle z jej życia pięć lat temu. Psychiatrzy podawali jej w trakcie choroby wiele antypsychotycznych leków, ale żaden nie przyniósł takiej poprawy jak risperdal. Niedługo po tym, jak go zażyła, nagle zadała sobie pytanie: "A co stało się z szatanem?". W momentach remisji, kiedy jest w dołku z powodu depresji, wciąż powraca do niej myśl, że jest złą osobą. Nie ocenia się już jednak w kategoriach mieszkańca piekła stąpającego po ziemi. "Teraz mogę pomyśleć o sobie jako o grzeszniku, ale to już zupełnie inna rzecz. Bez względu na to, jak źle się ze mną dzieje, wiem, że Bóg mnie nie opuścił, że otacza mnie swoim światłem".</div> <div>Uwolniona od "przekleństwa" bycia osobą potępioną, żyjącą poza dobrem i światłem, Małgorzata wróciła do społeczeństwa. Zaangażowała się w pracę na rzecz praw obywatelskich ludzi chorych psychicznie, jest aktywną parafianką w swojej wspólnocie kościelnej, napisała wiele artykułów na temat duchowości i choroby psychicznej. Wciąż cierpi z powodu głębokiego i chronicznego bólu, który opisuje jako fizyczny, ale rozumie jako duchowo-psychiczny, bólu, który jest czasami tak dotkliwy, że uniemożliwia jej normalne funkcjonowanie.</div> <div>Bierze lekarstwa przeciwdepresyjne, aby złagodzić owo cierpienie, ale odkryła, że najlepszym lekiem pomagającym rozpocząć dzień jest zabawa z matematyką. Odkąd zniknął z jej życia szatan, "oczarowały" ją rachunki. Rano wykonuje różne kalkulacje. "Nie potrafię tego wyjaśnić, ale kiedy tak obliczam różne rzeczy, ból przechodzi. Jestem uzależniona od liczenia" - mówi. Matematyka i modlitwa są dla niej sprzymierzeńcami w doświadczeniu ulgi. Polega na obu i chociaż jest osobą o raczej tradycjonalistycznej wierze, czasami nie jest pewna, czy matematyka i modlitwa nie jest tym samym. W jednym i drugim zapomina o sobie, otwiera się na coś poza nią samą. Bóg przecież różnie może się objawiać dla naszego dobra.</div> <div>Niewątpliwie "cud" sprawił risperdal, ale czy odbył za nią duchową walkę? Małgorzata postrzega swoją chorobę w kategoriach duchowych i medycznych. W przeciwieństwie do większości osób w ostrej psychozie zdaje sobie sprawę, że religia mogła odegrać jakąś rolę w nadaniu treści jej urojeniom.</div> <div>Jej rodzice nie byli religijni, więc wpływ ten nie miał miejsca w dzieciństwie. Będąc na studiach, zaczęła się głębiej interesować wiarą i, jak wspomina, właśnie wtedy religia stała się jej "obsesją". "Ciągle myślałam o grzechu, nie ma w tym niczego złego tak długo, jak długo pamięta się o Bożym przebaczeniu. Wydaje mi się, że o tym zapomniałam i stąd wzięła się ta cała sprawa z szatanem"6. Jej duchowa walka nadal trwa, ale jakże odmienne ma teraz oblicze... Nie jest to walka osoby, którą się nie jest, z istotą, która jest i zagraża. Małgorzata walczy heroicznie pomimo nachodzących ją ciemności. Nie z wymyślonym demonem, ale o Boga. W jej duszy panuje jednak spokój. Diabeł już nie straszy, "schizofreniczna pustka" wypełniona jest przebaczeniem.</div> <div> </div> <h3>Przezwyciężyć urojony heroizm</h3> <div>Chociaż w zachodnim modelu medycznym wiara w demony, a szczególnie w ich wpływ na cierpienie człowieka, jest traktowana jako sygnał bądź oznaka choroby ("religijne urojenie"), przypisywanie swego stanu zdrowia oddziaływaniom demonicznym można znaleźć w różnych kategoriach diagnostycznych, a nie tylko w psychozach. Tego typu atrybucje nie mogą być więc traktowane jako zwykłe urojenia. Stanowią one raczej część złożonego systemu atrybucji pacjenta, jego myślenia o chorobie, która musi uwzględniać czynniki kulturowe i religijne. Gdzie jest w tym wszystkim miejsce na autentyczną walkę duchową?</div> <div>Z badań empirycznych wynika, że osoby z problemami psychicznymi często wolą zwracać się o pomoc bardziej do księdza niż do psychiatry, a około 80% pacjentów (medycznych i z zaburzeniami psychicznymi) zgłasza swoje problemy natury duchowej. Prawdopodobnie co drugi chory psychicznie nie podejmuje leczenia psychiatrycznego, a spośród nich co piąty zwraca się do księdza. Najczęściej postępują tak kobiety, mieszkańcy wsi oraz osoby głęboko religijne, unikające psychiatrycznej służby zdrowia z obawy przed dewaluowaniem ich wiary przez lekarzy (psychiatrów, psychologów, psychoterapeutów).</div> <div>Jednocześnie - jak wynika z badań - około 10% pacjentów z zaburzeniami psychicznymi wierzy, że hospitalizacja psychiatryczna to kara za grzechy, a 19% uważa, że pokuta jest niezbędnym warunkiem powrotu do zdrowia. Bardzo duży procent pacjentów z rozpoznaniem schizofrenii, którzy są osobami wierzącymi, jest przekonanych, że ich choroba jest dziełem złego ducha (szatana), i około dwóch trzecich z nich szuka ratunku (pomocy) w egzorcyzmach czy innych praktykach związanych z uwolnieniem.</div> <div>Niektórzy czują subiektywną poprawę po takich rytuałach, pozostając w kontakcie z lekarzem i dalej zażywając lekarstwa, ale nie widać u nich zaniku symptomów choroby. Inni, korzystając z "duchowych środków", mają nawroty psychozy, zwłaszcza kiedy z "pobudek religijnych" widzą w egzorcyzmie jedyny ratunek dla siebie i odrzucają kontakt z lekarzem, bądź ich bliscy zabraniają im tego, wierząc, że ich cierpienie ma podłoże duchowe i tylko kontakt z księdzem ma znaczenie.</div> <div>W świetle tych danych rola właściwego kierownictwa duchowego staje się fundamentalnym wyzwaniem. To, jak dojrzale zareaguje na wyzwania duszpasterz oraz w jakim stopniu będzie umiał odróżnić treści religijne w chorobie psychicznej od przeżycia religijnego (naturalnego bądź patologicznego), może w zasadniczy sposób zadecydować o dalszych losach takich osób. Musimy bowiem pamiętać, że osoby cierpiące na zaburzenia psychiczne (włącznie z tymi najcięższymi) mają swoje duchowe potrzeby, a w religii często szukają dla siebie ratunku.</div> <div>To, że religijność może ulec zniekształceniu w trakcie choroby, nie jest jeszcze dowodem na to, że wiara tych osób jest kompletnie "zdegenerowana" i wynika z zaburzonego myślenia. Badania nad wpływem religijności na schizofrenię najczęściej koncentrują się na ostrej (psychotycznej) jej fazie, w której osoba jest zagubiona. To nie jest jednak całe jej życie. Musi o tym pamiętać zarówno lekarz, jak i sam pacjent. Poczucie opuszczenia ze strony Boga w chorobie nie oznacza, że "powróci" On, pod warunkiem iż osoba będzie zdrowa.</div> <div>Niech dowodem tego będą poniższe słowa, które są również świadectwem udanej walki duchowej w schizofrenii: "Siostra zakonna zawsze mi mówiła, że Ewangelie przynoszą nam zupełnie nowe spojrzenie na życie, zmieniają perspektywę patrzenia o 180 stopni, ale nigdy tego nie rozumiałam. Pewnego dnia, już w trakcie choroby, stanęło mi przed oczyma całe moje życie. Okropnie było mi wstyd, miałam tyle pretensji do samej siebie za wszystkie głupie rzeczy, jakie w życiu zrobiłam, czułam się okropnie, dotknęłam dna i wtedy sobie powiedziałam: «Przecież Bóg mnie kocha, dla Niego coś znaczę, nawet jeśli jestem schizofreniczką, na zasiłku społecznym, jestem osobą, jestem Jego dzieckiem, mam swoją godność»".</div> <div>Walka duchowa w chorobie psychicznej nie jest przeciwko komuś, jest walką o siebie, o to, aby nie zapomnieć o Bogu, kiedy naprawdę w życiu jest ciemno, a "pustkę" wewnątrz chce się zapełnić namiastką bliskości.</div> <p><strong><span style="font-size: 11px;">Jacek Prusak SJ</span></strong> <span style="font-size: 11px;">(ur. 22 marca 1971) jezuita, psychoterapeuta, publicysta. Wstąpił do zakonu w 1992, po dwuletnim okresie formacji w Seminarium Diecezjalnym w Przemyślu. Przyjął święcenia kapłańskie 29 czerwca 2000.. Absolwent teologii na Papieskim Wydziale Teologicznym "Bobolanum" w Warszawie oraz tzw. clinical social work (pracy socjalnej) ze specjalnością kliniczną w Boston College (USA). Obronił doktorat z psychologii klinicznej w Instytucie Psychologii UJ. Konsultant w Klinice Psychiatrii Dorosłych i Zakładzie Terapii Rodzin CM UJ. Członek redakcji "Tygodnika Powszechnego" (od 2007). Współpracownik kwartalnika "Życie Duchowe" (były zastępca redaktora naczelnego) oraz miesięcznika katolickiego "List". W 2010 wydał książkę "Poznaj siebie, spotkasz Boga".</span></p> <div class="content-banner"><p style="text-align: center;"><span style="color: #999999;"><sup>DEON.PL POLECA<br></sup></span></p>
 <p style="text-align: center;"><a href="https://wydawnictwowam.pl/prod.102-lekcje-na-zycie.44165.htm?sku=95783&amp;utm_source=DEON&amp;utm_medium=text&amp;utm_campaign=102+lekcje+na+%C5%BCycie%2C+A.+Mochnaczewska+-+DEON+tekstowa">Zbuduj poczucie kierunku i sprawczości, unikając przeciążania się nadmiarem zadań. [...] Nie chodzi o idealną realizację, tylko o to, żebyś miała/miał poczucie, że prowadzisz siebie – a nie tylko reagujesz na świat. Zobacz &#128073;<em>102 lekcje na życie</em></a></p></div>
                         </div>
 
@@ -1821,7 +1819,7 @@ Ewagriusz z Pontu</h3>
         
         
 <form method="POST" id="email-share-form" v-on:submit.prevent="submit()" data-url="https://deon.pl/api/modules/articles/email-share" data-ajax-submit="true" action="https://deon.pl/wiara/duchowosc/walka-duchowa-w-chorobie-psychicznej-kiedy-isc-do-psychiatry-a-kiedy-do-egzorcysty,330867" accept-charset="UTF-8" enctype="multipart/form-data">
-<input type="hidden" name="_token" value="2nSGkv372SqJUJo42gVlvvO2KkAlsadRxd9tnwGb" />
+<input type="hidden" name="_token" value="UaCL73G5HX7T9RokSyHV09Lv6jmyCiGX08lVWEPG" />
 
         
 <input data-rule-required="true" data-msg-required="Pole  jest wymagane." data-rule-number="true" data-msg-integer=" musi być liczbą całkowitą." type="hidden" name="article_id" value="330867" />
@@ -1904,39 +1902,6 @@ Ewagriusz z Pontu</h3>
             <div class="articles-item__wrapper">
                 <div class="articles-item__title">
                     <h2 class="article-lead main-font lines-5">
-                        <a href="/wiadomosci/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi,3349211" title="Praca na bezludnej wyspie, wypłata 20 tysięcy miesięcznie. Ale potrzebny jest ktoś, kto lubi ludzi">
-                            Praca na bezludnej wyspie, wypłata 20 tysięcy miesięcznie. Ale potrzebny jest ktoś, kto lubi ludzi
-                        </a>
-                    </h2>
-                </div>
-            </div>
-
-            <div class="articles-item__image">
-                                    <div class="picture-responsive-wrapper">
-    <div class="picture-responsive">
-        <a href="/wiadomosci/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi,3349211" class="" title="Praca na bezludnej wyspie, wypłata 20 tysięcy miesięcznie. Ale potrzebny jest ktoś, kto lubi ludzi" target="_self">
-        <picture>
-            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-small/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.webp" type="image/webp">
-            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-small/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.jpg">
-                                    <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-medium/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.webp" type="image/webp">
-            <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-medium/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.jpg">
-                                    <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-xmedium/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.webp" type="image/webp">
-            <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-xmedium/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.jpg">
-                                    <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-large/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.webp" type="image/webp">
-            <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-large/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.jpg">
-                                    <source srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-default/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.webp" type="image/webp">
-
-                            <img loading="lazy" src="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-default/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.jpg" alt="Praca na bezludnej wyspie, wypłata 20 tysięcy miesięcznie. Ale potrzebny jest ktoś, kto lubi ludzi" title="Praca na bezludnej wyspie, wypłata 20 tysięcy miesięcznie. Ale potrzebny jest ktoś, kto lubi ludzi" data-title="">
-                                </picture>
-    </a>
-    </div>
-</div>
-                            </div>
-        </div>
-            <div class="articles-item static">
-            <div class="articles-item__wrapper">
-                <div class="articles-item__title">
-                    <h2 class="article-lead main-font lines-5">
                         <a href="/po-godzinach/niedziele-to-film-po-ktorym-sie-zatrzymasz-choc-jest-wymagajacy-daje-naprawde-wiele,3350363" title="&quot;Niedziele&quot; to film, po którym się zatrzymasz. Choć jest wymagający, daje naprawdę wiele">
                             &quot;Niedziele&quot; to film, po którym się zatrzymasz. Choć jest wymagający, daje naprawdę wiele
                         </a>
@@ -1970,6 +1935,72 @@ Ewagriusz z Pontu</h3>
             <div class="articles-item__wrapper">
                 <div class="articles-item__title">
                     <h2 class="article-lead main-font lines-5">
+                        <a href="/wiadomosci/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi,3349211" title="Praca na bezludnej wyspie, wypłata 20 tysięcy miesięcznie. Ale potrzebny jest ktoś, kto lubi ludzi">
+                            Praca na bezludnej wyspie, wypłata 20 tysięcy miesięcznie. Ale potrzebny jest ktoś, kto lubi ludzi
+                        </a>
+                    </h2>
+                </div>
+            </div>
+
+            <div class="articles-item__image">
+                                    <div class="picture-responsive-wrapper">
+    <div class="picture-responsive">
+        <a href="/wiadomosci/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi,3349211" class="" title="Praca na bezludnej wyspie, wypłata 20 tysięcy miesięcznie. Ale potrzebny jest ktoś, kto lubi ludzi" target="_self">
+        <picture>
+            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-small/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.webp" type="image/webp">
+            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-small/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.jpg">
+                                    <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-medium/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.webp" type="image/webp">
+            <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-medium/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.jpg">
+                                    <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-xmedium/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.webp" type="image/webp">
+            <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-xmedium/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.jpg">
+                                    <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-large/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.webp" type="image/webp">
+            <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-large/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.jpg">
+                                    <source srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-default/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.webp" type="image/webp">
+
+                            <img loading="lazy" src="https://static.deon.pl/storage/image/core_files/2025/12/30/468d6dccb3e13d91f3c6808ded4b49e1/jpg/deon/articles-thumb-medium-breakpoint-default/praca-na-bezludnej-wyspie-wyplata-20-tysiecy-miesiecznie-ale-potrzebny-jest-ktos-kto-lubi-ludzi.jpg" alt="Praca na bezludnej wyspie, wypłata 20 tysięcy miesięcznie. Ale potrzebny jest ktoś, kto lubi ludzi" title="Praca na bezludnej wyspie, wypłata 20 tysięcy miesięcznie. Ale potrzebny jest ktoś, kto lubi ludzi" data-title="">
+                                </picture>
+    </a>
+    </div>
+</div>
+                            </div>
+        </div>
+            <div class="articles-item static">
+            <div class="articles-item__wrapper">
+                <div class="articles-item__title">
+                    <h2 class="article-lead main-font lines-5">
+                        <a href="/kosciol/dyspensa-na-piatek-2-stycznia-tylko-w-wybranych-diecezjach-sprawdz-liste,3351035" title="Dyspensa na piątek 2 stycznia tylko w wybranych diecezjach. Sprawdź listę">
+                            Dyspensa na piątek 2 stycznia tylko w wybranych diecezjach. Sprawdź listę
+                        </a>
+                    </h2>
+                </div>
+            </div>
+
+            <div class="articles-item__image">
+                                    <div class="picture-responsive-wrapper">
+    <div class="picture-responsive">
+        <a href="/kosciol/dyspensa-na-piatek-2-stycznia-tylko-w-wybranych-diecezjach-sprawdz-liste,3351035" class="" title="Dyspensa na piątek 2 stycznia tylko w wybranych diecezjach. Sprawdź listę" target="_self">
+        <picture>
+            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/2/754943b87409d134b1288cec0a087f18/jpg/deon/articles-thumb-medium-breakpoint-small/dyspensa-na-piatek-2-stycznia-tylko-w-wybranych-diecezjach-sprawdz-liste.webp" type="image/webp">
+            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/2/754943b87409d134b1288cec0a087f18/jpg/deon/articles-thumb-medium-breakpoint-small/dyspensa-na-piatek-2-stycznia-tylko-w-wybranych-diecezjach-sprawdz-liste.jpg">
+                                    <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/2/754943b87409d134b1288cec0a087f18/jpg/deon/articles-thumb-medium-breakpoint-medium/dyspensa-na-piatek-2-stycznia-tylko-w-wybranych-diecezjach-sprawdz-liste.webp" type="image/webp">
+            <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/2/754943b87409d134b1288cec0a087f18/jpg/deon/articles-thumb-medium-breakpoint-medium/dyspensa-na-piatek-2-stycznia-tylko-w-wybranych-diecezjach-sprawdz-liste.jpg">
+                                    <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/2/754943b87409d134b1288cec0a087f18/jpg/deon/articles-thumb-medium-breakpoint-xmedium/dyspensa-na-piatek-2-stycznia-tylko-w-wybranych-diecezjach-sprawdz-liste.webp" type="image/webp">
+            <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/2/754943b87409d134b1288cec0a087f18/jpg/deon/articles-thumb-medium-breakpoint-xmedium/dyspensa-na-piatek-2-stycznia-tylko-w-wybranych-diecezjach-sprawdz-liste.jpg">
+                                    <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/2/754943b87409d134b1288cec0a087f18/jpg/deon/articles-thumb-medium-breakpoint-large/dyspensa-na-piatek-2-stycznia-tylko-w-wybranych-diecezjach-sprawdz-liste.webp" type="image/webp">
+            <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/2/754943b87409d134b1288cec0a087f18/jpg/deon/articles-thumb-medium-breakpoint-large/dyspensa-na-piatek-2-stycznia-tylko-w-wybranych-diecezjach-sprawdz-liste.jpg">
+                                    <source srcset="https://static.deon.pl/storage/image/core_files/2025/12/2/754943b87409d134b1288cec0a087f18/jpg/deon/articles-thumb-medium-breakpoint-default/dyspensa-na-piatek-2-stycznia-tylko-w-wybranych-diecezjach-sprawdz-liste.webp" type="image/webp">
+
+                            <img loading="lazy" src="https://static.deon.pl/storage/image/core_files/2025/12/2/754943b87409d134b1288cec0a087f18/jpg/deon/articles-thumb-medium-breakpoint-default/dyspensa-na-piatek-2-stycznia-tylko-w-wybranych-diecezjach-sprawdz-liste.jpg" alt="Dyspensa na piątek 2 stycznia tylko w wybranych diecezjach. Sprawdź listę" title="Dyspensa na piątek 2 stycznia tylko w wybranych diecezjach. Sprawdź listę" data-title="">
+                                </picture>
+    </a>
+    </div>
+</div>
+                            </div>
+        </div>
+            <div class="articles-item static">
+            <div class="articles-item__wrapper">
+                <div class="articles-item__title">
+                    <h2 class="article-lead main-font lines-5">
                         <a href="/wiara/wylosuj-swietego-ktory-bedzie-ci-towarzyszyl-przez-caly-rok,2694239" title="Wylosuj świętego, który będzie ci towarzyszył przez cały rok!">
                             Wylosuj świętego, który będzie ci towarzyszył przez cały rok!
                         </a>
@@ -1993,39 +2024,6 @@ Ewagriusz z Pontu</h3>
                                     <source srcset="https://static.deon.pl/storage/image/core_files/2025/12/19/f98ef687030b4ee91adb2e25d1466a33/webp/deon/articles-thumb-medium-breakpoint-default/wylosuj-swietego-ktory-bedzie-ci-towarzyszyl-przez-caly-rok.webp" type="image/webp">
 
                             <img loading="lazy" src="https://static.deon.pl/storage/image/core_files/2025/12/19/f98ef687030b4ee91adb2e25d1466a33/webp/deon/articles-thumb-medium-breakpoint-default/wylosuj-swietego-ktory-bedzie-ci-towarzyszyl-przez-caly-rok.webp" alt="Wylosuj świętego, który będzie ci towarzyszył przez cały rok!" title="Wylosuj świętego, który będzie ci towarzyszył przez cały rok!" data-title="">
-                                </picture>
-    </a>
-    </div>
-</div>
-                            </div>
-        </div>
-            <div class="articles-item static">
-            <div class="articles-item__wrapper">
-                <div class="articles-item__title">
-                    <h2 class="article-lead main-font lines-5">
-                        <a href="/swiat/wiadomosci-ze-swiata/tragedia-w-szwajcarskich-alpach-sylwestrowa-noc-zamienila-sie-w-koszmar,3350651" title="Tragedia w szwajcarskich Alpach. Sylwestrowa noc zamieniła się w koszmar">
-                            Tragedia w szwajcarskich Alpach. Sylwestrowa noc zamieniła się w koszmar
-                        </a>
-                    </h2>
-                </div>
-            </div>
-
-            <div class="articles-item__image">
-                                    <div class="picture-responsive-wrapper">
-    <div class="picture-responsive">
-        <a href="/swiat/wiadomosci-ze-swiata/tragedia-w-szwajcarskich-alpach-sylwestrowa-noc-zamienila-sie-w-koszmar,3350651" class="" title="Tragedia w szwajcarskich Alpach. Sylwestrowa noc zamieniła się w koszmar" target="_self">
-        <picture>
-            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/1/0155a3b4af72bd41f37a464d8684fa9c/png/deon/articles-thumb-medium-breakpoint-small/tragedia-w-szwajcarskich-alpach-sylwestrowa-noc-zamienila-sie-w-koszmar.webp" type="image/webp">
-            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/1/0155a3b4af72bd41f37a464d8684fa9c/png/deon/articles-thumb-medium-breakpoint-small/tragedia-w-szwajcarskich-alpach-sylwestrowa-noc-zamienila-sie-w-koszmar.png">
-                                    <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/1/0155a3b4af72bd41f37a464d8684fa9c/png/deon/articles-thumb-medium-breakpoint-medium/tragedia-w-szwajcarskich-alpach-sylwestrowa-noc-zamienila-sie-w-koszmar.webp" type="image/webp">
-            <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/1/0155a3b4af72bd41f37a464d8684fa9c/png/deon/articles-thumb-medium-breakpoint-medium/tragedia-w-szwajcarskich-alpach-sylwestrowa-noc-zamienila-sie-w-koszmar.png">
-                                    <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/1/0155a3b4af72bd41f37a464d8684fa9c/png/deon/articles-thumb-medium-breakpoint-xmedium/tragedia-w-szwajcarskich-alpach-sylwestrowa-noc-zamienila-sie-w-koszmar.webp" type="image/webp">
-            <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/1/0155a3b4af72bd41f37a464d8684fa9c/png/deon/articles-thumb-medium-breakpoint-xmedium/tragedia-w-szwajcarskich-alpach-sylwestrowa-noc-zamienila-sie-w-koszmar.png">
-                                    <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/1/0155a3b4af72bd41f37a464d8684fa9c/png/deon/articles-thumb-medium-breakpoint-large/tragedia-w-szwajcarskich-alpach-sylwestrowa-noc-zamienila-sie-w-koszmar.webp" type="image/webp">
-            <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/1/0155a3b4af72bd41f37a464d8684fa9c/png/deon/articles-thumb-medium-breakpoint-large/tragedia-w-szwajcarskich-alpach-sylwestrowa-noc-zamienila-sie-w-koszmar.png">
-                                    <source srcset="https://static.deon.pl/storage/image/core_files/2026/1/1/0155a3b4af72bd41f37a464d8684fa9c/png/deon/articles-thumb-medium-breakpoint-default/tragedia-w-szwajcarskich-alpach-sylwestrowa-noc-zamienila-sie-w-koszmar.webp" type="image/webp">
-
-                            <img loading="lazy" src="https://static.deon.pl/storage/image/core_files/2026/1/1/0155a3b4af72bd41f37a464d8684fa9c/png/deon/articles-thumb-medium-breakpoint-default/tragedia-w-szwajcarskich-alpach-sylwestrowa-noc-zamienila-sie-w-koszmar.png" alt="Tragedia w szwajcarskich Alpach. Sylwestrowa noc zamieniła się w koszmar" title="Tragedia w szwajcarskich Alpach. Sylwestrowa noc zamieniła się w koszmar" data-title="">
                                 </picture>
     </a>
     </div>
@@ -2106,26 +2104,6 @@ Ewagriusz z Pontu</h3>
             <div class="articles-item__wrapper">
                 <div class="articles-item__title">
                     <div class="article-lead main-font lines-2">
-                                                    <a href="/swiat/wiadomosci-ze-swiata/tragedia-w-szwajcarskich-alpach-sylwestrowa-noc-zamienila-sie-w-koszmar,3350651" title="Tragedia w szwajcarskich Alpach. Sylwestrowa noc zamieniła się w koszmar">
-                                Tragedia w szwajcarskich Alpach. Sylwestrowa noc zamieniła się w koszmar
-                            </a>
-                                            </div>
-                </div>
-                <div class="articles-item__comments">
-                    <a href="/swiat/wiadomosci-ze-swiata/tragedia-w-szwajcarskich-alpach-sylwestrowa-noc-zamienila-sie-w-koszmar,3350651#komentarze" title="Tragedia w szwajcarskich Alpach. Sylwestrowa noc zamieniła się w koszmar">
-                        <i class="icon icon-comments"></i>
-                        0 komentarzy
-                    </a>
-                </div>
-            </div>
-        </div>
-            <div class="articles-item">
-            <div class="articles-item__number">
-                2
-            </div>
-            <div class="articles-item__wrapper">
-                <div class="articles-item__title">
-                    <div class="article-lead main-font lines-2">
                                                     <a href="/kosciol/dyspensa-na-piatek-2-stycznia-tylko-w-wybranych-diecezjach-sprawdz-liste,3351035" title="Dyspensa na piątek 2 stycznia tylko w wybranych diecezjach. Sprawdź listę">
                                 Dyspensa na piątek 2 stycznia tylko w wybranych diecezjach. Sprawdź listę
                             </a>
@@ -2134,74 +2112,14 @@ Ewagriusz z Pontu</h3>
                 <div class="articles-item__comments">
                     <a href="/kosciol/dyspensa-na-piatek-2-stycznia-tylko-w-wybranych-diecezjach-sprawdz-liste,3351035#komentarze" title="Dyspensa na piątek 2 stycznia tylko w wybranych diecezjach. Sprawdź listę">
                         <i class="icon icon-comments"></i>
-                        10 komentarzy
+                        12 komentarzy
                     </a>
                 </div>
             </div>
         </div>
             <div class="articles-item">
             <div class="articles-item__number">
-                3
-            </div>
-            <div class="articles-item__wrapper">
-                <div class="articles-item__title">
-                    <div class="article-lead main-font lines-2">
-                                                    <a href="/kosciol/jak-zaczac-nowe-zycie-papiez-wskazuje-na-jeden-konkretny-gest,3350624" title="Jak zacząć nowe życie? Papież wskazuje na jeden konkretny gest">
-                                Jak zacząć nowe życie? Papież wskazuje na jeden konkretny gest
-                            </a>
-                                            </div>
-                </div>
-                <div class="articles-item__comments">
-                    <a href="/kosciol/jak-zaczac-nowe-zycie-papiez-wskazuje-na-jeden-konkretny-gest,3350624#komentarze" title="Jak zacząć nowe życie? Papież wskazuje na jeden konkretny gest">
-                        <i class="icon icon-comments"></i>
-                        0 komentarzy
-                    </a>
-                </div>
-            </div>
-        </div>
-            <div class="articles-item">
-            <div class="articles-item__number">
-                4
-            </div>
-            <div class="articles-item__wrapper">
-                <div class="articles-item__title">
-                    <div class="article-lead main-font lines-2">
-                                                    <a href="/wiara/the-chosen-zmienilo-moje-zycie--szczere-wyznanie-aktora-grajacego-jezusa,3350540" title="„The Chosen” zmieniło moje życie – szczere wyznanie aktora grającego Jezusa">
-                                „The Chosen” zmieniło moje życie – szczere wyznanie aktora grającego Jezusa
-                            </a>
-                                            </div>
-                </div>
-                <div class="articles-item__comments">
-                    <a href="/wiara/the-chosen-zmienilo-moje-zycie--szczere-wyznanie-aktora-grajacego-jezusa,3350540#komentarze" title="„The Chosen” zmieniło moje życie – szczere wyznanie aktora grającego Jezusa">
-                        <i class="icon icon-comments"></i>
-                        0 komentarzy
-                    </a>
-                </div>
-            </div>
-        </div>
-            <div class="articles-item">
-            <div class="articles-item__number">
-                5
-            </div>
-            <div class="articles-item__wrapper">
-                <div class="articles-item__title">
-                    <div class="article-lead main-font lines-2">
-                                                    <a href="/swiat/wiadomosci-z-polski/zmiany-zasad-pisowni-polskiej-obowiazujace-od-1-stycznia-2026-r--pelne-zestawienie,3350975" title="Zmiany zasad pisowni polskiej obowiązujące od 1 stycznia 2026 r. – pełne zestawienie">
-                                Zmiany zasad pisowni polskiej obowiązujące od 1 stycznia 2026 r. – pełne zestawienie
-                            </a>
-                                            </div>
-                </div>
-                <div class="articles-item__comments">
-                    <a href="/swiat/wiadomosci-z-polski/zmiany-zasad-pisowni-polskiej-obowiazujace-od-1-stycznia-2026-r--pelne-zestawienie,3350975#komentarze" title="Zmiany zasad pisowni polskiej obowiązujące od 1 stycznia 2026 r. – pełne zestawienie">
-                        <i class="icon icon-comments"></i>
-                        1 komentarzy
-                    </a>
-                </div>
-            </div>
-        </div>
-            <div class="articles-item">
-            <div class="articles-item__number">
-                6
+                2
             </div>
             <div class="articles-item__wrapper">
                 <div class="articles-item__title">
@@ -2221,20 +2139,100 @@ Ewagriusz z Pontu</h3>
         </div>
             <div class="articles-item">
             <div class="articles-item__number">
+                3
+            </div>
+            <div class="articles-item__wrapper">
+                <div class="articles-item__title">
+                    <div class="article-lead main-font lines-2">
+                                                    <a href="/swiat/wiadomosci-z-polski/zmiany-zasad-pisowni-polskiej-obowiazujace-od-1-stycznia-2026-r--pelne-zestawienie,3350975" title="Zmiany zasad pisowni polskiej obowiązujące od 1 stycznia 2026 r. – pełne zestawienie">
+                                Zmiany zasad pisowni polskiej obowiązujące od 1 stycznia 2026 r. – pełne zestawienie
+                            </a>
+                                            </div>
+                </div>
+                <div class="articles-item__comments">
+                    <a href="/swiat/wiadomosci-z-polski/zmiany-zasad-pisowni-polskiej-obowiazujace-od-1-stycznia-2026-r--pelne-zestawienie,3350975#komentarze" title="Zmiany zasad pisowni polskiej obowiązujące od 1 stycznia 2026 r. – pełne zestawienie">
+                        <i class="icon icon-comments"></i>
+                        1 komentarzy
+                    </a>
+                </div>
+            </div>
+        </div>
+            <div class="articles-item">
+            <div class="articles-item__number">
+                4
+            </div>
+            <div class="articles-item__wrapper">
+                <div class="articles-item__title">
+                    <div class="article-lead main-font lines-2">
+                                                    <a href="/swiat/wiadomosci-z-polski/zasilek-pogrzebowy-od-2026-roku-wiecej-pieniedzy-i-szybsza-wyplata,3351056" title="Zasiłek pogrzebowy od 2026 roku. Więcej pieniędzy i szybsza wypłata">
+                                Zasiłek pogrzebowy od 2026 roku. Więcej pieniędzy i szybsza wypłata
+                            </a>
+                                            </div>
+                </div>
+                <div class="articles-item__comments">
+                    <a href="/swiat/wiadomosci-z-polski/zasilek-pogrzebowy-od-2026-roku-wiecej-pieniedzy-i-szybsza-wyplata,3351056#komentarze" title="Zasiłek pogrzebowy od 2026 roku. Więcej pieniędzy i szybsza wypłata">
+                        <i class="icon icon-comments"></i>
+                        1 komentarzy
+                    </a>
+                </div>
+            </div>
+        </div>
+            <div class="articles-item">
+            <div class="articles-item__number">
+                5
+            </div>
+            <div class="articles-item__wrapper">
+                <div class="articles-item__title">
+                    <div class="article-lead main-font lines-2">
+                                                    <a href="/wiadomosci/trump-potwierdza-atak-na-wenezuele-pojmano-prezydenta-o-co-trump-oskarza-maduro,3351257" title="Trump potwierdza atak na Wenezuelę. Pojmano prezydenta. O co Trump oskarża Maduro?">
+                                Trump potwierdza atak na Wenezuelę. Pojmano prezydenta. O co Trump oskarża Maduro?
+                            </a>
+                                            </div>
+                </div>
+                <div class="articles-item__comments">
+                    <a href="/wiadomosci/trump-potwierdza-atak-na-wenezuele-pojmano-prezydenta-o-co-trump-oskarza-maduro,3351257#komentarze" title="Trump potwierdza atak na Wenezuelę. Pojmano prezydenta. O co Trump oskarża Maduro?">
+                        <i class="icon icon-comments"></i>
+                        1 komentarzy
+                    </a>
+                </div>
+            </div>
+        </div>
+            <div class="articles-item">
+            <div class="articles-item__number">
+                6
+            </div>
+            <div class="articles-item__wrapper">
+                <div class="articles-item__title">
+                    <div class="article-lead main-font lines-2">
+                                                    <a href="/komentarze/oddaj-wyrzuc-usun-wykasuj-odpusc-zrezygnuj-i-zacznij-na-nowo,3350282" title="Oddaj. Wyrzuć. Usuń. Wykasuj. Odpuść. Zrezygnuj. I zacznij na nowo">
+                                Oddaj. Wyrzuć. Usuń. Wykasuj. Odpuść. Zrezygnuj. I zacznij na nowo
+                            </a>
+                                            </div>
+                </div>
+                <div class="articles-item__comments">
+                    <a href="/komentarze/oddaj-wyrzuc-usun-wykasuj-odpusc-zrezygnuj-i-zacznij-na-nowo,3350282#komentarze" title="Oddaj. Wyrzuć. Usuń. Wykasuj. Odpuść. Zrezygnuj. I zacznij na nowo">
+                        <i class="icon icon-comments"></i>
+                        1 komentarzy
+                    </a>
+                </div>
+            </div>
+        </div>
+            <div class="articles-item">
+            <div class="articles-item__number">
                 7
             </div>
             <div class="articles-item__wrapper">
                 <div class="articles-item__title">
                     <div class="article-lead main-font lines-2">
-                                                    <a href="/komentarze/czas-proby-i-nadziei--kosciol-u-progu-nowego-czasu,3350447" title="Czas próby i nadziei – Kościół u progu nowego czasu">
-                                Czas próby i nadziei – Kościół u progu nowego czasu
+                                                    <a href="/inteligentne-zycie/psychologia-na-co-dzien/jak-zaczac-nowy-rok-i-sie-nie-pogubic-o-planach-celach-i-tym-co-naprawde-ma-znaczenie,3349037" title="Jak zacząć nowy rok i się nie pogubić. O planach, celach i tym, co naprawdę ma znaczenie">
+                                Jak zacząć nowy rok i się nie pogubić. O planach, celach i tym, co naprawdę ma znaczenie
                             </a>
                                             </div>
                 </div>
                 <div class="articles-item__comments">
-                    <a href="/komentarze/czas-proby-i-nadziei--kosciol-u-progu-nowego-czasu,3350447#komentarze" title="Czas próby i nadziei – Kościół u progu nowego czasu">
+                    <a href="/inteligentne-zycie/psychologia-na-co-dzien/jak-zaczac-nowy-rok-i-sie-nie-pogubic-o-planach-celach-i-tym-co-naprawde-ma-znaczenie,3349037#komentarze" title="Jak zacząć nowy rok i się nie pogubić. O planach, celach i tym, co naprawdę ma znaczenie">
                         <i class="icon icon-comments"></i>
-                        3 komentarzy
+                        1 komentarzy
                     </a>
                 </div>
             </div>
@@ -2276,39 +2274,6 @@ Ewagriusz z Pontu</h3>
             </h3>
             <div class="widget-articles">
                 <div class="articles-list articles-list__type-3">
-                                            <div class="articles-item lines-2">
-                            <div class="articles-item__image">
-                                                                    <div class="picture-responsive-wrapper">
-    <div class="picture-responsive">
-        <a href="/wiara/duchowosc/eucharystia-jako-walka-duchowa,186444" class="" title="Eucharystia jako walka duchowa" target="_self">
-        <picture>
-            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2011/2/24/f111c0580ff02a0b8ca358e5bb4b9441/jpg/deon/articles-thumb-small-breakpoint-small/eucharystia-jako-walka-duchowa.webp" type="image/webp">
-            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2011/2/24/f111c0580ff02a0b8ca358e5bb4b9441/jpg/deon/articles-thumb-small-breakpoint-small/eucharystia-jako-walka-duchowa.jpg">
-                                    <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2011/2/24/f111c0580ff02a0b8ca358e5bb4b9441/jpg/deon/articles-thumb-small-breakpoint-small/eucharystia-jako-walka-duchowa.webp" type="image/webp">
-            <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2011/2/24/f111c0580ff02a0b8ca358e5bb4b9441/jpg/deon/articles-thumb-small-breakpoint-small/eucharystia-jako-walka-duchowa.jpg">
-                                    <source srcset="https://static.deon.pl/storage/image/core_files/2011/2/24/f111c0580ff02a0b8ca358e5bb4b9441/jpg/deon/articles-thumb-normal-breakpoint-default/eucharystia-jako-walka-duchowa.webp" type="image/webp">
-
-                            <img loading="lazy" src="https://static.deon.pl/storage/image/core_files/2011/2/24/f111c0580ff02a0b8ca358e5bb4b9441/jpg/deon/articles-thumb-normal-breakpoint-default/eucharystia-jako-walka-duchowa.jpg" alt="Eucharystia jako walka duchowa" title="Eucharystia jako walka duchowa" data-title="">
-                                </picture>
-    </a>
-    </div>
-</div>
-                                                            </div>
-                            <div class="articles-item__wrapper">
-                                <div class="articles-item__title ">
-                                    <h2 class="article-lead lines-2">
-                                        <a href="/wiara/duchowosc/eucharystia-jako-walka-duchowa,186444" title="Eucharystia jako walka duchowa">
-                                            Eucharystia jako walka duchowa
-                                        </a>
-                                    </h2>
-                                </div>
-                                <div class="articles-item__category">
-                                    <a href="/wiara/duchowosc">
-                                        Duchowość
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
                                             <div class="articles-item lines-2">
                             <div class="articles-item__image">
                                                                     <div class="picture-responsive-wrapper">
@@ -2375,6 +2340,39 @@ Ewagriusz z Pontu</h3>
                                 </div>
                             </div>
                         </div>
+                                            <div class="articles-item lines-2">
+                            <div class="articles-item__image">
+                                                                    <div class="picture-responsive-wrapper">
+    <div class="picture-responsive">
+        <a href="/wiara/duchowosc/walka-trwa-nie-poddawaj-sie,357204" class="" title="Walka trwa - nie poddawaj się" target="_self">
+        <picture>
+            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2015/8/28/92581a1f069f7ccc7ada7cfe593315e7/jpg/deon/articles-thumb-small-breakpoint-small/walka-trwa-nie-poddawaj-sie.webp" type="image/webp">
+            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2015/8/28/92581a1f069f7ccc7ada7cfe593315e7/jpg/deon/articles-thumb-small-breakpoint-small/walka-trwa-nie-poddawaj-sie.jpg">
+                                    <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2015/8/28/92581a1f069f7ccc7ada7cfe593315e7/jpg/deon/articles-thumb-small-breakpoint-small/walka-trwa-nie-poddawaj-sie.webp" type="image/webp">
+            <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2015/8/28/92581a1f069f7ccc7ada7cfe593315e7/jpg/deon/articles-thumb-small-breakpoint-small/walka-trwa-nie-poddawaj-sie.jpg">
+                                    <source srcset="https://static.deon.pl/storage/image/core_files/2015/8/28/92581a1f069f7ccc7ada7cfe593315e7/jpg/deon/articles-thumb-normal-breakpoint-default/walka-trwa-nie-poddawaj-sie.webp" type="image/webp">
+
+                            <img loading="lazy" src="https://static.deon.pl/storage/image/core_files/2015/8/28/92581a1f069f7ccc7ada7cfe593315e7/jpg/deon/articles-thumb-normal-breakpoint-default/walka-trwa-nie-poddawaj-sie.jpg" alt="Walka trwa - nie poddawaj się" title="Walka trwa - nie poddawaj się" data-title="">
+                                </picture>
+    </a>
+    </div>
+</div>
+                                                            </div>
+                            <div class="articles-item__wrapper">
+                                <div class="articles-item__title ">
+                                    <h2 class="article-lead lines-2">
+                                        <a href="/wiara/duchowosc/walka-trwa-nie-poddawaj-sie,357204" title="Walka trwa - nie poddawaj się">
+                                            Walka trwa - nie poddawaj się
+                                        </a>
+                                    </h2>
+                                </div>
+                                <div class="articles-item__category">
+                                    <a href="/wiara/duchowosc">
+                                        Duchowość
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
                                     </div>
             </div>
         </div>
@@ -2433,6 +2431,44 @@ Ewagriusz z Pontu</h3>
             <div class="articles-item__image">
                                     <div class="picture-responsive-wrapper">
     <div class="picture-responsive">
+        <a href="/wiara/gdy-alkohol-przejmuje-kontrole--spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia,3351167" class="" title="Gdy alkohol przejmuje kontrolę – społeczny, duchowy i osobisty wymiar uzależnienia" target="_self">
+        <picture>
+            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-small/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.webp" type="image/webp">
+            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-small/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.jpg">
+                                    <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-medium/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.webp" type="image/webp">
+            <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-medium/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.jpg">
+                                    <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-xmedium/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.webp" type="image/webp">
+            <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-xmedium/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.jpg">
+                                    <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-large/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.webp" type="image/webp">
+            <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-large/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.jpg">
+                                    <source srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-default/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.webp" type="image/webp">
+
+                            <img loading="lazy" src="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-default/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.jpg" alt="Gdy alkohol przejmuje kontrolę – społeczny, duchowy i osobisty wymiar uzależnienia" title="Gdy alkohol przejmuje kontrolę – społeczny, duchowy i osobisty wymiar uzależnienia" data-title="">
+                                </picture>
+    </a>
+    </div>
+</div>
+                            </div>
+            
+            <div class="articles-item__wrapper">
+                <div class="articles-item__title">
+                    <h2 class="article-lead main-font lines-2">
+                        <a href="/wiara/gdy-alkohol-przejmuje-kontrole--spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia,3351167" title="Gdy alkohol przejmuje kontrolę – społeczny, duchowy i osobisty wymiar uzależnienia">
+                            Gdy alkohol przejmuje kontrolę – społeczny, duchowy i osobisty wymiar uzależnienia
+                        </a>
+                    </h2>
+                </div>
+                <div class="articles-item__category">
+                    <a href="/wiara" title="Wiara">
+                        Wiara
+                    </a>
+                </div>
+            </div>
+        </div>
+            <div class="articles-item columns medium-6 large-3 static">
+            <div class="articles-item__image">
+                                    <div class="picture-responsive-wrapper">
+    <div class="picture-responsive">
         <a href="/wiara/postanowienia-noworoczne-bez-presji--jak-wyznaczac-cele-i-naprawde-w-nich-wytrwac,3350501" class="" title="Postanowienia noworoczne bez presji – jak wyznaczać cele i naprawdę w nich wytrwać" target="_self">
         <picture>
             <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/1/78238d167dba2fda1b36adb4ad98bcad/jpg/deon/articles-thumb-normal-breakpoint-small/postanowienia-noworoczne-bez-presji-jak-wyznaczac-cele-i-naprawde-w-nich-wytrwac.webp" type="image/webp">
@@ -2457,44 +2493,6 @@ Ewagriusz z Pontu</h3>
                     <h2 class="article-lead main-font lines-2">
                         <a href="/wiara/postanowienia-noworoczne-bez-presji--jak-wyznaczac-cele-i-naprawde-w-nich-wytrwac,3350501" title="Postanowienia noworoczne bez presji – jak wyznaczać cele i naprawdę w nich wytrwać">
                             Postanowienia noworoczne bez presji – jak wyznaczać cele i naprawdę w nich wytrwać
-                        </a>
-                    </h2>
-                </div>
-                <div class="articles-item__category">
-                    <a href="/wiara" title="Wiara">
-                        Wiara
-                    </a>
-                </div>
-            </div>
-        </div>
-            <div class="articles-item columns medium-6 large-3 static">
-            <div class="articles-item__image">
-                                    <div class="picture-responsive-wrapper">
-    <div class="picture-responsive">
-        <a href="/wiara/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich,3348611" class="" title="Czy katolicy powinni sięgać po AI, by „odtwarzać” zmarłych bliskich?" target="_self">
-        <picture>
-            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-small/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.webp" type="image/webp">
-            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-small/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.jpg">
-                                    <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-medium/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.webp" type="image/webp">
-            <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-medium/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.jpg">
-                                    <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-xmedium/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.webp" type="image/webp">
-            <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-xmedium/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.jpg">
-                                    <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-large/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.webp" type="image/webp">
-            <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-large/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.jpg">
-                                    <source srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-default/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.webp" type="image/webp">
-
-                            <img loading="lazy" src="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-default/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.jpg" alt="Czy katolicy powinni sięgać po AI, by „odtwarzać” zmarłych bliskich?" title="Czy katolicy powinni sięgać po AI, by „odtwarzać” zmarłych bliskich?" data-title="">
-                                </picture>
-    </a>
-    </div>
-</div>
-                            </div>
-            
-            <div class="articles-item__wrapper">
-                <div class="articles-item__title">
-                    <h2 class="article-lead main-font lines-2">
-                        <a href="/wiara/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich,3348611" title="Czy katolicy powinni sięgać po AI, by „odtwarzać” zmarłych bliskich?">
-                            Czy katolicy powinni sięgać po AI, by „odtwarzać” zmarłych bliskich?
                         </a>
                     </h2>
                 </div>
@@ -2547,19 +2545,19 @@ Ewagriusz z Pontu</h3>
             <div class="articles-item__image">
                                     <div class="picture-responsive-wrapper">
     <div class="picture-responsive">
-        <a href="/wiara/gdy-alkohol-przejmuje-kontrole--spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia,3351167" class="" title="Gdy alkohol przejmuje kontrolę – społeczny, duchowy i osobisty wymiar uzależnienia" target="_self">
+        <a href="/wiara/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich,3348611" class="" title="Czy katolicy powinni sięgać po AI, by „odtwarzać” zmarłych bliskich?" target="_self">
         <picture>
-            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-small/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.webp" type="image/webp">
-            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-small/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.jpg">
-                                    <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-medium/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.webp" type="image/webp">
-            <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-medium/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.jpg">
-                                    <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-xmedium/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.webp" type="image/webp">
-            <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-xmedium/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.jpg">
-                                    <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-large/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.webp" type="image/webp">
-            <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-large/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.jpg">
-                                    <source srcset="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-default/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.webp" type="image/webp">
+            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-small/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.webp" type="image/webp">
+            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-small/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.jpg">
+                                    <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-medium/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.webp" type="image/webp">
+            <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-medium/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.jpg">
+                                    <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-xmedium/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.webp" type="image/webp">
+            <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-xmedium/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.jpg">
+                                    <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-large/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.webp" type="image/webp">
+            <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-large/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.jpg">
+                                    <source srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-default/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.webp" type="image/webp">
 
-                            <img loading="lazy" src="https://static.deon.pl/storage/image/core_files/2026/1/2/c47df3e4af9900d6178b0402f73d5360/jpg/deon/articles-thumb-normal-breakpoint-default/gdy-alkohol-przejmuje-kontrole-spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia.jpg" alt="Gdy alkohol przejmuje kontrolę – społeczny, duchowy i osobisty wymiar uzależnienia" title="Gdy alkohol przejmuje kontrolę – społeczny, duchowy i osobisty wymiar uzależnienia" data-title="">
+                            <img loading="lazy" src="https://static.deon.pl/storage/image/core_files/2025/12/30/bfdfed0290f72ffd3a8b2bdad289059f/jpg/deon/articles-thumb-normal-breakpoint-default/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich.jpg" alt="Czy katolicy powinni sięgać po AI, by „odtwarzać” zmarłych bliskich?" title="Czy katolicy powinni sięgać po AI, by „odtwarzać” zmarłych bliskich?" data-title="">
                                 </picture>
     </a>
     </div>
@@ -2569,8 +2567,8 @@ Ewagriusz z Pontu</h3>
             <div class="articles-item__wrapper">
                 <div class="articles-item__title">
                     <h2 class="article-lead main-font lines-2">
-                        <a href="/wiara/gdy-alkohol-przejmuje-kontrole--spoleczny-duchowy-i-osobisty-wymiar-uzaleznienia,3351167" title="Gdy alkohol przejmuje kontrolę – społeczny, duchowy i osobisty wymiar uzależnienia">
-                            Gdy alkohol przejmuje kontrolę – społeczny, duchowy i osobisty wymiar uzależnienia
+                        <a href="/wiara/czy-katolicy-powinni-siegac-po-ai-by-odtwarzac-zmarlych-bliskich,3348611" title="Czy katolicy powinni sięgać po AI, by „odtwarzać” zmarłych bliskich?">
+                            Czy katolicy powinni sięgać po AI, by „odtwarzać” zmarłych bliskich?
                         </a>
                     </h2>
                 </div>
@@ -2661,19 +2659,19 @@ Ewagriusz z Pontu</h3>
             <div class="articles-item__image">
                                     <div class="picture-responsive-wrapper">
     <div class="picture-responsive">
-        <a href="/wiara/duchowosc/stres-konca-roku-pod-lupa--miedzy-podsumowaniem-a-przeciazeniem,3348572" class="" title="Stres końca roku pod lupą – między podsumowaniem a przeciążeniem" target="_self">
+        <a href="/wiara/duchowosc/skuteczna-modlitwa-w-sprawach-trudnych-i-beznadziejnych,374935" class="" title="Skuteczna modlitwa w sprawach trudnych i beznadziejnych" target="_self">
         <picture>
-            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/995cb75bb8cbc398fbd0fbea80b4fb82/jpg/deon/articles-thumb-normal-breakpoint-small/stres-konca-roku-pod-lupa-miedzy-podsumowaniem-a-przeciazeniem.webp" type="image/webp">
-            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/995cb75bb8cbc398fbd0fbea80b4fb82/jpg/deon/articles-thumb-normal-breakpoint-small/stres-konca-roku-pod-lupa-miedzy-podsumowaniem-a-przeciazeniem.jpg">
-                                    <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/995cb75bb8cbc398fbd0fbea80b4fb82/jpg/deon/articles-thumb-normal-breakpoint-medium/stres-konca-roku-pod-lupa-miedzy-podsumowaniem-a-przeciazeniem.webp" type="image/webp">
-            <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/995cb75bb8cbc398fbd0fbea80b4fb82/jpg/deon/articles-thumb-normal-breakpoint-medium/stres-konca-roku-pod-lupa-miedzy-podsumowaniem-a-przeciazeniem.jpg">
-                                    <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/995cb75bb8cbc398fbd0fbea80b4fb82/jpg/deon/articles-thumb-normal-breakpoint-xmedium/stres-konca-roku-pod-lupa-miedzy-podsumowaniem-a-przeciazeniem.webp" type="image/webp">
-            <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/995cb75bb8cbc398fbd0fbea80b4fb82/jpg/deon/articles-thumb-normal-breakpoint-xmedium/stres-konca-roku-pod-lupa-miedzy-podsumowaniem-a-przeciazeniem.jpg">
-                                    <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/995cb75bb8cbc398fbd0fbea80b4fb82/jpg/deon/articles-thumb-normal-breakpoint-large/stres-konca-roku-pod-lupa-miedzy-podsumowaniem-a-przeciazeniem.webp" type="image/webp">
-            <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/995cb75bb8cbc398fbd0fbea80b4fb82/jpg/deon/articles-thumb-normal-breakpoint-large/stres-konca-roku-pod-lupa-miedzy-podsumowaniem-a-przeciazeniem.jpg">
-                                    <source srcset="https://static.deon.pl/storage/image/core_files/2025/12/30/995cb75bb8cbc398fbd0fbea80b4fb82/jpg/deon/articles-thumb-normal-breakpoint-default/stres-konca-roku-pod-lupa-miedzy-podsumowaniem-a-przeciazeniem.webp" type="image/webp">
+            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2016/1/12/e3199d419ab9288634918e9217be4d99/jpg/deon/articles-thumb-normal-breakpoint-small/skuteczna-modlitwa-w-sprawach-trudnych-i-beznadziejnych.webp" type="image/webp">
+            <source media="(max-width: 420px)" srcset="https://static.deon.pl/storage/image/core_files/2016/1/12/e3199d419ab9288634918e9217be4d99/jpg/deon/articles-thumb-normal-breakpoint-small/skuteczna-modlitwa-w-sprawach-trudnych-i-beznadziejnych.jpg">
+                                    <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2016/1/12/e3199d419ab9288634918e9217be4d99/jpg/deon/articles-thumb-normal-breakpoint-medium/skuteczna-modlitwa-w-sprawach-trudnych-i-beznadziejnych.webp" type="image/webp">
+            <source media="(max-width: 770px)" srcset="https://static.deon.pl/storage/image/core_files/2016/1/12/e3199d419ab9288634918e9217be4d99/jpg/deon/articles-thumb-normal-breakpoint-medium/skuteczna-modlitwa-w-sprawach-trudnych-i-beznadziejnych.jpg">
+                                    <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2016/1/12/e3199d419ab9288634918e9217be4d99/jpg/deon/articles-thumb-normal-breakpoint-xmedium/skuteczna-modlitwa-w-sprawach-trudnych-i-beznadziejnych.webp" type="image/webp">
+            <source media="(max-width: 1023px)" srcset="https://static.deon.pl/storage/image/core_files/2016/1/12/e3199d419ab9288634918e9217be4d99/jpg/deon/articles-thumb-normal-breakpoint-xmedium/skuteczna-modlitwa-w-sprawach-trudnych-i-beznadziejnych.jpg">
+                                    <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2016/1/12/e3199d419ab9288634918e9217be4d99/jpg/deon/articles-thumb-normal-breakpoint-large/skuteczna-modlitwa-w-sprawach-trudnych-i-beznadziejnych.webp" type="image/webp">
+            <source media="(max-width: 1199px)" srcset="https://static.deon.pl/storage/image/core_files/2016/1/12/e3199d419ab9288634918e9217be4d99/jpg/deon/articles-thumb-normal-breakpoint-large/skuteczna-modlitwa-w-sprawach-trudnych-i-beznadziejnych.jpg">
+                                    <source srcset="https://static.deon.pl/storage/image/core_files/2016/1/12/e3199d419ab9288634918e9217be4d99/jpg/deon/articles-thumb-normal-breakpoint-default/skuteczna-modlitwa-w-sprawach-trudnych-i-beznadziejnych.webp" type="image/webp">
 
-                            <img loading="lazy" src="https://static.deon.pl/storage/image/core_files/2025/12/30/995cb75bb8cbc398fbd0fbea80b4fb82/jpg/deon/articles-thumb-normal-breakpoint-default/stres-konca-roku-pod-lupa-miedzy-podsumowaniem-a-przeciazeniem.jpg" alt="Stres końca roku pod lupą – między podsumowaniem a przeciążeniem" title="Stres końca roku pod lupą – między podsumowaniem a przeciążeniem" data-title="">
+                            <img loading="lazy" src="https://static.deon.pl/storage/image/core_files/2016/1/12/e3199d419ab9288634918e9217be4d99/jpg/deon/articles-thumb-normal-breakpoint-default/skuteczna-modlitwa-w-sprawach-trudnych-i-beznadziejnych.jpg" alt="Skuteczna modlitwa w sprawach trudnych i beznadziejnych" title="Skuteczna modlitwa w sprawach trudnych i beznadziejnych" data-title="">
                                 </picture>
     </a>
     </div>
@@ -2683,8 +2681,8 @@ Ewagriusz z Pontu</h3>
             <div class="articles-item__wrapper">
                 <div class="articles-item__title">
                     <h2 class="article-lead main-font lines-2">
-                        <a href="/wiara/duchowosc/stres-konca-roku-pod-lupa--miedzy-podsumowaniem-a-przeciazeniem,3348572" title="Stres końca roku pod lupą – między podsumowaniem a przeciążeniem">
-                            Stres końca roku pod lupą – między podsumowaniem a przeciążeniem
+                        <a href="/wiara/duchowosc/skuteczna-modlitwa-w-sprawach-trudnych-i-beznadziejnych,374935" title="Skuteczna modlitwa w sprawach trudnych i beznadziejnych">
+                            Skuteczna modlitwa w sprawach trudnych i beznadziejnych
                         </a>
                     </h2>
                 </div>
@@ -2954,7 +2952,7 @@ Ewagriusz z Pontu</h3>
                 
                 
 <form method="POST" id="subscribe-form" data-ajax-submit="true" action="https://deon.pl" accept-charset="UTF-8" enctype="multipart/form-data">
-<input type="hidden" name="_token" value="2nSGkv372SqJUJo42gVlvvO2KkAlsadRxd9tnwGb" />
+<input type="hidden" name="_token" value="UaCL73G5HX7T9RokSyHV09Lv6jmyCiGX08lVWEPG" />
                 
 <input type="hidden" name="__WEBPART" value="70efdf2ec9b086079795c442636b55fb" />
                 

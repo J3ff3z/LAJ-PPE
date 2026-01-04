@@ -1,5 +1,5 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:49:12 GMT server:
-mw-web.eqiad.main-8f8dcf6c-qnhph x-content-type-options: nosniff
+HTTP/2 200 date: Sun, 04 Jan 2026 17:31:03 GMT server:
+mw-web.eqiad.main-8f8dcf6c-rf992 x-content-type-options: nosniff
 content-language: pl accept-ch: content-security-policy-report-only: script-src
 'unsafe-eval' blob: 'self' meta.wikimedia.org *.wikimedia.org *.wikipedia.org
 *.wikinews.org *.wiktionary.org *.wikibooks.org *.wikiversity.org
@@ -21,28 +21,28 @@ meta.wikimedia.org *.wikimedia.org *.wikipedia.org *.wikinews.org
 wikisource.org *.wikiquote.org *.wikidata.org *.wikifunctions.org
 *.wikivoyage.org *.mediawiki.org wikimedia.org 'unsafe-inline'; object-src
 'none'; report-uri /w/api.php?action=cspreport&format=json&reportonly=1
-last-modified: Sat, 20 Dec 2025 16:49:12 GMT content-type: text/html;
-charset=UTF-8 age: 2 accept-ranges: bytes x-cache: cp6016 miss, cp6016 miss
+last-modified: Sat, 03 Jan 2026 23:32:39 GMT content-type: text/html;
+charset=UTF-8 age: 0 accept-ranges: bytes x-cache: cp6016 miss, cp6016 miss
 x-cache-status: miss server-timing: cache;desc="miss", host;desc="cp6016"
 strict-transport-security: max-age=106384710; includeSubDomains; preload
 report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url":
 "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_
 error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] } nel: { "report_to":
 "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
-set-cookie: WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04
+set-cookie: WMF-Last-Access=04-Jan-2026;Path=/;HttpOnly;secure;Expires=Thu, 05
 Feb 2026 12:00:00 GMT set-cookie:
-WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikisource.org;HttpOnly;secure
-;Expires=Wed, 04 Feb 2026 12:00:00 GMT set-cookie:
-WMF-DP=ba0;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+WMF-Last-Access-Global=04-Jan-2026;Path=/;Domain=.wikisource.org;HttpOnly;secure
+;Expires=Thu, 05 Feb 2026 12:00:00 GMT set-cookie:
+WMF-DP=4b7;Path=/;HttpOnly;secure;Expires=Mon, 05 Jan 2026 00:00:00 GMT
 x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7 cache-control: private,
 s-maxage=0, max-age=0, must-revalidate, no-transform vary:
 Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
 GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure;
 Domain=.wikisource.org set-cookie:
 NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600 set-cookie:
-WMF-Uniq=AxBudvwu-StpaqW97tPeGALdAAAAAFvdL4b4WJFZrITB6pJXgSwipIV_zeW-9Laf;Domain
-=.wikisource.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027
-00:00:00 GMT x-request-id: 2995d23c-64f5-4da4-830e-6e6ded33b910 #Edytuj
+WMF-Uniq=0eW4CdyrlOYFfoa-xF80egLeAAAAAFvd3S-xnQOZ2qfEk8Ih1EtVUsM4lBitq3Ds;Domain
+=.wikisource.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027
+00:00:00 GMT x-request-id: 891f3628-8272-42b3-bafc-e08a2f4e1e05 #Edytuj
 Wikiźródła (pl) Kanał Atom Wikiźródeł
 
 Przejdź do zawartości
@@ -2835,8 +2835,186 @@ JÓZEF JEDLICZ KAPUŚCIEŃSKI
 3%B3%C5%82czesnych_poet%C3%B3w_polskich%2C_1908%29.png]
 
 ur. 1879 r. w Wróblówce na Podhalu. Obecnie nauczyciel gimnazyalny we Lwowie.
-Poezye: »Słoneczna pieśń« 1905 i po czasopismach : »Krytyka«, »Chimera«,
+Poezye: »Słoneczna pieśń« 1905 i po czasopismach: »Krytyka«, »Chimera«,
 »Tydzień«.
+[146]
+PÓJDĘ NA CICHE POLA...
+
+Pójdę na ciche pola, na kwitnące sady,
+Gdzie grają w śnie południa złote hymny pszczelne,
+Gdzie źródła młodych marzeń biją nieśmiertelne
+I moich snów dziecięcych czuwa anioł blady...
+Pójdę na białe, słońcem roześmiane chaty,
+Gdzie śnią urokiem ziela wybujałe grzędy,
+Gdzie święte, tajemnicze kwitnienia obrzędy
+Mąci szałem radości ptactwa huf skrzydlaty.
+Tam, w cienistej zaciszy, patrząc w bujne plony,
+Z dziadem o siwych włosach, które wiatr mu pieści,
+Siądę — śnieżną rozkoszą kwiecia upojony —
+I będę słuchał jego długich opowieści:
+W duszy mej barwną rzeszą zjawią się ogromne
+Wizje dawnych czasów... I może zapomnę...
+Z CYKLU: »OJCOWIE«.
+TĘSKNOTA PÓL.
+
+Hen, hen, po polach płynie szum przedziwnej wieści:
+Jakaś białość promienna, złoty sen o wiośnie!
+Gorący wiatr śnieżycę całuje i pieści;
+Żółty kwiatek na śniegu już wzeszedł i rośnie
+[147]
+
+Białe pola już tają! mroczne strzechy śpiące
+Wilgną! płoną już w słońcu długie mroźne sople!
+Cały przód chaty święte ozłociło słońce;
+Po strzesze z cichym pluskiem ciekną złote krople.
+Oto dźwierze chałupy niemo się otwarły:
+W głębi stają olbrzymie Widma i Postacie —
+Przechodzą próg schyleni i w ciszy umarłej
+Po oborze w promiennym kroczą majestacie.
+Otwierają ogromne, podwórzowe wrota,
+W świat wiodące, — nadziemska jakaś prze Ich wola,
+Idą w dal, gdzie słoneczna Ich woła tęsknota,
+W białą dal — hen, w śniegowe, złociejące pola...
+WIOSENNE RANO.
+
+Biała stokroć, zielone pręty, blade cienie,
+Cichy żar, upojony swym własnym urokiem;
+Złotych jaskrów na bagnie wilgotne płomienie,
+Świeża zieleń — pachnące kwiaty nad potokiem!
+Srebrzysty deszcz wiosenny, niby pereł struga,
+Mży miłośnie w mieniące mgły, na łan zielony —
+Jasny owies wykwita w mrocznych brózdach pługa,
+Promienny blask na deszczu drży jak ptak spłoszony.
+[148]
+
+W dali Ojce umarli idą pustem polem —
+Kroczą w świetle pustkowia schyleni i cisi.
+Wśród modłów świeży zagon obchodzą półkolem,
+By odegnać zarazę, co nad łanem wisi...
+Z dalekich siół wciąż siwe unoszą się dymy.
+Powiew trzęsie badylem uwiędłej paproci
+W białych mgłach kroczą sennie umarłe olbrzymy,
+Deszcz ustał — słońce coraz ogniściej się złoci.
+CISZA SŁONECZNA.
+
+Sad zawodzi, jak we śnie, melodyą miłosną;
+Przez sen westchnęły śpiewnie zielone jabłonie.
+Taka cisza, że słychać wkrąg, jak drzewa rosną,
+Lśniące obłoczki w modrym toną nieboskłonie —
+W mrocznym sadzie usiada Ojców tłum dostojny,
+Drzemią w ciszy — a powiew pieści śnieg Ich włosów,
+Czasem spojrzą półsennie w pole, kędy znojny
+Idzie chłop wśród roniących kwiecie sianokosów...
+Naraz w progu rzeźbionych staroświeckich dźwierzy
+Stanie dziecko i patrzy w drzewa, w głusze śniące,
+Ujrzy dziwne postaci — ledwie oczom wierzy
+I nazad w dom się cofa nieme, lękiem drżące...
+[149]
+
+Bo dziecko pomni dużo starych, dziwnych bajek!
+I wie, że raz, gdy w górę darło się ukradkiem,
+Znęcone skrytem w liściach gniazdem ptasich jajek:
+Ktoś wsparł je przerażone, chroniąc przed upadkiem...
+OCZY.
+
+W mroku polany huczy gędźba tajemnicza!
+Trysnęły złote iskry, jarki płomień bucha —
+To Sobótka! — to płomię przedwiecznego Znicza,
+Przed którym pierzcha w dale zły deszcz i posucha.
+Jak chorowód rusałek pląsają dziewczęta!
+Chłopcy jak widy skaczą w krąg czerwonej watry!
+Pachnie siano skoszone, pachnie mak i mięta —
+Rzewna nuta kobzarza leci w dal na Tatry.
+Młoda para od watry w mroki się oddala:
+Chłopak siłą dziewczynę przytulił do łona,
+A ona drży — — miłosnej żądzy prze ją fala; —
+Opiera się, — lecz idzie niema, zniewolona...
+Weszli w szałas... uściskiem spletli się w pomroczy —
+Naraz lęk ich ogarnie, — żądzą nieprzytomne
+Zwrócą głowy: — — W ciemności ujrzą świetlne oczy. —
+Oczy groźnie wpatrzone, nadludzkie, ogromne!...
+[150]
+LETNIE POŁUDNIE.
+
+W złocistych, nieruchomych spoczynkach południa,
+Gdy droga pusta, jakby siołem przeszedł pomór;
+Gdy słońce wisi nieme, a wieś się wyludnia:
+Duchy Ojców wychodzą cicho ze swych komór...
+Opuszczają swe mroczne, tajemne przybytki,
+Idą chyłkiem pod strzechę milcząco i tajnie,
+I patrzą niemo w rolne płody i pożytki,
+Tykają starych pługów, pilnie patrzą w stajnie —
+I kroczą siwowłosi i od skwaru płowi
+Ku drzwiom chaty gazdowskiej, wchodzą w nieme progi.
+Patrząc w głąb, błogosławią pustemu domowi
+I o łaskę błagają stare, dobre Bogi — —
+I dziękują im kornie za dni krótkiej słoty
+I bezcenny dla żniwa czas złotej posuchy —
+I śmieją się uśmiechem dziecięcej prostoty,
+A cichy wiew wydyma Ich długie kożuchy. —
+
+[40px-PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116
+.png]
+[151]
+SZCZĘŚCIE ŻNIW.
+
+Wieczór już — białe ściernie mroczny sen już chwyta —
+U drogi gwarzą cudnie osiki i brzozy —
+Rżą konie, czasem tryśnie iskra z pod kopyta —
+Obciążone snopami, skrzypią stare wozy...
+Jadą w pieśniach i gwarze — to ostatki żniwa!
+Weselnymi okrzyki huka młodzież dziarska!
+Góra snopów w pomroce radośnie się kiwa —
+Konie rżą — jeden nozdrza wyciągnął i parska...
+Po modrych, sennych polach płynie pieśń odwieczna:
+Skończony trud! skończony! Niech kosy już drzemią!
+Minęła twoja służba i praca słoneczna —
+Spocznij w szczęściu i ciszy, spocznij Matko Ziemio...
+Na wierzchu złotych snopów cichym, białym tłumem
+Usiadły święte Duchy — i w błękit niebiosów
+Uśmiechają się niemo, senni polnym szumem —
+Bacząc, by nic ze świętych nie uronić kłosów...
+
+[40px-PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116
+.png]
+[152]
+PŁUGI.
+
+Wśród starych lip, w zielonej baśni księżycowej,
+Gdy pnie lśniących jabłoni rzucają cień długi,
+A srebrny powiew trąca w twarde głusz okowy —
+Leżą dwa opuszczone, stare, rdzawe pługi
+Ich martwe ciała objął urok ciszy święty
+I otulił w grób mroku ich rdzawe lemiesze;
+Wid-księżyc sypie z góry gwiazdy-dyamenty
+I z wystygłych w martwocie radeł ognie krzesze...
+A duchy starych Ojców, co mieszkają w strzesze,
+Ślę ku nim z mroku stodół miłosne uśmiechy,
+Żal tajemny pobudził w nocy ojców rzesze,
+I szept błogosławieństwa idzie ode strzechy...
+— O druhy dni minionych, święte, rdzawe pługi,
+O kiedyż dumnem skrzydłem w niebios oddal szczytną
+Wzlecimy, by przeorać one modre smugi,
+Gdzie kiedyś nowe słońca i gwiazdy zakwitną!...
+
+[40px-PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116
+.png]
+[153]
+SIOSTRY.
+
+Idą siostry, idą siostry trzy —
+Jedna w białych dłoniach niesie łzy...
+Druga, krocząc w mroku ciemnych drzew,
+W swoich białych dłoniach niesie krew.
+Trzecia w ciszy błędny stawia krok,
+W swoich białych dłoniach niesie mrok.
+Idą siostry w zmierzchu ciemnych drzew,
+W ciszę spływa mrok i łzy i krewkrew.
+Idą, idą, idą siostry trzy,
+Dziwne, dziwne, dziwne jako sny...
+
+[40px-PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116
+.png]
 [154]
 CEZARY JELLENTA
 ur. 1861 r. w Warszawie. Jest obecnie adwokatem tamże. »Poezye« 1902. Liczne

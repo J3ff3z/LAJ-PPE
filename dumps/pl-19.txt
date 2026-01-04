@@ -1,17 +1,17 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:47:21 GMT content-type: text/html;
-charset=utf-8 age: 55985 cache-control: public, max-age=0, must-revalidate
+HTTP/2 200 date: Sun, 04 Jan 2026 17:28:47 GMT content-type: text/html;
+charset=utf-8 age: 55577 cache-control: public, max-age=0, must-revalidate
 report-to:
 {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare
-.com/report/v4?s=4MAlbKAQRAfrca9VGpaeTSyQXNTd5NY9iQm5JV54Xswt9E5tDY4iG7zb8axktjj
-IbJH0Sw5uc3kdCWgCwgu3T0UaBu5Ckj5E9%2BOdV%2F%2FLC3L%2F32tCm7mrkJA%3D"}]} nel:
+.com/report/v4?s=aQByk086LCSeHE4XjWQIXvP5HNYR6FFIVetiMiOkhyFJiwQ7HUr%2FlqJtoI4id
+8Cs3IpiLfdlbGPN8umtIw2XSY5tPnxdYfWPOHDdx1EKLll5uC0q5HG2WSI%3D"}]} nel:
 {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} server:
 cloudflare set-cookie: NEXT_LOCALE=pl; Path=/; SameSite=lax
 strict-transport-security: max-age=31536000; includeSubDomains; preload vary:
 rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
 vary: accept-encoding x-matched-path: /[locale]/[year]/[month]/[day]/[slug]
 x-nextjs-prerender: 1 x-nextjs-stale-time: 300 x-powered-by: Next.js
-x-vercel-cache: HIT x-vercel-id: cdg1::sfo1::x8cx9-1767458841638-46e7c791faf3
-cf-cache-status: DYNAMIC cf-ray: 9b83fa401f1874e1-CDG #alternate alternate
+x-vercel-cache: HIT x-vercel-id: cdg1::sfo1::bgqzw-1767547727250-8fa9782ea697
+cf-cache-status: DYNAMIC cf-ray: 9b8c744f3b02d0bf-CDG #alternate alternate
 
 IFRAME: https://sst.aleteia.org/ns.html?id=GTM-5897WKT
 
@@ -191,26 +191,28 @@ ____________________ (BUTTON) Wyślij
 [ ] Regulamin - potwierdzam przeczytanie i zgadzam się z jego zapisami.
 Top 10
 1
-Modlitwa dla ciebie na dziś 1 stycznia
-Modlitwa dla ciebie na dziś 1 stycznia
+Cytat z Biblii dla ciebie na dziś 2 stycznia
+Cytat z Biblii dla ciebie na dziś 2 stycznia
 2
-Cytat z Biblii dla ciebie na dziś 1 stycznia
-Cytat z Biblii dla ciebie na dziś 1 stycznia
+Czego nie wiedziałeś o św. Teresie z Lisieux
+Czego nie wiedziałeś o św. Teresie z Lisieux
 3
-Cytat z Biblii dla ciebie na dziś 2 stycznia
-Cytat z Biblii dla ciebie na dziś 2 stycznia
+Modlitwa dla ciebie na dziś 2 stycznia
+Modlitwa dla ciebie na dziś 2 stycznia
 4
-Postanowienia noworoczne? Pierwsza lekcja św. Alfonsa Liguoriego
-Postanowienia noworoczne? Pierwsza lekcja św. Alfonsa Liguoriego
+Modlitwa dla ciebie na dziś 3 stycznia
+Modlitwa dla ciebie na dziś 3 stycznia
 5
-Modlitwa dla ciebie na dziś 2 stycznia
-Modlitwa dla ciebie na dziś 2 stycznia
+Petycja przeciwko Nicki Minaj. Za wiarę, za Nigerię, za sprzeciw wobec
+ideologii?
+Petycja przeciwko Nicki Minaj. Za wiarę, za Nigerię, za sprzeciw wobec
+ideologii?
 6
-Czego nie wiedziałeś o św. Teresie z Lisieux
-Czego nie wiedziałeś o św. Teresie z Lisieux
+Cytat z Biblii dla ciebie na dziś 3 stycznia
+Cytat z Biblii dla ciebie na dziś 3 stycznia
 7
-20 ciekawostek o Bazylice św. Piotra. Wiedziałeś o tym? [zdjęcia]
-20 ciekawostek o Bazylice św. Piotra. Wiedziałeś o tym? [zdjęcia]
+Nieoczekiwane oddziaływanie klasztoru św. Szarbela [reportaż z Belgii]
+Nieoczekiwane oddziaływanie klasztoru św. Szarbela [reportaż z Belgii]
 See More
 Modlitwa dnia
 Dziś świętujemy...

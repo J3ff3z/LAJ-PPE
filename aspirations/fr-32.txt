@@ -1,926 +1,354 @@
-HTTP/2 200 
-expires: Sun, 19 Nov 1978 05:00:00 GMT
-x-content-type-options: nosniff
-content-type: text/html; charset=UTF-8
-cache-control: max-age=60, public, s-maxage=2764800, stale-if-error=180, stale-while-revalidate=60
-etag: "1767456903"
-x-drupal-dynamic-cache: MISS
-content-language: en
-last-modified: Sat, 03 Jan 2026 16:15:03 GMT
-x-lagoon: amazeeio-uk3>ingress-nginx>middle-east-eye-main:nginx>nginx-df79cc4b9-6c2dg
-x-frame-options: SAMEORIGIN
-fastly-drupal-html: YES
-fastly-request-id: b582a580d034a28d3abc17d6
-server-timing: MISS, fastly;desc="Edge time";dur=526
-accept-ranges: bytes
-age: 1773
-date: Sat, 03 Jan 2026 16:44:37 GMT
-vary: Cookie, Accept-Encoding
-fastly-request-id: bab747115e4d119cb1cc29c5
-server-timing: HIT-CLUSTER, fastly;desc="Edge time";dur=1
-strict-transport-security: max-age=31557600
-alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
-content-length: 64841
+HTTP/1.1 200 OK
+Server: nginx/1.23.2
+Date: Sun, 04 Jan 2026 17:26:02 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/7.4.33
+Set-Cookie: PHPSESSID=e367d8c6f5fa2f56eac0180f2ccc9ce8; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ZKID=95c5cc4d4892a1100e16f0d8323145becd0673ee; expires=Tue, 03-Feb-2026 17:26:02 GMT; Max-Age=2592000; path=/
+Set-Cookie: ZK=%2F; expires=Mon, 04-Jan-2027 17:26:02 GMT; Max-Age=31536000; path=/
+Vary: Accept-Encoding
 
 <!DOCTYPE html>
-<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="mee">
-  <head>
-    <meta charset="utf-8" />
-<meta name="description" content="Le coup d&#039;État du 27 mai 1960 a créé un précédent pour les interventions militaires qui ont suivi et mis en place une tutelle militaire permanente en Turquie" />
-<link rel="canonical" href="https://www.middleeasteye.net/decryptages/le-peche-originel-de-la-politique-turque-moderne" />
-<meta name="robots" content="max-image-preview:large" />
-<link rel="shortlink" href="https://www.middleeasteye.net/node/44266" />
-<meta name="generator" content="Drupal 8 (http://drupal.org)" />
-<link rel="image_src" href="https://www.middleeasteye.net/sites/default/files/TurkishFlag.9June2014.jpg" />
-<meta property="og:site_name" content="Middle East Eye" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.middleeasteye.net/decryptages/le-peche-originel-de-la-politique-turque-moderne" />
-<meta property="og:title" content="Le péché originel de la politique turque moderne" />
-<meta property="og:description" content="Le coup d&#039;État du 27 mai 1960 a créé un précédent pour les interventions militaires qui ont suivi et mis en place une tutelle militaire permanente en Turquie" />
-<meta property="og:image" content="https://www.middleeasteye.net/sites/default/files/TurkishFlag.9June2014.jpg" />
-<meta property="og:image:url" content="https://www.middleeasteye.net/sites/default/files/TurkishFlag.9June2014.jpg" />
-<meta property="article:author" content="https://www.facebook.com/middleeasteye/" />
-<meta property="fb:app_id" content="882711278504931" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="Le coup d&#039;État du 27 mai 1960 a créé un précédent pour les interventions militaires qui ont suivi et mis en place une tutelle militaire permanente en Turquie" />
-<meta name="twitter:title" content="Le péché originel de la politique turque moderne" />
-<meta name="twitter:creator" content="@middleeasteye" />
-<meta name="twitter:url" content="https://www.middleeasteye.net/decryptages/le-peche-originel-de-la-politique-turque-moderne" />
-<meta name="twitter:image" content="https://www.middleeasteye.net/sites/default/files/TurkishFlag.9June2014.jpg" />
-<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
-<meta name="MobileOptimized" content="width" />
-<meta name="HandheldFriendly" content="true" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<script type="application/ld+json">{
-    "@context": "https://schema.org",
-    "@graph": [
-        {
-            "@type": "NewsArticle",
-            "headline": "Le péché originel de la politique turque moderne",
-            "about": "Politique Turque",
-            "description": "« J\u0027ai aimé cet homme, votre honneur. Savez-vous ce qu\u0027est l\u0027amour ? », déclara Ayhan Aydan, chanteuse d\u0027opéra, dans le palais de justice où son amant Adnan Menderes, le premier Premier ministre de la Turquie élu démocratiquement, était jugé. Le 27 mai 1960, le premier coup d’État de la République turque entraîna le renversement du gouvernement du Parti démocrate. Le Parti démocrate était arrivé au pouvoir à l\u0027issue des premières élections libres de Turquie, en 1950, après 27 ans d\u0027un régime unipartite qui avait gouverné le pays d\u0027une main de fer.",
-            "image": {
-                "@type": "ImageObject",
-                "representativeOfPage": "True",
-                "url": "https://www.middleeasteye.net/sites/default/files/TurkishFlag.9June2014.jpg",
-                "width": "620",
-                "height": "413"
-            },
-            "datePublished": "2015-05-27T21:32:00+0100",
-            "dateModified": "2015-06-10T08:43:41+0100",
-            "author": {
-                "@type": "Person",
-                "@id": "Middle East Eye",
-                "name": "Ceren Kenar",
-                "url": "https://www.middleeasteye.net/users/ceren-kenar"
-            }
-        }
-    ]
-}</script>
-<link rel="icon" href="/sites/default/files/MEE%20Purple.png" type="image/png" />
-<link rel="alternate" hreflang="en" href="https://www.middleeasteye.net/decryptages/le-peche-originel-de-la-politique-turque-moderne" />
+<html>
+<head>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>        <title>Les vertus des hommes politiques selon Don Luigi Sturzo</title>
+        <meta content="0" http-equiv="expires" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="robots" content="index,follow" />
 
-    <title>Le péché originel de la politique turque moderne | Middle East Eye</title>
-    <link rel="stylesheet" media="all" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" />
-<link rel="stylesheet" media="all" href="/sites/default/files/css/css_NCp55h4AaPwRfyN2t-HHRcdVZf7UeASCsLXUZvFJaxs.css?delta=1&amp;language=en&amp;theme=mee_subtheme&amp;include=eJx1jtEKwjAMRX-oLp9UsvbOlrXNaDKnf-8cEwT1JbkcwskNM2I26T63iGZjkTDTR3YqIXPxdT9jX3Kblb7RYAkVTh9qqDSywt0yNqVjDlXiWvBLNUkz3qBSMQSpi7T9seOoaAo69xBUXQU8ryZ-h3RFQ-dywNOqiTso5YhLkLUZujuQpbw3ficXpEgf5U4RE6_FnIJ7SJ6XfOhfJQoM9Ic_AWUveAI" />
-<link rel="stylesheet" media="all" href="/sites/default/files/css/css_HZUiyOgp68oNmhv5cMFpaz8HIUNDwU3tdTF7_9koTg8.css?delta=2&amp;language=en&amp;theme=mee_subtheme&amp;include=eJx1jtEKwjAMRX-oLp9UsvbOlrXNaDKnf-8cEwT1JbkcwskNM2I26T63iGZjkTDTR3YqIXPxdT9jX3Kblb7RYAkVTh9qqDSywt0yNqVjDlXiWvBLNUkz3qBSMQSpi7T9seOoaAo69xBUXQU8ryZ-h3RFQ-dywNOqiTso5YhLkLUZujuQpbw3ficXpEgf5U4RE6_FnIJ7SJ6XfOhfJQoM9Ic_AWUveAI" defer />
-<link rel="stylesheet" media="all" href="/sites/default/files/css/css_JT8cVZHISRsloi9Q_MkhteNQlNZwCeUeT5NMSEQcVrQ.css?delta=3&amp;language=en&amp;theme=mee_subtheme&amp;include=eJx1jtEKwjAMRX-oLp9UsvbOlrXNaDKnf-8cEwT1JbkcwskNM2I26T63iGZjkTDTR3YqIXPxdT9jX3Kblb7RYAkVTh9qqDSywt0yNqVjDlXiWvBLNUkz3qBSMQSpi7T9seOoaAo69xBUXQU8ryZ-h3RFQ-dywNOqiTso5YhLkLUZujuQpbw3ficXpEgf5U4RE6_FnIJ7SJ6XfOhfJQoM9Ic_AWUveAI" defer />
-
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/44266","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_environment":false},"tagIds":["GTM-TJWJ5S9"]},"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJyNkkF2wyAMRC9EzJF4MkxsakAOEnV6-1Inbdo4i24k-AxI8wQFQRFYuuXBixi_IETl6mIJKDom9ov9tTaeE9eRr_Z78SABZ2pJTYhyaWJvyUzMU4JTmuzUw_N-oDe6_oXZZMBRU3a9NTuhoFLaobCPlJzMVGHnGHDy3IqiHk_jF_ZY1d0lruLSIHqUPoNhjzpHOWpFo18-TlsME-5PtVFnZFjfBTqC1Aio-tnRGncbnvOaoP3ya25-6tlH5Rds7aVRce1mCqWxqXL5v3Dr0puT3GdMLsWyiD1zUdognPsH6P1w6aN-JTyiYbdt5EMU2Y4kMO8Rm9g9DplDS_gE30TzDg","theme":"mee_subtheme","theme_token":null},"ajaxTrustedUrl":{"\/search\/content":true},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":""},"node":{"author":"Ceren Kenar","type":"story"},"disqusComments":"middleeasteye","sharethis":{"publisher":"dr-b9f3ffa-479e-d472-aad9-38772f4f9e00","version":"5x","doNotCopy":true,"hashAddressBar":false,"doNotHash":true,"newOrZero":"zero"},"search_api_autocomplete":{"search_content":{"auto_submit":true}},"user":{"uid":0,"permissionsHash":"f57841bfdd9c6e0d66c5f859b9fdc37bef49532e7df50c4610bdf8ab2b0574af"}}</script>
-<script src="//platform-api.sharethis.com/js/sharethis.js#property=5d245fb16d20a10012251c07&amp;product=sticky-share-buttons" async="async"></script>
-<script src="/sites/default/files/js/js_aKizqnX2v6JkiFNhqhjYmxlIl2DNgeUz2UBE4_YH0vo.js?scope=header&amp;delta=1&amp;language=en&amp;theme=mee_subtheme&amp;include=eJyNj-ESgiAQhF-I5JGYEzekwFM4Rnv7MCcrxx_9gd3lm7slAiaz9RRM7ilB-0GQLEYxlsuqTcJUkEU5ZhdghJx2En8tuaNv6EaLiuv40kqPCG3rAmlBojqfp5L1dm3Qd4dj0LxO6f0Jm8Xb--My-85B1A7qXY31HQlL_cpAoS0iPOQ5_42egcpy4NTyot_ik3S4Ugm1CijZ3tDoDRVhy3EMkFr4PH8C9g2c1Q"></script>
-<script src="/modules/contrib/google_tag/js/gtm.js?t7ttw1"></script>
-<script src="/modules/contrib/google_tag/js/gtag.js?t7ttw1"></script>
-<script src="/sites/default/files/js/js_FWQyxclov-Fib8kPt4p5CU8s6sxmDS2e1IL7Vsr-u9s.js?scope=header&amp;delta=4&amp;language=en&amp;theme=mee_subtheme&amp;include=eJyNj-ESgiAQhF-I5JGYEzekwFM4Rnv7MCcrxx_9gd3lm7slAiaz9RRM7ilB-0GQLEYxlsuqTcJUkEU5ZhdghJx2En8tuaNv6EaLiuv40kqPCG3rAmlBojqfp5L1dm3Qd4dj0LxO6f0Jm8Xb--My-85B1A7qXY31HQlL_cpAoS0iPOQ5_42egcpy4NTyot_ik3S4Ugm1CijZ3tDoDRVhy3EMkFr4PH8C9g2c1Q"></script>
-<script src="/themes/mee_subtheme/js/mee_chartbeat.js?t7ttw1" defer></script>
-
-  </head>
-  <body class="path-node page-node-type-story has-glyphicons">
-        <link rel=canonical>
-    <a href="#main-content" class="visually-hidden focusable">
-      Skip to main content
-    </a>
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TJWJ5S9"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
-    
-        <div class="region region-before-navigation">
-    <section id="block-adsense-top" class="block block-adsense block-adsense-managed-ad-block clearfix">
-  
-    
-
-      <div class="text-align-center">
-  <div class="adsense responsive" >
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027"
-     crossorigin="anonymous"></script>
-<!-- responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-6114695881218027"
-     data-ad-slot="8074323968"
-     data-ad-format="horizontal"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
+        <meta property="og:title" content="Les vertus des hommes politiques selon Don Luigi Sturzo" />
+		            <meta name="description" content="Un crime est un comportement humain volontaire qui prend la forme d'une action interdite par le système juridique d'un État, à laquelle est attachée une sanction. Pour qu'un comportement soit cons [...]" />
+            <meta property="og:description" content="Un crime est un comportement humain volontaire qui prend la forme d&#039;une action interdite par le syst&egrave;me juridique d&#039;un &Eacute;tat, &agrave; laquelle est attach&eacute;e une sanction. Pour qu&#039;un comportement soit cons [...]" />
+						            <meta property="og:image" content="http://www.jpic-jp.org/img/logo.png" />
+				            <meta property="og:type" content="website" />
+		        <meta property="og:url" content="http://www.jpic-jp.org/a/les-vertus-des-hommes-politiques-selon-don-luigi-sturzo" />
+		<link rel="stylesheet" type="text/css" href="/model/modules/ZkSlider/files/style.css" />
+		<link rel="stylesheet" type="text/css" href="/model/modules/FrontEnd/files/grid.css" />
+		<link rel="stylesheet" type="text/css" href="/model/modules/InstantSearch/files/style.css" />
+		<link rel="stylesheet" type="text/css" href="/templates/default/css/custom.css" />
+		<link rel="stylesheet" type="text/css" href="/templates/default/css/carousel.css" />
+		<script type="text/javascript" src="/model/modules/ZkSlider/files/js.js"></script>
+		<script type="text/javascript" src="/model/modules/FrontEnd/files/zklibs.js"></script>
+		<script type="text/javascript" src="/model/modules/InstantSearch/files/js.js"></script>
+		<script type="text/javascript" src="/templates/default/js/custom.js"></script>
+		<script type="text/javascript">
+	var c_id = '4ffedb8d85adaba0461f7b815ba2c585';
+	var base_path = '/';
+	var absolute_path = '/fr/';
+	var absolute_url = ["a","les-vertus-des-hommes-politiques-selon-don-luigi-sturzo"];
 </script>
-  </div>
-</div>
-
-  </section>
-
-
-  </div>
-
-  
-      <header id="navigation-header" role="banner">
-      <div class="navigation-header">
-          <div class="region region-navigation">
-          <a class="logo navbar-btn" href="/" title="Home" rel="home">
-      <img width="1200" height="858" class="en navigation" src="/themes/mee_subtheme/images/logo-en.svg" alt="Home" />
-    </a>
-  <nav role="navigation" aria-labelledby="block-top-menu-en-menu" id="block-top-menu-en">
-            
-  <h3 class="visually-hidden block-title" id="block-top-menu-en-menu">Top Menu - English Version</h3>
-  
-
-        
-      <ul class="menu menu--top-menu-en nav">
-                        <li class="navitem-news">
-        <a href="/news" class="navitem-news" data-drupal-link-system-path="node/120391">News</a>
-                  </li>
-                        <li class="navitem-trending">
-        <a href="/trending" class="navitem-trending" data-drupal-link-system-path="node/377566">Trending</a>
-                  </li>
-                        <li class="navitem-opinion">
-        <a href="/opinion" class="navitem-opinion" data-drupal-link-system-path="node/120006">Opinion</a>
-                  </li>
-                        <li class="navitem-video">
-        <a href="/video" class="navitem-video" data-drupal-link-system-path="node/120011">Video</a>
-                  </li>
-                        <li class="navitem-explainers">
-        <a href="/explainers" class="navitem-explainers" data-drupal-link-system-path="node/377571">Explainers</a>
-                  </li>
-        </ul>
-  
-
-  </nav>
-<section class="views-exposed-form block--views-exposed-form--search-content--page-1 block block-views-exposed-filter-blocks block-views-exposed-filter-blocks-block clearfix" data-drupal-selector="views-exposed-form-search-content-page-1" id="block-viewsexposedfilterblock">
-  
-    
-
-      <form action="/search/content" method="get" id="views-exposed-form-search-content-page-1" accept-charset="UTF-8">
-  <span class="search-label" data-drupal-selector="edit-search-label"><span class="icon glyphicon glyphicon-search search-icon" data-drupal-selector="edit-search-icon"></span>
-<span class="search-text" data-drupal-selector="edit-search-text">Search</span>
-</span>
-<div class="js-form-item form-item js-form-type-search-api-autocomplete form-item-keys js-form-item-keys form-no-label">
-        <div class="input-group"><input placeholder="Search in MEE" data-drupal-selector="edit-keys" data-search-api-autocomplete-search="search_content" class="form-autocomplete form-text" data-autocomplete-path="/search_api_autocomplete/search_content?display=page_1&amp;&amp;filter=keys" type="text" id="edit-keys" name="keys" value="" size="30" maxlength="128" /><span class="input-group-addon"><span class="icon glyphicon glyphicon-remove close-icon"></span><span class="icon glyphicon glyphicon-refresh ajax-progress ajax-progress-throbber" aria-hidden="true"></span></span></div>
-        </div>
-<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper container-element" id="edit-actions"><button data-drupal-selector="edit-submit-search-content" class="button js-form-submit form-submit btn-primary" type="submit" id="edit-submit-search-content" value="Search">Search</button></div>
-
-
-</form>
-
-  </section>
-
-<section class="views-element-container block-collapsible block-collapsed block block-views block-views-blockcountries-list-block-1 clearfix" id="block-countries-list-block-header">
-  
-    
-
-      <span class="icon glyphicon glyphicon-globe globe-icon"><span class="icon glyphicon glyphicon-chevron-down dropdown-icon"></span>
-</span>
-<div class="container-element">      <a class="logo navbar-btn" href="/" title="Home" rel="home">
-      <img width="1200" height="858" class="en navigation_collapsible" src="/themes/mee_subtheme/images/logo-mobile-en.svg" alt="Home" />
-    </a>
-  <div class="js-view-dom-id-b4d8c8a1ec27b96838550a4fe475708b8a3572747173ab87b59c5045a4d21451 view-content">
-  
-  
-  
-
-  
-  
-  
-
-  <div class="views-rows"><div class="item-list">
-  
-  <ul>
-
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/algeria" hreflang="en">Algeria</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/bahrain" hreflang="en">Bahrain</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/china" hreflang="en">China</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/egypt" hreflang="en">Egypt</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/france" hreflang="en">France</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/germany" hreflang="en">Germany</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/india" hreflang="en">India</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iran" hreflang="en">Iran</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iraq" hreflang="en">Iraq</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/israel" hreflang="en">Israel</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/jordan" hreflang="en">Jordan</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/kuwait" hreflang="en">Kuwait</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/lebanon" hreflang="en">Lebanon</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/libya" hreflang="en">Libya</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/mauritania" hreflang="en">Mauritania</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/morocco" hreflang="en">Morocco</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/oman" hreflang="en">Oman</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/pakistan" hreflang="en">Pakistan</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/palestine" hreflang="en">Palestine</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/qatar" hreflang="en">Qatar</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/russia" hreflang="en">Russia</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/saudi-arabia" hreflang="en">Saudi Arabia</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/sudan" hreflang="en">Sudan</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/syria" hreflang="en">Syria</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/tunisia" hreflang="en">Tunisia</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/turkey" hreflang="en">Turkey</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/uk" hreflang="en">UK</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/uae" hreflang="en">United Arab Emirates</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/us" hreflang="en">US</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/yemen" hreflang="en">Yemen</a></span></div></li>
-    
-  </ul>
-
-</div>
-</div>
-  
-  
-
-  
-  
-
-  
-  
-</div>
-<span class="icon glyphicon glyphicon-remove close-icon"></span>
-</div>
-
-  </section>
-
-<section id="block-socialmedialinks-2" class="block-social-media-links block block-social-media-links-block clearfix">
-  
-    
-
-      
-
-<ul class="social-media-links--platforms platforms inline horizontal">
-      <li>
-      <a class="social-media-link-icon--youtube" href="https://www.youtube.com/channel/UCR0fZh5SBxxMNYdg0VzRFkg"  target="_blank" rel="nofollow" >
-        <span class='fab fa-youtube fa-lg'></span>
-
-        
-        <span class="platform--name visually-hidden">Youtube</span>
-      </a>
-    </li>
-      <li>
-      <a class="social-media-link-icon--twitter" href="https://x.com/MiddleEastEye"  target="_blank" rel="nofollow" >
-        <span class='fab fa-x-twitter fa-lg'></span>
-
-        
-        <span class="platform--name visually-hidden">X</span>
-      </a>
-    </li>
-      <li>
-      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/middleeasteye"  target="_blank" rel="nofollow" >
-        <span class='fab fa-instagram fa-lg'></span>
-
-        
-        <span class="platform--name visually-hidden">Instagram</span>
-      </a>
-    </li>
-      <li>
-      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/MiddleEastEye"  target="_blank" rel="nofollow" >
-        <span class='fab fa-facebook fa-lg'></span>
-
-        
-        <span class="platform--name visually-hidden">Facebook</span>
-      </a>
-    </li>
-      <li>
-      <a class="social-media-link-icon--tiktok" href="https://www.tiktok.com/@middleeasteye"  target="_blank" rel="nofollow" >
-        <span class='fab fa-tiktok fa-lg'></span>
-
-        
-        <span class="platform--name visually-hidden">TikTok</span>
-      </a>
-    </li>
-  </ul>
-
-  </section>
-
-<section class="views-element-container block block-views block-views-blocktrending-topics-block-english clearfix" id="block-trending-topics-en-header">
-  
-    
-
-      <div class="container-element"><div class="js-view-dom-id-120f9b7a6672b85356fcc53e99a1e4a658f799cbb1c6344dd37cbdeb5b51e683 view-content">
-  
-  
-  
-
-  
-  
-  
-
-  <div class="views-rows">    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/israel-genocide-gaza" hreflang="en">Israel&#039;s genocide in Gaza</a></span></div></div>
-    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/sudan-war" hreflang="en">Sudan war</a></span></div></div>
-</div>
-  
-  
-
-  
-  
-
-  
-  
-</div>
-</div>
-
-  </section>
-
-
-  </div>
-
-                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-            <i class="fa fa-bars"></i>
-            <span class="sr-only">Toggle navigation</span>
-          </button>
-              </div>
-
-                    <div id="navbar-collapse" class="navbar-collapse collapse width">
-          <div id="navbar-collapse-content">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-              <i class="fa fa-times"></i>
-              <span class="sr-only">Toggle navigation</span>
-            </button>
-              <div class="region region-navigation-collapsible">
-          <a class="logo navbar-btn" href="/" title="Home" rel="home">
-      <img width="1200" height="858" class="en navigation_collapsible" src="/themes/mee_subtheme/images/logo-mobile-en.svg" alt="Home" />
-    </a>
-  <nav role="navigation" aria-labelledby="block-sidebar-menu-mobile-en-menu" id="block-sidebar-menu-mobile-en">
-            
-  <h3 class="visually-hidden block-title" id="block-sidebar-menu-mobile-en-menu">Sidebar Menu Mobile En</h3>
-  
-
-        
-      <ul class="menu menu--main-menu-mobile-en nav">
-                        <li>
-        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Home</a>
-                  </li>
-                        <li>
-        <a href="/news" data-drupal-link-system-path="node/120391">News</a>
-                  </li>
-                        <li>
-        <a href="/opinion" data-drupal-link-system-path="node/120006">Opinion</a>
-                  </li>
-                        <li>
-        <a href="/video" data-drupal-link-system-path="node/120011">Video</a>
-                  </li>
-                        <li>
-        <a href="/thebigstory">The Big Story</a>
-                  </li>
-                        <li>
-        <a href="/contact">Contact</a>
-                  </li>
-                        <li class="navitem-life">
-        <a href="/discover" class="navitem-life" data-drupal-link-system-path="node/120061">Discover</a>
-                  </li>
-        </ul>
-  
-
-  </nav>
-<section class="views-element-container block block-views block-views-blocktrending-topics-block-english clearfix" id="block-trending-topics-en-mobile">
-  
-      <h3 class="block-title">Now</h3>
-    
-
-      <div class="container-element"><div class="js-view-dom-id-b2c53af11b4b611ed8820c32be2df103cb40cef9607920293b4d48fed67de679 view-content">
-  
-  
-  
-
-  
-  
-  
-
-  <div class="views-rows">    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/israel-genocide-gaza" hreflang="en">Israel&#039;s genocide in Gaza</a></span></div></div>
-    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/sudan-war" hreflang="en">Sudan war</a></span></div></div>
-</div>
-  
-  
-
-  
-  
-
-  
-  
-</div>
-</div>
-
-  </section>
-
-<section id="block-socialmedialinks-mobile" class="block-social-media-links block block-social-media-links-block clearfix">
-  
-      <h3 class="block-title">Follow us</h3>
-    
-
-      
-
-<ul class="social-media-links--platforms platforms inline horizontal">
-      <li>
-      <a class="social-media-link-icon--youtube" href="https://www.youtube.com/MiddleEastEye"  target="_blank" rel="nofollow" >
-        <span class='fab fa-youtube fa-lg'></span>
-
-        
-        <span class="platform--name visually-hidden">Youtube</span>
-      </a>
-    </li>
-      <li>
-      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/MiddleEastEye"  target="_blank" rel="nofollow" >
-        <span class='fab fa-facebook fa-lg'></span>
-
-        
-        <span class="platform--name visually-hidden">Facebook</span>
-      </a>
-    </li>
-      <li>
-      <a class="social-media-link-icon--twitter" href="https://x.com/MiddleEastEye"  target="_blank" rel="nofollow" >
-        <span class='fab fa-x-twitter fa-lg'></span>
-
-        
-        <span class="platform--name visually-hidden">X</span>
-      </a>
-    </li>
-      <li>
-      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/middleeasteye"  target="_blank" rel="nofollow" >
-        <span class='fab fa-instagram fa-lg'></span>
-
-        
-        <span class="platform--name visually-hidden">Instagram</span>
-      </a>
-    </li>
-  </ul>
-
-  </section>
-
-
-  </div>
-
-          </div>
-        </div>
-          </header>
-  
-
-  <div role="main" class=" js-quickedit-main-content main-content page-node-article-type page-node-story">
-                                    <div role="heading" class="top-bar top-bar-node-story">
-                  <div class="large-container">
-                         <a href="/taxonomy/term/30010">Décryptages</a>    | <span class="article-topic">            <div class="field field-field-topic"><a href="/fr/topics/politique-turque" hreflang="fr">Politique Turque</a></div>
-      </span>
-                  </div>
-              </div>
-                
-                              <div class="highlighted">
-            <div class="large-container">
-                <div class="region region-highlighted">
-    <div data-drupal-messages-fallback class="hidden"></div>
-
-  </div>
-
+<div id="zkpath" data-path="/"></div>    <link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+</head>
+<body>
+<div class="container-fluid p0">
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a  href="/fr">Home</a>
+                    </li>
+                                            <li>
+                            <a   href="/fr/p/qui-sommes-nous">Qui sommes-nous</a>
+                        </li>
+                                            <li>
+                            <a   href="/fr/p/accaparement-des-terres">Accaparement des terres</a>
+                        </li>
+                                            <li>
+                            <a   href="/fr/p/archive-newsletter">Archive NewsLetter</a>
+                        </li>
+                                            <li>
+                            <a   href="/fr/p/pages-web-liees-a-l-at">Pages Web liées à l'AT</a>
+                        </li>
+                                            <li>
+                            <a   href="/fr/p/bibliographie-at">Bibliographie-AT</a>
+                        </li>
+                                    </ul>
             </div>
-          </div>
-              
-            
-            
-      <div class="page-content-wrapper">
-                      <div class="content-top">
-              
-                <div class="region region-content-top">
-      
-      <h1 class="page-title">
-<span class="field field-title">Le péché originel de la politique turque moderne</span>
-</h1>
-  
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
 
-
-  </div>
-
-                
-          </div>
-                  
-            <section class="page-main-content">
-                                  <a href="#main-content" aria-label="Main content" id="main-content" class="visually-hidden" tabindex="-1"></a>
-                                <div class="field field-field-subhead">Le coup d&#039;État du 27 mai 1960 a créé un précédent pour les interventions militaires qui ont suivi et mis en place une tutelle militaire permanente en Turquie</div>
-      
-                      <div class="field field-field-main-image">    <picture>
-                  <source srcset="/sites/default/files/styles/article_page/public/TurkishFlag.9June2014.jpg.webp?itok=mgRJmWcy 1x" type="image/webp" width="1400" height="933"/>
-                  <img loading="lazy" srcset="/sites/default/files/styles/article_page/public/TurkishFlag.9June2014.jpg.webp?itok=mgRJmWcy 1x" width="1400" height="933" src="/sites/default/files/styles/max_2600x2600/public/TurkishFlag.9June2014.jpg.jpg?itok=uOhTe51Z" typeof="foaf:Image" />
-
-  </picture>
-
-</div>
-      
-        
-        <div class="author-field author-info author-location">
-      By <a class="author-name" title="View user profile." href="/users/ceren-kenar">Ceren Kenar</a>
-    </div>
-                  <div class="submitted-date">
-          <span class="date-created">Published date:</span> 10 June 2015 08:43 BST
-            <span class="date-separator">| </span>
-            <span class="date-updated">Last update:</span> <span id="date-updatedago" data-timeago="1433922221">10 years 7 months</span> ago        </div>
-            
-                <div class="region region-content">
-    <section id="block-meesocialshare" class="mee-social-share-block mee-social-share-block--hide-counter block block-mee-social-share block-mee-social-share-block clearfix">
-  
-    
-
-      <div class="container-element"><div class="sharethis-wrapper">
-      <span st_url="https://www.middleeasteye.net/analyses/le-p-ch-originel-de-la-politique-turque-moderne-311119248" st_title="Le péché originel de la politique turque moderne" class="st_facebook_hcount" displayText="facebook"></span>
-
-      <span st_url="https://www.middleeasteye.net/analyses/le-p-ch-originel-de-la-politique-turque-moderne-311119248" st_title="Le péché originel de la politique turque moderne" class="st_twitter_hcount" st_via="MiddleEastEye" st_username="MiddleEastEyeFR" displayText="twitter"></span>
-
-      <span st_url="https://www.middleeasteye.net/analyses/le-p-ch-originel-de-la-politique-turque-moderne-311119248" st_title="Le péché originel de la politique turque moderne" class="st_whatsapp_hcount" displayText="whatsapp"></span>
-
-      <span st_url="https://www.middleeasteye.net/analyses/le-p-ch-originel-de-la-politique-turque-moderne-311119248" st_title="Le péché originel de la politique turque moderne" class="st_email_hcount" displayText="email"></span>
-
-      <span st_url="https://www.middleeasteye.net/analyses/le-p-ch-originel-de-la-politique-turque-moderne-311119248" st_title="Le péché originel de la politique turque moderne" class="st_sharethis_hcount" displayText="sharethis"></span>
-
-  </div>
-</div>
-
-  </section>
-
-  <article data-history-node-id="44266" about="/decryptages/le-peche-originel-de-la-politique-turque-moderne" class="story is-promoted full article-type clearfix">
-                <div class="field field-body clearfix"><p>« J'ai aimé cet homme, votre honneur. Savez-vous ce qu'est l'amour ? », déclara Ayhan Aydan, chanteuse d'opéra, dans le palais de justice où son amant Adnan Menderes, le premier Premier ministre de la Turquie élu démocratiquement, était jugé. Le 27 mai 1960, le premier coup d’État de la République turque entraîna le renversement du gouvernement du Parti démocrate. Le Parti démocrate était arrivé au pouvoir à l'issue des premières élections libres de Turquie, en 1950, après 27 ans d'un régime unipartite qui avait gouverné le pays d'une main de fer.</p><p>Adnan Menderes, tout comme deux ministres de son cabinet, fut condamné à mort suite à des dizaines de procès tenus à Yassıada, une petite île située dans la mer de Marmara. En raison de sa liaison extra-conjugale avec Menderes, Aydan avait été invitée à venir témoigner au procès connu sous le nom de l'« affaire du bébé ». Menderes avait été accusé du meurtre du nouveau-né qu'il avait eu avec Aydan.</p><p>Les dirigeants de la junte cherchaient désespérément à ternir la réputation de Menderes aux yeux de sa base essentiellement conservatrice. Ils demandèrent d'abord à son épouse de déposer une plainte pour adultère contre Menderes. Les officiers de l'armée obtinrent même à l'époque l’émission d’une fatwa par le mufti d'Istanbul, qui déclara : « L'adultère est le plus grand des péchés. La sentence pour ce péché est la lapidation. »</p><p>Cependant, l'épouse de Menderes refusa de témoigner contre son mari, tout comme sa maîtresse. Résistant aux menaces, ces deux femmes courageuses et nobles ouvrirent la voie vers l'acquittement de Menderes dans l'« affaire du bébé ». Il fut toutefois reconnu coupable d'autres chefs d'accusation retenus contre lui, telles qu'une accusation de violation de la constitution, et fut pendu le 17 septembre 1961.</p><p>Malgré toutes ces tentatives de diabolisation de Menderes, ce dernier est resté un héros et un martyr dans le cœur et l'esprit de ses partisans. Il a été élu sous le slogan « Assez ! C'est au tour des peuples de parler » et a fait la promotion dans un premier temps de la libéralisation économique, politique et sociale. Menderes a toujours été vénéré par les dirigeants des partis de centre-droite turcs, qui l'ont dépeint comme un défenseur héroïque des droits et intérêts politiques et économiques de ce qu'ils appelaient l'« homme ordinaire ».</p><div style="display: flex; align-items: center; justify-content: center; background-color: transparent; padding: 0; max-width: 100%; margin: 0 auto; box-sizing: border-box; border: 4px dashed #522F71; border-radius: 20px; padding-top: 20px; padding-bottom: 23px;">
-  <div style="flex: 1; text-align: center;">
-    <h2 style="font-family: Calluna, Arial, sans-serif; font-size: calc(14px + 1vw); color: #000; margin: 0; padding-top: 10px;">New MEE newsletter: Jerusalem Dispatch</h2>
-    <h4 style="font-family: Calluna, Arial, sans-serif; font-size: calc(10px + 0.5vw); color: #000; margin: 0; padding-top: 10px; padding-bottom: 5px; text-align: center;">
-      <span style="white-space: normal;">
-        Sign up to get the latest insights and analysis on
-      </span>Israel-Palestine, alongside Turkey Unpacked and other MEE newsletters</h4>
-    <form action="https://middleeasteye.us21.list-manage.com/subscribe/post?u=b5bdd0873541363c88d50e5cb&amp;id=e9fb079abb&amp;f_id=00a3a3e1f0" method="POST" style="display: flex; margin-top: 1vw; justify-content: center;" data-once="form-updated" data-drupal-form-fields="">
-      <input name="EMAIL" placeholder="Your email" required="" style="border: 1px solid #ccc; border-radius: 0; font-size: 16px; outline: none; flex: 1; box-sizing: border-box; max-width: 51.5%; height: 50px;" type="email">
-      <div hidden="true"><input type="hidden" name="tags" value="442256"></div>
-      <input style="padding: 10px; background-color: #512F70; color: #fff; cursor: pointer; font-size: 16px; border: none; border-radius: 0; outline: none; width: 25%; text-align: center; height: 50px;" type="submit" value="Subscribe">
-    </form>
-  </div>
-</div><p>Aujourd'hui, on peut voir les partisans du Parti pour la justice et le développement (AKP) brandir des portraits de Menderes lors de rassemblements électoraux. L’AKP est le plus récent des partis politiques turcs à se prévaloir de l'héritage de Menderes.</p><p>Ainsi, le 14 mai 2015, le Premier ministre Ahmet Davutoğlu a lancé un projet visant à faire de l'île de Yassıada, où Menderes a été jugé, l'« Île de la démocratie et de la liberté ». Lors de la cérémonie d'ouverture, Davutoğlu a déclaré qu'un « musée de la démocratie » serait construit à Yassıada pour commémorer les « héros de la démocratie ». « La salle d'audience dans laquelle Menderes, le Président de l'époque Celâl Bayar et d'autres prévenus ont été jugés sera préservée telle quelle et transmise aux générations futures, de sorte que plus jamais personne ne tente une chose pareille », a-t-il ajouté.</p><p>Alors qu'il existe de nos jours un quasi-consensus en Turquie pour dénoncer le coup d’État de 1960, similaire au coup d’État égyptien de 2013, il a été célébré dans les rues pendant des décennies, principalement par l'élite urbaine laïque, et étiqueté comme étant une « révolution » progressiste. Il est frappant de constater que Mohammed Morsi est devenu le premier Président démocratiquement élu du Moyen-Orient à avoir été condamné à mort depuis Menderes.</p><p>Le processus qui prit fin avec le coup d'État commença en 1959, lorsque les tensions croissantes entre le Parti démocrate au pouvoir et le Parti républicain du peuple (CHP) attinrent leur paroxysme. Fondé par Mustafa Kemal, Atatürk, le CHP était le parti au pouvoir pendant la période unipartite et despotique qui prit fin avec la victoire électorale du Parti démocrate.</p><p>L'opposition accusait le Parti démocrate d'approuver des mesures autoritaires et de violer la constitution, mais également de corruption et d'oppression. Le journal d'opposition de l'époque, <em>Dunya</em>, critiquait la « démagogie [de Menderes ], digne de l'époque ottomane, lorsque le sultan exploitait le sentiment religieux pour détourner l'attention de l'aggravation de la situation interne ».</p><p>Alors que le fossé politique entre le parti au pouvoir et le parti d'opposition se creusait, les manifestations de rue contre le gouvernement se multipliaient. Le gouvernement essaya de supprimer l'opposition par la répression, en faisant fermer des journaux, en emprisonnant des figures de l'opposition et des journalistes et en recourant à des moyens autoritaires contre les manifestants.</p><p>« Visiblement, sans prédécesseur libéral, Menderes n'était pas un démocrate libéral quand il a dû faire face à une opposition véhémente », argumente Dogan Gurpınar, historien à l'université technique d'Istanbul. « Menderes n'a pas hésité à utiliser les pouvoirs étendus qui lui ont été accordés par le pouvoir législatif et le pouvoir exécutif dans la constitution héritée du régime kémaliste. Il les a utilisés de manière excessive, en particulier lorsque l'opposition à son gouvernement a grandi et est devenue plus agressive à la fin des années 1950. »</p><p>Cela dit, Cemil Kocak, historien à l'université de Sabancı, nous rappelle que les accusations portées contre Menderes étaient vernies et exagérées par une machine de propagande dont le but était d'ouvrir la voie au coup d'État et de donner <em>a posteriori</em> une légitimité à l'armée.</p><p>« Trois chefs de la bande des méchants, Celâl Bayar (le Président), Adnan Menderes (le Premier ministre) et Refik Koraltan (le président du parlement), observaient avec bonheur les massacres brutaux orchestrés par Namik Gedik (le ministre de l'Intérieur) contre les jeunes turcs. Ces créatures qui enterraient vivants les jeunes dans des réfrigérateurs et dans des tombes, avant de mettre les cadavres dans des hachoirs à viande et de donner la viande aux chiens, ne peuvent pas être des êtres humains », écrit Kocak dans son best-seller de propagande intitulé <em>The Victory of the Turkish Army: Bloodless Revolution</em>.</p><p>Inutile de préciser qu'aucune de ces affirmations n'était vraie.</p><p>L'agitation politique s'accentuant, les alliés de l'OTAN commencèrent à se distancier du gouvernement de Menderes. Curieusement, c'est Menderes qui plaça la Turquie dans le bloc occidental et qui fit du pays un membre de l'OTAN en 1952, en échange de la participation de la Turquie à la guerre de Corée.</p><p>Le 30 avril 1960, le <em>New York Times</em> publia un article intitulé « Les propos de Menderes inquiètent les conseillers américains : Washington craint que le ton du Premier ministre turc face à ses ennemis étudiants n'élargisse l'opposition ». L'article soulignait le fait que Menderes considérait les protestations contre lui comme un complot et qualifiait les manifestants d'« outils » et de « partisans fanatiques ». Le 16 mai 1960, le quotidien publia un reportage en pleine page, sous le titre « Menderes jure qu'il ne démissionnera pas et affirme que la Turquie ira bientôt aux urnes – Affrontements entre opposants et partisans lors de son discours à Izmir ».</p><p>Le 25 avril 1960, un éditorial du quotidien intitulé « Le régime Menderes » indiquait : « La suspension des activités politiques normales du gouvernement turc a soulevé de graves craintes dans l'esprit des amis de la Turquie. [...] M. Inonu [leader du CHP et ancien Premier ministre] a déclaré la semaine dernière lors du débat à la Grande Assemblée nationale de Turquie sur la suspension de certains partis (censuré dans la presse turque) : "Si vous continuez comme cela, même moi, je ne serai pas en mesure de vous sauver". » Quelques jours avant le coup d'État, le 5 mai 1960, l'ambassadeur américain Warren Fletcher rejeta les rumeurs selon lesquelles un émissaire américain s'était entretenu avec Menderes et avait déclaré que les États-Unis restaient impartiaux dans le litige l’opposant aux manifestants.</p><p>Le coup d'État fut annoncé par une brève allocution radiodiffusée à la nation. Dans ce communiqué très court, les nouveaux dirigeants militaires de la Turquie jurèrent allégeance à l'OTAN et au CenTO. Le 28 mai 1960, un jour après le coup d’État, Fletcher Warren rendit visite au leader du coup d’État, le général Cemal Gürsel. Fort de son expérience solide dans l'observation de coups d'État lorsqu'il était diplomate en Amérique latine, il confia au chef de la junte, Gürsel, que c'était « de loin le coup d'État le plus précis, le plus efficace et le plus rapide » qu’il n’ait jamais vu.</p><p>Le 29 mai 1960, le <em>New York Times</em> publia un article depuis la Turquie intitulé « Le général Gürsel dirige le cabinet turc et lève la répression : le peuple enthousiaste salue le régime, les journalistes et les étudiants emprisonnés sont libérés ».</p><p>Le coup d'État militaire fut glorifié par l'élite militaire laïque, les médias et les universitaires étouffèrent avec enthousiasme les pratiques autoritaires du gouvernement de la junte, et les partisans de Menderes furent réduits au silence à travers des simulacres de procès et la persécution. Cependant, il ne fallut pas longtemps pour que certains des partisans du coup d'État fussent perçus comme une menace pour le gouvernement de la junte.</p><p>Une purge politique fut lancée dans les universités et 147 professeurs furent expulsés suite à une chasse aux sorcières basée sur des accusations arbitraires : un politologue de renom fut par exemple licencié pour homosexualité. Şener Aktürk note que le gouvernement de la junte adopta une politique ethnique discriminatoire qui « rappelait le régime unipartite antérieur à 1950 ».</p><p>Seulement quelques jours après le coup d'État, 485 notables kurdes furent arrêtés et déplacés dans un camp pour avoir tenté « d'établir un gouvernement kurde » et pour avoir travaillé pour le Parti démocrate, accusé de soutenir ces activités. Gürsel, le chef de la junte, déclara un jour : « Partout où vous verrez un Kurde, crachez sur son visage ». Il se disait aussi que le général avait envisagé d'exécuter plus de 2 500 notables et hommes politiques kurdes.</p><p>Pendant ce temps, le soutien apporté au gouvernement de la junte par la communauté internationale resta intact. Cemal Gürsel fut décrit comme « un modéré politique » et le coup d'État de 1960 fut qualifié de « révolution sans effusion de sang » dans sa nécrologie publiée le 15 septembre 1966 dans le <em>New York Times</em>. Il était aussi généreusement encensé par Cyrus L. Sulzberger, correspondant à l'étranger du <em>New York Times</em> et chroniqueur primé spécialiste des affaires étrangères, qui fut accusé par Carl Bernstein d'être un agent de la CIA.</p><p>Bernstein était un journaliste d'investigation du <em>Washington Post</em> qui avait contribué à mettre au jour le scandale du Watergate. Dans une chronique publiée le 13 février 1966, Sulzberger écrivit : « L'armée turque a toujours joué un rôle important ; lorsqu'elle s'est sentie appelée à exercer une influence politique, elle a toujours évolué dans le sens libéral. »</p><p>Pourtant, la grande majorité des Turcs, qui ont depuis des décennies la réputation avérée de voter pour le parti approuvé par l'armée, semble être en désaccord avec la lecture de la politique turque faite par Sulzberger. La Turquie a connu plusieurs coups d'État et interventions militaires qui ont visé presque tous les segments de la société (les Kurdes, les islamistes, les alévis, les sympathisants de gauche et les libéraux), laissant derrière eux un passé sanglant et douloureux.</p><p>Aujourd'hui, le coup d’État de 1960 est perçu comme le péché originel de la politique turque moderne qui a créé un précédent pour les interventions militaires qui ont suivi et mis en place une tutelle militaire permanente en Turquie.</p><p>« L'armée a restructuré les organes de l'État afin que la bureaucratie et le système judiciaire fonctionnent de manière autonome par rapport aux gouvernements au pouvoir. En tant que régime tutélaire qui supervise le fonctionnement du gouvernement, l'armée [orchestre] l'État », explique Dogan Gurpınar, ajoutant que « ce système a prévalu pendant quatre à cinq décennies jusqu'à sa disparition à la fin des années 2000 ».<br> </p><p><em>Photo : manifestants portant un drapeau turc géant lors d'une manifestation (AFP).</em></p><p><em>Traduction de l'anglais (original) par <a href="http://www.vectranslation.com/fr/index.php">VECTranslation</a>.</em></p></div>
-      
-  
-  
-  <blockquote class="disclaimer">Middle East Eye delivers independent and unrivalled coverage and analysis of the Middle East, North Africa and beyond. To learn more about republishing this content and the associated fees, please fill out this <u><a href="https://middleeasteye.net/form/mee-syndication"><span style="color:#3498db">form</span></a></u>. More about MEE can be found <u><a href="https://middleeasteye.net/about-middle-east-eye"><span style="color:#3498db">here</span></a></u>.</blockquote>
-
-</article>
-
-
-  </div>
-
-              
-                </section>
-
-                                    <aside role="complementary" class="sidebar-second">
-                        <div class="sidebar-photo-extend"></div>
-  
-                    <div class="region region-sidebar-second">
-    <section id="block-managedad-2" class="block block-adsense block-adsense-managed-ad-block clearfix">
-  
-    
-
-      <div class="text-align-center">
-  <div class="adsense" style="width:300px;height:250px;">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027"
-     crossorigin="anonymous"></script>
-<!-- 300x250 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:300px;height:250px"
-     data-ad-client="ca-pub-6114695881218027"
-     data-ad-slot="9954860777"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-  </div>
-</div>
-
-  </section>
-
-<section id="block-recommendedarticles" class="block block-mee-custom block-recommended clearfix">
-  
-      <h3 class="block-title">Recommended</h3>
-    
-
-      <div class="recommended-block">
-  <div class="recommended-landing"></div>
-  <div class="recommended-other"><div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image-no">
-      <div class="mee-tile-main">
-    <div class="mee-tile-topic"><a href="/taxonomy/term/4242">Politique Turque</a></div>
-    <a aria-label="La fin de la démocratie en Turquie ?" class="mee-tile-title" href="/decryptages/la-fin-de-la-democratie-en-turquie">La fin de la démocratie en Turquie ?</a>
-      </div>
-</div>
-<div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image-no">
-      <div class="mee-tile-main">
-    <div class="mee-tile-topic"><a href="/taxonomy/term/4242">Politique Turque</a></div>
-    <a aria-label="La montée en puissance des ultranationalistes turcs" class="mee-tile-title" href="/decryptages/la-montee-en-puissance-des-ultra-nationalistes-turcs">La montée en puissance des ultranationalistes turcs</a>
-      </div>
-</div>
-</div>
-</div>
-  </section>
-
-<section id="block-managedad-3" class="block block-adsense block-adsense-managed-ad-block clearfix">
-  
-    
-
-      <div class="text-align-center">
-  <div class="adsense" style="width:300px;height:250px;">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027"
-     crossorigin="anonymous"></script>
-<!-- 300x250 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:300px;height:250px"
-     data-ad-client="ca-pub-6114695881218027"
-     data-ad-slot="8074323968"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-  </div>
-</div>
-
-  </section>
-
-
-  </div>
-
-                  
-              </aside>
-                      </div>
-
-                                    <div class="content-bottom">  
-  <div class="paragraph--type--landing-page-segment segment--no-type">
-  <div class="segment-content">
-    <h3 class="segment-title">Read more</h3>
-    <div class="landing-layout-wrapper">
-  <div class="first-layout"><div class="mee-subtheme-segment-layout mee-subtheme-segment-layout--articles-below-3 segment-layout-std">
-  <div class="mee-article-tile mee-article-tile-type--opinion mee-article-tile-image">
-      <div class="mee-tile-image">
-    <a aria-label="Les arrestations de militaires montrent la volonté de l’AKP de punir les gülenistes" href="/node/44028"><img src="/sites/default/files/styles/landing_tile/public/000_Nic6425407%20%281%29.jpg.webp?itok=meKq14F-" width="448" height="280" alt="" loading="lazy" typeof="foaf:Image" />
-
-</a>
-  </div>
-    <div class="mee-tile-main">
-    <div class="mee-tile-topic"><a href="/taxonomy/term/4242">Politique Turque</a></div>
-    <a aria-label="Les arrestations de militaires montrent la volonté de l’AKP de punir les gülenistes" class="mee-tile-title" href="/node/44028"><span class="mee-tile-quote"></span> Les arrestations de militaires montrent la volonté de l’AKP de punir les gülenistes</a>
-        <div class="mee-tile-author">- David Barchard</div>
-      </div>
-</div>
-<div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image">
-      <div class="mee-tile-image">
-    <a aria-label="Les anciens généraux turcs sortent libres du procès intenté pour « coup d’Etat » " href="/decryptages/les-anciens-generaux-turcs-sortent-libres-du-proces-intente-pour-coup-detat"><img src="/sites/default/files/styles/landing_tile/public/Sledge.5April2015_0.jpg.webp?itok=QDPrZ7y6" width="448" height="280" alt="" loading="lazy" typeof="foaf:Image" />
-
-</a>
-  </div>
-    <div class="mee-tile-main">
-    <div class="mee-tile-topic"><a href="/taxonomy/term/4242">Politique Turque</a></div>
-    <a aria-label="Les anciens généraux turcs sortent libres du procès intenté pour « coup d’Etat » " class="mee-tile-title" href="/decryptages/les-anciens-generaux-turcs-sortent-libres-du-proces-intente-pour-coup-detat">Les anciens généraux turcs sortent libres du procès intenté pour « coup d’Etat » </a>
-      </div>
-</div>
-<div class="mee-article-tile mee-article-tile-type--opinion mee-article-tile-image">
-      <div class="mee-tile-image">
-    <a aria-label="La Turquie paie les conséquences de la répression des manifestations" href="/node/43545"><img src="/sites/default/files/styles/landing_tile/public/MayDayIstanbul.3May2015.jpg.webp?itok=RPzSqM-Z" width="448" height="280" alt="" loading="lazy" typeof="foaf:Image" />
-
-</a>
-  </div>
-    <div class="mee-tile-main">
-    <div class="mee-tile-topic"><a href="/taxonomy/term/12614">Turquie</a></div>
-    <a aria-label="La Turquie paie les conséquences de la répression des manifestations" class="mee-tile-title" href="/node/43545"><span class="mee-tile-quote"></span> La Turquie paie les conséquences de la répression des manifestations</a>
-        <div class="mee-tile-author">- David Barchard</div>
-      </div>
-</div>
-
-</div></div>
-  	</div>
-  </div>
-</div>
-
-  
-</div>
-                  </div>
-
-  <footer class="footer " role="contentinfo">
-      
-    <div id="footer-top-wrapper">
-        <div class="region region-footer">
-          <a class="logo navbar-btn" href="/" title="Home" rel="home">
-      <img width="1200" height="858" class="en footer" src="/themes/mee_subtheme/images/logo-en.svg" alt="Home" />
-    </a>
-  <nav role="navigation" aria-labelledby="block-top-menu-en-footer-menu" id="block-top-menu-en-footer">
-            
-  <h3 class="visually-hidden block-title" id="block-top-menu-en-footer-menu">Top Menu En</h3>
-  
-
-        
-      <ul class="menu menu--top-menu-en nav">
-                        <li class="navitem-news">
-        <a href="/news" class="navitem-news" data-drupal-link-system-path="node/120391">News</a>
-                  </li>
-                        <li class="navitem-trending">
-        <a href="/trending" class="navitem-trending" data-drupal-link-system-path="node/377566">Trending</a>
-                  </li>
-                        <li class="navitem-opinion">
-        <a href="/opinion" class="navitem-opinion" data-drupal-link-system-path="node/120006">Opinion</a>
-                  </li>
-                        <li class="navitem-video">
-        <a href="/video" class="navitem-video" data-drupal-link-system-path="node/120011">Video</a>
-                  </li>
-                        <li class="navitem-explainers">
-        <a href="/explainers" class="navitem-explainers" data-drupal-link-system-path="node/377571">Explainers</a>
-                  </li>
+        <ul class="language">
+            <li><a href="/a/le-virtu-dei-politici-secondo-don-luigi-sturzo">IT</a></li>
+            <li><a style="color: #72320D" href="/en/a/the-politicians-virtues-according-to-luigi-sturzo">EN</a></li>
+            <li><a href="/fr/a/les-vertus-des-hommes-politiques-selon-don-luigi-sturzo">FR</a></li>
+            <li><a style="color: #72320D" href="/es/a/las-virtudes-de-los-pol-ticos-seg-n-luigi-sturzo">ES</a></li>
         </ul>
-  
+    </nav>
+    <div class="zkslide" data-height="365px" data-width="100%" data-interval="4000" data-id="slide">
+                    <div>
+                <div class="item">
+                    <img class="first-slide" src="/img/slider/4.jpg" alt="Justice, Paix, Intégrité<br /> de la Création ">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h1>Justice, Paix, Intégrité<br /> de la Création </h1>
+                            <p>Par Jean Paul Pezzi, Mccj</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div>
+                <div class="item">
+                    <img class="first-slide" src="/img/slider/5.jpg" alt="Justice, Paix, Intégrité<br /> de la Création ">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h1>Justice, Paix, Intégrité<br /> de la Création </h1>
+                            <p>Par Jean Paul Pezzi, Mccj</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div>
+                <div class="item">
+                    <img class="first-slide" src="/img/slider/6.jpg" alt="Justice, Paix, Intégrité<br /> de la Création ">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h1>Justice, Paix, Intégrité<br /> de la Création </h1>
+                            <p>Par Jean Paul Pezzi, Mccj</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div>
+                <div class="item">
+                    <img class="first-slide" src="/img/slider/7.jpg" alt="Justice, Paix, Intégrité<br /> de la Création ">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h1>Justice, Paix, Intégrité<br /> de la Création </h1>
+                            <p>Par Jean Paul Pezzi, Mccj</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div>
+                <div class="item">
+                    <img class="first-slide" src="/img/slider/8.jpg" alt="Justice, Paix, Intégrité<br /> de la Création ">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h1>Justice, Paix, Intégrité<br /> de la Création </h1>
+                            <p>Par Jean Paul Pezzi, Mccj</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                </div>
+    <!-- Page Content -->
+    <section><div class="container">
+    <div class="col-xs-9 mt20 page pl0">
+        <h2>Les vertus des hommes politiques selon Don Luigi Sturzo</h2>
+        <span class="data">In Terris 12.11.2022</span>        <span class="scritto">Mons. Michele Pennisi</span>        <span class="tradotto">Traduit par: Jpic-jp.org</span>
+        <span class="testo sottotitolo">
+            <p><em>La diff&eacute;rence fondamentale entre le p&eacute;ch&eacute; et le crime est que le premier est un concept moral-religieux, le second un concept politico-l&eacute;gal. Le p&eacute;cheur doit rendre des comptes &agrave; son Dieu. Le d&eacute;linquant, quant &agrave; lui, doit rendre des comptes &agrave; la loi et au juge et, dans un sens plus large, &agrave; la communaut&eacute; l&eacute;s&eacute;e par son crime. Luigi Sturzo est n&eacute; le&nbsp;</em><a href="https://fr.wikipedia.org/wiki/26_novembre" title="26 novembre"><em>26</em></a>&nbsp;<a href="https://fr.wikipedia.org/wiki/Novembre_1871" title="Novembre 1871"><em>novembre</em></a>&nbsp;<a href="https://fr.wikipedia.org/wiki/1871" title="1871"><em>1871</em></a><em> en&nbsp;</em><a href="https://fr.wikipedia.org/wiki/Sicile" title="Sicile"><em>Sicile</em></a><em> et mort &agrave; Rome en&nbsp;</em><a href="https://fr.wikipedia.org/wiki/1959" title="1959"><em>1959</em></a><em>. Il &eacute;tait&nbsp;</em><a href="https://fr.wikipedia.org/wiki/Pr%C3%AAtre_catholique" title="Prêtre catholique"><em>pr&ecirc;tre catholique</em></a><em>&nbsp;et&nbsp;</em><a href="https://fr.wikipedia.org/wiki/Homme_politique" title="Homme politique"><em>homme politique</em></a><em>, grande figure du&nbsp;parti populaire.</em></p>
+        </span>
+        <img src="/img/articoli/613.jpg">        <span class="testo">
+            <p>Un crime est un comportement humain volontaire qui prend la forme d&#39;une action interdite par le syst&egrave;me juridique d&#39;un &Eacute;tat, &agrave; laquelle est attach&eacute;e une sanction. Pour qu&#39;un comportement soit consid&eacute;r&eacute; comme un crime, il ne suffit pas qu&#39;il soit contraire &agrave; la loi. Plusieurs circonstances doivent &ecirc;tre r&eacute;unies : le caract&egrave;re volontaire du comportement ; l&#39;existence de l&#39;&eacute;l&eacute;ment psychologique, la faute intentionnelle ou la culpabilit&eacute; ; le lien de causalit&eacute; entre le comportement actif et la survenance du fait dommageable ; l&#39;inexistence de conditions qui rendraient licite un comportement formellement illicite (par exemple, la l&eacute;gitime d&eacute;fense).</p>
 
-  </nav>
-<section id="block-socialmedialinks-footer" class="block-social-media-links block block-social-media-links-block clearfix">
-  
-    
+<p>Le p&eacute;ch&eacute; appartient &agrave; la sph&egrave;re religieuse. Le Cat&eacute;chisme de l&#39;&Eacute;glise Catholique dit : &laquo;&nbsp;Le p&eacute;ch&eacute; est un manquement &agrave; la raison, &agrave; la v&eacute;rit&eacute;, &agrave; la conscience droite ; c&#39;est une transgression dans l&#39;ordre du v&eacute;ritable amour, envers Dieu et le prochain, &agrave; cause d&#39;un attachement pervers &agrave; certains biens. Elle blesse la nature humaine et attaque la solidarit&eacute; humaine. C&#39;est une offense &agrave; Dieu&nbsp;&raquo;.</p>
 
-      
+<p>Trois conditions sont n&eacute;cessaires pour qu&#39;il y ait p&eacute;ch&eacute; : une mati&egrave;re grave, une pleine conscience de l&#39;intelligence, un consentement d&eacute;lib&eacute;r&eacute; de la volont&eacute; libre de tout conditionnement. La moralit&eacute; est un d&eacute;sir et une tension continue vers le bien qui ne se scandalise pas de sa propre fragilit&eacute; et de celle des autres parce qu&#39;elle na&icirc;t de la gratitude pour l&#39;exp&eacute;rience de l&#39;amour gratuit.</p>
 
-<ul class="social-media-links--platforms platforms inline horizontal">
-      <li>
-      <a class="social-media-link-icon--youtube" href="https://www.youtube.com/MiddleEastEye"  target="_blank" rel="nofollow" >
-        <span class='fab fa-youtube fa-lg'></span>
+<p>La mission de l&#39;&Eacute;glise n&#39;est pas celle d&#39;une agence humanitaire distribuant des permis de moralit&eacute;, mais celle de d&eacute;noncer proph&eacute;tiquement le mal et d&#39;&ecirc;tre &eacute;vang&eacute;liquement mis&eacute;ricordieuse envers les p&eacute;cheurs auxquels elle demande continuellement la conversion du c&oelig;ur et du comportement. A cet &eacute;gard, l&#39;attitude de J&eacute;sus est embl&eacute;matique : aux pharisiens qui lui avaient amen&eacute; une femme adult&egrave;re, il dit &laquo;&nbsp;que celui qui n&#39;a pas p&eacute;ch&eacute; lui jette la premi&egrave;re pierre&nbsp;&raquo; et &agrave; la femme il dit &laquo;&nbsp;va et d&eacute;sormais ne p&egrave;che plus&nbsp;&raquo;.</p>
 
-        
-        <span class="platform--name visually-hidden">Youtube</span>
-      </a>
-    </li>
-      <li>
-      <a class="social-media-link-icon--twitter" href="https://x.com/MiddleEastEye"  target="_blank" rel="nofollow" >
-        <span class='fab fa-x-twitter fa-lg'></span>
+<p>L&#39;&Eacute;glise demande aux personnes engag&eacute;es dans la politique que leurs actions soient au service de la promotion int&eacute;grale de la personne et du bien commun, en d&eacute;passant le dualisme entre la foi et la vie. Il s&#39;agit de vivre en accord avec sa conscience &eacute;clair&eacute;e par la foi, ce qui conduit &agrave; concevoir l&#39;engagement politique comme un acte d&#39;amour gratuit au service de la communaut&eacute;.</p>
 
-        
-        <span class="platform--name visually-hidden">X</span>
-      </a>
-    </li>
-      <li>
-      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/middleeasteye"  target="_blank" rel="nofollow" >
-        <span class='fab fa-instagram fa-lg'></span>
+<p>Parler du crime et du p&eacute;ch&eacute; dans la pratique politique pr&eacute;suppose de parler de la relation entre l&eacute;galit&eacute; et moralit&eacute;, entre droit et justice. Le respect de la loi est appel&eacute; &agrave; ne pas &ecirc;tre un simple acte formel mais une action personnelle qui trouve son horizon dans la vertu de la justice. On respecte la loi, on observe la l&eacute;galit&eacute; non pas par peur de la sanction mais par soif de justice et de r&eacute;alisation du bien commun. Le fait que la question morale soit plac&eacute;e au centre de l&#39;attention en politique est une bonne chose dans la mesure o&ugrave; cela remet en question la s&eacute;paration pr&eacute;judiciable de l&#39;&eacute;thique et de la politique, maintenue par ceux qui th&eacute;orisent que toutes les exp&eacute;riences de la vie humaine (politique, science, &eacute;conomie, droit) sont compl&egrave;tement autonomes de la moralit&eacute;.</p>
 
-        
-        <span class="platform--name visually-hidden">Instagram</span>
-      </a>
-    </li>
-      <li>
-      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/MiddleEastEye"  target="_blank" rel="nofollow" >
-        <span class='fab fa-facebook fa-lg'></span>
+<p>Dans la conception chr&eacute;tienne de la vie, le bien et le juste sont des dimensions inali&eacute;nables de l&#39;action, par lesquelles la vie est soumise &agrave; des crit&egrave;res moraux. La moralit&eacute; des hommes politiques est une donn&eacute;e essentielle pour redonner une valeur id&eacute;ale &agrave; l&#39;engagement politique et le transformer en v&eacute;ritable &laquo;&nbsp;charit&eacute; politique&nbsp;&raquo;.</p>
 
-        
-        <span class="platform--name visually-hidden">Facebook</span>
-      </a>
-    </li>
-      <li>
-      <a class="social-media-link-icon--tiktok" href="https://www.tiktok.com/@middleeasteye"  target="_blank" rel="nofollow" >
-        <span class='fab fa-tiktok fa-lg'></span>
+<p>Il faut toutefois se demander si la &laquo;&nbsp;question morale&nbsp;&raquo; soulev&eacute;e par des Catons improvis&eacute;s n&#39;est pas une arme pour d&eacute;truire ou d&eacute;l&eacute;gitimer ses adversaires politiques, et si les int&eacute;r&ecirc;ts &eacute;conomiques et l&#39;exploitation &eacute;lectorale ne sont pas hypocritement dissimul&eacute;s derri&egrave;re des campagnes moralisatrices. L&#39;hypocrisie, rappelle Chesterton, est l&#39;hommage que le vice rend &agrave; la vertu. La moralit&eacute; ne peut &ecirc;tre morcel&eacute;e. Le pharisa&iuml;sme moraliste peut s&#39;appuyer sur la parcellisation de principes moraux pour d&eacute;clarer bon que ce que l&#39;on peut montrer savoir observer et mauvais ce que font les autres, filtrant les moucherons et avalant les chameaux comme le dit J&eacute;sus dans l&#39;&Eacute;vangile.</p>
 
-        
-        <span class="platform--name visually-hidden">TikTok</span>
-      </a>
-    </li>
-  </ul>
+<p>Le moralisme peut d&eacute;g&eacute;n&eacute;rer en pharisa&iuml;sme dans la mesure o&ugrave; c&#39;est la personne qui &eacute;tablit le crit&egrave;re du bien et du mal par lequel elle s&#39;absout g&eacute;n&eacute;ralement et condamne les autres, oublie l&#39;admonition &eacute;vang&eacute;lique d&#39;enlever d&#39;abord la poutre de ses propres yeux avant de pr&eacute;tendre enlever la paille de ceux des autres. C&#39;est l&#39;attitude de ceux qui pensent avoir les mains propres, mais ne r&eacute;alisent pas que leur c&oelig;ur est sale.</p>
 
-  </section>
+<p>Don Luigi Sturzo, qui s&#39;est personnellement engag&eacute; dans la politique en tant que conseiller municipal et provincial, pro-maire pendant 15 ans et secr&eacute;taire du PPI, a d&eacute;clar&eacute; que la politique est un art que seuls quelques artistes sont capables de pratiquer, tandis que d&#39;autres se contentent d&#39;en &ecirc;tre des artisans et que beaucoup en sont r&eacute;duits &agrave; &ecirc;tre des commer&ccedil;ants de la politique. Il n&#39;a pas manqu&eacute; de donner aussi quelques suggestions d&#39;ordre pratique &agrave; ceux qui veulent apprendre l&#39;art et &eacute;viter d&rsquo;&ecirc;tre des commer&ccedil;ants en politiques.</p>
 
+<p>Parmi les vertus des hommes politiques, il cite la franchise, la sinc&eacute;rit&eacute;, la fermet&eacute; pour savoir dire <em>non</em>, l&#39;humilit&eacute; d&#39;o&ugrave; d&eacute;coule le sens des limites, le non-attachement &agrave; l&#39;argent et &agrave; la gloire, la comp&eacute;tence, la planification politique. Sturzo affirme l&#39;absolutisme des valeurs morales mais insiste &eacute;galement sur l&rsquo;<em>impolitique</em> de l&#39;immoralit&eacute; politique. Pour lui, l&#39;&eacute;conomie et la politique, sans moralit&eacute;, sont toujours anti&eacute;conomiques et impolitiques.</p>
 
-  </div>
+<p>Don Luigi Sturzo ne s&#39;est pas arr&ecirc;t&eacute; &agrave; des d&eacute;nonciations g&eacute;n&eacute;riques et abstraites, mais est intervenu souvent et ponctuellement dans certains n&oelig;uds cruciaux de l&#39;histoire de son pays avec des analyses impitoyables qui ne manquent pas d&#39;actualit&eacute;. Voici ce qu&#39;il &eacute;crivait en 1958, &agrave; l&#39;&acirc;ge de quatre-vingt-sept ans, &agrave; propos de la moralisation de la vie publique : &laquo;&nbsp;Un mot : &lsquo;moraliser la vie publique&rsquo; ! O&ugrave; et quand la politique a-t-elle &eacute;t&eacute; maintenue dans la ligne de la moralit&eacute; ? Pas hier, pas aujourd&#39;hui, pas par nous, pas par nos voisins, pas par des pays lointains. C&#39;est pourtant l&#39;aspiration populaire : justice, honn&ecirc;tet&eacute;, mains propres, &eacute;quit&eacute;. Quelle est la conception de l&#39;&Eacute;tat de droit si ce n&#39;est celle d&#39;un &Eacute;tat o&ugrave; le droit se substitue &agrave; l&#39;arbitraire, o&ugrave; le respect de la loi supprime les abus, o&ugrave; les malversations et les abus ne restent pas impunis ?</p>
 
-      <a class="top-link" href="#"><i class="fa fa-angle-double-up"></i>Top</a>
+<p>L&#39;&Eacute;tat n&#39;immunise pas le mal et ne le transforme pas en bien ; il fait subir aux citoyens les effets n&eacute;fastes des actions malhonn&ecirc;tes de ses administrateurs, dirigeants et fonctionnaires, tandis qu&#39;il produit des effets b&eacute;n&eacute;fiques par une politique sage et une administration honn&ecirc;te. Si l&#39;id&eacute;e a p&eacute;n&eacute;tr&eacute; l&#39;esprit des citoyens qu&#39;un pot-de-vin ou un pourcentage pour un interm&eacute;diaire avis&eacute; est n&eacute;cessaire pour qu&#39;une affaire soit conclue, il faut en conclure que les histoires qui circulent de bouche en bouche ne sont pas toutes invent&eacute;es. Et de conclure : &laquo;&nbsp;La propret&eacute; ! La propret&eacute; morale, politique et administrative, ce n&#39;est qu&#39;ainsi que les partis pourront se pr&eacute;senter dignement &agrave; l&#39;&eacute;lectorat pour obtenir des voix ; jamais en faisant des faveurs &agrave; des cat&eacute;gories et &agrave; des groupes ; jamais par des promesses personnelles de postes et de promotions ; mais uniquement au nom des int&eacute;r&ecirc;ts de la communaut&eacute; nationale, de la Patrie enfin, car la moralisation de la vie publique est le meilleur service que l&#39;on puisse rendre &agrave; la Patrie&nbsp;&raquo; (janvier 1958).</p>
+
+<p>La corruption et le client&eacute;lisme sont des ph&eacute;nom&egrave;nes qui ont toujours exist&eacute;, qui s&#39;accentuent surtout dans les moments de grave d&eacute;cadence civile et dans les phases de changement social et culturel, mais depuis quelques d&eacute;cennies en Italie, comme dans d&#39;autres pays (<em>Voir dans les institutions europ&eacute;ennes derni&egrave;rement</em>) ils ont pris des proportions quantitatives et des caract&eacute;ristiques qualitatives sans pr&eacute;c&eacute;dent. Le r&eacute;seau de favoritisme et de corruption s&#39;est &eacute;tendu de la sph&egrave;re de la vie publique &agrave; celle du travail, de la profession, du commerce, et a m&ecirc;me touch&eacute; la vie priv&eacute;e et les relations interpersonnelles.</p>
+
+<p>Ce qui doit &ecirc;tre impressionnant et alarmant, c&#39;est l&#39;&eacute;tat g&eacute;n&eacute;ralis&eacute; d&#39;acquiescement et de r&eacute;signation passive face &agrave; des ph&eacute;nom&egrave;nes moralement graves. D&#39;un c&ocirc;t&eacute;, les gens sont scandalis&eacute;s par les manifestations de corruption de la classe politique, mais de l&#39;autre, ils contribuent &agrave; les alimenter en recourant syst&eacute;matiquement au client&eacute;lisme lorsqu&#39;il s&#39;agit de faire valoir leurs propres int&eacute;r&ecirc;ts, m&ecirc;me au d&eacute;triment de ceux des autres.</p>
+
+<p>Il y a un manque d&#39;anticorps contre les comportements ill&eacute;gaux. Aujourd&#39;hui, il y a de plus en plus de personnes qui ne connaissent plus aucun sentiment de culpabilit&eacute; et qui pr&ecirc;chent que &laquo;&nbsp;la transgression est bonne&nbsp;&raquo;, pour d&eacute;couvrir plus tard qu&#39;elle est aussi &eacute;puisante.</p>
+
+<p>Pour les positions les plus extr&ecirc;mes du relativisme &eacute;thique, il n&#39;existe aucune distinction entre le bien et le mal. Les cons&eacute;quences ultimes de cette position qui m&egrave;ne au nihilisme sont exprim&eacute;es par Camus : &laquo;&nbsp;Si rien n&#39;est cru, si rien n&#39;a de sens et si nous ne pouvons affirmer aucune valeur, tout est possible et rien ne compte. Il n&#39;y a ni pour ni contre, et le meurtrier n&#39;a ni raison ni tort. On peut allumer les fours cr&eacute;matoires, tout comme on peut se consacrer &agrave; la gu&eacute;rison des l&eacute;preux. La malice ou la vertu sont des affaires de caprice&nbsp;&raquo; (L&#39;homme r&eacute;volt&eacute;).</p>
+
+<p>Le philosophe Thomas Hobbes a &eacute;crit : &laquo;&nbsp;Avant les pactes et les lois, il n&#39;y avait ni justice ni injustice ; et la nature du bien et du mal n&#39;y &eacute;tait pas plus commune chez les hommes que chez les b&ecirc;tes&nbsp;&raquo; (De Homine). Et encore &laquo;&nbsp;Les r&egrave;gles du bien et du mal, du juste et de l&#39;injuste, sont des lois vivantes ; et donc ce que le l&eacute;gislateur prescrit doit &ecirc;tre consid&eacute;r&eacute; comme bien ; ce qu&#39;il interdit doit &ecirc;tre consid&eacute;r&eacute; comme mal&nbsp;&raquo; (L&eacute;viathan).</p>
+
+<p>En 1764, dans son ouvrage &laquo;&nbsp;Des crimes et des ch&acirc;timents&nbsp;&raquo;, le juriste et philosophe milanais Cesare Beccaria introduit la distinction entre <em>p&eacute;ch&eacute;</em> et <em>crime</em>. D&eacute;j&agrave; Thomas Hobbes, un si&egrave;cle plus t&ocirc;t, avait d&eacute;clar&eacute; que &laquo;&nbsp;si les crimes sont des p&eacute;ch&eacute;s, tous les p&eacute;ch&eacute;s ne sont pas des crimes&nbsp;&raquo;.</p>
+
+<p>Le <em>crime</em> consiste en un dommage caus&eacute; &agrave; l&#39;ensemble de la communaut&eacute;, de sorte que la personne responsable d&#39;un tel acte m&eacute;rite d&#39;&ecirc;tre jug&eacute;e par la soci&eacute;t&eacute; selon les voies et les formes &eacute;tablies par celle-ci. Le <em>p&eacute;ch&eacute;</em> a une relation directe avec Dieu, de sorte que son auteur m&eacute;rite (du moins pour ceux qui sont croyants) d&#39;&ecirc;tre jug&eacute; (puni ou graci&eacute;) uniquement par Dieu et ses repr&eacute;sentants.</p>
+
+<p>L&#39;ordre juridique ne co&iuml;ncide pas purement et simplement avec l&#39;ordre moral. Le domaine du droit ne couvre pas l&#39;ensemble du domaine de la moralit&eacute;. L&#39;ordre juridique concerne principalement l&#39;aspect objectif, mat&eacute;riel. L&#39;ordre moral consid&egrave;re avant tout l&#39;intention et la finalit&eacute; de ceux qui agissent sans n&eacute;gliger l&#39;acte ext&eacute;rieur.</p>
+
+<p><em>NB. Cela n&rsquo;implique pas que toutes les lois soient justes, mais qu&rsquo;une loi injuste doit &ecirc;tre rectifi&eacute;e par les organes que la soci&eacute;t&eacute; s&rsquo;est donn&eacute;s. Mais, quoi alors si ce sont justement ces organes qui sont corrompu&nbsp;?</em></p>
+
+<p>Voir, <a href="https://www.interris.it/editoriale/virtu-politici-secondo-don-luigi-sturzo/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=giornaliera">Le virt&ugrave; dei politici secondo don Luigi Sturzo</a></p>
+        </span>
+                    <div class="col-xs-8 p0 commenta">
+                <h4 onclick="$('#InviaCommento').toggle(250)" style="cursor: pointer;">Laisser un commentaire</h4>
+                <div class="form-group" id="InviaCommento">
+                    <div class="col-xs-6 pl0">
+                        <label>Nom</label>
+                        <input type="text" name="nome" class="form-control">
+                    </div>
+                    <div class="col-xs-6 pr0">
+                        <label>Email</label>
+                        <input type="text" name="email" class="form-control">
+                    </div>
+                    <div class="col-xs-12 p0 mt15">
+                        <label>Votre commentaire</label>
+                        <textarea name="commento" class="form-control"></textarea>
+                    </div>
+                    <div class="col-xs-4 p0 mt15">
+                        <input type="button" class="btn btn-pp pl35 pr35" value="Envoyez vos commentaires" onclick="Commenti('SendCommento','InviaCommento','Response','613')">
+                    </div>
+                    <div class="col-xs-12 p0 mt35" id="Response"></div>
+                </div>
+            </div>
+                            <div class="col-xs-8 p0 commenti">
+                <h4>Les commentaires de nos lecteurs (1)</h4>
+                                    <div class="col-xs-12">
+                        <b>Dario P</b>
+                        <i>06.05.2023</i>
+                        poi arrivo il compromesso storico...e la cadde' la prima pietra..la politica di oggi non ha confini..solo peccati..                    </div>
+                    </div>            </div>
+    <div class="col-xs-3 sidebar">
+                    <div class="sidebox">
+                <div class="title">
+                    <a href="/fr/a/ce-qu-en-pense-un-juif-italien">Ce qu’en pense un Juif italien</a>
+                </div>
+                <a href="/fr/a/ce-qu-en-pense-un-juif-italien"><img src="/img/articoli/978.jpg"></a>
+                Je voudrais faire une pr&eacute;misse &agrave; propos de ce qu&rsquo;affirme Vito Mancuso dans son article publi&eacute; dans La Stampa le 13.07.2025, intitul&eacute; Les deux visages du fanatisme [...]            </div>
+                        <div class="sidebox">
+                <div class="title">
+                    <a href="/fr/a/exclure-les-populations-concernees-ne-mene-nulle-part">Exclure les populations concernées ne mène nulle part</a>
+                </div>
+                <a href="/fr/a/exclure-les-populations-concernees-ne-mene-nulle-part"><img src="/img/articoli/974.jpg"></a>
+                Depuis plusieurs ann&eacute;es, et plus encore ces derniers mois, la situation dans l&rsquo;est de la R&eacute;publique d&eacute;mocratique du Congo est dramatique. Elle est principalement due [...]            </div>
+                        <div class="sidebox">
+                <div class="title">
+                    <a href="/fr/a/paix-ou-profit-l-accord-congo-rwanda-sous-le-signe-de-l-extractivisme">Paix ou profit ? L’accord Congo-Rwanda sous le signe de l’extractivisme</a>
+                </div>
+                <a href="/fr/a/paix-ou-profit-l-accord-congo-rwanda-sous-le-signe-de-l-extractivisme"><img src="/img/articoli/931.jpg"></a>
+                &laquo; Nous obtenons du Congo, pour les &Eacute;tats-Unis, beaucoup de droits miniers dans le cadre de cet accord &raquo;. Cette phrase, prononc&eacute;e par Donald Trump quelques minutes [...]            </div>
+                        <div class="sidebox">
+                <div class="title">
+                    <a href="/fr/a/au-gouvernement-d-imposer-un-nouveau-modele-economique-aux-geants-du-numerique">Au gouvernement d’imposer un nouveau modèle économique aux géants du numérique</a>
+                </div>
+                <a href="/fr/a/au-gouvernement-d-imposer-un-nouveau-modele-economique-aux-geants-du-numerique"><img src="/img/articoli/915.jpg"></a>
+                Les g&eacute;ants de la Tech traversent une crise existentielle, mais ils s&rsquo;acharnent &agrave; la nier pour pr&eacute;server le statu quo. Facebook et Google, en particulier, cherchent &agrave; [...]            </div>
+                        <div class="sidebox">
+                <div class="title">
+                    <a href="/fr/a/la-fin-d-usaid-mauvaise-ou-bonne-nouvelle">La fin d’USAID : mauvaise ou bonne nouvelle ?</a>
+                </div>
+                <a href="/fr/a/la-fin-d-usaid-mauvaise-ou-bonne-nouvelle"><img src="/img/articoli/888.jpg"></a>
+                Trump se veut original, d&eacute;cid&eacute; &agrave; rejeter tout ce qu&rsquo;ont fait les autres en pr&eacute;tendant faire mieux qu&rsquo;eux par une m&eacute;thode tr&egrave;s simple&nbsp;: [...]            </div>
+                        <div class="sidebox">
+                <div class="title">
+                    <a href="/fr/a/trump-n-est-pas-un-clown-de-cirque">Trump n’est pas un clown de cirque</a>
+                </div>
+                <a href="/fr/a/trump-n-est-pas-un-clown-de-cirque"><img src="/img/articoli/884.jpg"></a>
+                Trump sait qu&#39;il a pris le contr&ocirc;le d&#39;un empire fragile, &laquo;&nbsp;aux pieds d&#39;argile&nbsp;&raquo;, alourdi par &laquo;&nbsp;40 000 milliards de dollars de dette - un peu moins [...]            </div>
+                        <div class="sidebox">
+                <div class="title">
+                    <a href="/fr/a/l-ere-du-chaos">L'ère du chaos</a>
+                </div>
+                <a href="/fr/a/l-ere-du-chaos"><img src="/img/articoli/879.jpg"></a>
+                &nbsp;
+
+Quel que soit le sujet de la question, une r&eacute;ponse claire et nette est impossible. Seule l&#39;arithm&eacute;tique offre des r&eacute;ponses sans &eacute;quivoque ; les [...]            </div>
+                        <div class="sidebox">
+                <div class="title">
+                    <a href="/fr/a/"></a>
+                </div>
+                <a href="/fr/a/"><img src="/img/articoli/872.jpg"></a>
+                            </div>
+                        <div class="sidebox">
+                <div class="title">
+                    <a href="/fr/a/l-europe-n-est-pas-qu-une-idee">L'Europe n'est pas qu'une idée</a>
+                </div>
+                <a href="/fr/a/l-europe-n-est-pas-qu-une-idee"><img src="/img/articoli/856.jpg"></a>
+                Qu&#39;est-ce que l&#39;Europe ? Ne parlons pas d&#39;identit&eacute;, un terme qu&#39;il faut toujours manier avec pr&eacute;caution : parlons simplement de diff&eacute;rences. Aujourd&#39;hui [...]            </div>
+                        <div class="sidebox">
+                <div class="title">
+                    <a href="/fr/a/l-impulsion-nationaliste">L'impulsion nationaliste</a>
+                </div>
+                <a href="/fr/a/l-impulsion-nationaliste"><img src="/img/articoli/845.jpg"></a>
+                Que les passions nationalistes soient toujours aussi vives au XXIe si&egrave;cle, plus de cent ans apr&egrave;s la p&eacute;riode de l&#39;entre-deux-guerres qui a vu l&#39;instauration de [...]            </div>
+                </div>
+</div>
+    </section>
+    <div class="container-fluid mt25 pt30 pb30 footer">
+        <div class="container">
+            <div class="col-lg-10 pt0 pl20">
+                <div class="col-lg-3 p0 mt10">
+                    <h3 class="size22 blue textspacing1 m0">Info</h3>
+                    <ul>
+                        <li><a href="/fr/p/qui-sommes-nous">Qui sommes nous</a></li>
+                        <li><a href="/fr/p/">Connectez-vous</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-8 p0 mt10 textcenter">
+	                Office - Butembo -  Commune Vulamba – Congo Ya Sika<br />
+	                Email: <a href="mailto:jampypezzi@gmail.com">jampypezzi@gmail.com</a> - tel. +39 328 732 6990 / +243 991 457 856<br />
+                    e Blog est en 4 langues:                    <a href="/a/le-virtu-dei-politici-secondo-don-luigi-sturzo">it</a> <a href="/en/a/the-politicians-virtues-according-to-luigi-sturzo">en</a> <a href="/fr/a/les-vertus-des-hommes-politiques-selon-don-luigi-sturzo">fr</a> <a href="/es/a/las-virtudes-de-los-pol-ticos-seg-n-luigi-sturzo">es</a>                 </div>
+                <div class="col-lg-12 sponsor mt25 mb25">
+                                            <a alt="" title="" href="http://www.comboni.org/" target="_blank">
+                            <img src="/img/sponsor/1.png" />
+                        </a>
+                                            <a alt="" title="" href="http://www.combonimissionaries.org/" target="_blank">
+                            <img src="/img/sponsor/2.png" />
+                        </a>
+                                            <a alt="" title="" href="http://vivatinternational.org/" target="_blank">
+                            <img src="/img/sponsor/3.png" />
+                        </a>
+                                            <a alt="" title="" href="http://www.afjn.org/" target="_blank">
+                            <img src="/img/sponsor/4.png" />
+                        </a>
+                                            <a alt="" title="" href="http://www.aefjn.org/" target="_blank">
+                            <img src="/img/sponsor/5.png" />
+                        </a>
+                                    </div>
+            </div>
+            <div class="col-lg-2 p0 textright mt5 white size12 fw300">
+                <h3 class="size22 white textspacing1 mt0 mb10">Suivez-nous dans les réseaux sociaux</h3>
+                <a href="https://www.facebook.com/jpicjp" target="_blank">
+                    <img src="/img/social_fb.png" style="width: auto">
+                </a>
+                                <div class="divider"></div>
+                Jpic-jp.org<br />
+                United State of America<br /><br />
+                <a href="http://www.editt.it" target="_blank" style="font-size: 9px; font-weight: normal; text-transform: none;">
+                    <img src="img/editt.png" alt="" style="width: 30px; vertical-align: middle" title="EDitt | Web Agency" />
+                    EDitt | Web Agency
+                </a>
+            </div>
+
+        </div>
     </div>
-    <div id="footer-bottom-wrapper">
-        <div class="region region-footer-bottom">
-    <section class="views-element-container block-collapsible block-collapsed block block-views block-views-blockcountries-list-block-2 clearfix" id="block-countries-list-block-footer">
-  
-      <h3 class="block-title">Countries</h3>
-    
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script>
+    $(function(){
+        w=$(window).width();
+        wc=$('.container').width();
+        $('.language').css('padding-right',(w-wc)/2+'px');
+        $('.carousel-control').css('width',(w-wc)/2+'px');
+    })
+</script>
+</body>
 
-      <div class="container-element"><div class="js-view-dom-id-5138434a6a52e088b09209f627cc1e70f5a8d8d254834999986cfad56584c6d4 view-content">
-  
-  
-  
-
-  
-  
-  
-
-  <div class="views-rows"><div class="item-list">
-  
-  <ul>
-
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/algeria" hreflang="en">Algeria</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/bahrain" hreflang="en">Bahrain</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/china" hreflang="en">China</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/egypt" hreflang="en">Egypt</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/france" hreflang="en">France</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/germany" hreflang="en">Germany</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/india" hreflang="en">India</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iran" hreflang="en">Iran</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iraq" hreflang="en">Iraq</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/israel" hreflang="en">Israel</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/jordan" hreflang="en">Jordan</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/kuwait" hreflang="en">Kuwait</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/lebanon" hreflang="en">Lebanon</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/libya" hreflang="en">Libya</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/mauritania" hreflang="en">Mauritania</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/morocco" hreflang="en">Morocco</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/oman" hreflang="en">Oman</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/pakistan" hreflang="en">Pakistan</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/palestine" hreflang="en">Palestine</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/qatar" hreflang="en">Qatar</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/russia" hreflang="en">Russia</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/saudi-arabia" hreflang="en">Saudi Arabia</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/sudan" hreflang="en">Sudan</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/syria" hreflang="en">Syria</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/tunisia" hreflang="en">Tunisia</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/turkey" hreflang="en">Turkey</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/uk" hreflang="en">UK</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/uae" hreflang="en">United Arab Emirates</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/us" hreflang="en">US</a></span></div></li>
-          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/yemen" hreflang="en">Yemen</a></span></div></li>
-    
-  </ul>
-
-</div>
-</div>
-  
-  
-
-  
-  
-
-  
-  
-</div>
-</div>
-
-  </section>
-
-<section id="block-about" class="block-collapsible block-collapsed block block-system block-system-menu-blockabout clearfix">
-  
-      <h3 class="block-title">About</h3>
-    
-
-    <div class="container-element">
-    
-      <ul class="menu menu--about">
-                        <li>
-        <a href="/about-middle-east-eye" data-drupal-link-system-path="node/2">About us</a>
-                  </li>
-                        <li>
-        <a href="/privacy-policy" data-drupal-link-system-path="node/3">Privacy</a>
-                  </li>
-                        <li>
-        <a href="/terms-and-conditions" data-drupal-link-system-path="node/1">Terms and conditions</a>
-                  </li>
-                        <li>
-        <a href="/careers" title="Careers" data-drupal-link-system-path="node/261061">Careers</a>
-                  </li>
-                        <li>
-        <a href="/form/contact" title="Contact Us" data-drupal-link-system-path="webform/contact">Contact us</a>
-                  </li>
-        </ul>
-  
-
-  </div>
-</section>
-
-<section id="block-copyright" class="block block-block-content block-block-content1f6aeddb-b5ee-4c7c-9eb5-f21cb5a0bf3c clearfix">
-  
-    
-
-                  <div class="field field-body clearfix"><p><span>Copyright © 2014 - 2025</span><em>.</em><span>&nbsp;Middle East Eye. All rights reserved. </span> <span>Only England and Wales jurisdiction apply in all legal matters.</span></p>
-
-<p><span><span><span><span><span><span><span><span><span><span><strong>Middle East Eye&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ISSN 2634-2456&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></span></span></span></span></span></span></span></span></span></span></p></div>
-      
-  </section>
-
-
-  </div>
-
-    </div>
-  </footer>
-
-  </div>
-
-    
-    <script src="//ws.sharethis.com/button/buttons.js"></script>
-<script src="/sites/default/files/js/js_206xEqODQ9Td3hcLKohm83MNoauh2UcsoZK8wCmvVes.js?scope=footer&amp;delta=1&amp;language=en&amp;theme=mee_subtheme&amp;include=eJyNj-ESgiAQhF-I5JGYEzekwFM4Rnv7MCcrxx_9gd3lm7slAiaz9RRM7ilB-0GQLEYxlsuqTcJUkEU5ZhdghJx2En8tuaNv6EaLiuv40kqPCG3rAmlBojqfp5L1dm3Qd4dj0LxO6f0Jm8Xb--My-85B1A7qXY31HQlL_cpAoS0iPOQ5_42egcpy4NTyot_ik3S4Ugm1CijZ3tDoDRVhy3EMkFr4PH8C9g2c1Q"></script>
-<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/affix.js?t7ttw1" defer></script>
-<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/alert.js?t7ttw1" defer></script>
-<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/button.js?t7ttw1" defer></script>
-<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/carousel.js?t7ttw1" defer></script>
-<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/collapse.js?t7ttw1" defer></script>
-<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/dropdown.js?t7ttw1" defer></script>
-<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/modal.js?t7ttw1" defer></script>
-<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/tooltip.js?t7ttw1" defer></script>
-<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/popover.js?t7ttw1" defer></script>
-<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/scrollspy.js?t7ttw1" defer></script>
-<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/tab.js?t7ttw1" defer></script>
-<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/transition.js?t7ttw1" defer></script>
-<script src="/themes/mee_subtheme/js/mee_theme.js?t7ttw1" defer></script>
-<script src="/sites/default/files/js/js_jH5cwZWg0abVN2l2yzgjWRPqMlHsAYE5ikNHpS55J-A.js?scope=footer&amp;delta=15&amp;language=en&amp;theme=mee_subtheme&amp;include=eJyNj-ESgiAQhF-I5JGYEzekwFM4Rnv7MCcrxx_9gd3lm7slAiaz9RRM7ilB-0GQLEYxlsuqTcJUkEU5ZhdghJx2En8tuaNv6EaLiuv40kqPCG3rAmlBojqfp5L1dm3Qd4dj0LxO6f0Jm8Xb--My-85B1A7qXY31HQlL_cpAoS0iPOQ5_42egcpy4NTyot_ik3S4Ugm1CijZ3tDoDRVhy3EMkFr4PH8C9g2c1Q"></script>
-
-  </body>
 </html>

@@ -1,5 +1,6 @@
-HTTP/ 200 OK Date: Sat, 03 Jan 2026 16:52:55 GMT Server: Apache Expires: Thu,
-PHPSESSID=ll08mjlnefuoh2df7ro561e1r9; path=/; secure; HttpOnly
+
+HTTP/ 200 OK Date: Sun, 04 Jan 2026 17:35:27 GMT Server: Apache Expires: Thu,
+PHPSESSID=to2k6tvpt9p7nqck9v4ok0hfm0; path=/; secure; HttpOnly
 charset=UTF-8
 
 Hasła

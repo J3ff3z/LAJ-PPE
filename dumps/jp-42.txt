@@ -1,7 +1,7 @@
-HTTP/1.1 200 OK Date: Sat, 03 Jan 2026 16:42:43 GMT Server: Apache Set-Cookie:
-ks2=0tu7kad2z0ed; expires=Sun, 03-Jan-2027 16:42:43 GMT; Max-Age=31536000;
-path=/; domain=syosetu.com; secure Set-Cookie: nlist1=13vxo.3; expires=Sun,
-03-Jan-2027 16:42:43 GMT; Max-Age=31536000; path=/; domain=syosetu.com; secure
+HTTP/1.1 200 OK Date: Sun, 04 Jan 2026 17:23:09 GMT Server: Apache Set-Cookie:
+ks2=4gmux71v9wd; expires=Mon, 04-Jan-2027 17:23:09 GMT; Max-Age=31536000;
+path=/; domain=syosetu.com; secure Set-Cookie: nlist1=13vxo.3; expires=Mon,
+04-Jan-2027 17:23:09 GMT; Max-Age=31536000; path=/; domain=syosetu.com; secure
 Vary: Accept-Encoding Connection: close Transfer-Encoding: chunked Content-Type:
 text/html; charset=UTF-8 #Atom
 

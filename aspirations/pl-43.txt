@@ -1,11 +1,10 @@
 HTTP/2 200 
 server: nginx
-date: Sat, 03 Jan 2026 16:49:02 GMT
+date: Sun, 04 Jan 2026 17:30:48 GMT
 content-type: text/html; charset=UTF-8
-content-length: 250046
 vary: Accept-Encoding
 cache-control: max-age=600, public
-expires: Sat, 03 Jan 2026 16:46:28 GMT
+expires: Sun, 04 Jan 2026 17:35:48 GMT
 vary: Accept-Encoding
 accept-ranges: bytes
 alt-svc: h3=":443"; ma=86400
@@ -1167,7 +1166,7 @@ window.Inpl.Ad.exSettings.domain = "www.bryk.pl";
                     <div class="top-ranking-title-wrapper">
                         <div class="ranking-top-title">
                             <p class="title">
-                                                                    Najlepsi<br>w poprzednim miesiącu
+                                                                    Najlepsi<br>w tym miesiącu
                                                             </p>
                         </div>
                     </div>
@@ -1176,57 +1175,20 @@ window.Inpl.Ad.exSettings.domain = "www.bryk.pl";
                             <ol class="listSlideToggler">
                                                                                                         <li>
                                                                                     <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/uczen123,1667186.html">
-                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2025_11/user_avatar-1762510659-931be997a02d2fca5ecbe59f32db9424-1baf6fe3439b8491f145946e19aa40c1-800x535.jpg" alt="Uczen123">
-                                                                                                        <span class="name">Uczen123</span>
-                                                    <span class="points"><span class="points-number">640</span> pkt</span>
-                                                </a>
-                                            </div>
-                                                                            </li>
-                                                                                                        <li>
-                                                                                    <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/przyroda123,1668022.html">
+                                                <a class="link-dark" href="/uzytkownicy/xxxpomocna,1668160.html">
                                                                                                                                                                     <img src="https://assetsbryk.iplsc.com/build/images/avatar_default2.2ebe8e3d.svg" onerror="this.onerror=null; this.src='https://assetsbryk.iplsc.com/build/images/avatar_default2.13eaf670.png'" alt="" class=""no-avatar-icon>
 
-                                                                                                        <span class="name">Przyroda123</span>
-                                                    <span class="points"><span class="points-number">600</span> pkt</span>
+                                                                                                        <span class="name">xxxpomocna</span>
+                                                    <span class="points"><span class="points-number">52</span> pkt</span>
                                                 </a>
                                             </div>
                                                                             </li>
                                                                                                         <li>
                                                                                     <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/tramwaj2685,1667394.html">
-                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2025_10/user_avatar-1760722779-941.jpg" alt="tramwaj2685">
-                                                                                                        <span class="name">tramwaj2685</span>
-                                                    <span class="points"><span class="points-number">351</span> pkt</span>
-                                                </a>
-                                            </div>
-                                                                            </li>
-                                                                                                        <li>
-                                                                                    <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/balladyna15,1668122.html">
-                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2025_12/user_avatar-1765882711-zrzut-ekranu-2025-12-16-115818.png" alt="Balladyna15">
-                                                                                                        <span class="name">Balladyna15</span>
-                                                    <span class="points"><span class="points-number">160</span> pkt</span>
-                                                </a>
-                                            </div>
-                                                                            </li>
-                                                                                                        <li>
-                                                                                    <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/noob67,1668105.html">
-                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2025_12/user_avatar-1765812028-8227-roblox-noob-221589523.png" alt="noob67">
-                                                                                                        <span class="name">noob67</span>
-                                                    <span class="points"><span class="points-number">158</span> pkt</span>
-                                                </a>
-                                            </div>
-                                                                            </li>
-                                                                                                        <li>
-                                                                                    <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/sylwastyv,1665003.html">
-                                                                                                                                                                    <img src="https://assetsbryk.iplsc.com/build/images/avatar_default2.2ebe8e3d.svg" onerror="this.onerror=null; this.src='https://assetsbryk.iplsc.com/build/images/avatar_default2.13eaf670.png'" alt="" class=""no-avatar-icon>
-
-                                                                                                        <span class="name">Sylwastyv</span>
-                                                    <span class="points"><span class="points-number">140</span> pkt</span>
+                                                <a class="link-dark" href="/uzytkownicy/karpik,1668161.html">
+                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2026_01/user_avatar-1767541941-zrzut-ekranu-2025-10-13-185544.png" alt="karpik">
+                                                                                                        <span class="name">karpik</span>
+                                                    <span class="points"><span class="points-number">32</span> pkt</span>
                                                 </a>
                                             </div>
                                                                             </li>
@@ -1236,35 +1198,46 @@ window.Inpl.Ad.exSettings.domain = "www.bryk.pl";
                                                                                                                                                                     <img src="https://assetsbryk.iplsc.com/build/images/avatar_default2.2ebe8e3d.svg" onerror="this.onerror=null; this.src='https://assetsbryk.iplsc.com/build/images/avatar_default2.13eaf670.png'" alt="" class=""no-avatar-icon>
 
                                                                                                         <span class="name">Polo</span>
-                                                    <span class="points"><span class="points-number">98</span> pkt</span>
+                                                    <span class="points"><span class="points-number">28</span> pkt</span>
                                                 </a>
                                             </div>
                                                                             </li>
                                                                                                         <li>
                                                                                     <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/weeso,1668076.html">
-                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2025_12/user_avatar-1765302869-queer-queen.jpg" alt="weeso">
-                                                                                                        <span class="name">weeso</span>
-                                                    <span class="points"><span class="points-number">82</span> pkt</span>
-                                                </a>
-                                            </div>
-                                                                            </li>
-                                                                                                        <li>
-                                                                                    <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/cirrus,1640988.html">
-                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2025_12/user_avatar-1765975005-4ys0dkshtd-1ygi9qt9z1-cart1154.png" alt="cirrus">
-                                                                                                        <span class="name">cirrus</span>
-                                                    <span class="points"><span class="points-number">81</span> pkt</span>
-                                                </a>
-                                            </div>
-                                                                            </li>
-                                                                                                        <li>
-                                                                                    <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/plackizjapkiem,1667984.html">
+                                                <a class="link-dark" href="/uzytkownicy/epstein67,1668154.html">
                                                                                                                                                                     <img src="https://assetsbryk.iplsc.com/build/images/avatar_default2.2ebe8e3d.svg" onerror="this.onerror=null; this.src='https://assetsbryk.iplsc.com/build/images/avatar_default2.13eaf670.png'" alt="" class=""no-avatar-icon>
 
-                                                                                                        <span class="name">plackizjapkiem</span>
-                                                    <span class="points"><span class="points-number">60</span> pkt</span>
+                                                                                                        <span class="name">Epstein67</span>
+                                                    <span class="points"><span class="points-number">27</span> pkt</span>
+                                                </a>
+                                            </div>
+                                                                            </li>
+                                                                                                        <li>
+                                                                                    <div class="avatar">
+                                                <a class="link-dark" href="/uzytkownicy/diarat,1668155.html">
+                                                                                                                                                                    <img src="https://assetsbryk.iplsc.com/build/images/avatar_default2.2ebe8e3d.svg" onerror="this.onerror=null; this.src='https://assetsbryk.iplsc.com/build/images/avatar_default2.13eaf670.png'" alt="" class=""no-avatar-icon>
+
+                                                                                                        <span class="name">diarat</span>
+                                                    <span class="points"><span class="points-number">27</span> pkt</span>
+                                                </a>
+                                            </div>
+                                                                            </li>
+                                                                                                        <li>
+                                                                                    <div class="avatar">
+                                                <a class="link-dark" href="/uzytkownicy/igor2010,1666696.html">
+                                                                                                                                                                    <img src="https://assetsbryk.iplsc.com/build/images/avatar_default2.2ebe8e3d.svg" onerror="this.onerror=null; this.src='https://assetsbryk.iplsc.com/build/images/avatar_default2.13eaf670.png'" alt="" class=""no-avatar-icon>
+
+                                                                                                        <span class="name">Igor2010</span>
+                                                    <span class="points"><span class="points-number">14</span> pkt</span>
+                                                </a>
+                                            </div>
+                                                                            </li>
+                                                                                                        <li>
+                                                                                    <div class="avatar">
+                                                <a class="link-dark" href="/uzytkownicy/nadzieja007,1667278.html">
+                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2025_09/user_avatar-1759044113-panoramic-view-of-corfu-town-scaled.jpg" alt="Nadzieja007">
+                                                                                                        <span class="name">Nadzieja007</span>
+                                                    <span class="points"><span class="points-number">2</span> pkt</span>
                                                 </a>
                                             </div>
                                                                             </li>
@@ -1361,34 +1334,34 @@ window.Inpl.Ad.exSettings.domain = "www.bryk.pl";
                                                                                                         <div class="list-wrapper rankingBoxListContainer hide" data-index="1">
                                                             <ul>
                                                                             <li>
-                                            <a href="/lektury/ignacy-krasicki/mikolaja-doswiadczynskiego-przypadki.streszczenie-szczegolowe">Mikołaja Doświadczyńskiego przypadki</a>
+                                            <a href="/lektury/mary-shelley/frankenstein.streszczenie-szczegolowe">Frankenstein</a>
                                                                                     </li>
                                                                             <li>
-                                            <a href="/lektury/mikolaj-sep-szarzynski/sonet-ii-na-one-slowa-jopowe-homo-natus-de-muliere-brevi-vivens-tempore-etc.streszczenie-szczegolowe">Sonet II. Na one słowa Jopowe: Homo natus de muliere...</a>
+                                            <a href="/lektury/janusz-christa/kajko-i-kokosz-szkola-latania.streszczenie-szczegolowe">Kajko i kokosz. Szkoła latania</a>
                                                                                     </li>
                                                                             <li>
-                                            <a href="/lektury/ignacy-krasicki/bajki.streszczenie-szczegolowe">Bajki</a>
+                                            <a href="/lektury/nieznany/rozmowa-mistrza-polikarpa-ze-smiercia.streszczenie-szczegolowe">Rozmowa mistrza Polikarpa ze śmiercią</a>
                                                                                     </li>
                                                                             <li>
-                                            <a href="/lektury/adam-bahdaj/kapelusz-za-sto-tysiecy.streszczenie-szczegolowe">Kapelusz za sto tysięcy</a>
+                                            <a href="/lektury/arystoteles/retoryka.streszczenie-szczegolowe">Retoryka</a>
                                                                                     </li>
                                                                             <li>
-                                            <a href="/lektury/kazimierz-majdanski/bedziecie-moimi-swiadkami.streszczenie-szczegolowe">Będziecie Moimi świadkami...</a>
+                                            <a href="/lektury/stefan-zeromski/rozdziobia-nas-kruki-wrony.streszczenie-szczegolowe">Rozdzióbią nas kruki, wrony</a>
                                                                                     </li>
                                                                             <li>
-                                            <a href="/lektury/william-szekspir/hamlet.streszczenie-szczegolowe">Hamlet</a>
+                                            <a href="/lektury/ryszard-kapuscinski/cesarz.streszczenie-szczegolowe">Cesarz</a>
                                                                                     </li>
                                                                             <li>
-                                            <a href="/lektury/frances-hodgson-burnett/mala-ksiezniczka.streszczenie-szczegolowe">Mała księżniczka</a>
+                                            <a href="/lektury/ferenc-molnar/chlopcy-z-placu-broni.streszczenie-szczegolowe">Chłopcy z Placu Broni</a>
                                                                                     </li>
                                                                             <li>
-                                            <a href="/lektury/melchior-wankowicz/ziele-na-kraterze.streszczenie-szczegolowe">Ziele na kraterze</a>
+                                            <a href="/lektury/albert-camus/dzuma.streszczenie-szczegolowe">Dżuma</a>
                                                                                     </li>
                                                                             <li>
-                                            <a href="/lektury/eliza-orzeszkowa/gloria-victis.streszczenie-szczegolowe">Gloria victis</a>
+                                            <a href="/lektury/alfred-szklarski/tomek-w-krainie-kangurow.streszczenie-szczegolowe">Tomek w krainie kangurów</a>
                                                                                     </li>
                                                                             <li>
-                                            <a href="/lektury/george-orwell/folwark-zwierzecy.streszczenie-szczegolowe">Folwark zwierzęcy</a>
+                                            <a href="/lektury/jan-brzechwa/akademia-pana-kleksa.streszczenie-szczegolowe">Akademia pana Kleksa</a>
                                                                                     </li>
                                                                     </ul>
                                                     </div>

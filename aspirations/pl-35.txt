@@ -1,15 +1,15 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:48:19 GMT
+date: Sun, 04 Jan 2026 17:30:02 GMT
 content-type: text/html; charset=UTF-8
 server: cloudflare
 vary: Accept-Encoding
-last-modified: Sat, 03 Jan 2026 10:37:15 GMT
+last-modified: Sun, 04 Jan 2026 12:44:49 GMT
 cache-control: max-age=0
-expires: Sat, 03 Jan 2026 16:48:19 GMT
-report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FRZl4XpxhiW546vJTmzmt2%2FCr%2FKszybIOrRDlvK2x2vT1ImT8Los6ArZvcuCzY5JHRpSYELPArcR67ZCuFE2ei9QyFsNNIvUGQEE5z%2BnC9XgUBipHL%2F8vjn6NfxY"}]}
+expires: Sun, 04 Jan 2026 17:30:02 GMT
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NG0nLKbx2%2BByOG6945FVFZ4EuoEKLsWq6A2R2R%2F68yMhbe%2Fc%2FzcRJaC4yJHxTlLFk3eryHb%2FH8yNJS%2BIfLSrUVo57AiYohYN%2BP6pDn9%2F1sCx9BORo0CXbbb8qkc5"}]}
 cf-cache-status: DYNAMIC
 nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-cf-ray: 9b83fba82e4e9816-CDG
+cf-ray: 9b8c762339792a16-CDG
 
 <!DOCTYPE html>
 <html lang="pl-PL" class="no-js no-svg">
@@ -240,7 +240,7 @@ hr.divider {
         
                 <script async src="//cmp.optad360.io/items/a623de3f-2c55-4956-9425-6580ff225566.min.js"></script>
         <script async src="//get.optad360.io/sf/45f550b1-0b1f-409c-8922-1c434db7eb0b/plugin.min.js"></script>
-        	<meta name="generator" content="WP Rocket 3.20.1.2" data-wpr-features="wpr_delay_js wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_minify_css wpr_desktop" /></head>
+        	<meta name="generator" content="WP Rocket 3.20.1.2" data-wpr-features="wpr_delay_js wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_minify_css wpr_mobile" /></head>
 
 	<body class="wp-singular post-template-default single single-post postid-75156 single-format-standard wp-embed-responsive wp-theme-johannes wp-child-theme-wielkahistoria johannes-sidebar-right white-bg-alt-2 johannes-header-no-margin johannes-v_1_3_3 johannes-child">
     <!-- Tradedoubler BEGIN -->
@@ -782,7 +782,7 @@ hr.divider {
     	        	        <div class="entry-category">
 	            <a href="https://wielkahistoria.pl/temat/sredniowiecze/" rel="tag" class="cat-item cat-91">Średniowiecze</a>	        </div>
                 <h2 class="entry-title h5"><a href="https://wielkahistoria.pl/niepozorny-przedmiot-mowi-wiele-o-kulturze-wikingow-tym-wyrozniali-sie-na-tle-sredniowiecznej-europy/">Niepozorny przedmiot mówi wiele o kulturze wikingów. Tym wyróżniali się na tle średniowiecznej Europy</a></h2>        	        <div class="entry-meta">
-	            <span class="meta-item meta-date"><span class="updated">14 godzin temu</span></span>	        </div>
+	            <span class="meta-item meta-date"><span class="updated">2 dni temu</span></span>	        </div>
             </div>
         </article>                            </div>
                                                                                     <div class="col-12 col-md-6 col-lg-4">
@@ -795,7 +795,7 @@ hr.divider {
     	        	        <div class="entry-category">
 	            <a href="https://wielkahistoria.pl/temat/sredniowiecze/" rel="tag" class="cat-item cat-91">Średniowiecze</a><a href="https://wielkahistoria.pl/temat/starozytnosc/" rel="tag" class="cat-item cat-90">Starożytność</a>	        </div>
                 <h2 class="entry-title h5"><a href="https://wielkahistoria.pl/starozytny-rzym-wcale-nie-upadl-w-476-roku-oto-co-faktycznie-wydarzylo-sie-pod-koniec-v-wieku-n-e/">Starożytny Rzym wcale nie upadł w 476 roku. Oto co faktycznie wydarzyło się pod koniec V wieku n.e.</a></h2>        	        <div class="entry-meta">
-	            <span class="meta-item meta-date"><span class="updated">7 dni temu</span></span>	        </div>
+	            <span class="meta-item meta-date"><span class="updated">1 tydzień temu</span></span>	        </div>
             </div>
         </article>                            </div>
                                                                                     <div class="col-12 col-md-6 col-lg-4">
@@ -1087,7 +1087,7 @@ function loadScripts(){document.querySelectorAll("script[data-type='lazy']").for
     <script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
 if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
 images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
-if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://wielkahistoria.pl/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>var rocket_beacon_data = {"ajax_url":"https:\/\/wielkahistoria.pl\/wp-admin\/admin-ajax.php","nonce":"70b04579b6","url":"https:\/\/wielkahistoria.pl\/sredniowieczna-nieufnosc-do-bogaczy-dlaczego-poza-szlachta-niemal-wszyscy-z-nich-byli-uwazani-za-grzesznikow","is_mobile":false,"width_threshold":1600,"height_threshold":700,"delay":500,"debug":null,"status":{"atf":true,"lrc":true,"preload_fonts":true,"preconnect_external_domain":true},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800,"preload_fonts_exclusions":["api.fontshare.com","cdn.fontshare.com"],"processed_extensions":["woff2","woff","ttf"],"external_font_exclusions":[],"preconnect_external_domain_elements":["link","script","iframe"],"preconnect_external_domain_exclusions":["static.cloudflareinsights.com","rel=\"profile\"","rel=\"preconnect\"","rel=\"dns-prefetch\"","rel=\"icon\""]}</script><script data-name="wpr-wpr-beacon" src='https://wielkahistoria.pl/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async></script></body>
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://wielkahistoria.pl/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>var rocket_beacon_data = {"ajax_url":"https:\/\/wielkahistoria.pl\/wp-admin\/admin-ajax.php","nonce":"2850fee1f5","url":"https:\/\/wielkahistoria.pl\/sredniowieczna-nieufnosc-do-bogaczy-dlaczego-poza-szlachta-niemal-wszyscy-z-nich-byli-uwazani-za-grzesznikow","is_mobile":false,"width_threshold":1600,"height_threshold":700,"delay":500,"debug":null,"status":{"atf":true,"lrc":true,"preload_fonts":true,"preconnect_external_domain":true},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800,"preload_fonts_exclusions":["api.fontshare.com","cdn.fontshare.com"],"processed_extensions":["woff2","woff","ttf"],"external_font_exclusions":[],"preconnect_external_domain_elements":["link","script","iframe"],"preconnect_external_domain_exclusions":["static.cloudflareinsights.com","rel=\"profile\"","rel=\"preconnect\"","rel=\"dns-prefetch\"","rel=\"icon\""]}</script><script data-name="wpr-wpr-beacon" src='https://wielkahistoria.pl/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async></script></body>
 
 </html>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1767436635 -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1767530689 -->

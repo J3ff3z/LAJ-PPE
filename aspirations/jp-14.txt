@@ -1,10 +1,10 @@
 HTTP/2 200 
 server: nginx
-date: Sat, 03 Jan 2026 16:39:19 GMT
+date: Sun, 04 Jan 2026 17:17:07 GMT
 content-type: text/html; charset=UTF-8
 vary: Accept-Encoding
 link: <https://npc-web.com/wp-json/>; rel="https://api.w.org/", <https://npc-web.com/wp-json/wp/v2/pages/4008>; rel="alternate"; title="JSON"; type="application/json", <https://npc-web.com/?p=4008>; rel=shortlink
-set-cookie: pvc_visits[0]=1767544759b4008; expires=Sun, 04 Jan 2026 16:39:19 GMT; Max-Age=86400; path=/; secure; SameSite=LAX
+set-cookie: pvc_visits[0]=1767633427b4008; expires=Mon, 05 Jan 2026 17:17:07 GMT; Max-Age=86400; path=/; secure; SameSite=LAX
 content-security-policy: frame-ancestors 'self' https://sites.google.com https://*.google.com https://*.googleusercontent.com
 
 <!doctype html>
@@ -322,6 +322,14 @@ h1,h2,h3,h1:lang(ja),h2:lang(ja),h3:lang(ja),.entry-title:lang(ja){ font-family:
                                 background: #369ef6;
                             }
                         body .spnc-category-page .spnc-blog-cat-wrapper .spnc-first-catpost .spnc-cat-links a.newscrunch_category_75, .spnc-cat-first-post .spnc-post .spnc-post-content .spnc-cat-links a.newscrunch_category_75                                {
+                                    color: #369ef6;
+                                }
+                    </style>
+                                    <style type="text/css">
+                        body.newscrunch #page .spnc-cat-links a.newscrunch_category_109                            {
+                                background: #369ef6;
+                            }
+                        body .spnc-category-page .spnc-blog-cat-wrapper .spnc-first-catpost .spnc-cat-links a.newscrunch_category_109, .spnc-cat-first-post .spnc-post .spnc-post-content .spnc-cat-links a.newscrunch_category_109                                {
                                     color: #369ef6;
                                 }
                     </style>
@@ -1330,7 +1338,7 @@ figure.spnc-post-thumbnail a {
 	<div class="spnc-container">
 				<aside class="widget spnc-left">
 			<ul class="head-contact-info">
-									<li class="header-date"><i class='far fa-calendar-alt'></i><span class="date">2026年1月4日</span></li>
+									<li class="header-date"><i class='far fa-calendar-alt'></i><span class="date">2026年1月5日</span></li>
 									<li class="header-time"><i class="far fa-regular fa-clock"></i><span class="time newscrunch-topbar-time"></span></li>
 							</ul>
 		</aside>
@@ -1401,6 +1409,8 @@ figure.spnc-post-thumbnail a {
 	<li class="cat-item cat-item-13"><a href="https://npc-web.com/category/old-stories-of-the-world/%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%81%ae%e6%98%94%e8%a9%b1/">アメリカの昔話</a>
 </li>
 	<li class="cat-item cat-item-75"><a href="https://npc-web.com/category/old-stories-of-the-world/%e3%82%a2%e3%83%a9%e3%83%93%e3%82%a2%e3%81%ae%e4%bc%9d%e6%89%bf/">アラビアの伝承</a>
+</li>
+	<li class="cat-item cat-item-109"><a href="https://npc-web.com/category/old-stories-of-the-world/%e3%82%a2%e3%83%a9%e3%83%93%e3%82%a2%e3%83%b3%e3%83%8a%e3%82%a4%e3%83%88/">アラビアンナイト</a>
 </li>
 	<li class="cat-item cat-item-79"><a href="https://npc-web.com/category/%e3%82%a2%e3%83%b3%e3%83%87%e3%83%ab%e3%82%bb%e3%83%b3%e7%ab%a5%e8%a9%b1/">アンデルセン童話</a>
 </li>
@@ -1821,11 +1831,11 @@ figure.spnc-post-thumbnail a {
 <h2 class="wp-block-heading">最近の投稿</h2>
 
 
-<ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="https://npc-web.com/2026/01/03/skadi-norse-mythology/">スカジ（Skaði）とは？冬と狩猟を司る北欧神話の女神</a></li>
+<ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="https://npc-web.com/2026/01/04/morgiana-arabian-nights/">アリババを救った女・モルジアナとは何者か｜語られなかった真の英雄</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://npc-web.com/2026/01/03/skadi-norse-mythology/">スカジ（Skaði）とは？冬と狩猟を司る北欧神話の女神</a></li>
 <li><a class="wp-block-latest-posts__post-title" href="https://npc-web.com/2026/01/02/shichifukujin-mix/">七福神はなぜごちゃまぜ？日本人の信仰が生んだ“福のドリームチーム”を徹底解説</a></li>
 <li><a class="wp-block-latest-posts__post-title" href="https://npc-web.com/2026/01/01/william-tell-legend-history/">ウィリアム・テルの伝説は本当？由来と史実との関係を徹底解説｜スイス独立の英雄</a></li>
 <li><a class="wp-block-latest-posts__post-title" href="https://npc-web.com/2025/12/31/new-year-gods-world/">世界の正月に訪れる神や怪物たち｜新年に交わる神話と風習まとめ</a></li>
-<li><a class="wp-block-latest-posts__post-title" href="https://npc-web.com/2025/12/30/hanetsuki-origin/">羽付き（羽根つき）とは？起源・意味・正月文化としての楽しみ方を完全解説</a></li>
 </ul></div></div>
 </aside><aside id="block-10" data-wow-delay=".6s" class="wow-callback zoomIn widget w-c side-bar-widget sidebar-1 widget_block"><a href="https://blog.with2.net/link/?id=2121362:2376" title="童話・昔話ランキング"><img loading="lazy" decoding="async" alt="童話・昔話ランキング" width="200" height="55" src="https://blog.with2.net/img/banner/c/banner_2/br_c_2376_2.gif"></a><br><a href="https://blog.with2.net/link/?id=2121362:2376" title="童話・昔話ランキング" style="font-size: 0.9em;">童話・昔話ランキング</a></aside><aside id="block-5" data-wow-delay=".6s" class="wow-callback zoomIn widget w-c side-bar-widget sidebar-1 widget_block">
 <div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -1868,6 +1878,8 @@ figure.spnc-post-thumbnail a {
 	<li class="cat-item cat-item-13"><a href="https://npc-web.com/category/old-stories-of-the-world/%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%81%ae%e6%98%94%e8%a9%b1/">アメリカの昔話</a>
 </li>
 	<li class="cat-item cat-item-75"><a href="https://npc-web.com/category/old-stories-of-the-world/%e3%82%a2%e3%83%a9%e3%83%93%e3%82%a2%e3%81%ae%e4%bc%9d%e6%89%bf/">アラビアの伝承</a>
+</li>
+	<li class="cat-item cat-item-109"><a href="https://npc-web.com/category/old-stories-of-the-world/%e3%82%a2%e3%83%a9%e3%83%93%e3%82%a2%e3%83%b3%e3%83%8a%e3%82%a4%e3%83%88/">アラビアンナイト</a>
 </li>
 	<li class="cat-item cat-item-79"><a href="https://npc-web.com/category/%e3%82%a2%e3%83%b3%e3%83%87%e3%83%ab%e3%82%bb%e3%83%b3%e7%ab%a5%e8%a9%b1/">アンデルセン童話</a>
 </li>

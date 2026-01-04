@@ -1,5 +1,5 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:52:53 GMT server:
-mw-web.eqiad.main-8f8dcf6c-wssz4 x-content-type-options: nosniff
+HTTP/2 200 date: Sun, 04 Jan 2026 17:35:24 GMT server:
+mw-web.eqiad.main-8f8dcf6c-q2l9h x-content-type-options: nosniff
 content-language: pl accept-ch: content-security-policy-report-only: script-src
 'unsafe-eval' blob: 'self' meta.wikimedia.org *.wikimedia.org *.wikipedia.org
 *.wikinews.org *.wiktionary.org *.wikibooks.org *.wikiversity.org
@@ -21,28 +21,28 @@ meta.wikimedia.org *.wikimedia.org *.wikipedia.org *.wikinews.org
 wikisource.org *.wikiquote.org *.wikidata.org *.wikifunctions.org
 *.wikivoyage.org *.mediawiki.org wikimedia.org 'unsafe-inline'; object-src
 'none'; report-uri /w/api.php?action=cspreport&format=json&reportonly=1
-last-modified: Sat, 20 Dec 2025 16:52:53 GMT content-type: text/html;
-charset=UTF-8 age: 0 accept-ranges: bytes x-cache: cp6016 miss, cp6016 miss
+last-modified: Sun, 21 Dec 2025 17:35:24 GMT content-type: text/html;
+charset=UTF-8 age: 2 accept-ranges: bytes x-cache: cp6016 miss, cp6016 miss
 x-cache-status: miss server-timing: cache;desc="miss", host;desc="cp6016"
 strict-transport-security: max-age=106384710; includeSubDomains; preload
 report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url":
 "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_
 error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] } nel: { "report_to":
 "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
-set-cookie: WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04
+set-cookie: WMF-Last-Access=04-Jan-2026;Path=/;HttpOnly;secure;Expires=Thu, 05
 Feb 2026 12:00:00 GMT set-cookie:
-WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikisource.org;HttpOnly;secure
-;Expires=Wed, 04 Feb 2026 12:00:00 GMT set-cookie:
-WMF-DP=cc3;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+WMF-Last-Access-Global=04-Jan-2026;Path=/;Domain=.wikisource.org;HttpOnly;secure
+;Expires=Thu, 05 Feb 2026 12:00:00 GMT set-cookie:
+WMF-DP=fc9;Path=/;HttpOnly;secure;Expires=Mon, 05 Jan 2026 00:00:00 GMT
 x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7 cache-control: private,
 s-maxage=0, max-age=0, must-revalidate, no-transform vary:
 Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
 GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure;
 Domain=.wikisource.org set-cookie:
 NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600 set-cookie:
-WMF-Uniq=Yr0ZxO5DCtx2DIt3s8UmmQLdAAAAAFvdj8EM0paWt77wYCf1OCBlGcW2f4tHjtj3;Domain
-=.wikisource.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027
-00:00:00 GMT x-request-id: 859ce1eb-50c4-4ce0-b7b4-23a0cf67510a #Edytuj
+WMF-Uniq=g2qc0nrbJJ-hmaHdVHXG2ALeAAAAAFvdlSKhi2xXrY9Ww6mdWU7P_dqj3vPpv9Dz;Domain
+=.wikisource.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027
+00:00:00 GMT x-request-id: 58ac70cb-3dbf-4916-ad8c-ed4a01d3756e #Edytuj
 Wikiźródła (pl) Kanał Atom Wikiźródeł
 
 Przejdź do zawartości

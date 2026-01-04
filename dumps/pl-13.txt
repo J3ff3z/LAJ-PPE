@@ -1,20 +1,20 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:47:05 GMT content-type: text/html;
+HTTP/2 200 date: Sun, 04 Jan 2026 17:28:28 GMT content-type: text/html;
 charset=UTF-8 server: cloudflare cache-control: max-age=0, must-revalidate,
 private link: ; rel="preload"; as="script",; rel="preload"; as="script",;
-rel="preload"; as="style"; rel="stylesheet" expires: Sat, 03 Jan 2026 16:47:05
-GMT set-cookie: tipssid=dargpd3643fsl0f46kcujkeiag; path=/; secure; httponly;
+rel="preload"; as="style"; rel="stylesheet" expires: Sun, 04 Jan 2026 17:28:28
+GMT set-cookie: tipssid=e4gbpbr0drs6vp4kf6kq1on2gv; path=/; secure; httponly;
 samesite=lax report-to:
 {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare
-.com/report/v4?s=lbSmtbcoccl27QvT7PaFgJ5bvjoKhozmQb6WQicdhnnnAphTZHW9x6Gugw7GKE4
-xHbULjIQdH5d%2BW45EC0wafaGaQDknqyntr4RWUYQY6qlfyLGAye8F7C17XhEkPmsz"}]}
+.com/report/v4?s=QVQ2Q3uCfzFNVuE6Lg4%2B0IUErcgbNyARKUA86JvsNko9d3de3AJTKlEM1eWFb
+8vMw99u7OJ%2FrQjXEats84MHrwBotgdDH7wJIleHcJEFagkZRQieQogXJ3E6ZZ%2FDTuqI"}]}
 cf-cache-status: DYNAMIC vary: accept-encoding nel:
 {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} cf-ray:
-9b83f9da488a2a62-CDG alt-svc: h3=":443"; ma=86400
+9b8c73d70fc1d15d-CDG alt-svc: h3=":443"; ma=86400
 
   * Facebook.com
   * X.com
 
-sobota, 3 stycznia 2026 17:47
+niedziela, 4 stycznia 2026 18:28
   * Zaloguj się
 
 PortalPomorza.pl - Blisko ważnych spraw! (BUTTON)
@@ -97,8 +97,6 @@ WAŻNE!
   * Poszukiwani świadkowie potrącenia w Tczewie
   * Historia nie rozliczyła oprawców, ale pamiętajmy o bohaterach
   * Seat kręcił po mieście podejrzanie. Policjanci zatrzymali duet z amfetaminą
-  * Świadkowie go wskazali alkomat potwierdził. Uderzenie w słup na procentach
-  * 43. urodziny Gazety Tczewskiej [WIDEO]
   * PROGRAM OCHRONY LUDNOŚCI I OBRONY CYWILNEJ NA POMORZU
   * Wójt Krzysztof Augustyniak: Sprzeciwiam się przejmowaniu naszych
 najatrakcyjniejszych terenów oraz politycecprzez media społecznościowe
@@ -374,12 +372,12 @@ Reklama
 Pogoda
 (BUTTON) Poprzednie (BUTTON) Następne
 Kliknij aby zobaczyć więcej
-bezchmurnie
+pochmurnie
 
-Temperatura: -3^°C Miasto: Gdańsk
+Temperatura: -2^°C Miasto: Gdańsk
 
-Ciśnienie: 993 hPa
-Wiatr: 22 km/h
+Ciśnienie: 1001 hPa
+Wiatr: 32 km/h
 Reklama
 Reklama
 Ostatnie komentarze

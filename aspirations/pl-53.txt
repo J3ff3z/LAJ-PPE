@@ -1,5 +1,5 @@
 HTTP/1.1 200 OK
-Date: Sat, 03 Jan 2026 16:53:03 GMT
+Date: Sun, 04 Jan 2026 17:35:40 GMT
 Server: Apache/2.4.29
 X-Pingback: https://werbalnik.pl/xmlrpc.php
 Link: <https://werbalnik.pl/wp-json/>; rel="https://api.w.org/", <https://werbalnik.pl/wp-json/wp/v2/posts/568>; rel="alternate"; title="JSON"; type="application/json", <https://werbalnik.pl/?p=568>; rel=shortlink
@@ -440,9 +440,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </li>
 	<li class="cat-item cat-item-97"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-w/" >Słówka dla dzieci na W</a>
 </li>
-	<li class="cat-item cat-item-99"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-z/" >Słówka dla dzieci na Z</a>
-</li>
 	<li class="cat-item cat-item-101"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowa-dl-dzieci-na-z/" >Słówka dla dzieci na Ż</a>
+</li>
+	<li class="cat-item cat-item-99"><a href="https://werbalnik.pl/category/bogactwo-slownictwa/klasy-poczatkujace-sp-dla-nauczycieli/slowka-dla-dzieci-na-z/" >Słówka dla dzieci na Z</a>
 </li>
 	</ul>
 </li>

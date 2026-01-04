@@ -1,10 +1,21 @@
-HTTP/2 403 date: Sat, 03 Jan 2026 16:38:36 GMT content-type: text/html;
-permissions-policy:
-(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microph
-GMT report-to:
-YhAExJXgTwBhmYyyopz8dpQe0dVFFNN3c5PBwPPVJHccF1D2PGL%2FR6DwTVB13RNieoqhWbOzagSiCv
-h7CcwF%2BxmdqvpM4hSxV4XTwynA9%2Bb9iXtDLFLSG%2FzDkpHp4G1ID"}],"group":"cf-nel","m
-ax_age":604800} nel:
-tes=0&cid=f2a96184c9dd38a2&ts=71&x=0"
 
-Enable JavaScript and cookies to continue
+
+HTTP / 2   403   date :   Sun ,   04   Jan   2026   17 : 15 : 50   GMT   content - type :   text / html ; 
+
+permissions - policy : 
+
+( ) , geolocation = ( ) , gyroscope = ( ) , hid = ( ) , interest - cohort = ( ) , magnetometer = ( ) , microph 
+
+GMT   report - to : 
+
+8 qkX % 2 FXV 8 RJycHzMIMJeIPN % 2 BSTGXa 8 RqvpYdjtWDVDuym 80 KjG 68 HMFcK 1 Q 6 EU 3 cbFiztDE % 2 FeW 1 
+
+3 gtNpIGZiLbadmQR 1 cA 0 fHS 1 SOj 9 ynSjHKbx 60 FCERMK % 2 BAaDQLqp 5 " } ] , " group " : " cf - nel " , " max 
+
+server - timing : 
+
+tes = 0 & cid = cdde 8 b 8 b 70 f 92892 & ts = 77 & x = 0 " 
+
+
+
+Enable   JavaScript   and   cookies   to   continue 

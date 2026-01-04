@@ -1,245 +1,926 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:44:09 GMT
-content-type: text/html; charset=utf-8
-server: cloudflare
-nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-x-powered-by: ASP.NET
-report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wWTNCzW%2FVh4CjgnGL7iwPqpEgAyNqtaZdRevaiAGFUHP%2F3CXFMEscsnAp%2FXKqv6TshhO1ZllsGzMBlVSMVGPmafvrw%2Bk3M90u7O%2F7Nzv3TppaKXdxI7L%2Bv348Mkbmj0N"}]}
-cf-cache-status: DYNAMIC
-vary: accept-encoding
-cf-ray: 9b83f5922d797805-CDG
-alt-svc: h3=":443"; ma=86400
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+x-content-type-options: nosniff
+content-type: text/html; charset=UTF-8
+cache-control: max-age=60, public, s-maxage=2764800, stale-if-error=180, stale-while-revalidate=60
+etag: "1767546883"
+x-drupal-dynamic-cache: MISS
+content-language: en
+last-modified: Sun, 04 Jan 2026 17:14:43 GMT
+x-lagoon: amazeeio-uk3>ingress-nginx>middle-east-eye-main:nginx>nginx-df79cc4b9-2gpp8
+x-frame-options: SAMEORIGIN
+fastly-drupal-html: YES
+fastly-request-id: 83ebec5e6d9c4026961d1c30
+server-timing: MISS, fastly;desc="Edge time";dur=633
+accept-ranges: bytes
+age: 643
+date: Sun, 04 Jan 2026 17:25:27 GMT
+vary: Cookie, Accept-Encoding
+fastly-request-id: 5b64f3b8f65862e053495f5c
+server-timing: HIT-CLUSTER, fastly;desc="Edge time";dur=2
+strict-transport-security: max-age=31557600
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 64841
 
-<html lang="fr">
-<head>
-    <!-- Gestion des cookies -->
-    <script src="/lesgrandsclassiques/js/tarteaucitron/tarteaucitron.js"></script>
-<script type="text/javascript">
-    tarteaucitron.init({
-        "privacyUrl": "https://www.bonjourpoesie.fr/policy", /* Privacy policy url */
-        "bodyPosition": "bottom", /* or top to bring it as first element for accessibility */
-        "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
-        "cookieName": "tarteaucitron", /* Cookie name */
-        "orientation": "middle", /* Banner position (top - bottom) */
-        "groupServices": false, /* Group services by category */
-        "showDetailsOnClick": true, /* Click to expand the description */
-        "serviceDefaultState": "wait", /* Default state (true - wait - false) */
-        "showAlertSmall": false, /* Show the small banner on bottom right */
-        "cookieslist": false, /* Show the cookie list */
-        "closePopup": false, /* Show a close X on the banner */
-        "showIcon": true, /* Show cookie icon to manage cookies */
-        //"iconSrc": "", /* Optionnal: URL or base64 encoded image */
-        "iconPosition": "BottomRight", /* BottomRight, BottomLeft, TopRight and TopLeft */
-        "adblocker": false, /* Show a Warning if an adblocker is detected */
-        "DenyAllCta": true, /* Show the deny all button */
-        "AcceptAllCta": true, /* Show the accept all button when highPrivacy on */
-        "highPrivacy": true, /* HIGHLY RECOMMANDED Disable auto consent */
-        "alwaysNeedConsent": false, /* Ask the consent for "Privacy by design" services */
-        "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
-        "removeCredit": false, /* Remove credit link */
-        "moreInfoLink": true, /* Show more info link */
-        "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
-        "useExternalJs": false, /* If false, the tarteaucitron.js file will be loaded */
-        //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for multisite */
-        "readmoreLink": "", /* Change the default readmore link */
-        "mandatory": true, /* Show a message about mandatory cookies */
-        "mandatoryCta": true, /* Show the disabled accept button when mandatory on */
-        //"customCloserId": "", /* Optional a11y: Custom element ID used to open the panel */
-        "googleConsentMode": true, /* Enable Google Consent Mode v2 for Google ads and GA4 */
-        "partnersList": false /* Show the number of partners on the popup/middle banner */
-    });
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="mee">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="Le coup d&#039;État du 27 mai 1960 a créé un précédent pour les interventions militaires qui ont suivi et mis en place une tutelle militaire permanente en Turquie" />
+<link rel="canonical" href="https://www.middleeasteye.net/decryptages/le-peche-originel-de-la-politique-turque-moderne" />
+<meta name="robots" content="max-image-preview:large" />
+<link rel="shortlink" href="https://www.middleeasteye.net/node/44266" />
+<meta name="generator" content="Drupal 8 (http://drupal.org)" />
+<link rel="image_src" href="https://www.middleeasteye.net/sites/default/files/TurkishFlag.9June2014.jpg" />
+<meta property="og:site_name" content="Middle East Eye" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.middleeasteye.net/decryptages/le-peche-originel-de-la-politique-turque-moderne" />
+<meta property="og:title" content="Le péché originel de la politique turque moderne" />
+<meta property="og:description" content="Le coup d&#039;État du 27 mai 1960 a créé un précédent pour les interventions militaires qui ont suivi et mis en place une tutelle militaire permanente en Turquie" />
+<meta property="og:image" content="https://www.middleeasteye.net/sites/default/files/TurkishFlag.9June2014.jpg" />
+<meta property="og:image:url" content="https://www.middleeasteye.net/sites/default/files/TurkishFlag.9June2014.jpg" />
+<meta property="article:author" content="https://www.facebook.com/middleeasteye/" />
+<meta property="fb:app_id" content="882711278504931" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Le coup d&#039;État du 27 mai 1960 a créé un précédent pour les interventions militaires qui ont suivi et mis en place une tutelle militaire permanente en Turquie" />
+<meta name="twitter:title" content="Le péché originel de la politique turque moderne" />
+<meta name="twitter:creator" content="@middleeasteye" />
+<meta name="twitter:url" content="https://www.middleeasteye.net/decryptages/le-peche-originel-de-la-politique-turque-moderne" />
+<meta name="twitter:image" content="https://www.middleeasteye.net/sites/default/files/TurkishFlag.9June2014.jpg" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "NewsArticle",
+            "headline": "Le péché originel de la politique turque moderne",
+            "about": "Politique Turque",
+            "description": "« J\u0027ai aimé cet homme, votre honneur. Savez-vous ce qu\u0027est l\u0027amour ? », déclara Ayhan Aydan, chanteuse d\u0027opéra, dans le palais de justice où son amant Adnan Menderes, le premier Premier ministre de la Turquie élu démocratiquement, était jugé. Le 27 mai 1960, le premier coup d’État de la République turque entraîna le renversement du gouvernement du Parti démocrate. Le Parti démocrate était arrivé au pouvoir à l\u0027issue des premières élections libres de Turquie, en 1950, après 27 ans d\u0027un régime unipartite qui avait gouverné le pays d\u0027une main de fer.",
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "https://www.middleeasteye.net/sites/default/files/TurkishFlag.9June2014.jpg",
+                "width": "620",
+                "height": "413"
+            },
+            "datePublished": "2015-05-27T21:32:00+0100",
+            "dateModified": "2015-06-10T08:43:41+0100",
+            "author": {
+                "@type": "Person",
+                "@id": "Middle East Eye",
+                "name": "Ceren Kenar",
+                "url": "https://www.middleeasteye.net/users/ceren-kenar"
+            }
+        }
+    ]
+}</script>
+<link rel="icon" href="/sites/default/files/MEE%20Purple.png" type="image/png" />
+<link rel="alternate" hreflang="en" href="https://www.middleeasteye.net/decryptages/le-peche-originel-de-la-politique-turque-moderne" />
 
-    // google analytics
-    tarteaucitron.user.gtagUa = 'G-JG0VL9LZSB';
-    // tarteaucitron.user.gtagCrossdomain = ['example.com', 'example2.com'];
-    tarteaucitron.user.gtagMore = function () { /* add here your optionnal gtag() */ };
-    (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
+    <title>Le péché originel de la politique turque moderne | Middle East Eye</title>
+    <link rel="stylesheet" media="all" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_NCp55h4AaPwRfyN2t-HHRcdVZf7UeASCsLXUZvFJaxs.css?delta=1&amp;language=en&amp;theme=mee_subtheme&amp;include=eJx1jtEKwjAMRX-oLp9UsvbOlrXNaDKnf-8cEwT1JbkcwskNM2I26T63iGZjkTDTR3YqIXPxdT9jX3Kblb7RYAkVTh9qqDSywt0yNqVjDlXiWvBLNUkz3qBSMQSpi7T9seOoaAo69xBUXQU8ryZ-h3RFQ-dywNOqiTso5YhLkLUZujuQpbw3ficXpEgf5U4RE6_FnIJ7SJ6XfOhfJQoM9Ic_AWUveAI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_HZUiyOgp68oNmhv5cMFpaz8HIUNDwU3tdTF7_9koTg8.css?delta=2&amp;language=en&amp;theme=mee_subtheme&amp;include=eJx1jtEKwjAMRX-oLp9UsvbOlrXNaDKnf-8cEwT1JbkcwskNM2I26T63iGZjkTDTR3YqIXPxdT9jX3Kblb7RYAkVTh9qqDSywt0yNqVjDlXiWvBLNUkz3qBSMQSpi7T9seOoaAo69xBUXQU8ryZ-h3RFQ-dywNOqiTso5YhLkLUZujuQpbw3ficXpEgf5U4RE6_FnIJ7SJ6XfOhfJQoM9Ic_AWUveAI" defer />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_JT8cVZHISRsloi9Q_MkhteNQlNZwCeUeT5NMSEQcVrQ.css?delta=3&amp;language=en&amp;theme=mee_subtheme&amp;include=eJx1jtEKwjAMRX-oLp9UsvbOlrXNaDKnf-8cEwT1JbkcwskNM2I26T63iGZjkTDTR3YqIXPxdT9jX3Kblb7RYAkVTh9qqDSywt0yNqVjDlXiWvBLNUkz3qBSMQSpi7T9seOoaAo69xBUXQU8ryZ-h3RFQ-dywNOqiTso5YhLkLUZujuQpbw3ficXpEgf5U4RE6_FnIJ7SJ6XfOhfJQoM9Ic_AWUveAI" defer />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/44266","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_environment":false},"tagIds":["GTM-TJWJ5S9"]},"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJyNkkF2wyAMRC9EzJF4MkxsakAOEnV6-1Inbdo4i24k-AxI8wQFQRFYuuXBixi_IETl6mIJKDom9ov9tTaeE9eRr_Z78SABZ2pJTYhyaWJvyUzMU4JTmuzUw_N-oDe6_oXZZMBRU3a9NTuhoFLaobCPlJzMVGHnGHDy3IqiHk_jF_ZY1d0lruLSIHqUPoNhjzpHOWpFo18-TlsME-5PtVFnZFjfBTqC1Aio-tnRGncbnvOaoP3ya25-6tlH5Rds7aVRce1mCqWxqXL5v3Dr0puT3GdMLsWyiD1zUdognPsH6P1w6aN-JTyiYbdt5EMU2Y4kMO8Rm9g9DplDS_gE30TzDg","theme":"mee_subtheme","theme_token":null},"ajaxTrustedUrl":{"\/search\/content":true},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":""},"node":{"author":"Ceren Kenar","type":"story"},"disqusComments":"middleeasteye","sharethis":{"publisher":"dr-b9f3ffa-479e-d472-aad9-38772f4f9e00","version":"5x","doNotCopy":true,"hashAddressBar":false,"doNotHash":true,"newOrZero":"zero"},"search_api_autocomplete":{"search_content":{"auto_submit":true}},"user":{"uid":0,"permissionsHash":"f57841bfdd9c6e0d66c5f859b9fdc37bef49532e7df50c4610bdf8ab2b0574af"}}</script>
+<script src="//platform-api.sharethis.com/js/sharethis.js#property=5d245fb16d20a10012251c07&amp;product=sticky-share-buttons" async="async"></script>
+<script src="/sites/default/files/js/js_aKizqnX2v6JkiFNhqhjYmxlIl2DNgeUz2UBE4_YH0vo.js?scope=header&amp;delta=1&amp;language=en&amp;theme=mee_subtheme&amp;include=eJyNj-ESgiAQhF-I5JGYEzekwFM4Rnv7MCcrxx_9gd3lm7slAiaz9RRM7ilB-0GQLEYxlsuqTcJUkEU5ZhdghJx2En8tuaNv6EaLiuv40kqPCG3rAmlBojqfp5L1dm3Qd4dj0LxO6f0Jm8Xb--My-85B1A7qXY31HQlL_cpAoS0iPOQ5_42egcpy4NTyot_ik3S4Ugm1CijZ3tDoDRVhy3EMkFr4PH8C9g2c1Q"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?t7ttw1"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?t7ttw1"></script>
+<script src="/sites/default/files/js/js_FWQyxclov-Fib8kPt4p5CU8s6sxmDS2e1IL7Vsr-u9s.js?scope=header&amp;delta=4&amp;language=en&amp;theme=mee_subtheme&amp;include=eJyNj-ESgiAQhF-I5JGYEzekwFM4Rnv7MCcrxx_9gd3lm7slAiaz9RRM7ilB-0GQLEYxlsuqTcJUkEU5ZhdghJx2En8tuaNv6EaLiuv40kqPCG3rAmlBojqfp5L1dm3Qd4dj0LxO6f0Jm8Xb--My-85B1A7qXY31HQlL_cpAoS0iPOQ5_42egcpy4NTyot_ik3S4Ugm1CijZ3tDoDRVhy3EMkFr4PH8C9g2c1Q"></script>
+<script src="/themes/mee_subtheme/js/mee_chartbeat.js?t7ttw1" defer></script>
+
+  </head>
+  <body class="path-node page-node-type-story has-glyphicons">
+        <link rel=canonical>
+    <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TJWJ5S9"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+        <div class="region region-before-navigation">
+    <section id="block-adsense-top" class="block block-adsense block-adsense-managed-ad-block clearfix">
+  
+    
+
+      <div class="text-align-center">
+  <div class="adsense responsive" >
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027"
+     crossorigin="anonymous"></script>
+<!-- responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6114695881218027"
+     data-ad-slot="8074323968"
+     data-ad-format="horizontal"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+  </div>
+</div>
 
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Le p&#xE9;ch&#xE9; - &#xC9;mile VERHAEREN - Vos po&egrave;mes - Po&eacute;sie fran&ccedil;aise - Tous les po&egrave;mes - Tous les po&egrave;tes</title>
-
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:700|Playfair+Display:400,700|Source+Sans+Pro:400,500,600,700" rel="stylesheet">
-    <link href="https://www.votresiteweb.com/lavignettefacebook.png" rel="image_src" />
-    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
-    <meta name="language" content="fr">
-    <meta name="keywords" lang="fr" content="Le p&#xE9;ch&#xE9; , &#xC9;mile , VERHAEREN , po&#xE9;sie, po&#xE9;sies, po&#xE8;me, po&#xE8;mes, texte, auteur, Baudelaire, Verlaine, Hugo, Rimbaud, &#xE9;crire, &#xE9;criture, art, plume">
-    <meta name="description" content="Po&#xE8;me: Le p&#xE9;ch&#xE9;, &#xC9;mile VERHAEREN. Po&#xE9;sie Fran&#xE7;aise est &#xE0; la fois une anthologie de la po&#xE9;sie classique, du moyen-&#xE2;ge au d&#xE9;but du XX&#xE8;me si&#xE8;cle, et &#xE9;galement un espace de visibilit&#xE9; pour l&#x27;internaute, amateur &#xE9;clair&#xE9; ou professionnel qui d&#xE9;sire y publier ses oeuvres &#xE0; titre gratuit.">
-    <link rel="stylesheet" type="text/css" href="/lesgrandsclassiques/css/vendor.css?v=639030590499600418">
-    <link rel="stylesheet" type="text/css" href="/lesgrandsclassiques/css/app.css?v=639030590499600712">
-    <link rel="stylesheet" type="text/css" href="/lesgrandsclassiques/css/jquery.css?v=639030590499600876">
-    <link href="/lesgrandsclassiques/css/app.css" rel="stylesheet" />
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
-    <script src='https://www.google.com/recaptcha/api.js'></script>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7892965306400727" crossorigin="anonymous"></script>
-</head>
-
-<body>
-    <div class="banniere">
-        <div class="pub-horizontal">
-            <!-- Bannière haute -->
-            <ins class="adsbygoogle"
-                 style="display: block;"
-                 data-ad-client="ca-pub-7892965306400727"
-                 data-ad-slot="3295960484"
-                 data-ad-format="auto"
-                 data-full-width-responsive="true"></ins>
-            <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
-        </div>
-    </div>
-    <header class="main-menu">
-        <button class="main-menu__open visible-xs-block"><svg width="23" height="23"><use href="/images/sprites/menu-sprite.svg#hamburger"></use></svg></button>
-        <div class="main-menu__content">
-            <button class="main-menu__close visible-xs-block"><svg width="20" height="20"><use xlink:href="/images/sprites/menu-sprite.svg#croix"></use></svg></button>
-            <nav class="main-menu__nav">
-                <a href="https://www.bonjourpoesie.fr" class="main-menu__back"> <span class="main-menu__back-icon">&#10094;</span>Retour à l’accueil <span class="visible-lg-inline visible-md-inline">de Poésie Française</span></a>
-                <div class="main-menu__right">
-                    <span class="main-menu__exp hidden-sm">Nos autres univers :</span>
-                    <ul class="main-menu__items">
-                        <!-- la page Vos poemes-->
-                        <!-- la page Grande claciques-->
-
-                        <li class="main-menu__item">
-                            <a href="https://www.bonjourpoesie.fr/vospoemes/">Vos Poèmes <svg width="37" height="37"><use xlink:href="/images/sprites/menu-sprite.svg#modern-top"></use></svg></a>
-                        </li>
-
-                        <!-- la page Grande Haikus-->
-
-                    </ul>
-                </div>
-            </nav>
+  </section>
 
 
+  </div>
 
-            <nav class="sub-menu sub-menu--mobile visible-xs-block">
+  
+      <header id="navigation-header" role="banner">
+      <div class="navigation-header">
+          <div class="region region-navigation">
+          <a class="logo navbar-btn" href="/" title="Home" rel="home">
+      <img width="1200" height="858" class="en navigation" src="/themes/mee_subtheme/images/logo-en.svg" alt="Home" />
+    </a>
+  <nav role="navigation" aria-labelledby="block-top-menu-en-menu" id="block-top-menu-en">
+            
+  <h3 class="visually-hidden block-title" id="block-top-menu-en-menu">Top Menu - English Version</h3>
+  
 
-                <ul class="sub-menu__items">
-                    <li class="sub-menu__item">
-                        <a href="/lesgrandsclassiques/Author">Tous les auteurs</a>
-                    </li>
-                    <li class="sub-menu__item">
-                        <a href="/lesgrandsclassiques/Poemes">Poème au hasard</a>
-                    </li>
-
-                </ul>
-            </nav>
-        </div>
-    </header>
-
-    <header class="main-header">
-        <div class="main-header__content">
-            <div class="main-header__left">
-                <h1 class="main-header__title">Les grands<br>classiques</h1>
-
-                <!--basic header-->
-                <h3 class="main-header__subtitle">Poésie Française : 1 <sup>er</sup> site français de poésie</h3>
-
-            </div>
-
-            <div class="main-header__right">
-                <img class="main-header__img" src="/images/classic-header.svg" alt="Les grands&lt;br&gt;classiques">
-            </div>
-
-        </div>
-    </header>
-
-    <nav class="sub-menu hidden-xs">
-
-        <ul class="sub-menu__items">
-            <li class="sub-menu__item">
-                <a href="/lesgrandsclassiques/Author">Tous les auteurs</a>
-            </li>
-            <li class="sub-menu__item">
-                <a href="/lesgrandsclassiques/Poemes">Poème au hasard</a>
-            </li>
-
-        </ul>
-    </nav>
-
-    <main>
         
+      <ul class="menu menu--top-menu-en nav">
+                        <li class="navitem-news">
+        <a href="/news" class="navitem-news" data-drupal-link-system-path="node/120391">News</a>
+                  </li>
+                        <li class="navitem-trending">
+        <a href="/trending" class="navitem-trending" data-drupal-link-system-path="node/377566">Trending</a>
+                  </li>
+                        <li class="navitem-opinion">
+        <a href="/opinion" class="navitem-opinion" data-drupal-link-system-path="node/120006">Opinion</a>
+                  </li>
+                        <li class="navitem-video">
+        <a href="/video" class="navitem-video" data-drupal-link-system-path="node/120011">Video</a>
+                  </li>
+                        <li class="navitem-explainers">
+        <a href="/explainers" class="navitem-explainers" data-drupal-link-system-path="node/377571">Explainers</a>
+                  </li>
+        </ul>
+  
 
+  </nav>
+<section class="views-exposed-form block--views-exposed-form--search-content--page-1 block block-views-exposed-filter-blocks block-views-exposed-filter-blocks-block clearfix" data-drupal-selector="views-exposed-form-search-content-page-1" id="block-viewsexposedfilterblock">
+  
+    
 
-<div class="container">
-    <div id="mininav" class="row">
-        <div class="col-md-8">
-            <ul class="breadcrumb">
-                <li><a href="/lesgrandsclassiques">Les Grands classiques</a></li>
-
-                <li><a href="/lesgrandsclassiques/Author">Tous les auteurs</a></li>
-                <li><a href="/lesgrandsclassiques/Poemes/%C3%A9mile_verhaeren">Émile VERHAEREN</a></li>
-                <li class="active">Le péché</li>
-            </ul> <div class="social-block">
-                <button class="social-btn__share">
-                    <svg width="33" height="30"><use xlink:href="/images/sprites/social-sprite.svg#partager"></use></svg>
-                    <span>Partager</span>
-                </button>
-                <div class="social-block__links">
-                    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.bonjourpoesie.fr/Poemes/%C3%A9mile_verhaeren/le_peche"><svg width="11" height="23"><use xlink:href="/images/sprites/social-sprite.svg#facebook"></use></svg></a>
-                    <a href="https://twitter.com/intent/tweet/?url=http://www.bonjourpoesie.fr/Poemes/%C3%A9mile_verhaeren/le_peche"><svg width="27" height="23"><use xlink:href="/images/sprites/social-sprite.svg#twitter"></use></svg></a>
-                    <a href="https://pinterest.com/pin/create/button/?url=http://www.bonjourpoesie.fr/Poemes/%C3%A9mile_verhaeren/le_peche"><svg width="17" height="23"><use xlink:href="/images/sprites/social-sprite.svg#pinterest"></use></svg></a>
-                </div>
-                <button class="social-btn__caret social-btn__caret--closed">
-                    <svg width="9" height="16"><use xlink:href="/images/sprites/social-sprite.svg#caret-left"></use></svg>
-                </button>
-            </div>
+      <form action="/search/content" method="get" id="views-exposed-form-search-content-page-1" accept-charset="UTF-8">
+  <span class="search-label" data-drupal-selector="edit-search-label"><span class="icon glyphicon glyphicon-search search-icon" data-drupal-selector="edit-search-icon"></span>
+<span class="search-text" data-drupal-selector="edit-search-text">Search</span>
+</span>
+<div class="js-form-item form-item js-form-type-search-api-autocomplete form-item-keys js-form-item-keys form-no-label">
+        <div class="input-group"><input placeholder="Search in MEE" data-drupal-selector="edit-keys" data-search-api-autocomplete-search="search_content" class="form-autocomplete form-text" data-autocomplete-path="/search_api_autocomplete/search_content?display=page_1&amp;&amp;filter=keys" type="text" id="edit-keys" name="keys" value="" size="30" maxlength="128" /><span class="input-group-addon"><span class="icon glyphicon glyphicon-remove close-icon"></span><span class="icon glyphicon glyphicon-refresh ajax-progress ajax-progress-throbber" aria-hidden="true"></span></span></div>
         </div>
-        <div class="col-md-4">
-            <div class="part-right-user-action">
-                <div class="user-action">
-                    <button class="user-action__btn" id="print">
-                        <span class="user-action__icon">
-                            <svg width="47" height="36"><use xlink:href="/images/sprites/action-sprite.svg#print"></use></svg>
-                        </span>
-                        <span class="user-action__text">Imprimer</span>
-                    </button>
-                </div>
-            </div>
-        </div>
-    </div>
-    <section class="poem large">
-    <h3 class="poem__author flag flag--big flag--belgium">
-        <a href="">&#xC9;mile VERHAEREN</a><br />1855 - 1916
-    </h3>
-        <h3 class="poem__title">Le péché</h3>
-        <div class="poem__content">
-Sur sa butte que le vent gifle,<br />Il tourne et fauche et ronfle et siffle,<br />Le vieux moulin des p&#xE9;ch&#xE9;s vieux<br />Et des forfaits astucieux.<br /><br />Il geint des pieds jusqu&#x27;&#xE0; la t&#xEA;te,<br />Sur fond d&#x27;orage et de temp&#xEA;te,<br />Lorsque l&#x27;automne et les nuages<br />Fr&#xF4;lent son toit de leurs voyages.<br /><br />Sur la campagne abandonn&#xE9;e<br />Il appara&#xEE;t une araign&#xE9;e<br />Colossale, tissant ses toiles<br />Jusqu&#x27;aux &#xE9;toiles.<br /><br />C&#x27;est le moulin des vieux p&#xE9;ch&#xE9;s.<br />Qui l&#x27;&#xE9;coute, parmi les routes,<br />Entend battre le coeur du diable,<br />Dans sa carcasse insatiable.<br /><br />Un travail d&#x27;ombre et de t&#xE9;n&#xE8;bres<br />S&#x27;y fait, pendant les nuits fun&#xE8;bres<br />Quand la lune fendue<br />G&#xEE;t l&#xE0;, sur le carreau de l&#x27;eau,<br />Comme une hostie atrocement mordue.<br /><br />C&#x27;est le moulin de la ruine<br />Qui moud le mal et le r&#xE9;pand aux champs<br />Infini, comme une bruine.<br /><br />Ceux qui sournoisement &#xE9;cornent<br />Le champ voisin en d&#xE9;pla&#xE7;ant les bornes ;<br />Ceux qui, valets d&#x27;autrui, s&#xE8;ment l&#x27;ivraie<br />Au lieu de l&#x27;orge vraie ;<br />Ceux qui jettent les poisons verts dans l&#x27;eau<br />O&#xF9; l&#x27;on am&#xE8;ne le troupeau ;<br />Ceux qui, par les nuits seules,<br />En brasiers d&#x27;or font &#xE9;clater les meules,<br />Tous pass&#xE8;rent par le moulin.<br /><br />Encore :<br /><br />Les vieux jeteurs de sorts et les sorci&#xE8;res<br />Que vont trouver les filles-m&#xE8;res ;<br />Ceux qui cachent dans les fourr&#xE9;s<br /><br />Leurs ruts sinistrement vocif&#xE9;r&#xE9;s ;<br />Ceux qui n&#x27;aiment la chair que si le sang<br />Gicle aux yeux, frais et luisant ;<br />Ceux qui s&#x27;entr&#x27;&#xE9;gorgent, &#xE0; couteaux rouges,<br />Volets ferm&#xE9;s, au fond des bouges :<br />Ceux qui scrutent l&#x27;espace<br />Avec, au bout du poing, la mort pour tel qui passe,<br />Tous pass&#xE8;rent par le moulin.<br /><br />Aussi :<br /><br />Les vagabonds qui habitent des fosses<br />Avec leurs filles qu&#x27;ils engrossent ;<br />Les fous qui choisissent des b&#xEA;tes<br />Pour assouvir leur rage et ses temp&#xEA;tes ;<br />Les mendiants qui d&#xE9;terrent les mortes<br />Atrocement et les emportent ;<br />Les couples noirs, pervers et vieux,<br />Qui instruisent l&#x27;enfant &#xE0; coucher entre eux deux ;<br />Tous pass&#xE8;rent par le moulin.<br /><br />Tous sont venus, sournoisement,<br />Choisissant l&#x27;heure et le moment,<br />Avec leurs chiens et leurs brouettes,<br />Et leurs &#xE2;nes et leurs charrettes ;<br />Tous sont venus, jeunes et vieux,<br />Pour emporter jusque chez eux<br />Le mauvais grain, co&#xFB;te que co&#xFB;te ;<br />Et quand ils sont redescendus<br />Par les sentes du haut talus,<br />Les grand&#x27;routes charriaient toutes<br />Infiniment, comme des veines,<br />Le sang du mal, parmi les plaines.<br /><br />Et le moulin tournait au fond des soirs<br />La croix grande de ses bras noirs,<br />Avec des feux, comme des yeux,<br />Dans l&#x27;orbite de ses lucarnes<br />Dont les rayons gagnaient les loins.<br />Parfois, s&#x27;illuminaient des coins,<br />L&#xE0;-bas, dans la campagne morne,<br />Et l&#x27;on voyait les porteurs gourds,<br />Ployant au faix des p&#xE9;ch&#xE9;s lourds,<br />Hagards et las, buter de borne en borne.<br />        </div>
-        <div class="pub-vertical" id="139217" style="width:160px;height:600px;">
-            <script type="text/javascript">
-                Criteo.DisplayAd({
-                    "zoneid": 139217, "containerId": 139217,
-                    "async": true
-                });
-            </script>
-        </div>
-    </section>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper container-element" id="edit-actions"><button data-drupal-selector="edit-submit-search-content" class="button js-form-submit form-submit btn-primary" type="submit" id="edit-submit-search-content" value="Search">Search</button></div>
 
+
+</form>
+
+  </section>
+
+<section class="views-element-container block-collapsible block-collapsed block block-views block-views-blockcountries-list-block-1 clearfix" id="block-countries-list-block-header">
+  
+    
+
+      <span class="icon glyphicon glyphicon-globe globe-icon"><span class="icon glyphicon glyphicon-chevron-down dropdown-icon"></span>
+</span>
+<div class="container-element">      <a class="logo navbar-btn" href="/" title="Home" rel="home">
+      <img width="1200" height="858" class="en navigation_collapsible" src="/themes/mee_subtheme/images/logo-mobile-en.svg" alt="Home" />
+    </a>
+  <div class="js-view-dom-id-b4d8c8a1ec27b96838550a4fe475708b8a3572747173ab87b59c5045a4d21451 view-content">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="views-rows"><div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/algeria" hreflang="en">Algeria</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/bahrain" hreflang="en">Bahrain</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/china" hreflang="en">China</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/egypt" hreflang="en">Egypt</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/france" hreflang="en">France</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/germany" hreflang="en">Germany</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/india" hreflang="en">India</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iran" hreflang="en">Iran</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iraq" hreflang="en">Iraq</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/israel" hreflang="en">Israel</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/jordan" hreflang="en">Jordan</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/kuwait" hreflang="en">Kuwait</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/lebanon" hreflang="en">Lebanon</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/libya" hreflang="en">Libya</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/mauritania" hreflang="en">Mauritania</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/morocco" hreflang="en">Morocco</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/oman" hreflang="en">Oman</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/pakistan" hreflang="en">Pakistan</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/palestine" hreflang="en">Palestine</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/qatar" hreflang="en">Qatar</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/russia" hreflang="en">Russia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/saudi-arabia" hreflang="en">Saudi Arabia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/sudan" hreflang="en">Sudan</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/syria" hreflang="en">Syria</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/tunisia" hreflang="en">Tunisia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/turkey" hreflang="en">Turkey</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/uk" hreflang="en">UK</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/uae" hreflang="en">United Arab Emirates</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/us" hreflang="en">US</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/yemen" hreflang="en">Yemen</a></span></div></li>
+    
+  </ul>
 
 </div>
-    </main>
-    <footer class="main-footer">
-        <!-- Contenu du footer -->
-        <div class="container">
-            <div class="main-footer__links">
-                <a class="main-footer__link" href="https://www.bonjourpoesie.fr/a_propos">A propos</a>
-                <a class="main-footer__link" href="https://www.bonjourpoesie.fr/legal">Mentions légales</a>
-                <a class="main-footer__link" href="https://www.bonjourpoesie.fr/policy">Confidentialité</a>
-                <a class="main-footer__link" href="https://www.bonjourpoesie.fr/credits">Crédits</a>
-                <a class="main-footer__link" href="https://www.bonjourpoesie.fr/contact">Contact</a>
-            </div>
-            <div class="main-footer__copyright">
-                Poésie Française © 1996 - 2026. Ce site vous est offert par la société <a href="http://www.webnet.fr/" target="_blank">Webnet</a>. Tous droits réservés.
-            </div>
-        </div>
-    </footer>
-    <script src="/lesgrandsclassiques/js/vendor.js?v=639030590499603276"></script>
-    <script src="/lesgrandsclassiques/js/app.js?v=639030590499603443"></script>
-    <script src="/lesgrandsclassiques/js/script.js?v=639030590499603598"></script>
-    <script>require('js/script')</script>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+<span class="icon glyphicon glyphicon-remove close-icon"></span>
+</div>
+
+  </section>
+
+<section id="block-socialmedialinks-2" class="block-social-media-links block block-social-media-links-block clearfix">
+  
     
-</body>
+
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a class="social-media-link-icon--youtube" href="https://www.youtube.com/channel/UCR0fZh5SBxxMNYdg0VzRFkg"  target="_blank" rel="nofollow" >
+        <span class='fab fa-youtube fa-lg'></span>
+
+        
+        <span class="platform--name visually-hidden">Youtube</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--twitter" href="https://x.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fab fa-x-twitter fa-lg'></span>
+
+        
+        <span class="platform--name visually-hidden">X</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/middleeasteye"  target="_blank" rel="nofollow" >
+        <span class='fab fa-instagram fa-lg'></span>
+
+        
+        <span class="platform--name visually-hidden">Instagram</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fab fa-facebook fa-lg'></span>
+
+        
+        <span class="platform--name visually-hidden">Facebook</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--tiktok" href="https://www.tiktok.com/@middleeasteye"  target="_blank" rel="nofollow" >
+        <span class='fab fa-tiktok fa-lg'></span>
+
+        
+        <span class="platform--name visually-hidden">TikTok</span>
+      </a>
+    </li>
+  </ul>
+
+  </section>
+
+<section class="views-element-container block block-views block-views-blocktrending-topics-block-english clearfix" id="block-trending-topics-en-header">
+  
+    
+
+      <div class="container-element"><div class="js-view-dom-id-120f9b7a6672b85356fcc53e99a1e4a658f799cbb1c6344dd37cbdeb5b51e683 view-content">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="views-rows">    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/israel-genocide-gaza" hreflang="en">Israel&#039;s genocide in Gaza</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/sudan-war" hreflang="en">Sudan war</a></span></div></div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </section>
+
+
+  </div>
+
+                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <i class="fa fa-bars"></i>
+            <span class="sr-only">Toggle navigation</span>
+          </button>
+              </div>
+
+                    <div id="navbar-collapse" class="navbar-collapse collapse width">
+          <div id="navbar-collapse-content">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+              <i class="fa fa-times"></i>
+              <span class="sr-only">Toggle navigation</span>
+            </button>
+              <div class="region region-navigation-collapsible">
+          <a class="logo navbar-btn" href="/" title="Home" rel="home">
+      <img width="1200" height="858" class="en navigation_collapsible" src="/themes/mee_subtheme/images/logo-mobile-en.svg" alt="Home" />
+    </a>
+  <nav role="navigation" aria-labelledby="block-sidebar-menu-mobile-en-menu" id="block-sidebar-menu-mobile-en">
+            
+  <h3 class="visually-hidden block-title" id="block-sidebar-menu-mobile-en-menu">Sidebar Menu Mobile En</h3>
+  
+
+        
+      <ul class="menu menu--main-menu-mobile-en nav">
+                        <li>
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+                  </li>
+                        <li>
+        <a href="/news" data-drupal-link-system-path="node/120391">News</a>
+                  </li>
+                        <li>
+        <a href="/opinion" data-drupal-link-system-path="node/120006">Opinion</a>
+                  </li>
+                        <li>
+        <a href="/video" data-drupal-link-system-path="node/120011">Video</a>
+                  </li>
+                        <li>
+        <a href="/thebigstory">The Big Story</a>
+                  </li>
+                        <li>
+        <a href="/contact">Contact</a>
+                  </li>
+                        <li class="navitem-life">
+        <a href="/discover" class="navitem-life" data-drupal-link-system-path="node/120061">Discover</a>
+                  </li>
+        </ul>
+  
+
+  </nav>
+<section class="views-element-container block block-views block-views-blocktrending-topics-block-english clearfix" id="block-trending-topics-en-mobile">
+  
+      <h3 class="block-title">Now</h3>
+    
+
+      <div class="container-element"><div class="js-view-dom-id-b2c53af11b4b611ed8820c32be2df103cb40cef9607920293b4d48fed67de679 view-content">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="views-rows">    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/israel-genocide-gaza" hreflang="en">Israel&#039;s genocide in Gaza</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/sudan-war" hreflang="en">Sudan war</a></span></div></div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </section>
+
+<section id="block-socialmedialinks-mobile" class="block-social-media-links block block-social-media-links-block clearfix">
+  
+      <h3 class="block-title">Follow us</h3>
+    
+
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a class="social-media-link-icon--youtube" href="https://www.youtube.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fab fa-youtube fa-lg'></span>
+
+        
+        <span class="platform--name visually-hidden">Youtube</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fab fa-facebook fa-lg'></span>
+
+        
+        <span class="platform--name visually-hidden">Facebook</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--twitter" href="https://x.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fab fa-x-twitter fa-lg'></span>
+
+        
+        <span class="platform--name visually-hidden">X</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/middleeasteye"  target="_blank" rel="nofollow" >
+        <span class='fab fa-instagram fa-lg'></span>
+
+        
+        <span class="platform--name visually-hidden">Instagram</span>
+      </a>
+    </li>
+  </ul>
+
+  </section>
+
+
+  </div>
+
+          </div>
+        </div>
+          </header>
+  
+
+  <div role="main" class=" js-quickedit-main-content main-content page-node-article-type page-node-story">
+                                    <div role="heading" class="top-bar top-bar-node-story">
+                  <div class="large-container">
+                         <a href="/taxonomy/term/30010">Décryptages</a>    | <span class="article-topic">            <div class="field field-field-topic"><a href="/fr/topics/politique-turque" hreflang="fr">Politique Turque</a></div>
+      </span>
+                  </div>
+              </div>
+                
+                              <div class="highlighted">
+            <div class="large-container">
+                <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+            </div>
+          </div>
+              
+            
+            
+      <div class="page-content-wrapper">
+                      <div class="content-top">
+              
+                <div class="region region-content-top">
+      
+      <h1 class="page-title">
+<span class="field field-title">Le péché originel de la politique turque moderne</span>
+</h1>
+  
+
+
+  </div>
+
+                
+          </div>
+                  
+            <section class="page-main-content">
+                                  <a href="#main-content" aria-label="Main content" id="main-content" class="visually-hidden" tabindex="-1"></a>
+                                <div class="field field-field-subhead">Le coup d&#039;État du 27 mai 1960 a créé un précédent pour les interventions militaires qui ont suivi et mis en place une tutelle militaire permanente en Turquie</div>
+      
+                      <div class="field field-field-main-image">    <picture>
+                  <source srcset="/sites/default/files/styles/article_page/public/TurkishFlag.9June2014.jpg.webp?itok=mgRJmWcy 1x" type="image/webp" width="1400" height="933"/>
+                  <img loading="lazy" srcset="/sites/default/files/styles/article_page/public/TurkishFlag.9June2014.jpg.webp?itok=mgRJmWcy 1x" width="1400" height="933" src="/sites/default/files/styles/max_2600x2600/public/TurkishFlag.9June2014.jpg.jpg?itok=uOhTe51Z" typeof="foaf:Image" />
+
+  </picture>
+
+</div>
+      
+        
+        <div class="author-field author-info author-location">
+      By <a class="author-name" title="View user profile." href="/users/ceren-kenar">Ceren Kenar</a>
+    </div>
+                  <div class="submitted-date">
+          <span class="date-created">Published date:</span> 10 June 2015 08:43 BST
+            <span class="date-separator">| </span>
+            <span class="date-updated">Last update:</span> <span id="date-updatedago" data-timeago="1433922221">10 years 7 months</span> ago        </div>
+            
+                <div class="region region-content">
+    <section id="block-meesocialshare" class="mee-social-share-block mee-social-share-block--hide-counter block block-mee-social-share block-mee-social-share-block clearfix">
+  
+    
+
+      <div class="container-element"><div class="sharethis-wrapper">
+      <span st_url="https://www.middleeasteye.net/analyses/le-p-ch-originel-de-la-politique-turque-moderne-311119248" st_title="Le péché originel de la politique turque moderne" class="st_facebook_hcount" displayText="facebook"></span>
+
+      <span st_url="https://www.middleeasteye.net/analyses/le-p-ch-originel-de-la-politique-turque-moderne-311119248" st_title="Le péché originel de la politique turque moderne" class="st_twitter_hcount" st_via="MiddleEastEye" st_username="MiddleEastEyeFR" displayText="twitter"></span>
+
+      <span st_url="https://www.middleeasteye.net/analyses/le-p-ch-originel-de-la-politique-turque-moderne-311119248" st_title="Le péché originel de la politique turque moderne" class="st_whatsapp_hcount" displayText="whatsapp"></span>
+
+      <span st_url="https://www.middleeasteye.net/analyses/le-p-ch-originel-de-la-politique-turque-moderne-311119248" st_title="Le péché originel de la politique turque moderne" class="st_email_hcount" displayText="email"></span>
+
+      <span st_url="https://www.middleeasteye.net/analyses/le-p-ch-originel-de-la-politique-turque-moderne-311119248" st_title="Le péché originel de la politique turque moderne" class="st_sharethis_hcount" displayText="sharethis"></span>
+
+  </div>
+</div>
+
+  </section>
+
+  <article data-history-node-id="44266" about="/decryptages/le-peche-originel-de-la-politique-turque-moderne" class="story is-promoted full article-type clearfix">
+                <div class="field field-body clearfix"><p>« J'ai aimé cet homme, votre honneur. Savez-vous ce qu'est l'amour ? », déclara Ayhan Aydan, chanteuse d'opéra, dans le palais de justice où son amant Adnan Menderes, le premier Premier ministre de la Turquie élu démocratiquement, était jugé. Le 27 mai 1960, le premier coup d’État de la République turque entraîna le renversement du gouvernement du Parti démocrate. Le Parti démocrate était arrivé au pouvoir à l'issue des premières élections libres de Turquie, en 1950, après 27 ans d'un régime unipartite qui avait gouverné le pays d'une main de fer.</p><p>Adnan Menderes, tout comme deux ministres de son cabinet, fut condamné à mort suite à des dizaines de procès tenus à Yassıada, une petite île située dans la mer de Marmara. En raison de sa liaison extra-conjugale avec Menderes, Aydan avait été invitée à venir témoigner au procès connu sous le nom de l'« affaire du bébé ». Menderes avait été accusé du meurtre du nouveau-né qu'il avait eu avec Aydan.</p><p>Les dirigeants de la junte cherchaient désespérément à ternir la réputation de Menderes aux yeux de sa base essentiellement conservatrice. Ils demandèrent d'abord à son épouse de déposer une plainte pour adultère contre Menderes. Les officiers de l'armée obtinrent même à l'époque l’émission d’une fatwa par le mufti d'Istanbul, qui déclara : « L'adultère est le plus grand des péchés. La sentence pour ce péché est la lapidation. »</p><p>Cependant, l'épouse de Menderes refusa de témoigner contre son mari, tout comme sa maîtresse. Résistant aux menaces, ces deux femmes courageuses et nobles ouvrirent la voie vers l'acquittement de Menderes dans l'« affaire du bébé ». Il fut toutefois reconnu coupable d'autres chefs d'accusation retenus contre lui, telles qu'une accusation de violation de la constitution, et fut pendu le 17 septembre 1961.</p><p>Malgré toutes ces tentatives de diabolisation de Menderes, ce dernier est resté un héros et un martyr dans le cœur et l'esprit de ses partisans. Il a été élu sous le slogan « Assez ! C'est au tour des peuples de parler » et a fait la promotion dans un premier temps de la libéralisation économique, politique et sociale. Menderes a toujours été vénéré par les dirigeants des partis de centre-droite turcs, qui l'ont dépeint comme un défenseur héroïque des droits et intérêts politiques et économiques de ce qu'ils appelaient l'« homme ordinaire ».</p><div style="display: flex; align-items: center; justify-content: center; background-color: transparent; padding: 0; max-width: 100%; margin: 0 auto; box-sizing: border-box; border: 4px dashed #522F71; border-radius: 20px; padding-top: 20px; padding-bottom: 23px;">
+  <div style="flex: 1; text-align: center;">
+    <h2 style="font-family: Calluna, Arial, sans-serif; font-size: calc(14px + 1vw); color: #000; margin: 0; padding-top: 10px;">New MEE newsletter: Jerusalem Dispatch</h2>
+    <h4 style="font-family: Calluna, Arial, sans-serif; font-size: calc(10px + 0.5vw); color: #000; margin: 0; padding-top: 10px; padding-bottom: 5px; text-align: center;">
+      <span style="white-space: normal;">
+        Sign up to get the latest insights and analysis on
+      </span>Israel-Palestine, alongside Turkey Unpacked and other MEE newsletters</h4>
+    <form action="https://middleeasteye.us21.list-manage.com/subscribe/post?u=b5bdd0873541363c88d50e5cb&amp;id=e9fb079abb&amp;f_id=00a3a3e1f0" method="POST" style="display: flex; margin-top: 1vw; justify-content: center;" data-once="form-updated" data-drupal-form-fields="">
+      <input name="EMAIL" placeholder="Your email" required="" style="border: 1px solid #ccc; border-radius: 0; font-size: 16px; outline: none; flex: 1; box-sizing: border-box; max-width: 51.5%; height: 50px;" type="email">
+      <div hidden="true"><input type="hidden" name="tags" value="442256"></div>
+      <input style="padding: 10px; background-color: #512F70; color: #fff; cursor: pointer; font-size: 16px; border: none; border-radius: 0; outline: none; width: 25%; text-align: center; height: 50px;" type="submit" value="Subscribe">
+    </form>
+  </div>
+</div><p>Aujourd'hui, on peut voir les partisans du Parti pour la justice et le développement (AKP) brandir des portraits de Menderes lors de rassemblements électoraux. L’AKP est le plus récent des partis politiques turcs à se prévaloir de l'héritage de Menderes.</p><p>Ainsi, le 14 mai 2015, le Premier ministre Ahmet Davutoğlu a lancé un projet visant à faire de l'île de Yassıada, où Menderes a été jugé, l'« Île de la démocratie et de la liberté ». Lors de la cérémonie d'ouverture, Davutoğlu a déclaré qu'un « musée de la démocratie » serait construit à Yassıada pour commémorer les « héros de la démocratie ». « La salle d'audience dans laquelle Menderes, le Président de l'époque Celâl Bayar et d'autres prévenus ont été jugés sera préservée telle quelle et transmise aux générations futures, de sorte que plus jamais personne ne tente une chose pareille », a-t-il ajouté.</p><p>Alors qu'il existe de nos jours un quasi-consensus en Turquie pour dénoncer le coup d’État de 1960, similaire au coup d’État égyptien de 2013, il a été célébré dans les rues pendant des décennies, principalement par l'élite urbaine laïque, et étiqueté comme étant une « révolution » progressiste. Il est frappant de constater que Mohammed Morsi est devenu le premier Président démocratiquement élu du Moyen-Orient à avoir été condamné à mort depuis Menderes.</p><p>Le processus qui prit fin avec le coup d'État commença en 1959, lorsque les tensions croissantes entre le Parti démocrate au pouvoir et le Parti républicain du peuple (CHP) attinrent leur paroxysme. Fondé par Mustafa Kemal, Atatürk, le CHP était le parti au pouvoir pendant la période unipartite et despotique qui prit fin avec la victoire électorale du Parti démocrate.</p><p>L'opposition accusait le Parti démocrate d'approuver des mesures autoritaires et de violer la constitution, mais également de corruption et d'oppression. Le journal d'opposition de l'époque, <em>Dunya</em>, critiquait la « démagogie [de Menderes ], digne de l'époque ottomane, lorsque le sultan exploitait le sentiment religieux pour détourner l'attention de l'aggravation de la situation interne ».</p><p>Alors que le fossé politique entre le parti au pouvoir et le parti d'opposition se creusait, les manifestations de rue contre le gouvernement se multipliaient. Le gouvernement essaya de supprimer l'opposition par la répression, en faisant fermer des journaux, en emprisonnant des figures de l'opposition et des journalistes et en recourant à des moyens autoritaires contre les manifestants.</p><p>« Visiblement, sans prédécesseur libéral, Menderes n'était pas un démocrate libéral quand il a dû faire face à une opposition véhémente », argumente Dogan Gurpınar, historien à l'université technique d'Istanbul. « Menderes n'a pas hésité à utiliser les pouvoirs étendus qui lui ont été accordés par le pouvoir législatif et le pouvoir exécutif dans la constitution héritée du régime kémaliste. Il les a utilisés de manière excessive, en particulier lorsque l'opposition à son gouvernement a grandi et est devenue plus agressive à la fin des années 1950. »</p><p>Cela dit, Cemil Kocak, historien à l'université de Sabancı, nous rappelle que les accusations portées contre Menderes étaient vernies et exagérées par une machine de propagande dont le but était d'ouvrir la voie au coup d'État et de donner <em>a posteriori</em> une légitimité à l'armée.</p><p>« Trois chefs de la bande des méchants, Celâl Bayar (le Président), Adnan Menderes (le Premier ministre) et Refik Koraltan (le président du parlement), observaient avec bonheur les massacres brutaux orchestrés par Namik Gedik (le ministre de l'Intérieur) contre les jeunes turcs. Ces créatures qui enterraient vivants les jeunes dans des réfrigérateurs et dans des tombes, avant de mettre les cadavres dans des hachoirs à viande et de donner la viande aux chiens, ne peuvent pas être des êtres humains », écrit Kocak dans son best-seller de propagande intitulé <em>The Victory of the Turkish Army: Bloodless Revolution</em>.</p><p>Inutile de préciser qu'aucune de ces affirmations n'était vraie.</p><p>L'agitation politique s'accentuant, les alliés de l'OTAN commencèrent à se distancier du gouvernement de Menderes. Curieusement, c'est Menderes qui plaça la Turquie dans le bloc occidental et qui fit du pays un membre de l'OTAN en 1952, en échange de la participation de la Turquie à la guerre de Corée.</p><p>Le 30 avril 1960, le <em>New York Times</em> publia un article intitulé « Les propos de Menderes inquiètent les conseillers américains : Washington craint que le ton du Premier ministre turc face à ses ennemis étudiants n'élargisse l'opposition ». L'article soulignait le fait que Menderes considérait les protestations contre lui comme un complot et qualifiait les manifestants d'« outils » et de « partisans fanatiques ». Le 16 mai 1960, le quotidien publia un reportage en pleine page, sous le titre « Menderes jure qu'il ne démissionnera pas et affirme que la Turquie ira bientôt aux urnes – Affrontements entre opposants et partisans lors de son discours à Izmir ».</p><p>Le 25 avril 1960, un éditorial du quotidien intitulé « Le régime Menderes » indiquait : « La suspension des activités politiques normales du gouvernement turc a soulevé de graves craintes dans l'esprit des amis de la Turquie. [...] M. Inonu [leader du CHP et ancien Premier ministre] a déclaré la semaine dernière lors du débat à la Grande Assemblée nationale de Turquie sur la suspension de certains partis (censuré dans la presse turque) : "Si vous continuez comme cela, même moi, je ne serai pas en mesure de vous sauver". » Quelques jours avant le coup d'État, le 5 mai 1960, l'ambassadeur américain Warren Fletcher rejeta les rumeurs selon lesquelles un émissaire américain s'était entretenu avec Menderes et avait déclaré que les États-Unis restaient impartiaux dans le litige l’opposant aux manifestants.</p><p>Le coup d'État fut annoncé par une brève allocution radiodiffusée à la nation. Dans ce communiqué très court, les nouveaux dirigeants militaires de la Turquie jurèrent allégeance à l'OTAN et au CenTO. Le 28 mai 1960, un jour après le coup d’État, Fletcher Warren rendit visite au leader du coup d’État, le général Cemal Gürsel. Fort de son expérience solide dans l'observation de coups d'État lorsqu'il était diplomate en Amérique latine, il confia au chef de la junte, Gürsel, que c'était « de loin le coup d'État le plus précis, le plus efficace et le plus rapide » qu’il n’ait jamais vu.</p><p>Le 29 mai 1960, le <em>New York Times</em> publia un article depuis la Turquie intitulé « Le général Gürsel dirige le cabinet turc et lève la répression : le peuple enthousiaste salue le régime, les journalistes et les étudiants emprisonnés sont libérés ».</p><p>Le coup d'État militaire fut glorifié par l'élite militaire laïque, les médias et les universitaires étouffèrent avec enthousiasme les pratiques autoritaires du gouvernement de la junte, et les partisans de Menderes furent réduits au silence à travers des simulacres de procès et la persécution. Cependant, il ne fallut pas longtemps pour que certains des partisans du coup d'État fussent perçus comme une menace pour le gouvernement de la junte.</p><p>Une purge politique fut lancée dans les universités et 147 professeurs furent expulsés suite à une chasse aux sorcières basée sur des accusations arbitraires : un politologue de renom fut par exemple licencié pour homosexualité. Şener Aktürk note que le gouvernement de la junte adopta une politique ethnique discriminatoire qui « rappelait le régime unipartite antérieur à 1950 ».</p><p>Seulement quelques jours après le coup d'État, 485 notables kurdes furent arrêtés et déplacés dans un camp pour avoir tenté « d'établir un gouvernement kurde » et pour avoir travaillé pour le Parti démocrate, accusé de soutenir ces activités. Gürsel, le chef de la junte, déclara un jour : « Partout où vous verrez un Kurde, crachez sur son visage ». Il se disait aussi que le général avait envisagé d'exécuter plus de 2 500 notables et hommes politiques kurdes.</p><p>Pendant ce temps, le soutien apporté au gouvernement de la junte par la communauté internationale resta intact. Cemal Gürsel fut décrit comme « un modéré politique » et le coup d'État de 1960 fut qualifié de « révolution sans effusion de sang » dans sa nécrologie publiée le 15 septembre 1966 dans le <em>New York Times</em>. Il était aussi généreusement encensé par Cyrus L. Sulzberger, correspondant à l'étranger du <em>New York Times</em> et chroniqueur primé spécialiste des affaires étrangères, qui fut accusé par Carl Bernstein d'être un agent de la CIA.</p><p>Bernstein était un journaliste d'investigation du <em>Washington Post</em> qui avait contribué à mettre au jour le scandale du Watergate. Dans une chronique publiée le 13 février 1966, Sulzberger écrivit : « L'armée turque a toujours joué un rôle important ; lorsqu'elle s'est sentie appelée à exercer une influence politique, elle a toujours évolué dans le sens libéral. »</p><p>Pourtant, la grande majorité des Turcs, qui ont depuis des décennies la réputation avérée de voter pour le parti approuvé par l'armée, semble être en désaccord avec la lecture de la politique turque faite par Sulzberger. La Turquie a connu plusieurs coups d'État et interventions militaires qui ont visé presque tous les segments de la société (les Kurdes, les islamistes, les alévis, les sympathisants de gauche et les libéraux), laissant derrière eux un passé sanglant et douloureux.</p><p>Aujourd'hui, le coup d’État de 1960 est perçu comme le péché originel de la politique turque moderne qui a créé un précédent pour les interventions militaires qui ont suivi et mis en place une tutelle militaire permanente en Turquie.</p><p>« L'armée a restructuré les organes de l'État afin que la bureaucratie et le système judiciaire fonctionnent de manière autonome par rapport aux gouvernements au pouvoir. En tant que régime tutélaire qui supervise le fonctionnement du gouvernement, l'armée [orchestre] l'État », explique Dogan Gurpınar, ajoutant que « ce système a prévalu pendant quatre à cinq décennies jusqu'à sa disparition à la fin des années 2000 ».<br> </p><p><em>Photo : manifestants portant un drapeau turc géant lors d'une manifestation (AFP).</em></p><p><em>Traduction de l'anglais (original) par <a href="http://www.vectranslation.com/fr/index.php">VECTranslation</a>.</em></p></div>
+      
+  
+  
+  <blockquote class="disclaimer">Middle East Eye delivers independent and unrivalled coverage and analysis of the Middle East, North Africa and beyond. To learn more about republishing this content and the associated fees, please fill out this <u><a href="https://middleeasteye.net/form/mee-syndication"><span style="color:#3498db">form</span></a></u>. More about MEE can be found <u><a href="https://middleeasteye.net/about-middle-east-eye"><span style="color:#3498db">here</span></a></u>.</blockquote>
+
+</article>
+
+
+  </div>
+
+              
+                </section>
+
+                                    <aside role="complementary" class="sidebar-second">
+                        <div class="sidebar-photo-extend"></div>
+  
+                    <div class="region region-sidebar-second">
+    <section id="block-managedad-2" class="block block-adsense block-adsense-managed-ad-block clearfix">
+  
+    
+
+      <div class="text-align-center">
+  <div class="adsense" style="width:300px;height:250px;">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027"
+     crossorigin="anonymous"></script>
+<!-- 300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6114695881218027"
+     data-ad-slot="9954860777"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </div>
+</div>
+
+  </section>
+
+<section id="block-recommendedarticles" class="block block-mee-custom block-recommended clearfix">
+  
+      <h3 class="block-title">Recommended</h3>
+    
+
+      <div class="recommended-block">
+  <div class="recommended-landing"></div>
+  <div class="recommended-other"><div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image-no">
+      <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/taxonomy/term/4242">Politique Turque</a></div>
+    <a aria-label="La fin de la démocratie en Turquie ?" class="mee-tile-title" href="/decryptages/la-fin-de-la-democratie-en-turquie">La fin de la démocratie en Turquie ?</a>
+      </div>
+</div>
+<div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image-no">
+      <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/taxonomy/term/4242">Politique Turque</a></div>
+    <a aria-label="La montée en puissance des ultranationalistes turcs" class="mee-tile-title" href="/decryptages/la-montee-en-puissance-des-ultra-nationalistes-turcs">La montée en puissance des ultranationalistes turcs</a>
+      </div>
+</div>
+</div>
+</div>
+  </section>
+
+<section id="block-managedad-3" class="block block-adsense block-adsense-managed-ad-block clearfix">
+  
+    
+
+      <div class="text-align-center">
+  <div class="adsense" style="width:300px;height:250px;">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027"
+     crossorigin="anonymous"></script>
+<!-- 300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6114695881218027"
+     data-ad-slot="8074323968"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+                  
+              </aside>
+                      </div>
+
+                                    <div class="content-bottom">  
+  <div class="paragraph--type--landing-page-segment segment--no-type">
+  <div class="segment-content">
+    <h3 class="segment-title">Read more</h3>
+    <div class="landing-layout-wrapper">
+  <div class="first-layout"><div class="mee-subtheme-segment-layout mee-subtheme-segment-layout--articles-below-3 segment-layout-std">
+  <div class="mee-article-tile mee-article-tile-type--opinion mee-article-tile-image">
+      <div class="mee-tile-image">
+    <a aria-label="Les arrestations de militaires montrent la volonté de l’AKP de punir les gülenistes" href="/node/44028"><img src="/sites/default/files/styles/landing_tile/public/000_Nic6425407%20%281%29.jpg.webp?itok=meKq14F-" width="448" height="280" alt="" loading="lazy" typeof="foaf:Image" />
+
+</a>
+  </div>
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/taxonomy/term/4242">Politique Turque</a></div>
+    <a aria-label="Les arrestations de militaires montrent la volonté de l’AKP de punir les gülenistes" class="mee-tile-title" href="/node/44028"><span class="mee-tile-quote"></span> Les arrestations de militaires montrent la volonté de l’AKP de punir les gülenistes</a>
+        <div class="mee-tile-author">- David Barchard</div>
+      </div>
+</div>
+<div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image">
+      <div class="mee-tile-image">
+    <a aria-label="Les anciens généraux turcs sortent libres du procès intenté pour « coup d’Etat » " href="/decryptages/les-anciens-generaux-turcs-sortent-libres-du-proces-intente-pour-coup-detat"><img src="/sites/default/files/styles/landing_tile/public/Sledge.5April2015_0.jpg.webp?itok=QDPrZ7y6" width="448" height="280" alt="" loading="lazy" typeof="foaf:Image" />
+
+</a>
+  </div>
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/taxonomy/term/4242">Politique Turque</a></div>
+    <a aria-label="Les anciens généraux turcs sortent libres du procès intenté pour « coup d’Etat » " class="mee-tile-title" href="/decryptages/les-anciens-generaux-turcs-sortent-libres-du-proces-intente-pour-coup-detat">Les anciens généraux turcs sortent libres du procès intenté pour « coup d’Etat » </a>
+      </div>
+</div>
+<div class="mee-article-tile mee-article-tile-type--opinion mee-article-tile-image">
+      <div class="mee-tile-image">
+    <a aria-label="La Turquie paie les conséquences de la répression des manifestations" href="/node/43545"><img src="/sites/default/files/styles/landing_tile/public/MayDayIstanbul.3May2015.jpg.webp?itok=RPzSqM-Z" width="448" height="280" alt="" loading="lazy" typeof="foaf:Image" />
+
+</a>
+  </div>
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/taxonomy/term/12614">Turquie</a></div>
+    <a aria-label="La Turquie paie les conséquences de la répression des manifestations" class="mee-tile-title" href="/node/43545"><span class="mee-tile-quote"></span> La Turquie paie les conséquences de la répression des manifestations</a>
+        <div class="mee-tile-author">- David Barchard</div>
+      </div>
+</div>
+
+</div></div>
+  	</div>
+  </div>
+</div>
+
+  
+</div>
+                  </div>
+
+  <footer class="footer " role="contentinfo">
+      
+    <div id="footer-top-wrapper">
+        <div class="region region-footer">
+          <a class="logo navbar-btn" href="/" title="Home" rel="home">
+      <img width="1200" height="858" class="en footer" src="/themes/mee_subtheme/images/logo-en.svg" alt="Home" />
+    </a>
+  <nav role="navigation" aria-labelledby="block-top-menu-en-footer-menu" id="block-top-menu-en-footer">
+            
+  <h3 class="visually-hidden block-title" id="block-top-menu-en-footer-menu">Top Menu En</h3>
+  
+
+        
+      <ul class="menu menu--top-menu-en nav">
+                        <li class="navitem-news">
+        <a href="/news" class="navitem-news" data-drupal-link-system-path="node/120391">News</a>
+                  </li>
+                        <li class="navitem-trending">
+        <a href="/trending" class="navitem-trending" data-drupal-link-system-path="node/377566">Trending</a>
+                  </li>
+                        <li class="navitem-opinion">
+        <a href="/opinion" class="navitem-opinion" data-drupal-link-system-path="node/120006">Opinion</a>
+                  </li>
+                        <li class="navitem-video">
+        <a href="/video" class="navitem-video" data-drupal-link-system-path="node/120011">Video</a>
+                  </li>
+                        <li class="navitem-explainers">
+        <a href="/explainers" class="navitem-explainers" data-drupal-link-system-path="node/377571">Explainers</a>
+                  </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-socialmedialinks-footer" class="block-social-media-links block block-social-media-links-block clearfix">
+  
+    
+
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a class="social-media-link-icon--youtube" href="https://www.youtube.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fab fa-youtube fa-lg'></span>
+
+        
+        <span class="platform--name visually-hidden">Youtube</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--twitter" href="https://x.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fab fa-x-twitter fa-lg'></span>
+
+        
+        <span class="platform--name visually-hidden">X</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/middleeasteye"  target="_blank" rel="nofollow" >
+        <span class='fab fa-instagram fa-lg'></span>
+
+        
+        <span class="platform--name visually-hidden">Instagram</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fab fa-facebook fa-lg'></span>
+
+        
+        <span class="platform--name visually-hidden">Facebook</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--tiktok" href="https://www.tiktok.com/@middleeasteye"  target="_blank" rel="nofollow" >
+        <span class='fab fa-tiktok fa-lg'></span>
+
+        
+        <span class="platform--name visually-hidden">TikTok</span>
+      </a>
+    </li>
+  </ul>
+
+  </section>
+
+
+  </div>
+
+      <a class="top-link" href="#"><i class="fa fa-angle-double-up"></i>Top</a>
+    </div>
+    <div id="footer-bottom-wrapper">
+        <div class="region region-footer-bottom">
+    <section class="views-element-container block-collapsible block-collapsed block block-views block-views-blockcountries-list-block-2 clearfix" id="block-countries-list-block-footer">
+  
+      <h3 class="block-title">Countries</h3>
+    
+
+      <div class="container-element"><div class="js-view-dom-id-5138434a6a52e088b09209f627cc1e70f5a8d8d254834999986cfad56584c6d4 view-content">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="views-rows"><div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/algeria" hreflang="en">Algeria</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/bahrain" hreflang="en">Bahrain</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/china" hreflang="en">China</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/egypt" hreflang="en">Egypt</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/france" hreflang="en">France</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/germany" hreflang="en">Germany</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/india" hreflang="en">India</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iran" hreflang="en">Iran</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iraq" hreflang="en">Iraq</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/israel" hreflang="en">Israel</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/jordan" hreflang="en">Jordan</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/kuwait" hreflang="en">Kuwait</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/lebanon" hreflang="en">Lebanon</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/libya" hreflang="en">Libya</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/mauritania" hreflang="en">Mauritania</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/morocco" hreflang="en">Morocco</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/oman" hreflang="en">Oman</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/pakistan" hreflang="en">Pakistan</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/palestine" hreflang="en">Palestine</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/qatar" hreflang="en">Qatar</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/russia" hreflang="en">Russia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/saudi-arabia" hreflang="en">Saudi Arabia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/sudan" hreflang="en">Sudan</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/syria" hreflang="en">Syria</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/tunisia" hreflang="en">Tunisia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/turkey" hreflang="en">Turkey</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/uk" hreflang="en">UK</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/uae" hreflang="en">United Arab Emirates</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/us" hreflang="en">US</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/yemen" hreflang="en">Yemen</a></span></div></li>
+    
+  </ul>
+
+</div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </section>
+
+<section id="block-about" class="block-collapsible block-collapsed block block-system block-system-menu-blockabout clearfix">
+  
+      <h3 class="block-title">About</h3>
+    
+
+    <div class="container-element">
+    
+      <ul class="menu menu--about">
+                        <li>
+        <a href="/about-middle-east-eye" data-drupal-link-system-path="node/2">About us</a>
+                  </li>
+                        <li>
+        <a href="/privacy-policy" data-drupal-link-system-path="node/3">Privacy</a>
+                  </li>
+                        <li>
+        <a href="/terms-and-conditions" data-drupal-link-system-path="node/1">Terms and conditions</a>
+                  </li>
+                        <li>
+        <a href="/careers" title="Careers" data-drupal-link-system-path="node/261061">Careers</a>
+                  </li>
+                        <li>
+        <a href="/form/contact" title="Contact Us" data-drupal-link-system-path="webform/contact">Contact us</a>
+                  </li>
+        </ul>
+  
+
+  </div>
+</section>
+
+<section id="block-copyright" class="block block-block-content block-block-content1f6aeddb-b5ee-4c7c-9eb5-f21cb5a0bf3c clearfix">
+  
+    
+
+                  <div class="field field-body clearfix"><p><span>Copyright © 2014 - 2025</span><em>.</em><span>&nbsp;Middle East Eye. All rights reserved. </span> <span>Only England and Wales jurisdiction apply in all legal matters.</span></p>
+
+<p><span><span><span><span><span><span><span><span><span><span><strong>Middle East Eye&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ISSN 2634-2456&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></span></span></span></span></span></span></span></span></span></span></p></div>
+      
+  </section>
+
+
+  </div>
+
+    </div>
+  </footer>
+
+  </div>
+
+    
+    <script src="//ws.sharethis.com/button/buttons.js"></script>
+<script src="/sites/default/files/js/js_206xEqODQ9Td3hcLKohm83MNoauh2UcsoZK8wCmvVes.js?scope=footer&amp;delta=1&amp;language=en&amp;theme=mee_subtheme&amp;include=eJyNj-ESgiAQhF-I5JGYEzekwFM4Rnv7MCcrxx_9gd3lm7slAiaz9RRM7ilB-0GQLEYxlsuqTcJUkEU5ZhdghJx2En8tuaNv6EaLiuv40kqPCG3rAmlBojqfp5L1dm3Qd4dj0LxO6f0Jm8Xb--My-85B1A7qXY31HQlL_cpAoS0iPOQ5_42egcpy4NTyot_ik3S4Ugm1CijZ3tDoDRVhy3EMkFr4PH8C9g2c1Q"></script>
+<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/affix.js?t7ttw1" defer></script>
+<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/alert.js?t7ttw1" defer></script>
+<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/button.js?t7ttw1" defer></script>
+<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/carousel.js?t7ttw1" defer></script>
+<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/collapse.js?t7ttw1" defer></script>
+<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/dropdown.js?t7ttw1" defer></script>
+<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/modal.js?t7ttw1" defer></script>
+<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/tooltip.js?t7ttw1" defer></script>
+<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/popover.js?t7ttw1" defer></script>
+<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/scrollspy.js?t7ttw1" defer></script>
+<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/tab.js?t7ttw1" defer></script>
+<script src="/themes/mee_subtheme/bootstrap/assets/javascripts/bootstrap/transition.js?t7ttw1" defer></script>
+<script src="/themes/mee_subtheme/js/mee_theme.js?t7ttw1" defer></script>
+<script src="/sites/default/files/js/js_jH5cwZWg0abVN2l2yzgjWRPqMlHsAYE5ikNHpS55J-A.js?scope=footer&amp;delta=15&amp;language=en&amp;theme=mee_subtheme&amp;include=eJyNj-ESgiAQhF-I5JGYEzekwFM4Rnv7MCcrxx_9gd3lm7slAiaz9RRM7ilB-0GQLEYxlsuqTcJUkEU5ZhdghJx2En8tuaNv6EaLiuv40kqPCG3rAmlBojqfp5L1dm3Qd4dj0LxO6f0Jm8Xb--My-85B1A7qXY31HQlL_cpAoS0iPOQ5_42egcpy4NTyot_ik3S4Ugm1CijZ3tDoDRVhy3EMkFr4PH8C9g2c1Q"></script>
+
+  </body>
 </html>

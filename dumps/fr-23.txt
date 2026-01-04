@@ -1,155 +1,778 @@
-HTTP/2 200 server: nginx date: Sat, 03 Jan 2026 16:44:11 GMT content-type:
-text/html; charset=UTF-8 strict-transport-security: max-age=31536000 vary:
-Accept-Encoding x-hacker: Want root? Visit join.a8c.com and mention this header.
-host-header: WordPress.com vary: accept, content-type, cookie x-ac: 5.ams
-_atomic_ams STALE alt-svc: h3=":443"; ma=86400 server-timing: a8c-cdn,
-dc;desc=ams, cache;desc=STALE;dur=3.0 #oEmbed (JSON) oEmbed (XML)
+HTTP/2 200 content-type: text/html; charset=UTF-8 x-premium: 0 x-xss-protection:
+1; mode=block strict-transport-security: max-age=31536000; includeSubDomains;
+preload content-security-policy: upgrade-insecure-requests x-frame-options:
+sameorigin link:
+/i.f1g.fr/media/cms/1200x630_crop/2025/05/19/90e433a2b5b83be223f4bcd2942828713bb
+fe56fc494e49aee3b71cbc5dcfc25.JPG>; rel="preload";
+as="image",/static.lefigaro.fr/figconsent/figconsent-v2-short-ttl.js>;
+rel="preload"; as="script",; rel="preload";
+integrity="sha384-kKmcsGhEa862J+WWByKYXP9OfrJHrynHib+2i97vpPGlA/TGstoX74mFN8WcAu
+CO"; as="script"; crossorigin="anonymous",; rel="preload";
+integrity="sha384-/rcQUfTEYRiH/FcDMtgxVnHJGgCiJ8LHniSxGWUopNVE5a1SJv6rMHSSCT0hoa
+T9"; as="script"; crossorigin="anonymous",; rel="preload";
+integrity="sha384-B2EaqtbaeTJsrFfXLizx8dKL+B9bItJPkV6xRV64H/vgZPiJ0ZZJwBokUbh3YU
+jg"; as="script";
+crossorigin="anonymous",/static.lefigaro.fr/figanalytics/figanalytics-short-ttl.
+js>; rel="preload";
+as="script",/static.lefigaro.fr/common/fonts/SourceSansPro/sourcesanspro-semibol
+d.woff2>; rel="preload"; as="font";
+crossorigin="anonymous",/static.lefigaro.fr/common/fonts/SourceSansPro/sourcesan
+spro-regular.woff2>; rel="preload"; as="font";
+crossorigin="anonymous",/static.lefigaro.fr/common/fonts/NotoSerif/notoserif-bol
+d.woff2>; rel="preload"; as="font";
+crossorigin="anonymous",/static.lefigaro.fr>; rel="preconnect",/i.f1g.fr>;
+rel="preconnect",/collector.appconsent.io>;
+rel="preconnect",/cdn.appconsent.io/tcf2-clear/current/core.bundle.js>;
+rel="preload"; as="script",/www.googletagmanager.com>;
+rel="dns-prefetch",/cdn.appconsent.io>;
+rel="dns-prefetch",/static.lefigaro.fr/header/js/figh-index.be12dc1.js>;
+rel="preload"; as="script" x-using-nginx-controller: true x-shard-target: proxy1
+x-real-age: 642 expires: Sun, 04 Jan 2026 17:25:32 GMT cache-control: max-age=0,
+no-cache, private pragma: no-cache date: Sun, 04 Jan 2026 17:25:32 GMT
+x-left-ttl: 2958
+REFRESH(500 sec):
+file://localhost/international/il-a-vole-une-election-au-parti-democrate-ce-que-
+revele-le-livre-enquete-sur-l-etat-de-sante-de-biden-20250519?nojs_refresh=1
+Aller au contenu
 
-A red background with a large white letter 'A' in the center. A red background
-with a large white letter 'A' in the center.
-🎲 Découvrir Amavero, au hasard
+(BUTTON) Menu
+(BUTTON)
+Abonnez-vous 0,99€ le premier moisRechercher
+Le Figaro fête ses 200 ans du 14 au 16 janvier 2025 au Grand Palais.
+Inscrivez-vous gratuitement.
+Notre application
+Soyez alerté en temps réel
+avec l'application Le Figaro
 
-Naviguer d’un univers à l’autre, au hasard, pour découvrir la richesse des
-thèmes du site
-🎲 Au hasard, par univers
+Rubriques et services du Figaro
+  * Politique
+  * International
+  * Économie
+  * Société
+  * Vox
+  * Sport
+  * Culture
+  * Madame
+  * Faits divers
+  * Santé
+  * Sciences
+  * Tech et web
+  * Patrimoine et Bourse
+  * Art de vivre
+  * Voyage
+  * Style
+  * Vin
+  * Automobile
+  * Le Figaro Magazine
+  * Le Figaro Étudiant
+  * Le Figaro Immobilier
+  * Le Figaro Littéraire
+  * Histoire
+  * Médias
+  * TVMag
+  * Programme TV
+  * Décideurs
+  * Les classements du Figaro
+  * Emploi
+  * Carnet du jour
+  * Bons plans
+  * Annonces légales
+  * Météo
+  * Jeux
+  * Le Figaro in English
+  * La question du jour
+  * Langue française
+  * Le Figaro Golf
+  * Maison et Jardin
+  * Territoires
+  * Fig Data
+  * Le Particulier
+  * Guide Achat
+  * Le Figaroscope
+  * F, l'art de vivre
+  * Gala
+  * Le Figaro Store
+  * Les Voyages F
+  * Le Figaro TV
+  * Podcasts
+  * Newsletters
 
-✔ Poèmes Luc Fayard
+Nos journaux et magazines
+  * Le Figaro
+  * Le Figaro Magazine
+  * Madame Figaro
+  * TV Magazine
 
-✔ Autres poètes/auteurs
+Les sites du Groupe Figaro
+  * Médias
+  * Agences & Régies publicitaires
+  * E-services & Classifieds
+  * Voyages
+  * E-marketing
+  * Billetterie
 
-✔ Duo poème-œuvre
+  * (BUTTON) TV & Vidéos
+  * Audio
+  * Jeux
+  * Le Figaro in English
+  * (BUTTON) Newsletters
+  * (BUTTON) Actu locale
 
-✔ Œuvre d’art seule
+  * Le Figaro TV
+  * Les vidéos du Figaro
 
-✔ Citation
+  * Actualités
+  + Les titres du jour
+  + L'alerte info
+  + Faits divers
+  + Santé
+  + La quotidienne Sport
+  + La sélection du Figaro Live
+  + Le Figaro Étudiant
+  + La lettre du Carnet
+  * Actu locale
+  + La semaine du Figaro Bordeaux
+  + La semaine du Figaro Lyon
+  + La semaine du Figaro Marseille
+  + La semaine du Figaro Nantes
+  + La semaine du Figaro Nice
+  * Économie
+  + Patrimoine
+  + Bourse & Placements
+  + Tech & Web
+  + Emploi & Entreprises
+  + Le Scan Eco
+  + L'actualité de l'immobilier
+  * Culture et Loisirs
+  + La lettre d'info Culture et Loisirs
+  + La lettre du Figaro Histoire
+  + Art de vivre
+  + Voyage
+  + Toute l'actualité du vin
+  + Golf
+  + Programme TV
+  + L'heure H
+  + En voiture !
+  * Les lettres des journalistes
 
-✔ Dictionnaire impertinent
-
-✔ Article InfoTekArt (sélection)
-
-✔ Bibliothèque
-
-✔ Poème LF illustré par IA
-
-✔ Blog de LF : « Fleureter’
-
-🛜 Infotekart : blog du numérique
-
-🗳️ JE M’ABONNE ! (gratuit)
-Recherche
-____________________ (BUTTON)
+  * Bordeaux
+  * Lyon
+  * Marseille
+  * Nantes
+  * Nice
 
 (BUTTON)
+Se connecter (BUTTON) Mon compte
+  * Mon compte
+  * Mes newsletters
+  * Mes commentaires
+  * S'abonner
+  * Aide et contact
+  * Se déconnecter
+
+Lire le PDF en ligne Lire le journal
+Abonnez-vous 0,99€ le premier mois
+  * Guerre en Ukraine
+  * Amériques
+  * Europe
+  * Moyen-Orient
+  * Le meilleur du journalisme européen
+  * Asie
+  * Afrique
+  * S'installer au Canada
+
+IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TC6DVH
+
+Passer la publicité
+Passer la publicité
+Publicité
+ 1. Accueil
+ 2. International
+
+«Il a volé une élection au parti démocrate» : ce que révèle le livre enquête sur
+l’état de santé de Biden
+
+Par Hugues Maillot
+Le 19 mai 2025 à 12h54
+(BUTTON) Suivre
+Sujets
+  * Joe Biden
+  * cancer
+  * santé
+
+  * Lire dans l’app
+  * (BUTTON) Copier le lien
+Lien copié
+  * Mail
+  * Facebook
+  * X
+  * Linkedin
+  * Messenger
+  * WhatsApp
+
+Joe Biden «a volé une élection au parti démocrate»: les révélations d’un livre
+enquête sur l’état de santé de l’ancien président
+
+Deux journalistes américains reconnus publient mardi des révélations sur la
+façon dont l’entourage de Joe Biden a tenté de «dissimuler» le déclin cognitif
+du président. Avec de nombreuses anecdotes accablantes.
+Passer la publicité
+Passer la publicité
+Publicité
+
+Dimanche soir, le cabinet de Joe Biden a fait savoir dans un communiqué que
+l’ancien président des États-Unis était atteint d’«une forme agressive» de
+cancer de la prostate «avec métastases osseuses». Si l’annonce a déclenché des
+réactions attristées unanimes au sein de la classe politique américaine, elle
+n’a pas dû surprendre grand monde : lors des derniers mois de son mandat, l’état
+de santé de Joe Biden était devenu un sujet de préoccupation international, si
+bien que le chef d’État avait renoncé, bien tardivement, à briguer un second
+mandat. La révélation de cette maladie intervient surtout deux jours avant la
+publication d’un livre enquête très attendu, Le péché originel, qui entend lever
+le voile sur les «dissimulations», comme l’indique le sous-titre de l’ouvrage,
+dont se serait rendue coupable l’administration Biden à ce sujet.
+À découvrir
+  * PODCAST - Écoutez le club Le Figaro International PODCAST - Écoutez le club
+Le Figaro International
+PODCAST - Écoutez le club Le Figaro International
+
+À la plume, deux journalistes américains reconnus : Jake Tapper, présentateur
+sur CNN et modérateur du débat présidentiel entre Biden et Trump, et Alex
+Thompson, du média d’investigation Axios. Ils expliquent avoir interrogé environ
+200 personnes pour cet ouvrage, parmi lesquelles de hauts responsables, «dont
+certains ne reconnaîtront peut-être jamais nous avoir parlé, mais qui
+connaissent tous la vérité dans ces pages». Le résultat est accablant, selon les
+premiers extraits publiés dans la presse américaine.
+Passer la publicité
+Publicité
+
+«On découvre ce que beaucoup savaient, ce que d’autres soupçonnaient, mais que
+presque personne n’osait formuler publiquement : le déclin physique et cognitif
+de Joe Biden n’a rien de soudain ni de marginal», résume dans une note Romuald
+Sciora, directeur de l’Observatoire politique et géostratégique des États-Unis
+et chercheur à l’Iris. «Il a été systématiquement dissimulé par son entourage
+politique, au mépris de toute transparence démocratique — voire du bon
+fonctionnement de l’État».
+
+Journées de travail réduites, discours plus courts...
+
+«Le péché originel de l’élection de 2024 a été la décision de Biden de se
+présenter à la réélection, puis ses efforts agressifs pour cacher sa diminution
+cognitive», écrivent les deux auteurs. Selon eux, si le président américain
+avait annoncé suffisamment tôt qu’il ne se présenterait pas pour un second
+mandat, le parti démocrate aurait pu organiser une primaire et faire le choix
+d’un candidat capable de battre Donald Trump. «Il a volé une élection au parti
+démocrate. Il l’a volée au peuple américain», souligne ainsi dans le livre «un
+éminent stratège démocrate» qui, comme tous les témoins, préfère conserver
+l’anonymat. L’ouvrage s’attelle à comprendre comment l’administration Biden en
+est arrivée là, en posant trois questions, indique le Washington Post  : «Quelle
+a été l’ampleur du déclin ? Qui était au courant ? Était-ce un complot ?»
+
+À lire aussi Raideur, chutes, regard figé, épisodes de confusion... Joe Biden
+souffre-t-il d’une maladie neurologique ?
+
+Une première anecdote donne un embryon de réponse aux deux premières
+interrogations. Jake Tapper et Alex Thompson racontent ainsi que Jon Favreau,
+influent podcasteur et ancienne plume de Barack Obama, avait rencontré un Joe
+Biden très lucide à la Maison-Blanche en décembre 2022 et qu’il avait été
+impressionné par sa mémoire. Seize mois plus tard, en avril 2024, lors d’une
+nouvelle visite, c’est un Joe Biden méconnaissable qui s’était présenté à lui,
+incohérent et fragile, qui «racontait des histoires que personne ne pouvait
+comprendre», comme le rapporte le Washington Post. Jon Favreau s’en était alors
+inquiété auprès d’un assistant de la Maison-Blanche, qui l’avait rassuré en
+mettant cette attitude sur le compte de la fatigue. Un argument récurrent lors
+des derniers mois du mandat Biden.
+
+Selon l’ouvrage, deux groupes ont cherché à tout prix à dissimuler le déclin du
+président américain, notamment à partir des élections de mi-mandat en novembre
+2022 : sa famille et une poignée de proches collaborateurs, surnommé le
+«Politburo» en interne, dont Mike Donilon et Steve Ricchetti. Pour ce faire, ils
+ont mis en place plusieurs techniques, révèle le New York Times  : limiter les
+affaires urgentes entre 10 heures, voire midi, et 16 heures, préserver des temps
+de sieste, exiger des plumes du président des discours aussi brefs que
+possible... «Tout est devenu plus court. Le vocabulaire s’est rétréci», écrivent
+Jake Tapper et Alex Thompson à ce sujet. Certains déplacements de Joe Biden
+étaient également filmés puis publiés au ralenti sur les réseaux sociaux, pour
+masquer la lenteur de sa démarche.
+
+Un déclin datant de 2015 ?
+
+Certains signes qui ne trompent pas ont ensuite rendu ces «dissimulations» plus
+difficiles. Comme ce 15 juin 2024, où Joe Biden n’aurait pas reconnu l’acteur
+George Clooney, pourtant un ami de longue date, lors d’une collecte de fonds. Ce
+soir-là, le président américain faisait «de minuscules pas», aidé par un
+«assistant». «Il paraissait avoir pris dix ans», racontent les auteurs du Péché
+originel dans un extrait publié par le New Yorker . Ils y évoquent «des blocages
+cérébraux évidents et des signes clairs d’un déclin mental», qualifiés de
+«terrifiants pour certains invités». L’acteur américain est alors introduit
+auprès du président et les deux hommes ont échangé quelques mots. Mais
+l’assistant a été obligé de préciser le nom du célèbre comédien. «Il semblait
+clair que le président n’avait pas reconnu Clooney», jugent Jake Tapper et Alex
+Thompson. L’acteur «était ébranlé jusqu’à la moelle», écrivent-ils à ce sujet.
+Un mois plus tard, dans la foulée d’un débat catastrophique face à Donald Trump,
+George Clooney appelait Joe Biden, dans une tribune au New York Times, à se
+retirer de la course à la présidentielle.
+
+À lire aussi Pour le démocrate George Clooney, s’opposer à Joe Biden était un
+« devoir civique »
+Passer la publicité
+Publicité
+
+Mais pour les auteurs du Péché originel, le déclin cognitif du président
+américain date vraisemblablement de bien plus tôt, peut-être même de 2015, ce
+qui coïnciderait avec la mort de son fils Beau, des suites d’un cancer du
+cerveau. Les deux journalistes révèlent que Joe Biden avait besoin d’une
+assistance «considérable» pour mener de simples interviews pendant la campagne
+de 2020. Ce qui leur fait dire que le péché originel de Biden n’est finalement
+pas d’avoir retardé son retrait de la course à sa réélection en 2024 mais de
+s’être présenté initialement en 2020. L’aggravation de son état pourrait
+découler d’un autre événement familial : les ennuis judiciaires de son autre
+fils, Hunter, qui a passé la seconde moitié du mandat de son père à se débattre
+contre plusieurs accusations de crime.
+
+Comment expliquer, dès lors, l’entêtement de Joe Biden et de ses équipes ? «Sans
+doute par une culture politique où la loyauté prime sur la vérité, où le
+contrôle de l’image l’emporte sur le souci de l’intérêt général», répond Romuald
+Sciora dans sa note pour l’Iris. «Peut-être aussi par un calcul électoral :
+reconnaître la vulnérabilité de Joe Biden, c’était fragiliser les chances
+démocrates face à un Donald Trump toujours plus menaçant». Pour le spécialiste
+des États-Unis, ce «silence» conservé pendant de longues années, «n’est pas
+anodin». «Il dit quelque chose de l’état des institutions américaines, et de
+leur rapport à la vérité. Il trahit, surtout, la peur panique qu’inspire encore
+aujourd’hui l’idée même d’un débat public sur les capacités cognitives d’un
+dirigeant. Ni la Maison-Blanche, ni le Congrès, ni les grands médias n’ont voulu
+assumer cette responsabilité. Tous savaient. Peu ont parlé. Et presque aucun
+n’a agi».
+La rédaction vous conseille
+  * États-Unis : Joe Biden diagnostiqué d’une forme «agressive» d’un cancer de
+la prostate
+  * Trump, Obama, Harris... La classe politique américaine «attristée» par
+l’annonce du cancer de Joe Biden
+
+Passer la publicité
+Publicité
+
+«Il a volé une élection au parti démocrate» : ce que révèle le livre enquête sur
+l’état de santé de Biden
+S'ABONNER
+(BUTTON) Fermer
 (BUTTON)
-  * ACCUEIL
-  * Poèmes seuls (Luc Fayard et auteurs Amavero)
-  * À propos
-  * Adhésion
-  * Articles sélectionnes dans les archives d’InfoTekArt
-  * Association Amavero (BUTTON)
-  + – Charte
-  + – Éditions Amavero
-  + – Livres
-  * Au hasard (poème, œuvre, etc.)
-  * Bibliothèque d’Amavero
-  * Blog: Fleureter
-  * Contact
-  * Galeries (BUTTON)
-  + – Galerie Amavero d’art et de poésie (duos poème-œuvre)
-  + – Galerie Amavero d’art contemporain (œuvre seule)
-  + – Galerie Amavero d’art moderne (œuvre seule)
-  + – Galerie Amavero d’art ancien et d’art classique (œuvre seule)
-  + – Galerie Amavero poèmes illustrés par IA
-  + – Autres Galeries thématiques
-  * Index Auteur(e)s et Artistes
-  * Poésie et Art : je m’abonne !
-  * Textes et Poèmes (BUTTON)
-  + – Autres Poèmes et Textes (du monde entier)
-  + – Citations
-  + – Dictionnaire impertinent des branchés
-  + – Liste des poèmes, textes et œuvres Amavero
 
-Farrokhzad (Forough) : Le péché
+Partager via :
+  * Mail
+  * Facebook
+  * X
+  * WhatsApp
+  * (BUTTON) Copier le lien
+Lien copié
+  * Messenger
 
-J’ai pêché, pêché dans le plaisir,
-dans des bras chauds et enflammés,
-j’ai pêché dans des bras de fer,
-brûlants et rancuniers.
+(BUTTON) 196 commentaires
+(BUTTON)
+(BUTTON)
 
-Dans ce lieu solitaire, sombre et muet,
-ses yeux remplis de mystère j’ai regardé,
-mon coeur dans ma poitrine, impatiemment a tremblé,
-des supplications de désirs de ses yeux.
+Plus d'options
+(BUTTON) Imprimer (BUTTON) Signaler une faute d'orthographe
+S'abonner
+Passer la publicité
+Passer la publicité
+196 commentaires
+  * Will
+le 23/05/2025 à 19:43
+Trump avait raison malheureusement
+  * MARIELLEK2
+le 22/05/2025 à 15:16
+on aura tout vu des democrates , sa femme si je comprends le livre etait la
+presidente non elue bravo des menteurs, en prison
+  * benedict75
+le 22/05/2025 à 14:30
+Le jour même de son élection en novembre 2020, Joe Biden avait montré des pertes
+de mémoire inquiétantes devant des journalistes; c'était diffusé en direct sur
+CNN : il s'était trompé sur le prénom de son fils Beau alors qu'il venait de se
+recueillir sur sa tombe, et aussi sur le prénom d'une de ses petites filles
+venue le saluer.
+Aucun grand média français n'avait repris l'information à l'époque.
 
-Dans ce lieu solitaire, sombre et muet,
-je me suis assise près de lui, agitée,
-sa lèvre, l’envie, sur mes lèvres a versée,
-de la tristesse de mon coeur fou, je me suis libérée.
+(BUTTON) Lire les 196 commentaires
+Passer la publicité
+À lire aussi
 
-A l’oreille, l’histoire d’amour, je lui ai racontée,
-je te veux mon amant,
-je te veux, toi dont les bras sont vivifiants,
-je te veux, toi mon amoureux fou.
+États-Unis : Donald Trump nomme un chef des Marines à la tête des forces
+américaines pour l'Amérique latine
 
-Le désir alluma le feu dans son regard,
-le vin rouge dansa dans le verre,
-mon corps sur le lit doux,
-dans l’ivresse trembla sur sa poitrine.
+États-Unis : Donald Trump nomme un chef des Marines à la tête des forces
+américaines pour l'Amérique latine États-Unis : Donald Trump nomme un chef des
+Marines à la tête des forces américaines pour l'Amérique latine
 
-J’ai pêché dans le plaisir,
-près d’un corps tremblant et évanoui,
-Dieu! Je ne sais ce que j’ai fait,
-dans ce lieu solitaire, sombre et muet…
-Portrait en noir et blanc d'une jeune femme avec des cheveux foncés, portant une
-blouse à rayures et regardant directement l'objectif. Portrait en noir et blanc
-d'une jeune femme avec des cheveux foncés, portant une blouse à rayures et
-regardant directement l'objectif. Portrait of Forough Farrokhzad, from
-amordadnews.com, 2021
+Plusieurs médias américains affirment que son prédécesseur avait fait part de
+ses réserves concernant les frappes américaines en mer des Caraïbes et sur le
+Pacifique.
 
-Forough Farrokhzad, poétesse iranienne,  1935 – 1967
+Libéré par le Venezuela, Camilo Castro prononce quelques mots à son arrivée à
+Paris
 
-J’aime ça :
+Libéré par le Venezuela, Camilo Castro prononce quelques mots à son arrivée à
+Paris Libéré par le Venezuela, Camilo Castro prononce quelques mots à son
+arrivée à Paris
 
-J’aime chargement…
-amant, amour, autre-auteur, corps, désir, Forough Farrokhzad, home, péché,
-plaisir, poème, tension
-Voronca (Ilarie) : Nous chanterons ensemble la louange…
-Garcia Lorca (Federico ): Yo pronuncio tu nombre…
-🎲 Un autre texte/poème du monde, au hasard
-🪐 EXPLORER les RUBRIQUES d’ART et de POÉSIE du site
-📇 Index des Auteurs
+Les États-Unis ont saisi un nouveau pétrolier au large du Venezuela, Caracas
+dénonce un «vol»
 
-Amavero art et poésie Amavero art et poésie
+Les États-Unis ont saisi un nouveau pétrolier au large du Venezuela, Caracas
+dénonce un «vol» Les États-Unis ont saisi un nouveau pétrolier au large du
+Venezuela, Caracas dénonce un «vol»
 
-poèmes et galeries d'art, de poésie et de culture de l'association Amavero 100%
-bénévole
-  ___________________________________________________________________________
+Les États-Unis ont saisi un nouveau pétrolier au large du Venezuela, ont
+rapporté samedi plusieurs médias américains, alors que Washington a mis en place
+un blocus visant les navires transportant du pétrole liés à Caracas.
 
-Designed with WordPress
+Sur le même thème
 
-Twenty Twenty-Five
+ 1.
 
-Mentions légales illustrations
+Augmentation constante, changement d’origines… Les chiffres de l’immigration aux
+États-Unis, après l’annonce choc de Donald Trump
+Augmentation constante, changement d’origines… Les chiffres de l’immigration aux
+États-Unis, après l’annonce choc de Donald Trump Augmentation constante,
+changement d’origines… Les chiffres de l’immigration aux États-Unis, après
+l’annonce choc de Donald Trump
+INFOGRAPHIES - «Je vais suspendre définitivement l’immigration en provenance de
+tous les pays du tiers-monde», a annoncé Donald Trump après l’attaque contre
+deux gardes nationaux à Washington. Le Figaro s’est penché sur l’évolution du
+phénomène migratoire américain ces dernières décennies.
+ 2.
 
-© 2025 Luc Fayard et Amavero art et poésie
+Les présidents américains et la maladie : une histoire de silences
+Les présidents américains et la maladie : une histoire de silences Les
+présidents américains et la maladie : une histoire de silences
+RÉCIT - Donald Trump a démenti mardi les rumeurs sur sa santé. À l’instar de
+beaucoup de ses prédécesseurs, le président américain a déjà menti sur le sujet.
+ 3.
 
+Que risquent les anciens collaborateurs de Joe Biden, suspectés de «complot» par
+Donald Trump ?
+Que risquent les anciens collaborateurs de Joe Biden, suspectés de «complot» par
+Donald Trump ? Que risquent les anciens collaborateurs de Joe Biden, suspectés
+de «complot» par Donald Trump ?
+Donald Trump a ordonné une enquête pour déterminer si des individus «ont menti
+au public à propos de l’état mental» de son prédécesseur «afin d’exercer les
+prérogatives et responsabilités du président».
+ 4.
 
-Chargement des commentaires…
+Paulin Césari : « Joe Biden, toujours la trahison trahit le traître »
+Paulin Césari : « Joe Biden, toujours la trahison trahit le traître » Paulin
+Césari : « Joe Biden, toujours la trahison trahit le traître »
+LA MINUTE PHILO - Le livre enquête Original Sin nous apprend que l’ancien
+président des États-Unis ne fut pas totalement lui-même lors de son mandat
+présidentiel.
+ 5.
 
-Écrire un commentaire...
-____________________________________________________________
-____________________________________________________________
-____________________________________________________________
-____________________________________________________________
+Bruce Springsteen vent debout contre Trump sur son nouvel EP
+Bruce Springsteen vent debout contre Trump sur son nouvel EP Bruce Springsteen
+vent debout contre Trump sur son nouvel EP
+VIDÉO - Le rocker américain sort un enregistrement live émaillé de discours très
+acerbes envers le président américain.
+ 6.
 
-E-mail (requis) ____________________
+Alexandre Devecchio : «Santé de Joe Biden, les trumpistes n’ont pas le monopole
+du mensonge»
+Alexandre Devecchio : «Santé de Joe Biden, les trumpistes n’ont pas le monopole
+du mensonge» Alexandre Devecchio : «Santé de Joe Biden, les trumpistes n’ont pas
+le monopole du mensonge»
+CHRONIQUE - L’enquête de deux journalistes révèle que l’état de santé de
+l’ancien président américain, alors inapte à exercer ses fonctions, aurait été
+dissimulé.
+ 7.
 
-Nom (requis) ____________________
+«Ce que le monde a vu n’était pas une anomalie» : le déclin physique de Joe
+Biden ou l’histoire d’une omerta imposée par les démocrates
+«Ce que le monde a vu n’était pas une anomalie» : le déclin physique de Joe
+Biden ou l’histoire d’une omerta imposée par les démocrates «Ce que le monde a
+vu n’était pas une anomalie» : le déclin physique de Joe Biden ou l’histoire
+d’une omerta imposée par les démocrates
+RÉCIT - Plusieurs ouvrages révèlent comment l’état de santé du président
+démocrate a été sciemment dissimulé au public américain tout au long de son
+mandat.
+ 8.
 
-Site web ____________________
+Pour le démocrate George Clooney, s’opposer à Joe Biden était un « devoir
+civique »
+Pour le démocrate George Clooney, s’opposer à Joe Biden était un « devoir
+civique » Pour le démocrate George Clooney, s’opposer à Joe Biden était un
+« devoir civique »
+L’acteur américain, qui avait demandé au candidat démocrate de se retirer de la
+campagne présidentielle américaine en juillet 2024, dit « défendre ses idées et
+en assumer les conséquences ».
+ 9.
 
-Laisser un commentaire
+États-Unis : les grâces accordées par Joe Biden sont-elles «nulles et sans
+effet», comme l’affirme Donald Trump ?
+États-Unis : les grâces accordées par Joe Biden sont-elles «nulles et sans
+effet», comme l’affirme Donald Trump ? États-Unis : les grâces accordées par Joe
+Biden sont-elles «nulles et sans effet», comme l’affirme Donald Trump ?
+LA VÉRIFICATION - Selon le républicain, les documents ont été signés avec un
+«stylo automatique». Que dit la loi américaine ? Le locataire de la Maison
+Blanche a-t-il le pouvoir de les annuler ?
+10.
 
-IFRAME: likes-master
+La «doctrine Biden» sur la sécurité de l’intelligence artificielle balayée d’un
+revers de la main par Trump
+La «doctrine Biden» sur la sécurité de l’intelligence artificielle balayée d’un
+revers de la main par Trump La «doctrine Biden» sur la sécurité de
+l’intelligence artificielle balayée d’un revers de la main par Trump
+DÉCRYPTAGE - Le président américain a annulé un décret de son prédécesseur. Il
+imposait aux concepteurs d’IA des tests de sécurité afin de protéger leurs
+utilisateurs d’éventuelles dérives.
 
-%d
+Passer la publicité
+Plus de services
+L'actualité à ne pas manquer
+  * Résultats des élections
+  * Covid-19
+  * Guerre en Ukraine
+  * Tension Iran-Etats Unis
+  * Corée-Du-Nord
+  * Actualité politique en temps réel
+  * Analyses, débats politiques et sociétaux
+  * Actualité et réseaux sociaux
+
+Programme TV
+  * TV ce soir
+  * Programme TV en ce moment
+  * Programme TV TNT
+  * Séries Netflix, HBO, OCS et TV
+  * Election et photos Miss France 2026
+  * Programme TV Canalsat
+  * Programme TV Free
+  * Programme TV SFR
+  * Actu people
+
+Sport
+  * Calendriers et résultats des matchs en direct
+  * Euro 2024
+  * Jeux olympiques
+  * Actualité cyclisme
+  * Résultats, classement général Tour de France
+  * Classement Ligue 1
+  * Classement Top 14
+  * Transferts football
+  * Coupe du monde de football
+  * Ballon d'Or France Football
+
+Madame
+  * Horoscope du jour
+  * Guide du mariage
+  * Recettes de cuisine
+  * Brigitte Macron
+  * Actu mode
+  * Apéritif dînatoire
+  * Recette pâte à crêpe
+  * Tendance bijoux
+  * Meghan Markle
+  * Gainer son corps
+
+Santé
+  * Astuces et conseils bien-être
+  * Santé et sexualité
+  * Index des maladies
+  * Conseils alimentation, nutrition et santé
+  * L'encyclopédie des organes
+  * Conseils en psychologie
+  * La pollution va t-elle nous tuer ?
+  * Apnée du sommeil : Comment mieux dormir ?
+  * 15 mythes sur les vertus des aliments
+
+Guide d'achat
+  * Guide d'achat maison et jardin
+  * Guide d'achat santé et beauté
+  * Guide d’achat high-tech
+  * Guide d'achat smartphones et tablettes
+  * Nos bons plans
+  * Nos bons plans high-tech
+  * Nos bons plans maison
+  * Nos bons plans mode
+  * Nos bons plans sport
+  * Nos Bons plans beauté
+  * Black Friday
+
+Éducation et orientation
+  * Bac 2026
+  * Révisions Bac 2026
+  * Résultats bac 2026
+  * Résultat Brevet 2026
+  * Parcoursup
+  * Stages, alternance et métiers
+  * Salons
+  * Annuaire des établissements
+  * Classement école de commerce
+  * Classement école d'ingénieurs
+  * Classement prépa
+
+Culture
+  * Succession de Johnny Hallyday
+  * Sorties cinéma
+  * Guide arts et expositions
+  * Actualité musicale
+  * Actualité jeux-vidéo
+  * Citations et proverbes
+  * Réservation de spectacles et théâtre
+  * Sortir à Paris
+  * Histoire de France
+  * Langue française
+
+Offres d'emploi
+  * Toutes les offres d'emploi
+  * Emploi à Paris
+  * Emploi à Lyon
+  * Emploi à Toulouse
+  * Emploi à Nantes
+  * Emploi à Bordeaux
+  * Emploi commercial
+  * Emploi contrôleur de gestion
+  * Emploi logistique
+  * Emploi communication
+  * Nos fiches métiers
+  * Annonces légales
+
+Annonces immobilières
+  * Annonces immobilières
+  * Achat appartement Paris
+  * Achat appartement Nice
+  * Achat appartement Cannes
+  * Achat appartement Bordeaux
+  * Achat appartement Lyon
+  * Achat appartement Aix-en-provence
+  * Achat maison Bordeaux
+  * Achat maison Marseille
+  * Achat maison Montpellier
+
+Économie argent et finances
+  * Simulateur de seuil de richesse
+  * Actualité économique et analyses
+  * Impôts sur le revenu : simulateur
+  * Palmarès des villes où investir dans l'immobilier
+  * Studios et 2-pièces : les loyers ville par ville
+  * Calculer l'impôt à payer
+  * Barême des droits de succession et donation
+  * Indice de référence des loyers (IRL)
+  * En France, les hauts revenus sont-ils tous des «riches»?
+  * Carte familles nombreuses : jusqu’à 75 % de réduction sur les billets de
+train
+
+Voyage
+  * Guide des croisières
+  * Guide voyage Jordanie
+  * Guide voyage Namibie
+  * Guide voyage Maroc
+  * Guide voyage New York
+  * Guide voyage Birmanie
+  * Guide voyage Lille
+  * Guide voyage Antilles
+  * Guide voyage Japon
+  * Guide voyage Amsterdam
+
+Les magazines Figaro
+  * Le Figaro Magazine
+  * Madame Figaro
+  * Le Figaro
+  * Le Figaro Hors-Série
+  * Le Figaro Histoire
+  * TV Magazine
+  * F, l'art de vivre
+
+Vin
+  * Tous les vins
+  * Primeurs
+  * Comprendre le vin
+  * Tops et sélections
+  * Domaines et vignerons
+  * Economie du vin
+  * Foire aux vins
+  * Bière et brasseries
+  * Spititueux
+  * Terroir et viticulture
+
+Le Figaro : Editions locales
+  * Le Figaro Bordeaux
+  * Le Figaro Lyon
+  * Le Figaro Nantes
+  * Le Figaro Nice
+  * Le Figaro Marseille
+
+Nos partenaires LENA
+  * Die Welt
+  * El Pais
+  * Gazeta Wyborcza
+  * La Repubblica
+  * Le Soir
+  * Tages Anzeiger
+  * Tribune de Genève
+
+Suivez l’actu en temps réel avec l’application Le Figaro
+(BUTTON)
+Vous avez choisi de refuser les cookies
+Et pourtant, la publicité personnalisée est un moyen de soutenir le travail de
+notre rédaction qui s’engage à vous proposer chaque jour une information de
+qualité. En acceptant les cookies, vous pourrez accéder aux contenus et
+fonctionnalités gratuites que propose notre site.
+
+À tout moment, vous pouvez modifier vos choix via le bouton “paramétrer les
+cookies” en bas de page.
+(BUTTON) Accepter les cookies ou Refuser et s'abonner
+
+Nos liens utiles
+  * Le Figaro en images
+  * Nos applications mobiles
+  * Suivre Le Figaro sur Google Actu
+  * Le Figaro Bordeaux
+  * Le Figaro Lyon
+  * Le Figaro Marseille
+  * Le Figaro Nantes
+  * Le Figaro Nice
+  * Les vidéos Figaro Live
+  * Les podcasts du Figaro
+  * Les programmes TV
+  * Les résultats sportifs
+  * Carnet du jour
+  * Le Figaro Store
+  * Jeux
+  * Donnez nous votre avis
+
+Le Figaro
+Le Kiosque
+
+Le Figaro
+Lire ce numéro
+Abonnement
+  * Découvrez toutes les offres
+Les articles en illimité à partir de 0,99€ sans engagement
+  * Gérer votre abonnement
+  * Mon compte
+  * Résilier votre abonnement
+
+Applications mobiles
+  * Le Figaro : iPhone | Android
+  * Le Figaro Jeux : iPhone | Android
+  * Le Kiosque Le Figaro : iPhone | Android
+  * Le Figaro Cuisine : iPhone | Android
+
+Nos newsletters
+Inscrivez-vous aux newsletters
+Suivez-nous sur :
+  * (BUTTON) Paramétrer les cookies
+  * Plan du site
+  * Confidentialité
+  * CGU
+  * CGV
+  * Info cookies
+  * Charte
+  * Aide et contact
+  * Mentions légales
+  * Groupe Figaro
+  * Abonnements
+  * Newsletter
+  * Publicité
+  * Sitemap
+  * Accessibilité : partiellement conforme
+  * Digital Services Act
+  * Gérer Utiq

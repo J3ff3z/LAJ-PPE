@@ -1,19 +1,15 @@
-HTTP/2 200 content-type: text/html; charset=utf-8 content-length: 160506 server:
-Ring Publishing - Accelerator date: Sat, 03 Jan 2026 16:47:24 GMT last-modified:
-Thu, 30 Mar 2017 08:15:00 GMT vary: Accept-Encoding vary: user-agent link:
-/ocdn.eu/ucs/static/noizz/371d2a0dcedf2e000316340fba9f5365/build/css/main.css>;
-rel=preload; as=style link:
+HTTP/2 200 content-type: text/html; charset=utf-8 content-length: 157996 server:
+Ring Publishing - Accelerator date: Sun, 04 Jan 2026 17:28:50 GMT set-cookie:
+acc_segment=51; Path=/; Max-Age=31536000; SameSite=None; Secure set-cookie:
+acc_segment_ts=1767547730; Path=/; Max-Age=31536000; SameSite=None; Secure vary:
+Accept-Encoding vary: user-agent link:
 /ocdn.eu/ucs/static/noizz/371d2a0dcedf2e000316340fba9f5365/build/css/main.css>;
 rel=preload; as=style link: /events.ocdn.eu>; rel=preconnect link: /ocdn.eu>;
-rel=preconnect cache-control: no-cache,stale-if-error=0,s-maxage=0 etag:
-"29-d67156c0fb81f384" set-cookie: acc_segment=78; Path=/; Max-Age=31536000;
-SameSite=None; Secure set-cookie: acc_segment_ts=1767458844; Path=/;
-Max-Age=31536000; SameSite=None; Secure x-cache: Miss from cloudfront via: 1.1
-3345a8f17bb96a1199a195b00a8d2c0e.cloudfront.net (CloudFront) x-amz-cf-pop:
+rel=preconnect cache-control: s-maxage=0,stale-if-error=0,no-cache etag:
+"157996-9a2e565f68889159" x-cache: Miss from cloudfront via: 1.1
+127aaaaca740f298a4c887357ec047b4.cloudfront.net (CloudFront) x-amz-cf-pop:
 CDG52-P2 alt-svc: h3=":443"; ma=86400 x-amz-cf-id:
-U2R3gVMZbGjfuDV3XPcQ9fasruvoM40lxZMnhqJsSuC0mka_g-5X-A== #alternate alternate
-
-IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P85JQF
+f0OlaQkw_FfXwgeussN9h8OoLBc3mdTqMzRzVoFTTG7X4kQdejOldA== #alternate alternate
 
 IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P85JQF
 

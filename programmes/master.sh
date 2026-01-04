@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/bashIl a du mal avec l
 
 if [ $# -eq 0 ];
 then
@@ -20,11 +20,12 @@ echo -e "\
                     <th>Code</th>
                     <th>UTF8?</th>
                     <th>Mots</th>
-                    <td>Freq.</td>
+                    <th>Freq.</th>
                     <th>Robots</th>
                     <th>Aspirations</th>
                     <th>Dumps initiaux</th>
                     <th>Dumps clean</th>
+		    <th>Bigrammes</th>
                     <th>Contexte</th>
                     <th>Concordancier</th>
                 </tr>
@@ -37,9 +38,10 @@ while read -r LINE ; do
     NB_LIGNE=$(expr $NB_LIGNE + 1)
     echo "Working on line $NB_LIGNE"
     ASPIRATION="aspirations/$LANGUE-$NB_LIGNE.txt"
-    
-    ROBOTS=$(bahs programmes/robots.sh "$LINE")
-    if [ "$ROBOTS" != "OK]
+
+    ROBOTS=$(bash programmes/robots.sh "$LINE")
+
+    if [ "$ROBOTS" != "OK" ]; then
         echo -e "\
             <tr class=\"is-warning\">
                 <td>$NB_LIGNE</td>
@@ -49,6 +51,7 @@ while read -r LINE ; do
                 <td>ERREUR</td>
                 <td>ERREUR</td>
                 <td>$ROBOTS</td>
+                <td>ERREUR</td>
                 <td>ERREUR</td>
                 <td>ERREUR</td>
                 <td>ERREUR</td>
@@ -73,6 +76,7 @@ while read -r LINE ; do
                 <td>ERREUR</td>
                 <td>ERREUR</td>
                 <td>ERREUR</td>
+                <td>ERREUR</td>
             </tr>" >> "$SORTIE"
         continue
     fi
@@ -88,29 +92,29 @@ while read -r LINE ; do
     CONCORDANCE="concordances/$LANGUE-$NB_LIGNE.html"
 
     CLEAN=$(bash programmes/scriptnettoyage1.sh "$DUMP_INITIAL")
-    CLEAN=${CLEAN:1}
     NB_MOTS=$(cat "$CLEAN" | wc -w)
     COUNT=$(bash programmes/comptage_occurence_script.sh "$CLEAN")
+    BIGRAMMES=$(bash programmes/scriptbigrammes.sh "$CLEAN")
+
 
     if [ -z "$ENCODAGE" ]; then
         if [ -z "$NB_MOTS" ]; then
-            if [ -z "$COUNT=" ]; then
-                ENCODAGE_OU_PAS='non supporté'
-                echo -e "\
-                    <tr class=\"is-warning\">
-                        <td>$NB_LIGNE</td>
-                	<td><a href=\"$LINE\" title=\"$LINE\">$LINE</td>
-                        <td>$CODE</td>
-                        <td>$ENCODAGE_OU_PAS</td>
-                        <td>ERREUR</td>
-                        <td>ERREUR</td>
-                        <td>$ROBOTS</td>
-                        <td>ERREUR</td>
-                        <td>ERREUR</td>
-                        <td>ERREUR</td>
-                    </tr>" >> "$SORTIE"
-                continue
-            fi
+            ENCODAGE_OU_PAS='non supporté'
+            echo -e "\
+                <tr class=\"is-warning\">
+                    <td>$NB_LIGNE</td>
+             	    <td><a href=\"$LINE\" title=\"$LINE\">$LINE</td>
+                    <td>$CODE</td>
+                    <td>$ENCODAGE_OU_PAS</td>
+                    <td>ERREUR</td>
+                    <td>ERREUR</td>
+                    <td>$ROBOTS</td>
+                    <td>ERREUR</td>
+                    <td>ERREUR</td>
+                    <td>ERREUR</td>
+                    <td>ERREUR</td>
+                </tr>" >> "$SORTIE"
+            continue
         fi
     fi
 
@@ -120,6 +124,25 @@ while read -r LINE ; do
         ENCODAGE_OU_PAS="$ENCODAGE"
     fi
 
+    if [[ "$COUNT" -eq 0 ]]; then
+        echo -e "\
+            <tr class=\"is-warning\">
+                <td>$NB_LIGNE</td>
+         	<td><a href=\"$LINE\" title=\"$LINE\">$LINE</td>
+                <td>$CODE</td>
+                <td>$ENCODAGE_OU_PAS</td>
+                <td>$NB_MOTS</td>
+                <td>0</td>
+                <td>$ROBOTS</td>
+                <td>ERREUR</td>
+                <td>ERREUR</td>
+                <td>ERREUR</td>
+                <td>ERREUR</td>
+                <td>ERREUR</td>
+                <td>ERREUR</td>
+            </tr>" >> "$SORTIE"
+            continue
+    fi
 
     echo -e "\
             <tr>
@@ -129,16 +152,20 @@ while read -r LINE ; do
                 <td>$ENCODAGE_OU_PAS</td>
                 <td>$NB_MOTS</td>
                 <td>$COUNT</td>
-                <td>$ROBOT</td>
-                <th><a target="_blank" href=\"$ASPIRATION\"><img src="web/download.png" alt="Download Aspiration"></th>
-                <th><a target="_blank" href=\"$DUMP_INITIAL\"><img src="web/download.png" alt="Download Dump"></th>
-                <th><a target="_blank" href=\"$CLEAN\"><img src="web/download.png" alt="Download Clean"></th>
-                <th><a target="_blank" href=\"$CONTEXTE\"><img src="web/download.png" alt="Download Contexte"></th>
+                <td>$ROBOTS</td>
+                <th><a target="_blank" href=\"$ASPIRATION\"><img src=\"web/download.png\" alt=\"Download Aspiration\"></th>
+                <th><a target="_blank" href=\"$DUMP_INITIAL\"><img src=\"web/download.png\" alt=\"Download Dump\"></th>
+                <th><a target="_blank" href=\"$CLEAN\"><img src=\"web/download.png\" alt=\"Download Clean\"></th>
+                <th><a target="_blank" href=\"$BIGRAMMES\"><img src=\"web/download.png\" alt=\"Download Bigrammes\"></th>
+                <th><a target="_blank" href=\"$CONTEXTE\"><img src=\"web/download.png\" alt=\"Download Contexte\"></th>
                 <th><a href=\"concordancier.html?f=$(basename $CONTEXTE)\">$LANGUE-$NB_LIGNE</th>
             </tr>" >> "$SORTIE"
 done  < "$ENTREE"
+
+bash programmes/pals.sh "$LANGUE"
 
 echo -e "\
             </tbody>
         </table>" >> "$SORTIE"
 echo "Done"
+

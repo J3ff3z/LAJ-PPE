@@ -1,13 +1,13 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:48:19 GMT content-type: text/html;
-charset=UTF-8 server: cloudflare vary: Accept-Encoding last-modified: Sat, 03
-Jan 2026 10:37:15 GMT cache-control: max-age=0 expires: Sat, 03 Jan 2026
-16:48:19 GMT report-to:
+HTTP/2 200 date: Sun, 04 Jan 2026 17:30:02 GMT content-type: text/html;
+charset=UTF-8 server: cloudflare vary: Accept-Encoding last-modified: Sun, 04
+Jan 2026 12:44:49 GMT cache-control: max-age=0 expires: Sun, 04 Jan 2026
+17:30:02 GMT report-to:
 {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare
-.com/report/v4?s=FRZl4XpxhiW546vJTmzmt2%2FCr%2FKszybIOrRDlvK2x2vT1ImT8Los6ArZvcu
-CzY5JHRpSYELPArcR67ZCuFE2ei9QyFsNNIvUGQEE5z%2BnC9XgUBipHL%2F8vjn6NfxY"}]}
-cf-cache-status: DYNAMIC nel:
+.com/report/v4?s=NG0nLKbx2%2BByOG6945FVFZ4EuoEKLsWq6A2R2R%2F68yMhbe%2Fc%2FzcRJaC
+4yJHxTlLFk3eryHb%2FH8yNJS%2BIfLSrUVo57AiYohYN%2BP6pDn9%2F1sCx9BORo0CXbbb8qkc5"}]
+} cf-cache-status: DYNAMIC nel:
 {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} cf-ray:
-9b83fba82e4e9816-CDG #WielkaHistoria » Kanał z wpisami WielkaHistoria » Kanał z
+9b8c762339792a16-CDG #WielkaHistoria » Kanał z wpisami WielkaHistoria » Kanał z
 komentarzami JSON oEmbed (JSON) oEmbed (XML)
 
 WielkaHistoria WielkaHistoria
@@ -360,14 +360,14 @@ Warto zobaczyć
 Niepozorny przedmiot mówi wiele o kulturze wikingów. Tym wyróżniali się na tle
 średniowiecznej Europy
 
-14 godzin temu
+2 dni temu
 
 ŚredniowieczeStarożytność
 
 Starożytny Rzym wcale nie upadł w 476 roku. Oto co faktycznie wydarzyło się pod
 koniec V wieku n.e.
 
-7 dni temu
+1 tydzień temu
 
 Średniowiecze
 

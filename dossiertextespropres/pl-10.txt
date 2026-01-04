@@ -1,11 +1,6 @@
-PHPSESSID=737e2b16dcadc9fee1c31c7dc726bc3f; path=/; secure expires: Thu, 19 Nov
-" "
-" "
-" "
-" " link:
-//wp-json/>; rel=" link: //?p=256>;
-rel=shortlink date: Sat, 03 Jan 2026 16:46:56 GMT server: LiteSpeed alt-svc:
-v="43,46"  
+
+04 Jan 2026 12:16:19 GMT content-length: 147244 date: Sun, 04 Jan 2026 17:28:17
+ma=2592000, quic=":443"; ma=2592000; v="43,46"  
 
 
 

@@ -1,5 +1,5 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:51:42 GMT
+date: Sun, 04 Jan 2026 17:33:54 GMT
 content-type: text/html; charset=UTF-8
 x-powered-by: PHP/8.3.26
 x-dns-prefetch-control: on
@@ -8,13 +8,13 @@ link: <https://stacja7.pl/wp-json/wp/v2/posts/144037>; rel="alternate"; title="J
 link: <https://stacja7.pl/?p=144037>; rel=shortlink
 nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
 x-litespeed-cache: hit
-report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Q1rdUFwKLXbR%2BBUCRbdB12WBmGSy39aRdoq8iS%2Bn0lwuqwXh1seZzPKQZ8DZpZ5VzqYEKLOEz9rOwqF6vMRWarD0aubcL61NF0ypHUYjoRneG7%2BvBf8%3D"}]}
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UrBBu%2BRiWoMeMpRksKXNHNzAdnzVenrzo3lm2h6dUJ%2FJYXh%2FG%2B98tMlRn4s5z%2Bf%2Fs6otFQwOVEzAolMzDM2mrz1mz4fec366tJzxt99M52wQiaErHDM%3D"}]}
 vary: Accept-Encoding,User-Agent,User-Agent
 server: cloudflare
 alt-svc: h3=":443"; ma=86400
 x-turbo-charged-by: LiteSpeed
 cf-cache-status: DYNAMIC
-cf-ray: 9b84009eda1e7ae7-CDG
+cf-ray: 9b8c7bcf9a02d482-CDG
 
 <!doctype html>
 <html lang="pl-PL">
@@ -106,7 +106,7 @@ window.Inpl = window.Inpl||{};window.Inpl.host="stacja7.pl";window.Inpl.WebTr={}
 <meta name="twitter:image" content="https://stacja7.pl/wp-content/uploads/2021/04/Projekt-bez-tytulu-68.jpg" />
 <meta name="twitter:image:alt" content="motywy biblijne na maturze" />
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://stacja7.pl/#/schema/WebSite","url":"https://stacja7.pl/","name":"Stacja7.pl","description":"Złap pociąg do wiary!","inLanguage":"pl-PL","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://stacja7.pl/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@type":"Organization","@id":"https://stacja7.pl/#/schema/Organization","name":"Stacja7.pl","url":"https://stacja7.pl/","logo":{"@type":"ImageObject","url":"https://stacja7.pl/wp-content/uploads/2025/10/cropped-st7fav.png","contentUrl":"https://stacja7.pl/wp-content/uploads/2025/10/cropped-st7fav.png","width":512,"height":512,"contentSize":"7734"}}},{"@type":"WebPage","@id":"https://stacja7.pl/biblia/biblia-na-maturze-podpowiadamy-jakie-motywy-biblijne-moga-ci-sie-przydac-podczas-egzaminu-z-jezyka-polskiego/","url":"https://stacja7.pl/biblia/biblia-na-maturze-podpowiadamy-jakie-motywy-biblijne-moga-ci-sie-przydac-podczas-egzaminu-z-jezyka-polskiego/","name":"Biblia na maturze? Podpowiadamy, jakie motywy biblijne mogą Ci się przydać podczas egzaminu z języka polskiego - Stacja7.pl","description":"Biblia to najważniejsza księga religijna chrześcijan, ale także źródło wiedzy historycznej. Warto tuż przed maturą przypomnieć sobie wszystkie motywy i…","inLanguage":"pl-PL","isPartOf":{"@id":"https://stacja7.pl/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://stacja7.pl/#/schema/BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":"https://stacja7.pl/","name":"Stacja7.pl"},{"@type":"ListItem","position":2,"item":"https://stacja7.pl/kategoria/biblia/","name":"Kategoria: BIBLIA"},{"@type":"ListItem","position":3,"name":"Biblia na maturze? Podpowiadamy, jakie motywy biblijne mogą Ci się przydać podczas egzaminu z języka polskiego"}]},"potentialAction":{"@type":"ReadAction","target":"https://stacja7.pl/biblia/biblia-na-maturze-podpowiadamy-jakie-motywy-biblijne-moga-ci-sie-przydac-podczas-egzaminu-z-jezyka-polskiego/"},"datePublished":"2021-05-01T09:50:00+00:00","dateModified":"2024-04-15T15:07:21+00:00","author":{"@type":"Person","@id":"https://stacja7.pl/#/schema/Person/1a60caf44a1d356279ad49dab07f54ae","name":"Katarzyna Wysocka"}}]}</script>
-<!-- / The SEO Framework: stworzone przez Sybre Waaijer | 27.04ms meta | 11.97ms boot -->
+<!-- / The SEO Framework: stworzone przez Sybre Waaijer | 27.48ms meta | 11.41ms boot -->
 
 <link rel="alternate" type="application/rss+xml" title="Stacja7.pl &raquo; Kanał z wpisami" href="https://stacja7.pl/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Stacja7.pl &raquo; Kanał z komentarzami" href="https://stacja7.pl/comments/feed/" />
@@ -3052,6 +3052,22 @@ height: 24px;
 				</div>
 				<div class="row row-cols-2 row-cols-md-4 d-none d-md-flex">
 											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/zwatykanu/leon-xiv-z-niepokojem-sledzi-sytuacje-w-wenezueli-modle-sie-i-zachecam-was-do-modlitwy/">
+								<img src="https://stacja7.pl/wp-content/uploads/2025/10/formatka-17-1-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2025/10/formatka-17-1-298x220.jpg 1x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/zwatykanu/leon-xiv-z-niepokojem-sledzi-sytuacje-w-wenezueli-modle-sie-i-zachecam-was-do-modlitwy/">Leon XIV z niepokojem śledzi sytuację w Wenezueli. &#8222;Modlę się i zachęcam was do modlitwy&#8221;</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/zwatykanu/leon-xiv-niech-radosc-bozego-narodzenia-dodaje-nam-odwagi/">
+								<img src="https://stacja7.pl/wp-content/uploads/2026/01/leon-xiv-vatican-media-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2026/01/leon-xiv-vatican-media-298x220.jpg 1x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/zwatykanu/leon-xiv-niech-radosc-bozego-narodzenia-dodaje-nam-odwagi/">Leon XIV: &#8222;Niech radość Bożego Narodzenia dodaje nam odwagi&#8221;</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
 							<a href="https://stacja7.pl/z-kraju/prezbiterium-kaplicy-matki-bozej-odzyskalo-dawny-blask-jasnogorskie-kurdybany-odnowione/">
 								<img src="https://stacja7.pl/wp-content/uploads/2026/01/formatka-3-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2026/01/formatka-3-298x220.jpg 1x" width="298" height="220" loading="lazy"/>
 							</a>
@@ -3099,26 +3115,26 @@ height: 24px;
 								<a href="https://stacja7.pl/ze-swiata/noc-sylwestrowa-zmienila-sie-w-koszmar-szwajcaria-w-zalobie-po-tragedii-w-crans-montana/">Noc sylwestrowa zmieniła się w koszmar. Szwajcaria w żałobie po tragedii w Crans-Montana</a>
 							</div>
 						</div>
-											<div class="st7-single-post-side">
-							<a href="https://stacja7.pl/z-kraju/koniec-z-jezykowymi-pulapkami-nowe-zasady-ortografii-od-1-stycznia-2026-pelna-lista-zmian/">
-								<img src="https://stacja7.pl/wp-content/uploads/2026/01/SZABLON-artykuly-2026-01-02T092032.335-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2026/01/SZABLON-artykuly-2026-01-02T092032.335-298x220.jpg 1x" width="298" height="220" loading="lazy"/>
-							</a>
-							<div>
-								<a href="https://stacja7.pl/z-kraju/koniec-z-jezykowymi-pulapkami-nowe-zasady-ortografii-od-1-stycznia-2026-pelna-lista-zmian/">Koniec z językowymi pułapkami? Nowe zasady ortografii od 1 stycznia 2026 [pełna lista zmian]</a>
-							</div>
-						</div>
-											<div class="st7-single-post-side">
-							<a href="https://stacja7.pl/z-kraju/tylko-kilku-biskupow-udzielilo-dyspensy-na-2-stycznia-sprawdz-gdzie-obowiazuje/">
-								<img src="https://stacja7.pl/wp-content/uploads/2024/08/SZABLON-artykuly-80-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2024/08/SZABLON-artykuly-80-298x220.jpg 1x" width="298" height="220" loading="lazy"/>
-							</a>
-							<div>
-								<a href="https://stacja7.pl/z-kraju/tylko-kilku-biskupow-udzielilo-dyspensy-na-2-stycznia-sprawdz-gdzie-obowiazuje/">Tylko kilku biskupów udzieliło dyspensy na piątek 2 stycznia. Sprawdź, gdzie obowiązuje</a>
-							</div>
-						</div>
 														</div>
 
 				<h5 class="d-md-none mb-3">PRZECZYTAJ RÓWNIEŻ</h5>
 				<div class="row row-cols-2 row-cols-md-4 d-md-none">
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/zwatykanu/leon-xiv-z-niepokojem-sledzi-sytuacje-w-wenezueli-modle-sie-i-zachecam-was-do-modlitwy/">
+								<img src="https://stacja7.pl/wp-content/uploads/2025/10/formatka-17-1-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2025/10/formatka-17-1-298x220.jpg 1x, https://stacja7.pl/wp-content/uploads/2025/10/formatka-17-1-596x440.jpg 2x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/zwatykanu/leon-xiv-z-niepokojem-sledzi-sytuacje-w-wenezueli-modle-sie-i-zachecam-was-do-modlitwy/">Leon XIV z niepokojem śledzi sytuację w Wenezueli. &#8222;Modlę się i zachęcam was do modlitwy&#8221;</a>
+							</div>
+						</div>
+											<div class="st7-single-post-side">
+							<a href="https://stacja7.pl/zwatykanu/leon-xiv-niech-radosc-bozego-narodzenia-dodaje-nam-odwagi/">
+								<img src="https://stacja7.pl/wp-content/uploads/2026/01/leon-xiv-vatican-media-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2026/01/leon-xiv-vatican-media-298x220.jpg 1x, https://stacja7.pl/wp-content/uploads/2026/01/leon-xiv-vatican-media-596x440.jpg 2x" width="298" height="220" loading="lazy"/>
+							</a>
+							<div>
+								<a href="https://stacja7.pl/zwatykanu/leon-xiv-niech-radosc-bozego-narodzenia-dodaje-nam-odwagi/">Leon XIV: &#8222;Niech radość Bożego Narodzenia dodaje nam odwagi&#8221;</a>
+							</div>
+						</div>
 											<div class="st7-single-post-side">
 							<a href="https://stacja7.pl/z-kraju/prezbiterium-kaplicy-matki-bozej-odzyskalo-dawny-blask-jasnogorskie-kurdybany-odnowione/">
 								<img src="https://stacja7.pl/wp-content/uploads/2026/01/formatka-3-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2026/01/formatka-3-298x220.jpg 1x, https://stacja7.pl/wp-content/uploads/2026/01/formatka-3-596x440.jpg 2x" width="298" height="220" loading="lazy"/>
@@ -3149,22 +3165,6 @@ height: 24px;
 							</a>
 							<div>
 								<a href="https://stacja7.pl/ze-swiata/historyczny-rekord-tylu-pielgrzymow-nie-bylo-tu-jeszcze-nigdy/">Historyczny rekord. Tylu pielgrzymów nie było tu jeszcze nigdy</a>
-							</div>
-						</div>
-											<div class="st7-single-post-side">
-							<a href="https://stacja7.pl/zwatykanu/tragiczny-pozar-w-szwajcarii-leon-xiv-reaguje-modle-sie-za-ofiary-i-ich-rodziny/">
-								<img src="https://stacja7.pl/wp-content/uploads/2025/09/formatka-2025-09-12T134941.565-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2025/09/formatka-2025-09-12T134941.565-298x220.jpg 1x, https://stacja7.pl/wp-content/uploads/2025/09/formatka-2025-09-12T134941.565-596x440.jpg 2x" width="298" height="220" loading="lazy"/>
-							</a>
-							<div>
-								<a href="https://stacja7.pl/zwatykanu/tragiczny-pozar-w-szwajcarii-leon-xiv-reaguje-modle-sie-za-ofiary-i-ich-rodziny/">Tragiczny pożar w Szwajcarii. Leon XIV reaguje: „Modlę się za ofiary i ich rodziny”</a>
-							</div>
-						</div>
-											<div class="st7-single-post-side">
-							<a href="https://stacja7.pl/ze-swiata/noc-sylwestrowa-zmienila-sie-w-koszmar-szwajcaria-w-zalobie-po-tragedii-w-crans-montana/">
-								<img src="https://stacja7.pl/wp-content/uploads/2026/01/SZABLON-artykuly-2026-01-02T113139.188-298x220.jpg" srcset="https://stacja7.pl/wp-content/uploads/2026/01/SZABLON-artykuly-2026-01-02T113139.188-298x220.jpg 1x, https://stacja7.pl/wp-content/uploads/2026/01/SZABLON-artykuly-2026-01-02T113139.188-596x440.jpg 2x" width="298" height="220" loading="lazy"/>
-							</a>
-							<div>
-								<a href="https://stacja7.pl/ze-swiata/noc-sylwestrowa-zmienila-sie-w-koszmar-szwajcaria-w-zalobie-po-tragedii-w-crans-montana/">Noc sylwestrowa zmieniła się w koszmar. Szwajcaria w żałobie po tragedii w Crans-Montana</a>
 							</div>
 						</div>
 														</div>
@@ -3226,7 +3226,7 @@ height: 24px;
 							</svg>
 
 						</a>
-						<a href="/cdn-cgi/l/email-protection#50223534313b333a3110232431333a31677e203c">
+						<a href="/cdn-cgi/l/email-protection#f1839495909a929b90b1828590929b90c6df819d">
 							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 12.713l-11.985-9.713h23.97l-11.985 9.713zm0 2.574l-12-9.725v15.438h24v-15.438l-12 9.725z"/></svg>
 						</a>
 					</div>
@@ -3300,7 +3300,7 @@ height: 24px;
 							</svg>
 
 						</a>
-						<a href="/cdn-cgi/l/email-protection#bfcddadbded4dcd5deffcccbdedcd5de8891cfd3">
+						<a href="/cdn-cgi/l/email-protection#394b5c5d58525a5358794a4d585a53580e174955">
 							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 12.713l-11.985-9.713h23.97l-11.985 9.713zm0 2.574l-12-9.725v15.438h24v-15.438l-12 9.725z"/></svg>
 						</a>
 					</div>
@@ -3375,7 +3375,7 @@ height: 24px;
 				</div>
 				<div class="col-lg-6 mb-4">
 					<strong>Portal Stacja7.pl</strong><br/>
-					<a href="/cdn-cgi/l/email-protection#5d2f38393c363e373c1d2e293c3e373c6a732d31"><span class="__cf_email__" data-cfemail="e39186878288808982a3909782808982d4cd938f">[email&#160;protected]</span></a><br/>
+					<a href="/cdn-cgi/l/email-protection#22504746434941484362515643414843150c524e"><span class="__cf_email__" data-cfemail="77051213161c141d1637040316141d164059071b">[email&#160;protected]</span></a><br/>
 					ul. Ostatnia 1C/B17<br/>
 					31-444 Kraków<br/>
 				</div>
@@ -3415,7 +3415,7 @@ height: 24px;
 			<div>
 				<h4>Serwis<br/>
 				Stacji7<br/></h4>
-				<a href="/cdn-cgi/l/email-protection#7213161f1b1c32010613111813455c021e">Zgłoś problem >></a>
+				<a href="/cdn-cgi/l/email-protection#751411181c1b35060114161f14425b0519">Zgłoś problem >></a>
 			</div>
 		</div>
 	</div>
@@ -3630,4 +3630,4 @@ var PGC_SGB_LIGHTBOX = {"lightboxPreset":null,"postType":"post","lightboxSettigs
 </html>
 
 
-<!-- Page cached by LiteSpeed Cache 7.7 on 2026-01-02 19:38:37 -->
+<!-- Page cached by LiteSpeed Cache 7.7 on 2026-01-04 13:16:41 -->

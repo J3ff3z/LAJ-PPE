@@ -1,10 +1,10 @@
-HTTP/2 200 server: nginx date: Sat, 03 Jan 2026 16:47:43 GMT content-type:
+HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 17:29:13 GMT content-type:
 text/html; charset=UTF-8 expires: Thu, 19 Nov 1981 08:52:00 GMT cache-control:
 no-store, no-cache, must-revalidate pragma: no-cache x-dlm-no-waypoints: true
 link: /rozaniec.eu/wp-json/>; rel="https://api.w.org/",
 /rozaniec.eu/wp-json/wp/v2/posts/22093>; rel="alternate"; title="JSON";
 type="application/json", /rozaniec.eu/?p=22093>; rel=shortlink set-cookie:
-PHPSESSID=7rp4egh3m3nf45ebmrq1739fuo; path=/ vary: User-Agent,Accept-Encoding
+PHPSESSID=p7j0b3ha8aduvtl0l2od3imd12; path=/ vary: User-Agent,Accept-Encoding
 alt-svc: h3=":443"; ma=86400 #Miesięcznik Różaniec » Kanał z wpisami JSON
 
 Close Menu

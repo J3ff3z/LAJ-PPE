@@ -1,279 +1,373 @@
-HTTP/1.1 200 OK Date: Sat, 03 Jan 2026 16:43:22 GMT Content-Type: text/html
-Content-Length: 78242 Connection: keep-alive Keep-Alive: timeout=5 Vary:
-Accept-Encoding Cache-Control: no-store, no-cache, must-revalidate,
-post-check=0, pre-check=0 X-Powered-By: PHP/5.6.40 Set-Cookie:
-PHPSESSID=uq3128b2585n8d1nm3l0osfag1; path=/ Set-Cookie:
-ISLAMWEB_VISITOR_FONT_SELECT=1; expires=Mon, 02-Feb-2026 16:43:22 GMT;
-Max-Age=2592000; path=/; domain=.islamweb.net Server: nginx
+HTTP/2 200 content-type: text/html; charset=UTF-8 content-security-policy:
+frame-ancestors 'self' etag: W/"dkm82g" permissions-policy: camera=(),
+geolocation=(), accelerometer=(), payment=(), usb=(), xr-spatial-tracking=()
+referrer-policy: no-referrer-when-downgrade x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN x-sveltekit-page: true x-xss-protection: 1;
+mode=block cache-control: public, max-age=-353 x-akamai-transformed: 9 38372 0
+pmb=mRUM,2 date: Sun, 04 Jan 2026 17:24:28 GMT server-timing: cdn-cache;
+desc=REVALIDATE server-timing: edge; dur=23 server-timing: origin; dur=4
+strict-transport-security: max-age=15768000 origin: "" server-timing: ak_p;
+desc="1767547468532_1611776022_1884550012_2686_5515_4_36_15";dur=1
 
-  * English
-  * عربي
-  * Español
-  * Deutsch
-  * Français
-  * Indonesia
+Les nouveaux péchés selon le pape François
+  * (BUTTON) Contenu
+  * (BUTTON) Lecteur audio
+  * (BUTTON) Menu
+  * (BUTTON) Pied de page
 
-Français
-  * عربي
-  * Español
-  * Deutsch
-  * Français
-  * English
-  * Indonesia
+javascript désactivé
 
-Islam Web
-
-  * Accueil
-  * Articles
-  * Coran
-  * Fatwas
-  * E-Books
-  * Garçons & Filles
-  * Contacts
+Votre expérience sur le site radiofrance.fr risque d’être dégradée.
+(BUTTON)
+  * (BUTTON) Menu
+  * (BUTTON) Radios
+  +
+  +
+  +
+  +
+  +
+  +
+  +
+  * Podcasts
+  * (BUTTON) Catégories
+  + Sciences et Savoirs
+  + Société
+  + Environnement
+  + Arts et Divertissements
+  + Monde
+  + Politique
+  + Économie
+  + Cellule Investigation
+  + Vie quotidienne
+  + Bien-être
+  + Mon petit France Inter
+  + Sports
+  + Actualités musicales
+  + Musique
+  + Concerts
+  + Fictions
+  + Info
+  + Apprendre et réviser
+  + True crime
+  + Histoire
+  * Musique
+  * Enfants
+  * Radio France, aller à la page d'accueil
   *
+  *
+  * Rechercher
+  * (BUTTON) Se connecter
+  * (BUTTON)
 
-____________________ 
+France Culture
+  *
+  * Grille des programmes
+  * Podcasts
+  * Fictions
+  * Documentaires
+  * Savoirs
+  * Arts et Création
+
+Pope Francis attends the Second Session of the 16th Ordinary General Assembly of
+the Synod of Bishops at the Paul VI audience hall in The Vatican, 2024/10/02
+©AFP - Vatican Media / CPP / HANS LUCAS / Hans Lucas via AFP
+Pope Francis attends the Second Session of the 16th Ordinary General Assembly of
+the Synod of Bishops at the Paul VI audience hall in The Vatican, 2024/10/02
+©AFP - Vatican Media / CPP / HANS LUCAS / Hans Lucas via AFP
+
+Les nouveaux péchés selon le pape François
+
+Publié le jeudi 3 octobre 2024 à 06:57
+(BUTTON)
+écouter   (2 min)
+(BUTTON)
+(BUTTON)
+Publicité
+Humeur du matin Erner carré
+Provenant du podcast L'Humeur du matin par Guillaume Erner
+(BUTTON)
+(BUTTON)
+
+Le pape François a récemment annoncé une nouvelle liste de péchés, reflétant les
+préoccupations modernes telles que la paix, la création et la synodalité, en
+résonance avec l'évolution de la conscience collective.
+
+Le pape vient d’énoncer de nouveaux péchés, un événement rare qui mérite qu’on
+s’y attarde. C'est aussi un peu de la radio de service, car ainsi, Alexandra, je
+vais vous les présenter, et vous ne les commettrez pas aujourd'hui.
+Alors, je ne sais pas si l'on doit dire que nul n'est censé ignorer la loi
+ecclésiastique, mais en tout cas, voici ces nouveaux péchés.
+Publicité
+
+Certains sont très clairs, et d'aucuns les trouveront même bienvenus :
+  * Le péché contre la paix
+  * Le péché contre la création
+  * Le péché contre les peuples autochtones
+  * Le péché contre les migrants
+  * Le péché d'abus
+  * Le péché contre les femmes, la famille, la jeunesse
+  * Enfin, le péché contre la pauvreté
+
+D'autres sont moins évidents pour le grand public et nécessitent déjà une
+certaine culture religieuse, comme le péché de la doctrine utilisée, je cite,
+« comme des pierres à jeter ». Cela fait référence, d'après ce que j'ai compris,
+à son usage pour blesser.
+
+Et puis, il y a le péché contre la synodalité.
+Je vous rappelle, Alexandra, que ces nouveaux péchés ont été décidés lors d’un
+synode sur la synodalité. Ce dernier inclut des notions telles que le manque
+d’écoute, de communion et de participation de tous. En gros, on pourrait
+assimiler cela, par exemple, à consulter son smartphone pendant qu'un proche
+vous parle. Un péché donc tout à fait contemporain.
+
+Bien sûr, cette liste peut vous décevoir.
+Moi, si j'avais eu l'occasion d'être reçu par le pape, comme je l’ai demandé,
+j'aurais conseillé d’ajouter d’autres péchés :
+  * L'usage de l’expression « de base »
+  * Le recours aux messages vocaux (on en a parlé)
+  * La parmigiana (ça, ça devrait être interdit)
+  * Se garer sur une piste cyclable (comme vous l'avez fait, Alexandra)
+  * Ou encore affirmer que « Video Killed the Radio Star »
+
+Cependant, il faut reconnaître à ce pape une approche assez durkheimienne.
+François l'ignore sûrement, mais Durkheim aurait sans doute validé cette idée
+que les péchés évoluent. Les péchés sont avant tout ceux qui choquent la
+conscience commune. Or, cette conscience évolue : ce qui était jadis considéré
+comme le progrès, et que l’on pourrait appeler aujourd'hui, par exemple, le
+péché contre la création, est désormais vu par beaucoup comme un véritable
+crime. Ainsi, pour faire évoluer les péchés, il faut tenir compte de la société
+plus que de Dieu.
+
+Mais là encore, on peut conclure avec Durkheim qui affirmait qu'il est inutile
+de choisir entre Dieu et la société, puisque, selon lui, je cite : « Je ne vois
+dans la divinité que la société transfigurée et pensée symboliquement. »
+  * Info
+  * Société
+  * Religions – Spiritualité
+  * Pape François
+  * Vatican
+  * Religion catholique
+
+Publicité
+Publicité
+
+L'équipe
+  * Guillaume Erner
+Guillaume Erner
+Docteur en sociologie et producteur des Matins de France Culture
+  * Félicie Faugère
+Réalisation
+
+Épisodes précédents (BUTTON) Passer cette liste
+(BUTTON)
+  * Des personnes marchant à côté de vieux canons à Yafo, située sur la rive de
+la mer Méditerranée dans le nord d'Israël près de Tel-Aviv
+Va boire la mer à Yafo...
+(BUTTON) Indisponible
+2 oct. 2024
+ •
+2 min
+  * L'enseigne française d'habillement Kiabi a découvert en juillet 2024 qu'elle
+avait été victime d'une « fraude financière sophistiquée et de grande ampleur »
+Pour comprendre une époque, il faut étudier ses escrocs…
+(BUTTON) Indisponible
+1 oct. 2024
+ •
+2 min
+  * Des photos de Hassan Nasrallah sont accrochées au-dessus d'un étalage dans
+le quartier de Sayyida Zeinab à Damas, le 29 septembre 2024.
+Pierre Bourdieu aurait-il tué Hassan Nasrallah ?
+(BUTTON) Indisponible
+30 sept. 2024
+ •
+2 min
+  * Hitler en porte-jartelles
+Un siècle de sionisme vient de disparaître
+(BUTTON) Indisponible
+27 sept. 2024
+ •
+2 min
+  * La chanteuse franco-canadienne Mylène Farmer arrive sur scène lors de la
+cérémonie de clôture de la 74e édition du Festival de Cannes à Cannes, le
+17/07/2021
+Et si la solution c’était Mylène Farmer ?
+(BUTTON) Indisponible
+26 sept. 2024
+ •
+2 min
 
 (BUTTON)
-  * Inicio
-  * Artículos
-  * Corán
-  * Fatwas
-  * Libros
-  * Musulmanes Nuevos
-  * Contactanos
+Sur le même thème (BUTTON) Passer cette liste
+(BUTTON)
+  * La Messe
+MESSE du dimanche 04 janvier 2026 depuis la Chapelle Notre-Dame de la médaille
+miraculeuse à Paris.
+(BUTTON) Indisponible
+La Messe
+Aujourd'hui
+ •
+53 min
+  * David Lemler
+Le judaïsme : une création toujours recommencée 2/2 La modernité et le
+monothéisme éthique.
+(BUTTON) Indisponible
+Talmudiques
+Aujourd'hui
+ •
+32 min
+  * Philippe Aurouze, aumônier national protestant des prisons
+Derrière les murs : l’Évangile en chemin
+(BUTTON) Indisponible
+Solaé, le rendez-vous protestant
+Aujourd'hui
+ •
+30 min
+  * Quartier de Karaköy (anciennement Galata) à Istanbul.
+Une escale arménienne : Bolis, avec Tigrane Yegavian
+(BUTTON) Indisponible
+Chrétiens d'Orient
+Aujourd'hui
+ •
+23 min
+  * La Création du monde, attribué à Melchior Bocksberger, vers 1530-1587
+(Palais Rohan - Musée des Beaux-Arts, Strasbourg)
+Le mythe de la Création
+(BUTTON) Indisponible
+Questions d'islam
+Aujourd'hui
+ •
+53 min
+  * Illustration du podcast "Les Voix de la Saint-Barthélémy"
+"Les Voix de la Saint-Barthélémy", une enquête sur le massacre tristement
+célèbre de 1572
+(BUTTON) Indisponible
+Les podcasts du week-end
+Aujourd'hui
+ •
+3 min
 
+(BUTTON)
+Dans l'actualité (BUTTON) Passer cette liste
+(BUTTON)
+  * Impression du Figaro, en 2020, dans l'imprimerie de Tremblay-en-France, près
+de Paris
+Le Figaro, 200 ans d'histoire
+(BUTTON) Indisponible
+Soft Power
+Aujourd'hui
+  * Journal de 18h
+JOURNAL DE 18H, émission du dimanche 04 janvier 2026
+(BUTTON) Indisponible
+Journal de 18h
+Aujourd'hui
+  * Des pompiers se sont rassemblés devant le mémorial de l'incendie de
+Crans-Montana, dimanche 4 janvier, après une messe d'hommage.
+Incendie à Crans-Montana : les pompiers salués lors d'une marche silencieuse et
+d'une messe bouleversantes
+(BUTTON) Indisponible
+L'info de France Inter
+13 janv.
+ •
+2 min
+  * Le président vénézuélien Nicolas Maduro escorté par des agents de la DEA à
+Lower Manhattan, New York, le 3 janvier 2026.
+Le président vénézuélien Nicolás Maduro incarcéré dans une prison fédérale de
+Brooklyn
+(BUTTON) Indisponible
+Journal de 12h30
+Aujourd'hui
+ •
+15 min
+  * Le secrétaire d'État Marco Rubio et le secrétaire à la Guerre Pete Hegseth
+écoutent Donald Trump lors d'une conférence de presse à Mar-a-Lago, le 3 janvier
+Donald Trump bombarde le Venezuela, Zohran Mamdani est investi maire de New York
+(BUTTON) Indisponible
+L'Esprit public
+Aujourd'hui
+ •
+59 min
+  * Laurent David, vigneron au Château d'Edmus, à Montagne près de Saint-Emilion
+Vignerons en réinvention - Une école pour décrocheurs
+(BUTTON) Indisponible
+Interception
+Aujourd'hui
+ •
+48 min
+
+(BUTTON)
+  * Accueil
+  * France Culture
+  * Podcasts
+  * L'Humeur du matin par Guillaume Erner
+  * Les nouveaux péchés selon le pape François
+
+La radio
+  * Contacter France Culture
+  * Newsletters
+  * Podcasts A-Z
+  * Espace presse
+  * Événements
+
+Catégories
+  * Histoire
+  * Géopolitique
+  * Fictions littéraires
+  * Sciences
+  * Politique
+  * Philosophie
+
+Personnes
+  * Simone Veil
+  * Edith Piaf
+  * Victor Hugo
+  * Martin Luther King
+  * Robert Badinter
+  * Albert Camus
+
+Suivre France Culture
   *
   *
-
-Français
-  * عربي
-  * Español
-  * Deutsch
-  * Français
-  * English
-  * Indonesia
-
-Fatwa
-
-  * Envoyez votre question
-
- 1. Fatwa
-
-  Criminologie et système judiciaire islamique
-
-(BUTTON) Recherche Fatwas (BUTTON) Envoyez votre question
-Recherche Fatwas
-____________________ [Le titre de la Fetwa]
-(BUTTON) Recherche
-
-Classification des péchés en péchés mineurs et péchés majeurs
-
-402412 22-8-2019
-  1637
-
-Question
-
-Assalâmou 'Aleykoum,Pouvez-vous me donner des exemples précis de péchés
-"mineurs"
-
-Réponse
-
-Louange à Allah et que la paix et la bénédiction soient sur Son Prophète et
-Messager, Mohammed, ainsi que sur sa famille et ses Compagnons :
-Il serait long dénumérer tous les péchés selon leur degré de gravité quils
-soient majeurs (Kabîra) ou mineur (Saghîra), mais nous allons vous donner le
-critère que les oulémas ont établi pour déterminer la catégorie à laquelle
-appartient chaque péché. En appliquant ce critère sur nimporte quel péché vous
-pouvez facilement savoir dans laquelle des deux catégories de péchés il faut le
-classer.
-Les oulémas considèrent comme péché capital tout péché pour lequel le Coran ou
-la Sunna prévoient un châtiment dans ce monde (Hadd); ou dont l'auteur est
-menacé de colère et de châtiment d'Allah dans l'au-delà; ou dont l'auteur a été
-maudit par Allah ou par notre Prophète (Salla Allahou alaihi wa Sallam). De ce
-critère nous pouvons déduire que le péché mineur est tout péché qui n'est pas
-passible de châtiment prescrit dans cette vie (Hadd) et dont l'auteur n'encourt
-pas de menace dans l'au-delà.
-La divergence entre les oulémas sur la classification dun certain nombre de
-péchés a pour origine leur divergence sur lauthenticité de la preuve (Dalîl) qui
-justifie quil appartient à la catégorie des péchés capitaux.
-Il est à noter que le musulman doit éviter tous les péchés quils soient mineurs
-ou majeurs. Car les péchés mineurs mènent souvent à commettre les péchés
-majeurs, si les péchés mineurs saccumulent ils mèneront leur auteur à sa perte
-et enfin un péché mineur peut se transformer en un péché majeur si son auteur
-minimise sa gravité ou le perpètre avec impénitence.
-Et Allah sait mieux
-
-Fatwas en relation
-
-Mise en garde contre le livre Dalâil al-Khayrât
-
-Respecter certaines règles concernant les différentes récitations du Coran
-
-Rajoute-t-on un ''ou'' à la fin de certains attributs ?
-
-Un mari peut-il refuser que sa femme fasse des formations religieuses ?
-
-Sexprimer au sujet dAllah (et de Sa religion) sans science
-
-Le degré de mérite entre létude de la jurisprudence et la méditation du Coran
-
-Le musulman du commun doit-il se référer à un savant en particulier et suivre
-ses avis juridiques ?
-
-Recherche Fatwas
-
-Vous pouvez rechercher une fatwa à travers de nombreux choix
-[Le titre de la Fetwa] ____________________
-Eg: "Quran Recitation"
-
-Le plus lu aujourdhui
-
-  * 14
- Donner des intérêts bancaires à une proche dans le besoin
-  * 13
- Validité des jours de jeûne dits jours blancs
-  * 11
- Visite des tombes et invocations à dire à cette occasion
-  * 9
- Les règles du rapport sexuel
-  * 8
- La masturbation annule le jeûne
-  * 7
- Saluer une personne occupée à manger
-  * 7
- Fêter les anniversaires
-  * 7
- Rêver de personnes décédées
-  * 7
- Souhaiter de bonnes fêtes aux non-musulmans
-  * 6
- Liquide pré-éjaculatoire et sperme
-  * 6
- Existe-t-il une quelconque preuve dans le Coran qu'il y a une vie sur Mars ?
-  * 6
- Dépenser tout son patrimoine ou en laisser une part pour les héritiers
-  * 6
- Quelle est la priorité : payer la zakat due ou rembourser un crédit usuraire ?
-  * 6
- Invocations qui peuvent aider à sortir dune situation difficile
-  * 5
- Quelles sont les prières que nous faisons en faveur du Prophète ?
-  * 5
- Le mouvement du soleil et sa rotation
-  * 5
- Comment se purifier après une sécrétion de Madhy ?
-  * 5
- Chaque nuit il y a une heure durant laquelle Allah exauce
-  * 5
- Il est interdit daffirmer quune personne en particulier ira en Enfer
-  * 5
- Sa femme a eu ses règles au cours de leur rapport sexuel
-  * 5
- Début et fin du temps imparti de la prière de Douha
-  * 5
- Rattraper vingt ans de Ramadan non jeûné
-  * 5
- Lire la Basmala avant la lecture de sourate Al-Tawba
-  * 5
- La récompense du jeûne des trois jours par mois s'obtient en les jeûnant à
-n'importe quel moment du mois
-  * 5
- Que désigne le "Sâmirî" dans le Coran ?
-  * 5
- La roqya légale
-  * 4
- La FIV et les embryons congelés
-  * 4
- Donner une partie de la zakat à son enfant
-  * 4
- La mort, lagonie et...
-  * 4
- Compléter sa prière lorsque lon arrive en retard
-  * 4
- La prière d'Al-Fadjr et celle d'As-Sobh.
-  * 4
- Les signes et symptômes de celui qui est victime de lenvie et de celui qui est
-touché par le mauvais il ainsi que la manière de soigner ces maux.
-  * 4
- Lessuyage des oreilles au cours des ablutions
-  * 4
- Hadiths et invocations relatifs au bâillement et à léternuement
-  * 4
- La femme qui sest purifiée de son état de menstrues après la Salat de l`Asr
-  * 4
- La masturbation nécessite le Ghousl
-  * 4
- Explication du verset : « Des fruits, des palmiers et des vignes, vous retirez
-une boisson enivrante [...] »
-  * 4
- Détails relatifs au Sujûd al-Sahw (prosternation de loubli)
-  * 4
- Sens voulu de la lumière qui apparaît lors de la lecture de la Sourate Al-Kahf
-le vendredi ou la veille du vendredi
-  * 4
- Prière du Chourouq et mari pratiquant la double religion
-  * 4
- Quelle est la meilleure manière de me débarrasser des intérêts usuraires ?
-  * 4
- Rattrapage des prières manquées
-  * 4
- Prière du voyageur
-  * 4
- Le Wali est une exigence pour la légitimité du mariage.
-  * 4
- Histoire des dépôts dans la jurisprudence islamique ?
-  * 4
- Il est permis de tuer toute bête nuisible
-  * 4
- Qu'en est-il des trois Rois Mages ?
-  * 4
- Gog et Magog, Yadjoudj wa Madjoudj
-  * 4
- Quelle est la signification du verset « frappez-les »
-  * 4
- La condition de validité d'un jeûne surérogatoire dont l'intention est émise
-durant la journée est de ne pas avoir mangé quoique ce soit avant.
-
-Islamweb
-
-  * Articles
-  * Fatwas
-  * E-Books
-  * Qui sommes-nous?
-
-Multimédia
-
-  * Coran Récitations
-  * Adhan
-  * Conférences
-
-Other Links
-
-  * Prayer Times
-
-Accord de service
-
-© 2008-2026,IslamWeb,Tous droits réservés.
-Français
-  * English
-  * عربي
-  * Español
-  * Deutsch
-  * Français
-  * Indonesia
-
+  *
+  *
+  *
   *
   *
 
-  * English
-  * عربي
-  * Español
-  * Deutsch
-  * Français
-  * Indonesia
+  * Radio France, aller à la page d'accueil
 
-  *
-  *
+Toutes les radios
+  * France Inter
+  * franceinfo
+  * ICI
+  * France Culture
+  * Mon petit France Inter
+  * France Musique
+  * Fip
+  * Mouv'
 
-© 2008-2026,IslamWeb,Tous droits réservés.
+Radio France
+  * La Maison de la Radio et de la Musique
+  * L'entreprise Radio France
+  * Les Editions Radio France
+  * Personnalités
+  * Sujets
+  * Archives
+  * Fréquences
+  * Index
+  * Flux RSS
+
+Aide et contacts
+  * Nous contacter
+  * Comment écouter Radio France
+  * Questions fréquentes (FAQ)
+  * La Médiatrice
+  * Votre avis sur le site
+
+Informations légales
+  * Accessibilité : partiellement conforme
+  * Gestion des cookies
+  * Mentions légales
+
+Télécharger l'application mobile
+  * L'application Radio France est disponible sur Google Play
+  * Télécharger l'application Radio France dans l'App Store

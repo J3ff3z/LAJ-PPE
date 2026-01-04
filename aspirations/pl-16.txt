@@ -1,18 +1,18 @@
 HTTP/1.1 200 OK
-Date: Sat, 03 Jan 2026 16:47:16 GMT
+Date: Sun, 04 Jan 2026 17:28:40 GMT
 Content-Type: text/html
 Transfer-Encoding: chunked
 Connection: keep-alive
 Server: cloudflare
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
 Vary: Accept-Encoding
-Set-Cookie: PHPSESSID=3etcj9ejas6fhp1avlalgsp9n5; path=/
+Set-Cookie: PHPSESSID=fkoe8mig9vc5sbocitticmsir0; path=/
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3Bfa7Bc8Yzy7jze8jr4MC2IHvWkDv108Psciz%2Bgo%2FUHcAhefViZrjouf3b6WWB8YjFcVEFrFgSy9trAoMAmsvbjn6nxDNAT5wVqkwajsqwZVyEiIL%2Fac8OoaZuwTDWwlsFff"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kQGkPwmeHDb7dUlTJzgCIWCXchP%2BHUO%2Fbq%2FlX%2BAQ8oO4finPVJzkDMCHtO4Tx0VAsFiYKUtra%2FTWrY10tURLdI8Ea3DXZDIdeFUtYJM0DzC2mAGIm3%2B8VMCuOJiXE7VGOl9htwY%3D"}]}
 cf-cache-status: DYNAMIC
-CF-RAY: 9b83fa192a42041a-CDG
+CF-RAY: 9b8c74227887f82e-CDG
 alt-svc: h3=":443"; ma=86400
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
@@ -145,7 +145,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<ul class="Comments">
 					<li><p class="data">2012-04-13 13:17:29</p>Te¿ wolê Narniê<br /><em>- Krzysiek -</em></li><li><p class="data">2012-04-13 13:35:40</p>Tolkien stworzy³ moj± ulubion± ksi±¿kê. Raczej ten, kto j± czyta nie jest na ni± za m³ody, bo dzieci raczej nie wytrzymaj± jej przeczytaæ:D<br />
 <br />
-Gratulujê czytelniczego trybu ¿ycia<br /><em>- Hubbaser -</em></li><li><p class="data">2012-04-15 17:35:00</p>Piszesz ksi±¿kê? Mo¿esz podzieliæ siê fragmentami, chêtnie przeczytam. Te¿ jestem fanem fantasy. Napisz na mojego email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="422937202372727a02322d213836236c242f">[email&#160;protected]</a><br /><em>- Kuba -</em></li><li><p class="data">2013-03-11 13:20:12</p>Ja podobnie jak autor by³em zafascynowany fantastyk± tylko Polsk± w moim przypadku by³ to Sapkowski i trylogia Husycka.<br />
+Gratulujê czytelniczego trybu ¿ycia<br /><em>- Hubbaser -</em></li><li><p class="data">2012-04-15 17:35:00</p>Piszesz ksi±¿kê? Mo¿esz podzieliæ siê fragmentami, chêtnie przeczytam. Te¿ jestem fanem fantasy. Napisz na mojego email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7f140a1d1e4f4f473f0f101c050b1e511912">[email&#160;protected]</a><br /><em>- Kuba -</em></li><li><p class="data">2013-03-11 13:20:12</p>Ja podobnie jak autor by³em zafascynowany fantastyk± tylko Polsk± w moim przypadku by³ to Sapkowski i trylogia Husycka.<br />
 Od jakiego¶ czasu chodzi mi pog³owie napisanie podobnej ksi±¿ki. Z pozycji Katolika Sapkowski powiedzmy nie przybli¿a do Boga ,a ja jednak chcia³ bym napisaæ co¶ ,,buduj±cego i daj±cego dobry mora³ ,, i teraz pytanie Jak pogodziæ wymy¶lony fantastyczny ¶wiat w którym jest magia z nasz± wiar± i nauk± ko¶cio³a ? Czy takie po³±czenie jest wogólê mo¿liwe ? <br /><em>- maksymilian -</em></li><li><p class="data">2013-03-11 19:38:15</p>Ale extra, ¿e piszesz bardzo mi siê to podoba :) bo serio uwielbiam jak ludzie s± aktywni w wolnym czasie w taki pozytywnie zakrêcony sposób. Te¿ jestem fank± Tolkiena i Opowie¶ci z Narnii te¿ lubiê- ogólnie fantasy :)  Pozdrówka dla wszystkich fanów Lewisa bo ma³o znam ludzi, którzy przeczytali wszystkie czê¶ci Narnii. <br /><em>- D. -</em></li>
 					</ul>
 					</div>
@@ -164,7 +164,7 @@ Od jakiego¶ czasu chodzi mi pog³owie napisanie podobnej ksi±¿ki. Z pozycji Katol
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td class="small"><img src="https://rozmawiamy.jezuici.pl/inc/sc/securimage_show2.php?id=5771&amp;sid=dc64d9a7e423d7570d96dfe7a6efd00f" id="siimage_5771"> <a href="#" onclick="document.getElementById('siimage_5771').src = 'https://rozmawiamy.jezuici.pl/inc/sc/securimage_show2.php?id=5771&amp;sid=' + Math.random(); return false">od¶wie¿ obrazek</a></td>
+<td class="small"><img src="https://rozmawiamy.jezuici.pl/inc/sc/securimage_show2.php?id=5771&amp;sid=e1a7dbd8c92959e0789490f90c05dc9c" id="siimage_5771"> <a href="#" onclick="document.getElementById('siimage_5771').src = 'https://rozmawiamy.jezuici.pl/inc/sc/securimage_show2.php?id=5771&amp;sid=' + Math.random(); return false">od¶wie¿ obrazek</a></td>
 </tr>
 <tr>
 <td>*Wpisz kod:</td>
@@ -206,7 +206,7 @@ Od jakiego¶ czasu chodzi mi pog³owie napisanie podobnej ksi±¿ki. Z pozycji Katol
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td class="small"><img src="https://rozmawiamy.jezuici.pl/inc/sc/securimage_show.php?sid=f94fedb324a497d71c75edef626a9388" id="image"> <a href="#" onclick="document.getElementById('image').src = 'https://rozmawiamy.jezuici.pl/inc/sc/securimage_show.php?sid=' + Math.random(); return false">od¶wie¿ obrazek</a></td>
+<td class="small"><img src="https://rozmawiamy.jezuici.pl/inc/sc/securimage_show.php?sid=f75b0efa3ad4744135cf01858eedfcd4" id="image"> <a href="#" onclick="document.getElementById('image').src = 'https://rozmawiamy.jezuici.pl/inc/sc/securimage_show.php?sid=' + Math.random(); return false">od¶wie¿ obrazek</a></td>
 </tr>
 <tr>
 <td>*Wpisz kod:</td>

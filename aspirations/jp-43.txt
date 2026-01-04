@@ -1,5 +1,5 @@
 HTTP/1.1 200 OK
-Date: Sat, 03 Jan 2026 16:42:45 GMT
+Date: Sun, 04 Jan 2026 17:23:14 GMT
 Server: Apache/2.4.41 (Ubuntu)
 Vary: Accept-Encoding,Cookie
 Cache-Control: max-age=3, must-revalidate
@@ -119,7 +119,7 @@ Content-Type: text/html; charset=UTF-8
 
 	<meta name='robots' content='max-image-preview:large' />
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
-	<script type="text/javascript" id="wpp-js" src="https://mag.japaaan.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.3" data-sampling="1" data-sampling-rate="100" data-api-url="https://mag.japaaan.com/wp-json/wordpress-popular-posts" data-post-id="82737" data-token="fbf5ea075a" data-lang="0" data-debug="0"></script>
+	<script type="text/javascript" id="wpp-js" src="https://mag.japaaan.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.3" data-sampling="1" data-sampling-rate="100" data-api-url="https://mag.japaaan.com/wp-json/wordpress-popular-posts" data-post-id="82737" data-token="3c0ffb52a5" data-lang="0" data-debug="0"></script>
 <style id='classic-theme-styles-inline-css' type='text/css'>
 /*! This file is auto-generated */
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
@@ -585,17 +585,17 @@ Content-Type: text/html; charset=UTF-8
 </article>
 
 <article class="">
-	<b class="rank">2</b>	<a href="https://mag.japaaan.com/archives/264575" title="なんと400語以上あると言われる日本語の「雨の呼び名」情緒あふれる素敵な呼称を一挙ご紹介！" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2025/12/amenoyobina-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2025/12/amenoyobina-200x121.jpg" alt="なんと400語以上あると言われる日本語の「雨の呼び名」情緒あふれる素敵な呼称を一挙ご紹介！"></a>
+	<b class="rank">2</b>	<a href="https://mag.japaaan.com/archives/264687" title="なぜ伊勢神宮が「日本人の総氏神」と称され別格扱いされるのか？——神社と神様の素朴な疑問【前編】" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2026/01/d375603d3abf1b8d6ee708be1650581c-scaled-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2026/01/d375603d3abf1b8d6ee708be1650581c-scaled-200x121.jpg" alt="なぜ伊勢神宮が「日本人の総氏神」と称され別格扱いされるのか？——神社と神様の素朴な疑問【前編】"></a>
 	<div>
-	<h2><a href="https://mag.japaaan.com/archives/264575" title="なんと400語以上あると言われる日本語の「雨の呼び名」情緒あふれる素敵な呼称を一挙ご紹介！">なんと400語以上あると言われる日本語の「雨の呼び名」情緒あふれる素敵な呼称を一挙ご紹介！</a></h2>
+	<h2><a href="https://mag.japaaan.com/archives/264687" title="なぜ伊勢神宮が「日本人の総氏神」と称され別格扱いされるのか？——神社と神様の素朴な疑問【前編】">なぜ伊勢神宮が「日本人の総氏神」と称され別格扱いされるのか？——神社と神様の素朴な疑問【前編】</a></h2>
 	<span class="cat"><a href="https://mag.japaaan.com/" title=""></a></span>
 	</div>
 </article>
 
 <article class="">
-	<b class="rank">3</b>	<a href="https://mag.japaaan.com/archives/264687" title="なぜ伊勢神宮が「日本人の総氏神」と称され別格扱いされるのか？——神社と神様の素朴な疑問【前編】" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2026/01/d375603d3abf1b8d6ee708be1650581c-scaled-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2026/01/d375603d3abf1b8d6ee708be1650581c-scaled-200x121.jpg" alt="なぜ伊勢神宮が「日本人の総氏神」と称され別格扱いされるのか？——神社と神様の素朴な疑問【前編】"></a>
+	<b class="rank">3</b>	<a href="https://mag.japaaan.com/archives/264575" title="なんと400語以上あると言われる日本語の「雨の呼び名」情緒あふれる素敵な呼称を一挙ご紹介！" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2025/12/amenoyobina-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2025/12/amenoyobina-200x121.jpg" alt="なんと400語以上あると言われる日本語の「雨の呼び名」情緒あふれる素敵な呼称を一挙ご紹介！"></a>
 	<div>
-	<h2><a href="https://mag.japaaan.com/archives/264687" title="なぜ伊勢神宮が「日本人の総氏神」と称され別格扱いされるのか？——神社と神様の素朴な疑問【前編】">なぜ伊勢神宮が「日本人の総氏神」と称され別格扱いされるのか？——神社と神様の素朴な疑問【前編】</a></h2>
+	<h2><a href="https://mag.japaaan.com/archives/264575" title="なんと400語以上あると言われる日本語の「雨の呼び名」情緒あふれる素敵な呼称を一挙ご紹介！">なんと400語以上あると言われる日本語の「雨の呼び名」情緒あふれる素敵な呼称を一挙ご紹介！</a></h2>
 	<span class="cat"><a href="https://mag.japaaan.com/" title=""></a></span>
 	</div>
 </article>
@@ -609,17 +609,17 @@ Content-Type: text/html; charset=UTF-8
 </article>
 
 <article class="">
-	<b class="rank">5</b>	<a href="https://mag.japaaan.com/archives/264599" title="初詣は神社の選び方が大切！“願掛け”をしていい神社とダメな神社の重要な見分け方とは？" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2025/12/c26d34ea0155033e36d2ab9dc9d019fb-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2025/12/c26d34ea0155033e36d2ab9dc9d019fb-200x121.jpg" alt="初詣は神社の選び方が大切！“願掛け”をしていい神社とダメな神社の重要な見分け方とは？"></a>
+	<b class="rank">5</b>	<a href="https://mag.japaaan.com/archives/264782" title="2026年はなんと60年に一度の「丙午」年！謎の迷信“丙午生まれの女は男を喰う”が人生を狂わせた実例" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2026/01/4054a821f00c38d14191b8d363411f6e-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2026/01/4054a821f00c38d14191b8d363411f6e-200x121.jpg" alt="2026年はなんと60年に一度の「丙午」年！謎の迷信“丙午生まれの女は男を喰う”が人生を狂わせた実例"></a>
 	<div>
-	<h2><a href="https://mag.japaaan.com/archives/264599" title="初詣は神社の選び方が大切！“願掛け”をしていい神社とダメな神社の重要な見分け方とは？">初詣は神社の選び方が大切！“願掛け”をしていい神社とダメな神社の重要な見分け方とは？</a></h2>
+	<h2><a href="https://mag.japaaan.com/archives/264782" title="2026年はなんと60年に一度の「丙午」年！謎の迷信“丙午生まれの女は男を喰う”が人生を狂わせた実例">2026年はなんと60年に一度の「丙午」年！謎の迷信“丙午生まれの女は男を喰う”が人生を狂わせた実例</a></h2>
 	<span class="cat"><a href="https://mag.japaaan.com/" title=""></a></span>
 	</div>
 </article>
 
 <article class="">
-	<b class="rank">6</b>	<a href="https://mag.japaaan.com/archives/264782" title="2026年はなんと60年に一度の「丙午」年！謎の迷信“丙午生まれの女は男を喰う”が人生を狂わせた実例" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2026/01/4054a821f00c38d14191b8d363411f6e-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2026/01/4054a821f00c38d14191b8d363411f6e-200x121.jpg" alt="2026年はなんと60年に一度の「丙午」年！謎の迷信“丙午生まれの女は男を喰う”が人生を狂わせた実例"></a>
+	<b class="rank">6</b>	<a href="https://mag.japaaan.com/archives/264599" title="初詣は神社の選び方が大切！“願掛け”をしていい神社とダメな神社の重要な見分け方とは？" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2025/12/c26d34ea0155033e36d2ab9dc9d019fb-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2025/12/c26d34ea0155033e36d2ab9dc9d019fb-200x121.jpg" alt="初詣は神社の選び方が大切！“願掛け”をしていい神社とダメな神社の重要な見分け方とは？"></a>
 	<div>
-	<h2><a href="https://mag.japaaan.com/archives/264782" title="2026年はなんと60年に一度の「丙午」年！謎の迷信“丙午生まれの女は男を喰う”が人生を狂わせた実例">2026年はなんと60年に一度の「丙午」年！謎の迷信“丙午生まれの女は男を喰う”が人生を狂わせた実例</a></h2>
+	<h2><a href="https://mag.japaaan.com/archives/264599" title="初詣は神社の選び方が大切！“願掛け”をしていい神社とダメな神社の重要な見分け方とは？">初詣は神社の選び方が大切！“願掛け”をしていい神社とダメな神社の重要な見分け方とは？</a></h2>
 	<span class="cat"><a href="https://mag.japaaan.com/" title=""></a></span>
 	</div>
 </article>
@@ -633,9 +633,9 @@ Content-Type: text/html; charset=UTF-8
 </article>
 
 <article class="rank_bottom no8">
-	<b class="rank">8</b>	<a href="https://mag.japaaan.com/archives/264393" title="お釈迦さま（ブッダ）の死因は食中毒だった──生命を落とした原因「スーカラ・マッタヴァ」の謎に迫る！" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2025/12/a4184c07f7b4f142d145afa78c8260f4-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2025/12/a4184c07f7b4f142d145afa78c8260f4-200x121.jpg" alt="お釈迦さま（ブッダ）の死因は食中毒だった──生命を落とした原因「スーカラ・マッタヴァ」の謎に迫る！"></a>
+	<b class="rank">8</b>	<a href="https://mag.japaaan.com/archives/264694" title="誰がなぜ伊勢神宮を「日本人の総氏神」と称し別格扱いし始めたのか？——神社と神様の素朴な疑問【後編】" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2026/01/AdobeStock_728467151-2-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2026/01/AdobeStock_728467151-2-200x121.jpg" alt="誰がなぜ伊勢神宮を「日本人の総氏神」と称し別格扱いし始めたのか？——神社と神様の素朴な疑問【後編】"></a>
 	<div>
-	<h2><a href="https://mag.japaaan.com/archives/264393" title="お釈迦さま（ブッダ）の死因は食中毒だった──生命を落とした原因「スーカラ・マッタヴァ」の謎に迫る！">お釈迦さま（ブッダ）の死因は食中毒だった──生命を落とした原因「スーカラ・マッタヴァ」の謎に迫る！</a></h2>
+	<h2><a href="https://mag.japaaan.com/archives/264694" title="誰がなぜ伊勢神宮を「日本人の総氏神」と称し別格扱いし始めたのか？——神社と神様の素朴な疑問【後編】">誰がなぜ伊勢神宮を「日本人の総氏神」と称し別格扱いし始めたのか？——神社と神様の素朴な疑問【後編】</a></h2>
 	<span class="cat"><a href="https://mag.japaaan.com/" title=""></a></span>
 	</div>
 </article>
@@ -649,9 +649,9 @@ Content-Type: text/html; charset=UTF-8
 </article>
 
 <article class="rank_bottom no10">
-	<b class="rank">10</b>	<a href="https://mag.japaaan.com/archives/264694" title="誰がなぜ伊勢神宮を「日本人の総氏神」と称し別格扱いし始めたのか？——神社と神様の素朴な疑問【後編】" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2026/01/AdobeStock_728467151-2-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2026/01/AdobeStock_728467151-2-200x121.jpg" alt="誰がなぜ伊勢神宮を「日本人の総氏神」と称し別格扱いし始めたのか？——神社と神様の素朴な疑問【後編】"></a>
+	<b class="rank">10</b>	<a href="https://mag.japaaan.com/archives/263090" title="世界で「キリン」と呼ぶのは日本だけ！聖獣“麒麟”扱いされたのはなんと政治的な演出だった！？" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2026/01/kirin-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2026/01/kirin-200x121.jpg" alt="世界で「キリン」と呼ぶのは日本だけ！聖獣“麒麟”扱いされたのはなんと政治的な演出だった！？"></a>
 	<div>
-	<h2><a href="https://mag.japaaan.com/archives/264694" title="誰がなぜ伊勢神宮を「日本人の総氏神」と称し別格扱いし始めたのか？——神社と神様の素朴な疑問【後編】">誰がなぜ伊勢神宮を「日本人の総氏神」と称し別格扱いし始めたのか？——神社と神様の素朴な疑問【後編】</a></h2>
+	<h2><a href="https://mag.japaaan.com/archives/263090" title="世界で「キリン」と呼ぶのは日本だけ！聖獣“麒麟”扱いされたのはなんと政治的な演出だった！？">世界で「キリン」と呼ぶのは日本だけ！聖獣“麒麟”扱いされたのはなんと政治的な演出だった！？</a></h2>
 	<span class="cat"><a href="https://mag.japaaan.com/" title=""></a></span>
 	</div>
 </article>
@@ -673,33 +673,33 @@ Content-Type: text/html; charset=UTF-8
 </article>
 
 <article class="rank_bottom no13">
-	<b class="rank">13</b>	<a href="https://mag.japaaan.com/archives/264529" title="信玄餅だけじゃない！戦国大名・武田信玄の名を冠するグルメが想像以上に多かった" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2025/12/5163e9da853f1118f43c8fe902b6112a-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2025/12/5163e9da853f1118f43c8fe902b6112a-200x121.jpg" alt="信玄餅だけじゃない！戦国大名・武田信玄の名を冠するグルメが想像以上に多かった"></a>
+	<b class="rank">13</b>	<a href="https://mag.japaaan.com/archives/264805" title="1月4日放送、大河【豊臣兄弟！】超予習まとめ＆相関図——秀長の生涯、正室・側室、重要な家臣たち" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2026/01/imgi_124_P52L88MYXY-eyecatch_90366df12a3901993c40d9f6328a7dd5-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2026/01/imgi_124_P52L88MYXY-eyecatch_90366df12a3901993c40d9f6328a7dd5-200x121.jpg" alt="1月4日放送、大河【豊臣兄弟！】超予習まとめ＆相関図——秀長の生涯、正室・側室、重要な家臣たち"></a>
+	<div>
+	<h2><a href="https://mag.japaaan.com/archives/264805" title="1月4日放送、大河【豊臣兄弟！】超予習まとめ＆相関図——秀長の生涯、正室・側室、重要な家臣たち">1月4日放送、大河【豊臣兄弟！】超予習まとめ＆相関図——秀長の生涯、正室・側室、重要な家臣たち</a></h2>
+	<span class="cat"><a href="https://mag.japaaan.com/" title=""></a></span>
+	</div>
+</article>
+
+<article class="rank_bottom no14">
+	<b class="rank">14</b>	<a href="https://mag.japaaan.com/archives/264529" title="信玄餅だけじゃない！戦国大名・武田信玄の名を冠するグルメが想像以上に多かった" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2025/12/5163e9da853f1118f43c8fe902b6112a-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2025/12/5163e9da853f1118f43c8fe902b6112a-200x121.jpg" alt="信玄餅だけじゃない！戦国大名・武田信玄の名を冠するグルメが想像以上に多かった"></a>
 	<div>
 	<h2><a href="https://mag.japaaan.com/archives/264529" title="信玄餅だけじゃない！戦国大名・武田信玄の名を冠するグルメが想像以上に多かった">信玄餅だけじゃない！戦国大名・武田信玄の名を冠するグルメが想像以上に多かった</a></h2>
 	<span class="cat"><a href="https://mag.japaaan.com/" title=""></a></span>
 	</div>
 </article>
 
-<article class="rank_bottom no14">
-	<b class="rank">14</b>	<a href="https://mag.japaaan.com/archives/263820" title="迷った時はこう覚える！雨の擬態語「ぽつぽつ・ぱらぱら・しとしと・ざあざあ」の使い分けを解説" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2025/12/1280px-Tokaido45_Shono-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2025/12/1280px-Tokaido45_Shono-200x121.jpg" alt="迷った時はこう覚える！雨の擬態語「ぽつぽつ・ぱらぱら・しとしと・ざあざあ」の使い分けを解説"></a>
+<article class="rank_bottom no15">
+	<b class="rank">15</b>	<a href="https://mag.japaaan.com/archives/263820" title="迷った時はこう覚える！雨の擬態語「ぽつぽつ・ぱらぱら・しとしと・ざあざあ」の使い分けを解説" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2025/12/1280px-Tokaido45_Shono-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2025/12/1280px-Tokaido45_Shono-200x121.jpg" alt="迷った時はこう覚える！雨の擬態語「ぽつぽつ・ぱらぱら・しとしと・ざあざあ」の使い分けを解説"></a>
 	<div>
 	<h2><a href="https://mag.japaaan.com/archives/263820" title="迷った時はこう覚える！雨の擬態語「ぽつぽつ・ぱらぱら・しとしと・ざあざあ」の使い分けを解説">迷った時はこう覚える！雨の擬態語「ぽつぽつ・ぱらぱら・しとしと・ざあざあ」の使い分けを解説</a></h2>
 	<span class="cat"><a href="https://mag.japaaan.com/" title=""></a></span>
 	</div>
 </article>
 
-<article class="rank_bottom no15">
-	<b class="rank">15</b>	<a href="https://mag.japaaan.com/archives/264620" title="『べらぼう』総集編を振り返り！死の間際まで書を以て世を耕しエンタメを次世代にバトンタッチ【蔦屋重三郎・後編】" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2025/12/8c4032c31d98dc8198e17deda4f0bdfd-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2025/12/8c4032c31d98dc8198e17deda4f0bdfd-200x121.jpg" alt="『べらぼう』総集編を振り返り！死の間際まで書を以て世を耕しエンタメを次世代にバトンタッチ【蔦屋重三郎・後編】"></a>
+<article class="rank_bottom no16">
+	<b class="rank">16</b>	<a href="https://mag.japaaan.com/archives/264620" title="『べらぼう』総集編を振り返り！死の間際まで書を以て世を耕しエンタメを次世代にバトンタッチ【蔦屋重三郎・後編】" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2025/12/8c4032c31d98dc8198e17deda4f0bdfd-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2025/12/8c4032c31d98dc8198e17deda4f0bdfd-200x121.jpg" alt="『べらぼう』総集編を振り返り！死の間際まで書を以て世を耕しエンタメを次世代にバトンタッチ【蔦屋重三郎・後編】"></a>
 	<div>
 	<h2><a href="https://mag.japaaan.com/archives/264620" title="『べらぼう』総集編を振り返り！死の間際まで書を以て世を耕しエンタメを次世代にバトンタッチ【蔦屋重三郎・後編】">『べらぼう』総集編を振り返り！死の間際まで書を以て世を耕しエンタメを次世代にバトンタッチ【蔦屋重三郎・後編】</a></h2>
-	<span class="cat"><a href="https://mag.japaaan.com/" title=""></a></span>
-	</div>
-</article>
-
-<article class="rank_bottom no16">
-	<b class="rank">16</b>	<a href="https://mag.japaaan.com/archives/264667" title="初詣はまず氏神様から…世界最大級の宗教行事「初詣」現代スタイルは鉄道会社が広めた？" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2026/01/ca2186a3c0ba9aefc1eb72a1c37b2307-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2026/01/ca2186a3c0ba9aefc1eb72a1c37b2307-200x121.jpg" alt="初詣はまず氏神様から…世界最大級の宗教行事「初詣」現代スタイルは鉄道会社が広めた？"></a>
-	<div>
-	<h2><a href="https://mag.japaaan.com/archives/264667" title="初詣はまず氏神様から…世界最大級の宗教行事「初詣」現代スタイルは鉄道会社が広めた？">初詣はまず氏神様から…世界最大級の宗教行事「初詣」現代スタイルは鉄道会社が広めた？</a></h2>
 	<span class="cat"><a href="https://mag.japaaan.com/" title=""></a></span>
 	</div>
 </article>
@@ -713,17 +713,25 @@ Content-Type: text/html; charset=UTF-8
 </article>
 
 <article class="rank_bottom no18">
-	<b class="rank">18</b>	<a href="https://mag.japaaan.com/archives/263090" title="世界で「キリン」と呼ぶのは日本だけ！聖獣“麒麟”扱いされたのはなんと政治的な演出だった！？" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2026/01/kirin-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2026/01/kirin-200x121.jpg" alt="世界で「キリン」と呼ぶのは日本だけ！聖獣“麒麟”扱いされたのはなんと政治的な演出だった！？"></a>
+	<b class="rank">18</b>	<a href="https://mag.japaaan.com/archives/264730" title="幕末のペリー黒船来航の本当の狙い…アメリカは日本の「３つの港」を中継地にしたかった！" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2026/01/75786575d6750166dc34779747a0ea75-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2026/01/75786575d6750166dc34779747a0ea75-200x121.jpg" alt="幕末のペリー黒船来航の本当の狙い…アメリカは日本の「３つの港」を中継地にしたかった！"></a>
 	<div>
-	<h2><a href="https://mag.japaaan.com/archives/263090" title="世界で「キリン」と呼ぶのは日本だけ！聖獣“麒麟”扱いされたのはなんと政治的な演出だった！？">世界で「キリン」と呼ぶのは日本だけ！聖獣“麒麟”扱いされたのはなんと政治的な演出だった！？</a></h2>
+	<h2><a href="https://mag.japaaan.com/archives/264730" title="幕末のペリー黒船来航の本当の狙い…アメリカは日本の「３つの港」を中継地にしたかった！">幕末のペリー黒船来航の本当の狙い…アメリカは日本の「３つの港」を中継地にしたかった！</a></h2>
 	<span class="cat"><a href="https://mag.japaaan.com/" title=""></a></span>
 	</div>
 </article>
 
 <article class="rank_bottom no19">
-	<b class="rank">19</b>	<a href="https://mag.japaaan.com/archives/264805" title="1月4日放送、大河【豊臣兄弟！】超予習まとめ＆相関図——秀長の生涯、正室・側室、重要な家臣たち" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2026/01/imgi_124_P52L88MYXY-eyecatch_90366df12a3901993c40d9f6328a7dd5-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2026/01/imgi_124_P52L88MYXY-eyecatch_90366df12a3901993c40d9f6328a7dd5-200x121.jpg" alt="1月4日放送、大河【豊臣兄弟！】超予習まとめ＆相関図——秀長の生涯、正室・側室、重要な家臣たち"></a>
+	<b class="rank">19</b>	<a href="https://mag.japaaan.com/archives/264855" title="“午年”だからこそ必ず初詣で行きたい！神様が騎乗する馬『御神馬』が見られる神社９選" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2026/01/24363672_s-2-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2026/01/24363672_s-2-200x121.jpg" alt="“午年”だからこそ必ず初詣で行きたい！神様が騎乗する馬『御神馬』が見られる神社９選"></a>
 	<div>
-	<h2><a href="https://mag.japaaan.com/archives/264805" title="1月4日放送、大河【豊臣兄弟！】超予習まとめ＆相関図——秀長の生涯、正室・側室、重要な家臣たち">1月4日放送、大河【豊臣兄弟！】超予習まとめ＆相関図——秀長の生涯、正室・側室、重要な家臣たち</a></h2>
+	<h2><a href="https://mag.japaaan.com/archives/264855" title="“午年”だからこそ必ず初詣で行きたい！神様が騎乗する馬『御神馬』が見られる神社９選">“午年”だからこそ必ず初詣で行きたい！神様が騎乗する馬『御神馬』が見られる神社９選</a></h2>
+	<span class="cat"><a href="https://mag.japaaan.com/" title=""></a></span>
+	</div>
+</article>
+
+<article class="rank_bottom no20">
+	<b class="rank">20</b>	<a href="https://mag.japaaan.com/archives/264667" title="初詣はまず氏神様から…世界最大級の宗教行事「初詣」現代スタイルは鉄道会社が広めた？" class="thumb"><img loading="lazy" width="200" height="121" src="https://mag.japaaan.com/wp-content/uploads/2026/01/ca2186a3c0ba9aefc1eb72a1c37b2307-200x121.jpg" data-src_="https://mag.japaaan.com/wp-content/uploads/2026/01/ca2186a3c0ba9aefc1eb72a1c37b2307-200x121.jpg" alt="初詣はまず氏神様から…世界最大級の宗教行事「初詣」現代スタイルは鉄道会社が広めた？"></a>
+	<div>
+	<h2><a href="https://mag.japaaan.com/archives/264667" title="初詣はまず氏神様から…世界最大級の宗教行事「初詣」現代スタイルは鉄道会社が広めた？">初詣はまず氏神様から…世界最大級の宗教行事「初詣」現代スタイルは鉄道会社が広めた？</a></h2>
 	<span class="cat"><a href="https://mag.japaaan.com/" title=""></a></span>
 	</div>
 </article>
@@ -1000,7 +1008,7 @@ Content-Type: text/html; charset=UTF-8
 </script>
 <script type="text/javascript" id="wp-postviews-cache-js-extra">
 /* <![CDATA[ */
-var viewsCacheL10n = {"admin_ajax_url":"https:\/\/mag.japaaan.com\/wp-admin\/admin-ajax.php","nonce":"4c44d993b1","post_id":"82737"};
+var viewsCacheL10n = {"admin_ajax_url":"https:\/\/mag.japaaan.com\/wp-admin\/admin-ajax.php","nonce":"1413abfd6c","post_id":"82737"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://mag.japaaan.com/wp-content/plugins/wp-postviews/postviews-cache.js?ver=1.77" id="wp-postviews-cache-js"></script>
@@ -1022,7 +1030,7 @@ var viewsCacheL10n = {"admin_ajax_url":"https:\/\/mag.japaaan.com\/wp-admin\/adm
 	
 </body>
 </html>
-<!-- Dynamic page generated in 0.147 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2026-01-04 01:32:48 -->
+<!-- Dynamic page generated in 0.121 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2026-01-05 02:12:24 -->
 
 <!-- super cache -->

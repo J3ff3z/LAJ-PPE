@@ -1,7 +1,7 @@
 HTTP/2 200 cache-control: public, max-age=3600, s-maxage=3600 expires: Wed, 11
 Jan 1984 05:00:00 GMT content-type: text/html; charset=UTF-8 vary:
 Accept-Encoding,User-Agent last-modified: Mon, 29 Dec 2025 10:25:38 GMT
-content-length: 169654 date: Sat, 03 Jan 2026 16:47:50 GMT server: LiteSpeed
+content-length: 169654 date: Sun, 04 Jan 2026 17:29:23 GMT server: LiteSpeed
 alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443";
 ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443";
 ma=2592000; v="43,46" #Legolas » Kanał z wpisami Legolas » Kanał z komentarzami

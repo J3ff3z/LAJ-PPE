@@ -1,4 +1,4 @@
-HTTP/2 200 server: nginx date: Sat, 03 Jan 2026 16:47:27 GMT content-type:
+HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 17:28:54 GMT content-type:
 text/html; charset=utf-8 vary: Accept-Encoding cache-control: no-cache,
 no-store, must-revalidate content-security-policy: report-uri /v1/csplog;
 block-all-mixed-content; frame-ancestors https://*.grupawp.pl
@@ -78,15 +78,15 @@ link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: ; rel=dns-prefetch;
 link: ; rel=dns-prefetch; link: ; rel=dns-prefetch; link: /v.wpimg.pl>;
 rel=preconnect; link: /www.wp.pl>; rel=preconnect; link: /onelogin.wpcdn.pl>;
 rel=preconnect; link: /fonts.wpcdn.pl>; rel=preconnect; link:
-/securepubads.g.doubleclick.net>; rel=preconnect; link:
-/www.googletagservices.com>; rel=preconnect; pragma: no-cache referrer-policy:
-no-referrer-when-downgrade wp-session-id: afa4024f-c08c-4f2b-8b68-e600c7d70078
-x-content-type-options: nosniff x-frame-options: SAMEORIGIN x-xss-protection: 1;
-mode=block accept-ch: device-memory, dpr, width, viewport-width, rtt, downlink,
-ect, sec-ch-ua, sec-ch-ua-platform, sec-ch-ua-mobile,
-sec-ch-ua-full-version-list, sec-ch-ua-platform-version, sec-ch-ua-arch,
-sec-ch-ua-bitness, sec-ch-ua-model accept-ch-lifetime: 604800 x-op-id-all: 2f1s
-#Money.pl RSS
+/www.googletagservices.com>; rel=preconnect; link:
+/securepubads.g.doubleclick.net>; rel=preconnect; pragma: no-cache
+referrer-policy: no-referrer-when-downgrade wp-session-id:
+b0b9b01c-5daf-4a84-8529-08f775cab908 x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN x-xss-protection: 1; mode=block accept-ch:
+device-memory, dpr, width, viewport-width, rtt, downlink, ect, sec-ch-ua,
+sec-ch-ua-platform, sec-ch-ua-mobile, sec-ch-ua-full-version-list,
+sec-ch-ua-platform-version, sec-ch-ua-arch, sec-ch-ua-bitness, sec-ch-ua-model
+accept-ch-lifetime: 604800 x-op-id-all: 2b1s #Money.pl RSS
 
 [ ]
   * ( ) Giełda Giełda
@@ -198,23 +198,25 @@ Emerytury
 Obserwuj nas na:
 (*)
 Popularne w serwisie Money.pl:
-Co stanie się z pieniędzmi w bankach w czasie wojny? Eksperci tłumaczą
-Co stanie się z pieniędzmi w bankach w czasie wojny? Eksperci tłumaczą Adam
-Sieńko
 Blisko ideału. Tak będzie rozwijała się polska gospodarka [ANALIZA]
 Blisko ideału. Tak będzie rozwijała się polska gospodarka [ANALIZA] Grzegorz
 Siemionczyk
-Co z progiem podatkowym i składkami ZUS w 2026 roku? Oto najważniejsze zmiany
-dla podatników
-Co z progiem podatkowym i składkami ZUS w 2026 roku? Oto najważniejsze zmiany
-dla podatników Małgorzata Samborska
-W Niemczech napisali o Polakach. "Baśń zaczyna pękać"
-W Niemczech napisali o Polakach. "Baśń zaczyna pękać" Magda Żugier
 Uszkodzenia kabla między Finlandią a Estonią. Zatrzymano podejrzany statek
 Uszkodzenia kabla między Finlandią a Estonią. Zatrzymano podejrzany statek
 Przemysław Ciszak
-Upadła mleczarska potęga. Ziemia na sprzedaż
-Upadła mleczarska potęga. Ziemia na sprzedaż Magda Żugier
+Zmiany ws. przestarzałych pieców i kominków. Od 2026 roku nowe zasady
+Zmiany ws. przestarzałych pieców i kominków. Od 2026 roku nowe zasady Bartłomiej
+Chudy
+Tankowce zrobiły w tył zwrot. Tak wyglądała sytuacja przed atakiem armii USA
+Tankowce zrobiły w tył zwrot. Tak wyglądała sytuacja przed atakiem armii USA
+Jacek Losik
+Turcja reaguje na atak USA w Wenezueli. Doradca Erdogana usuwa wpis
+Turcja reaguje na atak USA w Wenezueli. Doradca Erdogana usuwa wpis Robert
+Kędzierski
+Najszybciej wyludniające się miasta w Polsce. Jest drugie dno tego zjawiska
+[OPINIA]
+Najszybciej wyludniające się miasta w Polsce. Jest drugie dno tego zjawiska
+[OPINIA] Kamil Fejfer
   * Giełda
   + Notowania GPW
   + Spółki GPW
@@ -508,34 +510,34 @@ jerzy hausner rządy pis gospodarka polski
 [ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
 dMgM9ejc]
 Wybrane dla Ciebie
-Nowe zarzuty dla Maduro. USA przejmują kontrolę nad Wenezuelą
-Nowe zarzuty dla Maduro. USA przejmują kontrolę nad Wenezuelą
-UE reaguje na atak USA w Wenezueli. Kallas wzywa do powściągliwości
-UE reaguje na atak USA w Wenezueli. Kallas wzywa do powściągliwości
-Wenezuela szykuje się na zmianę władzy? Opozycja wskazuje nazwisko
-Wenezuela szykuje się na zmianę władzy? Opozycja wskazuje nazwisko
-Wenezuela kontra Kanada. Walka o dominację na rynku ciężkiej ropy
-Wenezuela kontra Kanada. Walka o dominację na rynku ciężkiej ropy
-Ekspert: Atak USA na Wenezuelę to złamanie prawa międzynarodowego. Dla Rosji to
-sygnał, że też tak może
-Ekspert: Atak USA na Wenezuelę to złamanie prawa międzynarodowego. Dla Rosji to
-sygnał, że też tak może
-Trump: Będziemy mocno zaangażowani w sektor naftowy w Wenezueli
-Trump: Będziemy mocno zaangażowani w sektor naftowy w Wenezueli
-Zmarł prof. Andrzej Paczkowski
-Zmarł prof. Andrzej Paczkowski
-Państwo zmienia kurs w mieszkaniówce. Czerniak: to presja młodych
-Państwo zmienia kurs w mieszkaniówce. Czerniak: to presja młodych
-"New York Times": Atak na Wenezuelę nielegalny i nierozsądny
-"New York Times": Atak na Wenezuelę nielegalny i nierozsądny
-Wenezuela bez Maduro. USA otwierają drogę do największych złóż ropy
-Wenezuela bez Maduro. USA otwierają drogę do największych złóż ropy
-Wybuchy w Caracas. MSZ monitoruje sytuację Polaków
-Wybuchy w Caracas. MSZ monitoruje sytuację Polaków
-USA mocno nadepnęły na odciski Chinom i Rosji. "Po cichu mogą się cieszyć"
+Część Berlina tonie w ciemności. Władze: to celowy atak ekstremistów
+Część Berlina tonie w ciemności. Władze: to celowy atak ekstremistów
+Trzynasta emerytura nie dla wszystkich. Ci seniorzy będą wyłączeni ze
+świadczenia
+Trzynasta emerytura nie dla wszystkich. Ci seniorzy będą wyłączeni ze
+świadczenia
+Tankowce uciekają z Wenezueli. Afryka przejmuje handel ropą
+Tankowce uciekają z Wenezueli. Afryka przejmuje handel ropą
+Komisja Europejska idzie na rękę Ukrainie i Mołdawii. Krok bliżej do UE
+Komisja Europejska idzie na rękę Ukrainie i Mołdawii. Krok bliżej do UE
+Analityk mówi, co się stanie. "Nie wybieram się dzisiaj na stację paliw"
 [OPINIA]
-USA mocno nadepnęły na odciski Chinom i Rosji. "Po cichu mogą się cieszyć"
+Analityk mówi, co się stanie. "Nie wybieram się dzisiaj na stację paliw"
 [OPINIA]
+Bogactwo, które zrujnowało kraj. Wenezuela ostrzeżeniem dla świata
+Bogactwo, które zrujnowało kraj. Wenezuela ostrzeżeniem dla świata
+Rekord zatrudnienia w policji. Tylu mamy funkcjonariuszy
+Rekord zatrudnienia w policji. Tylu mamy funkcjonariuszy
+Rynek akcji w 2026 roku. Eksperci banku Goldman Sachs przedstawili prognozę
+Rynek akcji w 2026 roku. Eksperci banku Goldman Sachs przedstawili prognozę
+Przewidział pojmanie Maduro i zarobił krocie. Oto co się stało
+Przewidział pojmanie Maduro i zarobił krocie. Oto co się stało
+PKP Intercity uruchomi więcej kursów Pendolino między Warszawą a Krakowem
+PKP Intercity uruchomi więcej kursów Pendolino między Warszawą a Krakowem
+"Putinizacja amerykańskiej polityki". Media o nowym porządku świata Trumpa
+"Putinizacja amerykańskiej polityki". Media o nowym porządku świata Trumpa
+Koniec operacji USA? Loty amerykańskich linii nad Karaibami wznowione
+Koniec operacji USA? Loty amerykańskich linii nad Karaibami wznowione
 
 [ZXJfd3AudTkrBBIAbg54LGhcRlAxHQUrPgJGH2MAeGJoSQ1eIBI_K2UHAEVuBTY5KQMMXC0RPyoVERQ
 dMgM9ejc]

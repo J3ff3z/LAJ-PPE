@@ -1,14 +1,14 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:53:17 GMT content-type: text/html;
-charset=UTF-8 set-cookie: PHPSESSID=c0c86952c6bc4db48ea69b8594537d40; path=/;
+HTTP/2 200 date: Sun, 04 Jan 2026 17:35:58 GMT content-type: text/html;
+charset=UTF-8 set-cookie: PHPSESSID=5f3cf3ab73ca1ba4c70993c71084bf2d; path=/;
 secure expires: Thu, 19 Nov 1981 08:52:00 GMT pragma: no-cache cache-control:
 public, max-age=10 report-to:
 {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare
-.com/report/v4?s=CpaQlcx6IDNeATyMi%2B0Ia0kuas0BPy0%2FFcljuxNf2a%2BVR3I8TLfIIGrw1
-ek6hEaLoij2Y0FmbYl1tSjen6aBTVD3Nsf%2B%2F8FT9Ib3cYbq%2By660TUmfn0%3D"}]} vary:
+.com/report/v4?s=5OlHrLck9MkHBueiVBis3Ie%2BP59Yr%2BWcNkH8NUIHSSgoc28hyufUDGMCvT5
+j30Z1Ki6dR9XUtdzkj7JA8g4hvC%2B1o9XZsfoySxIRXWbLQQaFzCKeuq8%3D"}]} vary:
 Accept-Encoding server: cloudflare alt-svc: h3=":443"; ma=86400
 x-turbo-charged-by: LiteSpeed cf-cache-status: BYPASS nel:
 {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} cf-ray:
-9b8402f10e9997b6-CDG
+9b8c7ed7babcd110-CDG
 
 Zamknij
 

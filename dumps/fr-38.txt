@@ -1,236 +1,293 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:44:56 GMT content-type: text/html;
-charset=UTF-8 server: cloudflare vary: Accept-Encoding,Cookie cache-control:
-max-age=3, must-revalidate report-to:
-{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare
-.com/report/v4?s=n43hYkfovsdi7SG3AHf82qBO0lcYwcLEzAZgqC62Dup9x62bD5PRyy9OmpVwv9R
-R1VWKbIkVHyFDWRvJYHtRh2XRXVqEumP1Wj%2Foj7j3VDnFLw%3D%3D"}]}
-strict-transport-security: max-age=16000000 cf-cache-status: DYNAMIC nel:
-{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} cf-ray:
-9b83f6b4989d99ae-CDG alt-svc: h3=":443"; ma=86400 #Infos.CD » Flux Infos.CD »
-Flux des commentaires Infos.CD » Muzito sur le Bloc patriotique :  » On ne peut
-pas s’appuyer sur celui qui a commis le péché pour combattre celui qui a
-profité du péché  »  Flux des commentaires oEmbed (JSON) oEmbed (XML) JSON
+HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 17:26:24 GMT content-type:
+text/html; charset=UTF-8 x-powered-by: PHP/8.2.29 expires: Thu, 19 Nov 1981
+08:52:00 GMT cache-control: no-store, no-cache, must-revalidate pragma: no-cache
+x-pingback: https://www.reforme.net/xmlrpc.php link: /www.reforme.net/wp-json/>;
+rel="https://api.w.org/", /www.reforme.net/wp-json/wp/v2/posts/54432>;
+rel="alternate"; title="JSON"; type="application/json",
+/www.reforme.net/?p=54432>; rel=shortlink set-cookie:
+PHPSESSID=kdppm9kah2tk7u0o42l86hmtb8; path=/ vary: Accept-Encoding x-powered-by:
+PleskLin #Reforme » Flux JSON oEmbed (JSON) oEmbed (XML)
 
-[INS: :INS]
+IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K66RD6
 
-IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WWHBFVB
+Aller au contenu
 
-IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NGRCVFL
+Réforme, hebdomadaire protestant d'actualité
+En partenariat avec
+Regards Protestants
 
-Close Menu
-Infos.CD Infos.CD
-  * Actualité
+  * Se connecter
+
+  * Se connecter
+
+S'abonner
+Lire l'hebdomadaire
+Vidéos
+Podcasts
+Offre découverte
+Faire un don
+
+  * Lire le journal
+  * Actualités
+  + Éditoriaux
+  + L’Oeil de Réforme
+  + Société
   + Politique
-  + Sécurité
-  + Elections
-  * Economie
-  * Société
-  * Sports
-  * Afrique
+  + Monde
+  + Environnement
+  + Histoire
+  + Famille
+  + Dossier
+  + Initiatives
+  * Religion
+  + Protestantisme
+  + Figures du protestantisme
+  + Le Christianisme
+  + Les catholiques
+  + Les Evangéliques
+  + Judaïsme
+  + Islam
+  + Initiatives
+  + Faits religieux
+  * Bible
+  + Méditations
+  + Théologie
+  + Les expressions de la bible
+  + Les femmes dans la Bible
+  + Evènements Religieux
+  * A découvrir
+  + Chronique
+  + Opinions
+  + Portraits
+  o Série Bonhoeffer
+  o Série Ellul
+  o Série Karl Barth
+  o Serie Moise
+  o Série Soren Kierkegaard
   * Culture
-  * Dossier
-  * Revue de presse
+  + Cinéma-critiques de films
+  o Cinéma jeunesse
+  + Séries télé
+  + Podcasts
+  + Programmes tv
+  + Livres & romans
+  o Livres jeunesse
+  + Musique
+  + Expositions
+  * Les dossiers
+  * Annonces
+  * Newsletters
 
-Facebook X (Twitter) Instagram
-Trending
-  * Léopards : une seule défaite pour Desabre et sa troupe en 2025
-  * Kinshasa : clôture des formations professionnelles au profit des habitants
-de Lemba après six mois d’apprentissage
-  * Accord de Washington : la RDC et les États-Unis mettent en place les
-mécanismes de suivi et de pilotage
-  * Ils trahissent Félix Tshisekedi à Kinshasa ! (Tribune de Rombaut Kasongo,
-première partie)
-  * RDC : plus de 35 000 cas de viol et d’agressions sexuelles contre des
-enfants recensés en 2025 (UNICEF)
-  * RDC : JED exige une enquête sur l’assassinat d’un journaliste en Ituri
-  * « Attention aux femmes tutsies » : le porte-parole des FARDC suspendu pour
-ses propos à la RTNC
-  * Kinshasa : l’Assemblée provinciale juge recevable le projet d’édit
-budgétaire 2026 évalué à plus d’un milliard USD
-
-Facebook X (Twitter) Instagram
-Infos.CD Infos.CD
-Subscribe
-samedi, janvier 3
-
-  * Actualité
+  * Lire le journal
+  * Actualités
+  + Éditoriaux
+  + L’Oeil de Réforme
+  + Société
   + Politique
-  + Sécurité
-  + Elections
-  * Economie
-  * Société
-  * Sports
-  * Afrique
+  + Monde
+  + Environnement
+  + Histoire
+  + Famille
+  + Dossier
+  + Initiatives
+  * Religion
+  + Protestantisme
+  + Figures du protestantisme
+  + Le Christianisme
+  + Les catholiques
+  + Les Evangéliques
+  + Judaïsme
+  + Islam
+  + Initiatives
+  + Faits religieux
+  * Bible
+  + Méditations
+  + Théologie
+  + Les expressions de la bible
+  + Les femmes dans la Bible
+  + Evènements Religieux
+  * A découvrir
+  + Chronique
+  + Opinions
+  + Portraits
+  o Série Bonhoeffer
+  o Série Ellul
+  o Série Karl Barth
+  o Serie Moise
+  o Série Soren Kierkegaard
   * Culture
-  * Dossier
-  * Revue de presse
+  + Cinéma-critiques de films
+  o Cinéma jeunesse
+  + Séries télé
+  + Podcasts
+  + Programmes tv
+  + Livres & romans
+  o Livres jeunesse
+  + Musique
+  + Expositions
+  * Les dossiers
+  * Annonces
+  * Newsletters
 
-(BUTTON)
-(BUTTON)
-Infos.CD Infos.CD
+Rechercher ____________________ (BUTTON)
 
-Accueil » Muzito sur le Bloc patriotique :  » On ne peut pas s’appuyer sur celui
-qui a commis le péché pour combattre celui qui a profité du péché  »
-  *
+/ Politique / « L’antisémitisme est un péché contre l’Homme et contre Dieu »
 
-Actualité
+(BUTTON) A+ (BUTTON) A-
 
-Muzito sur le Bloc patriotique :  » On ne peut pas s’appuyer sur celui qui a
-commis le péché pour combattre celui qui a profité du péché  »
+“L’antisémitisme est un péché contre l’Homme et contre Dieu”
 
-La Rédaction By La Rédactionaoût 12, 2022Updated:août 12, 2022Aucun commentaire2
-Mins Read
-Facebook Twitter WhatsApp Email Telegram
+  * Image de Nathalie Leenhardt Par Nathalie Leenhardt
+  * 19/02/2019
+  * 6:30 pm
+  * (Modifié le : 19/02/2019)
 
-Share
-Facebook Twitter LinkedIn Pinterest Email
-[INS: :INS]
+Les Églises protestantes appellent à lutter contre l'antisémitisme.
+© MAXPPP © MAXPPP
+image_pdf image_print
 
-Le leader de Nouvel Élan a réaffirmé à RFI son refus de participer au Bloc
-patriotique où se retrouvent depuis quelques mois le camp de Martin Fayulu, son
-allié à Lamuka, et celui de Joseph Kabila, l’ancien chef de l’État.
+Il était temps à la société civile et aux partis politiques de réagir. À 19h,
+une manifestation aura lieu place de la République, à Paris, pour dénoncer une
+climat d’antisémitisme qui s’aggrave dans notre pays : injures lors de
+manifestations des gilets jaunes, tagages de portraits de Simone Veil avec des
+croix gammées, le 10 février, vandalisme de synagogues et du cimetières juif  de
+Quatzenheim. Face à l’antisémitisme à l’œuvre en France, les responsables des
+cultes appellent au “sursaut des consciences”, dans une déclaration commune lue
+par François Clavairoly, le président de la Fédération protestante de France,
+sur le perron du ministère de l’Intérieur à Paris, mardi 19 février
 
- » On ne peut pas s’appuyer sur celui qui a commis le péché pour combattre celui
-qui a profité du péché », carricature Adolphe Muzito
+L’UÉPAl, l’Union des Églises protestantes d’Alsace et de Lorraine vient de
+publier un communiqué sur cette profanation : “Le Conseil de l’Union des Églises
+protestantes d’Alsace et de Lorraine, la paroisse protestante de Quatzenheim et
+sa pasteure Claire de Lattre-Duchet sont particulièrement touchés par la
+profanation du cimetière juif du village.
+Nous avons une pensée particulière pour les familles touchées par ces
+profanations que nous portons dans notre prière. Nous exprimons également notre
+soutien à la communauté juive d’Alsace.”
 
+Quelques jours auparavant, le 13 février, la Fédération protestante de France
+(FPF),  avait exprimé ” son indignation et sa vive préoccupation face à
+l’annonce de la hausse de 74% des actes antisémites en France cette année. Le
+protestantisme français rappelle à chacun l’indéfectible lien qui unit juifs et
+chrétiens et souhaite réaffirmer que l’antisémitisme est un péché contre l’homme
+et contre Dieu. Pour lutter contre toute forme d’antisémitisme, elle invite
+chaque citoyen, croyant ou non croyant à relire, à découvrir et à partager la
+déclaration fraternelle du protestantisme français au Judaïsme (adressée le 4
+décembre 2017 aux autorités juives de France), une déclaration qui invite chacun
+à vivre la fraternité.Elle souhaite enfin manifester son soutien à la
+communauté juive et lui rappeler qu’elle se tient à ses côtés.”
 
-[INS: :INS] [INS: :INS]
+Les origines de l’antisémitisme
 
-Pour lui, les gens du FCC  » ne sont pas des alliés appropriés pour lutter
-contre la fraude électorale et la vérité des urnes « .
+Depuis des mois, Réforme alerte lui aussi sur ces dérives, comme l’exprimait le
+pasteur Samuel Amédro, en disant : ” Haine antisémite, il suffit”. De même, nous
+avions dénoncé, dans une enquête la montée de cette haine en Allemagne, et
+donné la parole à Delphine Horvilleur, auteure d’un ouvrage sur les origines de
+l’antisémitisme.
 
-Il pense que c’est eux qui sont à la base de  la situation actuelle.
+Pour lutter contre cette provocation à la haine raciale, un bon nombre de partis
+politiques ont  répondu à l’appel du Part socialiste et d’Olivier Faure. Au
+total ce sont plus de 60 rassemblements qui sont prévus dans toute la France.
+Édouard Philippe et la moitié du gouvernement  ont annoncé leur participation
+place de la République.
 
- » C’est ça d’ailleurs qui fait la divergence entre Ecidé et Nouvel Elan.
-J’espère que c’est une divergence qui va être dépassée car il faut maintenir
-Lamuka comme force de résistance « , a-t-il soutenu
+Les personnalités politiques se sont largement ralliées à l’appel à manifester
+contre l’antisémitisme ce mardi soir. Les présidents du Sénat et de l’Assemblée
+nationale ont annoncé, ce mardi matin, “un geste symbolique” pour montrer leur
+opposition à la haine envers la communauté juive.  À 18 h 15, avant le début des
+rassemblements, Gérard Larcher (du parti Les Républicains) et Richard Ferrand
+(La République en marche) devaient aller se recueillir ensemble au Mémorial de
+la Shoah, à Paris.
+  * Allemagne, Antisémitisme, Delphine Horvilleur, FPF, Judaïsme, Protestantisme
 
-Alors que certains le voient de plus en plus proche du pouvoir actuel, Adolphe
-Muzito répond :
+Facebook
+LinkedIn
+Pinterest
+Image de Nathalie Leenhardt
 
-« Je suis toujours dur par rapport à M. Tshisekedi et à l’Union sacrée. Je doute
-de la crédibilité du processus électoral. Lamuka va rebondir pour exiger des
-élections transparentes dans le délai constitutionnel »
+Nathalie Leenhardt
 
-L’ancien Premier ministre rassure qu’il sera candidat à la prochaine
-présidentielle. Il va dans six mois déposer sa candidature au congrès de son
-parti, Nouvel Élan.
+Nathalie de Senneville-Leenhardt fut directrice de la rédaction de Réforme.
+Tous les articles de cet auteur
 
-Va-t-il encore composer avec Martin Fayulu dans un pays où il est impossible à
-un parti politique de gagner seul les élections ?
+La rédaction vous conseille
 
- » S’il se dégage une convergence autour de nos programmes respectifs,  c’est
-sur cette base que les alliances politiques et électorales auront lieu.
+antisémitisme
 
+Quand Nétanyahou instrumentalise l’antisémitisme contre la France
 
-En 2018, Adolphe Muzito avait soutenu la candidature commune de l’opposition
-autour de Martin Fayulu. Cette fois-ci, l’homme ne compte décidément pas jouer
-les accompagnateurs
-[INS: :INS]
+28 août 2025
+Chaque semaine, retrouvez dans Réforme le point de vue de Christine Pedotti,
+directrice de Témoignage chrétien.
+Lire la suite »
 
-Socrate Nsimba
-[INS: :INS]
-Adolphe Bloc patriotique Fayulu Kabila Muzito
-Share. Facebook Twitter Pinterest LinkedIn Tumblr Email
+Kirchentag
 
-La Rédaction
-  * Website
+À Hanovre, un Kirchentag très politique
 
-LIRE AUSSI
+5 mai 2025
 
-Kinshasa : clôture des formations professionnelles au profit des habitants de
-Lemba après six mois d’apprentissage
+Les Églises doivent-elles se mêler de politique ? Au rassemblement bisannuel de
+l’Église protestante d’Allemagne (EKD), à Hanovre, les participants ont répondu
+oui.
+Lire la suite »
 
-décembre 31, 2025
+juifs
 
-Accord de Washington : la RDC et les États-Unis mettent en place les mécanismes
-de suivi et de pilotage
+Le malaise électoral des Juifs français
 
-décembre 31, 2025
+5 juillet 2024
 
-Ils trahissent Félix Tshisekedi à Kinshasa ! (Tribune de Rombaut Kasongo,
-première partie)
+Depuis la dissolution de l’Assemblée nationale et la création du Nouveau Front
+populaire, une grande partie des Français juifs se sentent inquiets et
+déboussolés. Jean-Luc Mélenchon, figure de La France insoumise, est au cœur de
+ce malaise, souligne l’historienne Stéphanie Laithier.
+Lire la suite »
 
-décembre 30, 2025
+  * Qui sommes-nous ?
+  * Où trouver le journal Réforme ?
+  * Contacter Réforme
+  * Petites annonces
+  * Mentions Légales
+  * Découvrir l’histoire de Réforme
+  * FAQ – Aide en ligne
+  * CGU-CGV Réforme
+  * Politique de cookies
 
-RDC : plus de 35 000 cas de viol et d’agressions sexuelles contre des enfants
-recensés en 2025 (UNICEF)
+  * Qui sommes-nous ?
+  * Où trouver le journal Réforme ?
+  * Contacter Réforme
+  * Petites annonces
+  * Mentions Légales
+  * Découvrir l’histoire de Réforme
+  * FAQ – Aide en ligne
+  * CGU-CGV Réforme
+  * Politique de cookies
 
-décembre 30, 2025
-Add A Comment
-Leave A Reply Cancel Reply
+  * Abécédaire d’Antoine Nouis
+  * Bible
+  * Féminisme et protestantisme
+  * Différences catholiques protestants
+  * Bioéthique : les protestants et la fin de vie
+  * Figures protestantes
 
+  * Abécédaire d’Antoine Nouis
+  * Bible
+  * Féminisme et protestantisme
+  * Différences catholiques protestants
+  * Bioéthique : les protestants et la fin de vie
+  * Figures protestantes
 
-_____________________________________________
-_____________________________________________
-_____________________________________________
-_____________________________________________
-_____________________________________________
-_____________________________________________
-_____________________________________________
-_____________________________________________
+Suivez-nous
 
-______________________________
+Chaque semaine, le journal Réforme offre un regard protestant sur l’actualité
+politique, religieuse, sociale et culturelle. Retrouvez-nous sur les réseaux
+sociaux et nos newsletters !
+Facebook Instagram Youtube X-twitter
+apple-store-badge
+google-play-badge
 
-______________________________
-
-______________________________
-
-Post Comment
-
-Infos.cd, média d’actualité congolaise et africaine et d’analyses
-
-Rédacteur en chef
-
-Socrate Nsimba
-
-Secrétaire de rédaction
-
-Laurent Omba
-
-Grand Kasaï
-
-Bernard Padikuba
-
-Consultant
-
-Lembisa Tini, PhD
-
-Rédaction centrale
-
-Socrate Nsimba
-Laurent Omba
-Medy Junior
-Hugo Matadi
-Djo Kabika
-Giscard Havril Mane
-Dieumerci Diaka
-Yvette Ditshima
-Chaly Sunda
-Fidèle Kitsa
-Bernard Padikuba
-
-
-contacts
-
-+243 82 10 84 331
-© 2026 infos.cd
-  * Actualité
-  + Politique
-  + Sécurité
-  + Elections
-  * Economie
-  * Société
-  * Sports
-  * Afrique
-  * Culture
-  * Dossier
-  * Revue de presse
-
-____________________ (BUTTON) Submit
-
-Type above and press Enter to search. Press Esc to cancel.
-
+Réforme, hebdomadaire protestant d'actualité
 Gérer le consentement aux cookies
 Pour offrir les meilleures expériences, nous utilisons des technologies telles
 que les cookies pour stocker et/ou accéder aux informations des appareils. Le
@@ -239,15 +296,15 @@ telles que le comportement de navigation ou les ID uniques sur ce site. Le fait
 de ne pas consentir ou de retirer son consentement peut avoir un effet négatif
 sur certaines caractéristiques et fonctions.
 Fonctionnel [ ] Fonctionnel Toujours activé
-Le stockage ou l’accès technique est strictement nécessaire dans la finalité
+L’accès ou le stockage technique est strictement nécessaire dans la finalité
 d’intérêt légitime de permettre l’utilisation d’un service spécifique
-explicitement demandé par l’abonné ou l’internaute, ou dans le seul but
+explicitement demandé par l’abonné ou l’utilisateur, ou dans le seul but
 d’effectuer la transmission d’une communication sur un réseau de communications
 électroniques.
 Préférences [ ] Préférences
-Le stockage ou l’accès technique est nécessaire dans la finalité d’intérêt
-légitime de stocker des préférences qui ne sont pas demandées par l’abonné ou la
-personne utilisant le service.
+L’accès ou le stockage technique est nécessaire dans la finalité d’intérêt
+légitime de stocker des préférences qui ne sont pas demandées par l’abonné ou
+l’internaute.
 Statistiques [ ] Statistiques
 Le stockage ou l’accès technique qui est utilisé exclusivement à des fins
 statistiques. Le stockage ou l’accès technique qui est utilisé exclusivement
@@ -257,15 +314,21 @@ comparaître, d’une conformité volontaire de la part de votre fournisseur d�
 les informations stockées ou extraites à cette seule fin ne peuvent généralement
 pas être utilisées pour vous identifier.
 Marketing [ ] Marketing
-Le stockage ou l’accès technique est nécessaire pour créer des profils
-d’internautes afin d’envoyer des publicités, ou pour suivre l’internaute sur un
+L’accès ou le stockage technique est nécessaire pour créer des profils
+d’internautes afin d’envoyer des publicités, ou pour suivre l’utilisateur sur un
 site web ou sur plusieurs sites web ayant des finalités marketing similaires.
 Gérer les options Gérer les services Gérer {vendor_count} fournisseurs En savoir
 plus sur ces finalités
-(BUTTON) Accepter (BUTTON) Refuser (BUTTON) Voir les préférences (BUTTON)
-Enregistrer les préférences Voir les préférences
+(BUTTON) Accepter (BUTTON) Refuser non essentiel (BUTTON) Voir les préférences
+(BUTTON) Enregistrer les préférences Voir les préférences
 {title} {title} {title}
 
 (BUTTON) Gérer le consentement
 
-  *
+Notifications : Je souhaite recevoir les dernières actualités du journal Réforme
+Non Oui
+
+Retour en haut
+
+Inscrivez-vous gratuitement pour consulter 10 articles premium pendant 3 mois.
+Découvrez Réforme

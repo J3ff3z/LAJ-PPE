@@ -1,4 +1,4 @@
-HTTP/2 403 date: Sat, 03 Jan 2026 16:38:36 GMT content-type: text/html;
+HTTP/2 403 date: Sun, 04 Jan 2026 17:15:50 GMT content-type: text/html;
 charset=UTF-8 accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch,
 Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model,
 Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform,
@@ -15,19 +15,19 @@ accelerometer=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=
 (),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microph
 one=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),syn
 c-xhr=(),usb=() referrer-policy: same-origin server-timing:
-chlray;desc="9b83ed6f69cdd10f" x-content-type-options: nosniff x-frame-options:
+chlray;desc="9b8c615a2e93db93" x-content-type-options: nosniff x-frame-options:
 SAMEORIGIN cache-control: private, max-age=0, no-store, no-cache,
 must-revalidate, post-check=0, pre-check=0 expires: Thu, 01 Jan 1970 00:00:01
 GMT report-to:
-{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=qvIcYiCiBr%2B
-YhAExJXgTwBhmYyyopz8dpQe0dVFFNN3c5PBwPPVJHccF1D2PGL%2FR6DwTVB13RNieoqhWbOzagSiCv
-h7CcwF%2BxmdqvpM4hSxV4XTwynA9%2Bb9iXtDLFLSG%2FzDkpHp4G1ID"}],"group":"cf-nel","m
-ax_age":604800} nel:
-{"success_fraction":0,"report_to":"cf-nel","max_age":604800} server: cloudflare
-cf-ray: 9b83ed6f69cdd10f-CDG alt-svc: h3=":443"; ma=86400 server-timing:
-cfL4;desc="?proto=TCP&rtt=5372&min_rtt=4383&rtt_var=1357&sent=7&recv=10&lost=0&r
-etrans=0&sent_bytes=4509&recv_bytes=1823&delivery_rate=688106&cwnd=253&unsent_by
-tes=0&cid=f2a96184c9dd38a2&ts=71&x=0"
-REFRESH(360 sec): file://localhost/tmp/lynxXXXXH9Du87/L409555-5819TMP.html
+{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=bvjsEbf3lajEG
+8qkX%2FXV8RJycHzMIMJeIPN%2BSTGXa8RqvpYdjtWDVDuym80KjG68HMFcK1Q6EU3cbFiztDE%2FeW1
+3gtNpIGZiLbadmQR1cA0fHS1SOj9ynSjHKbx60FCERMK%2BAaDQLqp5"}],"group":"cf-nel","max
+_age":604800} nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare cf-ray: 9b8c615a2e93db93-CDG alt-svc: h3=":443"; ma=86400
+server-timing:
+cfL4;desc="?proto=TCP&rtt=5702&min_rtt=4391&rtt_var=1344&sent=7&recv=11&lost=0&r
+etrans=0&sent_bytes=4509&recv_bytes=1823&delivery_rate=684611&cwnd=253&unsent_by
+tes=0&cid=cdde8b8b70f92892&ts=77&x=0"
+REFRESH(360 sec): file://localhost/tmp/lynxXXXX0Yj8aD/L1262632-7643TMP.html
 
 Enable JavaScript and cookies to continue

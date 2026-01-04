@@ -1,18 +1,18 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:47:36 GMT
+date: Sun, 04 Jan 2026 17:29:04 GMT
 content-type: text/html; charset=UTF-8
 x-powered-by: PHP/8.3.28
 link: <https://frondalux.pl/wp-json/>; rel="https://api.w.org/"
 link: <https://frondalux.pl/wp-json/wp/v2/posts/3416>; rel="alternate"; title="JSON"; type="application/json"
 link: <https://frondalux.pl/?p=3416>; rel=shortlink
-report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=T4tbYsx17mXyEJnSN7tVu%2BVwtRSjjvruA%2Fk%2FSXaGdNBp0Sjc%2BPjdxgPhGoOynCVQbwxxt1kg1qnqsDxT%2BKA0HN8Wdqyzc3p8hAmhwUL%2Fj4w4HJqMYNFOeQ%3D%3D"}]}
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4acmqVmbCKevClOxT1%2F5hByS8slsGbDpqRVDj5nLZOHyEkyeLeeueUbTNN9s0%2BZruAD8wp3QJXzoWWt9rMOWj%2FS8xqzbBAD4qJlf5sXwEODcq28lh9cuBA%3D%3D"}]}
 vary: Accept-Encoding
 server: cloudflare
 alt-svc: h3=":443"; ma=86400
 x-turbo-charged-by: LiteSpeed
 cf-cache-status: DYNAMIC
 nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-cf-ray: 9b83fa98dcd18156-CDG
+cf-ray: 9b8c74b92f108e67-CDG
 
 <!doctype html>
 <html lang="pl-PL">
@@ -122,7 +122,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		
 		
 
-		<input type="hidden" value="8b7c2a310e" class="ct-live-results-nonce">	</div>
+		<input type="hidden" value="d52248c4dc" class="ct-live-results-nonce">	</div>
 
 			<div class="screen-reader-text" aria-live="polite" role="status">
 			Brak wyników		</div>
@@ -457,7 +457,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		
 		
 
-		<input type="hidden" value="8b7c2a310e" class="ct-live-results-nonce">	</div>
+		<input type="hidden" value="d52248c4dc" class="ct-live-results-nonce">	</div>
 
 			<div class="screen-reader-text" aria-live="polite" role="status">
 			Brak wyników		</div>
@@ -635,7 +635,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 	<p>Copyright © frondalux.pl</p></div>
 </div><div data-column="widget-area-4"><div class="ct-widget is-layout-flow widget_block widget_text" id="block-17">
-<p style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.078), 15px);"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6c1e09080d070f060d2c0a1e0302080d001914421c00">[email&#160;protected]</a></p>
+<p style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.078), 15px);"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="95e7f0f1f4fef6fff4d5f3e7fafbf1f4f9e0edbbe5f9">[email&#160;protected]</a></p>
 </div></div></div></div></footer></div>
 
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="speculationrules">

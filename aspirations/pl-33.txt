@@ -1,14 +1,14 @@
 HTTP/2 200 
 server: nginx
-date: Sat, 03 Jan 2026 16:48:13 GMT
+date: Sun, 04 Jan 2026 17:29:55 GMT
 content-type: text/html; charset=UTF-8
 vary: Accept-Encoding
+cache-control: private, must-revalidate
 link: <https://kronos.org.pl/wp-json/>; rel="https://api.w.org/"
 link: <https://kronos.org.pl/?p=6239>; rel=shortlink
-cache-control: private, must-revalidate
-last-modified: Sat, 03 Jan 2026 17:48:13 GMT
+last-modified: Sun, 04 Jan 2026 18:29:55 GMT
 wpo-cache-status: saving to cache
-expires: Sat, 31 Jan 2026 16:48:11 GMT
+expires: Sun, 01 Feb 2026 17:29:52 GMT
 vary: Accept-Encoding
 
 <!DOCTYPE html>
@@ -68,7 +68,7 @@ vary: Accept-Encoding
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
 :root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel='stylesheet' id='wpo_min-header-0-css' href='https://kronos.org.pl/wp-content/cache/wpo-minify/1764533223/assets/wpo-minify-header-240736b0.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpo_min-header-0-css' href='https://kronos.org.pl/wp-content/cache/wpo-minify/1764533223/assets/wpo-minify-header-242a36b2.min.css' type='text/css' media='all' />
 <script type="text/javascript" src="https://kronos.org.pl/wp-content/cache/wpo-minify/1764533223/assets/wpo-minify-header-1d83226c.min.js" id="wpo_min-header-0-js"></script>
 <link rel="https://api.w.org/" href="https://kronos.org.pl/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kronos.org.pl/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.8.3" />
@@ -108,7 +108,7 @@ vary: Accept-Encoding
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//kronos.org.pl/?wordfence_lh=1&hid=B26C72496FCC178D989C06E49C9EDCBF');
+})('//kronos.org.pl/?wordfence_lh=1&hid=D48A131959B3EEBBF6A4DEE6AF39BF87');
 </script>		<script>
 			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
 		</script>

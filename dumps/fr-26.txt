@@ -1,424 +1,287 @@
-HTTP/2 200 date: Fri, 02 Jan 2026 21:31:28 GMT server:
-mw-web.eqiad.main-8f8dcf6c-gp5kn x-content-type-options: nosniff
-content-language: fr accept-ch: last-modified: Fri, 19 Dec 2025 21:31:28 GMT
-content-type: text/html; charset=UTF-8 age: 69171 accept-ranges: bytes x-cache:
-cp6016 hit, cp6016 hit/3 x-cache-status: hit-front server-timing:
-cache;desc="hit-front", host;desc="cp6016" strict-transport-security:
-max-age=106384710; includeSubDomains; preload report-to: { "group": "wm_nel",
-"max_age": 604800, "endpoints": [{ "url":
-"https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_
-error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] } nel: { "report_to":
-"wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
-set-cookie: WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04
-Feb 2026 12:00:00 GMT set-cookie:
-WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;
-Expires=Wed, 04 Feb 2026 12:00:00 GMT set-cookie:
-WMF-DP=1ab;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
-x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7 cache-control: private,
-s-maxage=0, max-age=0, must-revalidate, no-transform vary:
-Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
-GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
-set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
-set-cookie:
-WMF-Uniq=MTH0F_NaPPQzKaM7HGKXhQLdAAAAAFvdT_S3CIG4rB6L8wTUTqS5Y7DMWRAgCL9W;Domain
-=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027
-00:00:00 GMT content-length: 113340 x-request-id:
-4f87110d-474d-48ab-b9ae-6c54a08441e4 #Modifier Wikipédia (fr) Flux Atom de
-Wikipédia
-
-Aller au contenu
-
-[ ] Menu principal
-Menu principal
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-Navigation
-  * Page d’accueil
-  * Portails thématiques
-  * Article au hasard
-  * Contact
-
-Contribuer
-  * Débuter sur Wikipédia
-  * Aide
-  * Communauté
-  * Pages spéciales
-  * Modifications récentes
-
-Wikipédia l'encyclopédie libre
-Rechercher
-____________________
-(BUTTON) Rechercher
-
-[ ] Apparence
-
-  * Faire un don
-  * Créer un compte
-  * Se connecter
-
-[ ] Outils personnels
-  * Faire un don
-  * Créer un compte
-  * Se connecter
-
-Sommaire
-
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-  * Début
-  * 1 Définition
-  * 2 Historique et évolution
-(BUTTON) Afficher / masquer la sous-section Historique et évolution
-  + 2.1 Premières définitions
-  o 2.1.1 Piet Schoonenberg
-  o 2.1.2 Karl Rahner
-  o 2.1.3 Concile Vatican II
-  + 2.2 Sous le pontificat de Jean-Paul II
-  o 2.2.1 Premières définitions
-  o 2.2.2 Utilisation dans les textes principaux
-  + 2.3 Reprise par le pape François
-  * 3 Articles connexes
-  * 4 Notes et références
-(BUTTON) Afficher / masquer la sous-section Notes et références
-  + 4.1 Bibliographie
-  * 5 Bibliographie complémentaire
-
-[ ] Basculer la table des matières
-
-Structures de péché
-
-[ ] Ajouter des langues
-
-Ajouter des liens
-
-  * Article
-  * Discussion
-
-[ ] français
-
-  * Lire
-  * Modifier
-  * Modifier le code
-  * Voir l’historique
-
-[ ] Outils
-Outils
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-Actions
-  * Lire
-  * Modifier
-  * Modifier le code
-  * Voir l’historique
-
-Général
-  * Pages liées
-  * Suivi des pages liées
-  * Téléverser un fichier
-  * Lien permanent
-  * Informations sur la page
-  * Citer cette page
-  * Obtenir l'URL raccourcie
-  * Télécharger le code QR
-
-Imprimer / exporter
-  * Créer un livre
-  * Télécharger comme PDF
-  * Version imprimable
-
-Dans d’autres projets
-  * Élément Wikidata
-
-Apparence
-(BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-Un article de Wikipédia, l'encyclopédie libre.
-
-Les structures de péché, également appelées péché structurel, sont une notion
-théologique esquissée notamment par la théologie de la libération dans les
-années 1960 en Amérique du Sud, puis développée en particulier par le pape
-Jean-Paul II au cours de son pontificat.
-
-Ce dernier développe en effet l'idée que les structures sociales, économiques,
-politiques, financières, développées par l'être humain le contraignent par la
-suite au point de ne plus lui permettre d'agir autrement qu'en péchant. Il
-dénonce en particulier les ravages de ces structures de péché sur l'écologie et
-sur l'anthropologie.
-
-Ce concept est ensuite repris à plusieurs reprises par le pape François.
-
-Définition
-
-[modifier | modifier le code]
-
-Le péché structurel peut être pensé comme une catégorie intermédiaire entre le
-péché originel, inhérent à l'Homme et donc inéluctable, et le péché individuel,
-fruit d'une décision ou du moins d'une liberté de choix^[1]. Il caractérise des
-types d’organisations sociales qui induisent automatiquement, ou du moins de
-manière très contraignante, une manière d’être déviante^[2].
-
-En tant que telles, ces organisations sont le fruit d'une accumulation de péchés
-personnels qui crée à la longue des faits de société qui par leur influence
-induisent une vraie disposition aux péchés personnels^[3]^,^[4].
-
-Les structures de péché défont et détruisent la durabilité du monde, au sens que
-donne Hannah Arendt à ce terme ; plus précisément, elles défont la capacité du
-monde à héberger l'être humain en tant que créature humaine. Mathias Nebel
-affirme ainsi que le péché structurel « oblige l’homme à s’inscrire dans un
-champ de l’action absurde, dans lequel il ne peut se penser ou même s’imaginer
-[et] désintègre ainsi non seulement la durée du monde, mais la durée de
-l’individu »^[5].
-
-Historique et évolution
-
-[modifier | modifier le code]
-
-Premières définitions
-
-[modifier | modifier le code]
-
-Piet Schoonenberg
-
-[modifier | modifier le code]
-
-Piet Schoonenberg, dans son ouvrage de 1964 Der Macht der Zonde — littéralement,
-« la puissance du péché » — propose une réinterprétation de la doctrine du
-péché originel en l’identifiant au « péché du monde » développé par Jean dans
-son Évangile^[6]. Il définit en effet le péché comme un refus de Dieu qui peut
-être attachement désordonné à un objet créé ; jusque-là cette définition est
-directement inspirée de celle d'Augustin. Toutefois Schoonenberg insère cette
-relation et sa rupture dans une relation à Dieu de la création tout entière.
-D'autre part, il désingularise le péché pour le fragmenter en une série de
-refus, qui s'expriment de manière croissante. De ce fait ce refus porte en
-priorité sur la question de la liberté et de l'autonomie de l'individu, allant
-jusqu'au refus du salut. Ce péché est donc ontologiquement porteur de
-destruction, et personnification de l'anomie^[7].
-
-Revenant sur le premier chapitre de l'Évangile de Jean, et notamment sur la
-description de Jésus-Christ qu'y fait Jean le Baptiste — « Voici l'Agneau de
-Dieu qui enlève le péché du monde » —, Schoonenberg s'appuie sur la définition
-de « monde » développée dans cet Évangile pour qualifier ledit « péché du
-monde ». Il s'agit pour lui du péché de l’humanité en tant qu’elle est une
-société, c’est-à-dire une communauté d’individus. Chaque être humain est dans
-une situation qui est le « lien entre une décision libre et une autre », ou bien
-« l’ensemble des circonstances réalisées dans un certain domaine ». Le péché du
-monde n'est donc pas une accumulation de péchés individuels, mais à
-l'interaction entre ces péchés individuels et cette situation^[8].
-
-De cette définition découle que le péché du monde est une incapacité de la
-communauté humaine à être le lieu d’accomplissement d’une liberté particulière :
-la communauté humaine, du fait de ses structures de péché, entraîne, de manière
-non obligatoire, mais très fortement, chacun des individus qui la compose à
-pécher^[9].
-
-Karl Rahner
-
-[modifier | modifier le code]
-
-En parallèle, Karl Rahner s'appuie sur les concepts développés par Martin
-Heidegger, notamment dans Être et Temps, pour affirmer que le péché structurel
-est notamment issu d'une tension ontologique créée par l’inscription temporelle
-d’êtres dont la durée d’accomplissement n’est pas identique. Il émerge de la
-dialectique entre le temps de l’individu et celui des institutions qui
-structurent la communauté ; ces durées divergent mais sont toutes deux portées
-par l'individu^[5].
-
-Concile Vatican II
-
-[modifier | modifier le code]
-
-Le concile Vatican II évoque le « péché social » mais ne développe pas
-spécifiquement le concept^[10].
-
-Sous le pontificat de Jean-Paul II
-
-[modifier | modifier le code]
-
-Premières définitions
-
-[modifier | modifier le code]
-
-La première mention du terme « structures de péché » par Jean-Paul II date de la
-conférence de Puebla en 1979. À cette occasion, le pape applique cette notion
-aux déséquilibres sociaux majeurs qui affectent l’Amérique du Sud : corruption,
-trafic d’armes, marginalisation économique d’une partie de la population^[4]. De
-manière plus large, il cible deux types d'organisations constituant de son point
-de vue des structures de péché : le capitalisme libéral et le marxisme
-collectiviste^[11].
-
-En 1982, la Commission théologique internationale, dans son texte La
-réconciliation et la pénitence, affirme que « Au sens propre du terme, seul
-l’homme est capable de péché [et que] c’est tout au plus dans un sens analogique
-que l’on peut parler de “structures de péché” ou de “péchés structurels” » ;
-néanmoins, elle admet que « la faute et le péché prennent corps aussi dans les
-organisations et les structures créées par les hommes et la société humaine ;
-ces organisations et structures sont à leur tour intériorisées par les individus
-humains qui y vivent et elles peuvent ainsi peser sur la liberté humaine et
-conduire au péché […], exerçant sur l’homme une action aliénante et
-destructrice »^[12].
-
-Utilisation dans les textes principaux
-
-[modifier | modifier le code]
-
-Jean-Paul II développe ensuite la notion de structures de péché dans ses deux
-encycliques Sollicitudo rei socialis, en 1987, et Centesimus annus, en 1991.
-Dans la première, il définit les structures de péché comme la « somme des
-facteurs négatifs qui agissent à l'opposé d'une vraie conscience du bien commun
-universel et du devoir de le promouvoir, [et qui] donne l'impression de créer,
-chez les personnes et dans les institutions, un obstacle très difficile à
-surmonter à première vue »^[13]. Il les illustre par deux principales
-tendances : d'une part le « désir exclusif du profit » ; d'autre part, la « soif
-du pouvoir dans le but d'imposer aux autres sa volonté ». Particulièrement, il
-pointe que c'est l'absolutisation de ces désirs, la volonté du « à tout prix »
-qui les définit comme structures de péché^[14].
-
-Dans Centesimus annus, en 1991, le pape affirme que la « destruction
-irrationnelle du milieu naturel [ainsi que celle] du milieu humain » sont dues
-notamment aux structures de péché, induites par « la structure sociale dans
-laquelle vit [l'être humain], par l'éducation reçue et par son milieu. […] Les
-décisions grâce auxquelles se constitue un milieu humain peuvent créer des
-structures de péché spécifiques qui entravent le plein épanouissement de ceux
-qu'elles oppriment de différentes manières ». Il appelle donc en conséquence ses
-lecteurs à « démanteler de telles structures et les remplacer par des formes
-plus authentiques de convivialité »^[15].
-
-L'apport de Jean-Paul II dans cette réflexion change le paradigme qui voulait
-que « seul un individu pouvait se rendre pécheur par une faute contre le bien
-commun. Désormais, un État ou une entreprise peuvent aussi être condamnés en
-raison de leurs actes »^[16].
-
-Reprise par le pape François
-
-[modifier | modifier le code]
-
-Au cours de son pontificat, le pape François développe l'idée que les structures
-économiques et financières mondiales, telles qu'elles sont alors développées,
-favorisent ontologiquement une forme de société pécheresse. Il fustige en
-particulier l’évasion fiscale et la corruption qu'il considère comme des
-structures de péché^[17].
-
-Le 21 mars 2021, à l’occasion de la journée de la mémoire et de l’engagement en
-souvenir des victimes innocentes des mafias, François affirme que les mafias
-sont des « structures de péché, […] contraires à l’Évangile du Christ, [qui]
-confondent la foi avec l’idolâtrie »^[18]. Dans son exhortation apostolique
-Laudate Deum publiée le 4 octobre 2023, le pape rappelle que les évêques
-africains avaient estimé que le changement climatique est le révélateur d'« un
-exemple frappant de péché structurel »^[19].
-
-Articles connexes
-
-[modifier | modifier le code]
-  * Péché dans le catholicisme
-
-Notes et références
-
-[modifier | modifier le code]
- 1. ↑ Mathias Nebel 2010, Introduction, p. 134.
- 2. ↑ Éric Charmetant, « Pourquoi avoir inventé un “péché écologique” ? », La
-Croix,‎ 30 septembre 2020 (ISSN 0242-6056, lire en ligne).
- 3. ↑ Commission théologique internationale, Compendium du catéchisme de
-l'Église catholique, Rome, Saint-Siège, 2005 (lire en ligne), « Troisième
-partie. La vie dans le Christ. — Première section. La vocation de l'Homme : la
-vie dans l'Esprit. — Chapitre I. La dignité de la personne humaine — Le péché.
-— 400. Qu’est ce que les structures de péché ? ».
- 4. ↑ ^a et b « Doctrine sociale de l’Eglise : les structures de péché comme
-frein au bien commun », Entrepreneurs et dirigeants chrétiens, 8 avril 2017
-(consulté le 21 janvier 2020).
- 5. ↑ ^a et b Mathias Nebel 2010, Conclusion, p. 148 à 151.
- 6. ↑ Mathias Nebel 2010, Le péché du monde, p. 135.
- 7. ↑ Mathias Nebel 2010, L'essence du péché, p. 136.
- 8. ↑ Mathias Nebel 2010, Le péché du monde, p. 137 à 139.
- 9. ↑ Mathias Nebel 2010, L’être au monde selon Schoonenberg, p. 139 & 140.
-10. ↑ Mathias Nebel 2010, Structures of sin, p. 507.
-11. ↑ Mathias Nebel 2010, Structures of sin, p. 509.
-12. ↑ Commission théologique internationale, La réconciliation et la pénitence,
-Rome, Saint-Siège, 29 juin 1983 (lire en ligne), « A. Le contexte
-anthropologique de la pénitence — II. Dimensions anthropologiques de la
-pénitence — 1. ».
-13. ↑ Sollicitudo rei socialis 1987, V. Une lecture théologique des problèmes
-modernes — § 36.
-14. ↑ Sollicitudo rei socialis 1987, V. Une lecture théologique des problèmes
-modernes — § 37.
-15. ↑ Centesimus annus 1991, V. Une lecture théologique des problèmes modernes
-— § 38.
-16. ↑ Nicolas Senèze, « L’Église, l'homme et l'économie », Les Échos,‎ 12 mai
-2005 (ISSN 0242-6056, lire en ligne).
-17. ↑ Jean-François Polo, « L’évasion fiscale et la corruption, “structures de
-péché” pour le pape », La Croix,‎ 6 février 2020 (ISSN 2270-5279, lire en
-ligne).
-18. ↑ Loup Besmond de Senneville, « Le Vatican veut excommunier les mafieux »,
-La Croix,‎ 10 mai 2021 (ISSN 2270-5279, lire en ligne).
-19. ↑ « “Laudate Deum”, l'intégralité de l'exhortation apostolique du pape
-François », Le Pèlerin,‎ 4 octobre 2023 (ISSN 2270-5279, lire en ligne).
-
-Bibliographie
-
-[modifier | modifier le code]
-  * [Sollicitudo rei socialis 1987] Jean-Paul II, Sollicitudo rei socialis,
-Rome, Saint-Siège, 30 décembre 1987 (lire en ligne)
-  * [Vitaliano R. Gorospe 1988] (en) Vitaliano R. Gorospe, « Sollicitudo Rei
-Socialis — Structures of Sin: Population, and Ecology », Philippine Studies,
-vol. 36, n^o 4,‎ automne 1988, p. 506-514 (ISSN 2244-1093, lire en ligne)
-  * [Centesimus annus 1991] Jean-Paul II, Centesimus annus, Rome, Saint-Siège,
-1^er mai 1991 (lire en ligne)
-  * [Ramón Martínez de Pisón Liébanas 2000] Ramón Martínez de Pisón Liébanas, Le
-péché et le mal, Montréal, Médiaspaul, coll. « Brèches théologiques » (n^o 32),
-2000, 184 p. (ISBN 9782894204061, OCLC 1098564244, présentation en ligne)
-  * [Mathias Nebel 2010] Mathias Nebel, « Péché structurel et nature humaine —
-Une relecture du concept de nature par le biais de son emploi dans les
-théologies du “péché du monde” », Revue d'éthique et de théologie morale,
-n^o 261,‎ 2010, p. 133-153 (ISSN 2118-4518, DOI 10.3917/retm.261.0133, lire en
-ligne)
-  * [Christoph Theobald 2011] Christoph Theobald, « À propos de la théologie du
-péché », Recherches de science religieuse, t. 99, n^o 2,‎ 2011, p. 259-264
-(ISSN 2104-3884, DOI 10.3917/rsr.112.0259, lire en ligne)
-
-Bibliographie complémentaire
-
-[modifier | modifier le code]
-  * « “Structures du péché”, un concept central de la doctrine sociale de
-l’Église », sur L'Orient-Le Jour, 1^er avril 2019 (consulté le 26 octobre 2022)
-
-  * icône décorative Portail de la théologie
-  * icône décorative Portail du christianisme
-
-Ce document provient de
-« https://fr.wikipedia.org/w/index.php?title=Structures_de_péché&oldid=216753649
- ».
-Catégories :
-  * Péché
-  * Jean-Paul II
-
-Catégories cachées :
-  * Portail:Théologie/Articles liés
-  * Portail:Religions et croyances/Articles liés
-  * Portail:Christianisme/Articles liés
-
-  * La dernière modification de cette page a été faite le 12 juillet 2024 à
-20:27.
-  * Droit d'auteur : les textes sont disponibles sous licence Creative Commons
-attribution, partage dans les mêmes conditions ; d’autres conditions peuvent
-s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que
-les crédits graphiques. En cas de réutilisation des textes de cette page, voyez
-comment citer les auteurs et mentionner la licence.
-Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation
-de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
-
-  * Politique de confidentialité
-  * À propos de Wikipédia
-  * Avertissements
-  * Contact
-  * Contacts juridiques & sécurité
-  * Code de conduite
-  * Développeurs
-  * Statistiques
-  * Déclaration sur les témoins (cookies)
-  * Version mobile
-
-  * Wikimedia Foundation
-  * Powered by MediaWiki
-
-(BUTTON) Rechercher
-____________________
-(BUTTON) Rechercher
-
-[ ] Basculer la table des matières
-Structures de péché
-(BUTTON) Ajouter des langues Ajouter un sujet
+HTTP/2 200 referrer-policy: strict-origin-when-cross-origin cache-control:
+public, max-age=60 expires: Sun, 04 Jan 2026 17:26:44 GMT last-modified: Tue, 15
+Jun 2021 09:00:00 GMT content-type: text/html;charset=UTF-8 content-language:
+fr-FR strict-transport-security: max-age=31536000; includeSubDomains; preload;
+x-frame-options: SAMEORIGIN x-content-type-options: nosniff accept-ranges: bytes
+age: 0 date: Sun, 04 Jan 2026 17:25:44 GMT via: 1.1 varnish x-served-by:
+cache-par-lfpg1960080-PAR x-cache: MISS x-cache-hits: 0 x-timer:
+S1767547544.145224,VS0,VE220 vary:
+origin,access-control-request-method,access-control-request-headers,accept-encod
+ing content-length: 1163943 Aller au contenu
+
+IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KJDT3TM
+
+Fil info
+  * Grille
+  * Podcasts
+  * Actu
+  * Radios
+  * Astro
+
+  * Assister à une émission
+  * Réagir à une émission
+  * Fréquences
+  * Quel est ce titre ?
+  * Newsletters
+
+  *
+  *
+  *
+  *
+  *
+  *
+
+(BUTTON) Retour au menu
+Actu
+  * Politique
+  * International
+  * Justice et faits divers
+  * Conso
+  * Food
+  * Santé
+  * Société
+  * Tech
+
+Culture
+  * Arts Spectacles
+  * Ciné Séries
+  * Médias et people
+  * Musique
+  * Culture Générale
+  * Humour
+  * Histoire
+  * Littérature
+
+Sports
+  * Football
+  * Courses hippiques
+  * Autres sports
+
+(BUTTON) Retour au menu
+Astro
+  * Horoscope quotidien
+  * Horoscope annuel
+  * Voyance
+
+  *
+  *
+  + Actu
+  + Radios
+  + Grille
+  + Podcasts
+
+  * (BUTTON) Écouter le direct
+  *
+  *
+
+Inscrivez-vous pour personnaliser votre expérience, vous inscrire à nos
+newsletters et ne rien louper de vos programmes favoris.
+
+ 1. Accueil
+ 2. Actu
+ 3. Politique
+ 4. EELV : Yannick Jadot mis en garde contre "un péché d’orgueil et d’isolement"
+
+1 min de lecture
+
+EELV : Yannick Jadot mis en garde contre "un péché d’orgueil et d’isolement"
+
+Plusieurs personnalités écologistes et de gauche ont mis en garde Yannick Jadot
+et EELV mercredi 5 juin contre le "péché d'orgueil et d'isolement" après leur
+bon résultat aux élections européennes.
+
+(BUTTON)
+
+Yannick Jadot le soir du 26 mai 2019
+
+Crédit : STEPHANE DE SAKUTIN / AFP
+
+Pauline De Saint-Rémy - édité par Thomas Pierre
+publié le 06/06/2019 à 07:50
+  *
+  *
+  *
+  *
+
+[ ]
+
+Je m'abonne à la newsletter « Politique »
+
+La tête de liste d’EELV n’en finit plus de crier victoire depuis son score
+surprise de 13.5% des voix aux élections européennes. Dans une interview
+remarquée au journal Le Monde mercredi 5 juin, l’eurodéputé écolo explique
+vouloir "donner (à son parti) les moyens de conquérir le pouvoir".
+
+Il désigne même quatre grandes villes à remporter lors des élections municipales
+: Paris, Nantes, Rennes et Toulouse. Mais il refuse de s’engager dans une
+stratégie de recomposition de la gauche. Citant les chefs de file du Parti
+communiste, du Parti socialiste et de Génération.s, il lâche : "Je ne
+participerai pas à un rafistolage du paysage politique du XXème siècle".
+
+La réponse n’aura pas tardé. Une tribune publiée par le
+journal Libération mercredi 5 juin met en garde EELV contre le "péché d’orgueil
+et d’isolement".
+
+Une hirondelle de 13,5% de voix ne fait pas le printemps"
+
+Tribune contre le "péché d’orgueil et d’isolement"
+
+160 personnalités du parti communiste à la France insoumise y ont apposé leur
+signature, dont l’ancien candidat à la présidentielle Noël Mamère et la numéro 2
+de la liste européenne, Michele Rivasi. "Une hirondelle de 13,5% de voix ne fait
+pas le printemps de la transformation sociale et écologique", préviennent-ils.
+Ils demandent à Yannick Jadot et à la direction du parti "d’abandonner l’esprit
+de clocher".
+À lire aussi
+Jordan Bardella et Malika Sorel lors des Etats généraux de l'immigration
+organisé par le RN le 26 mars 2024
+Rassemblement national
+"J’ai été déçue" : Malika Sorel, numéro 2 de la liste RN aux européennes, quitte
+la délégation du parti
+  *
+  *
+
+Le patron du parti, David Cormand, avait pourtant bien adopté un ton bien plus
+prudent dans une interview au Huffington Post, mardi : "Il faut commencer par
+(…) respecter tout le monde. Nos électeurs ne nous ont pas donné un blanc-seing,
+mais une exhortation à agir. On est très humbles."
+
+Hors micro, son entourage s’est montré encore plus cash : "On doit se méfier et
+bien regarder le paysage politique. Le résultat ne nous donne aucun droit. Gare
+à l’arrogance d’EELV".
+La rédaction vous recommande
+  * Entre LaREM et le PS, Yannick Jadot, courtisé de toutes parts
+  * Confiance : Macron (+2) et Philippe (+5) en hausse après les européennes
+  * Yannick Jadot : sa cote de popularité bondit de 20 points après les
+européennes
+  * "Yannick Jadot va devoir se structurer politiquement", selon Alba Ventura
+  * Européennes : pourquoi les sondages n'ont pas pu prévoir certains résultats
+?
+
+À écouter aussi
+Le grand jury
+TOUT SAVOIR SUR - Ségolène Royal "l'influenceuse", qui perturbe le jeu à gauche
+
+22/08/2024 à 02:00 - 24m15s
+(BUTTON)
+élections européennes Yannick Jadot Europe Ecologie-Les Verts
+
+L’actualité par la rédaction de RTL dans votre boîte mail.
+
+Grâce à votre compte RTL abonnez-vous à la newsletter RTL info pour suivre toute
+l'actualité au quotidien
+Je créé mon compte Se connecter
+[ ]
+
+S’abonner à la Newsletter RTL Info
+(BUTTON) Lire la suite
+Flash Actu
+international
+
+"Aucun avion n'a pu atterrir ou décoller" : les aéroports grecs touchés par un
+problème technique "sans précédent"
+
+RTL.fr - Actu
+international
+
+Venezuela : l'armée reconnaît la vice-présidente Delcy Rodriguez comme
+présidente intérimaire et demande à la population de "reprendre ses activités"
+
+RTL.fr - Actu
+musique
+
+Le rappeur Calbo, membre du groupe Ärsenik, est mort
+
+RTL.fr - Culture
+
+(BUTTON)
+(BUTTON)
+
+En Direct
+(BUTTON)
+
+/
+(BUTTON) (BUTTON)
+(BUTTON)
+(BUTTON)
+(BUTTON)
+(BUTTON)
+(BUTTON)
+  * Faire une recherche dans replays
+  * [ ]
+Lecture automatique en fin de programme
+
+(BUTTON)
+(BUTTON) Écouter le direct
+(BUTTON) Voir la video
+(BUTTON)
+(BUTTON)
+(BUTTON)
+(BUTTON)
+(BUTTON)
+(BUTTON) x1
+
+  * Grille
+  * Podcasts
+  * Actu
+  * Culture
+  * Sports
+  * Radios
+
+  * Assister aux émissions
+  * Réagir à une émission
+  * Quel est ce titre ?
+  * Radio en direct
+  * Fréquences
+  * Archives
+  * Newsletters
+
+  * Contactez-nous & FAQ
+  * Règlements des jeux
+  * Mentions légales
+  * Charte de confidentialité
+  * Configuration des cookies
+  * Gérer Utiq
+  * Annonceurs
+  * Nous rejoindre
+  * Accessibilité : non conforme
+
+  *
+  *
+  *
+  *
+  *
+  *
+
+Les applications
+
+Disponible sur App Store
+Disponible sur Play Store
+
+  * Groupe M6
+  * M6+
+  * Fun Radio
+  * RTL2
+  * RTL Astro
+  * PasseportSanté
+  * DAB+
+
+(BUTTON) Fermer
+
+Bienvenue sur RTL
+
+Ne manquez rien de l'actualité en activant les notifications sur votre
+navigateur
+
+Cliquez sur “Autoriser” pour poursuivre votre navigation en recevant des
+notifications. Vous recevrez ponctuellement sous forme de notifciation des
+actualités RTL. Pour vous désabonner, modifier vos préférences, rendez-vous à
+tout moment dans le centre de notification de votre équipement.
+
+(BUTTON) Fermer
+
+Bienvenue sur RTL
+
+Rejoignez la communauté RTL, RTL2 et Fun Radio pour profiter du meilleur de la
+radio
+Je crée mon compte

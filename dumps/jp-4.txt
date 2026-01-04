@@ -1,10 +1,10 @@
-HTTP/2 200 server: nginx date: Sat, 03 Jan 2026 16:38:32 GMT content-type:
+HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 17:15:43 GMT content-type:
 text/html; charset=UTF-8 vary: Accept-Encoding vary:
 accept,content-type,Accept-Encoding link: /studiopoppo.jp/poppoblog/wp-json/>;
 rel="https://api.w.org/", /studiopoppo.jp/poppoblog/wp-json/wp/v2/posts/42742>;
 rel="alternate"; title="JSON"; type="application/json",
 /studiopoppo.jp/poppoblog/?p=42742>; rel=shortlink cache-control: max-age=1
-expires: Sat, 03 Jan 2026 16:38:32 GMT #ぽっぽブログ » フィード ぽっぽブログ » コメントフィード oEmbed
+expires: Sun, 04 Jan 2026 17:15:43 GMT #ぽっぽブログ » フィード ぽっぽブログ » コメントフィード oEmbed
 (JSON) oEmbed (XML) JSON
 
 ぽっぽブログ
@@ -150,6 +150,11 @@ POPPOの変な記事担当です。武田信玄の軍配が欲しくて100円貯
 新着記事
   ___________________________________________________________________________
 
+今日からバルダーズ・ゲート2だよ！：Baldur's Gate 2#1_挿絵1
+
+シャドウ・シーフにご挨拶：Baldur’s Gate 2#216
+
+2026年1月4日
 蓬莱学園の冒険！転校生スクランブルのプレイ日記1：レトロゲーム(スーファミ)_挿絵1
 
 蓬莱学園の冒険！転校生スクランブルのプレイ日記3：レトロゲーム(スーファミ)
@@ -170,25 +175,20 @@ POPPOの変な記事担当です。武田信玄の軍配が欲しくて100円貯
 ゲイラン・ベールに謝礼を払う：Baldur’s Gate 2#215
 
 2025年12月31日
-ファミコンゲームランキング_アイキャッチ
-
-伊達あずさが選ぶ面白かったファミコンゲームランキング2025
-
-2025年12月30日
 
 最近のコメント
 
+  * シャドウ・シーフにご挨拶：Baldur’s Gate 2#216 に 万里ヨーヨー より
   * ロマンシング サ・ガ3のプレイ日記50：レトロゲーム(スーファミ) に ねこずき より
   * 貝獣物語のプレイ日記12：レトロゲーム(ファミコン) に ウゾームの書 より
   * 貝獣物語のプレイ日記10：レトロゲーム(ファミコン) に ウゾームの書 より
   * ゲイラン・ベールに謝礼を払う：Baldur’s Gate 2#215 に 万里ヨーヨー より
-  * 奪われたリトルマン：Baldur’s Gate 2#214 に 万里ヨーヨー より
 
 コンテンツ
 
 雑談 (721)
 漫画 (208)
-プレイ日記 (2931)
+プレイ日記 (2932)
 映画考察 (66)
 心理学 (78)
 エンタメ紹介所 (52)
@@ -246,8 +246,8 @@ POPPOの変な記事担当です。武田信玄の軍配が欲しくて100円貯
 
 アーカイブ
 
-  * [ ] 2026 (3)
-  + 1月 (3)
+  * [ ] 2026 (4)
+  + 1月 (4)
   * [ ] 2025 (365)
   + 12月 (31)
   + 11月 (30)

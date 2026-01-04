@@ -1,251 +1,268 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:43:51 GMT content-type: text/html;
-charset=UTF-8 x-powered-by: PHP/8.2.29 x-dns-prefetch-control: on x-pingback:
-https://scienceetfoi.com/xmlrpc.php p3p: CP="ALL DSP NID CURa ADMa DEVa HISa
-OTPa OUR NOR NAV DEM" link: /scienceetfoi.com/wp-json/>;
-rel="https://api.w.org/" link: /scienceetfoi.com/wp-json/wp/v2/posts/18671>;
-rel="alternate"; title="JSON"; type="application/json" link:
-/scienceetfoi.com/?p=18671>; rel=shortlink x-litespeed-cache-control:
-public,max-age=604800 x-litespeed-tag:
-ec3_post,ec3_URL.43c53abdf97aec7ff8ad89f7a8b1320d,ec3_Po.18671,ec3_guest,ec3_,ec
-3_MIN.ee62b91e4e295d2c51bd772cdbfe37e2.css,ec3_MIN.23d8bbb2906edb1a92447c4cc098f
-18d.js nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-x-litespeed-cache: miss report-to:
-{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare
-.com/report/v4?s=8t1FOvRSPYv74jmo8KA9K8LvZt3p6KskzAz6yIIvPqH7NGTwhtaiijA1ufgBpok
-O8YqC0OtAdLC57vrIMJ1mSTePIWflh0HZ0%2FmzEAo4EKm%2FvvQ7fOK1AGxZPrM%3D"}]} vary:
-Accept-Encoding server: cloudflare platform: hostinger panel: hpanel
-content-security-policy: upgrade-insecure-requests alt-svc: h3=":443"; ma=86400
-x-turbo-charged-by: LiteSpeed cf-cache-status: DYNAMIC cf-ray:
-9b83f50f8d752e92-CDG #Science & Foi » Flux Science & Foi » Flux des commentaires
-Science & Foi » La doctrine du péché originel (version augustinienne)
-peut-t-elle s’écrouler ? Introduction Flux des commentaires JSON oEmbed (JSON)
-oEmbed (XML)
+HTTP/2 200 x-powered-by: PHP/8.2.29 content-type: text/html; charset=UTF-8
+x-pingback: https://catholicus.eu/fr/xmlrpc.php link:
+/catholicus.eu/fr/wp-json/>; rel="https://api.w.org/" link:
+/catholicus.eu/fr/wp-json/wp/v2/posts/4804>; rel="alternate"; title="JSON";
+type="application/json" link: /catholicus.eu/fr/?p=4804>; rel=shortlink date:
+Sun, 04 Jan 2026 17:24:57 GMT server: LiteSpeed platform: hostinger panel:
+hpanel content-security-policy: upgrade-insecure-requests alt-svc: h3=":443";
+ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000,
+h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000;
+v="43,46" #Catholicus.eu Français » Flux Catholicus.eu Français » Flux des
+commentaires Catholicus.eu Français » Le Péché : La Blessure que le Christ est
+Venu Guérir – Une Vision Catholique Profonde pour le Monde d’Aujourd’hui Flux
+des commentaires JSON oEmbed (JSON) oEmbed (XML)
 
-Science & Foi
-  * Accueil
-  * Questions
-  * Ressources
-  + Articles et essais
-  o Les essentiels
-  o Les Faraday Papers
-  o Nos séries
-  + Livres et ebooks
-  o Nos ouvrages Science & Foi
-  o Compléments au Livre ‘Origines’
-  + Vidéos et cours en ligne
-  o Videos et diaporamas
-  o L’évolution à l’école
-  o Cours en ligne science & religion
-  + Evénements et partenaires
-  o Webinaires et conférences
-  o Liens externes et partenaires
-  * Le Blog
-  * Boutique
-  + Nos livres
-  + Nos eBooks
-  * ♡ Donner
-  * A Propos
-  + Contactez-nous
-  + Qui sommes-nous ?
-  + Ce que nous croyons
-  + Pourquoi le Blog création & évolution ?
-  + Commentaires ou Suggestions
-  + Mentions Légales
-  * ____________________ (BUTTON)
+(Recherche) Recherche___________
 
-Sélectionner une page
+dimanche , janvier 4 2026
+  * Español
+  * English
+  * Français
+  * Deutsch
+  * Italiano
+  * Português
+  * Polski
 
-La doctrine du péché originel (version augustinienne) peut-t-elle s’écrouler ?
-Introduction
+(Recherche) Recherche___________
 
-Posté par Bruno Synnott | 22 Juin 2016 | Adam et Eve, péché originel | 33 |
-Niveau : 1-Tout niveau
-La doctrine du péché originel (version augustinienne) peut-t-elle s’écrouler ?
-Introduction
+Catholicus.eu Français ✞ Les catholiques européens en français
 
-Article 1 sur un total de 5 pour la série :
+  * Home
+  * Doctrine et Foi
+  + Catéchisme de l’Église Catholique
+  + Dogmes de la Foi
+  + Saintes Écritures
+  + Sacrements
+  + Les Commandements
+  * Histoire et Tradition
+  + Histoire de l’Église
+  + Pères de l’Église et Docteurs
+  + Conciles Œcuméniques
+  + Magistère de l’Église
+  + Liturgie et Année Liturgique
+  * Morale et Vie Chrétienne
+  + Doctrine Sociale de l’Église
+  + Bioéthique et Questions Contemporaines
+  + Famille et Mariage
+  + Écologie et Protection de la Création
+  + Vertus Chrétiennes
+  * Prière et Spiritualité
+  + Prière et Vie Spirituelle
+  + Eucharistie et Adoration
+  + Dévotions Mariales
+  + Saints et Calendrier Liturgique
+  + Sacramentaux et Pèlerinages
+  * Foi et Culture
+  + Philosophie et Foi
+  + Science et Religion
+  + Évangélisation et Nouvelles Technologies
+  + Culture Populaire et Catholicisme
+  + Témoignages de Foi
+  * Α- Ω
 
-La doctrine du péché originel peut-elle s'écrouler ?
+Ave Christus Rex
+  * La Sainte Famille : le foyer où Dieu a appris à aimer (et la boussole dont
+le monde a besoin aujourd’hui)
+  * Une seule Nativité, trois Mystères : le symbolisme saisissant des trois
+saintes Messes du jour de Noël dans la Liturgie traditionnelle
+  * Targum Neofiti : L’écho oublié qui révèle la voix vivante de Dieu dans
+l’Écriture
+  * L’Église synodale : renouveau ou dérive ?
+  * LA CRÉDENCE LITURGIQUE :LE « PETIT AUTEL » QUI SOUTIENT LE MIRACLE
+  * Catholique… mais à ma manière ? L’illusion d’une foi sur mesure et l’appel
+à redécouvrir l’obéissance du cœur
+  * Quand Rome parle : le mystère et la mission du consistoire extraordinaire
+  * NON NOBIS DOMINE : L’HUMILITÉ QUI SAUVE L’ÂME
+  * Marie, Corédemptrice et Médiatrice : la Mère qui partage la Croix et
+distribue la Grâce
+  * « Vous ne pouvez pas servir Dieu et l’Argent » : le dilemme éternel du cœur
+humain
+
+Le Péché : La Blessure que le Christ est Venu Guérir – Une Vision Catholique
+Profonde pour le Monde d’Aujourd’hui
+
+catholicus 15 de août de 2025 Catéchisme de l'Église Catholique, Doctrine et Foi
+Laisser un commentaire
+
+Articles connexes
+
+Targum Neofiti : L’écho oublié qui révèle la voix vivante de Dieu dans
+l’Écriture
+
+28 de novembre de 2025
+
+« Vous ne pouvez pas servir Dieu et l’Argent » : le dilemme éternel du cœur
+humain
+
+21 de septembre de 2025
+
+« Non Possumus » : Quand la fidélité au Christ n’admet aucune négociation
+
+4 de septembre de 2025
+
+Introduction : Le Péché dans un Monde qui le Nie
+
+Nous vivons une époque singulière : alors que la culture moderne cherche à
+minimiser, justifier, voire nier le concept de péché, l’âme humaine en ressent
+toujours le poids. L’Église catholique, fidèle à la Révélation divine et à la
+sagesse des Saints, nous enseigne que le péché n’est pas une simple « erreur »
+psychologique, mais une rupture avec Dieu, avec soi-même et avec les autres.
+
+Comme l’écrivait saint Paul : « Tous ont péché et sont privés de la gloire de
+Dieu » (Romains 3, 23). Mais cette vérité, loin d’être un motif de désespoir,
+est la porte ouverte à la miséricorde rédemptrice du Christ.
+
+Dans cet article, nous explorerons :
+ 1. Qu’est-ce que le péché selon la théologie catholique ?
+ 2. Le drame du péché dans l’histoire du salut.
+ 3. Les types de péché : mortel et véniel.
+ 4. Comment le péché affecte notre relation avec Dieu et le prochain.
+ 5. Le remède divin : la repentance et la Confession.
+ 6. Un guide pratique pour examiner notre conscience et vivre en état de grâce.
   ___________________________________________________________________________
 
-Partie 1 : Introduction
+1. Qu’est-ce que le Péché ? Une Définition qui Dépasse le « Politiquement
+Correct »
 
-La doctrine du péché originel occupe une place importante en théologie. Elle a
-été forgée par Augustin aux alentours de 396-97 (Ad Simplicianum), au début de
-son épiscopat^^[1]. Elle stipule qu’à la suite du péché d’Adam, l’humanité
-entière est privée[2] de la grâce divine. Elle chute dans un état de nature
-défectueux et corrompu[3], et hérite par solidarité de la culpabilité des
-premiers parents. Cette doctrine fut grandement inspirée par une interprétation
-littérale et historicisante du récit d’Adam et Ève.
+Le Catéchisme de l’Église Catholique (CEC) le définit clairement : « Le péché
+est une faute contre la raison, la vérité, la conscience droite ; il est un
+manquement à l’amour véritable envers Dieu et envers le prochain, à cause d’un
+attachement pervers à certains biens » (CEC 1849).
 
-Ajoutons qu’elle apportait également une explication sur l’origine du mal :
-c’était non la faute de Dieu ou de la matière, mais c’était uniquement la faute
-de l’homme. On peut appeler cela une conception morale du mal où la condamnation
-et la souffrance existentielle de l’humanité sont pleinement justifiées, et
-découlent de la volonté libre de nos premiers parents.
+Le péché est essentiellement :
+  * Une offense à Dieu : Il brise notre amitié avec Lui.
+  * Un acte d’égoïsme : Nous préférons notre volonté à la Sienne.
+  * Un esclavage : Il nous affaiblit et nous incline à le répéter.
 
-eXploration_Theologique Au temps d’Augustin, cette intuition a connue, un
-développement rapide. Elle a été forgée dans un contexte très polémique où
-étaient menacés les fondements de la foi chrétienne. Il y avait notamment une
-conception du mal assez répandue par les mouvements gnostiques à laquelle
-Augustin lui-même adhéra durant près de 10 ans. On y enseignait que l’origine du
-mal se trouvait dans la chair et la matérialité du monde. Converti au
-christianisme, Augustin s’opposa fortement à cette idée et montra que le mal
-n’est pas une réalité préexistante ou coéternelle au Bien. Dieu seul était
-éternel. Le mal était plutôt le résultat d’un libre choix de désobéir à Dieu.
-
-En même temps, Augustin dû faire face à une autre hérésie grandissante à son
-époque : Pélage. On y enseignait que les hommes naissaient dans la même
-condition qu’Adam et pouvaient, par leur force naturelle, s’abstenir de pécher.
-Devant cette perspective, Augustin montra que personne n’est sauvé sans Dieu. Il
-souligna la nécessité de la rédemption pour tous (les bébés naissants compris)
-et conserva bien haut le primat de la grâce dans l’œuvre du salut.
-
-Bien évidemment, Augustin avait raison d’insister sur ces deux points.
-Cependant, très tôt Augustin fut accusé d’avoir introduit un élément nouveau
-dans la théologie catholique^^[4] en raison de la manière dont il a radicalisé
-à l’extrême les conséquences de la « chute » d’Adam. Il fut démontré que pour
-conceptualiser son dogme, le grand théologien latin s’inspira des catégories
-philosophiques néo-platoniciennes prédominantes à cette époque. Selon ce cadre
-de pensée « essentialiste[5] », Dieu « est ce qui a le plus d’être » et tout le
-reste se décline en degrés d’être, depuis ce qui a beaucoup d’être, vers ce qui
-en a le moins : le néant ou le non-être absolue.
-
-Certes les Pères de l’église avant lui avaient commencé à réfléchir au péché
-d’Adam^^[6], mais jamais de manière aussi systématique, en raisonnant sur les
-effets « ontologiques » de la chute d’Adam dans un cadre essentialiste. C’est
-ainsi que l’on spécula sur sa nature des premiers parents avant et après la
-chute. Or le texte veut-il réellement amener le lecteur à discerner deux états
-de nature diamétralement opposé ? Veut-il que nous envisagions l’humanité
-pécheresse comme privée de toute grâce surnaturelle,  comprise comme une
-nature surajoutée à une nature charnelle, devenue incapable en soi du moindre
-bien spirituel ?
-
-Voici qu’aujourd’hui, avec l’avancée des sciences de la nature et des nouvelles
-connaissances exégétiques, cette conception de la chute est fortement remise en
-question. Dans les prochains billets, nous allons tenter de montrer
-comment l’intention du récit adamique n’était peut-être pas de présenter une
-création paradisiaque et idyllique, ni même une humanité sainte et achevée dès
-le départ. Mais plutôt d’inviter les premiers lecteurs à réaliser qu’en dépit de
-la grandeur de l’humanité au yeux de Dieu (comme image), l’humain est vulnérable
-devant les forces hostiles présentes dans la création. Une faiblesse qui, loin
-d’être une tare à déplorer, reflète la condition humaine, et invite chacun à se
-convertir au Dieu de l’alliance, le créateur du monde, lequel est riche
-en bonté et en miséricorde, au point de revêtir sa créature de peau après sa
-faute.
-
-
-
-Notes
+Le péché n’est pas seulement « faire quelque chose de mal », mais rejeter
+l’amour de Dieu. Adam et Ève, en désobéissant, n’ont pas seulement mangé un
+fruit, ils ont dit : « Nous ne Te faisons pas confiance, nous voulons être comme
+des dieux » (Genèse 3, 5).
   ___________________________________________________________________________
 
-[1] On retrouve aussi la mention dans les Confessions, Livre V, IX, 16
+2. Le Drame du Péché dans l’Histoire du Salut
 
-[2] Augustin parle de « privatio » (privation de la grâce)
+Dès le premier péché (le péché originel), l’humanité en a subi les conséquences
+: rupture avec Dieu, souffrance et mort. Mais Dieu ne nous a pas
+abandonnés. L’histoire du salut est l’histoire de Dieu cherchant l’homme perdu.
+  * Dans l’Ancien Testament, nous voyons Israël pécher et se repentir (ex. : le
+veau d’or, Exode 32).
+  * Dans les Évangiles, le Christ apparaît comme l’Agneau qui enlève le péché du
+monde (Jean 1, 29).
+  * Sur la Croix, Jésus prend sur Lui nos péchés et nous rachète.
+  ___________________________________________________________________________
 
-[3] Il emploie le terme « defectus » (lat. défectuosité) et « corruptio » (lat.
-corruption), laissant l’homme sans force et s’inclinant irrémédiablement vers le
-néant de l’être.
+3. Péché Mortel vs. Péché Véniel : Pourquoi la Différence est Cruciale
 
-[4] Pour plus de détails, voir au chapitre 4 la discussion sur La problématique
-du péché originel version augustinienne
+Tous les péchés ne se valent pas. L’Église distingue :
 
-[5] Philosophie qui spécule sur l’essence et la nature des choses en soi
+A) Le Péché Mortel
 
-[6] Tertullien parle de « tare originelle » (vitium originis, dans le De anima,
-41.1-2); Irénée de Lyon parle de « blessure ancienne infligée par le serpent»;
-Justin parle de la race humaine « qui est tombée depuis
+C’est une rupture totale avec la grâce de Dieu. Pour qu’un péché soit mortel,
+trois conditions sont requises :
+ 1. Matière grave (ex. : adultère, avortement, haine délibérée).
+ 2. Pleine connaissance que c’est un péché.
+ 3. Consentement pleinement volontaire.
 
-Adam sous la mort et l’erreur du serpent » (Dialogue avec Tryphon, 88.2);
-Jean-Michel Maldamé rapporte que pour Basile de Césarée « l’état primitif de
-l’homme ne devait guère différer de son état actuel » (Maldamé, Le péché
-originel, 2008, Cerf, p.57);
+Conséquence : Celui qui meurt en état de péché mortel sans repentance se sépare
+éternellement de Dieu (CEC 1861).
 
+B) Le Péché Véniel
 
+Il affaiblit notre relation avec Dieu sans la rompre (ex. : un mensonge pieux,
+un manque de charité). Bien qu’il ne nous prive pas de la grâce, il refroidit
+notre ferveur spirituelle.
+  ___________________________________________________________________________
 
+4. Les Effets du Péché dans Notre Vie
 
-Crédit illustration : eldeiv / 123RF Banque d’images
-  * PARTAGER
+Le péché n’est pas un acte privé : il a des conséquences communautaires et
+cosmiques.
+  * Sur le plan personnel : Il obscurcit la conscience et nous fait perdre la
+paix.
+  * Dans la famille : L’égoïsme et le refus du pardon créent des divisions.
+  * Dans la société : Les péchés sociaux (injustice, corruption) engendrent des
+structures de mal.
+  ___________________________________________________________________________
+
+5. Le Remède Divin : Repentir et Confession
+
+Dieu ne nous laisse pas sans remède. La Confession est le Sacrement de la
+Miséricorde, où le Christ nous pardonne par le prêtre.
+
+Étapes pour une Bonne Confession (Guide Pratique) :
+
+ 1. Examen de conscience : Passer en revue sa vie à la lumière des
+Commandements.
+ 2. Douleur des péchés : Se repentir par amour pour Dieu (contrition) ou par
+crainte de l’enfer (attrition).
+ 3. Ferme propos : Décision sincère d’éviter le péché.
+ 4. Confession sincère : Accuser tous les péchés mortels (nombre et nature).
+ 5. Accomplir la pénitence : Réparer par de bonnes œuvres.
+
+« Celui qui cache ses fautes ne réussit pas, mais celui qui les avoue et y
+renonce obtient miséricorde » (Proverbes 28, 13).
+  ___________________________________________________________________________
+
+6. Vivre en État de Grâce : Comment Combattre le Péché au Quotidien
+
+  * Prière quotidienne : L’amitié avec Dieu fortifie contre les tentations.
+  * Vigilance : Éviter les occasions de péché (ex. : mauvaises fréquentations,
+contenus immoraux).
+  * Vie sacramentelle : Messe, Confession fréquente, Eucharistie.
+  * Charité : Aimer son prochain nous éloigne de l’égoïsme.
+  ___________________________________________________________________________
+
+Conclusion : La Victoire du Christ sur le Péché
+
+Le péché est réel, mais le Christ a vaincu le péché et la mort. Ne vivons pas
+comme des esclaves, mais comme des enfants rachetés. Si tu es tombé, relève-toi
+par la Confession. Si tu luttes, confie-toi à la grâce.
+
+« Là où le péché s’est multiplié, la grâce a surabondé » (Romains 5, 20).
+
+Aujourd’hui est le jour pour revenir à Dieu. Es-tu prêt à accueillir Sa
+miséricorde ?
+  ___________________________________________________________________________
+
+*Tu veux aller plus loin ? Lis le Catéchisme (CEC 1846-1876) ou parle à un
+prêtre. La lutte contre le péché est dure, mais tu n’es pas seul : l’Église et
+les sacrements sont ta force.*
+[Partage cet article avec quelqu’un qui a besoin d’espérance !]
+PDF Téléchargez et diffusez notre foi catholique.
+Partager
+  * Facebook
   * Twitter
+  * Stumbleupon
+  * LinkedIn
   * Pinterest
-  * Impression & PDF
 
-5 Articles pour la série :
+Tagspéché
 
-La doctrine du péché originel peut-elle s'écrouler ?
-  * La doctrine du péché originel (version augustinienne) peut-t-elle s’écrouler
-? Introduction
-  * La doctrine du péché originel peut-elle s’écrouler ? Partie 2 : Le paradis
-terrestre ?
-  * La doctrine du péché originel peut-elle s’écrouler ? Partie 3 : Et le
-serpent dans tout cela ?
-  * La doctrine du péché originel peut-elle s’écrouler ? Partie 4 : Genèse 2-3,
-un récit de conversion ?
-  * La doctrine du péché originel peut-elle s’écrouler ? Partie 5 : L’arbre de
-la connaissance
+À propos catholicus
 
-Taux:
+Pater noster, qui es in cælis: sanctificétur nomen tuum; advéniat regnum tuum;
+fiat volúntas tua, sicut in cælo, et in terra. Panem nostrum cotidiánum da nobis
+hódie; et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus
+nostris; et ne nos indúcas in tentatiónem; sed líbera nos a malo. Amen.
+@catholicus_eu
+Précédent L’Assomption de la Vierge : Triomphe de l’Amour et Victoire de
+l’Espérance
+Suivant Titulus Crucis : Le conflit des inscriptions et leur signification
 
-A propos de l'auteur
+Voir aussi
 
-Bruno Synnott
+Les 3 grands ennemis du sacrement de confession : Peur, Honte et Paresse
 
-Bruno Synnott
+« Recevez l’Esprit Saint. Ceux à qui vous remettrez les péchés, ils leur seront
+remis ; …
 
-Pasteur à Montréal et exerçant les soins pastoraux en milieu hospitalier, Bruno
-réside au Québec. Titulaire d’un master en théologie pratique, il est passionné
-par la théologie et la philosophie.
+Laisser un commentaire
 
-Articles Similaires
+Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont indiqués
+avec *
 
-« 4 vues à propos de l’Adam historique » chez Zondervan (1/4). « Pas d’Adam
-historique » selon Denis Lamoureux
-
-« 4 vues à propos de l’Adam historique » chez Zondervan (1/4). « Pas d’Adam
-historique » selon Denis Lamoureux
-
-mar 06 Oct 2015
-Redécouvrir Genèse : Considérations sur les auteurs et les destinataires de
-Genèse 1-3
-
-Redécouvrir Genèse : Considérations sur les auteurs et les destinataires de
-Genèse 1-3
-
-sam 07 Déc 2013
-"Adam et Eve ont-ils réellement existé? Réponse aux arguments évangéliques" (4)
-par Georges Daras
-
-"Adam et Eve ont-ils réellement existé? Réponse aux arguments évangéliques" (4)
-par Georges Daras
-
-mar 17 Jan 2012
-La doctrine du péché originel peut-elle s’écrouler ? Partie 2 : Le paradis
-terrestre ?
-
-La doctrine du péché originel peut-elle s’écrouler ? Partie 2 : Le paradis
-terrestre ?
-
-mar 28 Juin 2016
-S’abonner aux commentaires
-Notification pour
-[nouveaux commentaires de cet article]
-____________________
-›
-guest
-Label
-____________________________________________________________
-____________________________________________________________
-____________________________________________________________
-____________________________________________________________
-____________________ Prenom (Nom)*
-____________________ E-mail*
-(Ne sera pas affiché)
-____________________ Site web
-L'adresse e-mail ne sera pas diffusée - La charte des commentaires est visible
-ici.
-[X] Envoyer
-
-Δ
+Commentaire *
 _____________________________________________
 _____________________________________________
 _____________________________________________
@@ -254,119 +271,92 @@ _____________________________________________
 _____________________________________________
 _____________________________________________
 _____________________________________________
-guest
-Label
-____________________________________________________________
-____________________________________________________________
-____________________________________________________________
-____________________________________________________________
-____________________ Prenom (Nom)*
-____________________ E-mail*
-(Ne sera pas affiché)
-____________________ Site web
-L'adresse e-mail ne sera pas diffusée - La charte des commentaires est visible
-ici.
-[X] Envoyer
 
-Δ
-_____________________________________________
-_____________________________________________
-_____________________________________________
-_____________________________________________
-_____________________________________________
-_____________________________________________
-_____________________________________________
-_____________________________________________
-33 Commentaires
-Le plus ancien en 1er
-Le plus récent en 1er Le plus populaire en 1er
-Commentaires en ligne
-Afficher tous les commentaires
-(BUTTON) Voir les commentaires
-(BUTTON) Afficher plus de commentaires
+Nom ______________________________
 
-Navigation
+E-mail ______________________________
 
-w Sommaire du Blog
-l Charte pour les commentaires
-a Voir toutes les séries
+Site web ______________________________
 
-Recherche sur le site
+Laisser un commentaire
 
-Rechercher
-____________________ (BUTTON)
-recherche avancée...
+Vera Catholica Fides
 
-par catégorie, niveau, type d'article...
+Notre-Dame de Lourdes, priez pour nous
 
-Ne manquez pas !
+Basilique du Pilier
 
-Livre "ORIGINES" de l'homme et de l'univers par D. et L. HAARSMA
+Catholicus.eu, le cœur tourné vers le Pilar.
+  * Récents
+  * Populaire
+  * Commentaires
+  * Tags
 
-Livre « ORIGINES » de l’homme et de l’univers par D. et L. HAARSMA
+  * La Sainte Famille : le foyer où Dieu a appris à aimer (et la boussole dont
+le monde a besoin aujourd’hui) 7 jours il y a
+  * Une seule Nativité, trois Mystères : le symbolisme saisissant des trois
+saintes Messes du jour de Noël dans la Liturgie traditionnelle 1 semaine il y a
+  * Targum Neofiti : L’écho oublié qui révèle la voix vivante de Dieu dans
+l’Écriture 28 de novembre de 2025
+  * L’Église synodale : renouveau ou dérive ? 24 de novembre de 2025
+  * LA CRÉDENCE LITURGIQUE :LE « PETIT AUTEL » QUI SOUTIENT LE MIRACLE 21 de
+novembre de 2025
 
-Restez connecté !
+  * La Vulgate Latine : Le Phare de la Foi Catholique à Travers les Siècles 21
+de janvier de 2025 12
+  * Les Noces de Cana : Le Miracle qui Révéla la Gloire du Christ 26 de janvier
+de 2025 12
+  * La Vierge de Medjugorje : Un appel à la conversion dans le monde moderne 14
+de novembre de 2024 5
+  * Le défi de la spiritualité dans un monde hyperconnecté 3 de octobre de 2024
+5
+  * Pourquoi la messe traditionnelle est-elle si détestée ? 24 de janvier de
+2025 5
 
-Nos livres et ebooks
+  * Parole de DIEU: Hello, i feel that i noticed you visited my weblog so i came
+to go back the favo...
+  * Lorna: Hi! I rsalіze this is kkind of off-topіc however I had to ask. Does
+operating a...
+  * Miami locksmith: My brother recommended I might like this blog. He used to
+be entirely right. Thi...
+  * Rgo365: Huггah! After all I got a webpaage from where I know how to tгuly
+get usefᥙl inf...
+  * Joker88: I was recօmmendeɗ this webЬ site by my cousin. I'm not ѕure whether
+this рost is...
 
-DERNIERS ARTICLES
+Carême Pape Jésus Semaine Sainte Catholicisme Bible Église catholique Marie
+Mariage catholique Jeudi Saint Dogmes Catéchisme Baptême Rosaire Vendredi Saint
+prière Eucharistie Dimanche des Rameaux Conclave démon Pentecôte enfants Ancien
+Testament Foi
 
-L'enfant Jésus dans sa mangeoire flotte dans le cosmos avec la lumière de la
-Création
-dim 21 Déc 2025
+Ave, Maria, grátia plena, Dóminus tecum. Benedícta tu in muliéribus, et
+benedíctus fructus ventris tui, Iesus. Sancta Maria, Mater Dei, ora pro nobis
+peccatóribus, nunc et in hora mortis nostræ. Amen.
 
-Noël : Quand l’Infini entre dans le Fini | Une relecture scientifique de
-l’Incar...
+Catholiques européens
 
-Une boite de sardines avec une inscription : "Idéologies"
-mer 17 Déc 2025
+  * Español
+  * English
+  * Français
+  * Deutsch
+  * Italiano
+  * Português
+  * Polski
 
-Les packs idéologiques
+Glória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc et
+semper et in sǽcula sæculórum. Amen.
 
-Un homme studieux étudie la Bible dans un laboratoire rempli d'expériences.
-Derrière lui des fragments d'ADN.
-lun 20 Oct 2025
+Catholicus.eu
 
-1 Ti 6.20,La Bible contre la science ? (3/3) : Le glissement rhétorique de la «
-...
+  * Lettre de motivation
+  * Avis Légal
+  * Politique de Cookies
+  * Politique de Confidentialité
 
-Un homme studieux étudie la Bible dans un laboratoire rempli d'expériences.
-Derrière lui des fragments d'ADN.
-dim 12 Oct 2025
+Social
 
-1 Ti 6.20, la Bible est-elle contre la science ? (2/3) Le mystère de la
-« fausse...
+In nómine Patris, et Fílii, et Spíritus Sancti. Amen.
+Version française de Catholicus.eu | Version originale en Español
+© Copyright 2026, Tous droits réservés
 
-RUBRIQUES:
-
-Le blog | Questions | videos et diaporamas | Soutenir S&F
-
-NOUS CONNAÎTRE
-
-  * Contactez-nous
-  * Qui sommes-nous?
-  * Ce que nous croyons
-  * Pourquoi un Blog création & évolution?
-  * Commentaires ou Suggestions
-  * Webinaires Événements et conférences
-
-© Science & Foi 2010-2024 | Mentions légales
-  * Suivre
-  * Suivre
-  * Suivre
-
-Pin It on Pinterest
-
-33
-0
-Participez à la conversation! Laissez un commentaire.x
-()
-x
-| Répondre
-
-
-____________________________________________________________
-____________________________________________________________
-____________________________________________________________
-____________________________________________________________
-(BUTTON) Insert
+error: catholicus.eu

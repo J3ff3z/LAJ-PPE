@@ -1,13 +1,13 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:49:12 GMT
-server: mw-web.eqiad.main-8f8dcf6c-qnhph
+date: Sun, 04 Jan 2026 17:31:03 GMT
+server: mw-web.eqiad.main-8f8dcf6c-rf992
 x-content-type-options: nosniff
 content-language: pl
 accept-ch: 
 content-security-policy-report-only: script-src 'unsafe-eval' blob: 'self' meta.wikimedia.org *.wikimedia.org *.wikipedia.org *.wikinews.org *.wiktionary.org *.wikibooks.org *.wikiversity.org *.wikisource.org wikisource.org *.wikiquote.org *.wikidata.org *.wikifunctions.org *.wikivoyage.org *.mediawiki.org 'unsafe-inline' auth.wikimedia.org; default-src 'self' data: blob: upload.wikimedia.org https://commons.wikimedia.org meta.wikimedia.org *.wikimedia.org *.wikipedia.org *.wikinews.org *.wiktionary.org *.wikibooks.org *.wikiversity.org *.wikisource.org wikisource.org *.wikiquote.org *.wikidata.org *.wikifunctions.org *.wikivoyage.org *.mediawiki.org wikimedia.org en.wikipedia.org en.wikibooks.org en.wikinews.org en.wikiquote.org en.wikiversity.org en.wikivoyage.org en.wiktionary.org www.mediawiki.org api.wikimedia.org commons.wikimedia.org foundation.wikimedia.org incubator.wikimedia.org species.wikimedia.org wikimania.wikimedia.org www.wikidata.org www.wikifunctions.org auth.wikimedia.org; style-src 'self' data: blob: upload.wikimedia.org https://commons.wikimedia.org meta.wikimedia.org *.wikimedia.org *.wikipedia.org *.wikinews.org *.wiktionary.org *.wikibooks.org *.wikiversity.org *.wikisource.org wikisource.org *.wikiquote.org *.wikidata.org *.wikifunctions.org *.wikivoyage.org *.mediawiki.org wikimedia.org 'unsafe-inline'; object-src 'none'; report-uri /w/api.php?action=cspreport&format=json&reportonly=1
-last-modified: Sat, 20 Dec 2025 16:49:12 GMT
+last-modified: Sat, 03 Jan 2026 23:32:39 GMT
 content-type: text/html; charset=UTF-8
-age: 2
+age: 0
 accept-ranges: bytes
 x-cache: cp6016 miss, cp6016 miss
 x-cache-status: miss
@@ -15,23 +15,23 @@ server-timing: cache;desc="miss", host;desc="cp6016"
 strict-transport-security: max-age=106384710; includeSubDomains; preload
 report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
 nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
-set-cookie: WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT
-set-cookie: WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikisource.org;HttpOnly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT
-set-cookie: WMF-DP=ba0;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+set-cookie: WMF-Last-Access=04-Jan-2026;Path=/;HttpOnly;secure;Expires=Thu, 05 Feb 2026 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=04-Jan-2026;Path=/;Domain=.wikisource.org;HttpOnly;secure;Expires=Thu, 05 Feb 2026 12:00:00 GMT
+set-cookie: WMF-DP=4b7;Path=/;HttpOnly;secure;Expires=Mon, 05 Jan 2026 00:00:00 GMT
 x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7
 cache-control: private, s-maxage=0, max-age=0, must-revalidate, no-transform
 vary: Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent
 set-cookie: GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikisource.org
 set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
-set-cookie: WMF-Uniq=AxBudvwu-StpaqW97tPeGALdAAAAAFvdL4b4WJFZrITB6pJXgSwipIV_zeW-9Laf;Domain=.wikisource.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027 00:00:00 GMT
-x-request-id: 2995d23c-64f5-4da4-830e-6e6ded33b910
+set-cookie: WMF-Uniq=0eW4CdyrlOYFfoa-xF80egLeAAAAAFvd3S-xnQOZ2qfEk8Ih1EtVUsM4lBitq3Ds;Domain=.wikisource.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027 00:00:00 GMT
+x-request-id: 891f3628-8272-42b3-bafc-e08a2f4e1e05
 
 <!DOCTYPE html>
 <html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available" lang="pl" dir="ltr">
 <head>
 <meta charset="UTF-8">
 <title>Antologia współczesnych poetów polskich/całość - Wikiźródła, wolna biblioteka</title>
-<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available";var cookie=document.cookie.match(/(?:^|; )plwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgRequestId":"2995d23c-64f5-4da4-830e-6e6ded33b910","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Antologia_współczesnych_poetów_polskich/całość","wgTitle":"Antologia współczesnych poetów polskich/całość","wgCurRevisionId":3703886,"wgRevisionId":3703886,"wgArticleId":1234477,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Antologia współczesnych poetów polskich"],"wgPageViewLanguage":"pl","wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgRelevantPageName":"Antologia_współczesnych_poetów_polskich/całość","wgRelevantArticleId":1234477,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":3703886,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","pageVariantFallbacks":"pl"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":1000,"wgWMEPageLengthBucket":2,"prpProofreadPageBookNamespaces":[0],"prpSourceIndexPage":"Indeks:Antologia współczesnych poetów polskich (Króliński)","wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available";var cookie=document.cookie.match(/(?:^|; )plwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgRequestId":"891f3628-8272-42b3-bafc-e08a2f4e1e05","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Antologia_współczesnych_poetów_polskich/całość","wgTitle":"Antologia współczesnych poetów polskich/całość","wgCurRevisionId":3703886,"wgRevisionId":3703886,"wgArticleId":1234477,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Antologia współczesnych poetów polskich"],"wgPageViewLanguage":"pl","wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgRelevantPageName":"Antologia_współczesnych_poetów_polskich/całość","wgRelevantArticleId":1234477,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":3703886,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","pageVariantFallbacks":"pl"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":1000,"wgWMEPageLengthBucket":2,"prpProofreadPageBookNamespaces":[0],"prpSourceIndexPage":"Indeks:Antologia współczesnych poetów polskich (Króliński)","wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
 RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.wikisource.download","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.enhanced-search","ext.gadget.page-numbers","ext.gadget.page-file-description","ext.gadget.sk","ext.gadget.Typo-pl","ext.gadget.edit-summaries","ext.gadget.LegacyToolbar2006","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 }];});});</script>
@@ -497,7 +497,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
 
 						<div id="siteSub" class="noprint">Z Wikiźródeł, wolnej biblioteki</div>
 					</div>
-					<div id="contentSub"><div id="mw-content-subtitle"><div class="subpages">&lt; <bdi dir="ltr"><a href="/wiki/Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich" title="Antologia współczesnych poetów polskich">Antologia współczesnych poetów polskich</a></bdi></div><table class="pr_quality" title="54 strony uwierzytelnione, 511 stron skorygowanych i 0 stron przepisanych"><tr><td class="quality4" style="width: 9.5575221238938%;"></td><td class="quality3" style="width: 90.442477876106%;"></td><td class="quality2" style="width: 0%;"></td><td class="quality1" style="width: 0%;"></td><td class="quality0" style="width: 0%;"></td><td class="qualitye" style="width: 0%;"></td></tr></table></div></div>
+					<div id="contentSub"><div id="mw-content-subtitle"><div class="subpages">&lt; <bdi dir="ltr"><a href="/wiki/Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich" title="Antologia współczesnych poetów polskich">Antologia współczesnych poetów polskich</a></bdi></div><table class="pr_quality" title="54 strony uwierzytelnione, 519 stron skorygowanych i 0 stron przepisanych"><tr><td class="quality4" style="width: 9.4240837696335%;"></td><td class="quality3" style="width: 90.575916230366%;"></td><td class="quality2" style="width: 0%;"></td><td class="quality1" style="width: 0%;"></td><td class="quality0" style="width: 0%;"></td><td class="qualitye" style="width: 0%;"></td></tr></table></div></div>
 					
 					
 					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="pl" dir="ltr"><table class="infobox ws-noexport dttable" cellpadding="4" style="width:250px; background:#f8f8f8;">
@@ -3586,8 +3586,223 @@ Twych ust — jedyny lek!
 <p><br />
 </p>
 <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
-<div style="display:table;text-align:justify;text-align-last:center;-moz-text-align-last:center;margin-bottom:3em;width:330px;"><i>ur. 1879 r. w Wróblówce na Podhalu. Obecnie nauczyciel gimnazyalny we Lwowie. Poezye: »Słoneczna pieśń«&#160;1905 i po czasopismach&#160;: »Krytyka«, »Chimera«, »Tydzień«.</i></div>
-</div>&#32;<span><span class="ws-pagenum ws-noexport" id="Str&#95;154" style="display:none;margin:0;padding:0" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/154">[<b><a href="/wiki/Strona:PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_(1908).djvu/154" class="prp-pagequality-4" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/154">154</a></b>]</span></span><div class="center" style="font-size:140%;margin-bottom:1em; width:auto; margin-left:auto; margin-right:auto;">CEZARY JELLENTA</div>
+<div style="display:table;text-align:justify;text-align-last:center;-moz-text-align-last:center;margin-bottom:3em;width:330px;"><i>ur. 1879 r. w Wróblówce na Podhalu. Obecnie nauczyciel gimnazyalny we Lwowie. Poezye: »Słoneczna pieśń«&#160;1905 i po czasopismach: »Krytyka«, »Chimera«, »Tydzień«.</i></div>
+</div>&#32;<span><span class="ws-pagenum ws-noexport" id="Str&#95;146" style="display:none;margin:0;padding:0" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/146">[<b><a href="/wiki/Strona:PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_(1908).djvu/146" class="prp-pagequality-3" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/146">146</a></b>]</span></span><div class="center" style="font-size:110%;margin-bottom:1em; width:auto; margin-left:auto; margin-right:auto;"><b>PÓJDĘ NA CICHE POLA...</b></div>
+<div class="poem">
+<p>Pójdę na ciche pola, na kwitnące sady,<br />
+Gdzie grają w śnie południa złote hymny pszczelne,<br />
+Gdzie źródła młodych marzeń biją nieśmiertelne<br />
+I moich snów dziecięcych czuwa anioł blady...<br />
+<br />
+Pójdę na białe, słońcem roześmiane chaty,<br />
+Gdzie śnią urokiem ziela wybujałe grzędy,<br />
+Gdzie święte, tajemnicze kwitnienia obrzędy<br />
+Mąci szałem radości ptactwa huf skrzydlaty.<br />
+<br />
+Tam, w cienistej zaciszy, patrząc w bujne plony,<br />
+Z dziadem o siwych włosach, które wiatr mu pieści,<br />
+Siądę — śnieżną rozkoszą kwiecia upojony —<br />
+<br />
+I będę słuchał jego długich opowieści:<br />
+W duszy mej barwną rzeszą zjawią się ogromne<br />
+Wizje dawnych czasów... I może zapomnę...
+</p>
+</div><br /><br />
+<div style="font-size:110%;margin-bottom:1em;"><b>Z CYKLU: »OJCOWIE«.</b></div>
+<div class="center" style="font-size:110%;margin-bottom:1em; width:auto; margin-left:auto; margin-right:auto;"><b>TĘSKNOTA PÓL.</b></div>
+<div class="poem">
+<p>Hen, hen, po polach płynie szum przedziwnej wieści:<br />
+Jakaś białość promienna, złoty sen o wiośnie!<br />
+Gorący wiatr śnieżycę całuje i pieści;<br />
+Żółty kwiatek na śniegu już wzeszedł i rośnie
+</p>
+</div><br />&#32;<span><span class="ws-pagenum ws-noexport" id="Str&#95;147" style="display:none;margin:0;padding:0" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/147">[<b><a href="/wiki/Strona:PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_(1908).djvu/147" class="prp-pagequality-3" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/147">147</a></b>]</span></span><div class="poem">
+<p>Białe pola już tają! mroczne strzechy śpiące<br />
+Wilgną! płoną już w słońcu długie mroźne sople!<br />
+Cały przód chaty święte ozłociło słońce;<br />
+Po strzesze z cichym pluskiem ciekną złote krople.<br />
+<br />
+Oto dźwierze chałupy niemo się otwarły:<br />
+W głębi stają olbrzymie Widma i Postacie —<br />
+Przechodzą próg schyleni i w ciszy umarłej<br />
+Po oborze w promiennym kroczą majestacie.<br />
+<br />
+Otwierają ogromne, podwórzowe wrota,<br />
+W świat wiodące, — nadziemska jakaś prze Ich wola,<br />
+Idą w dal, gdzie słoneczna Ich woła tęsknota,<br />
+W białą dal — hen, w śniegowe, złociejące pola...
+</p>
+</div><br /><br />
+<div class="center" style="font-size:110%;margin-bottom:1em; width:auto; margin-left:auto; margin-right:auto;"><b>WIOSENNE RANO.</b></div>
+<div class="poem">
+<p>Biała stokroć, zielone pręty, blade cienie,<br />
+Cichy żar, upojony swym własnym urokiem;<br />
+Złotych jaskrów na bagnie wilgotne płomienie,<br />
+Świeża zieleń — pachnące kwiaty nad potokiem!<br />
+<br />
+Srebrzysty deszcz wiosenny, niby pereł struga,<br />
+Mży miłośnie w mieniące mgły, na łan zielony —<br />
+Jasny owies wykwita w mrocznych brózdach pługa,<br />
+Promienny blask na deszczu drży jak ptak spłoszony.
+</p>
+</div><br />&#32;<span><span class="ws-pagenum ws-noexport" id="Str&#95;148" style="display:none;margin:0;padding:0" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/148">[<b><a href="/wiki/Strona:PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_(1908).djvu/148" class="prp-pagequality-3" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/148">148</a></b>]</span></span><div class="poem">
+<p>W dali Ojce umarli idą pustem polem —<br />
+Kroczą w świetle pustkowia schyleni i cisi.<br />
+Wśród modłów świeży zagon obchodzą półkolem,<br />
+By odegnać zarazę, co nad łanem wisi...<br />
+<br />
+Z dalekich siół wciąż siwe unoszą się dymy.<br />
+Powiew trzęsie badylem uwiędłej paproci<br />
+W białych mgłach kroczą sennie umarłe olbrzymy,<br />
+Deszcz ustał — słońce coraz ogniściej się złoci.
+</p>
+</div><br /><br />
+<div class="center" style="font-size:110%;margin-bottom:1em; width:auto; margin-left:auto; margin-right:auto;"><b>CISZA SŁONECZNA.</b></div>
+<div class="poem">
+<p>Sad zawodzi, jak we śnie, melodyą miłosną;<br />
+Przez sen westchnęły śpiewnie zielone jabłonie.<br />
+Taka cisza, że słychać wkrąg, jak drzewa rosną,<br />
+Lśniące obłoczki w modrym toną nieboskłonie —<br />
+<br />
+W mrocznym sadzie usiada Ojców tłum dostojny,<br />
+Drzemią w ciszy — a powiew pieści śnieg Ich włosów,<br />
+Czasem spojrzą półsennie w pole, kędy znojny<br />
+Idzie chłop wśród roniących kwiecie sianokosów...<br />
+<br />
+Naraz w progu rzeźbionych staroświeckich dźwierzy<br />
+Stanie dziecko i patrzy w drzewa, w głusze śniące,<br />
+Ujrzy dziwne postaci — ledwie oczom wierzy<br />
+I nazad w dom się cofa nieme, lękiem drżące...
+</p>
+</div><br />&#32;<span><span class="ws-pagenum ws-noexport" id="Str&#95;149" style="display:none;margin:0;padding:0" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/149">[<b><a href="/wiki/Strona:PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_(1908).djvu/149" class="prp-pagequality-3" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/149">149</a></b>]</span></span><div class="poem">
+<p>Bo dziecko pomni dużo starych, dziwnych bajek!<br />
+I wie, że raz, gdy w górę darło się ukradkiem,<br />
+Znęcone skrytem w liściach gniazdem ptasich jajek:<br />
+Ktoś wsparł je przerażone, chroniąc przed upadkiem...
+</p>
+</div><br /><br />
+<div class="center" style="font-size:110%;margin-bottom:1em; width:auto; margin-left:auto; margin-right:auto;"><b>OCZY.</b></div>
+<div class="poem">
+<p>W mroku polany huczy gędźba tajemnicza!<br />
+Trysnęły złote iskry, jarki płomień bucha —<br />
+To Sobótka! — to płomię przedwiecznego Znicza,<br />
+Przed którym pierzcha w dale zły deszcz i posucha.<br />
+<br />
+Jak chorowód rusałek pląsają dziewczęta!<br />
+Chłopcy jak widy skaczą w krąg czerwonej watry!<br />
+Pachnie siano skoszone, pachnie mak i mięta —<br />
+Rzewna nuta kobzarza leci w dal na Tatry.<br />
+<br />
+Młoda para od watry w mroki się oddala:<br />
+Chłopak siłą dziewczynę przytulił do łona,<br />
+A ona drży — — miłosnej żądzy prze ją fala; —<br />
+Opiera się, — lecz idzie niema, zniewolona...<br />
+<br />
+Weszli w szałas... uściskiem spletli się w pomroczy —<br />
+Naraz lęk ich ogarnie, — żądzą nieprzytomne<br />
+Zwrócą głowy: — — W ciemności ujrzą świetlne oczy. —<br />
+Oczy groźnie wpatrzone, nadludzkie, ogromne!...
+</p>
+</div><br /><br />&#32;<span><span class="ws-pagenum ws-noexport" id="Str&#95;150" style="display:none;margin:0;padding:0" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/150">[<b><a href="/wiki/Strona:PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_(1908).djvu/150" class="prp-pagequality-3" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/150">150</a></b>]</span></span><div class="center" style="font-size:110%;margin-bottom:1em; width:auto; margin-left:auto; margin-right:auto;"><b>LETNIE POŁUDNIE.</b></div>
+<div class="poem">
+<p>W złocistych, nieruchomych spoczynkach południa,<br />
+Gdy droga pusta, jakby siołem przeszedł pomór;<br />
+Gdy słońce wisi nieme, a wieś się wyludnia:<br />
+Duchy Ojców wychodzą cicho ze swych komór...<br />
+<br />
+Opuszczają swe mroczne, tajemne przybytki,<br />
+Idą chyłkiem pod strzechę milcząco i tajnie,<br />
+I patrzą niemo w rolne płody i pożytki,<br />
+Tykają starych pługów, pilnie patrzą w stajnie —<br />
+<br />
+I kroczą siwowłosi i od skwaru płowi<br />
+Ku drzwiom chaty gazdowskiej, wchodzą w nieme progi.<br />
+Patrząc w głąb, błogosławią pustemu domowi<br />
+I o łaskę błagają stare, dobre Bogi — —<br />
+<br />
+I dziękują im kornie za dni krótkiej słoty<br />
+I bezcenny dla żniwa czas złotej posuchy —<br />
+I śmieją się uśmiechem dziecięcej prostoty,<br />
+A cichy wiew wydyma Ich długie kożuchy. —
+</p>
+</div>
+<p><br />
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/Plik:PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_(1908)_p0116.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png/40px-PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png/60px-PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png 1.5x, //upload.wikimedia.org/wikipedia/commons/1/1b/PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png 2x" data-file-width="70" data-file-height="70" /></a><figcaption></figcaption></figure>
+<br /><br />&#32;<span><span class="ws-pagenum ws-noexport" id="Str&#95;151" style="display:none;margin:0;padding:0" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/151">[<b><a href="/wiki/Strona:PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_(1908).djvu/151" class="prp-pagequality-3" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/151">151</a></b>]</span></span><div class="center" style="font-size:110%;margin-bottom:1em; width:auto; margin-left:auto; margin-right:auto;"><b>SZCZĘŚCIE ŻNIW.</b></div>
+<div class="poem">
+<p>Wieczór już — białe ściernie mroczny sen już chwyta —<br />
+U drogi gwarzą cudnie osiki i brzozy —<br />
+Rżą konie, czasem tryśnie iskra z pod kopyta —<br />
+Obciążone snopami, skrzypią stare wozy...<br />
+<br />
+Jadą w pieśniach i gwarze — to ostatki żniwa!<br />
+Weselnymi okrzyki huka młodzież dziarska!<br />
+Góra snopów w pomroce radośnie się kiwa —<br />
+Konie rżą — jeden nozdrza wyciągnął i parska...<br />
+<br />
+Po modrych, sennych polach płynie pieśń odwieczna:<br />
+Skończony trud! skończony! Niech kosy już drzemią!<br />
+Minęła twoja służba i praca słoneczna —<br />
+Spocznij w szczęściu i ciszy, spocznij Matko Ziemio...<br />
+<br />
+Na wierzchu złotych snopów cichym, białym tłumem<br />
+Usiadły święte Duchy — i w błękit niebiosów<br />
+Uśmiechają się niemo, senni polnym szumem —<br />
+Bacząc, by nic ze świętych nie uronić kłosów...
+</p>
+</div>
+<p><br />
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/Plik:PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_(1908)_p0116.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png/40px-PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png/60px-PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png 1.5x, //upload.wikimedia.org/wikipedia/commons/1/1b/PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png 2x" data-file-width="70" data-file-height="70" /></a><figcaption></figcaption></figure>
+<br /><br />&#32;<span><span class="ws-pagenum ws-noexport" id="Str&#95;152" style="display:none;margin:0;padding:0" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/152">[<b><a href="/wiki/Strona:PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_(1908).djvu/152" class="prp-pagequality-3" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/152">152</a></b>]</span></span><div class="center" style="font-size:110%;margin-bottom:1em; width:auto; margin-left:auto; margin-right:auto;"><b>PŁUGI.</b></div>
+<div class="poem">
+<p>Wśród starych lip, w zielonej baśni księżycowej,<br />
+Gdy pnie lśniących jabłoni rzucają cień długi,<br />
+A srebrny powiew trąca w twarde głusz okowy —<br />
+Leżą dwa opuszczone, stare, rdzawe pługi<br />
+<br />
+Ich martwe ciała objął urok ciszy święty<br />
+I otulił w grób mroku ich rdzawe lemiesze;<br />
+Wid-księżyc sypie z góry gwiazdy-dyamenty<br />
+I z wystygłych w martwocie radeł ognie krzesze...<br />
+<br />
+A duchy starych Ojców, co mieszkają w strzesze,<br />
+Ślę ku nim z mroku stodół miłosne uśmiechy,<br />
+Żal tajemny pobudził w nocy ojców rzesze,<br />
+I szept błogosławieństwa idzie ode strzechy...<br />
+<br />
+— O druhy dni minionych, święte, rdzawe pługi,<br />
+O kiedyż dumnem skrzydłem w niebios oddal szczytną<br />
+Wzlecimy, by przeorać one modre smugi,<br />
+Gdzie kiedyś nowe słońca i gwiazdy zakwitną!...
+</p>
+</div>
+<p><br />
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/Plik:PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_(1908)_p0116.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png/40px-PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png/60px-PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png 1.5x, //upload.wikimedia.org/wikipedia/commons/1/1b/PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png 2x" data-file-width="70" data-file-height="70" /></a><figcaption></figcaption></figure>
+<br /><br />&#32;<span><span class="ws-pagenum ws-noexport" id="Str&#95;153" style="display:none;margin:0;padding:0" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/153">[<b><a href="/wiki/Strona:PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_(1908).djvu/153" class="prp-pagequality-3" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/153">153</a></b>]</span></span><div class="center" style="font-size:110%;margin-bottom:1em; width:auto; margin-left:auto; margin-right:auto;"><b>SIOSTRY.</b></div>
+<div class="poem">
+<p>Idą siostry, idą siostry trzy —<br />
+Jedna w białych dłoniach niesie łzy...<br />
+<br />
+Druga, krocząc w mroku ciemnych drzew,<br />
+W swoich białych dłoniach niesie krew.<br />
+<br />
+Trzecia w ciszy błędny stawia krok,<br />
+W swoich białych dłoniach niesie mrok.<br />
+<br />
+Idą siostry w zmierzchu ciemnych drzew,<br />
+W ciszę spływa mrok i łzy i <span class="n0kh" title="&#91;Korekta&#93; &#39;krew.&#39;" style="display:none">krew</span><span class="n0k" title="&#91;w druku&#93; &#39;krew&#39;">krew.</span><br />
+<br />
+Idą, idą, idą siostry trzy,<br />
+Dziwne, dziwne, dziwne jako sny...
+</p>
+</div>
+<p><br />
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/Plik:PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_(1908)_p0116.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png/40px-PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png/60px-PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png 1.5x, //upload.wikimedia.org/wikipedia/commons/1/1b/PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_%281908%29_p0116.png 2x" data-file-width="70" data-file-height="70" /></a><figcaption></figcaption></figure>
+<br /><br />&#32;<span><span class="ws-pagenum ws-noexport" id="Str&#95;154" style="display:none;margin:0;padding:0" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/154">[<b><a href="/wiki/Strona:PL_Antologia_wsp%C3%B3%C5%82czesnych_poet%C3%B3w_polskich_(1908).djvu/154" class="prp-pagequality-4" title="Strona:PL Antologia współczesnych poetów polskich (1908).djvu/154">154</a></b>]</span></span><div class="center" style="font-size:140%;margin-bottom:1em; width:auto; margin-left:auto; margin-right:auto;">CEZARY JELLENTA</div>
 <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
 <div style="display:table;text-align:justify;text-align-last:center;-moz-text-align-last:center;margin-bottom:3em;width:330px;"><i>ur. 1861 r. w Warszawie. Jest obecnie adwokatem tamże. »Poezye«&#160;1902. Liczne prace beletrystyczne, filozoficzne, krytyczne etc.</i></div>
 </div>
@@ -15624,40 +15839,40 @@ Młody wyszedłem i starcem powracam z podróży!
 <p><br /></p><div id="Template&#95;law" class="toccolours" style="border-width:1px 0 0 0"><div style="text-align:center;font-size:90%"><div style="float:left"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/20px-PD-icon.svg.png" decoding="async" width="20" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/40px-PD-icon.svg.png 1.5x" data-file-width="196" data-file-height="196" /></span></span></div><i>Tekst jest <b><a href="/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Prawa_autorskie" title="Wikiźródła:Prawa autorskie">własnością publiczną</a></b> (<b>public domain</b>). Szczegóły licencji na stronach autorów: <a href="/wiki/Autor:Zbiorowy" title="Autor:Zbiorowy">zbiorowy</a>, <a href="/wiki/Autor:Jan_Denes" title="Autor:Jan Denes">Jan Denes</a>.</i></div></div>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.main‐b748d66dc‐v9ksh
-Cached time: 20251222103112
+Parsed by mw‐web.eqiad.main‐8f8dcf6c‐hd62b
+Cached time: 20260104141457
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: []
-CPU time usage: 3.220 seconds
-Real time usage: 6.628 seconds
-Preprocessor visited node count: 41529/1000000
+CPU time usage: 3.042 seconds
+Real time usage: 4.728 seconds
+Preprocessor visited node count: 42011/1000000
 Revision size: 1245/2097152 bytes
-Post‐expand include size: 674287/2097152 bytes
-Template argument size: 202489/2097152 bytes
+Post‐expand include size: 682174/2097152 bytes
+Template argument size: 204406/2097152 bytes
 Highest expansion depth: 13/100
 Expensive parser function count: 1/500
 Unstrip recursion depth: 2/20
-Unstrip post‐expand size: 1364540/5000000 bytes
-Lua time usage: 0.442/10.000 seconds
-Lua memory usage: 1736162/52428800 bytes
+Unstrip post‐expand size: 1385293/5000000 bytes
+Lua time usage: 0.471/10.000 seconds
+Lua memory usage: 1807272/52428800 bytes
 Number of Wikibase entities loaded: 0/500
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-101.48% 6252.307    176 Szablon:F
-100.00% 6160.822      1 -total
-  9.11%  561.358    612 Szablon:C
-  1.66%  102.158    565 MediaWiki:Proofreadpage_pagenum_template
-  1.16%   71.184     72 Szablon:Korekta
-  0.83%   51.203      1 Szablon:Dane_tekstu
-  0.66%   40.809    624 Szablon:Tab
-  0.52%   31.772      1 Strona:PL_Antologia_współczesnych_poetów_polskich_(1908).djvu/515
-  0.50%   30.634      1 Strona:PL_Antologia_współczesnych_poetów_polskich_(1908).djvu/012
-  0.48%   29.378      1 Strona:PL_Antologia_współczesnych_poetów_polskich_(1908).djvu/009
+102.42% 4363.346    177 Szablon:F
+100.00% 4260.425      1 -total
+ 13.85%  589.895    621 Szablon:C
+  2.61%  111.297    573 MediaWiki:Proofreadpage_pagenum_template
+  1.61%   68.689     73 Szablon:Korekta
+  1.06%   45.337      1 Szablon:Dane_tekstu
+  1.01%   42.841    624 Szablon:Tab
+  0.48%   20.528      1 Strona:PL_Antologia_współczesnych_poetów_polskich_(1908).djvu/524
+  0.40%   16.932      1 Strona:PL_Antologia_współczesnych_poetów_polskich_(1908).djvu/012
+  0.39%   16.762      1 Strona:PL_Antologia_współczesnych_poetów_polskich_(1908).djvu/408
 -->
 
-<!-- Saved in parser cache with key plwikisource:stable-pcache:1234477:|#|:idhash:canonical and timestamp 20251222103112 and revision id 3703886. Rendering was triggered because: unknown
+<!-- Saved in parser cache with key plwikisource:stable-pcache:1234477:|#|:idhash:canonical and timestamp 20260104141457 and revision id 3703886. Rendering was triggered because: unknown
  -->
 </div><noscript><img src="https://pl.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
 <div class="printfooter" data-nosnippet="">Źródło: „<a dir="ltr" href="https://pl.wikisource.org/w/index.php?title=Antologia_współczesnych_poetów_polskich/całość&amp;oldid=3703886">https://pl.wikisource.org/w/index.php?title=Antologia_współczesnych_poetów_polskich/całość&amp;oldid=3703886</a>”</div></div>
@@ -15782,6 +15997,6 @@ Zobacz szczegółowe informacje o <a class="external text" href="https://foundat
 		
 	</ul>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8f8dcf6c-qnhph","wgBackendResponseTime":185,"wgPageParseReport":{"limitreport":{"cputime":"3.220","walltime":"6.628","ppvisitednodes":{"value":41529,"limit":1000000},"revisionsize":{"value":1245,"limit":2097152},"postexpandincludesize":{"value":674287,"limit":2097152},"templateargumentsize":{"value":202489,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":2,"limit":20},"unstrip-size":{"value":1364540,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["101.48% 6252.307    176 Szablon:F","100.00% 6160.822      1 -total","  9.11%  561.358    612 Szablon:C","  1.66%  102.158    565 MediaWiki:Proofreadpage_pagenum_template","  1.16%   71.184     72 Szablon:Korekta","  0.83%   51.203      1 Szablon:Dane_tekstu","  0.66%   40.809    624 Szablon:Tab","  0.52%   31.772      1 Strona:PL_Antologia_współczesnych_poetów_polskich_(1908).djvu/515","  0.50%   30.634      1 Strona:PL_Antologia_współczesnych_poetów_polskich_(1908).djvu/012","  0.48%   29.378      1 Strona:PL_Antologia_współczesnych_poetów_polskich_(1908).djvu/009"]},"scribunto":{"limitreport-timeusage":{"value":"0.442","limit":"10.000"},"limitreport-memusage":{"value":1736162,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-b748d66dc-v9ksh","timestamp":"20251222103112","ttl":2592000,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8f8dcf6c-rf992","wgBackendResponseTime":204,"wgPageParseReport":{"limitreport":{"cputime":"3.042","walltime":"4.728","ppvisitednodes":{"value":42011,"limit":1000000},"revisionsize":{"value":1245,"limit":2097152},"postexpandincludesize":{"value":682174,"limit":2097152},"templateargumentsize":{"value":204406,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":2,"limit":20},"unstrip-size":{"value":1385293,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["102.42% 4363.346    177 Szablon:F","100.00% 4260.425      1 -total"," 13.85%  589.895    621 Szablon:C","  2.61%  111.297    573 MediaWiki:Proofreadpage_pagenum_template","  1.61%   68.689     73 Szablon:Korekta","  1.06%   45.337      1 Szablon:Dane_tekstu","  1.01%   42.841    624 Szablon:Tab","  0.48%   20.528      1 Strona:PL_Antologia_współczesnych_poetów_polskich_(1908).djvu/524","  0.40%   16.932      1 Strona:PL_Antologia_współczesnych_poetów_polskich_(1908).djvu/012","  0.39%   16.762      1 Strona:PL_Antologia_współczesnych_poetów_polskich_(1908).djvu/408"]},"scribunto":{"limitreport-timeusage":{"value":"0.471","limit":"10.000"},"limitreport-memusage":{"value":1807272,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-8f8dcf6c-hd62b","timestamp":"20260104141457","ttl":2592000,"transientcontent":false}}});});</script>
 </body>
 </html>

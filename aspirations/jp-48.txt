@@ -1,16 +1,16 @@
 HTTP/2 200 
-server: nginx/1.26.1
-date: Sat, 03 Jan 2026 16:43:04 GMT
+server: nginx/1.26.0
+date: Sun, 04 Jan 2026 17:23:50 GMT
 content-type: text/html; charset=UTF-8
 vary: Accept-Encoding
 x-powered-by: PHP/8.0.30
 x-vc-enabled: true
 x-vc-ttl: 
 link: <https://serai.jp/wp-json/>; rel="https://api.w.org/", <https://serai.jp/wp-json/wp/v2/posts/1034423>; rel="alternate"; type="application/json", <https://serai.jp/?p=1034423>; rel=shortlink
-x-varnish: 227694243 235021066
+x-varnish: 235954093 236233980
 via: 1.1 varnish (Varnish/6.0)
-x-varnish: 107085233
-age: 590
+x-varnish: 944779204
+age: 647
 via: 1.1 varnish (Varnish/6.0)
 x-cache-varnish: MISS
 vary: 
@@ -944,28 +944,28 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1520174795432-0');
     <h2 class="side_articles-archives--title testpre">ランキング</h2>
     <div class="side_articles--rank">
         <div class="side_articles--card">
-                      <div class="side_articles--card--thumbnail">
-                <a class="side_articles--link" href="https://serai.jp/hobby/1250338">
-                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/1000003024.jpg" alt="" loading="lazy">
+          <span class="use--new">NEW</span>            <div class="side_articles--card--thumbnail">
+                <a class="side_articles--link" href="https://serai.jp/tour/1248719">
+                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/09952512000370000001-0001.jpg" alt="" loading="lazy">
                                     </a>
             </div>
             <div class="side_articles--card--content">
-                <a class="side_articles--card--category side_articles--link visible-sp" href="https://serai.jp/hobby">趣味･教養</a>
-                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1250338">弟を主人公にしただけで新鮮な物語に昇華。大河ドラマ『豊臣…</a>
-                <div class="side_articles--card--date">2025/12/21</div>
+                <a class="side_articles--card--category side_articles--link visible-sp" href="https://serai.jp/tour">旅行</a>
+                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/tour/1248719">古墳を歩けば、古代史がわかる！６世紀～７世紀中頃・前方後…</a>
+                <div class="side_articles--card--date">2026/01/03</div>
             </div>
             <span class="side_articles--rank-no">No.</span>
         </div>
         <div class="side_articles--card">
           <span class="use--new">NEW</span>            <div class="side_articles--card--thumbnail">
-                <a class="side_articles--link" href="https://serai.jp/hobby/1249076">
-                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/e0ebebfd6cc85854d9aa4620a9f7c6db.jpeg" alt="" loading="lazy">
+                <a class="side_articles--link" href="https://serai.jp/hobby/1251420">
+                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/20ce1c866c4acaa5fff47dbce208a3f0.jpeg" alt="" loading="lazy">
                                     </a>
             </div>
             <div class="side_articles--card--content">
                 <a class="side_articles--card--category side_articles--link visible-sp" href="https://serai.jp/hobby">趣味･教養</a>
-                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1249076">「頌春」の正しい読み方とは？ 年賀状で使う新春の賀詞です…</a>
-                <div class="side_articles--card--date">2025/12/27</div>
+                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1251420">豊臣秀吉と秀長の姉・ともとは？ 関白・秀次の母がたどった…</a>
+                <div class="side_articles--card--date">2026/01/03</div>
             </div>
             <span class="side_articles--rank-no">No.</span>
         </div>
@@ -993,28 +993,28 @@ var _lgy_lw = document.createElement("script");
 }
 </script>
 <!-- サライ PCSP/ LOGLY ランキング枠_2位と3位の間 end -->        <div class="side_articles--card">
-                      <div class="side_articles--card--thumbnail">
-                <a class="side_articles--link" href="https://serai.jp/hobby/1250346">
-                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/40c3c413cdf621e1cef005ec67f7d434.jpg" alt="" loading="lazy">
+          <span class="use--new">NEW</span>            <div class="side_articles--card--thumbnail">
+                <a class="side_articles--link" href="https://serai.jp/hobby/1251390">
+                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/87f96f7e979a220a50515aaafb6d05fa.jpg" alt="" loading="lazy">
                                     </a>
             </div>
             <div class="side_articles--card--content">
                 <a class="side_articles--card--category side_articles--link visible-sp" href="https://serai.jp/hobby">趣味･教養</a>
-                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1250346">見どころ満載の『べらぼう』総集編、尺は足りるのか？ 後に…</a>
-                <div class="side_articles--card--date">2025/12/21</div>
+                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1251390">ついに始まった令和の太閤記＝『豊臣兄弟！』。仲野太賀×池…</a>
+                <div class="side_articles--card--date">2026/01/04</div>
             </div>
             <span class="side_articles--rank-no">No.</span>
         </div>
         <div class="side_articles--card">
-          <span class="use--new">NEW</span>            <div class="side_articles--card--thumbnail">
-                <a class="side_articles--link" href="https://serai.jp/hobby/1251131">
-                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/4848538_s.jpg" alt="" loading="lazy">
+                      <div class="side_articles--card--thumbnail">
+                <a class="side_articles--link" href="https://serai.jp/hobby/1250338">
+                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/1000003024.jpg" alt="" loading="lazy">
                                     </a>
             </div>
             <div class="side_articles--card--content">
                 <a class="side_articles--card--category side_articles--link visible-sp" href="https://serai.jp/hobby">趣味･教養</a>
-                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1251131">ホトトギス、ウソ、トラツグミ……日本史に小さな足跡を残し…</a>
-                <div class="side_articles--card--date">2026/01/01</div>
+                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1250338">弟を主人公にしただけで新鮮な物語に昇華。大河ドラマ『豊臣…</a>
+                <div class="side_articles--card--date">2025/12/21</div>
             </div>
             <span class="side_articles--rank-no">No.</span>
         </div>
@@ -1042,15 +1042,15 @@ var _lgy_lw = document.createElement("script");
 }
 </script>
 <!-- サライ PCSP/ LOGLY ランキング枠_4位と5位の間 end -->        <div class="side_articles--card">
-                      <div class="side_articles--card--thumbnail">
-                <a class="side_articles--link" href="https://serai.jp/hobby/1249777">
-                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/ac68c35cd805a4b8c092c3e69d3c59db.jpg" alt="" loading="lazy">
+          <span class="use--new">NEW</span>            <div class="side_articles--card--thumbnail">
+                <a class="side_articles--link" href="https://serai.jp/hobby/1148447">
+                    <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2023/09/9f74c5d7ff91c6611e26f1c5e4233ca4.jpeg" alt="" loading="lazy">
                                     </a>
             </div>
             <div class="side_articles--card--content">
                 <a class="side_articles--card--category side_articles--link visible-sp" href="https://serai.jp/hobby">趣味･教養</a>
-                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1249777">蔦重の松坂旅行。最終回に登場した本居宣長は、大河ドラマ『…</a>
-                <div class="side_articles--card--date">2025/12/14</div>
+                <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1148447">兄・秀吉の命で離縁し、家康の正室に。旭姫（あさひ）の波乱…</a>
+                <div class="side_articles--card--date">2026/01/04</div>
             </div>
             <span class="side_articles--rank-no">No.</span>
         </div>
@@ -1111,18 +1111,18 @@ var _lgy_lw = document.createElement("script");
 
         <span class="use--new">NEW</span>
         <div class="side_articles--card--thumbnail">
-          <a class="side_articles--link" href="https://serai.jp/hobby/1251420">
-            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/20ce1c866c4acaa5fff47dbce208a3f0.jpeg" alt="" loading="lazy">
+          <a class="side_articles--link" href="https://serai.jp/hobby/1251366">
+            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/31afd52aeb1a4feb5b87360b311d1558.jpg" alt="" loading="lazy">
                       </a>
 
 
         </div>
         <div class="side_articles--card--content">
-          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1251420">
+          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1251366">
 
-            豊臣秀吉と秀長の姉・ともとは？ 関白・秀…
+            薬師寺では造花法会。豊臣秀長の病気平癒祈…
           </a>
-          <div class="side_articles--card--date">2026/01/03</div>
+          <div class="side_articles--card--date">2026/01/04</div>
         </div>
       </div><!-- /.side_articles--card -->
       
@@ -1130,18 +1130,18 @@ var _lgy_lw = document.createElement("script");
 
         <span class="use--new">NEW</span>
         <div class="side_articles--card--thumbnail">
-          <a class="side_articles--link" href="https://serai.jp/tour/1248719">
-            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/09952512000370000001-0001.jpg" alt="" loading="lazy">
+          <a class="side_articles--link" href="https://serai.jp/hobby/1251390">
+            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/87f96f7e979a220a50515aaafb6d05fa.jpg" alt="" loading="lazy">
                       </a>
 
 
         </div>
         <div class="side_articles--card--content">
-          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/tour/1248719">
+          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1251390">
 
-            古墳を歩けば、古代史がわかる！６世紀～７…
+            ついに始まった令和の太閤記＝『豊臣兄弟！…
           </a>
-          <div class="side_articles--card--date">2026/01/03</div>
+          <div class="side_articles--card--date">2026/01/04</div>
         </div>
       </div><!-- /.side_articles--card -->
       
@@ -1149,18 +1149,18 @@ var _lgy_lw = document.createElement("script");
 
         <span class="use--new">NEW</span>
         <div class="side_articles--card--thumbnail">
-          <a class="side_articles--link" href="https://serai.jp/event/1250619">
-            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/1fbd587f0ef3846321145294971b5c75-1-e1766368491924.jpg" alt="" loading="lazy">
+          <a class="side_articles--link" href="https://serai.jp/hobby/1144318">
+            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/9c3d3c0a0dfa6f6e3cef8706845ef708.jpeg" alt="" loading="lazy">
                       </a>
 
 
         </div>
         <div class="side_articles--card--content">
-          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/event/1250619">
+          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1144318">
 
-            そうそう、昔いた、こんなおじいちゃん・お…
+            大河ドラマ『豊臣兄弟！』主人公・豊臣秀長…
           </a>
-          <div class="side_articles--card--date">2026/01/03</div>
+          <div class="side_articles--card--date">2026/01/04</div>
         </div>
       </div><!-- /.side_articles--card -->
       
@@ -1168,18 +1168,18 @@ var _lgy_lw = document.createElement("script");
 
         <span class="use--new">NEW</span>
         <div class="side_articles--card--thumbnail">
-          <a class="side_articles--link" href="https://serai.jp/hobby/1250571">
-            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/1176a2445a547930b28e2f425f392e36.jpeg" alt="" loading="lazy">
+          <a class="side_articles--link" href="https://serai.jp/hobby/1149737">
+            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/67545dec76f7838b4791d808a92a52ea.jpeg" alt="" loading="lazy">
                       </a>
 
 
         </div>
         <div class="side_articles--card--content">
-          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1250571">
+          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1149737">
 
-            「快哉」の正しい読み方とは？  胸のすく…
+            豊臣秀吉・秀長兄弟の母・なか（大政所）の…
           </a>
-          <div class="side_articles--card--date">2026/01/03</div>
+          <div class="side_articles--card--date">2026/01/04</div>
         </div>
       </div><!-- /.side_articles--card -->
       
@@ -1187,18 +1187,18 @@ var _lgy_lw = document.createElement("script");
 
         <span class="use--new">NEW</span>
         <div class="side_articles--card--thumbnail">
-          <a class="side_articles--link" href="https://serai.jp/hobby/1251032">
-            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/12/IMG_1270.jpg" alt="" loading="lazy">
+          <a class="side_articles--link" href="https://serai.jp/gourmet/1245573">
+            <img class="side_articles--card--thumbnail--img object-fit" src="https://serai.jp/wp-content/uploads/2025/10/09952511000620000001-0000.jpg" alt="" loading="lazy">
                       </a>
 
 
         </div>
         <div class="side_articles--card--content">
-          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/hobby/1251032">
+          <a class="side_articles--card--title side_articles--link" href="https://serai.jp/gourmet/1245573">
 
-            【小泉八雲と夏目漱石、そして妻たちとの不…
+            朝から炭焼き料理で飲める！京町家のパリ的…
           </a>
-          <div class="side_articles--card--date">2026/01/03</div>
+          <div class="side_articles--card--date">2026/01/04</div>
         </div>
       </div><!-- /.side_articles--card -->
             <div class="side_articles--button"><a class="side_articles--button-text side_articles--link" href="/archives">記事一覧へ</a></div>

@@ -1,7 +1,7 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:47:10 GMT content-type: text/html;
+HTTP/2 200 date: Sun, 04 Jan 2026 17:28:33 GMT content-type: text/html;
 charset=UTF-8 server: OVHcloud x-powered-by: PHP/7.4 vary:
 Accept-Encoding,Cookie set-cookie:
-tpg_post_views=%7B%2222091%22%3A1767458830%7D; expires=Sun, 04-Jan-2026 16:47:10
+tpg_post_views=%7B%2222091%22%3A1767547713%7D; expires=Mon, 05-Jan-2026 17:28:33
 GMT; Max-Age=86400; path=/; secure link: /www.dabrowa-gornicza.pl/wp-json/>;
 rel="https://api.w.org/" link:
 /www.dabrowa-gornicza.pl/wp-json/wp/v2/news/22091>; rel="alternate";

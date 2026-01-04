@@ -1,13 +1,13 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:53:19 GMT content-type: text/html;
+HTTP/2 200 date: Sun, 04 Jan 2026 17:36:01 GMT content-type: text/html;
 charset=UTF-8 server: cloudflare vary: Accept-Encoding set-cookie: _md_mobile=0;
-path=/ set-cookie: _md_tablet=0; path=/ set-cookie: SRV=web26; path=/
+path=/ set-cookie: _md_tablet=0; path=/ set-cookie: SRV=web20; path=/
 x-frame-options: SAMEORIGIN x-page-speed: 1 cache-control: max-age=0, no-cache
 report-to:
 {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare
-.com/report/v4?s=mN0K8z8PlOhH%2FwHttZg%2FA%2BRVPHjRVaYXlm3gmL0RxTWU%2BAApS93wq0N
-OGGGRBR7PcU%2FDQR4Ak1GCkBT16f5v40LTitvIoy3q"}]} cf-cache-status: DYNAMIC nel:
-{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} cf-ray:
-9b8402fa4a0d99ed-CDG alt-svc: h3=":443"; ma=86400
+.com/report/v4?s=y9VMv0P9iH%2BJgvJccEPARZU8tGCpKUVLMp2cg3drwS0zoTQrJ6tchprXFc%2B
+gRMIVb2WaS%2FdWZsmOY%2FByz3w2tcpulxB51HAzGVY%3D"}]} cf-cache-status: DYNAMIC
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} cf-ray:
+9b8c7ee74a110197-CDG alt-svc: h3=":443"; ma=86400
 
 IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TDNF6VL
 

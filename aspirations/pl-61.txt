@@ -1,13 +1,13 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:53:26 GMT
+date: Sun, 04 Jan 2026 17:36:12 GMT
 content-type: text/html; charset=utf-8
-content-length: 1777527
+content-length: 1777660
 server: gunicorn
 vary: Accept-Language, Cookie
 content-language: pl
-expires: Sat, 03 Jan 2026 16:56:26 GMT
+expires: Sun, 04 Jan 2026 17:39:12 GMT
 cache-control: max-age=180
-set-cookie: csrftoken=BRNsMlNkgBzXkYxpq7HvQISbduB74JCBKVJpsisaT7uflZtT70SN48YZmdqPmwBm; expires=Sat, 02 Jan 2027 16:53:26 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure
+set-cookie: csrftoken=kLDYlle5CMWgTnENi8n8F0scMsFIygjDK0BEdIWQpUBcU9ZxJIt67mZfJH9Ej5AX; expires=Sun, 03 Jan 2027 17:36:12 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure
 strict-transport-security: max-age=31536000;
 
 <!doctype html>
@@ -163,7 +163,7 @@ strict-transport-security: max-age=31536000;
     <i class="icon icon-arrow-down"></i>
   </div>
   <form method="post" action="/i18n/setlang/">
-    <input type="hidden" name="csrfmiddlewaretoken" value="JA7Og0eyfJsxRg6ZfPY0Dr2Ohq0oWBDYSE3LWXToSfnPSh2tWI9iRR8Cq9P6eoCJ">
+    <input type="hidden" name="csrfmiddlewaretoken" value="Uiq9HuV7Vgkj3a62oZQv4WT0WLpvLiQKkxoPzRDSIoZf4WrMPzWtwiq3T0Trw774">
     <div class="c-lang__list">
       
         <button type="submit" lang="de"
@@ -222,7 +222,7 @@ strict-transport-security: max-age=31536000;
     <i class="icon icon-arrow-down"></i>
   </div>
   <form method="post" action="/i18n/setlang/">
-    <input type="hidden" name="csrfmiddlewaretoken" value="JA7Og0eyfJsxRg6ZfPY0Dr2Ohq0oWBDYSE3LWXToSfnPSh2tWI9iRR8Cq9P6eoCJ">
+    <input type="hidden" name="csrfmiddlewaretoken" value="Uiq9HuV7Vgkj3a62oZQv4WT0WLpvLiQKkxoPzRDSIoZf4WrMPzWtwiq3T0Trw774">
     <div class="c-lang__list">
       
         <button type="submit" lang="de"
@@ -7421,7 +7421,7 @@ optymaci byli przeciwni awansowi społecznemu i politycznemu <em class="foreign-
 
 
 <form method="post" action="/pomagam/">
-  <input type="hidden" name="csrfmiddlewaretoken" value="JA7Og0eyfJsxRg6ZfPY0Dr2Ohq0oWBDYSE3LWXToSfnPSh2tWI9iRR8Cq9P6eoCJ">
+  <input type="hidden" name="csrfmiddlewaretoken" value="Uiq9HuV7Vgkj3a62oZQv4WT0WLpvLiQKkxoPzRDSIoZf4WrMPzWtwiq3T0Trw774">
   
   <input type="radio" name="switch" id="switch-once" value="single" class="toggle-input" >
   <input type="radio" name="switch" id="switch-monthly" value="monthly" class="toggle-input" checked>
@@ -7784,15 +7784,15 @@ optymaci byli przeciwni awansowi społecznemu i politycznemu <em class="foreign-
           
 
 
-  <div class="dynamic-insert with-image" style="background-color: #50bf79;" data-paragraphs="25" data-textid="59">
+  <div class="dynamic-insert with-image" style="background-color: #79aec8;" data-paragraphs="25" data-textid="48">
     <a href="https://wolnelektury.pl/towarzystwo/?pk_campaign=insert-ambas">
       <div class="text" style="color:#000000">
-        <p><i>Kto raz pokocha czytanie, już nigdy nie będzie całkiem sam. Książki ratują życie. W Wolnych Lekturach znajdziecie ich bez liku. </i></p>
+        <p><i>Miejsca takie jak Wolne Lektury są bezwzględnie potrzebne. To port lotniczy skąd każdy, niezależnie od wieku i zawartości portfela, może wyruszyć na poszukiwanie przygody.</i></p>
 
-<p>Paulina Młynarska</p>
+<p>Paulina Holtz</p>
       </div>
       
-        <img src="/media/cache/87/cf/87cf6e2dc45e1233f4d4ccf2fb3ac59a.jpg">
+        <img src="/media/cache/37/4d/374d01cc5a42a6f960c2365536d01f71.jpg">
       
     </a>
   </div>
@@ -7818,13 +7818,13 @@ optymaci byli przeciwni awansowi społecznemu i politycznemu <em class="foreign-
           
 
 
-  <div class="dynamic-insert with-image" style="background-color: #fcfcfc;" data-paragraphs="115" data-textid="47">
+  <div class="dynamic-insert with-image" style="background-color: #417690;" data-paragraphs="115" data-textid="46">
     <a href="https://wolnelektury.pl/newsletter/zapisz-sie/?pk_campaign=insert-13">
-      <div class="text" style="color:#ff0018">
-        <p>Co nowego na Wolnych Lekturach? Dowiesz się z naszego newslettera. Kliknij, by się zapisać.</p>
+      <div class="text" style="color:#000000">
+        <p>Zapisz się na newsletter, a nie przegapisz naszych publikacji. Zawsze możesz zrezygnować. Kliknij i podaj adres email</p>
       </div>
       
-        <img src="/media/cache/79/f2/79f2bac1161aafdf535853533ca0c53f.png">
+        <img src="/media/cache/4e/9a/4e9a0ab07435e4fb4668a256b383e09a.png">
       
     </a>
   </div>
@@ -7834,13 +7834,13 @@ optymaci byli przeciwni awansowi społecznemu i politycznemu <em class="foreign-
           
 
 
-  <div class="dynamic-insert with-image" style="background-color: #00ffff;" data-paragraphs="150" data-textid="13">
+  <div class="dynamic-insert with-image" style="background-color: #f97705;" data-paragraphs="150" data-textid="45">
     <a href="https://wolnelektury.pl/towarzystwo/?pk_campaign=insert-I">
       <div class="text" style="color:#000000">
-        <p>Nie bądź wuj ponury, wspieraj Wolne Lektury!</p>
+        <p>Potrzebujemy Twojej pomocy! Wspieraj Wolne Lektury stałą wpłatą. Kliknij i zadeklaruj comiesięczne wsparcie >>></p>
       </div>
       
-        <img src="/media/cache/70/bb/70bb0641ddbce90af2e176547b264900.png">
+        <img src="/media/cache/11/89/1189d7603be2ece36a70700af3646d4a.jpg">
       
     </a>
   </div>
@@ -7850,15 +7850,17 @@ optymaci byli przeciwni awansowi społecznemu i politycznemu <em class="foreign-
           
 
 
-  <div class="dynamic-insert with-image" style="background-color: #000000;" data-paragraphs="170" data-textid="38">
+  <div class="dynamic-insert with-image" style="background-color: #eae5e5;" data-paragraphs="170" data-textid="37">
     <a href="https://wolnelektury.pl/re/youtube-sub/?pk_campaign=insert-9">
-      <div class="text" style="color:#ffffff">
-        <p>Audiobooki Wolnych lektur znajdziesz też na naszym kanale na YouTube. <br>Czy wiesz, że jeśli włączysz subskrypcję, to pomożesz uwolnić kolejną książkę?</p>
+      <div class="text" style="color:#000000">
+        <p>Audiobooki Wolnych lektur znajdziesz też na naszym kanale na YouTube. </p>
+
+<p>Regularnie dodajemy nowe książki. By ich nie przegapić, subskrybuj nasz kanał. <br/></p>
 
 <p>Kliknij obrazek, by subskrybować!</p>
       </div>
       
-        <img src="/media/cache/a1/d7/a1d70eb4035f5a11d42b51d6ec55b34b.png">
+        <img src="/media/cache/f5/a8/f5a8ffc770e5090277e0a4319823a65a.png">
       
     </a>
   </div>
@@ -7868,10 +7870,10 @@ optymaci byli przeciwni awansowi społecznemu i politycznemu <em class="foreign-
           
 
 
-  <div class="dynamic-insert" style="background-color: #ff8500;" data-paragraphs="250" data-textid="15">
+  <div class="dynamic-insert" style="background-color: #ff8500;" data-paragraphs="250" data-textid="18">
     <a href="https://wolnelektury.pl/towarzystwo/?pk_campaign=insert-7">
       <div class="text" style="color:#000000">
-        <p>Chcesz pomóc bibliotece? Najlepszą metodą pomocy są niewielkie, ale stałe wpłaty. Kliknij i dorzuć się!</p>
+        <p>Bez wsparcia czytelników Wolne Lektury nie będą się rozwijać. Nie pozwól na to! Kliknij i dorzuć się!</p>
       </div>
       
     </a>
@@ -7882,10 +7884,10 @@ optymaci byli przeciwni awansowi społecznemu i politycznemu <em class="foreign-
           
 
 
-  <div class="dynamic-insert" style="background-color: #000000;" data-paragraphs="300" data-textid="7">
+  <div class="dynamic-insert" style="" data-paragraphs="300" data-textid="6">
     <a href="https://wolnelektury.pl/towarzystwo/?pk_campaign=insert-4">
-      <div class="text" style="color:#ff00f9">
-        <p>W 2020 roku z biblioteki Wolne Lektury skorzystało za darmo blisko 12 milionów użytkowników, jednak wspiera nas na stałe tylko mniej niż 1% czytelników. Zmień to! Kliknij i dorzuć się!</p>
+      <div class="text" style="">
+        <p>Nie wystarczy zeskanować książkę. Tekst musi jeszcze przejść proces redakcji językowej i technicznej oraz podwójną korektę. Sam widzisz, że to dużo pracy! Dlatego potrzebujemy Twojego wsparcia! Kliknij i dorzuć się!</p>
       </div>
       
     </a>
@@ -8006,6 +8008,6 @@ optymaci byli przeciwni awansowi społecznemu i politycznemu <em class="foreign-
 </script>
 
 
-    <input type="hidden" name="csrfmiddlewaretoken" value="JA7Og0eyfJsxRg6ZfPY0Dr2Ohq0oWBDYSE3LWXToSfnPSh2tWI9iRR8Cq9P6eoCJ">
+    <input type="hidden" name="csrfmiddlewaretoken" value="Uiq9HuV7Vgkj3a62oZQv4WT0WLpvLiQKkxoPzRDSIoZf4WrMPzWtwiq3T0Trw774">
   </body>
 </html>

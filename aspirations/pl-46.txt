@@ -1,10 +1,10 @@
 HTTP/2 200 
 server: nginx
-date: Sat, 03 Jan 2026 16:51:40 GMT
+date: Sun, 04 Jan 2026 17:33:51 GMT
 content-type: text/html; charset=UTF-8
 vary: Accept-Encoding
 cache-control: max-age=600, public
-expires: Sat, 03 Jan 2026 16:56:40 GMT
+expires: Sun, 04 Jan 2026 17:38:51 GMT
 vary: Accept-Encoding
 accept-ranges: bytes
 alt-svc: h3=":443"; ma=86400
@@ -592,7 +592,7 @@ window.Inpl.Ad.exSettings.domain = "www.bryk.pl";
                         </div>
                     </div>
                                                                 <div class="col-sm-12 my-col subListContainer">
-                        <button class="btn btn-primary subListToggle">Chemia  <span data-counters="{&quot;1&quot;:680,&quot;3&quot;:436,&quot;4&quot;:32}" class="configuratorCategoryCounterHolder"></span><span class="icon-arrow-down"></span></button>
+                        <button class="btn btn-primary subListToggle">Chemia  <span data-counters="{&quot;1&quot;:680,&quot;3&quot;:436,&quot;4&quot;:33}" class="configuratorCategoryCounterHolder"></span><span class="icon-arrow-down"></span></button>
                         <div class="sublist row sublist-row subListRowContainer"
                              style="display: none"
                              data-has_lectures=""
@@ -670,7 +670,7 @@ window.Inpl.Ad.exSettings.domain = "www.bryk.pl";
                                             data-has_lectures=""
                                             data-slug="chemia-ogolna"
                                             data-name="Chemia ogólna"
-                                            data-schools="1,3,4"><span class="btn-label">Chemia ogólna <span data-counters="{&quot;1&quot;:92,&quot;3&quot;:86,&quot;4&quot;:11}" class="configuratorCategoryCounterHolder"></span></span></a>                                    </div>
+                                            data-schools="1,3,4"><span class="btn-label">Chemia ogólna <span data-counters="{&quot;1&quot;:92,&quot;3&quot;:86,&quot;4&quot;:12}" class="configuratorCategoryCounterHolder"></span></span></a>                                    </div>
                                                                                                                                 <div class="col-xs-6 col-md-4 sublist-col sublist-col-topic">
                                         <a href="/wypracowania/liceum/chemia/chemia-analityczna"
                                                                                         class="btn btn-light selection selectConfiguratorFilterTrigger iwaAnalyticsTrigger"
@@ -693,7 +693,7 @@ window.Inpl.Ad.exSettings.domain = "www.bryk.pl";
                                     data-right="28"
                                     data-has_lectures=""
                                     data-slug="chemia"
-                                    data-name="Chemia"><span class="btn-label">CAŁY PRZEDMIOT <span data-counters="{&quot;1&quot;:680,&quot;3&quot;:436,&quot;4&quot;:32}" class="configuratorCategoryCounterHolder"></span></span></a>                            </div>
+                                    data-name="Chemia"><span class="btn-label">CAŁY PRZEDMIOT <span data-counters="{&quot;1&quot;:680,&quot;3&quot;:436,&quot;4&quot;:33}" class="configuratorCategoryCounterHolder"></span></span></a>                            </div>
                         </div>
                     </div>
                                                                 <div class="col-sm-12 my-col subListContainer">
@@ -2345,7 +2345,7 @@ window.Inpl.Ad.exSettings.domain = "www.bryk.pl";
                     <div class="top-ranking-title-wrapper">
                         <div class="ranking-top-title">
                             <p class="title">
-                                                                    Najlepsi<br>w poprzednim miesiącu
+                                                                    Najlepsi<br>w tym miesiącu
                                                             </p>
                         </div>
                     </div>
@@ -2354,57 +2354,20 @@ window.Inpl.Ad.exSettings.domain = "www.bryk.pl";
                             <ol class="listSlideToggler">
                                                                                                         <li>
                                                                                     <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/uczen123,1667186.html">
-                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2025_11/user_avatar-1762510659-931be997a02d2fca5ecbe59f32db9424-1baf6fe3439b8491f145946e19aa40c1-800x535.jpg" alt="Uczen123">
-                                                                                                        <span class="name">Uczen123</span>
-                                                    <span class="points"><span class="points-number">640</span> pkt</span>
-                                                </a>
-                                            </div>
-                                                                            </li>
-                                                                                                        <li>
-                                                                                    <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/przyroda123,1668022.html">
+                                                <a class="link-dark" href="/uzytkownicy/xxxpomocna,1668160.html">
                                                                                                                                                                     <img src="https://assetsbryk.iplsc.com/build/images/avatar_default2.2ebe8e3d.svg" onerror="this.onerror=null; this.src='https://assetsbryk.iplsc.com/build/images/avatar_default2.13eaf670.png'" alt="" class=""no-avatar-icon>
 
-                                                                                                        <span class="name">Przyroda123</span>
-                                                    <span class="points"><span class="points-number">600</span> pkt</span>
+                                                                                                        <span class="name">xxxpomocna</span>
+                                                    <span class="points"><span class="points-number">52</span> pkt</span>
                                                 </a>
                                             </div>
                                                                             </li>
                                                                                                         <li>
                                                                                     <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/tramwaj2685,1667394.html">
-                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2025_10/user_avatar-1760722779-941.jpg" alt="tramwaj2685">
-                                                                                                        <span class="name">tramwaj2685</span>
-                                                    <span class="points"><span class="points-number">351</span> pkt</span>
-                                                </a>
-                                            </div>
-                                                                            </li>
-                                                                                                        <li>
-                                                                                    <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/balladyna15,1668122.html">
-                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2025_12/user_avatar-1765882711-zrzut-ekranu-2025-12-16-115818.png" alt="Balladyna15">
-                                                                                                        <span class="name">Balladyna15</span>
-                                                    <span class="points"><span class="points-number">160</span> pkt</span>
-                                                </a>
-                                            </div>
-                                                                            </li>
-                                                                                                        <li>
-                                                                                    <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/noob67,1668105.html">
-                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2025_12/user_avatar-1765812028-8227-roblox-noob-221589523.png" alt="noob67">
-                                                                                                        <span class="name">noob67</span>
-                                                    <span class="points"><span class="points-number">158</span> pkt</span>
-                                                </a>
-                                            </div>
-                                                                            </li>
-                                                                                                        <li>
-                                                                                    <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/sylwastyv,1665003.html">
-                                                                                                                                                                    <img src="https://assetsbryk.iplsc.com/build/images/avatar_default2.2ebe8e3d.svg" onerror="this.onerror=null; this.src='https://assetsbryk.iplsc.com/build/images/avatar_default2.13eaf670.png'" alt="" class=""no-avatar-icon>
-
-                                                                                                        <span class="name">Sylwastyv</span>
-                                                    <span class="points"><span class="points-number">140</span> pkt</span>
+                                                <a class="link-dark" href="/uzytkownicy/karpik,1668161.html">
+                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2026_01/user_avatar-1767541941-zrzut-ekranu-2025-10-13-185544.png" alt="karpik">
+                                                                                                        <span class="name">karpik</span>
+                                                    <span class="points"><span class="points-number">32</span> pkt</span>
                                                 </a>
                                             </div>
                                                                             </li>
@@ -2414,35 +2377,46 @@ window.Inpl.Ad.exSettings.domain = "www.bryk.pl";
                                                                                                                                                                     <img src="https://assetsbryk.iplsc.com/build/images/avatar_default2.2ebe8e3d.svg" onerror="this.onerror=null; this.src='https://assetsbryk.iplsc.com/build/images/avatar_default2.13eaf670.png'" alt="" class=""no-avatar-icon>
 
                                                                                                         <span class="name">Polo</span>
-                                                    <span class="points"><span class="points-number">98</span> pkt</span>
+                                                    <span class="points"><span class="points-number">28</span> pkt</span>
                                                 </a>
                                             </div>
                                                                             </li>
                                                                                                         <li>
                                                                                     <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/weeso,1668076.html">
-                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2025_12/user_avatar-1765302869-queer-queen.jpg" alt="weeso">
-                                                                                                        <span class="name">weeso</span>
-                                                    <span class="points"><span class="points-number">82</span> pkt</span>
-                                                </a>
-                                            </div>
-                                                                            </li>
-                                                                                                        <li>
-                                                                                    <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/cirrus,1640988.html">
-                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2025_12/user_avatar-1765975005-4ys0dkshtd-1ygi9qt9z1-cart1154.png" alt="cirrus">
-                                                                                                        <span class="name">cirrus</span>
-                                                    <span class="points"><span class="points-number">81</span> pkt</span>
-                                                </a>
-                                            </div>
-                                                                            </li>
-                                                                                                        <li>
-                                                                                    <div class="avatar">
-                                                <a class="link-dark" href="/uzytkownicy/plackizjapkiem,1667984.html">
+                                                <a class="link-dark" href="/uzytkownicy/epstein67,1668154.html">
                                                                                                                                                                     <img src="https://assetsbryk.iplsc.com/build/images/avatar_default2.2ebe8e3d.svg" onerror="this.onerror=null; this.src='https://assetsbryk.iplsc.com/build/images/avatar_default2.13eaf670.png'" alt="" class=""no-avatar-icon>
 
-                                                                                                        <span class="name">plackizjapkiem</span>
-                                                    <span class="points"><span class="points-number">60</span> pkt</span>
+                                                                                                        <span class="name">Epstein67</span>
+                                                    <span class="points"><span class="points-number">27</span> pkt</span>
+                                                </a>
+                                            </div>
+                                                                            </li>
+                                                                                                        <li>
+                                                                                    <div class="avatar">
+                                                <a class="link-dark" href="/uzytkownicy/diarat,1668155.html">
+                                                                                                                                                                    <img src="https://assetsbryk.iplsc.com/build/images/avatar_default2.2ebe8e3d.svg" onerror="this.onerror=null; this.src='https://assetsbryk.iplsc.com/build/images/avatar_default2.13eaf670.png'" alt="" class=""no-avatar-icon>
+
+                                                                                                        <span class="name">diarat</span>
+                                                    <span class="points"><span class="points-number">27</span> pkt</span>
+                                                </a>
+                                            </div>
+                                                                            </li>
+                                                                                                        <li>
+                                                                                    <div class="avatar">
+                                                <a class="link-dark" href="/uzytkownicy/igor2010,1666696.html">
+                                                                                                                                                                    <img src="https://assetsbryk.iplsc.com/build/images/avatar_default2.2ebe8e3d.svg" onerror="this.onerror=null; this.src='https://assetsbryk.iplsc.com/build/images/avatar_default2.13eaf670.png'" alt="" class=""no-avatar-icon>
+
+                                                                                                        <span class="name">Igor2010</span>
+                                                    <span class="points"><span class="points-number">14</span> pkt</span>
+                                                </a>
+                                            </div>
+                                                                            </li>
+                                                                                                        <li>
+                                                                                    <div class="avatar">
+                                                <a class="link-dark" href="/uzytkownicy/nadzieja007,1667278.html">
+                                                                                                            <img src="https://staticbryk.iplsc.com/bryk_prod_2025_09/user_avatar-1759044113-panoramic-view-of-corfu-town-scaled.jpg" alt="Nadzieja007">
+                                                                                                        <span class="name">Nadzieja007</span>
+                                                    <span class="points"><span class="points-number">2</span> pkt</span>
                                                 </a>
                                             </div>
                                                                             </li>
@@ -2499,34 +2473,34 @@ window.Inpl.Ad.exSettings.domain = "www.bryk.pl";
                                                                                                                                                     <div class="list-wrapper rankingBoxListContainer " data-index="2">
                                                             <ul>
                                                                             <li>
-                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/5454-plotki-i-ploteczki-czyli-nalezy-uwazac-nawet-we-wlasnych-czterech-scianach-bo-sciany-maja-uszy-opowiadanie-na-postawie-moralnosci-pani-dulskiej-gabrieli-zapolskiej.html">Plotki i ploteczki, czyli należy uważać nawet we wł...</a>
-                                                                                    </li>
-                                                                            <li>
-                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/5089-jaka-role-wspolczesnie-odgrywa-honor-czy-uwazasz-ze-jest-on-dzis-jeszcze-potrzebny.html">Jaką rolę współcześnie odgrywa honor? Czy uważasz, ż...</a>
-                                                                                    </li>
-                                                                            <li>
-                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/25588-film-czy-ksiazka.html">Film czy książka?</a>
-                                                                                    </li>
-                                                                            <li>
-                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/5499-literacka-nagroda-nobla-w-rekach-polakow-przestaw-polskich-noblistow.html">Literacka Nagroda Nobla w rękach Polaków – przestaw ...</a>
-                                                                                    </li>
-                                                                            <li>
-                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/5486-co-rozumiesz-poprzez-haslo-zyc-godnie.html">Co rozumiesz poprzez hasło „żyć godnie”?</a>
-                                                                                    </li>
-                                                                            <li>
-                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/14146-moja-wizja-utopii.html">Moja wizja utopii</a>
+                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/14114-komputer-wrog-czy-przyjaciel.html">Komputer - wróg czy przyjaciel?</a>
                                                                                     </li>
                                                                             <li>
                                             <a href="/wypracowania/jezyk-polski/tematy-wolne/14125-tajemnice-bursztynu.html">Tajemnice bursztynu</a>
                                                                                     </li>
                                                                             <li>
-                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/14116-agresja-wyraz-slabosci-czy-dowod-sily.html">Agresja - wyraz słabości czy dowód siły?</a>
+                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/16062-jesli-sie-naprawde-czegos-pragnie-jesli-sie-do-tego-dazy-laur-zwyciezcy-musi-do-nas-nalezec-na-podstawie-wybranej-postaci-napisz-dlaczego-uwazasz-to-zdanie-za-prawdziwe.html">„…...jeśli się naprawdę czegoś pragnie, jeśli się do...</a>
                                                                                     </li>
                                                                             <li>
-                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/25508-twoja-znajomosc-teatrow-warszawskich-repertuar-aktorzy-rezyserzy.html">Twoja znajomość teatrów warszawskich, repertuar, a...</a>
+                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/7965-obyczaje-rycerskie.html">Obyczaje rycerskie</a>
                                                                                     </li>
                                                                             <li>
-                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/25392-opis-swiata-w-7-dniu-stworzenia.html">Opis świata w 7 dniu stworzenia</a>
+                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/7957-jak-wyobrazam-sobie-powstanie-swiata.html">Jak wyobrażam sobie powstanie świata ??</a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/14146-moja-wizja-utopii.html">Moja wizja utopii</a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/16085-sam-na-sam-z-samotnoscia-opis-przezyc-wewnetrznych.html">„Sam na sam z samotnością” – opis przeżyć wewnętrznych</a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/14083-milosc-nie-zawsze-prowadzi-do-szczesliwych-rozwiazan.html">Miłość nie zawsze prowadzi do szczęśliwych rozwiązań</a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/14106-w-jaki-sposob-literatura-pozwala-ludziom-zrozumiec-swiat.html">W jaki sposób literatura pozwala ludziom zrozumieć ś...</a>
+                                                                                    </li>
+                                                                            <li>
+                                            <a href="/wypracowania/jezyk-polski/tematy-wolne/14130-jakie-zagrozenia-niesie-za-soba-projekt-bezkonfliktowego-nastawionego-na-doznawanie-przyjemnosci-zycia.html">Jakie zagrożenia niesie za sobą projekt bezkonflikto...</a>
                                                                                     </li>
                                                                     </ul>
                                                     </div>

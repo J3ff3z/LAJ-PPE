@@ -1,4 +1,4 @@
-HTTP/1.1 200 OK Date: Sat, 03 Jan 2026 16:53:03 GMT Server: Apache/2.4.29
+HTTP/1.1 200 OK Date: Sun, 04 Jan 2026 17:35:40 GMT Server: Apache/2.4.29
 X-Pingback: https://werbalnik.pl/xmlrpc.php Link: /werbalnik.pl/wp-json/>;
 rel="https://api.w.org/", /werbalnik.pl/wp-json/wp/v2/posts/568>;
 rel="alternate"; title="JSON"; type="application/json", /werbalnik.pl/?p=568>;
@@ -166,8 +166,8 @@ Kategorie
   o Słówka dla dzieci na T
   o Słówka dla dzieci na U
   o Słówka dla dzieci na W
-  o Słówka dla dzieci na Z
   o Słówka dla dzieci na Ż
+  o Słówka dla dzieci na Z
   * Epoki literackie
   + Pozytywizm
   o Pozytywizm w Europie

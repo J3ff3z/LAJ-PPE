@@ -1,8 +1,8 @@
-HTTP/2 200 server: nginx date: Sat, 03 Jan 2026 16:48:13 GMT content-type:
-text/html; charset=UTF-8 vary: Accept-Encoding link: /kronos.org.pl/wp-json/>;
-rel="https://api.w.org/" link: /kronos.org.pl/?p=6239>; rel=shortlink
-cache-control: private, must-revalidate last-modified: Sat, 03 Jan 2026 17:48:13
-GMT wpo-cache-status: saving to cache expires: Sat, 31 Jan 2026 16:48:11 GMT
+HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 17:29:55 GMT content-type:
+text/html; charset=UTF-8 vary: Accept-Encoding cache-control: private,
+must-revalidate link: /kronos.org.pl/wp-json/>; rel="https://api.w.org/" link:
+/kronos.org.pl/?p=6239>; rel=shortlink last-modified: Sun, 04 Jan 2026 18:29:55
+GMT wpo-cache-status: saving to cache expires: Sun, 01 Feb 2026 17:29:52 GMT
 vary: Accept-Encoding #oEmbed (JSON) oEmbed (XML)
 
 Kronos

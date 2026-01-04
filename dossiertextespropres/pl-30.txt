@@ -1,3 +1,4 @@
+
 permissions-policy: accelerometer=(), autoplay=(), camera=(),
 rel=" link: //wp-json/wp/v2/posts/205191>;
 rel="alternate"; title=""; type="application/json"

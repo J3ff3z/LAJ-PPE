@@ -1,37 +1,36 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:35:35 GMT
-server: mw-web.eqiad.main-8f8dcf6c-9jjxj
+date: Sun, 04 Jan 2026 17:27:30 GMT
+server: mw-web.eqiad.main-8f8dcf6c-5nwt9
 x-content-type-options: nosniff
 content-language: pl
 accept-ch: 
-last-modified: Tue, 30 Dec 2025 14:30:03 GMT
+last-modified: Sun, 04 Jan 2026 01:18:56 GMT
 content-type: text/html; charset=UTF-8
-age: 642
+age: 2
 accept-ranges: bytes
-x-cache: cp6010 miss, cp6016 hit/1
-x-cache-status: hit-front
-server-timing: cache;desc="hit-front", host;desc="cp6016"
+x-cache: cp6010 miss, cp6016 miss
+x-cache-status: miss
+server-timing: cache;desc="miss", host;desc="cp6016"
 strict-transport-security: max-age=106384710; includeSubDomains; preload
 report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
 nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
-set-cookie: WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT
-set-cookie: WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT
-set-cookie: WMF-DP=495;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+set-cookie: WMF-Last-Access=04-Jan-2026;Path=/;HttpOnly;secure;Expires=Thu, 05 Feb 2026 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=04-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Thu, 05 Feb 2026 12:00:00 GMT
+set-cookie: WMF-DP=8dd;Path=/;HttpOnly;secure;Expires=Mon, 05 Jan 2026 00:00:00 GMT
 x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7
 cache-control: private, s-maxage=0, max-age=0, must-revalidate, no-transform
 vary: Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent
 set-cookie: GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
 set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
-set-cookie: WMF-Uniq=iaG9DY9ekx2T9KAIv5BNJALdAAAAAFvdE1cPCEt9Fa0bw3IYg_hbpFc8CgPkVie6;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027 00:00:00 GMT
-content-length: 171389
-x-request-id: 32c21a32-c59e-4efe-ba84-bf7de87df2de
+set-cookie: WMF-Uniq=6XQErmzp-lDr0S-I5X44CALeAAAAAFvd-CKQyCF16s9Xol4ynrGjcwb1qe7PPc3I;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027 00:00:00 GMT
+x-request-id: 03a5a7cb-8f8f-4800-8326-f49aecf4ea2b
 
 <!DOCTYPE html>
 <html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="pl" dir="ltr">
 <head>
 <meta charset="UTF-8">
 <title>Grzech – Wikipedia, wolna encyklopedia</title>
-<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )plwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgRequestId":"0f17410a-102e-40f3-aa85-1a3747af2242","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Grzech","wgTitle":"Grzech","wgCurRevisionId":78333149,"wgRevisionId":78333149,"wgArticleId":11109,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Szablon cytowania bez określonego trybu","Artykuły wymagające uzupełnienia źródeł od 2018-02","Artykuły z brakującymi przypisami od 2012-05","Artykuły z propozycjami tłumaczeń","Religioznawstwo","Grzechy"],"wgPageViewLanguage":"pl","wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgRelevantPageName":"Grzech","wgRelevantArticleId":11109,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":78333149,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","pageVariantFallbacks":"pl"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgWMEPageLengthBucket":3,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q60227","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":false,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )plwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgRequestId":"03a5a7cb-8f8f-4800-8326-f49aecf4ea2b","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Grzech","wgTitle":"Grzech","wgCurRevisionId":78333149,"wgRevisionId":78333149,"wgArticleId":11109,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Szablon cytowania bez określonego trybu","Artykuły wymagające uzupełnienia źródeł od 2018-02","Artykuły z brakującymi przypisami od 2012-05","Artykuły z propozycjami tłumaczeń","Religioznawstwo","Grzechy"],"wgPageViewLanguage":"pl","wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgRelevantPageName":"Grzech","wgRelevantArticleId":11109,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":78333149,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","pageVariantFallbacks":"pl"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgWMEPageLengthBucket":3,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q60227","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":false,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
 RLSTATE={"ext.gadget.wikiflex":"ready","ext.gadget.infobox":"ready","ext.gadget.hlist":"ready","ext.gadget.darkmode-overrides":"ready","ext.gadget.small-references":"ready","ext.gadget.citation-access-info":"ready","ext.gadget.sprawdz-problemy-szablony":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.ll-script-loader","ext.gadget.veKeepParameters","ext.gadget.szablon-galeria","ext.gadget.NavFrame","ext.gadget.citoid-overrides","ext.gadget.maps","ext.gadget.padlock-indicators","ext.gadget.interwiki-langlist","ext.gadget.edit-summaries","ext.gadget.edit-first-section","ext.gadget.wikibugs","ext.gadget.map-toggler","ext.gadget.narrowFootnoteColumns","ext.gadget.ally-enhance","ext.gadget.WDsearch","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 }];});});</script>
@@ -947,13 +946,13 @@ RLSTATE={"ext.gadget.wikiflex":"ready","ext.gadget.infobox":"ready","ext.gadget.
 </div></div>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.canary‐76d7c99c78‐gbj66
-Cached time: 20251230173327
+Parsed by mw‐web.eqiad.main‐8f8dcf6c‐tjvqv
+Cached time: 20260104014112
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.377 seconds
-Real time usage: 0.743 seconds
+CPU time usage: 0.425 seconds
+Real time usage: 0.817 seconds
 Preprocessor visited node count: 7072/1000000
 Revision size: 27564/2097152 bytes
 Post‐expand include size: 56203/2097152 bytes
@@ -962,25 +961,25 @@ Highest expansion depth: 12/100
 Expensive parser function count: 3/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 28480/5000000 bytes
-Lua time usage: 0.166/10.000 seconds
+Lua time usage: 0.196/10.000 seconds
 Lua memory usage: 5426941/52428800 bytes
 Number of Wikibase entities loaded: 10/500
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  417.616      1 -total
- 29.91%  124.899      1 Szablon:Przypisy
- 25.73%  107.470      1 Szablon:Kontrola_autorytatywna
- 18.93%   79.051     15 Szablon:Cytuj
- 18.35%   76.629      1 Szablon:Dopracować
- 11.36%   47.458      1 Szablon:Mbox
- 10.23%   42.729      6 Szablon:Cytuj_książkę
-  6.05%   25.250      2 Szablon:Cytat
-  3.85%   16.066      1 Szablon:Link-interwiki
-  2.94%   12.282      2 Szablon:Lang
+100.00%  475.966      1 -total
+ 29.79%  141.814      1 Szablon:Przypisy
+ 29.56%  140.707      1 Szablon:Kontrola_autorytatywna
+ 19.32%   91.933     15 Szablon:Cytuj
+ 16.39%   78.027      1 Szablon:Dopracować
+ 11.60%   55.228      1 Szablon:Mbox
+ 10.23%   48.692      6 Szablon:Cytuj_książkę
+  5.54%   26.377      2 Szablon:Cytat
+  3.40%   16.189      1 Szablon:Link-interwiki
+  2.73%   12.998      2 Szablon:Ikona
 -->
 
-<!-- Saved in parser cache with key plwiki:stable-pcache:11109:|#|:idhash:canonical and timestamp 20251230173327 and revision id 78333149. Rendering was triggered because: unknown
+<!-- Saved in parser cache with key plwiki:stable-pcache:11109:|#|:idhash:canonical and timestamp 20260104014112 and revision id 78333149. Rendering was triggered because: unknown
  -->
 </div><noscript><img src="https://pl.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
 <div class="printfooter" data-nosnippet="">Źródło: „<a dir="ltr" href="https://pl.wikipedia.org/w/index.php?title=Grzech&amp;oldid=78333149">https://pl.wikipedia.org/w/index.php?title=Grzech&amp;oldid=78333149</a>”</div></div>
@@ -1122,7 +1121,7 @@ Zobacz szczegółowe informacje o <a class="external text" href="https://foundat
 		
 	</ul>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8f8dcf6c-9jjxj","wgBackendResponseTime":163,"wgPageParseReport":{"limitreport":{"cputime":"0.377","walltime":"0.743","ppvisitednodes":{"value":7072,"limit":1000000},"revisionsize":{"value":27564,"limit":2097152},"postexpandincludesize":{"value":56203,"limit":2097152},"templateargumentsize":{"value":8516,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":28480,"limit":5000000},"entityaccesscount":{"value":10,"limit":500},"timingprofile":["100.00%  417.616      1 -total"," 29.91%  124.899      1 Szablon:Przypisy"," 25.73%  107.470      1 Szablon:Kontrola_autorytatywna"," 18.93%   79.051     15 Szablon:Cytuj"," 18.35%   76.629      1 Szablon:Dopracować"," 11.36%   47.458      1 Szablon:Mbox"," 10.23%   42.729      6 Szablon:Cytuj_książkę","  6.05%   25.250      2 Szablon:Cytat","  3.85%   16.066      1 Szablon:Link-interwiki","  2.94%   12.282      2 Szablon:Lang"]},"scribunto":{"limitreport-timeusage":{"value":"0.166","limit":"10.000"},"limitreport-memusage":{"value":5426941,"limit":52428800},"limitreport-logs":"required = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\n"},"cachereport":{"origin":"mw-web.eqiad.canary-76d7c99c78-gbj66","timestamp":"20251230173327","ttl":2592000,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8f8dcf6c-5nwt9","wgBackendResponseTime":139,"wgPageParseReport":{"limitreport":{"cputime":"0.425","walltime":"0.817","ppvisitednodes":{"value":7072,"limit":1000000},"revisionsize":{"value":27564,"limit":2097152},"postexpandincludesize":{"value":56203,"limit":2097152},"templateargumentsize":{"value":8516,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":28480,"limit":5000000},"entityaccesscount":{"value":10,"limit":500},"timingprofile":["100.00%  475.966      1 -total"," 29.79%  141.814      1 Szablon:Przypisy"," 29.56%  140.707      1 Szablon:Kontrola_autorytatywna"," 19.32%   91.933     15 Szablon:Cytuj"," 16.39%   78.027      1 Szablon:Dopracować"," 11.60%   55.228      1 Szablon:Mbox"," 10.23%   48.692      6 Szablon:Cytuj_książkę","  5.54%   26.377      2 Szablon:Cytat","  3.40%   16.189      1 Szablon:Link-interwiki","  2.73%   12.998      2 Szablon:Ikona"]},"scribunto":{"limitreport-timeusage":{"value":"0.196","limit":"10.000"},"limitreport-memusage":{"value":5426941,"limit":52428800},"limitreport-logs":"required = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\next = nil\next = false\next = nil\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\nrequired = table#1 {\n}\n"},"cachereport":{"origin":"mw-web.eqiad.main-8f8dcf6c-tjvqv","timestamp":"20260104014112","ttl":2592000,"transientcontent":false}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Grzech","url":"https:\/\/pl.wikipedia.org\/wiki\/Grzech","sameAs":"http:\/\/www.wikidata.org\/entity\/Q60227","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q60227","author":{"@type":"Organization","name":"Wsp\u00f3\u0142tw\u00f3rcy projekt\u00f3w Fundacji Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-02-04T12:07:17Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/12\/Forbidden_fruit.jpg","headline":"z\u0142amanie zasad religii"}</script>
 </body>
 </html>

@@ -1,12 +1,13 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:51:56 GMT content-type: text/html;
-Cookie content-language: pl expires: Sat, 03 Jan 2026 16:54:56 GMT
-csrftoken=IimTu6r67h1HEj1rL4QcBM4f4jRQrbhv1AEot4QkL8OiepP4iNyh8JcMcpXtrCaj;
-expires=Sat, 02 Jan 2027 16:51:56 GMT; Max-Age=; Path=/; SameSite=Lax;
 
-Dzisiaj aż 13,496 dzieciaków dzięki wsparciu osób takich jak Ty znajdzie darmowe
-książki na Wolnych Lekturach.
-Dołącz do Przyjaciół Wolnych Lektur i zapewnij darmowy dostęp do książek
-milionom uczennic i uczniów dzisiaj i każdego dnia!
+HTTP/2 200 date: Sun, 04 Jan 2026 17:34:11 GMT content-type: text/html;
+Cookie content-language: pl expires: Sun, 04 Jan 2026 17:37:11 GMT
+csrftoken=EP14kVQ0eFl3wx0uNoHxzqXrisV5yHCJGTJtcX1aWLAHj1XAptTmB2vy1KmnX6fQ;
+expires=Sun, 03 Jan 2027 17:34:11 GMT; Max-Age=; Path=/; SameSite=Lax;
+
+Potrzebujemy Twojej pomocy!
+Na stałe wspiera nas 467 czytelników i czytelniczek.
+Niestety, minimalną stabilność działania uzyskamy dopiero przy 500 regularnych
+darczyńców. Dorzucisz się?
 Tak, dorzucę się do Wolnych Lektur! Tym razem nie pomogę, przechodzę prosto do
 biblioteki
 
@@ -7051,10 +7052,10 @@ szkolnych - zróbmy to razem! Wspieraj Wolne Lektury stałą wpłatą!
 Kliknij, by dowiedzieć się więcej >>>
 
 
-Lektury szkolne muszą być wolne! Darmowy i łatwy dostęp do każdej lektury —
-skoro jest obowiązkowa — powinien być zagwarantowany dzieciakom.
+Wspieram, bo uważam że dostęp do wiedzy powinien być darmowy. Sam często
+korzystam z zasobów  więc wspieram jak tylko mogę.
 
-Robert Koszucki
+Adam Fidusiewicz
 
 
 Znajdź nasze książki na Legimi! Za każdym razem, kiedy czytasz lub słuchasz
@@ -7065,21 +7066,23 @@ Zapisz się na newsletter, a nie przegapisz naszych publikacji. Zawsze możesz
 zrezygnować. Kliknij i podaj adres email
 
 
-Nie bądź wuj ponury, wspieraj Wolne Lektury!
+Przyjaciele Wolnych Lektur jako pierwsi mają dostęp do premierowych publikacji.
+Zadeklaruj stałą wpłatę i dołącz >>>
 
 
 Audiobooki Wolnych lektur znajdziesz też na naszym kanale na YouTube.
-Czy wiesz, że jeśli włączysz subskrypcję, to pomożesz uwolnić kolejną książkę?
+
+Regularnie dodajemy nowe książki. By ich nie przegapić, subskrybuj nasz kanał.
 
 Kliknij obrazek, by subskrybować!
 
 
-Chcesz pomóc bibliotece? Najlepszą metodą pomocy są niewielkie, ale stałe
-wpłaty. Kliknij i dorzuć się!
+Bez wsparcia czytelników Wolne Lektury nie będą się rozwijać. Nie pozwól na to!
+Kliknij i dorzuć się!
 
-Twoje dziecko znalazło potrzebną książkę na Wolnych Lekturach? Teraz Ty możesz
-nam pomóc!
-Wesprzyj nas! Kliknij i dorzuć się!
+Pamiętasz, jak w szkolnej bibliotece były dwa egzemplarze książki, którą trzeba
+było przeczytać na pojutrze? Dzięki Wolnym Lekturom każdy uczeń ma dostęp do
+wielu potrzebnych mu lektur! Wesprzyj nas! Kliknij i dorzuć się!
 
 Dlaczego warto pamiętać o Kochanowskim, w jaki sposób zmiana akcentu może
 symbolizować bunt, jak rymować, aby prawie nikt nie zauważył, że rymujecie -

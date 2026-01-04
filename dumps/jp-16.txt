@@ -1,29 +1,29 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:39:26 GMT server:
-mw-web.eqiad.main-8f8dcf6c-qwl9w x-content-type-options: nosniff
-content-language: ja accept-ch: last-modified: Sat, 03 Jan 2026 11:55:38 GMT
-content-type: text/html; charset=UTF-8 age: 0 accept-ranges: bytes x-cache:
-cp6014 miss, cp6016 miss x-cache-status: miss server-timing: cache;desc="miss",
-host;desc="cp6016" strict-transport-security: max-age=106384710;
-includeSubDomains; preload report-to: { "group": "wm_nel", "max_age": 604800,
-"endpoints": [{ "url":
+HTTP/2 200 date: Sun, 04 Jan 2026 14:59:55 GMT server:
+mw-web.eqiad.main-8f8dcf6c-4hdnt x-content-type-options: nosniff
+content-language: ja accept-ch: last-modified: Sun, 04 Jan 2026 07:11:40 GMT
+content-type: text/html; charset=UTF-8 age: 8246 accept-ranges: bytes x-cache:
+cp6014 miss, cp6016 hit/4 x-cache-status: hit-front server-timing:
+cache;desc="hit-front", host;desc="cp6016" strict-transport-security:
+max-age=106384710; includeSubDomains; preload report-to: { "group": "wm_nel",
+"max_age": 604800, "endpoints": [{ "url":
 "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_
 error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] } nel: { "report_to":
 "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
-set-cookie: WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04
+set-cookie: WMF-Last-Access=04-Jan-2026;Path=/;HttpOnly;secure;Expires=Thu, 05
 Feb 2026 12:00:00 GMT set-cookie:
-WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;
-Expires=Wed, 04 Feb 2026 12:00:00 GMT set-cookie:
-WMF-DP=1e7;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+WMF-Last-Access-Global=04-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;
+Expires=Thu, 05 Feb 2026 12:00:00 GMT set-cookie:
+WMF-DP=3df;Path=/;HttpOnly;secure;Expires=Mon, 05 Jan 2026 00:00:00 GMT
 x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7 cache-control: private,
 s-maxage=0, max-age=0, must-revalidate, no-transform vary:
 Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
 GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
 set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
 set-cookie:
-WMF-Uniq=Nre34KwmFoy-l-Il9rfeIwLdAAAAAFvdpMqrV8YhCJFPLrfocTBK3Qpd7JbZ5ze9;Domain
-=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027
-00:00:00 GMT x-request-id: 7a7260bc-228e-4c35-9022-6d3849316a6d #Wikipedia (ja)
-Wikipediaの Atom フィード
+WMF-Uniq=-kVgu5O_6cN4sjNGe-tLoALeAAAAAFvdTOfDBtEN2p1p6QMloikotj5msUt-n4Lw;Domain
+=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027
+00:00:00 GMT content-length: 1181211 x-request-id:
+c3240c65-c00b-45f0-bc04-85deda21d4b5 #Wikipedia (ja) Wikipediaの Atom フィード
 
 コンテンツにスキップ
 
@@ -5727,9 +5727,9 @@ A-1 Pictures
   * Engage Kiss
   * NieR:Automata Ver1.1a
   * マッシュル-MASHLE-シリーズ
-  * Fate/strange Fake -Whispers of Dawn-
+  * Fate/strange Fakeシリーズ
   * 新しい上司はど天然
-  * 俺だけレベルアップな件
+  * 俺だけレベルアップな件シリーズ
   * 負けヒロインが多すぎる!
   * ソードアート・オンライン オルタナティブ ガンゲイル・オンラインII
   * グロウアップショウ 〜ひまわりのサーカス団〜

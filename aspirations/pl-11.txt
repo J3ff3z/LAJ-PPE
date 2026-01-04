@@ -2,12 +2,12 @@ HTTP/2 200
 expires: Thu, 19 Nov 1981 08:52:00 GMT
 cache-control: no-store, no-cache, must-revalidate
 pragma: no-cache
-set-cookie: PHPSESSID=1356c3b0f0692c70eaf92894ec7b8865; path=/; secure; HttpOnly; SameSite=Strict
+set-cookie: PHPSESSID=04e6a8f40613c18e1ac7a444e75ed846; path=/; secure; HttpOnly; SameSite=Strict
 strict-transport-security: max-age=31536000; includeSubDomains
 vary: Accept-Encoding
 cache-control: no-cache, no-store, must-revalidate
 content-type: text/html; charset=UTF-8
-date: Sat, 03 Jan 2026 16:46:58 GMT
+date: Sun, 04 Jan 2026 17:28:19 GMT
 server: Apache/2.4.65 (Debian)
 
 <!DOCTYPE html>

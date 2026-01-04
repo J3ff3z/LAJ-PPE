@@ -19,9 +19,9 @@ rel="https://api.w.org/" link: /www.emocjepro.pl/wp-json/wp/v2/posts/205191>;
 rel="alternate"; title="JSON"; type="application/json"
 x-litespeed-cache-control: public,max-age=31557600 x-litespeed-tag:
 aa7_post,aa7_URL.7671878d31deadd19a72f7bb359d8775,aa7_Po.205191,aa7_guest,aa7_,a
-a7_MIN.2449bc77bd3178e89d0c110189fcd215.css,aa7_MIN.3f89ad0b7f9cecf938c73a1c0760
-2377.js etag: "143411-1767458881;;;" x-litespeed-cache: miss date: Sat, 03 Jan
-2026 16:48:01 GMT alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000,
+a7_MIN.2449bc77bd3178e89d0c110189fcd215.css,aa7_MIN.45a758dbd30760be700d74d1232f
+1c42.js etag: "148611-1767547778;;;" x-litespeed-cache: miss date: Sun, 04 Jan
+2026 17:29:38 GMT alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000,
 h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443";
 ma=2592000, quic=":443"; ma=2592000; v="43,46" #Emocjepro » Kanał z wpisami
 Emocjepro » Kanał z komentarzami Emocjepro » Zaburzenia obsesyjno-kompulsywne na

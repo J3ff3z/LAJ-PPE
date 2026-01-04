@@ -1,11 +1,10 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:47:12 GMT content-type: text/html;
+HTTP/2 200 date: Sun, 04 Jan 2026 17:28:35 GMT content-type: text/html;
 charset=UTF-8 report-to:
 {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare
-.com/report/v4?s=757D0YWkgJBsFxfdOc0TlC6x1kpstDV615ONDmguF5pUz842mkWXaxulRlvH4%2
-F5l2SIBL7Nk94%2Ba5PjlBq%2BtPdyu0OBC0sCpUARUfdJhppXpgQ9DZ0Y%3D"}]}
-x-ua-compatible: IE=edge permissions-policy:
-private-state-token-redemption=(self "https://www.google.com"
-"https://www.gstatic.com" "https://recaptcha.net"
+.com/report/v4?s=u0pDnv8ZVwlgOUtEu8PYfQYUQwaVBg16%2Fvg35Qd1U8P5OgVRn8lYE0TX9aW06
+TlBfMmEJLHcYC%2FINDbkcPqnIJbmw7bwgTaKCN6gYuAtuAEcf5CfTsU%3D"}]} x-ua-compatible:
+IE=edge permissions-policy: private-state-token-redemption=(self
+"https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net"
 "https://challenges.cloudflare.com" "https://hcaptcha.com"),
 private-state-token-issuance=(self "https://www.google.com"
 "https://www.gstatic.com" "https://recaptcha.net"
@@ -13,10 +12,10 @@ private-state-token-issuance=(self "https://www.google.com"
 /wopisie.pl/wp-json/>; rel="https://api.w.org/" link:
 /wopisie.pl/wp-json/wp/v2/posts/5387>; rel="alternate"; title="JSON";
 type="application/json" link: /wopisie.pl/?p=5387>; rel=shortlink server-timing:
-wp-before-template;dur=449.69 nel:
+wp-before-template;dur=477.79 nel:
 {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} vary:
 Accept-Encoding,User-Agent server: cloudflare x-turbo-charged-by: LiteSpeed
-cf-cache-status: DYNAMIC cf-ray: 9b83fa00cad6d09a-CDG alt-svc: h3=":443";
+cf-cache-status: DYNAMIC cf-ray: 9b8c7403ff7597c1-CDG alt-svc: h3=":443";
 ma=86400 #WOPISIE » Kanał z wpisami WOPISIE » Kanał z komentarzami oEmbed (JSON)
 oEmbed (XML) JSON
 

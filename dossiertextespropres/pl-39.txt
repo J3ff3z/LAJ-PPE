@@ -1,8 +1,9 @@
-HTTP/2 200 server: nginx date: Sat, 03 Jan 2026 16:48:46 GMT content-type:
+
+HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 17:30:31 GMT content-type:
 /hacker and mention this header. host-header:  vary:
  link: //p9RDsV-395>;
-cache;desc=MISS;dur= #Z kulturą, Emmo! » Kanał z wpisami Z kulturą, Emmo!
-» Kanał z komentarzami Z kulturą, Emmo! » Przeżycie, nie tylko lektura. „Dzieje
+cache;desc=STALE;dur= #Z kulturą, Emmo! » Kanał z wpisami Z kulturą, Emmo! »
+Kanał z komentarzami Z kulturą, Emmo! » Przeżycie, nie tylko lektura. „Dzieje
 grzechu” Stefana Żeromskiego Kanał z komentarzami alternate alternate Z kulturą,
 Emmo! 
 

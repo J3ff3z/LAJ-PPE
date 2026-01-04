@@ -1,418 +1,308 @@
-HTTP/2 200 expires: Sun, 19 Nov 1978 05:00:00 GMT x-content-type-options:
-nosniff content-type: text/html; charset=UTF-8 cache-control: max-age=60,
-public, s-maxage=2764800, stale-if-error=180, stale-while-revalidate=60 etag:
-"1767456903" x-drupal-dynamic-cache: MISS content-language: en last-modified:
-Sat, 03 Jan 2026 16:15:03 GMT x-lagoon:
-amazeeio-uk3>ingress-nginx>middle-east-eye-main:nginx>nginx-df79cc4b9-6c2dg
-x-frame-options: SAMEORIGIN fastly-drupal-html: YES fastly-request-id:
-b582a580d034a28d3abc17d6 server-timing: MISS, fastly;desc="Edge time";dur=526
-accept-ranges: bytes age: 1773 date: Sat, 03 Jan 2026 16:44:37 GMT vary: Cookie,
-Accept-Encoding fastly-request-id: bab747115e4d119cb1cc29c5 server-timing:
-HIT-CLUSTER, fastly;desc="Edge time";dur=1 strict-transport-security:
-max-age=31557600 alt-svc:
-h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400 content-length:
-64841 #alternate
-
-Skip to main content
-
-IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TJWJ5S9
-
-[INS: :INS]
-
-Home
-
-Top Menu - English Version
-
-  * News
-  * Trending
-  * Opinion
-  * Video
-  * Explainers
-
-Search
-______________________________
-(Search) Search
-
-Home
-  * Algeria
-  * Bahrain
-  * China
-  * Egypt
-  * France
-  * Germany
-  * India
-  * Iran
-  * Iraq
-  * Israel
-  * Jordan
-  * Kuwait
-  * Lebanon
-  * Libya
-  * Mauritania
-  * Morocco
-  * Oman
-  * Pakistan
-  * Palestine
-  * Qatar
-  * Russia
-  * Saudi Arabia
-  * Sudan
-  * Syria
-  * Tunisia
-  * Turkey
-  * UK
-  * United Arab Emirates
-  * US
-  * Yemen
-
-  * Youtube
-  * X
-  * Instagram
-  * Facebook
-  * TikTok
-
-Israel's genocide in Gaza
-Sudan war
-(BUTTON) Toggle navigation
-(BUTTON) Toggle navigation
-Home
-
-Sidebar Menu Mobile En
+HTTP/1.1 200 OK Server: nginx/1.23.2 Date: Sun, 04 Jan 2026 17:26:02 GMT
+Content-Type: text/html; charset=utf-8 Transfer-Encoding: chunked Connection:
+keep-alive X-Powered-By: PHP/7.4.33 Set-Cookie:
+PHPSESSID=e367d8c6f5fa2f56eac0180f2ccc9ce8; path=/ Expires: Thu, 19 Nov 1981
+08:52:00 GMT Cache-Control: no-store, no-cache, must-revalidate Pragma: no-cache
+Set-Cookie: ZKID=95c5cc4d4892a1100e16f0d8323145becd0673ee; expires=Tue,
+03-Feb-2026 17:26:02 GMT; Max-Age=2592000; path=/ Set-Cookie: ZK=%2F;
+expires=Mon, 04-Jan-2027 17:26:02 GMT; Max-Age=31536000; path=/ Vary:
+Accept-Encoding
 
   * Home
-  * News
-  * Opinion
-  * Video
-  * The Big Story
-  * Contact
-  * Discover
+  * Qui sommes-nous
+  * Accaparement des terres
+  * Archive NewsLetter
+  * Pages Web liées à l'AT
+  * Bibliographie-AT
 
-Now
+  * IT
+  * EN
+  * FR
+  * ES
 
-Israel's genocide in Gaza
-Sudan war
+Justice, Paix, Intégrité<br /> de la Création
 
-Follow us
+Justice, Paix, Intégrité
+de la Création
 
-  * Youtube
-  * Facebook
-  * X
-  * Instagram
+Par Jean Paul Pezzi, Mccj
+Justice, Paix, Intégrité<br /> de la Création
 
-Décryptages |
-Politique Turque
+Justice, Paix, Intégrité
+de la Création
 
-Le péché originel de la politique turque moderne
+Par Jean Paul Pezzi, Mccj
+Justice, Paix, Intégrité<br /> de la Création
 
-Le coup d'État du 27 mai 1960 a créé un précédent pour les interventions
-militaires qui ont suivi et mis en place une tutelle militaire permanente en
-Turquie
-[TurkishFlag.9June2014.jpg.jpg?itok=uOhTe51Z]
-By Ceren Kenar
-Published date: 10 June 2015 08:43 BST | Last update: 10 years 7 months ago
+Justice, Paix, Intégrité
+de la Création
 
-« J'ai aimé cet homme, votre honneur. Savez-vous ce qu'est l'amour ? », déclara
-Ayhan Aydan, chanteuse d'opéra, dans le palais de justice où son amant Adnan
-Menderes, le premier Premier ministre de la Turquie élu démocratiquement, était
-jugé. Le 27 mai 1960, le premier coup d’État de la République turque entraîna le
-renversement du gouvernement du Parti démocrate. Le Parti démocrate était
-arrivé au pouvoir à l'issue des premières élections libres de Turquie, en 1950,
-après 27 ans d'un régime unipartite qui avait gouverné le pays d'une main de
-fer.
+Par Jean Paul Pezzi, Mccj
+Justice, Paix, Intégrité<br /> de la Création
 
-Adnan Menderes, tout comme deux ministres de son cabinet, fut condamné à mort
-suite à des dizaines de procès tenus à Yassıada, une petite île située dans la
-mer de Marmara. En raison de sa liaison extra-conjugale avec Menderes, Aydan
-avait été invitée à venir témoigner au procès connu sous le nom de l'« affaire
-du bébé ». Menderes avait été accusé du meurtre du nouveau-né qu'il avait eu
-avec Aydan.
+Justice, Paix, Intégrité
+de la Création
 
-Les dirigeants de la junte cherchaient désespérément à ternir la réputation de
-Menderes aux yeux de sa base essentiellement conservatrice. Ils demandèrent
-d'abord à son épouse de déposer une plainte pour adultère contre Menderes. Les
-officiers de l'armée obtinrent même à l'époque l’émission d’une fatwa par le
-mufti d'Istanbul, qui déclara : « L'adultère est le plus grand des péchés. La
-sentence pour ce péché est la lapidation. »
+Par Jean Paul Pezzi, Mccj
+Justice, Paix, Intégrité<br /> de la Création
 
-Cependant, l'épouse de Menderes refusa de témoigner contre son mari, tout comme
-sa maîtresse. Résistant aux menaces, ces deux femmes courageuses et nobles
-ouvrirent la voie vers l'acquittement de Menderes dans l'« affaire du bébé ». Il
-fut toutefois reconnu coupable d'autres chefs d'accusation retenus contre lui,
-telles qu'une accusation de violation de la constitution, et fut pendu le
-17 septembre 1961.
+Justice, Paix, Intégrité
+de la Création
 
-Malgré toutes ces tentatives de diabolisation de Menderes, ce dernier est resté
-un héros et un martyr dans le cœur et l'esprit de ses partisans. Il a été élu
-sous le slogan « Assez ! C'est au tour des peuples de parler » et a fait la
-promotion dans un premier temps de la libéralisation économique, politique et
-sociale. Menderes a toujours été vénéré par les dirigeants des partis de
-centre-droite turcs, qui l'ont dépeint comme un défenseur héroïque des droits et
-intérêts politiques et économiques de ce qu'ils appelaient l'« homme
-ordinaire ».
+Par Jean Paul Pezzi, Mccj
 
-New MEE newsletter: Jerusalem Dispatch
+Les vertus des hommes politiques selon Don Luigi Sturzo
 
-Sign up to get the latest insights and analysis on Israel-Palestine, alongside
-Turkey Unpacked and other MEE newsletters
+In Terris 12.11.2022 Mons. Michele Pennisi Traduit par: Jpic-jp.org
 
-____________________
-Subscribe
+La différence fondamentale entre le péché et le crime est que le premier est un
+concept moral-religieux, le second un concept politico-légal. Le pécheur doit
+rendre des comptes à son Dieu. Le délinquant, quant à lui, doit rendre des
+comptes à la loi et au juge et, dans un sens plus large, à la communauté lésée
+par son crime. Luigi Sturzo est né le 26 novembre 1871 en Sicile et mort à Rome
+en 1959. Il était prêtre catholique et homme politique, grande figure du parti
+populaire.
+[613.jpg]
 
-Aujourd'hui, on peut voir les partisans du Parti pour la justice et le
-développement (AKP) brandir des portraits de Menderes lors de rassemblements
-électoraux. L’AKP est le plus récent des partis politiques turcs à se prévaloir
-de l'héritage de Menderes.
+Un crime est un comportement humain volontaire qui prend la forme d'une action
+interdite par le système juridique d'un État, à laquelle est attachée une
+sanction. Pour qu'un comportement soit considéré comme un crime, il ne suffit
+pas qu'il soit contraire à la loi. Plusieurs circonstances doivent être réunies
+: le caractère volontaire du comportement ; l'existence de l'élément
+psychologique, la faute intentionnelle ou la culpabilité ; le lien de causalité
+entre le comportement actif et la survenance du fait dommageable ; l'inexistence
+de conditions qui rendraient licite un comportement formellement illicite (par
+exemple, la légitime défense).
 
-Ainsi, le 14 mai 2015, le Premier ministre Ahmet Davutoğlu a lancé un projet
-visant à faire de l'île de Yassıada, où Menderes a été jugé, l'« Île de la
-démocratie et de la liberté ». Lors de la cérémonie d'ouverture, Davutoğlu a
-déclaré qu'un « musée de la démocratie » serait construit à Yassıada pour
-commémorer les « héros de la démocratie ». « La salle d'audience dans laquelle
-Menderes, le Président de l'époque Celâl Bayar et d'autres prévenus ont été
-jugés sera préservée telle quelle et transmise aux générations futures, de sorte
-que plus jamais personne ne tente une chose pareille », a-t-il ajouté.
+Le péché appartient à la sphère religieuse. Le Catéchisme de l'Église Catholique
+dit : « Le péché est un manquement à la raison, à la vérité, à la conscience
+droite ; c'est une transgression dans l'ordre du véritable amour, envers Dieu et
+le prochain, à cause d'un attachement pervers à certains biens. Elle blesse la
+nature humaine et attaque la solidarité humaine. C'est une offense à Dieu ».
 
-Alors qu'il existe de nos jours un quasi-consensus en Turquie pour dénoncer le
-coup d’État de 1960, similaire au coup d’État égyptien de 2013, il a été
-célébré dans les rues pendant des décennies, principalement par l'élite urbaine
-laïque, et étiqueté comme étant une « révolution » progressiste. Il est frappant
-de constater que Mohammed Morsi est devenu le premier Président démocratiquement
-élu du Moyen-Orient à avoir été condamné à mort depuis Menderes.
+Trois conditions sont nécessaires pour qu'il y ait péché : une matière grave,
+une pleine conscience de l'intelligence, un consentement délibéré de la volonté
+libre de tout conditionnement. La moralité est un désir et une tension continue
+vers le bien qui ne se scandalise pas de sa propre fragilité et de celle des
+autres parce qu'elle naît de la gratitude pour l'expérience de l'amour gratuit.
 
-Le processus qui prit fin avec le coup d'État commença en 1959, lorsque les
-tensions croissantes entre le Parti démocrate au pouvoir et le Parti républicain
-du peuple (CHP) attinrent leur paroxysme. Fondé par Mustafa Kemal, Atatürk, le
-CHP était le parti au pouvoir pendant la période unipartite et despotique qui
-prit fin avec la victoire électorale du Parti démocrate.
+La mission de l'Église n'est pas celle d'une agence humanitaire distribuant des
+permis de moralité, mais celle de dénoncer prophétiquement le mal et d'être
+évangéliquement miséricordieuse envers les pécheurs auxquels elle demande
+continuellement la conversion du cœur et du comportement. A cet égard,
+l'attitude de Jésus est emblématique : aux pharisiens qui lui avaient amené une
+femme adultère, il dit « que celui qui n'a pas péché lui jette la première
+pierre » et à la femme il dit « va et désormais ne pèche plus ».
 
-L'opposition accusait le Parti démocrate d'approuver des mesures autoritaires et
-de violer la constitution, mais également de corruption et d'oppression. Le
-journal d'opposition de l'époque, Dunya, critiquait la « démagogie [de Menderes
-], digne de l'époque ottomane, lorsque le sultan exploitait le sentiment
-religieux pour détourner l'attention de l'aggravation de la situation interne ».
+L'Église demande aux personnes engagées dans la politique que leurs actions
+soient au service de la promotion intégrale de la personne et du bien commun, en
+dépassant le dualisme entre la foi et la vie. Il s'agit de vivre en accord avec
+sa conscience éclairée par la foi, ce qui conduit à concevoir l'engagement
+politique comme un acte d'amour gratuit au service de la communauté.
 
-Alors que le fossé politique entre le parti au pouvoir et le parti d'opposition
-se creusait, les manifestations de rue contre le gouvernement se multipliaient.
-Le gouvernement essaya de supprimer l'opposition par la répression, en faisant
-fermer des journaux, en emprisonnant des figures de l'opposition et des
-journalistes et en recourant à des moyens autoritaires contre les manifestants.
+Parler du crime et du péché dans la pratique politique présuppose de parler de
+la relation entre légalité et moralité, entre droit et justice. Le respect de la
+loi est appelé à ne pas être un simple acte formel mais une action personnelle
+qui trouve son horizon dans la vertu de la justice. On respecte la loi, on
+observe la légalité non pas par peur de la sanction mais par soif de justice et
+de réalisation du bien commun. Le fait que la question morale soit placée au
+centre de l'attention en politique est une bonne chose dans la mesure où cela
+remet en question la séparation préjudiciable de l'éthique et de la politique,
+maintenue par ceux qui théorisent que toutes les expériences de la vie humaine
+(politique, science, économie, droit) sont complètement autonomes de la
+moralité.
 
-« Visiblement, sans prédécesseur libéral, Menderes n'était pas un démocrate
-libéral quand il a dû faire face à une opposition véhémente », argumente Dogan
-Gurpınar, historien à l'université technique d'Istanbul. « Menderes n'a pas
-hésité à utiliser les pouvoirs étendus qui lui ont été accordés par le pouvoir
-législatif et le pouvoir exécutif dans la constitution héritée du régime
-kémaliste. Il les a utilisés de manière excessive, en particulier lorsque
-l'opposition à son gouvernement a grandi et est devenue plus agressive à la fin
-des années 1950. »
+Dans la conception chrétienne de la vie, le bien et le juste sont des dimensions
+inaliénables de l'action, par lesquelles la vie est soumise à des critères
+moraux. La moralité des hommes politiques est une donnée essentielle pour
+redonner une valeur idéale à l'engagement politique et le transformer en
+véritable « charité politique ».
 
-Cela dit, Cemil Kocak, historien à l'université de Sabancı, nous rappelle que
-les accusations portées contre Menderes étaient vernies et exagérées par une
-machine de propagande dont le but était d'ouvrir la voie au coup d'État et de
-donner a posteriori une légitimité à l'armée.
+Il faut toutefois se demander si la « question morale » soulevée par des Catons
+improvisés n'est pas une arme pour détruire ou délégitimer ses adversaires
+politiques, et si les intérêts économiques et l'exploitation électorale ne sont
+pas hypocritement dissimulés derrière des campagnes moralisatrices.
+L'hypocrisie, rappelle Chesterton, est l'hommage que le vice rend à la vertu. La
+moralité ne peut être morcelée. Le pharisaïsme moraliste peut s'appuyer sur la
+parcellisation de principes moraux pour déclarer bon que ce que l'on peut
+montrer savoir observer et mauvais ce que font les autres, filtrant les
+moucherons et avalant les chameaux comme le dit Jésus dans l'Évangile.
 
-« Trois chefs de la bande des méchants, Celâl Bayar (le Président), Adnan
-Menderes (le Premier ministre) et Refik Koraltan (le président du parlement),
-observaient avec bonheur les massacres brutaux orchestrés par Namik Gedik (le
-ministre de l'Intérieur) contre les jeunes turcs. Ces créatures qui enterraient
-vivants les jeunes dans des réfrigérateurs et dans des tombes, avant de mettre
-les cadavres dans des hachoirs à viande et de donner la viande aux chiens, ne
-peuvent pas être des êtres humains », écrit Kocak dans son best-seller de
-propagande intitulé The Victory of the Turkish Army: Bloodless Revolution.
+Le moralisme peut dégénérer en pharisaïsme dans la mesure où c'est la personne
+qui établit le critère du bien et du mal par lequel elle s'absout généralement
+et condamne les autres, oublie l'admonition évangélique d'enlever d'abord la
+poutre de ses propres yeux avant de prétendre enlever la paille de ceux des
+autres. C'est l'attitude de ceux qui pensent avoir les mains propres, mais ne
+réalisent pas que leur cœur est sale.
 
-Inutile de préciser qu'aucune de ces affirmations n'était vraie.
+Don Luigi Sturzo, qui s'est personnellement engagé dans la politique en tant que
+conseiller municipal et provincial, pro-maire pendant 15 ans et secrétaire du
+PPI, a déclaré que la politique est un art que seuls quelques artistes sont
+capables de pratiquer, tandis que d'autres se contentent d'en être des artisans
+et que beaucoup en sont réduits à être des commerçants de la politique. Il n'a
+pas manqué de donner aussi quelques suggestions d'ordre pratique à ceux qui
+veulent apprendre l'art et éviter d’être des commerçants en politiques.
 
-L'agitation politique s'accentuant, les alliés de l'OTAN commencèrent à se
-distancier du gouvernement de Menderes. Curieusement, c'est Menderes qui plaça
-la Turquie dans le bloc occidental et qui fit du pays un membre de l'OTAN en
-1952, en échange de la participation de la Turquie à la guerre de Corée.
+Parmi les vertus des hommes politiques, il cite la franchise, la sincérité, la
+fermeté pour savoir dire non, l'humilité d'où découle le sens des limites, le
+non-attachement à l'argent et à la gloire, la compétence, la planification
+politique. Sturzo affirme l'absolutisme des valeurs morales mais insiste
+également sur l’impolitique de l'immoralité politique. Pour lui, l'économie et
+la politique, sans moralité, sont toujours antiéconomiques et impolitiques.
 
-Le 30 avril 1960, le New York Times publia un article intitulé « Les propos de
-Menderes inquiètent les conseillers américains : Washington craint que le ton du
-Premier ministre turc face à ses ennemis étudiants n'élargisse l'opposition ».
-L'article soulignait le fait que Menderes considérait les protestations contre
-lui comme un complot et qualifiait les manifestants d'« outils » et de
-« partisans fanatiques ». Le 16 mai 1960, le quotidien publia un reportage en
-pleine page, sous le titre « Menderes jure qu'il ne démissionnera pas et affirme
-que la Turquie ira bientôt aux urnes – Affrontements entre opposants et
-partisans lors de son discours à Izmir ».
+Don Luigi Sturzo ne s'est pas arrêté à des dénonciations génériques et
+abstraites, mais est intervenu souvent et ponctuellement dans certains nœuds
+cruciaux de l'histoire de son pays avec des analyses impitoyables qui ne
+manquent pas d'actualité. Voici ce qu'il écrivait en 1958, à l'âge de
+quatre-vingt-sept ans, à propos de la moralisation de la vie publique : « Un mot
+: ‘moraliser la vie publique’ ! Où et quand la politique a-t-elle été maintenue
+dans la ligne de la moralité ? Pas hier, pas aujourd'hui, pas par nous, pas par
+nos voisins, pas par des pays lointains. C'est pourtant l'aspiration populaire :
+justice, honnêteté, mains propres, équité. Quelle est la conception de l'État de
+droit si ce n'est celle d'un État où le droit se substitue à l'arbitraire, où le
+respect de la loi supprime les abus, où les malversations et les abus ne restent
+pas impunis ?
 
-Le 25 avril 1960, un éditorial du quotidien intitulé « Le régime Menderes »
-indiquait : « La suspension des activités politiques normales du gouvernement
-turc a soulevé de graves craintes dans l'esprit des amis de la Turquie. [...]
-M. Inonu [leader du CHP et ancien Premier ministre] a déclaré la semaine
-dernière lors du débat à la Grande Assemblée nationale de Turquie sur la
-suspension de certains partis (censuré dans la presse turque) : "Si vous
-continuez comme cela, même moi, je ne serai pas en mesure de vous sauver". »
-Quelques jours avant le coup d'État, le 5 mai 1960, l'ambassadeur américain
-Warren Fletcher rejeta les rumeurs selon lesquelles un émissaire américain
-s'était entretenu avec Menderes et avait déclaré que les États-Unis restaient
-impartiaux dans le litige l’opposant aux manifestants.
+L'État n'immunise pas le mal et ne le transforme pas en bien ; il fait subir aux
+citoyens les effets néfastes des actions malhonnêtes de ses administrateurs,
+dirigeants et fonctionnaires, tandis qu'il produit des effets bénéfiques par une
+politique sage et une administration honnête. Si l'idée a pénétré l'esprit des
+citoyens qu'un pot-de-vin ou un pourcentage pour un intermédiaire avisé est
+nécessaire pour qu'une affaire soit conclue, il faut en conclure que les
+histoires qui circulent de bouche en bouche ne sont pas toutes inventées. Et de
+conclure : « La propreté ! La propreté morale, politique et administrative, ce
+n'est qu'ainsi que les partis pourront se présenter dignement à l'électorat pour
+obtenir des voix ; jamais en faisant des faveurs à des catégories et à des
+groupes ; jamais par des promesses personnelles de postes et de promotions ;
+mais uniquement au nom des intérêts de la communauté nationale, de la Patrie
+enfin, car la moralisation de la vie publique est le meilleur service que l'on
+puisse rendre à la Patrie » (janvier 1958).
 
-Le coup d'État fut annoncé par une brève allocution radiodiffusée à la nation.
-Dans ce communiqué très court, les nouveaux dirigeants militaires de la Turquie
-jurèrent allégeance à l'OTAN et au CenTO. Le 28 mai 1960, un jour après le coup
-d’État, Fletcher Warren rendit visite au leader du coup d’État, le général Cemal
-Gürsel. Fort de son expérience solide dans l'observation de coups d'État
-lorsqu'il était diplomate en Amérique latine, il confia au chef de la junte,
-Gürsel, que c'était « de loin le coup d'État le plus précis, le plus efficace et
-le plus rapide » qu’il n’ait jamais vu.
+La corruption et le clientélisme sont des phénomènes qui ont toujours existé,
+qui s'accentuent surtout dans les moments de grave décadence civile et dans les
+phases de changement social et culturel, mais depuis quelques décennies en
+Italie, comme dans d'autres pays (Voir dans les institutions européennes
+dernièrement) ils ont pris des proportions quantitatives et des caractéristiques
+qualitatives sans précédent. Le réseau de favoritisme et de corruption s'est
+étendu de la sphère de la vie publique à celle du travail, de la profession, du
+commerce, et a même touché la vie privée et les relations interpersonnelles.
 
-Le 29 mai 1960, le New York Times publia un article depuis la Turquie intitulé
-« Le général Gürsel dirige le cabinet turc et lève la répression : le peuple
-enthousiaste salue le régime, les journalistes et les étudiants emprisonnés sont
-libérés ».
+Ce qui doit être impressionnant et alarmant, c'est l'état généralisé
+d'acquiescement et de résignation passive face à des phénomènes moralement
+graves. D'un côté, les gens sont scandalisés par les manifestations de
+corruption de la classe politique, mais de l'autre, ils contribuent à les
+alimenter en recourant systématiquement au clientélisme lorsqu'il s'agit de
+faire valoir leurs propres intérêts, même au détriment de ceux des autres.
 
-Le coup d'État militaire fut glorifié par l'élite militaire laïque, les médias
-et les universitaires étouffèrent avec enthousiasme les pratiques autoritaires
-du gouvernement de la junte, et les partisans de Menderes furent réduits au
-silence à travers des simulacres de procès et la persécution. Cependant, il ne
-fallut pas longtemps pour que certains des partisans du coup d'État fussent
-perçus comme une menace pour le gouvernement de la junte.
+Il y a un manque d'anticorps contre les comportements illégaux. Aujourd'hui, il
+y a de plus en plus de personnes qui ne connaissent plus aucun sentiment de
+culpabilité et qui prêchent que « la transgression est bonne », pour découvrir
+plus tard qu'elle est aussi épuisante.
 
-Une purge politique fut lancée dans les universités et 147 professeurs furent
-expulsés suite à une chasse aux sorcières basée sur des accusations
-arbitraires : un politologue de renom fut par exemple licencié pour
-homosexualité. Şener Aktürk note que le gouvernement de la junte adopta une
-politique ethnique discriminatoire qui « rappelait le régime unipartite
-antérieur à 1950 ».
+Pour les positions les plus extrêmes du relativisme éthique, il n'existe aucune
+distinction entre le bien et le mal. Les conséquences ultimes de cette position
+qui mène au nihilisme sont exprimées par Camus : « Si rien n'est cru, si rien
+n'a de sens et si nous ne pouvons affirmer aucune valeur, tout est possible et
+rien ne compte. Il n'y a ni pour ni contre, et le meurtrier n'a ni raison ni
+tort. On peut allumer les fours crématoires, tout comme on peut se consacrer à
+la guérison des lépreux. La malice ou la vertu sont des affaires de caprice »
+(L'homme révolté).
 
-Seulement quelques jours après le coup d'État, 485 notables kurdes furent
-arrêtés et déplacés dans un camp pour avoir tenté « d'établir un gouvernement
-kurde » et pour avoir travaillé pour le Parti démocrate, accusé de soutenir ces
-activités. Gürsel, le chef de la junte, déclara un jour : « Partout où vous
-verrez un Kurde, crachez sur son visage ». Il se disait aussi que le général
-avait envisagé d'exécuter plus de 2 500 notables et hommes politiques kurdes.
+Le philosophe Thomas Hobbes a écrit : « Avant les pactes et les lois, il n'y
+avait ni justice ni injustice ; et la nature du bien et du mal n'y était pas
+plus commune chez les hommes que chez les bêtes » (De Homine). Et encore « Les
+règles du bien et du mal, du juste et de l'injuste, sont des lois vivantes ; et
+donc ce que le législateur prescrit doit être considéré comme bien ; ce qu'il
+interdit doit être considéré comme mal » (Léviathan).
 
-Pendant ce temps, le soutien apporté au gouvernement de la junte par la
-communauté internationale resta intact. Cemal Gürsel fut décrit comme « un
-modéré politique » et le coup d'État de 1960 fut qualifié de « révolution sans
-effusion de sang » dans sa nécrologie publiée le 15 septembre 1966 dans le New
-York Times. Il était aussi généreusement encensé par Cyrus L. Sulzberger,
-correspondant à l'étranger du New York Times et chroniqueur primé spécialiste
-des affaires étrangères, qui fut accusé par Carl Bernstein d'être un agent de la
-CIA.
+En 1764, dans son ouvrage « Des crimes et des châtiments », le juriste et
+philosophe milanais Cesare Beccaria introduit la distinction entre péché et
+crime. Déjà Thomas Hobbes, un siècle plus tôt, avait déclaré que « si les crimes
+sont des péchés, tous les péchés ne sont pas des crimes ».
 
-Bernstein était un journaliste d'investigation du Washington Post qui avait
-contribué à mettre au jour le scandale du Watergate. Dans une chronique publiée
-le 13 février 1966, Sulzberger écrivit : « L'armée turque a toujours joué un
-rôle important ; lorsqu'elle s'est sentie appelée à exercer une influence
-politique, elle a toujours évolué dans le sens libéral. »
+Le crime consiste en un dommage causé à l'ensemble de la communauté, de sorte
+que la personne responsable d'un tel acte mérite d'être jugée par la société
+selon les voies et les formes établies par celle-ci. Le péché a une relation
+directe avec Dieu, de sorte que son auteur mérite (du moins pour ceux qui sont
+croyants) d'être jugé (puni ou gracié) uniquement par Dieu et ses représentants.
 
-Pourtant, la grande majorité des Turcs, qui ont depuis des décennies la
-réputation avérée de voter pour le parti approuvé par l'armée, semble être en
-désaccord avec la lecture de la politique turque faite par Sulzberger. La
-Turquie a connu plusieurs coups d'État et interventions militaires qui ont visé
-presque tous les segments de la société (les Kurdes, les islamistes, les alévis,
-les sympathisants de gauche et les libéraux), laissant derrière eux un passé
-sanglant et douloureux.
+L'ordre juridique ne coïncide pas purement et simplement avec l'ordre moral. Le
+domaine du droit ne couvre pas l'ensemble du domaine de la moralité. L'ordre
+juridique concerne principalement l'aspect objectif, matériel. L'ordre moral
+considère avant tout l'intention et la finalité de ceux qui agissent sans
+négliger l'acte extérieur.
 
-Aujourd'hui, le coup d’État de 1960 est perçu comme le péché originel de la
-politique turque moderne qui a créé un précédent pour les interventions
-militaires qui ont suivi et mis en place une tutelle militaire permanente en
-Turquie.
+NB. Cela n’implique pas que toutes les lois soient justes, mais qu’une loi
+injuste doit être rectifiée par les organes que la société s’est donnés. Mais,
+quoi alors si ce sont justement ces organes qui sont corrompu ?
 
-« L'armée a restructuré les organes de l'État afin que la bureaucratie et le
-système judiciaire fonctionnent de manière autonome par rapport aux
-gouvernements au pouvoir. En tant que régime tutélaire qui supervise le
-fonctionnement du gouvernement, l'armée [orchestre] l'État », explique Dogan
-Gurpınar, ajoutant que « ce système a prévalu pendant quatre à cinq décennies
-jusqu'à sa disparition à la fin des années 2000 ».
+Voir, Le virtù dei politici secondo don Luigi Sturzo
 
-Photo : manifestants portant un drapeau turc géant lors d'une manifestation
-(AFP).
+Laisser un commentaire
 
-Traduction de l'anglais (original) par VECTranslation.
+Nom ____________________
+Email ____________________
+Votre commentaire
+____________________________________________________________
+____________________________________________________________
+____________________________________________________________
+____________________________________________________________
+[BUTTON Input] (not implemented)________________________
 
-Middle East Eye delivers independent and unrivalled coverage and analysis of the
-Middle East, North Africa and beyond. To learn more about republishing this
-content and the associated fees, please fill out this form. More about MEE can
-be found here.
+Les commentaires de nos lecteurs (1)
 
-[INS: :INS]
+Dario P 06.05.2023 poi arrivo il compromesso storico...e la cadde' la prima
+pietra..la politica di oggi non ha confini..solo peccati..
+Ce qu’en pense un Juif italien
+[978.jpg] Je voudrais faire une prémisse à propos de ce qu’affirme Vito Mancuso
+dans son article publié dans La Stampa le 13.07.2025, intitulé Les deux visages
+du fanatisme [...]
+Exclure les populations concernées ne mène nulle part
+[974.jpg] Depuis plusieurs années, et plus encore ces derniers mois, la
+situation dans l’est de la République démocratique du Congo est dramatique. Elle
+est principalement due [...]
+Paix ou profit ? L’accord Congo-Rwanda sous le signe de l’extractivisme
+[931.jpg] « Nous obtenons du Congo, pour les États-Unis, beaucoup de droits
+miniers dans le cadre de cet accord ». Cette phrase, prononcée par Donald Trump
+quelques minutes [...]
+Au gouvernement d’imposer un nouveau modèle économique aux géants du numérique
+[915.jpg] Les géants de la Tech traversent une crise existentielle, mais ils
+s’acharnent à la nier pour préserver le statu quo. Facebook et Google, en
+particulier, cherchent à [...]
+La fin d’USAID : mauvaise ou bonne nouvelle ?
+[888.jpg] Trump se veut original, décidé à rejeter tout ce qu’ont fait les
+autres en prétendant faire mieux qu’eux par une méthode très simple : [...]
+Trump n’est pas un clown de cirque
+[884.jpg] Trump sait qu'il a pris le contrôle d'un empire fragile, « aux pieds
+d'argile », alourdi par « 40 000 milliards de dollars de dette - un peu moins
+[...]
+L'ère du chaos
+[879.jpg]   Quel que soit le sujet de la question, une réponse claire et nette
+est impossible. Seule l'arithmétique offre des réponses sans équivoque ; les
+[...]
+[872.jpg]
+L'Europe n'est pas qu'une idée
+[856.jpg] Qu'est-ce que l'Europe ? Ne parlons pas d'identité, un terme qu'il
+faut toujours manier avec précaution : parlons simplement de différences.
+Aujourd'hui [...]
+L'impulsion nationaliste
+[845.jpg] Que les passions nationalistes soient toujours aussi vives au XXIe
+siècle, plus de cent ans après la période de l'entre-deux-guerres qui a vu
+l'instauration de [...]
 
-Recommended
+Info
 
-Politique Turque
-La fin de la démocratie en Turquie ?
-Politique Turque
-La montée en puissance des ultranationalistes turcs
+  * Qui sommes nous
+  * Connectez-vous
 
-[INS: :INS]
+Office - Butembo - Commune Vulamba – Congo Ya Sika
+Email: jampypezzi@gmail.com - tel. +39 328 732 6990 / +243 991 457 856
+e Blog est en 4 langues: it en fr es
+[1.png] [2.png] [3.png] [4.png] [5.png]
 
-Read more
+Suivez-nous dans les réseaux sociaux
 
-Politique Turque
-Les arrestations de militaires montrent la volonté de l’AKP de punir les
-gülenistes
-- David Barchard
-Politique Turque
-Les anciens généraux turcs sortent libres du procès intenté pour « coup d’Etat
-»
-Turquie
-La Turquie paie les conséquences de la répression des manifestations
-- David Barchard
-
-Home
-
-Top Menu En
-
-  * News
-  * Trending
-  * Opinion
-  * Video
-  * Explainers
-
-  * Youtube
-  * X
-  * Instagram
-  * Facebook
-  * TikTok
-
-Top
-
-Countries
-
-  * Algeria
-  * Bahrain
-  * China
-  * Egypt
-  * France
-  * Germany
-  * India
-  * Iran
-  * Iraq
-  * Israel
-  * Jordan
-  * Kuwait
-  * Lebanon
-  * Libya
-  * Mauritania
-  * Morocco
-  * Oman
-  * Pakistan
-  * Palestine
-  * Qatar
-  * Russia
-  * Saudi Arabia
-  * Sudan
-  * Syria
-  * Tunisia
-  * Turkey
-  * UK
-  * United Arab Emirates
-  * US
-  * Yemen
-
-About
-
-  * About us
-  * Privacy
-  * Terms and conditions
-  * Careers
-  * Contact us
-
-Copyright © 2014 - 2025. Middle East Eye. All rights reserved. Only England and
-Wales jurisdiction apply in all legal matters.
-
-Middle East Eye          ISSN 2634-2456
+[social_fb.png]
+Jpic-jp.org
+United State of America
+EDitt | Web Agency

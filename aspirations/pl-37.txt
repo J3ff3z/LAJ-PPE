@@ -1,11 +1,10 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:48:39 GMT
+date: Sun, 04 Jan 2026 17:30:23 GMT
 content-type: text/html; charset=UTF-8
 server: OVHcloud
 x-powered-by: PHP/5.4
 x-ua-compatible: IE=edge
-link: <https://bibliotekajogi3.pl/index.php?rest_route=/>; rel="https://api.w.org/"
-link: <https://bibliotekajogi3.pl/?p=2369>; rel=shortlink
+link: <https://bibliotekajogi3.pl/index.php?rest_route=/>; rel="https://api.w.org/", <https://bibliotekajogi3.pl/?p=2369>; rel=shortlink
 vary: Accept-Encoding
 
 <!DOCTYPE html>

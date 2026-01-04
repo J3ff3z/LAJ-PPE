@@ -1,5 +1,5 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:46:31 GMT
+date: Sun, 04 Jan 2026 17:27:48 GMT
 server: Apache
 cache-control: no-cache,private
 pragma: no-cache
@@ -7,11 +7,11 @@ expires: 0
 p3p: CP="NOI DSP COR NID PSAo OUR IND"
 vary: Accept-Encoding,Origin
 content-type: text/html;charset=UTF-8
-set-cookie: JSESSIONID=e1ba4629-adaa-4543-a551-0b6e269b8217; Path=/; HttpOnly
-set-cookie: polityka-cs-cookie=53111640566720325; Expires=Mon, 02 Feb 2026 16:46:31 GMT; Path=/
-set-cookie: testingCookieName=answered; Expires=Fri, 29 Sep 2028 16:46:31 GMT; Path=/
-set-cookie: article_views_cookie=20260103T174631+0100#1521378; Domain=.polityka.pl; Expires=Mon, 02 Feb 2026 16:46:31 GMT; Path=/
-set-cookie: SESSION=e1ba4629-adaa-4543-a551-0b6e269b8217; Path=/; Secure; HttpOnly
+set-cookie: JSESSIONID=27a83116-b953-4b9f-be21-2c425452bb77; Path=/; HttpOnly
+set-cookie: polityka-cs-cookie=72812203482255956; Expires=Tue, 03 Feb 2026 17:27:48 GMT; Path=/
+set-cookie: testingCookieName=answered; Expires=Sat, 30 Sep 2028 17:27:48 GMT; Path=/
+set-cookie: article_views_cookie=20260104T182748+0100#1521378; Domain=.polityka.pl; Expires=Tue, 03 Feb 2026 17:27:48 GMT; Path=/
+set-cookie: SESSION=27a83116-b953-4b9f-be21-2c425452bb77; Path=/; Secure; HttpOnly
 via: 1.1 google
 alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
 
@@ -28,7 +28,7 @@ alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
 
     <title>Pies czyli kot | Grzech - Polityka.pl</title>
     <meta name="Description" content="Czy można było nie dopuścić do burd ulicznych w Warszawie 11 listopada i kto jest winien, że dopuszczono – ten temat mełły wszystkie maszynki i młynki stacji telewizyjnych."/>
-    <meta name="Keywords" content="Stanisław Tym, Felietony, "/>
+    <meta name="Keywords" content="Felietony, Stanisław Tym, "/>
 
 <meta name="application-name" content="Polityka" section-category="" />
 
@@ -133,8 +133,8 @@ alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
         }
         
                 var CS = {
-            politykaCsId: "53111640566720325",
-            mac: "34510c3fe59e843cf6b8f1bc94b0de31c608b780",
+            politykaCsId: "72812203482255956",
+            mac: "e513ba8432682cbd835e570ff0b4995181410e67",
                             segments: [
                                     ]
                     }

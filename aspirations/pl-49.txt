@@ -1,13 +1,13 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:51:56 GMT
+date: Sun, 04 Jan 2026 17:34:11 GMT
 content-type: text/html; charset=utf-8
-content-length: 551572
+content-length: 551763
 server: gunicorn
 vary: Accept-Language, Cookie
 content-language: pl
-expires: Sat, 03 Jan 2026 16:54:56 GMT
+expires: Sun, 04 Jan 2026 17:37:11 GMT
 cache-control: max-age=180
-set-cookie: csrftoken=IimTu6r67h1HEj1rL4QcBM4f4jRQrbhv1AEot4QkL8OiepP4iNyh8JcMcpXtrCaj; expires=Sat, 02 Jan 2027 16:51:56 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure
+set-cookie: csrftoken=EP14kVQ0eFl3wx0uNoHxzqXrisV5yHCJGTJtcX1aWLAHj1XAptTmB2vy1KmnX6fQ; expires=Sun, 03 Jan 2027 17:34:11 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure
 strict-transport-security: max-age=31536000;
 
 <!doctype html>
@@ -87,8 +87,8 @@ strict-transport-security: max-age=31536000;
 
   
     <a class='annoy-banner-on annoy-banner-on_blackout'
-       href="/pomagam"
-       data-target="#annoy-banner-36"
+       href="/towarzystwo/?pk_campaign=banner-10"
+       data-target="#annoy-banner-10"
     >
     </a>
   
@@ -99,7 +99,7 @@ strict-transport-security: max-age=31536000;
               
               
               "
-       id="annoy-banner-36"
+       id="annoy-banner-10"
 	      style="
               color: #000000;
               background-color: #ff6600;
@@ -107,9 +107,9 @@ strict-transport-security: max-age=31536000;
     <div class="annoy-banner-inner">
 
       <div class="text">
-        <p>Dzisiaj aż <b>13,496 dzieciaków dzięki wsparciu osób takich jak Ty </b>znajdzie darmowe książki na Wolnych Lekturach.<br/><b>Dołącz do Przyjaciół Wolnych Lektur i zapewnij darmowy dostęp do książek milionom uczennic i uczniów</b> dzisiaj i każdego dnia!</p>
+        <p><br><strong>Potrzebujemy Twojej pomocy!</strong><br><br>Na stałe wspiera nas  467 czytelników i czytelniczek. <br><br>Niestety, minimalną stabilność działania uzyskamy dopiero przy 500 regularnych darczyńców. Dorzucisz się?</p>
         <div class="annoy-banner_actions">
-          <a class="action l-button l-button--default l-button--default--dark" href="/pomagam">
+          <a class="action l-button l-button--default l-button--default--dark" href="/towarzystwo/?pk_campaign=banner-10">
             Tak, dorzucę się do Wolnych Lektur!
           </a>
           <a class='annoy-banner-off annoy-banner-off_blackout  l-button l-button--default'>Tym razem nie pomogę, przechodzę prosto do biblioteki</a>
@@ -163,7 +163,7 @@ strict-transport-security: max-age=31536000;
     <i class="icon icon-arrow-down"></i>
   </div>
   <form method="post" action="/i18n/setlang/">
-    <input type="hidden" name="csrfmiddlewaretoken" value="34pMuICkr3cUAXBmWsjbC7ku0HW2tUzummHhtG1y5UZva3pZtb1g94s18N2Ftlsi">
+    <input type="hidden" name="csrfmiddlewaretoken" value="1DYjTG5ZrLdBBxCs3lbLV7FaSBh9HvWU3HGILIg99Rsfo1zyFqnAXJdhBTIr6Uz1">
     <div class="c-lang__list">
       
         <button type="submit" lang="de"
@@ -222,7 +222,7 @@ strict-transport-security: max-age=31536000;
     <i class="icon icon-arrow-down"></i>
   </div>
   <form method="post" action="/i18n/setlang/">
-    <input type="hidden" name="csrfmiddlewaretoken" value="34pMuICkr3cUAXBmWsjbC7ku0HW2tUzummHhtG1y5UZva3pZtb1g94s18N2Ftlsi">
+    <input type="hidden" name="csrfmiddlewaretoken" value="1DYjTG5ZrLdBBxCs3lbLV7FaSBh9HvWU3HGILIg99Rsfo1zyFqnAXJdhBTIr6Uz1">
     <div class="c-lang__list">
       
         <button type="submit" lang="de"
@@ -8311,7 +8311,7 @@ strict-transport-security: max-age=31536000;
 
 
 <form method="post" action="/pomagam/">
-  <input type="hidden" name="csrfmiddlewaretoken" value="34pMuICkr3cUAXBmWsjbC7ku0HW2tUzummHhtG1y5UZva3pZtb1g94s18N2Ftlsi">
+  <input type="hidden" name="csrfmiddlewaretoken" value="1DYjTG5ZrLdBBxCs3lbLV7FaSBh9HvWU3HGILIg99Rsfo1zyFqnAXJdhBTIr6Uz1">
   
   <input type="radio" name="switch" id="switch-once" value="single" class="toggle-input" >
   <input type="radio" name="switch" id="switch-monthly" value="monthly" class="toggle-input" checked>
@@ -8658,13 +8658,13 @@ strict-transport-security: max-age=31536000;
           
 
 
-  <div class="dynamic-insert with-image" style="background-color: #a4bf00;" data-paragraphs="10" data-textid="60">
+  <div class="dynamic-insert with-image" style="background-color: #a4bf00;" data-paragraphs="10" data-textid="61">
     <a href="https://wolnelektury.pl/towarzystwo/?pk_campaign=insert-dzi">
       <div class="text" style="color:#000000">
-        <p>Chcemy, aby każde dziecko w Polsce miało wygodny i bezpłatny dostęp do lektur szkolnych - zróbmy to razem! Wspieraj Wolne Lektury stałą wpłatą! <br>Kliknij, by dowiedzieć się więcej >>></p>
+        <p>Chcemy, aby każde dziecko w Polsce miało wygodny i bezpłatny dostęp do lektur szkolnych - zróbmy to razem! Wspieraj Wolne Lektury stałą wpłatą!<br> Kliknij, by dowiedzieć się więcej >>></p>
       </div>
       
-        <img src="/media/cache/93/f6/93f68c6059e0707771f672d212370072.jpg">
+        <img src="/media/cache/3c/8e/3c8eddf38ae331e4295ff31865b67ddf.jpg">
       
     </a>
   </div>
@@ -8674,15 +8674,15 @@ strict-transport-security: max-age=31536000;
           
 
 
-  <div class="dynamic-insert with-image" style="background-color: #000000;" data-paragraphs="25" data-textid="66">
+  <div class="dynamic-insert with-image" style="background-color: #ffffff;" data-paragraphs="25" data-textid="12">
     <a href="https://wolnelektury.pl/towarzystwo/?pk_campaign=insert-ambas">
-      <div class="text" style="color:#ffffff">
-        <p><i>Lektury szkolne muszą być wolne! Darmowy i łatwy dostęp do każdej lektury — skoro jest obowiązkowa — powinien być zagwarantowany dzieciakom. </i></p>
+      <div class="text" style="color:#24004a">
+        <p><i>Wspieram, bo uważam że dostęp do wiedzy powinien być darmowy. Sam często korzystam z zasobów wolnelektury.pl więc wspieram jak tylko mogę.</i></p>
 
-<p>Robert Koszucki</p>
+<p>Adam Fidusiewicz</p>
       </div>
       
-        <img src="/media/cache/d7/ff/d7ffd0e16582b4f92c9228e50c2848c4.jpg">
+        <img src="/media/cache/8a/18/8a1814c2da8e05555da5d21c1e2883b7.jpg">
       
     </a>
   </div>
@@ -8724,13 +8724,13 @@ strict-transport-security: max-age=31536000;
           
 
 
-  <div class="dynamic-insert with-image" style="background-color: #00ffff;" data-paragraphs="150" data-textid="13">
+  <div class="dynamic-insert with-image" style="background-color: #ffcd40;" data-paragraphs="150" data-textid="49">
     <a href="https://wolnelektury.pl/towarzystwo/?pk_campaign=insert-I">
       <div class="text" style="color:#000000">
-        <p>Nie bądź wuj ponury, wspieraj Wolne Lektury!</p>
+        <p>Przyjaciele Wolnych Lektur jako pierwsi mają dostęp do premierowych publikacji. Zadeklaruj stałą wpłatę i dołącz >>></p>
       </div>
       
-        <img src="/media/cache/70/bb/70bb0641ddbce90af2e176547b264900.png">
+        <img src="/media/cache/30/fa/30fa97099d425636b17cdbe815cb062b.jpg">
       
     </a>
   </div>
@@ -8740,15 +8740,17 @@ strict-transport-security: max-age=31536000;
           
 
 
-  <div class="dynamic-insert with-image" style="background-color: #000000;" data-paragraphs="170" data-textid="38">
+  <div class="dynamic-insert with-image" style="background-color: #eae5e5;" data-paragraphs="170" data-textid="37">
     <a href="https://wolnelektury.pl/re/youtube-sub/?pk_campaign=insert-9">
-      <div class="text" style="color:#ffffff">
-        <p>Audiobooki Wolnych lektur znajdziesz też na naszym kanale na YouTube. <br>Czy wiesz, że jeśli włączysz subskrypcję, to pomożesz uwolnić kolejną książkę?</p>
+      <div class="text" style="color:#000000">
+        <p>Audiobooki Wolnych lektur znajdziesz też na naszym kanale na YouTube. </p>
+
+<p>Regularnie dodajemy nowe książki. By ich nie przegapić, subskrybuj nasz kanał. <br/></p>
 
 <p>Kliknij obrazek, by subskrybować!</p>
       </div>
       
-        <img src="/media/cache/a1/d7/a1d70eb4035f5a11d42b51d6ec55b34b.png">
+        <img src="/media/cache/f5/a8/f5a8ffc770e5090277e0a4319823a65a.png">
       
     </a>
   </div>
@@ -8758,10 +8760,10 @@ strict-transport-security: max-age=31536000;
           
 
 
-  <div class="dynamic-insert" style="background-color: #ff8500;" data-paragraphs="250" data-textid="15">
+  <div class="dynamic-insert" style="background-color: #ff8500;" data-paragraphs="250" data-textid="18">
     <a href="https://wolnelektury.pl/towarzystwo/?pk_campaign=insert-7">
       <div class="text" style="color:#000000">
-        <p>Chcesz pomóc bibliotece? Najlepszą metodą pomocy są niewielkie, ale stałe wpłaty. Kliknij i dorzuć się!</p>
+        <p>Bez wsparcia czytelników Wolne Lektury nie będą się rozwijać. Nie pozwól na to! Kliknij i dorzuć się!</p>
       </div>
       
     </a>
@@ -8772,10 +8774,10 @@ strict-transport-security: max-age=31536000;
           
 
 
-  <div class="dynamic-insert" style="" data-paragraphs="300" data-textid="27">
+  <div class="dynamic-insert" style="" data-paragraphs="300" data-textid="25">
     <a href="https://wolnelektury.pl/towarzystwo/?pk_campaign=insert-4">
       <div class="text" style="">
-        <p>Twoje dziecko znalazło potrzebną książkę na Wolnych Lekturach? Teraz Ty możesz nam pomóc!<br>Wesprzyj nas! Kliknij i dorzuć się!</p>
+        <p>Pamiętasz, jak w szkolnej bibliotece były dwa egzemplarze książki, którą trzeba było przeczytać na pojutrze? Dzięki Wolnym Lekturom każdy uczeń ma dostęp do wielu potrzebnych mu lektur! Wesprzyj nas! Kliknij i dorzuć się!</p>
       </div>
       
     </a>
@@ -8932,6 +8934,6 @@ strict-transport-security: max-age=31536000;
 </script>
 
 
-    <input type="hidden" name="csrfmiddlewaretoken" value="34pMuICkr3cUAXBmWsjbC7ku0HW2tUzummHhtG1y5UZva3pZtb1g94s18N2Ftlsi">
+    <input type="hidden" name="csrfmiddlewaretoken" value="1DYjTG5ZrLdBBxCs3lbLV7FaSBh9HvWU3HGILIg99Rsfo1zyFqnAXJdhBTIr6Uz1">
   </body>
 </html>

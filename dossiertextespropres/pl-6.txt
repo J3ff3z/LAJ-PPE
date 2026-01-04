@@ -1,7 +1,8 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:46:31 GMT server: Apache cache-control:
-16:46:31 GMT; Path=/ set-cookie: testingCookieName=answered; Expires=Fri, 29 Sep
-2028 16:46:31 GMT; Path=/ set-cookie:
-Expires=Mon, 02 Feb 2026 16:46:31 GMT; Path=/ set-cookie:
+
+HTTP/2 200 date: Sun, 04 Jan 2026 17:27:48 GMT server: Apache cache-control:
+17:27:48 GMT; Path=/ set-cookie: testingCookieName=answered; Expires=Sat, 30 Sep
+2028 17:27:48 GMT; Path=/ set-cookie:
+Expires=Tue, 03 Feb 2026 17:27:48 GMT; Path=/ set-cookie:
 
 Przejdź do treści
 

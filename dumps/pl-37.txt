@@ -1,9 +1,9 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:48:39 GMT content-type: text/html;
+HTTP/2 200 date: Sun, 04 Jan 2026 17:30:23 GMT content-type: text/html;
 charset=UTF-8 server: OVHcloud x-powered-by: PHP/5.4 x-ua-compatible: IE=edge
-link: /bibliotekajogi3.pl/index.php?rest_route=/>; rel="https://api.w.org/"
-link: /bibliotekajogi3.pl/?p=2369>; rel=shortlink vary: Accept-Encoding
-#Biblioteka Jogi » Kanał z wpisami Biblioteka Jogi » Kanał z komentarzami
-Biblioteka Jogi » Grzech Kanał z komentarzami alternate alternate
+link: /bibliotekajogi3.pl/index.php?rest_route=/>; rel="https://api.w.org/",
+/bibliotekajogi3.pl/?p=2369>; rel=shortlink vary: Accept-Encoding #Biblioteka
+Jogi » Kanał z wpisami Biblioteka Jogi » Kanał z komentarzami Biblioteka Jogi »
+Grzech Kanał z komentarzami alternate alternate
 
 Przeskocz do treści
 

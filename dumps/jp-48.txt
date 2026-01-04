@@ -1,10 +1,10 @@
-HTTP/2 200 server: nginx/1.26.1 date: Sat, 03 Jan 2026 16:43:04 GMT
+HTTP/2 200 server: nginx/1.26.0 date: Sun, 04 Jan 2026 17:23:50 GMT
 content-type: text/html; charset=UTF-8 vary: Accept-Encoding x-powered-by:
 PHP/8.0.30 x-vc-enabled: true x-vc-ttl: link: /serai.jp/wp-json/>;
 rel="https://api.w.org/", /serai.jp/wp-json/wp/v2/posts/1034423>;
 rel="alternate"; type="application/json", /serai.jp/?p=1034423>; rel=shortlink
-x-varnish: 227694243 235021066 via: 1.1 varnish (Varnish/6.0) x-varnish:
-107085233 age: 590 via: 1.1 varnish (Varnish/6.0) x-cache-varnish: MISS vary:
+x-varnish: 235954093 236233980 via: 1.1 varnish (Varnish/6.0) x-varnish:
+944779204 age: 647 via: 1.1 varnish (Varnish/6.0) x-cache-varnish: MISS vary:
 x-cache: MISS accept-ranges: bytes strict-transport-security: max-age=300
 #alternate alternate alternate
 
@@ -231,22 +231,24 @@ dth=80&layout=button&action=like&size=small&share=false&height=65&appId
 
 ランキング
 
+NEW
+旅行 古墳を歩けば、古代史がわかる！６世紀～７世紀中頃・前方後…
+2026/01/03
+No.
+NEW
+趣味･教養 豊臣秀吉と秀長の姉・ともとは？ 関白・秀次の母がたどった…
+2026/01/03
+No.
+NEW
+趣味･教養 ついに始まった令和の太閤記＝『豊臣兄弟！』。仲野太賀×池…
+2026/01/04
+No.
 趣味･教養 弟を主人公にしただけで新鮮な物語に昇華。大河ドラマ『豊臣…
 2025/12/21
 No.
 NEW
-趣味･教養 「頌春」の正しい読み方とは？ 年賀状で使う新春の賀詞です…
-2025/12/27
-No.
-趣味･教養 見どころ満載の『べらぼう』総集編、尺は足りるのか？ 後に…
-2025/12/21
-No.
-NEW
-趣味･教養 ホトトギス、ウソ、トラツグミ……日本史に小さな足跡を残し…
-2026/01/01
-No.
-趣味･教養 蔦重の松坂旅行。最終回に登場した本居宣長は、大河ドラマ『…
-2025/12/14
+趣味･教養 兄・秀吉の命で離縁し、家康の正室に。旭姫（あさひ）の波乱…
+2026/01/04
 No.
 
 サライ最新号
@@ -274,20 +276,20 @@ No.
 新着記事
 
 NEW
-豊臣秀吉と秀長の姉・ともとは？ 関白・秀…
-2026/01/03
+薬師寺では造花法会。豊臣秀長の病気平癒祈…
+2026/01/04
 NEW
-古墳を歩けば、古代史がわかる！６世紀～７…
-2026/01/03
+ついに始まった令和の太閤記＝『豊臣兄弟！…
+2026/01/04
 NEW
-そうそう、昔いた、こんなおじいちゃん・お…
-2026/01/03
+大河ドラマ『豊臣兄弟！』主人公・豊臣秀長…
+2026/01/04
 NEW
-「快哉」の正しい読み方とは？ 胸のすく…
-2026/01/03
+豊臣秀吉・秀長兄弟の母・なか（大政所）の…
+2026/01/04
 NEW
-【小泉八雲と夏目漱石、そして妻たちとの不…
-2026/01/03
+朝から炭焼き料理で飲める！京町家のパリ的…
+2026/01/04
 記事一覧へ
 
 ピックアップ

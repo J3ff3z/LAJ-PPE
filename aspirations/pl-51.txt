@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Sat, 03 Jan 2026 16:52:55 GMT
+Date: Sun, 04 Jan 2026 17:35:27 GMT
 Server: Apache
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate
 Pragma: no-cache
 Vary: Accept,Accept-Encoding
-Set-Cookie: PHPSESSID=ll08mjlnefuoh2df7ro561e1r9; path=/; secure; HttpOnly
+Set-Cookie: PHPSESSID=to2k6tvpt9p7nqck9v4ok0hfm0; path=/; secure; HttpOnly
 Strict-Transport-Security: max-age=31536000
 Content-Security-Policy: upgrade-insecure-requests
 Transfer-Encoding: chunked
@@ -632,7 +632,7 @@ Content-Type: text/html; charset=UTF-8
 							<li class="itm first"><a href="/strona/5/polityka-prywatnosci">Polityka prywatności</a></li>
 							<li class="itm"><a href="/strona/6/zasady-uzytkowania">Zasady użytkowania</a></li>
 							<li class="itm"><a href="/kontakt">Kontakt</a></li>
-              <!--<li class="itm last"><a href="http://intotheshadows.pl" title="Opuszczone miejsca w Polsce i podróże po Europie i po świecie" target="_blank" rel="follow"><span>Opuszczone miejsca, podróże po świecie</span></a></li>-->
+              <!--<li class="itm last"><a href="http://intotheshadows.pl/urban-exploration" title="Urban Exploration Polska, Urbex" target="_blank" rel="follow"><span>Urban Exploration</span></a></li>-->
 						</ul>
 					</div>
 				</div>
@@ -784,7 +784,7 @@ Content-Type: text/html; charset=UTF-8
       </div>
          </fieldset>
                <fieldset>
-              <label style="float: left; width: auto; padding-top: 10px; padding-right: 4px;">Podaj wynik : pięć dodać pięć</label>
+              <label style="float: left; width: auto; padding-top: 10px; padding-right: 4px;">Podaj wynik : jeden dodać cztery</label>
               <input type="text" value="" id="suggest-change-math" name='math' style="width: 30px; text-align: center;" class="math"/>
             </fieldset>
       <div class="message"></div>

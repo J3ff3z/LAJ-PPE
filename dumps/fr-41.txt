@@ -1,124 +1,133 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:45:04 GMT content-type: text/html;
-charset=UTF-8 cf-ray: 9b83f6e81ab19816-CDG cf-cache-status: HIT age: 1222
-cache-control: max-age=14400 last-modified: Sat, 03 Jan 2026 16:24:41 GMT link:
-/www.africa-press.net/tchad/wp-json/>; rel="https://api.w.org/",
-/www.africa-press.net/tchad/wp-json/wp/v2/posts/30883>; rel="alternate";
-title="JSON"; type="application/json", /www.africa-press.net/tchad/?p=30883>;
-rel=shortlink server: cloudflare vary: Accept-Encoding alt-svc: h3=":443";
-ma=86400 cf-apo-via: tcache cf-edge-cache: cache,platform=wordpress
-speculation-rules: "/cdn-cgi/speculation" report-to:
+HTTP/2 200 date: Sun, 04 Jan 2026 17:26:34 GMT content-type: text/html;
+charset=UTF-8 x-dns-prefetch-control: on link: /actucameroun.com/wp-json/>;
+rel="https://api.w.org/" link: /actucameroun.com/wp-json/wp/v2/posts/424811>;
+rel="alternate"; type="application/json" link: /wp.me/p74X0x-1MvN>;
+rel=shortlink x-litespeed-cache-control: public,max-age=604800 x-litespeed-tag:
+705_HTTP.200,705_post,705_URL.96b41036ece901699528c7b01115a299,705_Po.424811,705
+_,705_MIN.01123ae2e1bce126084ba75839accd43.css x-litespeed-cache: miss nel:
+{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} vary:
+Accept-Encoding server: cloudflare alt-svc: h3=":443"; ma=86400 cf-cache-status:
+DYNAMIC speculation-rules: "/cdn-cgi/speculation" report-to:
 {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare
-.com/report/v4?s=mu8IIXM4zTBmPFiDr%2B5D3WrF3fJlma4OtbEL0wKhFWemMjDwNAJzUKiqaaMK3
-a0Bsa%2Bs4n%2FDXrASmpJI3A%2FhUG%2FDMZ57Igj7QYEaSn%2FSgDwIcLoStsMyvKltkK5kotk%3D"
-}]} nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} #tchad
-» Flux tchad » Flux des commentaires tchad » Mahamat Zene Bada, quel péché
-a-t-il commis ? Flux des commentaires JSON oEmbed (JSON) oEmbed (XML) alternate
+.com/report/v4?s=Se4S5pGWdl1Hagsl2k6AGbcx4d5ncgsZK8qYrhlnL50BFQHrvOJksSSq1aHTZVz
+yt469qwwGKP%2BYyWghYZtBDDU2DEdhVA%2FyyD9ypoB0vbQO6S0MFL5ynI4qbFo%3D"}]} cf-ray:
+9b8c710afed437e5-CDG #Actu Cameroun » Jean De Dieu Momo aux militants de son
+parti: «une partie du peuple croit que j’ai trahi ma tribu»  Flux des
+commentaires alternate alternate alternate
 
-IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PV8ZVQN
+Logo Actu Cameroun L'actualité camerounaise sous un angle de 360°
 
-  * les pays
-  * Tchad
-  * Politique
-  * Économie
-  * Communauté
-  * Parties
-  * Culture et Art
-  * Sports
-  * Dossiers
-  * Photo
-  * vidéo
-  * Divers
+(BUTTON)
+  * Accueil
+  * Toute l’actualité
+  * Le kiosque
+  * Rubriques
+Politique Société Economie Santé Sport Afrique Applications mobiles Signaler un
+problème Nous contacter Conditions d’utilisation
 
-Recherche ____________________
+[INS: :INS]
 
-35 C
-Ndjamena
-samedi 03.01.2026
-tchad
-  * les pays
-  * Tchad
-  * Politique
-  * Économie
-  * Communauté
-  * Parties
-  * Culture et Art
-  * Sports
-  * Dossiers
-  * Photo
-  * vidéo
-  * Divers
+Jean De Dieu Momo aux militants de son parti: «une partie du peuple croit que
+j’ai trahi ma tribu»
 
-____________________ Recherche
-Accueil homepage-french
+Accueil » Actualités » Jean De Dieu Momo aux militants de son parti: «une partie
+du peuple croit que j’ai trahi ma tribu»
+[INS: :INS]
+Publié : 17 Mar 2020 à Mis à jour : 17 Mar 2020 par Erel Djene 5 commentaires
+[INS: :INS]
 
-Mahamat Zene Bada, quel péché a-t-il commis ?
+Dans une correspondance adressée aux militants de son parti le Paddec, Jean De
+Dieu Momo indique que le fait qu’on pense qu’il a trahi son peuple et appelé à
+sa destruction, a été fatale à sa formation politique, lors des élections
+législatives et municipales de 2020. Dans la même correspondance, il cite quatre
+péchés qu’il a commis durant ce double scrutin.
 
-2022-08-19
-22
-Mahamat Zene Bada, quel péché a-t-il commis ? Mahamat Zene Bada, quel péché
-a-t-il commis ?
+Le président du Paddec Jean De Dieu Momo affirme qu’il a commis quatre péchés.
+Et ces péchés ont été fatales à sa formation politique lors des élections
+législatives et municipales qui ont eu lieu le 9 février 2020. Le premier de ces
+péchés est la vantardise. Le ministre délégué auprès du ministre de la justice
+affirme s’être vanté lors de la campagne électorale sur un plateau de
+télévision.
+[INS: :INS]
 
-Africa-Press – Tchad. L’ancien secrétaire général dudit parti, entre 2016 et
-2021, brille par son absence sur la scène politique depuis son retour de France.
-Pourtant, après la mort du père fondateur du MPS, Mahamat Zene Bada s’est
-montré parmi les plus braves héritiers du parti. Quel avenir politique pour
-celui qui prétend « connaître le Tchad, village par village » ? Zene Bada est-il
-lâché par le MPS ? N’est-il pas un danger pour l’avenir du parti ?
+«J’ai commis le péché de la vantardise en m’exprimant dans une télévision où je
+proclamais être au pouvoir, avoir le pouvoir et être le pouvoir. Cette
+vantardise qui visait à choquer mes pourfendeurs a été sévèrement punie par le
+peuple seul détenteur de tout pouvoir, lequel m’a infligé un cinglant démenti.
+L’illusion du pouvoir que les gouvernants peuvent avoir n’occulte pas cette
+réalité qui a été rappelée par le peuple jaloux de son pouvoir et qui tient à
+rappeler à ceux qui, étourdis comme moi, peuvent avoir la ridicule prétention de
+se l’approprier indûment qu’il est le seul maître à bord», écrit-il.
 
-Autant d’interrogations qui demeurent sans réponse. Mais l’organisation du 10ème
-congrès du parti en son absence, prouve à suffisance que Zene Bada est un
-élément à craindre. Même s’il est nommé conseiller à la présidence en mars
-dernier, l’avenir du ce rassembleur est sombre au sein du MPS.
+La provocation
 
-Pourtant, il fait partie des héritiers, car son grand frère Maldoum Bada Abbas a
-été un allié du défunt président, lors de la conquête du pouvoir. Les adeptes du
-MPS veulent construire un nouveau MPS sans lui. Même si c’est le contraire, Zene
-Bada a perdu sa langue. Voilà l’image de la politique : un beau parleur devient
-sourd muet.
+Le deuxième péché que Jean De Dieu affirme avoir commis est celui de la
+provocation inutile. «En pleine campagne électorale, j’ai porté atteinte à
+l’honorabilité d’un Nationaliste reconnu comme tel dans la mémoire collective,
+Ernest Ouandie, en le comparant à tort à un vulgaire bandit qui tue et pille
+dans le Noso au prétexte de la guerre de sécession. Ce fut là une provocation
+grave (spécialement destinée aux membres de la BAS qui faisaient du bandit Field
+Marshall leur héros, exactement comme les maquisards avaient compromis le noble
+combat de nos nationalistes par leurs crimes ignobles) , fruit de la jactance
+ubuesque et de l’euphorie des moments de campagne», écrit-il.
 
-En attendant, c’est probablement au Palais de la culture que l’on retrouvera
-Zene Bada, celui-ci étant sur la liste des personnes ressources désignées par le
-chef de la transition pour le Dialogue national inclusif.
+Trahison de sa tribu
 
-Pour plus d’informations et d’analyses sur la Tchad, suivez Africa-Press
+Le troisième péché qui selon Jean De Dieu Momo a valu à son parti un vote
+sanction lors du double scrutin est le fait que certains pensent, qu’il a trahi
+sa tribu. «À tort plus qu’à raison, une partie du peuple croit que j’ai trahi ma
+tribu et que j’aurais appelé à sa haine voire à sa destruction. C’est monstrueux
+! Mon message était pourtant exactement le contraire de ce que cette partie du
+peuple a entendu, mais quand on veut tuer son chien, on l’accuse de rage. Je ne
+suis pas coupable de cette grotesque accusation contre ma propre tribu. Mais une
+partie du peuple croit que je le suis. Elle est induite en erreur par mes
+adversaires. En vérité, j’ai seulement mis en garde une partie de notre peuple
+sur les dangers de s’attirer les foudres de toutes les autres composantes
+sociales, notamment en montrant le chapeau qu’on porte sur sa tête et en vantant
+les avoirs que l’on possède comme étant les ressorts devant présider à la
+revendication violente du pouvoir suprême», peut-on lire dans la correspondance
+du président du Paddec.
 
-  * TAGS
-  * Africa Press
-  * Africa Press-Tchad
-  * Tchad
+Le quatrième péché que Jean De Dieu Momo avoue avoir commis est  le balbutiement
+juvénile de l’exercice des fonctions publiques au profit du peuple.
+5 commentaires
+Étiquettes : camerounElections législatives et municipalesJean De Dieu
+MomoPADDEC
 
-IFRAME:
-https://www.facebook.com/plugins/like.php?href=https://www.africa-press.net/tcha
-d/politique/mahamat-zene-bada-quel-peche-a-t-il-commis&layout=button_count&show_
-faces=false&width=105&action=like&colorscheme=light&height=21
+5 réponses à “Jean De Dieu Momo aux militants de son parti: «une partie du
+peuple croit que j’ai trahi ma tribu» ”
 
-cfeditorfr
+ 1. dictateur dit :
+17 Mar 2020 à 8 h 39 min
+Il n’a pas un parti politique. Il est du parti au pouvoir pour manger comme tout
+RDPC
+Répondre
+ 2. odeo dit :
+17 Mar 2020 à 8 h 55 min
+Le ministre de la justice n’a-t-il pas demandé à momo de ne plus faire de sortie
+sur les réseaux sociaux?
+Ce monsieur s’entête.
+Répondre
+ 3. Xavier dit :
+17 Mar 2020 à 9 h 14 min
+Ah bon?
+Répondre
+ 4. Bikoulla dit :
+17 Mar 2020 à 13 h 52 min
+Dictateur le PADDEC c’est pas le RDPC ! Tu vois meme les deux s’ecrivent de
+facon differentes
+Répondre
+ 5. Moussa hamadoumoussa2009 dit :
+20 Mar 2020 à 20 h 01 min
+Au moins lui il reconnaît ses erreurs
+Répondre
 
-ARTICLES CONNEXESPLUS DE L'AUTEUR
+Laisser un commentaire Annuler la réponse
 
-Tournée Administrative Du Préfet À Moudeïna
+Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont indiqués
+avec *
 
-Tournée Administrative Du Préfet À Moudeïna
-
-Logone Oriental Valide Charte pour Gouvernance Naturelle
-
-Logone Oriental Valide Charte pour Gouvernance Naturelle
-
-Députés Approuvent Réforme du Fonds de Solidarité
-
-Députés Approuvent Réforme du Fonds de Solidarité
-
-Pool Judiciaire Pour Répression Infractions Économiques
-
-Pool Judiciaire Pour Répression Infractions Économiques
-
-Décret Désignant Les Membres Du Cadre Politique
-
-Décret Désignant Les Membres Du Cadre Politique
-
-LAISSER UN COMMENTAIRE Annuler la réponse
-
-
+Commentaire
 _____________________________________________
 _____________________________________________
 _____________________________________________
@@ -127,18 +136,16 @@ _____________________________________________
 _____________________________________________
 _____________________________________________
 _____________________________________________
-Please enter your comment!
-______________________________
-Please enter your name here
-______________________________
-You have entered an incorrect email address!
-Please enter your email address here
-______________________________
 
-[ ] Save my name, email, and website in this browser for the next time I
-comment.
+Nom * ______________________________
 
-Poster un commentaire
+Adresse de messagerie * ______________________________
+
+Site web ______________________________
+
+[ ] Je veux me inscrire à la Newsletter!
+
+Laisser un commentaire
 
 Δ
 _____________________________________________
@@ -149,20 +156,45 @@ _____________________________________________
 _____________________________________________
 _____________________________________________
 _____________________________________________
+Suivez Actu Cameroun sur Twitter pour ne jamais manquer les actualités les plus
+importantes. Suivez Actu Cameroun sur Twitter pour ne jamais manquer les
+actualités les plus importantes. Suivez Actu Cameroun sur Twitter pour ne jamais
+manquer les actualités les plus importantes.
+[INS: :INS]
 
-[logo.png]
+Newsletter
 
-  * les pays
-  * Tchad
-  * Politique
-  * Économie
-  * Communauté
-  * Parties
-  * Culture et Art
-  * Sports
-  * Dossiers
-  * Photo
-  * vidéo
-  * Divers
+Recevez désormais tous les jours, l'essentiel de l'actualité camerounaise et
+africaine dans votre boîte mail.
+Adresse email ____________________ Nous ne partagerons jamais votre email avec
+qui que ce soit.
+(BUTTON) S'abonner
+Leave this field empty if you're human: ____________________
+[INS: :INS]
+En kiosque
 
-© Copyright 2017 - Africa Press
+Message à la Nation : Paul Biya parle ce soir ; Or produit au Cameroun :
+l’épreuve de la traçabilité ; Filière : sites de rencontre, sites de business…
+la Une des journaux de ce jour
+
+Réseaux sociaux
+
+  *
+  *
+  *
+  *
+
+  * Accueil
+  * Toute l’actualité
+  * Le kiosque
+  * Rubriques
+  + Politique
+  + Société
+  + Economie
+  + Santé
+  + Sport
+  + Afrique
+  + Applications mobiles
+  + Signaler un problème
+  + Nous contacter
+  + Conditions d’utilisation

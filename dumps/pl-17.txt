@@ -1,7 +1,7 @@
 HTTP/2 200 content-type: text/html; charset=UTF-8 link: /netka.gda.pl/wp-json/>;
 rel="https://api.w.org/" link: /netka.gda.pl/wp-json/wp/v2/posts/3287>;
 rel="alternate"; title="JSON"; type="application/json" link:
-/netka.gda.pl/?p=3287>; rel=shortlink date: Sat, 03 Jan 2026 16:47:17 GMT
+/netka.gda.pl/?p=3287>; rel=shortlink date: Sun, 04 Jan 2026 17:28:42 GMT
 server: LiteSpeed alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000,
 h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443";
 ma=2592000, quic=":443"; ma=2592000; v="43,46" #netka.gda.pl » Kanał z wpisami

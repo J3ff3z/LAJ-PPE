@@ -1,557 +1,272 @@
 HTTP/2 200 
-content-type: text/html
-x-powered-by: ASP.NET
-x-requestid: 07SIyFRgULajkwcINLvkIU
-v5requestid: 07SIyFRgULajkwcINLvkIU
+content-type: text/html; charset=UTF-8
+content-length: 32965
+date: Sun, 04 Jan 2026 17:26:27 GMT
 access-control-allow-origin: *
-access-control-allow-methods: GET, PUT, POST, DELETE, HEAD, OPTIONS
-access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept
-last-modified: Tue, 11 Jun 2024 21:20:24 GMT
-etag: "e573a42c45bcda1:0"
-x-legacy-version: v1
+server: Apache/2.4.56 ()
+accept-ranges: bytes
+access-control-allow-credentials: true
+x-cache: Miss from cloudfront
+via: 1.1 458e178928cba27987d8f2cdf2fced38.cloudfront.net (CloudFront)
+x-amz-cf-pop: CDG52-P5
+x-amz-cf-id: 70Trmv2RMKU4qM20iq-CqgDoWzGqOtngwGOXHrlO1mYRaKk6jkNmPA==
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+content-security-policy: connect-src 'self' *.cookielaw.org *.cxense.com *.sharethis.com *.google-analytics.com *.facebook.net *.google.com stats.g.doubleclick.net *.nippon.com *.googleadservices.com; script-src 'self' *.cookielaw.org *.twitter.com *.cxense.com *.googletagmanager.com *.sharethis.com 'unsafe-inline' *.kiji.is *.google-analytics.com *.facebook.net *.google.com stats.g.doubleclick.net *.nippon.com *.googleadservices.com;
+x-content-type-options: nosniff
 strict-transport-security: max-age=31536000; includeSubDomains
-date: Sat, 03 Jan 2026 16:44:58 GMT
-content-length: 35565
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-<title>Les 8 p&eacute;ch&eacute;s capitaux</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="WT.sp" content="global;radio;radio_pro;radio_peches">
-<script language="javascript" src="/util/inc_stats/tagsWT.js"></script>
-<style type="text/css">
-<!--
-.texte1 {
-	font: 11px Verdana, Arial, Helvetica, sans-serif;
-	color: #000000;
-}
--->
-</style>
-<style type="text/css">
-<!--
-.texteorange {
-	font: 11px Verdana, Arial, Helvetica, sans-serif;
-	color: #660000;
-}
-.liens {
-	font: 11px Verdana, Arial, Helvetica, sans-serif;
-	color: #660000;
-	text-decoration: none;
-}
-.liens:Hover {
-	font: 11px Verdana, Arial, Helvetica, sans-serif;
-	color: #660000;
-	text-decoration: underline;
-}
-.titre {
-	font: 13px Verdana, Arial, Helvetica, sans-serif;
-	color: #660000;
-}
-.texte2 {
-	font: 11px Verdana, Arial, Helvetica, sans-serif;
-	color: #666666;
-}
--->
-</style>
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+ 	<script type="text/javascript" src="https://cdn.cookielaw.org/consent/de972f68-16a4-4d2d-8575-3de911488ac2/OtAutoBlock.js"></script>
+	<script type="text/javascript" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" charset="UTF-8" data-domain-script="de972f68-16a4-4d2d-8575-3de911488ac2"></script>
+	<script type="text/javascript">function OptanonWrapper() { }</script>
+	<meta charset="utf-8">
+	<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Une alliance impie : comment la secte Moon a infiltré le Parti libéral-démocrate au pouvoir au Japon | Nippon.com – Infos sur le Japon</title>
+	<meta name="cXenseParse:pageclass" content="article"/>
+<meta name="cXenseParse:recs:recommendable" content="true"/>
+<meta name="cXenseParse:ncf-pick" content="true"/>
+<meta name="cXenseParse:ncf-pubyear" content="2023"/>
+<meta name="cXenseParse:ncf-pubmonth" content="202303"/>
+<meta name="cXenseParse:ncf-pubday" content="20230320"/>
+<meta property="article:published_time" content="2023-03-20T09:00:02+0900"/>
+<meta property="article:modified_time" content="2023-07-08T20:42:14+0900"/>
+<meta name="cXenseParse:ncf-articleid" content="c12101"/>
+<meta name="cXenseParse:recs:articleid" content="c12101"/>
+<meta name="cXenseParse:articleid" content="c12101"/>
+<meta name="cXenseParse:ncf-category" content="Séries"/>
+<meta name="cXenseParse:ncf-tag" content="Politique"/>
+<meta name="cXenseParse:ncf-category" content="Politique"/>
+<meta name="cXenseParse:ncf-tag" content="Société"/>
+<meta name="cXenseParse:ncf-category" content="Société"/>
+<meta name="cXenseParse:ncf-series" content=""/>
+<meta name="cXenseParse:ncf-thumbnail" content="https://www.nippon.com/fr/japan-topics/c12101/thumb/thumb_1.jpg?20230708204214"/>
+<meta name="cXenseParse:ncf-tag" content="politique"/>
+<meta name="cXenseParse:ncf-tag" content="PLD"/>
+<meta name="cXenseParse:ncf-tag" content="Corée du Sud"/>
+<meta name="cXenseParse:ncf-tag" content="société"/>
+<meta name="cXenseParse:ncf-tag" content="Abe Shinzô"/>
+<meta name="cXenseParse:ncf-tag" content="secte"/>
+<meta name="cXenseParse:ncf-articletype" content="オリジナル"/>
+<meta name="description" content="L’assassinat de l’ancien Premier ministre Abe Shinzô par le fils d’une fidèle de la secte Moon, qui prétendait que les dons faits par sa mère à cette organisation avaient détruit sa famille, a attiré l’attention sur les liens profonds que la secte entretient avec le Parti libéral-démocrate, et soulevé des questions sur son projet politique et son influence sur la politique du parti au pouvoir."/>
+<meta name="keywords" content="politique,PLD,Corée du Sud,société,Abe Shinzô,secte"/>
+<meta property="og:url" content="https://www.nippon.com/fr/japan-topics/c12101/"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Une alliance impie : comment la secte Moon a infiltré le Parti libéral-démocrate au pouvoir au Japon"/>
+<meta property="og:description" content="L’assassinat de l’ancien Premier ministre Abe Shinzô par le fils d’une fidèle de la secte Moon, qui prétendait que les dons faits par sa mère à cette organisation avaient détruit sa famille, a attiré l’attention sur les liens profonds que la secte entretient avec le Parti libéral-démocrate, et soulevé des questions sur son projet politique et son influence sur la politique du parti au pouvoir."/>
+<meta property="og:image" content="https://www.nippon.com/fr/ncommon/contents/japan-topics/2310949/2310949.jpg"/>
+<meta property="og:site_name" content="nippon.com"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@nippon_fr"/>
+<meta name="twitter:url" content="https://www.nippon.com/fr/japan-topics/c12101/"/>
+<meta name="twitter:title" content="Une alliance impie : comment la secte Moon a infiltré le Parti libéral-démocrate au pouvoir au Japon"/>
+<meta property="twitter:description" content="L’assassinat de l’ancien Premier ministre Abe Shinzô par le fils d’une fidèle de la secte Moon, qui prétendait que les dons faits par sa mère à cette organisation avaient détruit sa famille, a attiré l’attention sur les liens profonds que la secte entretient avec le Parti libéral-démocrate, et soulevé des questions sur son projet politique et son influence sur la politique du parti au pouvoir."/>
 
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
+	<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+	<link rel="shortcut icon" href="../../ncommon/images/favicon.ico" type="image/x-icon" />
+	<link rel="icon" sizes="180x180" href="../../ncommon/images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" href="../../ncommon/images/apple-touch-icon.png" />
+	<link rel="apple-touch-icon" sizes="57x57" href="../../ncommon/images/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="../../ncommon/images/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="../../ncommon/images/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="../../ncommon/images/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="../../ncommon/images/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="../../ncommon/images/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="../../ncommon/images/apple-touch-icon-152x152.png" />
+	<link rel="apple-touch-icon" sizes="180x180" href="../../ncommon/images/apple-touch-icon-180x180.png" />
 
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
+		<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+			<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700" rel="stylesheet">
 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
-</head>
-<body bgcolor="#030301" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table width="700" border="0" cellpadding="0" cellspacing="0" bgcolor="#E6E7D8">
-  <tr> 
-    <td colspan="3"><a name="h"></a><img src="images/img_01.jpg" width="700" height="105"></td>
-  </tr>
-  <tr> 
-    <td colspan="3"><img src="images/img_03.gif" width="700" height="33" border="0" usemap="#Map"></td>
-  </tr>
-  <tr> 
-    <td width="25">&nbsp;</td>
-    <td width="513"><img src="images/img_05.gif" width="513" height="104"></td>
-    <td width="162" rowspan="2" valign="top"> <table width="162" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td width="1" valign="top" bgcolor="#C64E0F" class="texte1"><img src="images/spacer.gif" width="1" height="300"></td>
-          <td width="10" valign="top" class="texte1"><img src="images/spacer.gif" width="10" height="1"></td>
-          <td width="156" valign="top" class="texteorange">Premier p&eacute;ch&eacute; 
-            :<br>
-            <a href="#1" class="liens"><strong>L'orgueil &raquo;</strong></a><br>
-            <br>
-            Deuxi&egrave;me p&eacute;ch&eacute; :<br>
-            <a href="#2" class="liens"><strong>L'envie &raquo;</strong></a><br>
-            <br>
-            Troisi&egrave;me p&eacute;ch&eacute; :<br>
-            <a href="#3" class="liens"><strong>La col&egrave;re &raquo;</strong></a><br>
-            <br>
-            Quatri&egrave;me p&eacute;ch&eacute; : <a href="#4" class="liens"><strong>L'avarice &raquo;</strong></a><br>
-            <br>
-            Cinqui&egrave;me p&eacute;ch&eacute; : <br>
-            <a href="#5" class="liens"><strong>La paresse &raquo;</strong></a><br>
-            <br>
-            Sixi&egrave;me p&eacute;ch&eacute; : <br>
-            <a href="#6" class="liens"><strong>La gourmandise &raquo;</strong></a><br>
-            <br>
-            Septi&egrave;me p&eacute;ch&eacute; : <br>
-            <a href="#7" class="liens"><strong>La luxure &raquo;</strong></a><br>
-            <br>
-            Huiti&egrave;me p&eacute;ch&eacute; : <br>
-            <a href="#8" class="liens"><strong>La vieillesse &raquo;</strong></a><br> </td>
-        </tr>
-      </table></td>
-  </tr>
-  <tr> 
-    <td width="25">&nbsp;</td>
-    <td valign="top"><table width="513" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td class="texte1">Au IIIe si&egrave;cle, les P&egrave;res du D&eacute;sert &eacute;tablissaient 
-            une liste de huit p&eacute;ch&eacute;s capitaux. Parmi ceux-ci, la 
-            tristesse et l'ac&eacute;die, une forme de d&eacute;couragement spirituel 
-            que la paresse, qui n'appara&icirc;t pas comme telle aux premiers 
-            temps de l'&Eacute;glise, reprendra dans sa globale l&eacute;thargie. 
-            Au XIIe si&egrave;cle, la tristesse dispara&icirc;tra au profit de 
-            l'envie. La liste que nous connaissons aujourd'hui a &eacute;t&eacute; 
-            fix&eacute;e par Thomas d'Aquin. Elle pointe l'orgueil et l'envie 
-            comme vices irr&eacute;cup&eacute;rables et place gourmandise et luxure 
-            en bas de l'&eacute;chelle. Au centre, la col&egrave;re, l'avarice 
-            et la paresse. <br> <br>
-            <strong>Mais comment rebaptiserait-on chacun de ces p&eacute;ch&eacute;s 
-            dans notre modernit&eacute;? Un jeu auquel la RFP s'est livr&eacute;e 
-            avec une certaine d&eacute;lectation... <br>
-            Mettez-vous &agrave; l'&eacute;coute..</strong>. <br></td>
-          <td width="10"><img src="images/spacer.gif" width="10" height="1"></td>
-        </tr>
-      </table> </td>
-  </tr>
-  <tr> 
-    <td width="25">&nbsp;</td>
-    <td colspan="2"><table width="675" border="0" cellspacing="0" cellpadding="0">
-        <tr> 
-          <td width="316" valign="top" class="texte1"> <p><br>
-              <span class="titre"><a name="1"></a><strong>Premier p&eacute;ch&eacute; 
-              : l'orgueil </strong></span><br>
-              L'orgueil, p&eacute;ch&eacute; ou vertu? Dans l'histoire du p&eacute;ch&eacute;, 
-              l'orgueil a toujours &eacute;t&eacute; consid&eacute;r&eacute; comme 
-              le p&eacute;ch&eacute; ma&icirc;tre, celui dont d&eacute;coulent 
-              tous les autres, et on peut le comprendre dans un contexte religieux... 
-              D&eacute;fiant Dieu, et son autorit&eacute;, en accordant trop d'importance 
-              &agrave; sa cr&eacute;ature, l'orgueil conduisait &agrave; la perte 
-              de la foi. Trop d'orgueil signifiait que l'on pouvait se passer 
-              de Dieu et &ecirc;tre son propre ma&icirc;tre. <br>
-              <br>
-              Mais Dieu &eacute;tant &agrave; peu pr&egrave;s disparu de notre 
-              horizon, que reste-t-il de ce p&eacute;ch&eacute;? Y a-t-il encore 
-              quelqu'un, aujourd'hui, capable de s'accuser d'un tel p&eacute;ch&eacute; 
-              et le confesser? L'orgueil n'est-il pas devenu plut&ocirc;t une 
-              valeur positive, non seulement &agrave; l'image de notre science 
-              &laquo; toute puissante &raquo;, de notre esprit d'entreprise &laquo; 
-              sans frein &raquo;, de notre ma&icirc;trise &laquo; arrogante &raquo; 
-              de la nature, mais aussi en raison m&ecirc;me de l'individualisation, 
-              de la subjectivisation de notre culture? <br>
-              <br>
-              ... Pourtant, on continue de dire de quelqu'un qu'il est &laquo; 
-              trop &raquo; orgueilleux et que cela le perdra. Pourquoi? Est-ce 
-              le souvenir de ce que l'orgueil fut par le pass&eacute; qui nous 
-              fait dire ou penser une telle chose, ou est-ce plut&ocirc;t que 
-              nous percevons dans ce trop d'orgueil une faute &agrave; l'&eacute;gard 
-              des autres, de la communaut&eacute;, ici m&eacute;pris&eacute;e? 
-              Peut-&ecirc;tre... <br>
-              <br>
-              <span class="texte2">Invit&eacute;s : Guy Rochais (professeur de 
-              sciences religieuses), Beno&icirc;t Lacroix (p&egrave;re dominicain) 
-              et Jean-Marc Gauthier (Facult&eacute; de th&eacute;ologie de l'Universit&eacute; 
-              de Montr&eacute;al). Textes de Mme de la Fayette et de Sacha Guitry 
-              lus par Fran&ccedil;oise Faucher. &Eacute;quipe de production : 
-              Charles Collard &agrave; la discoth&egrave;que, R&eacute;jeanne 
-              Leblanc et Christian Ferland &agrave; la technique. R&eacute;alisation 
-              et animation : Jean-Pierre Denis. Production Radio-Canada.</span></p>
-            <table width="316" border="0" cellspacing="0" cellpadding="0">
-              <tr> 
-                <td colspan="2" class="texte2"><a href="http://www.radio-canada.ca/util/zapmedia/version10/detecteBack.asp?lien=/Medianet/CBFX/DesIdeesPleinLaTete200204141300_1.asx" class="liens" onMouseOver="MM_swapImage('ecoute1','','images/ecoute_o.gif',0)" onMouseOut="MM_swapImgRestore()"><img src="images/ecoute.gif" name="ecoute1" width="40" height="28" border="0" align="left">&eacute;coutez 
-                  l'&eacute;pisode</a><br>
-                  dur&eacute;e : 00:56:43</td>
-              </tr>
-              <tr> 
-                <td><img src="images/spacer.gif" width="250" height="1"></td>
-                <td><a href="#h" class="liens"><b>^</b>haut</a></td>
-              </tr>
-            </table>
-            <p align="center">-----------------------------------------------------------</p>
-            <p><span class="titre"><strong><a name="2"></a>Deuxi&egrave;me p&eacute;ch&eacute; 
-              : l'envie </strong></span><br>
-              L'envie : face n&eacute;gative du d&eacute;sir, son ombre port&eacute;e. 
-              Si d&eacute;sirer et juger sont les deux piliers de notre &ecirc;tre, 
-              ils sont aussi les fondements de l'envie. Parce que tout d&eacute;sir 
-              se heurte &agrave; un obstacle et chaque comparaison est susceptible 
-              de nous mettre en difficult&eacute;. <br>
-              <br>
-              &Agrave; l'&eacute;chelle plan&eacute;taire, l'envie peut d&eacute;boucher 
-              sur de v&eacute;ritables &eacute;tats de guerre. C'est l'envie qui 
-              d&eacute;cha&icirc;ne une violence initiale, &laquo; je veux &ecirc;tre 
-              et avoir ce que l'autre me d&eacute;signe &raquo;, c'est par imitation 
-              que l'&ecirc;tre se construit et par frustration que s'active la 
-              violence jusqu'&agrave; devenir ce brasier aliment&eacute; par les 
-              meilleures intentions. <br>
-              <br>
-              Les premiers enfants d'Adam et Eve sont Ca&iuml;n et Abel, et la 
-              Bible est remplie de ces dualit&eacute;s fratricides ou jalouses 
-              comme Joseph et ses fr&egrave;res ou Jacob et Esa&uuml;. L'envie 
-              est un vice de relation nou&eacute; &agrave; l'aube des temps du 
-              monde. <br>
-              <br>
-              Pour M&eacute;lanie Klein, psychanalyste, l'envie est l'envers de 
-              la gratitude. C'est l'exp&eacute;rience d'un mauvais sein per&ccedil;u 
-              par le nourrisson, mena&ccedil;ant et charg&eacute; de poison, qui 
-              induit l'envie du bon sein dont il s'estime injustement frustr&eacute;. 
-              La bonne m&egrave;re est celle qui fait comprendre &agrave; l'enfant 
-              qu'elle n'est pas enti&egrave;rement bonne. &Agrave; partir de ce 
-              b&eacute;mol &agrave; la m&egrave;re toute puissante, l'enfant pourra 
-              peu &agrave; peu appr&eacute;hender l'absence et maintenir le lien 
-              dans la discontinuit&eacute;. <br>
-              <br>
-              Alors l'envie est-elle ce spasme ou cette grimace comme le ressent 
-              Philippe Sollers, ou bien le moteur du d&eacute;sir et le biais 
-              d'un apprentissage, commun &agrave; tous les mammif&egrave;res? 
-              Question de points de vue sur le sentiment le mieux partag&eacute; 
-              du monde. <br>
-              <br>
-              Avec Ren&eacute; Girard, philosophe, Daniel Sibony, psychanalyste, 
-              Nicole Jeammet, ma&icirc;tre de conf&eacute;rences en psychopathologie, 
-              Philippe Sollers, &eacute;crivain. Jean Delumeau, historien, professeur 
-              au Coll&egrave;ge de France et Olivier Artus, pr&ecirc;tre, professeur 
-              &agrave; l'Institut catholique de Paris. R&eacute;alisation Pascale 
-              Tison. Production RTBF. </p>
-            <table width="316" border="0" cellspacing="0" cellpadding="0">
-              <tr> 
-                <td colspan="2" class="texte2"><a href="http://www.radio-canada.ca/util/zapmedia/version10/detecteBack.asp?lien=/Medianet/CBFX/DesIdeesPleinLaTete200204141300_m.asx" class="liens" onMouseOver="MM_swapImage('ecoute2','','images/ecoute_o.gif',0)" onMouseOut="MM_swapImgRestore()"><img src="images/ecoute.gif" name="ecoute2" width="40" height="28" border="0" align="left" id="ecoute2">&eacute;coutez 
-                  l'&eacute;pisode</a><br>
-                  dur&eacute;e : 00:<font class="texteitalique">56:00</font></td>
-              </tr>
-              <tr> 
-                <td><img src="images/spacer.gif" width="250" height="1"></td>
-                <td><a href="#h" class="liens"><b>^</b>haut</a></td>
-              </tr>
-            </table>
-            <p align="center">-----------------------------------------------------------</p>
-            <p> <span class="titre"><strong><a name="3"></a>Troisi&egrave;me p&eacute;ch&eacute; 
-              : la col&egrave;re</strong></span><strong> </strong><br>
-              La col&egrave;re est un des &eacute;l&eacute;ments constitutifs 
-              de l'individu et de la soci&eacute;t&eacute;. Pourtant, cette part 
-              d'ombre en nous, part d'affect et d'instinct, a &eacute;t&eacute; 
-              condamn&eacute;e par l'&Eacute;glise et r&eacute;prim&eacute;e par 
-              la tradition philosophique occidentale qui privil&eacute;gie le 
-              cerveau et la ma&icirc;trise des passions. <br>
-              <br>
-              Mauvaise, la col&egrave;re? Inscrite dans le patrimoine g&eacute;n&eacute;tique 
-              de l'humanit&eacute;, elle a &eacute;t&eacute; un des facteurs de 
-              la survie de l'esp&egrave;ce. Universelle, elle se module suivant 
-              les &eacute;poques et les cultures. Apanage des dieux, privil&egrave;ge 
-              des rois et des puissants mais interdite aux femmes, aux esclaves 
-              et aux enfants, elle permet &agrave; l'individu de se faire respecter. 
-              Elle est &agrave; proscrire si elle reste enferm&eacute;e en elle-m&ecirc;me 
-              et si, destructrice de l'autre, elle menace la coh&eacute;sion sociale. 
-              Mais elle peut aussi &ecirc;tre une &eacute;nergie cr&eacute;atrice. 
-              D'aucuns d&eacute;plorent m&ecirc;me sa disparition et la recherchent 
-              d&eacute;sesp&eacute;r&eacute;ment dans ces temps aseptis&eacute;s 
-              de consensus. Car elle est salutaire au bon fonctionnement du d&eacute;bat 
-              d&eacute;mocratique. <br>
-              <br>
-              La col&egrave;re, un mal n&eacute;cessaire, qu'il faut savoir exprimer 
-              et ma&icirc;triser - pour de justes causes... <br>
-              <span class="texte2"><br>
-              Une &eacute;mission de Fran&ccedil;oise Est&egrave;be. R&eacute;alisation: 
-              Marie-Ange Garrandeau. Avec Christophe Andr&eacute;, psychiatre, 
-              Jean-Pierre Dufreigne, journaliste, Jean-Fran&ccedil;ois Kahn, journaliste, 
-              Michel Maffesoli, sociologue, Pierre Pachet de l'Universit&eacute; 
-              de Paris VII. Production France Culture.</span> </p>
-            <table width="316" border="0" cellspacing="0" cellpadding="0">
-              <tr> 
-                <td colspan="2" class="texte2"><a href="http://www.radio-canada.ca/util/zapmedia/version10/detecteBack.asp?lien=/Medianet/CBFX/DesIdeesPleinLaTete200204281300_1.asx" class="liens" onMouseOver="MM_swapImage('ecoute3','','images/ecoute_o.gif',0)" onMouseOut="MM_swapImgRestore()"><img src="images/ecoute.gif" name="ecoute3" width="40" height="28" border="0" align="left" id="ecoute3">&eacute;coutez 
-                  l'&eacute;pisode</a><br>
-                  dur&eacute;e : 00:<font class="texteitalique">54:52</font></td>
-              </tr>
-              <tr> 
-                <td><img src="images/spacer.gif" width="250" height="1"></td>
-                <td><a href="#h" class="liens"><b>^</b>haut</a></td>
-              </tr>
-            </table>
-            <p> ---------------------------------------------------<br>
-              <br>
-              <span class="titre"><strong><a name="4"></a>Quatri&egrave;me p&eacute;ch&eacute; 
-              : l'avarice </strong></span><br>
-              L'avarice est le p&eacute;ch&eacute; antisocial par excellence, 
-              souvent d&eacute;nonc&eacute; d&egrave;s l'Antiquit&eacute; sous 
-              les aspects de la cupidit&eacute; et de l'usure ou m&ecirc;me identifi&eacute; 
-              au larcin, au vol. Pour le chr&eacute;tien, c'est l'attachement 
-              abusif aux biens mat&eacute;riels qui s'oppose &agrave; l'accomplissement 
-              des devoirs religieux et humains. <br>
-              <br>
-              Les peintres l'ont repr&eacute;sent&eacute;e autrefois, au coeur 
-              de la table des p&eacute;ch&eacute;s, en compagnie de l'envie. L'avarice 
-              a fini par s'int&eacute;rioriser et devenir un caract&egrave;re, 
-              dont Moli&egrave;re a cr&eacute;&eacute; le saisissant prototype: 
-              Harpagon, un vieil homme m&eacute;fiant, aust&egrave;re, possessif, 
-              antipathique. Cette figure d&eacute;mod&eacute;e a longtemps habit&eacute; 
-              les consciences. Le XIXe si&egrave;cle l'a psychologis&eacute;e, 
-              le XXe l'a psychanalys&eacute;e. Mais depuis peu, l'avarice semble 
-              rajeunir et retrouver le sourire. Elle devient ludique &#8211; un 
-              jeu aux combinatoires excitantes &#8211; pour autant que l'exc&egrave;s 
-              ne g&eacute;n&egrave;re pas de nouvelles angoisses, voire de nouvelles 
-              pathologies... <br>
-              <br>
-              <span class="texte2">Une &eacute;mission d'Anne-Marie Rhyn et Martine 
-              B&eacute;guin. R&eacute;alisation: David Golan. Lectures: Jean-Ren&eacute; 
-              Clair. Avec Fr&eacute;d&eacute;ric Elsig, historien de l'art, Jean-Bernard 
-              Livio, p&egrave;re j&eacute;suite, Jacques Von&egrave;che, psychologue, 
-              Nicole Jan, manager &agrave; la compagnie des chemins de fer f&eacute;d&eacute;raux 
-              et les voix de Serge Margel, philosophe, et Pierre-Yves Brandt, 
-              th&eacute;ologien protestant. Production Radio Suisse Romande - 
-              Espace2.</span></p>
-            <table width="316" border="0" cellspacing="0" cellpadding="0">
-              <tr> 
-                <td colspan="2" class="texte2"><a href="http://www.radio-canada.ca/util/zapmedia/version10/detecteBack.asp?lien=/Medianet/CBFX/DesIdeesPleinLaTete200205051300_1.asx" class="liens" onMouseOver="MM_swapImage('ecoute4','','images/ecoute_o.gif',0)" onMouseOut="MM_swapImgRestore()"><img src="images/ecoute.gif" name="ecoute4" width="40" height="28" border="0" align="left" id="ecoute4">&eacute;coutez 
-                  l'&eacute;pisode</a><br>
-                  dur&eacute;e : 00:<font class="texteitalique">55:18</font></td>
-              </tr>
-              <tr> 
-                <td><img src="images/spacer.gif" width="250" height="1"></td>
-                <td><a href="#h" class="liens"><b>^</b>haut</a></td>
-              </tr>
-            </table>
-            <p> <br>
-            </p></td>
-          <td width="30">&nbsp;</td>
-          <td width="316" valign="top" class="texte1"><p><span class="titre"><strong><br>
-              <a name="5"></a>Cinqui&egrave;me p&eacute;ch&eacute; : la paresse 
-              </strong></span><br>
-              Dr&ocirc;le de p&eacute;ch&eacute; que la paresse! Le dernier &agrave; 
-              s'installer dans la liste des vices prohib&eacute;s... <br>
-              Depuis l'expulsion du jardin d'Eden, l'homme &eacute;tait certes 
-              condamn&eacute; au travail, &laquo; &agrave; gagner son pain &agrave; 
-              la sueur de son front &raquo;; cependant cette mal&eacute;diction 
-              ne s'inscrivait pas dans le registre moral, mais dans l'ordre du 
-              besoin, et l'infraction amenait sa punition imm&eacute;diate: la 
-              faim et la mis&egrave;re. C'est pourquoi les Anciens et les P&egrave;res 
-              de l'&Eacute;glise ne pla&ccedil;aient pas la paresse parmi les 
-              p&eacute;ch&eacute;s capitaux, ils lui pr&eacute;f&eacute;raient 
-              l'ac&eacute;die &#8211; torpeur spirituelle &#8211; et la tristesse, 
-              contraire &agrave; l'esp&eacute;rance du croyant. <br>
-              <br>
-              La paresse, m&egrave;re d'oisivet&eacute;, n'est devenue condamnable 
-              qu'avec le m&eacute;pris de la pauvret&eacute; &#8211; danger social 
-              &#8211; et la valorisation morale du travail. La paresse est donc 
-              un p&eacute;ch&eacute; paradoxal: moderne et la&iuml;c. Sa transgression 
-              est d&eacute;sormais per&ccedil;ue comme une saine r&eacute;volte 
-              par ceux qui refusent les contraintes de la r&eacute;ussite norm&eacute;e 
-              et oblig&eacute;e. <br>
-              <br>
-              <span class="texte2">Une &eacute;mission d'Anne-Marie Rhyn et Martine 
-              B&eacute;guin (RSR). R&eacute;alisation David Golan. Lectures Jean-Ren&eacute; 
-              Clair. Avec Jean-Bernard Livio, p&egrave;re j&eacute;suite, Fr&eacute;d&eacute;ric 
-              Elsig, historien de l'art, Serge Margel, philosophe, Gaston Cherpillod, 
-              &eacute;crivain libertaire et p&ecirc;cheur... &agrave; la ligne, 
-              voix de Jacques Von&egrave;che, psychologue, et de Henri Mottu, 
-              th&eacute;ologien protestant. Production Radio Suisse Romande - 
-              Espace2. </span></p>
-            <table width="316" border="0" cellspacing="0" cellpadding="0">
-              <tr> 
-                <td colspan="2" class="texte2"><a href="http://www.radio-canada.ca/util/zapmedia/version10/detecteBack.asp?lien=/Medianet/CBFX/DesIdeesPleinLaTete200205121300_1.asx" class="liens" onMouseOver="MM_swapImage('ecoute5','','images/ecoute_o.gif',0)" onMouseOut="MM_swapImgRestore()"><img src="images/ecoute.gif" name="ecoute5" width="40" height="28" border="0" align="left" id="ecoute5">&eacute;coutez 
-                  l'&eacute;pisode</a><br>
-                  dur&eacute;e : 00:<font class="texteitalique">55:20</font></td>
-              </tr>
-              <tr> 
-                <td><img src="images/spacer.gif" width="250" height="1"></td>
-                <td><a href="#h" class="liens"><b>^</b>haut</a></td>
-              </tr>
-            </table>
-            <p align="center">-----------------------------------------------------------</p>
-            <p><span class="titre"><strong><a name="6"></a>Sixi&egrave;me p&eacute;ch&eacute; 
-              : la gourmandise </strong></span><br>
-              La tradition philosophique et religieuse occidentale renie le corps 
-              et ses d&eacute;sirs. La gourmandise - pour nous p&eacute;ch&eacute; 
-              mignon - est un des sept p&eacute;ch&eacute;s capitaux, bien que 
-              sa condamnation ne soit pas inscrite dans le dogme. <br>
-              <br>
-              Ce p&eacute;ch&eacute; a une histoire. Il est n&eacute; chez les 
-              moines du d&eacute;sert au IIIe si&egrave;cle - la temp&eacute;rance 
-              &eacute;tait une vertu h&eacute;rit&eacute;e de la philosophie antique 
-              - puis fut impos&eacute; aux la&iuml;cs &agrave; la fin du Moyen-&Acirc;ge 
-              avec l'obligation de la confession. En ces temps de famine, la gourmandise 
-              est gaspillage et oubli des pauvres. Mais il s'agit aussi pour l'&Eacute;glise 
-              de maintenir l'ordre social. Nobles et manants n'ont pas droit aux 
-              m&ecirc;mes nourritures. &Agrave; travers la gourmandise s'exprime 
-              la condamnation puissante et phantasmatique de la vie elle-m&ecirc;me 
-              et de ses pulsions. Car la gourmandise en ses jouissances suscite 
-              l'&eacute;veil de tous les sens et est initiatrice de bien d'autres 
-              plaisirs... <br>
-              <br>
-              &Agrave; travers la recherche consciente du plaisir, l'h&eacute;doniste 
-              affirme son m&eacute;pris de la mort... <br>
-              <br>
-              <span class="texte2">Une &eacute;mission de Fran&ccedil;oise Est&egrave;be. 
-              R&eacute;alisation Marie-Ange Garrandeau. Avec Christophe Andr&eacute;, 
-              psychiatre, Roger-Pol Droit, philosophe, Jean-Pierre Dufreigne, 
-              journaliste, auteur de l'ouvrage Le g&eacute;nie des orifices, Ir&egrave;ne 
-              Frain, &eacute;crivain, Michel Onfray, philosophe, Mireille Vincent-Cassy, 
-              historienne, auteur d'ouvrages sur les p&eacute;ch&eacute;s capitaux. 
-              Production France Culture</span></p>
-            <table width="316" border="0" cellspacing="0" cellpadding="0">
-              <tr> 
-                <td colspan="2" class="texte2"><a href="http://www.radio-canada.ca/util/zapmedia/version10/detecteBack.asp?lien=/Medianet/CBFX/DesIdeesPleinLaTete200205191300_1.asx" class="liens" onMouseOver="MM_swapImage('ecoute6','','images/ecoute_o.gif',0)" onMouseOut="MM_swapImgRestore()"><img src="images/ecoute.gif" name="ecoute6" width="40" height="28" border="0" align="left" id="ecoute6">&eacute;coutez 
-                  l'&eacute;pisode</a><br>
-                  dur&eacute;e : 00:<font class="texteitalique">56:40</font></td>
-              </tr>
-              <tr> 
-                <td><img src="images/spacer.gif" width="250" height="1"></td>
-                <td><a href="#h" class="liens"><b>^</b>haut</a></td>
-              </tr>
-            </table>
-            <p align="center">-----------------------------------------------------------</p>
-            <p><span class="titre"><strong><a name="7"></a>Septi&egrave;me p&eacute;ch&eacute; 
-              : la luxure </strong></span><br>
-              Deux points de vue s'opposent sur le terrain de la luxure: celui 
-              de la tyrannie du plaisir ou de l'&eacute;loge de la jouissance. 
-              Paradis &agrave; reconqu&eacute;rir pour les uns, indice d'une mutation 
-              sociale pour les autres, incitation &agrave; la performance sous 
-              la contagion d'un discours &eacute;conomiste pour d'autres encore... 
-              <br>
-              <br>
-              Mais c'est surtout sur l'histoire ancienne que la luxure nous &eacute;claire... 
-              L&agrave; o&ugrave; nous croyons &agrave; un lent progr&egrave;s, 
-              &agrave; une p&eacute;nible &eacute;mergence de l'individu hors 
-              de la gangue de la contrainte, un regard plus pr&eacute;cis nous 
-              enseigne surtout qu'en mati&egrave;re de plaisir des corps, les 
-              &eacute;poques pass&eacute;es (exception faite pour le dramatique 
-              XIXe si&egrave;cle...) ont eu un discours contraignant mais une 
-              pratique plut&ocirc;t tol&eacute;rante. Et si nous &eacute;tions 
-              &agrave; l'exact oppos&eacute; de cette attitude? Un discours libertaire 
-              et une pratique timor&eacute;e? <br>
-              <br>
-              Constats: l'Antiquit&eacute; grecque et romaine pla&ccedil;ait le 
-              patrimoine avant toute chose. Une bonne partie de la philosophie 
-              antique se m&eacute;fiait du d&eacute;sir, grand pourvoyeur de d&eacute;sordre. 
-              Ovide qui &laquo;ha&iuml;ssait les &eacute;treintes o&ugrave; l'un 
-              et l'autre ne se donnent pas&raquo; s'est fait exiler pour d'obscures 
-              raisons par Auguste puis par Tib&egrave;re. Quant aux premiers chr&eacute;tiens, 
-              ils furent accus&eacute;s de d&eacute;bauche; et Tacite reprochait 
-              au christianisme de favoriser le rel&acirc;chement sexuel. <br>
-              <br>
-              Le point de vue, toujours lui... <br>
-              <br>
-              <span class="texte2">Avec Jean-Claude Guillebaud, journaliste, Michel 
-              Maffesoli, sociologue, Daniel Sibony, psychanalyste, Philippe Sollers, 
-              &eacute;crivain, Olivier Artus, pr&ecirc;tre, professeur &agrave; 
-              l'Institut catholique de Paris, Jean Delumeau, historien. R&eacute;alisation: 
-              Pascale Tison. Production RTBF. </span></p>
-            <table width="316" border="0" cellspacing="0" cellpadding="0">
-              <tr> 
-                <td colspan="2" class="texte2"><a href="http://www.radio-canada.ca/util/zapmedia/version10/detecteBack.asp?lien=/Medianet/CBFX/DesIdeesPleinLaTete200205261300_2.asx" class="liens" onMouseOver="MM_swapImage('ecoute7','','images/ecoute_o.gif',0)" onMouseOut="MM_swapImgRestore()"><img src="images/ecoute.gif" name="ecoute7" width="40" height="28" border="0" align="left" id="ecoute7">&eacute;coutez 
-                  l'&eacute;pisode</a><br>
-                  dur&eacute;e : 00:<font class="texteitalique">53:40</font></td>
-              </tr>
-              <tr> 
-                <td><img src="images/spacer.gif" width="250" height="1"></td>
-                <td><a href="#h" class="liens"><b>^</b>haut</a></td>
-              </tr>
-            </table>
-            <p align="center">-----------------------------------------------------------</p>
-            <p><span class="titre"><strong><a name="8"></a>Huiti&egrave;me p&eacute;ch&eacute; 
-              : la vieillesse</strong></span><strong> </strong><br>
-              La vieillesse... Un p&eacute;ch&eacute; capital? <br>
-              Certes, la vieillesse est une r&eacute;alit&eacute; biologique incontournable, 
-              mais elle est aussi une perception puis&eacute;e &agrave; m&ecirc;me 
-              les valeurs et les repr&eacute;sentations sociales. En ce sens, 
-              elle a une dimension sociologique et historique. <br>
-              <br>
-              Traite-t-on la vieillesse plus mal aujourd'hui que par le pass&eacute;? 
-              Certains le croient, ayant encore &agrave; l'esprit ce temps mythique 
-              o&ugrave; les vieux demeuraient dans leur famille, jusqu'&agrave; 
-              leur mort. Image en bonne partie id&eacute;alis&eacute;e et qui 
-              fait fi du traitement que l'on r&eacute;servait parfois &agrave; 
-              ces personnes devenues, pour la famille, une charge... <br>
-              <br>
-              Dans nos soci&eacute;t&eacute;s obs&eacute;d&eacute;es par le rendement 
-              et la jeunesse, entend-on, il nous est devenu insupportable de voir 
-              une personne vieillir, tomber dans l'inaction, souvent la maladie, 
-              ne produisant plus rien et, de plus, co&ucirc;tant quelque chose 
-              &agrave; la soci&eacute;t&eacute;. Comble d'impudence, les vieilles 
-              gens nous montrent ce que nous serons un jour... <br>
-              <br>
-              Il faudrait pouvoir consid&eacute;rer toute l'histoire humaine pour 
-              avoir une id&eacute;e plus juste de ce que la vieillesse repr&eacute;sente, 
-              en commen&ccedil;ant par les soci&eacute;t&eacute;s primitives. 
-              Les Indiens Nambikwara n'ont qu'un mot pour dire &laquo; jeune et 
-              beau &raquo; et un pour dire &laquo; vieux et laid &raquo;... Chez 
-              les Hopi, chez les Indiens Creek et Crow, chez les Boschiman d'Afrique 
-              du Sud, on conduisait le vieillard dans une hutte, construite tout 
-              expr&egrave;s &agrave; l'&eacute;cart du village, on y d&eacute;posait 
-              un peu de nourriture et on l'y abandonnait. Les Esquimaux demandaient 
-              aux anciens de se coucher dans la neige et d'y attendre la mort; 
-              ou, au cours d'une exp&eacute;dition de p&ecirc;che, on les oubliait 
-              sur une banquise; ou encore, on les enfermait dans un igloo o&ugrave; 
-              ils mouraient de froid... <br>
-              <br>
-              <span class="texte2">Avec Jacques Henripin, d&eacute;mographe, Beno&icirc;t 
-              Lacroix, p&egrave;re dominicain, Jean Carette (g&eacute;rontologie 
-              sociale), Mich&egrave;le Charpentier (droit social et du travail) 
-              et Jean-Jacques Lavoie (histoire des religions). Et Madeleine Duchesneau, 
-              qui vit encore chez elle et qui a toute l'&eacute;ternit&eacute; 
-              devant elle... &Eacute;quipe de production : Charles Colard &agrave; 
-              la discoth&egrave;que, Christian Ferland &agrave; la technique. 
-              R&eacute;alisation : Jean-Pierre Denis. Production Radio-Canada. 
-              </span></p>
-            <table width="316" border="0" cellspacing="0" cellpadding="0">
-              <tr> 
-                <td colspan="2" class="texte2"><a href="http://www.radio-canada.ca/util/zapmedia/version10/detecteBack.asp?lien=/Medianet/CBFX/DesIdeesPleinLaTete200206021300_1.asx" class="liens" onMouseOver="MM_swapImage('ecoute8','','images/ecoute_o.gif',0)" onMouseOut="MM_swapImgRestore()"><img src="images/ecoute.gif" name="ecoute8" width="40" height="28" border="0" align="left" id="ecoute8">&eacute;coutez 
-                  l'&eacute;pisode</a><br>
-                  dur&eacute;e : 00:<font class="texteitalique">57:32</font></td>
-              </tr>
-              <tr> 
-                <td><img src="images/spacer.gif" width="250" height="1"></td>
-                <td><a href="#h" class="liens"><b>^</b>haut</a></td>
-              </tr>
-            </table>
-            <p><span class="texte2"> </span></p></td>
-          <td width="12">&nbsp;</td>
-        </tr>
-      </table></td>
-  </tr>
-  <tr> 
-    <td width="25">&nbsp;</td>
-    <td colspan="2" align="center"><br>
-      <span class="texte1">Source: <strong>RTBF</strong></span> <br>
-    </td>
-  </tr>
-</table>
-<noscript> 
-<img border="0" name="DCSIMG" width="1" height="1" 
-src="http://sdc.radio-canada.ca/njs.gif?dcsuri=/nojavascript"> 
-</noscript>
-  <map name="Map">
-    <area shape="rect" coords="12,2,77,19" href="http://www.radio-canada.ca/url.asp?/radio/profondeur.html" target="_top" alt="Toute la radio en profondeur">
-  </map>
-</p>
+	<link rel="canonical" href="https://www.nippon.com/fr/japan-topics/c12101/" />
+		<link rel="stylesheet" href="../../ncommon/css/common.css?20230701" media="" />
+
+	   	 <link rel="stylesheet" href="../../../custom/inpage.css?20230701" media="" />
+	
+	<link rel="stylesheet" href="../../ncommon/js/plugin/fancybox-2.1.7/jquery.fancybox.css" media="" />
+	<script>
+	  var authorJson = '[]';
+	  var seriesId = '';
+	  var seriesUrl = '';
+	  var articleId = 'c12101';
+	  var addthisUrl = "https://www.nippon.com/fr/japan-topics/c12101/";
+	</script>
+
+	<script src="../../ncommon/conf/settings.js?20230701"></script>
+	<script src="../../ncommon/js/lib/base.js?20230701"></script>
+	<script src="../../ncommon/js/lib/utility.js?20230701"></script>
+	<script src="../../ncommon/js/liberal.js?20230701" ></script>
+
+	
+  </head>
+
+  <body  class="id-detail ">
+
+	<a name="page_top" id="page_top"></a>
+	<header id="global-header">
+	</header>
+	<script src="../../ncommon/js/header.js?20230701" async></script>
+	<main>
+	<div class="u-bg">
+
+	<ul class="u-pan usp-none">
+		<li class="u-pan_li" ><a href="/fr/" class="u-pan_a" ><span >Home</span></a></li>
+		<li class="u-pan_li i-arrowr" ><a href="/fr/japan-topics/" class="u-pan_a" ><span itemprop="title">Séries</span></a></li>
+		<li class="u-pan_li i-arrowr">Une alliance impie : comment la secte Moon a infiltré le Parti libéral-démocrate au pouvoir au Japon</li>
+	</ul>
+
+	<article class="c-main c-main1">
+	<div class="c-mainin">
+	<div class="gpc">
+		<div class=" gpc-c_l">
+ 			 			  <div class="c-content">
+ 			     				 <img class="c-detailmv" src="/fr/ncommon/contents/japan-topics/2310951/2310951.jpg">
+ 			                  </div>
+ 			 			<div class="c-content">
+
+ 				
+				 <h1 class="c-h1">Une alliance impie : comment la secte Moon a infiltré le Parti libéral-démocrate au pouvoir au Japon</h1>
+
+
+				
+													<a class="c-cate c-cate0" href="/fr/articlelist.html?f=ncf-category&s=Politique">Politique</a>
+																									<a class="c-cate c-cate2" href="/fr/articlelist.html?f=ncf-category&s=Soci%C3%A9t%C3%A9">Société</a>
+								
+				<time class="c-date" >20/03/2023</time>
+
+				<p class="c-author" id="kiji-author">
+				</p>
+				<!-- leading -->
+								<div class="c-read">
+				L’assassinat de l’ancien Premier ministre Abe Shinzô par le fils d’une fidèle de la secte Moon, qui prétendait que les dons faits par sa mère à cette organisation avaient détruit sa famille, a attiré l’attention sur les liens profonds que la secte entretient avec le Parti libéral-démocrate, et soulevé des questions sur son projet politique et son influence sur la politique du parti au pouvoir.
+				</div>
+				
+
+				
+				<!--  addthis -->
+				<div name="addthis_tools"></div>
+
+				<div class="c-lang">
+					<div class="c-lang_icon"><span class="i-earth"></span></div>
+						<div class="c-lang_link"><span id="others-lang"></span>
+							<input class="c-lang_check" type="checkbox" id="langlink" checked>
+							<ul class="c-lang_open">
+								<li class="other-language-link-en">English</li>
+								<li class="other-language-link-ja">日本語</li>
+								<li class="other-language-link-cn">简体字</li>
+								<li class="other-language-link-hk">繁體字</li>
+								<li class="other-language-link-fr">Français</li>
+								<li class="other-language-link-es">Español</li>
+								<li class="other-language-link-ar">العربية </li>
+								<li class="other-language-link-ru">Русский</li>
+							</ul>
+						<!--</label>-->
+					</div>
+				</div><!--c-lang-->
+
+  				<div class="editArea">
+  				 <section class="page-break" data-page-title="Le &laquo;&nbsp;Koreagate&nbsp;&raquo;"><h2>Le &laquo;&nbsp;Koreagate&nbsp;&raquo;</h2>  <p>Le sentiment de fureur que suscite aujourd&rsquo;hui la secte Moon, connue officiellement sous le nom de &laquo;&nbsp;F&eacute;d&eacute;ration des familles pour la paix mondiale et l&rsquo;unification&nbsp;&raquo;, n&rsquo;a rien de nouveau. Cette organisation fait l&rsquo;objet de controverses depuis sa fondation. D&egrave;s le d&eacute;but des ann&eacute;es 1960, les m&eacute;dias japonais se sont int&eacute;ress&eacute;s &agrave; ses activit&eacute;s, et notamment au recrutement d&rsquo;&eacute;tudiants par le groupe, qui a incit&eacute; le quotidien <em>Asahi Shimbun</em> &agrave; le qualifier en 1967 de &laquo;&nbsp;mouvement fondamentaliste qui fait pleurer les parents&nbsp;&raquo;.</p>  <p>Dans les ann&eacute;es 1980, la secte a &eacute;t&eacute; vivement critiqu&eacute;e pour les ventes soi-disant spirituelles qui lui permettaient d&rsquo;extorquer de l&rsquo;argent &agrave; des gens, disciples ou non, en les persuadant d&rsquo;acheter &agrave; des prix exorbitants des objets tels que des sceaux et des urnes. L&rsquo;organisation s&rsquo;est de nouveau trouv&eacute;e dans le collimateur dans les ann&eacute;es 1990 pour les dons &eacute;normes qu&rsquo;elle soutirait &agrave; ses membres et les gigantesques c&eacute;r&eacute;monies de mariage collectif qu&rsquo;elle c&eacute;l&eacute;brait, ph&eacute;nom&egrave;ne dont les actualit&eacute;s se sont empar&eacute;es quand un c&eacute;l&egrave;bre chanteur japonais a particip&eacute; &agrave; ce rituel bizarre.</p>  <p>La derni&egrave;re controverse tourne autour des faveurs que la secte cherche &agrave; obtenir de parlementaires du Parti lib&eacute;ral-d&eacute;mocrate (PLD, au pouvoir) et d&rsquo;autres formations. L&rsquo;organisation ne rechigne pas &agrave; se livrer au trafic d&rsquo;influence, comme le montre son implication dans le &laquo;&nbsp;Koreagate&nbsp;&raquo;, le scandale politique qui a &eacute;clat&eacute; aux &Eacute;tats-Unis en 1976. Au c&oelig;ur de ce scandale se trouvait le riche homme d&rsquo;affaires sud-cor&eacute;en Park Tong-sun, qui a distribu&eacute; de l&rsquo;argent &agrave; divers membres du Congr&egrave;s des &Eacute;tats-Unis, mais la secte Moon a elle aussi jou&eacute; un r&ocirc;le clef, et ce fait a &eacute;t&eacute; largement ignor&eacute;.</p>  <p>Les &eacute;v&eacute;nements qui ont constitu&eacute; le Koreagate sont expos&eacute;s en d&eacute;tails dans un rapport r&eacute;dig&eacute; en 1978 par une sous-commission de la Chambre des relations internationales pr&eacute;sid&eacute;e par Donald M. Fraser, un parlementaire d&eacute;mocrate originaire du Minnesota. Ce rapport accuse l&rsquo;Agence centrale de renseignement cor&eacute;enne (KCIA) de s&rsquo;&ecirc;tre servie de Park pour soudoyer et influencer des repr&eacute;sentants am&eacute;ricains lors d&rsquo;une tentative en vue de faire obstrucion &agrave; la d&eacute;cision, prise par le Pr&eacute;sident Richard Nixon, de retirer une partie des troupes am&eacute;ricaines stationn&eacute;es en Cor&eacute;e du Sud, d&eacute;cision qui constituait un geste de conciliation &agrave; l&rsquo;&eacute;gard de P&eacute;kin apr&egrave;s la visite historique effectu&eacute;e en Chine par Nixon en 1972. La KCIA, une formidable agence d&rsquo;espionnage, a &eacute;t&eacute; fond&eacute;e par Kim Jong-pil, un homme de confiance du Pr&eacute;sident Park Chung-hee qui allait par la suite occuper &agrave; deux reprises le poste de Premier ministre.</p>  <p>Dans son rapport, Fraser parle d&rsquo;une &laquo;&nbsp;coop&eacute;ration active&nbsp;&raquo; entre la KCIA et des organisations li&eacute;es au fondateur de la secte Moon, Sun Myung Moon. Cela se passait en pleine Guerre Froide, et la KCIA a consid&eacute;r&eacute; que la secte, avec son attitude r&eacute;solument anticommuniste, pouvait s&rsquo;av&eacute;rer un outil efficace pour la r&eacute;alisation de ses objectifs g&eacute;opolitiques.</p>  <p>&Agrave; peu pr&egrave;s &agrave; la m&ecirc;me &eacute;poque, au Japon, la secte Moon a fond&eacute; la F&eacute;d&eacute;ration internationale pour la victoire sur le communisme, et d&eacute;sign&eacute; comme pr&eacute;sident honoraire Sasakawa Ry&ocirc;ichi, un notable de droite qui &eacute;tait &agrave; la t&ecirc;te de la Fondation Sasakawa (aujourd&rsquo;hui Nippon Foundation). Sasakawa entretenait des liens &eacute;troits avec l&rsquo;ancien Premier ministre Kishi Nobusuke et d&rsquo;autres membres de l&rsquo;aile conservatrice du PLD, et ce sont ces liens qui ont permis &agrave; la secte de diffuser son influence au sein du parti.</p>  <h2>Se faire passer pour une religion</h2>  <p>Quelques-unes des accusations les plus accablantes pour la secte Moon r&eacute;v&eacute;l&eacute;es au cours de l&rsquo;enqu&ecirc;te sur le Koreagate proviennent du t&eacute;moignage de plusieurs hauts dirigeants de l&rsquo;&eacute;glise aux &Eacute;tats-Unis. Ces personnes ont expos&eacute; en d&eacute;tails la fa&ccedil;on dont Moon utilisait le masque de la religion pour r&eacute;aliser ces objectifs politiques via l&rsquo;Organisation Moon, un r&eacute;seau mondial de groupes religieux et s&eacute;culaires, d&rsquo;entreprises et d&rsquo;organismes sans but lucratif affili&eacute;s &agrave; la secte.</p>  <p>Alors m&ecirc;me que s&rsquo;accumulaient les preuves des activit&eacute;s douteuses de la secte Moon, celle-ci avait tout le loisir d&rsquo;agir &agrave; sa guise au Japon, un laxisme en grande partie imputale &agrave; la r&eacute;ticence des l&eacute;gislateurs &agrave; intenter une action en justice contre des organisations louches, par crainte de porter atteinte aux libert&eacute;s religieuses des citoyens. Cette sitution a tourn&eacute; &agrave; l&rsquo;avantage de la secte Moon, en la dispendant de se plier aux restrictions officielles et en lui permettant d&rsquo;&eacute;largir le champ de ses activit&eacute;s.</p>  <p class="photo_box_c_v2"><a href="/fr/ncommon/contents/japan-topics/2310949/2310949.jpg" class="fancybox" rel="gallery0" data-libid="2310949"><img src="/fr/ncommon/contents/japan-topics/2310949/2310949.jpg" data-libid="2310949" alt="Sun Myung Moon et son &eacute;pouse b&eacute;nissent des couples lors d'une gigantesque c&eacute;r&eacute;monie de mariage collectif c&eacute;l&eacute;br&eacute;e par la secte Moon &agrave; S&eacute;oul, en 1999. (Reuter)" /></a><br /><span class="caption_v2">Sun Myung Moon et son &eacute;pouse b&eacute;nissent des couples lors d&rsquo;une gigantesque c&eacute;r&eacute;monie de mariage collectif c&eacute;l&eacute;br&eacute;e par la secte Moon &agrave; S&eacute;oul, en 1999. (Reuter)</span></p>  <h2>Les racines d&rsquo;un culte : la relation d&rsquo;&Egrave;ve avec un serpent</h2>  <p>La connivence de la secte Moon avec la KCIA et son essor sur la sc&egrave;ne internationale ont de quoi surprendre lorsqu&rsquo;on sait que Moon a fait ses d&eacute;buts comme dirigeant d&rsquo;une secte chr&eacute;tienne marginale connue pour les rituels sexuels bizarres auxquels elle se livrait. Pak Chung-hwa, ancien dirigeant de la secte et proche de Moon, a donn&eacute; une chronique d&eacute;taill&eacute;e des premi&egrave;res ann&eacute;es de la secte dans son ouvrage <em>Roku Maria no higeki</em> (La trag&eacute;die des six Maries), publi&eacute; en 1993 au Japon. Dans ce livre, Pak parle de la fa&ccedil;on dont Moon utilisait sa doctrine de &laquo;&nbsp;purification&nbsp;&raquo; du sang du p&eacute;ch&eacute; originel pour contraindre ses disciples femmes &agrave; avoir une relation sexuelle avec lui.</p>  <p>L&rsquo;id&eacute;e de p&eacute;ch&eacute; originel, selon laquelle les &ecirc;tres humains naissent en &eacute;tat de p&eacute;ch&eacute; du fait de la chute d&rsquo;Adam et &Egrave;ve, fait partie de la doctrine de bien des &eacute;glises chr&eacute;tiennes. Mais la fa&ccedil;on dont Moon interpr&egrave;te l&rsquo;expulsion d&rsquo;Adam et &Egrave;ve du jardin d&rsquo;&Eacute;den diverge de la version standard de l&rsquo;Ancien Testament, selon laquelle le couple mange le fruit d&eacute;fendu de l&rsquo;arbre de la connaissance. Selon Moon, le p&eacute;ch&eacute; originel est li&eacute; &agrave; un rapport sexuel entre &Egrave;ve et Lucifer, qui est apparu &agrave; &Egrave;ve sous les traits d&rsquo;un serpent, lequel a corrompu son sang et, via la transmission sexuelle, celui d&rsquo;Adam.</p>  <p>Moon pr&ecirc;chait qu&rsquo;un messie serait envoy&eacute; et qu&rsquo;il fonderait une lign&eacute;e exempte du p&eacute;ch&eacute; en purifiant le sang de six &laquo;&nbsp;Marie&nbsp;&raquo;, autrement dit six femmes mari&eacute;es. Pour que cette proph&eacute;tie se r&eacute;alise, le messie allait devoir faire trois fois l&rsquo;amour avec chacune de ces femmes. Moon, qui pr&eacute;tendait &ecirc;tre lui-m&ecirc;me ce messie, utilisait cette doctrine pour amadouer les femmes et les amener &agrave; coucher avec lui, apr&egrave;s quoi il les d&eacute;pouillait de leur argent et de leurs biens.</p>  <p>Avec le temps, la doctrine de la &laquo;&nbsp;purification&nbsp;&raquo; sexuelle a &eacute;volu&eacute;, et, plut&ocirc;t que de devoir en passer par un rapport sexuel avec Moon, les disiples ont pu &ecirc;tre purifi&eacute;es du p&eacute;ch&eacute; originel en &eacute;pousant un conjoint choisi pour elles par l&rsquo;&eacute;glise, d&rsquo;o&ugrave; l&rsquo;essor des gigantesques c&eacute;r&eacute;monies de mariage collectif qui ont fait la c&eacute;l&eacute;brit&eacute; de la secte.</p>  <p class="photo_box_c_v2"><a href="/fr/ncommon/contents/japan-topics/2310948/2310948.jpg" class="fancybox" rel="gallery0" data-libid="2310948"><img src="/fr/ncommon/contents/japan-topics/2310948/2310948.jpg" data-libid="2310948" alt="Des milliers de couples se marient lors d'une gigantesque c&eacute;r&eacute;monie c&eacute;l&eacute;br&eacute;e en mars 2015. (AFP)" /></a><br /><span class="caption_v2">Des milliers de couples se marient lors d&rsquo;une gigantesque c&eacute;r&eacute;monie c&eacute;l&eacute;br&eacute;e en mars 2015. (AFP)</span></p>  </section><section class="page-break" data-page-title="Le recrutement sur les campus universitaires japonais">  <h2>Le recrutement sur les campus universitaires japonais</h2>  <p>La secte Moon a tr&egrave;s t&ocirc;t consid&eacute;r&eacute; les universit&eacute;s japonaises comme de fertils terrains de recrutement et orient&eacute; les candidats vers les clubs d&rsquo;&eacute;tudiants et les groupes d&rsquo;&eacute;tude g&eacute;r&eacute;s par un organisme affili&eacute;, l&rsquo;Association coll&eacute;giale pour la recherche des principes (ACRP). Elle ciblait en particulier les candidats des meilleures &eacute;coles, dans l&rsquo;espoir de confier aux convertis provenant d&rsquo;institutions aussi prestigieuses que l&rsquo;Universi&eacute; de Tokyo et l&rsquo;Universit&eacute; Waseda des postes de direction au sein de l&rsquo;&eacute;glise.</p>  <p>Une personne contact&eacute;e par un repr&eacute;sentant de l&rsquo;ACRP en 1977, alors qu&rsquo;elle &eacute;tait encore &agrave; l&rsquo;&eacute;cole secondaire, d&eacute;crit en ces termes les tactiques du groupe&nbsp;: &laquo;&nbsp;On m&rsquo;a approch&eacute; aux abords de la gare de Takadanobaba (&agrave; Tokyo) et invit&eacute; &agrave; participer &agrave; un groupe d&rsquo;&eacute;tude de la Bible. On m&rsquo;a emmen&eacute; au si&egrave;ge de l&rsquo;&eacute;glise, pr&egrave;s de l&rsquo;Universit&eacute; Waseda, o&ugrave; l&rsquo;on m&rsquo;a parl&eacute; de la doctrine du p&eacute;ch&eacute; originel et du statut messianique de Moon.&nbsp;&raquo;</p>  <p>La secte Moon avait l&rsquo;habitude d&rsquo;orienter les jeunes candidats vers des camps o&ugrave; on leur inculquait la foi, mais les &eacute;tudiants du secondaire parvenaient &agrave; &eacute;chapper &agrave; ce triste sort quand la vue de membres de la secte en train d&rsquo;adresser des pri&egrave;res &agrave; des images du drapeau sud-cor&eacute;en et de Moon accroch&eacute;es au mur &eacute;veillaient leur scepticisme. &laquo;&nbsp;Ils pr&eacute;tendaient qu&rsquo;il &eacute;tait le patriarche en Cor&eacute;e et qu&rsquo;il &eacute;tait plus v&eacute;n&eacute;r&eacute; que l&rsquo;empereur du Japon. C&rsquo;&eacute;tait beaucoup trop tir&eacute; par les cheveux pour qu&rsquo;on y croit.&nbsp;&raquo;</p>  <h2>Un sentiment anti-japonais</h2>  <p>Moon reprochait au Japon d&rsquo;avoir occup&eacute; la p&eacute;ninsule cor&eacute;enne de 1910 &agrave; 1945. C&rsquo;est pour ce motif que la secte voit ce pays d&rsquo;un mauvais &oelig;il, et le consid&egrave;re comme la &laquo;&nbsp;nation d&rsquo;&Egrave;ve&nbsp;&raquo; qui a souill&eacute; la Cor&eacute;e &laquo;&nbsp;nation d&rsquo;Adam&nbsp;&raquo;. Moon voyait aussi le Japon comme une source abondante de revenus et r&eacute;clamait que les Japonais paient des r&eacute;parations en puisant dans leurs biens.</p>  <p>Moon pr&eacute;tendait avoir fait des &eacute;tudes d&rsquo;ing&eacute;nieur &agrave; l&rsquo;Universit&eacute; Waseda dans les ann&eacute;es 1940, soi-disant en suivant des cours du soir tout en travaillant comme &eacute;lectricien pendant la journ&eacute;e. &Agrave; l&rsquo;&eacute;poque, la discrimination &agrave; l&rsquo;&eacute;gard des r&eacute;sidents cor&eacute;ens &eacute;tait tr&egrave;s r&eacute;pandue, un probl&egrave;me qui reste d&rsquo;actualit&eacute; aujourd&rsquo;hui, et de nombreux experts sugg&egrave;rent que les enseignements anti-japonais de la secte prennent leur origine dans les exp&eacute;riences v&eacute;cues par Moon, qui l&rsquo;ont amen&eacute; &agrave; &eacute;pouser l&rsquo;id&eacute;e que la nation devait &ecirc;tre punie pour ses transgressions.</p>  <p>Ce ressentiment s&rsquo;est exprim&eacute; de diverses fa&ccedil;ons, souvent bizarres. Par exemple, un article du num&eacute;ro de f&eacute;vrier 1985 de l&rsquo;hebdomadaire, aujourd&rsquo;hui d&eacute;funt, <em>Asahi Journal</em> parle de c&eacute;r&eacute;monies sp&eacute;ciales c&eacute;l&eacute;br&eacute;es dans les locaux de la secte Moon aux &Eacute;tats-Unis &agrave; l&rsquo;occasion des quatre principaux festivals traditionnels cor&eacute;ens, c&eacute;r&eacute;monies au cours desquelles des membres japonais de la direction de l&rsquo;&eacute;glise d&eacute;guis&eacute;s en empereur du Japon imploraient Moon.</p>  <p>Il est difficile de comprendre comment la secte Moon a pu maintenir des liens aussi &eacute;troits avec des membres de l&rsquo;aile conservatrice du PLD tout en affichant des sentiments ouvertement anri-japonais. De m&ecirc;me, il n&rsquo;est pas facile d&rsquo;appr&eacute;hender les raisons qui ont emp&ecirc;ch&eacute; le PLD de reprocher &agrave; la secte d&rsquo;utiliser la religion comme un paravent pour dissimuler ses ambitions &eacute;conomiques et politiques, comme Fraser l&rsquo;a not&eacute; dans son rapport de 1978, et l&rsquo;ont pouss&eacute; &agrave; renforcer la relation en d&eacute;pit des dangers &eacute;vidents que cela entra&icirc;nait. L&rsquo;explication la plus facile, &agrave; l&rsquo;&eacute;vidence, consiste &agrave; dire que le PLD et la secte Moon b&eacute;n&eacute;ficiaient mutuellement de cet arrangement.</p>  <h2>PLD et secte Moon : des objectifs partag&eacute;s</h2>  <p>&Agrave; l&rsquo;origine, le lien nou&eacute; par la secte Moon avec des &eacute;l&eacute;ments appartenant &agrave; l&rsquo;aile droite du PLD reposait sur l&rsquo;anticommunisme qu&rsquo;ils partageaient. Une fois le lien &eacute;tabli, l&rsquo;organisation a renforc&eacute; son emprise en faisant acc&eacute;der des adeptes &agrave; des postes de secr&eacute;taires de parlementaires du PLD &mdash; un certain nombre d&rsquo;entre eux ont &eacute;t&eacute; jusqu&rsquo;&agrave; repr&eacute;senter le parti dans des assembl&eacute;es r&eacute;gionales &mdash; et en utilisant le vote bloqu&eacute; pour aider les candidats du PLD &agrave; remporter la victoire dans des scrutins locaux.</p>  <p>Les m&eacute;dias et d&rsquo;autres instances ont sugg&eacute;r&eacute; que l&rsquo;ancien Premier ministre Abe Shinz&ocirc; supervisait la relation du PLD avec la secte Moon, et s&rsquo;en servait pour se maintenir au pouvoir en aidant ses alli&eacute;s au sein du parti &agrave; obtenir des postes. L&rsquo;assassin pr&eacute;sum&eacute; d&rsquo;Abe a d&eacute;clar&eacute; que les liens &eacute;troits de celui-ci avec la secte Moon constituaient le mobile pour lequel il l&rsquo;avait abattu en juillet 2022. Ce terrible &eacute;v&eacute;nement a rapidement mis &agrave; nu les liens &eacute;troits que le PLD entretenait avec la secte Moon, et les probl&egrave;mes que cela soulevait sont devenus un lourd fardeau politique pour le parti.</p>  <p>On suspecte de plus en plus que la secte Moon avait suffisamment d&rsquo;emprise sur les politiciens du PLD pour exercer une influence sur la politique nationale. Pour prendre un exemple, le Japon reste le seul pays du G7 &agrave; ne pas reconna&icirc;tre officiellement le mariage entre personnes du m&ecirc;me sexe, une attitude qui lui porte pr&eacute;judice dans la mesure o&ugrave; elle le met en porte-&agrave;-faux avec les nations d&eacute;mocratiques qui ont opt&eacute; pour l&rsquo;&eacute;galit&eacute; des sexes dans le mariage. Pourtant, le gouvernement, plut&ocirc;t que de prendre le risque d&rsquo;&ecirc;tre accus&eacute; de tergiversation, a choisi d&rsquo;aller encore plus loin, comme en t&eacute;moigne la d&eacute;claration r&eacute;cente de Kishida Fumio selon laquelle la l&eacute;galisation du mariage homosexuel &laquo;&nbsp;changerait la soci&eacute;t&eacute;&nbsp;&raquo;.</p>  <p>On ne peut pas ignorer que cette fa&ccedil;on de voir fait &eacute;cho &agrave; celle de la secte Moon, qui s&rsquo;est longtemps battue contre le mariage entre personnes du m&ecirc;me sexe et les droits des LGBT. On a m&ecirc;me entendu dire que des groupes affili&eacute;s &agrave; la secte demandaient aux membres du PLD de &laquo;&nbsp;faire montre de r&eacute;serve&nbsp;&raquo; sur la question, dans le cadre d&rsquo;une plus vaste campagne visant &agrave; persuader les parlementaires de soutenir les politiques adopt&eacute;es par l&rsquo;&eacute;glise. On soup&ccedil;onne en outre la secte Moon d&rsquo;avoir influenc&eacute; le refus du PLD d&rsquo;autoriser les conjoints &agrave; utiliser des noms de famille diff&eacute;rents.</p>  <p>&Agrave; cela s&rsquo;ajoute le fait que, pendant le second mandat d&rsquo;Abe en tant que Premier ministre, Shimomura Hakubun, alors ministre de l&rsquo;&Eacute;ducation, de la Culture, des Sports, de la Science et de la Technologie, a satisfait &agrave; la demande formul&eacute;e depuis longtemps par la secte Moon de changer son nom officiel pour prendre celui de &laquo;&nbsp;F&eacute;d&eacute;ration des familles pour la paix mondiale et l&rsquo;unification&nbsp;&raquo;, une initiative contestable dont bien des gens consid&egrave;rent qu&rsquo;elle permet &agrave; l&rsquo;&eacute;glise de jeter un voile sur son implication pass&eacute;e dans des activit&eacute;s controvers&eacute;es.</p>  <p>Tout ceci renforce la cr&eacute;dibilit&eacute; du point de vue selon lequel la secte Moon s&rsquo;est servi de ses liens avec le PLD pour influencer la politique du gouvernement. Mais cela ne devrait pas nous surprendre, compte tenu des faits mis en lumi&egrave;re par le scandale du Koreagate, qui ont montr&eacute; sans l&rsquo;ombre d&rsquo;un doute que la secte Moon se soucie d&rsquo;avantage de ses objectifs politiques que des vertus salvatrices de la religion.</p>  <p><em>(Reportage et texte de Power News. Photo de titre&nbsp;: &copy;&nbsp;Reuters)</em></p></section>
+  				</div><!--editArea-->
+
+				<p class="c-more c-more-nexpage" id="next-page-nav"></p>
+				<div class="paging">
+					<ul class="paging__list" id="paging-list">
+					</ul>
+				</div>
+				   				<section class="c-detailkeyward">
+  					<h2 class="is-ttl"><span></span></h2>
+					<p class="c-keywords">
+												 <a href="">politique</a>
+					 							 <a href="">PLD</a>
+					 							 <a href="">Corée du Sud</a>
+					 							 <a href="">société</a>
+					 							 <a href="">Abe Shinzô</a>
+					 							 <a href="">secte</a>
+					 						</p>
+  				</section><!--detailkeyward-->
+				
+				<div name="addthis_tools"></div>
+
+  				<div id="detailauthor">
+
+  				</div><!--detailauthor-->
+
+
+  				<section class="c-cas">
+  					<h2 class="cpc-casttl csp-casttl" id="detail_under_series_title"></h2>
+  					<div id="detail_under_series"></div>
+  					<p class="c-more" id="series_more"><a href=""></a></p>
+  				</section>
+
+  				<section class="c-cas c-detail_under"><!--cas 関連するコンテンツ-->
+  					<h2 class="cpc-casttl csp-casttl" id="detail_under_relation_title"></h2>
+					<ul class="gpc gpc-g30 gpc-3n" id="detail_under_relation"></ul>
+  				</section><!--cas 関連するコンテンツ-->
+
+  			</div><!--c-content-->
+	   </div><!--gpc-c_l-->
+
+	   <aside class="gpc-c_r">
+	    			<h2 class="cpc-catelogo">
+				<span class="is-1"></span><span class="is-2"></span>
+			</h2>
+	    
+
+
+			<section class="c-aside csp-bb">
+				<p class="cpc-asidettl csp-casttl ctb-asidepd" id="detail_aside_recommend_title"></p>
+				<div class="cpc-asidediv" id="detail_aside_recommend">
+
+			 	</div><!-cpc-asidediv-->
+			</section><!--おすすめ-->
+
+
+			<!--人気コンテンツ-->
+			<section class="c-aside csp-bb">
+                <h2 class="cpc-asidettl csp-casttl ctb-asidepd ranking-title" id="popular_news_title"></h2>
+                <ul class="swiper-wrapper ranking-ul">
+                    <li class="ranking-tab ranking-tab-active" id="popular_news_tab"><h2></h2></li>
+                    <li class="ranking-tab" id="popular_sns_tab"><h2></h2></li>
+                    <li class="ranking-tab" id="popular_time_tab"><h2></h2></li>
+                </ul>
+                <div class="cpc-asidediv" id="popular_news"></div>
+                <div class="cpc-asidediv ranking-tab-hidden" id="popular_sns"></div>
+                <div class="cpc-asidediv ranking-tab-hidden" id="popular_time"></div>
+
+				<p class="upc-none c-more"><span onclick="$('.c-ninki_after').show('fast');$(this).parent().hide('fast');" id="popular_news_more"><span id="popular-more"></span><span class="i-plus2"></span></span></p>
+			</section><!--人気-->
+
+			<!--人気キーワード-->
+	   		<section class="c-aside csp-bb">
+	   			 <h2 class="cpc-asidettl csp-casttl ctb-asidepd" id="pop-keywords"></h2>
+	   			   <div class="cpc-asidediv">
+	   				 <div class="cpc-asidediv_in csp-div_in ctb-asidepd">
+		   				 <p class="c-keywords" id="pop-keywords-list">
+						</p>
+			  	 	 </div><!--cpc-asidediv_in-->
+				   </div><!--cpc-asidediv-->
+			</section><!--人気のキーワード-->
+	   </aside><!--gpc-c_r-->
+	  </div><!--gpc-->
+	  </div><!--c-mainin-->
+	</article>
+
+	</div><!--u-bg-->
+	</main><!--main-->
+
+	<footer class="c-footer" id="global-footer">
+
+	</footer>
+	<script src="../../ncommon/js/plugin/jquery.min.js?20230701"></script>
+	<script src="../../ncommon/js/plugin/fancybox-2.1.7/jquery.mousewheel.pack.js"></script>
+	<script src="../../ncommon/js/plugin/fancybox-2.1.7/jquery.fancybox.js"></script>
+	<script src="../../ncommon/js/recommend/recommend_utility.js?20230701"></script>
+	<script src="../../ncommon/js/detail.js?20230701" ></script>
+	<script src="../../ncommon/js/footer.js?20230701" ></script>
+
 </body>
 </html>

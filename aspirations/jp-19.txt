@@ -1,7 +1,7 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:41:06 GMT
+date: Sun, 04 Jan 2026 17:20:04 GMT
 content-type: text/html; charset=utf-8
-x-cache: MISS from ctms3-www20.ctms.iri-ct.jp
+x-cache: MISS from ctms3-www22.ctms.iri-ct.jp
 vary: Accept-Encoding,User-Agent
 x-xss-protection: 1; mode=block
 x-content-type-options: nosniff
@@ -644,31 +644,25 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-inread'); });
       </article>
     </a></li>
 
-    <li class="item item--cate-game item--cate-game-PS5 item--subcate-PS5 rank rank--second">
-    <a class="link" href="/article/2026/01/02/175745.html">
-      <article class="ranking-content">
-        <img class="figure" src="/imgs/p/anWbfPBarc2lnppLZ8MJ6jkJNAc6BQQDAgEA/1672402.jpg" alt="これから格ゲーを始める人におすすめのコントローラーは？パッド・アケコン・レバーレスそれぞれの魅力をまるっと紹介【年末年始特集】" width="60" height="60">
-        <h4 class="figcaption">これから格ゲーを始める人におすすめのコントローラーは？パッド・アケコン・レバーレスそれぞれの魅力をまるっと紹介【年末年始特集】<time class="date" datetime="2026-01-02T11:00:03+09:00">2026.1.2 Fri 11:00</time></h4>
-      </article>
-    </a></li>
-
-    <li class="item item--cate-game item--cate-game-news item--subcate-news rank rank--third">
+    <li class="item item--cate-game item--cate-game-news item--subcate-news rank rank--second">
     <a class="link" href="/article/2026/01/02/175751.html">
       <article class="ranking-content">
         <img class="figure" src="/imgs/p/anWbfPBarc2lnppLZ8MJ6jkJNAc6BQQDAgEA/1673455.jpg" alt="『原神』でコラボ続々！食べログ、明治、ファミリーマートら3社とのキャンペーンが1月中旬より順次開催" width="60" height="60">
         <h4 class="figcaption">『原神』でコラボ続々！食べログ、明治、ファミリーマートら3社とのキャンペーンが1月中旬より順次開催<time class="date" datetime="2026-01-02T17:40:03+09:00">2026.1.2 Fri 17:40</time></h4>
       </article>
     </a></li>
-    <li class="item item--cate-game item--cate-game-special item--subcate-special rank">
-    <a class="link" href="/article/2026/01/02/175752.html">
-      <article class="ranking-content">
-        <h4 class="title">入手難が続く「スイッチ2」、購入者の割合が多数に！ しかし購入できない声も一定数あり、さらなる供給に期待【アンケ結果】<time class="date" datetime="2026-01-02T18:00:04+09:00">2026.1.2 Fri 18:00</time></h4>
-      </article>
-    </a></li>
-    <li class="item item--cate-game item--cate-game-column item--subcate-column rank">
+
+    <li class="item item--cate-game item--cate-game-column item--subcate-column rank rank--third">
     <a class="link" href="/article/2026/01/01/175733.html">
       <article class="ranking-content">
-        <h4 class="title">『マリカ8 DX』や『桃鉄』が3,278円！『ゼルダの伝説 BotW』『TotK』は各3,828円、2025年発売のPS5タイトルもお買い得─ゲオ店舗＆ストアの初売りセールは1月4日まで<time class="date" datetime="2026-01-01T09:45:03+09:00">2026.1.1 Thu 9:45</time></h4>
+        <img class="figure" src="/imgs/p/anWbfPBarc2lnppLZ8MJ6jkJNAc6BQQDAgEA/1673282.jpg" alt="『マリカ8 DX』や『桃鉄』が3,278円！『ゼルダの伝説 BotW』『TotK』は各3,828円、2025年発売のPS5タイトルもお買い得─ゲオ店舗＆ストアの初売りセールは1月4日まで" width="60" height="60">
+        <h4 class="figcaption">『マリカ8 DX』や『桃鉄』が3,278円！『ゼルダの伝説 BotW』『TotK』は各3,828円、2025年発売のPS5タイトルもお買い得─ゲオ店舗＆ストアの初売りセールは1月4日まで<time class="date" datetime="2026-01-01T09:45:03+09:00">2026.1.1 Thu 9:45</time></h4>
+      </article>
+    </a></li>
+    <li class="item item--cate-game item--cate-game-PS5 item--subcate-PS5 rank">
+    <a class="link" href="/article/2026/01/02/175745.html">
+      <article class="ranking-content">
+        <h4 class="title">これから格ゲーを始める人におすすめのコントローラーは？パッド・アケコン・レバーレスそれぞれの魅力をまるっと紹介【年末年始特集】<time class="date" datetime="2026-01-02T11:00:03+09:00">2026.1.2 Fri 11:00</time></h4>
       </article>
     </a></li>
     <li class="item item--cate-game item--cate-game-PS5 item--subcate-PS5 rank">
@@ -677,28 +671,34 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-inread'); });
         <h4 class="title">『原神』今後登場する新キャラ5人のシルエットが一挙公開！「ファルカ」や「ニコ・リヤン」らしき姿も<time class="date" datetime="2026-01-02T15:24:01+09:00">2026.1.2 Fri 15:24</time></h4>
       </article>
     </a></li>
-    <li class="item item--cate-game item--cate-game-switch item--subcate-switch rank">
-    <a class="link" href="/article/2025/12/30/175696.html">
-      <article class="ranking-content">
-        <h4 class="title">もう入力した？『ポケモンZA』で「おおきいリザードン（オヤブン）」をもらえる“あいことば”公開中<time class="date" datetime="2025-12-30T17:00:04+09:00">2025.12.30 Tue 17:00</time></h4>
-      </article>
-    </a></li>
     <li class="item item--cate-game item--cate-game-news item--subcate-news rank">
     <a class="link" href="/article/2026/01/01/175724.html">
       <article class="ranking-content">
         <h4 class="title">ポケモン30周年、はじまる！歴代ピカチュウが飾る“記念ロゴ”公開など、公式が「最高の1年になる予感」と節目をお祝い<time class="date" datetime="2026-01-01T01:16:25+09:00">2026.1.1 Thu 1:16</time></h4>
       </article>
     </a></li>
-    <li class="item item--cate-game item--cate-game-cardgame item--subcate-cardgame rank">
-    <a class="link" href="/article/2026/01/03/175762.html">
+    <li class="item item--cate-game item--cate-game-switch item--subcate-switch rank">
+    <a class="link" href="/article/2025/12/30/175696.html">
       <article class="ranking-content">
-        <h4 class="title">カートン買いで300万円！？2025年は「“推し”カードゲーム」にいくら使いましたか？【特別企画】<time class="date" datetime="2026-01-03T11:30:04+09:00">2026.1.3 Sat 11:30</time></h4>
+        <h4 class="title">もう入力した？『ポケモンZA』で「おおきいリザードン（オヤブン）」をもらえる“あいことば”公開中<time class="date" datetime="2025-12-30T17:00:04+09:00">2025.12.30 Tue 17:00</time></h4>
       </article>
     </a></li>
-    <li class="item item--cate-game item--cate-game-PS5 item--subcate-PS5 rank">
-    <a class="link" href="/article/2026/01/02/175746.html">
+    <li class="item item--cate-game item--cate-game-special item--subcate-special rank">
+    <a class="link" href="/article/2026/01/04/175775.html">
       <article class="ranking-content">
-        <h4 class="title">『原神』旅人たちが“新たな装い”に変身！強化効果付きの「新コスチューム」がLuna IV魔神任務で無料開放<time class="date" datetime="2026-01-02T14:21:32+09:00">2026.1.2 Fri 14:21</time></h4>
+        <h4 class="title">『勝利の女神：NIKKE』放送版とこんなに違う!? “無修正版”新ニケ、新コスの違いが刺激的─2026年も、戦場に銃声を響かせつつ背中で魅せるガンガールRPG【フォトレポ】<time class="date" datetime="2026-01-04T19:00:03+09:00">2026.1.4 Sun 19:00</time></h4>
+      </article>
+    </a></li>
+    <li class="item item--cate-game item--cate-game-special item--subcate-special rank">
+    <a class="link" href="/article/2026/01/04/175772.html">
+      <article class="ranking-content">
+        <h4 class="title">“タイパ重視”は意外と影響少なめ？「レベル上げ」は“好き”が“嫌い”を上回る─しかし、最多数は第三勢力【アンケ結果】<time class="date" datetime="2026-01-04T11:00:04+09:00">2026.1.4 Sun 11:00</time></h4>
+      </article>
+    </a></li>
+    <li class="item item--cate-game item--cate-game-news item--subcate-news rank">
+    <a class="link" href="/article/2026/01/01/175723.html">
+      <article class="ranking-content">
+        <h4 class="title">『ペルソナ6』にも期待！シリーズ30周年特設サイト公開―歴代主人公勢ぞろいの記念ビジュアルが壮観<time class="date" datetime="2026-01-01T00:38:04+09:00">2026.1.1 Thu 0:38</time></h4>
       </article>
     </a></li>
   </ol>
@@ -742,7 +742,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-right2'); });
 </script>
 </div>
 </div>
-<script type="text/x-handlebars-template" id="box-pickup-list-695946a28d75a">
+<script type="text/x-handlebars-template" id="box-pickup-list-695aa14423683">
 {{#*inline &quot;li&quot;}}
 &lt;li class=&quot;item&quot;&gt;
   &lt;a class=&quot;link&quot; href=&quot;{{link}}&quot; target=&quot;{{target}}&quot; rel=&quot;{{rel}}&quot;&gt;
@@ -787,7 +787,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-right2'); });
 </script>
 <section class="sidebox sidebox-pickup future"
         data-link-label="トピックス" data-max-link="8"
-        data-template-id="box-pickup-list-695946a28d75a" data-image-path="/p/lbFMwnfpRYNMM098lpn4JTkJZgdVBQQDAgEA"
+        data-template-id="box-pickup-list-695aa14423683" data-image-path="/p/lbFMwnfpRYNMM098lpn4JTkJZgdVBQQDAgEA"
         data-no-image="" data-with-image="yes"
         data-highlight-image-path="/p/yFIzVel2FK9SeCSMtovYejkIJAfnBQQDAgEA"
         data-with-subtext="yes"></section>
@@ -796,44 +796,44 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-right2'); });
   <ul class="news-list">
 
 <li class="item item--highlight">
-  <a class="link" href="/article/2026/01/03/175766.html"><article class="side-content">
-    <img class="figure" src="/imgs/p/yFIzVel2FK9SeCSMtovYejkIJAfnBQQDAgEA/1670659.jpg" alt="マイメロディ・クロミの可愛いグッズ盛り沢山！「サンリオキャラクターズ」新作アイテムがオンライン販売 画像" width="300" height="225">
-    <span class="figcaption">マイメロディ・クロミの可愛いグッズ盛り沢山！「サンリオキャラクターズ」新作アイテムがオンライン販売</span>
+  <a class="link" href="/article/2026/01/04/175777.html"><article class="side-content">
+    <img class="figure" src="/imgs/p/yFIzVel2FK9SeCSMtovYejkIJAfnBQQDAgEA/1671844.jpg" alt="ガンダムやシャア専用ザクたちが可愛いこけしに！プレバン限定3体セットには専用の台座が付属 画像" width="300" height="225">
+    <span class="figcaption">ガンダムやシャア専用ザクたちが可愛いこけしに！プレバン限定3体セットには専用の台座が付属</span>
   </article></a>
 </li>
 
 <li class="item">
-  <a class="link" href="/article/2026/01/03/175765.html"><article class="side-content">
-    <img class="figure" src="/imgs/p/lbFMwnfpRYNMM098lpn4JTkJZgdVBQQDAgEA/1671615.jpg" alt="アベイル「ポムポムプリン」新作グッズがオンラインでも買える！ルームウェアやソックス、お尻の「しるし」がチャーミングなクッションなど豊富なデザイン 画像" width="110" height="83">
-    <span class="figcaption">アベイル「ポムポムプリン」新作グッズがオンラインでも買える！ルームウェアやソックス、お尻の「しるし」がチャーミングなクッションなど豊富なデザイン</span>
+  <a class="link" href="/article/2026/01/04/175776.html"><article class="side-content">
+    <img class="figure" src="/imgs/p/lbFMwnfpRYNMM098lpn4JTkJZgdVBQQDAgEA/1673527.jpg" alt="【コスプレ】台湾美女の漢服姿がまるでゲームやドラマの世界！玲瓏な美貌で見つめる視線はどこか甘くてドキドキ【写真9枚】 画像" width="110" height="83">
+    <span class="figcaption">【コスプレ】台湾美女の漢服姿がまるでゲームやドラマの世界！玲瓏な美貌で見つめる視線はどこか甘くてドキドキ【写真9枚】</span>
   </article></a>
 </li>
 
 <li class="item">
-  <a class="link" href="/article/2026/01/03/175764.html"><article class="side-content">
-    <img class="figure" src="/imgs/p/lbFMwnfpRYNMM098lpn4JTkJZgdVBQQDAgEA/1672895.png" alt="お外の風は冷たいけれど、ゲームでなら風を感じ放題だぜ！カービィにマリカーなど疾走感ハンパないおすすめレースゲーム5選【年末年始特集】 画像" width="110" height="83">
-    <span class="figcaption">お外の風は冷たいけれど、ゲームでなら風を感じ放題だぜ！カービィにマリカーなど疾走感ハンパないおすすめレースゲーム5選【年末年始特集】</span>
+  <a class="link" href="/article/2026/01/04/175775.html"><article class="side-content">
+    <img class="figure" src="/imgs/p/lbFMwnfpRYNMM098lpn4JTkJZgdVBQQDAgEA/1673167.jpg" alt="『勝利の女神：NIKKE』放送版とこんなに違う!? “無修正版”新ニケ、新コスの違いが刺激的─2026年も、戦場に銃声を響かせつつ背中で魅せるガンガールRPG【フォトレポ】 画像" width="110" height="83">
+    <span class="figcaption">『勝利の女神：NIKKE』放送版とこんなに違う!? “無修正版”新ニケ、新コスの違いが刺激的─2026年も、戦場に銃声を響かせつつ背中で魅せるガンガールRPG【フォトレポ】</span>
   </article></a>
 </li>
 
 <li class="item">
-  <a class="link" href="/article/2026/01/03/175763.html"><article class="side-content">
-    <img class="figure" src="/imgs/p/lbFMwnfpRYNMM098lpn4JTkJZgdVBQQDAgEA/1673510.jpg" alt="『サイパン2077』2,178円に、『メタファー：リファンタジオ』『ロマサガ2R』2,728円、『スパロボY』『P3R』3,278円など、ゲオ店舗セールを実地調査 画像" width="110" height="83">
-    <span class="figcaption">『サイパン2077』2,178円に、『メタファー：リファンタジオ』『ロマサガ2R』2,728円、『スパロボY』『P3R』3,278円など、ゲオ店舗セールを実地調査</span>
+  <a class="link" href="/article/2026/01/04/175774.html"><article class="side-content">
+    <img class="figure" src="/imgs/p/lbFMwnfpRYNMM098lpn4JTkJZgdVBQQDAgEA/1673518.jpg" alt="今週発売の新作ゲーム『FAIRY TAIL ダンジョンズ』『ハートピアスローライフ』『ヒーローシーカーズ』他 画像" width="110" height="83">
+    <span class="figcaption">今週発売の新作ゲーム『FAIRY TAIL ダンジョンズ』『ハートピアスローライフ』『ヒーローシーカーズ』他</span>
   </article></a>
 </li>
 
 <li class="item">
-  <a class="link" href="/article/2026/01/03/175762.html"><article class="side-content">
-    <img class="figure" src="/imgs/p/lbFMwnfpRYNMM098lpn4JTkJZgdVBQQDAgEA/1673310.png" alt="カートン買いで300万円！？2025年は「“推し”カードゲーム」にいくら使いましたか？【特別企画】 画像" width="110" height="83">
-    <span class="figcaption">カートン買いで300万円！？2025年は「“推し”カードゲーム」にいくら使いましたか？【特別企画】</span>
+  <a class="link" href="/article/2026/01/04/175773.html"><article class="side-content">
+    <img class="figure" src="/imgs/p/lbFMwnfpRYNMM098lpn4JTkJZgdVBQQDAgEA/1672505.jpg" alt="アドベンチャーゲームを作って声優番組に送ったら、極上の「後方腕組みクリエイター体験」ができた件【年末年始特集】 画像" width="110" height="83">
+    <span class="figcaption">アドベンチャーゲームを作って声優番組に送ったら、極上の「後方腕組みクリエイター体験」ができた件【年末年始特集】</span>
   </article></a>
 </li>
   </ul>
   <a class="more" href="/article/"><span class="circle-arrow">最新ニュースをもっと見る</span></a>
 </section>
 
-<script type="text/x-handlebars-template" id="box-pickup-list-695946a2ac6d8">
+<script type="text/x-handlebars-template" id="box-pickup-list-695aa1447c853">
 {{#*inline &quot;li&quot;}}
 &lt;li class=&quot;item&quot;&gt;
   &lt;a class=&quot;link&quot; href=&quot;{{link}}&quot; target=&quot;{{target}}&quot; rel=&quot;{{rel}}&quot;&gt;
@@ -861,7 +861,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-right2'); });
 </script>
 <section class="sidebox sidebox-pickup osusume"
         data-link-label="おすすめ記事" data-max-link="15"
-        data-template-id="box-pickup-list-695946a2ac6d8" data-image-path="/p/-o8hUiIkCj_ci7ffBUQ5xjkJUgdcBQQDAgEA"
+        data-template-id="box-pickup-list-695aa1447c853" data-image-path="/p/-o8hUiIkCj_ci7ffBUQ5xjkJUgdcBQQDAgEA"
         data-no-image="" data-with-image="yes"
         data-highlight-image-path=""
         data-with-subtext="yes"></section>
@@ -959,9 +959,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     var danglingArticles = [];var _link,_id,_evtStarted,_timer;
 
 
-      _link = 'https://www.inside-games.jp/article/2025/12/26/175574.html';
+      _link = 'https://www.inside-games.jp/article/2025/12/26/175576.html';
       _id  = _link.match(/\/([0-9]+)\.html/);
-      danglingArticles.push({id:_id[1],html:'',link:_link,img:'/imgs/std_lm2/1672017.jpg',title:'『キングショット』で都市作って楽しんでたらいつの間にかPvPやってた。“カジュアル”と“ガチ”をつなぐ、ハマる…',width:'200',height:'125'});
+      danglingArticles.push({id:_id[1],html:'',link:_link,img:'/imgs/std_lm2/1672022.jpg',title:'『ARC Raiders』もヌルヌル動く！ イカした最新ゲーミングノート「GALLERIA RL7C-R56-5N」',width:'200',height:'125'});
 
 
     items.forEach(function(item) {

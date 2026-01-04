@@ -1,18 +1,17 @@
 HTTP/2 200 
 content-type: text/html; charset=utf-8
-date: Sat, 03 Jan 2026 16:28:49 GMT
+date: Sun, 04 Jan 2026 17:16:12 GMT
 x-frame-options: sameorigin
-x-request-id: f5f15839-0502-4dd1-9520-4357561ee0d1
+x-request-id: f3dac931-a382-4300-9d02-e14a9874d657
 server: nginx
 cache-control: no-store
-set-cookie: dis_session_r=662511101a67aac6d34df198e1c48935c0657d31; path=/; expires=Sat, 03-Jan-2026 17:28:49 GMT; secure; HttpOnly
+set-cookie: dis_session_r=ff27db57084b9a3409adcf0df07d0c30d025eb1c; path=/; expires=Sun, 04-Jan-2026 18:16:12 GMT; secure; HttpOnly
 x-content-type-options: nosniff
 vary: Accept-Encoding,Accept-Encoding
-x-cache: Hit from cloudfront
-via: 1.1 e62fdd28aecc715b248568cb8338e8a2.cloudfront.net (CloudFront)
+x-cache: Miss from cloudfront
+via: 1.1 aa6aac7d06fbfacc7e809b87e595c5b6.cloudfront.net (CloudFront)
 x-amz-cf-pop: CDG50-P4
-x-amz-cf-id: BZZ38ZQDCHy0_JQG4FV_xlCVrLGK9UcLc8a4jv72yig_Vl40_AbRxA==
-age: 599
+x-amz-cf-id: 3PVE3UaiA4z_hCDgjSnJbfcIizVKgoZAqk9yfiAo0rQcqeqOKb3saQ==
 
 
 
@@ -683,7 +682,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </span>
     </h4>
     <p class="widget-workCatchphrase-meta">
-      <span class="widget-work-reviewPoints"><a href="/works/822139837376904800/reviews">★395</a></span>
+      <span class="widget-work-reviewPoints"><a href="/works/822139837376904800/reviews">★398</a></span>
         <span class="widget-workCatchphrase-genre"><a href="/genres/criticism/recent_works" itemprop="genre">創作論・評論</a></span>
       <span class="widget-workCatchphrase-status">
         <span class="widget-workCatchphrase-statusLabel">連載中</span>
@@ -727,68 +726,73 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <h3>ネクスト掲載小説</h3>
   <div id="episodeFooter-recommendedKakuyomuNextWorksList">
 <div class="widget-workCatchphraseForNext " itemscope itemtype="https://schema.org/CreativeWork">
-  <a href="/works/16818023214294566761" class="widget-workCatchphraseForNext-thumbnail">
+  <a href="/works/16818023214311170288" class="widget-workCatchphraseForNext-thumbnail">
     <figure>
-      <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/k/kadokawa-toko/20250418/20250418091046.jpg" alt="図書迷宮と心の魔導書">
+      <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/k/kadokawa-toko/20250630/20250630152252.png" alt="装翼のドラグーン　～高校生からはじめる！　移動都市でSF傭兵生活～">
     </figure>
   </a>
 
   <div class="widget-workCatchphraseForNext-text">
   <div class="widget-catchphrase" itemscope itemtype="https://schema.org/Review">
-    <h4 class="widget-catchphrase-title js-vertical-composition-item"><a href="/works/16818023214294566761" itemprop="reviewBody" style="color: #70156D;">その世界では、誰もが神々からただ一つの魔導書を授かる</a></h4>
+    <h4 class="widget-catchphrase-title js-vertical-composition-item"><a href="/works/16818023214311170288" itemprop="reviewBody" style="color: #80A673;">地に多脚都市、空に宇宙生物。荒廃した未来を高校生傭兵が駆け抜ける。</a></h4>
   </div>
 
     <div class="widget-workCatchphraseForNext-work">
       <h4 class="widget-workCatchphraseForNext-title">
-        <a href="/works/16818023214294566761" class="widget-workCatchphraseForNext-titleLabel js-vertical-composition-item" itemprop="name">図書迷宮と心の魔導書</a>
+        <a href="/works/16818023214311170288" class="widget-workCatchphraseForNext-titleLabel js-vertical-composition-item" itemprop="name">装翼のドラグーン　～高校生からはじめる！　移動都市でSF傭兵生活～</a>
       </h4>
-      <p class="widget-workCatchphraseForNext-author"><a href="/users/ItsukiMizuho" class="widget-workCatchphraseForNext-authorLabel" itemprop="author">いつきみずほ</a>
+      <p class="widget-workCatchphraseForNext-author"><a href="/users/Hisago_Amazake_no" class="widget-workCatchphraseForNext-authorLabel" itemprop="author">天酒之瓢</a>
       </p>
       <p class="widget-workCatchphraseForNext-meta">
-        <span class="widget-workCatchphraseForNext-genre"><a href="/genres/fantasy/recent_works" itemprop="genre">異世界ファンタジー</a></span>
+        <span class="widget-workCatchphraseForNext-genre"><a href="/genres/sf/recent_works" itemprop="genre">SF</a></span>
         <span class="widget-workCatchphraseForNext-status">
           <span class="widget-workCatchphraseForNext-statusLabel">連載中</span>
-          <span class="widget-workCatchphraseForNext-episodeCount js-vertical-composition-item">152<span>話</span></span>
+          <span class="widget-workCatchphraseForNext-episodeCount js-vertical-composition-item">21<span>話</span></span>
         </span>
-        <time class="widget-workCatchphraseForNext-dateUpdated" itemprop="dateModified" datetime="2025-06-26T01:00:31Z"><span>2025年6月26日更新</span></time>
+        <time class="widget-workCatchphraseForNext-dateUpdated" itemprop="dateModified" datetime="2025-07-09T01:00:09Z"><span>2025年7月9日更新</span></time>
       </p>
       <p class="widget-kakuyomuNext-info">
         <span class="kakuyomuNext-badge widget-kakuyomuNext-badge"><svg fill="none" height="35" viewBox="0 0 100 35" width="100"
   xmlns="http://www.w3.org/2000/svg">
   <path d="m91.6658 8.42219 1.3785-8.060124-4.4361.247467-3.6954 21.685767 4.5059-.7324 1.4931-8.7278 8.3923-.8321.6959-4.40792zm-14.084-2.02624.8886-5.21841-16.0406 1.01147-.9633 4.38797 11.4466-.72081-16.9158 21.14433 6.2465-1.0148 7.1716-9.1596 5.5439 7.0919 4.863-.7906-7.6649-9.804 5.4227-6.92413zm-36.8278-5.969111-2.3567 2.984551-2.5843 3.27521-1.1144 1.41172-2.5644 3.25028 3.3898 2.6757 2.5644-3.2503 2.6988-3.41808 9.3374-.58794-.005.02657-18.9537 24.24015 6.2731-1.0198 16.6882-21.33528 1.3652-6.2199-11.3403.63279-3.3964-2.664009zm-14.9227 3.687091-7.1168.39695.9816-4.51088-4.4578.179373-.9981 4.580637-7.96051.44344-.95998 4.38798 15.10049-.95167-.0349.16111-18.90382 15.38113-1.48148 6.773 10.3421-8.4156-2.68224 12.3153 4.58234-.7441 2.8898-13.2719 8.1748 6.6517 1.033-4.7267-7.1367-5.8064 7.0786-5.7598z" fill="#000"/>
 </svg></span>
-          <span class="kakuyomuNext-annotationMessage widget-kakuyomuNext-annotationMessage">26話分無料</span>
+          <span class="kakuyomuNext-annotationMessage widget-kakuyomuNext-annotationMessage">18話分無料</span>
       </p>
     </div>
   </div>
 </div>
-<div class="widget-workCatchphraseForNext textOnly" itemscope itemtype="https://schema.org/CreativeWork">
+<div class="widget-workCatchphraseForNext " itemscope itemtype="https://schema.org/CreativeWork">
+  <a href="/works/16818093092665757343" class="widget-workCatchphraseForNext-thumbnail">
+    <figure>
+      <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/k/kadokawa-toko/20250206/20250206150832.jpg" alt="努力無双の転生エクソシスト">
+    </figure>
+  </a>
 
   <div class="widget-workCatchphraseForNext-text">
   <div class="widget-catchphrase" itemscope itemtype="https://schema.org/Review">
-    <h4 class="widget-catchphrase-title js-vertical-composition-item"><a href="/works/16818093089759598641" itemprop="reviewBody" style="color: #000000;">勘違い洋ゲーの世界ですが、それでもサムライは最強です。</a></h4>
+    <h4 class="widget-catchphrase-title js-vertical-composition-item"><a href="/works/16818093092665757343" itemprop="reviewBody" style="color: #EE2323;">血統なし才能なし、ただし最強の悪魔祓い</a></h4>
   </div>
 
     <div class="widget-workCatchphraseForNext-work">
       <h4 class="widget-workCatchphraseForNext-title">
-        <a href="/works/16818093089759598641" class="widget-workCatchphraseForNext-titleLabel js-vertical-composition-item" itemprop="name">最強剣技の侍の俺が主君となったからには、異種族少女たちの隠された才能を開花させまくります</a>
+        <a href="/works/16818093092665757343" class="widget-workCatchphraseForNext-titleLabel js-vertical-composition-item" itemprop="name">努力無双の転生エクソシスト</a>
       </h4>
-      <p class="widget-workCatchphraseForNext-author"><a href="/users/s_sengetsu" class="widget-workCatchphraseForNext-authorLabel" itemprop="author">千月さかき</a>
+      <p class="widget-workCatchphraseForNext-author"><a href="/users/ytki0920" class="widget-workCatchphraseForNext-authorLabel" itemprop="author">ファンタスティック小説家</a>
       </p>
       <p class="widget-workCatchphraseForNext-meta">
-        <span class="widget-workCatchphraseForNext-genre"><a href="/genres/fantasy/recent_works" itemprop="genre">異世界ファンタジー</a></span>
+        <span class="widget-workCatchphraseForNext-genre"><a href="/genres/action/recent_works" itemprop="genre">現代ファンタジー</a></span>
         <span class="widget-workCatchphraseForNext-status">
-          <span class="widget-workCatchphraseForNext-statusLabel">完結済</span>
-          <span class="widget-workCatchphraseForNext-episodeCount js-vertical-composition-item">12<span>話</span></span>
+          <span class="widget-workCatchphraseForNext-statusLabel">連載中</span>
+          <span class="widget-workCatchphraseForNext-episodeCount js-vertical-composition-item">577<span>話</span></span>
         </span>
-        <time class="widget-workCatchphraseForNext-dateUpdated" itemprop="dateModified" datetime="2025-01-12T09:00:01Z"><span>2025年1月12日更新</span></time>
+        <time class="widget-workCatchphraseForNext-dateUpdated" itemprop="dateModified" datetime="2026-01-03T15:07:01Z"><span>2026年1月4日更新</span></time>
       </p>
       <p class="widget-kakuyomuNext-info">
         <span class="kakuyomuNext-badge widget-kakuyomuNext-badge"><svg fill="none" height="35" viewBox="0 0 100 35" width="100"
   xmlns="http://www.w3.org/2000/svg">
   <path d="m91.6658 8.42219 1.3785-8.060124-4.4361.247467-3.6954 21.685767 4.5059-.7324 1.4931-8.7278 8.3923-.8321.6959-4.40792zm-14.084-2.02624.8886-5.21841-16.0406 1.01147-.9633 4.38797 11.4466-.72081-16.9158 21.14433 6.2465-1.0148 7.1716-9.1596 5.5439 7.0919 4.863-.7906-7.6649-9.804 5.4227-6.92413zm-36.8278-5.969111-2.3567 2.984551-2.5843 3.27521-1.1144 1.41172-2.5644 3.25028 3.3898 2.6757 2.5644-3.2503 2.6988-3.41808 9.3374-.58794-.005.02657-18.9537 24.24015 6.2731-1.0198 16.6882-21.33528 1.3652-6.2199-11.3403.63279-3.3964-2.664009zm-14.9227 3.687091-7.1168.39695.9816-4.51088-4.4578.179373-.9981 4.580637-7.96051.44344-.95998 4.38798 15.10049-.95167-.0349.16111-18.90382 15.38113-1.48148 6.773 10.3421-8.4156-2.68224 12.3153 4.58234-.7441 2.8898-13.2719 8.1748 6.6517 1.033-4.7267-7.1367-5.8064 7.0786-5.7598z" fill="#000"/>
 </svg></span>
-          <span class="kakuyomuNext-annotationMessage widget-kakuyomuNext-annotationMessage">2話分無料</span>
+          <span class="kakuyomuNext-annotationMessage widget-kakuyomuNext-annotationMessage">20話分無料</span>
       </p>
     </div>
   </div>

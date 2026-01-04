@@ -1,9 +1,9 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:46:26 GMT content-type: text/html;
+HTTP/2 200 date: Sun, 04 Jan 2026 17:27:42 GMT content-type: text/html;
 charset=utf-8 cache-control: no-cache, no-store, must-revalidate pragma:
 no-cache x-frame-options: deny strict-transport-security: max-age=17280000;
 x-xss-protection: 1; mode=block x-content-type-options: nosniff referrer-policy:
 strict-origin-when-cross-origin
-REFRESH(3600 sec): file://localhost/tmp/lynxXXXX3ekzGE/L526878-9643TMP.html
+REFRESH(3600 sec): file://localhost/tmp/lynxXXXXdWkZm1/L1425633-1980TMP.html
 #Aktualności Konfeferncji Episkopatu Polski
 
 IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TLBNFHRN

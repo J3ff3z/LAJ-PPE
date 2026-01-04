@@ -1,55 +1,262 @@
-HTTP/1.1 200 OK Content-Type: text/html Content-Length: 17406 Connection:
-keep-alive Date: Sat, 03 Jan 2026 16:44:10 GMT Cache-Control: max-age=86400
-Content-Encoding: gzip Last-Modified: Tue, 15 Sep 2015 01:47:54 GMT ETag:
-"0a43f0c1a984e184dd12b7572f48b93e" Server: AmazonS3 X-Cache: Miss from
-cloudfront Via: 1.1 280bb21cc570c951a4ab6ce0d284fba4.cloudfront.net (CloudFront)
-X-Amz-Cf-Pop: CDG52-P1 X-Amz-Cf-Id:
-MjlnFTtdRvXM9gBq5TnlLLdpmAy3FHaH-BwAZO2RL5Vez0Sj8LcFCA==
-�L7z$�jt�2⼞-?�?v2B�o�H�ve�5Ȯ*%++z/�s��T��Tp�UEoQ/��rȻq1/ƧǛC�y=+拧�`���[H
+HTTP/2 200 date: Sun, 04 Jan 2026 17:25:24 GMT server: Apache cache-control:
+no-cache, private link: /www.grandslacsnews.com/api/docs.jsonld>;
+rel="http://www.w3.org/ns/hydra/core#apiDocumentation"
+strict-transport-security: max-age=16000000 vary: Accept-Encoding content-type:
+text/html; charset=UTF-8
 
-^N�L�ˣ>:?�G�o�PUqg�WOQ1\~w:�Y~;��/7��C.�p�_�w7esq=��/'4�#��N��O�EqWz}H��Py�/?z
-��w7~c8'�è_��zz~L|�O�Û�N;q�|�Wm铢xyw>
-E��ûO��/�G�Ň��wQԸ'xlnh��XN���ޜ�r�z�{���|/?L�}f4q�xA�>C~ݿ�>?ﻌ�=x+x��&ʝ�u5Zݢ�o��5?
-��|8�rVx7�̖q胯fvUj6P�_7ױ�EsYz���(��t$G��swob��"�.��7��z~2??˯�G��;n'c�G\�nRcj5��=}
-v��t�x,O=SU�ZT�l�LV�����k?/�Ue�b�W]?.^�]�֑�lfӵ�AroVVU�.�ie�?ь�2jχBЊ�?^�l��Z���ޚ
-�h4ڠzj�W�lc
-'rNË�Yg�)���J�󭅭��dO1I£No��d+�nrE"?c-a{�Nmoφj:��z�]P����Zt6eMbZ�N���pv4;�m,oʊE�nZ
-�<k�uO�}6�|q";C`�HNU#&4�xtM٧�vf���DU�n:inK;8Z�a;h]uR\?,�NS�
-W[E����!��k`�n�ѡ;�}��l!�Zn��b\/p_��ͬ�ZY z��6c�9%?`�lp��{�
-�u~4�*^�FK�J]ڵ[6@�Eq~qp፣����-���gd�Ӊ�,�ο4γG坏gw��}�[
-r{nhqn�=�}.�nN��{Fg�'Wٟg\}gl&�E�"��7HN=�2|�ayE�i�'�u_E}B�w��LO�?gO�7>�|s��>z}�
-���wĽr<;whQ��/�>^dY1���>�.Z�4Lp_ Zpp ѝ��'8�򌘲b�!�Iڏ�6IKs��)Z���
-Z��M,M,M,MB^/Gt�(~S~�$�_w�XM�?�_��/ǟ��|8��oOx{h/&?�_ާB�VR�euރ~�}+Jf8읨�ƏΆgԿ�~=�
-�?{\�g_�,�w��**������"Yg�~?z/F߂{8U9��;�+�����������V,>[��z��jHwO�5[Lγ+��Oy�Zhϋ\
-��8^$a� pq��\�8(�l�[{gN$ZtcO�h;x
-1�}oIhPˆ�GoH��XޛY>1���*znێ˫6Yֱ��\n]d6�ԙBZ7cZ��"Z�;�x*ȵ5b�{�Z�`�G�^'��k�HM=vDvWho
-v#ݫԳǨ^Z&�H06��K�mel#Ɏ:aF@+]st"`,vMM�=on)y�Ӫ�HDW�Ĥ4I�E�R�hN�J�X[D���l�͹�Z�";,-|ma
-6gޢl-N⍯vj��5{��[�h�g7�E�A 5�`VP�Hl:Djࣁٜ�E9+�NY���6ae#����zR]�M]KզZ>i�d�
-ӖZ˝;�-�k
-Km��ܹ�_ki�W�?�Ӌ6��;t��7Y)ǐ�;��W�BA�-�PBImK9eK4J9�^)'lH9�^)s+xI�R��W1^J9Fߦ�cr�}R
-�I��j��k�r�ɖ��m�_[RVr�~)g[lI9[�_ʵx'l�m)'5;�\[�Wʵ-J9bSR6+l�M)gJ9`���
-6��-+Ztr�~KQū�\�ɫ�\�髤ܪ)�j*)�j*)�j�Gʭ�JʭZ�JʭZr���r\ʭ���x+�^unC
-씚\A~-�PBq%-�-d�-1'+d�{Ŝ�!x{u��%m�9^^1x+}�b���WR9�'ڪb�m�_&[bVs�~1g[l�9[�_Ŝm�%l~1e
-��� �Ŝsm^1׶+l�M1g9`���
-6Ŝ-+l��b6s�|��kѱG-1G�s�&�s���s��{ܪ�ܪܪ1�j*1�j*1�j�G̭�Jur1�j�%6t>By�ϝ|67e='b\^9�΁
-��z�(c|q-�`�>\�;W�jڴ_/8>c%�Y�X��#wnn�ݵ��)=��ՕS�NQ][��W�|��ȓ�29st@��d%G&�a[Q�Y�
-�p�1iB�chۜ/Ǐ}~x71!P;�+�,tR~(��X�ƃZ@�3�-7
-0�@�:*oZPdK�E6@Ď�X×��ֆxL}P[��ꁎ^ICub'i+VsD�Y�N�Ƀcx`!#91y�z�rHpxE�:T(b/�d
-;yo6o[ȷlrmsa��֋n$�r��`�����Z��4FSVaCJ�>|8k�oBD�1WI֣婟)Eb&�nv*���-D
-��H���jv��t|~)3_PǄ�)�\80<'�\�X �fB�˕��>��Y�C IK�;Ρx�cQxmVL�sj'�
-I�x���M%xC����1�~ -:ހA�&O?Bյ\� e�#Pd�d*����Y �шdLɒhLMCτXwb��� ӄOU�Zd}꩓3Ijn�p
-�ܴ-������H &�d�ĳXk[,>�"S$P,/M�%Il�2U(knvN�mn� J@n}ZC?�}2��ot��Q<[n^?@leኀ8R�Z
-lpC2E�%�.T!5��)أ�k%Bk�Z(ג�"-�Ia ��W$q4J
-k�2�֚(a��k4Y7d$m4H�q�6���|e��C�$�[�fW[��;p1M�>Q�hxXx��aM��颁O&^v�[?+HM�P�
-HhJ��"�*�s�Pf�бPB�B!�̓ /� �]�ߎ؄ނH��ojh�O\/�Ъ,Cf��UKHᄇA�2�{C�opڣ&�������
-/L�U�zb)E}|nM�Qp�-�*��Y�l~q,��#�7�o�f�#�V�Ex53��t!�>ɒ��zK=rB(|XMvA��M�F��T�ZΆ/E-
-�@!a�� \�D#۫%){[oT5 0ez���o
-2n�&��26b�7mҪN2�i܅p3aL�@L}�V��ݯ^э���D�P)�ꄋ.�U|B`Q;�
-ూ���!)}�0�d��!+9!H?%���&��!T~-�4bH��k
-M{e5\���\�_)��#ʽ�}a�FrKҫ�I��5��%8�{AD�C�1X)�t��6� �M�ZDҵCwv,GR0��bu�Ň(
-�i�T`�-Ç"D*�+rgu3�Gξ}�`Y@�.a#Ҥ/)��fA�x*�{�"�*6�� eh`z�N�)>lTd7gm�A@{R^�?3/
-s�CN]j ]D�&VJQ����ШymJ�I_jc� �ũ/3@"�ԯt-ِ�~� ��
-Dφg-dd\HT~�i}�Y�"J0vDZ�Qf!虧9��Z5�9�TS�{8ש/ՙ/�}X)�GN�XOm�,�/�ֳ�z5pEo?'EN�/~esZ
-�&읓�7���W}mָ�����L|�6nmU�nY!�9�`>����a�ZCg�t�.��G�G��\Z6C<'�E)�q5��sf�.X�^VɔG=.
-ѲZ�B!|o;㊩gXĎ6.�`�͋UO���I~:a�A3�:�ɖ|j�ȅ��,��+�"K9[t��ͷ%�DyUOINLOԟ/+�x9Z�gqsĂ���PT
-DO�lAr3�LdY� rY���$rJLSmE"�B��q!��&����w:7I�_bX���:Zp�78k�86Z9F7fJ\]
+Goma, RDCongo 4 janvier 2026 Contact Inscription/Connexion
+Suivez-nous :
+Grands Lacs News
+1xBet Promo
+Grands Lacs News
+Previous Next
+Grands Lacs News
+  * News
+  * Politique
+  * Société
+  + Éducation
+  + Sécurité
+  + Santé & Environnement
+  + Art & Culture
+  + Sciences & Technologies
+  + Fait divers
+  + Économie
+  + Justice
+  * Sport
+  * Gospel
+  * Vidéos
+  + Analyses & Reportages
+  + Émissions & Interviews
+  * Internationales
+  * Connexion/Inscription
+
+____________________
+(BUTTON)
+Accueil Analyses & Reportages personnalités
+  * Analyses & Reportages
+  * personnalités
+
+[Tribune] La géopolitique ou le péché originel de la pratique politique en RDC
+(Thomas Luhaka)
+
+Par Joseph Seven -
+15 mars 2025 11:15
+3
+Facebook
+Twitter
+Whatsapp
+
+Par Thomas Luhaka
+
+Ce que je pense : La représentativité parlementaire
+
+Nous restons convaincus que l'inefficacité chronique dont souffre, à de degrés
+divers, les gouvernements successifs de notre pays depuis les années 1960
+jusqu'à ce jour, est due au fait que nous confondons les rôles du parlement et
+du gouvernement.
+
+En effet, dans une démocratie représentative comme la nôtre, on cherche à
+obtenir, à travers le système électoral, le plus de représentativité possible
+des forces socioculturelles de la nation congolaise.
+
+Chaque province, chaque territoire doit avoir des élus à l'assemblée nationale.
+
+Donc, le premier objectif politique ici recherché est la représentativité.
+
+L'efficacité gouvernementale
+
+En revanche, le gouvernement est une équipe réduite composée des personnes ayant
+des expertises respectives avérées dans les différents secteurs de la vie
+nationale.
+
+Ces femmes et ces hommes d'expérience sont sélectionnés par le président de la
+République et le premier ministre en ayant à l'esprit en priorité le soucis de
+l'efficacité de l'équipe pour faire face aux différents problèmes et défis du
+pays. Ça c'est la théorie.
+
+Les pratiques nocives
+
+En réalité, dans notre culture politique, la composition des gouvernements est
+soumise à deux critères de représentativité :
+
+1. La représentativité géographique ou géopolitique. C'est à dire que le
+gouvernement est considéré comme un mini-parlement dans lequel chaque province,
+si pas chaque grande tribu, doit avoir un délégué.
+
+Alors que les provinces ou les tribus n'ont pas besoin des représentants au sein
+du gouvernement mais ils attendent plutôt du gouvernement des solutions à leurs
+multiples problèmes d'insécurité, de manque d'infrastructures routières,
+sanitaires, scolaires, de manque d'emploi, etc.
+
+2. La représentativité partisane : à la représentativité géographique vient
+s'ajouter la représentativité partisane.
+
+C'est à dire que chaque parti politique, membre de la coalition qui soutient le
+président de la République a droit à un quota de portefeuilles ministérielles.
+
+Et ces partis politiques proposent, à la libre discrétion du chef du parti ou du
+regroupement, le ou les candidats ministres.
+
+Ce qui est le plus déplorable et préjudiciable à l'avancée du pays est que dans
+ce processus de sélection des ministres le critère de compétence des candidats
+par rapport au poste proposé n'est aucunement mis en avant.
+
+Le gâchis congolais
+
+Les résultats de cette culture de la géopolitique et de répartition des quotas
+partisans sont évidents : l'inefficacité de nos gouvernements successifs à
+répondre aux attentes de la population en termes de sécurité, de santé,
+d'infrastructures, d'éducation, d'emploi, d'environnement, de défense
+nationale… Parce que le plus souvent, le profil du ministre ne correspond pas au
+poste occupé.
+
+C'est ainsi que la RDC, qui a vocation à devenir la première puissance
+économique, militaire, culturelle, diplomatique de l'Afrique centrale, si pas de
+l'Afrique noire grâce à ses multiples atouts ; est devenue la risée de ses
+voisins ! Quel beau gâchis !
+
+Réveillons-nous, il n'est pas encore trop tard !
+
+Par Thomas Luhaka Losendjola
+  * TAGS
+  * personnalités
+  * gouvernement
+  * tribune
+  ___________________________________________________________________________
+  ___________________________________________________________________________
+
+articles associés Plus de l'auteur
+
+Chargement...
+Internationales
+
+Monde : Après des frappes aériennes au Venezuela, Donald Trump affirme avoir
+capturé Nicolas Maduro
+
+Politique
+
+Guerre en RDC : Le M23 réfute les accusations de Kinshasa sur les affrontements
+à Kamanyola et Uvira
+
+Politique
+
+Crise en RDC: Nangaa critique Tshisekedi et réitère la position de l’AFC/M23
+pour une voie pacifique
+
+  * «
+  * 1
+  * 2
+  * 3
+  * 4
+  * 5
+  * …
+  * 741
+  *  »
+
+- Publicité -
+1xBet Promo
+Grands Lacs News
+Previous Next
+
+à ne pas manquer
+
+Politique
+
+Guerre en RDC : Traitant Tshisekedi de clochard en chef des FARDC, Makenga veut
+libérer les capturés
+
+Joseph Seven -
+1
+Lors d’une visite effectuée le weekend dernier au centre de formation de
+Rumangabo en territoire de Rutshuru en province du Nord-Kivu ; le Général
+Sultani Makenga, chef de la...
+
+CAN 2025 : Sénégal-Mali, première affiche des quarts de finale ; la Tunisie et
+le Soudan éliminés
+
+Monde : Après des frappes aériennes au Venezuela, Donald Trump affirme avoir
+capturé Nicolas Maduro
+
+Crise en RDC: Evariste Ndaishimiye recadre le chef de sa diplomatie qui a
+critiqué l’action du Qatar
+
+Guerre en RDC : Les FARDC présentent 7 militaires rwandais capturés au front,
+Kigali dément
+
+- Publicité -
+1xBet Promo
+Grands Lacs News
+Previous Next
+
+à ne pas manquer
+
+Guerre en RDC : Traitant Tshisekedi de clochard en chef des FARDC, Makenga veut
+libérer les capturés
+
+Guerre en RDC : Traitant Tshisekedi de clochard en chef des FARDC, Makenga veut
+libérer les capturés
+
+CAN 2025 : Sénégal-Mali, première affiche des quarts de finale ; la Tunisie et
+le Soudan éliminés
+
+CAN 2025 : Sénégal-Mali, première affiche des quarts de finale ; la Tunisie et
+le Soudan éliminés
+
+Monde : Après des frappes aériennes au Venezuela, Donald Trump affirme avoir
+capturé Nicolas Maduro
+
+Monde : Après des frappes aériennes au Venezuela, Donald Trump affirme avoir
+capturé Nicolas Maduro
+
+articles populaires
+
+RDC : Après des propos polémiques contre les femmes tutsi, le Général Sylvain
+Ekenge suspendu
+
+RDC : Après des propos polémiques contre les femmes tutsi, le Général Sylvain
+Ekenge suspendu
+
+CAN 2025 : La RDC étrille le Botswana et défiera l'Algérie en 8e
+
+CAN 2025 : La RDC étrille le Botswana et défiera l'Algérie en 8e
+
+Crise en RDC : Fayulu critique Tshisekedi et le Rwanda et réitère son appel à un
+dialogue inclusif
+
+Crise en RDC : Fayulu critique Tshisekedi et le Rwanda et réitère son appel à un
+dialogue inclusif
+
+catégories populaires
+
+  * Société 2043
+  * Sécurité 1962
+  * Sport 1669
+  * Politique 1625
+  * Internationales 807
+  * Santé & Environnement 608
+  * Émissions & Interviews 486
+  * Économie 405
+
+Explorer nos articles
+  ___________________________________________________________________________
+
+Grands Lacs News
+
+à propos de nous
+
+Grands Lacs News est un média d'information de la sous-région des Grands Lacs
+oeuvrant dans l'information et l'éducation des populations.
+Vous cherchez un espace publicitaire, vous êtes désireux de travailler avec
+cette plateforme d'information, faire une quelconque collaboration ou contribuer
+avec du contenu, contactez-nous ici.
+
+Nos adresses
+
+  * 32, Av. Fikiri, Q. MURARA, Karisimbi, Goma, RDCongo
+  * +243 (0) 851 900 685, +243 (0) 975 843 988
+  * contact1@grandslacsnews.com
+
+Suivez-nous également sur :
+  ___________________________________________________________________________
+
+© Grands Lacs News, 2026

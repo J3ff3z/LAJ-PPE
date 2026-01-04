@@ -1,9 +1,9 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:53:26 GMT content-type: text/html;
-charset=utf-8 content-length: 1777527 server: gunicorn vary: Accept-Language,
-Cookie content-language: pl expires: Sat, 03 Jan 2026 16:56:26 GMT
+HTTP/2 200 date: Sun, 04 Jan 2026 17:36:12 GMT content-type: text/html;
+charset=utf-8 content-length: 1777660 server: gunicorn vary: Accept-Language,
+Cookie content-language: pl expires: Sun, 04 Jan 2026 17:39:12 GMT
 cache-control: max-age=180 set-cookie:
-csrftoken=BRNsMlNkgBzXkYxpq7HvQISbduB74JCBKVJpsisaT7uflZtT70SN48YZmdqPmwBm;
-expires=Sat, 02 Jan 2027 16:53:26 GMT; Max-Age=31449600; Path=/; SameSite=Lax;
+csrftoken=kLDYlle5CMWgTnENi8n8F0scMsFIygjDK0BEdIWQpUBcU9ZxJIt67mZfJH9Ej5AX;
+expires=Sun, 03 Jan 2027 17:36:12 GMT; Max-Age=31449600; Path=/; SameSite=Lax;
 Secure strict-transport-security: max-age=31536000; #Wolne Lektury
 
 Dzisiaj aż 13,496 dzieciaków dzięki wsparciu osób takich jak Ty znajdzie darmowe
@@ -25437,35 +25437,38 @@ szkolnych - zróbmy to razem! Wspieraj Wolne Lektury stałą wpłatą!
 Kliknij, by dowiedzieć się więcej >>>
 [93f68c6059e0707771f672d212370072.jpg]
 
-Kto raz pokocha czytanie, już nigdy nie będzie całkiem sam. Książki ratują
-życie. W Wolnych Lekturach znajdziecie ich bez liku.
+Miejsca takie jak Wolne Lektury są bezwzględnie potrzebne. To port lotniczy skąd
+każdy, niezależnie od wieku i zawartości portfela, może wyruszyć na poszukiwanie
+przygody.
 
-Paulina Młynarska
-[87cf6e2dc45e1233f4d4ccf2fb3ac59a.jpg]
+Paulina Holtz
+[374d01cc5a42a6f960c2365536d01f71.jpg]
 
 Znajdź nasze książki na Legimi! Za każdym razem, kiedy czytasz lub słuchasz
 Wolnych Lektur w księgarni Legimi, wspierasz naszą bibliotekę - DZIĘKUJEMY!
 [91efcad28141cbc51026fdaad7fecabb.png]
 
-Co nowego na Wolnych Lekturach? Dowiesz się z naszego newslettera. Kliknij, by
-się zapisać.
-[79f2bac1161aafdf535853533ca0c53f.png]
+Zapisz się na newsletter, a nie przegapisz naszych publikacji. Zawsze możesz
+zrezygnować. Kliknij i podaj adres email
+[4e9a0ab07435e4fb4668a256b383e09a.png]
 
-Nie bądź wuj ponury, wspieraj Wolne Lektury!
-[70bb0641ddbce90af2e176547b264900.png]
+Potrzebujemy Twojej pomocy! Wspieraj Wolne Lektury stałą wpłatą. Kliknij i
+zadeklaruj comiesięczne wsparcie >>>
+[1189d7603be2ece36a70700af3646d4a.jpg]
 
 Audiobooki Wolnych lektur znajdziesz też na naszym kanale na YouTube.
-Czy wiesz, że jeśli włączysz subskrypcję, to pomożesz uwolnić kolejną książkę?
+
+Regularnie dodajemy nowe książki. By ich nie przegapić, subskrybuj nasz kanał.
 
 Kliknij obrazek, by subskrybować!
-[a1d70eb4035f5a11d42b51d6ec55b34b.png]
+[f5a8ffc770e5090277e0a4319823a65a.png]
 
-Chcesz pomóc bibliotece? Najlepszą metodą pomocy są niewielkie, ale stałe
-wpłaty. Kliknij i dorzuć się!
+Bez wsparcia czytelników Wolne Lektury nie będą się rozwijać. Nie pozwól na to!
+Kliknij i dorzuć się!
 
-W 2020 roku z biblioteki Wolne Lektury skorzystało za darmo blisko 12 milionów
-użytkowników, jednak wspiera nas na stałe tylko mniej niż 1% czytelników. Zmień
-to! Kliknij i dorzuć się!
+Nie wystarczy zeskanować książkę. Tekst musi jeszcze przejść proces redakcji
+językowej i technicznej oraz podwójną korektę. Sam widzisz, że to dużo pracy!
+Dlatego potrzebujemy Twojego wsparcia! Kliknij i dorzuć się!
 
 Dlaczego warto pamiętać o Kochanowskim, w jaki sposób zmiana akcentu może
 symbolizować bunt, jak rymować, aby prawie nikt nie zauważył, że rymujecie -

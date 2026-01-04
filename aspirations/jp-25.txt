@@ -1,6 +1,6 @@
 HTTP/2 200 
 server: nginx
-date: Sat, 03 Jan 2026 16:41:25 GMT
+date: Sun, 04 Jan 2026 17:20:35 GMT
 content-type: text/html; charset=UTF-8
 expires: Thu, 19 Nov 1981 08:52:00 GMT
 cache-control: no-store, no-cache, must-revalidate
@@ -84,7 +84,7 @@ x-content-type-options: nosniff
 <script type='text/javascript' src='https://www.animatetimes.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
 <script type='text/javascript' src='https://www.animatetimes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <script type='application/json' id="wpp-json">
-{"sampling_active":1,"sampling_rate":100,"ajax_url":"https:\/\/www.animatetimes.com\/index.php?rest_route=\/wordpress-popular-posts\/v1\/popular-posts","ID":1704903,"token":"3549fb0a20","lang":0,"debug":0}
+{"sampling_active":1,"sampling_rate":100,"ajax_url":"https:\/\/www.animatetimes.com\/index.php?rest_route=\/wordpress-popular-posts\/v1\/popular-posts","ID":1704903,"token":"83eddb1177","lang":0,"debug":0}
 </script>
 <script type='text/javascript' src='https://www.animatetimes.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=5.3.5'></script>
         <style>
@@ -1092,15 +1092,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2026/01/16 発売</div>
                 <div class="c-product__title">【コミック】黙示録の四騎士(25)</div>
                 <div class="c-product__price">￥594</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3268093&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p2" id="times_affiliate-area" target="_blank">
-                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784065415528.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="85" height="127" loading="lazy" alt="【コミック】黙示録の四騎士(24)の画像"></div>
-                <div class="c-product__meta">
-                    <div class="c-product__label">お取り寄せ</div>
-                </div>
-                <div class="c-product__date">2025/11/17 発売</div>
-                <div class="c-product__title">【コミック】黙示録の四騎士(24)</div>
-                <div class="c-product__price">￥594</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3186678&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p3" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3186678&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p2" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784592225461.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="80" height="127" loading="lazy" alt="【コミック】恋する天使は罪深い(1)の画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1108,7 +1100,31 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2025/09/19 発売</div>
                 <div class="c-product__title">【コミック】恋する天使は罪深い(1)</div>
                 <div class="c-product__price">￥594</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=2044553&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p4" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3268093&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p3" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784065415528.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="85" height="127" loading="lazy" alt="【コミック】黙示録の四騎士(24)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2025/11/17 発売</div>
+                <div class="c-product__title">【コミック】黙示録の四騎士(24)</div>
+                <div class="c-product__price">￥594</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3150904&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p4" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784065402955.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="88" height="127" loading="lazy" alt="【コミック】ヴォカライズ(2)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">お取り寄せ</div>
+                </div>
+                <div class="c-product__date">2025/08/07 発売</div>
+                <div class="c-product__title">【コミック】ヴォカライズ(2)</div>
+                <div class="c-product__price">￥792</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3087007&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p5" id="times_affiliate-area" target="_blank">
+                <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784065394878.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="88" height="127" loading="lazy" alt="【コミック】ヴォカライズ(1)の画像"></div>
+                <div class="c-product__meta">
+                    <div class="c-product__label">通常</div>
+                </div>
+                <div class="c-product__date">2025/05/09 発売</div>
+                <div class="c-product__title">【コミック】ヴォカライズ(1)</div>
+                <div class="c-product__price">￥792</div></a>
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=2044553&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p6" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784046812377.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(18)の画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1116,7 +1132,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2022/03/26 発売</div>
                 <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(18)</div>
                 <div class="c-product__price">￥693</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1756609&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p5" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1756609&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p7" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040644943.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(15)の画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1124,7 +1140,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2020/03/27 発売</div>
                 <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(15)</div>
                 <div class="c-product__price">￥682</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1658573&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p6" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1658573&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p8" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040655871.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(14)の画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1132,7 +1148,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2019/07/26 発売</div>
                 <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(14)</div>
                 <div class="c-product__price">￥682</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1545200&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p7" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1545200&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p9" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040699813.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(13)の画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1140,7 +1156,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2018/10/25 発売</div>
                 <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(13)</div>
                 <div class="c-product__price">￥660</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1505559&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p8" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1505559&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p10" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040697666.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(12)の画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1148,7 +1164,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2018/03/27 発売</div>
                 <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(12)</div>
                 <div class="c-product__price">￥660</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1491851&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p9" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1491851&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p11" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040688060.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(11)の画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1156,7 +1172,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2017/12/27 発売</div>
                 <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(11)</div>
                 <div class="c-product__price">￥660</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1402812&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p10" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1402812&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p12" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040682839.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(10)の画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1164,7 +1180,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2016/07/27 発売</div>
                 <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(10)</div>
                 <div class="c-product__price">￥660</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1372275&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p11" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1372275&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p13" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040678689.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="88" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(9) 通常版の画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1172,7 +1188,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2015/12/26 発売</div>
                 <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(9) 通常版</div>
                 <div class="c-product__price">￥660</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1342096&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p12" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1342096&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p14" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040672335.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="88" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(7)の画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1180,7 +1196,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2014/12/27 発売</div>
                 <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(7)</div>
                 <div class="c-product__price">￥607</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1341598&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p13" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1341598&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p15" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040675657.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(8)の画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1188,7 +1204,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2015/07/27 発売</div>
                 <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(8)</div>
                 <div class="c-product__price">￥649</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1295488&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p14" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=1295488&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p16" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=JPRO_9784040668222.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="89" height="127" loading="lazy" alt="【コミック】SERVAMP-サーヴァンプ-(6)の画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1196,7 +1212,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2014/07/26 発売</div>
                 <div class="c-product__title">【コミック】SERVAMP-サーヴァンプ-(6)</div>
                 <div class="c-product__price">￥607</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3172427&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p15" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3172427&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p17" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/share/no_image_aos.png" width="640" height="640" loading="lazy" alt="【DVD】団地七つの大罪 &lt;東宝DVD名作セレクション&gt;の画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">即取り</div>
@@ -1204,7 +1220,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2024/11/20 発売</div>
                 <div class="c-product__title">【DVD】団地七つの大罪 &lt;東宝DVD名作セレクション&gt;</div>
                 <div class="c-product__price">￥3,300</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3009382&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p16" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3009382&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p18" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=02271730_67c022a6a978a.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="95" height="127" loading="lazy" alt="【DVD】TV 「七つの大罪 黙示録の四騎士」DVD-BOX Ⅲの画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1212,7 +1228,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2025/03/26 発売</div>
                 <div class="c-product__title">【DVD】TV 「七つの大罪 黙示録の四騎士」DVD-BOX Ⅲ</div>
                 <div class="c-product__price">￥23,100</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3009381&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p17" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3009381&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p19" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=02271728_67c0222b35442.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="95" height="127" loading="lazy" alt="【Blu-ray】TV 「七つの大罪 黙示録の四騎士」Blu-ray BOX Ⅲの画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1220,7 +1236,7 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2025/03/26 発売</div>
                 <div class="c-product__title">【Blu-ray】TV 「七つの大罪 黙示録の四騎士」Blu-ray BOX Ⅲ</div>
                 <div class="c-product__price">￥27,500</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=2954764&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p18" id="times_affiliate-area" target="_blank">
+            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=2954764&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p20" id="times_affiliate-area" target="_blank">
                 <div class="c-product__img"><img src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=10281012_671ee50e56392.jpg&width=127&height=127&age_limit=&sex_characteristic=&image_display_restriction=0&warning_restriction=0" width="127" height="127" loading="lazy" alt="【音楽】TV 七つの大罪 黙示録の四騎士 ED「アカイロ」/Hana Hope【初回生産限定盤】の画像"></div>
                 <div class="c-product__meta">
                     <div class="c-product__label">お取り寄せ</div>
@@ -1228,22 +1244,6 @@ microadCompass.queue = microadCompass.queue || [];
                 <div class="c-product__date">2024/12/04 発売</div>
                 <div class="c-product__title">【音楽】TV 七つの大罪 黙示録の四騎士 ED「アカイロ」/Hana Hope【初回生産限定盤】</div>
                 <div class="c-product__price">￥1,999</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=2860350&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p19" id="times_affiliate-area" target="_blank">
-                <div class="c-product__img"><img src="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/share/no_image_aos.png" width="640" height="640" loading="lazy" alt="【DVD】セブン&#039;09X 蘇る七つの大罪の画像"></div>
-                <div class="c-product__meta">
-                    <div class="c-product__label">お取り寄せ</div>
-                </div>
-                <div class="c-product__date">2009/03/13 発売</div>
-                <div class="c-product__title">【DVD】セブン&#039;09X 蘇る七つの大罪</div>
-                <div class="c-product__price">￥4,180</div></a>
-            <a class="c-product" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=2859839&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=t_5119_p20" id="times_affiliate-area" target="_blank">
-                <div class="c-product__img"><img src="https://www.animatetimes.com/wp-content/themes/animatetimes/frontend/assets/img/share/no_image_aos.png" width="640" height="640" loading="lazy" alt="【DVD】七つの大罪&lt;IVC BEST SELECTION&gt;ジェラール・フィリップ セレクションの画像"></div>
-                <div class="c-product__meta">
-                    <div class="c-product__label">お取り寄せ</div>
-                </div>
-                <div class="c-product__date">2011/02/25 発売</div>
-                <div class="c-product__title">【DVD】七つの大罪&lt;IVC BEST SELECTION&gt;ジェラール・フィリップ セレクション</div>
-                <div class="c-product__price">￥1,980</div></a>
         </div>
     </div>
 </div><div class="container">
@@ -1257,52 +1257,52 @@ microadCompass.queue = microadCompass.queue || [];
                     <div class="c-headline c-headline--l">
                         <ul class="c-headline-list">
                                                         <li class="c-headline-item ranking">
-<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1765856911">
-                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/46679162182e698156fb3132f2b90eb869450ac6734971_28252281_e51398d6017f7f7d6155ca30879ec6090386ed9e.jpg" loading="lazy" alt="『ヒロアカ』死亡＆行方不明のキャラクターまとめ" width="1280" height="864"></div></div>
+<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1766725716">
+                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/aa25440f816170673c64c877dae76ffd694e3aec3a77e3_87635817_eae7b7d21be993895f86d512718e0227161fed49.jpg" loading="lazy" alt="アニメ『グノーシア』リレーインタビュー第14回 Giga×TeddyLoid" width="1280" height="864"></div></div>
         <div class="c-headline-meta">
             <div class="c-headline-info">第<strong>1</strong>位</div>
-            <div class="c-headline-text">『ヒロアカ』死亡＆行方不明のキャラクターまとめ</div>
-            <div class="c-headline-date">2026-01-03 15:00</div>
+            <div class="c-headline-text">アニメ『グノーシア』リレーインタビュー第14回 Giga×TeddyLoid</div>
+            <div class="c-headline-date">2026-01-04 12:00</div>
             <div class="c-label c-label--anime">アニメ</div>        </div>
     </a>
 </li>
                                                         <li class="c-headline-item ranking">
-<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767325938">
-                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/0b6059d8a64a32d6c6a58b11bc7d9bc1695749557389d3_55721566_24d7a7edcfd6f2d11c5a698df4221ade8ebafe7a.jpg" loading="lazy" alt="『キミプリ』第46話先行場面カット＆あらすじ" width="1280" height="864"></div></div>
+<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767529934">
+                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/9c3bdd929ca6cf61c3e3788992dc9a1d695a635b5ad9b5_77873383_84bdceeb72b0d623257750920694b79591af3bf8.jpg" loading="lazy" alt="『魔女の旅々』新作劇場版アニメーション制作決定、特報公開！" width="1280" height="864"></div></div>
         <div class="c-headline-meta">
             <div class="c-headline-info">第<strong>2</strong>位</div>
-            <div class="c-headline-text">『キミプリ』第46話先行場面カット＆あらすじ</div>
-            <div class="c-headline-date">2026-01-03 12:00</div>
+            <div class="c-headline-text">『魔女の旅々』新作劇場版アニメーション制作決定、特報公開！</div>
+            <div class="c-headline-date">2026-01-04 22:10</div>
             <div class="c-label c-label--anime">アニメ</div>        </div>
     </a>
 </li>
                                                         <li class="c-headline-item ranking">
-<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1766632663">
-                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/4728e6989d44da1f8149b59ce44d6c11694cae5017e750_57809876_c84c3f9be6093b67dff912b2e54c9af1ae131760.jpeg" loading="lazy" alt="『呪術廻戦』キャラクター人気ランキング" width="1279" height="864"></div></div>
+<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1766970402">
+                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/48caccd8252de0ed19b39ae13437452a6951d841a9e5a7_63572145_58b20668fbcac144e263c8a48fdd2b1087570acd.jpg" loading="lazy" alt="『ダーウィン事変』うめざわしゅん＆種﨑敦美＆神戸光歩インタビュー" width="1280" height="864"></div></div>
         <div class="c-headline-meta">
             <div class="c-headline-info">第<strong>3</strong>位</div>
-            <div class="c-headline-text">『呪術廻戦』キャラクター人気ランキング</div>
-            <div class="c-headline-date">2026-01-03 17:00</div>
-            <div class="c-label c-label--book">マンガ・ラノベ</div>        </div>
-    </a>
-</li>
-                                                        <li class="c-headline-item ranking">
-<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767410678">
-                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/c38b21324899cf7c70edd45aa13a1e0e69589112ab4d87_39792178_90d1455b6fec04b0bcc4f007dbeee16bba922e34.jpg" loading="lazy" alt="『幼ラブアニメ』第1話先行場面カット＆あらすじ" width="1280" height="864"></div></div>
-        <div class="c-headline-meta">
-            <div class="c-headline-info">第<strong>4</strong>位</div>
-            <div class="c-headline-text">『幼ラブアニメ』第1話先行場面カット＆あらすじ</div>
-            <div class="c-headline-date">2026-01-03 13:15</div>
+            <div class="c-headline-text">『ダーウィン事変』うめざわしゅん＆種﨑敦美＆神戸光歩インタビュー</div>
+            <div class="c-headline-date">2026-01-04 16:00</div>
             <div class="c-label c-label--anime">アニメ</div>        </div>
     </a>
 </li>
                                                         <li class="c-headline-item ranking">
-<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1765515361">
-                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/df61199c36deb156ee910047f34b2bd8693ba1223168f3_40340443_77012b5a681e22dddb89607f31428b75465d8e31.jpg" loading="lazy" alt="冬アニメ『恋しま』第2期 浦和希インタビュー" width="1280" height="853"></div></div>
+<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767421485">
+                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/e3990e792233fcfd9e2565efa1a787506958c78bb4d086_73527383_3bc0527128ab6fbfd99bf8165d7323ff623f43c3.jpg" loading="lazy" alt="『シーヴィス』第2クールOP＆ED映像（ノンクレ）解禁！追加声優に鳥海浩輔ら4名発表" width="1280" height="864"></div></div>
+        <div class="c-headline-meta">
+            <div class="c-headline-info">第<strong>4</strong>位</div>
+            <div class="c-headline-text">『シーヴィス』第2クールOP＆ED映像（ノンクレ）解禁！追加声優に鳥海浩輔ら4名発表</div>
+            <div class="c-headline-date">2026-01-04 10:00</div>
+            <div class="c-label c-label--anime">アニメ</div>        </div>
+    </a>
+</li>
+                                                        <li class="c-headline-item ranking">
+<a id="times_ranking" class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767426354">
+                <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/c9b561284bb711e73821e46af0c10ece6958d1e0f3e486_95980487_b059f54c10f9f7ab14c22b3683b78c5f01ec89da.jpg" loading="lazy" alt="『ダーウィン事変』第1話「HUMANZEE」先行場面カット＆あらすじ" width="1000" height="675"></div></div>
         <div class="c-headline-meta">
             <div class="c-headline-info">第<strong>5</strong>位</div>
-            <div class="c-headline-text">冬アニメ『恋しま』第2期 浦和希インタビュー</div>
-            <div class="c-headline-date">2026-01-03 12:00</div>
+            <div class="c-headline-text">『ダーウィン事変』第1話「HUMANZEE」先行場面カット＆あらすじ</div>
+            <div class="c-headline-date">2026-01-04 18:00</div>
             <div class="c-label c-label--anime">アニメ</div>        </div>
     </a>
 </li>
@@ -1574,103 +1574,103 @@ microadCompass.queue = microadCompass.queue || [];
             <div class="c-label c-label--anime">アニメ</div>          </div></a>
       </li>
           
-      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1766541081" id="times_ranking">
-          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/4bf1636c8bcb0be833c10f88db655c5b694b4775756870_14986731_3f456aec8595315939e9c21d1729b271b63ccdb0.png" loading="lazy" alt="【今年の注目作はこれ！】2026年放送・配信予定のアニメまとめ！" width="1280" height="864"></div></div>
-          <div class="c-headline-meta">
-            <div class="c-headline-info">
-              <div class="c-headline-ranking"><strong>2</strong>位</div>
-            </div>
-            <div class="c-headline-text">【今年の注目作はこれ！】2026年放送・配信予定のアニメまとめ！</div>
-            <div class="c-headline-date">2026/01/01 15:00</div>
-            <div class="c-label c-label--anime">アニメ</div>          </div></a>
-      </li>
-          
-      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1764923995" id="times_ranking">
-          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/c3e965db1a1316571978d3acc1e483d26951eb2fcad850_51044715_a08dc31ce06369be757b5028ab537aed5a103dfb.png" loading="lazy" alt="今期・2026冬アニメ おすすめランキングまとめ！結果発表！" width="642" height="434"></div></div>
-          <div class="c-headline-meta">
-            <div class="c-headline-info">
-              <div class="c-headline-ranking"><strong>3</strong>位</div>
-            </div>
-            <div class="c-headline-text">今期・2026冬アニメ おすすめランキングまとめ！結果発表！</div>
-            <div class="c-headline-date">2025/12/29 12:00</div>
-            <div class="c-label c-label--anime">アニメ</div>          </div></a>
-      </li>
-          
       <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1765856911" id="times_ranking">
           <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/46679162182e698156fb3132f2b90eb869450ac6734971_28252281_e51398d6017f7f7d6155ca30879ec6090386ed9e.jpg" loading="lazy" alt="『ヒロアカ』死亡＆行方不明のキャラクターまとめ" width="1280" height="864"></div></div>
           <div class="c-headline-meta">
             <div class="c-headline-info">
-              <div class="c-headline-ranking"><strong>4</strong>位</div>
+              <div class="c-headline-ranking"><strong>2</strong>位</div>
             </div>
             <div class="c-headline-text">『ヒロアカ』死亡＆行方不明のキャラクターまとめ</div>
             <div class="c-headline-date">2026/01/03 15:00</div>
             <div class="c-label c-label--anime">アニメ</div>          </div></a>
       </li>
           
-      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767325938" id="times_ranking">
-          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/0b6059d8a64a32d6c6a58b11bc7d9bc1695749557389d3_55721566_24d7a7edcfd6f2d11c5a698df4221ade8ebafe7a.jpg" loading="lazy" alt="『キミプリ』第46話先行場面カット＆あらすじ" width="1280" height="864"></div></div>
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1766632663" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/4728e6989d44da1f8149b59ce44d6c11694cae5017e750_57809876_c84c3f9be6093b67dff912b2e54c9af1ae131760.jpeg" loading="lazy" alt="『呪術廻戦』キャラクター人気ランキング" width="1279" height="864"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>3</strong>位</div>
+            </div>
+            <div class="c-headline-text">『呪術廻戦』キャラクター人気ランキング</div>
+            <div class="c-headline-date">2026/01/03 17:00</div>
+            <div class="c-label c-label--book">マンガ・ラノベ</div>          </div></a>
+      </li>
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1764923995" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/c3e965db1a1316571978d3acc1e483d26951eb2fcad850_51044715_a08dc31ce06369be757b5028ab537aed5a103dfb.png" loading="lazy" alt="今期・2026冬アニメ おすすめランキングまとめ！結果発表！" width="642" height="434"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>4</strong>位</div>
+            </div>
+            <div class="c-headline-text">今期・2026冬アニメ おすすめランキングまとめ！結果発表！</div>
+            <div class="c-headline-date">2025/12/29 12:00</div>
+            <div class="c-label c-label--anime">アニメ</div>          </div></a>
+      </li>
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1766541081" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/4bf1636c8bcb0be833c10f88db655c5b694b4775756870_14986731_3f456aec8595315939e9c21d1729b271b63ccdb0.png" loading="lazy" alt="【今年の注目作はこれ！】2026年放送・配信予定のアニメまとめ！" width="1280" height="864"></div></div>
           <div class="c-headline-meta">
             <div class="c-headline-info">
               <div class="c-headline-ranking"><strong>5</strong>位</div>
             </div>
-            <div class="c-headline-text">『キミプリ』第46話先行場面カット＆あらすじ</div>
-            <div class="c-headline-date">2026/01/03 12:00</div>
+            <div class="c-headline-text">【今年の注目作はこれ！】2026年放送・配信予定のアニメまとめ！</div>
+            <div class="c-headline-date">2026/01/01 15:00</div>
             <div class="c-label c-label--anime">アニメ</div>          </div></a>
+      </li>
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1766395966" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/12/d3236cda0af60692d2df135496cad7bb6949168029df05_32660134_9371ce04f1f22e6c8e8e7551f2a94f5a048a5d5f.jpg" loading="lazy" alt="ともつか治臣「令和のダラさんいんちき読本4」のご紹介" width="920" height="621"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>6</strong>位</div>
+            </div>
+            <div class="c-headline-text">ともつか治臣「令和のダラさんいんちき読本4」のご紹介</div>
+            <div class="c-headline-date">2026/01/03 13:00</div>
+            <div class="c-label c-label--book">マンガ・ラノベ</div>          </div></a>
       </li>
           
       <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1710050336" id="times_ranking">
           <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2024/03/64079f7b261153d9abef24e525c022df65ed4e142965e8_61535454_870901dfc0d3993c17147eff6e7d6c6eb248edfb.jpg" loading="lazy" alt="『ハイキュー!!』キャラクター（登場人物）一覧・紹介＆解説" width="1280" height="864"></div></div>
           <div class="c-headline-meta">
             <div class="c-headline-info">
-              <div class="c-headline-ranking"><strong>6</strong>位</div>
+              <div class="c-headline-ranking"><strong>7</strong>位</div>
             </div>
             <div class="c-headline-text">『ハイキュー!!』キャラクター（登場人物）一覧・紹介＆解説</div>
             <div class="c-headline-date">2024/03/11 16:00</div>
             <div class="c-label c-label--anime">アニメ</div>          </div></a>
       </li>
           
-      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1632474803" id="times_ranking">
-          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2023/06/7abbcebcec214c7ed7816851c91a1766687075557c1743_71366936_4020709f52ab4c301fbca1d5c5eae9c5ea14509c.jpg" loading="lazy" alt="『鬼滅の刃』十二鬼月（上弦の鬼、下弦の鬼）メンバーを一覧で紹介＆解説（登場鬼の情報まとめ）" width="1280" height="864"></div></div>
-          <div class="c-headline-meta">
-            <div class="c-headline-info">
-              <div class="c-headline-ranking"><strong>7</strong>位</div>
-            </div>
-            <div class="c-headline-text">『鬼滅の刃』十二鬼月（上弦の鬼、下弦の鬼）メンバーを一覧で紹介＆解説（登場鬼の情報まとめ）</div>
-            <div class="c-headline-date">2023/06/20 00:00</div>
-            <div class="c-label c-label--anime">アニメ</div>          </div></a>
-      </li>
-          
-      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1767237303" id="times_ranking">
-          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/f614212a345563780885b0b54c3d1c3c6955e8119a4473_68284091_3aa6b8038858c57497e2d0a6c269a3adb8b2a472.jpg" loading="lazy" alt="『かぐや様は告らせたい』完結編 制作決定・特報映像解禁" width="1280" height="864"></div></div>
-          <div class="c-headline-meta">
-            <div class="c-headline-info">
-              <div class="c-headline-ranking"><strong>8</strong>位</div>
-            </div>
-            <div class="c-headline-text">『かぐや様は告らせたい』完結編 制作決定・特報映像解禁</div>
-            <div class="c-headline-date">2026/01/01 12:25</div>
-            <div class="c-label c-label--eiga">映画</div>          </div></a>
-      </li>
-          
       <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1516353266" id="times_ranking">
           <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2018/01/5e9408a479e21_3721530b1f7e3d8935c3a966bcea4b19.jpg" loading="lazy" alt="アニメ『Fate』シリーズ見る順番をわかりやすく解説" width="1280" height="864"></div></div>
           <div class="c-headline-meta">
             <div class="c-headline-info">
-              <div class="c-headline-ranking"><strong>9</strong>位</div>
+              <div class="c-headline-ranking"><strong>8</strong>位</div>
             </div>
             <div class="c-headline-text">アニメ『Fate』シリーズ見る順番をわかりやすく解説</div>
             <div class="c-headline-date">2024/05/23 00:00</div>
             <div class="c-label c-label--anime">アニメ</div>          </div></a>
       </li>
           
-      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1766102843" id="times_ranking">
-          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2026/01/59fe86ac20e9a718b3cf6725ae321a2c6944bdb82caf76_37743632_2af6f970f1235656f286008676d2abbe86170396.jpg" loading="lazy" alt="『アイドルマスターSideM』和ユニット・彩（さい）の魅力を語らせてくだ彩（さい）！" width="1280" height="864"></div></div>
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1655345898" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2022/10/b636a1026eaca3470803983d4525cfd2638ee99ce9c6d1_38221553_be1f80ca039223aba31f6ac249702475f36ca5bb.jpg" loading="lazy" alt="【2025年版】面白い神アニメおすすめランキング【35選】｜ジャンル別人気作品をピックアップ" width="1280" height="864"></div></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              <div class="c-headline-ranking"><strong>9</strong>位</div>
+            </div>
+            <div class="c-headline-text">【2025年版】面白い神アニメおすすめランキング【35選】｜ジャンル別人気作品をピックアップ</div>
+            <div class="c-headline-date">2024/06/25 00:00</div>
+            <div class="c-label c-label--anime">アニメ</div>          </div></a>
+      </li>
+          
+      <li class="c-headline-item"><a class="c-headline-link" href="https://www.animatetimes.com/news/details.php?id=1736409333" id="times_ranking">
+          <div class="c-headline-img"><div class="thumb-placeholder"><img src="https://img2.animatetimes.com/2025/01/b9dcfe163fd339a3ccd373ef793f3def6788a8239344f1_20389002_97bd01e7b9103c72202eea6df987f4791ba178f3.png" loading="lazy" alt="『呪術廻戦』キャラクター一覧・情報まとめ【死滅回游編 2026年1月放送】" width="1280" height="864"></div></div>
           <div class="c-headline-meta">
             <div class="c-headline-info">
               <div class="c-headline-ranking"><strong>10</strong>位</div>
             </div>
-            <div class="c-headline-text">『アイドルマスターSideM』和ユニット・彩（さい）の魅力を語らせてくだ彩（さい）！</div>
-            <div class="c-headline-date">2026/01/02 12:00</div>
-            <div class="c-label c-label--music">音楽</div>          </div></a>
+            <div class="c-headline-text">『呪術廻戦』キャラクター一覧・情報まとめ【死滅回游編 2026年1月放送】</div>
+            <div class="c-headline-date">2025/01/16 18:00</div>
+            <div class="c-label c-label--anime">アニメ</div>          </div></a>
       </li>
         </ul>
   </div>
@@ -1703,31 +1703,61 @@ microadCompass.queue = microadCompass.queue || [];
             <div class="c-headline-date">￥660</div>
             <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
       </li>
+            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3339883&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
+          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12041307_693109106a661.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              第<strong>3</strong>位
+            </div>
+            <div class="c-headline-text">【グッズ-シール】お文具といっしょ Cherigem Sticker お弁当・ようちえん</div>
+            <div class="c-headline-date">￥660</div>
+            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
+      </li>
+            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3352688&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
+          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12171256_69422a09e7ea2.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              第<strong>4</strong>位
+            </div>
+            <div class="c-headline-text">【グッズ(音楽)】ぬいぐるみ 浦島坂田船×サンリオキャラクターズ　ぬいぐるみ　うらたぬき×ポムポムプリン</div>
+            <div class="c-headline-date">￥5,000</div>
+            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
+      </li>
             <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3352691&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
           <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12171258_69422a7803d5f.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
           <div class="c-headline-meta">
             <div class="c-headline-info">
-              第<strong>3</strong>位
+              第<strong>5</strong>位
             </div>
             <div class="c-headline-text">【グッズ(音楽)】ぬいぐるみ 浦島坂田船×サンリオキャラクターズ　ぬいぐるみ　センラ×マイメロディ</div>
             <div class="c-headline-date">￥5,000</div>
             <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
       </li>
-            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3339883&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
-          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12041307_693109106a661.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
+            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3352690&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
+          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12171258_69422a4ed24fc.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
           <div class="c-headline-meta">
             <div class="c-headline-info">
-              第<strong>4</strong>位
+              第<strong>6</strong>位
             </div>
-            <div class="c-headline-text">【グッズ-シール】お文具といっしょ Cherigem Sticker お弁当・ようちえん</div>
-            <div class="c-headline-date">￥660</div>
+            <div class="c-headline-text">【グッズ(音楽)】ぬいぐるみ 浦島坂田船×サンリオキャラクターズ　ぬいぐるみ　となりの坂田。×シナモロール</div>
+            <div class="c-headline-date">￥5,000</div>
+            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
+      </li>
+            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3318651&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
+          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=07559754.JPG&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
+          <div class="c-headline-meta">
+            <div class="c-headline-info">
+              第<strong>7</strong>位
+            </div>
+            <div class="c-headline-text">【コミック】恋せよまやかし天使ども(6)</div>
+            <div class="c-headline-date">￥594</div>
             <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
       </li>
             <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3339884&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
           <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12041308_6931092dc06df.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
           <div class="c-headline-meta">
             <div class="c-headline-info">
-              第<strong>5</strong>位
+              第<strong>8</strong>位
             </div>
             <div class="c-headline-text">【グッズ-シール】お文具といっしょ Cherigem Sticker バスタイム・童話</div>
             <div class="c-headline-date">￥660</div>
@@ -1737,7 +1767,7 @@ microadCompass.queue = microadCompass.queue || [];
           <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12171248_6942282a127b6.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
           <div class="c-headline-meta">
             <div class="c-headline-info">
-              第<strong>6</strong>位
+              第<strong>9</strong>位
             </div>
             <div class="c-headline-text">【グッズ(音楽)】キーホルダー 浦島坂田船×サンリオキャラクターズ　アクリルキーホルダー　センラ×マイメロディ</div>
             <div class="c-headline-date">￥1,200</div>
@@ -1747,40 +1777,10 @@ microadCompass.queue = microadCompass.queue || [];
           <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12171254_6942296d4d1f4.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
           <div class="c-headline-meta">
             <div class="c-headline-info">
-              第<strong>7</strong>位
+              第<strong>10</strong>位
             </div>
             <div class="c-headline-text">【グッズ(音楽)】ヘアバンド 浦島坂田船×サンリオキャラクターズ　ヘアクリップ　センラ×マイメロディ</div>
             <div class="c-headline-date">￥1,600</div>
-            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
-      </li>
-            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3352688&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
-          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=12171256_69422a09e7ea2.jpg&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
-          <div class="c-headline-meta">
-            <div class="c-headline-info">
-              第<strong>8</strong>位
-            </div>
-            <div class="c-headline-text">【グッズ(音楽)】ぬいぐるみ 浦島坂田船×サンリオキャラクターズ　ぬいぐるみ　うらたぬき×ポムポムプリン</div>
-            <div class="c-headline-date">￥5,000</div>
-            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
-      </li>
-            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3318648&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
-          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=07559756.JPG&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
-          <div class="c-headline-meta">
-            <div class="c-headline-info">
-              第<strong>9</strong>位
-            </div>
-            <div class="c-headline-text">【コミック】うるわしの宵の月(10)</div>
-            <div class="c-headline-date">￥594</div>
-            <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
-      </li>
-            <li class="c-headline-item ranking"><a name="times_affiliate-ranking" class="c-headline-link" href="https://www.animate-onlineshop.jp/affiliate/affland.php?company_id=101&amp;lsurl=https://www.animate-onlineshop.jp/products/detail.php?product_id=3318651&lstid=AMAUTOTRACK&utm_source=atimes&utm_medium=animate&utm_campaign=times_online-ranking">
-          <div class="c-headline-img"><img alt="" style="height:auto;" width="80" height="80" loading="lazy" src="https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=07559754.JPG&amp;width=136&amp;height=136&amp;age_limit=&amp;sex_characteristic=&amp;image_display_restriction=0&amp;warning_restriction=0&amp;square=1"></div>
-          <div class="c-headline-meta">
-            <div class="c-headline-info">
-              第<strong>10</strong>位
-            </div>
-            <div class="c-headline-text">【コミック】恋せよまやかし天使ども(6)</div>
-            <div class="c-headline-date">￥594</div>
             <div class="c-label c-label--aos-reserve">予約受付中</div>          </div></a>
       </li>
             </ul>
@@ -2338,5 +2338,5 @@ var Gianism = {"admin":""};
           </body>
 </html>
 
-<!-- page cached by KUSANAGI. Cache created : 16:31:19(GMT). Expire : 16:46:19(GMT). -->
+<!-- page cached by KUSANAGI. Cache created : 17:09:34(GMT). Expire : 17:24:34(GMT). -->
 <!-- CacheID : b80a5a8848d1ee543e769b77fdef7bbc -->

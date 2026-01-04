@@ -1,12 +1,12 @@
 HTTP/2 200 
 server: nginx
-date: Sat, 03 Jan 2026 16:46:35 GMT
+date: Sun, 04 Jan 2026 17:27:52 GMT
 content-type: text/html; charset=UTF-8
 vary: Accept-Encoding
 expires: Thu, 19 Nov 1981 08:52:00 GMT
 cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 pragma: no-cache
-set-cookie: PHPSESSID=1050f044af7a3b801a77f3580427185e; path=/
+set-cookie: PHPSESSID=8b95711ef032684247d9929950d1599d; path=/
 vary: Accept-Encoding
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
@@ -75,7 +75,7 @@ Jest taka grupa grzech&amp;oacute;w, kt&amp;" />
 
 
   <link href="/css/bootstrap.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="/css/style_v4.css?v=6771" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/style_v4.css?v=5951" media="screen" rel="stylesheet" type="text/css" />
 <link href="/css/gridpak.css" media="screen" rel="stylesheet" type="text/css" />
 <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i&amp;amp;subset=latin-ext" media="screen" rel="stylesheet" type="text/css" />
 <link href="/js/fancybox2/jquery.fancybox.css?v=2.1.4" media="screen" rel="stylesheet" type="text/css" />
@@ -243,7 +243,7 @@ Jest taka grupa grzech&amp;oacute;w, kt&amp;" />
 
 
 
-      <div class="tac " style="display:none; padding-bottom:20px;  "><a href="https://swietarita.org/twoja-roza/?ka=003785" target="_blank"><img style="max-width:100%" alt="" src="/images/banery/roza960x150.jpg" /></a></div>
+      <div class="tac " style="display:none; padding-bottom:20px;  "><a href="https://lilia.fatima.pl/?ka=001303" target="_blank"><img style="max-width:100%" alt="" src="/images/banery/lilia960x150.jpg" /></a></div>
   
 
   <script type="text/javascript">
@@ -412,16 +412,16 @@ Ks. Adam Martyna</strong>					                          <!--z numeru-->
 					   <div class="linkmin">Czytaj także w innych numerach Przymierza z Maryją:</div>
 					   <div class="Head2a mt20">
 					     <ul class=" ">
-						   						     <li><a href="/o-cnotach-kardynalnych,842,a.html">O cnotach kardynalnych</a></li>
+						   						     <li><a href="/nie-zdejme-krzyza,9507,a.html">Nie zdejmę Krzyża...</a></li>
+						   						     <li><a href="/po-co-mi-slub,13524,a.html">Po co mi ślub?</a></li>
 						   						     <li><a href="/mamy-prawo-sie-bronic,11711,a.html">Mamy prawo się bronić!</a></li>
-						   						     <li><a href="/bracia-kaplani-nie-badzmy-tchorzami,12729,a.html">Bracia Kapłani, nie bądźmy tchórzami!</a></li>
-						   						     <li><a href="/o-niektorych-aspektach-sakramentu-pokuty,1082,a.html">O niektórych aspektach Sakramentu Pokuty</a></li>
-						   						     <li><a href="/po-co-nam-kosciol,13354,a.html">Po co nam Kościół?</a></li>
-						   						     <li><a href="/czyncie-sobie-ziemie-poddana--co-to-znaczy,12624,a.html">Czyńcie sobie ziemię poddaną - co to znaczy?</a></li>
-						   						     <li><a href="/nieomylnosc-papieska,663,a.html">Nieomylność papieska</a></li>
-						   						     <li><a href="/duchowy-pokarm-i-wzrastanie-ku-zbawieniu,12749,a.html">Duchowy pokarm i wzrastanie ku zbawieniu</a></li>
-						   						     <li><a href="/kryzys-kosciola-brak-powolan,12648,a.html">Kryzys Kościoła: Brak powołań!</a></li>
-						   						     <li><a href="/szaty-liturgiczne,640,a.html">Szaty liturgiczne</a></li>
+						   						     <li><a href="/grzechy-wolajace-o-pomste-do-nieba,994,a.html">Grzechy wołające o pomstę do nieba</a></li>
+						   						     <li><a href="/laska-boza-jest-do-zbawienia-koniecznie-potrzebna,6936,a.html">Łaska Boża jest do zbawienia koniecznie potrzebna</a></li>
+						   						     <li><a href="/kilka-uwag-o-koledzie,11554,a.html">Kilka uwag o kolędzie</a></li>
+						   						     <li><a href="/czy-grzech-pierworodny-stal-sie-przyczyna-wcielenia-,12819,a.html">Czy grzech pierworodny stał się przyczyną wcielenia? </a></li>
+						   						     <li><a href="/milosierny-bog-jest-sedzia-sprawiedliwym,4404,a.html">Miłosierny Bóg jest sędzią sprawiedliwym...</a></li>
+						   						     <li><a href="/-bierzmowanie-zstapienie-ducha-swietego,12203,a.html"> Bierzmowanie – zstąpienie Ducha Świętego</a></li>
+						   						     <li><a href="/o-maryi-nigdy-dosyc,13888,a.html">O Maryi nigdy dosyć!</a></li>
 						   						 </ul>
 					   </div>
 					   <div class="tar linkmin mt20"><a href="/dzial,slowo-kaplana,24.html">wszystkie z działu Słowo kapłana ></a></div>
@@ -558,16 +558,16 @@ Ks. Adam Martyna</strong>					                          <!--z numeru-->
 		   <div class="linkmin">Czytaj także:</div>
 		   <div class="Head3a mt20">
 		     <ul class=" ">
-			   			     <li><a href="/pielgrzymka-do-fatimy,474,a.html">Pielgrzymka do Fatimy</a></li>
-			   			     <li><a href="/dotknac-miejsc-objawien-matki,13544,a.html">Dotknąć miejsc Objawień Matki…</a></li>
-			   			     <li><a href="/maryja-nas-wzywa,13625,a.html">Maryja nas wzywa!</a></li>
-			   			     <li><a href="/spotkanie-z-maryja,12599,a.html">Spotkanie z Maryją</a></li>
-			   			     <li><a href="/walczmy-o-boza-sprawe,12869,a.html">Walczmy o Bożą Sprawę!</a></li>
-			   			     <li><a href="/u-fatimskiej-pani,12004,a.html">U Fatimskiej Pani</a></li>
-			   			     <li><a href="/dobro-zawsze-wraca,12532,a.html">Dobro zawsze wraca</a></li>
-			   			     <li><a href="/swiatlo-wiary,12662,a.html">Światło wiary</a></li>
-			   			     <li><a href="/oto-matka-nasza,13144,a.html">Oto Matka nasza</a></li>
-			   			     <li><a href="/pielgrzymka-apostolow-fatimy,6385,a.html">Pielgrzymka Apostołów Fatimy</a></li>
+			   			     <li><a href="/pielgrzymka-do-fatimy,1773,a.html">Pielgrzymka do Fatimy</a></li>
+			   			     <li><a href="/matka-boza-wysluchala-moich-modlitw,13177,a.html">Matka Boża wysłuchała moich modlitw</a></li>
+			   			     <li><a href="/duchowo-polaczeni-z-maryja,11295,a.html">Duchowo połączeni z Maryją</a></li>
+			   			     <li><a href="/chce-czuc-ciezar-twego-oredzia-maryjo,13742,a.html">Chcę czuć ciężar Twego Orędzia, Maryjo…</a></li>
+			   			     <li><a href="/na-kolanach-do-matenki,9505,a.html">Na kolanach do Mateńki</a></li>
+			   			     <li><a href="/plaszczem-maryi-okryta,13443,a.html">Płaszczem Maryi okryta</a></li>
+			   			     <li><a href="/spotkanie-apostolow-fatimy-w-zawoi,13291,a.html">Spotkanie Apostołów Fatimy w Zawoi</a></li>
+			   			     <li><a href="/maryja-porusza-serca-apostolow,11259,a.html">Maryja porusza serca Apostołów</a></li>
+			   			     <li><a href="/maryja-dziala-w-moim-zyciu,11406,a.html">Maryja działa w moim życiu</a></li>
+			   			     <li><a href="/powiedzieli-tak-maryi,11063,a.html">Powiedzieli „Tak” Maryi</a></li>
 			   			 </ul>
 		   </div>
 

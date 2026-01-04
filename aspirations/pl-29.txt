@@ -5,7 +5,7 @@ x-ua-compatible: IE=edge
 x-pingback: https://www.ipri.pl/xmlrpc.php
 link: <https://www.ipri.pl/wp-json/>; rel="https://api.w.org/", <https://www.ipri.pl/wp-json/wp/v2/pages/278>; rel="alternate"; title="JSON"; type="application/json", <https://www.ipri.pl/?p=278>; rel=shortlink
 hummingbird-cache: Served
-date: Sat, 03 Jan 2026 16:47:58 GMT
+date: Sun, 04 Jan 2026 17:29:33 GMT
 server: LiteSpeed
 retry-after: 3
 vary: User-Agent
@@ -62,7 +62,7 @@ alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=259
 <link rel='stylesheet' id='wphb-1-css' href='https://www.ipri.pl/wp-content/uploads/hummingbird-assets/dbffabdabac3b9420979a89032baf9ca.css' type='text/css' media='all' />
 <script type="text/javascript" id="wphb-2-js-before">
 /* <![CDATA[ */
-var cnArgs = {"ajaxUrl":"https:\/\/www.ipri.pl\/wp-admin\/admin-ajax.php","nonce":"84b1de5abf","hideEffect":"fade","position":"bottom","onScroll":false,"onScrollOffset":100,"onClick":true,"cookieName":"cookie_notice_accepted","cookieTime":2592000,"cookieTimeRejected":2592000,"globalCookie":false,"redirection":true,"cache":true,"revokeCookies":false,"revokeCookiesOpt":"automatic"};
+var cnArgs = {"ajaxUrl":"https:\/\/www.ipri.pl\/wp-admin\/admin-ajax.php","nonce":"7d8026aa77","hideEffect":"fade","position":"bottom","onScroll":false,"onScrollOffset":100,"onClick":true,"cookieName":"cookie_notice_accepted","cookieTime":2592000,"cookieTimeRejected":2592000,"globalCookie":false,"redirection":true,"cache":true,"revokeCookies":false,"revokeCookiesOpt":"automatic"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://www.ipri.pl/wp-content/uploads/hummingbird-assets/075ed13caf0d236ebe9441b80ce34a09.js" id="wphb-2-js"></script>
@@ -2434,7 +2434,7 @@ var wphbGlobal = {"ajaxurl":"https:\/\/www.ipri.pl\/wp-admin\/admin-ajax.php","c
 		<div id="cookie-notice" role="dialog" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(255,255,255,1);"><div class="cookie-notice-container" style="color: #555555"><span id="cn-notice-text" class="cn-text-container">Na stronach internetowych IPI stosowane są pliki "cookies" zgodnie z <a href="https://www.ipri.pl/polityka-plikow-cookies/" target="_blank" id="cn-more-info" class="cn-privacy-policy-link cn-link">Polityką prywatności</a></span><span id="cn-notice-buttons" class="cn-buttons-container"><button id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button" aria-label="Zgoda" style="background-color: #fcae3a">Zgoda</button><button id="cn-refuse-cookie" data-cookie-set="refuse" class="cn-set-cookie cn-button" aria-label="Nie wyrażam zgody" style="background-color: #fcae3a">Nie wyrażam zgody</button></span><span id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" title="Nie wyrażam zgody"></span></div>
 			
 		</div>
-		<!-- / Cookie Notice plugin -->    <!-- 242 queries. 0,704 seconds. -->
+		<!-- / Cookie Notice plugin -->    <!-- 240 queries. 0,671 seconds. -->
 </div>
 </body>
-</html><!-- Hummingbird cache file was created in 0.152184009552 seconds, on 12-12-25 1:21:59 -->
+</html><!-- Hummingbird cache file was created in 0.13959002494812 seconds, on 03-01-26 20:52:41 -->

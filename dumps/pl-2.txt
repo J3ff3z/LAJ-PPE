@@ -1,14 +1,14 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:46:16 GMT content-type: text/html;
-charset=UTF-8 set-cookie: PHPSESSID=fc74402e72515f2a370fed626ed98e4e; path=/;
+HTTP/2 200 date: Sun, 04 Jan 2026 17:27:27 GMT content-type: text/html;
+charset=UTF-8 set-cookie: PHPSESSID=2dadc95bc703428cc2f153510a77ff03; path=/;
 secure expires: Thu, 19 Nov 1981 08:52:00 GMT pragma: no-cache cache-control:
 public, max-age=10 report-to:
 {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare
-.com/report/v4?s=%2BkJYHbdPp39XzQiHM4oN%2BzdCZUISWbIJlapM6wMlHN%2BPjb%2F4pR3HHEq
-Nmg2r7bXfHoztmlJ8HAXWA9PkchkXyCnk2vs62LGDZtI8uw%2BKWuczbXjLoEg%3D"}]} vary:
+.com/report/v4?s=dQigDSVm0b8hdwivvephjy06co2Fc5aChtljyseU8EM4HskBEo6LgRqB%2BYX%2
+B5AeXQXFbI5fpomYpASwr8BHXZXDMBJPlAnm26Q%2FEJTTieP%2BHehTiCFY%3D"}]} vary:
 Accept-Encoding server: cloudflare alt-svc: h3=":443"; ma=86400
 x-turbo-charged-by: LiteSpeed cf-cache-status: BYPASS nel:
 {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} cf-ray:
-9b83f8ab780cdcfc-CDG
+9b8c725c7adaad3a-CDG
 
 Zamknij
 

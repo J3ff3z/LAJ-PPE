@@ -1,29 +1,29 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:35:35 GMT server:
-mw-web.eqiad.main-8f8dcf6c-9jjxj x-content-type-options: nosniff
-content-language: pl accept-ch: last-modified: Tue, 30 Dec 2025 14:30:03 GMT
-content-type: text/html; charset=UTF-8 age: 642 accept-ranges: bytes x-cache:
-cp6010 miss, cp6016 hit/1 x-cache-status: hit-front server-timing:
-cache;desc="hit-front", host;desc="cp6016" strict-transport-security:
-max-age=106384710; includeSubDomains; preload report-to: { "group": "wm_nel",
-"max_age": 604800, "endpoints": [{ "url":
+HTTP/2 200 date: Sun, 04 Jan 2026 17:27:30 GMT server:
+mw-web.eqiad.main-8f8dcf6c-5nwt9 x-content-type-options: nosniff
+content-language: pl accept-ch: last-modified: Sun, 04 Jan 2026 01:18:56 GMT
+content-type: text/html; charset=UTF-8 age: 2 accept-ranges: bytes x-cache:
+cp6010 miss, cp6016 miss x-cache-status: miss server-timing: cache;desc="miss",
+host;desc="cp6016" strict-transport-security: max-age=106384710;
+includeSubDomains; preload report-to: { "group": "wm_nel", "max_age": 604800,
+"endpoints": [{ "url":
 "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_
 error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] } nel: { "report_to":
 "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
-set-cookie: WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04
+set-cookie: WMF-Last-Access=04-Jan-2026;Path=/;HttpOnly;secure;Expires=Thu, 05
 Feb 2026 12:00:00 GMT set-cookie:
-WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;
-Expires=Wed, 04 Feb 2026 12:00:00 GMT set-cookie:
-WMF-DP=495;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+WMF-Last-Access-Global=04-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;
+Expires=Thu, 05 Feb 2026 12:00:00 GMT set-cookie:
+WMF-DP=8dd;Path=/;HttpOnly;secure;Expires=Mon, 05 Jan 2026 00:00:00 GMT
 x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7 cache-control: private,
 s-maxage=0, max-age=0, must-revalidate, no-transform vary:
 Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
 GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
 set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
 set-cookie:
-WMF-Uniq=iaG9DY9ekx2T9KAIv5BNJALdAAAAAFvdE1cPCEt9Fa0bw3IYg_hbpFc8CgPkVie6;Domain
-=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027
-00:00:00 GMT content-length: 171389 x-request-id:
-32c21a32-c59e-4efe-ba84-bf7de87df2de #Edytuj Wikipedia (pl) Kanał Atom Wikipedii
+WMF-Uniq=6XQErmzp-lDr0S-I5X44CALeAAAAAFvd-CKQyCF16s9Xol4ynrGjcwb1qe7PPc3I;Domain
+=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027
+00:00:00 GMT x-request-id: 03a5a7cb-8f8f-4800-8326-f49aecf4ea2b #Edytuj
+Wikipedia (pl) Kanał Atom Wikipedii
 
 Przejdź do zawartości
 

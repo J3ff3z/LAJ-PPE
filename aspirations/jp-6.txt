@@ -1,6 +1,6 @@
 HTTP/2 200 
 server: nginx
-date: Sat, 03 Jan 2026 16:38:37 GMT
+date: Sun, 04 Jan 2026 17:15:53 GMT
 content-type: text/html; charset=UTF-8
 vary: Accept-Encoding
 x-pingback: https://knt-worldblog.com/xmlrpc.php
@@ -1045,7 +1045,7 @@ ol.wp-block-latest-comments{box-sizing:border-box;margin-left:0}:where(.wp-block
 </script>
 <script type="text/javascript" id="swell_script-js-extra">
 /* <![CDATA[ */
-var swellVars = {"siteUrl":"https://knt-worldblog.com/","restUrl":"https://knt-worldblog.com/wp-json/wp/v2/","ajaxUrl":"https://knt-worldblog.com/wp-admin/admin-ajax.php","ajaxNonce":"c30a909551","isLoggedIn":"","useAjaxAfterPost":"","useAjaxFooter":"","usePvCount":"1","isFixHeadSP":"1","tocListTag":"ol","tocTarget":"h3","tocPrevText":"\u524d\u306e\u30da\u30fc\u30b8\u3078","tocNextText":"\u6b21\u306e\u30da\u30fc\u30b8\u3078","tocCloseText":"\u6298\u308a\u305f\u305f\u3080","tocOpenText":"\u3082\u3063\u3068\u898b\u308b","tocOmitType":"ct","tocOmitNum":"15","tocMinnum":"1","tocAdPosition":"before","offSmoothScroll":"","psNum":"5","psNumSp":"2","psSpeed":"1500","psDelay":"5000"};
+var swellVars = {"siteUrl":"https://knt-worldblog.com/","restUrl":"https://knt-worldblog.com/wp-json/wp/v2/","ajaxUrl":"https://knt-worldblog.com/wp-admin/admin-ajax.php","ajaxNonce":"02276f3af5","isLoggedIn":"","useAjaxAfterPost":"","useAjaxFooter":"","usePvCount":"1","isFixHeadSP":"1","tocListTag":"ol","tocTarget":"h3","tocPrevText":"\u524d\u306e\u30da\u30fc\u30b8\u3078","tocNextText":"\u6b21\u306e\u30da\u30fc\u30b8\u3078","tocCloseText":"\u6298\u308a\u305f\u305f\u3080","tocOpenText":"\u3082\u3063\u3068\u898b\u308b","tocOmitType":"ct","tocOmitNum":"15","tocMinnum":"1","tocAdPosition":"before","offSmoothScroll":"","psNum":"5","psNumSp":"2","psSpeed":"1500","psDelay":"5000"};
 //# sourceURL=swell_script-js-extra
 /* ]]> */
 </script>

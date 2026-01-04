@@ -1,9 +1,13 @@
-HTTP/2 200 server: nginx date: Sat, 03 Jan 2026 16:46:24 GMT content-type:
+HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 17:27:39 GMT content-type:
 text/html; charset=UTF-8 vary: Accept-Encoding vary:
-Accept-Encoding,Cookie,User-Agent cache-control: max-age=3, must-revalidate
-#Parafia pw. św. Brata Alberta w Rybniku - Kamieniu » Kanał z wpisami Parafia
-pw. św. Brata Alberta w Rybniku - Kamieniu » Kanał z komentarzami alternate
-alternate alternate
+Accept-Encoding,Cookie,User-Agent link:
+/www.rybnik-kamien.katowice.opoka.org.pl/wp-json/>; rel="https://api.w.org/",
+/www.rybnik-kamien.katowice.opoka.org.pl/wp-json/wp/v2/pages/351>;
+rel="alternate"; type="application/json",
+/www.rybnik-kamien.katowice.opoka.org.pl/?p=351>; rel=shortlink #Parafia pw. św.
+Brata Alberta w Rybniku - Kamieniu » Kanał z wpisami Parafia pw. św. Brata
+Alberta w Rybniku - Kamieniu » Kanał z komentarzami alternate alternate
+alternate
 
 IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KMFGSB6
 

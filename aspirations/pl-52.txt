@@ -1,12 +1,12 @@
 HTTP/2 200 
-date: Sat, 03 Jan 2026 16:53:02 GMT
-server: mw-web.eqiad.main-8f8dcf6c-xxp2m
+date: Sun, 04 Jan 2026 17:35:37 GMT
+server: mw-web.eqiad.canary-76d7c99c78-kw9hw
 x-content-type-options: nosniff
 content-language: pl
 accept-ch: 
-last-modified: Sun, 28 Dec 2025 18:39:54 GMT
+last-modified: Sun, 04 Jan 2026 01:20:08 GMT
 content-type: text/html; charset=UTF-8
-age: 1
+age: 2
 accept-ranges: bytes
 x-cache: cp6015 miss, cp6016 miss
 x-cache-status: miss
@@ -14,24 +14,23 @@ server-timing: cache;desc="miss", host;desc="cp6016"
 strict-transport-security: max-age=106384710; includeSubDomains; preload
 report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
 nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
-set-cookie: WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT
-set-cookie: WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT
-set-cookie: WMF-DP=30e;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+set-cookie: WMF-Last-Access=04-Jan-2026;Path=/;HttpOnly;secure;Expires=Thu, 05 Feb 2026 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=04-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Thu, 05 Feb 2026 12:00:00 GMT
+set-cookie: WMF-DP=9ce;Path=/;HttpOnly;secure;Expires=Mon, 05 Jan 2026 00:00:00 GMT
 x-client-ip: 2001:861:8b40:a5f0:3ed6:e6ed:b818:8c7
 cache-control: private, s-maxage=0, max-age=0, must-revalidate, no-transform
 vary: Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent
 set-cookie: GeoIP=FR:IDF:Maisons-Alfort:48.81:2.44:v4; Path=/; secure; Domain=.wikipedia.org
 set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
-set-cookie: WMF-Uniq=aH3VgZelqk4mhtXqBbWtigLdAAAAAFvdzF73cH1cYToDwBhXPDYmI3SP9LQI-CRs;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Sun, 03 Jan 2027 00:00:00 GMT
-server-timing: WMF-Uniq;fy25-26-we-1-1-19-mobile-section-dead-end-phase-2=control;
-x-request-id: 51e45ddc-3b2e-4044-8dc0-dab67c079074
+set-cookie: WMF-Uniq=eM4ms_BogQRDohrhPakKyALeAAAAAFvdkoVmrVGsXQCJShwTNCy14iDsHtrjM3bx;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Mon, 04 Jan 2027 00:00:00 GMT
+x-request-id: fcdf854a-5722-4a06-8f85-5e50b7ee4398
 
 <!DOCTYPE html>
 <html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="pl" dir="ltr">
 <head>
 <meta charset="UTF-8">
 <title>Wielka improwizacja – Wikipedia, wolna encyklopedia</title>
-<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )plwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgRequestId":"51e45ddc-3b2e-4044-8dc0-dab67c079074","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wielka_improwizacja","wgTitle":"Wielka improwizacja","wgCurRevisionId":78023768,"wgRevisionId":78023768,"wgArticleId":482592,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Artykuły z brakującymi przypisami od 2023-10","Polskie utwory poetyckie","Dziady","Powstanie listopadowe w literaturze"],"wgPageViewLanguage":"pl","wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgRelevantPageName":"Wielka_improwizacja","wgRelevantArticleId":482592,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":78023768,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","pageVariantFallbacks":"pl"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":4000,"wgWMEPageLengthBucket":2,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q9372793","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":false,"wgMetricsPlatformUserExperiments":{"active_experiments":["fy25-26-we-1-1-19-mobile-section-dead-end-phase-2"],"overrides":[],"enrolled":["fy25-26-we-1-1-19-mobile-section-dead-end-phase-2"],"assigned":{"fy25-26-we-1-1-19-mobile-section-dead-end-phase-2":"control"},"subject_ids":{"fy25-26-we-1-1-19-mobile-section-dead-end-phase-2":"awaiting"},"sampling_units":{"fy25-26-we-1-1-19-mobile-section-dead-end-phase-2":"edge-unique"},"coordinator":{"fy25-26-we-1-1-19-mobile-section-dead-end-phase-2":"xLab"}}};
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )plwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgRequestId":"fcdf854a-5722-4a06-8f85-5e50b7ee4398","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wielka_improwizacja","wgTitle":"Wielka improwizacja","wgCurRevisionId":78023768,"wgRevisionId":78023768,"wgArticleId":482592,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Artykuły z brakującymi przypisami od 2023-10","Polskie utwory poetyckie","Dziady","Powstanie listopadowe w literaturze"],"wgPageViewLanguage":"pl","wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgRelevantPageName":"Wielka_improwizacja","wgRelevantArticleId":482592,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":78023768,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","pageVariantFallbacks":"pl"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":4000,"wgWMEPageLengthBucket":2,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q9372793","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":false,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
 RLSTATE={"ext.gadget.wikiflex":"ready","ext.gadget.infobox":"ready","ext.gadget.hlist":"ready","ext.gadget.darkmode-overrides":"ready","ext.gadget.small-references":"ready","ext.gadget.citation-access-info":"ready","ext.gadget.sprawdz-problemy-szablony":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.ll-script-loader","ext.gadget.veKeepParameters","ext.gadget.szablon-galeria","ext.gadget.NavFrame","ext.gadget.citoid-overrides","ext.gadget.maps","ext.gadget.padlock-indicators","ext.gadget.interwiki-langlist","ext.gadget.edit-summaries","ext.gadget.edit-first-section","ext.gadget.wikibugs","ext.gadget.map-toggler","ext.gadget.narrowFootnoteColumns","ext.gadget.ally-enhance","ext.gadget.WDsearch","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 }];});});</script>
@@ -63,7 +62,7 @@ RLSTATE={"ext.gadget.wikiflex":"ready","ext.gadget.infobox":"ready","ext.gadget.
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <link rel="dns-prefetch" href="auth.wikimedia.org">
 </head>
-<body class="xlab-experiment-fy25-26-we-1-1-19-mobile-section-dead-end-phase-2 xlab-experiment-fy25-26-we-1-1-19-mobile-section-dead-end-phase-2-control skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Wielka_improwizacja rootpage-Wielka_improwizacja skin-vector-2022 action-view">
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Wielka_improwizacja rootpage-Wielka_improwizacja skin-vector-2022 action-view">
 <div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Przejdź do zawartości</a>
 <div class="vector-header-container">
 	<header class="vector-header mw-header no-font-mode-scale">
@@ -627,13 +626,13 @@ RLSTATE={"ext.gadget.wikiflex":"ready","ext.gadget.infobox":"ready","ext.gadget.
 </div></div></div>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.canary‐76d7c99c78‐fxfs5
-Cached time: 20251228211433
+Parsed by mw‐web.eqiad.main‐8f8dcf6c‐5qsjc
+Cached time: 20260104070041
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: []
-CPU time usage: 0.162 seconds
-Real time usage: 0.198 seconds
+CPU time usage: 0.184 seconds
+Real time usage: 0.453 seconds
 Preprocessor visited node count: 320/1000000
 Revision size: 3707/2097152 bytes
 Post‐expand include size: 9973/2097152 bytes
@@ -642,23 +641,23 @@ Highest expansion depth: 7/100
 Expensive parser function count: 0/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 10463/5000000 bytes
-Lua time usage: 0.110/10.000 seconds
+Lua time usage: 0.133/10.000 seconds
 Lua memory usage: 1223574/52428800 bytes
 Number of Wikibase entities loaded: 0/500
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  165.906      1 -total
- 69.22%  114.832      1 Szablon:Dziady
- 67.86%  112.578      1 Szablon:Szablon_nawigacyjny
- 17.37%   28.817      3 Szablon:Fakt
- 10.12%   16.784      1 Szablon:Wikiźródła
-  8.22%   13.636      1 Szablon:Projekt_siostrzany
-  6.41%   10.633      1 Szablon:Ikona
-  2.18%    3.619      1 Szablon:Przypisy
+100.00%  191.159      1 -total
+ 73.49%  140.492      1 Szablon:Dziady
+ 72.16%  137.942      1 Szablon:Szablon_nawigacyjny
+ 15.65%   29.912      3 Szablon:Fakt
+  8.40%   16.063      1 Szablon:Wikiźródła
+  7.13%   13.621      1 Szablon:Projekt_siostrzany
+  5.71%   10.909      1 Szablon:Ikona
+  1.58%    3.016      1 Szablon:Przypisy
 -->
 
-<!-- Saved in parser cache with key plwiki:stable-pcache:482592:|#|:idhash:canonical and timestamp 20251228211433 and revision id 78023768. Rendering was triggered because: unknown
+<!-- Saved in parser cache with key plwiki:stable-pcache:482592:|#|:idhash:canonical and timestamp 20260104070041 and revision id 78023768. Rendering was triggered because: unknown
  -->
 </div><noscript><img src="https://pl.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
 <div class="printfooter" data-nosnippet="">Źródło: „<a dir="ltr" href="https://pl.wikipedia.org/w/index.php?title=Wielka_improwizacja&amp;oldid=78023768">https://pl.wikipedia.org/w/index.php?title=Wielka_improwizacja&amp;oldid=78023768</a>”</div></div>
@@ -800,7 +799,7 @@ Zobacz szczegółowe informacje o <a class="external text" href="https://foundat
 		
 	</ul>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8f8dcf6c-xxp2m","wgBackendResponseTime":139,"wgPageParseReport":{"limitreport":{"cputime":"0.162","walltime":"0.198","ppvisitednodes":{"value":320,"limit":1000000},"revisionsize":{"value":3707,"limit":2097152},"postexpandincludesize":{"value":9973,"limit":2097152},"templateargumentsize":{"value":1284,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":10463,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  165.906      1 -total"," 69.22%  114.832      1 Szablon:Dziady"," 67.86%  112.578      1 Szablon:Szablon_nawigacyjny"," 17.37%   28.817      3 Szablon:Fakt"," 10.12%   16.784      1 Szablon:Wikiźródła","  8.22%   13.636      1 Szablon:Projekt_siostrzany","  6.41%   10.633      1 Szablon:Ikona","  2.18%    3.619      1 Szablon:Przypisy"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"10.000"},"limitreport-memusage":{"value":1223574,"limit":52428800},"limitreport-logs":"WRAP: lead = \"span\"\nWRAP: tail = \"span\"\nWRAP: lead = \"span\"\nWRAP: tail = \"span\"\nWRAP: lead = \"span\"\nWRAP: tail = \"span\"\n\n== Szablon:Szablon nawigacyjny ==\n\n"},"cachereport":{"origin":"mw-web.eqiad.canary-76d7c99c78-fxfs5","timestamp":"20251228211433","ttl":2592000,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.canary-76d7c99c78-kw9hw","wgBackendResponseTime":170,"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.453","ppvisitednodes":{"value":320,"limit":1000000},"revisionsize":{"value":3707,"limit":2097152},"postexpandincludesize":{"value":9973,"limit":2097152},"templateargumentsize":{"value":1284,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":10463,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  191.159      1 -total"," 73.49%  140.492      1 Szablon:Dziady"," 72.16%  137.942      1 Szablon:Szablon_nawigacyjny"," 15.65%   29.912      3 Szablon:Fakt","  8.40%   16.063      1 Szablon:Wikiźródła","  7.13%   13.621      1 Szablon:Projekt_siostrzany","  5.71%   10.909      1 Szablon:Ikona","  1.58%    3.016      1 Szablon:Przypisy"]},"scribunto":{"limitreport-timeusage":{"value":"0.133","limit":"10.000"},"limitreport-memusage":{"value":1223574,"limit":52428800},"limitreport-logs":"WRAP: lead = \"span\"\nWRAP: tail = \"span\"\nWRAP: lead = \"span\"\nWRAP: tail = \"span\"\nWRAP: lead = \"span\"\nWRAP: tail = \"span\"\n\n== Szablon:Szablon nawigacyjny ==\n\n"},"cachereport":{"origin":"mw-web.eqiad.main-8f8dcf6c-5qsjc","timestamp":"20260104070041","ttl":2592000,"transientcontent":false}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Wielka improwizacja","url":"https:\/\/pl.wikipedia.org\/wiki\/Wielka_improwizacja","sameAs":"http:\/\/www.wikidata.org\/entity\/Q9372793","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q9372793","author":{"@type":"Organization","name":"Wsp\u00f3\u0142tw\u00f3rcy projekt\u00f3w Fundacji Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-04-15T22:45:35Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/40\/Ekspozycja_%22Cela_Konrada%22_w_Wilnie.JPG"}</script>
 </body>
 </html>

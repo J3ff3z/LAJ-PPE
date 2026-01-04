@@ -1,17 +1,1027 @@
-HTTP/2 403 
-date: Sat, 03 Jan 2026 16:43:27 GMT
-server: Apache
-x-datadome: protected
-accept-ch: Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory
-charset: utf-8
-cache-control: max-age=0, private, no-cache, no-store, must-revalidate
-pragma: no-cache
-x-datadome-cid: AHrlqAAAAAMA7SrAI2o1SuwAsLmwKw==
-x-dd-b: 2
-set-cookie: datadome=jxVktqVVCFJGn25Jb7YsrFhEoywSdxtaCt6fKOV_Cfhd3zCRfm0u8x3ByVZ9ulmXt4_23xoYmU~x_QYvSCTRpXBP7P87IVemFGVku7xElA0qkDbOsixjIrHfAItdGECb; Max-Age=31536000; Domain=.cairn.info; Path=/; Secure; SameSite=None
-content-length: 770
-access-control-allow-origin: *
-content-type: text/html;charset=utf-8
-set-cookie: SERVER_USED=cairnweb3; path=/
+HTTP/1.1 200 OK
+Date: Sun, 04 Jan 2026 17:24:33 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Thu, 01 Feb 2024 11:23:09 GMT
+ETag: "15d1f-6105038584140"
+Accept-Ranges: bytes
+Content-Length: 89375
+Vary: Accept-Encoding
+Referrer-Policy: 
+Content-Type: text/html; charset=UTF-8
 
-<html lang="en"><head><title>cairn.info</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style="margin:0"><p id="cmsg">Please enable JS and disable any ad blocker</p><script data-cfasync="false">var dd={'rt':'c','cid':'AHrlqAAAAAMA7SrAI2o1SuwAsLmwKw==','hsh':'9E3A8A2A4B1B6523B8B3953E2C0374','t':'bv','qp':'','s':45004,'e':'db04639e471f4152dbd89617038cea5bfecd34a63c745a64163dc2640721354d011f0165f668d210491f917888bebd62','host':'geo.captcha-delivery.com','cookie':'jxVktqVVCFJGn25Jb7YsrFhEoywSdxtaCt6fKOV_Cfhd3zCRfm0u8x3ByVZ9ulmXt4_23xoYmU~x_QYvSCTRpXBP7P87IVemFGVku7xElA0qkDbOsixjIrHfAItdGECb'}</script><script data-cfasync="false" src="https://ct.captcha-delivery.com/c.js"></script></body></html>
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="fr-FR">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="fr-FR">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="fr-FR">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+<title>Qu’est-ce que le péché ? Ne pas avoir confiance en Dieu (Jean 16v9)</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://agen.umc-europe.org/eglise/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="https://agen.umc-europe.org/eglise/wp-content/themes/simpleo/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Le péché : voilà un mot qui n’est pas à la mode. A chacun sa définition de ce qui est bien et de ce qui est mal. Qu&#039;est-ce que le péché dans la Bible?" />
+	<link rel="canonical" href="https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Qu’est-ce que le péché ? Ne pas avoir confiance en Dieu (Jean 16v9)" />
+	<meta property="og:description" content="Le péché : voilà un mot qui n’est pas à la mode. A chacun sa définition de ce qui est bien et de ce qui est mal. Qu&#039;est-ce que le péché dans la Bible?" />
+	<meta property="og:url" content="https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/" />
+	<meta property="og:site_name" content="Église Protestante Évangélique Méthodiste Agen" />
+	<meta property="article:publisher" content="https://www.facebook.com/EgliseAgen/" />
+	<meta property="article:published_time" content="2017-07-02T19:50:07+00:00" />
+	<meta property="article:modified_time" content="2019-08-01T07:57:48+00:00" />
+	<meta property="og:image" content="https://agen.umc-europe.org/eglise/wp-content/uploads/2017/07/le-peche.jpg" />
+	<meta property="og:image:width" content="1025" />
+	<meta property="og:image:height" content="291" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="eglise.agen" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@EgliseAgen" />
+	<meta name="twitter:site" content="@EgliseAgen" />
+	<meta name="twitter:label1" content="Écrit par" />
+	<meta name="twitter:data1" content="eglise.agen" />
+	<meta name="twitter:label2" content="Durée de lecture estimée" />
+	<meta name="twitter:data2" content="11 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/","url":"https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/","name":"Qu’est-ce que le péché ? Ne pas avoir confiance en Dieu (Jean 16v9)","isPartOf":{"@id":"https://agen.umc-europe.org/eglise/#website"},"primaryImageOfPage":{"@id":"https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/#primaryimage"},"image":{"@id":"https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/#primaryimage"},"thumbnailUrl":"https://agen.umc-europe.org/eglise/wp-content/uploads/2017/07/le-peche.jpg","datePublished":"2017-07-02T19:50:07+00:00","dateModified":"2019-08-01T07:57:48+00:00","author":{"@id":"https://agen.umc-europe.org/eglise/#/schema/person/e4e75e8bdea6a53fc59d926ccb55abe7"},"description":"Le péché : voilà un mot qui n’est pas à la mode. A chacun sa définition de ce qui est bien et de ce qui est mal. Qu'est-ce que le péché dans la Bible?","breadcrumb":{"@id":"https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/"]}]},{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/#primaryimage","url":"https://agen.umc-europe.org/eglise/wp-content/uploads/2017/07/le-peche.jpg","contentUrl":"https://agen.umc-europe.org/eglise/wp-content/uploads/2017/07/le-peche.jpg","width":1025,"height":291,"caption":"Le péché - Ne pas avoir confiance en Dieu"},{"@type":"BreadcrumbList","@id":"https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://agen.umc-europe.org/eglise/"},{"@type":"ListItem","position":2,"name":"Qu’est-ce que le péché ? Ne pas avoir confiance en Dieu (Jean 16v9)"}]},{"@type":"WebSite","@id":"https://agen.umc-europe.org/eglise/#website","url":"https://agen.umc-europe.org/eglise/","name":"Église Protestante Évangélique Méthodiste Agen","description":"Des chrétiens évangéliques au coeur du Lot et Garonne. &quot;Viens et vois!&quot; ( Jean 1:47 )","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://agen.umc-europe.org/eglise/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"},{"@type":"Person","@id":"https://agen.umc-europe.org/eglise/#/schema/person/e4e75e8bdea6a53fc59d926ccb55abe7","name":"eglise.agen","description":"Administateur du site de l'église d'Agen","sameAs":["https://agen.umc-europe.org/eglise/"],"url":"https://agen.umc-europe.org/eglise/author/eem_agen/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Église Protestante Évangélique Méthodiste Agen &raquo; Flux" href="https://agen.umc-europe.org/eglise/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Église Protestante Évangélique Méthodiste Agen &raquo; Flux des commentaires" href="https://agen.umc-europe.org/eglise/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Église Protestante Évangélique Méthodiste Agen &raquo; Qu’est-ce que le péché ? Ne pas avoir confiance en Dieu (Jean 16v9) Flux des commentaires" href="https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.23.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-84NM7GBXZB"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.23.1';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+										'ga-disable-G-84NM7GBXZB',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+										__gtagTracker('config', 'G-84NM7GBXZB', {"forceSSL":"true","link_attribution":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/agen.umc-europe.org\/eglise\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='tsvg-block-css-css' href='https://agen.umc-europe.org/eglise/wp-content/plugins/gallery-videos/admin/css/tsvg-block.css?ver=6.4.3' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://agen.umc-europe.org/eglise/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='tsvg-fonts-css' href='https://agen.umc-europe.org/eglise/wp-content/plugins/gallery-videos/public/css/tsvg-fonts.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='simpleo-css' href='https://agen.umc-europe.org/eglise/wp-content/themes/simpleo/style.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css' href='https://agen.umc-europe.org/eglise/wp-content/themes/simpleo/css/responsive.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://agen.umc-europe.org/eglise/wp-content/themes/simpleo/css/font-awesome.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='body-font-css' href='//fonts.googleapis.com/css?family=PT+Sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-font-css' href='//fonts.googleapis.com/css?family=PT+Sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='logo-font-css' href='//fonts.googleapis.com/css?family=PT+Sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=6.4.3' type='text/css' media='all' />
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.23.1" id="monsterinsights-frontend-script-js"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/agen.umc-europe.org\/eglise","hash_tracking":"false","v4_id":"G-84NM7GBXZB"};/* ]]> */
+</script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js?ver=8.4.11#property=63ac0d515150cb0013011f28&amp;product=gdpr-compliance-tool-v2&amp;source=simple-share-buttons-adder-wordpress" id="simple-share-buttons-adder-mu-js"></script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-content/themes/simpleo/js/superfish.js?ver=6.4.3" id="superfish-js"></script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-content/themes/simpleo/js/supersubs.js?ver=6.4.3" id="supersubs-js"></script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-content/themes/simpleo/js/jquery.flexslider.js?ver=6.4.3" id="flexslider-js"></script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-content/themes/simpleo/js/tinynav.js?ver=6.4.3" id="tinynav-js"></script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-content/themes/simpleo/js/jquery.refineslide.js?ver=6.4.3" id="refineslide-js"></script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-content/themes/simpleo/js/imgLiquid.js?ver=6.4.3" id="imgLiquid-min-js"></script>
+<link rel="https://api.w.org/" href="https://agen.umc-europe.org/eglise/wp-json/" /><link rel="alternate" type="application/json" href="https://agen.umc-europe.org/eglise/wp-json/wp/v2/posts/2986" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://agen.umc-europe.org/eglise/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.3" />
+<link rel='shortlink' href='https://agen.umc-europe.org/eglise/?p=2986' />
+<link rel="alternate" type="application/json+oembed" href="https://agen.umc-europe.org/eglise/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fagen.umc-europe.org%2Feglise%2Fqu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://agen.umc-europe.org/eglise/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fagen.umc-europe.org%2Feglise%2Fqu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9%2F&#038;format=xml" />
+<style type="text/css">
+    .calnk a:hover {
+        background-position:0 0;
+        text-decoration:none;  
+        color:#000000;
+        border-bottom:1px dotted #000000;
+     }
+    .calnk a:visited {
+        text-decoration:none;
+        color:#000000;
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a {
+        text-decoration:none; 
+        color:#000000; 
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a span { 
+        display:none; 
+    }
+    .calnk a:hover span {
+        color:#333333; 
+        background:#F6F79B; 
+        display:block;
+        position:absolute; 
+        margin-top:1px; 
+        padding:5px; 
+        width:150px; 
+        z-index:100;
+        line-height:1.2em;
+    }
+    .calendar-table {
+        border:0 !important;
+        width:100% !important;
+        border-collapse:separate !important;
+        border-spacing:2px !important;
+        font-family: PT Sans !important;
+    }
+    .calendar-heading {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-next {
+        width:25%;
+        text-align:center;
+    }
+    .calendar-prev {
+        width:25%;
+        text-align:center;
+    }
+    .calendar-month {
+        width:50%;
+        text-align:center;
+        font-weight:bold;
+    }
+    .normal-day-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.9em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+    }
+    .weekend-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.9em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+        color:#FF0000;
+    }
+    .day-with-date {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #DFE6DE;
+    }
+    .no-events {
+
+    }
+    .day-without-date {
+        width:60px;
+        height:60px;
+        border:1px solid #E9F0E8;
+    }
+    span.weekend {
+        color:#FF0000;
+    }
+    .current-day {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #BFBFBF;
+        background-color:#E4EBE3;
+    }
+    span.event {
+        font-size:0.75em;
+    }
+    .kjo-link {
+        font-size:0.75em;
+        text-align:center;
+    }
+    .calendar-date-switcher {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-date-switcher form {
+        margin:2px;
+    }
+    .calendar-date-switcher input {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calendar-date-switcher select {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calnk a:hover span span.event-title {
+        padding:0;
+        text-align:center;
+        font-weight:bold;
+        font-size:1.2em;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-title-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-content-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .page-upcoming-events {
+        font-size:80%;
+    }
+    .page-todays-events {
+        font-size:80%;
+    }
+    .calendar-table table,tbody,tr,td {
+        margin:0 !important;
+        padding:0 !important;
+    }
+    table.calendar-table {
+        margin-bottom:5px !important;
+    }
+    .cat-key {
+        width:100%;
+        margin-top:30px;
+        padding:5px;
+        border:0 !important;
+    }
+    .cal-separate {
+       border:0 !important;
+       margin-top:10px;
+    }
+    table.cat-key {
+       margin-top:5px !important;
+       border:1px solid #DFE6DE !important;
+       border-collapse:separate !important;
+       border-spacing:4px !important;
+       margin-left:2px !important;
+       width:99.5% !important;
+       margin-bottom:5px !important;
+    }
+    .cat-key td {
+       border:0 !important;
+    }
+</style>
+<link rel="apple-touch-icon" sizes="76x76" href="/eglise/wp-content/uploads/fbrfg/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/eglise/wp-content/uploads/fbrfg/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/eglise/wp-content/uploads/fbrfg/favicon-16x16.png">
+<link rel="manifest" href="/eglise/wp-content/uploads/fbrfg/site.webmanifest">
+<link rel="mask-icon" href="/eglise/wp-content/uploads/fbrfg/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/eglise/wp-content/uploads/fbrfg/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/eglise/wp-content/uploads/fbrfg/browserconfig.xml">
+<meta name="theme-color" content="#ffffff"><!--Custom Styling-->
+<style media="screen" type="text/css">
+.sidebar .widget .widget-title h4 { color:#000000}
+.sidebar .widget .widget-title  { border-bottom: 4px solid #000000}
+.sidebar .widget .widget-title  { border-top: 4px solid #000000}
+.sidebar .widget, .sidebar .widget a { color:#8DB529}
+.sidebar .widget_text .widget-title h4 { color:#000000}
+.sidebar .widget_text .widget-title { border-bottom: 4px solid #000000}
+.sidebar .widget_text .widget-title { border-top: 4px solid #000000}
+.sidebar .widget_text, .sidebar .widget_text a { color:#8DB529}
+.sidebar .widget_tag_cloud .widget-title h4 { color:#000000}
+.sidebar .widget_tag_cloud .widget-title { border-bottom: 4px solid #000000}
+.sidebar .widget_tag_cloud .widget-title { border-top: 4px solid #000000}
+.sidebar .widget_tag_cloud, .sidebar .widget_tag_cloud a { color:#ffffff !important;}
+.sidebar .widget_search .widget-title h4 { color:#000000}
+.sidebar .widget_search .widget-title { border-bottom: 4px solid #000000}
+.sidebar .widget_search .widget-title { border-top: 4px solid #000000}
+.sidebar .widget .searchform input#s { border: 1px solid #000000}
+.sidebar .widget_search, .sidebar .widget_search a, .sidebar .searchform input#s { color:#8DB529}
+.sidebar .widget_rss .widget-title h4 a { color:#000000}
+.sidebar .widget_rss .widget-title { border-bottom: 4px solid #000000}
+.sidebar .widget_rss .widget-title { border-top: 4px solid #000000}
+.sidebar .widget_rss, .sidebar .widget_rss a { color:#8DB529}
+.sidebar .widget_recent_entries .widget-title h4 { color:#000000}
+.sidebar .widget_recent_entries .widget-title { border-bottom: 4px solid #000000}
+.sidebar .widget_recent_entries .widget-title { border-top: 4px solid #000000}
+.sidebar .widget_recent_entries, .sidebar .widget_recent_entries a { color:#8DB529}
+.sidebar .widget_recent_comments .widget-title h4 { color:#000000}
+.sidebar .widget_recent_comments .widget-title { border-bottom: 4px solid #000000}
+.sidebar .widget_recent_comments .widget-title { border-top: 4px solid #000000}
+.sidebar .widget_recent_comments, .sidebar .widget_recent_comments a { color:#8DB529}
+.sidebar .widget_pages .widget-title h4 { color:#000000}
+.sidebar .widget_pages .widget-title { border-bottom: 4px solid #000000}
+.sidebar .widget_pages .widget-title { border-top: 4px solid #000000}
+.sidebar .widget_pages, .sidebar .widget_pages a { color:#8DB529}
+.sidebar .widget_meta .widget-title h4 { color:#000000}
+.sidebar .widget_meta .widget-title { border-bottom: 4px solid #000000}
+.sidebar .widget_meta .widget-title { border-top: 4px solid #000000}
+.sidebar .widget_meta, .sidebar .widget_meta a { color:#8DB529}
+.sidebar .widget_links .widget-title h4 { color:#000000}
+.sidebar .widget_links .widget-title { border-bottom: 4px solid #000000}
+.sidebar .widget_links .widget-title { border-top: 4px solid #000000}
+.sidebar .widget_links, .sidebar .widget_links a { color:#8DB529}
+.sidebar .widget_nav_menu .widget-title h4 { color:#000000}
+.sidebar .widget_nav_menu .widget-title { border-bottom: 4px solid #000000}
+.sidebar .widget_nav_menu .widget-title { border-top: 4px solid #000000}
+.sidebar .widget_nav_menu, .sidebar .widget_nav_menu a { color:#8DB529}
+.sidebar .widget_calendar .widget-title h4 { color:#000000}
+.sidebar .widget_calendar .widget-title { border-bottom: 4px solid #000000}
+.sidebar .widget_calendar .widget-title { border-top: 4px solid #000000}
+.sidebar .widget_calendar, .sidebar .widget_calendar a { color:#8DB529}
+.sidebar .widget_categories .widget-title h4 { color:#000000}
+.sidebar .widget_categories .widget-title { border-bottom: 4px solid #000000}
+.sidebar .widget_categories .widget-title { border-top: 4px solid #000000}
+.sidebar .widget_categories, .sidebar .widget_categories a { color:#8DB529}
+.sidebar .widget_archive .widget-title h4 { color:#000000}
+.sidebar .widget_archive .widget-title { border-bottom: 4px solid #000000}
+.sidebar .widget_archive .widget-title { border-top: 4px solid #000000}
+.sidebar .widget_archive a { color:#8DB529}
+#footer { background-color:#000000}
+#copyright { background-color:#888888}
+.footer-widget-col h4 { color:#ffffff}
+.footer-widget-col h4 { border-bottom: 4px solid #ffffff}
+.footer-widget-col a, .footer-widget-col { color:#ffffff}
+.footer-widget-col ul li { border-bottom: 1px dashed #dddddd}
+#site-navigation ul li a {font-family:PT Sans}
+#site-navigation ul li a {font-size:14px}
+#site-navigation ul li a {color:#ffffff}
+#site-navigation {background-color:#888888}
+#site-navigation {border-bottom: 2px solid #ffffff}
+#site-navigation {border-top: 2px solid #ffffff}
+#site-navigation ul li ul.sub-menu ul.sub-menu {border-bottom: 5px solid #ffffff}
+#site-navigation ul li ul.sub-menu {border-bottom: 5px solid #ffffff}
+#site-navigation ul li a:hover {color:#000000}
+#site-navigation ul li a:hover, #site-navigation ul li a:focus, #site-navigation ul li a.active, #site-navigation ul li a.active-parent, #site-navigation ul li.current_page_item a { background:#8db529}
+#site-navigation ul li ul.sub-menu { background:#8db529}
+#menu-main-navigation .current-menu-item a { color:#000000}
+#site-navigation ul li a {text-transform: uppercase;}
+.about {color:#000000}
+.about {background: none repeat scroll 0 0 #ffffff}
+.content-boxes {color:#ffffff}
+.content-boxes {background: none repeat scroll 0 0 #8db529}
+#logo-layout #social-bar ul li a { color:#000000}
+#logo-layout #social-bar ul li a { background: none repeat scroll 0 0 #8DB529}
+.address-box { color:#ffffff}
+#cart-wrapper #shopping-cart { color:}
+#cart-wrapper #shopping-cart a { color:}
+.posts-featured-details-wrapper div { background: none repeat scroll 0 0 #8db529}
+.posts-featured-details-wrapper, .posts-featured-details-wrapper a { color: #000000}
+.back-to-top {color:#8db529}
+.back-to-top i.fa:hover {color:#ffffff}
+#logo { margin-top:25px }
+#logo { margin-bottom:25px }
+#logo { margin-right:25px }
+#logo {height:80px }
+#logo {width:350px }
+#logo {font-weight:700}
+#logo .site-description {text-transform: uppercase}
+#logo h5.site-description {font-size:16px }
+#logo {text-transform: uppercase }
+#logo {font-family:PT Sans}
+#logo a {color:#ffffff}
+#logo .site-description {color:#ffffff}
+#logo {font-size:50px }
+body {font-family:PT Sans !important}
+body {font-size:15px !important}
+body {color:#000000}
+</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://agen.umc-europe.org/eglise/wp-content/uploads/2017/06/default-bg.jpg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+	</head> 
+<body class="post-template-default single single-post postid-2986 single-format-standard custom-background">
+<div id="grid-container">
+	<div class="clear"></div>
+		<div id="header-holder">
+			<div id="logo-layout">	
+				<div class="clear"></div>	
+				<div id="logo">
+											<a href="https://agen.umc-europe.org/eglise/"><img src="https://agen.umc-europe.org/eglise/wp-content/uploads/2017/06/logo_eemagen2.jpg" alt="église évangélique méthodiste agen"/></a>
+						 
+							<h5 class="site-description">Des chrétiens évangéliques au coeur du Lot et Garonne. &quot;Viens et vois!&quot; ( Jean 1:47 )</h5>
+															</div><!--logo-->
+				 				
+			  			
+<div id="address-bar">
+	<div class="address-box">
+		<span>1874, Avenue du Général Leclerc 47000 AGEN</span>
+	</div>
+	<div class="phone-box">
+		<span class="top-email"><i class="fa fa-phone"></i>05 53 96 84 32</span>
+		<span class="top-email"><i class="fa fa-envelope"></i><a href="mailto:eem.agen@umc-europe.org">eem.agen@umc-europe.org</a></span>
+	</div>
+</div><!---address-bar-->			
+<div id="social-bar">
+	<ul>
+				<li>
+			<a href="https://www.facebook.com/EgliseAgen/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a>
+		</li>
+								<li>
+			<a href="https://soundcloud.com/eglise-methodiste-agen" target="_blank" title="RSS"><i class="fa fa-rss"></i></a>
+		</li>
+						<li>
+			<a href="https://twitter.com/EgliseAgen" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a>
+		</li>
+																		<li>
+			<a href="https://www.instagram.com/egliseagen/" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a>
+		</li>
+			</ul>
+</div><!--social-bar-->			</div><!--logo-layout-->
+			<nav id="site-navigation" class="main-navigation" role="navigation">
+				<ul id="menu-main-navigation" class="sf-menu sf-js-enabled sf-shadow"><li id="menu-item-76" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-76"><a href="https://agen.umc-europe.org/eglise/">Accueil</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-68"><a title="Qu&rsquo;est ce qu&rsquo;une église évangélique méthodiste ?" href="https://agen.umc-europe.org/eglise/evangeliques/">Qui sommes nous ?</a>
+<ul class="sub-menu">
+	<li id="menu-item-1042" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1042"><a href="https://agen.umc-europe.org/eglise/le-mot-du-pasteur/">Le mot du pasteur</a></li>
+	<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="https://agen.umc-europe.org/eglise/nos-activites/">Activités</a></li>
+	<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://agen.umc-europe.org/eglise/nos-activites/culte-du-dimanche/">Culte du Dimanche</a></li>
+	<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174"><a href="https://agen.umc-europe.org/eglise/nos-activites/enfants-et-jeunes-catechisme/">Catéchisme pour Enfants et Jeunes</a></li>
+	<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="https://agen.umc-europe.org/eglise/nos-activites/etudes-bibliques-en-lot-et-garonne/">Études Bibliques</a></li>
+	<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="https://agen.umc-europe.org/eglise/nos-activites/parcours-alpha/">Parcours Alpha Classic 2023</a></li>
+</ul>
+</li>
+<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-120"><a href="https://agen.umc-europe.org/eglise/notre-histoire-introduction/">Histoire</a>
+<ul class="sub-menu">
+	<li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="https://agen.umc-europe.org/eglise/notre-histoire-introduction/notre-histoire-l-origine/">L&rsquo;origine (1925)</a></li>
+	<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="https://agen.umc-europe.org/eglise/notre-histoire-introduction/notre-histoire-les-pionniers/">Les pionniers (1926-31)</a></li>
+	<li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><a href="https://agen.umc-europe.org/eglise/notre-histoire-introduction/notre-histoire-pasteur-nyffeler/">2eme Guerre  (1931-46)</a></li>
+	<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="https://agen.umc-europe.org/eglise/notre-histoire-introduction/notre-histoire-pasteur-zimmermann/">La tranche Zimmermann (1946-62)</a></li>
+	<li id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="https://agen.umc-europe.org/eglise/notre-histoire-introduction/notre-histoire-la-mutation/">La mutation (1962 &#8211; 73)</a></li>
+	<li id="menu-item-264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-264"><a href="https://agen.umc-europe.org/eglise/notre-histoire-introduction/notre-histoire-pasteur-a-waechter/">Famille A. Waechter (1973 &#8211; 93)</a></li>
+	<li id="menu-item-242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a href="https://agen.umc-europe.org/eglise/notre-histoire-introduction/notre-histoire-pasteur-jp-waechter/">L&rsquo;ère JP Waechter (1993-2003)</a></li>
+</ul>
+</li>
+<li id="menu-item-6172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6172"><a href="https://agen.umc-europe.org/eglise/nos-activites/culte-du-dimanche/">Culte en direct</a></li>
+<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-366"><a href="https://agen.umc-europe.org/eglise/ressources-bibliques/">Ressources</a>
+<ul class="sub-menu">
+	<li id="menu-item-698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-698"><a href="https://agen.umc-europe.org/eglise/ressources-bibliques/messages-et-predications-audio/">Prédications, Messages, Enseignements et Sermons bibliques (texte &#038; audio en français)</a></li>
+	<li id="menu-item-368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="https://agen.umc-europe.org/eglise/ressources-bibliques/bibliotheque-de-culture-biblique/">Bibliothèque de culture biblique à Agen</a></li>
+	<li id="menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-372"><a href="https://agen.umc-europe.org/eglise/ressources-bibliques/convention-biblique-annuelle/">Convention Biblique Annuelle</a></li>
+	<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="https://agen.umc-europe.org/eglise/ressources-bibliques/musiques-chretiennes/">Musiques chrétiennes</a></li>
+	<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526"><a href="https://agen.umc-europe.org/eglise/ressources-bibliques/liens-chretiens/">Liens chrétiens</a></li>
+</ul>
+</li>
+<li id="menu-item-3240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3240"><a href="https://agen.umc-europe.org/eglise/faq-spiritualite/">Thèmes</a>
+<ul class="sub-menu">
+	<li id="menu-item-3244" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-3244"><a href="https://agen.umc-europe.org/eglise/les-4-dimensions-amour-de-dieu-ephesiens/">L’amour de Dieu</a></li>
+	<li id="menu-item-3242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3242"><a href="https://agen.umc-europe.org/eglise/faq-spiritualite/saint-esprit/">L&rsquo;Esprit saint, Dieu le Saint Esprit</a></li>
+	<li id="menu-item-3314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3314"><a href="https://agen.umc-europe.org/eglise/faq-spiritualite/plan-du-salut/">Plan du salut</a></li>
+	<li id="menu-item-4592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4592"><a href="https://agen.umc-europe.org/eglise/faq-spiritualite/eglise-de-jesus-christ/">L&rsquo;église de Jésus-Christ</a></li>
+	<li id="menu-item-3391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3391"><a href="https://agen.umc-europe.org/eglise/faq-spiritualite/les-psaumes/">Les Psaumes dans la Bible – Poèmes et chants religieux d’Israël</a></li>
+</ul>
+</li>
+</ul>			</nav><!--site-navigation-->
+		</div><!--header-holder-->	<div id="main" class="col2-l">
+	<div id="content-box">
+	<div id="post-body">
+		<div class="post-single post-2986 post type-post status-publish format-standard has-post-thumbnail hentry category-predication-bible-audio tag-confiance tag-peche tag-vie-chretienne">
+						<h1 id="post-title" class="entry-title post-2986 post type-post status-publish format-standard has-post-thumbnail hentry category-predication-bible-audio tag-confiance tag-peche tag-vie-chretienne">Qu’est-ce que le péché ? Ne pas avoir confiance en Dieu (Jean 16v9) </h1>
+			<div class="post-info">
+			<span><i class="fa fa-thumb-tack"></i>Standard</span>
+		<span class="separator"> / </span>
+	<span><i class="fa fa-user"></i>par <a href="https://agen.umc-europe.org/eglise/author/eem_agen/" title="Articles par eglise.agen" rel="author">eglise.agen</a> </span>
+	<span class="separator"> / </span>
+	<span><i class="fa fa-calendar"></i>2 juillet 2017 </span>
+	<span class="separator"> / </span>
+	<span><i class="fa fa-comment-o"></i><a href="https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/#comments">2 Commentaires</a></span>
+</div>							<div class="thumb-wrapper">
+								<img width="1025" height="291" src="https://agen.umc-europe.org/eglise/wp-content/uploads/2017/07/le-peche.jpg" class="attachment-full size-full wp-post-image" alt="Le péché - Ne pas avoir confiance en Dieu" decoding="async" fetchpriority="high" srcset="https://agen.umc-europe.org/eglise/wp-content/uploads/2017/07/le-peche.jpg 1025w, https://agen.umc-europe.org/eglise/wp-content/uploads/2017/07/le-peche-300x85.jpg 300w, https://agen.umc-europe.org/eglise/wp-content/uploads/2017/07/le-peche-768x218.jpg 768w, https://agen.umc-europe.org/eglise/wp-content/uploads/2017/07/le-peche-1024x291.jpg 1024w" sizes="(max-width: 1025px) 100vw, 1025px" />							</div><!--thumb-wrapper-->
+										<div id="article">
+												<p>Nous allons parler d’un mot qui n’est pas du tout à la mode ; il est même éjecté de notre vocabulaire, relégué aux oubliettes. Il faut dire que nous sommes dirigés par la pensée de la tolérance qui signifie qu’il est interdit d’interdire ; à chacun sa vérité, à chacun sa perception, <strong>à chacun sa définition de ce qui est bien et de ce qui est mal</strong>. Quel mal y a-t-il à se faire du bien ? L’important, c’est moi, c’est ce que j’ai envie de vivre, et toi, fais de même ; je ne te l’interdis pas, sauf quand tu vas, par tes choix, m’empêcher de faire ce qui me plaît… Voilà le mode de fonctionnement de notre société. Ah oui, ce mot, c’est « le péché ». <strong>Mais qu’est-ce que le péché ?</strong></p>
+<p><span id="more-2986"></span></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-2986-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://agen.umc-europe.org/eglise/wp-content/uploads/2017/07/20170702-J-RUBEN.mp3?_=1" /><a href="https://agen.umc-europe.org/eglise/wp-content/uploads/2017/07/20170702-J-RUBEN.mp3">https://agen.umc-europe.org/eglise/wp-content/uploads/2017/07/20170702-J-RUBEN.mp3</a></audio>
+<h2>1) La définition du péché selon nous ou selon Jésus.</h2>
+<p>Donc, dans notre société, la notion du bien et du mal tend à disparaître ; <strong>qu’est-ce donc que le péché</strong>… ? Le péché, c’est devenu le fait de vivre ce qui est mal <em>à mes yeux</em> ; un peu comme la définition de l’égoïste : « un égoïste est quelqu’un qui ne pense pas à moi »… Pour les 2 cas, <em>je </em>suis le centre, <em>je </em>définis le péché comme <em>je</em> l’entends.</p>
+<p>Bon, d’accord, nous n’en sommes pas là ! Quoique… beaucoup de personnes (et de chrétiens aussi ?) définissent le péché comme ça les arrange, et sont tolérantes quand ça les arrange.</p>
+<p><strong>Et Dieu là-dedans ?</strong> C’est un garçon qui revient chez lui après le culte : « <a href="https://agen.umc-europe.org/eglise/ressources-bibliques/messages-et-predications-audio/">De quoi a parlé le prédicateur ce matin ?</a> » demande la maman. « Du péché ; il était plutôt contre ».</p>
+<p>Nous allons ce matin encore dire que nous sommes contre ; le problème est quand nous sommes <em>tout contre</em>… Mais nous risquons de continuer à l’être quand nous avons une mauvaise définition du péché.</p>
+<p>Voilà une <strong>définition du péché</strong> qui est commune à la très grande majorité des personnes, des enfants, des jeunes et des adultes, des gens qui ne connaissent pas Dieu comme des chrétiens : c’est avoir des vices, c’est commettre des erreurs. C’est déjà mieux que cette tolérance qui nivelle tout, où tout est beau, pourvu qu’on le fasse avec amour (de soi… ?). Mais comme tout le monde commet des fautes et est imparfait, on se trouve vite dans une bonne moyenne.</p>
+<p>Donc, lorsqu’on reconnaît ces fautes, on incrimine notre main qui a commis un geste déplacé, notre langue qui est allée trop loin dans une plaisanterie, notre pensée qui a dépassé ce qu’on critiquait chez d’autres. Et donc, la solution semble bien de corriger notre main, notre langue, notre pensée ; et depuis des années, c’est l’échec, suivi d’une dépréciation de nous-mêmes, où nous finissons par tolérer ce qui hérissait nos poils auparavant.</p>
+<h3><strong>Et la Bible, comment parle-t-elle du péché ? Quelle en est la définition ?</strong></h3>
+<p>Et là, surprise, la direction que donne Jésus part dans un autre sens que celui auquel beaucoup pensent. Peut-on changer le mal que nous reconnaissons être en nous ? Quels efforts devrions-nous faire pour changer ? Et si la solution était ailleurs que dans nos efforts ? Ou, plus exactement, où devraient-ils être ? A quoi Jésus relie-t-il le péché ? Qu’est-ce qui fausse la notion du péché et la solution pour le régler ?</p>
+<p>Jésus dit : « Quand le Défenseur [<a href="https://agen.umc-europe.org/eglise/faq-spiritualite/saint-esprit/">le Saint Esprit</a>] sera venu, il prouvera au monde qu’il s’égare au sujet du péché (…) <em>parce qu’il ne croit pas en moi</em> » (Jean 16v8-9). La source du péché est le fait de ne pas avoir confiance en Christ, de ne pas le croire. Le péché n’est pas avant tout un acte : il n’est que le prolongement d’une attitude qui est le manque de confiance en Jésus-Christ.</p>
+<p>Le problème du péché ? C’est un peu comme le chiendent : tant que vous couperez cette herbe, le problème ne sera pas résolu ; la solution ? Il faut l’arracher.</p>
+<h3>La solution par rapport au péché n’est pas dans l’effort personnel mais dans <strong>la confiance en Dieu</strong>.</h3>
+<p>Adam et Eve faisaient confiance à Dieu, mais à un moment donné, ils ont écouté Satan et ils lui ont fait confiance plus qu’à Dieu. Est-ce que le péché a été de manger le fruit que Dieu leur avait défendu ? Certainement, mais, en amont, c’est une conséquence de la confiance qu’ils ont mise dans la parole de Satan qui remettait en question la parole de Dieu. Voilà le point de départ, qui a entraîné tout le reste. <strong>Le péché, c’est ne pas avoir confiance en Dieu.</strong></p>
+<p>Jésus affirme : « Qui place sa confiance dans le Fils possède la vie éternelle. Qui ne met pas sa confiance dans le Fils ne connaît pas la vie ; il reste sous le coup de la colère de Dieu » (Jean 3v36). Avoir confiance en Dieu ou non, tout est là.</p>
+<p>Notre réaction est peut-être de penser tout de suite : « C’est bon, moi, je crois ; j’ai la foi, je crois que Dieu existe, que Jésus est mort à la croix ; j’en suis sûr, même ». Mais la différence entre cette croyance et la foi selon Dieu est trop importante quant aux conséquences éternelles pour ne pas s’y arrêter. C’est Jacques qui écrit dans son épître : « Tu crois qu’il y a un seul Dieu, tu fais bien. Les démons croient aussi, et ils tremblent ! » (Jacques 2v19). Cette croyance n’a jamais sauvé personne. Il est nécessaire qu’elle englobe une autre dimension, essentielle.</p>
+<h3>En hébreux, pécher, signifie <em>rater la cible</em></h3>
+<p>Peut-être aussi nous pensons que nous n’avons pas commis de faute grave qui nous condamne ; mais le verbe pécher, en hébreu, signifie <em>rater la cible</em>. Qu’elle soit ratée de peu ou de beaucoup, le résultat est le même. Malheureusement.</p>
+<p>Le gardien de prison où étaient Paul et Silas était bien supérieur aux autres prisonniers, bien entendu ; mais, malgré tout, son problème était aussi grave pour son éternité que pour les pires criminels qui croupissaient dans sa prison. Et là, en pleine nuit, Paul et Silas chantent et prient, confiants dans le Seigneur, malgré leurs souffrances.  Tout à coup, un tremblement de terre ébranle la prison (il y a des tremblements de terre salutaires !). Le geôlier de la prison fait alors le lien entre cet évènement et le témoignage entendu et il demande à Paul : « Que faut-il que je fasse pour être sauvé ? » Et Paul de répondre : « <em>Crois au Seigneur Jésus</em> et tu seras sauvé » (Actes des Apôtres 16v31).</p>
+<h3>Ce qui est demandé à chacun, c’est de placer sa confiance, de s’abandonner en Christ, le Sauveur ; alors, il donne la vie éternelle.</h3>
+<p>On est prêt à faire des efforts pour changer dans son comportement, à donner pour le SIDA, à être gentil vis-à-vis de ceux qui ne sont pas sympa avec nous, mais tout cela est plus facile que… de faire confiance à Dieu. Dire : « Je me fie à toi, Seigneur, et non pas à mon intelligence ou à mes capacités », c’est très difficile… dans sa simplicité.  <strong>Mais ne pas vivre cela, c’est cela le péché contre Dieu.</strong></p>
+<h2>2) Et nous, concrètement, alors ?</h2>
+<p>Il me semble évident qu’il n’y a que 2 possibilités :</p>
+<ul>
+<li>Vous pensez être chrétien parce que vous n’avez pas commis de fautes lourdes et que même vous n’êtes pas si mal que ça… Le problème, si vous croyez que vous êtes chrétien parce que vous <em>faites</em> ce qui est assez bien et que vous évitez ce qui est trop grave, c’est que cela vous maintient dans la tromperie. Jésus montre que le religieux qui, en priant, remercie Dieu de ce qu’il est meilleur que les autres, qu’il donne, qu’il est bon, pas irréprochable mais presque, celui-là repart sans être en règle devant Dieu. <strong>Il croit que Dieu existe et il fait beaucoup de bonnes choses ; mais il n’est pas sauvé, même s’il est très religieux</strong> (Luc 18v9-14).</li>
+<li>L’autre possibilité, c’est la confiance en Dieu, et non en soi ; l’autre personnage de cette parabole de Jésus, s’il est un homme respectable aux yeux de la société, est en fait un voleur : c’est un collecteur d’impôts. Mais son attitude parle d’un abandon à Dieu qui se manifeste par le fait de lui dire et de lui remettre toutes ses imperfections. C’est un pas essentiel qui libère profondément. <strong>Et Jésus ajoute que c’est ce dernier qui est reparti déclaré juste, c’est-à-dire sauvé.</strong></li>
+</ul>
+<h3>Que faire alors ?</h3>
+<p>Dieu nous invite à passer avec lui un pacte de confiance : « Je décide de te faire confiance, de compter sur toi ; je décide de t’écouter, malgré mes oreilles souvent bouchées. Je m’abandonne à toi et j’accepte de tout te donner, même mon égoïsme, mes manquements, mes blessures, mais aussi mon avenir, mes projets ; pour mes études, ma vie sentimentale, mon mariage, ma santé, ma vieillesse, ma mort, je m’en remets à toi ; je veux me laisser diriger par toi, confiant en toi. Et, Seigneur, aide-moi à le vivre toute ma vie ».</p>
+<p>Que faire encore ? Jésus relie la confiance en Dieu à l’écoute de sa Parole : « Oui, vraiment, je vous l’assure : celui qui écoute ce que je dis et qui place sa confiance dans le Père qui m’a envoyé, possède, dès à présent, la vie éternelle et il ne sera pas condamné ; il est passé de la mort à la vie » (Jean 5v24).</p>
+<p>Jésus affirme que les 2 critères pour posséder la vie éternelle, c’est écouter sa Parole (la Bible) et placer sa confiance en Dieu.</p>
+<blockquote><p>C’est l’histoire de cet homme qui veut vendre sa maison ; il la nettoie, il la retape (eh oui, ça se vend mieux…). Mais une fois que le promoteur l’a achetée, il la rase ! « Moi qui ai pris tant de peine pour la réparer !! ».</p></blockquote>
+<p>Pouvons-nous réparer nos vies ? De dire non, n’est-ce pas pousser à la paresse ? Et pourtant, la solution n’est pas tant d’essayer de réparer notre vie que de l’abandonner à Dieu ; parce que, ce qu’il veut, c’est nous faire connaître une vie transformée.</p>
+<p>Voilà la Bonne Nouvelle qui est pour chacun. Peut-être avons-nous vécu des blessures il y a des années qui déterminent notre vie d’une manière négative, peut-être les circonstances difficiles que nous avons traversées nous font entrevoir un avenir noir.</p>
+<blockquote><p>Bernie May, chrétien, pilotait son avion. Il raconte : « La voix du contrôleur de l’aérodrome était calme : ‘Je vous ai bien reçu. L’un des moteurs vous a lâché. Voulez-vous que je vous guide ?’. ‘OK, je vous reçois et vous demande des caps radars pour rejoindre l’aérodrome’. Je jetais un coup d’œil sur mes passagers, qui, pétrifiés, contemplaient l’hélice immobile. ‘Virez à gauche, au cap 110, descendez à 1.200 mètres’. Je suivais ses instructions de la tour de contrôle à la lettre. A cette altitude, nous avons pénétré dans les nuages et avons volé sans visibilité dans le crachin et la pluie. Je pouvais à peine voir le bout de mon aile ; mais je savais que, lui, il connaissait ma position. Je ne connaissais pas son nom, je ne l’avais jamais vu, mais je savais que je pouvais lui faire confiance. Je n’avais pas d’autre choix. Soudain, nous sommes sortis des nuages, et la piste s’étendait devant nous ! Je ne savais pas que l’asphalte était si beau ! Arrivé au sol, j’ai pensé à une autre voix. Calme et patiente, elle a toujours été présente, même quand, pendant des années, des brumes aveuglantes ont jeté le chaos dans ses plans tracés. Suis-je prêt à suivre ses instructions exactement, quand je ne peux pas voir plus loin que le bout de mon nez ? ».</p></blockquote>
+<p>Et il termine en citant ce verset : « Jésus, vous ne l’avez pas vu, et pourtant vous l’aimez ; mais en <em>plaçant votre confiance en lui</em> sans le voir encore, vous êtes remplis d’une joie glorieuse qu’aucune parole ne saurait exprimer, car vous obtenez votre <a href="https://agen.umc-europe.org/eglise/faq-spiritualite/plan-du-salut/">salut</a> qui est le but de votre foi » (1 Pi 1v8).</p>
+<p><a href="http://www.liberation.fr/cahier-special/2006/06/27/un-bresil-trop-amen_42712">Lucio, qui a été capitaine de l’équipe de football du Brésil</a>, a dit à propos de la confiance en Dieu : « J’ai trouvé le bonheur et la satisfaction quand j’ai accepté de mettre en pratique ce que dit la Bible : ‘Recommande ton sort à l’Eternel, mets en lui ta confiance et il agira’ » (Psaume 37v5).</p>
+<p><strong>Faire confiance en Jésus-Christ, c’est la décision la plus importante pour votre vie ; mais aussi la plus merveilleuse.</strong></p>
+<p>Jean-Ruben</p>
+<!-- Simple Share Buttons Adder (8.4.11) simplesharebuttons.com --><div class="ssba-classic-2 ssba ssbp-wrap alignleft ssbp--theme-1"><div style="text-align:left"><span class="ssba-share-text">Faites passer le message ...</span><a data-site="twitter" class="ssba_twitter_share ssba_share_link" href="https://twitter.com/intent/tweet?text=Qu’est-ce que le péché ? Ne pas avoir confiance en Dieu (Jean 16v9)&url=https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/&via="  target=_blank  style="color:; background-color: ; height: 48px; width: 48px; " ><img decoding="async" src="https://agen.umc-europe.org/eglise/wp-content/plugins/simple-share-buttons-adder/buttons/plain/twitter.png" style="width: 35px;" title="twitter" class="ssba ssba-img" alt="Share on twitter" /><div title="Twitter" class="ssbp-text">Twitter</div></a><a data-site="facebook" class="ssba_facebook_share ssba_share_link" href="https://www.facebook.com/sharer.php?t=Qu’est-ce que le péché ? Ne pas avoir confiance en Dieu (Jean 16v9)&u=https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/"  target=_blank  style="color:; background-color: ; height: 48px; width: 48px; " ><img decoding="async" src="https://agen.umc-europe.org/eglise/wp-content/plugins/simple-share-buttons-adder/buttons/plain/facebook.png" style="width: 35px;" title="facebook" class="ssba ssba-img" alt="Share on facebook" /><div title="Facebook" class="ssbp-text">Facebook</div></a><a data-site="google" class="ssba_google_share ssba_share_link" href=""  target=_blank  style="color:; background-color: ; height: 48px; width: 48px; " ><img decoding="async" src="https://agen.umc-europe.org/eglise/wp-content/plugins/simple-share-buttons-adder/buttons/plain/google.png" style="width: 35px;" title="google" class="ssba ssba-img" alt="Share on google" /><div title="Google" class="ssbp-text">Google</div></a><a data-site="email" class="ssba_email_share ssba_share_link" href="mailto:?subject=Qu’est-ce que le péché ? Ne pas avoir confiance en Dieu (Jean 16v9)&body=https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/"  target=_blank  style="color:; background-color: ; height: 48px; width: 48px; " ><img decoding="async" src="https://agen.umc-europe.org/eglise/wp-content/plugins/simple-share-buttons-adder/buttons/plain/email.png" style="width: 35px;" title="email" class="ssba ssba-img" alt="Share on email" /><div title="Email" class="ssbp-text">Email</div></a><a data-site="pinterest" class="ssba_pinterest_share ssba_share_link" href="https://pinterest.com/pin/create/button/?description=Qu’est-ce que le péché ? Ne pas avoir confiance en Dieu (Jean 16v9)&media=&url=https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/"  target=_blank  style="color:; background-color: ; height: 48px; width: 48px; " ><img decoding="async" src="https://agen.umc-europe.org/eglise/wp-content/plugins/simple-share-buttons-adder/buttons/plain/pinterest.png" style="width: 35px;" title="pinterest" class="ssba ssba-img" alt="Share on pinterest" /><div title="Pinterest" class="ssbp-text">Pinterest</div></a></div></div><p class="post-tags"><span>Tags:</span> <a href="https://agen.umc-europe.org/eglise/tag/confiance/" rel="tag">confiance</a><a href="https://agen.umc-europe.org/eglise/tag/peche/" rel="tag">péché</a><a href="https://agen.umc-europe.org/eglise/tag/vie-chretienne/" rel="tag">vie chrétienne</a></p>
+<div id="comments" class="comments-area">
+
+	
+		<h2 class="comments-title">
+			2 commentaires sur &ldquo;Qu’est-ce que le péché ? Ne pas avoir confiance en Dieu (Jean 16v9)&rdquo;		</h2>
+
+		
+		<ol class="comment-list">
+					<li class="comment even thread-even depth-1" id="comment-17464">
+				<div id="div-comment-17464" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Araujo</cite> <span class="says">dit :</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/#comment-17464">8 juillet 2017 à 3 h 25 min</a>		</div>
+
+		<p>Merci Jesus pour cette parole</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-17464' data-commentid="17464" data-postid="2986" data-belowelement="div-comment-17464" data-respondelement="respond" data-replyto="Répondre à Araujo" aria-label='Répondre à Araujo'>Répondre</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-77444">
+				<div id="div-comment-77444" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href="http://Amen%20pour%20ce%20message%20plein%20de%20vérité" class="url" rel="ugc external nofollow">Ondo Mve</a></cite> <span class="says">dit :</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://agen.umc-europe.org/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/#comment-77444">16 juin 2021 à 23 h 00 min</a>		</div>
+
+		<p>Amen pour ce message plein de vérité</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77444' data-commentid="77444" data-postid="2986" data-belowelement="div-comment-77444" data-respondelement="respond" data-replyto="Répondre à Ondo Mve" aria-label='Répondre à Ondo Mve'>Répondre</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+		
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Laisser un commentaire <small><a rel="nofollow" id="cancel-comment-reply-link" href="/eglise/qu-est-ce-que-le-peche-pas-confiance-en-dieu-jean-16v9/#respond" style="display:none;">Annuler la réponse</a></small></h3><form action="https://agen.umc-europe.org/eglise/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Votre adresse e-mail ne sera pas publiée.</span> <span class="required-field-message">Les champs obligatoires sont indiqués avec <span class="required">*</span></span></p><p class="comment-form-comment"><label for="comment">Commentaire <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Nom <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required="required" /></p>
+<p class="comment-form-email"><label for="email">E-mail <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required="required" /></p>
+<p class="comment-form-url"><label for="url">Site web</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" autocomplete="url" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Laisser un commentaire" /> <input type='hidden' name='comment_post_ID' value='2986' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></form>	</div><!-- #respond -->
+	
+</div><!-- #comments -->
+			
+			</div><!--article-->
+		</div><!--post-single-->
+				</div><!--post-body-->
+</div><!--content-box-->
+<div class="sidebar-frame">
+	<div class="sidebar">
+			<ul class="link-pages">
+		<li class="next-link"><a href="https://agen.umc-europe.org/eglise/eglise-freres-et-soeurs-de-jesus-famille-dieu/" rel="next"><i class="fa fa-chevron-right"></i><strong>Suivant</strong> <span>L&rsquo;église : les frères et soeurs de Jésus, la famille de Dieu</span></a></li>
+		<li class="previous-link"><a href="https://agen.umc-europe.org/eglise/jonas-refus-de-pardonner/" rel="prev"><i class="fa fa-chevron-left"></i><strong>Précédent</strong> <span>Jonas : Le refus de pardonner</span></a></li>
+	</ul>
+<div id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://agen.umc-europe.org/eglise/">
+				<div>
+					<label class="screen-reader-text" for="s">Rechercher :</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Rechercher" />
+				</div>
+			</form></div><div id="media_video-2" class="widget widget_media_video"><div class="widget-title clearfix"><h4><span>Notre culte en Vidéo</span></h4></div><div style="width:100%;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-2986-1" preload="metadata" controls="controls"><source type="video/youtube" src="https://www.youtube.com/watch?v=crSx0ng7PCU&#038;_=1" /><a href="https://www.youtube.com/watch?v=crSx0ng7PCU">https://www.youtube.com/watch?v=crSx0ng7PCU</a></video></div></div><div id="text-8" class="widget widget_text"><div class="widget-title clearfix"><h4><span>Rejoignez nous sur Facebook</span></h4></div>			<div class="textwidget"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-like-box" data-href="https://www.facebook.com/EgliseAgen" data-width="192" data-height="450" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="false"></div>
+</div>
+		</div><div id="text-6" class="widget widget_text"><div class="widget-title clearfix"><h4><span>Fil Twitter</span></h4></div>			<div class="textwidget"><a class="twitter-timeline" data-width="191" data-height="800" href="https://twitter.com/EgliseAgen?ref_src=twsrc%5Etfw">Tweets by EgliseAgen</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a href="https://twitter.com/EgliseAgen?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @EgliseAgen</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+		</div><div id="text-5" class="widget widget_text"><div class="widget-title clearfix"><h4><span>On parle de nous dans la presse</span></h4></div>			<div class="textwidget"><A HREF="https://agen.umc-europe.org/eglise/presse-eglise-agen/"><IMG SRC="https://agen.umc-europe.org/eglise/wp-content/uploads/2017/06/PresseEgliseAgen.jpg" border=0 alt="On parle de nous dans la presse" title="On parle de nous dans la presse"></A></div>
+		</div><div id="categories-2" class="widget widget_categories"><div class="widget-title clearfix"><h4><span>Catégories</span></h4></div>
+			<ul>
+					<li class="cat-item cat-item-42"><a href="https://agen.umc-europe.org/eglise/category/editorial/">Editorial chrétien</a> (13)
+</li>
+	<li class="cat-item cat-item-40"><a href="https://agen.umc-europe.org/eglise/category/enseignement-bible/">Enseignement biblique</a> (69)
+</li>
+	<li class="cat-item cat-item-1"><a href="https://agen.umc-europe.org/eglise/category/non-classe/">Non classé</a> (2)
+</li>
+	<li class="cat-item cat-item-170"><a href="https://agen.umc-europe.org/eglise/category/predication-bible-audio/">Prédication Audio</a> (56)
+</li>
+			</ul>
+
+			</div>
+		<div id="recent-posts-2" class="widget widget_recent_entries">
+		<div class="widget-title clearfix"><h4><span>Articles récents</span></h4></div>
+		<ul>
+											<li>
+					<a href="https://agen.umc-europe.org/eglise/a-noel-la-grace-de-dieu-a-ete-revelee/">À Noël, la grâce de Dieu a été révélée&#8230;</a>
+									</li>
+											<li>
+					<a href="https://agen.umc-europe.org/eglise/covid-19-3-recommandations-bibliques-tirees-des-proverbes/">COVID-19 &#8211; 3 recommandations bibliques tirées des Proverbes !</a>
+									</li>
+											<li>
+					<a href="https://agen.umc-europe.org/eglise/la-dime-dieu-et-mon-argent-dans-leglise/">La dîme &#8211; Dieu et mon argent dans l&rsquo;église évangélique</a>
+									</li>
+											<li>
+					<a href="https://agen.umc-europe.org/eglise/esaie-54v7-10-rien-ne-pourra-nous-separer-de-amour-de-dieu/">Esaïe 54v7-10 : Rien ne pourra nous séparer de l&rsquo;amour de Dieu</a>
+									</li>
+											<li>
+					<a href="https://agen.umc-europe.org/eglise/renversements-la-reussite-de-lechec/">Renversements : la réussite de l’échec</a>
+									</li>
+					</ul>
+
+		</div>	</div><!--sidebar-->
+</div><!--sidebar-frame-->	</div><!--main-->
+
+	<div class="clear"></div>
+	<div id="footer">
+			<div id="footer-wrap">
+			<div id="footer-box" class="footer-v4">
+	<div class="sidebar-footer">
+		<div>
+					</div>
+	</div>
+	<div class="sidebar-footer">
+		<div>
+					</div>
+	</div>
+	<div class="sidebar-footer">
+		<div>	
+					</div>
+	</div>
+	<div class="sidebar-footer lastone">
+		<div>
+					</div>
+	</div>
+</div>		</div><!--footer-wrap-->
+		</div><!--footer-->
+	<div id="copyright">
+	<div class="copyright-wrap">
+		<span class="left"><a href="https://agen.umc-europe.org/eglise/"><a href="https://agen.umc-europe.org/eglise/copyright-et-informations-legales/">Copyright 2005-2019 Eglise Protestante Evangélique Méthodiste Agen</a></a></span>
+		<span class="right"><a title="Simpleo Theme" target="_blank" href="http://vpthemes.com/simpleo/">Simpleo Theme</a> powered by<a title="WordPress" href="http://wordpress.org/">WordPress</a></span>
+	</div>
+</div><!--copyright--></div><!--grid-container-->
+<!-- YouTube Feed JS -->
+<script type="text/javascript">
+
+</script>
+<a href="#" class="back-to-top"><i class="fa fa-arrow-circle-up"></i></a>
+<link rel='stylesheet' id='simple-share-buttons-adder-ssba-css' href='https://agen.umc-europe.org/eglise/wp-content/plugins/simple-share-buttons-adder/css/ssba.css?ver=1702593894' type='text/css' media='all' />
+<style id='simple-share-buttons-adder-ssba-inline-css' type='text/css'>
+	.ssba {
+									
+									
+									
+									
+								}
+								.ssba img
+								{
+									width: 35px !important;
+									padding: 6px;
+									border:  0;
+									box-shadow: none !important;
+									display: inline !important;
+									vertical-align: middle;
+									box-sizing: unset;
+								}
+
+								.ssba-classic-2 .ssbp-text {
+									display: none!important;
+								}
+
+								.ssba .fb-save
+								{
+								padding: 6px;
+								line-height: 30px; }
+								.ssba, .ssba a
+								{
+									text-decoration:none;
+									background: none;
+									
+									font-size: 20px;
+									
+									font-weight: bold;
+								}
+								
+
+			   #ssba-bar-2 .ssbp-bar-list {
+					max-width: 48px !important;;
+			   }
+			   #ssba-bar-2 .ssbp-bar-list li a {height: 48px !important; width: 48px !important; 
+				}
+				#ssba-bar-2 .ssbp-bar-list li a:hover {
+				}
+
+				#ssba-bar-2 .ssbp-bar-list li a svg,
+				 #ssba-bar-2 .ssbp-bar-list li a svg path, .ssbp-bar-list li a.ssbp-surfingbird span:not(.color-icon) svg polygon {line-height: 48px !important;; font-size: 18px;}
+				#ssba-bar-2 .ssbp-bar-list li a:hover svg,
+				 #ssba-bar-2 .ssbp-bar-list li a:hover svg path, .ssbp-bar-list li a.ssbp-surfingbird span:not(.color-icon) svg polygon {}
+				#ssba-bar-2 .ssbp-bar-list li {
+				margin: 0px 0!important;
+				}@media only screen and ( max-width: 750px ) {
+				#ssba-bar-2 {
+				display: block;
+				}
+			}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://agen.umc-europe.org/eglise/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://agen.umc-europe.org/eglise/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.4.3' type='text/css' media='all' />
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-content/plugins/simple-share-buttons-adder/js/ssba.js?ver=1702593894" id="simple-share-buttons-adder-ssba-js"></script>
+<script type="text/javascript" id="simple-share-buttons-adder-ssba-js-after">
+/* <![CDATA[ */
+Main.boot( [] );
+/* ]]> */
+</script>
+<script type="text/javascript" id="wp-postviews-cache-js-extra">
+/* <![CDATA[ */
+var viewsCacheL10n = {"admin_ajax_url":"https:\/\/agen.umc-europe.org\/eglise\/wp-admin\/admin-ajax.php","nonce":"c855a85df3","post_id":"2986"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-content/plugins/wp-postviews/postviews-cache.js?ver=1.68" id="wp-postviews-cache-js"></script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-content/themes/simpleo/js/custom.js?ver=6.4.3" id="custom-js"></script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-content/themes/simpleo/js/scrollup.js?ver=6.4.3" id="scroll-on-js"></script>
+<script type="text/javascript" id="mediaelement-core-js-before">
+/* <![CDATA[ */
+var mejsL10n = {"language":"fr","strings":{"mejs.download-file":"T\u00e9l\u00e9charger le fichier","mejs.install-flash":"Vous utilisez un navigateur qui n\u2019a pas le lecteur Flash activ\u00e9 ou install\u00e9. Veuillez activer votre extension Flash ou t\u00e9l\u00e9charger la derni\u00e8re version \u00e0 partir de cette adresse\u00a0: https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Plein \u00e9cran","mejs.play":"Lecture","mejs.pause":"Pause","mejs.time-slider":"Curseur de temps","mejs.time-help-text":"Utilisez les fl\u00e8ches droite\/gauche pour avancer d\u2019une seconde, haut\/bas pour avancer de dix secondes.","mejs.live-broadcast":"\u00c9mission en direct","mejs.volume-help-text":"Utilisez les fl\u00e8ches haut\/bas pour augmenter ou diminuer le volume.","mejs.unmute":"R\u00e9activer le son","mejs.mute":"Muet","mejs.volume-slider":"Curseur de volume","mejs.video-player":"Lecteur vid\u00e9o","mejs.audio-player":"Lecteur audio","mejs.captions-subtitles":"L\u00e9gendes\/Sous-titres","mejs.captions-chapters":"Chapitres","mejs.none":"Aucun","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanais","mejs.arabic":"Arabe","mejs.belarusian":"Bi\u00e9lorusse","mejs.bulgarian":"Bulgare","mejs.catalan":"Catalan","mejs.chinese":"Chinois","mejs.chinese-simplified":"Chinois (simplifi\u00e9)","mejs.chinese-traditional":"Chinois (traditionnel)","mejs.croatian":"Croate","mejs.czech":"Tch\u00e8que","mejs.danish":"Danois","mejs.dutch":"N\u00e9erlandais","mejs.english":"Anglais","mejs.estonian":"Estonien","mejs.filipino":"Filipino","mejs.finnish":"Finnois","mejs.french":"Fran\u00e7ais","mejs.galician":"Galicien","mejs.german":"Allemand","mejs.greek":"Grec","mejs.haitian-creole":"Cr\u00e9ole ha\u00eftien","mejs.hebrew":"H\u00e9breu","mejs.hindi":"Hindi","mejs.hungarian":"Hongrois","mejs.icelandic":"Islandais","mejs.indonesian":"Indon\u00e9sien","mejs.irish":"Irlandais","mejs.italian":"Italien","mejs.japanese":"Japonais","mejs.korean":"Cor\u00e9en","mejs.latvian":"Letton","mejs.lithuanian":"Lituanien","mejs.macedonian":"Mac\u00e9donien","mejs.malay":"Malais","mejs.maltese":"Maltais","mejs.norwegian":"Norv\u00e9gien","mejs.persian":"Perse","mejs.polish":"Polonais","mejs.portuguese":"Portugais","mejs.romanian":"Roumain","mejs.russian":"Russe","mejs.serbian":"Serbe","mejs.slovak":"Slovaque","mejs.slovenian":"Slov\u00e9nien","mejs.spanish":"Espagnol","mejs.swahili":"Swahili","mejs.swedish":"Su\u00e9dois","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turc","mejs.ukrainian":"Ukrainien","mejs.vietnamese":"Vietnamien","mejs.welsh":"Ga\u00e9lique","mejs.yiddish":"Yiddish"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.4.3" id="mediaelement-migrate-js"></script>
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/eglise\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.4.3" id="wp-mediaelement-js"></script>
+<script type="text/javascript" src="https://agen.umc-europe.org/eglise/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.17" id="mediaelement-vimeo-js"></script>
+
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Mise en cache de page à l’aide de Disk: Enhanced 
+
+Served from: agen.umc-europe.org @ 2024-02-01 12:23:09 by W3 Total Cache
+-->

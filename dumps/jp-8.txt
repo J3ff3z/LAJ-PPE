@@ -1,12 +1,12 @@
-HTTP/2 200 content-type: text/html; charset=utf-8 date: Sat, 03 Jan 2026
-16:28:49 GMT x-frame-options: sameorigin x-request-id:
-f5f15839-0502-4dd1-9520-4357561ee0d1 server: nginx cache-control: no-store
-set-cookie: dis_session_r=662511101a67aac6d34df198e1c48935c0657d31; path=/;
-expires=Sat, 03-Jan-2026 17:28:49 GMT; secure; HttpOnly x-content-type-options:
-nosniff vary: Accept-Encoding,Accept-Encoding x-cache: Hit from cloudfront via:
-1.1 e62fdd28aecc715b248568cb8338e8a2.cloudfront.net (CloudFront) x-amz-cf-pop:
-CDG50-P4 x-amz-cf-id: BZZ38ZQDCHy0_JQG4FV_xlCVrLGK9UcLc8a4jv72yig_Vl40_AbRxA==
-age: 599 #prev
+HTTP/2 200 content-type: text/html; charset=utf-8 date: Sun, 04 Jan 2026
+17:16:12 GMT x-frame-options: sameorigin x-request-id:
+f3dac931-a382-4300-9d02-e14a9874d657 server: nginx cache-control: no-store
+set-cookie: dis_session_r=ff27db57084b9a3409adcf0df07d0c30d025eb1c; path=/;
+expires=Sun, 04-Jan-2026 18:16:12 GMT; secure; HttpOnly x-content-type-options:
+nosniff vary: Accept-Encoding,Accept-Encoding x-cache: Miss from cloudfront via:
+1.1 aa6aac7d06fbfacc7e809b87e595c5b6.cloudfront.net (CloudFront) x-amz-cf-pop:
+CDG50-P4 x-amz-cf-id: 3PVE3UaiA4z_hCDgjSnJbfcIizVKgoZAqk9yfiAo0rQcqeqOKb3saQ==
+#prev
 
 IFRAME: //www.googletagmanager.com/ns.html?id=GTM-5CGN6D
 
@@ -215,7 +215,7 @@ AI技術ガチ勢の【AI×小説】プロンプト論
 
 生成AI 技術ガチ勢が語る【生成AI×小説】論／那須なすか
 
-★395 創作論・評論 連載中 3話 2025年11月1日更新
+★398 創作論・評論 連載中 3話 2025年11月1日更新
 
 立てよゲルマンの民！ボリシェヴィキを打倒せよ！
 
@@ -227,27 +227,28 @@ AI技術ガチ勢の【AI×小説】プロンプト論
 
 ネクスト掲載小説
 
-図書迷宮と心の魔導書
+装翼のドラグーン　～高校生からはじめる！　移動都市でSF傭兵生活～
 
-その世界では、誰もが神々からただ一つの魔導書を授かる
+地に多脚都市、空に宇宙生物。荒廃した未来を高校生傭兵が駆け抜ける。
 
-図書迷宮と心の魔導書
+装翼のドラグーン　～高校生からはじめる！　移動都市でSF傭兵生活～
 
-いつきみずほ
+天酒之瓢
 
-異世界ファンタジー 連載中 152話 2025年6月26日更新
+SF 連載中 21話 2025年7月9日更新
 
-26話分無料
+18話分無料
+努力無双の転生エクソシスト
 
-勘違い洋ゲーの世界ですが、それでもサムライは最強です。
+血統なし才能なし、ただし最強の悪魔祓い
 
-最強剣技の侍の俺が主君となったからには、異種族少女たちの隠された才能を開花させまくります
+努力無双の転生エクソシスト
 
-千月さかき
+ファンタスティック小説家
 
-異世界ファンタジー 完結済 12話 2025年1月12日更新
+現代ファンタジー 連載中 577話 2026年1月4日更新
 
-2話分無料
+20話分無料
 
 トップページマイページ閲覧履歴新着小説
 

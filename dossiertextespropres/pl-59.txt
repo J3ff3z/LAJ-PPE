@@ -1,7 +1,11 @@
-HTTP/2 200 date: Sat, 03 Jan 2026 16:53:21 GMT content-type: text/html;
-comments AleKlasa » Kanał z wpisami AleKlasa » Kanał z komentarzami AleKlasa »
-Motyw szatana w Biblii i literaturze wieków późniejszych Kanał z komentarzami
-alternate alternate alternate
+
+HTTP/2 200 date: Sun, 04 Jan 2026 17:36:01 GMT content-type: text/html;
+//wp-json/>; rel=" link:
+//wp-json/wp/v2/posts/46652>; rel="alternate";
+type="application/json" link: //?p=46652>; rel=shortlink
+latest posts AleKlasa latest comments AleKlasa » Kanał z wpisami AleKlasa »
+Kanał z komentarzami AleKlasa » Motyw szatana w Biblii i literaturze wieków
+późniejszych Kanał z komentarzami alternate alternate alternate
 
 AleKlasa
 

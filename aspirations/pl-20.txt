@@ -1,24 +1,22 @@
 HTTP/2 200 
 content-type: text/html; charset=utf-8
-content-length: 160506
+content-length: 157996
 server: Ring Publishing - Accelerator
-date: Sat, 03 Jan 2026 16:47:24 GMT
-last-modified: Thu, 30 Mar 2017 08:15:00 GMT
+date: Sun, 04 Jan 2026 17:28:50 GMT
+set-cookie: acc_segment=51; Path=/; Max-Age=31536000; SameSite=None; Secure
+set-cookie: acc_segment_ts=1767547730; Path=/; Max-Age=31536000; SameSite=None; Secure
 vary: Accept-Encoding
 vary: user-agent
 link: <https://ocdn.eu/ucs/static/noizz/371d2a0dcedf2e000316340fba9f5365/build/css/main.css>; rel=preload; as=style
-link: <https://ocdn.eu/ucs/static/noizz/371d2a0dcedf2e000316340fba9f5365/build/css/main.css>; rel=preload; as=style
 link: <https://events.ocdn.eu>; rel=preconnect
 link: <https://ocdn.eu>; rel=preconnect
-cache-control: no-cache,stale-if-error=0,s-maxage=0
-etag: "29-d67156c0fb81f384"
-set-cookie: acc_segment=78; Path=/; Max-Age=31536000; SameSite=None; Secure
-set-cookie: acc_segment_ts=1767458844; Path=/; Max-Age=31536000; SameSite=None; Secure
+cache-control: s-maxage=0,stale-if-error=0,no-cache
+etag: "157996-9a2e565f68889159"
 x-cache: Miss from cloudfront
-via: 1.1 3345a8f17bb96a1199a195b00a8d2c0e.cloudfront.net (CloudFront)
+via: 1.1 127aaaaca740f298a4c887357ec047b4.cloudfront.net (CloudFront)
 x-amz-cf-pop: CDG52-P2
 alt-svc: h3=":443"; ma=86400
-x-amz-cf-id: U2R3gVMZbGjfuDV3XPcQ9fasruvoM40lxZMnhqJsSuC0mka_g-5X-A==
+x-amz-cf-id: f0OlaQkw_FfXwgeussN9h8OoLBc3mdTqMzRzVoFTTG7X4kQdejOldA==
 
 
 
@@ -53,14 +51,6 @@ x-amz-cf-id: U2R3gVMZbGjfuDV3XPcQ9fasruvoM40lxZMnhqJsSuC0mka_g-5X-A==
     </script>
 
     <meta charset="UTF-8"><script>/* <![CDATA[ */ ringDataLayer = {"context":{"variant":{"accelerator":"bm9penoucGw6Om5vaXp6X21hc3Rlci0yLjc5LjU="},"id":{"website":"80da8d80-5da9-4ad9-83c3-f6a6b82d0593"},"publication_structure":{"root":"NOIZZ_PL","path":"BIG_STORIES/ARTICLE"}},"content":{"object":{"type":"story","kind":"article","id":"d923993b-4454-43b1-b149-22d59076c521","license":{"id":"42984f05-3a07-4d40-9553-f856941e7955","name":"Noizz.pl/ produkcje własne"}},"part":1,"publication":{"point":{"id":"yqz79sc"},"source":{"id":"80da8d80-5da9-4ad9-83c3-f6a6b82d0593","system":"ring_website_space"}},"source":{"system":"ring_content_space","id":"f05efb53-98ca-40b8-8d72-77cfb455a240"}},"ads":{"originDomainForTags":true,"network":"1746213","lineitems":[]}}; /* ]]> */</script><script>/* <![CDATA[ */ accConf = {"events":{"endpointPaths":["/a8f4d8cd95e164917035b64b867a45dd"]},"rum":{"tid":"EA-1746213","boot":"disable","cookieInfo":0,"pageType":"HTML"},"das":{"network":"1746213"},"tagManager":{"network":"1746213","pageType":"HTML"}}; /* ]]> */</script><!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-P85JQF');
-</script>
-<!-- End Google Tag Manager -->
-<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"><script>/* <![CDATA[ */ ringDataLayer = {"context":{"variant":{"accelerator":"bm9penoucGw6Om5vaXp6X21hc3Rlci0yLjc5LjU="},"id":{"website":"80da8d80-5da9-4ad9-83c3-f6a6b82d0593"},"publication_structure":{"root":"NOIZZ_PL","path":"BIG_STORIES/ARTICLE"}},"content":{"object":{"type":"story","kind":"article","id":"d923993b-4454-43b1-b149-22d59076c521","license":{"id":"42984f05-3a07-4d40-9553-f856941e7955","name":"Noizz.pl/ produkcje własne"}},"part":1,"publication":{"point":{"id":"yqz79sc"},"source":{"id":"80da8d80-5da9-4ad9-83c3-f6a6b82d0593","system":"ring_website_space"}},"source":{"system":"ring_content_space","id":"f05efb53-98ca-40b8-8d72-77cfb455a240"}},"ads":{"originDomainForTags":true,"network":"1746213","lineitems":[]}}; /* ]]> */</script><script>/* <![CDATA[ */ accConf = {"events":{"endpointPaths":["/a8f4d8cd95e164917035b64b867a45dd"]},"rum":{"tid":"EA-1746213","boot":"disable","cookieInfo":0,"pageType":"HTML"},"das":{"network":"1746213"},"tagManager":{"network":"1746213","pageType":"HTML"}}; /* ]]> */</script><!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -503,21 +493,9 @@ function setSponsoringCookie(event){
 <meta name="google-site-verification" content="EFRpq74IE8K5-yfF_Mxh96_k6u8rq4WVckvP8sb8AWg">
 <meta property="fb:pages" content="415023695371209">
 <meta name="msvalidate.01" content="8C00DBCC884D856B99AFD2BD7A5E3BEB">
-<script charset="UTF-8" src="https://s-eu-1.pushpushgo.com/js/60cc5cd645b12f807f1b9082.js" async></script><meta property="fb:app_id" content="226508470737473">
-<meta name="google-site-verification" content="EFRpq74IE8K5-yfF_Mxh96_k6u8rq4WVckvP8sb8AWg">
-<meta property="fb:pages" content="415023695371209">
-<meta name="msvalidate.01" content="8C00DBCC884D856B99AFD2BD7A5E3BEB">
 <script charset="UTF-8" src="https://s-eu-1.pushpushgo.com/js/60cc5cd645b12f807f1b9082.js" async></script></head>
 
 <body class="detail pl desktop bigStory big_stories" data-run-module="local/main.body" data-page-kind="detail" data-page-type="detailStandard">    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P85JQF"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-<!-- hide partnerPromoImage1 START -->
-<script>const adiURL = document.location.href.includes("e1c5j1g") || document.location.href.includes("gtb03dl");
-if (adiURL) {document.body.classList.add('adiArticle');}</script>
-<style>.adiArticle #partnerPromoImage1 {display: none}</style>
-<!-- hide partnerPromoImage1 END -->    <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P85JQF"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->

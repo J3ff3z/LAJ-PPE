@@ -3,6 +3,9 @@ import nltk
 from nltk.tokenize import word_tokenize, sent_tokenize
 
 nltk.download('punkt')
+nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('omw-1.4')
 
 for dossier in ["dossiertextespropres/", "contextes/"]:
     if dossier == "dossiertextespropres/":
