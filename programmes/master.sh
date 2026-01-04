@@ -37,6 +37,24 @@ while read -r LINE ; do
     NB_LIGNE=$(expr $NB_LIGNE + 1)
     echo "Working on line $NB_LIGNE"
     ASPIRATION="aspirations/$LANGUE-$NB_LIGNE.txt"
+    
+    ROBOTS=$(bahs programmes/robots.sh "$LINE")
+    if [ "$ROBOTS" != "OK]
+        echo -e "\
+            <tr class=\"is-warning\">
+                <td>$NB_LIGNE</td>
+                <td><a href=\"$LINE\" title=\"$LINE\">$LINE</td>
+                <td>ERREUR</td>
+                <td>ERREUR</td>
+                <td>ERREUR</td>
+                <td>ERREUR</td>
+                <td>$ROBOTS</td>
+                <td>ERREUR</td>
+                <td>ERREUR</td>
+                <td>ERREUR</td>
+            </tr>" >> "$SORTIE"
+        continue
+    fi
 
     CODE_ET_ENCODAGE=$(curl -s -L -i -o "$ASPIRATION" -w "%{http_code}\n%{content_type}" "$LINE")
 
@@ -51,7 +69,7 @@ while read -r LINE ; do
                 <td>ERREUR</td>
                 <td>ERREUR</td>
                 <td>ERREUR</td>
-                <td>ERREUR</td>
+                <td>$ROBOTS</td>
                 <td>ERREUR</td>
                 <td>ERREUR</td>
                 <td>ERREUR</td>
@@ -86,7 +104,7 @@ while read -r LINE ; do
                         <td>$ENCODAGE_OU_PAS</td>
                         <td>ERREUR</td>
                         <td>ERREUR</td>
-                        <td>ERREUR</td>
+                        <td>$ROBOTS</td>
                         <td>ERREUR</td>
                         <td>ERREUR</td>
                         <td>ERREUR</td>
@@ -101,6 +119,7 @@ while read -r LINE ; do
     else
         ENCODAGE_OU_PAS="$ENCODAGE"
     fi
+
 
     echo -e "\
             <tr>
