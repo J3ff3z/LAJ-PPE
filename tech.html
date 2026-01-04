@@ -97,13 +97,11 @@
                 <h1>Fichiers robot.txt :</h1>
             </div>
             <div class="message-body">
-                Afin de traiter les différentes autorisations accordées par les sites faisant partie de nos corpus, nous avons dû développer un script gérant les fichier robot.txt. Pour chaque site, 
-                le nom de domaine 
-                a été récupéré grâce à une commande sed, à laquelle nous avons ajouté l’adresse du fichier robot.txt afin de pouvoir le télécharger grâce à la commande 
-                cURL. La suite du script parcours le bloc ”User-agent”, et y récupère les différentes directives. Celles interdisant l’accès ont été stockées dans un 
-                fichier ”url_blacklist”. De plus, afin de ne pas devoir traiter plusieurs fois le même fichier robot.txt, présent notamment lorsqu’un nom de domaine 
-                est présent plusieurs fois dans nos corpus, un fichier temporaire contenant les noms de domaines déjà traité a été créer, afin d’écarter automatiquement 
-                les fichiers déjà traités.  
+                Afin de traiter les différentes autorisations accordées par les sites faisant partie de nos corpus, nous avons dû développer un script gérant les fichier robot.txt. 
+                Dans une première version du script nous procédions de la manière suivante: pour chaque site, le nom de domaine a été récupéré grâce à une commande sed, à laquelle nous 
+                avons ajouté l’adresse du fichier robot.txt afin de pouvoir le télécharger grâce curl. La suite du script parcourt le bloc ”User-agent”, et y récupère les différentes directives. 
+                Celles interdisant l’accès ont été stockées dans un fichier ”url_blacklist”. Dans la version finale du script, nous avons abandonné l'idée d'une blacklist d'url, préférant procéder 
+                url par url en intégrant le robots.sh directement dans le script master.sh  
             </div>
         </div>
     </section>
